@@ -1,0 +1,4393 @@
+                                 
+                                      
+
+                             _____ ____  _____ _______ _____ 
+                            |  __/| |_ |/ |_  \\_   _// ___/
+                            | |   |   _/|  _  |  | |  | |___ 
+                            | |   | |\ \| | | |  | |  | |\_ \
+                            | |__ | || || | | | _| |_ | |__/ >  
+                            \____/|_||_||_| |_|/_____\\_____/ 
+                                             
+
+
+                      __      __   _____  ____  ____   _    _  _    _ 
+                     /  \    /  \ / |_  \| |_ ||  _ \ | |  | || |  / /
+                     |   \  /   | |  _  ||   _/| | \ || |  | || |_/ /
+                     | |\ \/ /| | | | | || |\ \| | | || |  | ||  _ |
+                     | | \  / | | | | | || || || |_/ || \__/ || | \ \
+                     |_|  \/  |_| |_| |_||_||_||____/  \____/ |_|  \_\
+
+
+
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                 FAQ                                                  FOR
+
+
+
+
+
+                                   _      _
+            ____________________  // __  // _____________      /___________    
+            \____  __/ ______/ /_// / /_//_/  ______/ _  \  / //   _______/
+                / /_  ______/ _ _/ / _ _//_  ______/ / \  \/ //   /_____   
+               / / /_______/_/ \_\/_/ \_\ /_______/_/   \___//____, ,   } 
+              /                                               ____ /   /
+                                                            /    {/   /
+                                                            \_______,,   .0
+
+            Written by: Asianskyblue
+      
+            Email: Kyuunull@gmail.com
+                   craig_ster2009@live.com
+
+            Maintained by: Wild Man X (tekkenomics@hotmail.com)
+            Website: Tekkenomics (http://www.tekkenomics.com)
+
+            Version: 1.20
+            Written on: November 25, 2009
+
+
+
+==========================================================================
+                         TABLE OF CONTENTS
+==========================================================================
+
+
+ * VERSION UPDATES
+ * LEGAL STUFF <NEW>
+ * INTRODUCTION
+ * LEGEND
+ * STRENGTH & WEAKNESS
+ * SPECIAL ARTS
+ * THROWS
+ * VALE TUDO STYLE: STANCE & MOVES
+ * THE ESSENCE OF MARDUK
+  - Poking Moves (Better used when turtuling)
+  - Spacing Or Evading moves
+  - CH catchers
+  - High crush
+  - Natural Combos
+  - Whiff Punishment
+  - Tracking moves
+  - Block Punishment
+ * STRATEGIES: WHAT IS MARDUK'S STYLE?
+  - TACKLE
+  - EVADING TACTICS
+  - 3+4~3 & 3+4~4: FASTER WAY TO DO WS MOVES
+ * POKES & MIXUPS.
+  - STANDARD ONES
+  - OTHERS
+  - MISC.
+ * COMBOS
+  - MARDUK SPECIAL:
+ * STAPLES
+ * OKIZEME
+ * TECH TRAPS
+ * ANTI-CHARACTER STRATEGIES
+ * HINTS & TIPS
+ * CLOSING
+ * CREDITS
+
+
+
+==========================================================================
+                          VERSION UPDATES
+==========================================================================
+
+
+ver# - (mm-dd-yy)
+
+0.10 - (07-24-09)  First draft
+
+0.20 - (07-26-09)  Added "VERSION UPDATES" and "LEGEND" sections,
+       and made some minor format changes.
+
+0.30 - (07-27-09)  Fixed some typos and made some minor format changes.
+
+1.00 - (08-23-09)  (See below...)
+
+       - Added a new subsection to "THE ESSENCE OF MARDUK".
+       - STRATEGIES section redone. Now more clear & too the point.
+       - Added few mixups to "POKES & MIXUPS".
+       - Added some new combos, not too fancy.
+         WS+3, 1, 1+3_2+4_f,f+1+2.
+         SSL (f+2), 1, d/f+3,1,2,VTSc, 1,2,VTSc, f,f+1+2.
+       - Added a new section "ANTI-CHARACTER STRATEGIES". Not complete 
+         yet.
+       - Fixed some typos. 
+
+1.10 - (10-12-09)  (See below...)
+
+       -  Added more move description on f+4, u/f+4 in SPECIAL ARTS section.
+          Added move description on d/b+1, 3+4~d/f_d/b in VALE TUDO STYLE:
+          STANCE & MOVES. Silly me, i forgot all this important stuff -___-
+       -  Added more detailed info on SSR, d/b+1+2 in the STRATEGIES section.
+       -  Added a new section "STAPLES" so that people know what juggles are
+          fit for what situation.
+       -  Added f+4 to "OKIZEME" section.
+       -  Added a new section "HINTS & TIPS" for the final advice to the
+          readers.
+       -  "ANTI-CHARACTER STRATEGIES" section updated. Some more characters
+          added: Bruce, Feng, Heihachi, Kazuya, Lee, Paul, Raven, Wang,
+          STEVE!!!
+          Old character strategies updated.
+       -  Finally, organised the faq a bit so that it looks good to read.
+          Now more tidy & good looking than before (Can't stress it 
+          though) =P
+
+1.11 - (10-23-09)  (See below...)
+
+       Legend - Updated "Grounded Positions"
+       Other - Format fixes and changes, other minor changes
+
+1.12 - (10-26-09)  Added "LEGAL STUFF" section
+
+1.20 - (11-25-09)  (See below...)
+          
+        - Corrected a few mistakes in *SPECIAL ARTS* section. The moves
+          updated are: d+1, WS+1+2, d/b+2, d/f+2, d/b+3, d/b+4 plus a
+          few words in the start for a proper beginning.
+        - Updated 1+3 throw in *THROW* section.
+        - Added a new subsection "Tracking moves" to *ESSENCE OF MARDUK*
+          for the people who have troubles against sidestepping opponents.
+        - *POKES & MIXUPS* section updated too. Corrected a mistake about
+          3+4, 1+2. Its guaranteed without a dash when the foe is rolling
+          away from FCD & PLD. Following moves are updated in it:
+          1+3 airthrow, qcf+1, CH d/b+4, 1+3.
+        - A few more juggles added to *COMBOS* section. Decent this time.
+          WS+3, 1, d/f+3,1,2,VTSc, 2, b+1        : 55
+          Added some d/f+3,d+1 juggles on BT opponent with damages this
+          time.
+        - *STAPLES* section updated too. Just a minor addtion.
+        - Added d/b+3 & more info on d/f+3,1,2,VTSc in *OKIZEME* section.
+        - Added some more techtraps which were missing earlier along
+          with basic ones.
+        - MISC. section in the *STRATEGIES* section ended. Instead
+          transferred the info to *HINTS & TIPS* along with other updates.
+        - Added Roger, Jack-5, Yoshimitsu to *ANTI-CHARACTER STRATEGIES*.
+          Minute addition to Devil Jin & Marshall Law. Steve Fox detailed.
+
+
+==========================================================================
+                          LEGAL STUFF
+==========================================================================
+
+You may download and print this FAQ, but under no circumstances can you
+put this FAQ on your web page without our permission.  You MAY NOT ALTER
+IT IN ANY WAY or claim it as your own.
+
+From this point on, I will only be sending FAQ updates to GameFAQs, IGN,
+and Tekken Zaibatsu.  Anyone who has recevived permission to host any of
+the Tekkenomics FAQs also has permission to host any of our future
+text-based FAQs (unless specified), and can obtain updates from any of
+the previously mentioned websites.
+
+
+==========================================================================
+                          INTRODUCTION
+==========================================================================
+
+Welcome to my first ever FAQ on Craig Marduk.
+I've made an attempt to show the people out there *some* of Marduk's
+capabilities. While most of the guys would agree Marduk has the ability
+to beat the crap out of others, there are still some people who think he
+is a linear character to start with.
+
+Some people might wonder why a FAQ on him, now? Well, I can give you
+some reasons:
+
+* There are no other FAQs on Tekken 5 Marduk.
+* Some people may like to know how good or bad Marduk is compared to
+  other characters.
+* Some people seriously want to learn him.
+* I never got to play DR or 6. I'm still playing this game, that's why.
+* etc.
+
+Moreover, Marduk is a very much balanced character to start with.
+He is one of the most powerful characters in the game, if not THE most.
+He can be very tough against most of the tekken cast. He has got some very 
+unique moves which do bother others. You will come to know why am I saying
+so, if you just keep reading. :)
+
+
+My experience with Marduk is casual as this FAQ & the strategies will
+reflect, but most of the shitt I've come upon with came from over 4 years
+of my experience with him. I sincerely hope you'll find some *useful* 
+info for Marduk which you could learn or incorporate in your matches
+too. I'll try to be as practical with it as I can .
+
+Also some veteran Tekken players are behind this who encouraged me to
+write this FAQ.
+
+
+
+==========================================================================
+                            LEGEND
+==========================================================================
+
+The following Legend can be used to describe the notations within this FAQ.
+
+
+------------------
+Commands
+------------------
+
+1     left punch (triangle button)     2     right punch (square button)
+3     left kick (X button)             4     right kick (circle button)
+f     tap forward                      F     hold forward
+b     tap back                         B     hold back
+u     tap up                           U     hold up
+d     tap down                         D     hold down
+d/f   tap down and forward             D/F   hold down and forward
+d/b   tap down and back                D/B   hold down and back
+u/f   tap up and forward               U/F   hold up and forward
+u/b   tap up and back                  U/B   hold up and back
+qcf   quarter circle forward           qcb   quarter circle back
+        (d,d/f,f)                              (d,d/b,b)
+hcf   half circle forward              hcb   half circle back
+        (b,d/b,d,d/f,f)                        (f,d/f,d,d/b,b)
+
+
+------------------
+Notations
+------------------
+
+N      neutral joystick position        SSL    side step (left only)
+SS     side step (left or right)        SSR    side step (right only)
+FC     full crouch position             WS     while standing up from 
+                                               crouch
+WR     while running                    [ ]    optional command(s)
+( _ )  or                               ...    continue infinitely
++      at the same time                 ~      immediately after
+,      followed by                      <      delayed input
+*      press and hold button(s)         =      next in sequence
+:      "just frame" input - button
+         must be pressed on an
+         exact frame number
+
+
+------------------
+Grounded Positions
+------------------
+
+KND/FUFT   knock down (face up / feet towards) <UPDATE>
+PLD/FUFA   play dead (face up / feet away) <UPDATE>
+SLD/FDFA   slide (face down / feet away) <UPDATE>
+FCD/FDFT   face down (face down / feet towards) <UPDATE>
+
+
+------------------
+Throw Types
+------------------
+
+F     front throw
+B     back throw
+L     left side throw
+R     right side throw
+C     crouch throw (from the front on a crouching opponent)
+A     air throw (opponent in the air)
+G     ground throw
+-     -
+
+
+------------------
+Move Properties
+------------------
+
+BT    back turned                      FF    face forward
+RC    recovers crouching initially     RCj   RC joystick modifier
+                                               (hold D or D/B)
+CH    major counter hit                OC    forces opponent to crouch
+                                               (ex. Ganryu - u/f+3+4)
+OS    forces opponent's side to        OB    forces opponent's back to
+        face you                               face you
+        (ex. Hwoarang - CH LFF,b+4)            (ex. Marshall - BT+1)
+JG    juggle starter                   BN     bounce juggle starter
+        (ex. Feng Wei - WS+3)                   (ex. Bryan - b+1)
+BS    block stun - attacking           GB     guard break - defending
+        character has huge                      character takes a step back,
+        disadvantage if blocked                 or their hands are in the air
+        (ex. Marshall - d/b+4)                  (ex. Feng Wei - f+1+2)
+SH    stagger hit - opponent may       DS     double over stun - opponent
+        recover KND in some cases               can tap f to escape
+        (ex. Lei - SS+1)                        (ex. King - CH f,f,N+2)
+MS    minor stun - animations          FS     fall back stun - opponent
+        vary, but usually nothing                can tap f to escape
+        is guaranteed after                      (ex. Bryan - CH SS+1,2)
+        (ex. Nina - b,f+3)
+KS    kneel stun - opponent falls      CFS    crumple fall stun - opponent
+        to one knee, free hits are              slowly falls down, free hits
+        sometimes possible                      are usually possible
+        (ex. Anna - d/f+4)                      (ex. Heihachi - CH b+2)
+CF    crumple fall - opponent          CS     crumple stun - opponent falls
+        quickly falls down, free                down, free hits are usually
+        hits are usually possible               possible (ex. Lee - CH f,f+4)
+        (ex. Roger Jr. - 3+4)
+[x]   hit modifier (ex. CFS[1,2])      #      see footnote (ex. #2)
+b     block modifier (ex. BTb -        c      counter hit modifier
+        character is BT on block)               (ex. BNc - BN on counter hit)
+co    crouching opponent modifier      cco    CH on crouching opponent
+        (ex. SHco - SH on                       (ex. JGcco)
+        crouching opponent)
+cl    clean hit modifier               ccl    CH clean hit modifier
+        (ex. JGcl - JG on a                     (ex. FSccl)
+        clean hit)
+bt    back turned opponent             -      -
+        modifier (ex. JGbt -
+        JG on a BT opponent)
+
+
+------------------
+Hit Ranges
+------------------
+
+h     high (block B or duck)
+H     high, hits grounded
+m     mid (block B)
+M     mid, hits grounded
+l     low (block D/B or jump over)
+L     low, hits grounded
+Sm    special mid (block B or D/B)
+SM    special mid, hits grounded
+!     unblockable
+<!>   unblockable, can be ducked
+[!]   unblockable, hits grounded
+T     throw (duck or input escape command)
+
+
+------------------
+Character Specific (Stances, Special Positions, etc.)
+------------------
+
+LBR   Labyrinth (Raven)                FLA   Flamingo (Baek)
+MST   Mist Step (Lee)                  RKT   Rocket Stance (Roger Jr.)
+HMS   Hit Man (Lee)                    LFF   Left Foot Forward (Hwoarang)
+CJM   Chaos Judgement (Anna)           RFF   Right Foot Forward (Hwoarang)
+LCT   Leg Cutter (Asuka)               LFS   Left Flamingo (Hwoarang)
+HPF   Haze Palm Fist (Asuka)           RFS   Right Flamingo (Hwoarang)
+RDS   Rain Dance (Ling)                SIT   Sit Down 
+                                               (Ganryu & Jack-5 & Kuma/Panda)
+AOP   Art of Phoenix (Lei & Ling)      HBS   Hunting (Kuma/Panda)
+DRU   Drunken Master Walk (Lei)        ROL   Prowling Grizzly Roll
+                                               (Kuma/Panda)
+SNA   Art of Snake (Lei)               FKS   Fake Step (Marshall)
+DGN   Art of Dragon (Lei)              DSS   Dragon Sign (Marshall)
+PAN   Art of Panther (Lei)             DFS   Dragon Fake Step (Marshall)
+TGR   Art of Tiger (Lei)               KNP   Kenpo Step (Feng Wei)
+CRA   Art of Crane (Lei)               JAG   Jaguar Step (King)
+CDS   Crouching Demon (Jin)            FLK   Flicker (Steve)
+MNT   Mount Position (Craig)           ALB   Albatross Spin (Steve)
+RDP   Ready Position (Craig)           LWV   Left Weave (Steve)
+HSP   Handstand (Christie/Eddy)        RWV   Right Weave (Steve)
+NEG   Negativa (Christie/Eddy)         DCK   Ducking (Steve)
+POG   Pogo (Yoshimitsu)                DKI   Ducking In (Steve)
+INS   Indian Sit (Yoshimitsu)          SWY   Sway (Steve & Paul)
+DGF   Dragonfly (Yoshimitsu)           WND   Wind Roll (Julia)
+MED   Meditation (Yoshimitsu)          -     -
+
+
+
+==========================================================================
+                    STRENGTHS & WEAKNESSES
+==========================================================================
+
+Whenever we choose Marduk as a player, a picture that comes to mind is
+an ugly looking, tall & dull guy which is slow & hardly a threat to 
+anybody. But, if you play him seriously, I think you'll certainly gain
+a little awareness of him regarding his style, move properties, etc. I
+think he has some good speed and power to kill even the top tiers if he
+is played correctly. That's why this section is dedicated to his ins &
+outs.
+
+
+
+==========================================================================
+                            STRENGTHS :)
+==========================================================================
+
+1. Tackle: #1 reason to fear Marduk. Can't be reversed, only escaped.^_^
+
+2. He doesn't have a snakedash, crouchdash, etc. BUT, he has:
+   d/b+3+4 (VTS backdash), SS+3+4~3+4~3+4 (sidestep VTS cancel) which is
+   extremely useful.
+
+3. Unchickenable b+1+2 & b+3+4 reversals.
+
+4. Okizeme, not crucial but still above many characters in the game.
+   e.g.tackle
+
+5. Inescapable air throws
+
+6. Wonderful SS game.
+
+7. Good bunch of unreversible moves & they also form a major part of
+   his attacks.
+
+
+
+==========================================================================
+                            WEAKNESSES :(
+==========================================================================
+
+1. Him being so big makes him a soft target. That means he is easier to
+   juggle than any character in the game. What else could be said that
+   every character in the game has a special combo for him. DAMN!!!
+
+2. Not special WS moves, atleast I think so. He should have been
+   given a WS launcher either equal or less than 15 frames.
+
+3. Lack of good damaging mid range whiff punishers.
+
+4. His tracking ability isn't up to mark. He still has difficulty
+   in tracking to his left.
+
+
+
+==========================================================================
+                           SPECIAL ARTS :
+==========================================================================
+
+This move analysis section is just a revised version of my old work on the
+TZ forums. Some move properties rechecked, some new strategies added, more
+detailed throw description now, WS moves grouped in the VTS moves section,
+etc.
+
+
+Before we start, i'd like you to tell you something. The legend above will
+certainly help you in understanding the various moves & conventions but at
+some points you'll come across some terms like okizeme, techroll etc which
+might not be here so i'd like you to familiarize yourself with those terms.
+I'm not going to mention them here. There are many well written faqs for
+that. WildManX's Combo faq is one of them so if you want to aquaint 
+yourself well i'd recommend you to check his faq for that. It's nicely
+written & covers every Tekken terminology you're going to find here. So
+please check it in case you feel like needing it :)
+
+I've listed the moves description like this:
+Move
+Name 
+Hit range
+No damages mentioned, check his movelist for that. 
+
+Let's start it now.
+
+ 
+
+1
+h
+The basic 10 frame jab. It alone cannot do much. since it is 10 frames it
+can be beaten by nearly all 8 framers such as Steve, Feng, Paul, Bryan,
+Kazuya, etc. It is a good setup for jackhammer though. Don't stop here with
+this move alone rather go for the strings that start with it.
+
+
+
+1,2
+One Two punch
+hh
+Basic one two punches. Good for countering in some cases. Can be a good
+setup for JH ( from now onwards jack hammer will referred as JH ). The
+basic 1,2 is uninterruptible. It can replace 2,1 in few cases only such
+as countering Law's f+1+2, Bryan's b+1 because the basic 1 or 2 come out
+equally fast but the 2,1 doesn't end that fast. That's why 1,2 is 
+emphasized. Why take chances.
+Also it tracks fairly well to both sides.
+
+
+
+1,2,f+1
+Elbow Sting
+hhh
+Ok This option after 1,2 is little slow. BUT, it has frame advantage even
+on block!. It's not guaranteed after a CH 1,2. Use it for presurring 
+sometimes, when they are used to 1,2 & try to attack. On hit this move 
+causes a short stun. On CH ( CH here means after whiffed or blocked 1,2,
+then CH f+1 )causes FCD. A d/b+4, u/f+3+4 or a FC,d/f+4 is guaranteed after
+wards. Use it often, if u become predictable, they will start ducking it.
+
+
+
+1,d+2
+Straight Gut punch
+h,m
+A high mid string.A solid poke. Safe on block. Use it to pull Marduk out 
+of tough situations. 1,d+2 can be used in cases where you think they are
+gonna duck the 1. Also 1,d+2 on block has more frame disadvantage than 
+1,2. So try your best to go on with 1,2. But still a safe strategy .
+
+
+
+1,2,3
+Stomach Kick
+h,h,m
+A hhm string. Am not sure wether it hits hits on counter. It is unsafe on
+block, you will eat jabs. Another bad thing I've noticed that when u throw
+that 1,2 & they guessed & duck & even if you know they're gonna do it & 
+you tap 3 afterwards, their WS moves hit nearly all the times. Only use 
+i've seen is it can be used after a wall splat.
+
+
+
+1,2,3,1+2
+TudoNoogie
+hhmh
+Another bad move which has'nt got any use either,IMO. The last head butt
+is unsafe on block & it's a high too. Only use i've seen is after f,f+1(W!)
+this whole string hits. Otherwise don't use it even if sparingly atleast.
+
+
+1,2,3+4~3+4
+VTS crouch cancel
+h,h
+All things same as 1,2 except it has 3+4~3+4 (VTS cancel) extension which
+is the mainstay of Marduk's enormous juggles. Earlier I thought it to be a
+showoff but now I have realized this thing has got its places. The cancel
+itself is safe, no move can touch u. It is a good bait for reversals or
+inviting them to commit some mistakes. You'll know how, keep reading.
+
+
+
+d+1
+Tank Elbow
+m
+A short ranged unreversible & safe mid which puts opponent in FC in all
+situations be it :
+A Block - a d/b+2 is uninterruptible afterwards but i'm not sure wether
+          they can SS it or not. 1+2 is totally UNINTERRUPTIBLE followup.
+On Hit  - a d/b+1 is guaranteed afterwards.
+On CH.
+It's +6 on block! but heavily punishable if whiffed. Also very  good for 
+wakeup games. Plus this move leads to mixups on block, like throws, lows
+etc. More in Pokes & mixups section. In 5.1 the move is +3 on block.
+
+
+
+d/f+1
+Swing upper
+m
+Marduk's uppercut. It comes from his left hand. It launches opponents even
+if they are crouching. A guaranteed move after low parry. Can be used as 
+an interrupter SOMETIMES. Tracks to Marduk's left. This move is also good 
+in the sense after blocking Steve's FLK 1,1,1, 2 this move will launch him
+even from the max range whereas the generic u/f+4 like King's one whiffs 
+from that range. So this move has the upper edge in that respect.Though
+slower only for 1frame than the latter, still holds its own. Finally, if 
+you get this blocked, you'll eat jabs.
+
+
+
+f,f+1
+Blister Elbow
+m 
+This is Marduk's another uppercut launcher coming from his left hand. One
+of Marduk's Half life enders. Tracks to Marduk's left. Safe on block but I
+would say it is slow, can't be used regularly in fast games against 
+8-framers. But can be used to punish them after blocking low hits that 
+stagger the opponent. One more good thing about it is u can dash & delay 
+the 1 & still get the move.
+
+
+
+f,f+1,2
+Blisterknuckle
+mm
+I myself don't use the 2 ender much but you may use it sometimes if ur 
+opponent is used to f,f+1 & is coming charging, otherwise use it often.
+
+
+
+f,f+1,2*
+Delayed Blisterknuckle
+mm
+A uppercut combo. Hold the 2 for making the combo complete. But if the 1
+is blocked, 2 can be interrupted. Not a bad move, i would say, but a bad
+combo.
+
+
+
+d/b+1
+Down jab
+Sm
+A special mid to pull Marduk out of tough situations. A high crush & can
+also be done from d/b+3+4. The fastest move you can use to counter so 
+obviously it can't be underestimated.
+
+
+
+b+1
+Knuckle Dunk
+M
+Another mid which hits grounded opponents too. Marduk lunges back and 
+throws out his left punch. On CH, some good wakeupgames. A most prominent
+juggle ender. Safe on block.
+
+
+
+1+2
+Guard push
+m
+It has good speed. It is 13 frames & 15 on CH. So you have 3 options
+afterwards
+f+1+2
+f,f+2
+d+4
+The f,f+2 does'nt connect sometimes, but you can rely on f+1+2. Use f,f+2
+near a wall. Then go for the ground throw attempt, or d/f+3,1,2,3. It all 
+hits. Use 1+2 for interrupting, but be sure all things can be done against
+it. It can be parried, reversed etc. Full tracking. Use it wisely.
+
+
+
+d+1+2
+Shoulder impact
+m
+This is a move Marduk players can't live without but it's not a high crush.
+It can be used to punish those whiffed jabs e.g.- Paul's 1,2 in which 1
+started far off, but the 2 was to connect, there you can go for this move.
+However, if paul went ahead for the 3 of his 10 strings u might eat it. So
+keep it in mind. You will eat jabs if this move is blocked. 
+Jin can parry it with his b+2+4.
+
+
+
+d/f+1+2
+Tudo Noogie
+m
+This move is a high crush. It stops all short, medium high attacks & 
+creates a short stun. I've myself succeeded in interrupting the opponent
+even at frame disadvantage e.g.- After blocking DJ's 1,1 & he went for it
+again, this move stopped him. Leads to mixups on hit.
+
+
+
+d/b+1+2
+Sway Power Hammer
+m
+As the name implies, this really is a "POWER HAMMER". Has enormous damage
+combos after it. This move has got a ministep to right so  doing a SSR 
+manualy before throwing it out gives better results but be aware that way
+chances are most of the time you'll launch them awkwardly. So be prepared
+for that. Another point about it if you do a SSL instead you'll launch 
+them nicely but this thing should be done rarely & only against chars. who
+have weak tracking to right. The main purpose of this move is evasion so 
+its a part of its turtuling strategy. Also i've seen after 2,1 strings hit
+this move catches them if they try to attack.
+ 
+Hey.., it isn't over yet, this move catches tech to right.i.e., if the 
+opponent is techrolling to his left & Marduk's right. Has got nearly same 
+properties of d+1+2, but is slower & more severly punshable if blocked.
+
+
+
+u/f+1+2
+Mongolian Crush
+h
+Ear slap that causes CFS. Fair speed, but the followups are limited. I
+myself rarely use it.
+
+
+
+f+1+2
+Cyclone knuckles
+h
+This move has only three things good about it
+1> It is guaranteed after a CH1+2
+2> It is very good for punishing opponents
+3> Has got a good, longer range
+It is more punishable if blocked at close range, so I would say use this 
+from a little far so that it just gets connected & you are only little 
+unsafe. It knocks down on CH but I don't know wether a b+1 is guaranteed
+after it or not. Also this move tracks very well both sides.
+
+
+
+WS+1+2
+Quick upper
+m 
+A fast but weak mid coming from his left hand. Short range. Its can be
+a substitute to generic WS+4's which Marduk lacks for punishing the moves
+that are -11 on block & put Craig in FC. It might whiff due to range
+issues. Horrible.
+
+
+
+FC+1+2:b
+Craig horn - Tudo Toss
+m
+An easy JF. Marduk raises his head & throws opponents behind him. Looks 
+like a throw. Looks like a high crush from FC, but I am not sure. You're
+going to see this move many a times trying a sway hammer (d/b+1+2) &
+getting this after messing up.
+
+
+
+2,1
+Kong Combo
+hh
+My favourite string for jab punishing cases. True combo. 2nd hit causes a
+little stun. Very good setup for JH,qcb+1+2,qcf+2,etc. Marduk's 
+positioning is very good after it. Has got frame advantage on block. But 
+in case if it is going to be blocked you need to carefull that 1 of the 
+string can be ducked. If you anticipate they're gonna do it, then do
+
+
+1> 2,1,3,1 Don't move further because more bad things can be done after 
+   this. Strings following it can be reversed, parried, etc & more severly
+   punished on block.
+
+
+2> 2,d+1+2 Can give it a try if they try to duck. I would be prefering it 
+   because it has juggling chances whereas the above ones don't, even if 
+   they are equally jab punishable. But I won't say completely 
+   underestimate the 1> case because if they hit, opponents will stop 
+   definitely in 7/10 cases (I am not a mathematician, lol) then you get a
+   much better chance to land JH or qcf+2. I've seen if 2,1, qcf+2  setup
+   works & you've had success with the mount, it eliminates their nearly 
+   half life bar. So both cases are equally useful.
+
+Otherwise, if they try to move after 2,1 hits & try to get cocky, kill 
+them with, d/b+2, 1+2 etc.
+
+
+
+2,d+1+2
+Hook- Shoulder impact
+hm
+This is not a combo on normal hit neither on counter. So what is it good
+for. You can use it after sidewalking them, yes, SIDEWALKING. One more use
+could be if you started 2 from little far so that it whiffed, & you see 
+them coming charging in, d+1+2 extension might be used. Enough about it.
+
+
+
+f+2
+= 1
+= d+1
+Hammer hook
+hook smash
+h,h
+h,m
+The first hit stuns on counter. It has a nice juggle afterwards. 2nd hit
+stuns regardless, if the first move is blocked or whiffed. Use f+2 with
+little caution because
+
+(1) Alone f+2 is jab punishable on block if you stop there or try to delay
+    the 1
+
+(2) Even if f+2 hits as a normal hit, they can still duck, so mixup with 
+    d+1. But in most cases i've seen if people know that the opponent is
+    good, they don't duck it. But still be careful. Lastly f+2,1 is a 
+    good juggle ender.
+
+
+
+d/f+2
+Gut Punch
+m
+A mid gut punch, fairly fast. Safe on block & leads to mixup on hit. Can 
+be used sometimes.
+
+
+
+d+2,4
+Alligator
+m,m
+A combo which does nice chunk of damage. If the first hits, last hits too.
+Safe on block, even if you stop there. Use it for pressuring sometimes, 
+but u have a better d/b+2 which isfaster also. It's range sucks, sometimes
+the 4 whiffs. But the damage it does is worth it. Also, if in rare case 
+the 2 whiffed & 4 ender connected as a CH, you get a CFS. Same as a 
+CH WS+4, but followups are'nt same. Follow with d/f+3,1 combos. And in 
+case I haven't mentioned, its unreversible too. Good good.
+
+
+
+d/b+2
+Flash Tomahawk
+m 
+A fast mid which short stuns opponents. On counter, a d/b+1 is guaranteed
+after it. A normal hit or block also provides good positioning. It is a
+low crush from close range. It has got a little preference over d+1 also,
+because its fast. A strong part of Marduk's offense BUT the worst part of
+this move--> It doesn't track =(
+
+
+
+b+2
+Rolling Back Chop
+m 
+A mid that tracks to Marduk's left. Stuns on counter, small combos are
+possible from it. A fair whiff punisher & good range. Also, good for
+punishing backrollers. But, jab punishable on block.
+
+
+
+f,f+2
+Elbow Sting
+h 
+Its a high. It KNDs on hit & is UNREVERSIBLE. Use it more often, as it 
+adds an element of speed he typically lacks. According to official sources
+this move is 11 frames but it is almost impossible to bring it out so fast
+This move is also guaranteed after a CH 1+2 & has got a nice property to
+punish after most blocked attacks. It is guaranteed after blocking Steve's
+d/f+1+2. Tracks to Marduk's right.
+
+
+
+SS+2
+Backhand Spin Knuckle
+m
+I would better say it a tech catcher & slight whiff punisher. Good to
+punish those whiffed u/f+4s, Paul's deathfist sometimes ( Although u have
+better options ). Catches backrollers. One good use i've seen , after a 
+WS+4 & they try to move then SSR+2. It will hit them. Otherwise, if they
+stay there, then SSR & do d/b+4. Again only for idea.
+
+
+
+(SLD_FCD)2_d+2
+Wake up hammer_ Wake up sweep
+m_L
+Nothing needs to be told about the FCD one I think. The SLD one has uses.
+The d+2 sweeps the opponent. I don't compeletely know wether combos are
+possible from it. I myself use d/f+4_u/f+3+4 after this. The simple 2 is
+really a wake up hammer, looks much like the d/f+1+2 in the end. 
+Be careful don't get d+2 blocked.
+
+
+
+3
+Hook kick
+h
+The basic high kick. Knocks them down. Unsafe on block.
+
+
+
+d/f+3,1
+m,h
+For this one I won't list the names as they are many of them. 
+Natural combo from mid range. Also good setup for JH(d/f+3,1). You can
+replace the 2 for d+2 also. All other further strings are the same as
+start with 1,2. U can go for f+1 after 2 SOMETIMES for pressuring. Also 3
+after 2 is a combo after a wall splat.
+
+
+
+d/f+3,d+1
+m,m
+This is Marduk's biggy. Launches on CH. The d+1 in the sting itself 
+catches tech rollers & launches on normal hit, even crouchers. One
+situation to show you that d+1 launches them on normal hit: Throw out a 
+f,f+2 so that it hits. Now don't rush, stay there. Throw out d/f+3,d+1 
+slightly delay the d+1. What do you see?
+The d+1 launches them. How? Reasons might be:
+
+ >> Either they were crouching & predicting the 1 to come out. OR
+
+ >> They thought as if 1 was going to whiff, so they rushed in.
+
+ 
+These are the reasons I feel why were they launched. However, you may come 
+across many situations when you will be launching them like this. It 
+proves that d+1 in the string d/f+3,d+1 launches on normal hit too. Set up
+for this move with d/f+3,1. Practice & learn to note the difference 
+between 1 & d+1, so that whenever you see d/f+3 as CH, you can go for d+1
+instead of 1, even if you had predecided to go for 1. Learn to delay 
+between d/f+3 & 1_d+1 a little bit to learn the mixups. I prefer this move
+above f+3, because it is faster. Go for the 2 ender after d+1, only if you
+see it blocked, because d+1 is jab punishable on block. Play with it 
+smartly. 
+
+
+d/f+3,d+1,2
+m,m,h
+Ohh.. I really don't bother about this move anymore now. Reason:
+ >> The last 2 is a high. 
+ >> The last 2 can be SSR
+ >> The last 2 by  is prone to reversals, parries, etc.
+ >> Most of the tekken cast can interrupt the last 2 with jabs after
+    blocking d+1.
+Do you want to know anything else?
+
+
+f+3
+Knee lift
+m 
+Marduk's another move which has got huge combos if it hits as CH. Is 
+slower than d/f+3, but is safe on block. This move pushes back so far that
+you are safe. Use it sometimes for creating breathing room. That far 
+d/f+3,d+1 setup can work after this move is blocked.
+
+
+
+d/f+3,1+2
+Stomach kick- Tudo Noogie
+mh
+I don't use it as often. But has got a use though, use it against 
+characters who try to parry or reverse 1 or d+1 after d/f+3. Mix it up 
+with them sometimes. Whole move hits on CH. Safe on block.
+
+
+
+d_d/b+3
+Step Shin kick
+l 
+It's NOT short ranged. It looks so but actually isn't. Silly me for giving
+wrong information. Also, it is a very important part of his wakeup games.
+Doesn't hit grounded opponents. Mix it up with d+4. Since d+4 cannot be 
+parried, they'll always block it and launch Marduk. Use d/b+3 because if 
+they block it, Marduk eats some WS kicks but will not be launched. 
+Be careful, this low can be parried.
+
+
+
+FC+3
+Low spin kick
+L
+The common low kick every character has except Steve. Not safe on  block,
+but hits grounded opponents.
+
+
+
+(f,f,f_WR)+3
+Bicycle Kick
+M
+Marduk Technical Jumping move. Meaty damage.
+He jumps & hits grounded opponents & crushes lows. However people  never 
+use it for that purpose at least. I have not seen f,f,f, versions good use
+yet. Some times, this move fails to contact also, and gets whiffed. Good 
+use for pressuring sometimes. You may also be floated if your opponent 
+throws jabs.
+
+
+
+3+4 - Regular VTS stance more talks on it in VTS section.
+
+
+
+d/b+3+4
+Backdash VTS
+-
+Marduk's backdash. Its the best evading & spacing move in the game, 
+according to me only, hehe. This is a movement which has to be used 
+regulary. Though vulnerable, but still if used smartly, it can turn tides
+in your favour, atleast I think so. It evades much many moves if timed
+correctly. For instance Bryan's 3,3 - 3,2,1, Hwoarang's 4,4,4, strings, 
+Heihachi's f,f+2. After the dash you have following options which fit as
+the circumstances may be
+
+a) The tackle
+b) d/f+4
+c) f+2
+d) 2
+e) WS+3_4
+
+a) Should be used rarely because major players never allow Craig to mount.
+   Even the spear, I've seen sometimes getting escaped.
+
+b) d/f+4: It could be better pick compared to mount. Good use in those
+   situations like  suppose you are at a slight distance against Marshall
+   that his WS+2 just won't connect. If he tries WS+2 he whiffs and if he
+   goes for FC,d/f,d,d/f+3 (dragonslide)it whiffs too. Punish with d/f+4
+   as it fits best in this situation and opens a chance for some oki.
+
+c) f+2 - I used it sometimes for teasing people after the backdash; they
+   come charging in and eat this move. Also after grounded opponent are
+   getting up and you quickly do VTS+3+4,f+2 they eat this move sometimes
+   , with the fear of f+2 and 2+4 mixups. But, nevertheless, this is not
+   a smart choice at all, as they can interrupt him badly. 
+
+d) The possibility for this move has already been mentioned.
+
+
+e) WS+3 is the perfect followup, though punishable on block, if you are
+   able to make their attacks whiff with d/b+3+4. 
+
+f) WS+4_1 are just for countering.   
+
+If you are just playing defensive and trying to evade them, then do
+SS+3+4~3+4~3+4 after the backdash as the movement and the stance after it
+both are punishable. Also it can't be cancelled by d/f_d/b and 3+4.
+
+
+
+f+3+4
+Alligator Tackle
+m
+Marduks' running headbutt
+Whatever you call it, can be used for pressuring. Sometimes they mistake
+it for a tackle and eat it. After a successful f+3+4, a run up b+1 is 
+guaranteed, even if they tech. You can also try a ground throw if they 
+lie there fore more fruits. A small bad thing about it is it can be evaded
+by SSing & a small good thing about it is it catches tech to Marduk's left.
+
+
+
+(u/b-u-u/f)+3+4
+Gator Stomp
+M
+A slow ground hitting TJ move. Looks dirty, but  Marduk's all about dirty
+games afterall. On block no body is at disadvantage. If they eat hit 
+crouching, you have the following followups
+
+1)f,f+1+2
+2) d/f+1 juggle
+3)qcb+1+2
+4)d+2,4. However, stomp must hit at maxrange for this to work.
+5)f,f+2
+6)d/b+2
+7)d+4
+It also works for tech traps in 5.0 but I haven't heard of any uses still
+in 5.1. This move also works as a fake offense, baiting etc.
+
+
+
+SS+3+4
+Sidestep VTS
+-
+Tap either side u_d for asidestep & then 3+4 to go into VTS stance. 
+Immediate followups are slow. I myself use VTS+3. I don't know why but if
+you do this (SS+3+4,3) all of a sudden, they eat it. Mix it up with 2+4,
+d/f+4,tackle. The tackle option is not for a front attack, but if you SSed
+properly their attacks, you will be behind them. The tackle may turn into
+a spear but atleast you may be sure of mount. This is a  very nice tool to
+avoid opponents attacks. This movement also comes from d+3+4 which is a
+little faster also. but doesn't work from u+3+4. Why? You know well. Don't
+do it blindly, you may be hit during the sidestep.
+
+
+
+SS+3+4~3+4~3+4
+SS VTS cancel
+-
+It is the cancel for the sidestep VTS. It is the greatest part, IMO. In 
+the above part Marduk was vulnerable even after the stance for some time.
+But cancelling it in this way is safe. It is also good to get more fruits,
+since the options are limited with the above. But with this you have more
+stuff to deal your opponent with. Safety issues are same during  the ssing
+as the above.
+These are the following ways to perform it:-
+3+4, SS+3+4~3+4~3+4
+d/b+3+4, SS+3+4~3+4~3+4 
+During tackle run( Before 3 steps), SS+3+4~3+4~3+4
+
+
+4
+Sideswipe kick
+h
+Marduk's magic 4. Creates minor stun on hit. Launches on CH. A f+2+4_f+1+2
+is guaranteed & easy juggle aftewards. You may also try f,f,N+1,2,3+4~3+4
+followps but they are hard to land. You need to react quick & anticipate a
+CH, then only you can do this. Otherwise, rely on the f+2+4_f+1+2 ender.
+
+
+
+b+4
+Bazooka Heel
+h
+It knocks down on hit. Nothing is guaranteed afterwards. BUT this move is
+no giant killer. Stick to its only usual & useful property of whiff 
+punishment & don't look beyond. Also, it's very predictable so people 
+usually don't block it when they know its coming.
+
+
+
+d/b+4
+Leg Scissors
+l
+This move looks like they have tried to give him something like king's
+d/b+4. It is more unsafe on block as compared to king's one because he 
+(Craig)falls KND position. On hit, both will be grounded. A wakeup 3 will
+hit them afterwards but sometimes it might whiff. No problem though. You
+can still block or parry anything they throw on you. 
+On CH this move turns into "Leg Trip Takedown throw", opponent is in FCD
+position with Marduk at their back. More usefull near walls. Good okizeme
+& tackle chances are there rather in open fields. Use it from a little 
+SSR. This move avoids highs at the end but smart opponents can low parry
+it and launch. Also in the initial frames, if they guessed they can throw
+jabs & you will be floated.
+
+
+
+Opponent grounded d/b+4
+Ground Stomp
+L
+Marduk's foot stomp. He performs it when the opponent is grounded. You can
+try it after a successful f+3+4, if they lie there, after various throws,
+mount etc. ( See okizeme section.) Also it comes out after you break a 
+throw or opponents break em. But it is of no use in situations where 
+throws have special break animations. Use it generally after the 1+2 break
+which don't have special break animations. Use it near walls. Just for
+telling its properties.
+
+
+
+d/f+4
+Side Kick
+m
+It is a very slow mid. I think d/f+3,1 is a better option. Also d/f+4 is 
+jab punishable. But still, it has a use. People mistake it for a d/b+3 
+sometimes. It works well when they are getting up from ground.
+
+
+
+d+4
+Knee Slicer
+l
+Marduk's best low. It ducks under high attacks & it is unparryable. Its 
+fast too. 14 frames & -16 on block. Good for oki also. Tracks to Marduk's
+right. BUT, just don't get it blocked.
+
+
+
+FC,d/f_D/F+4
+Gator Sweep
+L
+A long range low that hits grounded.In fact, it is Marduk's longest range
+move. It KNDs on CH, & on regular hit, opens following options :
+- WS+4 Uninterruptible.
+- FC,d/f+4
+- Throws
+  The throws include JH, qcf+2, qcb+1+2, also. How? It is explained 
+  further. Remember, these are just mixups, they are'nt guaranteed 
+  followups. That means they can be blocked & escaped( for throws).
+  But after a CH hit, you have: 
+- FC,d/f+4
+- u/f+3+4
+- FC,d+3
+- Crouch cancel d/b+4
+This low is one of his best. Has got much long range & tracks a bit to his
+right. It also useful for punishing whiffs. If you learn to use it 
+properly, it can win you matches.
+
+
+
+f+4
+Wild stomp
+M
+A mid hits grounded opponents. It has following properties:
+>> It is unsafe on block. ( You will eat a WS+4 )
+>> It is slow
+It has frame disadvantage on hit too, that means you can't keep the 
+pressure going with it. But this move isn't meant to hit standing 
+opponents. Its a part of Craig's strong oki & can be used after a 
+succesful mount, various throws etc. More in oki section.
+
+
+
+u/f+4
+m
+A TJ move which is used for low crush purposes. Heck.. its the only move
+you can rely upon for low crush purposes. The good thing about it is:-
+>> It crushes all types of lows.
+>> Is SAFE on block. Pushes opponent in crouch.
+>> Has a small combo too.
+Earlier i thought it to be nonsense but now i've realized how important it
+is. Use it whenever you feel a low is coming. Its very good against 
+Steve's d+1, Bryan's d/b+3 & similar safe lows so if you haven't been 
+using it just start. It has its places.
+
+
+
+==========================================================================
+                               THROWS:
+==========================================================================
+
+Marduk throw game is good if not great & he is no less than king & Nina in
+this department. He has got two 2 double button breaks, UNCHICKENABLE
+airthrows, 5 single breaks, 2 crouchthrows( Though not so important), & 
+the groundthrows. Good thing about his throw game is you'll be needing it 
+almost every now or then in your game. Most of them also provide very good
+positioning. Lets see them one by one.
+
+NOTE: Sidethrows aren't going up on the list, as I don't know anything 
+special about them. Backthrows will be discussed in brief.
+
+
+[F]+1+3_VTS 1+3
+Rolling splash
+Powerbomb with a rolling startup. Break with 1. Switches sides, wether 
+they eat it or break it. I don't know wether any thing is guranteed 
+afterwards or not, but you can do some mean things if they roll away.
+>> Dash in, f+2+4. YES, it works.
+>> 3+4, 1+2. No dash required.
+Also, this throw is very good to use if they're backed towards walls. If
+you landed it at this particular instant, Craig will be right behind them
+close to their feet from where you can do:
+>> d/b+4      : UNINTERRUPTIBLE. Can only be siderolled.
+>> Groundthrow: They can't sideroll it. Either break it or throw some
+   wakeup kicks but kicks are very rare.
+Since this situation itself is very rare so there are very less chances 
+they will avoid the guessing games. Nice, huh?
+
+
+[F]+2+4
+Knee crusher
+Craig picks opponent up and slams his/her crotch on his knee, very dirty
+hehe. Nothing guranteed afterwards. Switches sides if broken. Break with 2.
+Also, it one of the most escaped throws in the game.
+
+
+
+qcf+1
+Northern lights suplex
+Break with 1. 
+A good throw. If you landed it, go to mount by all means. I use in case 
+where I have blocked something which hasn't got any punishment or if I am
+going for simple throws as such. But given a choice, I'd like to replace 
+it with JH always because JH has only one chance of escaping whereas this
+one has 2 breaking points.
+
+
+
+qcf+2
+Powerslam
+Breakwith 2
+Same properties as qcf+1, but no replacement. That means, you have to be
+careful they don't break it. But I've seen it is not breaked that often as
+the regular 2+4 does. This throw hasn't any replacement but it can be for
+2+4 in few cases. 
+
+
+
+f,hcf+1
+Jack hammer
+Break with 1
+This is the one we have been talking about always. Unlike king's one it 
+hasn't got range & speed, but very good damage & Craig's positioning after
+this throw is also very sweet. Good oki chances afterwards & if they lie 
+there even for a slightest nick of time, go for the foot stomp(d/b+4), it
+hits them. This throw is bufferable a lot & can be setup as after:
+2,1 
+d/f+3,1
+1
+1,2
+1,d+2( Near walls.)
+SS
+After a run
+FC,d/f+4
+A dash
+regular hit f+1+2 ( should be close hit though)
+WS+1
+Basically any move with a forward input can buffer JH. For moves that 
+don't have f input, just tap f after the animation ends & then hcf+1. For
+FC,d/f+4, after the animation just hold D/F for a split second, then hcf+1
+to do JH or you may tap d/f again as soon as the move hits & then hcf+1. 
+Be careful, if you messed up you may come up with WS+1. Same things follow
+for qcf+2 from FC also. You need to do hcf for that too.
+
+
+
+f,f+1+2
+Atomic buster
+Break with 1+2
+Forget about King's GS. This throw is no less than that. Everything's good
+about it. It has double button escape, comes out from a f,f dash so good 
+range & most importantly it JUGGLES. One of the best throws but since it 
+comes out from a dash it has ultracrap escape timing.
+
+
+
+qcb+1+2
+Backfreaker
+Break with 1+2
+This throw doesn't require a dash so a good alternative to Atomic buster
+sometimes. Good damage. Good positioning after it but anythying is 
+guranteed after it or not, I am not sure. This throw is not escaped as 
+much as f,f+1+2.
+
+
+
+VTS+2+4
+Body slam
+Break with 2
+Although this throw has a trickier execution or say it is hard to set, but
+I have seen once you landed it & your opponent tries to move away from 
+Craig, just dash in & tap f+2+4 for a back throw again! Huge damage. This
+trick works with a few WS+3 juggles too.
+WS+3, 1, d/f+3,1,2,3+4~3+4, d/b+4 being one of them.
+Besides the above the opponent is prone to many good wakeup games & oki.
+
+
+
+Airthrows
+F+[1+3]
+F+[2+4]
+f,f+1+2
+
+Airthrows are an important addition to Marduk's juggle game. Their strong
+feature too, is being, UNCHICKENABLE. Here's a quick info about them:
+
+>> The range of airthrows goes on like this:
+   1+3_2+4 --- Same range as Jabs. Does 17 damage.
+   f,f+1+2 --- Longer range than the above ones & does more damage too.(25)
+               You can always replace 1+3_2+4 with this throw in any combo
+               but timing also should be practiced.
+ f+1+3_f+2+4-- Same thing as the first but adding a f increases range of
+               the enders of which f+2+4 has got the longest range. In
+               fact, f+2+4 is the longest range throw in Marduk's arsenal.
+               f+1+3 can be replaced with f+2+4 but f+2+4 cannot be 
+               replaced with f+1+3 in certain situtations.
+               Also, if there's a wall on Craig's right side, go for f+2+4
+               ender. Craig'll throw them into the walls & the damage for
+               the throw becomes 25. You can go for d/b+4 stomp afterwards.
+               It hits them nearly everytime.
+To sum up, the range of airthrows goes on like this:
+ 1+3_2+4 ------ Least
+ f,f+1+2 ------ Medium
+ f+1+3_f+2+4--- Long
+
+Other than this:
+1+3 has got strongest wakeup games compared to others. Opponent is thrown
+into FCD position from where you have many setups. See Pokes & Mixups sec.
+2+4 just looks cool. The opponent is thrown far away from any guaranteed
+wakeup games.
+f,f+1+2 also isn't good in that department. Opponent lies in the SLD
+position from where you can't expect any major strategy.
+
+
+
+d+1+3_d+2+4
+Break 1_2
+They are regular crouch throws. They are  guaranteed after a low parry,if
+d/f+1 does'nt reach properly. Also guaranteed after they tech to their
+right after a wall splat or wall combo. Just ss along with them & throw
+out anyone of your choice. These throws look cool but for the most part u
+can replace them with better moves.
+
+
+
+d/b+1+3_d/b+2+4.
+Break 1_2
+His ground throws have many variants. Some of them form a strong part of 
+his combos. I know each one has a different name, but I don't bother 
+listin them. These throws also catch siderolling opponents.
+
+> Any ground grab from KND, SLD, PLD,or FCD, tosses them in the air. The
+  throw itself is very weak & can be tech rolled. That is why Marduk 
+  players juggle them for more damage . These throws are breakable too.
+
+> Opponents position for this needs to be face down & sideways. Marduk
+  kicks them & they are thrown away far.
+ 
+> Oppoents position for this has to be face up & sideways. Marduk throws a
+  punch & mounts. The chances for these 2 throws to land are very rare but
+  I haven't seen any one of them getting  escaped as often .
+
+
+
+A few words about backthrows. Whenever you get a chance to do a backthrow
+go for the 2+4 (Rolling splash), even though it does less damage than 1+3
+because you get some good chances for wakeup games, I myself use it & 
+after a succesful 2+4 I do a d/b+4, they eat it nearly all the times. You 
+can also land a d/f+3,d+1 if they getup wrong. Since backthrows aren't a 
+thing that will happen every now & then, you can give it a try for d/b+4,
+less chances are they will block it.
+
+
+
+Marduk's reversals 
+
+b+1+2- reverses all high attacks
+b+3+4- reverses all mid attacks
+These doesn't work on head butts,knees, elbows, shoulder push etc. These
+work only on punches & kicks. Greatest thing about them is they're 
+UNCHICKENABLE. Go for the Marduk's reversals only on the following 
+conditions :
+
+> See what you are trying to reverse, can be reversed. It's dead obvious,
+  but sometimes people don't understand.
+
+
+> See that the move you are trying to reverse is punishable on block or 
+  can be avoided by SSing or making it whiff or not. If you can punish a
+  move after blocking or anything more badly, then don't go for the 
+  reversal.e.g._ Laws 4,u/f+3, this move is safe on block  but can be SSR.
+  So reversing here won't be worth the effort.
+
+
+> See that your attempt to do a reversal is successful, or it doesn't 
+  whiffs. Be sure about it e.g; Marshall's f+1+2, Bryan's b+1 etc are 
+  reversible but if you messed up, they will give you what you deserve.
+ 
+
+> Here's a situation: Your tackle is escaped by DevilJin, he throws out
+  WS+1,2 (I don't know its name). Do not try to reverse the 2nd hit. I
+  don't why but i've never been able to do it. Don't try to do this on 
+  similar strings.e.g., Kaz- WS+1,2, Julia's 1,1,1 & moves like that. 
+  However, this is not a problem with other chars. like king, Paul, 
+  Nina etc.
+
+
+> Another situation: You're playing against Law. He throws Junkyard combo
+  (b+2,3,4) for which you weren't ready & you blocked the 3: DO NOT try to
+  reverse the 4 ender. You'll be launched again. Same applies to Lei's
+  4~4,3,3 & similar stuff. It's not impossible BUT hard.
+
+
+Here's a list of some reversal baits:-
+Assume they are blocking each move unless i mention.
+
+d/b+2--> It pushes back & forces crouch on block. So most of the time
+you'll see them throwing a WS+4 or any such move. Dash in & reverse it.
+
+SS+3+4~3+4~3+4--> Assume they break the tackle. You did a d/b+3+4, 1+2.
+They see this & rush to you but you immediately did SS+3+4~3+4~3+4. If 
+they throw any move you, you can reverse it generally.
+
+u/f+3+4--> It gives 0 frames on block. So you can try.
+
+f,f+2--> Only -1 on block.
+Anything else that puts Marduk on even or close to even is preferably is
+used for baiting but whatever that works for you is good. So, moral of the
+discussion is if you see someone annoying you with some unusual moves, 
+don't let it unpunished, wether by blocking them, by making them whiffed 
+or by reversing. Choose the option which does maximum damage according to
+the situation.
+
+
+
+Marduk's tenstrings 
+They are two of them, pretty bad, not much utility, they can be easily
+reversed, parried etc. in between. Only good thing about them the kick 
+ender juggles till the 3rd last move. Also I think the 2nd tenhit is combo
+from behind but I'm not sure...I leave it to readers to find it themselves.
+The starting jabs af the strings themselves are good to stop there as they
+can be used for jab punishment or countering SOMETIMES. Otherwise use them
+very rarely.
+
+
+
+==========================================================================
+                    VALE TUDO STYLE: STANCE & MOVES
+==========================================================================
+
+The stance itself is a ducking animation & goes under highs. Craig is
+vulnerable in the initial frames of the stance, but after going into it
+you can remain there for indefinite period if you don't do anything.
+Since there are certain moves which cannot be done from a d/b+3+4, hence
+they are mentioned with a *. It means you cannot do this move from a
+d/b+3+4.
+You can go to the VTS stance in the following ways:
+  3+4
+  d/b+3+4_SS either side
+  SS+3+4 either side
+  During the tackle SS either side before 3 steps.
+
+From a VTS stance you can do:
+ 
+
+3+4*
+VTS cancel
+-
+It is the cancel for the above stance.Should be done immidiately after 3+4
+(3+4~3+4). During the initial frames of getting into stance, Marduk 
+remains vulnerable for any attacks but if you cancel it in this way you 
+are totally safe. Its more a bait for reversals & turtule block-punishing. 
+
+
+1+2
+Tackle
+Break with 1+2
+The "DREADED" tackle. This is the move Marduk's known for. If there is any
+reason Craig could be cheap for, this is it. This is a move that's abused
+every now & then in Craig's game. If the opponent is turtuling throw it 
+out & see them paying for it dearly, however, the sense to be applied 
+behind it is not to throw it out whenever you feel but when the 
+opportunity says it. This move is good for the following reasons:
+
+>> Can only be escaped, can't reversed. :)
+>> Guaranteed mount from back.
+>> Full tracking upclose.
+>> Also works as a okizeme tool.
+>> You can also ss either side before 3 steps by tapping u_d to get
+   back to VTS stance or SS+3+4~3+4~+3+4 to get back to normal position
+   safely.
+If tackle is done from a distance it turns into spear where Marduk pounces
+over the opponent without that " Grab & Slam " animation. If tackle is
+successful, you get to the mount positon from where you can do:
+ 1, 1+3, 2~1  -----  Break with 2
+ 2, 2+4, 1~2  -----  Break with 1
+ 1+2_3+4      -----  Press nothing or anything except 1 or 2.
+
+You may come to hear about people who are good at escaping mount. The 
+reason this happens, they are good at reading Craig's shoulders. The 
+defense against them is to mix the pro mount followups with 1~2_2~1. Yes,
+they may be good breaking those left & right combinations but this fake
+one works well at high levels. Mixing these two with the other options 
+makes the opponent sweat with the subsequent no. of mounts.
+Remember, however good they may be, if you mixup all the options well you 
+yourself increase the chances you will have success with the mount. Saying
+it all on paper is easy, but implenting it in the games is the real thing.
+Keep practicing it, you yourself will understand the timing for it.
+
+
+WS_VTS+1
+Health Tap
+m
+A mid which comes out reasonable fast. Marduk throws out his left hand 
+which is fast but not strong. Tracks to Marduk's left & is a good setup 
+for JH. This move looks to have limited uses but really isn't that bad. It
+stops any rushing game in its tracks, mostly after evading an attack with 
+d/b+3+4. Plus it can be a safe bait for reversals on hit & block. Its a 
+move for the people who want to play Craig extra safe. Tracks to Marduk's 
+left.
+
+
+WS_VTS+2
+Tornado Chop
+h
+Its high & a litle slow. Tracks both sides. A b+1 is guaranteed after it
+hits.Its best to use after evading any attack with SS+3+4. More 
+possibilities to use it are after a d/b+3+4 (Backdash) when you see 
+Bryan's 3,2,1 or Devil Jin's b,f+2,1,2 of which the 1st hit whiffed or 
+anything like that. Just to give an idea.
+
+
+VTS,f+2
+Power Straight
+m
+A moderate fast mid from VTS. It KNDs on hit. I give it a little 
+preference over VTS+3_4 because
+
+1> VTS+3 is unsafe on block, it is not.
+
+2> VTS,f+2 has a better range than VTS+4 . 
+   But the bad news--> It is slower than both the above.
+
+
+WS_VTS+3
+Raid Kick
+m
+Say it Marduk's launcher from WS as nearly every character has. It 
+launches awkwardly & has crappy combos afterwards. Good in the sense it 
+has got nearly as much range as Jin's WS+2 & is much used after evading an
+attack with d/b+3+4 or SS+3+4 too. Bad thing it is too slow (18 frames) so 
+you won't be able to launch with it after blocking a low or ducking throws
+every time & it isn't guaranteed even after Law's d/b+4, Nina's WTF, 
+Roger's SS+4 etc. They have to be dealt the hard way.i.e, f,f+1 or u/f,N+4
+This move has limited uses as a WS launcher & more for baiting purposes. 
+Also note if you landed it on a BT opponent, you can follow with d/f+1 
+combos.
+
+
+WS_VTS+4
+Kong Knee
+m
+The data for this move says it is 13 frames, so it is a OK fast. But 
+compared to other characters, it is a bit slower e.g. King's one is 11 
+only. It KNDs on hit( with no strong followps) & stuns on CH which give u 
+three options afterwards:
+> f+4
+> A groundthrow ( Breakable)
+> d/b+4
+It is short ranged mid so be carefull, don't get this whiffed. Also, it 
+has no tracking ability.
+
+
+u_d
+Sidestep
+The same thing as you do SS+3+4.
+
+
+d/f+4
+Its FC,d,d/f+4 starting from VTS stance also.
+
+
+d/b+1
+Down jab
+Sm
+The fastest thing from 3+4 & d/b+3+4. The best choice if you feel u didn't
+time the d/b+3+4 right. Stops anything & not much of a worry even if it
+whiffs. Just be careful about hopkicks.
+
+
+d+4
+The generic high crush low kick everyone has, not safe.
+
+
+d+1+3_d+2+4
+The regular crouch throws.
+
+
+d+3
+May be used after evading moves with d/b+3+4, when Craig's back is near 
+walls, sounds stupid but can be handy sometimes. I am not kidding! 
+Can say it a whiff punishment, lol.
+
+
+u/f_u_u/b+3+4
+From the stance, this move works more as a fake offense & invites 
+opponents to commit some mistakes. Other wise properties are the same as 
+the regular ones.
+
+
+d/b+1+3_d/b+2+4
+It can also can be done from a VTS. I've seen when they break the mount &
+I do the tackle & then SS while they stay there on the ground, i landed 
+this ground grab on them. It worked for me sometimes BUT only sometimes.
+
+
+VTS d/f(low parry)* Although the above one works sometimes inspite of the
+fact they can kick Marduk & get away from the situation. For that, u need
+to condition them with a VTS d/f low parry & again with some fake offense.
+This low parry works as the regular low parry.
+
+
+d/f_d/b* 
+Stance cancel.
+The VTS stance can be cancelled in this way & is faster than 3+4~3+4 too.
+Don't believe me. Just try & see it yourselves. More on it in the 
+Strategies section.
+
+
+That's all I know about Marduk's moves. If you know something other than
+this, please drop me a mail. It will be put here. 
+
+
+
+==========================================================================
+                      THE ESSENCE OF MARDUK:
+==========================================================================
+
+This is a quick reminder of Marduk's moves as when to use to get best 
+results:
+
+Poking moves( Better use when turtuling ):
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1,d+2: Best to use, stops any high mid guessing game. Also avoids lows
+       sometimes.
+d/b+1: High crush, short range.       
+d+4  : Although punishable, best low since it avoids highs, fast & 
+       unparryable.     
+f,f+2: Fast & irreversible. Slice of speed in Marduk's game. 
+1+2  : Frames on normal hit & followups on CH. Easy to use.  
+d/b+2: Force crouch on hit & block.                          
+d+2,4: Irreversible & safe. Medium speed.
+
+
+Spacing or Evading moves:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+d/b+3+4: Best spacing tool in the game. Highly abusable
+d/b+1+2: Better to use after ssing to weaker sides of opponents.
+SS+3+4 : Best time to use VTS moves if its done well.
+SS+3+4~3+4~3+4
+       : Craig's best sidestepping move. Safe too.
+
+
+CH catchers:
+~~~~~~~~~~~~
+1+2      : Fast & safe on block.
+4        : Magic 4. 40+ on CH. Safe.
+d/b+2    : Got extra tick damage on CH. Better to use mixups after it.
+f+2      : Medium speed but combos breakable on CH.
+d/f+3,d+1: Massive damage on CH, but jab punishable.
+(d+2),4  : Safe & irreversible. Nice combos.
+d,d/f+4  : Good damage for a low, highly risky.
+f+3      : Safe but slow.
+CH(1,2),f+1
+         : Mostly a pressuring tool, least used for CH hunting.
+
+
+High crush:
+~~~~~~~~~~~
+d/f+1+2  
+d+4      
+d/b+1    
+FC+1+2   
+d,d/f+4  
+d+1+2    : Semi-highcrush, used after frame advantage.
+d/b+1+2  : Mostly after evading their attacks.
+
+
+Natural Combos:
+~~~~~~~~~~~~~~~
+1,2
+1,d+2
+2,1
+d+2,4
+d/f+3,1,2
+d/f+3,1,d+2
+d+1, d/b+1
+f+2, 1  :  On BT opponent only.
+
+
+Whiff Punishment:
+~~~~~~~~~~~~~~~~~
+f,f+2  : Close range.
+b+4    : Close range, only if window is big.
+3+4~4  : Close range, after ducking jabs & throws.
+3+4~3  : Mid range, better after ssing.
+d/b+1+2: Mostly after ssing.
+3+4,2  : Mostly after evading their attacks with d/b+3+4 or after
+         SS+3+4.
+f+1+2  : Long range.
+d,d/f+4: Long range, mostly after evading their attacks with d/b+3+4.
+f,f+1  : Mostly after backdashing their wakeup kicks.
+d/f+1  : Close range.
+Tackle itself.
+
+
+Tracking moves:
+~~~~~~~~~~~~~~~
+It is said that Craig going to have tough time tracking his opponents. Its
+true but he still has a good list of moves that lock the target & they are
+pretty useful.
+This is a small list of moves that track. Not all, some important ones, for
+the people who have troubles against swaying & dancing opponents. 
+If i say Left assume that the move tracks to Craig's left.
+
+1,2      Full  
+
+f,f+1    Left
+=<2      Right
+
+d+1      Left
+
+d/f+1    Left
+
+WS+1     Left
+
+1+2      Full
+
+d/f+1+2  Full
+
+d+1+2    No tracking at all.
+
+d/b+1+2  Full
+
+u/f+1+2  Full
+
+2        Right
+
+FC+2     Full
+
+f+2      Full
+
+f,f+2    Left
+
+d+2,4    Right
+
+d/b+2    No tracking at all.
+
+b+2      Full
+
+WS+2     Full
+
+SS+2     Right
+
+f+3      Left
+
+(d/f+3),d+1 Full ( Only the d+1 tracks.)
+
+WS+3     Left
+
+f+3+4    Left
+
+3+4,1+2  Full (From close range only).
+
+4        Right
+
+f+4      Full
+
+d+4      Right
+
+WS+4     No tracking at all.
+
+b+4      Left
+
+FC,d/f+4 Left
+
+SLD+d+2  Full
+
+SLD+2    Full
+
+
+Block punishment:
+~~~~~~~~~~~~~~~~~
+For this section I'll list the moves in the following manner:
+Moves   Minimum frames required for this move   Move's range.
+        to hit the opponent.
+2,1     -10         Close
+1,d+2   -10         Close
+1,2     -10         Close               
+f,f+2   -12--14     Close--Mid 
+4       -13--14     Close
+f+1+2   -15         Long
+d/f+1   -16         Close--Mid
+b+4     -18         Mid
+d+1+2   -19         Mid
+f,f+1   -20         Mid
+
+Low block punishment:
+WS+1+2  -11         Close
+WS+1_4  -13         Mid
+WS+3    -18         Mid
+d,d/f+4 -19         Long
+
+
+
+==========================================================================
+                     STRATEGIES: WHAT IS MARDUK'S STYLE? 
+==========================================================================
+
+This is the most difficult part to describe. Marduk's game is very 
+versatile. It is mostly centered around turtuling, spacing & baiting. When
+you play him, most of the time your opponent starts attacking, forcing you
+to go into the shell, and it is here that you have to show some skills & 
+get some respect for Craig.
+Before starting it can I expect that:
+>> You know your combos well, do not try what you can't land consistently.
+   Use only those with which you are comfortable.
+>> Learn to punish your opponent's move as badly as you can. Seriously,
+   it can be key to victory sometimes. 
+>> We know Craig is going to have tough time against most of the tekken
+   cast, but you should also not make any stupid mistakes yourselves.
+If the above things are fine with you, this section can help you better,
+although its just for the start. I know that there's always a possibility
+of better things to do but I also hold my own.
+
+Let's start this topic with the move that has made Craig so famous in the 
+game.
+
+                          TACKLE:
+                         =========
+              3+4, 1+2_SS+3+4, 1+2_d/b+3+4, 1+2
+Assume for a while they don't know how to break it, they're just eating it
+whenever it connects. We'll discuss all the possibilities one by one.
+
+
+Round starts, you throw the tackle. What happened? They ate it. Fine. Next 
+time you tried again but they launched you. Why? It's difficult to say
+exactly why but what i've understood is if your opponent is close & 
+Craig's just started for running for tackle, before 3 steps, your opponent 
+throws out any launcher( Mostly less than or equal to 15 frames ), Craig 
+gets launched. Bad, isn't it?
+The defense against it is, as i've understood till now:-
+>> To use tackle after some movements like - d/b+3+4, SS+3+4 etc.
+>> To use tackle after some frame adv.( Frame advantage here means to 
+   throw tackle after moves that hit opponent & he usually does not move
+   .e.g., CH d/b+2, (f+2), d+1, d+1 etc.
+>> As okizeme.
+
+
+Let's start with movement tricks first:-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+>> First of all, i want to repeat something.
+   3+4 & SS+3+4 are vulnerable in the intial frames whereas d/b+3+4 is for
+   the whole animation. Doing a 3+4~3+4 or 3+4~3+4~3+4 ends up the VTS 
+   stance safely( 3+4~3+4 is only for the basic 3+4 stance. For all the 
+   rest you have to do 3+4~3+4~3+4. )
+
+>> During the tackle, craig gets launched if he's started to run or before
+   3 steps. If the tackle is about to end or is going to become a spear,
+   Craig's floated, not launched.
+
+   Here are 2 situations:-
+1) If the opponent is attacking & Craig's turtuling:-
+
+
+>> Do not do 3+4 directly or you may be launched. Your foe will hunt for 
+   things that lead to tackle & similar stuff. If he sees stance or tackle
+   , he'll straightaway rush to you & hit you as both the stance & tackle 
+   are vulnerable in their initial animations.
+
+>> Use d/b+3+4 & d/b+3+4, SS VTSc( From now onwards SS+3+4~3+4~3+4 will be
+   referred as SS VTSc) more often. It fits better in this situation as it
+   is made for making things whiff and evading them. Best in the open 
+   areas. If you did d/b+3+4 without any plans & they rush, do SS VTsc. 
+   It'll save Marduk's BIG ass.
+
+>> Don't use SS+3+4 from close range or you'll end up with the same result
+   as said with 3+4, 1+2. Do SS+3+4, 1+2 only if you really ssed them, 
+   otherwise SS VTSc will end things safely.
+
+>> Use d/b+3+4, 1+2 only in cases where you've evaded the moves that have
+   got slow whiff recovery. If you evade jabs, * magic* 4s & similar quick
+   stuff & throw it out, chances are you may not be launched but still be
+   stopped with quick d+2 & similar pokes. You don't want that to happen,
+   do you? So, just SS VTSc again & giveup the idea for a while. Wait for
+   your chance to come.
+
+
+2) If Craig's attacking & the opponent is turtuling:-
+
+>> It is said that turtules are going to have rough time against Craig but
+   it is not true in all cases. A good turtule knows a Craig player can't
+   live without tackle so he'll sit back & wait for it to come out.
+   So what's the strategy here?
+
+   Again do not do 3+4, 1+2 from close. Do it from a distance so that it 
+   looks like it'll bacome a spear till it connects. If you feel they'll
+   throw something on you during the run, please remember SS VTSc. This is
+   what it is good for. Do SS VTSc before 3 steps & Craig's back to normal
+   again.
+   From here you can -
+
+   Block - punish the move if its unsafe.
+   Reverse it if they throw something safe.
+   Remember, SS to their weaker side or you may be hit during the SS 
+   movement with tracking moves. Just do it 2-3 times with caution to get
+   the feel of their style & soon you'll get rid of those stupid turtules. 
+
+
+Using the tackle after some frame advantage:-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Though most of the time, tackle will come out from d/b+3+4, SS+3+4 etc..
+but you'll come across situations when the opponent is too careful with
+his shot selection & mixes offense with defense well.
+You'll see he'll stop you from throwing a tackle, always. He'll be hunting
+for the VTS and similar stuff that leads to tackle.
+
+So what about them?
+You know there are some moves that cause a minor stun on hit, CH or block.
+Here's a small list:-
+CH d/b+2
+(f+2), d+1
+d,d/f+4
+d+1--> Block or hit
+4
+These are just for example. Let's start with CH d/b+2. You've been knowing
+a CH d/b+2 only guarantees a d/b+1. What if we leave that small tick 
+damage for a while( small damage, nothing to cry about ) & replace it with
+a 3+4, 1+2 as fast as we can. It can work for the first time since they 
+are on the backfoot after eating d/b+2 as CH. In most cases, they don't 
+retaliate. Although they may escape the tackle, but won't interrupt it. 
+They always stay back after eating it. Same applies for other similar 
+moves too.
+Got it? what i'm trying to say? This trick really makes those extra smart 
+players piss too. Try it, it'll work for you too. This is the another 
+thing to be mixed with the movements.
+
+
+Tackle as an okizeme:-
+~~~~~~~~~~~~~~~~~~~~~~
+DEADLY, thats how i describe it. This is an opportunity you simply can't
+afford to miss. Catches backrollers.e.g., after a 1+3 airthrow, they try
+to roll away, just dash in a bit then 3+4,1+2. You'll BT mount them.
+Tackle also catches tech sometimes.e.g., WS+4, They tech--> 3+4, 1+2
+works here. But i still need to find the exact circumstances for it.
+Here's a quick list of the situations where tackle can be used as oki also
+Assume they're backrolling.
+1+3 airthrow                     ---
+VTS 2+4                          ---
+1+3                              --- 
+VTS+2                            --- 
+CH d,d/f+4                       ---
+If they break mount & roll back  --- *
+qcf+1                            ---
+CH (1,2),f+1                     ---
+
+This should give enough idea. Tackle works better after these if there's 
+a wall nearby. For * to work, a wall is a must. However, the tackle can
+be escaped in certain situations.
+                                 
+
+That was all getting tackle connected. But we all know, they aren't going
+to eat it everytime. They'll break it quite a number of times.
+So what's the strategy for this part?
+You might have noticed, if you're playing Craig to a decent level, most of 
+the time tackle is escaped from close range.i.e., if you've just started 
+it & it got connected, they break it. This part of tackle is escaped more 
+than spear. If they break it, they can do quite a few things.
+Remember if tackle is broken, Craig switches sides so don't get confused 
+if camera angle becomes horrible. 
+Here's a list of possibilities:-
+1) They throw a WS+4 which is safe but reversible.
+2) Some lows like d+1, d+4, or pokes which give them frames but if you're
+   careful, they can be low parried or anyhow dealt with.
+3) Throw some slow move or any move which requires a dash to put pressure
+   on you----> Can be backdashed( d/b+3+4).
+4) They sit there & do nothing. Time for you to attack & throw some d+4, 
+   d+2,4, d+1+2, tackle etc. to make them sweat.
+
+Now lets assume you've mounted them. They break the followups. What 
+happened? Craig dismounted. They'd either stay there for a moment or roll
+back. So we'd start with the first possibilty:
+>> They're staying there. You throw a b+1. They either standup quickly & 
+   block it or they do a sideroll & then getup. No results.
+   You try to hit them with a low but they block that too. Sob...
+   
+>> Here's a common mistake most Marduk players committ.
+   The foe breaks the mount.
+   Marduk desperately runs for tackle again. They sideroll or stay there &
+   the tackle whiffs. All this happens, most of the time, when little time
+   is left or they can't think of any other strategy ;__; 
+   The defense against this--> Just be careful when you see mount getting 
+   broken. Even if you throw a tackle, if you're good you can still 
+   SS VTSc before 3 steps & become safe. Trust me, however skilled your 
+   opponent is, he won't live without throwing a kick on you &  from here 
+   tell him who's baited?!!
+
+>> And here's a common mistake your foe will commit, nearly everytime ;P
+   They break the tackle. Craig's dismounted. From here---> Just dash a 
+   bit & do 3+4 then immediately d/f to low parry the wakeup kick they 
+   throw. Its like 3+4~d/f. Got it? Believe me, i've seen this thing 
+   happening with some very good opponents too. If they understand this 
+   trick, just mix it up with 3+4~3+4. It works.
+   
+>> Do some fake offense. Start a tackle from a d/b+3+4. Do the sidestep 
+   from the tackle & do tackle again till you reach close to them & then 
+   immediately do SS VTS cancel. They thought you're close so they'll 
+   immediately getup & throw some kicks on you which you can block. 
+   They're screwed. 
+ 
+>> Next time they are a bit careful now so they stand immediately when 
+   they see the same thing repeating. Its most likely to happen like this:
+   you did d/b+3+4,1+2---(Running) SS VTS, 1+2... They stand up 
+   immediately rush towards you but you cancelled it again. They guessed 
+   wrong 2nd time & throw something which you can still deal with.
+
+These tricks work most of the time if they try to backroll too. Try to mix
+these in this situations & you'll yourself see it working here too.
+On the same topic, ssing right during tackle avoids their wakeup kicks 
+most of the time & chances are you'll get a BT mount!!. Just suppose you 
+ssed during tackle and they throwed the kicks before you cancelled the SS 
+VTS. You'll still evade them. 
+
+Keep mixing them but it may take some time to understand their style. Be
+careful about your shot selection, throwing tackle etc. They can be smart 
+but not too smart for Craig to handle.
+
+
+Lets talk about some stategies after you had sucess with the mount. Lets
+start with 1+3. After this hits you stand on their left with their belly 
+towards you. From here you can try :
+  A d/b+3 as a safe low.
+  A d+4 is also good, it hits them with their back turned if they tried
+  to roll away. Also, it stops any wakeup kicks etc.
+  A d+1 to retain pressure, but can be beaten by the wakeup kicks.
+The list is too long.....anything that works for you is fine. These 
+moves work after successful 1+2,3+4 also.
+
+2+4
+After you had success with this Marduk stands in front of the opponent's
+legs. Here, most chances are your opponent will getup & block anything
+you throw in. I myself like using u/f+3+4 as on block it doesn't give 
+frames & is a good bait for reversals too. There are too many options you
+may use. Keep playing & you'll understand what & when to use.
+
+2~1, 1~2
+These are mostly used followups since they are used much in high level
+matches. Since experts see the 1+3, 2+4 easily this is somewhat hard to 
+guess. After 1_2~1 you stand just next to them on their right side, their
+belly towards you. Similarly with 2,1~2 you're on their left.
+After these you can try d/f+2, almost unstoppable if not guaranteed since
+it is fast & can't be interrupted with wakeup kicks & if they try to roll
+away they'll be eating this BT! Even safe if whiffed.
+Condition them with it & then go for some mixups such as:
+d/b+4-- Most of the time they'll lay there on there on the ground 
+        expecting d/f+2.
+d+1  -- They know they can't interrupt d/f+2, so they'll getup immediately
+        to block it & it's time to throw this out. They block it & most of
+        the time they don't attack afterwards so giving you a chance for 
+        some throw or low guessing games. 
+
+
+ 
+                           ================
+                           EVADING TACTICS:
+                           ================
+                        d/b+3+4_SS+3+4_d/b+1+2 
+
+The reason i've made this section is Craig's movements have a major role 
+to play in his game. You cannot just sit back and wait for them to committ 
+mistakes. You'll have to train them to take chances & it is the area where
+Craig excels. In fact, he also has a good forced tactic game & Craig's 
+movements are made for this purpose. I feel, no other character has got so
+good spacing & evading moves as Craig has.
+
+There are 2 movements & 1 single hitter that work as a base for all his
+evasion & retaliation.
+>> d/b+3+4
+>> SS+3+4
+>> SSR, d/b+1+2
+All of them are equally good, let's discuss them one by one.
+
+>> d/b+3+4
+Ever heard of the phrase *PULL BACK--ACTION*, lol. This is the one.
+Craig backdashes a few steps, stops & remains there for a second or two.
+The whole animation is unsafe along with the movement, but that won't be 
+a problem if you know how to use it.
+This move is used to get away from those tight situations, pitbulls who 
+keep thriving pokes, jabs etc on Marduk plus forcing them to attack on him
+by conditioning them with the fact that Craig is vulnerable during the 
+stance.
+
+The question here will be, how to start with it? Here's an example:-
+Consider you're against Marshall & you're blocking his moves.
+He throws: d/f+1, 1, 1, f+1+2-*
+
+* Indicates the point where d/b+3+4 should be done.
+
+In the above example, he did, d/f+1 then jabs & finally went for 
+pressuring on you with f+1+2 but if you do the backdash exactly at that 
+time you'll make that move whiff & runaway from him. Got it?
+Some similar examples:
+Bryan_Bruce * 3,2,1
+Julia WS+2,*1,1
+Devil *b/f+2,1,2
+
+If d/b+3+4 is done from close to mid range or preferably after a normal
+backdash( b,b,d/b) it works even better.
+Watch out for those long range, fast moves like Bryan's f,f+2, Julia's 
+f+1~3, Steve's f,f+2 etc. These moves are fast plus got range. These moves
+can catch Craig during the run, so beware of backdashing them.
+
+That was all about evasion. Now the question will be how to retaliate?
+I've put some moves here. Not all, only the ones that fit into the 
+situation.
+
+When Craig backdashes an attack correctly, you have:-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1) 1+2:-
+   The obvious choice. Best to use when you're too far that none of your 
+   moves can connect. Also useful, if the camera angle screws you.
+
+2) 3:-
+   Almost a replacement for the above one if Craig isn't too far or say 
+   the opponent's withing the range of WS+3. Works best when-
+ * You're in mid range after evading their attack.
+ * If you've evaded an advancing move or series of moves.
+ * If there is a wall behind Craig. However, this situation can be 
+   dangerous for him too.
+   One of the best retaliating moves.
+
+3) d/f+4:-
+   Everything same as above except this move has got long range. More 
+   useful against Marshall's dragonslide, SLD_PLD Leis etc.
+
+4) 2:-
+   Works strictly when there's a wall behind or when Craig's still close 
+   after the backdash. 
+
+5) f+2:-
+   Only use if you're teasing them. Still safe and sometimes outpriorizes
+   other moves.
+
+
+When Craig backdashes unnecessarily or if they rush towards him.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1) SS+3+4~3+4~3+4:-
+   Needless to say, you'd like to finish things safely if you've any 
+   doubts in mind. Be carefull during the SS movement. 
+
+2) 1_4:-
+   It will stop them most of the time, better throw 1 only because 4 is
+   horrible on whiff & can be ssed either side. If 1 hits it gives you
+   frames!!!
+
+3) u/b+3+4:-
+   Looks stupid but really works in open areas. Evades some chain strings.
+   Another way to endup safely if you're feeling dry.
+
+These are a few possibilities. I don't want to make things long 
+unnecessarily. Start using it & you'll understand the timing for it with 
+experience.
+
+
+>> SS+3+4
+   Looks almost similar to king's SS+2+4, but has got much more utilities
+   than that. First of all, here's a list of various ways to perform the 
+   big VTS sidestep:-
+   3+4,SS
+   SS+3+4
+   d+3+4
+   During tackle ss either way ( Before 3 steps )
+   d/b+3+4,SS
+   
+   You get every move as from the normal VTS. More effective if ssed to 
+   foe's weaker side. It is used for baiting as well as turtuling. From 
+   here you can have following options:-
+1) 3:-
+   Just amazing if u ssed correctly. Even if camera angle confuses you can
+   still launch them nicely.e.g., Marduk's at a distance. He goes into VTS
+   stance (3+4). Heihachi sees this & throws out a f,f+2. Marduk SSLs
+   instantly & throws this move. Heihachi's launched!
+   A 2 will also fit well in this case, but the choice is yours wether you
+   want more or less damage. It's upto you.
+
+2) 1:-
+   In case you ssed from far & didn't cancelled the stance & they rush to
+   you, throw it out. Again it puts a break to their aggression. But don't
+   even think about 4. It whiffs horribly in most cases & what will happen
+   next, I think I need not tell.
+
+3) SS+3+4~3+4~3+4:-
+   Again, a lifesaver. Used in thight situations as well as for baiting.
+   Condition them with it a several times & make them feel that you're 
+   safe after the movement. From here you'll have really good 
+   possibilities. Keep reading!!
+
+4) 1+2:-
+   Yeah! Now you've got them. After you made them understand that SS VTSc 
+   is safe, they won't rush to you, so you've getting a chance. Keep 
+   dancin & throw this baby out from time to time to see them pissing. 
+   Really works! But be aware you don't do the movements  too close or 
+   you'll be sorry at the end of the day.
+
+Besides this also use reversals, pokes such as 4, d+4, d+1, d/b+2, f+1+2 
+etc after the cancel to keep them guessing.
+Also it is not necessary always to so SS+3+4 stuff only. The main thing 
+is the sidestep movement that you can get in various ways. All the ways
+mentioned earlier to do SS+3+4 have the same purpose plus can be cancelled
+by SS+3+4~3+4~3+4. Keep playing with it to know how good this movement is!
+
+
+>> SSR,d/b+1+2:-
+Though most people will complain that its unsafe, i say it isn't that bad.
+Its -20 on block, but it looks worse only on paper. Since it pushes so far
+on block it isn't easy to punish Craig after this. Only really long range
+moves will catch Marduk after this. Even the Mishimas have troubles
+punishing him with a EWGF. So don't be afraid to use it from time to time.
+But then the question is how to use it? First of all, what this move's 
+good for:-
+
+1) Has a ministep to right during the animation.
+2) It can have amazing priority over opponent's attacks if you time it 
+   right by bringing it out of a SSR.
+3) It pushes BACK on block, not easy to punish.
+
+This move can evade jabs and most mids if you do it correctly. You don't
+even need a big ss for it to work. A brief ss to right can be good too.
+Marduk seems to avoid them & sends them up in the air. The only drawback 
+is you may launch them off axis most of the time. That will not be a 
+problem if you know the combos. Some of them are:-
+d/b+1+2, U/F+4, d/f+3,d+1,2       : 70 
+Easy & damaging. My favourite if they are launched off axis.
+d/b+1+2, U/F+4, d/f+3, 1, f+2+4   : 74 
+Another good combo to start with. Good thing about both of these is you 
+can easily change the ender by judging wether they're launched properly 
+or not.
+
+This move can be used after a SSL too, but this way you're sacrificing its
+evading property. SSL is used against those characters who have weak
+tracking to their right. One good thing about SSL is you can be sure of
+launching them nicely. Here's a list of possible situations which can
+provide you the opportunity to do SSR, d/b+1+2.
+Unless i say, assume the following moves to be getting blocked. Just SS
+after them & throw it out:-
+d+2,4
+f,f+2
+4
+f,f+1
+1+2
+WS+1
+WS+3. If they don't punish it.
+f+1+2--> Normal hit.   *
+d+4----> Normal hit.   *
+During tackle,SSR+3+4~3+4~3+4
+1,2
+f+2,1
+* f+1+2 & d+4 do not provide frames on hit. :(
+
+If you haven't understood it yet, have a look at this:
+Craig throws--> d+1, SS+d+1, SS+d+1, d/b+2. A turtuling opponent blocks
+all of them. When you keep throwing these things that keep you in even,
+he'll certainly frustrate & throw a WS+4_d+2. From here rush and do:
+* A low parry if he becomes predictable with d+2.
+* SSR, d/b+1+2. Yes, it can evade those *EXTRA* safe generic WS+4s too!
+  Believe me, i've stolen many matches with this.
+Still not getting my point? See these:
+
+Devil hits you with a CH b,f+2,1,2 of which you escape the stun by
+tapping f & block the last 2. Then you rush to him. He throws a 1,1_b+4
+but you do SSR, d/b+1+2. Devil's ass launched!!
+
+You hit your opponent with a d+4. He knows Craig doesn't have any frames
+after it & tries to counter you with a *Magic* 4, d/f+4 etc but you do
+SSR, d/b+1+2 & he's launched.
+
+You hit your opponent with a 2,1. Then you try to do qcf+2 but you mess
+up & d/f+2 comes out. Opponent sees this & rushes towards you but again
+the sway hammer comes out ;P
+
+ 
+As you can see, the emphasis is on throwing this move after getting a
+move blocked, more preferably the ones that don't give frames so they
+attack after blocking them & you sidestep & punish =P. Just don't make
+a pattern or they'll understand it. 
+
+
+ 
+d/b+1+2 is also helpful after quickrolling. Just getup from the ground ss
+to the side you tech (preferably to your right), then bring it out. It 
+works sometimes. Do it as: Quickroll to right--SSR,d/b+1+2.
+
+This is another move besides those movements which is used atleast once in
+a  round. If you haven't started to use it, just do it to see the 
+difference this move can create.     
+
+
+ 
+3+4~3 & 3+4~4: FASTER WAY TO DO WS MOVES:-
+=========================================
+Did you knew about 3+4~3 & 3+4~4? Well, most of you certainly would be
+knowing. It is a faster way to do WS moves. The 3+4~3 has the use in the 
+case of tech traps whereas 3+4~4 is used for offense purposes. First of
+all how to do it. Its not complicated. As the command implies, you have
+to do it as fast as you can. The faster you do it, the better you've 
+learnt it. The best way to check wether you've learnt it or not is by 
+trying this combo: u/f+4, 3+4~4. If you're able to do it, you've learnt it
+a bit.
+The less you see the stance animation, the better you're doing it.
+
+3+4~4: is useful for offense purposes, CH hunting. If you mastered this,
+       you'll certainly have an edge in your offense game. Since it is 13
+       frames its good for practicing. Also it is useful for punishing 
+       close whiffs.Keep practicing.
+
+3+4~3: It has its use in various tech traps situations, big whiffs etc.
+       Also used to punish a move which has got slow recovery after
+       backdashing it.
+
+
+However, these moves aren't too practical. Most players do not incorporate
+these in their matches. Keep practicing them & use them only when you are
+too confident with Craig. You can still play good if haven't mastered them
+but they are a bonus skill which can be seen in matches.
+
+ 
+More I'll add as ideas come to mind. It isn't easy to put everything in
+words. I know people don't like to see things too long. For that reason
+I've also made a pokes & mixups section. See it & tell what are the things
+still to be added. :)
+
+
+
+==========================================================================     
+                           POKES & MIXUPS:
+==========================================================================
+
+Saying Marduk is a turtule it doesn't mean that he cannot poke. Given a
+chance he can poke to a degree which is above many others. First of all
+here's a list of moves that come to mind when switching to offense with 
+him.
+ : 1,d+2
+ : d+4
+ : d/b+2
+ : 1+2
+ : Tackle itself.
+ : Throws.
+That is only for an idea, these things come to mind when we try to counter.
+But if we try to see in depth, Marduk too has got many options to be 
+called as his mixups.In the following list unless i mention assume the 
+moves to be hitting them. If I say a move is blocked I'll put a [B] after
+that particular move. I've made the list containing the only moves that 
+work for me, but I'm pretty sure they will work for you too if you haven't
+played Marduk yet or if you haven't used them in matches. 
+
+The list is like this
+Any move=( Equal to shows options we're going to have after the move hits
+or is blocked.) Mixups which are combined together.e.g., f,f+1_2. The 
+sense here is to throw out f,f+2 as much as you can till they duck, then 
+when they become predictable throw a f,f+1. Since f,f+2 is fast, safe on 
+block, & UNREVERSIBLE, you can abuse it to a level.Here these moves are 
+grouped because they look more appropriate to use after a dash. You can 
+yourself understand by looking at the groups. So, here we have them...
+
+
+STANDARD ONES.
+~~~~~~~~~~~~~~
+ 
+ 1,d+2=
+ d/b+3_d/f+3,1,2
+ f,f+1+2_f,f+2_f,f+1
+ d/b+2
+ qcf+1_2, qcb+1+2 or any throw that works for u.(Only when their back
+               is near walls)
+
+ 2,1=
+ qcf+1_2_qcb+1+2
+ 1+2_d/b+2
+ d+1
+ d/b+3_d/f+3,1,2
+ d+1+2_d/b+1+2(It becomes high crush after a +5 frame adv.If they try to
+               retaliate with jabs after predicting your throws. d/b+1+2
+               also works the same.Use it less often)
+
+ 1,2=
+ f,f+1+2_f,f+2_f,f+1
+ d/b+3_d/f+3,1,2
+ 3+4,1+2
+ 3+4,d+4
+
+ d+1 [B] or hit=
+ d/b+1(After hitting them with d+1,guaranteed)
+ d/b+2(Uninterruptible)
+ Throws(qcf+1_2,qcb+1+2 or anything.)
+ Any low
+ 
+ CH d/b+2=
+ d/b+1(Guaranteed)
+ d+4_d/b+3
+ Tackle
+ Throws
+
+ f+2=
+ 1_d+1
+ Throws
+ d/b+3
+
+
+ Whiffed f+2, d+1=
+ Throws
+ d/f+3,1..
+ d/b+3
+ 1+2
+
+ 4=
+ d/b+3_d+4
+ Tackle
+ Throws( Only if their back is near walls)
+
+ d/f+3,1=
+ 2_d+2   ( I generally emphasize not going for 2_d+2  because of frame
+          advantage )
+ Throws
+ SS+3+4,3_SS+3+4~3+4~3+4 or anything after they try to retaliate after 
+          predicting your throws. Works most of the time.  
+ 2,3+4~1+2 ( For fun...)
+ d/b+3_d/f+3,1,2
+
+ FC,d/f+4=
+ WS+4 ( Uninterruptible )
+ Another d,d/f+4
+ WS+3
+ Throws( Including qcf+1_2, qcb+1+2,JH)
+
+ NOTE: In above throws you can replace qcf+1 with JH for
+       guaranteed damage & more oki opportunities.
+
+
+ OTHERS:
+~~~~~~~~
+ These mainly include the ones that knock them down. The main emphasis of
+ this section is to train them to eat the guaranteed followups then going
+ for the mixups next time. Also, I won't mention the condition for a same
+ mixup everytime. You'll understand yourself as you'll see.
+ Remember, these are ONLY mixups, won't work everytime.
+
+ CH d,d/f+4=
+ CC, d/b+4     ( Guaranteed)
+ d/f+3,d+1     ( If they try to get up in a panic.)
+ 3+4,1+2       ( If they try to roll away. You'll land a BT mount
+                 most of the time.)
+ d+1           ( If they try to get up in a panic. I don't need to
+                 tell what you should do next.)
+ dash f+2+4    ( If they try to roll away.)
+ 
+ 1+3 airthrow=
+ d/f+3,d+1
+ d/b+4         ( Can only be siderolled.)
+ Ground throws ( Can't be escaped by siderolling.)
+ 3+4,1+2       ( You'd land a BT mount most of the time. Only if
+                 they try to roll away.)
+ dash 3+4,d/f+4( Same as above.)
+ dash f+2+4    ( Only if they try to roll away.)
+
+ qcf+1=       (I'm not putting the guaranteed mount followup after this.)
+ f,f+3+4      (Only if they try to roll away from Marduk. Take it as
+               guaranteed. Really works. Its still safe to try it once,
+               even if they stay there or roll sideways you won't 
+               recieve any wakeup hit as guaranteed.)
+  3+4,1+2     (Same as above execpt the safety issue. You know how
+               it feels when a tackle whiffs.... hehe.)
+ dash f+2+4   (Unconfirmed )
+ d/f+3,d+1
+ 
+ CHd/b+4=
+ f+2+4
+ f,f+3+4      (Only against Marduk.)
+ 3+4,1+2      (Only if they try to roll away.)
+
+ 1+3_F+1+3=
+ 3+4,1+2      (Only if they try to roll away.)
+ b+1          (Unconfirmed, tried it against Asuka & worked for me.)
+ d/f+3,d+1    (Only if Marduk's back is near walls.)
+ dash f+2+4   (Only if they try to roll away.)
+ d/b+4        ( If throw is done when their back is close to walls.
+                UNINTERRUPTIBLE but can be siderolled.)
+
+ MISC.
+~~~~~~
+ These only give you an idea about how a move has most chances to work.
+ Don't try them too often or you'll be predictable.
+
+ * After you are getting up & teching to your right :
+   SSR, d/b+1+2
+
+ * SS+3+4,3
+   Works mostly if you haven't used it before. Use it in every 2-3 rounds
+   to not getting predictable. I don't understand why but they eat it 
+   nearly most of the time. You can use it even if you really ssed them,
+   the combos still work fine. From back use any d/f+1 combo after 
+   launching them with it. NEVER try to use ss+3+4,4, you will be 
+   whiffed MOST of the time. Instead you can use 1 after ssing if you 
+   want to go safe.
+  
+
+  * If they turtule too much, go for a little offense:
+   d+4, d+4, d+4_d+1+2
+   I assure you it works . Mostly when there is only little time left  OR
+   You have only little health left. You see, you have nothing to lose
+   from here. Either you'll eat jabs or you'll be launched, either way 
+   you're going to lose, then why not try it out?
+
+
+
+==========================================================================
+                                 COMBOS:
+==========================================================================
+
+What a fighter is without his proper set of combos? So here we have them.
+Most of the combos have been taken from the TZ forums--Craig combo thread.
+Apart from these others have been put from various vids which I saw. Most
+of them are self explanatory besides a few which have a spcial note 
+besides them.
+Other than that for combos where ?? is mentioned, means damage is unknown
+at the moment, will be fixed soon.
+They are like:
+
+Juggle starter
+= juggles        damage       Notes if any. 
+In the following combos 3+4~3+4 will be referred as: VTSc
+
+
+
+f,f+1+2
+
+= SSR d/f+3,1,2, VTSc, d/f+3,1,2, VTSc, b+1 : 78
+= SSR d/f+3,1,2, VTSc, 1,2,VTSc, 1,2,VTSc, b+1  : 78
+= SSR_SSL d/f+3,1,2, VTSc, 2,d+1+2          : 69     (1)
+= SSL d/f+3,1,2, VTSc, 1,2,f+1              : 70
+= f,f,N, d/f+3,1, d/f+3,d+1, b+1            : 69
+= d/f+3,d+1, 1,2, b+1                       : 66     (2)
+= f,f~N+3+4,1, d/f+3,1,2,f+1                : 66
+= f,f~N, d/f+3,1, d+2,4                     : 64
+= d/f+3,d+1, 2, b+1                         : 63
+= SSR d/f+3,1,2, VTSc, d/b+4                : 62
+= (2), 1,3,1,2,1,4                          : 58
+= f,f+1,2                                   : 56
+
+(1)  Easier from SSR
+(2)  Works before or after they bounce off the ground.
+
+
+d/b+1+3_d/b+2+4
+
+= U/F,4, 1,2,VTSc, 1,2,VTSc, f,f+1+2        : 60     (3)
+= U/F,4, d/f+3,1,2,VTSc, f,f+1+2            : 60     (3)
+= U/F,4, 1,2,VTSc, f,f+1+2                  : 51
+= U/F,4, 1,2,VTSc, 1, f+1+3                 : 45
+= f,f,N+2, d/f+3,1,2,VTSc, f,f+1+2          : 59
+= df+3,d+1, ff+1+2                          : 43
+= 2, df+3,1, f+2,1                          : 42
+= U/F,4, 1, f+2,1                           : 42
+
+(3) Ground throw must hit opponents feet.
+
+
+f,f+1
+= 4, f,f,N+1,2,VTSc, 1,2,VTSc, f,f+1+2      : 78
+= d/f+3,1,2,VTSc, 1,2,VTSc, f,f+1+2         : 76    (4)
+= d/f+3,d+1, 1,2,VTSc, f,f+1+2              : 73  
+= d/f+3,1,2,VTSc, 1, f,f+1+2                : 70    (4)
+= d/f+3,1,2,VTSc, 1, f+2,1                  : 67    (4)
+= d/f+3,d+1, 1,2,VTSc, 1, f+2+4             : 68
+= d/f+3,d+1, f,f+1+2                        : 64
+= d/f+3,d+1, 1, f+2,1                       : 64
+
+(4) Slightly delay d/f+3 to avoid whiffing the 2.
+
+
+d/f+1
+= 1,2,VTSc, d/f+3,1,2,VTSc, f,f+1+2         : 68
+= 2, d/f+3,1,2,VTSc, f,f+1+2                : 66
+= 2_1, d/f+3,1,2,VTSc, f,f+1+2              : 61_57
+= 2, d/f+3,1, f,f+1+2                       : 60
+= 2, 1,2,VTSc, 1, f,f+1+2                   : 60
+= 1,2,VTSc, 1,2,VTSc, f,f+1+2               : 59
+= 1,2,VTSc, 1,2,VTSc, 1, f+2+4              : 54
+= 2, d/f+3,1, f+2,1                         : 57
+
+
+WS_VTS+3
+= 1, 1,2,VTSc, 1,2,VTSc, 1,2,VTSc, b+1      : 58
+= 1, d/f+3,1,2,VTSc, 2, b+1                 : 55
+= 1, d/f+3,1,2,VTSc, 1, b+1_d,d/f+4         : 52
+= 1, d/f+3,1,2,VTSc, d/b+4                  : 51
+= 1, d/f+3,1,2,VTSc, d+4                    : 48
+= 1, d/f+3,1,2, b+1                         : 49
+= 1, d/f+3,d+1,2                            : 47
+= 1, d/f+3,1, d+1                           : 43
+= 1, 1+3_2+4_f,f+1+2                        : 39_47
+
+
+CH d/f+3,d+1
+= d/f+3,1,2,VTSc, 1,2,VTsc, f,f+1+2         : 88
+= d/f+3,d+1, 1,2,VTSc, f,f+1+2              : 85
+= d/f+3,1,2,VTsc, 1, f,f+1+2                : 82
+= d/f+3,d+1, 1,2,VTSc, 1, f+2+4             : 80
+= d/f+3,1,2,VTSc, 1, f+2,1                  : 79
+= d/f+3,d+1, f,f+1+2                        : 76
+= d/f+3,d+1, f,f+1+2                        : 76
+= d/f+3,1,2,VTSc, 1, b+4                    : 72
+= d/f+3,1,2,VTSc, 1, d/b+1+2                : 71
+
+
+d/f+3,d+1 (When opponent is backturned)
+= 2, d/f+3,1,2,VTSc, 1, b+1                 : 68
+= 2, d/f+3,1,2,VTsc, d/b+4                  : 67
+= 2, d/f+3,1,2, b+1                         : 65
+= 2, d/f+3,d+1, 2                           : 63
+= 2, d/f+3,1, d+1                           : 59
+
+
+CH 1+2
+= f+1+2                                     : 21
+= f,f+2                                     : 21
+= d+4                                       : 16
+= f+1+3_2+4                                 : 35   (5)
+
+(5) f+1+3 works only when Craig is on right side.
+
+
+u/f+1+2
+= d/b+1+2                                   : 49
+= f,f+1,2                                   : 47
+= d/f+2, d+4                                : 38
+= d/f+1+2                                   : 37
+= f+4                                       : 33
+
+Vs Jack, Kuma/Panda, Marduk, King follow with d/f+3,1_d/f+3,d+1 combos.
+d/f+3,1_d/f+3,d+1 must be delayed against Marduk & King.
+
+
+d+1+2
+= 1,2,VTSc, d/f+3,1,2,VTSc, f,f+1+2         : 77
+= 2, d/f+3,1,2,VTSc, f,f+1+2                : 75
+= 2_1, d/f+3,1,2,VTSc, 1, f+2+4             : 70_66
+= 2, d/f+3,1, f,f+1+2                       : 69
+= 2, 1,2,VTSc, 1, f,f+1+2                   : 69
+= 1,2,VTSc, 1,2,VTSc, f,f+1+2               : 68
+= 1,2,VTSc, 1,2,VTSc, 1, f+2+4              : 63
+= 2, d/f+3,1, f+2,1                         : 66
+
+
+d/b+1+2   NOTE: SSL is not always necessary.
+
+= U/F+4, f,f,N+1,2,VTSc, 1,2,VTSc, f,f+1+2  : 88
+= SSL,4, f,f,N+1,2,VTSc, 1,2,VTSc, f,f+1+2  : 85
+= u/f+1+2, 1,2,VTSc, 1,2,VTSc, f,f+1+2      : 85   (6)
+= SSL, d/f+3,1,2,VTSc, 1,2,VTSc, f,f+1+2    : 83
+= u/f+4, 1,2,VTSc, 1,2,VTSc, f,f+1+2        : 83
+= d/f+3,d+1, 1,2,VTSc, f,f+1+2              : 80
+= U/F+4, f,f,N+1,2,VTSc, f,f+1+2            : 79
+= d/f+3,1,2,VTSc, d/f+3, 1, f+2+4           : 78
+= SSL, d/f+3,1,2,VTSc, 1,2,VTSc, 1+3_2+4    : 75
+= SSL, d/f+3,1,2,VTSc, 1, f+2,1             : 74
+= U/F+4, d/f+3,1, f+2+4                     : 74
+= U/F+4, 1,2,VTSc, 1, f+1+3_2+4             : 74
+= SSL, d/f+3,1,2, f,f+1+2                   : 74
+= SSL, d/f+3,1,2,VTSc, 2, f+2+4             : 72
+= UF+4, df+3,d+1,2                          : 70   (7)
+
+(6) d/b+1+2 must hit at max range.
+(7) Reliable if opponent is launched off-axis
+
+
+CH f+3
+= 4, f,f,N+1,2,VTSc, 1,2,VTSc, f,f+1+2      : 89
+= d/f+3,1,2,VTSc, 1,2,VTSc, f,f+1+2         : 87
+= d/f+3,1,2,VTSc, 2, f,f+1+2                : 84
+= d/f+3,1,2,VTSc, 1,2,VTSc, 1+3_2+4         : 79
+= d/f+3,1,2,VTSc, 2, f+2+4                  : 76
+= d/f+3,1, d/f+3, 1, f+2+4                  : 76
+= d/f+3,1,2,VTSc, 1, f+1+2                  : 73
+
+
+CH 4
+= f+2+4                                     : 41
+= f+1+2                                     : 38
+
+
+CH (1,2),f+1
+= db+1+3_2+4                                :62~85
+= db+4                                      : 47   (8)
+= uf+3+4                                    : 46
+= FC df+4                                   : 44   (9)
+
+(8) Slightly delay db+4 to get max damage, otherwise damage is
+    reduced to 40.
+(9) Trips opponent if they attempt to back roll.
+
+
+WS 2 or VTS 2
+= FC df+4                                    : 47   (10)
+= b+1                                        : 46   (11)
+
+(10) Does 41 damage if opponent tries to move.
+(11) Does 40 damage if opponent tries to move.
+
+
+f+3+4 (Opponent can tech by tapping forwards right after being hit)
+= dash in, db+1+3_2+4                        : 86~72 
+= dash in, uf+3+4                            : 56
+= b+1                                        : 53  
+
+b+1 will still hit even if they try to tech. Dash a little to ensure
+it reaches.
+
+
+CH FC df+4
+= crouch cancel, db+4                        : 37_44 
+= FC df+4                                    : 35_41
+
+
+u/f+4
+= d/b+4                                      : 33
+= 3+4~4                                      : ??
+
+
+CH (d+2),4
+= d/f+3,1,2,VTSc, 1,2,VTSc, f,f+1+2          : 80
+= d/f+3,d+1, 1,2,VTSc, f,f+1+2               : 77
+= d/f+3,d+1, 1,2,VTSc, 1, f+2+4              : 72
+
+
+CH WS_VTS+4
+=d/b+1+3_2+4  ( Breakable)                   : 76~62
+= d/b+4                                      : 40
+= f+4                                        : 37
+
+
+CH f+2
+= db+1+3_2+4                                 : 54 
+= sidestep left, db+1+3_2+4                  : 75~61 
+= db+4                                       : 46
+     
+
+(f+2), 1
+= d/f+3,1,2,VTSc, 1,2,VTSc, f,f+1+2          : 80
+  Above combo must be done from a SSL to 
+  make it work.
+= db+1+3_2+4                                 : 76~62 
+= df+3,1, d+2,4                              : 59
+= sidestep right, db+1+3_2+4                 : 55
+= df+3,d+1,2                                 : 53
+= ff+1,2                                     : 51
+= db+4                                       : 47
+
+
+CH b+2
+= df+3,1, ff+2                               : 53
+= df+3,1,2,3+4, VTS 4                        : 59
+= df+3,d+1,2                                 : 56
+
+
+Wall combos:
+= db+1+3_2+4                                : 60~37
+= 1,2,3                                     : 26
+= d+2,4                                     : 23
+= b+4                                       : 22
+= d+1                                       : 13
+= d/f+3,1,2,3                               : 39    (12)
+= Power wall hit d/f+3,1,2,3                : 39
+
+(12) On Marduk, Jack, Kuma/Panda & King only.
+Power wall hit includes: f,f+1(whiff), 2_(2), f,f+2, VTS,f+2,
+SS+2, 3, f+3+4, b+4.
+
+
+Any launch at the wall (ff+1, d/f+1, d+1+2, CH f+3, CH d/f+3,d+1, WS 3,
+u/f,N+4)
+= 4, d/b+1+3_2+4                            : 75~52
+= 2, d/b+1+3_2+4                            : 69~46
+= 4, 1,2,3 (41) <- Does not work after d+1+2; character-specific after d/f+1
+= 2, 1,2,3                                  : 35
+= 2, d+2,4                                  : 32
+
+Medium launch or better at the wall (ff+1, CH f+3, CH d/f+3,d+1, WS 3, 
+u/f,N+4)
+= 1,2, 1,2,3                                : 40
+= 1,2, d+2,4                                : 37
+= 1,2,f+1                                   : 29
+
+High launch or better at the wall (ff+1, CH d/f+3,d+1, u/f,N+4)
+= d/f+3,1,2,3                                : 39
+= d/f+3,1+2 (33) <- Does not work after CH d/f+3,d+1
+
+f,f+1 only
+= 3, d/b+1+3_2+4                            : 80~57
+= df+3,1, d/b+1+3_2+4                       : 78~55
+= 1,2,3,1+2                                 : 45
+= d/f+3,1, 1,2,3                            : 44
+= u/f+1+2, d/b+1+2                          : 43
+= u/f+1+2, 1,2,3                            : 41
+
+
+
+=========================================================================
+                           MARDUK SPECIAL:
+=========================================================================
+
+This section includes combos that work on Marduk. However, there are
+some which can work on Jack too. The ones I know i've mentioned, others 
+I'm not sure wether they work on Jack or not. Give some time & it'll be 
+fixed too.
+
+f,f+1_CH d/f+3,d+1_CH f+3_d/b+1+2:
+
+= d/f+3,1,2,VTSc, d/f+3,1,2,VTSc, f+2+4     : 77_89_88_84
+  Works both on Craig & Jack.
+
+d+1+2
+= 2, d/f+3,d+1, f,f+1+2                     : 72   
+= 1,2,VTSc, d/f+3,d+1, f,f+1+2              : 74
+
+ Works both on Craig & Jack. These combos work
+ from d/f+1 also.
+
+d/f+1
+= d/f+3,1,2,VTSc, d/f+3,1,2,VTSc, f,f+1+2   : 77
+= d/f+3,1,2,VTSc, 1,2,VTSc, f,f+1+2         : 70
+
+
+For the first one d/f+1 must hit from mid to max range.
+For the 2nd do a brief SSR to avoid whiffing d/f+3.
+2nd one works both on Craig & Jack.
+
+
+ 
+f,f+1
+= d/f+3,d+1, 1,2,VTSc, 1,2,VTSc, f,f+1+2    : 82
+= d/f+3,1,2,VTSc, d/f+3,1,2,VTSc, f,f+1+2   : 85
+
+2nd one requires brief SSR before f,f+1.
+
+
+CH d/f+3,d+1
+= d/f+3,d+1, 1,2,VTSc, 1,2,VTSc, f,f+1+2    : 94
+= d/f+3,1,2,VTSc, d/f+,1,2,VTSc, f,f+1+2    : 97
+= d/f+3,d+1, 1,2,VTSc, d/f+3,1,(2),VTSc, b+1: 87
+
+
+d/b+1+2
+= U/F+4, d/f+3,1,2,VTSc, f,f+1+2            : 88
+  Works on Jack, Marduk & GANRYU!!.
+= d/f+3,1,2,VTSc, d/f+3,1,2,VTSc, f,f+1+2   : 92
+= d/b+1+2, f+3, 1,2,VTSc, 1,2,VTSc, f,f+1+2 : 89   *
+
+* d/b+1+2 must be done from max range to make f+3 hit
+  properly. Works on both Criag & Jack.                                      
+
+SSL (f+2),1
+= d/f+3,1,2,VTSc, d/f+3,1,2,VTSc, f,f+1+2   :89
+
+These combos require some serious practice. As most of these aren't easy
+to land to so my advise is to practice the normal ones first & when you
+are comfortable with them then only go for these special ones.
+
+
+
+
+=========================================================================
+                               STAPLES:
+=========================================================================
+
+Just felt I need to make this section, so as to help people choose easily
+what combo is best according to situation. 
+
+d/f+3,1,2,VTSc, 1,2,VTSc, f,f+1+2           :55
+Note that it is the damage wihout launcher. All the following juggles are
+mentioned with their full damage including launchers.
+Just works fine from nearly every launcher except d+1+2 & d/f+1. Whatever
+be the range, this combo will catch them. Practice. It looks hard at 
+first but with practice you can master them.
+
+2, d/f+3,1,2,VTSc, f,f+1+2: 66_75
+Main staple from d/f+1 & d+1+2. Very good damage & average difficulty.Not
+hard at all. Only bad thing--> The last f,f+1+2 might whiff if started
+from max range.
+
+1,2,VTSc, 1,2,VTSc, 1, f+2+4:                54_63    EASY
+1,2,VTsc, 1,2,VTSc, f,f+1+2 :                59_68    AVERAGE
+1,2,VTSc, d/f+3,1,2,VTSc, f,f+1+2:           68_77    AVERAGE
+
+Above three are the best when you've launched them from max range.Cover 
+gaps very easily plus good wall carry too. These three are made only for
+d/f+1 & d+1+2.
+
+1, d/f+3,1,2,VTSc, d/b+4:                    51    AVERAGE
+The only staple you're going to see from WS+3. Good wakeup games too.
+Some people say all the WS+3 juggles are bullshitt on damage. Its true
+BUT what they overlook is the positioning & various setups Craig gets 
+after them. Here's a quick info on them:
+WS+3
+= 1, d/f+3,1,2,VTSc, 1, b+1_d,d/f+4         : 52
+2nd highest damage but doesn't guarantee anything afterwards.
+
+= 1, d/f+3,1,2,VTSc, d/b+4                  : 51
+= 1, d/f+3,1,2,VTSc, d+4                    : 48
+= 1, d/f+3,1,2, b+1                         : 49
+= 1, d/f+3,1, d+1                           : 43
+
+If they try to roll away, free 3+4, 1+2. Note that no dash is required.
+Just throw the tackle. After the d/b+4 ender juggle, if you throw the
+tackle you get spear whereas with the others you get free backmount. You
+can also try dash, f+2+4 backthrow but timing must be practiced.
+
+If they stay there & don't move--> free f+4
+If they sideroll--> SS along with them then f+4_d/b+3 or whatever.
+If they throw wakeup kicks:
+>> If its a low--> Low parry
+>> If you expect a mid--> Block, then free d/f+1.
+If they roll towards you--> free CH d/f+3,d+1.
+
+= 1, d/f+3,d+1,2                            : 47
+= 1, d/f+3,1, d+1                           : 43
+
+Above 2 combos are good to end juggles if a wall is nearby. Wakeup games
+become even more easier from these 2 enders. 
+
+
+f,f+1+2
+= f,f,N, d/f+3,1, d/f+3,d+1, b+1            : 69
+Reliable, easy & damaging.
+= SSR, d/f+3,1,2,VTSc, d/b+4                : 62
+Same wakeup games as WS+3 juggle.
+= SSR, d/f+3,1,2,VTSc, 2,1                  : 63
+If they roll away--> Dash f+2,1 (STUN) d/f+3,d+1 juggle. MAD damage.
+
+
+d/b+1+2
+= SSL, d/f+3,1,2,VTSc, 1,2,VTSc, f,f+1+2    : 83
+Main staple & works fine from all ranges.
+= SSL, d/f+3,1,2,VTSc, 1, f+1+3_f+2+4       : 69
+Reliable if they're launched a bit offaxis. Easy to do.
+= U/F+4, d/f+3,d+1,2                        : 70
+Reliable if Craig launches them awkwardly.
+
+
+NON 3+4~3+4 STAPLES:-
+---------------------
+This part is for them who have difficulties with 3+4~3+4 part or wish
+for more easier juggles.
+
+d/f+1_d+1+2: (For d+1+2 increase the damage by 9 points).
+= 1, d/f+3,1, f+1+3_f+2+4        : 51
+Reliable from max range.
+= 2, d/f+3,1, f+2,1              : 57
+Main staple & nothing more damaging if you don't want 3+4~3+4 part.
+
+f,f+1:
+= d/f+3,d+1, f,f+1+2             : 64
+= d/f+3,d+1, 1, f+2,1            : 64
+= d/f+3,1,2, f,f+1+2             : 67  (1)
+
+(1) Must be done from close range.
+
+d/b+1+2:
+= U/F+4, f+1+3                   : 62 Nothing easier than this.
+= u/f+4, 1, f+2,1                : 70
+= U/F+4, d/f+3,1, f+2+4          : 74 
+= U/F+4, d/f+3,d+1,2             : 70 Most reliable id they're launched
+                                      offaxis.
+= d/f+3,1,2, f,f+1+2             : 74 Must be done from close.
+
+CH d/f+3,d+1:
+= d/f+3,d+1, f,f+1+2             : 76
+= d/f+3,d+1,1, f+2,1             : 76
+= d/f+3,1, d/f+3,1, f+1+3_f+2+4  : 77
+
+f,f+1+2:
+= f,f+1,2                        : 56
+= u/f+3+4, Wakeup games e.g., After u/f+3+4
+= b+1_d/b+4  : If they don't sideroll.
+= Groundthrow: If they sideroll.
+These are the choice of lots of Craig players who like guessing games
+setups. 
+These are some non-3+4~3+4 staples. If you want more just go & see
+Wild Man X's "Tekken 5 Combo FAQ". You'll get all the good & easy things
+there. 
+
+
+
+=========================================================================
+                               OKIZEME:
+=========================================================================
+
+First of all okizeme. Craig has got them, they're good but not too fancy 
+as Ling or Nina. These bitches are the stars in this department.You can't
+expect death just from an oki!! That being said, it doesn't mean Craig's
+too low in this list. He's got his own reasons to fear him. Here's a list
+of moves which work as a oki tool for him in various situations with 
+their reasons:
+
+>> 3+4,1+2  : Craig's ultimate cheese. Its beastly when used as an oki.
+              Not easily escaped at this moment. Best used when opponent
+              is rolling towards walls from FCD or PLD position. Also 
+              tracks quickroll sometimes & turns into spear, but can be 
+              escaped at that particular instant.
+              Use it & you'll understand the timing for it.
+
+>> d+4      : Simply, the 2nd best move after tackle when it comes to oki
+              purposes. Works in most situations like after successful
+              mount, certain backrolls (Remember, it doesn't work if they
+              rollaway from FCD.), after f,f+1+2 airthrow etc. Its safe 
+              even if whiffs i.e., if they anticipated it & did no 
+              movement at all. I'm not saying if its blocked!!
+
+>> d/b+3    : Another baby you're going to see in Craig's wakeup games.
+              Catches sideroll & backroll plus good range too. One of the
+              best tools in Craig's okizeme. I wish it did more damage (
+              Atleast as much as d+4.)
+
+>> d/b+4 (On grounded opponents):
+              This move's too good as a oki. Unfortunately, you don't get 
+              too many chances to throw this out. It may be used after
+              qcb+1+2, JH, 2+4 backthrow, 1+3 airthrow, 1~2_2~1 mount 
+              followups, CH d,d/f+4 etc. It is also used after the juggles
+              that thrust opponent into walls from far & you have to rush
+              in. You get close & burst this out after the wall splat for
+              some substantial damage. 
+              Also, if you get to end some juggles with this move, you 
+              still get some chances for wakeup games.
+              
+>> b+1      : This is only move that comes to mind when you want to play 
+              safe. It is guaranteed after certain moves to become a combo
+              but since its slow it can be siderolled or blocked after 
+              getting up quickly. 
+              It is more used as a baiting for reversals than an oki.
+
+>> FC,d/f+4 : It has got loooooooooong range, very long range than any 
+              other move Craig has, it catches opponent in so insane 
+              situations where others would have possibly whiffed. Also 
+              used after you entered into stance after a tackle was broken.
+              They are still there lying still, expecting a tackle & you 
+              surprised them with it. Not easilly siderolled. Plus if 
+              you've thrown the opponent into the wall after any juggle 
+              that they are too far for any move to reach, it comes handy
+              there.
+
+>> d/f+3,1,2,VTSc:
+              Yes, you're seeing it right. The reason i've haven't 
+              mentioned d/f+3,d+1 is that d/f+3,d+1 is unsafe if whiffed 
+              whereas it isn't. If they guessed wrong, they eat it for 
+              some good damage. Also since you're doing 3+4~3+4 after this 
+              chances are you will float them to some juggle if they getup
+              stupidly & if they predicted it & didn't getup, you'll still
+              be safe because of 3+4~3+4 part. You don't have this 
+              advantage with d/f+3,d+1. One of the time to use it:
+              You blocked Marshall's FC,d/f,d,d/f+3, do u+3+4 (I'm saying
+              u+3+4). He's there right in front of you from where you can
+              go for d/f+3.. if he commits mistake & gets up stupidly.
+              I've just come to find out that d/f+3,1,2,VTSc catches
+              all types of backrolls too. Be it any kind of grounded
+              positions, just chase them when they're rolling
+              away & throw it out. I do this combo:
+              d/f+3,(1),2,VTSc, 1,2,VTSc, f,f+1+2 : 52
+              Good chunk.
+
+>> d/f+3,d+1: Having said that, it doesn't mean that this move hasn't got
+              it chances. d/f+3,d+1 is useful in those situations where 
+              they are in a position to backroll. If they didn't do that 
+              & getup wrong they'll be eating some nice 60+ damage.
+              Some situations to use it:
+              I've mentioned d/f+3,d+1 with $
+              f,f+1+2, u/f+3+4, $
+              CH d,d/f+4, dash $
+              WS+2, dash $
+              1+3 airthrow, $
+              More of it has been covered in Pokes & mixups section.
+              In case you don't know the juggle from behind:
+              d/f+3,d+1, 2, d/f+3,1,2,VTSc, d/b+4.
+              d/f+3,d+1, 1,2,VTSC, 1,2,VTSc, 1, b+1.
+              Thats the ones I use, if you know something else better than
+              that, mail me & I'll put them here.
+
+>> f+4    :   It is a similar mixup with the above one and it is good for
+              hitting them as long as they are on the ground. Some key
+              setups for this move. Assume they aren't siderolling.
+              WS+3, 1, d/f+3,1, d+1             $
+              WS+3, 1, d/f+3,1,2, b+1           $
+              f,f+1+2, u/f+3+4                  $
+              1+3 airthrow                      $
+              f,f+1+2                           $
+              Various successful mounts         $
+              2+4 throw                         $
+              1+3 throw                         $
+              VTS 2+4                           $
+              These are some keysetups for this move. They should be mixed
+              with d/b+4_d/b+3_d/f+3,d+1 for making it work.
+              Remember, however bad it is, its Craig's fastest ground 
+              hitting attack. 
+
+>> u/f+3+4:   If you just throw it out on a grounded opponent, 99% of the
+              time they'll sideroll & avoid it. Maybe they can throw wake
+              up kicks too. It's used mostly after any juggle ending with
+              d/f+3,d+1. Just dash a bit and u/f+3+4. If they getup wrong
+              way they're gonna eat it & as it affects crouchers, you get
+              some follow-ups too. It also worked for tech traps in 5.0 
+              but no more in 5.1. As said with b+1, this move too is not 
+              used with the sense of hitting them but to make them block 
+              it & getting some guessing games from there.
+                        
+>> d+1:       Same purpose as u/f+3+4 & b+1. Make them block it to retain 
+              pressure.
+
+              
+Besides these stuff there are some other things too:
+
+Ground throws, catch sideroll.
+
+b+4 stops any spring forward attempt.
+Also you can avoid it by d/b+3+4, SS stuff. It easily evades it.
+ 
+If the opponent is in FCD position & tries to roll towards you, you can 
+try d/f+3,d+1 which will hit as CH & they'll be launched. 
+
+SS+2, b+2 are just used against backrolls. Very rare. Only if you're
+feeling dry.
+
+These are just the basic stuff, I'll add more stuff as things come to 
+mind.
+
+
+
+=========================================================================
+                                 TECH TRAPS:
+=========================================================================
+
+Basically, Craig players do not rely on tech traps much as he had many of 
+them in 5.0 but most of them do not seem to work in 5.1. Also, with the 
+ones he has you yourself have to guess which side opponent is going to
+quickroll as Craig doesn't have any moves that catch a tech to both sides
+except u/f+3+4( Only in short juggles & in 5.0 ). For the sake of 
+completeness they are being mentioned here as it is a 5.0 FAQ.hehehe....
+ 
+First of all u/f+3+4 stuff.  ( Taken from Valestyle_G  Craig thread from
+                               Arcadepimp. Big thanks..)
+
+(launch) 2, 2d+1+2 (opp doesnt move) uf3+4.           50dmg+21dmg "71dmg" 
+(launch) 2, 2d+1+2 (opp rolls side) uf3+4, df3 1d+2,  50dmg+59dmg "109dmg" 
+(launch) 2, 2d+1+2 (opp rolls back) dash forward, df3 1, 1 2 vtsc* 1, f+2+4
+                                                      50dmg+44dmg "94dmg"
+Pretty damaging, huh. Yes it is. But bad news it doesn't work in further
+tekkens. CRY........
+
+More stuff:
+
+f+3+4_ 3+4~3 catches tech to Marduk's left.
+d/b+1+2      catches tech to Marduk's right.
+
+You can put try any of the above after any juggle ending with f,f+2_f+1+2
+_1,2, etc.
+you can always replace f,f+1+2 airthrow in any juggle with f,f+2 & f+2+4
+with f+1+2.
+Since room is needed for these stuff to work, so they won't work with
+short juggles. For the 3+4~3 & d/b+1+2 you need to do a dash forward
+( f,f ) to make them work.
+I'll list some of the combos where these tech traps may work. For the
+f,f+1+2 combos which you can replace with f,f+2 just reduce the damage
+by -15. I haven't checked the damage for f+1+2, will be put here soon.
+
+I'll mention the damages for some of the combos. The list will be like
+this:
+Any juggle       Opponent teching to          Opponent teching to
+                 Marduk's left.               Marduk's right.
+                 ( f+3+4 or f,f,3+4~3 )       ( f,f,d/b+1+2)
+
+f,f+1
+= 4, f,f,N+1,2,VTSc, 1,2,VTSc, f,f+2      f+3+4_ f,f,d/b+1+2
+= d/f+3,1,2,VTSc, 1,2,VTSc, f,f+2         f+3+4_ f,f,d/b+1+2
+= d/f+3,d+1, 1,2,VTSc, f,f+2              f+3+4_ f,f,d/b+1+2 
+= d/f+3,1,2,VTSc, 1, f,f+2                f+3+4_ f,f,d/b+1+2                 
+= d/f+3,d+1, 1,2,VTSc, 1, f+1+2           f+3+4_ f,f,d/b+1+2  
+= d/f+3,d+1, f,f+2                        f+3+4_ f,f,d/b+1+2
+
+
+d/f+1
+= 1,2,VTSc, d/f+3,1,2,VTSc, f,f+2         f+3+4_ f,f,d/b+1+2
+= 2, d/f+3,1,2,VTSc, f,f+2                f+3+4_ f,f,d/b+1+2
+= 2_1, d/f+3,1,2,VTSc, f,f+2              f+3+4_ f,f,d/b+1+2
+= 2, d/f+3,1, f,f+2                       f+3+4_ f,f,d/b+1+2
+= 2, 1,2,VTSc, 1, f,f+2                   f+3+4_ f,f,d/b+1+2
+= 1,2,VTSc, 1,2,VTSc, f,f+2               f+3+4_ f,f,d/b+1+2
+= 1,2,VTSc, 1,2,VTSc, 1, f+1+2            f+3+4_ f,f,d/b+1+2  
+
+
+CH d/f+3,d+1
+= d/f+3,1,2,VTSc, 1,2,VTsc, f,f+2         f+3+4_ f,f,d/b+1+2 
+= d/f+3,d+1, 1,2,VTSc, f,f+2              f+3+4_ f,f,d/b+1+2 
+= d/f+3,1,2,VTsc, 1, f,f+2                f+3+4_ f,f,d/b+1+2 
+= d/f+3,d+1, 1,2,VTSc, 1, f+1+2           f+3+4_ f,f,d/b+1+2  
+= d/f+3,d+1, f,f+2                        f+3+4_ f,f,d/b+1+2 
+
+By now, I'm sure you'd have got the idea behind this. You can always
+replace f+3+4 with f,f,3+4~3. However, I'm not sure wether the 2nd one
+is safe on whiff or not,i.e., you might eat wakeup kicks if they do not
+do any movement.
+All these tech traps can be escaped by backroll & can be avoided by
+sideroll.
+
+OTHERS:                   ( Taken from Marduk tech trap thread from 
+~~~~~~~                     TZ forums.)  
+
+f,f+2           
+= If they tech to Marduk's left--- f+3+4
+= If they tech to Marduk's right---f,f,d/b+1+2
+= If they back roll ---------------f,F+3+4
+= 3+4,1+2-->If they tech to any side. You'll land a spear most of the
+  time. Doesn't work if they backroll.
+
+WS+4
+= If they tech to Marduk's left---f,f+1
+= If they tech to Marduk's right--F,d+2+4_1+3
+= If they backroll----f,f,3+4~3 or f+3+4.
+= 3+4, 1+2-->If they tech to any side (Escapable though :()
+
+
+After any wall splat (The most basic form.)
+~~~~~~~~~~~~~~~~~~~~~
+= 1,2-->Hopover the opponent & immediately do d+1. He'll be backturned &
+        your d+1 will hit him. After that WS+1_4 becomes uninterruptible.
+        Its safe even if he remains there & doesn't getup. 
+        The hopover tactic can also be replaced with a perfectly timed
+        groundthrow attempt.
+
+
+
+After a wall combo:
+~~~~~~~~~~~~~~~~~~~
+= SSL, d+2+4_d+1+3    (Only if they tech to Marduk's right.)
+= SWR, d+1, d/f+3,d+1 (Only if they tech to Marduk's right.)
+
+
+
+If they are grounded & start to backroll:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+= dash d/f+3,(1),2,VTSc, 1,2,VTSc, f,f+1+2 : 52
+  Only if the opponent is rolling away from KND or SLD position.
+
+= dash d/f+3,1,2,VTSc, 1, d+1 (Damage unknown).
+  Only if they're rolling away from PLD or FCD position.
+
+
+
+
+
+=========================================================================
+                     ANTI-CHARACTER STRATEGIES
+=========================================================================
+
+These are some anti-character strategies i've come upon with. Just random,
+not all of them. Only the characters which i come to play against, have
+seen or heard etc. These are not complete so expect it to be complete in
+near future.
+The purpose for making this section, as i've seen or understand, most of 
+Marduk players lose to their opponents most of the time coz they don't
+know how to punish oppoent's blocked moves or they don't have a strategy 
+against them. They just overturtule or abuse the tackle without applying 
+any sense behind and as a result, lose matches, get disheartened &
+gradually come to lose interest in this character.
+I'm sorry to repeat this but i have to say: PLEASE, know who your opponent
+is & learn to punish his blocked moves. Craig can do this to a decent 
+level, if not wonderfully, which could be key to victory sometimes. This 
+section is all about that, to help you against cetain characters which 
+you're going to read below. For the characters that aren't on the list, 
+if you know about them, mail me or wait for sometime and they'll be addded
+too. Anything wrong or incomplete, if found, please mail me about it so 
+that i can correct it or add it.
+
+Punishment lists aren't on the list, you can find them on the following 
+link:
+http://www.tekkenzaibatsu.com/forums/showthread.php?threadid=79837
+
+This is a huge detailed punishment list here. See it to learn it.
+
+
+Vs Anna:
+---------
+Anna is a fighter made for close combat. Seriously, she really lacks some
+good long range moves. First of all what you should expect from Anna 
+that'll bother you:-
+* d/f+1,2 pokes: Very abusable but suspectible to b+3+4 reversals plus
+  random SSL d/b+1+2 can stop her. Do it less often.
+* d/f+4: Only thing you can get if you block it is WS+4. So try to parry
+  it when you know its coming.
+* d+4,1: Her deadly mixup. Can be efective against Craig coz after the 1
+  she can SS either side plus non-tracking ability of WS+4(Craig's WS+4)
+  helps her too. The defense here is to use d/b+3+4 as soon as you see 
+  her SSing. WS+1_1+2 can help sometimes. Same applies for her d/f+3,2 
+  followups.
+* Her weak side is to her right plus she lacks effective long range 
+  attacks so d/b+3+4, 1_4 or d/b+3+4, SSL stuff will help you in this 
+  matchup. 
+* She has very good poking game so if you stay there in her grill for 
+  long she will lead you to death.
+There's nothing to say much here.
+
+
+
+Vs Bruce:
+---------
+Bruce has a lot of weaknesses among which noticeable ones are:-
+>> His 1,2 is NOT a combo, which means you can duck right after blocking 
+   the left punch and can stop any guessing games from there with a 
+   d/b+1. You have react quickly for this though.
+>> No 1+2 escape throw. Got one in DR though.
+>> No damaging lows.
+>> His WS moves suck too, although he has got generic u/f+4.
+>> No parries or reversals to counter with. Only his f,f+2 stops any 
+   punch attack. But it isn't easy for him too.
+
+His strengths:-
+>> He's a 8 framer & a CH hunter. Most of the damage he does comes from 
+   CH. Watch out if you get hit by his CH 1,2,1,2_3,3_1,2,3 & similar 
+   moves that knock down near a wall, the damage you're going to recieve 
+   is going to be MASSIVE, even bigger than Anna's wall game ;___;
+>> Most of his lows, though don't do much damage, are safe on block. So 
+   you have to parry them whenever you feel them to be coming.
+These are just a few things you should be aware of when facing Bruce. 
+Don't just sitback & turtule. Bruce's a pitbull. From the start of the 
+round, till the end he'll be in topgear. Just watch out what he does & 
+don't forget to punish.
+
+
+
+Vs Bryan:
+---------
+This is a real fight, a REAL fight. The first thing:
+d/b+3: You cannot punish this move on block. You simply can't. Best 
+defense:
+>> parry it whenever you know its coming.
+>> Crush it with u/f+4. Can be done. 
+
+Besides that, if you get hit by this move, don't mash buttons. He gets 
+an uninterruptible WS+3 which he'll abuse. You can't do anything about 
+it too. Its SAFE. His WS+3 is a move which he'll abuse a lot coz it:
+Is safe.
+Is fast (12 frames).
+Tracks very well.
+Isn't reversible( Atleast in Marduk's case )
+Really cheap, isn't it? So reversals aren't worth trying in this matchup.
+You'll be seeing this move everynow or then when facing Bryan. 
+Bryan also throws 1,4 a lot. Its very fast but if he goes for 3,3, 
+Here's what you can do:-
+1,4,3   --- Jab punishable 
+1,4,3,3 --- Duck under last 3 & punish with WS+4.
+3,3 also come out from a slight delay. So be careful to rush at him.
+If you get hit by 1,4_1,4,3,3 stay back & watch out for a d/b+1 or a b+1.
+Chances are he'll throw any one of them. If you SSL his b+1, without any 
+fear, go for d/b+1+2.
+Only d/b+3 can't be punished on block but other lows can be. An e.g.,
+Most Bryan's do this:- b+1( Blocked ), d+3...more stuff.
+His d+3 can't be punished by WS+4 but by WS+1+2. Tick damage, isn't it?
+That's why its emphasized to parry the lows whenever you know they're
+coming.
+Watch out for his f,f+1+2 throw, gives him free oki. Break it with 1+2.
+After getting thrown by 2+4, d+2_2 can be done sometimes if he's not
+careful.
+Bryan is way ahead from Craig in poking war. He is very unpredictable. 
+He doesn't follow a pattern in his matches. You'll have to turtule to a 
+deeper extent & retaliate as soon as you see the openings. Good luck.
+
+
+
+Vs Devil Jin:
+-------------
+The old school Mishima. The first thing to expect from him:
+EWGF: Yeah, he may throw it at the start of the round to surprise you & 
+if its done from a CD, it becomes a high crush( Please correct me if i'm 
+wrong). How to get around it? 
+--> d/b+1, d/f+1+2, d+4-They are all high crush. So use them from time 
+    to time, but never make it a habit. d/b+3+4 can also work against it 
+    sometimes.
+
+Another move to be careful against is his WS+1,2. It launches on counter
+& is safe on block. The 2nd punch in this string is hard to reverse. My 
+suggestion, don't try it, rather go for moves like f,f+2, d+2,4, d+1, 
+d+4_3 etc to keep him on the edge.
+
+After you block his f,f+2 you can connect a d/b+3 without a dash.
+As already said for all the Mishimas, dont let him do a WD etc. Be 
+careful against his hellsweep-if done from a CD, it can give him a combo.
+Really pesky. It can catch Marduk out of a d/b+3+4 too. At this 
+particular point, if you did a VTS backdash & see him WD, you can stop 
+him with d/b+1_1_4( I don't emphasize 4 much as its horrible on whiff.) 
+His hellsweep stops Craig's SSR+d/b+1+2 too. But if you block it, make 
+sure you kick the freak outta Devil with f,f+1 & make him rethink about 
+it. However, WS+3 is more practical option.
+
+Devil's WS+2 has got priorities too. He gets it for free when he blocks
+Craig's d+4 but sometimes he'd backdash your attacks & throw it out to
+launch you so don't leave any openings.
+
+What's the best Devil can do to stop Craig when he's running for tackle.
+Maybe an unblockable ( Most of the time its B+1+4, the big one ). It 
+hurts. But you can avoid that too by SSing to your safe side. You may 
+cancel the stance or remain there, no problem for you then. You'll just 
+SS & get behind him & what you do next is upto you but make him pay for 
+this.
+
+In case you don't know in his f,f+3,1,3_4  the 2nd 1 can be ducked.  
+Just don't make mistakes & don't feel like any pressure on yourselves.
+If you panic DJ is one of the toughest ones but if you stay calm, he is
+no problem at all. 
+
+
+
+Vs Feng:
+---------
+Get ready for this chinese "Monk". He definitely looks so in his bald
+customization =P. First of all get ready for b+1. Nasty move which is 8
+frames plus combos on CH. Heck..he can CH Craig even if he's in - . 
+Crush it with d/f+1+2_d/b+1 as they give you frames so you can go for 
+some mixups afterwards but d+4 doesn't. He can CH you with a b+1 even if
+you hit him with a d+4 >__<  If you are good youcan SSL it too( Sidestep
+to Craig's left) & punish with some fast moves like f,f+2, jabs etc. but
+DONT try going for a d/b+1+2. The b+1 has very fast whiff recovery & 
+he'll block d/b+1+2 nearly every time. Just treat it like the fastest
+"magic 4" everyone has & you should be okay.
+
+Another menace he's got is his SS+4 which has nearly same properties as
+Craig's d/b+1+2. It even stops his SSR,d/b+1+2 attempt. Parry it 
+whenever you feel he's going for it. You can punish it with a FC+2. 
+Really lame. Isn't it?
+ 
+Feng's 3~4,3 is NASTY too. It becomes unblockable sometimes.e.g., 
+Craig's grounded & Feng hits him with a f,f+3 afterwhich you try to 
+backroll or quickroll and getup quickly. He sees this and throws this 
+move in which you block 3~4 and the last 3 KNOCKS you down!!! Its 
+difficult to mention every situation when he'll hit you with it but 
+whenever you're grounded and see him doing that jumping move similar to
+Lei's just stay grounded & let it whiff then immediately getup to block
+the last 3 & punish it with FC+2. 
+
+If you block his b+1+2, simply go for d/f+1 then choose the juggle 
+according to range & your convienience.
+If you block his f+4, you can stop any guessing games ( f+4,3_f+4,4) 
+with a d/b+1.
+
+Feng is fast but don't get disconcerted with his speed. It's going to 
+be of less help to him against Craig. He has got some annoying stuff 
+but he's no Bryan.
+
+
+
+Vs Heihachi:
+------------
+Heihachi Mishima? He thinks he's cool? I say he's the dumbest Mishima. 
+Why? His CD options aren't strong. Most of the stuff he will get from it 
+is punishable.i.e, either block punish or SS. His CD+3_CD,D/F+3 can be 
+ssed, first hellsweep doesn't knock down like Kaz or DJ and anything he
+throws after it can be blockpunished. But you need to know that if he
+starts his helsweep far & you blocked the 2nd low kick, you can't punish 
+him. Its not that Craig cannot do this but its true for any character in
+the game. 
+ 
+That being said, so what is he good for? As with all the Mishimas-don't
+WHIFF or the ALMIGHTY ewgf might come. But again he won't abuse it as 
+his CD options aren't strong so he'll be using ewgf more for punishing
+purposes than countering.
+
+If he hits you with a d+1, just try to see what he does. Either it'll be
+a d/f+4_WS+4 or a d/b+2. Reverse it or low parry it if you're feeling 
+confident.
+
+Craig's d+4 can be abused a bit as Heihachi cannot punish him with a 
+launcher but he can crush it with a u/f+3,4. Besides that, use d/b+3+4
+a lot as it avoids almost every move Heihachi throws. Be careful doing
+this sometimes you may allow him to do WD, but you can stop that too
+with d/b+1_WS+1. Don't worry. Most of the time its gonna be a mid only
+as his lows aren't that good e.g., his Hellsweep doesn't knockdown, d/b+2
+can be spotted & FC,d/f+4 is BADLY punishable. 
+
+Just turtule with emphasis on SS and you'll make it out right against
+Heihachi.
+
+
+
+
+
+Vs Jack-5:
+----------
+Most people don't respect him due to his size & slow speed. Its true but
+he packs hell of a punch to compensate for this & in good hands, he can
+be devastating. He has lots of power to do the damage & his f+2,f+2
+juggles make things easier for him. So let's talk something practical
+about him:
+
+* Jack-5 has got one of the deadliest throw arsenal in the game. He
+  doesn't have any multithrows like King or Nina but again his setups
+  make up for this. First of all:
+  2+4: If he lands it, don't try to roll away or getup stupidly. He gets
+  a free f+1+2,2 from behind. The damage is above 80 >__<
+  Instead just sideroll & see what he does. He may do a u/f+3+4_SS+1_
+  u/f+2 to retain pressure. No problem, let him do it, atleast you
+  saved yourself from taking those extra damage points.
+  Be careful even if you break that throw, he still gets an almost
+  uninterruptible d/f+3+4 so don't attack afterwards. If you block that
+  move, just d/f+1 all the way :)
+
+  u/f+1+2: He can throw this out from FC too. If you don't know how to
+  block the megaton punch afterwards just hold B (Sometimes it doesn't
+  work. I do B+2,2,2,... until Craig blocks the punch) Some setups for 
+  this throw:-
+  d/b+1 (You recieve the hit) u/f+1+2
+  u/f+2 (Blocked)             u/f+1+2
+  SS+1  (Blocked)             u/f+1+2
+  b+1   (You recieve the hit) u/f+1+2
+  b+2   (Blocked near corners)u/f+1+2
+  d+2   (You recieve the hit) u/f+1+2
+
+  These are some of his setups. Break that throw with 1+2. You can block
+  the megaton punch but if he doesn't go for this option, you recieve the
+  normal damage.
+
+  d/b+2+3: This throw won't knock you down but if he lands it, he gets a
+  free d/f+3+4. And if he lands it near walls be ready to recieve some
+  CRAZZZZZZY damage. Break it with 2.
+
+  hcb,f+2: Very bufferable & he's got lots of setups for this too. Some
+  of them are here:
+  u/f+2 (Blocked) hcb,f+2
+  b+1   (Hit)     hcb,f+2
+  2,1   (Hit)     hcb,f+2
+  b+2 (Blocked near corners) hcb,f+2
+  These are just a few examples. There can be more too. Break that throw
+  with 2.
+
+Besides these he also has d/f,d/f+2+4 that juggles, 1+3 that can throw
+into the walls, qcf+1 etc. You need to learn how to break every throw. 
+
+* Jack's pokes are also a thing to watch out for. It is said he's a 
+  unsafe character but against a good Jack you'll hardly see any openings.
+  Amongst his staple pokes, things you should be most careful about are:
+  
+  d/b+1: Can't be punished on block. Two ways to get around it:-
+  >> Low parry it.
+  >> Crush it with u/f+4.
+  You can SSR it, if you're REALLY good.
+
+  WS+2: Should be punished with 1,2. 2,1 seems to whiff if you block it 
+  from max range. I see most Craig players leave it unpunished for some
+  reason.
+  
+  d+2,1: A natural combo plus high crush. If you blocked the first hit 
+  you can low parry the 2nd. Can't be block punished.
+
+  d/f+2: One of the best whiff & block punisher Jack has. In case you 
+  block it, punish it with f,f+2_4_1,2. He doesn't eat f+1+2 for some 
+  reason.
+
+  u/f+2: A jumping punch Jack posseses to counter lows. If you block it,
+  he still retains pressure so just stay back & try to read his mixups 
+  from there.
+
+  d/b+2: Pretty slow, but if you recieve the hit, do not backroll or
+  getup stupidly. He gets a free f+1+2,2, again.
+
+  f+1+2,2: One of his old trademark moves in which you can SSR the last 2
+  & punish with d/f+1. The f+1+2 alone can be punished with jabs. However
+  most Jacks use this string as a whiff punisher rather than beating your
+  standing guard. They use it mostly when there's a wall on their left &
+  Craig's right to prevent you from SSRing it but again you can reverse 
+  the last 2 easily with b+3+4. Free mount, lol.
+
+OTHERS: If Jack finishes a juggle with a f,f+2 (And he surely would)
+just be aware of these things:
+
+>> If you techroll, he gets free hcf,D/F+1
+>> If you backroll, he gets free b,d/b,d,D/F+2_dash backthrow.
+These are some of his key moves you'll face every now and then. If you
+are okay against these, it means you're forcing him to take chances.
+Then you'll see a Jack going for something else which could be really
+tight for him if it's blocked. 
+
+Now the question is what really are his downsides? Well...
+
+* Almost every move Jack has can be SSR. The ones that track are f+1+2
+  (Don't confuse, the last 2 can be sidestepped but f+1+2 TRACKS.), WS+1,
+  FC+1+2, d+2 etc. of which the damaging ones are easy to read & punish.
+  The faster ones are comparatievely safe but don't do much damage to
+  worry about. SSR,d/b+1+2 comes handy alot against him.
+
+* Jack is a BIG too, remember. So the good thing against him you can do
+  the best juggle which you had troubles doing against normal sized
+  characters.
+
+* Jack is prone to Craig's repeated d+1s. He cannot SSR them since he's
+  BIG.
+
+* No reversals or parries to counter your moves. Marduk has the advantage
+  here.
+
+* Last but not the least, almost every move Jack has can be punished. Via
+  blocking, parrying or ssing.
+
+This is a battle for supremacy, to prove who's a BIGGER *fool*. If you 
+make mistakes, you'll be a dogmeat in his hands but if situations reverse
+he can be a *metal scrap* too :p
+
+ 
+Vs Julia:
+---------
+Beware of this chick. She has an answer for your every move. First thing 
+you should be careful about:-
+f,f+1: When you block it, do NOT attack. A 1,2 might come which will 
+launch you for some serious pain. Use any high crush after blocking it 
+but don't get predictable with it. Also, be careful with turtuling in 
+this match as she may mix the above 1,2 with Mad axes( hcb,f+2) throw. 
+It got nearly same range & speed as king's and is very bufferable. She 
+has lots of setups for this. A good Julia won't live without it. Break it
+with 1+2.
+
+Her best low is d,d/f+4, 3. It is one of her major whiff punishers too. 
+If you block it you cannot launch her but punish with f+1+2 or f,f+2.
+
+Use d/b+3+4 less often in this match as she can stop you with fast moves 
+like f,f+1_f+3~1 etc. Use SS+3+4 stuff more.
+
+The problem with Julia, as is with Marshall, most of her stuff is 
+punishable. Learning to punish her blocked can clear your way to victory.
+Seriously, she's such a character which cannot play safe all the times. 
+She is a pitbull-killer but she'll have a rough time against turtules. 
+Just be patient, learn to punish her blocked moves and she won't be a 
+serious problem.
+
+
+
+Vs Kazuya:
+----------
+Be ready to face the toughest Mishima, no two ways about it. He has some
+good tools to break you in pieces. First of all:
+
+* DO NOT WHIFF: I'm not saying avoid i said DO NOT as the all time great
+  ass kicker EWGF will come. He's got some painful ones for Craig from 
+  this. Keep it in mind.
+
+* Be sure whenever you try a VTS backdash, it evades his move or you'll
+  give him a chance for WD (Wavedash). It'll cover the gap even before 
+  you think to throw a move when you get to rest. He has some *EXCELLENT*
+  mixups from there. Some of them are:
+  EWGF ;__;
+  Hellsweep ( f,N,d,d/f+4)
+  WS+1,2
+  f,f,f+3 ( Crushes lows & gives him frame advantage. Hell.. more mixups)
+  Stonehead grab (f,f+1+2)
+  As you can see, it all looks SCARY when you see a Kaz hitting you with
+  any of these. The defense--> d/b+1, 1+2, d+4 etc. Particularly about
+  d+4 i want to say its a little safe for Craig to abuse as Kaz too can't
+  punish with WS+1,2_WS+2 if you're at medium range. If you throw it from
+  close WS+2 WILL hit but again the stun can be escaped by tapping f.
+
+* Be careful even if you don't allow him to WD. His d/f+2 (14 frames) can
+  CH you & the EWGF launch after it is a pain. Don't forget to punish it
+  with 2,1_1,2 but if you blocked it from close range, he remains safe.
+  His d/f+2 tracks too.
+
+* He has a lot of setups to hit you with his WS+1,2. This move hasn't got
+  range so he'll be least using it for punishing purposes. He'll himself
+  make the setups for it to hit. Just like Craig's SSR, d/b+1+2. The only
+  difference-- he'll duck and Craig sidesteps. Here's a list of his 
+  setups. Assume the every move to be getting blocked & then he throws 
+  this out:-
+  b+1
+  d/f+1,4
+  d/f+2 (Close block)
+  f+4
+  u/f+3
+  1,2
+  b+2,4
+  WS+1
+  d/f+3
+  f+4
+  They are just some of his key setups. What he actually does is-- he 
+  makes you block them & if you don't know wether any move is punishable 
+  & throw something, he just ducks or SSes & launches you quickly. 
+  Remember, this move is 12 frames so it launches even after a whiffed jab.
+  He'll mixit up with some lows like Hellsweep, d+4 etc. This move is 
+  punishable on block but no Kaz will throw 2 if he sees the previous 1 
+  getting blocked. The defense against this can b--If you know Kaz won't 
+  throw the 2nd punch after getting the WS+1 blocked, just SSR and try to
+  see what he does. If you see him advancing again just SSR,d/b+1+2...
+  damnit. It avoids his Hellsweep too. His HS doesn't track SSR,d/b+1+2 
+ (Kaz's left). Biggest setback for him =) Be aware, don't get predictable.
+  Seriously emphasized.
+
+Against kazuya, you need to play it extra safe with little baiting. You 
+can punish his mistakes or force him to do so but you will be on the edge
+too. Just keep dancing around him with some safe moves, more lows 
+(Poor combos even after a low parry unless you're near walls)
+& SSR,d/b+1+2. He WILL eat it if he guessed wrong.
+
+
+
+Vs King:
+--------
+King, in many ways, is similar to Craig. No, i shouldn't have said that. 
+In fact, Craig is similar to king in many ways, for:
+* Largest variety of throws though king has the largest number.
+* Offensive push-- king's f,f,N+1+2 & Craig's 1+2.
+* Irreversible moves-- Both of them have it in quite a number.
+Besides these what's king really good for is Giant swing( f,hcf+1) & iSW
+(f,f,f+2+4). These are the throws you're going to see every now & then in
+King's game, even more than the hop kick. They are fast, have range,
+bufferable plus give very less reaction time. You're going to have 
+troubles breaking them if you haven't seen them much.
+
+King's poking game too, is very good. Though looks conservative, but 
+still very nice. Major tool for him to dish out damage, in which you're 
+going to see f,f,N+1+2 much. Its fast as hell( 9 frames), guarantees a 
+b+3 on CH but doesn't do any damage on normal hit or block. Be warned 
+though, king still retains pressure so be careful while rushing at him
+after it. This move can be SSR.
+
+Another thing that gives King an edge, is his block-punish ability. He's 
+damn good in this department so don't make any stupid mistakes against 
+him. He will make you pay for it.
+
+So what's the strategy against him? If you break those crazy throws
+consistently, half the problem's solved. Remaining is his poking game 
+which is suspectible to Craig's reversals. It'll take some time but 
+you'll understand it. Play careful against King as he is a tough match, 
+but don't underestimate Craig too.:)
+
+
+
+Vs Lee:
+-------
+I'm not sure but his f+2 always goes under high. It goes under the jabs,
+throws & other high moves.
+
+He is known to be little down when it comes to juggling but that's true
+only for any character other than Craig. Lee does have some mean juggles
+for him even in the open terrain. So don't expect any relief even if 
+you've chosen a no-walls stage.
+
+Lee's lows don't do much damage. The ones that knock down are slow and
+punishable. So what will he do to beat you? His strength is his amazing 
+wall carry ability. Lee's famous for carrying bitches ( Sorry for saying
+that) from one corner to another and with Craig's SIZE it gets even 
+easier for him. Not to forget his wall combos are deadly too. They put an
+icing on the cake. No one does so much damage so easily in the walls as 
+Lee does. Also watch out if Lee is ending a juggle with 1,2 or 1,2,2, be
+careful about getting up from ground. He's trying to setup a u/f+4 again 
+to relaunch you. His u/f+4 will crush any low kick you throw & with its 
+speed it'll beat out your mid option too. So never get fooled by this.
+
+Lee's throw aren't spectacular either, but if he lands any he gets free
+oki due to Craig's size ;__;
+His f,f+3+4 doesn't combo like the one law has, though you need to be 
+careful. If you tech after that throw, he'll relaunch you with a BK
+(Blazing Kick, d,d/b+4). Though it'll happen only if you tech to your 
+left ( Lee's right)
+
+Against Lee, this is something you want to know. Its not easy to write
+everything here. Rest things you'll learn with experience.
+
+
+
+Vs Marshall Law:
+----------------
+
+Marshall has only 3 things good in his game:-
+>> The DSS_DFS transition he gets in various ways.e.g., 1,2,DSS_4,3,DSS_
+   b+1,2,DSS_SS+2,1,2,DSS & similar moves.
+>> His f+1+2~D which gives him frames & guessing games.
+>> His famous mixup of WS+2_WS+4_FC,d/f,d,d/f+3
+
+Having said that, Marshall does has his share of weaknesses too:-
+>> He has lots of problems tracking his opponents.
+>> He hasn't got any long range stuff, so he's going to have troubles
+   punishing whiffs.
+>> He isn't good at block-punishing. Seriously.
+>> Every bloody Marshall stuff is reversible, so its an opportunity
+   a good Craig can exploit.
+
+As said in previous faqs, his DSS_DFS stuff should certainly be seen with
+respect as you can't do anything about those, just sit back & block. Its
+an edge Marshall has above others. Wait for it to end, see the openings &
+keep throwing tackle from time to time. But be aware he has a 15 frame
+generic u/f+4 which will launch you out of it.
+
+His f+1+2~D is frustrating but can be:-
+>> Backdashed( d/b+3+4 )
+>> Reversed
+>> SSR, d/b+1+2
+Also if you block it, chances are he'll go for a DSS 2+4 or FC,d/f,d,d/f+3.
+You can avoid both things with u/b+3+4. If he throws the slide, his slide
+will whiff & yours stomp will hit him. Be aware, he can float juggle you
+with WS+4 if you become predictable.
+I just found this strategy, though can't be used regularly. Most Laws
+like to do f+1+2~D,WS+4~DSS stuff. If you are REALLY good you CAN 
+SSR+d/b+1+2 his WS+4. Don't beleive me? I myself was surprised in the 
+begining but it works. Just don't overuse it. 
+Whenever he becomes predictable with f+1+2, just d/b+3+4 him. It easily 
+avoids it plus if you're close enough, you can relaunch him with 3. 
+Having done it 2-3 times he'll surely rethink about it next time.
+
+His famous mixup WS+2_4~DSS and FC,d/f,d,d/f+3 should be u/b+3+4.
+Seriously, u/b+3+4 is completely safe even if it whiffs against Law. So
+ you get the following guessing games against him:- 
+> If you feel he'll do WS+2_slide--> u/b+3+4.
+> If you feel he'll do WS+4_WS+2---> d/b+3+4,3_1+2_d/f+4 depending on
+  range.
+d/b+3+4, u/b+3+4 is in order against his mixup. Avoids most of his stuff
+from FC.
+If you block his slide (FC,d/f,d,d/f+3), just WS+4,d/b+4. It will hit him
+at first but soon he'll start avoiding it with quick sideroll. After this
+he'll quickly getup & start throwing something on you:-
+> WS+2--Punish with f+1+2_f,f+2 depending on range.
+> If he throws a WS+4 & you're good, you can SSR,d/b+1+2 him.
+> A slide--Punish with WS+4 again. Be careful don't parry it. He becomes
+  grounded.
+
+If he hits you with a 2,2 just stay back and try to see what he does next.
+Chances are he'll throw a BT 2,2 which is uninterruptible but punishable
+on block. You can reverse it too.
+If he tries to be careful & does a 1,2 instead of that, still there are 
+chances he'll throw either a d/f+1_d/f+4_d+4 and similar mixups 
+afterwards. Reverse those too.
+
+He has troubles tracking, so keep using SSR,d/b+1+2 from time to time. 
+Marshall cannot punish it well, either he gets jabs or 4,3 only. 
+
+d/b+3+4 is most abused movement against him, but if done from close he'll
+catch you with a FC,d/f,d,d/f+3. Just be careful about that. Same applies
+for SS+3+4 too.
+
+Marshall has the upperhand in this match. He has speed, power but still 
+there some areas which he lacks & Marduk can exploit them very well. If 
+you understood his style, you'll have less troubles beating him.
+
+
+
+Vs Paul:
+--------
+Ask any Craig player if he has troubles against Paul. I do not intend to
+to say he's bad. He is very GOOD but if you're playing Craig at a decent
+level, it won't be a very hard matchup.
+First of all, against Paul you need to be careful about 2 things:-
+
+1) DO NOT WHIFF: Be careful or be ready to eat a few qcf+2 & d+1+2. These
+   moves are made for this purpose of which d+1+2 is 12 frames, so it 
+   will catch you even if you whiffed those little punches ( d/b+1_FC+2),
+   2,1 VTS+1 etc. All these moves do have good whiff recovery but against
+   Paul this fact doesn't hold good. Also Paul's outclassed in his block
+   punish ability due to this move, as it's 12 frames it can punish 
+   Craig's d/f+1 too. He dont even need jabs for this ;__; 
+   So what's the strategy for this? d/f+1. Simple as it is. It will 
+   launch him everytime you blocked this d+1+2. Choose your juggle 
+   depending on range.
+
+2) DO NOT OVERTURTULE: Seriously, Paul's d+4:2:1+2( Falling leaf combo),
+   SS+3 & his all time GREAT throws can break turtles instantly. So 
+   don't sit back & do nothing. Do some fake offense-- use d/b+3+4 a
+   lot( Saying so i assume you're applying your sense as well or a 
+   f,f+2:1 will catch you), SS & keep throwing tackles from time to time. 
+   If you block d+4--f,f+1 or standup quickly and d/f+1. Anything you 
+   like but don't punish with WS+3. Its not an opportunity for this move.
+   You need some big damage, don't you?
+
+Paul has difficulty in tracking to his right too, so SSR,d/b+1+2 can help
+but be careful if its blocked you'll be in some tight situation.
+Against Paul you don't need a BIG strategy. We are seeing him from the
+start of tekken so you can figure out with experience how to deal with 
+him.
+
+
+
+Vs Raven:
+---------
+Here we are against "impostor" Blade hahahahahhaaa...(*cough*).
+Sorry for saying that, but cool looks aren't going to help much, don't
+underestimate him though. Here's some random info:-
+ 
+* His lows are really good, amongst which the first thing that comes to
+  mind is his qcf+3+4. He can get some meaty damage from it. I'm not
+  kidding. Have a look at this:-
+  qcf+3+4, d/b+4, b+3 (tech), d/f+3, hcb+1+2.
+  Pretty long setup and MASSIVE damage from a low!! -__-
+  The last hcb,f+1+2 throw can be escaped but even if he doesn't do that
+  he does nearly 70 damage till d/f+3. Annoying, isn't it?
+  He's got some special for Craig from brief SS. The defense against it:
+  Just block & punish with a quick standup d/f+1_d+1+2_f,f+1 (Do not try
+  to parry it as its -41 on BLOCK!!). Rest lows are unsafe too, but you
+  should be parrying them if you want more damage.
+
+* His qcf options are pretty slow except qcf+3+4( 15 frames). Almost
+  every other move he's got from it slower than 17 frames but he can
+  use some custom strings in between like d/b+2,1 (i15), d/f+1(i14), d+2
+  etc. So 1+2 can be used to stop him whenever you see him CDing. It even
+  stops his SS games from there.
+
+* You can do some rush games against him to as his *magic* 4 doesn't 
+  combo on CH. His fastest CH is 2,4 of which both hits are HIGH & jab   
+  punishable. His 1+2 is 15 frames. So 1,d+2_1+2_d+2,4 can come handy.
+
+* His 4~3 is jab punishable on block but if he goes for 3_1 immediately
+  after it he can stop you. Defense against it to duck sometimes but
+  again he's a got a mid 4 after it but remember 4 cannot interrupt your
+  jabs. So it goes on like this:
+  4~3(Blocked)--2,1_1,2_1,d+2.----He can interrupt with 1_3
+  4~3(Blocked)--2,1_1,2_1,d+2.----Jabs will interrupt him even if he 
+                                  tries mid 4 afterwards.
+  
+* SSR,d/b+1+2 should be tried less against him as his f,f+3 TRACKS. Its
+  hard to SS it left too as Craig is BIG.
+  f,f+3 can catch you from your d/b+3+4 too, so be careful of doing
+  VTS backdash. You can punish it with 1,2_2,1.
+
+* His hcb,f+1+2 throw is very bufferable & he's got various setups for
+  this. Here's a short list. Just assume every move to be hitting them
+  unless i mention:
+  d/f+1
+  1,2
+  d/b+2,1
+  d/f+3
+  f,f+3 (whiff) While you're getting up from ground.
+  f,f,N+4
+  Thats a small list about the various ways he'll setup that throw. Break
+  with 1+2.
+
+Even though he hasn't got any reversals or parries, avoid committing 
+mistakes. He is an awesome juggler & kill you in no time. Not to
+forget his wall game is DEADLY too. Be patient & don't do anything
+needlessly. He isn't a SAFE character & can't win without taking chances.
+So just sitback & don't forget to punish.
+
+
+
+
+
+Vs Roger Jr.:
+-------------
+Roger's a all round funny character but she's (I said "SHE" as it carries
+a baby in its pouch) no nonsense. She's a 8-framer & nearly half of her
+moves are similar to King. She's got some annoying moves some of which 
+are:-
+
+* CH 1,2,1,2,1: Whole string hits on CH of which a good Roger won't do 
+  the last 1. The first 4 hits themselves give her so much advantage that
+  she can try anything she wants.e.g., FC,d/f+2, u/f+4 etc. CRAZY damage
+  afterwards. Be careful, if you get hit by this move near a wall,
+  chances are you'll be FINISHED >__<  
+  Yes 1,2,1,2, u/f+3,3(wall) is a real juice for her. Don't eat it.
+
+* f,N+1 is another annoying move (Not on hit but on block) which gives
+  her some free stuff again.e.g., f,N+1(Blocked), f,N,d,d/f+1_FC,d/f+2
+  etc. Not to forget, this move is dangerous on block near walls too, as
+  again she gets the same the same CH 1,2,1,2 setup but you CAN see it
+  coming plus its a high too. What a relief!
+
+* Her d/b+1+2 (Kangaroo attack) is another move to watch out for. It's
+  got amazing priority & goes under many of Craig's attacks, even under
+  SSR,d/b+1+2 sometimes ;__; She can hit him out of tackle with it too.
+  She gets some free stuff afterwards again but what you need to know is
+  when you block this move she remains airborne for a some frames so
+  juggling her after this move is a bit tricky. You'll have to time
+  d+1+2_f,f+1 well for it or she'll just be floated. If you can't do that
+  consistently do d/f+3,1 immediately after blocking it & do the juggle
+  of your interest.
+
+* Most of her lows can be seen on reaction and are punishable on block of
+  which you should be careful about SS+4. Its the same move like Craig's
+  d/b+1+2 in the end, part of her turtuling strategy. Punish it with
+  f,f+1 only. Other things seem to whiff. 
+  Her d/b+3 and d+2 can't be parried but can be punished with WS+4. This
+  is a match where you should be trying to block every low than parrying
+  it.
+
+* Her grab game is awesome too. As i said she's a half "KING" so she has
+  got some very nice grabs in the game of which f,hcf+1 & d/b,f+2 are the
+  same grabs in the end. She will set f,hcf+1 in various ways so learn to
+  break it. It can be techrolled too but if she throws you into a wall 
+  the damage you're going to recieve is BIG.
+  Her d/b,f+2 gives her free d/f+1+2. Its not because of Craig's size but
+  its true for every character in the game...but who gives a damn about 
+  other character. Its a CRAIG MARDUK faq. hehe..
+  
+* Lastly, be careful if she isn't ending her juggles with some obvious
+  ender, chances are she's actually setting up u/f+3+4 tech-trap. If she
+  hits you with it she gets free BT 3+4 to relaunch you. So be careful
+  about it too.
+
+These were some of the things you should be aware of. The problem with
+Roger, as with most characters, is most of her moves are unsafe. Learn to
+punish her. You don't want a Roger know you don't know how to punish
+her, do you?
+
+
+
+
+
+Vs Steve:  (Preliminary)
+---------
+Be very clear about it, if you're not playing Craig seriously & just for
+fun, just stop hoping to beat him. If you don't know much about Craig,
+playing with handful of knowledge, watched some casual vids & thought
+you're done--> you're simply wrong. Craig's easy to learn, no doubt,
+but playing him to a standard is a totally different issue. You need
+every skill of yours *Razor sharp* to overcome this beast.Then will it be
+easier to hang around him? :) Read on
+
+* His d+1, d/f+1 CAN be SSR,d/b+1+2. Its true & after blocking a 
+  f,f,f+2, this mixup becomes quite obvious so use it but i advise u
+  again don't become predictable with it.
+ 
+* 3+4,2_d+2 have to be blocked. You can't punish d+2 too =(
+  If he goes for u_d, 1_d+1 mixups, you CAN stop him every time with
+  1+2. He'll be briefly sideturned so you can attack but if he tries
+  to throw anything from there, SSR,d/b+1+2 will take care of him.
+
+* f,f,N+2 is his main tool to cover gaps. Its fast, knocks down on hit &
+  TRACKS. Yes, it can stop your SSR+d/b+1+2 attempt so don't try it when
+  you're at medium distance. He'll throw it out all of a sudden to
+  surprise you. If you block it, just FC+2. That's all you get. Don't
+  complain, others get a WS+4 only so that doesn't make much difference.
+
+* Whenever you see him moving away from you & swaying from LWV stance
+  to RWV (All those ******* hunchbacked stances he has), LWV to FLK &
+  all that, either
+  >> Keep your distance  OR
+  >> Throw some tracking moves to keep him off-balance such as 1+2,
+     d/f+1+2_d+4 (Particularly about d/f+1+2 & d+4 i'd say that they're
+     all HIGH CRUSH so they'll stop him from going back to FLK. If you
+     play against a good Steve you'll soon know why am i saying so)
+
+* If you eat a 2+4 throw, be careful while you getup. A good Steve can
+  f+2,1~b FLK 1,1,1,2 you to death.
+
+* If you block his d/b+3_u/f+3,2 you get enough time to do a WS+3 but
+  if you're feeling skillful you can f,f+1 him out of it too.
+
+* His SSL (Hold 3) 1,1 is absolute DEATH. He doesn't even need walls
+  for this so don't throw anything stupid when you feel like getting
+  a chance, you'll be finished. This is a strategy abused even by
+  scrubs. They'll constantly attack you and as soon as they feel you
+  going to retaliate, they immediately do SSL 3* 1,1 & you recieve
+  the the FREEZE stun!! The setups for this move are almost similar as
+  Craig's so once you get the feel of it be careful about your shot
+  selection.
+
+
+I know its a paper war only but i've said what i had to say & it's all
+true. A good thing after facing Steve is you become much confident against
+other characters...hehehe.....Good luck.
+
+
+Vs Wang:
+--------
+He is a "Parody" over other chinese characters. How can anybody fight
+in the age of 105!! Well.. its true. Don't get fooled by his AGE, he's a
+heavy hitter & can give you a very tough time.
+
+* His WS+2,2,2: Last 2 can be low parried if you block the 1st & 2nd. In
+  case it hits, you cannot low parry the last 2. A good Wang will shift
+  to mixup which is either a delayed 2 or u/f+4. Better to keep blocking
+  high till you can't guess it consistently. The 2 only hits, doesn't
+  knock you down whereas u/f+4 will launch you. Keep blocking if he hits
+  you with the 2 as he gets either a FC,d/f+4,3 or WS+4. Be careful about
+  it.
+
+* If you block his 1+3+4, don't attack. He'll CH you with a 1~1,1 & 
+  launch you. Also this throw isn't escapable or duckable. You'll have to
+  block it.
+
+* His only 1+2 escape throw comes out of a CD (qcf motion) too. He will 
+  CD and do a d/f+2+4. This itself brings Wanning Moon out. He'll mixit
+  up with WS+4_FC,d/f+4,3_ qcf+2 etc.
+
+* In his b+2,1 you can't duck the last 1 if you blocked b+2.
+
+* He's got various ways to counter your attacks particularly b+1. It
+  parries Craig's various irreversible moves too!! Its hard to give a 
+  list of things it can parry so see to it what you're throwing on him.
+
+* His f+1+4 combos plus catches tech too. Be careful he if he doesn't
+  complete a juggle with f+1+2 or qcf+2 just stay there & don't getup.
+  Try to see what he does.
+
+These are just a few things. There can be more things too. Wang is the 
+smallest thing in T5 but when he hits you the damage you're going to
+receive is BIG. Just play smart :)
+
+
+
+
+
+Vs Yoshimitsu:
+--------------
+Well, he actually IS very good but he may not be high on reputation as 
+Paul, Steve, Bryan etc. The reason for this--He's not easy to learn,
+juggles are hard to perform, got weird moves & most importantly isn't
+good looking (Well, Craig's aint imposing either):p
+These may be several reasons why people don't choose him as their main
+character but once he gets into good hands he'll show you his STANDARD.
+Here's a quick run on him:-
+
+* d/f+2 & u/f+3: His staple launchers of which you might be knowing that
+  uppercut(d/f+2) doesn't launch crouchers. Its fast & its best purpose
+  is whiff punishment whereas u/f+3 is more than what it looks. Its fast,
+  guaranteed move Yoshi gets after a low parry, a low crush (Yeah, every
+  one knows that) & a high crush too, sometimes. Same as Craig's d+1+2
+  at first but becomes a perfect high crush when done from a FC.
+
+* His f,f+4 (Fubuki) is 8 frames, so it will punish even those moves 
+  which others can't e.g., Craig's f,f+1_f+2_whiffed WS+1 etc. Its fast
+  but IS risky for him too on block (-15) so you get free f,f+2 after-
+  wards.
+
+* His f+3+4 (Kamikaze) is one of his best whiff punishers. Decent speed
+  & range, sometimes catches Craig out of a d/b+3+4 too so don't abuse it.
+  The downside of this move is-->Its jab punishable IF its blocked up
+  close. You can SS it either side too if you're good.
+
+* His 1+4 (Flash) is actually a thing to be careful about. It can counter
+  lots many moves including tackle, throws, spring forward attempt, mids,
+  lows & some irreversibles too BUT loses to high priority moves & some 
+  highs. Some staple setups which a Yoshi makes for it are (Assume every
+  following move of Yoshi to be blocked):
+  u/f+4: Main staple for him.
+  WS+2 : He can flash from BT too! Be careful about rushing to him.
+  b+1
+  d/f+2
+  f+3+4
+  u/f+3
+  BT 3 : BT flash again. You can LOW PARRY this MID!!!
+  Wakeup kicks you throw on him when you're grounded.
+
+  Here you might say i've mentioned some moves which are jab punishable
+  on block then how can he counter your moves? That's bcoz *flash* has
+  been awarded the priority to stop anything except guaranteed punishem-
+  ent.e.g., After a blocked f+3+4, Yoshi will eat jabs but if opponent
+  tries anything else besides that, he'll be countered. So never try to
+  be greedy & do only the thing opportunity says. 
+
+* His d/f+4 is still a fast move but doesn't track & is suspectible to
+  Craig's b+3+4.
+
+* His d/f+1,1,1,1 is a mhhm string so you can crush the 2nd hit with d/b+1
+  _d/f+1+2_d+4 if you block the first.
+
+* His FC,b+1_D/F,1 low unblockable *Sword sweep* can be crushed with u/f+4
+  or evaded with d/b+3+4. 
+
+* After eating a wall combo, don't tech. Just stay there (Most of the 
+  time you'll be in SLD position--> Face down, feet away). Almost every
+  Yoshi does a b,b+1,1 to catch you. Don't wait for it to be over. You
+  can d+2 him out of it too. If you wait for it to be over & do anything
+  afterwards, chances are either you're retaliation will be blocked or
+  you'll be countered with the *FLASH* again.
+
+* Do not overturtule. Doing this you're giving him a chance to do f,f+1+4
+  ,d+1+4 *Suicide unblockable*. It will come all of a sudden to surprise
+  you.
+ 
+This was just a little info on him. There could be more things too. He's
+one of a kind "Dark horse" in the game. You definetely can't outspeed him
+so just be good & turtule a lot (Do not overturtule or you're leaving 
+yourself open for a f,f+1+4.). That's it.
+
+
+
+
+=========================================================================
+                              HINTS & TIPS:
+=========================================================================
+
+We've discussed so far about a character that is amongst most hated ones
+and is loved only for one reason-He is easy to juggle. We've discussed 
+various reasons how can he be good BUT you'll come across some situations
+where you'll feel Craig's isn't exploiting the opportunity to its fullest
+or say there are some holes in his game. You may even feel sometimes to
+quit him =(
+This section is about reducing the chances for this to happen, making
+opponent take less advantages of his weaknesses & proving that picking up
+Craig wasn't a bad decision at all. 
+This section's about some tips & hints so that you play him to his 
+fullest. O.K... Let's start with some advices.
+
+* The most obvious requisite--Learn his movelist. Playing Craig with
+  incomplete knowledge is even more dangerous. The better you know him,
+  the better you play.
+
+* Generally most players try to avoid 3+4~3+4 part in juggles. I won't
+  force you to learn them but if you practice just a bit you'll 
+  certainly see the difference.
+
+* Most people try to use this combo after d/f+1:
+  2, d/f+3,1,2,VTSc, 1, f+2+4_f+1+3.
+  Nearly everytime, the last f+1+3_2+4 whiffs. I am sorry but i've to
+  repeat this nearly everytime--PLEASE, check the range from which 
+  they're launched. This juggle requires nose-to-nose distance. Go to 
+  practice mode & learn the various juggles that suit for various range. 
+  With a little bit of practice you won't face this problem anymore.
+
+* f+1+2_d+4 are the moves you'll be needing everynow or then in your game
+  but do remember a thing that both of them do not give any frames on hit.
+  After hitting with these moves just SS or backdash.
+
+* Most lows you'll come across will be safe against Craig so better low
+  parry them whenever you feel they're coming.
+
+* b+3+4_b+1+2 reversals are UNCHICKENABLE plus free mount too. What else 
+  do you want? Use them.
+
+* O.K. you might say " Even if i low parry certain lows, what about the
+  moves like Steve's f,f,N+2 which is only -11 on block & puts Craig in
+  crouch? " FC+1_FC+2. They hit & give you frames. That's all.
+
+* Don't confuse between the speed of Craig's d/f+1 & other character's
+  generic hopkick. e.g., Paul's u/f+4. Craig's one is slower than Paul's.
+  d/f+1 is 16 frames whereas u/f+4 is 15. So you won't be able to launch
+  opponent after blocking a move that's -15. Simply f,f+2_4_f+1+2 
+  depending on range. Don't get disconcerted. Craig's not the only victim
+  of this curse. There are others too.
+
+* d/f+1 has the same range as King's d/f+1,2 or Kazuya's d/f+2. So if 
+  you're DEAD sure you're blocking a move that -16 or above, go for it &
+  avoid f+1+2_f,f+2. No matter, how much damage you're going to get from
+  d/f+1, once launched, its far better than f+1+2 or f,f+2.
+
+* Craig's u/f+4 is made for low crush purposes. Its totally SAFE & combos
+  too (Though small but it would be kinda cheap if it had big ones, isn't
+  it).
+
+* d/f+1+2 is a PERFECT HIGH CRUSH & even stops EWGFs. Damnit...lol
+
+* Craig's known mainly for his unique VTS tackle and its the only move 
+  which the players varying from scrubs to masters rely upon so keep
+  using it untill you understand the timing for it. Believe me, you
+  have nothing to lose if its used correctly.
+
+* Have a look upon these things:
+  CH d,d/f+4
+  CH WS+4
+  SLD d+2
+  u/f+4
+  f+3+4
+ (f+2 Whiff), 1
+  1+3 airthrow etc.
+  What's common in all these stuns? They knock the opponent down &
+  open up a opportunity for small combos but what you're overlooking is
+  the groundthrow attempt you get for free after them. The best time to
+  use it--> When you're running low on health & time, my advice, just go
+  for it. You're going to lose anyway so this chance is worth taking.
+  If you get lucky, the damage you're going to deliver is atleast close
+  to 70 & thats not a bullshitt.
+
+* If opponent is in FCD (Face down, feet towards) or PLD (Face up, feet
+  away) & tries to roll away, just 3+4, 1+2. Its guaranteed & no escape.
+  Easiest option if you're doubtful about anything else.
+
+* Craig's *Magic*4 & 1+2 are both 13 frames but are meant for different
+  ranges. 1+2 should be used from close to mid range as its bad on 
+  whiff whereas 4 is best suited for mid to long range. Its relatievely
+  safe on whiff from long range but horrible if ducked from close range.
+  So check the distance you are using them from.
+ 
+* d/f+3,1,2,VTSc, 1,2,VTSc, f,f+1+2 is a staple from various groundthrows
+  Does 55 damage damage itself but if you can't time the d/f+3 right the
+  1 might whiff. So if you find it hard to land you can try anyone of the
+  following. They are much easy comparatievely so that you still getting
+  some damage from the air toss:-
+  F,2, d/f+3,1,2,VTSc, f,f+1+2: 51
+  U/F,4, 1, f+2,1             : 42
+  2, d/f+3,1, f+2,1           : 42
+  d/f+3, d+1                  : 43
+
+* f,f+1+2 throw is escaped a lot so try not using it to beat their
+  standing guard rather catching them of their attacks or motions. This
+  way it'll be least escaped.
+
+* Say you did a f,f+2. They ate it but are not doing some quick wakeup
+  strategies.i.e., they aren't quickrolling, backrolling etc. You didn't
+  knew that & you throwed a f+3+4 & it whiffed. They thought they got a
+  chance & tried to do wakeup kicks which could be
+>> A low which should be parried.
+>> A mid which shouldn't be reversed.WHAT? shouldn't be reversed?
+   Yes, just block it & go for the d/f+1. Even it launches at max range
+   you can still combo them nicely with: 
+   d/f+1, 1,2,3+4~3+4, 1,2,3+4~3+4, f,f+1+2. Still good damage. Better
+   than the damage you're going to get from the reversal.
+
+* If you & your foe are running low on health & time, never try to finish
+  a match with a d+4. Try using d/f+3,1_u/f+4_WS+4 etc which are safe.
+
+* Let me say it for a last time...Learn to PUNISH your opponent's blocked
+  moves.
+
+* If the above stuff didn't help you much, check out the various casual
+  vids of good players on youtube. Though you'll be seeing DR vids for
+  the most time but still they'll give you idea. 
+
+* Enjoy playing with Craig, the most important part =)
+
+
+
+=========================================================================
+                                CLOSING:
+=========================================================================
+
+That's all my faq's about. I hope you've liked it. I've put a lot of
+*hard* work into it. You can mail me feedbacks, comments, strategies
+etc, but to be specific:
+Do mail me with:
+
+* Stuff that is not covered in this FAQ
+* Comment, questions, feedback and fan mail
+* Asking if you can put this guide on your site. hehe...
+
+
+Please put tekken or Craig query in the subject so that I recognize it
+easily. Also no work is complete without the help of others as I am 
+going to add more sections in the near future, so keep checking.
+I'll be available at the TZ forums all the time, so if you have any
+queries, you can get me there too.
+
+
+
+=========================================================================
+                                CREDITS:
+=========================================================================
+
+Namco - For creating such a nice game & creating a character like Marduk.
+
+Drake the Demon - For encouraging me to write this FAQ.
+
+Wild Man X - For taking all the troubles in posting this FAQ to various
+             sites. Without your help, this FAQ wouldn't have been able 
+             to catch the attention of various people.
+
+Castel - For his excellent Tekken Zaibatsu site. Truely masterpiece!
+
+Zig21 - For his excellent Craig combo thread--Keep it up.
+
+Abhay, Prince, Vicky, Saurav and all others without whose help I wouldn't
+have acquired experience.
+
+And finally you -- For giving your precious time in reading this FAQ.
+
+
+
+=========================================================================
+
+                             Tekkenomics
+                      Class is now in session!!!
+
+                  Copyright 2000-2009 - Tekkenomics
+
+=========================================================================
+
+EoF
+
+

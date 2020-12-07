@@ -1,0 +1,2699 @@
+Date: Sun, 17 May 1998 23:00:21 EDT
+
+King Strategy Guide
+by
+dfdp5 @ hotmail.com
+
+PREFACE:
+This version will fit on a browser screen... and can be viewed/edited from
+DOS...
+
+1234567890
+..........
+
+-> if the numbers didn't match up vertically with the dots, then some parts 
+of this faq will look whack. Use courier/courier new fonts with either size
+8 or 10 to line them up
+
+Version #:
+1.1 = original
+1.2 = vs sub-bosses strategies, revised multipart tree, stuff I remember...
+1.3 = mind games section, more inputs, stuff I remember...
+1.4 = stuff i remembered.....
+1.5 = lotsa stuff (reworked juggle section, ground recovery section, etc...)
+1.6 = revamped general strategy section, custom combos
+1.7 = added the general move section
+
+LEGAL STUFF:
+You want to modify this faq (for your own use)..... fine...
+Share it to a friend...... no problemo...
+Change it and try to publish it..... check w/ me first...
+Erase my name and put your name in its place..... NO WAY JOSE!!!!
+
+PROLOGUE
+--------
+King is one of the hardest, maybe even THE hardest, character to learn in 
+Tekken 3. His multis takes a lot of memorization. More importantly, King do 
+not have a lot of special technique like other characters. However, as I 
+have discovered, King has the ability to be a lethal characters. In this 
+guide, I will try to explain, to the best of my ability, some strategies on 
+how to play King. So, sit back, and enjoy!
+
+SYMBOLS
+-------
+1 2   -->   lp rp
+3 4   -->   lk rk
+
+~  = quickly right after
+,  = after (not as fast as ~)
++  = at the same time
+SS = side step
+WS = while standing
+WC = while crouching
+!  = unblockables (on 10-strings hit level)
+ch = counter hit
+bk = back turned
+
+f  = forward
+df = down-forward
+d  = down
+db = down-back
+b  = back
+ub = up-back
+u  = up
+uf = up-forward
+n  = neutral
+
+stick directions in capital letters = hold direction
+
+
+TABLE OF CONTENTS
+
+1. Overview of King
+2. Ratings on King
+3. Move/Special Technique Discussion
+   - general moves
+   - multiparts discussion
+   - list of multiparts
+   - regular throws discussion
+   - list of regular throws
+   - special technique discussion
+4. Strategies Discussion
+   - general strategies
+     - defense strategy
+     - offense strategy
+   - poking strategies
+   - ground traps / okizeme strategies
+   - ground recovery strategies
+   - 10-strings strategies
+   - juggling strategies
+   - stun moves strategies
+   - custom combos
+   - vs characters strategies
+     - Ling Xiaoyu
+     - Yoshimitsu
+     - Nina Williams
+     - Forrest Law
+     - Hwoarang
+     - Eddy Gordo
+     - Paul Phoenix
+     - King
+     - Lei Wulong
+     - Jin Kazama
+     - Bryan Fury
+     - Kuma
+     - Heihachi Mishima
+     - Ogre I and II
+     - Julia Chang
+     - Gun Jack
+     - Mokujin
+     - Anna Williams
+     - Dr. Bosconovitch
+     - Gon
+   - "mind game" strategies
+5. Fun Stuff
+   - Profile
+   - Costume
+   - Start-of-match Pose
+   - Winning Pose
+   - Personal Quote
+   - 10 Commandments on Playing King
+6. Credits
+
+============================================================================
+============================================================================
+
+I. Overview of King
+-------------------
+King is a wrestler, which means that most of his damaging attacks are in the 
+form of throws. Many people tried to play King by depending on his multi 
+parts and throws. This, as I and maybe many other King players have found, 
+is not the most effective way of playing King. All Tekken masters knows the 
+escape sequences of King's throws and multis. Most people forget about his 
+special techniques, which is very useful. Mixing his special techniques, 
+throws, and multiparts can result in a very dangerous King. Learning to mix 
+it up can take a long time, but the end result is devastating.
+
+============================================================================
+============================================================================
+
+II. Ratings on King
+-------------------
+advantages: multis, more multis, good pokes, some sneaky attacks
+disadvantages: multis, lack of precanned combos, hard to master
+* the preceding was based on my experience
+
+easy opponent: Kuma, Gun Jack, Hwoarang, Law, Yoshi, Eddy, Ogre II
+medium opponent: Lei, Heihachi, Julia, Ogre I, Bryan, Mokujin, King, Ling
+hard opponent: Paul, Jin, Nina
+* the opponent ratings are based on my experiences against CPU and human 
+player. Any character can be dangerous in the hand of an expert/master. 
+Sometimes, the CPU is just a b****.
+
+============================================================================
+============================================================================
+
+III. Moves/Special Technique Discussion
+---------------------------------------
+
+**** general moves ****
+
+     I don't know why I forgot to put this in the earlier versions of my 
+guide, but here it is! By the way, this section is tailored to what King
+can do (some may appear in the rest of this document)
+
+f/F                           - walk forward (slowly)
+b/B                           - walk backward (slowly)
+ub/u/uf                       - low jump
+UB/U/UF                       - high jump
+d                             - feint duck
+D                             - duck completely
+DF                            - crouch forward
+DB                            - crouch back
+f,f                           - dash forward
+b,b                           - dash back
+u~n                           - sidestep to background
+d~n                           - sidestep to foreground
+f,f,f                         - run
+|-> 1+2                         - running cross chop
+|-> 3+4                         - sattelite drop kick
+|-> 4                           - running stagger kick
+\-> B                           - stop running
+f,n,d,df                      - crouch dash (ends up crouching)
+u+2/uf+2                      - quick pounce (on floored opponent)
+U+2/UF+2                      - hard pounce (on floored opponent)
+1+2+3+4                       - power charge (cannot block when charged)
+
+**** multiparts strategies ****
+
+     I decided to discuss strategies on multiparts first, because they could 
+be either King's strength OR his weakness. Multiparts are the most awesome 
+and damaging attacks in the game. However it has a couple of weaknesses:
+
+1. They can be interrupted - a lot of good players knows the escape 
+sequences of King's multis. They also knows how to break the multis starter.
+
+2. Long recovery time - when you initiate the multi's starter and missed, 
+there's quite a long pause before you gain control, long enough for a move 
+to be executed, whether it is a juggle starter, a throw, or other stuff.
+
+These two reasons is why I personally think that King's multis are not very 
+effective. However, there is a way to use multiparts so that it will help 
+you out.
+     King's multis are divided into 2 class, the dash-multis and side-step 
+multis. Dash-multis are those multi starters that requires King to dash 
+first before grabbing the opponent. These are the most rewarding multis, 
+and also the most difficult to set up. The dashing starter are the df+1+2 
+starter, the f,n,d,df starters and the b,f,df starters. These will go under 
+high attacks. So if you know that a series of high attacks are coming, then 
+that is the best time to use this. You can also use this when you know that 
+your opponent makes a huge mistake, like doing a move with a long recovery 
+time. However, those strategies is hard to do, since good players don't 
+really make a lot of mistakes.
+     The sidestep starters are the most useful multi starter. It is very 
+useful used as a suprise move, because of the side step factor. If you know 
+that your opponent will do a string of moves that won't track, use the side
+step multis to get out of the way and set them up. Be careful, however, 
+since there are some moves that will track you. You can also set up opponent 
+when they used moves with long recovery time. Another trait about this 
+starter is that it could be delayed, meaning you can do the sidestep first 
+and press the buttons at the last minute, making it more unpredictable. Last 
+but not least, you can also "psych" your opponent. What I mean is that you 
+use the side step multis when your opponent is about to launch an attack. If 
+they do, they will miss and King will set them up. This is really hard to do 
+because it requires good instincts. You can also cancel this multi starter 
+by holding B during the motion of the multi. Try cancelling in randomly so 
+the opponents will be more confused.  The bad side of this starter is that 
+it is the most dangerous starter, because it has a horrible recovery time, 
+and it is also the most visible. Be careful when you use it.
+     Once you've started a multi, there is a chance that the opponent will 
+break away. There is nothing you can do about that. However, I've noticed a 
+few things that could help you out. When you initiated a multi, there is 
+about a 2-3 second of time when King is doing the current throw. You can 
+enter the next sequence 2-3 times in this time. I've noticed that when you 
+entered the sequence this many time, it is HARDER for the opponent to break 
+away. I'm not sure what the cause is, though.
+     A lot of people are asking about the timing of the multis; when to 
+press the sequence. The fact is that it's not the timing that is important, 
+it's the tempo and the button pressed that are important. What I mean by 
+tempo is that you press the sequence rythmically. There have to be the SAME 
+interval between the parts of the sequence. For example, the cannonball 
+link sequence is: 2,2,1+2. To do it correctly, the amount of time between 
+the first 2, the second 2, and the 1+2 must be equal. What I mean by the 
+'button pressed' is that you have to press the correct sequence. I know this 
+is basic, but sometimes this is the problem. The RDC ender's sequence is 
+1+3,3+4,2+4,1+2, 1+2+3. You can easily press the wrong sequence here. In 
+conclusion, having a good tempo and pressing the right sequence is the key 
+to do these links.
+     Remember that you are taking a big risk in starting a multiparts. But 
+it is very rewarding. Multiparts are King's strongest assets. Using King 
+without using any multis every now and then is like fighting guns with bare 
+hands. Thus, learning how to use multiparts correctly is essential in 
+achieving the status as King masters.
+
+=========================================================================
+
+**** List of Multiparts ****
+
+     Here is a list of King's multis. I have decided to include this for the
+hell of it.
+
+MULTIPART TREES
+* goes from left to right, up to down. 
+* escape sequence are enclosed in []
+
+** The Reverse Nelson/Arm Clutch Series **
+
+RAC ----> BD ----> GS -----+ 
+           |               |
+RN  ----> CB -----------> PB 
+           |               |
+          MD ----> SF -----+----> GW
+                           | 
+                           +----> TB
+
+RAC - Reverse Arm Clutch    - f,DF+1+3 [1]   
+                            - f,DF+2+4 [2]
+                            - DF~1+3 or DF~2+4 (while in crouching motion)
+                            - damage: 25
+BD  - Back Drop             - 2,1,1+2 [1]
+                            - damage: 18
+GS  - German Suplex         - 3+4,1+2 [1]
+                            - damage: 18
+PB  - Power Bomb            - 1,2,3+4 [see note 1]
+                            - damage: 22
+GW  - Giant Swing           - 2,1,3,4 [see note 2]
+                            - damage: 27
+TB  - T-Bone Power Bomb     - 3,1,2,3+4,1+2+3+4 [see note 3]
+                            - damage:32
+RN  - Reverse Nelson        - f,DF+1+2 [1+2]
+                            - SS+2+4 [2] (to cancel: hold B while SS-ing)
+                            - df,df+2+4 [2] or df,df+1+3 [1]
+                              ( crouching throw )
+                            - damage: 28
+CB  - Cannon Ball           - 2,2,1+2 [see note 4]
+                            - damage: 18
+MD  - Manhattan Drop        - 3+4,1+2,1+2+3 [2]
+                            - damage: 17
+SF  - Super Freak           - 1,2,3+4,1+2 [none]
+                            - damage: 20
+
+note 1: 
+after the German Suplex, escape for Power Bomb is none. after Cannon Ball, 
+the escape for Power Bomb is 1.
+
+note 2:
+after the Power Bomb, the escape for Giant Swing is 1. after the Super Freak, 
+the escape for Giant Swing is 2.
+
+note 3:
+after the Power Bomb, the escape for T-Bone is 2. after the Super Freak, the 
+escape for T-Bone is 1.
+
+note 4:
+after the Reverse Nelson, the escape for Cannon Ball is none. after the Back 
+Drop, the escape for Cannon Ball is 2.
+
+** The Standing Heel Hold Series **
+* the escape for the links from Standing Heel Hold will cost King 10 pts 
+damage
+
+    +----> STF
+    |
+SHH +----> SDL
+    |
+    +----> IDL ----> RS
+
+SHH - Standing Heel Hold    - f,n,d,df+2+3 [2]
+                            - damage: 30
+STF - STF                   - 1,2,3,1+2 [1]
+                            - damage: 35
+SDL - Scorpion Death Lock   - 1+2,3,1,1+3 [2]
+                            - damage: 40
+IDL - Indian Death Lock     - 1+2,1,3,1+2 [1+2]
+                            - damage: 30
+RS  - Romero's Special      - 1,3,4,1+2,3+4 [none]
+                            - damage: 50
+
+** The Arm Breaker Series **
+      
+    +----> DAH
+    |
+SAH +----> RLS ----> AC
+    |
+    +----> CFL ----> DSH
+            |
+            +------> RDC
+
+SAH - Single Arm Hyper Extension  - f,n,d,df+1+4 [1]
+                                  - damage: 20
+DAH - Double Arm Hyper Extension  - 1+2,1+2 [1]
+                                  - damage: 25
+RSL - Russian Leg Sweep           - 1+2,4,2+4 [2]
+                                  - damage: 20
+AC  - Arm Crucifixion             - 4,3,4,3+4,1+2 [none]
+                                  - damage: 25
+CFL - Chicken Wing Face Lock      - 2,1,1+2+3 [1+2]
+                                  - damage: 25
+DSH - Dragon Sleeper Hold         - 2,1,3,1+2+4,1+2+4 [1]
+                                  - damage: 30
+RDC - Rolling Death Cradle        - 1+3,3+4,2+4,1+2,1+2+3 [2]
+                                  - damage: 75
+
+** The Ultimate Tackle Series **
+
+   +----> 5RP
+   |
+UT +----> 3RP ----------+ 
+   |       |            |
+   +----> AB ----> ES   |
+   |                    |
+   +--------------------+----> LB ----> ALS
+
+UT  - Ultimate Tackle             - D+1+2
+                                  - f,n,d,DF+1+2
+                                  - Run from about 4 characters away or less
+                                  - escape: [2+4]
+                                  - reversal: [D+1+2 (when you got hit)]
+                                  - damage: 5
+5RP - 5 Rushing Punches           - 1,2,1,2,1 [see notes 1]
+                                  - damage: 5 for each punch
+3RP - 3 Rushing Punches           - 1,2,1 [see notes 1]
+                                  - damage: 5 for each punch
+AB  - Arm Break                   - 1+2 [1+2,2,2,2,2,2,...]
+                                  - damage: 25
+ES  - Elbow Snap                  - 1+2 [none]
+                                  - damage: 10
+LB  - Leg Break                   - 3+4 [1+2,1,1,1,1,1,...]
+                                  - damage: 30
+ALS - Arm-Locking STF             - 1+2 [none] (see notes 2)
+                                  - damage: 40
+
+notes 1:
+to break the rushing punches press D+1 counter left punch, D+2 to counter 
+right punch.
+
+notes 2:
+to do the ultimate punishment, press and hold 1 on the leg break, and tap 2 
+like crazy...
+
+OTHER MULTIPARTS
+Irish Whip                        - b+1+2
+                                  - no damage
+  to Spinning Ground Smash        - 3+4 [3+4]
+                                  - damage: 10
+  to Quick Slam                   - 2+4 [2]
+                                  - damage: 8
+  to Spin & Let Go                - 1+3 [1]
+                                  - no damage
+  to Turn Around & Let Go         - 1+2 [1+2]
+                                  - no damage
+Pile Driver                       - d,df,f+1 [3+4]
+                                  - damage: 15
+  to Boston Crab                  - 1+2,3,4,1+2 (see notes 1)
+                                  - damage: 25
+Grand Smash                       - f,f,n+2 (on counter hit only)
+                                  - damage: 6
+  to Hi Jack Back Breaker         - 1+2 [1+2]
+                                  - damage: 30
+  to Jaguar Driver                - 1+2,u,d,n+3+4 [1+2]
+                                  - damage: 60
+
+notes 1:
+to do the Boston Crab, input the sequence the exact moment right before 
+King slams down the opponent. Do it in less than 1/2 second.
+
+=========================================================================
+
+**** Regular Throw Discussion ****
+
+     King has quite a lot of regular throws. Most of them can be breaked 
+just by using either the left or right punch buttons. But some have more 
+complex escape sequences. Therefore, you should alternate which throw you 
+want to execute. Keep your opponent guessing.
+     From what I've experienced, regular throws are most useful when used 
+when an opponent uses an attack with long recovery time and miss. There are 
+a lot of move out there that have a long recovery time. An example would be 
+Nina's blonde bomb( f,f+1+2 ), King's turnaround kick( b+4 ), Law's flip 
+kicks( 3+4,3 ), etc. You can also throw when you know the opponent is going 
+to miss. For example, Lei's rave war( db+4,4 ) second hit is high, so you 
+can duck it and throw after. The same goes for Hwoarang's 1,1,3,3 combo's 
+last hit. You can also do a throw when you stun someone. For example, when 
+you do the stomach smash and get the counter hit, or the 9th hit of King's 
+10-string that ended in the powerbomb. You can throw them in those 
+situations, but the timing is very strict.
+     The same stuff above can also be said about side/back throws. The only 
+difference is the location where King catch the opponent. There are several 
+moves that leaves opponent on their back. Law's elbow -> reverse flipkick 
+combination is such a move. For Yoshi's copter and Gun Jack's thrust, you 
+have to run up behind them first, and throw them. The same can be said for 
+Julia's earthquake stomp, but the timing is harder. Back throws cannot be 
+escaped, and it cost tons of damage. However, they are very hard to pull 
+off.
+     Crouch throws is quite a useful move. It is fairly quick to pull off, 
+and it has less recovery time than ground throws. It requires the opponent 
+to be in a crouching position. A few low attacks should get them crouching. 
+You can also start a multiparts when the opponent is crouching, although 
+the sequence is complex( df,df+2+4 OR df,df+1+3 ). 
+     Ground throws is very tricky to pull off. If you missed, the recovery 
+time is quite long, and that leaves you very vulnerable. Most people 
+usually gets off the ground before you can attempt a ground throw anyway, 
+unless they are really dumb:). There are a few moves for King that leaves 
+the opponent in the position where they are vulnerable to ground throws. 
+King's left kick reversal is one of them. It'll leave you standing on 
+opponent's side, face up. The jaguar driver leaves the opponent face up feet 
+first. King's standing heel hold to STF multiparts leaves the opponent on 
+their side. King's mid uppercut usually puts the opponent on the ground, 
+although you have to run up to them a little bit. King's 10-string that ends 
+up in a powerbomb is a good ground throw set-up moves, and the same goes for 
+his ankle smash( D,df+1 ).
+     Like multiparts, regular throws are not very effective when it is used 
+regularly. I advise to keep them as a suprise move. Some of King's complex 
+throws cost about half of opponent's life. The giant swing cost about 70 
+points of damage. King is the game's master of throws, so keep them in mind 
+for some in-close fighting. 
+
+=========================================================================
+
+**** List of Regular Throws ****
+
+     The regular throws are listed first, then crouching throws, then ground 
+throws. Here it is:
+
+** Front Throws **
+
+Name: Swing DDT
+Sequence: 1+3
+Damage: 35
+Escape: 1
+Notes:
+This throw and the Suplex are King's basic throw. They are useful because 
+they are the easiest to perform. Some may say that these throws are easily 
+breaked, but by just mixing them up, the chances of being breaked are 
+greatly reduced.
+
+Name: Suplex
+Sequence: 2+4
+Damage: 35
+Escape: 2
+Notes:
+See notes on Winding Nut.
+
+Name: Knee Bash
+Sequence: df+2+3
+Damage: 30
+Escape: 2
+Notes:
+Not as easy as the basic throws, but easier to execute than the other throws.
+
+Name: Frankensteiner
+Sequence: df+3+4
+Damage: 45 (60 on counter hit)
+Escape: none
+Notes:
+This will connect if you hit the opponent with the frankensteiner as a 
+counter hit, or if you are close enough. Useful because there is no escape 
+for this throw. However, it takes a while to perform, so they could jab you 
+while you are in the air. Use this when the opponent is getting up to 
+enhance your chance to perform this throw.
+
+Name: T-Bone Powerbomb
+Sequence: d,db,b+1+2
+Damage: 50
+Escape: 1+2
+Notes:
+The coolest looking throw in the game! It is also easy to pull off, and the 
+escape is trickier. You could end up doing the Irish Whip instead of this 
+throw, so practice a lot.
+
+Name: Pile Driver
+Sequence: d,df,f+1
+Damage: 15
+Escape: 3+4
+Notes:
+This throw is quite useful because the escape is quite unique, and it can be 
+linked to the Boston Crab. The sequence is a little complicated, but with a 
+little practice, you can do it.
+
+Name: Face Smash
+Sequence: d,df,f+1~1+2
+Damage: 30
+Escape: 3+4
+Notes:
+This is a transformed Jaguar Driver. The escape is still the same. Press 1+2 
+quickly after the Jaguar Driver connects right away to get this throw.
+
+Name: Figure 4 Leg Lock
+Sequence: db+1+2
+Damage: 32
+Escape: 1+2 (reversal: 3+4)
+Notes:
+This throw is quite dangerous because the opponent is able to reverse it for 
+26 pts. damage to you. However, in the heat of the battle, opponents are 
+less likely to reverse it.
+
+Name: Giant Swing
+Sequence: f,b,db,d,df,F+1
+Damage: 70
+Escape: 1
+Notes:
+Although this move is hard to pull off, the damage is so big. Sometimes I 
+ended up pulling this throw when I meant to do the Jaguar Driver. Practice 
+the sequence, then you will be alright.
+
+Name: Tombstone Pile Driver
+Sequence: db,F+2
+Damage: 58
+Escape: 2
+Notes:
+Kinda hard to pull off, since the joystick sequence is kinda tricky. However, 
+with a little practice, this throw can be a valuable asset, since it is one 
+of the throws that do not require a lot of stick movement. Good damage, too.
+
+Name: DDT
+Sequence: D,db,d,DB+1+2
+Damage: 55
+Escape: 1+2
+Notes:
+This is an almost useless throw. The only time I can possibly think of when 
+you can pull this throw off is when a series of high attacks are coming, or 
+the opponent are just dumb. The damage is not phenomenal( about 56-58 pts ). 
+Give yourself a pat in the back when you are able to do this throw.
+
+** Side Throws **
+
+Name: Argentine Back Breaker ( left side throw )
+Sequence: 1+3  OR  2+4
+Damage: 40
+Escape: 1
+Notes:
+Side throws are just like regular throws. The different is where you caught 
+the opponents.
+
+Name: Knee Drop ( right side throw )
+Sequence: 1+3  OR  2+4
+Damage: 42
+Escape: 2
+Notes:
+See notes for Argentine Back Breaker
+
+** Back Throws **
+
+Name: Half Boston Crab
+Sequence: 1+3
+Damage: 60
+Escape: none
+Notes:
+If your opponent ever show his back, and you are close enough, punish them 
+with back throws. King's back throws are some of the strongest throws in 
+the game, and you can't escape from back throws.
+
+Name: Cobra Twist
+Sequence: 2+4
+Damage: 60
+Escape: none
+Notes:
+Same thing with the Half Boston Crab
+
+Name: Octopus Slam
+Sequence: b,F+1+2
+Damage: 75
+Escape: none
+Notes:
+a little harder to pull off, but nastier damage.
+
+** Crouching Throw **
+
+Name: Jumping Power Bomb
+Sequence: d+1+3  OR  d+2+4
+Damage: 45
+Escape: 1+2 (for both)
+Notes:
+King has the ability to throw crouching people. Use it when you are close 
+enough and the opponent is crouching. This will make the opponent think 
+twice when crouching. You can also use this after you low cancel the low 
+kick attacks of your opponents. Tap f really fast, and do the sequence. 
+Timing is rather hard, though.
+
+** Ground Throws **
+
+Name: Crotch Head Butt
+Sequence: db+2+4
+Damage: 33
+Escape: 3+4
+Notes:
+opponents must be in face up, feet toward position (facing up, feet toward 
+you). Looks painful in real life.
+
+Name: Figure 4 Leg Lock
+Sequence: DB+2+4
+Damage: 33
+Escape: 3+4
+Notes:
+opponents must be in face up, feet toward position. You must hold the DB 
+position to do this throw.
+
+Name: Mini Swing
+Sequence: db+1+3
+Damage: 30
+Escape: 3+4
+Notes:
+opponent must be in face up, feet toward position. 
+
+Name: Flip Over
+Sequence: db+1+3  OR  db+2+4
+Damage: none
+Escape: 1+3 or 2+4, respectively
+Notes:
+opponents must be in face up, side toward position( facing up, left/right 
+side toward you ). Cost no damage.
+
+Name: Arm Crucifixion
+Sequence: db+1+3  OR  db+2+4
+Damage: 28
+Escape: 1+2
+Notes:
+opponents must be in face up, feet away position(facing up, feet away from 
+you).
+
+Name: Wing Tearer
+Sequence: db+1+3  OR  db+2+4
+Damage: 32
+Escape: 1+2
+Notes:
+opponent must be in face down, feet away position.
+
+Name: Half Boston Crab
+Sequence: db+1+3  OR  db+2+4
+Damage: 30
+Escape: 3+4
+Notes:
+opponent must be in face down, feet toward position.
+
+Name: Camel Clutch
+Sequence: db+1+3  OR  db+2+4
+Damage: 37
+Escape: 2+4
+Notes:
+opponent must be facing down, and have his right side toward you
+
+Name: Strangle
+Sequence: db+1+3  OR  db+2+4
+Damage: 35
+Escape: 1+3
+Notes:
+opponent must be facing down, and have his left side toward you
+
+=========================================================================
+
+**** Special Technique Discussion ****
+
+     King has a rather small amount of special moves, but the way I see
+it, the ones he has are very useful, almost each and everyone of them.
+
+	In this section, I will discuss each of King's special technique in 
+detail. This is the form I will use:
+
+Name: whatever
+Sequence: how to do this move
+Attack Level: high/medium/low/ground
+              (two or more level could be given)
+Damage: in points
+Usefulness: on the scale of 1 (lowest) to 10 (highest)
+Abilities: anything special
+Notes: a little description
+
+Now that I have given you all of that stuff, here we go:
+
+****
+Name: stagger kick
+Sequence: d+3+4,4,4(,4,4) OR (WC),df+4,4,4(,4,4)
+Attack Level: low/ground
+damage: 13 (first hit only)
+Usefulness: 7 1/2
+Abilities: stun( read notes ), hit grounded opponents
+Notes:
+Stagger kick is King's trademark moves. It has 2 attack level. IF the 
+first 2 connects, it will stun the opponent. It can be started from a 
+standing or crouching position. It can also be followed with a spinning 
+uppercut, by pressing 2 after d+3+4. On counter hit, it is possible to do 
+it 5 times, and the smash can be done after the 1st, 2nd, and 3rd kick. 
+However, stagger kick has a long recovery time. If an opponent was able 
+to block the last of the 3 ali kicks, he could be crouch grabbed. Overall, 
+a good attack.
+
+****
+Name: hop kick
+Sequence: uf+4
+Attack Level: mid
+Damage: ?
+Usefulness: 9
+Abilities: juggles
+Notes:
+This is not really a special move, but in King's case, it is. It actually 
+hit medium, not high. It's King's best juggle starter. It leaves you open 
+for a split second, but usually not long enough for an opponent to attack 
+you. It can be reversed, though. I feel that this move is best use as a 
+suprise move. Overall, a very good attack.
+
+****
+Name: konvict kick
+Sequence: f,f+4
+Attack Level: mid
+Damage: 30
+Usefulness: 8
+Abilities: -
+Notes:
+I prefer this move rather than the turn around kick, because it will not 
+leave you turned around. This move is not good used as a close attacks, due 
+to the sequence. It is an excellent medium range attack, however. It has 
+good damage, and it's quick. Overall, a good attack.
+
+****
+Name: mid savate kick
+Sequence: df+3
+Attack Level: mid
+Damage: ?
+Usefulness: 9
+Abilities: - 
+Notes:
+This move has suprising range, long enough to caught some people offguard. 
+A good move to pull out of nowhere, because most people don't see this move 
+a lot. It is one of King's longest and easiest to pull kick move. Great 
+from mid to close range. Overall, a great move.
+
+****
+Name: low savate kick
+Sequence: df+4
+Attack Level: mid/ground
+Damage: ?
+Usefulness: 9
+Abilities: - 
+Notes:
+Another version of the savate kick. Though it lacks range, it does not lack 
+in usefulness. In the heat of the battle, almost no one expect this sneaky 
+move. It also hit grounded opponents, and it is a good counter move. 
+Overall, a great move.
+
+****
+Name: turnaround kick
+Sequence: b+4
+Attack Level: high
+Damage: 20 
+Usefulness: 7
+Abilities: result in a back turned position
+Notes:
+I have mixed feelings about this attack. It can be reversed, or ducked. It 
+also have a long recovery time. It also leaves you in a back turned 
+position, and you can't block in this position. However, this is a good 
+counter move, because it is easy to pull. Overall, a fair attack, although 
+be cautious when using it.
+
+****
+Name: moonsault body press
+Sequence: 1+4 OR <back turned position>+1+4
+Attack Level: all
+Damage: 25
+Usefulness: 7
+Abilities: UNBLOCKABLES!!
+Notes:
+I consider this a special move because it's fairly quick to do. This move 
+will hit a standing opponent and grounded opponent. It can also be done 
+from the back turned position. However, it will leave you laying on the 
+ground, face down, open to any ground traps/okizeme attacks. This move is 
+also vulnerable against jabs, because you can jab King out of it while he's 
+on the air. Overall, a good attack.
+
+****
+Name: clothesline
+Sequence: <back turned position>+1+2
+Attack Level: High
+Damage: 50
+Usefulness: 3
+Abilities: UNBLOCKABLES!!
+Notes:
+Another alternative move from the back turned position. However, I don't 
+recommend this move at all. It is easily seen, and can be ducked. The 
+upside is that this move is very strong. Takes about 50% of health. 
+Overall, this move is not effective.
+
+****
+Name: deadly boomerang kick
+Sequence: SS+3+4
+Attack Level: High
+Damage: 60
+Usefulness: 4
+Abilities: - 
+Notes:
+This move cost about 60-70% on regular hit and around 80-90% on counter 
+hit, and if you miss, you can roll away. However, that's the only good 
+thing about it. This move has a low priority, meaning you can jab King away 
+when he's doing it. It also hits high, which mean the move can be ducked. 
+Overall, only use this move as a suprise, and not for anything else.
+
+****
+Name: frankensteiner
+Sequence: df+3+4
+Attack Level: all + ground
+Damage: 15?
+Usefulness: 8
+Abilities: on counterhit, it will throw opponents
+Notes:
+Quite a useful move, although it takes a while to do. It will also hit 
+grounded opponent. It will result in a throw if this move connects close 
+enough, or on counterhit. Can be used in ground traps. Overall, a good 
+move.
+
+****
+Name: drop kick
+Sequence: f,f+3+4 OR 3+4 (delayed)
+Attack Level: mid
+Damage: 25
+Usefulness: 7
+Abilities: stun if blocked
+Notes:
+Not a very good move close up, due to the time it takes to perform it. But 
+from medium range and up, it's pretty useful. This is a safe move to do, 
+because it will stun your opponent. The delayed version takes longer to do, 
+but you can use this to your advantage. Use the delayed version from a 
+medium range to fool the opponent into attacking, and if he misses, King 
+will knock him senseless. Overall, an average but safe move.
+
+****
+Name: satellite drop kick
+Sequence: f,f,F+3+4 OR <run>+3+4
+Attack Level: high
+Damage: a lot...
+Usefulness: 7
+Abilities: stun if blocked
+Notes:
+Only good from long range. This version of the drop kick can be ducked, 
+making it less useful. However, it takes off horrendous damage. Overall, a 
+cautious move.
+
+****
+Name: standing left upper
+Sequence: WS+1
+Attack Level: high
+Damage: ?
+Usefulness: 8
+Abilities: -
+Notes:
+This is a good counter move. It's pretty simple to do, and the recovery 
+time is minimal. It's a close range move, though. Since King's poking 
+technique ( which will be discussed later ) requires him to spend most of 
+his time in a ducking position, this move is a great poking move. Overall, 
+a great move.
+
+****
+Name: ankle smash
+Sequence: D,DF+1  OR  DF~1
+Attack Level: low/ground
+Damage: 21
+Usefulness: 8
+Abilities: hit grounded opponent
+Notes:
+This move seems to always hit other opponent, maybe because no one uses this 
+move regularly. This move is also a great ground trap move, because it will 
+hit grounded opponent. As with all the move, do not use this move regularly, 
+so your opponent will not get used to it. When you do this move, you can hold 
+DF and press 1 two more times for 2 more ankle smash. Overall, a good move.
+
+****
+Name: elbow sting
+Sequence: df+1
+Attack Level: mid
+Damage: ?
+Usefulness: 9
+Abilities: stun if blocked
+Notes:
+This is a nasty counterhit move, because it takes good damage, and it puts 
+people on the ground on counterhit. If blocked, it will stun your opponent. 
+It is also a very quick move. It has a medium recovery time. Overall, a 
+great move.
+
+****
+Name: side swipe
+Sequence: df+2
+Attack Level: mid
+Damage: ?
+Usefulness: 8
+Abilities: - 
+Notes:
+Though lacking in range, this move makes it up in speed and recovery time. 
+The speed makes it a good counter move, and it's recovery time is good. The 
+short range it has is the only drawback of this move. Overall, a good 
+poking move.
+
+****
+Name: K's flicker/Grand Smash
+Sequence: f,f+2  OR  D,DF+2  OR  WS+2
+Attack Level: mid
+Damage: 20
+Usefulness: 6
+Abilities: juggles on counter hit
+Notes:
+The cons of this move is that it has a quite long recovery time, enough for 
+the opponent to be able to inflict something on you. On the other hand, 
+this move does good damage, and it will juggle on counter hit. Overall, 
+use this move carefully.
+
+****
+Name: stomach smash
+Sequence: f,f,n,2
+Attack Level: low
+Damage: 6
+Usefulness: 7
+Abilities: stuns on counter hit / can link to a throw
+Notes:
+This is one of King's best medium to far range move. The neutral position 
+in the sequence makes this move pretty much useless in close range fighting. 
+If this move is a counter hit, press 1+2 to get the hi-jack backbreaker. 
+You can also do a powerbomb, but the sequence( 1+2,u,d,n+3+4 ) is pretty 
+complicated. You can also throw or juggle when you stun the opponent. Most 
+importantly, this move hit low. Not many people know how to defend this 
+move. Overall, don't use this move when you are too close to the opponent.
+
+****
+Name: dark arrow
+Sequence: SS+2
+Attack Level: mid
+Damage: 30
+Usefulness: 3
+Abilities: stuns on counter hit
+Notes:
+This move should be taken out in Tekken 4. The 1/2 sec it took to complete 
+this move is more than enough time for a good opponent to back away, or to 
+inflict damage on you. Some less than average (way less!) opponent might 
+fall into this move, but most people knows how to defend against this move. 
+It does good damage, and it stuns on counterhit, but the bad points 
+outweight the good points. Overall, use this move once every 3 months.
+
+
+****
+Name: jaguar lariat
+Sequence: F+1+2
+Attack Level: high
+Damage: 50
+Usefulness: 4
+Abilities: UNBLOCKABLES!!
+Notes:
+King's unblockables are fairly quick. This one is one of the quickest 
+unblockable moves in the game. However, it hits high, so it can be ducked, 
+leaving you open. Overall, watch out when you do this move.
+
+****
+Name: flying cross chop
+Sequence: f,f+1+2
+Attack Level: high -> mid -> low -> ground
+Damage: 15
+Usefulness: 7
+Abilities: stun if blocked
+Notes:
+This is a unique move. It hits in 4 different places. It goes from high, to 
+mid, to low and ends up in a ground hit. It also stuns if blocked, and the 
+stun is long enough so King can tack on 1 or 2 extra hits. Overall, a good 
+move.
+
+****
+Name: jumping knuckle bomb
+Sequence: uf+1+2
+Attack Level: mid
+Damage: 35
+Usefulness: 6
+Abilities: -
+Notes:
+This move has a long recovey time, and it doesn't stun. Remember this when 
+you want to do this move. It is a good move for ground traps, though 
+advanced player knows how to roll out of it. Overall, a cautious move.
+
+****
+Name: spinning elbow -> hand knife
+Sequence: 1+2,1
+Attack Level: mid -> mid
+Damage: 15,21
+Usefulness: 8
+Abilities: result in back turned position( if only 1+2 is pressed )
+Notes:
+I consider this to only be 1 move. The second part will push the opponent 
+out of range, so it is quite a safe move. If the 1st part hit, the 2nd part
+will always hit. Pressing only 1+2 will result in the 1st part only, and you
+end up in a back-turned position. I recommend doing both part of the move.
+Overall, a good move.
+
+****
+Name: elbow drop
+Sequence: d+1+2
+Attack Level: mid / ground
+Damage: 15
+Usefulness: 5
+Abilities: stuns
+Notes:
+Good ground traps move. This move is fairly quicker than the Tekken 2's 
+version, and it does good damage. It also stuns. However, this move leaves 
+King on the ground, vulnerable to sweeps and all sorts of ground traps. 
+Overall, use this move cautiously.
+
+****
+Name: dashing knuckle bomb
+Sequence: f,n,d,df,n,1+2
+Attack Level: mid
+Damage: 28
+Usefulness: 7
+Abilities: bounce juggle on counterhit
+Notes: 
+Since it is difficult to pull, this move is no good at close range. Use it 
+when you are in a medium/far range. It has some recovery time, though, and 
+I don't think it stuns when blocked. Don't forget to juggle if it is a 
+counter. Overall, don't overuse.
+
+****
+Name: offensive push
+Sequence: f,f,n,1+2 ( close up )
+Attack Level: mid
+Damage: none
+Usefulness: 6
+Abilities: stuns opponent
+Notes:
+This move doesn't take any opponent's life. It acts just like Jin's version. 
+Remember that this move only happens if the opponent are close up. Overall, 
+I haven't found a good way to use this move, but I'm sure there is.
+
+****
+Name: black shoulder
+Sequence: f+2+3
+Attack Level: mid
+Damage: 40
+Usefulness: 4
+Abilities: - 
+Notes: 
+Though this move will do tremendous damage, it has quite a long recovery 
+time and set up time. Most good player knows how to defend against this 
+move. However, this is a good ground trap move, because it will hit a 
+rising opponent and put them back on the ground again. Overall, only use 
+for ground traps.
+
+****
+Name: jumping elbow drop
+Sequence: uf+2+4
+Attack Level: mid/ground
+Damage: 35
+Usefulness: 4
+Abilities: - 
+Notes:
+This move is very visible, so the opponent might have time to react against 
+it. It does good damage, and have ground traps capabilities. However, the 
+bad points outweights the good points. Overall, use it very, very 
+cautiously.
+
+****
+Name: kick reversals
+Sequence: b+1+3  OR  b+2+4
+Attack Level: will reverse high/medium kick
+Damage: varies.... i think
+Usefulness: 10
+Abilities: left kick reversal will leave opponent open for ground throw
+Notes:
+You should master this move as fast as possible. In other words, learn other 
+characters 10-strings' breakpoints. Namco's official Tekken 3 website has 
+those information. King's reversals is easy to do, and it will save you 
+from defeat many times. Best of all, King's reversal CANNOT BE REVERSED!!!. 
+So feel free to reverse! HOWEVER, King's reversals will NOT reverse any 
+punches. Overall, use this move whenever possible!!
+
+***
+Name: low thrust block
+Sequence: db+1+4  OR  db+2+3  OR  d+1+4  OR  d+2+3
+Attack Level: will reverse low punch/kick attacks
+Damage: none
+Usefulness: 10
+Abilities: advantage by 26 frames 
+Notes:
+Though the sequence is kinda confusing, this important move needs to be 
+mastered ASAP. You need to know which hit of the character 10-strings are 
+low hit and also a break point. It will also reverse low punches. You can 
+try to pull a crouch throw after you low cancel a low kick attacks. Tap f 
+and do the crouch throw sequence quickly. Overall, also use this move 
+whenever possible.
+
+***
+Name: attack reversal reversal/chickens (ARR)
+Sequence: F+1+3 (for left limbs attacks)  OR  F+2+4 (for right limb attacks)
+Attack Level: n/a
+Damage: ?
+Usefulness: 10
+Abilities: reverse a reversal
+Notes:
+This is another thing that you have to master as soon as possible. Unfortunately,
+this is probably the hardest thing to master in Tekken 3. To use this, you
+must know if your opponent will use a reversal on your moves, which takes
+a good amount of skills and a bigger amount of luck. If you can master the
+timing involved, you can prolly master anything :o). To ARR a left limbs 
+reversal, press F+1+3 within 8-10 frames after being reversed. Use F+2+4
+on right limbs. To make it easier to ARR, buffer the F during the moves that
+you think can be reversed, and press the appropriate buttons as soon as you
+know you are being reversed. Overall, hard as f***, but worth it.
+
+============================================================================
+============================================================================
+
+IV. Strategies Discussion
+-------------------------
+
+First of all, thanks to 1TruKing for sharing with me some strategies on 
+King. All of the strategies here are supplied by me and him. Now, on to 
+some strategies...
+
+=========================================================================
+
+**** General Strategies ****
+     
+     When you play King, you need the frame of mind that you are the best 
+and nobody can stop you. Have no fear or show no fear. This is very 
+important when you play. Be careful not to overuse King's linkers, because 
+it can be broken with little effort, though it can be devastating when it 
+connect. Most people expect you to throw and link, but don't. King's 
+regular moves are very strong. Remember this: people think King is big, 
+strong and slow. In general they are right, but he is a lot faster than you 
+might think. King has the ability to be fast, by using poking technique 
+and fast moves.  
+
+- defense strategy -
+
+	Personally, I like to play a defensive King. Since King's combo 
+potential is rather small, you must master his defensive sides in order to
+be good with him. Playing a defensive King imho consist of interrupting 
+opponents with counter moves and a lot of dodging with side steps.
+	Since King is much more effective at close range, mastering close range 
+defense is highly imperative. I define close range from up next to each other
+to the range where d+1 will connect. At close range, using lighting fast moves 
+to counter is much more effective than waiting for a kick attack. Also,if you 
+have lighting fast reflexes, you can also utilize close range side stepping 
+(just ss without the 2+4) to avoid attacking opponents and either throw, juggle 
+or use a special move on them. In this range, opponents can easily throw you, 
+so blocking in this range is rather dangerous. If the opponent is a throw-happy
+dude, duck his throws and use the ws+ moves. If the opponents happens to use 
+King, rely more on counters. However, do not count out blocking. If the opponent
+choose to use combos in close range, then blocking is probably the best thing
+to use. Use kick attack reversal if the combo happens to use high/mid kick, and 
+use low thrust block if there's any low attack in it. Here is a list of King's 
+moves that have a good defensive potential in close range fighting (imho):
+
+d+1~n+2 - great against those aggresive suckers. Basically a low jab with 
+          an uppercut follow up. Works (almost) exactly like D+1
+df+2 - works great from the far edge of close range because it comes out
+       fast, but will not work if opponent is in a middle of a combo :o(
+1,2 - works great as a suprise move. Try following it up with D+4 to 
+      frustrate opponents
+2,1 - same as 1,2, except it hits high -> mid
+D+1 - great defensive stopper. Use this if you want to follow it up with
+      either one of the ws+ moves. Otherwise, use d+1~n+2. This move will
+      also track opponents who are not aligned with you
+D+4 - same as D+1 except this hits low. D+1 hits special-mid
+ws+2 - the juggler of the ws+ moves. It has a little recovery time. If 
+       opponent block, quickly use D+1 to avoid any retaliation
+ws+4 - quick, high priority mid kick. Longer reach than ws+1
+ws+1 - quicker, high priority mid uppercut. Shorter reach than ws+4
+uf+4 - quick hop kick that juggle. Use only if you are sure that it will 
+       hit, or you'll be sorry
+
+I have to warn you that some of the moves listed above can be reversed (such 
+as df+2 or the punches) by an alert opponent. Use ARR (listed in the special 
+technique section above) if they reverse it. One last thing, be smart about 
+using the counter moves. For example, if the opponent is in the middle of an 
+attack animation, the best advice I can give is to block it, because most of
+the time their attack will connect before your counter move connect, and you
+end up on the losing end of the stick. Choosing what is the right thing to do
+can only be learned by experience.
+	Beyond the close range is the medium range. I define medium range from
+where the last range ended to the range where f,f+4 will connect. In this 
+range, attack reversals and and low thrust blocks is easier to execute because 
+it is easier to see which attacks are coming. Also at this range, side stepping 
+also becomes easier, and you can use ss+2+4 more safely. This is important, 
+because King has a lot of good options from the sidestep. However, a big part 
+of defense in this range will involve blocking, especially against high/mid 
+punch attacks, since King can't reverse those, and you are too far to use the 
+fast counter moves to stop it. Mixing blocking, kick attack reversal, low 
+thrust block, and side stepping in this range will provide a superior defense. 
+You can also use some of King's special technique in this range as a counter 
+move. Here is a list of King's moves that have good defensive potential in 
+this range (imho, of course...):
+
+f,f,n+2 - great, quick move that hits low. If it hits, it will push the 
+          opponent away a little, making it quite safe. However, this move can
+          only be effective from the far edge of this range, because of the
+          built in dash. Read the "stun moves" section below to find out what 
+          to do if this move hits as a counter hit. 
+b+4 - kinda slow, but will set opponent up for okizeme if it hits as a
+      counter hit. More effective as retaliatory move, though
+df+3 - quick mid kick. Great against aggresive opponents
+df+4 - low kick. Use as a suprise move to get the full effect.
+df+1 - quick mid elbow (reversible, though...). Stagger if blocked. Grounds
+       opponent at counterhit. Read the "stun moves" setion below to find out
+       what to do if this move hits as a counter hit.
+uf+4 - much more useful in this range. If they block it, quickly do D+1 to
+       avoid retaliation
+ss+* - in this range, you can sidestep easier, because you can see which side
+       the attacks are coming from, and sidestep accordingly. There are a few
+       things King can do froma sidestep. The obvious one is the ss+2+4 multi
+       starter. This move will slide King to nearly behind the opponent. Another
+       thing you can do is to interrupt the sidestep with one of King's move,
+       such as ss,1+2,1 or ss,uf+4, etc. If the opponent is in the outer edge of
+       this range, bust out ss+3+4 for 60+ pts of damage. Lastly, if your 
+       opponent is rather aggresive, bust out ss+2, which is a stun move.
+
+At this range, blocking will probably be the defensive method you will be 
+using most of the time. However, don't just abandon these counter moves and
+stick only to blocking. You can use these moves to turn the table on an
+aggresive opponent and force them to play defense. As always, be careful in
+choosing the technique you want to use.
+	Beyond the medium range is the far range. I define far range from the end
+of the last range to the maximum distance allowed between characters. In this
+range, the best defensive method is to make the opponent whiff their attack by
+either side stepping a lot or back dashing. If they whiff, go for a retaliatory
+attack in the form of either one of King's moves or a multiparts. There's not
+a lot of counter move that can be done in this range. Here's a few that I can
+think of:
+
+f,f+3+4 - the unreversible drop kick. Staggers opponent if blocked. It hits
+          medium too
+f,f,n+2 - the stomach smash. It's actually a lot safer to do this move in this
+          range. Just becareful not to whiff it.
+ss+3+4 - the boomerang kick. It's also a lot safer to do this move in this
+         range, because you should have enough to roll away and avoid some
+         okizeme attacks.
+f,f+4 - the jail kick. If an opponent is charging in, do this move and they 
+        will eat your foot. Also becareful not to whiff this move.
+
+	Lastly, you need to familiarize yourself with the attack levels of other 
+characters moves. Although this is a time consuming task, anyone who read this 
+should be a Tekken 3 nut, and are willing to do so. Use reversals when possible. 
+Learn other characters popular 10-strings' breakpoints. Learn how, or more 
+exactly, when to counter. Learn every other defensive technique,because some 
+technique could be used on other characters too. King's d+1 is a great counter. 
+Use it liberally when the opponent are in range. His ali kicks and d+4 kick is a 
+great suprise move. The same can be said about his df+1 elbow sting. Switch 
+between these counter moves to keep your opponent guessing. Learn which moves 
+can be reversed, and also learn when to reverse yourself. If you ever ended up 
+in a position where your back is facing the opponent, do either a d+1 or a d+4 
+to realign and hit them at the same time.
+
+- offense strategy -
+
+     King's main offensive strategy involves poking technique, which will 
+be discussed later. Poking is a series of simple attacks combined in a way 
+that it keeps constant pressure on the opponent. Opponent facing a good 
+poker should not be able to launch effective attacks, because it will be 
+countered most of the time. Also, learn which of King's move will leave 
+you open, and use them carefully. Throw out multis when possible.
+     At close range( up close to throw range ), rely on King's in-close 
+pokes, and try to throw when possible. Remember that the opponents can 
+throw too, so learn to escape. Most escape sequences involves only punch 
+buttons. An easy way to escape is to mash those buttons. You can also avoid 
+throws by ducking, because most throws are high attacks. Juggling at this 
+range is rather dangerous, because if it is blocked, the opponent should be 
+able to inflict damage. However, don't be scared. Wait for an opening, 
+like a missed throw or moves with long recovery time, and juggle away. 
+There is not a lot of multis that you can do in this range. The jaguar 
+driver -> boston crab is the only multis that are useful in this range.
+     At medium range( just outside throw range to 2x sweep range ), King is 
+a better fighter. Most of King's special techniques are designed for medium 
+range fighting. Use his medium range poking technique and also use some of 
+his special attacks, such as the jail kick, spinning elbow -> hand knife, 
+ali kicks, elbow sting, flying cross chop, ultimate tackle, etc. Juggling 
+is also possible, if you are close enough. If the opponent made a mistake
+( long recovery moves, missed throw, etc. ), dash in( tap f ) and do a 
+juggle, or a throw, or a special technique, or if the opponent have no 
+reversals, do a 10-strings. If the opponent is about to launch an attack, 
+do a side-step multipart. It will catch them most of the time( unless the 
+opponent is really good ). Also remember that you can throw off a stun. 
+Always change your strategy. Keep the opponent at bay.
+     At a far range( outside 2x sweep range ), play an aggresive King. King 
+really suffers at this range, but he is not that weak. Do a stomach smash, 
+or do one of his drop kick moves. Remember to always follow the stomach 
+smash with one of it's links. If it is not a counter hit, it is still safe. 
+Try to get closer to the opponent, because King doesn't have many choices 
+in this range.
+     At a very, very far range( long enough that you can run safely ), rely 
+on moves from the <run> position. There are a few moves King can do from a 
+running position:
+
+<run>+1+2 -> running cross chop ( hits mid )
+
+<run>+3+4 -> sattelite drop kick ( hits high, sometimes mid )
+
+<run>+4 -> running ali kicks ( hits low/ground )
+
+<run>+<joystick on N about 4 or more characters length>
+     -> ultimate tackle ( hits mid )
+
+<run>+<joystick on N about less than 4 characters length>
+     -> unblockable shoulder dash ( hits mid + unblockable )
+
+* if the opponent is on the ground, unblockable shoulder dash turned into 
+a running foot stomp
+
+The unblockable dash will hit rising opponent, and it has a high priority. 
+It will also set opponents up for another running attack, because when it 
+hits, it pushes the opponent far enough. Countering the dash is VERY 
+tricky. You can do an ali kick, but the timing is VERY crucial. Do NOT do a
+lighting ankle kick when the opponent is doing the unblockable dash, or you
+will pay for it. You can also try to roll away( 1,1 ), but the timing is 
+also VERY crucial. The running ali kicks offer a great alternative for the 
+dash, by the fact that it hits low. The running cross chop hits mid, and it 
+also stuns. The sattelite drop kick has quite a range. Use it when you are 
+about 3 characters away.
+
+=========================================================================
+
+**** Poking Strategies ****
+     
+     King's best poking moves are as follows: 
+
+d+1: not a special move, but acts like one. This move pops so quickly that 
+most people who attack aggresively can't block it. It's a special mid attack 
+so it can be blocked from a crouching or standing position. Very useful for
+stopping aggresive opponents.
+
+d+1,n+2: this move is incredibly fast, and pops people out of everything 
+and hits mid with the second hit. Alternate with d+1 and d+4. This move 
+also can be started from a croucing position. Just tap 1 and do the n+2 
+right away. 
+
+d+4: this is just a little tap kick to change them up. It will not hit 
+people on the ground, though.
+
+df+3: use this when you push them out of range with d+1,n+2, to keep them 
+from running in on you.  
+
+uf+4: this move hits mid, and it will juggle, so it can keep them from 
+ducking your throws. 
+
+df+1: this is King's best counter move. It is very quick, has good damage, 
+and puts people on the ground when it is a counter hit. It has a lengthy 
+recovery time, but the advantages outweights the disadvantages.
+
+df+2: this move doesn't have a lot of range, but it is quick enough that 
+you can use it as an up close counter move.
+
+df+4: this low savate kick hits low, and it is quick and useful up close. 
+Use this with conjunction with other moves to keep your opponent guessing.
+
+ws+2 or ws+4: these are use if someone ducks after a d+4 or a d+1. Both 
+moves hits mid. WS+2 will leave you open for a while, but it could juggle 
+on counter hit. WS+4 does not juggle, but it is safer to do.  
+
+d+3+4: often, one stagger kick is good for surprise hits. Use it when they 
+are backing away. DO NOT DO MORE THAN 1 AGAINST A GOOD PLAYER. They will 
+always block the mid smash or the next ali because they are good at 
+telegraphing moves. 
+
+1,2 and 2,1: good quick counter jabs. the 1,2 hits high on both, and the 
+2,1 hits high then medium. Good against opponents who tried to rush in.
+
+Now that you know the moves listed above, here is strategies on how to use 
+them: 
+
+     Use d+1, df+2, df+1 and d+1,n+2 when you are close. It will keep your 
+opponent from attacking you. Learn the range of these moves. If you are out 
+of range, they can hit you or reverse the n+2. Try to chicken out if they 
+reverse. If used correctly, these moves will make your opponents nervous 
+and hesitant to attack. 
+     Now start doing d+1 or d+4. The d+4 will usually hit quite often. 
+After the d+4, you can repeat the move, or do a WS+4, or if they are in 
+range, do d+1,n+2( you can hold down and hit 1 then N 2 ). After you have 
+established a pattern, change up with an uf+4. If they are expecting a low 
+attack, they will get juggled. You can also use this move as a counter. It 
+usually pop them out of just about everything they tried after d+1,n+2, 
+except 1,2 punches. You can also do a 1+2,1 after establishing a pattern 
+for more variation. The 1 is a guaranteed hit if the 1+2 connects. You can 
+also change up by using 1,2 or 2,1 punches, especially if you were getting 
+hit by hits after the d+1,n+2. If your opponent makes a mistake, do hop 
+kick and juggle. Dont try to throw, because they can be ducked, so they 
+are less reliable. 
+     At medium range, do a df+1, or df+3, or df+4. Toss in a special move 
+every once in a while. Throw in moves that you think might hit, like, b+4 
+or f,f+2 or f,f+4 or f,f,n+2. You can also use 1+2,1. The 1+2 might miss, 
+but the 1 will hit as a counter, if the opponent tried to attack, or it 
+will push the opponent away if they are blocking. Also try D,df+1 to set 
+them up for ground traps.
+     The strategy given here is not a pattern. It is important to be very 
+unpredictable. The opponent will beat you if you stick to just one pattern. 
+Also, as a general rule, chicken out of reversals if you see them coming. 
+Be agressive with your pokes, and stay close. 
+
+=========================================================================
+
+**** Ground Traps/ Okizeme Strategies ****
+     
+     There are a few ways to set up your ground traps. Do an ankle smash
+( D,df+1 ) to put them on the ground. After doing linkers or throws, King 
+usually drops the opponent on the ground. The same can be said after a 
+juggle or some regular moves.
+     When you knock someone down, you have to second guess what they will 
+do. Will they lay there, or will they roll to the side, or will they sweep, 
+or will they do a lightning ankle kick, or will they get up with a mid 
+kick, or will they roll forward or backward. If you know the opponent well, 
+you probably know the answer already. If you think they will get up with 
+any of the three kicks, here is a little secret that 1TruKing discovered. 
+King can reverse the mid kick, sweep, and the ankle kick. If you are in a 
+situation where you think you will be kicked, but can't decide, you have 
+a 50/50 chance of being succesful. 
+     If you think they will roll to the side, either do one stagger kick 
+or try the moonsault press on them. If they roll back, do a stagger kick 
+-> mid smash( d+3+4,2 ) to keep them on the ground. The same goes if they 
+roll forward.  If you think they will just lay there, do a ground throw 
+and second guess them after that. 
+     If you are too far for a ground throw, you can use the frankensteiner 
+when you are in range, because it will hit grounded opponent. The elbow 
+drop and the standard uf+2 is a great alternative to the frankensteiner. 
+Use 3 ali kicks if they stayed down there long enough. Also use the 
+moonsault press if you are out of his sweep range. If the press connects 
+always press 3 to sweep them. This move will connect most of the time, if 
+the opponent head is in your direction.
+     If you are about 1.5x or 2x sweep range away, the best thing to do is 
+to back up and let them get up. In this range, they can successfully get up 
+and avoid your ground traps. Good players usually gets up pretty fast, 
+sometimes fast enough to avoid your traps. They also knows how to use 
+ground recovery techniques properly. If your opponent mistakenly gets up 
+with a sweep or a rising kick and missed, and you are not in reversal 
+range, dash in and either throw or juggle or, when possible, do a 
+10-string. For more variation, dash in and just start poking. If the 
+opponent tends to stay on the ground, dash in and start doing ground 
+traps. You can also try the flying cross chop for more variation.
+
+=========================================================================
+
+**** Ground Recovery Strategies ****
+
+     This section deals with your options when you are on the ground. 
+King's options from the grounded position is as follows:
+
+b,B+3+4 -> "torpedo spin" ( hits mid + ends in a back turned position )
+
+b,F+1+2 -> roll back -> cross chop ( hits mid + stuns )
+
+f,F+1+2 -> roll forward -> cross chop ( hits mid + stuns )
+
+3 -> rising sweep ( hits low )
+
+4 -> rising mid kick ( hits mid )
+
+d+4 -> lighting ankle kick ( hits low )
+
+1 -> roll over
+
+b OR f -> roll back OR roll forward, and then get up
+
+u OR d OR 2 -> get up
+
+~1 OR ~2 OR ~3 OR ~4 -> tech-roll
+     
+     The key is to vary your actions. If you are sure you are being ground 
+trapped, your best bet is to do a lighting ankle kick. However, the timing 
+is VERY crucial. If you succeed, the opponent will be stunned and you will 
+have time to get up. If you are around the sweep range, use the rising 
+sweep or the rising mid kick. Be sure to randomly change between these 2 
+so your opponent will not adjust properly.
+     If the opponent is about 4 characters away, use the cross chop moves 
+to attack them. They are not far enough to use the running attacks tactics. 
+Use the roll forward variation if they appears to just standing there or 
+backing away. Use the roll back variation if they appears to be running 
+at you. You can try to use the torpedo spin, but this is a very dangerous 
+move. If this move is blocked, you will leave yourself wide open for a 
+back throw. Use this move when you know for sure that it will hit.
+     If the opponent is far enough( around 8 or more characters away ) to 
+use the running attacks, and are running toward you, your best move is 
+just to stay down and take the hit. If you get up, you are risking the 
+chance that the opponent might do an unblockable shoulder dash, which is 
+about 90% of the time. You can try to counter with the ground recovery 
+moves listed above, but the timing is VERY HARD. Your best defense against 
+this is not to be that far away in the first place.
+     The roll over technique can be combined with the roll moves. Tap 1, 
+and then tap b to roll over and roll back, or tap 1 then tap b to roll 
+over and roll forward. Tapping 1,2 results in rolling over and getting up.
+	Another thing that you can do to get off the ground is a technique 
+called techroll, or quickroll (qr for short) . To do a techroll, press any 
+button withing 3 frames after you hit the ground. Pressing 1 or 2 will
+tech you into the background, while hitting 3 or 4 will tech you into the 
+foreground. Techroll will often save you from being ground-trapped, but 
+use techroll wisely. If your opponent is expecting it, it will lose its 
+advantage, and endanger you at the same time. When you techroll, you will 
+end up in a crouching position. You can also techroll some throws. Here is
+a list of throws you can tech from:
+
+Giant Swing - f,b,db,d,df,f+1 (King)
+Stonehead - f,f+1+2 (Jin, Heihachi) f,f+1+4 (Kuma)
+Knee Bash - f,f+3+4 (Law)
+Gigaton Punishment - uf+1+2,d,DF+2 (Gun Jack)
+
+This info is especially useful against the Giant Swing, because if you tech
+roll this throw, it will lessened the damage from 70 pts to 35 pts.
+
+=========================================================================
+
+**** 10-Strings Strategies ****
+
+     This section talks about King's 10-strings, their intricacies, when 
+to use them, its breakpoints, and stuff relating to it. Here is a diagram 
+on the sequences for the strings:
+                       
+                                +-> 1
+                                |
+            +-> 2,{4},4,4,{1} --+-> 3
+            |          
+1,2,1,{1} --+-> 3,{3},4 --+-> {3},2,1+2
+                          |
+                          +-> 4,{1} --+-> 3
+                                      |
+                                      +-> 1
+
+* brackets indicates guard/break points
+
+King might not be the king of 10-strings( that honor goes to Jin ), but he 
+has enough to be effective. King even has a 10-strings that could end up 
+in a powerbomb. His 10-strings can also be converted to a 9-string by 
+starting the strings on the second hit, by pressing F+2.
+     The weaknesses in King's strings are located in the 4th, 6th and the 
+9th hits. These are the points where the strings can easily be reversed. 
+Use the strings sparingly against a reversal-happy people. Characters with 
+low counters can breaks the 6th hit of King's original TK1's 10-strings, 
+but it will not cost any damage, and most people doesn't use low counters. 
+The escape for the powerbomb ender is 1+2.
+     On the string that ended w/ a powerbomb, you can do a lot of things if 
+the 9th hit connect. The 9th hit is a stun hit. When you catch your 
+opponent with it, you can either choose to end it with the powerbomb, or 
+juggle him/her with uf+4, throw them, or use King's assortment of powerful 
+moves to do your opponent in, such as 1+2,1.
+     The best way of using 10-strings is to learn all of King's 10-strings 
+and alternate between them. Again, the main point here is VARIATION. You 
+can also ends the string prematurely, when you feel that the opponent can 
+blocked or reversed them. For the original TK1 strings, the 3rd, 5th and 
+9th hits are good points to stop. For the powerbomb string, the 3rd and 
+5th hits are good stop points. For the spinning kicks to ali kicks string, 
+the 3rd, 5th and 9thhits are good stop points. It's good to end the strings 
+early sometimes, because the 3 and 1 ender has a long recovery time.
+
+=========================================================================
+
+**** Juggles Strategy ****
+
+	King has 3 conventional and a few unusual juggle starters. Here are
+the conventional ones:
+
+1. uf+4 hop kick
+2. f,f+2 or ws+2 uppercut (ch)
+3. f,n,d,df,n+1+2 crouching knuckle bomb (ch)
+
+and here are the unconventional ones:
+
+4. D,df+1 ankle smash
+5. standing 4 (ch)
+6. (face down feet toward) 3 sweep
+
+Of all these starter, the hop kick is the most useful one, because it is 
+easy to execute and the recovery time is quick. The uppercuts are also 
+quick, but the recovery time is rather long. The crouching knuckle bomb
+starter is the hardest one to setup, but does the most damage. Since it
+requires King to crouch dash first, do it from 2x d+3 sweep range.
+	Now, on to the actual juggles itself. Here's some juggles that I have
+right now. You won't see a lot of juggles here, because King is not a 
+juggler, and I don't know a lot of juggles for King... :o). Here we go:
+
+(?) = needs to be tested
+
+from uf+4, f,f+2, ws+2, and f,n,d,df,n+1+2:
+-------------------------------------------
+<starter>,2,1,1+2,1
+<starter>,2,1,df+2,d+3+4,2
+<starter>,1,2,df+1,d+3+4,2 (?)
+<starter>,2,1,b+4,1+4 (the 1+4 can be avoided by tech-rolling)
+<starter>,1,uf+4,d+3+4,2 (?)
+
+from D,df+1:
+------------
+<starter>,ws+1,2,1,b+4
+<starter>,ws+4,d+3+4,2
+<starter>,ws+1,df+2,d+3+4,2 (?)
+<starter>,ws+4,df+1,d+3+4,2 (?)
+
+from standing 4:
+----------------
+<starter>,d+3+4,2
+
+from (face down feet toward) 3:
+-------------------------------
+<starter>,ws+1,df+2,d+3+4,2 (?)
+<starter>,ws+4,df+1,d+3+4,2 (?)
+
+That is all I know for now.... if you have any King juggles, PLEASE e-mail it
+to me at dfdp5@hotmail.com
+
+=========================================================================
+
+**** Stun Moves Strategy ****
+
+	Stuns are the most interesting part of the Tekken gameplay. Stuns allows
+you to get one or more hits or throws. To get a stun, you must do a move at
+the right time so that it will hit as a major counter( you can tell if it is 
+a major counter if the sparks surrounding the hit area is quite big ). Some
+moves will knock you away or juggles or just cause more damage, but some will 
+stun. Here is a list of King's moves that will cause a stun:
+
+df+1: elbow sting. This move don't exactly stun, but on major counter, this
+move will put your opponent on the ground, face down, ready for your ground
+trap games. If they block it, the move will stun opponents. It also has a 
+good range. However, the recovery time is quite long, so make sure that the
+move will make contact
+
+f,f,n+2: the good old stomach smash. You can either link to a throw from it,
+or juggle. The move hits low, making it easier to get a major counter. However,
+the f,f,n part requires King to dash first, making this move useless in range
+0-1. Make sure you are quite far away( around range 2-3 ) when you want to 
+use this move.
+
+d+3+4: stagger kick. One of the easiest stun move King has. It hits low, making
+it easier to stun someone. However, there's only a limited number of things
+you can do after this move. The only available options are to follow it with 
+the 2, one of the ws+ moves, or continue to press 4 for up to five stagger
+kick. BE CAREFUL WHEN YOU DO THIS MOVE. The recovery time is very, very long.
+Make sure this move connects!
+
+ss+2: dark arrow. One of the harder move to set up. The sidestep factor allows
+you to avoid attacking enemies, improving your chance to get a stun. You can
+also ss-buffer the 2. On regular hit, it will just punch your opponent across
+the screen.
+
+	Here's a list of the things you can do after you connect with a stun move:
+
+(?) = needs to be tested
+
+from df+1:
+----------
+<stun>,d+3+4,2
+<stun>,dash in, ground throw
+
+from f,f,n+2 and ss+2:
+----------------------
+<stun>,uf+4 -> any juggle from uf+4
+<stun>,1+2,1
+<stun>,any throw except ground/crouch throws (not sure if throws can be escaped;
+       and timing is strict)
+<stun>,(let them fall to the ground),ground throws (?)
+
+from d+3+4:
+-----------
+<stun>~4,4,4,4
+<stun>~4,2 (if d+3+4 is a ch, you can use the 2 after the 1st, 2nd, or 3rd
+      stagger kick)
+
+dat is all i have fer now...
+
+=========================================================================
+
+**** Custom Combos ****
+
+	Custom Combo is a way of applying constant pressure, usually by chaining
+simple moves together so that the opponent have no chance of retaliating. 
+Unfortunately for us, King really suffers in this department. However, this
+does not mean that we shouldn't use what we have.
+	King's custom combo usually consist of simple moves. I will categorize
+these moves into 3 categories: 
+
+high combo potential moves - moves that's easy to custom-combo from. Perfect
+	for starting or linking a custom combo.
+mid combo potential moves - not as easy to combo from like the 1st category.
+	Can be used either in linking or ending a custom combo
+low combo potential moves - very hard to custom-combo from. Best used to end
+	a custom combo
+
+Here is a list of them:
+
+high combo potential:
+D+1 (low punch recovering in a crouching position)
+d+1 (low punch recovering in a standing position)
+D+4
+2,1
+1,2
+df+2
+1
+
+mid combo potential:
+ws+1
+d+1~n+2
+D+3
+df+3
+df+4
+
+low combo potential:
+df+3
+ws+2
+uf+4
+df+1
+b+4
+1+2,1
+ws+4
+d+3+4,2 (always do d+1 quickly right after it to avoid any retaliation)
+
+The general rule is that the custom-combo goes from the high -> mid -> low
+potential moves. However, this is not absolute.
+	The secret of creating custom combos are located in using the moves
+listed above to create a constant barrage of attacks that is hard to break.
+Here is an example:
+
+df+2,d+1~n+2,d+1,ws+4
+
+This string is rather defensive in nature. The df+2 is just there to 
+interrupt charging opponent, and can be ommited if you want. The d+1~n+2
+moves you forward a little bit. The d+1 again stops any incoming retaliation,
+and sets up ws+4, which have the same job.
+	Here is another example:
+
+2,1,d+1~n+2,df+1
+
+This one is an offensive string. The 2,1 sets up the d+1~n+2, and the df+1
+finish them off.
+	I can't give you much info in this area because I'm still learning it
+too, but I hope i've given you enough info to start. One last thing to 
+remember is that alert opponents who uses characters with attack reversal
+can reverse your custom-combos. To avoid this, be unpredictable, and be
+ready to use chickens.
+
+=========================================================================
+
+**** Vs Characters Strategies ****
+
+     Once again, thanks to 1TruKing for giving me these strategies. These 
+are based on the type of fighters I and 1TruKing have encountered. Once 
+again, if you see any mistakes, or if you want to make suggestions, just 
+e-mail them to dfdp5@hotmail.com.
+
+vs Ling Xiaoyu
+--------------
+     Ling is very quick and dodges a lot, so you want to be careful against 
+her. When she goes into Phoenix stance, do the frankensteiner or start side 
+stepping to confuse your opponent. If you manage to get behind her by side 
+stepping, use the ali kicks, and you should be able to get all five. The 
+frankensteiner is pretty safe. It wont connect and throw her, but it will 
+knock her out of the stance, and even if she hits you, she can't juggle you 
+because you are already airborne. If you are about a sweep away, you can do 
+1 ali kick to get her out of the stance. If you are out of her Phoenix 
+stance moves range, do a moonsault press. The range is about 2x sweep. You 
+can also crouch throw her when she is in the Art of Phoenix stance.
+     Against a dodging Ling, pick your spots carefully. When she turns her 
+back close to you go into d+1,n+2 to get her away from you. It is fairly 
+safe if your timing is good. If you block her <back turned>+4, do a b+4 
+turnaround kick, and you should hit her before she can block. Stay away 
+from her side step and be careful of her juggles.
+     Here is a list of Ling's strings and their hit level:
+
+u+4,1,2,1+2,1,3,4,4,4,1             - Tenstring - MHHMMLLLMM
+u+4,1,2,4,4,2,1+2,1,4,2             - Tenstring - MHHLLMHMLM
+
+Right now, I have no specific defense against her strings. Try to learn 
+where to block is the best advice I can give, right now. If you know any 
+defensive tactics against her strings, e-mail me at dfdp5@hotmail.com.
+     Since Ling is the smallest fighter in the game, it is hard to juggle 
+and ground trap her. Be sure that you are in range for the juggle. If you 
+plan to ground trap her, use 1 or 2 ali kicks, or the ali kick -> mid 
+smash combo. Do not try to ground throw her, unless you are really close. 
+Refrain from using too much multis because she is so damn quick. The best 
+way to go is to poke her to death.
+
+vs Yoshimitsu
+-------------
+     There are only a few people who know how to use Yoshi properly. Yoshi's 
+strong points are his poke tactics( 1, df+2, df+4, d+4 ) and his breath. 
+Stay on them and do d1,2 to move in and knock them out of their poke. If 
+they become predictable with the df+4 reverse it and ground trap them. 
+Watch out for the breath. It has nasty juggle potential. Keep on them and 
+do a lot of poking to keep them out of their poke.  
+     Yoshi has 2 unique stances. The sitting stance allows him to regain 
+life and some other stuff. When you are in range, ali kick him immediately. 
+If you are not, dash in and ali kick him. Do not allow him to regain life. 
+The other stance is the pogo stick stance. Do NOT use any low attacks on 
+him when he is in this stance. Just simply jab him out of it. Mid attacks 
+is also risky. You can also use Moonsault Press( 1+4 ) to press him down.
+     Non pros tends to leave themselves wide open. You can play them like 
+you would any body else. Use d+1,n+2, juggles, reverse, etc. Most non pros 
+over uses the 3,4 kicks. The second hits is very delayed, so it is easily 
+seen, and easily reversed. They also tends to overuse the triple spin kicks. 
+Try to reverse the 2nd one.
+     The weakpoinst in Yoshi's 10 strings is as follows. If he starts with 
+the 1,2,1 combination, reverse the 4th hit, which is a high kick. If the 
+1st hit is a counter, you should still be able to reverse the 4th hit. If 
+he uses the 4,4 starter, reverse the 2nd hit. If the first one is a counter, 
+keep blocking and use d+1 to counter the 4th hit, a high punch. If the 5th 
+hit is delayed, then it is the 1 ending. Use ali kick or b+4 to knock him 
+out of that move. Here is a list of his strings and their hit level:
+
+1,2,1,4,4,4,1,1,1,1           - Tenstring   - HMMHHLM!!!
+1,2,1,4,2,2,2,4,1,1           - Tenstring   - HMMHMMMM!!
+4,4,2,2,4,4,1,1,1,1           - Tenstring   - HHMHHLM!!!
+1,2,1,4,4,4,1,3+4             - Eightstring - HMMHHLMM
+4,4,2,2,4,4,1,3+4             - Eightstring - HHHHHLMM
+4,4,2,2,1                     - Fivestring  - HHMH!
+
+     Linking is kind of though against Yoshi because his kicks spins 360 
+degrees around him, so you could get hit when you do the side step multi. 
+You can link against non pros effectively. 
+     If you don't know how to use yoshi right, there is not much you can 
+do with him.
+
+vs Nina Williams
+----------------
+     Hard match but winnable for King. If you face a good poking Nina, you 
+need to turtle until you see an opening. You must remember your low counter 
+because a lot of her poke is low based. Anticipate a low attack, counter it, 
+and dash in and hop kick for a nice juggle. She is kick heavy so you can 
+try to reverse her kicks, but they are fast and it goes hi and low so well 
+that it is risky, unless you are positive it is coming.  If she does d+4,1 
+try to duck the 1, even if you were hit by the d+4. If you do duck, use 
+d+1,n+2, WS+4, or go for a hop kick. The hop kick might not be guaranteed. 
+You can also throw her.  
+     If the Nina is more defensive move in with df+1, d+1,n+2 and stay on 
+her with standard poke. They key is to pressure them. If they are not 
+poking they probably would try to throw out her power moves, like the 
+blonde bomb. Watch for it, block it, and immediately go into the turnaround 
+kick. If you dare, dash in and throw her. 
+     Nina has multipart capabilities also. Learn the break sequences of her 
+multiparts. She has no side step multis. Most of her starters are a dash-in 
+starter. If you see it, do a d+1 for a counter. Her other starter are a 
+sway starter, where she swayed back and then tries to grab you. Be careful 
+when you see her swaying back.
+     The weakness in Nina's 10-strings are located at the 5th and 6th hit. 
+In all of her strings, the 5th hit is a mid/high kick. Reverse the 5th hit 
+if you like. The 6th hit is a low hit. Break that hit by using low counters. 
+If you were unable to do those, remember that Nina's most popular strings 
+have the following attack level for the last 3 hit: MLM. Don't forget to 
+block low for the 9th hit. Here is a list of her strings and their hit 
+level:
+
+1,2,1,2,3,3,2,1,2,4               - Tenstring - HHHHMLHHHM
+df+1,2,1,2,3,3,2,1,2,4            - Tenstring - MHHHMLHHHM
+WS+1,2,1,2,3,3,2,1,2,4            - Tenstring - MHHHMLHHHM
+1,2,1,2,3,3,2,1,4,3               - Tenstring - HHHHMLHHLM
+df+1,2,1,2,3,3,2,1,4,3            - Tenstring - MHHHMLHHLM
+WS+1,2,1,2,3,3,2,1,4,3            - Tenstring - MHHHMLHHLM
+1,2,1,2,4,3,4,2,4,3               - Tenstring - HHHHHLLMLM
+df+1,2,1,2,4,3,4,2,4,3            - Tenstring - MHHHHLLMLM
+WS+1,2,1,2,4,3,4,2,4,3            - Tenstring - MHHHHLLMLM
+
+     A tough Nina to face are the poking Nina. Typical Nina isn't that hard. 
+Just keep on the attack, and don't let her attack, and you should be fine.
+
+vs Forrest Law
+--------------
+     Forrest has a strong poking technique, but not quite at Nina's level. 
+Typical poke for Forrest starts off with b+2, and not finishing the combo. 
+They just going into a string, like d+2,3, d+2, d+4, ws+4, etc... If they 
+are poking, you can use d+1,n+2 after the b+2 is blocked, and you can hit 
+them before they can block or go into another move. If they continue the 
+combo do a low counter and juggle them. His flip kicks are easy to see, so 
+try to reverse it and trap them off the reverse. Most Laws like to throw, 
+so watch out if they dash in on you. Use low pokes against them. D+1,n+2 
+and df+1 is effective against a dashing opponent.  Here's a tip on how to 
+defend against the b+2 poke starter. If you expect it and have great timing 
+you can throw him as he comes in with the 2.   
+     If they don't poke with Law, they probably use his junkyard combo
+( b+2,3,4 ) and his dragon storm combo( b+1,2,1 ) or his flip kicks. If 
+they use the junkyard, counter the second hit and punish. They will 
+probably figure out that it is a bad idea to do it and stop. Remember, 
+that the junkyard starts with left punch, not right punch. The dragon 
+storm has a long recovery time, but they are able to block. So throw 
+immediately after you block the last hit. If they delay it, be ready to 
+pop them with a juggle. If they use flip kicks a lot, either reverse them, 
+or hit them with a mid hit when they land. It is guarenteed if you time it 
+right. You can also do a hop kick to pop them. Do not throw after a missed 
+flip, because they might flip again or stay ducking. Watch out for his 
+dragons tail sweep( db+4 ). If you see it coming, block and hop kick or 
+throw. You can also try to low counter it for what should be a guarenteed 
+juggle.  
+     The break point in Law's 10-strings is located in the 5th and 6th hit. 
+The 5th hit is a mid kick. Reverse that sucker. The 6th hit is a low hit, 
+so use low counter to break it. Here is a list of his strings and their 
+hit level:
+
+df+1,2,2,1,3,3,3,4,3,4                  - Tenstring - MHHHMLMHHM
+df+1,2,2,1,3,3,3,3,4,4                  - Tenstring - MHHHMLMHLM
+df+1,2,2,1,3,3,3,4,4,4                  - Tenstring - MHHHMLMHLM
+df+1,3,2,2,3,d+3,3,3,4,4                - Tenstring - MHHHMLMHLM
+df+1,3,2,2,3,d+3,3,4,3,4                - Tenstring - MLMHMLMHHM
+df+1,3,2,2,3,d+3,3,4,4,4                - Tenstring - MLMHMLMHLM
+
+     Law is slow if they don't know how to poke effectively. So use quick 
+attacks like the d+1,2 and df+1 to pressure them.
+
+vs Hwoarang
+-----------
+     Most people say that King will certainly win this match, due to his 
+kick reversal, but when Hwoarang is played correctly it is a tough match. 
+Poking Hwoarangs tend to punch more and throw often. Watch for their 
+sidesteps and don't throw out random moves that leave you vulnerable, or 
+you may find yourself being sidethrown or juggled. 
+     When playing against Hwoarang, Kick reverse or low counter everything 
+possible. Remember his d+4,4 hits low then high. So duck the second hit 
+even if you get hit by the first one. The 2nd hit only connects on a 
+counter hit. They will be wide open for a throw, a juggle or whatever. 
+Against a poking Hwoarang, you want to watch out for his 1,1,3,3. It does 
+2 hi, then a low, and then a hi. If you see it coming out duck and attack 
+before he can get to the 3. If you cannot, duck and block the first three. 
+The second will go over your head and you can throw or juggle them. When 
+you know a kick is coming, reverse it, and trap him. Try and get them to 
+stop throwing out random kicks.  Common combos you can reverse are the 
+following. You can reverse or duck the 3,3,3,3 kick combo. The timing on 
+the reverse is hard but it can be done. Another one is the d+4,4 combo. If 
+you block the d+4, you can reverse the second hit, although ducking would 
+be safer, since if you are trying to reverse, you are risking a juggle. 
+Another common combo is the 3,3,3,4,4 combo. The first four in this combo 
+can be possibly reversed, but I am not sure. Remember that the 4th hit can 
+be low. 
+     The weakness in Hwoarang's 10-strings are in the 7th and 8th hit. 
+Those hits are just like the d+4,4 kick combo. Always block low on the 7th 
+hit, because you will be juggled if the 7th hit connect. On the 8th hit, 
+block high. There is a pause before the 9th hit, enough for a juggle or 
+a turn around kick. You can try to reverse it, but the timing is rather 
+hard.
+     Against Hwoarang you either want to be on him pressuring him with poke 
+or back in range 2 so you can see his strings coming and counter with df+1 
+or b+4. I dont think you should have much problems with Hwoarang.
+
+vs Eddy Gordo/Tiger
+-------------------
+     When playing against Eddy, you need to know if your opponent is a 
+masher or skilled player so you can decide what to do. Against a masher, 
+you want to play defensively so you can see what is coming. Use low 
+counters and b+4 to knock him out of his stuff. Keep mashers on the ground. 
+Use easy moves like d+4, d+1 or a simple d+3 to keep them down. Be careful 
+when doing ali kicks to mid uppercut, because they can quickrise to easily.
+     The stay back strategy works against good players as well, but their 
+style has more diversity. The best thing to do is to learn Eddy's moves so 
+you know what he can do. Once you know that, it is easy to beat him. If 
+they do the vault sweep and you block it, do a low counter to reverse the 
+coming sweeps. Duck if they go into hand stand at a distance. If they duck 
+in the handstand stand up and block because the stakedriver is coming, 
+which hits mid. The most common attacks in handstand are the handstand kick 
+and the vault sweep, both of which you can block by ducking. The handstand 
+kick is a special mid, so you can block high or low. If you do block it do 
+whatever it takes to get him out of it. Try d+1, d+4,d+1,n+2 or d+3+4,2 to 
+knock him out. If he does a vault sweep low counter him.  
+     Eddy has no real effective 10-strings, since his strength are in the 
+category of unusual moves. All of his 10-strings are predictable and easy 
+to block. You can reverse the 2nd hit if you are close enough. The last 
+hit is a stun hit, so you can't go after him when he's done.
+     The best way to beat Eddy is to learn his moves so you know what he 
+can do. Most of his move can be easily seen, if you are good enough. 
+Remember that he is very dangerous out of the handstand. So try to knock 
+him out of that position.
+
+vs Paul Phoenix
+---------------
+     Paul is very difficult character with a great cheese factor. Paul are 
+used to the fact that opponents are not attacking them wildly, because of 
+the death fist and the falling leaf. They feel they are safe from an 
+assault, and that is where their problem lies. Both moves are useful only 
+at a distance because they take some time to come out. Stay on him and do 
+d+1 and d+1,n+2 often at the start of the match, and continue to dash in 
+and poke. It is very hard to reverse these attacks. The death fist and the 
+falling leaf can be stopped by the d+1 variants, if you do it quick enough. 
+If they are playing turtle, dash in and switch to throws, and vary between 
+different throws. Use throws that keeps you close to them, like the figure 
+four( db+1+2 ) or his knee bash( df+2+3 ). If they are frustrated and 
+starting to miss with their moves, try to throw or juggle them. 
+     When playing Paul, make sure you don't get into the range of the death 
+fist and falling leaf where you can't counter it. You can easily fall in 
+the right range through poking and get tagged with the deathfist. If you 
+play him correctly, the Paul player realizes that he can't out skill you, 
+and should be overusing the deathfist and the falling leaf. Move to the 
+outside of the falling leaf sweep range. If they do the falling leaf, they 
+should miss. Try to throw or juggle them. The deathfist will push you away 
+a little, but not long enough for them to be safe. Use 1 ali kick or the 
+jail kick to hit them. If you have the reflex, and the guts, try to low 
+cancel the sweep in the falling leaf combo.
+     Paul has the strongest 10-strings in the game. However, they are easy 
+to defend against. Here is a few tips on how to defend against them. If the 
+5th hit is low then the 9th hit is also low. Block low on the 9th hit and 
+high on the 10th hit to avoid major damage. You can also try to low counter 
+this particular 9th hit. If the 5th hit is a mid/high, then the 8th hit of 
+this string is the low hit, and the 9th and 10th hit are mid. Block low or 
+low counter it. Otherwise, block mid on all the hit. Be careful if the 4th 
+hit is a tile splitter. Paul can either go to a death fist or continue the 
+10 string from this hit. See which one your opponent prefers, and guess 
+very very carefully. Here is a list of his strings and their hit level:
+
+1,2,3,2,1,2,1,4,2,1           - Tenstring  - HHMHMHHLMM
+1,2,3,1,4,2,1,4,2,1           - Tenstring  - HHMMLMHMLM
+1,2,3,1,2                     - Fivestring - HHMMM
+
+     The constant d+1,n+2 will not work against a good player for long, so 
+just go into other poke tactics, but the main point is to pressure him and 
+stay on him. When they do a tile splitter( d+1 ), do d+1,n+2 right away, 
+and it should knock him out of the deathfist or the falling leaf before 
+they can come out. The timing is NOT forgiving, though. Use low counters 
+if you know for sure that the falling leaf is coming. Use these tactics 
+for some serious Paul frustration.
+
+vs King
+-------
+     If they poke, poke back. If they try to throw, avoid it and juggle. If 
+they use the sidestep, duck and wait. When he's done with the sequence, do 
+a d+1 quickly to get on track and hit them at the same time. If you study 
+this faq, you should know King's weakness, I hope. Most players will do an 
+ali kick variations after the first ali kick. Watch, and you can tell if 
+the mid upper or another ali is coming. Block them and do a hop kick. You 
+can also try to throw them, if they missed, with the side step starters.
+     If you are on the ground, you are in a very big trouble, because King 
+has great ground traps technique. If you see an ali kick coming, do a d+4 
+to counter it. Learn the escapes for his ground throws if you see it 
+coming. The escapes are pretty easy to memorize. Here is a description:
+
+left-side ground throw: lp
+right-side ground throw: rp
+head-toward ground throw: lp+rp
+feet-toward ground throws: lk+rk
+
+If you see a moonsault press, either roll back or roll to the side. Finally, 
+if they completely missed, use a rising sweep to drop them to the ground. 
+This should work on all characters, not King only.
+     The section entitled "10-strings Strategies" above have the details on 
+defending yourself against King's 10-strings.
+     If you know King, then you should know his weaknesses too.
+
+vs Lei Wulong
+-------------
+     Most Leis are either the rushing punch/stance switch Lei, or the 
+laying down too much Lei. Few player incorporate both tactics. When playing 
+against a stance switcher, remember that Lei sidesteps when he switch 
+stances. Tap f or b to adjust and see what their stance is. If it is the 
+panther stance, go for a mid attack, such as df+1, because Lei can't block 
+mid attacks in that stance. He does have automatic low blocking, though. 
+For other stances, use low attacks, because that is the weakness of the 
+other stances. If they switch stances at a distance, do the exploder, or 
+the boomerang kick, or the ankle breaker to knock them out. If they switch 
+up close, track them and pop them with d+1,n+2 or a throw.  
+     If they like to switch off the rush punches, you can counter them with 
+a d+1. The order of the switch are:
+
+off 1st punch: snake
+off 2nd punch: dragon
+off 3rd punch: panther
+off 4th punch: tiger
+off mid kick: crane
+
+You can throw when he switch stances, except for the third punch, which is 
+a panther. Use crouching throws to throw them off the panther stance, or 
+try to hop kick them for a juggle. If they go into crane in close range, 
+throw them, or use anything high, because they can't block high. If they 
+got into the crane at a distance do the jumping sideswipe. If they are in 
+any stance, except panther, and they are at a distance,  a boomerang kick 
+is effective because they can't block high. To knock them out against 
+panther, try the moonsault press, or his mid savate kick( df+3 ). Remember 
+that Lei has a reversal against low attacks in panther.  
+     When Lei is in one of his stances, the best thing to do is back away 
+and wait until he did something. Usually the move will return him into his 
+normal stance. If you cannot back away safely, or you are too close, do a 
+df+1 to knock him out of it. If you are in a range where df+1 will not 
+connect, use df+3 or ali kick, depending on the stance he is in. Don't use 
+the ali kick when he is in the panther.
+     Another of Lei's dangerous stance are the back turned stance. He has 
+so many moves from this stance, including the cheap low punch infinity 
+juggle. If you are too close, just knock him out with quick move such as 
+df+2 or df+1 or a simple d+1. Lei cannot block in this stance. If you are 
+out of these moves range, do ali kicks, and all 3 of them should connect. 
+Feel free to do the drop kick moves if you can do it.
+     If the are the lay down type, you need to know what they can do. In 
+the d+3+4 play dead( fac up with feet away ), they are the most dangerous. 
+Lei can do a launch kick that hits mid, or the rave spin or, a sweep into 
+his rolling kicks( 4,3,3 ). Against this position, keep some distance and 
+do ali kicks, moonsault press, or ankle breaker. Slide posistion (face down 
+head toward, d+1+2) is the easiest to defend, because all of his attacks 
+out of this position are low, so just block low. If he does a sweep, you 
+should be able to counter him, then try the hop kick or one ali kick. If 
+he does the slide block it and ground throw, or ws 4 and do a mini ground 
+juggle. You can also throw out a low counter, when you seem him start to 
+attack in this position. You might want to ali kick them if they are just 
+laying there, or when they start to roll into play dead position. When Lei 
+does his cartwheel( 4~3 ), he ends up in a face down feet towards position. 
+From this position, he can do the cartwheel again. This cartwheel has quite 
+a range and hits mid, so if you are moving in on them in this position be 
+ready for a reversal of the mid kick. They can also do a rave spin, rave 
+sweep or rave sweep to play dead positon, so be careful. Use ali kick or 
+moonsault body press to defend yourself.  
+     If they start their ten string, remember that the third hit is low, 
+and if you get hit, you are stunned and can't retaliate. So block it low 
+and do a d+1 right after. It will stop anything they are trying to do, 
+even the 10-strings. You can also low counter the 3rd hit, and juggle them. 
+Here is a list of his strings and their hit level:
+
+1,2,1,3+4,1,2,4,1,4,4               - Tenstring  - HHLMMMHMLH
+1,2,1,3+4,1,2,4,1,2,3               - Tenstring  - HHLMMMHMMH
+1,2,1,3+4,3+4,3+4,1,1,2             - Ninestring - HHLMMMLLM
+
+If you missed the low counter, block mid right away. If they only do 1 flip 
+kick, block low on the 9th hit. You may get hit by the 2, but you will not 
+be hit by the 3. If they do 3 flip, block low on the 7th and 8th, and block 
+high on the 9th hit. If they do the strings with the 3 backflips, pop them 
+with d+1, n+2 between the flips. If you are good, ali kick them, and 
+you'll get all 5 and Lei would be knock down for a ground trap. However, 
+be careful, because Lei could change up from the flip into one of his 
+back-turned moves.
+     Lei is a nasty character, and has the ability to be in the top 5. Be 
+careful when playing against him.
+
+vs Jin Kazama
+-------------
+     Jin is nasty when played correct.  You need to pick your spots against 
+a poking Jin. They do a lot of df+1,2 or just df+1, or d+4, or the 1,1,2 
+combo, or the stun punch combos b,f+2,1,2, and the occasional hell sweep. 
+Wait and see what their typical pattern is. Against the df+1, block and go 
+d1,2 right after. If they do 1,1 a lot duck and hit them. If they do 1,1,2, 
+block and go for a hop kick. Be ready to chicken it( f+2+4 ) if they 
+reverse it. Dont let them do the hell sweep( f,n,d,df+4,4 ) up close, 
+because you will be juggled and it cost good damage. When they stop 
+attacking you, start attacking your self, so they can't set up. When jin 
+is knocked back by his poking, or your poking, and he tries to dash in, 
+tap 1,2 or 2,1 to make sure he doesn't throw to you his jumping hell sweeps. 
+If they do, low counter the first or second sweep. Only morons would do 
+all four against king, but if they do, reverse it. If you are stunned by 
+the 1st hit of the stun punch combo, hold forward on the 2nd hit, and you 
+will break the stun and the last hit will be blocked. Jin's f,f+2 rush 
+punch has a recovery time, long enough to get an attack in. Most non poke 
+jins are not any harder than a poke jin so the same tactics should work for 
+both of them.
+     Jin is the king of strings in this game. He has tons of 10-strings, 
+and he even has 2 11-strings. Here is a list of them:
+
+b+2,4,4,4,4,2,1+4,2,1,4             - Elevenstring - HHMLMMLHHMM
+b+2,4,4,4,4,2,1+4,2,1,3             - Elevenstring - HHMLMMLHHML
+b+2,4,4,4,4,2,1+4,2,3+4             - Elevenstring - HHMLMMLHHMM
+f,f,n+2,1,2,2,3,4,4,1,2,1           - Tenstring    - HHHHHMLHMH
+f,f,n+2,1,2,2,3,4,4,3,2,1           - Tenstring    - HHHHHMLLM!
+3,2,4,3,1+4,2,2,1,2                 - Tenstring    - HHMHLHHMMM
+f,f,n+2,1,4,4,2,4,3,2,1             - Ninestring   - HHMMMMLM!
+3,2,4,3,1+4,2,1,3                   - Ninestring   - HHMHLHHMM
+3,2,4,3,1+4,2,1,4                   - Ninestring   - HHMHLHHML
+3,2,4,3,1+4,1,3                     - Eightstring  - HHMHLHMM
+3,2,4,3,1+4,1,4                     - Eightstring  - HHMHLHML
+
+When facing the b+2 strings, reverse the 3rd hit or the 5th hit. Block low 
+on the 4th hit, if you don't reverse the 3rd hit. If you are unable to do 
+that, block low on the 7th hit, and just keep on blocking high. If the 10th 
+hit is a dragon uppercut, try to anticipate whether the last hit is a mid 
+kick or a sweep, and block accordingly. The best defense against these strings 
+are to break it early. 
+     Against the f,f 10-strings, the best thing to do is to either low 
+counter the 7th hit or reverse the 6th hit. If you miss the low counter, 
+block low on the 8th hit, then immediately block mid. If the 8th hit is a 
+punch, just keep blocking high and you'll be ok. Try a b+4 after the last 
+hit to hurt Jin. If the 8th hit is a low kick, then REMEMBER that the 10th 
+hit is AN UNBLOCKABLE. As soon as you block the 9th hit, use d+1 or ali 
+kick to stop Jin from doing the unblockable. 
+     Against the 3,2,4,3 10-string, try to reverse the 4th hit, or you can 
+duck the 4th hit and counter with a d+1. If you miss it, block low on the 
+5th hit and high on the 6th hit, then just block high for the rest of the 
+string. 
+     Against the f,f 9-strings, remember that the 3rd hit is a right kick. 
+When you see that, then you are sure that you are facing this string. The 
+last hit is also an unblockable. Just block low on the 7th hit, block high 
+on 8th hit, and try to counter the last hit. 
+     Against the 3,2,4,3 9-strings and 8-strings, try to reverse the 4th 
+hit. If you can't, block low on the 5th hit and high on the 6th and 7th 
+hit. If the 8th hit is a dragon upper, anticipate the incoming mid 
+kick/sweep and block accordingly. If the 7th hit is a dragon upper, do the 
+same thing.
+     To be good against Jin, you have to use all of your resources and 
+skill. Try to see if your opponent are locked into a pattern, and use that 
+to your advantage. Always try to break his strings early.
+
+vs Bryan Fury
+-------------
+     Bryan is one of the more difficult character to play against, in both
+human and CPU form. In addition to good strength, Bryan has low attacks that
+is hard to guess. Bryan's good points are his precanned combos, which can
+end in either low or high/mid attacks. Most of his precanned combos uses
+punches, and since King cannot reverse punches, King is really at a
+disadvantage when played against Bryan.
+     Most Bryan player I know of uses the Snake Fang (b+1+2, don't know the 
+exact name...) a lot. It is a damn good counter move. The good Bryan player 
+memorize practically all of his combination moves, which is a lot. To play 
+against a good Bryan, counters are the best defense. It's really hard to 
+time the counter, but it is possible. King's best counter move against 
+Bryan, and for everyone else, is the Elbow Sting( df+1 ). When you see 
+Bryan moving in, and he is in range, use this move to put him on the 
+ground. Use df+3 or df+4 when he is outside the Elbow Sting's range. When 
+he is on the ground, use the ali kick -> mid punch combo for extra hits. 
+There are some Bryan's moves that could be reversed, like the f+3,4,3 kick 
+combo. Reverse them if you can. One combination that you should be aware of 
+is the combinations that starts from a b+2, a spinning elbow. Combinations 
+from these takes about 50-70 points of your health, especially when the 
+b+2 is a counter hit. If you are able to block the b+2, keep blocking until 
+the combinations are finished. However, if the b+2 hits as a counter, press 
+F on the next hit to break the stun, and block the last hit. If the second 
+hit was the last one, your out of luck.  
+     Another good way to beat Bryan is to be offensive. However, do not be 
+so offensively minded that you throw out moves that leaves you wide open. 
+In addition to the Elbow Sting, use King's other poking moves, and do it 
+in a random fashion. Do not fall into a pattern. Always keep the opponent 
+in check by making them guess what you are going to do. Of course, do not 
+use moves that leaves you wide open, such as the Grand Smash( f,f+2 ), or 
+2 or more Ali Kicks.
+     The weakness of Bryan's strings are the fact that there is no low 
+attack in it, making it simple to defend against. However, the potential 
+damage is great. The weak spot in his 10-strings are located in the 9th 
+hit, which is a mid right kick. Reverse it if you can. I haven't had the 
+chance to study his other strings, so I'm not sure about the weak spot on 
+the other strings.
+     Bryan is one of the more powerful character in the game. Be careful 
+when playing against him, whether you are playing a masher or a pro.
+
+vs Kuma
+-------
+     You thought that you are going to have an easy time with Kuma, until 
+you saw that she took about 70 points out of your life bar with only 3 
+hits. Kuma may be the slowest character of the game. But she is one of the 
+strongest.
+     When playing against Kuma, remember not to lose your concentration. 
+One mistake and you could be gone. Since most of Kuma's attacks are punch 
+based, counters comes in handy here. When you see the uppercut rush, use 
+df+2 to interrupt it. The timing is rather hard though, and I'm not sure 
+if df+1 will hit safely or not. Most of Kuma's move are either slow or it 
+has a long recovery time, so it is easy to play defensively against Kuma. 
+However, be aware of her/his( Kuma/Panda ) Cross Cut Saw( f,f+1+2 ). This 
+is one of her or his fastest move. When you see that Kuma is doing her 
+unblockable, check on how far you are from her. If you are close enough to 
+inflict damage, go ahead, but if you are not, back away to about 2 sweep 
+range outside the Claw Slash range. Kuma can either do her Claw Slash 
+unblockable or do her Rolling Bear, which is blockable. Just block high/mid 
+if the Rolling Bear comes out.
+     Being offensive is not a very good idea against Kuma, since any wrong 
+move can cost you the round. Instead, I suggest playing defensive. When you 
+see an opening, go all out, either with a juggle, strings, or a multipart, 
+or maybe a throw. Kuma has a lot of moves that leaves him wide open, so 
+it's not hard to find an opening.
+     Kuma has no known 10-strings.
+     Kuma might looks easy to beat, but be careful.
+
+vs Heihachi Mishima
+-------------------
+     Heihachi is one nasty guy. His Twin Pistons (df+1,2) is arguably the 
+best move in the whole game. He also have a much, much better Hellsweeps 
+(f,n,d,df+4,4,...) than Jin, or even Kazuya. He even have his own version 
+of the Tile Splitter -> Death Fist combo. He is also one of the strongest 
+fighter in the whole game.
+     When playing against Heihachi, do not let your self be open. If you 
+are open, good opponents would go for the Twin Pistons, and if the first 
+one hit, the second one always hits, and you will be juggled. The 
+Hellsweeps are a bit easier to defend against. If you are tripped on the 
+first one, then there is nothing you can do. However, if you are not 
+tripped, just block low for the next hell sweep(s). If you notice a pause 
+after a hell sweep, then Heihachi is going for the finisher, which are all 
+medium attacks. Block mid when you notice the pause to defend against 
+those. Heihachi can finish the hell sweeps in a dragon upper, a rush upper, 
+or axe kicks. 
+     Heihachi also have 2 different version of Thrust Kick, a mid one and a
+low one. Thrust Kick is a move where Heihachi does a little hop, and 
+release a powerful kick. Most of the time, both CPU and human opponent 
+tends to do the mid Thrust Kick, so either block or reverse it. However, I 
+wanted to make sure that you know about the low version, and it's really 
+hard to guess which one is coming. The best thing to do is to interrupt him 
+on the hop. 
+     Beware also of his Rising Sun (uf+4,4) and Hell's Axle (uf+3,4). 
+Rising Sun looks like the first 2 of Jin's uf+4,4,4,4 combo. It hits high 
+then low. Hell's Axle looks like Hwoarang's Hunting Hawk (uf+3,4,3) 
+without the last hit. Hell's Axle has good damage.
+     Another move that you have to watch out for is the Rushing Uppercut 
+(f,f+2). This move will go under high attacks, and juggles you really high. 
+When you see this move coming, counter it with df+1, or just block it. The 
+Tile Splitter - Death Fist combo is only dangerous if the Tile Splitter is 
+a counter hit, meaning the Death Fist will also connect. When you are hit 
+by the Tile Splitter, just block and see if the Death Fist is blocked. If 
+it is, use b+4 to knock him back. Both of Heihachi's special uppercut, the 
+Dragon Upper and the Wind Godfist, hits mid, so you can't duck it. Both of 
+them has a long recovery time, so punish him if you block those move. 
+Remember that from the crouch dash (f,n,d,df), Heihachi can go into these 
+uppercuts or the HellSweeps, so if Heihachi used the hell sweeps, defend 
+accordingly.
+     Heihachi's move are designed to be effective up close. Stay outside 
+the range of these moves. When he tries to come closer, use df+1 to knock 
+him down and ground trap him. If his moves knocks you back, use b+4 to 
+knock him back. Most of Heihachi's moves have a recovery time. Use that to 
+your advantage. Feel free to use 10-strings against Heihachi, but be 
+careful if your opponent is a good player, and knows how to defend against 
+the strings.
+     Heihachi has 2 types of 10-strings that I know of. Here is a list:
+
+df+3,2,2,4,4,1,4,1,2,1         -  MMMLLMHMMM
+df+3,2,2,4,4,1,4,1,2,4         -  MMMLLMHMMM
+df+3,2,2,4,4,1,2,1,2,1         -  MMMLLMMMMM
+f,f,n,2,1,2,2,3,4,4,1,2,1      -  HHHHMMLHMH
+
+The strings that started with df+3 can be interrupted in the 4th or 5th 
+hit, which are low hellsweeps. Low counter them, and juggle away. If you 
+missed, block mid for the rest of the strings, and you should be able to 
+block the last hits. The other kind is similar to Jin's version of the 
+string. Reverse the 6th hit. Don't forget to block low on the 7th hit.
+     Heihachi is one powerful dude. If you can master both him and King, 
+and maybe Nina, you could be unstoppable. 
+
+vs Ogre I and II
+----------------
+     Ogre has too many moves. With so many moves in his arsenal, Ogre is a 
+pain to play against. Not to mention that some of his moves are 
+outrageously strong, to the point of being cheap. Even more, Ogre has the 
+most unblockables in the game, except for Yoshi. Playing against Ogre is 
+quite frustrating. Fortunately for most of us, CPU Ogre is easy to beat. 
+Most of the time, the CPU sticks to just a few moves. Most of the time. 
+Good Ogre player, on the other hand, is a lot better. 
+     Ogre have some moves that you have to be aware of. First of all, 
+beware of his Infinity Kicks. This is the cheapest move of all time, 
+especially on Ogre. Not even Paul's Phoenix Smasher is this cheap. When 
+Ogre throw this move at you, back away, and use b+4 or ali kicks to stop 
+him. You can try to reverse it. Remember that the 1st 2 kicks are mid, and 
+the 3rd are low, and this pattern is repeated over and over. Reverse/low 
+counter properly. 
+     Another move, or moves, that you should be aware of is Ogre's 
+unblockables. Sometimes Ogre uses these to ground trap you, and that can 
+be frustrating. Use lighting ankle kick to stop him. 
+     Finally, watch out for his Bazooka Kick. This move will stun you if 
+you are blocking, and he could either throw you or do some other stuff. 
+Try to reverse it if you see it coming( although I'm not sure if you 
+could ). If you can't, use d+1 to interrupt it.
+     This following section will be devoted entirely to Ogre II's fire 
+breath move. Ogre has 2 different fire breath, the standing Fire Breath 
+(d+1+2) and the flying Fire Breath (1+2). When you see the standing Fire 
+Breath coming, DUCK!! You will not be hit. When Ogre is done, go up to 
+him and throw/juggle/string him. When you see the flying Fire Breath 
+coming, start side stepping. The flying Fire does not seem to track. When 
+he landed, throw him. The throw should be a side/back throw, since you 
+side stepped.
+     When playing against Ogre, be offensive. Don't let Ogre use his more 
+dangerous moves. Use df+1 if he is close enough. Pressure him to death. Do 
+NOT give him room. Use poking technique and 10-strings to pressure.
+     Ogre has no known 10 strings.
+     Ogre is a pain in the ass to play against, but he is beatable. 
+Practice is the key.
+
+vs Julia Chang
+--------------
+     Julia Chang has the potential to be a top 5 character. Her moves 
+varies a lot in the hit level. On a bad note, she is hard to defend 
+against.
+     Julia's strength comes from the fact that her moves are hard to guess 
+on. It could end in high or low attacks. She also have the best sweep
+( d+4 ) in the game, and you could chain it into a low kick, a high kick, 
+or an uppercut. When she goes into her kick combos( 4,4.. stuff ), block 
+high for the first one, then low for the next, and guess for the next one. 
+Block high initially to see which one your opponent prefers. If it is a 
+high kick, use b+4 to hit her back. Juggle or throw her if it is an 
+uppercut. If it is a low kick, move in and use df+1, or back away and hope 
+that it is a high attack next time. Then see which one your opponent 
+prefers, and adjust accordingly. You might want to let them hit you a 
+couple of time to fool them.
+     Another move you have to watch out for is her Sweep -> Bowleg combo. 
+This combo could come up in different way. There's the 1+4,3 method, or 
+the 1~1,4,3 method, or the D,df+4,3 method, or the df+1,4,3 method. 
+Whichever method they uses, know that if you are hit by the Sweep, and 
+you are close enough, the Bowleg will always hit. If you like playing 
+defensively, stay out of the sweep range to avoid this move.
+     Another move you have to watch out for is her Death Push -> Heaven 
+Cannon combo. This could also come out in different ways. Death Push is 
+the low right jab, and the Heaven Cannon is the left upper after Death 
+Push that puts you up there. The damage is good, and you can't counter or 
+reverse the Heaven Cannon. The Death Push is one sneaky move. Do not let 
+them hit you with it.
+     When playing against Julia, being offensive is a good idea. A good 
+Julia player will mix it up, making it hard to play them. Use df+1 and 
+other poking technique if they get too close. Julia has a fair amount of 
+throw, so learn how to escape them. It's really hard to guess on a good 
+Julia, so playing defensively has quite a risk.
+     Here is a list of Julia's strings and its attack level:
+
+2,1,1,2,3,3,3,4,4,1           - HHMHHLHHLM
+2,1,1,2,3,3,2,3,2,1           - HHMHHLMLMH
+2,1,1,2,3,3,2,1,4,3           - HHMHHLMMLH
+
+I haven't had enough experience against these strings, unfortunately. I 
+think you could reverse the 5th hit, which are a high left kick. Or maybe 
+you could low counter the 6th hit. It is best that you interrupt these 
+strings early, because the last few hits of all of her strings varies in 
+hit level.
+     Julia are good in the right hand, but there aren't many of those 
+around my place. There isn't a lot of Julia player in my arcade, so any 
+additions or corrections to this guide in reference to her is greatly 
+appreciated.
+
+vs Gun Jack
+-----------
+     Imagine Kuma with a lot more moves. That would be Gun Jack. Gun Jack 
+also have the ability to finish you up in less than 6 hit. However, he is 
+slow as a snail, and can be downright predictable sometimes.
+     When playing against Gun Jack, do not to lose your concentration. 
+Always remember that when you are dashing back, you are vulnerable. Gun 
+Jack love to use his Cross Cut Saw( f,f+1+2 ), and link it with either a 
+low Cut Saw( d+1+2 ) or a Megaton Punch( df+2 ). If you got hit with the 
+CC Saw when you are dashing back, it connects as a counter hit, and you 
+will get hit by the link. Another move that Gun Jack uses a lot are the 
+Cossack Kicks( db+3,4,3,4... ). If the 1st one is a counterhit, you will 
+be hit by all 6. If you are able to block it, just do a low counter, and 
+juggle away.
+     Another move that Gun Jack have is the Liftoff Thrust( 3+4[3+4,3+4] ). 
+This is a move where Gun Jack flies up and attempt to pounce you. If you 
+are close enough, run up behind Gun Jack so you will face his back when 
+he land, and back-throw his ass to death.
+     Like Kuma, being offensive is not a good idea against Gun Jack. Use a 
+defensive poking strategy and a lot of df+1 to pressure him. Juggle/throw 
+whenever possible. Be careful when you are dashing back.
+     Here is a list of Gun Jack's 10-strings:
+
+d+2,1,1,1,2,1,2,1,1+2,1+2                - LLLMMHHHMH
+d+2,1,1,1,2,1,2,1,d+1+2,1+2              - LLLMMHHHLM
+uf+1,1,4,3,4,1,2,1,1+2,1+2               - MHLLLHHHHH
+uf+1,1,4,3,4,1,2,1,d+1+2,1+2             - MHLLLHHHLM
+
+If you see 3 low punch attacks coming, it could be the 10-strings. Low 
+counter the 2nd or 3rd punch if you can. If not, guess where the 9th hit 
+is going to hit, and block accordingly. If the strings starts with a 
+jumping left punch, remember that the 3rd through 5th hit are low. Low 
+counter them. If you can't, then you have to again guess where the 9th hit 
+is going to hit, and block accordingly.
+     Don't take Gun Jack lightly.
+
+vs Mokujin
+----------
+     When playing Mokujin, adjust your gameplay to the character it 
+imitates. You can tell which character it imitates by the opening round 
+warm-up stance, but in latter rounds, it is much harder. Here's a list to 
+help you with:
+
+Ling     - both knees faces opponents, elbow angle is about 90 degree
+
+Yoshi    - he has a sword.... DUH!!
+
+Nina     - stands still, but arm is moving up and down all the time
+
+Law      - arms moves wildly; think of Bruce Lee...
+
+Hwoarang - hops up and down, arms close to waist
+
+Eddy     - if you don't know... 
+
+Paul     - can't really tell, but body seems to move very slowly...
+
+King     - hops up and down( slower than hwoarang ), arms is held up
+
+Lei      - little sidesteps, slight crouch
+
+Jin      - can't tell right now
+
+Bryan    - from 1p side, front body faces toward you, from 2p side, back 
+           faces towards you; right arm is always held back
+
+Kuma     - whole front face toward opponents, arms down, very noticeable...
+
+Heihachi - can't really tell
+
+Ogre     - I haven't seen Mokujin imitates Ogre
+
+Julia    - arms set low and extended, both knee faces opponent
+
+Gun Jack - almost like Ling, but right knee faces toward you
+
+Paul, Jin, and Heihachi have style that is hard to tell apart. I suggest 
+staying on the defensive until you figure out who it is...
+
+vs Anna Williams
+----------------
+- coming soon
+
+vs Dr. Bosconovitch
+-------------------
+- coming soon
+
+vs Gon
+------
+- coming soon
+=========================================================================
+
+**** "Mind Game" Strategy ****
+
+     This section is devoted on how you can mentally frustrate your 
+opponent using King's moves. Any help on this will be appreciated. Thanks 
+to Sam for inspiring me to create this section.
+     The simplest mind game you could play w/ your opponent is to make 
+them guess which throw you are going to use. If you are able to do all 
+of King's throw with ease, then this should be a cake walk. If the 
+opponents started to duck, throw out crouching throws. Even better, throw 
+out the crouching multi starter. To frustrate your opponent more, switch 
+between in close poking and throws when you get into throw range.
+     Another thing you can do to frustrate your opponent is by using the 
+options you get from the crouch dash( f,n,d,df ). Start the crouch dash 
+from about 3-4 characters away, because the crouch dash is pretty long. 
+There are a few things King can do from a crouch dash. The first option 
+you have is to jump back. Do this by pressing b when King is crouch 
+dashing. Nothing is more frustrating to your opponent.
+     Another thing you can do with off a crouch dash is one of King's WS 
+moves. Do this by waiting after the crouch dash is finished, and pressing 
+the right button when King is getting up. You can use 1, 2 and 4 for the 
+button. All of King's WS moves hits mid, so opponents cannot block low.
+     If the opponents are starting to adjust, then it's time to use the 
+crouch dash multi starters. It will catch those opponents who block high. 
+However, if the opponents happens to block low, you're toast. If you soften 
+them up with the other tactics, this should work just fine. Use with care.
+	Another thing you can do is the crouching knuckle bomb (f,n,d,df,n+1+2).
+Use it when opponents are starting to duck your multistarters.
+     One more thing, remember to adjust to your opponent style for maximum 
+effect. Different players, different tactics.
+     That is all I have for this section. If you have any thing to add, or 
+you saw something that need some fixing, please e-mail your inputs to my 
+e-mail address, which is mentioned above.
+
+============================================================================
+============================================================================
+
+V. Fun Stuff
+------------
+     Don't really know what to put here.... but here we go anyway!!
+
+Profile
+-------
+* from Beamer's King faq
+Catch Copy - anger of beast
+Nationality - Mexico
+Fighting Style - wrestling
+Age - 28
+Height - 200cm
+Weight - 90kg
+Blood Type - A
+Occupation - professional wrestler, management of an orphanage
+Hobby - pleasing children
+Likes - drinking beer in victory with Armor King
+Dislikes - tears of children
+Stage - Wrestling Ring in the Sky
+
+Costume
+-------
+* from Beamer's King faq
+Player 1 ->
+King's gold mask, blue tights with gold piping and gold wrestling shin 
+boots.
+
+Player 2 ->
+Armor King's mask with red eye, grey t-shirt with "Evil Mishima Product" on 
+back (in Chinese), blue breaker pants, chain belt, studded wrist guards, 
+and it looks like a Puma for shoes :)
+
+Start-of-match Pose
+-------------------
+- left side toward opponent, downward slash
+- kneeling, back to opponent, then rise and turn toward opponent
+
+Winning Pose
+------------
+lp - old Tekken 1 pose = jumps forward and pumps arm
+rp - neck slash and a right hand chop
+lk - pumps arm in the air 3 times
+rk - looks up to the sky and growl ( my fav )
+
+Personal Quote
+--------------
+* I made this up
+"Grrrrowwllll"
+
+10 Commandments of Playing King
+-------------------------------
+* saw something like this in one of the Ogre's faq..... by BlackTimms, 
+I think....  and I like the idea...
+
+1.   BELIEVE that you can kick some ass...
+2.   Know the f,n,d,df motion intimately...
+3.   Expect the unexpected...
+4.   Learn how to poke...
+5.   Learn his multi links...
+6.   Know your opponent well...
+7.   Know when to side step...
+8.   Learn all of King's move...
+9.   Don't trash talk, or you could get your ass kicked...
+10.  Have fun...
+
+
+6. Credits
+----------
+     Gotta give credits where it is due...
+
+Thanks to...
+
+Namco, for making such a great game, and inventing King...
+
+1TruKing, for most of the inputs on strategies, and tips...
+
+Tragic and Slikatel, for their excellent Yoshi and Jin strategy 
+guide that inspires me to rewrote the whole strategy part...
+
+All of the FAQ writers. Notable: Beamer, SurfBard, CatLord...... 
+.....thanks for making these faqs so we could learn the game.
+
+The peeps who frequented #gamenation, #tkn, #tekken.... as Catlord
+would put it.... you guys just plain rule....
+
+Contributors:
+- Jeff Hsu, for the d+1 corrections...
+- Kenneth ?, for reminding me to include a paragraph on timing...
+- MC, for tons of stuff...
+- Sam, for inspiring me( and for some related info ) to create the 
+  "mind game"  section.
+All of the other people I simply forgot right now....
+
+For a complete move list for all characters, check out the following links:
+
+     - The Art of King, by Beamer
+       http://www.gamefaqs.com (in the Tekken 3 faq page)
+	- The Original Tekken 3 Faq, by Tragic
+       http://www.gamefaqs.com (in the Tekken 3 faq page)
+     - Surfbard's Tekken 3 Faq
+       http://pw2.netcom.com/~surfbard/tek3faq.txt
+     - Catlord's Tekken 3 Faq
+       http://www.monmouth.com/~karin/t3moves.txt
+     
+For more juggles on King and other characters, refer to The Juggler's Bible 
+by Al X. This faq can be found on these following websites:
+
+     - Gamefaqs Tekken 3 page
+       www.gamefaqs.com
+
+For some mental stuff, check out this link:     
+     
+     - Tekken Psychology 101 by Catlord
+       http://www.monmouth.com/~karin/tkpsych.txt
+
+
+coming soon: more strategies/additions/corrections, and things I forgot...
+
+
+There, it's done....
+
+I hope that this guide will help you on your way to mastering King. 
+
+HAVE FUN!!
+
+dfdp5@hotmail.com
+

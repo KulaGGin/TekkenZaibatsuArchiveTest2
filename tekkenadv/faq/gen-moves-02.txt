@@ -1,0 +1,1521 @@
+********  *******  **   ** **   **  *******  **      **
+********  *******  **  **  **  **   *******  ***     **
+   **     **       ** **   ** **    **       ** *    **
+   **     *****    ****    ****     *****    **  *   **
+   **     *****    ****    ****     *****    **   *  **
+   **     **       ** **   ** **    **       **    * **
+   **     *******  **  **  **  **   *******  **     ***
+   **     *******  **   ** **   **  *******  **      **
+
+                        ADVANCE
+
+
+Version: 1.6  (05-22-02)
+-Cleaned up the Class 5 mess. In some places, I said something about a Class
+5 juggle. This was a misconception on my part as the true effects of Class 5
+juggles are the same as Class 4.
+Version: 1.5  (05-15-02)
+-Finished Juggle Section all except for example juggles for Nina. If you've
+got some, please send them to me or post on www.TekkenZaibatsu.com's GBA
+board.
+Version: 1.2b (04-22-02)
+-Finished Moves List and added Juggle section.
+Version: 1.0b (04-20-02)
+-First Draft, Most of Move List finished.
+
+
+by Bloodspoor & King's Spawn
+
+This guide is an attempt at being the most complete guide for the Gameboy
+Advance version of Tekken. We'll try to keep everything as short and
+printable as possible while going into as much detail as possible.
+
+You may distribute, print, and read this piece of work at your leisure.
+Please do NOT claim that this is your work as it, clearly, is not. Do not
+post this on any other sites without permission from Bloodspoor or King's
+Spawn. All characters and the Tekken name are copyrights and trademarks of
+Namco. All strategies are copyright Gregory Daily/Diego Alvarado.
+
+++++++++++++
+++Contents+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++
+
+-Controls and Conventions
+-Move List
+-Juggle Combos
+-Strategies
+-Codes
+
+++++++++++++++++++++++++++
+++Controls & Conventions+++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++
+##############################################
+#       ___________________________          #
+#      /Change/             \ Throw\         #
+#     |------    __________  -------|        #
+#    /    _     |----------|     _   \       #
+#    |  _| |_   |----------|  _ /K\  |       #
+#    | |_   _|  |----------| /P\\_/  |       #
+#    |   |_|    |----------| \_/     |       #
+#     \ Pause O |__________|        /        #
+#      \_     O Change(also)      _/         #
+#        \_______________________/           #
+#                                            #
+#         P = Punch          K = Kick        #
+#    Change = Tag        Throw = Throw       #
+#                                            #
+##############################################
+
+
+P - Punch      K - Kick            T - Throw      C - change, tag
+f - forward    F - Hold Forward    b - back       B - Hold Back
+d - down       D - Hold Down       u - up         U - Hold Up
+qcf - quarter circle forward       qcb - quarter circle backward
+hcf - half circle forward          hcb - half circle backward
+
+c  - Counter Hit (the c will be typed after the properties)
+JG - juggle starter
+FC - Full Crouch
+ws - While Standing (getting up from a crouch position)
+SS - Side Step
+N  - Neutral
++  - Buttons/Direction must be pressed together.
+~  - Buttons/Directions must be hit IMMEDIATELY after.
+_  - Or (when used between moves, either can be done)
+<  - Moves following this can be delayed.
+=  - Means that these moves have different paths.
+
+
+-(New to Tekken Advance)-
+
+PS - Pop Stun. The opponent will bounce over his head.
+FB - Fall Back Stun. The opponent simply falls backwards.
+CS - Crumple Stun. The opponent grabs their stomach then, falls backward.
+EC - Extended Crumple Stun. Opponent grabs their stomach long before 
+falling.
+GS - Gut Stun. The opponent grabs their stomach for a second.
+RB - Reel Back Stun. The opponent reels back for a second.
+SG - Side Gut Stun. The opponent grabs their side for a second.
+TB - Turn Back Stun. The opponent is forced to reveal their backside.
+
+-(Stun Descriptions)-
+
+Pop Stun. As described before, you bounce to unbelievable heights and are
+open for any juggle follow up.
+
+Fall Back Stun. This stun is one of the more common stuns in the game.
+Usually, it offers little to no follow up juggles.
+
+Crumple Stun. Similar to the Fall Back Stun but usually, you can follow up
+with a quick jab to start a combo. It depends on the recovery time of the
+move that caused the stun.
+
+Gut Stun, Side Gut Stun and, Reel Back Stun. All of these stuns take away 
+the
+ability to block from the opponent for about « of a second. This stun allows
+nearly infinite standing combos. These infinite combo threads will not be
+posted in this guide at this time. Perhaps later, we'll add a few but most
+likely, it'll not happen. As for the two versions of the Reel Back Stun, One
+is a standing animation and the other is more of a crouching animation. The
+standing version allows the opponent to block afterwards MOST of the time.
+
+Turn Back Stun. This stun is incredible. It turns your opponent around, and
+usually allows you to follow up with a juggle starter.
+
+So as to not confuse you, We'll only be putting JG up after a move if it is 
+a
+juggle starter that is not a stun.
+
+
+
+
++++++++++++++++
+++Move List++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++
+
+-(Ling Xiaoyu)-
+
+Basic moves:
+P,P              Bayonet                          hh
+P,d+P            Bayonet McTwist                  hh
+f+P,P            April Showers                    hm    RDS
+f+P,D/F+P        May Flowers                      hm
+P+K              Bird's Flock                     m
+b+P              Storming Flower                  m     KB
+d/f+K            Nutcracker                       l     FSc
+d/b+K            Knee Cracker                     !
+D/F+P            Belly Chop                       m
+d/f+P            Belly Chop Backward              m     RDS
+u/f+K            Cyanide                          m
+b+K              Phoenix Twin Kick                hh    RDS
+d/f+P+K          Thunder Strike                   !
+u+P              Single Fan                       m     RDS
+U+P              Single Fan Forward               m
+u+P+K            Double Fan Forward               mm
+=P               Hydranger                        m
+=P              Fortune Cookie                   m
+=K               Ginger Snap                      -     SS
+d+P              Sunset Fan                      mmm
+D+P              Flapping Wings                  mmm    AOP
+f+K              Cloud Kick                      h
+f,F+P+K          Front Layout                    m
+f,F+P,P          X Marks the Spot                mm
+f,F+K            Racon Swing                     m      RDS
+ws P             Sunflower                       m      RDS
+ws P~F           Sunflower Wake up Call          m
+ws K             Skyscraper Kick                 m
+fc D/F+P,P       Lotus Twist                     mm
+fc D/F+P~D/F     Quick Shady Lotus               m      RDS
+fc K,P,P,K       Fire Dancer                     Lhhm
+fc d/f+K,K       Double Map Sweep                LL
+fc D/B+P+K       Low Back Turn                   -      RDS
+b+P+K            Rain Dance                      -      RDS
+=K               Mistrust                        m
+=d+K             Back Circle Breaker             L      RDS
+=D+K             Back Circle Breaker Forward     L
+=d+P+K           Spin Tornado                    -      AOP
+=P+K             Spin Tornado Up                 -
+f+P+K            California Roll                 -      RDS
+=P+K            Cyclone Left                    m      RDS
+=f,F+K           Peg Leg                         m      RDS
+=P,P,K           Dark & Stormy                   hhm
+=f,F+P+K         Back Layout                     m      RDS
+d+P+K~P+K        Wave Crest Quick                m
+d+P+K            Art of Phoenix                  -      AOP
+=P+K             Wave Crest Power                m
+=d+P+K           Wave Crest Heavy                m
+=P               Left Handful                    m
+=f+K,K           Flower Garden                   LL
+=d+K             Knee Stabber                    L      AOP
+=u+K,K           Flower Power                    mm
+
+=u/f+K,K         Double Barrel Shotgun           mh
+=K               Back Kick                       m
+=K~b             Back Kick to Rain Dance         m      RDS
+=K~P             Firecracker                     L
+=d               Butterfly                       -      RDS
+=u               Jump                            -
+=b+P+K           Rain Dance                      -      RDS
+=f+P+K           Roll Ball                       -
+
+Throw:
+T                Jade                            h
+
+10-String:
+u/f+K, P, P, P+K, P, K, K, K, K, P
+----------------------------------
+
+
+
+-(Yoshimitsu)-
+
+Basic Moves:
+P,P              Zig Zag                         hm
+K,               Ballerina Kick                  h
+=d+K             Kangaroo Kick                   m      JG
+d/f+P            Basic Uppercut                  m      JG
+K~P              Kangaroo Kick                   m      JG
+B+P+K            Bad Stomach                     -
+=Any             Poison Breath                   !      CS
+F+P+K            Yoshimitsu Flash                !
+f+P              Manji Backfist                  h      TB
+=P,P,P,P,P,P     Stonefist                       mmmmmm
+[ws]P            Uppercut                        m
+=P,P,P           Door Knocker                    hhh    RB
+=F+P             Manji Backfist                  h      TB
+=P,P,P,P,P,P    Stonefist                       mmmmmm
+[ss]P            Shrine                          m      JG
+d+P+K            Indian Stance                   -
+=P,P,P,P,P,P     Stonefist                       mmmmmm
+=K               Kangaroo Kick                   m      JG
+=f_b             Vacuum                          -
+P+K              Flea                            !
+=d               Cancel                          -
+=u/b_u_b         Jump                            !
+=f,f_b,b         Running Flea                    !
+=K               Kangaroo Kick                   h      JG
+=d+K             Indian Stance                   -
+u/f+P+K          Poison Wind                     -      FB
+=b+P             Bronze Fist                     m
+=P+K            Steel Fist                      m
+
+=k              Silver Fist                     m      JG
+  =P             Gold Fist                       !
+=P+K             Kangaroo Kick                   m      JG
+f,F+P            Sword Smash                     m      GS/CSc
+f,F+K            Fubuki                          m      JG
+f,f,n~K          Advancing Kick                  m      GS
+=P               Woodcutter                      !
+f,F+P+K          Reverse Cartwheel               m      RB
+=P+K             Shark Attack                    h      JG
+=P+K            Solar Kick                      m      JG
+b+P,P,P,P,P,P    Slap U Silly                    hhhhhh
+D/B+P,P,P,P,P,P  Stonefists                      mmmmmm
+d/b+K,K,K,K,K,K  Manji Low Kicks                 Llllll
+=f+K             Front Kick                      m
+b,B+P            Sword Stab                      !      RB
+=~P              Windmill                        !      RB
+d/b+P            Quick Slash                     !      GS
+=~D/B            Death Slash                     !      CS
+d,d/f,f+P        Moonsault Slayer                !!
+[fc]D/F+K        Knee Cap                        L
+[fc]d/b,B+P      Samurai Cutter                  l
+
+Throw:
+T                Sword Face Smash                h
+
+10 String:
+P,P,P,K,P,P,P,K,P,P
+----------------------------------
+
+
+
+-(Nina Williams)-
+
+Basic Moves:
+P,P              Left, Right Combo               hh
+P,P,K            Bermuda Triangle                hhh
+f+P,K            Jab Roundhouse                  hh
+d/b+K            Slicer                          L
+=K               Geyser Cannon Combo             L,m    JG
+d/b+P+K          Geyser Cannon                   m      JG
+b+P+K            Power Charge                    !      CS
+=u,u             Cancel                          -
+d+P+K            Twisted Mind                    L
+f+P+K            Blonde Bomb                     m
+f+P,F+K          Double Smash                    m
+f+P,D+K          Jab, Sweep                      h,L
+=P               Uppercut                        m      JG
+=K               High Kick                       h
+f+K,K            Head Ringer                     hh
+
+K,K              High, Low Kicks                 hl     SG
+=P               Uppercut                        m      JG
+=K               High Kick                       h
+=D+K             Low Kick                        L      SG
+P,P,P,K          Biting Snake                    hhhL
+P,P,f+K,K        Jab, Jab, High Kickx2           hhhh
+P,P,D+K,K        Jail Crusher                    hhLh
+P,P,D+K,P        Jail Crusher Uppercut           hhLm   JG
+P,P,f+P+K        Double Explosion                hhm
+P,P,P,P,f+P+K    Double Explosion 2              hhhhm
+[ws]P,P          Uppercut, Jab                   mh
+d/f+K,K          Side Kick, High Kick            mh
+[fc]d/b+K,P      Low Kick to Chop                mh     RB
+d+K,P            Low Kick to Uppercut            Lh     JG
+d+K,D+K          Left, Right Low Kicks           LL     SG
+d/f+K,P,P        Leg Slicer Combo                mhh    RB
+d/f+K,f+K        Flash Kick Starter              mh
+=K,d+K           High, Low Finish                hL     SG
+=K,K             High Finish                     hh
+=K,P,P,F+P+K     Blonde Bomb Combo               hhhm
+d/f+K            Creeping Snake Starter          m      GS
+=f+P             Jab                             h
+=P,K            Creeping Snake                  hL     SG
+=f+K            High Kick                       h
+=D+K            Low Kick                        L
+=K              High Kick                       h
+=P,P,f+P+K      Assault Bomb                    hhm
+u/f+K,K,K        Can Opener                      hLh    RB
+f,f,N~K          Kneel Kick                      M      RB
+=T               Throw Cancel                    h
+f,F+K            Bad Habit                       m      GS/CSc
+d,D/F+P          Shut Up                         m      JG
+d,D/F+K          Wipe the Floor                  L      FB
+[ss]P+K          Spiral Explosion                m
+
+Throws:
+T                Interrogation
+d,d/f,f+T        Backhand Slap
+=P,K,P,T         Arm Snap
+=K,P,K,K,K       Triple Slaps
+=P,P+K,P,K,T    Neck Crusher
+=P,K,K,P,P+T    Leg Stretch Arm Lock
+=P,P,K,P         Arm Breaker
+=P,P,K,T,T      Double Arm Breaker
+=K,P,P,K,T      Falling Arm Breaker
+d,d/f,f+P+K      Crab Hold
+=P+K,P,K,T       Commando Arm Lock
+=P+K,K,K,T       Heel Hold
+=P,P,K,K        Double Snap
+=P,P,K,P+K,T    Double Heel Hold
+
+10 String:
+P,P,P,P,K,K,P,P,P,K
+----------------------------------
+
+
+
+
+-(Forrest Law)-
+
+Basic Moves:
+P,f+P            Left, Right Jabs                hh
+f+K,u+K          High Kick to Somersault         hm     JG
+K,K,K            Shaolin Spin Kicks              hhh
+u/b_u_u/f+K,K    Backflipper                     mm     JG
+P,P,P,P,P        Machine Gun Arrow               hhhhh  RB
+f+P,P            Quick Rave War                  hh     RB
+F+P,P,P          Rave War Combo                  hmh    RB
+f+K,K,K          Triple Head Kick                hhh
+=f+K             Mid Kick                        m      GS
+d/b+K            Dragon's Tail                   l
+d/f+K            Mid Kick                        m      GS
+D/F+K,K,K        Step in Combo                   mlh    RB
+(U/B_U_U/F)+K    Somersault Kick                 m      JG
+f+P+K            Dragon Hammer                   m      FB/PSc
+d/b+P+K          Power Punch                     !      CS
+=u,u             Cancel                          -
+b+P+K            Tricky Step                     -
+=P               Backhand                        m
+=d/f+P           Uppercut                        m      JG
+=K               Low Kick                        l      SG
+d+K,u+K          Low Kick to Somersault          lm     JG
+d+P,K            Low Punch to Somersault         mm     JG
+u+K,K            Jump Kick to Somersault         mm     JG
+K,u+K            Crescent Kick Combo             hm     JG
+[fc]K,K          Double Impact                   Lm     JG
+D,U/B_U_U/F+K    Catapult Kick                   m
+D,U/B_U_U/F+P+K  Rainbow Kick                    M
+d/b+P,K,K        Junkyard Kicks                  mlm    JG
+b+P>P>P          Dragon Storm                    hmm    JG
+d+K              Low                             l      SG
+=K               High Kick                       h
+=u+K            Somersault                      m      JG
+=f+K            Mid Kick                        m      GS
+=K              High Kick                       h
+  =u+K           Somersault                      m      JG
+  =f+K           Mid Kick                        m      GS
+  =K             High Kick                       h
+   =u+K          Somersault                      m      JG
+f+K~P            Poison Arrow                    m
+[ws]P            Dragon Uppercut                 m      JG
+b+K,K            Side Kick to Somersault         hm     JG
+[ws]K,K          Front Kick to Somersault        mm     JG
+d,d/f,f+P        Power Jab                       h
+[fc]d/f,d,D/F+K  Slide Kick                      L
+
+Throw:
+T                Dragon's Fire
+
+10 Strings:
+d/f+P,K,P,P,K,K,K,K,K,K
+d/f+P,K,P,P,K,K,K,d+K,K,K
+----------------------------------
+
+
+
+-(Gun Jack)-
+
+Basic Moves:
+P,P,P            Jack Hammer                     hhm
+f+P,P            Cross, Elbow                    hm     GS
+=P               Uppercut                        m      JG
+u+P+K            Giant Foot Stomp                !      FB
+=P+K             Pump                            -
+=P+K            Double Pump                     -
+P+K              Hammer                          m      FB
+=P+K             Double Hammer                   m
+b+P              Piston Gun Assault              m
+f+P+K            Cut Saw                         m      CS
+=P+K             Low Cut                         m      FB
+=P               Cross Cut Blast                 m
+f,F+P+K          Sliding Attack                  M
+d+P+K            Double Axe                      m
+d/f+P+K          Thunder Slap                    L      FB
+d/f+P,P,P,P      Rushing Uppercut                mmmm
+d/b+P,P,P,P,P    Machine Gun Punches             lllll
+=d/f+P           Machine Gun Blast               m
+D/B+K,K,K,K,K,K  Cossack Dance                   LLLLLL SG
+[fc]P+K          Take Down                       L
+[fc]D/F+P+K      Low Cut Saw                     l      FB
+[fc]d/b+P,d/f+P  One, Two Blast                  Lm
+[fc]d/b+P,P,P,P  Hammer Rush 1                   LLmm   RB
+=d+P             Low sweep                       L
+=f+P             High sweep                      h
+=P               Uppercut                        m      RB
+[fc]d/f+P,P      Hammer Rush 2                   mm
+=d+P             Low sweep                       L
+=f+P             High sweep                      h
+=P               Uppercut                        m      RB
+[fc]d/f+K        Hammer Rush 3                   m      RB
+=d+P             Low Sweep                       L
+=f+P             High sweep                      h
+=P               Uppercut                        m      RB
+=P              Uppercut                        m      JG
+f,f+P,P,P        Windmill Punches                mmm
+=P               Backhand                        h      TB
+f,N~K~P          Dark Greeting                   !      CS
+[ws]P            Killing Uppercut                m      JG
+[ws]P+K,P+K      Double Hammer Alternate         mm
+b,d/b,d,D/F+K    Debugger                        L      FB
+b,d/b,d,D/F+P    Megaton Blast                   m
+b,d/b,d,D/F+P+K  Windup Uppercut                 m      JG
+
+Throw:
+T                Volcano                                JG
+
+10 String:
+d+P,P,P,P,P,P,P,P,P+K,P+K
+
+Juggles:
+Come Back Later.
+----------------------------------
+
+
+-(Hwoarang)-
+
+Basic Moves:
+LFF
+P,P              Migraine                        hh
+=d+K             Low Kick                        L      SG
+=K              Home Surgery                    h      RB
+=f+K             Side Kick                       m      GS
+=K               Jumping Hook Kick               h
+f+P              Rusty Knife                     m      GS/RFF
+=F               Cancel RFF                      -
+d/f+P            Body Blow                       m
+K,K,K,K          Hoot Feel                       hhhm   RFF
+K,K              Right Kicks                     hh
+=F               Hard Rocker                     -      RFF
+=K               Kick to Right Flamingo          h      RFS
+=d+K            Blizzard                        L
+=b+K             Kick to LFF                     h      LFF
+=f+K             Kick to RFF                     h      RFF
+K,f+P+K          Rude Boy                        hm     GS
+K,P+K            Axe Murderer                    hm     GS/RFF
+f+P+K            Hook Kick                       h      RB
+=K               Grand Theft                     m
+d+K,K            Firecracker                     Lh     JG
+b+K              Nosebleeder                     h      RFF
+d/b+K            Crippler                        L      SG
+=~K              Feint Heel Drop                 m      FB
+f,F+P+K          Torpedo Kick                    m      RB
+f,N,K            Left Flamingo                   -      LFS
+=~K              Cheap Shot                      m      GS
+P~K              Flying Eagle                    mm
+d+K,K            Low Kick, Roundhouse            lh     RFF
+u/f+K,K,K        Hunting Hawk                    mmh
+u/b+K            Jump Kick                       h      LFS
+f,F+K            Rip Off                         m      RFF
+[ws]K,K          Tsunami Kick                    mm     RFF
+f,N,d,D/F+K      Sky Rocket                      h      JG
+f+K,K            Machine Gun Kicks               hm     GS
+=K               Machine Gun Kick                m      GS
+=K              Launcher                        h      JG
+=d+K             Low Kick                        l      SG
+=K,K            Hook, Middle                    hm
+f+K,K,K,f+K      Left Right Combo Kicks          hmmh   RFS
+=K               Total Outrage                   m
+d+P+K            Dynamite Heel                   !      CS
+b+P+K            Disrespect                      -
+=K               Plasma Blade                    m      JG
+P+K              Switch Stance                   -      RFF
+
+RFF
+P,f+P            Migraine                        hm     GS/LFF
+P,P,f+P          Big Fists                       hhm    GS/LFF
+P,K,K            Reverse Kick Combo              hhh    LFF
+P,b+K            Punch, Spin Kick                hm     FB/RFF
+K,K              Reverse Kicks                   hh     LFF
+
+K,f+K            Chainsaw Kick                   hm     FB/RFF
+b+K              Misdemeanor                     h      RFF
+f,N,K            Right Flamingo                  -      RFS
+f,N,K,K          Grand Theft                     m      JG/RFF
+f,F+K            Screw Kick                      m      LFF
+=K               Back Side Kick                  h      RFF
+b+P+K            Low Sweep                       l      SG/RFF
+=K               Teaser                          h      LFF
+P~K              Backlash                        h      LFF
+f+K              Cheap Shot                      h      LFS
+=B               Disrespect                      -
+=d/b+K           Low Spin                        l      FB/LFF
+=d/f+K           Low Kick                        L      SG/LFF
+f,F+P+K          Ripoff                          h      RFF
+
+LFS
+P                Trick Jab                       h      LFF
+f+P              Backhand                        m      GS/RFF
+u+K              Step Kick                       h      RFS
+d+K              Cutter Right                    l      LFF
+d/f+K            Cutter Left                     l      LFF
+f+K              Snap Kick                       m      RFF
+b+K              Spin Kick                       h      LFF
+K,K,K            Rocket Launcher                 mmh    JG/LFF
+K,K,f+K,K        Cannon Kicks                    mmhm   RFF
+P+K              Power Blast                     !      CS
+u_d_b_f          Movement                        -      LFS
+
+RFS
+P                Right Punch                     h      RFF
+u+K              Step Kick                       h      LFS
+d/f+K            Right Cutter                    l      SG/RFF
+d+K              Left Cutter                     l      FB
+f+K              Snap Kick                       m      FB/LFF
+b+K              Spin Kick                       h      FB/RFF
+K                Right Kick                      m
+u_d_b_f          Movement                        -      RFS
+
+Throw:
+T                Bring It On
+
+10 String:
+[RFS]f+P,P,K,K,K,K,K,K,K,K
+----------------------------------
+
+
+-(Heihachi Mishima)-
+
+Basic Moves:
+P,P                       Double Punch                            hh
+  = K                       = Roundhouse                          h
+  = f+P                     = High Backfist                       h
+  = f+P~P                   = Demon Executioner                   m    KND
+  = f+P~(u_d)+P             = Demon Executioner cancel, sidestep
+P,P,P                     Shining Fist                            hhm
+P<b+P,P                   Demon Massacre                          hmm
+P<b+P,K                   Demon Lair                              hmm
+d+P                       Tile Splitter                           m
+  = P                       = Deathfist                           m
+d/f+P,P                   Twin Pistons                            mm   JG
+f,n,d,d/f,N,P             Thunder Godfist                         m
+P+K                       Demon Breath                            m    KND
+b+P                       Demon Boar                              m
+f+P                       Demon Backhand                          h
+f,f+P                     Demon Godfist                           m    JG
+f,n,d,d/f+P               Wind Godfist                            Sm   JG
+f~n~d~d/f+P               Electric Wind Godfist                   Sm   JG
+qcf+P                     Deathfist                               m
+WS+P                      Dark Thrust                             m    FSc
+f+K                       Split Axe Kick                          m
+f,f,f+K                   Leaping Slash Kick                      h
+f,n,d,d/f,N,P+K           Demon Gut Kick                          m
+f,n,d,d/f,N,P+K           Demon Slice Kick                        L
+U/F+K,K                   Hell Axe                                mh
+(qcf_f,N,d,d/f,f_WS)+K<K  Delay Tsunami Kick                      mm
+f,n,d,D/F+K               Hell Sweep                              L
+  = N+K                     = Rising Kick                         m
+  = N+K,K                   = Tsunami Kick                        mm
+  = N+P                     = Thunger Godfist                     m
+  = K                       = Hell Sweep                          L
+   = N+K                     = Rising Kick                        m
+   = N+K,K                   = Tsunami Kick                       mm
+   = N+P                     = Thunger Godfist                    m
+   = K                       = Hell Sweep                         L
+    = N+K                     = Rising Kick                       m
+    = N+K,K                   = Tsunami Kick                      mm
+    = N+P                     = Thunger Godfist                   m
+K~P                       Demon Scissors                          M
+
+Unblockables:
+d+P+K  Demon Tile Splitter  *!*
+
+10 Strings:
+d/f+K,P,P,K,K,P,K,P,P,P  10
+----------------------------------
+
+
+
+-(Paul Phoenix)-
+
+Basic Moves:
+P,P       Double Punch                     hh
+P,K       Reverse PDK combo                hh
+f+P+K     Hammer of the Gods               m
+qcf+K     Thruster                         h         FSc JG
+d+P       Tile Splitter                    m
+  = P       = Deathfist                    m
+  = K,P     = Falling Leaf                 Lm
+F+P+K     PK combo                         hh
+P,d+K     PDK combo                        hL
+f,f+P     Flash Elbow                      m
+d/f+P     Upper                            m
+qcf+P     Deathfist                        m
+WS+P      Thunder Palm                     m         JG
+FC,d/f+P  Jaw Breaker                      m
+  = P       = Deathfist                    m
+  = K       = Gut Buster                   m
+qcb       Sway                             --
+  = P+K     = Tile Splitter                m         JGc
+  = P       = Rubberband Fist              m         KNDc
+  = K       = Rapid Fire                   L         RC
+   = P,K     = Jaw Breaker, Gut Buster     mm
+   = P,P     = Jaw Breaker, Stone Breaker  mL        JG
+SS+P+K    Shoulder Rush                    m
+SS+P      Thruster                         h         JGc
+uf+K,K    Shredder                         mm        JG
+f,f+K,K   Shredder                         mm
+  = K       = High Kick                    h
+  = f+K     = Mid Kick                     m
+  = d+P     = Low Kick                     L
+f,f,N+K   Neutron Bomb                     m
+
+Unblockables:
+b+P+K  Burning Deathfist  !
+
+10 Strings:
+P,P,K,P,P,P,P,K,P,P
+----------------------------------
+
+
+
+-(King)-
+
+Throws:
+T                        Uppercut, Axe Handle            Front
+d+T                      Jumping Power Bomb              Duck
+QCB+T                    T-Bone Power Bomb               Front
+D,d/b,d,d/b+T            DDT                             Front
+f,HCF+T                  Giant Swing                     Front
+f,N,d,d/f,N,T            Standing Achilles Hold          Front
+  = P,K,P,T                = S.T.F.
+  = T,P,P,P                = Scorpion Death Lock
+  = T,P,P,T                = Indian Death Lock
+   = P,P,K,T,P+K            = Romero's Special
+f,N,d,D/F+T              Reverse Arm Hyperextension      Front
+  = K,P,P+T                = Chicken Wing Facelock
+   = P,P+K,K,T,P+T          = Rolling Death Cradle
+   = K,P,P,K+T, K+T         = Dragon Sleeper
+  = T,T                    = Double Hyper Arm Extension
+  = T,K,K                  = Reverse DDT
+   = K,P,L,P+K,T            = Arm Crucifixion
+f,D/F+T                  Reverse Arm Clutch              Front
+  = K,P,T                  = Back Drop
+   = K,K,T                  = Cannonball
+    = P+K,T,K+T              = Manhattan Drop
+     = P,K,P+K,T              = Superfreak
+      = P,P,K,P+K,T,K,P        = T-Bone Power Bomb
+      = K,P,P,K                = Giant Swing
+   = P+K,T                  = German Suplex
+    = P,K,T                  = Powerbomb
+     = P,P,K,P+K,T,K,P        = T-Bone Power Bomb
+     = K,P,P,K                = Giant Swing
+d/f+T                    Double Elbow Lock Multistarter
+  = K,K,T                  = Cannonball                  Front
+   = P,K,T                  = Powerbomb
+    = P,P,K,P+K,T,K,P        = T-Bone Power Bomb
+    = K,P,P,K                = Giant Swing
+   = P+K,T,K+T              = Manhattan Drop
+    = P,K,P+K,T              = Superfreak
+     = P,P,K,P+K,T,K,P        = T-Bone Power Bomb
+     = K,P,P,K                = Giant Swing
+
+
+
+Basic Moves:
+P,P,P                    Double Punch - Upper       hhm
+d/f+P<P                  Elbow String - Side Swipe  mm
+d+P,N+P                  Low Jab - Upper            Smm
+FC,d/f+1                 Ankle Smash                L         RC JG
+P+K                      Head SPinner               m         BT
+  = P                      = Hand Knife             m
+f,N,d,d/f,N,P            Bouncing Knuckle Bomb      m         BNc
+u/f+P                    Knuckle Bomb               m
+WS+P                     Upper                      m
+b+P,P                    Straight Right - Elbow     hm
+f,f+2                    K's flicker                m         JG
+f,f,N+2                  Stomach Smash              L         FSc
+  = P                      = Hi-Jack Back Breaker   throw
+  = d+P+K                  = Jaguar Driver          throw
+f,f+P+K                  Black Shoulder             m
+(u/b_u_u/f)+P+K          Atomic Elbow Drop          M
+d/f+P+K                  Elbow Drop                 m
+d/f+K                    Rib Buster                 m
+d/b+K                    Roaring Drop Kick          L
+BT K                     Blind Kick                 m         FSc
+(WR_f,f,f)+K             Satellite Exploder         h
+SS+K                     Deadly Boomerang           h
+(d+P+K_FC,d/f+K_RN d+K)  Ali Kick                   L
+  = P                      = Spin Upper             m
+  = K,P                    = Ali Kick, Spin Upper   Lm
+   = P                      = Spin Upper            m
+   = K,K                    = Extended Ali Kicks    LL
+b+K                      Disgrace Kick              h         BT
+f,f+K                    Convict Kick               m
+f+K                      Rolling Sobat              m
+
+Unblockables:
+b+P+K    Moonsault Body Press  {!}
+f+P+K    Jaguar Lariat         {!}
+d/b+P+K  Atomic Back Hand      *!*
+
+10 Strings:
+P,P,P,f+P,K,K,K,d+K,P,P+K
+P,P,P,f+P,PK,K,K,P,P
+P,P,P,f+P,P,K,K,K,P,K
+----------------------------------
+
+
+
+-(Jin Kazama)-
+
+Basic Moves:
+P,b+P              Jab, Backfist              hh
+P,P,P              Shining Fist               hhh
+P, P               Jab, Jab                   hh
+  = b+P              = Backfist               h
+  = f+K              = Knee                   m
+  = K                = Left Split Axe Kick    h
+   = K                = Right Split Axe Kick  m
+   = f+K              = Front Kick            m
+f+P                Overhead Shot              m
+  = K                = Knee                   m
+d/f+P              Straight Mid Punch         m
+  = P                = Overhead Shot          m
+P+K,P              White Heron                mhh
+  = K                = Crescent Kick          h
+  = d+K              = Crescent Sweep         L         JG
+f,N,d,d/f,N,P      Thunder Godfist            m
+  = K                = Mid Kick               h
+  = d+K              = Hell Sweep             L         JG
+WS+P               Uppercut                   m         JG
+f,f+P              Demon Paw                  m
+f,N,d,d/f+P        Wind Godfist               h         JG
+f~N,d~d/f+P        Electric Wind Godfist      h         JG
+b,f+P              Laser Blow                 m         FSc
+b,f+P<P<P          Laser Cannon               mmm
+b,f+P<P<d+P        Laser scraper              mmm       JG
+f,f+K              Split Axe Kick             m
+K                  Roundhouse                 h
+f+K                Knee                       m
+b+K                Demon Steel Pedal          m         FSc
+f,N,d,d/f,f+K,K    Tsunami Kick               mm
+d/f+K,K_WS+K,K     Tsunami Kick               mm
+f,N,d,d/f+K        Hell Sweep                 h         JG
+f~N,d~d/f+K        Electric Hell Sweep        h         JG
+u/f+K,K,K,K        Spinning Demon             hhLLm
+K~P                Demon Scissors             m
+
+
+Unblockables:
+b+P+K  Lightning Godfist       *!*
+B+P+K  Lightning ScrewGodfist  *!*
+
+10 Strings:
+f,f,N+P,P,P,P,K,K,K,K,P,P  10
+b+P,K,K,K,K,P,P+K,K,K      10
+
+
+
++++++++++++
+++Juggles++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++
+
+In the next section, I'll describe each type of juggle starter. I'll also go
+into further detail under each character. Keep in mind that some of this
+stuff will be repeated in the strategy section later. First, let me start
+with the basics...
+
+**Juggle Basics 101**
+We'll start with the different types of Juggles. Juggles come in
+different "classes". Classes 1-4, 1 being the best/highest and 4 being the
+worst/lowest. The following illustration will better describe it than we can
+with words.
+
+Class S - As you might guess this type of juggle starter has special
+          properties; described in further detail under each character.
+Class 1 - Opponent is sent VERY high into the air. Any juggle can be done
+          following this type of launcher.
+Class 2 - Opponent is sent well over head level. This is your average juggle
+          starter in Tekken Advance. Most combos can be done from this.
+Class 3 - Opponent is knocked into the air to about head level. This is the
+          next most common juggle starter. Many juggles can follow this.
+Class 4 - Opponent is knocked down at knee level. This launcher is almost
+          exclusive to the Fall Back Stun. Low hits usually follow.
+----------------------------------
+
+
+
+-(Ling Xaioyu)-
+Ling isn't a bad juggler. She just doesn't do as much damage as some of the
+other characters. She does, however, make up for this with style and flash.
+Her juggles are often high in hit count.
+
+
+Birds Flock (P+K) Class 3
+This starter is quite basic. It offers plenty of possibilities but not a lot
+of preperation time.
+
+Cyanide (u/f+Kc) Class 4
+This isn't a reliable starter as it requires a counterhit and it's one that
+Ling can't exploit very well.
+
+Thunder Strike (d/f+P+K) Class 4
+Again, not very reliable. It's a long charge move and recovery time is high.
+Also, as we stated before, Ling doesn't really have the power to exploit
+Class 4 Juggles.
+
+X Marks The Spot (f,F+P,Pc) Class 2
+This is one of Ling's coolest launchers however, it requires a counterhit on
+the SECOND hit to juggle, reducing its usefulness by a whole lot.
+
+Sunflower ([ws]Pc) Class 2
+Amazing. The fact that it needs to be a counterhit is more than made up for
+by putting her into her Rain Dance Stance. Also, she can follow it up
+immediatly.
+
+Sunflower Wake-up Call ([ws]f+Pc) Class 3
+It's possible to start a juggle from this but it's a pain in the butt.
+Turning around takes time and reduces the effectivness of her juggle
+potential. Stick with the normal Sunflower unless you're just going for
+flash.
+
+Skyscraper Kick ([ws]K) Class 4
+No counterhit required but like we said, Ling isn't great at following up
+Class 4 launchers. This one is somewhat useful though as it's easy to throw
+in as a free hit after any Gut Stun or Reel Back stun.
+
+Mistrust ([RDS]K) Class 2
+Easily one of Ling's best juggle starters. Just the opposite of her normal
+Sunflower in that she starts in RDS and finishes in normal stance.
+
+California Roll, Cyclone Left ([RDS]f+P+K,P+K) Class 1
+A very good launcher with very bad execution time. Her recovery time is also
+very good. Effective against high pokes.
+
+Wave Crest Quick (d+P+K~P+K) Class 2
+Wave Crest Power ([AOP]P+K) Class 2
+These moves are essentially the same thing but the second one does a tiny
+bit more damage and can be done any time durrin her Art of Phoenix stance.
+Either way, both offer the same recovery time and same juggle potential.
+Very good for avoiding high moves.
+
+Wave Crest Heavy ([AOP]d+P+K) Class 1
+Yes, a Class 1, non counterhit that avoids high moves! This, in my opinion
+is Ling's best juggle starter. If you have good timing, this is so abusable,
+too.
+
+Double Barrel Shotgun ([AOP]u/f+K,K) Class S
+The reason we give this a Class S ranking is that it knocks the opponent
+farther away from you than you would normally be used to. Other than that,
+it's a Class 1 with Class 4/5 properties.
+
+Jade (T) Class 4
+This throw offers slight follow up in the form of a class 4 starter.
+
+
+Sample Juggles:
+[ws]K, d/b+K, P, f,F+P,P
+[RDS]f+P+K,P+K, P, P, P, P,P, f,F+P,P
+[ws]K, d/b+K, F+P,P, P,P, f,F+P,P
+P+K, F+P,P, P,P, F+P,P, K
+T, D+K,P,P, u+P+K,P,P
+f,F+K, K, d/f+P, P,P, P, b+P
+[RDS]f+P+K,P+K, U/F+K, P, u+P+K,P,P
+[AOP] u/f+K,K, u+P+K,P, f,F+P,P
+T, D+K,P,P, F+P,P, d+K
+----------------------------------
+
+
+
+-(Yoshimitsu)-
+Yoshimitsu has good combo potential in this installment of Tekken. His
+recovery time is so much better than it has been in other games and it pays
+off well. Not to mention that he has a bunch of launchers.
+
+Uppercut (d/f+P) Class 3
+Basic juggle starter. It's quick and avoids high hits for a moment.
+
+Kangaroo Kick (K~P) Class 1
+Avoids high hits. This is probably the most commonly used launcher
+Yoshimistu posesses. Slow execution time.
+
+Bad Stomach (B+P+K,Any) Class S
+We give this a Class S launcher rating because if done at maximum range,
+Yoshi recovers before they "pop", allowing slower hits such as F+P. Aside
+from this small detail, this is a Class 3 Launcher.
+
+Shrine ([ss]P) Class 2
+Good launcher, probably his best as it side steps and is his only class 2.
+
+Yoshimitsu Flash (f+P+Kc) Class 4
+This move has one downfall. That is that it requires a counterhit or at
+least your opponent to walk into it. One noteworthy thing about it is that
+it's the only reversal/Parry to make it into Tekken Advance.
+
+Knee Cap ([fc]d/f+K) Class 4
+Very hard to follow up but since juggles are possible afterwards, we'll list
+it.
+
+Samurai Cutter ([fc]d/b+P) Class 4
+Just as the Knee Cap, this move is very hard to follow up but, it is
+possible so we'll list it. Neither of these are very useful as a juggle
+starter but you may find use for them.
+
+
+Sample Juggles:
+d/f+P, b+P,P, b+P, b+P,P, b+P,P, f,f,N~K,P
+f+P, d/f+P, b+P,P,P,P,P, d+P, [ws]P,P,P
+K~P, P+K, K
+K~P, U/F+K, b+P,P, b+P,P,P, f,f,N+K,P
+K~P, P+K, u/f, f,f
+K~P, f+P+K, b+P,P, b+P,P,P, U/F+K, [fc]d/f+K
+K~P, B+P+K,Any
+d/f+P, b+P,P,P,P, B+P,P,P,P, b+P,P,P
+B+P+K,Any, P+K, u/f, f,f
+----------------------------------
+
+
+
+-(Nina Williams)-
+Nina isn't exactly a combo powerhouse but she does have some decent
+potential. Her unblockable is a decent combo starter if you can get it off.
+
+Geyser Cannon (d/b+P+K) Class 3
+This is an ok launcher but we would only use it when switching up with the
+Geyser Cannon Combo. It's good to catch someone off guard when they're
+expecting a low hit.
+
+Geyser Cannon Combo (d/b+K,K) Class 2
+This is what we're talking about! High enough to do just about anything
+after it. The only bad part of it is that Nina has a slow recovery time
+afterwards. Switching between this and the Geyser Cannon is probably your
+best bet for getting a juggle combo started.
+
+Power Charge (b+P+K) Class 4
+Yet another unblockable that can be followed by a combo for extra damage.
+Unlike some other characters, Nina excells at following up Class 4's.
+
+Low Kick Uppercut strings (d+K,P) Class 3
+Nina has a bunch of moves that include this, check her moves list for more
+info.
+
+Bad Habbit (f,F+Kc_qcf+Kc) Class 4
+Both versions of this move require a counterhit to work but it's fairly easy
+to trick an opponent into attacking when you're out of range. Since this
+move has really good priority and recovery, you're safe abusing this a
+little.
+
+Shut Up (d,d/f+P) Class 2
+Avoiding high hits, Nina bitch slaps the opponent into the air. All around
+decent launcher for her.
+
+Wipe the Floor ([fc]D/F+K) Class 4
+One of the only follow ups after this is her [fc]D/B+K,P. Still, as it is
+possible to combo afterwards, I have listed it.
+
+
+Sample Juggles:
+None at this time. I could list a bunch of borring, already been done combos
+but I'm sure you can come up with those yourselves. Perhaps soon, I'll post
+more.
+----------------------------------
+
+
+
+-(Forrest Law)-
+Law's Flips are over abundant in this game and highly over powered but
+they're here so Law is a powerhouse. While his juggles aren't nessicarily
+great in varriation, they are heavy on the damage.
+
+Backflip (U/F+K_F+K,U+K_d+K,K,K,K,U+K_b+K,K_d+K,u+K_[fc]K,K) Class S
+Probably the most common of Law's juggle starters, this is fairly easily
+blocked and punished. Don't rely on them. Class S because you recover
+crouching.
+
+Double Backflip (U/F+K,K) Class 3
+If you hit with just the second hit, you'll recover standing and will be
+able to follow up with almost any move.
+
+Dragon Hammer (F+P+Kc) Class 3
+Slow execution and required counterhit make this more of a show off move
+than a useful tool. It does look good though.
+
+Charge Power Punch (d/b+P+K) Class 4
+Why are unblockables so easy to combo from in this game? Anyway, Law's is
+one of the harder to do so from. d+P will get you started though.
+
+Uppercut ([ws]P_B+P+K,d/f+P) Class 2
+Good for countering after blocking low or for taunting durring Law's Fake
+Step. The Fake Step version avoids high attacks for a split second.
+
+Hop Kick (u/f+K) Class 3
+A quick hop kick that launches the opponent to a decent height and you
+recover standing. The speed of this move makes up for the recovery time if
+missed.
+
+Junkyard Kick (d/b+P,K,K) Class 3
+Decent combo but all to easily avoided. Easy follow ups even though the
+opponent is launched about 1/2 a character distance away.
+
+Dragon Storm (b+P,P>P) Class 2
+The only saving grace of this move is that the hits can be delayed. Other
+than that, you can see it coming from miles away. Recovery time is slow if
+whiffed.
+
+Dragon's Tail (d/b+K) Class 4
+Follow ups are hard to come by with this move but they exist.
+
+Slide Kick ([fc]d/f,d,D/F+K) Class S
+The only follow up we know of is the lightning kick which is done by hitting
+throw.
+
+
+Sample Juggles:
+U/F+K, [ws]K, P, d/b+P,K,K
+b+P,P,P, U/F+K, P, U/F+K,K
+b+P,P,P, P, F+P,P,P, f+P+K
+f+P+K, d,d/f,f+P, f+K~P
+b+P,P,P, F+P,P,P, d/b+P,K,K
+d/b+P+K, P, d/b+P,K,K
+b+P,P,P, P, b+P, P, f,f, d+P,K
+b+P,P,P, P, d/b+P, F+P,P,P, [fc]d/f,d,D/F+K
+----------------------------------
+
+
+
+-(Gun Jack)-
+Amazingly, Gun Jack is an uber-good juggler in this game. The only downside
+to this is that almost all of his starters are either too predictable or
+have horrendous recovery time. Also, he doesn't have that many.
+
+Jab Elbow Smash (f+P,P,P) Class 3
+The beauty of this move is that the last hit, the launcher, is usually
+unexpected. Also, he avoids high hits on the last hit.
+
+Hammer (P+K) Class 4
+We don't suggest you use this as a juggle starter but rather be on the look
+out for it so you can follow up with the cossack dance or debugger.
+
+Cut Saw (f+P+K) Class 3
+For Gun Jack, this move has good recovery. However, the combos that follow
+it are few and far between.
+
+Low Cut (f+P+K,P+K_[fc]d/f+P+K) Class 4
+Other than using this for finishing the Cut Saw, it's not that useful as a
+launcher. However, you can do some follow ups.
+
+Thunder Slap (d/f+P+K Class 4
+This move has a slow execution time but it hits low and some people might
+not see it coming. Juggles afterwards, again are kinda weak as it's a class
+4.
+
+Tripple Uppercut ([fc]d/f+K,P,P) Class 3
+I find this to be Jack's best launcher as all hits are mid and recovery time
+is good. It allows some of Jack's best juggles.
+
+Dark Greeting (f,N~K~P) Class 3
+Wow! Jack has a class 3 unblockable launcher. This is just astonishing. Not
+much here.
+
+Killing Uppercut ([ws]P) Class 3
+Damn, it seems that Jack only has Class 3 and 4 Juggle starters. Oh well,
+this is good for following up after blocking low. Recovery time is ok.
+Nothing to write home about.
+
+Windup Uppercut (b,d/b,d,D/F+P+K) Class S
+Yes, Jack DOES have a really good launcher. This is possibly the highest
+launcher in the game. This move has very little recovery time and has a push
+back property to it.
+
+Volcano (T) Class 1
+We belive that this is the only class 1 throw in the game. Since it's a
+throw, you don't need to worry about recovery time. Just wether they duck or
+not.
+
+
+Sample Juggles:
+T, P,P,P
+T, f,f+P,P,P
+T, f+P, f+P, f+P, f+P+K,P
+f+P,P,P, df+P,P,P,P, b,d/b,d,d/f+K
+df+P+K, [fc] db+P,df+P
+df+P+K, [fc] df+P,P,P, f+P+K,P+K
+f~N~K~P, f+P, f+P, f+P, b,d/b,d,d/f+K
+f+P,P,P, d+P,P,P,P
+[fc] df+K,P,P, f+P, f+P, f+P, f,f+P+K
+[fc] d/f+K,P,P, f+P, f+P, f+P, f+P+K,P+K
+[fc] d/f+K,P,P, f+P, f+P, f+P, f+P+K,P
+[fc] d/f+K,P,P, f+P,P, f+P,P, b,d/b,d,d/f+K
+b,d/b,d,d/f+P+K, [fc]d/f+K,P,P, f+P, f+P+K,P
+----------------------------------
+
+
+
+-(Hwoarang)-
+Hwoarang is the best skilled juggler in this game. No doubt in my mind.
+You'll see why if you look at the last combo listed below. High speed, low
+recovery time, lots of mixups make him perfect for juggles.
+
+Firecracker (d+K,K) Class 2
+This is a very basic, easily avoidable, low-high launcher. Because the whole
+thing can be blocked low, the usefulness of this move is reduced greatly.
+
+Feint Heel Drop (d/b+K,K) Class 4
+Mixing this up with the crippler (d/b+K) makes this move a bit more useful.
+Unfortunatly, the follow ups are few.
+
+Sky Rocket (f,N,d,d/f+K) Class 1
+For a very breif moment, this move avoids high hits which is good only
+against jabs and Mishima Wind God Fists. Although there is a slight push 
+back
+when blocked, you are vulnerable long enough to get smacked anyway. It can
+also be ducked.
+
+Machine Gun Kicks (f+K,K,K,K) Class 3
+If blocked, this move offers a heafty push back stun but the last kick can
+be ducked completly and then countered.
+
+Dynamite Heel (d+P+K) Class 4
+Yes, another unblockable but this one is special. It allows for his best
+juggle in the game. Also, it's pretty easy to catch someone with.
+
+Plasma Blade ([BK]K) Class 2
+This move is great if you find yourself with your back to the opponenet. It
+comes out fast and allows decent follow up.
+
+Chainsaw Kick ([RFF] K,f+K) Class 4
+Misdemenor ([RFF] b+K) Class 4
+Not so great but it does combo with a few moves.
+
+Grand Theft ([RFF] f,N+K,K) Class 2
+This is a big launcher that comes from a flamingo feint. It's fast and
+fairly powerful.
+
+Cutter ([Any Flamingo] d+K) Class 4
+This move offers some trickiness while giving the same properties of the
+Dynamite Heel.
+
+Step Kick ([Any Flamingo] u+K) Class 4
+Very hard to combo from as you land in the opposite flamingo but there are a
+few follow ups.
+
+Rocket Launcher ([LFL]K,K,K) Class 3
+This move mirrors the last three hits of the Machine Gun Kicks.
+
+
+Sample Juggles:
+f~K, u+K, P, f+K,P, [iws]K,K
+f,N,d,d/f+K, P+K, P~K
+[RFF]f,K~K, P,K~f, P, k,f+K
+[RFF]f~K, d+K, d/f+K,K, P, f+P, b+K
+[RFF](ch)f~K,K, P~K
+f,N,d,d/f+K, U/F+K, U/F+K, f,N,d,d/f+K
+f,N,d,d/f+K, P+K, F+K,P, P, f+K,P, u/f+K
+f,N,d,d/f+K, f,F+P+K, d/f+K,K, u+K
+[RFF](ch)f~K,K, d+P+K
+D+P+K, d/f+K,K, P, f+K, P, f,F+P+K, d/b+K
+----------------------------------
+
+
+
+-(Heihachi Mishima)-
+Heihachi is an excelent juggler in this game as he has been in the past and,
+I'm sure, in the future. Like Paul, his juggles often consist of your
+average combo fare with power hits finishing them off however, unlike Paul,
+his in-between hits are more powerful. This makes his juggles one of his
+best offensive weapons. Learn his combos and learn them well.
+
+Deamon Breath (P+K) Class S
+This move is an amazing as it is not only very fast but, it allows for hell
+sweep follow ups on a counter hit if you're fast enough and plenty of other
+follow ups on a normal hit. The reason this is an S class is that it differs
+on a counter hit but it is still possible to follow up if you're quick.
+
+Demon Shout (F+P,P) Class S
+This move has the same properties of the counter hit Deamon Breath. It's not
+your average juggle starter but when using Heihachi, he can do a quick Hell
+Sweep follow up.
+
+Right Splits Kick (F+Kc) Class 4
+This move is only a juggle starter on a counter hit. It's good for hitting
+crouching characters but it's fairly slow.
+
+Twin Pistons (d/f+P,P) Class 2
+Heihachi's classic twin pistons are back and just as deadly as ever.  Both
+hit mid and if you get a counterhit with the first hit, the second is free.
+Always good for putting the pressure on as it pushes them back pretty far
+but be careful as some characters can juggle you if they block it.
+
+Hell Axe (u/f+K,K) Class S
+Again, this is just a move that Heihachi can take advantage of with his Hell
+Sweep. Nothing more than that though but extra damage is extra damage.
+
+Lightning Hammer (d+P+K) Class 4
+Still, another Unblockable that can be juggled after. It's slow, powerful
+and Heihachi can really take advantage of Class 4 juggles.
+
+Demon Uppercut (f,f+P) Class 2
+BIG uppercut that hits mid but I don't suggest doing this unless you're
+about 1.5 character distances away. It's pretty slow but he ducks high
+attacks for a split second so it's easy to get a counter hit off at times.
+
+Wind God Fist (f,N,d,D/F+P) Class 2
+Perhaps this move is over used by many but it's for good reason. It hits
+mid, it's fast as could be and there's almost no recovery if blocked. Fast
+characters can get a quick jab in but that's about it. I hate to say abuse
+this but unless your Com or friends sidestep a lot, it's safe to abuse this
+move without much problem.
+
+Jumping Low Kick (f,N,d,D/F+P+K) Class 4
+Heihachi recovers crouching so his follow ups aren't as easy as if he were
+standing but that doesn't mean it's impossible. Mix this move up with the
+Jumping Mid Kick (f,N,d,d/f,[F+K_N,P+K]) for maximum results.
+
+Hell Sweep (f,N,d,D/F+Kc,K,K) Class 4
+Note that if the first kick is a counter hit, you don't need to get any more
+hits off to start the juggle. The Hell Sweep is a great move because of it's
+range and that it hits low and grounded characters. You gotta love that! In
+addition to that, Heihachi is usually low enough to avoid high hitting moves
+while preforming this.
+
+Dark Thrust ([WS]Pc) Class 4
+Even though you need a counter hit to start this juggle, it's fairly easy to
+get one in the heat of a battle. Just try it and you'll see. In my opinion,
+it's Heihachi's best WS move in Tekken Advance.
+
+
+Sample Juggles:
+ewgf, P, ewgf, P, dewgf
+wgf, P,b+P, P,b+P,P
+ewgf, P+K, P,b+P, f,n,d~d/f+K,P
+f,n,d,d/f+K, d+P, f,n,d~d/f+K,P
+ewgf, P, ewgf, P, qcf+K,K
+SSR ewgf, P, P, tgf
+ewgf, P+K, P,b+P, ewgf (big)
+f,n,d,d/f+K, d+P,P
+ewgf, tgf, f~n~d~D/F+K,K,P, d+P (big)
+ewgf, ewgf, ewgf, ewgf
+ewgf, P,P, P,P, P,P, tgf
+----------------------------------
+
+
+
+-(Paul Phoenix)-
+Paul has a rather large ammount of combos in this game but they are pretty
+straight forward with power hits finishing them off. His best two finishers
+are his Deathfist (qcf+P) and Sway to Rapid Fire to Jawbreaker to
+Gutbuster_Stone Breaker (qcb+K,P,P_K). Just keep in mind that Paul does the
+msot damage while his opponent is on the ground...but a few extra free hits
+are always good and good fun.
+
+Hammer of the Gods (f+P+Kc) Class 4
+Because of the nessicary counter hit and Paul's somewhat slow recovery time,
+this isn't the best juggle starter in his arsenal. Also, his follow ups
+aren't all that great but as I've said before, extra damage is extra damage.
+
+Shredder (u/f+K,K) Class S
+This move is great if the first hit misses or if you just do a hop kick
+(u/f+K). Otherwise, they're a bit far away and the combos are few from 
+there.
+
+Hop Kick (u/f+K) Class 2
+After this move, almost anything is possible. In my opinion, this is one of
+Paul's best juggle starters. It's fast, pops them up high, and does a decent
+ammount of damage.
+
+Neutron Bomb (f,f+K,K) Class 2
+This is only a combo starter is the first hit misses. Aside from that, it's
+pretty much the same as the hop kick.
+
+Bone Breaker* (d+K,P) Class 4
+If you look above, you'll see a star next to the name of this move. That's
+because I didn't know what to call just the first part of it. For this to be
+a juggle starter, you have to omit the last punch. This move is great for
+catching someone off guard with a low move. I belive this and the following
+are Paul's only low-hitting juggle starters.
+
+Hang Over* (d+P,K,P) Class 4
+Just as with the bone breaker, this one requires you to omit the last punch.
+For more info, see the above caption.
+
+Thruster (d,d/f,f+K) Class S
+This move is great. Not only is it a Class 2 launcher on a normal hit but,
+upon a counter hit, it's one of two moves in this game that allow for a
+Change Combo! Because of the slow stun animation before they fall into a
+Class 4 starter, you can Change characters and finish the combo!
+
+Stone Breaker ([ws]P_QCB+K,P,K_[fc]d/f+P,K) Class 2
+I like this move. It's quite good considering that you can do it from a
+crouching position. In the case of the combo versions of this move, upon a
+counter hit, you get extra damage before the juggle starts.
+
+God Hammer Punch (d,d/b,b+P+Kc) Class 3
+Only upon a counter hit does this move cause a juggle starter but it's
+pretty easy if you know your spacing and can anticipate when your opponent
+will attack.
+
+Turn Thruster ([ss]Pc) Class 3
+The perfect juggle starter. Not only do you evade getting hit but you do
+lots of damage with your follow ups. Since in this game, side stepping is
+greatly rewarded, Paul only takes advantage of it with this move. The fact
+that this move needs to have a counter hit doesn't effect its usefulness one
+bit.
+
+
+Sample Juggles:
+u/f+K, u/f+K,K, P, f+P+K
+WS+P, d/b+P, P, d/b+P, FC,d/f+P,K
+u/k+K, P, f,f, P, P, P, qcf+P
+d+K, WS+K, d+P,P
+WS+P, P, d/b+P, P, P, f,f+P
+u/f+K, P, iWS+K, P, qcf+P
+(ch) qcb+P, f,f, d+P, d+P,P
+WS+P, f+P+K, d+P,P
+(ch) qcf+K, u/f+K, P, UF,K, qcb+K,P,P
+----------------------------------
+
+
+
+-(King)-
+King's not the greatest juggler but he does have some power which makes up a
+bit for his lack of high numbers. Not much flash here, either. King is a no
+nonsense character and it shows in his combos. On the other hand, King is
+one of the few characters that allows a Tag Combo! Check below to find out
+how to get them started.
+
+Moonsault Body Press (b+P+K) Class S
+*Sigh* Yet another unblockable that can be comboed after. Not much can be
+done but one of the easier combos I've come up with is included in the
+examples.
+
+Jaguar Lariat (f+P+K) Class 4
+Yep. There's another one of those pesky unblockable combo starters. Sheesh!
+There's just too many ways to exploit this game! Nothing big here but I
+thought it worth mentioning.
+
+Capital Punishment (u/f+P) Class 4
+It would seem that most of King's juggle starters are Class 4. Just keep
+reading for the upper class starters. As for this one, It's ok when you're
+at about 3 character's distance from the opponent or when they're getting 
+up.
+
+Downward Elbow (d/f+Pc) Class 4
+On a counter hit, this move offers a small window for a juggle but it's not
+the best. I guess it's to compensate for there not being a face down
+animation in this game. Still, some combos are possible from this.
+
+K's Flicker (f,F+Pc) Class 2
+This move is ok. It launches the opponent high enough for just about
+anything but it's slow execution time and nessicary counter hit hinder it a
+bit.
+
+Deadly Boomerang ([ss]K) Class S
+The same combos are possible as from his Moonsault Press.
+
+Crouching Uppercut ([ws]P) Class 2
+Good move for when you find yourself in a crouching position. Most any combo
+is possible from this move.
+
+Leg Breaker ([fc]d/f+P) Class 4
+Good, Low-hitting move but it's quite slow. The following combos are as you
+would expect from a Class 4.
+
+Atomic Blaster ([bk]P+K) Class S
+*See the Jaguar Lariat for what this move is capable of.
+
+Blind Kick ([bk]Kc) Class 4
+This move works well for when an opponent thinks they've got you where they
+want you. Because you need a counter hit, it loses it's effectivness.
+
+Stomach Smash (f,f,N+Pc) Class S
+This is the other move that allows for Change Combos. This is King's best
+juggle starter but the nessicary counter hit really sucks it's usefulness
+away.
+
+Black Bomb (f,N,d,d/f+P) Class S
+This move is Class S because it has different properties depending on how
+you hit with it. If it's a normal hit, the move is a Class 4. If, however,
+you hit with a counter hit, it's a Class 2 "bounce" juggle starter.
+
+Charge Backhand (d/b+P+K) Class S
+I'm not 100% sure if this move can be followed up but it is my belief that
+it can be. I belive a Black Bomb hits after it but I'm not sure right now.
+
+
+Sample Juggles:
+b+P+K, T, [fc]d/f+K,P
+(ch)f,f,n+2, f,f,n+2, f,f,n+2, f,f,n+2, f,f,n+2, f,f,n+2
+----------------------------------
+
+
+
+-(Jin Kazama)-
+Jin is another huge comboer. His abilities are second only to Hwoarang's and
+tied with Heihach. Being able to bring an opponent from low to high with the
+White Herron (P+K,P), really makes his juggability impressive. Keep this
+move in mind when you don't think you can juggle someone.
+
+Demon Steel Pedal (b+Kc) Class 4
+A counter hit is needed but not hard to come across with this move as it's
+deceptivly fast and hits mid.
+
+Double Lift Kick (d+P+K) Class 2
+This move can catch an opponent when they least expect it and in this game,
+it's quite a good launcher.
+
+Roundhouse to Hellsweep (u/f+K,K) Class 4
+This move requires you to miss with the first hit in order to pull off a
+quick hell sweep. Same properties as the hell sweep from there. See below.
+
+Shoot the Works (P,P,K,K_f+K) Class 4
+If you omit the last hit of this combo, you can follow up with your own
+Class 4 juggle.
+
+3 Ring Circus Combo (P+K,P,d+K) Class 4
+Just like the Hellsweep on the last hit. Mix it up with the normal 3 Ring
+Circus (P+K,P,K) to play mind games with the enemy.
+
+Left Splits Kick (f,f+K) Class 4
+This move functions exactly the same as the third hit of Shoot the Works
+combo. Also, just like Heihachi's version of this same move.
+
+Laser Scraper (b,f+P,P,d/f+P) Class 2
+One of Jin's most abused moves, this can cause some serious damage but can
+leave you quite open if you whiff.
+
+Wind God Fist (f,N,d,d/f+P) Class 2
+This is one of the better launchers in Jin's move list but it suffers one
+very major flaw. It hits high and therefore can be ducked and countered if
+they see it coming so I suggest you go for the Electric Wind God Fist
+(f~N~d/f+P). This version has faster recovery and sends the opponent just a
+tad higher into the air. Also, upon counter hit, it doesn't send them across
+the screen.
+
+Thunder God Fist to Hellsweep (f,N,d,d/f,N+P,d+K) Class 4
+Same as Hellsweep. Check below for slight more info reguarding this move.
+
+Hellsweep (f,N,d,d/f+K) Class 4
+Jin's main low-hitting juggle starter, as you can see from above. This move
+is quite good and in Tekken Advance, there's an Electric Hellsweep
+(f~N~d/f+K)! The electric version is just like the Electric Wind God Fist in
+that it comes out faster and the recovery is slightly better.
+
+Uppercut ([ws]P) Class 2
+This move has the same properties of the last hit of Jin's Laser Scraper
+with one minor difference - it is preformed from a crouched position and
+needs no other input before hand. Good for countering a high move.
+
+
+Sample Juggles:
+ewgf, P, ewgf, P, wgf
+(CH)b+K, d/f+P, b,f+P,P,P
+ewgf, P, tgf,K
+ewgf, d/f+P, ewgf, ewgf
+f~n~d~d/f+k, P+K,P, b,f+P,P,P
+ewgf, P, f,f+P, P, wgf
+wgf, tgf, [P]+K,P, ewgf (big)
+ewgf, ewgf, [P]+K,P, b,f+P,P,P
+ewgf, b,f+P,P,d+P, tgf
+ewgf, b,f+P,P,d+P, b,f+P,P,P
+----------------------------------
+
+
++++++++++++
+++Credits++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++
+
+Well, that's it for now. I'll update this FAQ as I see fit but as far as I'm
+concerned, it's complete. I would have liked to include a Finisher section
+but this has taken so much time off my hands already. Perhaps in the future,
+I'll add it but who knows?
+
+Special thanks to Namco for bringing this bundle of gaming goodness!
+
+-King's Spawn for many of the excelent combos that are featured in this FAQ.
+-Castel for bringing the many Tekken fans across the globe one step closer
+together via his site, www.tekkenzaibatsu.com.
+-God for giving us something to live for.
+
+

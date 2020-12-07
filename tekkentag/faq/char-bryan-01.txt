@@ -1,0 +1,3725 @@
+Bryan: The Fists of Carrion - for Advanced and Beginners, v.5.01
+- by Renick(renickironfist@hotmail.com)
+
+
+
+To check if this FAQ is organised as it's supposed to be, please check
+underneath if the points and numbers line up properly:
+
+
+
+0123456789
+..........
+
+
+
+Disclaimer-
+
+First of all, this guide is for personal use only. If you wanna use
+this publically, you can only do that if the credit goes to me. No dirty 
+tricks by stealing someone elses work. If you DO try and steal my work and 
+use it for your own profit, you are bananis my friend, because I'll find 
+out, and I will shut you down. This FAQ is written officially by me, Renick, 
+and this whole text document is property of Renick (c). All quotes and 
+idea's displayed in the "Ask the experts" section are property of E-MAN, 
+Reverend C, Konqrr, Birch, BioXeed, Devil Lee and KOFTEKKEN, if someone 
+tries to use these idea's for profit, money, recognision or to open their 
+hanky panky of the usual frauding and plagiarism, it's illegal, and will be 
+punished the severely, no matter in what circumstances or with what 
+intentions. And for the legal blah-blah-blah, Bryan and all characters in 
+Tekken Tag Tournament belong officially to Namco, All rights reserved 1999, 
+2000.
+
+
+
+===========
+What's new?
+===========
+
+10/6/00:
+
+- Added LOTS more Combo's
+- Some adjustments on the FAQ layout that I still found dissatifying
+
+
+
+
+17/4/00:
+- Added More Combo’s
+- Added WS execution section
+- Updated Move lists section
+- Made a punch parry correction
+- Updated custom strings section
+- Completely revamped VS character section, since the long essays really 
+started to irritate me.
+- Added the ‘STAIRS’ tactic in THE MIXING UP SECTION
+
+22/2/00:
+- Added some combo's by devil demunyu (lord_devildemunyu@hotmail.com)   , so 
+credit goes out to him as well. I also added some of my own combo's as well, 
+as well as a few minor layout modifications. That's all for now.
+
+
+
+
+----------------------------------------------------------------------
+
+
+
+-[TABLE OF CONTENTS]-
+
+
+A - Introduction
+
+B - Conventions
+
+C - Move Analysis
+
+D - Blocking and Hit-ranges
+
+E - Okizeme
+
+F - Sidestepping
+
+G - Dashing and Swaying
+
+H - Versus Character Strategy
+
+I - Tagging and Tag Strats.
+
+J - Poking
+
+K - Combo's/Juggles
+
+L - Custom Strings
+
+M - Throwing and Counters
+
+N - Buffering
+
+O - Recovery
+
+P - Countering
+
+Q - Mixing Up
+
+R - Instant WS execution
+
+S - Ask the Experts
+
+T - Conclusion
+
+U - Sites
+
+V - Credits
+
+----------------------------------------------------------------------
+
+
+A.  INTRODUCTION
+
+Okay, the reason why I write this FAQ is simple. Bryan is, regardless of his 
+weaknesses arguably  one of the stronger characters in the game. He has 
+combo abilty, great poking, great speed, he has parries, great powermoves 
+and great strings. Bryan has a great set of powermoves, he has the best WS 
+attacks in the game, which set up high damage, meaning that he can be deadly 
+from both standing and crouching positions. He has a good set of pokes, 
+great mixups in his short attack strings, and great counterattack ability, 
+where his Mach Punch is the center of attention. Bryan has the ability to 
+deplete your life bar by half off one counter with his WS+3 knee, and his 
+popular jugglestarters (ws+1, b+1 and uf+4) are all mid-level attacks. Many 
+see him as an offense character, but that doesn't contradict his defensive 
+abilities. His punchparry is a great new addition to his arsenal, and his 
+sway back is great since it avoids high attacks and is taggable. But Bryan 
+isn't without weaknesses. He still has very lacking low attacks, which means 
+he cannot last long against turling Julia's and Laws because he isn't really 
+balanced in hit ranges. He also has some moves that can be sidestepped 
+pretty easy, leaving him vulnerable for a backthrow or juggle.
+
+But Bryan has probably the meanest attacks in the game, his Chains of Misery 
+is probably the best show off move you can imagine. He can be a formidable 
+treat to any character, regardless how powerful. I hope this FAQ will inform 
+you that Bryan is one of the most dangerous fighters in the game and can be 
+played well enough to boost other characters in high level competition. 
+There's a lot you cannot effort while playing a good Bryan.
+
+So let's this FAQ started, if you have any questions, feedback or comments 
+on my work, my e-mail is renickironfist@hotmail.com, your opinions mean a 
+lot to me, so let me know if you have some wisdom you'd like to share. Have 
+fun with the FAQ...!
+
+
+----------------------------------------------------------------------
+
+
+B.  CONVENTIONS
+
+
+Joystick Layout (facing right) :
+    UB   U  UF
+      \  |  /         B  - backward
+       \ | /          UB - up/backward
+  B ---- +  ---- F    U  - upward
+       / | \          UF - up/forward
+      /  |  \         F  - forward
+     DB  D  DF        DF - down/forward
+                      D  - downward
+                      DB - down/backward
+
+
+Buttons:                       Layout:
+1 - left punch                 [1] - [2] - [5]
+2 - right punch  ----------->
+3 - left kick                  [3] - [4]
+4 - right kick
+5 - tag button
+
+Other terms:
+CD     -  Crouch-dash(f,n,d,df)
+RD     -  Rolldash (d,df,f)
+WS     -  While rising
+FC     -  Full chrouch position
+CH     -  Counter hit
+MC     -  Major Counter
+SS     -  Sidestep
+QCF    -  Quarter circle forward
+QCB    -  Quarter circle backward
+C.O.M  -  Chains of Misery
+(E)WGF -  (Electric)Wind God Fist
+
+
+Small letter   - Tap button command/joystick motion
+Capital letter - Hold button command/ joystick motion
+
+Con: +  - Occurs when button commands/joystick motions have to be
+pressed simultaneously.
+
+Con: ,  - Occurs when button commands/joystick motions have to be
+pressed before/after each other.
+
+Con: ~  - Occurs when button commands/joystick motions have to be
+pressed fast before/after each other.
+
+Con: N  - Neutral motion. There should be no joystick motion for about
+1/2 a second.
+
+Con: () - If a command is shown between this convention, it means it's
+optional wether or not to pull it off.
+
+Con: _  - Occurs when there are more options possible after a certain
+attack/string.
+
+Con: >  - Occurs when hits can be delayed.
+
+
+----------------------------------------------------------------------
+
+
+C.  MOVE ANALYSIS:
+
+
+Bryan is not a stance character with tons of attacks, like Lei or Hwoarang. 
+He's more of a character that relies on his damage and combo's, with basic 
+attack patterns and poking. You can mixup your style fairly well with Bryan, 
+since he can poke very well, and has nice powermoves and jugglestarters to 
+minor counter the opponents recovery for example. He's got more than enough 
+in his arsenal to keep the versatile gamer growing confortable while playing 
+him. I'll give you a detailed discription of how to use Bryans moves, so it 
+isn't a real movelist. If you are looking for movelists, Catlords awesome 
+FAQ and Tekken Zaibatsu will provide you all you need.
+
+Okay, on the with the move analysis.
+
+==================
+Throws and Parries
+==================
+
+2+4:
+This is one of Bryans basic throws. It's pretty vital to make use of them, 
+despite the single button escapes, since Bryan's throw arsenal isn't really 
+impressive like Kings for example. A good use is to buffer this throw with a 
+2 or df+2 (the blockstun allows you a throw attempt with less risk, but this 
+is not a low risk option) After this throw your opponent ends up grounded 
+with his head towards you, making this throw the least useful of the basic 
+front throws. Remember that the FC+3 is guaranteed after this throw. 
+Use-O-meter: 8 outta 10
+
+
+1+3:
+The second basic throw is pretty useful, it can be buffered with a 1 or df+1 
+very easily. Also the d+4 is guaranteed for more chipping damage once the 
+1+3 throw has connected, since the opponent ends up right before your 
+feetgiving you the chance for some up close okizeme. Pretty useful if you 
+ask  me, despite the 1 button escape. Also a FC+3 kick is guaranteed after 
+connecting the throw. And not to forget the df+3 afterwards will catch the 
+opponent before they can tech into safety. Use-O-meter: 8 outta 10
+
+
+FC,df,d,DF+1+2:
+Mad Axes-my ass, THIS is the coolest and most show off throw in the friggin' 
+game: The Chains of Misery. What Bryan will do is pound you three times with 
+a very cool way, laughing maniacally. You have to be in FC position to pull 
+this off successfully. You MUST try this throw once per match, it's too cool 
+to leave out. It has damage, you can even rush in and do small okizeme 
+afterwards. Besides it requires a two button escape (1+2), so you'll have a 
+greater chance for impact. But remember not to be too addictive to it, the 
+urge of pulling it off might get you into trouble. I'm not sure but the df+3 
+after this throw connects everytime when they techroll, not exactly sure if 
+it's actually guaranteed though. Use it every once or twice per round, if 
+you connect, laugh loud....REAL loud. Use-O-meter: 8 outta 10.
+
+
+1+3/2+4 (left or right f/opponent)
+Sidethrows are very useful after a successful sidestep(u,N_or_d,N). Both of 
+Bryans sidethrows do great damage and look flashy. This is a great 
+alternative to counter after you've sidestepped your opponents attack, and 
+it's best to buffer them befor you go into your SS. But you have to be 
+cautious, since it happens a lot that the opponent already recovered and 
+ducks, escapes or backdashes your throw attempt. You could try a sidethrow 
+if you successfully SS canceled after the b+2 doom knuckle starter, or after 
+you teched a combo. Use-O-meter: 8 outta 10
+
+
+1+3/2+4(~5) - (back f/opponent)
+Bryans backthrow is very useful since you can tag off it, resulting INSANE 
+damage. Back throwing should be used whenever the opponents back is 
+vulnerable, in rare moments like ducking a Hwoarang f,f+4 or sidestepping 
+aerial moves like Kings f,f+1+2. This throw can be teched if you don't tag 
+it. Use whenever you know it's safe, meaning DON'T try to backthrow attempt 
+backturned Lings and Lei's you'll most likely end up thrown or juggled. 
+Use-O-meter: 7 outta 10
+
+
+B+1+2 - (when attacked by high/mid punch attack)~2:
+Now this is the most awesome new addition Bryans arsenal could get. Use his 
+punch reversal whenever possible, since it's non-escapable and pressing 2 
+after reversing a punch attack will get you a GUARANTEED strike. Reversing a 
+left punch will Bryan do an automatic f,f+2 and a right punch reversal will 
+cause him to do an automatic df+2. This will make Bryan practically
+invinsible against big characters like the Jacks, who rely mostly on punch
+attacks. A must in Bryan's arsenal.
+Use-O-meter: 10 outta 10
+
+
+d+1+3/d+2+4 - (when attacked by low/special mid attack)
+The lowparry is used to counter low and special midattacks. Depending on 
+what limb you reverse, you get a certain amount of frames advantage giving 
+you the chance to attack the opponent. There are no guaranteed followups 
+after the parry except for uf+4 maybe which gets you a juggle after a 
+parried right kick. Use the lowparry whenever you get the chance, it's 50% 
+execution, 50% timing. Use-O-meter: 10 outta 10.
+
+====
+Arts
+====
+
+1/2/d+1:
+These are the basic jabs, which are one of the vital tools Bryan has. They 
+can be used for everything, setting up, interrupting, custom stringing, 
+buffering, juggles (as extensions). Despite that Bryans jabs are slow in 
+comparision to Law's and Yoshi's jabs these are your pecks of choice, since 
+poking is essential in the allround Tekken game, you cannot survive against 
+a skilled player without a good poking game, unless you want to be a falling 
+leaf/deathfist cheeser. Use-O-meter: 10 outta 10
+
+
+Standing 4:
+Bryans regular 4 is awesome for a couple of reasons. First it's range is 
+amazing, it reaches about 1 and a half character distance, making it very 
+useful for keep away tactics to gain some spacing. Even better is, it knocks 
+down  on CH, you can easily do some okizeme or tech-combo (if they techroll) 
+off it. This a great distancing poke for keep away tactics, since it knocks 
+the opponent slightly backward on non-CH to allow you to gain a little 
+spacing. Use-O-meter: 9 outta 10
+
+
+d+3:
+Shin kick. This works very well as okizeme tool on opponents who constantly 
+roll away from you. Especially on big characters, this can happen very 
+often. It still has a slight start-up so it's not a real low risk move to do 
+on a near opponent. But if it hits, it sets up pretty well actually. You can 
+follow a df+2 without much risk after connecting the d+3, maybe even a throw 
+attempt. Use-O-meter: 8 outta 10
+
+
+FC+4:
+Bryan does a low shin kick in FC position. Because of the blockstun caused 
+on you when this move is blocked, this move isn't really a useful poke 
+anymore. It hits grounded opponents, so as okizeme tool this can be 
+qualified. If you knocked the opponent from a distance, you can simply 
+rolldash (d,df,f) into range and press D to put you FC-position. If you need 
+a fast move to eat damage from an immobilized opponent, this has more than 
+enough in it to do the trick. Use-O-meter: 8 outta 10
+
+
+d+4:
+This is a very vital move in Bryans arsenal. It comes out fast, has range, 
+hits grounded opponents and best of all: it hits LOW. Bryan lacks with low 
+attacks, that's a known fact for everyone who is familiar with playing him, 
+so this moves proves to be an excelllent poke. It sets up fairly well, great 
+for chipping damage and has the speed to interrupt the opponents strings and 
+powermoves. This also works excellent for custom strings. You can also use 
+this without much risk as okizeme tool. Great poke all by all. Use-O-meter: 
+10 outta 10
+
+
+ws+4:
+Many tend to forget the basic rising right kick that most TTT characters 
+possess. It comes out very fast off the chrouch making it useful after 
+punishing an advancing opponent, like during a FC,df,d,DF+1+2 attempt. You 
+have to remember this is Bryans fastest WS move so this is your best bet to 
+interrupt those who try to counter your crouch. Remember you can also pull 
+this off a rolldash (QCF+4). Use-O-meter: 9 outta 10
+
+
+d+3+4:
+Shin kick. This is the same animation as Lei's and Jin's d+3. This does more 
+damage than the d+4, but doesn't hit grounded opponents and comes out 
+slower, making this move fairly risky on close quarters. I don't see why you 
+should use this move when the execution is harder and the alternatives have 
+far more priority. However due to the 2 button command, this move can be 
+awesome for canceling with your single button pokes. Use-O-meter: 7 outta 10
+
+
+b+4:
+Knee. I think it's a shame they didn't but Bruce's knee in Bryans arsenal 
+instead, since that has much more speed and priority. Bryans knee comes out 
+sort of slow, making it a bad close quarter attack, which is the use of most 
+knee attacks. You can use this in combo's however, but Bryan has much better 
+options than this in juggle extensions and finishers. The only real 
+advantage this move has is that it's non-reversable, but Ling can parry it 
+tho. Use-O-meter: 6 outta 10
+
+
+1,2:
+The simple 1,2 combo is a reliable set-up for Bryan. If the 1 hits the 2 is 
+ALWAYS guaranteed, and it sets up very well. You can buffer into a throw, 
+can choose from mid or low string extensions, making it great for custom 
+stringing and interrupts. The opponent will recover slower from the 2 once 
+it counters, making it great to follow up another attack, a f,f+2, a df+2 , 
+a standing 4, you name it. Together with df+2, this surrounds Bryan poking 
+game, remember that. Use-O-meter: 10 outta 10
+
+
+1,2,3:
+Bryan does his punch combo, followed by a left shin kick. This can be very 
+useful, since the first two punches hit high, to shin kick low, so many tend 
+to eat the last hit. Mix this up with the 1,2,1,2_4 mixups well, since many 
+anticipate to block the third hit standing (after blocking the first two 
+hits) and eat the 3 setting you up for another fast poke like a 4 or df+2. 
+Still, the 3 seems to come out pretty slow after the 1,2 punches are pulled, 
+so the alert gamer can block/duck the first two hits and parry the third. 
+Use-O-meter: 8 outta 10
+
+
+1,2,1,2:
+This is very useful actually because once the first hit connects or is
+blocked, the rest if the string is uncounterable except for the last hit, 
+since the opponent either has to block the whole string or gets hit. If you 
+are up against a turtling opponent, mix this string up with 1,2,1,4 to 
+confuse the opponents with the low and mid enders. You can also fake the 
+opponent out by doing the first three hits only, then do the 1,2,1,2 string 
+again, since they might try to counter you and run right into another 
+1,2,1,2 string. This string is very useful to minor counter the opponents 
+recovery attacks up close, and keep them nailed by your offense. 
+Use-O-meter: 9 outta 10
+
+
+1,2,1,4:
+The first three hits of this string are the same as the previous named move, 
+but it ends with a low hitting shin kick. This is a very useful move, you 
+have some very mean tricks with this one. When the first hit connects or is 
+blocks the rest of the string is uncounterable. The last kick tends to be 
+lowparried very often if the string is done from a small distance. A good 
+thing to do if you start this string from a small distance is to do the 
+first three hits alone, if the opponent anticipates the last hit and tries 
+to parry he'll whiff, leaving him open for a uf+4 or whatever attack. Mix 
+this up with 1,2,1,2 for wake up games, and you'll find this move a very 
+reasonable tool for your offense. Use-O-meter: 9 outta 10
+
+
+b+2>1>2:
+The Doom Knuckle mixups can prove useful if used correctly. Bryan does two 
+heavy backfists and finishes with a mach punch. The whole string by itself 
+does insane damage once it counters, and the stun caused after the second 
+hit can set-up a combo. Another good feature is that this string can be 
+delayed, but this will also give the opponent the time to duck and counter 
+you. The whole string hits high and the recovery isn't too good either. The 
+main use of this move is the fact that it's very effective in 
+combo's/juggles, you can take more than a half a lifebar away using this as 
+a juggle linker. Use-O-meter: 8 outta 10
+
+
+b+2>1>4:
+The first two hits of this move is the same as the previous mentioned, but 
+Bryan finishes with a horizontal axekick instead. The first two hits are 
+high and the third hits mid. This mixup does more damage than the mach punch 
+ender. If you use this in a combo or juggle, you'll be greeted with some 
+insane damage. Don't use this on a defending opponent, you will get either 
+countered or ducked, the last hit comes out pretty slow. Still, if the whole 
+string is blocked, the blockstun the last hit allows you to recover fairly 
+easy. Use-O-meter: 8 outta 10.
+
+
+Side note on the b+2,1-mix-ups: If you press F+1~u,N_d,N after the first 
+hit, Bryan will sidestep around the opponent, and delay either the 2 and 4 
+enders. Even better, you can cleanly sidethrow your opponent without having 
+to worry pulling off a general move of the sidestep instead(like SS+1 i.e), 
+which is very useful indeed.
+
+
+b+2,4:
+Now this move is garbage. First of all, the last kick seems to take forever 
+to come out, and second, and WORST of all, if you sometimes miss-hit the 
+b+2,1,4 command in a combo, you'll most like pull this instead and leave you 
+well open to get your butt wacked till orbit. Stay away from this at all 
+costs. Use-O-meter: 3 outta 10
+
+
+df+1>2:
+Actually, this move can prove very useful at times. There seems to be a 
+little delay between both punches, but you shouldn't worry too much about 
+that, once you connect both hits, it sets up very well, a d+1 seems to 
+connect very often afterwards. Also, it's pretty easy to buffer a chicken 
+with the last hit against reversal happy opponent. It's a very solid for 
+minor countering or as an overhead, it can also be used as a juggle 
+extension. This is a great attack for pacing against opponent who are 
+waiting to duck your basic jab extensions al the time. Use-O-meter: 8 outta 
+10
+
+
+
+df+1(tap 1 rapidly)2:
+Leastly to say, this is less useful than a regular df+1,2. Pressing 1
+rapidly will make Bryan do the animation of the first punch a few more times 
+very fast. This can be used as a keep away move to keep the opponent from 
+rushing in at you, you can sort of think of it as a panic button. Still, if 
+you do the right punch, many will just backdash away and counter your 
+recovery, so it's recommended to do the rapid punches alone in this case. 
+Use-O-meter: 7 outta 10
+
+
+
+df+2:
+Now this is one of Bryans main pokes. Most of Bryan best poking tactics 
+surround this move. It has range, speed, damage, it blockstuns, great to 
+followup after a 1,2 combo or shin kick and can punish recovery attacks 
+without a sweat. You can buffer this with a 2+4 throw once it's blocked, you 
+might catch them while they recover from the blockstun. Once it connects you 
+can easily follow a d+1 to tee up a throw(Chains of Misery) or WS move, and 
+also works well as an overhead to counter chrouches. The awesome thing about 
+this move is that it puts you into range by impact, basic jabs followed 
+after this move connect very often.  This move has the speed to counter an 
+advancing an opponent and force them to block. Still don't get too happy 
+with this move since it can be interrupted up close by basic jabs, just wait 
+for a chance to counter (I.E. when they tag in) or in custom strings in 
+order to use this move in it's full effectiveness. Use-O-meter: 10 outta 10
+
+
+f+3:
+A very solid midhitting kick which knocks down. This move has nice recovery 
+since Bryan pulls his leg slightly backward after impact. The best use of 
+this move is to knock the opponent down before you tag out, so you can tag 
+your partner in while your opponent recovers from the knockdown. This will 
+allow you to tag in your partner safely without having to worry to get 
+countered by a juggle or whatever once you tag in. Use-O-meter: 8 outta 10
+
+
+3,3:
+This is not really a good move by itself, since you can duck the second kick 
+after blocking or getting hit the first. A good use of this move maybe is 
+off the sway (QCB) as an anti-poke or in juggles. Still, I don't use it much 
+except for combo's maybe. Use-O-meter: 6 outta 10
+
+
+3,2,1,2:
+This is a very useful string, since it all hits mid and all hits are not 
+counterable once it connects (they cannot counter the string, they must 
+block the rest of the hits if they block the first kick, only the last hit 
+can be parried in this situation). If blocked the last hit is counterable 
+though, but that doesn’t change it’s usefulness. If you do the first two 
+hits by itself (3,2), it's a very good set-up move, since you are in range 
+to buffer a throw, you can even do a df+2 or d+4 afterwards as well without 
+too much risk. Be sure to mix this string up with 3,2,1,4 to confuse your 
+opponent with the mid and low enders. For attacking purposes, the most 
+common way of using this string is to is to punish whiffled throws and 
+crouches. Use-O-meter: 8 outta 10
+
+
+3,2,1,4:
+Another useful 3,2,1-string, this one ends with a right shin kick. Now this 
+has about the same purposes as the previous mentioned, but it doesn't knock 
+down, which can be a good thing, since you can keep pressure with custom 
+strings and throwing after this move connects. Don't go crazy with this, 
+since people know how to block this string by now. When the first hit 
+connects or is blocked the opponent has no choice but to either block the 
+whole string or get hit by it. Use it to minor counter the opponents 
+recovery or as an overhead. Buffer the first kick with a chicken is very 
+recommended. Be sure not to do the whole string all the time, but just the 
+first two or three hits, the opponent might be startled wether to block 
+standing or ducking, which can be a good chance for you to rush in with a 
+throw or juggle. Use-O-meter: 8 outta 10
+
+
+1~4:
+In my opinion the single 1~4 is more useful alone than all the mixups
+afterwards added. It comes out fast, watch out though the second hit can 
+still be ducked once the first connects. This move is best as a juggle 
+extender where it's used with awesome effect. In custom strings this is also 
+a recommended attack, since it sets up very well, you can easily follow a 
+quick d+4 once this connects, and if you want to set up Bryans f+1+4 
+unblockable this is your attack of choice, you have to buffer the 1~4 into 
+the f+1+4 (see BUFFERING SECTION) you will be amazed how many times the 
+unblockable connects. I'd recommend using 1~4 more as a stand alone move 
+than as a string starter, since both hits are high and can be ducked. But 
+there are some deadly mixups off this move (explained in MIXING UP section), 
+so it's definately a must in Bryans arsenal. Use-O-meter: 9 outta 10
+
+
+1~4,3,3:
+A lot of players I've seen like this move, but I'm not really crazy of it. 
+If you block the third hit, you can duck the last. I recommend using the 
+first two or three hits alone, since that sets up just enough to connect a 
+d+1 lowjab, and you can follow that easily with a WS move or a Chains of 
+Misery. Be sure to buffer a chicken with the last two hits against reversal 
+oriented characters. I just wish the last hit was the same as the last hit 
+of the 3,2,1,4-string, than I would've seen a lot more in this move. But 
+using the full move  against a AoP-Ling or a crouching Ogre will get 
+yourself killed, since this string hits, high,high,mid,high, which doesn't 
+make this move exactly low  risk. I'd use it in juggles, like after a 
+ws+2~f+2 for instance. Use-O-meter: 7 outta 10
+
+
+1~4>2>1>2:
+First I thought this move was useless, but I've gotten some good info which 
+proved me wrong. If you mix this up with a single 1~4, opponents tend to 
+rush in after the 1~4 right into the doom knuckle mixup for big CH damage. 
+Still don't overuse this mixup since it's easily ducked or countered. This 
+is only useful in mixup with 1~4(3) and other 1~4 mix-ups. Thanks for 
+Use-O-meter: 7 outta 10
+
+
+1~4>2>1>4:
+Same use as the previous mentioned, good alternative for the 1~4>2,1,2, if 
+the opponent tends to duck the 4th hit. But like the previous mentioned, 
+this is easily ducked/countered, so you have to utilize it with extreme 
+caution. Use-O-meter: 7 outta 10
+
+
+1~4>2>4:
+I thought this move sucked bigtime, but it's actually if you mix this up you 
+can utilize this with great effect. If the opponent expects a 1~4>2,1,2_4 
+they will duck and get hit by the last hit of this attack string. Still not 
+a low risk move by itself, be cautious with it, and stick more with 1~4(3). 
+Use-O-meter: 7 outta 10
+
+
+b+1:
+This is one of Bryans new moves, and it's a good one as well since it's 
+stuns once blocked and juggles bigtime once hit, and it looks very flashy, 
+Bryan slams the opponent down with an overhead punch, who bounces up high 
+via the ground like a basketball. This move is also taggable. It has some 
+good range and speed, and due to the blockstun it causes you can buffer into 
+a 1+3 basic throw, but it's not guaranteed. Another good way to use this 
+move is as a defensive manuever, like to dashbuffer off a sway (QCB) or 
+backdash (b,b). A great new addition to Bryans arsenal, but use it only when 
+you are certain for impact. A neat feature of this move what makes it so 
+useful, is if you tag with it, which will make it launch higher up. And when 
+it’s blocked the guardstun endures longer than normally allowing guaranteed 
+d+1’s. The tag feature really strengthens this move up a lot, and I 
+recommend using this move as choice if you want to tag in your other 
+character. Use-O-meter: 8 outta 10
+
+
+db+2:
+Another new move in Bryans arsenal, a short ranged uppercut. This will put a 
+lift stun on the opponent, which is useful since that means guaranteed 
+followups. You can buffer this in a throw very easily, since you are in 
+range, and may catch them before they can react of time after a well placed 
+db+2. Like said before, it’s range really sucks which means this move can be 
+neutralized quite easily on a standing opponent. Another thing that's really 
+worth mentionable about this move is that it works extremely well as a 
+juggle extender, it puts up a load of opportunities for different juggles 
+and combo's. A very nice addition to Bryans arsenal, best for extending 
+juggle opportunities. Use-O-meter: 8 outta 10
+
+
+f,f+2:
+The hardcore player should know this one by know. The mach punch is still 
+one of your best moves to retaliate with after the opponents recovery 
+attacks, techrolling and sorts. Blocked hopkicks, flipkicks, powermoves, you 
+name it, the mach punch is your knockdown move of choice. You can dashbuffer 
+it fairly easy, and it knocks down just within distance to do some okizeme. 
+The machpunch is also very suited to finish juggles. Still you have to 
+remember not to pull this off randomly since it hits high and it still has 
+poor recovery time. But if used on the right moments, the mach punch can be 
+a feared move by anyone who has played a good Bryan. Use-O-meter: 9 outta 10
+
+
+f,f+3:
+This is another decent powermove, but doesn't stun like Bruce's version, 
+which means an advancing opponent can punish you in your recovery. Still, it 
+hits mid and knocks the opponent far off, allowing you to rush in for 
+okizeme. Still, without a guardstun, the whole use of the move is 
+replenished a bit. I still use it often to catch the opponent from a 
+distance while they techroll a knockdown. Use-O-meter: 6 outta 10
+
+
+f,f+4:
+Though this move is a bit slower than f,f+2, it has range is longer and  
+even better, it’s completely safe if blocked, allowing you to dash in, or 
+try a f+4, making this move awesome for pressurizing. Watch out though, it 
+can be ducked, so use it on standing opponents only. This move is awesome 
+even when blocked making it pretty vital if you want an organised offense. A 
+pretty solid move to throw out once in a while as a minor counter or in a 
+combo, since the damage is worth it as well. Use-O-meter: 8 outta 10
+
+
+ws_qcf+1:
+This is one of Bryans primary juggle starters, since it can be done off a 
+rolldash or while rising from a chrouch and launches very high. Of course, 
+you can easily tag in your partner to finish with a tag combo. This move is 
+pretty low risk by itself, speed is decent and recovery isn't too bad 
+either. The only weakness this move really has is the lack of range. You 
+have to use the WS version from up close and the QCF version from longer 
+range, since this move will whiff very often if you are unfamiliar with the 
+distance this move can reach in order to connect it safely. I use it a lot 
+as instant ws-exetcution off the ws+3(ch). Use-O-meter: 9 outta 10
+
+
+ws_qcf+2(~f+2):
+Now this is one of the oddest moves in the game. What Bryan will do is an 
+upper, and if you press f+2 once it connects will cause Bryan to slam the 
+opponent to the ground creating a bounce juggle setting up some big damage. 
+You can follow up the b+2,1,2_4 to empty the opponents lifebar by half in a 
+matter of seconds. This is actually a very useful move, since you cannot 
+escape the second part of the move once you connect the upper. If it's 
+blocked, you cannot do the second part though, be sure to do a d+1 before 
+the opponent can counter is your best option in that situation. Be sure to 
+set this move up with fast pokes and the likes since the upper itself comes 
+out pretty slow, and you can be punished once it's blocked or whiffed. 
+Use-O-meter: 8 outta 10
+
+
+ws_qcf+3:
+Bryans rising knee was one of the best moves in Tekken3 since he could do 
+those madhouse 100+ combo's off one counter. But this move has been toned 
+down by allowing a the opponent to escape the Counterhit-stun pressing 5 
+(the tag button), which I think is ridicilously cheap. I still think the 
+move has NOT lost it's usefulness due to the tag-escape, if you counter with 
+this attack it's doomsday for the opponent no matter what he does:
+- If they escape the stun without tagging the df+3 is guaranteed to hit for 
+free ground damage.
+- If they do tag escape, Bryan can just wait for the tag partner to come in 
+for an easy counter with a juggle or whatever.
+- If they do nothing, just use you fav juggle, heh...
+This move is a very important part of Bryans arsenal, since it comes out 
+very fast, can be done off the rolldash or while you rise and still sets up 
+great damage. Once you land the counterhit stun, you can use uf+4 for a 
+quick juggle, the b+2,1 mixups for big damage, or even buffer into a throw 
+if you're fast. You can also use it as juggle linker very effectively, due 
+to the nice recovery time this move has. The BEST way to get the CH stun in 
+high level play is to instant WS-execute it (d~df+3), if you master the 
+instant WS-execution (more on that later), you are practically unstoppable 
+with this move (well I’m exaggerating a bit), since you can do 
+b,b->sidestep->instant ws+3 to gamble for ach against aggressive opponents. 
+Unlike most knee attacks, this can be reversed, but still a great attack and 
+an important move for Bryan's offense. Use-O-meter: 10 outta 10
+
+
+ws_qcf+3,4:
+This is not really useful, since there are much better options after the 
+ws+3 than the second hit of this move. Also, there is a slight delay between 
+both knee's, giving the opponent a bigger opportunity for some stationary 
+retaliation. I do use it sometimes after a df+3 juggle for some quick 
+damage. If Bryan had a single version of the last knee, it would've been a 
+great up close attacks *sigh* Use-O-meter: 6 outta 10
+
+
+qcb(~5) (sway back):
+Swaying back is a very good defensive manuever IHMO, since it avoids high 
+attacks and you still will be in range to do a throw or powermove off it. 
+Try a machpunch after the sway (QCB,f,f+2), this will act very well as a 
+defensive manuever it acts kinda like the 1+2, and you can use it on similar 
+occasions. Even better is that they made the sway taggable allowing you to 
+avoid the opponents high attacks and counter safely with your tag partner. 
+Use-O-meter: 9 outta 10
+
+
+qcb+2:
+I have no idea why this attack gets such a lack of attention. If used
+correctly, this is a great move to use on an advancing opponent, since the 
+sway back will give you just that spacing you need to counter with the 
+jugglestarter safely. You can also instantly sway cancel this move (d~db,2) 
+allowing you to combo off the ws+3(ch) for good damage combined. The only 
+weakness this move has is the fact that it hits high (it looks mid, but 
+believe me it’s high), but if you use this defensively as a counterattack 
+move, you don't have to worry about that issue. Use-O-meter: 8 outta 10
+
+
+b+3,2,1,2:
+Well, this move is basically like the 3,2,1,2, except it starts up with a 
+frontal kick that hits high instead of a regular left kick. I don't see why 
+you should use this variation instead of starting it up with a regular 3, 
+since this comes out much slower and can be ducked or sidestepped. 
+Use-O-meter: 6 outta 10
+
+
+b+3,2,1,4:
+Same as above but ends with a low shin kick. Like with the 3,2,1,4 you
+cannot counter once you block the first kick, but this is, like b+3,2,1,2, 
+very easy to anticipate, and you'll mostly likely end up ducked or countered 
+against a good player, so I'd recommend sticking with the 3,2,1-mixups. 
+Use-O-meter: 6 outta 10
+
+
+b+3,4:
+A slight variation off the frontal kick which is followed by a quick knee. 
+Still there's a slight start-up and there's a very short delay between both 
+hits, making it a bad move to use against poking Law's and Lings up close. 
+This is, however, a pretty decent move in juggles, try mixing it up off a 
+uf+4 or df+3 juggle, and you'll be able to find a use for it. If they duck 
+the frontal kick you can use the knee as an overhead, but a simple lowjab 
+attempt from the opponent should beat this. Also, it's pretty decent to 
+catch the opponent when they tag in, but the f,f+2 or uf+4 do the job better 
+in that case. Use-O-meter: 7 outta 10
+
+
+SS+1:
+This move comes off the sidestep, but can prove rather frustrating since it 
+hits high, and if it's ducked it's easy to punish afterwards.  When it hits 
+however, it takes away one shitload of damage, and hits the opponents in a 
+not too far of a distance, giving you the chance to do some okizeme on your 
+opponent. Use-O-meter: 7 outta 10
+
+
+SS+2:
+Many will disagree with me, but this is IHMO Bryans most useful move off the 
+sidestep. Okay, it hits high. So what? When it hits it'll put the opponents 
+side towards you, setting you up to buffer a throw or whatever fast attack 
+(you know the deal, df+2, f,f+2, standing 4) dealing some nice damage. 
+Besides it causes a stagger when blocked allowing Bryan to recover safely 
+unlike his othe SS-moves. Very useful indeed. Use-O-meter: 8 outta 10
+
+
+SS+1~2:
+This move can be tricky at times, but I don't think it's that useful. Bryan 
+fakes out a SS+1, and does a right gutpunch instead. Experienced players 
+know by now this ain't gonna fool them. Okay it causes a big stun on 
+counterhit, which is a great way to deal out high damage combo's, but the 
+real boo this move has is the poor recovery time when it's blocked. The 
+opponent will have all the time to juggle you, throw you , just totally 
+eviscerate you until your lifebar comes into a desperate state. Use it as a 
+counterattack move only to start a combo. Use-O-meter: 7 outta 10.
+
+
+df+4:
+This is the single non-canned solitude version of the last hit of the
+b+2,1,4. This is actually more useful, since it's a very effective okizeme 
+move to use on those who like to rise quick everytime. This will knock down 
+not too far away from you allowing some more okizeme. It recovers pretty 
+badly, but no worries, it guardstuns, allowing you to recover safely to 
+block on time if the opponent retaliates, you can even follow a d+1 after 
+the guardstun. Be sure to buffer a chicken with this move. The only real con 
+is that it's sort of slow in the opening frames, so be sure to set this up 
+properly with basic poking combinations and custom strings, you minimize the 
+chance of retaliation. Use-O-meter: 8 outta 10
+
+
+df+3:
+I never really thought wether this move is really good or bad. It's pro's 
+are that it hit's low, has nice range (and Bryan still lacks lowhitting 
+attacks), it goes under high and -some- mid attacks, and it juggles. It's 
+cons? Slow start-up and slow recovery. If this is blocked, get ready to get 
+juggled or thrown. Also, this move is parried very often. So why and how 
+should you use it properly? It's very simple. Timing. You need to know the 
+speed of this move and your opponents attack and time it at the right times, 
+cuz if you do, this sweep is one of your best friends. Use it defensively on 
+a standing opponent, and offensively on a grounded opponent. It doesn't 
+juggle very high, but it's enough to do a good 50pts of damage off it. It's 
+a great okizeme move as well, try hitting a grounded opponents after a 
+juggle or throw. It has the range to catch a rolling opponent, or 
+quickrisers as well for another juggle. Also, it's very important way to use 
+this move is against those who like to CH,4 often like Ling and Law players, 
+since this move will go under it and catch them off guard. Of course this 
+takes severe timing. Use it as a counterattack move is your best option to 
+connect a juggle, but with the slow start-up you need to have great 
+anticipation and timing to do so, but if you get it down this move can be 
+used with great effect. Use-O-meter: 9 outta 10
+
+
+uf+4:
+In Tekken3 this move was awesome, since it had great recovery time and
+juggle ability, and you could easily follow it up after a lowparried right 
+kick. But in TTT, this move seems to come out a little slower, but still, 
+the recovery time is awesome. The opponent will fly back a bit once this is 
+connected setting up a juggle. Like E-MAN pointed out once at Inside Tekken, 
+this is a great move to punish those who recover chrouching or with an ankle 
+kick or sweep, or when the opponent tags his partner in. This move is great 
+to use after you've landed a CH stun. If blocked, you can easily stick out a 
+1,2 combination to discourage the opponent to retaliate (yes, the recovery 
+is THAT fast), or a d+1 or even a throw. Still because the move comes out 
+sort of slow, it's best to set it up with the basic pokes. You can also do 
+this directly from a crouch (FC,uf+4), many won't expect you to do that, 
+they expect that this move will be pulled to counter them or after some 
+set-up pokes. Also, off a rolldash it works decent as well (QCF,uf+4), since 
+that avoids high attacks, but that takes sheer timing to perfect against an 
+attacking opponent. This is a very versatile and safe jugglestarter, since 
+it can be used both offensively and defensively, as well as a tool to minor 
+counter the opponents recovery and so on. This is a very important move for 
+Bryan. Use-O-meter: 9 outta 10
+
+
+uf,N+4:
+A regular hopkick, not as much priority as Ogre or Pauls hopkick, and it's a 
+lot trickier to pull off thus a lot slower. In T3 you could follow this 
+easily after a ws+3(CH), but because that move is tag-escapable now, this 
+isn't as useful anymore. Still this is a great jugglestarter, but Bryan has 
+much better sources to set-up high damage combo's, which are much easier to 
+execute. This is pretty good as juggle linker tho, after a ws+1 juggle. 
+Use-O-meter: 7 outta 10
+
+
+uf+3:
+This is the jumping form of the f+3 kick, but it hits high. This is a very 
+good move of those who have the rear habit of backdashing once the match 
+starts, due to it's nice range. This move has great recovery, but if it's 
+ducked, it's still punishable with a Jin ws+2 upper for instance. Also, this 
+move is extremely easy to sidestep, making Bryan vulnerable for sidethrows 
+or even back throws. This can be used in some juggles actually. Use-O-meter: 
+7 outta 10
+
+
+f+4,3,4:
+Stay away from this move on standing opponents, after the first kick the 
+rest of the move comes out slow, and even if the second kick connects the 
+third can still be ducked. You'll get sidestepped, countered, reversed, 
+ducked and that will do your lifebar no good. Still, this move is very 
+effective as a juggle linker, due to the damage the 3 kicks combine while 
+they hit a juggled opponent. Use-O-meter: 6 outta 10
+
+
+f+4:
+Where the f+4,3,4 is a bad option against a standing opponent, f+4 is
+actually very useful. Okay, it comes out slower than a standing 4 but has a 
+slight better reach since the "f" will give it an extra advancing momentum. 
+And even better it launches up higher on CH allowing a GUARANTEED f,f+2 or 
+b+1 for good combined damage. Still it can be ducked easily making you 
+vulnerable throw or WS-attack. The best way to get the CH against offensive 
+players is the b,b into sidestep method, and f+4’s range makes it awesome to 
+use in this particular tactic (the STAIRS tactic, explained later) Use with 
+caution, but it's not an attack to leave out. Use-O-meter: 9 outta 10
+
+
+b,b+4:
+This move is best used defensively, especially after the opponent runs at 
+you from a longer distance or a tag, this move has the range to stop the 
+attack. Still, if this move whiffs, you remain vulnerable on the ground for 
+okizeme. This is Bryans only move that can be buffered with a sway (d,db,b). 
+Use-O-meter: 7 outta 10
+
+
+f+1+2:
+An awkward move, since it seems to slighty travel sideways before the elbow 
+comes out. I don't use it much, since it's slow, hits high, thus easily 
+countered. The damage isn't worth it either. There are lots of better 
+powermoves in Bryans arsenal that get the job done better. Use-O-meter: 4 
+outta 10
+
+
+1+2:
+Now this attack is a very good definition of an anti-poke, since it avoids 
+high attacks (that means standing jabs as well) and strikes the opponent 
+with good damage and a tiny stun, setting you up to do stay offensive, 
+making this an excellent defensive/counterattack move. If connected, you can 
+follow a df+2 with ease or just a simple d+4 will do the trick just as well. 
+Also, you can pull this off a crouch or dash to cloak this move very well. 
+It's a very reliable move to try once in awhile, to strike the advancing 
+opponent by suprise. Use-O-meter: 9 outta 10
+
+
+1+3+4(cancelable with any joystick motion or button command):
+Bryan taunts with one knee up and one fist waving at the opponent. This is 
+more for show off purposes, like after some madd combo. You can use the 
+taunt as a juggle linker to show off as well, it actually look quite nifty. 
+By cancelling the taunt constantly, it looks like you dance around a little 
+( The Bryan can-can special), for more show off purposes. The knee part 
+sometimes hits the opponent, with no damage, and if you cancel it with a 
+throw command (2+4) afterwards to connect it, your opponent might be so 
+suprised that he won't escape it. The taunt can actually be useful from a 
+small distance, the opponent opp, because the basic throws are guaranteed 
+afterwards (That’s right, if your opponent tries to counter you, but if you 
+press a left jab to cancel the taunt and interrupt the opponent, you can 
+buffer into a throw for a good suprise attack). Use it for the fun at times, 
+but don't try to use it after every knockdown, if you get punished because 
+of it, you'll only look like a moron, lol. Use-O-meter: 7 outta 10 (I'm 
+serious)
+
+
+
+============
+Unblockables
+============
+
+
+b+1+4:
+Bryan leans backwards, charges, and swipes his fist swiftly towards the 
+opponent. It avoids high attacks, but starts up pretty slow. But it tracks 
+very well if the opponent tries the sidestep. Still this unblockable is the 
+least useful of the two unblockables Bryan's got. If it hits, it does insane 
+damage though. Use-O-meter: 5 outta 10
+
+
+
+f+1+4:
+This is the same as b+1+4 but alot faster. Like the previous mentioned this 
+avoids high attacks, tracks well, but does less damage, but still good 
+enough. It's a very good move to start the round with or even buffering it 
+after 1~4 is pretty effective,  really not a bad manuever to do once in a 
+while. Because of it's abilty to avoid high attacks and because it's 
+unblockable and unduckable it proves to be a very useful attack to pull off 
+every once in a while. I recommend though this is best as a desperation/K.O 
+move since I think Bryan has a frame disadvantage even when you connect. 
+Use-O-meter: 8 outta 10
+
+
+
+----------------------------------------------------------------------
+
+
+D.  BLOCKING AND HIT-RANGES
+
+
+Blocking is something you cannot leave out in your basic Tekken game. If you 
+cannot block, you might as well stop playing Tekken. Even if you have an 
+offensive style of play, there are always situations where your defense has 
+to be organised, and blocking is the basis of it all. Wether it's for high 
+level play or basic strats, blocking is something in which you have to 
+involve your Tekken game in constantly. There are two types of blocking: 
+Neutral Guard and Active Guard
+
+- Neutral Guard: If you keep your joystick into Neutral state, you will 
+automatically block high, mid and special mid level attacks. But you have to 
+use Active Guard to block low level attacks (hold DB). This isn't really 
+reliable since the Neutral guard will prove ineffective against set-ups 
+(i.e. a shin kick connected on you, followed by fast pokes, which will hit 
+you if you don't use active guard), guardbreaking moves, certain attack 
+strings that are very varied in hit ranges (like tenstrings), which are very 
+commonly used in high level play.
+
+- Active Guard: This is the most common of blocking types. This is done by 
+holding the joystick back (standing) or downbackward (ducking) away from the 
+opponent timed with their attack. The Active block is the blocking method 
+that's used in high level play. Wether it's tenstrings, set-ups, custom 
+strings, low hitting moves, this is the most reliable way of defending.
+
+
+A good way to learn how to block the popular attacks and strings in the game 
+is to learn the hit ranges. The hit ranges indicate how you have to block 
+certain attacks, wether it's blocking or standing, or wether you can duck or 
+jump over certain attacks or not.  In order to have an organised defense, 
+you must know the hit ranges of each attack in Tekken Tag Tournament (it's a 
+long learning curve, but if you wanna learn how to play, the basic parts 
+must be known first). There are four different types of hit ranges: high, 
+mid, special mid and low level attacks.
+
+- High level attacks: Pretty much explains by itself actually. High attacks 
+are the only attacks that can be ducked (along with throws), and can only be 
+blocked standing. If you learn how to anticipate the popular high hitting 
+moves your opponent, and learn how to duck and counter them, you are one 
+step in the right directions. Also, learn the parts of popular strings that 
+hit high is very recommendable (DUH). Examples: Standing jabs, 4's, Mach 
+Punch, Jin's WGF/EWGF
+
+- Mid level attacks: Most of the attacks in Tekken Tag Tournament hit mid.  
+This means they can only be blocked standing, and cannot be ducked. 
+Unfortunately, most of the priority moves that are mid hitting attacks. You 
+have to be aware of overheads when ever you chrouch or when you try a WS 
+move or C.O.M, since many will try to punish your crouch. The best way to 
+deal with this is be familiar with blocking points of certain 
+attacks/strings, or find a something that's effective as an interrupt like a 
+d+1, which will beat almost anything.
+Examples: df uppercuts, Deathfists, toekicks, hopkicks
+
+- Special Mid level attacks: This is the least common of hitranges. Special 
+mid attacks will hit a crouching or standing opponent, but can also be 
+blocked both standing and crouching. Special mid attacks can be lowparried 
+and reversed. The most common special mid attacks are the basic ducking jabs 
+(d+1/d+2). Another well known example is Kazuya's Wing God Fist.
+
+- Low level attacks: The low attacks are pretty obvious as well since they 
+can only be blocked ducking. These are IHMO the most useful of hit ranges, 
+simply because it proves neutral guard non-effective, but also if you mix up 
+your hit ranges very balancing the low attack are the most eaten of all hit 
+ranges. Examples: Shin kicks, Ogre Snake Kicks, Kings AliKicks, Lei's db+4.
+
+Blocking is IHMO the most important thing you have to do. If you are
+unfamiliar with blocking and hitranges, learn or don't play. Know how to 
+block popular strings, and know which moves are punishable when you block 
+them.
+
+
+
+----------------------------------------------------------------------
+
+
+E. OKIZEME
+
+
+Okizeme is basically doing as much damage as possible on a grounded
+opponent. This is very much used as high level play, but it's often called 
+cheap since the opponent is defenseless if they get pummeled on the ground, 
+but isn't that the same with juggles? The important thing you have to 
+remember about okizeme is to know which move you have to hit the grounded 
+opponent with at what time, depending how the opponent recovers. Bryans 
+okizeme isn't as great as Kings or Ogres (because of his lack of low 
+attacks) , but it's more then enough to keep a grounded opponent nailed for 
+some time. Like I said, you need to use the right move to stop the way the 
+opponent recovers to keep them grounded.
+
+- If they roll: If the opponent rolls towards or away from you, this makes 
+it the easiest way to do okizeme, since an uncautious opponent is very 
+vulnerable when they roll. The simple d+4 or d+3 will catch them during 
+their roll, and a df+3 is guaranteed afterwards (you have to be fast), this 
+works exceptionally well on big characters such as the Jacks or True Ogre. 
+The heavy body blow (df+1,2) works also well, it sets up more ground damage 
+fairly well. The df+3 by itself is another option, you have to time it early 
+enough, but it reaches far enough to catch them as they roll. Other options 
+are the rising knee (ws+3) or even the f,f+3. Another option is the 3,2,1 
+mixup when they roll backwards, or try the f+1+4 after the 1+3 throw. When 
+you expect them to roll away from you, the unblockable will hit them before 
+they stand up.
+
+- When they stand up regularly (recover standing): If you time the df+3 
+right when you are in range, you'll catch them with a juggle as they rise. 
+When people estimate this and recover from the chrouch, you can be punished, 
+so there are always other moves that can substitute the df+3. The df+4 is a 
+well suited attack for those matters, and doesn't knock down that far 
+setting you up for more okizeme. Another option, is the uf+4, which get you 
+a free juggle, and if they manage to block on time, the recovery is fast 
+enuff to make you block on time, or a do left jab to avoid retaliation. 
+Great is the df+4, whick kill a risong opponent and does great damge as 
+well, and also sets up some of the better okizeme. Another move that works 
+well against standing recovery from a distance is the f,f+4, which give you 
+another fast knockdown, for you to tag your partner in safely or do some 
+more okizeme.
+
+- When they recover chrouching: Pretty easy if you use overheads. The uf+4 
+is your best option by far, gets you a juggle. Another option is the f,f+3 
+from a dashing distance, or the simple b+4, but that will most likely be 
+countered by a d+1 or so. A well timed df+2 is a pretty good option if it's 
+done out of lowjab range.
+
+- When they recover with an ankle kick (d+4) or sweep(3): Now this is the 
+moment for the uf+4 all the way. If timed correctly it'll go over the sweep 
+or ankle kick and hit them for a juggle. Another option is the mach punch 
+for a minor counter if you want a fast knockdown, or as a move to finishoff 
+the round when the opponent has little life left.
+
+- When they recover with a mid kick(4): This is the right time for a df+3, 
+since that'll go under the kick if you time it accurately, and knock the 
+opponent down.Remember that the FC+3 is guaranteed after every frontal 
+throw, and the df+3 will hit them before they can techroll away safely. The 
+df+3 is still another recommended option after the C.O.M or after a basic 
+front or sidethrow. Unfortunately Bryan has no useful slide attack like 
+Lee/Ogres f,f,N+3+4 or Laws D,df,d,DF+3 which has the range to catch the 
+opponent once they tag recover from the ground before they roll off screen. 
+If he had that his okizeme would've been complete.
+
+======================
+How to utilize okizeme
+======================
+
+To use okizeme effectively you have to be familiar with your ATTACK RANGE. 
+Estimate which attacks reach the distance the opponent's at to use okizeme 
+with great effect. To utilize okizeme, it's also extremely vital to forward 
+dash (f,f) a lot if you are out of range, to be quick enough to get within 
+range to do more ground damage. Another important thing about okizeme is 
+ANTICIPATION. After a successfull knockdown, you must anticipate how the 
+opponent will recover, and at the same time you must execute the appropriate 
+okizeme quickly that's suited to punish the way the opponent recovers from 
+the ground. Okizeme is an advanced tactic that should be practiced as much 
+as juggles, poking or whatever else, since it's used extensively in high 
+level play. Be sure to know Bryans okizeme, and it can be used with great 
+effect to use as yet another way to eat away chunks of the opponents 
+lifebar, oki doki?
+
+
+----------------------------------------------------------------------
+
+F. SIDESTEPPING
+
+
+The essence of a well timed sidestep has been more and more of a value in 
+Tekken, simply because a successfull sidestep sets you up for free hits. 
+Sidestepping is done by pressing u,N (to the left) d,N (to the right). Bryan 
+doesn't have a godlike sidestep such as Ogres, but it certainly is good 
+compared to some other characters. Sidestepping effective will takes two 
+important things: Anticipation and timing. You need to anticipate your 
+opponents attack, and time exactly right so you won't get hit by it and 
+avoid it safely. When the opponents attack is somewhat slow, you might want 
+to sidestep during the midframes of the attack, when the attack is faster,
+you might want to time your sidestep during the opening frames, it all takes 
+precision in timing and anticipation, but not as for timing, it doesn't 
+always depend on how fast or slow moves come out, but also in what distance 
+the opponents attack is executed from you. If a move is executed up close, 
+you might want to time your sidestep earlier than when the attack comes from 
+a dashing distance for example. You can cancel a sidestep by pressing back 
+after initiating the SS-motion. Sidestepping your opponent to it's full 
+effectiveness is best used against moves that travel in a straight line i.e. 
+Thunder Godfists, Kings f,f+1+2, Laws f+2~1, Heihachi's f,n,d,df+3, 
+Julia/Michelles Bow& Arrow mixups, Ogres f+1+4, Jins b,f+2,1,2_d+2, Nina's 
+uf+4,3,4 and the list goes on and on. You'll most likely end to their back 
+or side, to do a SideStep-move, but they aren't really safe moves, so I'd 
+recommended to look for some alternatives as well. If you SideStep the 
+opponent, you'll either end up at their back or at their sides, and to minor 
+counter their whiffed attack, here are some recommendable moves (apart from 
+the sidestep moves) to do in these positions:
+
+
+- At the opponents side:
+
+uf+4: Because this comes out slower in TTT, they might block it on time 
+(depending on the recovery of the move you sidestepped), but if the move is 
+still in it's closing frames, you'll connect with this for a small juggle. 
+Not a bad option I'd say.
+
+3,2,1,2_4: Pretty decent to do off your sidestep, since the first hit of the 
+3,2,1 have range and are all guaranteed on a minor counter once the first 
+hit connects.
+
+f+4: My favourite, especially as a major counter off te SS, due to it’s 
+range speed and recovery. Follow b+1 or f,f+2 for good combined damage.
+
+Instant ws+3: You have to be fast with this one, but your reward will be a  
+big combo opportunity. But it happens a lot the opponent will block on time, 
+so use it when the opponents attack is still in it's closing frames to 
+connect it safely. Also be aware of the distancing and this is a powerfull 
+option.
+
+
+At the opponents back:
+f,f+2: If you sidestep your opponent who ends with his back towards, and 
+rush in with the machpunch, it'll connect for sure if it's 2 characters 
+distance or shorter as a counter, giving you a fast knockdown, it'll even 
+hit as a MC often since you may connect while the opponent tries to turn 
+around.
+
+Instant ws+3: If you're fast you should be able to connect this during the 
+opponents recovery, it's best to do a forward dash once you've sidestepped 
+your opponent to be sure you'll get in range (ss->f,f~instant 
+ws+3-execution). If the opponent tries to turn around to might get the stun 
+as a MC, giving you the chance to do a combo before the opponent finds the 
+reaction to tag-escape the stun.
+
+f,f,f+3: The jumping slash kick is very useful in this particular
+situations, especially if the opponent recovers with his back facing you at 
+a larger distance after a successful sidestep.
+
+Standing 4: The standing 4 has awesome range and sometimes even hits the 
+opponent in the air during a Thunder Godfist (Devil, Kazuya, Jin,
+Heihachi)in their back if it's sidestepped up close, leaving them
+grounded(this also works very well with Kings f,f+1+2 as well).  Well suited 
+to minor counter a backturned opponent after a sidestep, not only because of 
+it's range, but also it's speed.
+
+2+4_1+3(at back turned opponent): If you sidestep a linear moves from a 
+small distance and end up at the back of a recovering opponent, you can 
+always try a back throw attempt once you are within range. Be sure to press 
+the tagbutton once tou catch the opponent, backthrows are nonescapable and 
+if you tag throw, the damage result is totally awesome. I think you’ll get 
+better sidethrow opportunities after a techroll though.
+
+
+
+Some general tips on sidestepping attacks:
+
+- If you have trouble sidestepping attacks and feel you time right, an easy 
+way to sidestep is this: Sidestep left limb attacks to the left, and right 
+limb attacks to the right. It seems to work much better, and will grant you 
+a lot more successful sidesteps, if you know when and how to use the 
+sidestep effectively.
+- Sidestepping moves that travel horizontal (Bruce's f,f+3, Pauls
+d+4,2(first hit) and Ogre's standing 4, Lei's db+4, Kuma's f+1+2) is a bad 
+idea.
+- Don’t try to sidestep if you are too close to the opponent since you’ll be 
+jabbed during the neutral motion. always stay and least a half a character 
+distance to sidestep safely.
+
+
+----------------------------------------------------------------------
+
+G.  DASHING AND SWAYING
+
+
+Dashing is a very important factor in Tekken, since it can be very vital for 
+your distancing and evasive game. A regular dash is done by pressing b,b or 
+f,f and will travel you about 1 and a half character distance. Especially 
+characters like Bryan have to rely heavily on dashing since a lot of his 
+powermoves come off a dash, and with his fast pokes he can use up close, the 
+dash allows Bryan to take it on from distances as well. The forward dash 
+(f,f) is used in many different way, of course, Bryan has three powermoves 
+off it, but a forward dash is used to extend your attack range, to rush in 
+on a vulnerable opponent(with okizeme for instance) , to cloak moves by 
+buffering it with rolldashes and sorts and lots of other uses. The
+productivity of the forward dash is very versatile, you can use it very well 
+extending the range of certain moves for example:
+
+f,f,uf+4
+f,f,qcf+3
+f,f,qcf+2~(when hit)b+2
+f,f,qcf+1
+f,f,df+2
+f,f,b+1
+f,f,df+3
+The backward dash (b,b) is also a very important tool to use in high level 
+play especially. If you anticipate well and backdash out of range of basic 
+pokes or throw attempt, you might leave your opponent open for a well timed 
+f,f+2, uf+4, 3,2,1,2_4 or even a throw. If you want to be cautious, the best 
+thing you can do is a simple backdash, to feel out what the opponent will 
+do, and hopefully you'll get a counter. Especially against King, Ogre and 
+Paul players, who like to start the round with their hopkicks, a simple 
+backdash will make their attack whiff leaving them open for some stationary 
+retaliation. Also, try to backdash out of range of Kazuya/Ogre's ws+2 
+gutpunches, this works extremely well, since they will whiff their attempt 
+for a clean hit and you'll most likely have enough time to get a uf+4 or at
+least a df+2 out of it. You can also cancel a backdash into a sidestep, 
+which is very useful for evasive tactics. The backdash is a very good 
+evasive tool, as well as to anticipate counterhits (in harmony with the SS 
+at greatest).
+
+============
+The Rolldash
+============
+
+The rolldash is simply another variation of the crouch dash but it's done 
+differently (d,df,f_or_qcf). It can be used to modify WS moves to longer 
+range moves, since the rolldash will put you in a chrouch position for a 
+short period of time:
+ws+1 -> qcf+1
+ws+2~(when hit)b+2 -> qcf+2~(when hit)b+2
+ws+3 -> qcf+3
+ws+4 -> qcf+4
+ws+1+2 -> qcf+1+2
+ws+3+4 -> qcf+3+4
+This is very useful, since the rolldash avoids high attacks, giving you the 
+chance to pop up with these moves. Also the rolldash will give the attack 
+more range, which is especially useful with move which lack in range like 
+ws+1+2 and even ws+1. You can also use the rolldash for buffering, like the  
+FC,df,d,DF+1+2 throw or moves off the forward dash, but that'll be explained 
+in the BUFFERING SECTION.
+
+==================
+Utilizing The Sway
+==================
+
+The sway is an awesome feature in Tekken since it avoids high attacks,
+making it a great antipoke, and can only be done by Paul, Bryan and Nina. It 
+is  done with a d,db,b_or_qcb motion. Using the sway to it's full advantage 
+takes, like a sidestep, raw timing and reaction, but if you get it down you 
+can use it like you would use Lei's b+1+2 or your own 1+2 Hammerdriver, but 
+with much greater effect. Swaying is best used for defensive purposes to get 
+counterhits and sorts. Try to time this with your opponents high attack, and 
+if you do it right, you can answer with many attacks. The QCB+2 is the 
+default attack off the sway, and a good move for juggling, but try to mix-up 
+your attacks off the sway to stay unpredictable:
+QCB,f,f+2
+QCB,f,f+4
+QCB,uf+3
+QCB,throw
+QCB,qcf+1
+QCB,qcf+3
+QCB,df+3
+QCB,uf+4
+QCB,df+1,2
+QCB,3,2,1,2_4
+QCB,df+2
+QCB,1+2
+QCB,f+1+4
+QCB,b+1
+QCB,b,b+4
+QCB,f+4
+QCB ->Sidestep
+These are all the attacks that work pretty effective after you avoid your 
+opponents attack with the sway. Just experiment, customize which attacks 
+work for yout the best. Like mentioned, you can always do a sway into 
+sidestep, to put some variation to the backdash -> sidestep patterns. The 
+sway is a very good move to counter an advancing opponent who relies heavily 
+on custom stringing and buffering. Try to use it every once in a while, it 
+has a good value, also a nice alternative for both backdashing and ducking 
+(in evasive tactics that is).
+
+
+----------------------------------------------------------------------
+
+H.  VERSUS CHARACTER STRATEGY
+
+
+TTT is in my opinion more balanced in characters than in T3, every character 
+has the ability to kick ass on any other character, and the tag feature 
+makes that an even more open theory.. Characters that were overpowered in T3 
+have been toned down (Nina, Law, Paul and Ogre) and characters that were 
+weaker have been made a lot stronger (Julia, Kuma, Hwoarang and GunJack). 
+But since Tekken3 Bryan has been made a lot stronger than in Tekken3, 
+especially since he's gained the punch reversal and b+1 jugglestarter, which 
+made him IMHO top tier along with Julia, Bruce and Jin. He's is practically 
+INVINCIBLE against the Jacks, Kuma and Ganryu because they rely heavily on 
+their punch attacks, and are a lot slower than Bryan. The dead fella is 
+stronger than ever and has the abilty to make quick work of every character 
+in the game. He has the excellent blend of speed and power, he has attacks 
+great up close and from a distance, count that up with his awesome 
+productivity in combo's and custom strings and his punch reversal, and 
+you've got one powerhouse character. In this section I will give you some 
+strats what to do to beat other characters in the game.
+
+
+========
+Vs. Jin
+========
+
+Attacks to watch out for:
+- Mostly played: Offensively
+- f,n,d~DF+2(EWGF)/b+4/ws+2/1,1>2/f,f+1+2
+It's always hard to beat a good Jin since he has so many useful attacks and 
+very few weaknesses. Most players will stay offensive on you and if you stay 
+too defensive they'll try and throw you with f,f+1+2. It's best to try and 
+attack cautiously, don't make any reckless errors since Jin can punish 
+everything you whiff with an EWGF. Punish everytime they whiff the EWGF, 
+since good players won’t easily make the same mistake twice. Use the 
+backdash into SS tactics (stairs) against godfist happy players, don’t try 
+to punch parry it. Don’t get b+4’d, Jin players will try to set this move up 
+with pokes offensively speaking. You must use the backdash->SS->f+4 or 
+instant ws+3 to hopefully counter the b+4 attempt with a big combo, but 
+don’t get hit by it, or you can say your prayers. The stairs tactics also 
+works well against the stunpunch combo (b,f+2,1,2_d+2) to force Jin into 
+whiffing the first one or two hits, then run into a f+4 ch. Jin players like 
+to minor counter you with 1,1>2’s, the EWGF or ws+2, so use as many short 
+recovery attacks with fast recovery as possible, like WS+3, the f,f+4 works 
+well, uf+4 is decent if you are sure of a hit, and pokes. Use your f+4 and 
+instant WS+3 as your main countering moves. Don’t expect an easy fight, play 
+cautious and smart, one juggle opportunity for Jin and you’re dead, remember 
+that.
+- Difficulty: Hard.
+
+
+=============
+VS. Hwoarang
+=============
+
+- Mostly played: Offensive~defensive (AKA hit-and-run tactics)
+- Attacks to watch out for: df+4-LFF/RFL,4/d+3,4,4/df+3,4/f+4~4-RFF/f,f+2
+Hwoarang has been strengthened a bit, and he relies a lot on his RFL now, 
+more than his LFL. He will often try to use fast pokes to gain the framing 
+needed to get in his RFL(f,N+4), minimizing fear of retaliation. They will 
+often try to double sidestep (Poking->RFL->Dbl SS) afterwards hoping to 
+counter you with RFL,b+3 or RFL,4 which both set up a combo. That's why you 
+shouldn't rush in on Hwoarang while he's in his Flamingo faints, he'll 
+counter with the previous mentioned or jabs out of his FL stance to 
+interrupt you. To avoid getting pestered by his annoying hit-and-run tactic, 
+you must try to counter him as soon as possible (WS+3, f+4, and stay in his 
+face with custom strings (3,2,1-strings, 1-2,body blow, low hitting moves) 
+and an occasional jugglestarter or throw to keep him from using his stances. 
+If you have an organised offense you should have him nailed pretty fast.
+- Difficulty: Easy
+
+
+========
+Vs. King
+========
+
+- Mostly played: Defensively
+- Attacks to watch out for: Throws/2,1/d+1~N+2/df+3/f+4/Kick Reversal
+The first thing you must know against a King player is to know all the
+breakouts of his throws and multi's, because King is undeniable grappling 
+oriented. He needs to get within range to execute his throws, that’s why the 
+b,b->SS->CH tactic works well against him. Punish whiffed throws with the 
+mach punch or a throw attempt. Besides his throws , watch out for his pokes, 
+his 2,1 has lost it’s guaranteed followups, but King players still look out 
+to buffer into a DDT or Giant Swing, or follow that nasty df+3 poke. If King 
+whiffs the first hit, you can counter with a f+4 combo. Also duck a lot, 
+pester him with lowjabs and mixing up ws+1 and ws+3 with the C.O.M works 
+really well. Use your 1,2,1 strings instead of your 3,2,1 (King players look 
+out to reverse the left kick and it can’t be chickened). Don’t whiff the 
+start-up of your strings to avoid eating a f+4 or uf+4, strike him off 
+counters and inturrupts instead. The d+1~N+2 is another nasty attack, if 
+they use it a lot, keep out of distance of the first hit and punish ones he 
+gets the second hit blocked whiffed. To beat King players, your best bet is 
+to stay out of poking range and counter him, never take the initiative first 
+when the player you’re up against has the advantage to avoid getting thrown 
+or countered by a hopkick or f+4. Good Luck.
+- Difficulty: Medium
+
+
+=========
+Vs. Bruce
+=========
+
+- Mostly played: Offensively
+- Attacks to watch out for: df+2/1,2,4_d+4/3,2,1
+Bruce is a cheap and easy character to learn, with lots of quick and
+damaging attacks, but I’d say Bryan is a better allround character. Bruce 
+players like to pester you with 1,2,4_d+4, which are quick and damaging, and 
+have insane priority, since they start with Bruce's left jab, which runs 
+8frames, and has a lot more range and damage than the average left jab. 
+Because the 1,2-mixups starts up so fast, Bruce can counter you without a 
+sweat with these strings. Your main concern is to keep him out of jabbing 
+range. The best cure for that is once again the b,b->SS, to force him to 
+whiff the start-up of his 1,2 strings making him vulnerable for a f+4 or 
+instant ws+3 counter. His 3,2,1 is your second worry, it tracks a lot better 
+than yours, and juggles on CH. It’s hard to defend against this move, but if 
+Bruce screws up the start up get ready to punch parry the second or third 
+hit. His df+2 is another problem, it has the speed so Bruce can cloak it in 
+custom strings and other pokes, to set it up easily, and if he connects this 
+move,  you’ll get triple knee’d or something worse. Against Bruce, you must 
+keep him on mid level range to avoid getting out-poked, and strike him thru 
+counters and keep him defensive from there on.
+- Difficulty: Medium
+
+
+==============
+Vs. Roger/Alex
+==============
+
+- Mostly played: Offensively
+- Attacks to watch out for: df+1/2,1/standing 1/f,N+1/throws
+Roger is the most underrated character in the game, his main weakness is his 
+lack of range which gives him trouble fighting other characters and Bryan is 
+no exception. Roger players like to poke you up close with 2,1 and standing 
+1, which he can link to his throws very easily (his throws cannot be ducked 
+once the 2,1 connect so you have no choice but to escape them). So in this 
+case, keep him at bay with your gatling combo’s, df+1,2, and counter with 
+f+4 or instant ws+3 if he tries to rush in. Counter his f,N+1 with instant 
+ws+3, df+3 or f+4, or punch parry don’t block, since he cas a guaranteed 
+f,N,d,df+1 and FC,df+2 after the block stagger. If you can neutralize Rogers 
+close range attacks this fight should be over pretty fast.
+- Difficulty: Easy
+
+
+========
+Vs. Baek
+========
+
+- Mostly played: offensive~defensively (AKA hit-and-run style)
+- Attacks to watch out for: b+2/f,f+2/d+4,3,3,d+3/f+4>3/punch parry/3,4>3
+Baek is a very confusing character with lots of different attack strings. Be 
+sure to punish with f+4 everytime he whiffs a kickstring, he can counter the 
+ws+3 a lot easier for some reason. He can delay a lot of his kicking strings 
+to discourage you to attack him. Players will try to bait you into a 
+counterhit with Baeks flamingo delayals. His f+4>3 for example, is obviously 
+one of his best moves,  Baek players will delay the second hit after 
+connecting the first to bait you into the big CH stun. If you block the 
+first hit the second hit wil most likely be cancelled, and Baek can triple 
+SS around you when they cancel it into flamingo faints to juggle or throw 
+you, so there is always an option surrounding the f+4>3. Lowparry the second 
+hit of 3,4>3 to avoid getting fooled by the last hit delayal since Baek 
+players like to screw up your timing via FL-delayals to connect a juggle 
+opportunity. Baeks main weakness that a lot of his kick strings start up 
+high, so if you duck a lot you should be able to hurt him with your d+1, 
+WS-game and C.O.M. Baek doesn’t have any good mid attack to stop a d+1 
+attempt up close to set-up your crouching game. You should be able to hold 
+him off if you execute from your crouch and sidestep properly.
+- Difficulty: Medium
+
+=========
+Vs. Julia
+=========
+
+- Mostly played: offensively (off the counter mostly)
+- Attacks to watch out for: 1~1,1/QCB,f+2(Mad Axes)/f,f+1/FC,df+2
+Julia is the hardest character you’ll face in high level play IMO. Her 1~1,1 
+start-up with her 8frame jab,  and the juggle is guaranteed if she counters 
+you with it, and this is not that hard for her since it beats every move you 
+have from your standing game, and that’s a big disadavantage for you. If you 
+try to attack and do damage she will look out to counter you with 1~1,1, but 
+if you turtle, Julia will find ways to buffer into Mad Axes (escape: 1+2) to 
+do damage instead, so it’s practically impossible to fight Julia without any 
+risks. Watch out for that damn elbow, which will punish almost every attack 
+you whiff, hopefully the player will whiff it to punish her. Her two 
+weaknesses are the recoverytime of some of her powerattacks, and many of her 
+attacks are not that hard to sidestep. Use the f,f+2 or throw whenever she 
+misses or recovers from her attack, you can also try to sidestep some of her 
+popular strings if she executes them from a longer distance and counter with 
+the f+4 or instant WS+3. Don’t try to fight her up close, instead use f+4 to 
+counter her when she is within jab range or throwing range, you have a range 
+advantage over her and you should take advantage of that. The f,f+4 works 
+well due to it’s great recovery as do the gatling strings. It’s best to play 
+a bit defensive against Julia, despite the Mad Axes buffering methods 
+(anticipate and escape is your best bet), to avoid her 1~1,1)_4 and the 
+f,f+1 elbow and hopefully get an early counter.
+- Difficulty: Hard
+
+
+===============
+Vs. Devil/Angel
+===============
+
+- Mostly played: offensively (off counters)
+- Attacks to watch out for: WGF, hellsweeps, df+1,2, SS+2, 1,1>2
+Devil hasn’t got many attacks, but what he has is quite annoying. His df+1,2 
+is probably the most used attack, block the first hit, punch parry the 
+second. Devil players like to slash through with the df+1,2 or WGF, so don’t 
+whiff the start-up of your gatling combo’s, or you’ll be juggled. The 1,1>2 
+is still pretty annoying, as well, so stick with fast recovery attacks, 
+throwing and basic jabs. Same goes for the WGF, Devil players tru to counter 
+you with it because it hits special mid and thus easily blocked. Don’t try 
+to punch parry the WGF, it’s not possible. Devil players also like to 
+overuse the SS+2 (Kinda a Guile Standing Fierce ripoff), which is eay to 
+neutralize, just dash out of distance  (The SS+2 range is very short) and 
+machpunch, throw or b+1~5. If you can keep him nailed with 3,2,1,2_4, the 
+df+2 and other primary offensive moves you should win without too much 
+troubles. Devil is a pretty predictable character, so it’s easier to 
+anticipate his attacks than with most other characters.
+- Difficulty: Easy
+
+
+
+
+----------------------------------------------------------------------
+
+
+I.  TAGGING AND TAG-STRATS
+
+
+Tagging is the new feature in TTT that has made it unique from it's
+predecessors. It allows you to choose two characters, with whom you can 
+switch between during level gameplay. With Tekken already having the deep 
+gameplay, tagging will give it a even larger push. With tagging, there are 
+so many possibilties, I doubt everyone who loves Tekken will find out 
+EVERYTHING about this game, I mean, hey, I'm sure we haven't found every 
+combo possible in T3 alone, most maybe, but certainly not all, and I'm sure 
+we will have a harder exploration time with TTT which makes it even more 
+fun. The whole gameplay scene in Tekken is opened up a lot because of this 
+one feature: Tagging.
+
+=================
+Tagging ingeneral
+=================
+
+
+The most obvious reason to use the tag button is to switch between your two 
+characters, but tagging can also be used in lots of other ways. A good 
+example is to recover from the ground. If you press the tag button once 
+knocked down, you can recover while pressing the tag button to prevent 
+getting okizeme-ed, you'll roll or walk off screen as you tag in your 
+partner. The tag recover can be an advantage or disadvantage, if you tag 
+recover after you are juggled or whatever, the opponent can just wait to 
+counter your partner once he tags in instead of trying to okizeme you. Still 
+other than that you must only tag recovery against those who try to okizeme 
+you.
+
+==============
+The Tag-Escape
+==============
+
+The tagbutton is a great manuever as well to escape stuns like
+Hwoarangs RFL,4(CH) and Julia's FC,df+2, to spare you from eating a high 
+damage combo. The tag-escape I still find sucky overall, matches are less 
+entertaining because of the tag-escape, there's less chance of landing some 
+madd combo with Bryan off his WS+3(ch) as a crowd-pleaser or so to be said 
+(including me).
+
+
+=============
+The Tag Throw
+=============
+
+Another option with the tag button in TTT is the
+buddy-throw. This allows you to throw your opponent with both
+your characters, with some savage-ass results. Unfortunately, you can only 
+tag throw with Bryan off his backthrow, but when you do, the opponent takes 
+one shitload of damage. What I don't like about TTT
+is the fact that if one of your characters is dead, you've lost! C'mon
+Namco, what's the point here! The matches are less fun then, are less long 
+and less entertaining. This simply disappoints me. During all the previews 
+on TTT, I was thinking about how cool it would be to beat both your 
+opponents characters while you are only using one. That
+would be so humiliating, hehe.
+
+===========
+Tag Combo’s
+===========
+
+Tagging also allows you to combo with your
+tag-partner, allowing a buddy-combo. The following of Bryans moves are
+taggable, thus making it possible to buddy-combo off it: the WS+1 and the 
+b+1. Too bad Bryan doesn't have more tag starters, like Wang or Law, but 
+these two do the trick very well. The b+1 looks just plain flashy to try a 
+buddy combo after and the tag button allows guaranteed followups wether it 
+connects or gets blocked, and is his best tag launcher, while ws_qcf+1 
+launches up high enough to do the serious work, and is better suited to let 
+bigger slower characters finish the job as well.
+
+
+==============
+Tag Cancelling
+==============
+
+
+Also you can confuse the opponent by canclling while you tag out, with a tag 
+cancel. Tag cancelling is done by pressing Up/Backward right after you tag 
+(5~U/B) and will cancel your character from tagging out for your partner. 
+The best way to use the tag cancel is when you're under pressure with custom 
+strings and pokes. Remember that it can be vital to cancel your tag-recovery 
+from a knockdown. This will allow you to keep using Bryan AND you'll gain 
+some spacing. You'll not only tag your partner in which has more life, but 
+you'll also recover your health slowly when Bryan is out.
+
+Tagging is one of the most crucial features since it can be useful in so 
+many different ways. Make the right decisions, don't get careless, the tag 
+feature can be your best friend or worst enemy.
+
+
+====================
+General Tagging Tips
+====================
+
+Here are some general tips you need to know when using the tag feature
+extensively:
+
+- Be sure that if you want to tag your partner in, you have got to make sure 
+the opponent is knocked down or immobilized in some way, since your partner 
+is very vulnerable when he/she tags in to get juggled or thrown. With a 
+knockdown or stun, you can tag in your partner more safely as the opponent 
+recovers. The best way is via a tag combo or tag throw.
+- Be sure to counter everytime when the opponent tags in recklessly, either 
+a juggle, Machpunch, throw, or just a simple 1,2 combo for set-up purposes.
+- With Lei on his team, there is no Netsu Powerup for Bryan (you will see
+some special start animations, but not like that's useful)
+- When you use swaying for evasive purposes (see DASHING AND SWAYING
+section), you can tag away and and let your partner counter once you tag in 
+(most of the time the opponent recovers on time but it works best on attacks 
+with slow recovery)
+- It's a good idea to tag everytime when you've got around 50points of
+damage left (with both characters) everytime to stay longer in the match. 
+Example: You start with Bryan and Nina against a Julia and Wang player, and 
+your Bryan gets hit by the opponents Wangs juggle which does around 50 
+points of damage. You use a f+3 or another knockdown move to tag in Nina 
+safely while Wang recovers. Now your Nina has full health and Wang lost 
+around 25points, which puts you in the slight advantage in that situation. 
+Wang cannot tag since he may be afraid your Nina will counter his Julia with 
+a juggle, so if you manage to hurt Wang some more, lets say a few set-up 
+pokes and a f,f+3 bad habit kick(it's just an example, so gimme a break), 
+his life will be around 46points of damage and by that time, your Bryan 
+might be fully healed to 100points due to the health recovery the tagged out 
+partner gains to finish the job. What I'm trying to say is, if you use the 
+tag feature and health recovery in your advantage if you think rational, you 
+might win without comparing how strong yours and the opponents characters 
+are against each other, but your largest weapon in Tekken is not always your 
+skill or knowledge, but the most obvious thing you can imagine: THINKING. 
+Damn straight. Your state of mind is your largest weapon, even greater than 
+your knowledge or skill, I believe that if you know how to deal with ANY 
+situation, in ANY game, THINKING is your best weapon.
+
+============
+Tag partners
+============
+
+A lot of characters play very well with Bryan. Here are good tips of picking 
+a good team:
+- Your partner must have good combo follow ups off Bryans taggable moves 
+(ws+1, b+1)
+- It's handy to pick a partner that doesn't have the weaknesses Bryan has. 
+Example: Bryan lacks good low attacks, so find a character who has a useful 
+amount of low hitting moves.
+- Use a partner that suits your gamestyle.
+- Pick a partner who is played in a completely different way than Bryan to 
+force the opponent to play a different style against each character, 
+sometimes this affects their strategy. Some strategies that work well 
+against Bryan but not against your partner, which could be an advantage to 
+you.
+- Have fun, experiment and be a good sport, even if you don't have good day 
+and play like shit.
+
+============================
+Teams recommended with Bryan
+============================
+
+
+Bryan/Wang: Well, some of you may disagree, but Wang is the most wellrounded 
+character in the game, he has it all: power, jugglestarters, pokes, 
+sidestep, powermoves, counters, throws, guaranteed followups, great combo 
+ability, balanced in hitranges. The only thing he lacks is speed and he 
+takes hits like a sissy. Still he is undeniably one of the weaker 
+characters, but he ironically is the ideal tagpartners as well, because of 
+his versatility. He is well suited as a partner despite what character you 
+play. He has a lot more taggable moves than Bryan, the db+4,2 is awesome 
+(tag Bryan in and use basic jabs, db+2 and other great juggle extensions to 
+experimiment with great tag combo's), the df,DF+2+4 is taggable but 
+escapable unlike Ogres. His d+4-mixups are almost as good as Julia's, his
+SS+1+2 headbutt is a very great counter of the sidestep which stuns. His 
+d+4, db+4 and SS+4 are good examples of useful low attacks that back up 
+Bryans lack of them. A highly recommended team. Team rating: ****
+
+Bryan/Ogre: LOL, a team of both characters I've written a FAQ of...why not? 
+These two characters blend pretty well. Bryan lacks low attacks, while Ogre 
+has a lot of them: FC+3,3,3_N+3, SS+4, d+4,  FC,df+2, f,f,N+3+4, db+4 to 
+name some. Ogre has good pokes, but Bryan is a lot better with poking and 
+custom strings, so Bryan will back Ogre up in that as well. Ogre has the 
+ws+2, uf+4, Snake Kicks, df,DF+2+4 which are all great. Use Ogre to do 
+damage, use Bryan to mix up with his string mixups, pokes and wake up games. 
+This is also the team I personally like best (ain't that a suprise). The 
+only problem is that both characters have only two special throws combined, 
+which is just not enough, unfortunately. Team rating: ***
+
+Bryan/Lee: Both characters have silver hair and camo clothes, but even
+though their style in appearance is similair, their style in fighting is 
+very different from each other. I'm still learning Lee, but I'm already 
+convinced he is one of the awesomest characters in the game. He was seen as 
+a Kazuya and Law combo in T2, but in TTT he has developed more of his own 
+unique style. Even though Lee is one of the weaker characters, I definately 
+want to know this character better in the future. Both characters are quick, 
+but Bryan is more of a counterattacking combo monster, while Lee has more 
+finesse and technique blended with fast kicks and punches. Catlord called 
+Lee's trademark d+4,4,4,4 shinkick combo the Low Cheezekicks in his FAQ, and 
+darn, do I agree with him, it's one of the cheapest attacks in the game, 
+along with Ogres 4 and certainly backs up Bryans lack of low attacks alone. 
+His HitMan Stance (3+4) is very awesome since it's got show off purposes as 
+well, and he has jugglestarters off it (HMS,4 and HMS,2). His b+3~3~4 
+counter is awesome as well. I have not experimented much with this team yet, 
+but there's a good chance that this can be a dangerous team, since the 
+different fighting styles might force the opponent to act differently 
+against each character. Team rating: ***
+
+Bryan/GunJack: Bryan and GJ are actually a pretty good team, even though I 
+suck as a Jack player. GunJack has some great powerattacks and throws, while 
+Bryan is great with the string mixups and counters, which make this a pretty 
+good team. GunJacks heavy hitting style gels very well with Bryans quick and 
+powerfull strings and poking tactics. Besides, GunJack has some great 
+jugglestarters that make it easy for Bryan to finish the job with damaging 
+linkers such as the b+2,1>2_>4 mixups and db+2 juggle extender. His Megaton 
+upper juggles up very high to give you enough time to do more than enough 
+aerial damage. Also, you've GOT to check this out if you don't know this by 
+now: If GunJack connects with d+1+2 jugglestarter and tag in Bryan, do a 
+standing jab...and well whaddaya know...you'll do an AUTOMATIC Right Upper 
+into Fishermans Slam, woohoo!!! That's definately enough reason by itself to 
+choose this team, gawd.....:). Team rating: *****
+
+Bryan/Bruce: If you like kickboxing this is your obvious team. Bryan and 
+Bruce have bot great quickness and mixups, but are both differently. The 
+main purpose to use Bruce is damage. Blend his awesome df+2 jugglestarter 
+with his pokes, that's the safest way to tag Bryan in to finish with a tag 
+combo. I recommend picking Bruce first, since he has the abilty to damage 
+your opponent badly and leave the leftovers to you, or so to say it. His 
+1,2,4_d+4_f+4_3_f+3_1,2 is an awesome mixup surrounding the 1,2 punch combo, 
+and if you mix up all enders evenly you can hurt the opponent real bad. Your 
+best bet for a multi is to buffer the multi starter with a df+1+2 
+(df+1+2,hold 1+2->f,n,d,df+4), for some solid set-up purposes. His f,f+2 has 
+less priority than yours for attacking purposes, but it has a built in high 
+punch reversal once countered. Off a ws+1 juggle with Bryan, you can tag 
+Bruce in for some awesome tag combinations. Use Bruce do do big damage, and 
+Bryan to counter the opponents errors with fast pokes and strings, or a 
+juggle, to tag in Bruce for big damage. Team rating: ****
+
+Bryan/Yoshimitsu: Yoshi is a great teammate to get under the opponents skin 
+since he's the ultimate piss off character. His df+4 comes out slower in 
+TTT, but his df+2 still avoids high attcks during it's mis frames. His NINJA 
+BLADE RUSH (f,f+2) is an awesome move to counter when you know the opponent 
+will whiff you and has a high piss off-rating. His SS+2 is a great new 
+jugglestarter for Yoshi as well. Be sure to tag Bryan in if you connected a 
+4~3 for some kewl tag combo's. But the obvious reasons why Yoshimitsu is the 
+ultimate character to humiliate your opponent with are his unblockables. His 
+db+1 still has great range and is often used as keep away attack and combo 
+linker. Yoshi can piss the hell outta the opponent when using the b,b+1~1 
+and u+1+2 for okizeme. Also his sword juggler (d+1+2) is an awesome new 
+unblockable, and his b+1+4 is a mean counter and can be buffered with a b+1, 
+also a great combo starter. And, OF COURSE, the bad breath (b+1+2~any), 
+which is a great antipoke and combo starter, which is used to counter 
+overoffensive characters, because it's non-counterable (it's duckable now in 
+TTT though, which it wasn't in T3) and the BB-stance has an evasive tidbit 
+as well. If you wanna beat the crap outta the opponent and piss him off at 
+the same time this is your team of choice. Team rating: ***
+
+
+----------------------------------------------------------------------
+
+
+J.  POKING
+
+
+Probably the only thing that's still as effective in TTT as in T3 is poking, 
+one of the most essential techniques in Tekken today. Poking is basically 
+making use of attacks with come out fast and recover fast, like basic jabs. 
+Poking is a wide term, since it has more than one sole purpose. But poking 
+is essential for the good allround Tekken game, you cannot really compete in 
+higher level play without a solid poking game. There are all sorts of 
+different ways to use poking effectively depending on what kind of situation 
+you're in. There are different poking techniques which every play will be 
+confronted with sooner or later in high level play. These techniques will be 
+displayed underneath.
+
+=======================
+Basic poking techniques
+=======================
+
+- Offensive poking:
+
+The most commonly used poking tactic. Basically, offensive poking refers to 
+chaining fast attacks with fast recovery to each other for one sole purpose: 
+pressure. If you keep staying in the opponents face with fast pokes and 
+basic jabs, you will have less risk of retaliation, since the opponents 
+counterattempts will most likely be interrupted with offensive poking. If 
+you keep offensive with fast attacks, the frame advantage will always allow 
+to to attack faster than the opponent unless you use slower attacks with 
+longer recovery. Offensive poking and Set-up poking are often used in 
+harmony which actually comes to the definition of custom stringing, which 
+will be explained later in this guide.
+
+Suitable attacks for offensive poking: 1/2/1,2/3,2/d+1/df+1/df+2/d+3/d+4
+
+- Set-up Poking:
+
+Setting up is basically using fast pokes to connect, to get the framing 
+advantage needed to follow a attack for damage purposes (like a juggle 
+starter, throw or powermove) without having much fear of retaliation. A good 
+example is the simple 1,2 combo, which comes out fast AND recovers fast, so 
+if you connect you will have the opportunity for a followup before the 
+opponent can counter, because the recovery of the 2 will be faster than the 
+recovery of the opponent from the impact, allowing you to punish that 
+recovery with a throw or fast jugglestarter, before the opponent can 
+interrupt you. If the opponent blocks you on time that's not a real problem 
+either unless you've set up an attack with slow recovery which can be 
+punished. The most important thing you need to know is that you must set-up 
+an attack which is pretty safe in speed and recovery since it happens that 
+the opponent might counter the move you've set up on time if your attempt 
+comes out too slow. Set-up your fast jugglestarters, strings and throws and 
+you should be able to use your set-up game without much risk of getting 
+punished.
+
+Set-ups:
+1/2/1,2/d+3/d+4/d+1/3,2/df+2/d+3
+
+Moves to set-up:
+b+1/df+1,2/f,f+2/3,2,1,2_4/qcf_ws+1/qcf_ws+2(b+2)/qcf_ws+3/4/uf+4/uf+3/uf,N+4/f,f+4/1~4,3(3)/df+3/df+4/uf+3/f+1+4/any 
+throw
+
+
+- Interrupting:
+
+Interrupting is actually more of a semi-definition of poking. Basically, 
+interrupting is to stop the opponents attack with fast pokes. This can be 
+either during the lagtimes between some (ten)strings or attacks that have a 
+start-up.Interrupting is best done with fast pokes, and it also depends on 
+the distance you are in, use long range pokes to interrupt attacks from a 
+distance and shorter range pokes to interrupt up close. Estimate the speed 
+of your interrupts and your opponents attack to interrupt their attacks 
+safely, be sure to time right as well, since these days every whiffed attack 
+can be punished no matter how good the recovery is.Interrupting occurs very 
+commonly in harmony with offensive poking since it happens a lot that you'll 
+interrupt the opponents counter attempt when you stay in his face with 
+custom strings and set-ups due to the framing advantage you have gained.
+
+Interrupts: 1(2)/2/d+1/d+4/df+2/4/d+3
+
+- Keep away:
+
+Keep away is not really considered a poking tactic, but most of the time, 
+keep away is actually used as a defensive way of poking. The best way to 
+indicate keep away tactics is keeping the opponent at a certain distance by 
+constantly using (long range) pokes to discourage him to get into a hostile 
+range. A good example is to keep a Paul player out of falling leaf range by 
+constantly countering him with a fast long range attack everytime he tries 
+to rush in to keep him at bay. Good keep away move is the standing 4, 
+because it has awesome range and knocks down on CH, for you to either try 
+okizeme or tag out safely. On non-CH it knocks the opponent backward a 
+little, allowing you to gain some spacing. To mix up his standing 3 is also 
+very handy since it hits mid and has great recovery. Another great keep away 
+move is the WS+4, which keep the opponent at a distance to avoid getting 
+countered whenever you try to execute from a chrouch, like when you try a 
+C.O.M attempt. The d+3 has also a good keep away poke since it hits low and 
+Bryan steps slightly forward before the kick giving it some extra range, and 
+if it connect it's sets up well enough to link a df+2 pretty well. This kick 
+is very suited for keep away since you won't have as much risk to get it 
+countered from a distance like from up close. Another keep away move can be 
+df+1,1,1,1, and might discourage a distanced opponent from rushing/jumping 
+in on you, consider this as a "stay back" move. I wouldn't follow woth the 
+Vulcan punch ender (..2), since good players will backdash and minor counter 
+you. But keep away isn't always defined from long range attacks. A perfect 
+other example of a keep away away tactic is after a blocked uf+4, where many 
+intermediate to average players like to retaliate this move when blocked, 
+but due to the great recovery of uf+4, you can easily do a standing or 
+ducking jab to discourage the opponent from rushing in, this too is a form 
+of keep away, and is materialized by attacks that are used as basic pokes. 
+Do you see where I'm getting now?
+
+
+Poking is essential in Tekken, but you don't have too see all these poking 
+techniques as loose definitions. You can use all these poking techniques in 
+harmony and blend them up. For instance, if you interrupt your opponent, you 
+already have a set-up allowing you to stay offensive on the opponent with 
+fast pokes and custom strings. Poking is the safest way to do your popular 
+moves(throws, jugglestarters, powermoves, attacks strings) without risk of 
+getting punished, and without necessairily waiting for counterhit 
+opportunity. That's the main reason why I think it's one of the most 
+important features in the entire game.
+
+
+----------------------------------------------------------------------
+
+
+K.  COMBO'S/JUGGLES
+
+
+Comboing is a term that's used pretty much used in every fighting
+game. For those who still don't know, a definition of a combo is a
+combination of certain attacks which link together doing damage combined. 
+Combo's are used in just about every fighting game I've played. Some combo 
+systems are cheap (Killer Instinct, though I loved to play it really), some 
+systems plainly suck (Mortal Kombat, the most krappiest kombo system of all 
+beat 'em ups) and some have great quality (Tekken, Street Fighter, tha real 
+work). Fortunately, comboing in Tekken is vital as far as doing damage goes, 
+and in every match, you will be confronted with combo's wether you pull 'em 
+or eat 'em wether it's a simple 2 punch combo, or a monstrous 120+ combo off 
+one hellsweep by a crazy, coffee and coke addicted Jin-nutshell, comboing 
+will stay in Tekken, and probably in every other popular beat'em
+ups, one of the most deep features ever.
+
+Bryan has lotsa different moves that set-up a combo:
+uf,N+4    -Juggles-
+SS+1~2    -Stuns on CH, tag escapable-
+b+2,1...  -Staggers-
+b+1       -Juggles (taggable)-
+ws_qcf+1  -Juggles (taggable)-
+QCB+2     -Juggles-
+ws+2(b+2) -Second part juggles when first connects-
+df+3      -Juggles-
+uf+4      -Juggles-
+f+4       -Juggles on CH-
+
+- Side tip for beginners: In order to juggle effectively you must find good 
+juggle extensions, which will keep your opponent in the air long enough to 
+do more air damage. Good options are basic jabs and the db+2. Also, damaging 
+juggle finishers are also important if you want to do good guaranteed 
+damage, good attacks for Bryan here are the b+2,1 mixups, the f+4,3,4 and 
+the f,f+2. Experiment with different combinations of different attacks after 
+a jugglestarter (see above) to see what is effective and what doesn't. It's 
+important to have good combo's with solid damage that are easy to remember, 
+since good arcade players won't easily allow juggle opportunities after one 
+or two tries, so make sure you have some good combo's ready, to take 
+advantage of every juggle opportunity without getting startled everytime.
+
+==========
+Combo List
+==========
+
+If there are any errors in the list, please let me know, any notices of 
+corrections will be thanked and credited.
+On with the list......
+
+qcf_ws+1:b+3,2,1;f,f+2
+qcf_ws+1;b+3;1,2;f,f+2
+qcf_ws+1;f+4;3,3
+qcf_ws+1;d+2;b+3,4
+qcf_ws+1;f+4,1,2;f,f+4
+qcf_ws+1;d+2;F~1;f,f+2
+qcf_ws+1;b+3,2,1;b+1
+qcf_ws+1;1;b+2,1>2_4
+qcf_ws+1;b+3;1~4,3,3
+qcf_ws+1;b+2,1;1;f,f+2
+
+
+b+2,1(CH);2;3,3
+b+2,1(CH);1,2;f,f+2
+b+2,1(CH);1,2,1;b+1
+b+2,1(CH);1;f+4,3,4
+b+2,1(CH);1;df+1,2
+b+2,1(CH);df+1;1~4;f,f+2(big)
+b+2,1(CH);QCF+3,1,f,f+2
+
+
+b+1;d+2,1~4,3,3
+b+1;1+3+4~f;1;f,f+4
+b+1;1+3+4~b;1,2;f,f+2
+b+1;1,2,1;f,f+2
+b+1;2;b+2,1>2_4
+b+1;d+2;1,2;f,f+2
+b+1;f+4;d+2;1;df+2
+b+1;1~4,f,f+2
+b+1;1;3,3;f,f+2 (credit goes to aviax for this one
+b+1;d+2;b+3,4
+b+1;1;d+2;f,f+2
+
+
+
+df+3;1,2;f,f+2
+df+3;d+1;ws+3;d+3+4
+df+3;ws+3;1;f,f+2
+df+3;d+2;ws+3,4
+df+3;ws+1+2;1,2;f,f+2
+df+3;ws+3;1~4
+
+
+QCB+2;1~4,3,3
+QCB+2;d+1;ws+3
+QCB+2;2;f,f+2
+QCB+2;2;3,3
+QCB+2;1;f,f+4
+QCB+2;2;db+2;d+3
+QCB+2;1~4;f,f+2
+QCB+2;2;b+3,4
+QCB+2;2;1~4,3,3
+
+
+qcf_ws+2(f+2);2;f,f+4
+qcf_ws+2(f+2);1~4(3)3
+qcf_ws+2(f+2);b+2,1,2_4
+qcf_ws+2(f+2);f+4(3)4
+qcf_ws+2(f+2);1~4;f,f+2
+
+
+uf+4;d+2;f+4,3,4
+uf+4;d+2;1;f,f+2
+uf+4;2;1~4,3,3
+uf+4;1,2;f,f+4
+uf+4;d+2;df+1,2
+uf+4;d+2;d+2;1~4,3,3
+uf+4;1,2,1;f,f+2
+
+
+uf,N+4;b+3;1,2;f,f+2
+uf,N+4;1,2,1,f,f+2
+uf,N+4;1;f+4,3
+uf,N+4;b+2,1,2_4
+uf,N+4;2;3,3
+
+
+WS+3(ch);instant ws+1;b+3,2,1;f,f+2
+WS+3(ch);instant ws+1;b+3;N~f~2;f,f+2
+WS+3(ch);instant ws+1;b+3;f~1~4,(3),3
+WS+3(ch);b+1;d+2;1,2;f,f+2
+WS+3(ch);b+1;1;d+2;f~,1~4,3,3
+WS+3(ch);uf+4;df+2;f+4,3,4
+WS+3(ch);uf+3;1;f,f+2
+WS+3(ch);uf+3;1,2,(1),2
+WS+3(ch);instant ws+2~f+2;b+2,1,4
+WS+3(ch);QCB+2;1~4;f,f+2(hard)
+WS+3(ch);QCB+2;2;1~4,3,3
+
+Number of combo’s listed: 72
+
+
+
+Any questions, comments or corrections on these combo's will be appreciated, 
+E-mail me at renickironfist@hotmail.com if you have something to add. Here 
+are some combo's that are displayed with courtesy by Reverend C:
+
+b+1:
+1,d+2, 1,4
+d+2, 1,4,(3),3
+
+WS+1:
+b+2,1,4
+
+WS+2~f+2:
+1,4,(3),3
+
+df+3:
+WS+3, 1,4
+WS+3, 1,(2),1,4
+
+uf+4:
+1,d+2, 1,4
+d+2, f+4,3,4
+
+QCB+2_UF,n+4:
+b+2,1,4
+d+2, 1,4,(3),3
+
+
+The following combo's are sent by devil demunyu
+(lord_devildemunyu@hotmail.com):
+
+b+1:
+    db+2, db+2, 1,4,(3),3
+    db+2, db+2, f+4,3
+    db+2, f+4,3,4
+
+uf+4:
+    db+2, db+2, 1,4,(3),3
+    db+2, db+2, f+4,3
+    db+2, f+4,3,4
+
+
+I want to thank Reverend C (reverend_c@yahoo.com) and devil demunyu
+(lord_devildemunyu@hotmail.com) for adding their combo's to my list, and 
+they will be credited for their generosity.
+
+
+----------------------------------------------------------------------
+
+
+L.  CUSTOM STRINGS
+
+The essence of custom strings is growing larger in Tekken everytime.
+Custom strings basically are fast attacks with fast recovery glued together 
+to keep the opponent from attacking you. You are more or less playing a 
+"block or get hit" game with your opponent. The best way to use custom 
+strings is after interrupts or when the opponent is immobilized. Custom 
+strings are also great to set up certain attacks/throws with fast pokes, 
+those attacks are displayed at the end of each "string". The following 
+custom strings I tend to use are:
+
+df+2->1~4->buffer into f+1+4
+df+2->1~4->d+1->buffer into FC,df,d,DF+1+2
+df+2->1~4->df+2->d+4
+df+2->1~4->d+1->ws+1
+df+2->1~4->d+1->ws+2~b+2
+df+2->1~4->d+1->ws+3
+df+2->1~4->d+1->ws+4
+df+2->1~4->N,3,2->buffer into 2+4
+df+2->1~4->N,3,2->1,2->f,f+2
+df+2->1~4->N,3,2->1,2->df+2
+df+2->1~4->N,3,2->1,2->buffer into 2+4
+df+2->1~4->N,3,2->1,2->d+4
+df+2->1~4->N,3,2->1,2,1,2_4
+df+2->1~4->df+2->buffer into 2+4
+df+2->1,2->df+2->buffer into 2+4
+df+2->1,2->df+2->1,2(and repeat)
+df+2->1,2->df+2->1,2,3
+df+2->1,2->df+2->1,2,1,2_4
+df+2->1,2->df+1,2
+df+2->1,2->uf+4
+df+2->1,2->3,2,1,2_4
+df+2->1,2->b+1
+df+2->1,2->f,f+2
+df+2->1,2->d+4->df+2
+df+2->1,2->d+4->f,f+2
+df+2->1,2->d+4->3,2,1,2_4
+df+2->1,2->d+4->4
+df+2->1,2->4
+df+2->1,2->uf+3
+df+2->1,2->f,f+4
+df+2->1,2->df+3
+df+2->1,2,3->f,f+2
+df+2->d+1->buffer into FC,df,d,DF+1+2
+df+2->d+1->ws+4
+df+2->d+1->ws+3
+df+2->d+1->ws+2(~b+2)
+df+2->d+1->ws+1
+df+2->d+1->uf+4
+
+As you can see, the df+2 is an excellent way to gain pressure, it
+guardstuns, puts you in range for close quarter attacks and sets up very 
+well. You can also follow these custom strings after a connected d+3 or d+4 
+since the df+2 links very well afterwards.
+
+1,2->df+2->d+1->buffer into FC,df,d,DF+1+2
+1,2->df+2->d+1->ws+1
+1,2->df+2->d+1->ws+2(~b+2)
+1,2->df+2->d+1->ws+3
+1,2->df+2->d+1->ws+4
+1,2->df+2->d+1->ws+4->b,b+4
+1,2->df+2->d+1->uf+4
+1,2->df+2->df+1,2
+1,2->df+2->df+1->buffer into 1+3
+1,2->df+2->buffer into 2+4
+1,2->df+2->1~4->3,2,1,2_4
+1,2->df+2-?1~4->f+1+4
+1,2->df+2->1,2,3
+1,2->df+2->1,2,1,2_4
+1,2->df+2->2->buffer into 2+4
+1,2->df+2->2->f,f+2
+1,2->df+2->2->f,f+4
+1,2->df+2->2->d+3_d+4
+1,2->df+2->2->b+1
+1,2->df+2->2->uf+4
+1,2->df+2->2->uf+3
+1,2->df+2->2->df+3
+1,2->df+2->2->3,2,1,2_4
+1,2->df+2->2->4
+1,2->df+2->d+4->f,f+2
+1,2->df+2->1~4->f,f+2
+1,2->d+4->f,f+2
+1,2->d+4->3,2,1,2_4
+1,2->d+4->b+1
+1,2->d+4->f,f+4
+1,2->d+4->uf+4
+1,2->d+4->uf+3
+1,2->d+4->buffer into f+1+4 unblockable.
+1,2->d+4->df+1,2
+1,2->d+4->4
+1,2->d+4->b,b+4
+1,2->f,f+2
+1,2->b+1
+1,2->uf+4
+1,2->df+4
+1,2->3,2,1,2_4
+1,2->4
+1,2->df+1,2
+1,2->buffer into 2+4
+1,2->uf+3
+1,2->f+1+4
+1,2->1+2
+1,2->df+3
+
+
+Do you see the productivity of a simple two punch combo now? The awesomeness 
+of this move is the great frame advantage you gain after the second punch, 
+making it great for custom strings. You may see a lot of strings where it's 
+followed, but that because of the simple fact that the df+2 in UNCOUNTERABLE 
+if the 1,2 connects, and with the blockstun it causes and it's ranging, this 
+will give Bryan one of the best, if not THE best custom string ability in 
+the game. Some of you might find the df+2->1~4 into f+1+4-string somewhat 
+awkward, but it's a great manuever if the opponent attempts to rush in after 
+the 1~4 just buffer with the f+1+4 (1-hold 1-~4-hold 4-f+1), it'll come out 
+quicker then expected and may avoid the opponents counterattack and he will 
+get caught in the unblockable instead.
+
+
+I partly credit ETP, his cool article at Inside Tekken inspired me of
+putting a custom string section in this FAQ. Nice goin', dude.
+
+
+----------------------------------------------------------------------
+
+M.  THROWS AND COUNTERS:
+
+
+This section will display in more detail than the move analysis how to use 
+Bryans throws, special counters and parries effectively, and several 
+strategies around them. You cannot always rely on fast pokes and your string 
+mixups everytime, that's when your throws and counters often become you most 
+useful weapons.
+
+========
+Throwing
+========
+
+Apart from punches and kicks, throwing is another important attack method in 
+TTT. Even with characters who lack throws should use them, since most throws 
+can only escaped at the start-up. If you cloak your throw attempt well with 
+your fast pokes and attack strings, you should be able to suprise your 
+opponent before they get the reaction to hit the escape. A very good example 
+is to buffer your throw with your fast pokes, not only for a faster 
+execution, but if your poke connects, it'll often set you up for your throw 
+attempt. You can throws after a stun or even during the mid frames of some 
+moves. Throws can be executed standing or crouching, even off a rolldash or 
+sway. Be sure to estimate the distancing of Bryans throw range, since a 
+missed throw attempt will be punished. Still I wish Bryan has at least one 
+more special throw, since I think he still lacks in amounts of throw, and it 
+would've been great to give Bryan a new throw. Here is a small summary on 
+all of Bryans throws.
+
+- Regular Throws
+
+1+3/2+4(front): Bryans basic frontal throws are probably the throw you'll 
+use the most. Mix them both up well to force the opponent into a guessing 
+game with the escape. These throws can be done off a ducking position as 
+well, many opponents don't seem to expect that, which is a good think. It's 
+also very effective to throw off the sway for a little evasive tactics, back 
+away once the opponent attacks, and they might run into a throw. After the 
+2+4, a FC+3 is guaranteed, and after the 1+3 throw a d+3 or d+4 is also 
+guaranteed I think, but I'm not entirely sure, it might be a on big 
+characters only. If you hit them with d+4 after the throw and you know 
+they're gonna tech, you can quickly buffer into another throw. Anyways, it's 
+too bad none of his frontal throws can be tagged. Use Bryans frontal throws 
+if the opponent techrolls, recovers standing or is vulnerable up close.
+1+3 - Escape: 1
+2+4 - Escape: 2
+
+1+3/2+4(from the opponents side):
+Use sidethrows whenever you've successfully sidestepped the opponents attack 
+and when you are within range. They are sometimes a pain to time since 
+you'll most likely pull a SS+2 or SS+1 instead. That sucks, since you have 
+to either buffer it with a 1 or 2 before you Sidestep (1,hold 1,SS+3/2,hold 
+2,SS+4), or buffer with a SS+2(CH) (SS+2,hold 2->4). If else, you must wait 
+about a half a second before you recover from your SideStep, but's about all 
+the opponent needs to recover and counterattack you. The best way to do a 
+sidethrow attempt is to buffer with a standing jab before the Sidestep, 
+since it won't happen often the opponent is vulnerable with his side towards 
+you. Your best bet is after a successful techroll. Never hesitate to go for 
+a sidethrow when you end up at the opponents side after a sidestep or 
+techroll.
+Left Sidesthrow - Escape: 1
+Right Sidesthrow - Escape: 2
+
+1+3/2+4(on backturned opponent)
+Backthrowing is something which occurs in a select few situations, like to 
+counter moves such as Devils lasers, Hwoarangs f,f+4, P.Jacks 3+4, Yoshi's 
+Deathcopter, Julia's Earthquake Stomp and after sidestepping moves that are 
+linear and travel a long distance, like a Thunder Godfist or Kings f+2+3, 
+just about any situation where the opponents back is vulnerable to you. 
+Connect a backthrow, and your opponent loses around 61points of damage, and 
+on top of that, this is Bryans only taggable throw, so if you tag off it, 
+the already heavy damage will be increased even more, and the character 
+you've tagged in via the tag throw should be able to finish the job if the 
+opponent isn't dead yet, since such a headstart in damage should be taken
+advantage of. Still whatever you do, don't try backthrowing on Lings and 
+Lei's, you'll most likely end up thrown or juggled. A note about Bryans 
+backthrow is that it can be teched if you don't tag it.
+
+- Special Throws:
+
+FC,df,d,DF+1+2: This is Bryans only special throw, so it is recommended to 
+use it every once in a while. This is possible one of the coolest looking 
+throws in the game, does good damage and is really not as hard to pull as it 
+seems, if the arcade has good sticks I can get it 100% when I'm not playing 
+cocky. You have to be in full chrouch, and the last DF has to be held down 
+before you do the 1+2, it really doesn't take that much practice. To avoid 
+getting countered, you have to set up this throw up, since you are left 
+vulnerable during the execution time. A good way to increase it's execution 
+time and decrease the chance getting countered you can buffer this throw in 
+the following ways:
+
+- With a d+1 lowjab. The most common of them all, if the d+1 hits, it'll set 
+up just that bit for you to connect the FC,df,d,DF+1+2. The more you do it 
+the faster you can get the throw to connect. This is a definition of a 
+crouch buffer.
+
+- With a lowparry. This trick is used by the hardcore players. The lowparry 
+animation puts you in FC just long enough to pull the Chains of Misery. It's 
+a bit harder than with a d+1, but once you can do it, you can buffer 
+FC,df,d,DF+1+2 with much greater effect.
+
+- With a rolldash. This can be tricky at first but it's actually pretty 
+effective. During the rolldashes mid-grames, you should be in FC position, 
+for you to do a FC,df,d,DF+1+2. This is very useful, since the rolldash 
+avoids high attacks, in order to pop up with the Chains of Misery easily.
+
+Be sure to learn all three ways how to buffer this move to stay
+unpredictable with it. The Chains of Misery is the ultimate
+piss-your-opponent-off throw, even better than the Mad Axes, because of that 
+laugh, that cold hearted laugh alone, MuhuHaHaHaHaHah!!!!! But seriously the 
+Chains of Misery is a great alternative of a WS-move in matches, and once 
+you've learned how to execute it safely, you can only pull it off faster and 
+faster. Also, a very recommended site to go is E-MANS site 
+http://www.geocities.com/tekkenmanila where an awesome movie is featured on 
+the ways to buffer the Chains of Misery. Meanwhile, listen to the 
+soundtrack, and you'll see how nasty logic thinking can be, 
+MuhuHaHaHah!!!!!!!
+
+========
+Chickens
+========
+
+Chickens are used to counter the opponent's high mid attack-reversals
+(Jin, Wang, Jun, Paul, Nina and Anna). This has to be done fast, so  you 
+might not get the timing everytime. An easy trick for that is to buffer your 
+attack with either f+1+3 or f+2+4 (depending if your attack is left or 
+right) if you feel you'll get reversed.
+
+Important moves to buffer:
+df+1,2      - Chicken: f+2+4(2nd hit)
+1~4,3,3     - Chicken: f+1+3(3rd or 4th hit)
+b+1         - Chicken: f+1+3
+ws_qcf+1    - Chicken: f+1+3
+f,f+2       - Chicken: f+2+4
+f,f+3       - Chicken: f+1+3
+f,f+4       - Chicken: f+2+4
+b,b+4       - Chicken: f+2+4
+df+2        - Chicken: f+2+4
+db+2        - Chicken: f+2+4
+b+2,1,2_4   - Chicken: f+1+3(2nd hit) f+2+4 (1st and 3rd hit)
+QCB+2       - Chicken: f+2+4
+ws_qcf+2    - Chicken: f+2+4
+3,2,1,2_4   - Chicken: f+1+3(1st hit)
+uf+4        - Chicken: f+2+4
+uf+3        - Chicken: f+1+3
+b+3,2,1,2_4 - Chicken: f+1+3 (1st hit) f+2+4 (2nd hit)
+df+4        - Chicken: f+2+4
+f+4,3,4     - Chicken: f+2+4 (1st and 3rd hit) f+1+3(2nd hit)
+ws_qcf+3    - Chicken: f+1+3
+
+Against reversal happy players, it's a good tactic to bait them into a
+Chicken everytime, especially since the chicken does damage to the opponent. 
+By buffering your Chicken it allows you to execute faster, and lets you gain 
+some spacing again, since the opponent canot tag out during their recovery 
+of a chicken. In the "Buffering" section more on how to exactly buffer a 
+Chicken.
+
+
+=============
+Throw Escapes
+=============
+
+Escaping throws is more common the more you do it. Most throws have
+single button escapes(1 or 2), some are escaped with two buttons pressed 
+simultaneously (1+2). Throw escapes are the main reason why throwing 
+shouldn't be called cheap. Escaping throws can be tricky at times, you have 
+to have good anticipation, since most throws can only be escaped at the 
+start-up. There are some tricks for throw escapes:
+- If the throw is executed with a right attack (i.e. Baek/Hwoarangs
+f,f+2, King/Armor Kings db,f+2) the escape is most likely 2.
+- If the throw is executed with both punches simultaneously(1+2) attack 
+(i.e. Yoshi's qcb+1+2, Kuma's hcb,f+1+2) the most common escape is a 1+2.
+- If the throw is executed with a left attack (i.e.GunJacks qcf+1
+Roger/Alex' hcf+1) the most common escape is 1.
+- All basic front throws are escaped with either 1 (1+3) or 2 (2+4).
+- All tackles are escaped with 1+2.
+
+
+But there are lots of exceptions to this rule underneath, it was pretty time 
+consuming to test these out, I couldn't confirm all escapes so any help will 
+be credited. I'm sure I didn't post all throw-escapes, so mail me if I 
+forgot something. Here are the exceptions:
+
+Kuma/Panda:
+f,f+1+4 - escape: 1+2
+
+Jack-2:
+df+2+4 - escape: 2
+
+Anna:
+df,df+1 - escape: 1+2
+qcf+1+2 - escape: 2
+uf+3 - escape: 2 (unconfirmed)
+
+Wang:
+df,DF+2+4 - escape: 1+2
+
+Baek:
+db+1+3 - escape: 1+2
+
+Jun:
+df+2+3 - escape: 2
+
+Julia:
+df+1+2 - escape: 2
+d,db+1+3 - escape: 2
+qcb,f+2 - escape: 1+2
+
+Prototype Jack:
+db+2+3 - escape: 1+2
+
+Jin:
+df+2+3 - escape: 2
+qcb+1+2 - escape: 1
+
+Gun Jack
+db+2+3 - escape: 2
+f,f+2+3 - escape: 2
+df+2+4 - escape: 2
+d+1+3 - escape: 1+2
+
+Michelle:
+df+1+2 - escape: 2
+
+Nina:
+df,df+1 - escape: 1+2
+qcf+1+2 - 2(?)
+
+Paul:
+b+2+3 - escape: 2
+
+King:
+df+2+3 - escape: 2
+
+Ling:
+f+2~1 - escape: 1+2
+
+Ganryu:
+f,f+2+3 - escape: 1+2
+
+Hwoarang:
+qcb+3 - escape: 2
+d,db+1+3 - escape: 1+2
+
+Lee:
+f,f+3+4 - escape: 1
+
+Kunimitsu:
+db+1+3 - escape: 1+2
+
+A lot of times you have to put up a guessing game with throw escapes, there 
+are some easy tricks for that. A well known one is to press 
+1,2,1,2,1,2,1,2...etc. which gives you a fifty fifty chance of an escape. If 
+you are not sure wether it'll be a two button or 1 button escape, a good way 
+is to buffer it with  a standing jab (i.e. 1(hold 2)1). If you do it fast 
+enough and the 1 button won't do, the buffer will escape the throw (if it 
+requires a 1+2 escape).
+
+
+=============
+The low parry
+=============
+
+Bryans low parry can be done with either db_d+2+4 and db_d+1+3. It will 
+parry all low attacks in the game, and -some- Special Mid attacks, like 
+lowjabs. The opponent cannot tag away when recovering from a lowparry. If 
+it's a kick attack, Bryan will have a larger frame advantage than after a 
+parried punch attack. A successful parried right kick will set up a uf+4 
+(obvious followup), but the ws_qcf+1 is also possible, b+1 or ws+3 will do 
+fine, you can also try a 3,2,1-mixup, but I'm not sure if this is effective. 
+After a right punch parry, you should use faster attacks, like the df+2, 
+df+1,2, standing 4 or d+3, since the opponent recovers faster after a 
+parried punch, and the uf+4 isn't guaranteed afterwards. Another version of 
+the low parry is D/F while timing with the opponents low or special mid 
+attack, this is a lowparry everyone possesses but will give you less framing 
+advantage than the regular d+1+3/d+2+4 parry. To time this lowparry can be 
+tricky, you won't see a an animation while pressing D/F whiffed, so it takes 
+a lot better timing to execute. This is an important attack for those 
+characters who don't have any parry or reversal, but Bryan already has the 
+normal lowparry which is a lot better, so stick with that.
+
+
+==================
+The punch reversal
+==================
+
+Like Laws, Bryans punch reversal (b+1+2~2) is not escapable, but the
+advantage he has over Laws that it can be timed with more ease. Once you've 
+reversed the opponents punch attack, press 2, a right punch reversal will 
+cause a df+2 automatically a left punch reversal with an auto-f,f+2, and 
+both are guaranteed, and the reversal cannot be tagged out of as well. The 
+machpunch followup knocks down and you can rush in with some okizeme, and 
+the df+2 allows you the proceed your offense, because of it's set-up 
+ability. This makes Bryan almost invincible against the Jacks, Kuma and 
+other characters that rely mostly on punch attacks, if you know how to use 
+the punch reversal, there's almost no way you can lose against them. You 
+can’t reverse the Mishima EWGF unfortunately, credit goes out to both Aviax 
+and Brennan Swan for the notices on that. The punch reversal can save you 
+out of lots of tight situations, if used correctly, don't ever block a punch 
+attack you know you can punch reverse it instead, believe me the price is 
+too rewarding.
+
+
+
+----------------------------------------------------------------------
+
+N.  BUFFERING
+
+
+Buffering is an advanced tactic which allows you to execute moves
+differently and faster, by cancelling them into each other. Buffering is a 
+very wide term, like poking, since it can be used in so many different 
+forms. Buffering is used during custom strings, escaping, juggles and 
+multiparts. Dashbuffering, Crouchbuffering and Buttonbuffering are the most 
+common forms, but you can also buffer with lowparries, throwing, multiparts, 
+throw escapes, chickens and unblockables, even taunts. This section will 
+give you info on the most common forms of buffering in high level play.
+
+=============
+Dashbuffering
+=============
+
+Dashbuffering is done in harmony with either a forward and backward dash and 
+the rolldash or sway. The trick is to cancel the dash into a the rolldash or 
+sway: Rolldash/forward dash d,df,f,f, Sway/backward dash: d,db,b,b. The 
+first "f" or "b" motion in the dash is already built in the Rolldash or 
+Sway, all you have to do afterwards is quickly press f or b to have you dash 
+cancelled in your sway or rolldash. d,df,f,f is great if you want to execute 
+of your f,f-moves from longer distances, and d,db,b,b works very well for 
+evasive tactics. Here are some options with dash buffering:
+Forward Dash into Rolldash buffer:
+f,f+2 ------> d,df,f,f+2
+f,f+3 ------> d,df,f,f+3
+f,f+4 ------> d,df,f,f+4
+Backward Dash into Sway buffer:
+b,b+4 ------> d,db,b,b+4
+
+- Sidenote: You can also use the rolldash to buffer moves off the crouch, 
+like the ws-moves for instance, but also, the C.O.M throw:
+
+FC,df,d,DF+1+2 ------> QCF,df,d,DF+1+2
+
+The rolldash puts you in FC position in it's mid frames, you only have to do 
+the rest of the C.O.M motion to pull it easily. The rolldash goes under high 
+attacks, which is useful, but it also increases the distance the throw 
+reaches, mix this up well with your QCF moves, the opponent may block and 
+gets caught in the throw instead.
+
+
+================
+Button Buffering
+================
+
+Button Buffering is another common buffering method in TTT. Basically is 
+cancelling attacks with single button commamds (standing jabs, for instance) 
+with double button commands (basic throws i.e.). To name a small example 
+standing 1 into 1+3 throw with Bryan. What you do is to press and hold the 1 
+and then press 3 while holding it. You will do 1+3 a lot faster than if you 
+follow it normally.
+
+Here's another schematic display:
+
+1~4 into f+1+4------>1~4(hold 4)f+1
+
+Easy enough, eh? But that's only a tiny example, but very useful, since the 
+opponent may try to advance after the 1~4 and get hit in the f+1+4 instead.
+
+Here are some other button buffering methods with certain attacks.
+
+d+4 into d+3+4------>d+4(hold d+4)3 (Two lowhitting kicks cancelled into 
+each other, with Bryans lack of low attacks, I would'nt call this a bad 
+option)
+
+3 into d+3+4------>3(hold 3)d+4 (Wow, if you look how fast the d+3+4 can be 
+followed after the 3 it almost seems like a canned combo, but unfortunately 
+it isn't)
+
+d+4 into f+1+4------>hold d+4(hold 4)f+1 (very useful if the opponent tries 
+to rush in after the shin kick, and get caught in the unblockable which is 
+executed faster, besides the fact that the f+1+4 goes under high attacks, 
+and may avoid the opponents retaliation attempt after the d+4 has connected.
+
+- Button Buffering throws:
+
+Throws are my favourite types of attacks to buffer, since they can be
+buffered with almost any attack Bryan has.
+
+1 into 1+3------>1(hold 1)3 (The safest way to buffer into a throw possible, 
+if you button buffer a simple left jab with a throw, it'll combo with the 
+throw)
+
+df+2 into 2+4------>df+2(hold 2)4 (Also very good, if the df+2 connects the 
+throw comes out pretty fast, but if it's blocked, the blockstagger allows 
+you to buffer your throw without too much risk)
+
+df+1 into 1+3------>df+1(hold 1)3 (Once the df+1 connects, a buffered throw 
+afterwards comes out very quick, I'm suprised this doesn't combo, like Pauls 
+df+1 into df+1+2, but still very useful nonetheless)
+
+d+3 into 1+3------>d+3(hold 3)3 (Another useful way to buffer frontal
+throws, since many may not expect you to buffer with a shin kick, so this 
+can be a good alternative to buffer a throw, not always with punch attacks, 
+but kick attacks as well)
+
+db+2 into 2+4------>db+2(hold 2)4 (Due to the lift stun the db+2 causes, 
+it'll set up just that bit to buffer the throw safely)
+
+uf+4(blocked)into 2+4------>uf+4(hold 4)2 (Pretty useful to do when the uf+4 
+is blocked, since it recovers fast enough to buffer a throw before the 
+opponent can react, to catch them off guard with a suprise attack)
+
+b+1(blocked)into 1+3------>b+1(hold 1)3 (This is not bad because of the fact 
+that that the b+1 blockstaggers a bit, giving you a good opportunity to 
+buffer it with a throw, though this isn't guaranteed)
+
+df+4(blocked)into 2+4------>df+4(hold 4)2 (Kinda the same idea as with the 
+b+1 into 1+3)
+
+ws+3 into 1+3------>ws+3(hold 3)1 (I tend to buffer a throw with the rising 
+knee, only when it hits on non-counter or when it's blocked because of the 
+good recovery of the knee, you can also do it when it gets the CH stun, but 
+there are lots of better followups)
+
+
+- How to buffer Chickens:
+
+Remember the part about chickening in the "Throws and Counters section", 
+well here, it'll be shown how to buffer them easily. If you feel your get 
+attack reversed, you must buffer your Chicken the same way as you would with 
+throws but faster:
+
+df+1,2      - Chicken: f+2+4(2nd hit)--->df+1,2(hold 2)f+4
+1~4,3,3     - Chicken: f+1+3(3rd or 4th hit)--->1~4,3,3(hold 3)f+1
+b+1         - Chicken: f+1+3--->b+1(hold 1)f+3
+ws_qcf+1    - Chicken: f+1+3--->ws+1(hold 1)f+3
+f,f+2       - Chicken: f+2+4--->f,f+2(hold f and hold 2)4
+f,f+3       - Chicken: f+1+3--->f,f+3(hold f and hold 3)1
+f,f+4       - Chicken: f+2+4--->f,f+4(holf f and hold 4)2
+b,b+4       - Chicken: f+2+4--->b,b+4(hold 4)f+2
+df+2        - Chicken: f+2+4--->df+2(hold 2)f+4
+db+2        - Chicken: f+2+4--->db+2(hold 2)f+4
+QCB+2       - Chicken: f+2+4--->QCB+2(hold 2)f+4
+ws_qcf+2    - Chicken: f+2+4--->ws+2(hold 4)f+4
+uf+4        - Chicken: f+2+4--->uf+4(hold 4)f+2
+uf+3        - Chicken: f+1+3--->uf+3(hold 3)f+1
+df+4        - Chicken: f+2+4--->df+4(hold 4)f+2
+f+4         - Chicken: f+2+4--->f+4(hold f and hold 4)2
+qcf_ws+3    - Chicken: f+1+3--->ws+3(hold 3)f+1
+
+Buffering is the fastest way to pull a Chicken once reversed. Always buffer 
+the Chicken if you attack first against a reversal happy player, the more 
+you do it the easier chickening becomes.
+
+
+================
+Crouchbuffering
+================
+
+Crouchbuffering can be done in every FC-move in the game, it's done by
+cancelling moves that END in FC-position (recover in a crouch) and moves 
+that BEGIN in FC position (executed FROM a crouch). A good and wellknown 
+example is the simple d+1 lowjab. Examples of moves executed from FC are 
+Julia's FC,df+2 and Pauls FC,df+2,2_1. If they are cancelled into each other 
+with a low jab, you'll get d+1,df+2(Julia) d+1,df+2,2_1(Paul). This is a 
+crouch buffer:
+
+Moves that recover in FC(i.e.d+1) -----> Moves that begin in FC(i.e.FC,df+2)
+
+You can more or less say the FC-position can be used as a transmission
+medium to cancel two moves in one, which defines , of course, the
+crouchbuffer. Bryan has only one move which can be crouch buffered,
+FC,df,d,DF+1+2 throw, the most popular example is d+1,df,d,DF+1+2. Even 
+better, it can be chrouchbuffered and buttonbuffered at the same time, 
+allowing an even faster execution:
+
+d+1(hold 1),df,d,DF+2
+
+Plainly this is the easiest way to buffer the Chains of Misery, you can pull 
+a C.O.M just as fast with this after a d+1 as following a regular WS-move, 
+which is just awesome. Not only the easiest way to execute the C.O.M, but 
+also the SAFEST way.
+
+But you can crouchbuffer with two other ways: via a lowparry animation and 
+via a jump. The lowparry puts you in FC not that long but is very effective 
+as a crouch buffer set-up once mastered, but the jump crouchbuffer is easier 
+to do, but takes more risk.
+
+Lowparry crouch buffer:
+
+d+1+3(hold 1)df,d,DF+2
+
+You have to be very fast to pull this, but once you get it down, the C.O.M 
+seems to come out almost instantly. I can get it about 70%, but it can be 
+damn tricky, I cannot do it in the heat of battle. This is often used by the 
+very skilled among us.
+
+Crouchbuffer with a jump:
+If you hop or jump the final frames once you hit the ground will put you in 
+FC position. It's best to jump either straight up or backwards, since the 
+forward u/f jump leaves you vulnerable:
+
+u_u/b,N,df,d,DF+1+2
+
+I barely use this form of crouchbuffering, but the u/b version may work 
+against players who keep rushing in, and might not expect the throw and get 
+caught in it. The most important thing you need to know is that you can only 
+buffer here once you've hit the ground.
+
+As you can see, crouchbuffering is a very versatile form of buffering, and 
+can suprise the hell out of the opponent, since it's an awesome method to 
+cloak your attacks in a particular execution your opponent might not expect.
+
+
+----------------------------------------------------------------------
+
+O.  RECOVERY
+
+
+Recovery is another essential part of the all-round Tekken game. To recover 
+from the ground the safest way depends a lot on what the opponent does. 
+There are lots of ways to recover, and I'll display how I think the 
+different ways to recover from the ground should be used.
+
+- Recover Standing:
+To recover standing, you have to press up when you're grounded. This is the 
+safest way to recover from the ground if you're knocked down from a distance 
+and once you are on two feet again you can still block the opponents 
+additional attacks. But if be predictable with recovering standing, the 
+opponent might use low or attacks once you get up, or a fast juggle starter 
+or fast mid attack up close, like a hopkick or tilesplitter (Paul/Hei's 
+d+1).
+
+- Recover crouching:
+To recover in your chrouch press u~D once you get knocked down, this can be 
+useful when the opponent keeps rushing in on you from a small distance, to 
+counter with a ws+3 knee or ws+1 juggle starter. If they expect you to 
+recover standing and use sweep or so, you can block it on time with the 
+crouch recovery. Watch out for overheads, you might want to use a d+1 as 
+interrupt if you want to recover in your crouch safely, more than enough to 
+discourage an opponent to rush in for a minor counter.
+
+- Roll backwards/forwards:
+Roll backwards with b while grounded and f to roll forwards. Use this to 
+avoid attacks such as a regular uf+2, ground pounces, or Julia's uf+3+4, and 
+other mid attacks that hit grounded opponents, but rolling backwards or 
+forwards exposed to the opponent, he'll have a great time pummeling you with 
+okizeme. A lot of intermediate players seem to roll backwards almost 
+automatically, which is bad thing, if you roll after every knockdown you are 
+very vulnerable to the ranged opponent. Use at the right times. The best way 
+to use rolling is in harmony with the Cross Chop (f+1+2) or reverse flip 
+(b+3+4).
+
+- Sideroll:
+Siderolling can be done with d+1,N and will put you in face down position. 
+This is very safe if opponents use okizeme attacks that are too linear, this 
+will avoid King/Armor King/Rogers 
+alikicks.Heihachi/Jin/Devil/Kazuya/Ogre/True Ogres 4~3 and Yoshi's db+1 if 
+timed right. Great to use, pretty safe option to recover if you time right.
+
+- Recover with sweep (3):
+Recovering with the sweep it useful when the opponents whiffs an okizeme 
+attempt (this happens more often than some may think) for a fast knockdown . 
+Still, the sweep isn't really a recovery method that is reliable, since good 
+players will stay out of it's range and minor counter your recovery.
+
+- Recover with mid kick (4):
+Use as a mixup with the sweep but like the sweep, this can be parried, good 
+players will also stay out of range and punish your recovery.
+
+- Roll ->Reverse Handspringkick:
+While rolling you can press b+3+4 to jump up with a flip that'll hit the 
+opponent. This is great when the opponent has knocked you away with a 
+Deathfist or other move that knocks far away for a suprising counter. Still, 
+it's best used when the opponent rushes in instead of when he's just 
+standing still in anticipation, since you end up backturned after you flip 
+upwards, and if it's blocked or whiffled, you might get punished.
+
+- Roll->Diving Punch:
+During your roll press f+1+2 to do dive at your opponent with your fists 
+lunging forward. This is a great way to recover and connects very often, 
+even from smaller distances. It comes out as a sort of suprise attack, great 
+for wake up games. The only con this type of recovery has is the fact that 
+it can be sidestepped pretty easily.
+
+- The Techroll:
+Techrolling allows you to instantly recover from the ground pressing 
+1~4~3~4, after a knockdown with a quick sidewards roll. This is very useful 
+when you get juggled, since you might tech away from it to spare you some 
+damage and perhaps get guaranteed hits or a sidethrow opportunity. 
+Techrolling is also useful in okizeme to spare some damage. But if a skilled 
+opponent just waits at a distance, and you techroll, you won't be able to 
+block on time, since techrolls can be punished by many attacks if you don't 
+time them right or use them before the opponent attacks you.
+
+- The Tag Recovery:
+You can recover from the ground pressing 5 as you roll off screen to tag in 
+your partner. The tag recovery may be a very good way to avoid getting 
+okizeme, but smart players will just counter your teammate with a juggle or 
+whatever once he tags in. A good way to avoid that is to tag cancel (5~u/b) 
+before you roll off screen just to stay out of range via the tag recover, 
+and to maybe even fool the opponent as
+well.
+
+
+
+----------------------------------------------------------------------
+
+P.  COUNTERING
+
+
+Countering is something you'll get involved in a lot during your matches. 
+The word alone speaks for itself, a counterattack is an attack that hits the 
+opponent during their own attack, wether it's during the start-up or 
+recovery. A counter is usually done by fast attacks that interrupt slower 
+attacks, but not necessairely, it all depends on the way to time a move, and 
+at what distance. A good example is the WS+3 which is nearly uncounterable 
+from a small
+distance but easily counterable up close. If you counter the opponents 
+attack, your attack will most likely do a bit more damage, like the Mach 
+Punch. Some attacks, like the WS+3 , will have a different effect when it 
+counters, when some attacks hit normally on non-counterhit, they'll stun or 
+juggle when you do counter or knock down on counter like they normally don't 
+(standing 4's), just to give some examples, which gives countering a large 
+part in the incredible deepness in TTT. Some followups are guaranteed on CH 
+when they aren't with a normal hit, hell even some combo's are only possible 
+after a CH. There are two different ways to counter:
+
+
+=============
+Minor Counter
+=============
+
+A minor counter occurs when you counter the opponent during the recovery of 
+their attack, that means when you either block their attack or when their 
+attack whiffs. If the recovery of a certain attack is long, he'll be more 
+vulnerable for a minor counter than  with faster recovery. Usually there 
+won't be much difference in your attack when you minor counter as in a 
+normal hit except that your attack might to a little more damage. Minor 
+Counters occur a lot when the opponent is wide open after you've 
+successfully blocked or sidestepped their attack, for a free hit. Depending 
+on how fast or slow the recovery, you must use an attack with the proper 
+speed needed. Attacks with faster recovery have to be punished faster 
+attacks and attacks with long recovery can be punished with moved that come 
+out slower.
+
+
+=============
+Major Counter
+=============
+
+Major Counter (MC) occurs when you counter DURING the opponents move with 
+your own attack. This requires more anticipation than the Minor Counter, but 
+is a lot more rewarding. The most occurring major counter is interrupting 
+the opponents attack with fast pokes, but the major counter is also common 
+on a larger scale like with the WS+3. Most of the time you have to use 
+faster attacks than the opponent for a major counter, but sometimes it just 
+takes sheer timing and anticipation, to get a major counter out of moves 
+such as ws+3 and df+3, especially df+3, since the safest way to pull it is 
+during a Major Counter, since it'll go under high and a lot of mid attacks 
+to make that attack suitable for counterattacking purposes. Major Counter 
+will also occur if you counter a running opponent, crouch/rolldashing 
+opponent or a jumping opponent.
+
+
+Counterattacking is especially important for Bryan due to moves such as WS+3 
+and df+3, even f,f+2, uf+4, b+1 and df+2, since IHMO, Bryan is best played 
+off the counter. This means you have to wait until a chance to counter the 
+opponent and stay in advantage by being offensive from there on to play 
+Bryan to his full effectiveness. Off one counter, Bryan can take away a half 
+a lifebar on his own, so waiting for a good chance to counter is vital with 
+Bryan. Good ways to get a counterhit is to use block-retaliate tactics to 
+hope for a minor counter or maybe evasive tactics like sidestepping, 
+swaying, dashing and ducking, it's all up to you what's best. But you have 
+to mainly try to focus on the fact to try to counter your opponent, wether 
+it's a fast poke or powermove, to set your offense up with more ease.
+
+
+
+----------------------------------------------------------------------
+
+Q.  MIXING UP
+
+
+This section is a straight easy way how to mix-up your game, to stay
+unpredictable. If you use the same tactics over and over, that's asking to 
+get punished. So if you learn how to vary your game, you'll stay 
+predictable. In this section, I'll tell you which are important attacks to 
+mix up. These vary from attack string to dashing moves. Here are the 
+displays of certain features Bryan has suitable for mixups.
+
+================
+The String Mixup
+================
+
+Mix up:
+
+3,2,1,2_4
+1,2,1,2_4
+b+3,2,1,2_4
+1,2,3
+
+The most important thing you have to remember is to use these strings always 
+when you are in range. If you mix up the mid and low enders, the opponent 
+may get confused whether to block standing or blocking. Also whenever you 
+pull one of these strings, use the first two or three hits alone. If you mix 
+it up well, the opponent might expect to block the 4th hit hit as well, but 
+because you left the third hit out the following scenario's will happen:
+
+- The opponent ducks expecting to block the low ender. This is punishable 
+with an uf+4 or an b+1 since they're both overheads, or you can also follow 
+a 3,2,1 mixup or df+2.
+- The opponent stands expecting to block the mid ender. Because he blocks 
+standing he is vulnerable for a low level attack, like a df+3 or a simple 
+d+4 shin kick, or even a throw attempt if the opponent gets startled too 
+much.
+
+But both these scenario's require anticipation from your side as well, but 
+once you know your opponent, the advantage is on your side even if you have 
+to put up a guessing game. Also if you mix the 1,2,1-mixups up with the 
+1,2,3 you might catch the opponent off guard, since they might expect to 
+block the 3rd hit and eat the shinkick instead. Same thing vice versa: If 
+the opponent expects a 1,2,3, they might get caught in the the 3rd hit of 
+the 1,2,1,2_4 while they expect to crouchblock the shinkick.
+
+
+=====================
+WS and Rolldash-mixup
+=====================
+
+- Mix up:
+
+QCF_WS+1
+QCF_WS+2(~f+2)
+QCF_WS+3
+QCF_WS+4
+FC,df,d,DF+1+2
+FC+4
+
+
+Very important is to mix up all of Bryans mixups of the Rolldash and off the 
+crouch. You have to try and use all mixups evenly divided, since they are 
+all useful, but mixing them up is important to add versatility. Use the 
+qcf-mixup in longer distance and the ws-mixups at shorter distance. 
+Sometimes if you do a rolldash alone, the opponent will expect to counter or 
+block, so that may confuse them, you can always buffer the rolldash into a 
+C.O.M to catch them if they expect to block a QCF+3 or whatever, it works 
+well to mix ups your QCF moves with your throws. Another, more reliable 
+tactics concerning the WS-mixups involves the d+1 lowjab, which is of course 
+a well known setup for a ws+3 or ws+1. If the d+1 is blocked, the 
+WS-followup is most likely blocked which makes it great for the following 
+scenario's:
+
+- After using the d+1 to set up a ws+1 everytime, try to mix up with the 
+C.O.M throw, the opponent expects to block the ws+1 and gets caught in the 
+throw instead. Same thing vice versa: If you try to do buffer d+1 into C.O.M 
+everytime, the opponent will try to escape the throw but gets juggled by a 
+ws+1 instead.
+- Same thing here but only to follow with a fast FC+4 kick. If you follow 
+ws+1 everytime after d+1 and get blocked, try to follow a simple lowhitting
+FC+4 kick after the d+1. Most of the time this will hit. If you mix up
+d+1->ws+1 and d+1->FC+4 with much versatility as possible, the opponent will 
+have trouble anticipating blocking crouching or standing and is forced in a 
+guessing game, since he can either be juggled or hit. This tactic is VERY 
+RECOMMENDABLE, and often works better than the C.O.M mixup, but if you use 
+all three followups evenly, you'll add even more confusion.
+
+
+=================
+The Stairs Tactic
+=================
+
+Use:
+Backdash into SS-> f+4
+Backdash into SS-> instant WS+3
+
+The stairs tactic is a method based on movement to anticipate counterhits 
+easier against pitbull styled players. If you time b,b->SS right during the 
+move execution, you will be totally safe and the opponent is left vulnerable 
+for a CH. I’ll explain it thru an example:
+
+Bruce starts up a 1,2,1,4 string, you dash out of range cancelling into a 
+SS, Bruce continues his string and whiffs start-up remaining vulnerable for 
+a f+4 counter.
+
+The stairs tactic is best at MID LEVEL range against players that keep 
+staying in your face. It’s best against attacks that don’t track well with 
+your SS and don’t reach dashing distance. The f+4 is perfect for this tactic 
+because it reaches from a safe distance and has guaranteed followups on MC. 
+The if you master the instant ws execution (later in this FAQ), the ws+3 is 
+better from a shorter distance but has the speed to serve well as a CH 
+attack, especially due to the awesome followups after the stun. Note that 
+the Stairs tactic will get you killed against turtling players, it’s only 
+good against overly aggressive opponents.
+
+
+
+
+======================
+Beginning of the round
+======================
+
+Players are often speculated by one question: "Once the announcer says
+"FIGHT" what should be my first move?". Well, the most important thing you 
+have to remember in this case is NOT to do the same thing everytime the 
+rounds starts, that'll add only to your predictability, some good players 
+will look at your hands before the round starts to see what buttons you have 
+ready. This is another form of mixing up that's more important than some may 
+imagine, since if you are predictable once the round starts it may prove 
+costly in the rest of the match. Here are some moves with Bryan you can do 
+once the round starts, and you will have to mix up:
+
+- Standing 1 or 2: This is a pretty safe way to start the round, overly 
+offensive players (pitbull style) who like to stay in your face will usually 
+run into the jab. But if they just stand there doing nothing, your jab will 
+whiff, and you'll get EWGF-ed or whatever. I usually press f+1 or f+2 with 
+Bryan to give the jabs a forward momentum to make them reach.
+
+- Backdash: Okay it's no attack, but it's the safest way to start the round 
+with a backdash, just in case the opponent start out with a hopkick or 
+whatever, you get out of range, and have the opportunity for an early 
+counter, if they don't attack you are still in no danger whatsoever.
+
+- Stay on guard: Also pretty safe, but if you get predictible with this 
+opponents will rush in with a throw or try a low attack. Still stying on 
+guard is never a bad idea, if the opponent starts with a hopkick or 
+whatever, for an early counter.
+- d+4: Great option for those who like to stay on guard, a fast lowattack 
+will most likely hit them, wether they try to rush in or just stay guarded.
+- f+4: A great option overall, it has both speed and range and knocks down 
+on counter, allowing you to follow some more damage with f,f+2. If you use 
+this to start the round now and then the advantage will start at your 
+advantage more times than vice versa. Still if the opponent ducks you are in 
+trouble.
+
+- Ducking: Only useful when you know the opponent will start with a standing 
+jab, or when a Jin player starts the round with a (E)WGF everytime. Still 
+your are pretty vulnerable if the opponent forsees this and might end up 
+countered.
+
+- df+2: Excellent option, not only does it have range and sets up some good 
+poking tactics, it also hits mid. This is the safest attack to use when the 
+round starts unless you are predictable with it. People that expect this 
+will backdash away or use fast jabs as a counter. Other than that, this 
+option is awesome and should be used after every 5 or so rounds while mixed 
+up with other options.
+
+- 3,2,1,4: Why not? If the first kick gets blocked the opponent still cannot 
+counter the rest of the string, and if you connect, you start the round with 
+some pretty good damage combined.
+
+- 1+2: This is actually a very good option if the opponent advances once the 
+round starts, this has enough evasive priority to set up a good damage 
+counter once the round starts
+
+- 1~4: Also very excellent, the runner up for the df+2, even if the opponent 
+stays out of range of the first hit the second will always reach. Great 
+option with good speed, range and set-up ability, the only danger here is a 
+ducking opponent and it’s bad recovery if an opponent backdashes out range.
+
+- f+1+4: Very recommended option, some might find this strange but do the 
+unblockable once the rounds begins is very effective. Because Bryan leans 
+back to charge, he might avoid the opponents attempt to hit you once the 
+round starts and get them with the unblockable, for a good headstart in 
+damage, some might hesitate in panic when they see you wind up for the 
+unblockable, and get hit unintantionally. Very useful indeed.
+
+
+=============
+The 1~4 mixup
+=============
+
+- Mix up:
+1~4
+1~4->f+1+4
+1~4->d+4
+1~4,3(3)
+1~4>2,1,2_4
+1~4>2>4
+
+This has been proven to be a very essential mix-up, due to a number of
+reasons. The 1~4 sets up very well, puts you in range and has numberous 
+string followup. If you connect a 1~4 you can do a number of things.
+
+
+- Single 1~4. If you mix up a single 1~4 with all the other followups
+listed is a good enough wake up game by itself. If you utilze this mixup 
+correctly, the opponent will expect either:
+
+f+1+4. If the opponent expects the unblockable once you connect 1~4 the 
+opponent will usually try to counter it, but if the unlockable doesn't come 
+out you can easily punish the opponents attempt to CH you.
+
+d+4. The good opponent will usually try and lowparry you if you try a d+4 
+often after 1~4, but if you try a single 1~4 for a change, the opponent will 
+whiff their lowparry attempt leaving them open for a b+1 or 3,2,1-string.
+
+1~4>2,4_1,2_4. The opponent will attempt to duck or counter you when they 
+expect this string mixup, but if you initiate the 1~4 alone, you can counter 
+their crouch with a b+1 or whetever, or punish them with f,f+2.
+
+
+- 1~4->f+1+4. I say it once again, buffering 1~4 into f+1+4 is very useful 
+if mixed up with the other followups after 1~4:
+
+d+4. If the opponent expects d+4 after 1~4, they will crouchblock or try to 
+lowparry you. In both cases, doing the unblockable instead will catch the 
+opponent when they crouch.
+
+1~4,3,3. If you mix the 1~4,3,3 with 1~4->f+1+4, this is very useful, since 
+the opponent will block standing after the second hit and will get caught in 
+the unblockable instead.
+
+1~4>2,4_1,2_4. The opponent will either block standing, counter with a jab 
+or duck this mixup. If you do the f+1+4 unblockable instead after 1~4, the 
+opponent will get hit in all cases,since it avoids all standing jabs, and 
+hits a crouching opponent. Still a skilled player can find the reaction on 
+time to counter you in this case, but still not a bad mixup nonetheless.
+
+
+- 1~4,3(3). This string is definately not a low risk move, it's only useful 
+as a mixup or move to set-up a lowjab. But if you mix this attack up with 
+the previous listed, this attack can be utilized with great effect if you 
+mix it up with the 1~4>2 mixup. The opponent tends to duck the 2, but if you 
+do 1~4,3,3 instead, the third hit of this attack hits mid, thus countering 
+the crouch. This is also useful if you mixup 1~4,3,3 with 1~4->d+4. Your 
+opponent will block the third hit standing. If you do the shinkick instead, 
+you'll connect it pretty often. You can also try 1~4,3->d+4 as a custom 
+string. If the third hit of 1~4,3,3 is blocked standing, players will 
+parry/reverse the last kick pretty often, and if you do a d+4 instead, you 
+can prevent this, plus you'll eat away some damage as well.
+
+- 1~4>2,4_1,2_4. These strings are best used in a mix-up with a SINGLE 1~4. 
+If you connect 1~4 a couple of times, the opponent will rush in eventually, 
+and if you delay the Doom Knucke mixups the opponent may well run right into 
+some big CH damage. Repeat this pattern on your opponent, and he'll never 
+have the guts to try and counterattack once you connect 1~4, they'll usually 
+back away a bit, and if you do buffer your 1~4 into f+1+4 the opponent will 
+get caught in the unblockable very often.This is one of the mixups that make 
+Bryan such a dangerous character. If you use this mixup the right way, the 
+opponent will have a hard time beating you and you can declare doomsday on 
+him regardless what he does,  they'll usually duck a lot hoping to duck a 
+1~4 attempt (from my experience) leaving them open for a b+1 or whatever 
+overhead.
+
+
+
+Mixing up is very important since predictability is always a downfall
+against good players. 9 times out of 10 the player who varies his game the 
+best wins. Do not only mix up the examples above, you must also mix up 
+Bryans forward dash moves(f,f+2, f,f+3 and f,f+4) throws, jugglestarters 
+(ws+1, QCB+2, b+1, uf,N+4, uf+4, ws+2~f+2 and df+3), and of course his best 
+poking based attacks (see POKING). Tekken is a game with lots of deepness 
+and the main deal is to use that deepness to your advantage. Besides, who 
+wants to get a "Chicken!" Icon? Your honor as a gamer is at stake if you 
+don't vary your game (still, the "Chicken!" is not entirely accurate in some 
+cases if you ask me).
+
+Mixing up is one of the most important, if not the most important thing you 
+have to learn if you want an organised offense, and Bryan has one of the 
+best mixups in the game.
+
+
+----------------------------------------------------------------------
+
+
+R. THE INSTANT WS-EXECUTION
+
+
+The reason why I put up this section is that Bryan is much more powerful if 
+the instant WS-Execution is added to his arsenal. The instant ws-execution 
+is done by pressing d~df, instead of rising from the crouch. For example the 
+WS+3 can be instantly executed off standing position by pressing d~df+3. The 
+instant ws-method has a far quicker execution than off the rolldash or 
+crouch
+
+A VERY important thing to remember is that the instant ws-execution of the 
+WS+3 [->d~df+3] will give you the largest chance to connect the CH stun in 
+high level play
+
+
+The other cases will leave you interrupted, thrown or most likely blocked 
+(that's not a problem really but I'm not finished yet...). The best way to 
+utilize the instant WS+3 is offensively, and mixed up with the 
+otherexecution types (off the rolldash or crouch).
+
+This is best suited if you have a pitbull styled play (like myself). IHMO, 
+the instant ws-execution is veryimportant for Bryans offense, if you can 
+instantly execute the ws-moves Bryans has from standing position, he becomes 
+even more powerful. Because the execution is faster, the chance to get 
+countered minimizes as well, and the chance to get a counterhit increases, 
+and with the ws+3 especially, this proves a great advantage for Bryan.
+
+I seriously believe that Bryans Rising Knee is the BEST MOVE IN THE GAME 
+while instantly ws-executed. And the instant WS-execution not only 
+strengthens Bryans WS+3 in execution, but also in followups. If you land the 
+CH stun you can instantly ws-execute the ws+1 (d~df+1) and ws+2~f+2 
+(d~df+2,f+2) for some classy combo’s that are only possible due to the 
+ws-execution. And even if you instantly execute ws attack from standing 
+position, you will still avoid high attacks during the mid frames.
+
+
+I'd say you should master the instant WS-execution enough so you'll get it 
+around 95%, to fully utilize his offensive or defensive game. Especially if 
+you mix up the rolldash and WS-versions you have a powerfull mixup and use 
+the same moves for different purposes. The ws-execution is an advanced 
+tactic that should be practiced a lot if you want to be consistent with it, 
+but if you do, it can be used with great effect. Especially if you know how 
+to utilize the instant ws+3 correctly (be familiar with it’s range and speed 
+as well) it really makes a difference.
+
+
+---------------------------------------------------------------------------
+
+
+
+
+S.  ASK THE EXPERTS
+
+
+Well, finally welcome to the "Ask the experts" section. Here, you'll see the 
+knowledge displayed of various different Tekken players, with their own 
+great idea's and knowledge on how to play Bryan. The reason why I've come up 
+with this section is because there are so many different players in the 
+world and that means lots of idea's on how to play the game they all love. 
+That's why the Tekken Community has become so large: Sharing knowledge. I 
+feel, no matter how good or bad you are, you can always learn idea's from 
+other players around the world as well, so you'll gain a bit more knowledge 
+each day you interact with them, hell, I learn new stuff from gamers each 
+day. It's not so hard when you think about it, we all play Tekken, we all 
+know Tekken and we all love Tekken, and because every Tekken player in the
+world has his own idea's wether they are young or old, black, white, or 
+yellow,  and by sharing them with other gamers, we spread new knowledge, new 
+idea's in other words, we interact, and THAT's what forms the Tekken 
+community as we see it. Because all players have different opinions and 
+different playstyles, we can learn what they find effective, involving a 
+whole new level idea's and strategies. As persons and as gamers, we all form 
+the Tekken Community, not one person or some kind of regulation, because of 
+the different ways we play the game and by providing our knowledge to expose 
+them for a whole newer generation of players. Because we share knowledge 
+with each others all over the globe, we wouldn't have as much insight in the 
+game of Tekken as we have now, because all of the great knowledge that has 
+been spread through ever since the first Tekken was released. But enough of 
+my speech now...
+
+All of the idea's and knowledge displayed in this section were given by 
+courtesy from the contributers. All the knowledge here are still official 
+property of Birch, Reverend C, KOFTEKKEN, E-MAN, Devil Lee, Konqrr and 
+BioXeed. It is NOT allowed to use these submitions for your own intentions 
+without asking permission to the contributors. I'll keep a close eye on the 
+situation, and if I detect any way of plagiarism or the usual frauding, I 
+will be sure to shut you down representing any of the players who have 
+contributed. Meanwhile I like to thank everyone for submitting to "Ask the 
+Experts", by providing their trust and their wisdom in the game of Tekken. 
+You will all be credited bigtime in the Thanks section, without you guys, 
+this section would never be here.
+
+
+Birch (birch@anet.co.nz):
+"1,4,3 is a good move with nice speed. I also love Bryan's df+2. It links 
+well to d+1, c.o.m. or ws+4,1. or just df+2, 1,2,1,2(or 4)
+the qcb+2 ain't his best juggle starter but you can get off 1,4, f,f+2 in T3 
+(thanx to the cousin Cypress for that), which is a hard but hefty juggle. 
+Bryan's basic 3 and 4 kick are also great stand alone poking moves. The 4 is 
+fast (though high) and has good reach because of his big legs. The 3 comes 
+out fast and also hits mid...great.the f+3 knocks down on hit also."
+
+
+Reverend C (reverend_c@yahoo.com):
+"If you're not in jab range.  You can either get in jab range or stay
+out of throw range as Brian has many fast attack that will knock down.  I 
+try to keep my eye on my opponent's hand, and if I think a punch is coming, 
+I use Brian's punch parry (which is Brian's best new move IMHO).  After 
+parrying right punch, you can get close enough to get Brian into FC position 
+right in their face.  Parrying left punch causes a quick knock down.  If 
+your opponent likes to wiff 1,2 jabs right in your face, give them df+3 
+juggling sweep.  If you block a long recover attack f+1+2 elbows or really 
+quick QCT+1 uppercut will both work.  Another important weapon for Brian is 
+the QCB+2 back sway uppercut, but sure it will connect though.  Like close 
+range, WS+3 (or QCT+3) is the most important weapon for Brian.  To use this 
+outside of throw range effectively, you'll have to learn how to do WS+3 
+REALLY fast.  Once you can do that, WS+3 is your best friend.  Now, don't 
+gotrading this with Wind God Fist or Deathfist, die, and call me a retard 
+because you should never do that unless you KNOW you'll counter.   But it's 
+not a bad idea to trade hits with your opponent from long distance if they 
+are coming in with jabs and small attacks that lacks range, do little 
+damage, and will not put you in seriously bad situation if you get hit. 
+Think about it, once WS+3 is executed it'll beat a jab as it has much more 
+range, the damage is very rewarding even if your opponent escape the stun. 
+On the other hand, if you're hit by 1...  2 is garanteed...  big deal...... 
+Now don't do this against Julia's 1~1,1, it's not worth it."
+
+
+KOFTEKKEN (kyovsiori@yahoo.com) said:
+"mm, I wanted to share something about Bryan. This is something unique about 
+Bryan besides other characters..... a. 1 jab It's 10 frame speed(belongs to 
+slow jab category) however, his jab gives you "3 frame" advantage....hehe 
+remember that he is an android??!?! b. 1,"2"
+Literally this is one of his best moves...Many ppl posted good strategy 
+above. Let me share the craziness of his 1,2 jabs. Well, most of characters 
+who have 1,2 jab move are guaranteed after first jab. However, ONLY Bryan 
+causes the longest "STUN"(so called) after that "2" jab in 1,2 string.... 
+Try those strings for poke than make mix ups... 1. uninterruptable 
+pokings... condition: 1,2 jabs hit(it's easy to see whether move connects or 
+not) a. 1,2; df+2(wow, literally the best poking move. Because it's 
+UNINTERUPTABLE and UNDUCKABLE...) b. 1,2; f,f+2 ( wow, mech breaker!! 
+uninterruptable!!!) c. 1,2; b+2,1,2_4 or b+2,4 (wow, it's uninterruptable!! 
+that's crazy... you want to be fancy against mashers?? Just land 1,2 jabs 
+then do b+2 starter...they will more likely get CH... you know what to do 
+then..hehe TAUNT comboes!!! =) *basically his right jab in 1,2 string only 
+makes some long stun to do some crazy moves..i think there could be possible 
+free hits..* (but only thing is this info belongs to Tkn 3 so it may not 
+work in TTT =P ) b. well ...obviously everyone knows how to mix his 1,2,3 
+strings...so I don't think I need to mention... however, I think his b+1 is 
+cool looking great juggle starter.. a. 1,2; b+1 (if you suspect opp. to 
+duck) b. 1,2; QCF+1(if you want to be safe) c. you know options..hehe"
+
+E-MAN (tekkenkid@yahoo.com):
+"Here's a very effective custom string with Bryan (simple but nasty!): 1~4, 
+D+1, Chains of Misery. If you have mastered buffering C.O.M., then you're in 
+business. The trick is to buffer C.O.M. during the animation of the D+1 
+(could also be fc+1) so it comes out immediately after the crouch jab. If 
+you're opponent starts to anticipate this move, you could always replace the 
+C.O.M. with ws+1 for a free juggle.Another effective move for Bryan is his 
+d+4 low shin kick. It almostalways hits grounded opponents for extra damage, 
+and it's good for poking."
+
+
+Reverend C (reverend_c@yahoo.com) said:
+"All of my strategies with Brian involves WS+3 in some way.  I try to
+either setup WS+3 for counter hit or try to trick someone into blocking high 
+and throw him.  To get WS+3 to connect, Brian will have to stay around throw 
+range where 1,2 jab won't wiff.  From there, either do 1,2 jab combo or d+1 
+jab to setup the next move.  Low jab comes out quicker but 1,2 jabs give you 
+more advantage when they are blocked.  If 1,2, jabs are blocked, I usually 
+go for a throw, a low kick, or a d+1 since you'll probably be close enough 
+to throw and d+1 will interrupt anything if 1,2 jabs are blocked leaving 
+Brian in FC position and completely safe.  Once Bryan is in FC position 
+within throw range, Bryan has the option to 1) throw 2) WS+3 if you can 
+anticipate a counter 3) FC+4 low kick, or 4) WS+1.  Your choice will depend 
+on your opponent.  Most people (average players) aren't patient enough to 
+think about what's going on and attacks away, and I always use WS+3 against 
+them, chance is it'll counter and stun, and depends on what I feel like I'll 
+either do a quick WS+1, b+1, or UF,n+4 juggle.  Against good players, WS+3 
+will rarely counters, but you can always throw in a low kick for quick 
+damage.  I never use low kick more than once or twice because people catch 
+on, and start blocking or parrying it.  If I'm pretty sure my opponent will 
+duck or parry, I do WS+1 uppercut, and if I'm sure the opponent will remain 
+standing, I'll do either basic throw or Chain of Misery (if the joystick is 
+good).  It sounds pretty simple, but this is the most important thing about 
+playing Brian.  The problem about these options are, if WS+3 is blocked, you 
+can do a quick d+1 and keep Brian fairly safe from retaliation, but good 
+players will throw you after blocking WS+3.  WS+1 leaves Brian wide open if 
+it fail to juggle.  Throws can be escape, or worse, ducked.  If you wiff a 
+throw... you'll probably be juggled.  d+4 will be parried if used too often. 
+FC position in close range is whereBrian is most deadly and the difference 
+between good Brian players and average Brian players is the choice you make 
+when you're in that position."
+
+
+KOFTEKKEN (kyovsiori@yahoo.com) said:
+"Wake ups.. My best option is WS_QCF+3 (knee) 'caz it could catch rolling 
+opp. and it has great priority to counter wake up attacks. (leading to CH 
+juggles..) Also recovery of the move is fast enough to throw your second 
+option like d+1 afterward(if it whiffs on lying down opp.) to counter back 
+again their wake up attacks... Oh, and about uf+3 kick, I like that move 
+too.. You guys probably know it could be used in juggle..but just in case.. 
+-QCF_WS+3 CH; uf+3; 1; ff+2     Hmm, lastly, his uf+4 got slower....I guess 
+his new b+1 move is pretty ok..with some what more range and okay speed."
+
+Devil Lee (ChrisG0000@aol.com) said:
+"Here are a few tips I suggest. 1.) The Mach Punch comes out fast, so use it 
+to interrupt other people's attacks, but don't overuse it because if they 
+recover the opponent can duck and crush you with a WS attack (Jin, Kazuya, 
+Bryan, etc) 2.) Snake Edge on clean/counter hit will pop your opponent up 
+head over heels.  A good follow up is a WS+3 knee attack. 3.)The WS+3 has 
+good priority, and does stun your opponent a little bit. 4.)Best Costume: 
+Press LK! The black shirt is just like his FMV in Tekken 3 ;) 5.)His 
+1,4,2,1,2 string hits mainly high, try not to use it too often. 6.)b+2 can 
+be linked to 1,2 (all high) 1,4 (high, mid) or you can skip the punch and go 
+straight into the kick, 4. In a nutshell, b+2,1,2, b+2,1,4, b+2,4 7.) A very 
+easy juggle to perform after the QCF+1 is the b+2,1,4. 8.) Fisherman's
+Slam(QCF+2) and the follow up (F+2) does bounce them up, go for the Triple 
+Spinning Roundhouses( f+4,3,4).  Don't start the Tri. Spinning Roundhouses 
+too soon, or you won't get all the kicks in(unless your opponent is a big 
+character like a Jack). 9.) Mach Punch can be used after Bryan's Parry, 
+b+1+2, guaranteed( I don't know the move though, do you just press 2?)10.)  
+Use his Sledgehammer, 1+2, on all those obvious high attacks.  It has good 
+priority."
+
+Konqrr (kgcampb@aros.net) said:
+"Bryan has a few great mixups with his d+1+3_2+4 Low Parry...much like
+Law. Just hold down when you do the parry and you can either do COM or
+WR+1_2_3_4, whatever you want. This is very effective.Another tactic I use 
+is to sidestep then either do QCF moves or QCB+2. Bryan can be very lethal 
+in this situation as these movements come out instantly."
+
+BioXeed said:
+"firstly anyone should learn to do fast WS moves.. comes in _very_ handy to 
+pull a WS almost as fast as say an ewgf..wrt to TTT - his b+1 is a very 
+useful launcher.. just don't want to _ever_miss with it..  if it's blocked 
+the recovery is not so bad.. but when it misses the revcoery is bad enough 
+for someone to connect a jugglestarter...his d_d/b+2 is invaluable...  
+excellent juggle filler... not as useful by itself but good duck high 
+attacks (but still not as useful as 1+2) with the new low block stagger 
+missing or having his d/f+3 block is as close to suicide as you'll get 
+without actually sticking a sword thourgh your guts...  against anyone with 
+WS or reasonably fast moves you will definately cop a hiding for whiffing 
+it... (e.g against another bryan you will either get juggled or you can get 
+hit with a mach breaker) that being said if it connects the damage as a 
+stand alone move is pretty good and it's possible to juggle from.. so there 
+you go..unfortunately because of tech-tagging the stun from his ws+3 and 
+ss+1~2 aren't nearly as useful as from t3.. but damn good notheless..the 
+addition of a punch parry was very nice... useful against predicatable 
+opponents.. (and even some not so predicatable opponents) another useful 
+change is his resistance to t.ogre flame..  will make a t.ogre rue the fact 
+of trying to set bryan alight..also gameplay wise (aside from being able to 
+do lightning WS) being able to do quick C.O.M. and dash buffered C.O.M is a 
+useful skill."
+
+
+- Side note to all who have contributed: Sorry that I had to modify the 
+layout of some of your submitions, but otherwise the rest of the FAQ 
+wouldn't fit in that darn browser. Hopefully you can understand this, but 
+still I apologise for this small matter.
+- I hope you are satisfied with the result of this section, if you're not 
+and you'd like to leave out or correct something in your submition, please 
+contact me at renickironfist@hotmail.com, and I see what I can do to modify 
+by your request.
+
+
+
+----------------------------------------------------------------------
+
+
+
+T.  CONCLUSION
+
+
+The best reason why to pick Bryan is because he has got so many strengths, 
+his mixups, his powermoves, parries, combo and custom string ability. He has 
+more than enough to make him one of the stronger character, you don't have 
+to learn stance changing and tons of moves while playing Bryan. His ability 
+to do more than 50points of damage off the counter makes him a very deadly 
+character, moves like the Mach Punch, qcf+3 and df+3 prove that. His only 
+weakness is his lack of low attacks, so he has to heavily rely on his shin 
+kicks and df+3 at times. As for a learning curve, Bryan is not an easy
+character to use for beginners like Law or Paul, but much easier than
+learning a Lei or a Hwoarang. Bryan has the ability to take an opponent up 
+close, or from a distance, and he is one of those rare characters who can 
+adapt in any sort of playstyle, if you are forced to defend his lowparry and 
+punchreversal is more than enough to discourage your opponent to modify into 
+an offense he isn't use to, and because of his string mixups and fantastic 
+custom string abilities, he's a hard character to defend against. Bryan can 
+be suitable for you regardless what style you play. If you have the patience 
+to learn to play Bryan he can take on against any character in Tekken, and 
+if played in the right hands he won't go down easily regardless what 
+character you're up against.
+
+
+
+
+----------------------------------------------------------------------
+
+U.  SITES
+
+I'll credit the following sites for their hard work:
+
+http://salute.consolenation.com/
+
+One of the best sites on Tekken. I credit drumdude for the fantastic
+work on the site. Here you'll find many great info on all editions to the 
+Tekken-series. Also this site features the best forum on Tekken out there. I 
+really must respect my graditude, since this is the only real place to talk 
+with fellow players in harmony. A lot of useful stuff is posted there every 
+week. Good job drumdude, and thanks to everyone who contributed great info 
+there.
+
+
+http://www.tekken.net/zaibatsu/
+
+"The non-stop source for everything Tekken-related". If you're
+beginner, intermediate or expert, who cares, this is the place to go if you 
+like Tekken. They have great updates, moves sections, FAQs, combo's sections 
+and best of all, Castel's movies are the bomb. It's a must to see those 
+movies if you visit, no matter what it takes. The staff keep the Tekken 
+Community informed on their tippy-toes with hot news and knowledge. They 
+deserve all the credit they can get with their hard work. Recently they've 
+opened a brand new message forum, and y'know what, it's already full with 
+discussions and interactions This site is sooper, ain't nothin' to it.
+
+
+http://www.geocities.com/TimesSquare/Bridge/2700/
+
+Inside Tekken, Abrar's cool new site focused on TTT. You'll find nice
+updates there, good movies and neat FAQs. Also check out the great (and not 
+to mention ORIGINAL) articles section, which allows you to post an article 
+about a certain issue on Tekken you can share with the visitors. It's kinda 
+like an editorial, but better. check out the cool articles by ETP and 
+mIrAge. Also there's a cool forum there, which I also visit from time to 
+time. Check it out!
+
+
+http://www.tekkentagtournament.com/
+
+Official site of TTT. You'll find some great updates and game-info
+here. Check out the movies as well. There's also a message board for some 
+"in-depth discussions".
+
+
+http://www.fighters.net/
+
+I'd be stoopid if I forgot ol' fighters.net. Check out their great
+stuff on TTT, with awesome movies on the upcoming console version, which 
+have to be seen to be believed. Their FAQ archives are excellent as well as 
+the updates that keeps any fightng game-freak informed to the max. The hard 
+work of the staff (tigeraid, Faceless, Three-11, Mr.MG) has resulted one of 
+the most well organised sites I know. There forum is also a great place to 
+share your knowledge with other gamerz around the globe. This site deserves 
+big props, tell me about it.
+
+
+http://www.gamefaqs.com/
+
+This is the site where you can find the best FAQ archives on videogames on 
+the web. Here you'll find all the info you need on whatever videogame you 
+like. If you're stuck on a game, if you want some codes or want to submit a 
+FAQ or Review, GameFAQs is your place! GameFAQs rules, they are the most 
+popular in FAQ archives on computer games around the web! They have the most 
+reliable methods on contributing FAQs, simply because of the fact that they 
+won't take ripoffs of other FAQs. I'm giving big props to GameFAQs!
+
+
+http://www.geocities.com/tekkenmanila/
+
+Check out this new great site hosted by E-MAN, one of the many loyal
+Tekkenplayers who shares knowledge at the Inside tekken and Tekken Salute 
+forums. This site will be focussed on the Fillipino Tekken scene, it 
+features a great movie on chrouchbuffering the Chains of
+Misery(FC,df,d,df+1+2) with Bryan, with a sadistically cool sountrack from 
+The Prodigy. Check it out yourself, this will be one of the best unofficial 
+tekkensites of the future, I tell ya!
+
+
+http://www.arcadescene.co.uk/
+
+This site is webmastered by Mr.MG one of the staff members of fighters.net, 
+which is about the arcades in London, and the activities and so on. You have 
+some good info here, and also the results from the Tekken London Showdown 
+where some well-known players around Europe have participated in, including 
+myself. I'll give special credit too him, for his hard work to keep us 
+gamers happy, and his generosity.
+
+
+http://www.counterhit.com/
+
+This is Sauer Krauts site, and one of the best TTT info sources around. 
+Great general and advanced tactics, tons of combo’s and several great tricks 
+of the trade. Very recommended.
+
+----------------------------------------------------------------------
+
+V.  CREDITS
+
+
+As my FAQ is thru I want to thank the following individuals for their
+support/help/knowledge:
+
+- Reverend C: For his combo's, his info and great technical Tekken knowledge 
+he has giving me the last couple of weeks, and some fun discussions. Also 
+check out his awesome FAQs on Kazuya, Nina, Anna and Heihachi. Also, I'm 
+currenty writing a comprehensive character guide with him, so keep your eyes 
+open for that one. Huge credits to him.
+
+- Abrar, for writing that kickass Kuma guide and for his awesome knowledge 
+and kindness.
+
+- Yoshiking, Brennan Swan, Aviax, The Chef (rehan1@hotmail.com) and Kevin 
+Kitagawa (aka Polymer) , for some useful tips on how to improve my guide.
+
+- Dong Lee (KOFTEKKEN) and jjt for their great Tekkniques guide at Tekken 
+Zaibatsu.
+
+- The contributers of the "Ask the Experts" section, KOFTEKKEN, Konqrr
+E-MAN, Reverend C, BioXeed, Devil Lee and Birch (check out his Kunimitsu 
+FAQ) for submitting their great knowledge, to bring it to a larger scale of 
+players. All you guys deserve huge credits, and I have to thank you all for 
+getting the info out there, that other players around the globe can 
+definately use. It's all great, thanks once again.
+
+- Castel and the rest of the Tekken Zaibatsu staff for their
+awesome knowledge on Tekken and doing so much for the Tekken Community, and 
+of course their kickass movies. You guys rule, no doubt about that!
+
+- Fighters.net for their kewl TTT section and awesome movies.
+
+- Catlord for his savage-ass FAQ on TTT. Keep up the work!
+
+- Rehan (aka The Chef), Harry, Martin, Wing, Declan (Decschief), Anthony 
+(aka starant, Devilman, grayfox), Amrej, Mark (Mr.MG), Ryan Hart, Claka, 
+Templar (KRY) and others for being awesome players in the London Tourny, you 
+all have mad skillz, and you all proved to be some of the best in Europe. I 
+thought was great fun competing with you guys, we ought to play again 
+someday.
+
+- Gokmen, Damsko Kazuya, King the 2nd and The Amature, for being great
+fellow players from Holland, all of you guys have great skillz, I hope to 
+play you guys some more soon, since we only live 45minutes distance from 
+each other, so we oughtta meet up more.
+
+- Red King (check out his Jin FAQ), Simone and Sandro, for being awesome 
+competition from Italy. You guys have amazing skills, and I'm glad to have 
+competed with you all in the London Tournament. Hope to see ya guys in the 
+June 2000 tourny.
+
+- Devil x Hollywood (check out his Bruce FAQ), QDogg, Gargoyle Sox, 7th 
+Pixel, Notti, shauno, Joshic, SuperT, et3rustee, jjt mIrAge, drumdude, 
+Cinder, my_3rd_eye, Faceless, kishmomo, Thunder Fist, Ug The Caveman, 
+JoeKing, MC and The_Chink (sorry if I forgot someone, but to make it short, 
+thanks to everyone who I've interacted with in the past) for their awesome 
+Tekken-knowledge shared many times over around the web, without you guys 
+Tekken would never be as alive as now.
+
+- Namco, for making one of the best game-series on the friggin' market. You 
+fella's are tha bomb!
+
+- KoRn and Limp Bizkit, for making awesome music to listen to when and where 
+ever I play Tekken, to keep my blood pumped with adrenaline. I swear the 
+god, it's been proven you play better listening to your fav records than 
+when you are playing in silence. Besides, the louder the music, the less you 
+are distracted my the opponents trash talking phrases, lol....Look for the 
+ads.....I just wish most Arcades had the balls to play something else than 
+just that Dance or Trance or whatever that music's called...
+
+- Myself, for writing this guide (I KNEW I forgot someone...)
+
+- And finally, you, the one currently reading this, thanks for taking a look 
+at my FAQ, I hope you liked it. If you have any comments on it,
+corrections or your own idea's e-mail me at renickironfist@hotmail.com to 
+contact me. Everyone's opinion means a lot to me ^_^
+
+
+"While yer travlin' round tha world,
+Jody's home with your best girl
+Next time I get a three day pass
+I'm gonna C.O.M ol' Jody's *peep*"
+
+- Renick.
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+The End.
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+

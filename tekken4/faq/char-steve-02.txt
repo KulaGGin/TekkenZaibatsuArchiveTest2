@@ -1,0 +1,727 @@
+*** Yet Another Steve Fox Guide ***
+Version 2.0
+Author: Moldy (creature@seductive.com)
+Created: May 2002
+Latest Update: September 2002
+
+
+
+Disclaimer: I, the author, do not claim to have conceptualized all the
+strategies listed in
+this guide. Some are original, while some were learned from friends, some
+were read from other guides, even some were copied from watching other
+people play (why that bastard...) I will, though, do my best to give credit
+to those people. If any of you out there have thought of the same
+strategies or something similar, then my thanks to you too.
+   This document may not in any way be published for profit without
+permission from the author. 
+
+
+About Me:   I'm 18, from the Philippines.  I've been playing Tekken since Tekken 
+		3, but stopped playing before TTT came out, and have come out of 	
+		hibernation last year with the coming of Tekken 4. I regularly use 
+		Steve, Marduk, and Paul. (Combot for a little fun)
+
+
+
+
+***Move List: Go get yourself a standard Catlord Tekken 4 Movelist from
+Catlord's site or from
+   TekkenZaibatsu (Where you'll probably find this guide)
+
+
+i. Version History
+1.0	Started 
+1.1 Added hit properties, fixed many errors on moves and strats, revised VS char 
+strats
+2.0 MAJOR OVERHAUL! Removed lots of pointless paragraphs and false strats, 
+revised anti-character strats, removed original move analysis, changed into 
+Advanced FAQ.
+
+
+Table of Contents
+
+I	Why Steve?
+II	Moves
+III	General Strategy
+a. Offense
+b.	Mix-ups
+c.	Defense
+IV	Character Specific Strategy
+V	Combos and Juggles
+VI.	Credits 
+
+
+*** If you have seen the older versions of this document, you're probably 
+wondering why everything has suddenly disappeared. Let me explain. I've decided 
+to concentrate on Steve strategies only. No more move analysis, damage values, 
+comments, etc. You have the movelists and the frame database for that. I've 
+you're a beginner with Steve, then I suggest you read first the other Steve FAQs 
+on the net. I suggest you take a look at Ai-Uchi's Steve Fox FAQ on 
+TekkenZaibatsu. It's a great start.
+	Then check this out afterwards. ***
+
+
+I.  Why Steve?
+
+The good news:
+	-has fast and high priority attack strings
+	-has good recovery
+	-has a good number of stun inducers
+	-excellent CH game with his sway stances
+	-has good evasive maneuvers
+	-can parry punches
+
+The bad news:
+	-attacks predominantly high
+	-lacks guaranteed strings
+	-extreme lack of low attacks
+	-weak throwing game
+	-doesn't have any standing kicks
+	-no WS mix-ups
+	-weak okizeme game
+
+II. Moves
+
+*** This section shows the moves I use, when I use them, and how to use them. Of 
+course, Steve has other moves, but these are the only ones I see important. ***
+
+(Move Names , Damage Values, and Frame Data based on TekkenZaibatsu's
+move lists)
+
+
+
+Standing Moves:
+
+(Offense)
+-1,2,1,(2) 	British Edge	h,h,h,m
+-1,2   	Standard 1-2 jab	h,h
+-2,1		Alternate jabs	h,h
+-2,1,2 	Short Edge		h,h,m
+-2,1,d+2	Short Edge Low	h,h,l
+-d+2,1	Eagle Hook		l,m
+-d/f+1,2	Upper Combo		m,h
+-d/f+1,2,1  Upper Feint Hook  m,h
+-d/f+1,2,1	Upper Feint Combo m,m
+-FLI 1,f+1	Spitfire Hammer   h,m
+-f+3,f+2	Sea Hawk Hook	h
+-f+3,2      Sea Hawk Upper	m
+-d/b+2	Low Sweep		L
+
+(CH Defense)
+-3,1		Gut Hook		m
+-4,2		Atomic Blow		m
+-FLI b+2	Trident Lunge	h
+-d+1		Quick Hook		h
+-f+1+2	Heartbreak Shot	m
+-WS 1,2	Rising Eagle Claw m,m
+-3+4~2	Spinning Punch	m
+-b+3_4,2	Trident Hook	m
+-2~f,1	Punch Parry		-
+
+(Retaliation & Punishers)
+-f,f+2	Eagle Claw		m
+-d/f+1+2	Sonic Fang		m,m
+
+(Okizeme)
+-FLI 2	Eagle Smash		M
+-d+1		Turd Punch		L
+-3+4~d+2	Spinning Low	L
+-d/f+1+2	Sonic Fang		m,m (rising opponents only)
+
+(Throws)
+-1+3		Position Change	-
+-FLI b+1+2	Griffon Stretch	-
+-QCB+2+4	Eagle Elbow		-
+			
+
+
+
+III.	General Strategy
+
+	This section deals with three (3) main aspects of Steve's game: Offense, 
+Defense, and Mix-ups. Other aspects like Throwing, Okizeme, and Arena specifics  
+aren't big parts of Steve's game, and therefore will not be covered in detail.
+
+
+A.	Offense
+
+
+1.)	Jabbing and Poking
+
+		This is where your offense starts, and what will probably decide the 
+match in the crunch. Though Steve's jab-based offense lacks on some parts, it is 
+still superior to most characters.
+
+Table 1.0	Character jabs and jab strings to consider:
+
+Character		Frames		String		Notes
+
+
+Heihachi		10			1,1,2			KD's, guaranteed
+Jin			10			2,1			0 on block, hits h,m
+Julia			8			1,1,1			CH launcher
+Kazuya		10			1,1,2			KD's, guaranteed
+King			9			2,1			Grab set-up on hit
+Kuma/Panda		10			f+1,1,1		CH launcher
+Law			8			1,2,3			h,h,m, guard break
+Lee/Violet		8			1,2,4:4		Guaranteed, big damage
+Marduk		10			1,d+2			h,m, guard break
+Nina			8			1,2,1,2		Uninterruptible
+Paul			8			1,2			Fastest reset time
+
+	Lee and the Mishimas use jab strings as an instant retaliation. Julia and 
+the bears use it as a CH interrupt. Law, Nina, Jin, and Paul use it pressure 
+opponents. King and Marduk use it for offensive mix-ups. Steve uses his jabs for 
+all of these. Meaning, Steve's offense revolves around nothing but his jabs. 	
+	Unfortunately, Steve's jabs don't have the guaranteed damage like those of 
+Julia, Heihachi, Kazuya, and Lee. He doesn't end with positive frame advantage 
+like Paul, Nina, Jin, and Law. He can't mix up afterwards like King and Marduk.
+	What makes Steve's jabs so dangerous, though, is not what he can do 
+afterwards, but what his opponent will do afterwards. Steve's game revolves 
+around poking and reaction. Similar to Paul pulling out a b,f+1 or Law doing a 
+d+2,3 when you poke back after a jab string, Steve thrives more on the 
+opponent's reactions, drawing them out using his fast jabs.
+	See the next section for an application for this theorem.
+
+
+1.1 	1,2 and the British Edge
+
+The British Edge (1,2,1) is the center of Steve's offense. It's 8-frame fast, 
+guaranteed 30+ damage on CH, uninterruptible, quick transition to Flicker (~b) 
+and Sway stances (f_b_N+3_4), and has a built-in forward motion. The bad news is 
+it hits h,h,h which makes Steve a prime candidate for WS shit, and it leaves you 
+at -2 on block, which is actually quite good, but other 8-framers won't have a 
+problem jabbing out of it.
+As mentioned above, the British Edge is best used to draw out responses from 
+your opponents, where Steve is at his best.
+
+
+Table 1.1	After the British Edge
+
+Opponent's Reaction			Steve's Response
+
+Any high attack				Sway; Albatross Spin; Duck
+Counter-jab					Punch-Parry; Sway; Sidestep
+Opponent ducks				d/f+1 strings; ~b to FLI 1,f+1; Sonic Fang
+Duck-jab or Low attack			Low Parry to Sonic Fang 
+Opponent turtles				d+2,1; d/f+1 strings; ~b to FLI 1,f+1; 1+3
+Any attack above 10 frames		ss_b,b to British Edge
+Reversal					Chicken if possible
+Parry						Hold B to auto-sway (Bryan only); Pray
+Sidestep w/o attack			re-align
+Sidestep w/attack				Duck	(most SS attacks hit high or low)
+Evasive attack				Block or Sidestep
+									
+	These are what you should do based on what you expect your opponent to do. 
+Of course this takes a lot of anticipation and guessing on Steve's part, but the 
+payoff is worth it. 
+
+
+
+2.)	Side-turns and Off-axis stuns.
+
+	Off-axis positions are a good thing for Steve because it allows him to 
+keep the offensive momentum, and pressures the opponent for a response. Imagine 
+getting sideturned by Hwoarang's Backlash or d/b+4,4. If you duck or try to 
+attack off-axis, you'd most likely get launched by a b+3 or smacked by f,f+3.	
+If you block standing, you'll eat another d/b+4,4. Either way, you're screwed.
+	Steve's off axis mix-ups work something to that effect. You can get a 
+standing opponent with a poking d+2,1 or d/b+2, or you can keep up the pressure 
+by doing 1,2,1 , d/f+1 strings FLI 1,f+1, or f+3_4, f+2 which offers another 
+sideturn if blocked. A ducking opponent will get nailed by a Sonic Fang, while 
+anyone foolish enough to attack will get CH'd by a 3+4~2 or 3,1. 
+
+2.1 The d/f+1,2,1
+
+D/f+1,2,1 hits high, and can be interrupted between the first and last hit. The 
+good thing is it offers +1 on block, Crumple Fall Stun on CH, and yes, Side-turn 
+on block.
+	The d/f+1,2,1 is also a quick transition to flicker stance (d/f+1,2,1~b). 
+
+2.2 The f+3_4, f+2
+
+F+3_4, f+2 hits high, KD's on hit, Crumple Fall Stun on Ch, and yes, Side-turns 
+on block. It hits high, but the danger of getting nailed with a 2 or 1 from 
+ducking stance makes opponents reluctant to duck.
+
+
+Table 2.0	After Side-Turns
+
+Starter		Follow-up
+
+DCK f+2		D+2,1
+			D/f+1 mix-ups
+			1,2,1
+			Sonic Fang
+			3+4~2
+			DCK mix-ups
+			3,1
+
+d/f+1,2,1 		~b FLI + follow-ups
+			all DCK f+2 follow-ups		
+
+
+
+
+
+3.)	Going Low
+
+	Steve isn't a low hitter. Everyone knows that. His d/b+2 is damn slow and 
+is easily punished (17 frames, -15 on block). His d+2,1 is just as slow, but is 
+safer, does more damage, but is still not much of a threat than Law, Paul, and  
+Lei's low hits. Still, poking low gives your opponent something to worry about 
+in the crunch, and can give you those little chips of damage that are just 
+enough to win the game.
+
+3.1	d+2,1
+
+	d+2,1 hits high,mid, does about 25 damage (I think). Is guaranteed at 
+close range, and though slow, is still very unexpected. This move is very 
+important in your poking game, just as your 1,2,1 and your d/f+1 mix-up is.
+
+Some good set-ups for d+2,1
+
+-Off-axis stuns (Side-turns)
+-1,2,1 or 1,2   (On hit)
+-FLI 1,f+1      (Blocked)
+
+3.2	2,1,d+2
+
+	Few people seem to block this, probably because they are used to seeing 
+the whole 1,2,1,d+2 string instead of the shorter version. This is especially 
+good against people in corners, and in the crunch. 
+
+
+
+
+B.	Mix-Ups
+
+	Steve Mixing-up isn't as dangerous as Lei, Paul, or Marduk, and isn't as 
+annoying as Hwoarang or Xiaoyu. This is because he lacks powerful low hits or 
+near-decent grabs that makes an opponent duck on defense. His mix-ups rely more 
+on his side-turns and fast strings, which sooner or later will pressure an 
+opponent into reacting.
+
+
+Table 1.0-b
+
+Steve's Offensive Mix-ups
+
+1,2,1
+	D/f+1	
+		d/f+1,2
+		D/f+1,2,2
+		D/f+1,2,1
+				3,1
+				d/f+1+2
+				d+2,1
+				d/f+1
+				1,2,1
+				DCK 
+				2,1
+				~b FLI 1,f+1
+	~b FLI
+		3,1		
+		DCK 
+		FLI b+1+2
+		FLI 1,f+1
+				1,2,1
+				d+2,1
+				2,1
+				d/f+1
+				d/f+1+2
+				3,1		
+				DCK 
+							
+	3,1
+		~b (FLI)
+		1:f+1
+	DCK	
+		2
+		f+2
+			1,2,1
+			d+2,1
+			2,1
+			d/f+1
+			3,1
+			d/f+1+2
+			DCK
+	2,1
+		~b (FLI)
+		2
+		d+2,1
+		1,2,1
+		d/f+1
+		3,1
+		d/f+1+2
+		DCK
+	1,2,1
+	d/f+1+2
+	d+2,1
+	
+		
+	As you can see, all the starters link into a string ending with either the 
+starter itself, or another starter. The good thing is if an opponent tries to 
+poke in between these strings, you can parry (punch or duck-jab) or sway under 
+them and CH for mad damage.				
+
+
+		
+						
+C. Defense
+
+
+
+1.)	Counter Hit 
+
+		Steve has an excellent CH game thanks to his sways, his stun-
+inducers, and his crazy combos after those stuns. If you're good at reading an 
+opponent and anticipating his actions, then this part is payoff.
+
+Table 1.0-c		Counter Hit
+
+
+Situation					Move			Result
+
+Opponent attacks high			3,1			Double-Over
+						4,2			Double-Over
+						f+1+2			Freeze Stun
+						3+4~2			Crumple Fall
+						b+3_4, 2		Crumple Fall
+						f+3_4, 2		Juggle
+
+Opponent attacks mid			d+1 (~b)		Crumple Fall
+						FLI b+2		Crumple Fall
+						(1),2,1,2		Juggle
+
+Remember that Double-over stuns are escapable by holding f during the stun 
+animation. Use the f+1+2 only out of pure desperation.
+
+
+2.)	Low Block vs. Low Parry
+
+	Against low attacks, Steve only has two options: Parry then counter with a 
+Sonic Fang, or Block then counter with a WS 1,2. For Steve, it is better to 
+parry quick low attacks and block those with long block stagger animations.
+
+Table 2.0-c		Low Attack Defense
+
+Situation				Counter With:
+
+After Low Parry			Sonic Fang
+
+After Block				WS 1,2
+
+
+
+3.)	Eagle Claw vs. Sonic Fang
+
+Table 3.0-c		Comparison of Eagle Claw and Sonic Fang
+
+
+Move 				Speed		Damage  Follow-Ups  On Block
+
+Eagle Claw (f,f+2)	14 frames	25	  Yes (FLI 2) -11 Opponent RC
+
+Sonic Fang (d/f+1+2)	14 frames	28	  No		  -10 Guard Break
+
+	These moves are very similar, and they are both very good. Their 
+differences actually lie in their application. Sonic Fang hits rolling 
+opponents, and is a good juggle ender. Eagle claw guarantees a 1+2~2 follow up, 
+and is a good stun combo ender. Sonic fang is a better retaliation, while Eagle 
+Claw is better as a whiff punisher. Lastly, Sonic Fang is a more suited for 
+offense, as a mix-up to nail crouchers, while Eagle Claw is a better defensive 
+tool due to its range and power (Eagle Claw + FLI 2 = 40 damage).   	
+
+
+4.)	The Punch-Parry
+
+	Never forget the punch parry! It is one of Steve's most powerful tools. It 
+is especially important against 8-frame jabbers, and those who use predictable 
+punch strings. This will save your life-> a lot. Always use this!
+
+
+
+
+
+
+IV.  Character Specific Strategy
+
+
+1.)Bryan Fury- The dead guy still remains a top tier character in Tekken 4,
+although he seems to have slowed down a bit. His f+2,1,4 combo is
+guaranteed if the first hits, and it hurts a lot. If Bryan is bulldogging
+with punch rushes, parry his hands off and punish him. Sidestep his combos
+since he is very linear. Attacking high is not advisable all the time since a 
+crouching Bryan could give you a problem. As usual, you'd have to watch out for 
+the Chains of Misery Throw and the WS moves which Byran is famous for. Attacking 
+mid at the wrong time can get you out prioritized by a CH 8-frame jab string 
+(ouch!) Don't be reckless in attacking Bryan, he'll punish you real bad for it. 
+Whenever you get Punch Parried, hold B for Steve to automatically do a back 
+sway. This would avoid the ensuing Mach Breaker follow-up, if he doesn't use the 
+Gut Punch ending. Watch out for a sudden Snake Edge!
+Difficulty:	Medium
+
+2.)Christie Montiero-  Whether against a scrub or an expert, be careful.
+Attacking recklessly could get you a roundhouse kick to the face. Low parry 
+their kick strings, and you've got yourself a free Sonic Fang. Christie can kill 
+you with her confusing low-mid strings. Christie has more mix-ups than other 
+confusion characters, but her strings are very slow, so just try to read what 
+your opponent is doing. Kill her immediately!
+Difficulty:	Medium
+
+3.)Heihachi Mishima-  You shouldn't have a problem here. You'll probably out
+prioritize all of the old man's moves. Just don't be a fool to whiff a move or 
+your ass will get juggled for some big time damage. Don't let him call out his 
+Thunder Godfist variations (Omen and Sapphire Godfist). These cause guard break, 
+and anyone who has mastered their motions will abuse them. 
+Difficulty: Medium
+
+
+4.)Hwoarang- Here's where you've got a problem. Hwoarang-Steve fights are
+usually about who gets their attack strings out first. You still can't
+afford to be reckless: your high attacks can be avoided by that damn E.
+Coli kick (f+3~3). I found that sidestepping when you think Hwoarang will pull 
+out an E.Coli will get you behind him. If you ever get
+caught in his infinite flamingo strings, duck under the high hit in the
+series, and punish it with WS 1,2. You'll get the offensive rhythm
+after that. If you get turned around by a guard-breaking kick, don't be
+stupid- just turn around and resume your guard. Else, you'll be eating a
+nice, big, Backlash, and don't duck either! Better to eat a mealy d/b+4 than to 
+get launched by a b+3. Try to get him cornered and bulldog him there, because 
+his moves are slower than yours. 
+Difficulty:	Hard
+
+5.)Jin Kazama- Jin loves to bulldog. Playing him toe-to-toe is real fun,
+although against expert players, a poking game is more suitable. Always
+remember to Punch-Parry. Sidestep his 1,2,3 combo. Learn to defend against his 
+Laser Cannon/Laser Scraper mix-ups. There's a whole FAQ at Tekken Zaibatsu about 
+this. Don't panic when he gets into his soul omen to lingering soul power up. 
+Just block and you'll be safe. Don't be foolish and rush in after Jin finishes a 
+string, you'll be eating 2 nice Can-Can kicks. WS 2 will kill you so mix-up mid, 
+and use your Flicker cancel which autoguards real nice.
+Difficulty:	Easy to Medium
+
+6.)Julia Chang- Not much here, just learn to defend against the mix-ups, and
+sidestep her attacks. Don't be foolish with your attacking, you don't want
+to eat a G-Clef Cannon on CH. Learn to break the Mad Axes throw (1+2).
+Don't get caught in a elbow->jab->elbow->Mad Axes/Other Throws mix-up. That's 
+real nasty. Like with Bryan, she's got a guaranteed combo on a CH 8-frame jab so 
+be careful!
+Difficulty:	Easy to Medium
+
+7.)Kazuya Mishima- While he may be slower than you, don't rush in and bulldog
+just yet: a WS 2 Gut Punch leads to a devastating combo. Just poke his ass off 
+alternating high and mid to keep him from crouching. Parry any Shining Fists 
+they plan on doing. Keep moving around instead of in and out to negate the 
+effectiveness of the Crouch Dash. Learn to block the Mishima Fury combo (hhlm) 
+since a TGF is pretty much guaranteed if it hits. Don't
+fall for the 1,2,4 & 1,2,d/f+1,f+2 mix-up! I myself am a victim of this.
+Difficulty:	Medium to Hard
+
+8.)King- One thing you should be wary of King is when he goes into an Armor 
+King-type of game. He'll use the Rolling Sabat, the Konvict Kick, the Hopkick, 
+the Flying Knee, and the Dark Shoulder. The problem here? All these attack hit 
+MID, which you can't sway out of, they have nice properties (the hop kick 
+juggles, the Rolling Sabat is fast, the Konvict Kick chains into a DDT on CH, 
+the Shoulder Ram and Flying Knee do massive damage.), they have great priority 
+for power moves, and all these, you cannot parry. This one, you'll have to 
+bulldog.
+	Another thing: WATCH OUT FOR THESE THROWS!
+			(The big 5):	-Giant Swing (45-70 dmg) 1 escape/techroll
+						-Rock Bottom  (50 dmg) 1+2 escape
+						-Tombstone	  (58 dmg) 2 escape
+						-Muscle Buster (50 dmg) 1+2 escape
+						-Frankensteiner (inescapable, 30-45 dmg)
+Difficulty:	Medium
+
+9.)Kuma/Panda-  Honestly? Bulldog. Poke them out of their Hunting Bear Stance
+with your d+2.
+Difficulty:	What a Joke
+
+
+10.)Marshall Law-  Be careful with your attacks, a parry from Law could end up
+in a painful backfist. Avoid attacking high always unless you'd want to get CH'd 
+and juggled to eternity. Watch out for grab mix-ups coming from his strings, and 
+don't fall for his tricks. Dragon's Tail...
+Difficulty:	Hard
+
+11.)Lee Chaolan/Violet- 	Don't get hit by the following:
+
+			-Mist Trap	(Duck under it or it's guaranteed damage)
+			-Acid Rain	(Block. Unless  you want to see a slick juggle)
+			-SS+2		(~f,1,2,4:4 is guaranteed if it hits)
+			-u/f+4	(Juggle starter. Lee's wall juggles hurt a lot)
+Other than that, you won't have a problem
+Difficulty:	Medium
+
+12.)Lei Wulong- One of your hardest fights, hands down. Lei will drop down
+under your punches, he'll guard stun and bulldog you to death. My advice?
+Just stay the hell away from him. If you could force him to whiff (hard to
+do), that's a good thing. Try your best to avoid his attacks, blocking them just 
+won't work. One of my weaknesses is a hardcore Lei player- not just with Steve, 
+but with any character I'm using (except Marduk!).
+Difficulty:	Near Impossible
+
+
+13.)Craig Marduk- Marduk shouldn't be much of a problem against Steve. Bulldog
+him, poke him, and Throw him, since he's damn slow. The important thing you 
+should remember is to mix-up your attacks high and mid, unless you want to get 
+an unchickenable reversal that ends with him on top of you, or get juggled for 
+50+ damage. Learn to block the mounted punches. Block the punches with 1 or 2. 
+Learn to anticipate when Craig will call out a d+1+2, it launches and it ducks 
+under high moves.(His only Steve killing move)
+Difficulty:	Medium
+
+14.)Nina Williams- Don't let her out poke you so she can't bring out her mix-up 
+Game.  Just be smart and patient on offense so you don't get
+CH'ed for a painful kick to the balls. Learn the multi-grab breaks!
+Of course, since Nina isn't popular among amateurs (those dependent on multi-
+grabs would rather stick to King), this means that a Nina player would most 
+likely be an expert. That means he would know when to poke and when to turtle, 
+and he can do it quite well. Nina pokes predominantly high, so SWAY!!!
+Difficulty: Medium to Hard
+
+15.)Paul Phoenix- Against scrubs, you can win with one hand. Against good
+players, you're in for a very tough fight. Paul can sway back and avoid your 
+pokes, CH-ing you for mad damage. Sway under a 1,2 abuser (watch out for 
+d/f+1~>Throw setup, though). Parry a Tile Splitter the moment you see
+it. Avoid getting bulldogged by repeating JFs, that's a big headache. Be VERY 
+careful when attacking, b,f+1 will kill you everytime. Overall, be really, 
+really careful.
+Difficulty:	Hard
+
+16.)Steve Fox-  Always a good fight. This will be either a bulldog fest or an
+hour-long poke fest. Nothing much to say here, just, don't be reckless. A
+single CH punch from Steve will kill you. You do have a punch parry don't
+you?
+Difficulty:	Varies
+
+
+17.)Ling Xiaoyu- Xiaoyu, along with Lei and Hwoarang will be very hard to
+fight. Her mobility will make her a very hard target. Her Phoenix stance
+will avoid almost all your attacks. Of course, the strategy here is don't
+get hit when she moves in to strike. Try to move around and make yourself a hard 
+target yourself. Counter her pokes with your Punch Parry and Sway
+moves. If you try to bulldog a really good Xiaoyu, her movement'll just
+dizzy you. Apparently, sidestepping will avoid most her attacks momentarily, 
+giving you just enough time to stop her with a 1,2 jab before she tracks you. 
+I've found that 3+4~2 works well against Phoenix Stance abusers.
+Difficulty:	Hard
+
+18.)Yoshimitsu- Nothing much since I haven't gone up against good Yoshimitsu
+players. I'll get back to you on this.
+Difficulty: Medium
+
+
+V.	Combos and Juggles
+
+
+Starter
+
+1,2,1,2	d/f+1,2,1,	d/f+1+2
+
+DCK 2		3,1~b, FLI 1,1,[1],2 
+
+CH 3+4~2	3,1~b, FLI 1,f+1, d+1
+
+B+3_4,2	d/f+1,2,1~b FLI 1,1,[1],2
+
+F+1+2		f,f+2, 1+2~2	(a.k.a. "The 3-hit Wonder")
+
+CH 4,2	f,f+2, 1+2~2	
+
+CH 3,1	~b FLI b+2
+
+	There are other combos and combo starters, but most of them produce the 
+same stun effect as the moves listed here, meaning you can apply the same 
+juggles. (ex. CH DCK f+2 and CH d+1 are similar to CH 3+4~2, etc.)
+
+	Check out Shukudai's Steve Combo movies at www.arcadepimp.com. It features 
+some great and damaging juggles and combos which I did not list here. Check it 
+out!
+
+
+VI. Final Words and Credits
+
+ 
+
+  Again, thank you for taking the time to read this guide. I really hope
+you've learned something. Thank you to whoever has come up with a
+strategy/combo/juggle that was mentioned in this guide. Thanks also to all
+Steve players, scrub or not (there a no Steve scrubs in the Philippines.),
+for playing a new character.
+
+Specific acknowledgements:
+
+Ai-Uchi - read his Steve Fox FAQ on TekkenZaibatsu, it's a great start for Steve  
+	    Players. Great for basic strategies and move set-ups.
+	
+Arsenal, Gr8_Dane, DC_Static, and all the other guys at #tekken  - for answering 
+			My silly questions on MIRC.
+
+Kurt dela Pena (Mini-King)- adopted his closing remarks. Check out his great 
+				    Marduk FAQ. 	 
+
+Shukudai - check out his Steve combo movies at www.arcadepimp.com
+	     For the coolest juggles.
+	
+Paeng - one of the best players where I play. Plays a very mean Hwoarang and
+        Paul. Drop by University Mall or SM Fairview if you want a good match.  
+
+Manuel & Peng - my constant Tekken companions and sparring partners.
+
+Jonald - the dishonorable Marduk. 
+
+Mutya - your boyfriend looks like shit, woman.
+
+Worlds of Fun Amusement Center (SM Fairview) - for finally fixing that damn
+Joystick, and for switching to a best of 9 format.
+
+TekkenZaibatsu.com - the best Tekken resource on the internet.
+
+Namco - for creating this wonderful and innovative character, for creating
+Marduk, and for
+  improving Lee as well. No thanks for not giving King the Dark Uppercut,
+how the hell
+  would I juggle with a lame-ass hop kick?
+
+
+ Questions, comments, or suggestions? E-mail me at Creature@seductive.com.
+Please put "Steve FAQ", or "Steve Guide" or something like that in the
+subject line.
+
+As Kurt De la Pena says, I'm not the best Steve user in the Philippines, or in 
+Quezon city for that matter. I'm just an above average player, nothing much. 
+Still if you want a game, look for me in the Philippines, specifically SM 
+Fairview Mall in Quezon City, Specifically the Worlds of Fun Amusement Center. 
+You'll find me at the Tekken 4 machine, using Steve, Paul, or Marduk. I'm 
+probably the only guy there that uses Combot.
+
+
+
+
+
+					END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

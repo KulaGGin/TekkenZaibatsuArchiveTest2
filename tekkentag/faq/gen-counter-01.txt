@@ -1,0 +1,1450 @@
+                $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+                $    Throw escape & 10-hit Counter Faq   $
+                $                  T T T                 $
+                $                   1.5                  $
+                $      by : skreezyg@mindspring.com      $
+                $                                        $
+                $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+======================================================================
+======================================================================
+XXXXXXXXXXXXXXXXX
+X V e r s i o n X 
+XXXXXXXXXXXXXXXXX
+
+1.0      : First version of faq.
+1.5      : Fixed many throw errors.
+          
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X T a b l e  of  C o n t e n t s X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+I.    Introduction
+II.   Basics
+      -conventions
+III.  Throw escapes
+      -seeing the escape
+      -basic throw escapes
+      -special throw escapes
+       -Anna Williams
+       -Armor King
+       -Baek do san
+       -Bruce Irvin
+       -Bryan Fury
+       -Devil/Angel
+       -Eddy Gordo
+       -Forest Law
+       -Ganryu
+       -Gun Jack
+       -Heihachi Mishima
+       -Hwoarang
+       -Jack-2
+       -Jin Kazama
+       -Julia Chang
+       -Jun Kazama 
+       -Kazuya Mishima
+       -King
+       -Kuma/Panda
+       -Kunimitsu
+       -Lee Chaolan
+       -Lei Wulong
+       -Ling Xiaoyu
+       -Michelle Chang
+       -Mokujin
+       -Nina Williams
+       -Ogre
+       -Paul Pheonix
+       -Prototype Jack
+       -Roger/Alex
+       -True Ogre
+       -Wang Jinrey   
+       -Yoshimitsu        
+IV.   10-string counters
+      -Anna Williams
+      -Armor King
+      -Baek do san
+      -Bruce Irvin
+      -Bryan Fury
+      -Devil/Angel
+      -Eddy Gordo
+      -Forest Law
+      -Ganryu
+      -Gun Jack
+      -Heihachi Mishima
+      -Hwoarang
+      -Jack-2
+      -Jin Kazama
+      -Julia Chang
+      -Jun Kazama 
+      -Kazuya Mishima
+      -King
+      -Kuma/Panda
+      -Kunimitsu
+      -Lee Chaolan
+      -Lei Wulong
+      -Ling Xiaoyu
+      -Michelle Chang
+      -Mokujin
+      -Nina Williams
+      -Ogre
+      -Paul Pheonix
+      -Prototype Jack
+      -Roger/Alex
+      -True Ogre
+      -Wang Jinrey   
+      -Yoshimitsu
+V.    Credits & Copyright info    
+ 
+
+
+
+======================================================================
+======================================================================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X I. I n t r o d u c t i o n X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+	In Tekken the best players seem to be unpredictable, 
+and theirs nothing more predictable than doing a 10-hit. Thats 
+one major reason why 10-hit sucks, another reason is most 10-hits 
+can be countered very easily....and not to mention everyone can 
+parry the low hits now. Low parrying at the low hits of 10-hits 
+seem to be the best way to get out of all 10-hits(only Bryans 
+strings have no low hits) becuase you can get some juggles in after
+the parry. I thought I'd just put together a few ways to get out of 
+all the 10-hits besides attack reversals, and the low parry. This 
+part of this faq is mainly for scrubs that have problems dealing 
+with 10-hits, and for people that want to punish scrubs that do 
+10-hits. I also hope this faq will help get rid of the last few
+scrubs that still do 10-hits all the time. In this section, when I
+say jab I'm talking about a 1 punch, and when I refer to a fast 
+4(right kick)I'm talking about any 4 around 11 frames(like Lei's). 
+Take into consideration when you see me write ws+2_4, that not all
+characters have the same generic ws+2_4, so it might not work for
+certain characters. Please email me if you have anything you would 
+like to add in this section, as it not close to being completed.
+	Of course the first part of this faq is just a good'ol 
+"all the throw escapes in one convienaint place". It's still 
+almost impossible to tell which arm your opponent grabs you with 
+first, but that seems the only way to be sure of which escape to 
+use. For future versions of this faq I'm working on getting the 
+timing of the escapes for multithrows. I figured I'd leave out
+the names of the throws since alot of people tend to call the
+same throws different names.
+
+======================================================================
+======================================================================
+XXXXXXXXXXXXXXXXXXXXXX
+X II. B a s i c s    X
+XXXXXXXXXXXXXXXXXXXXXX
+
+
+.........................
+. c o n v e n t i o n s .
+.........................
+
+
+_____________________
+_____Directions______ 
+
+
+u = tap up          b = tap back
+U = hold up         B = hold back
+d = tap down        f = tap forward 
+D = hold down       F = hold forward
+n = neutral         ss = sidestep
+
+____________________
+_____Notations______
+
+
+d/f - tap down+forward
+d/b - tap down+back 
+u/f - tap up+forward 
+u/b - tap up+back                      
+D/F - hold down+forward
+D/B - hold down+back
+U/F - hold up+forward
+U/B - hold up+back
+
+
+WC          - while crouching
+RC          - recovers crouching (can be followed by any WS technique)
+CH          - counter hit
+FC          - full crouch 
+JG          - juggles
+GB          - guard break
+HS          - hunch over stun
+WS          - while standing from a crouch
+_           - or 
+M/-         - mid or inescapable throw
+H/-         - high or inescapable throw
+~           - do next move extremely fast
+QCF         - quarter circle forward      - d,d/f,f
+QCB         - quarter circle back         - d,d/b,b
+HCF         - half circle forward         - b,d/b,d,d/f,f
+HCB         - half circle back            - f,d/f,d,d/b,b
+
+____________________
+___Attack buttons___
+
+      (1)  (2)  (5)
+             
+      (3)  (4)
+
+1 = left punch
+2 = right punch
+3 = left kick
+4 = right kick
+5 = tag
+
+____________________
+____Attack Levels___
+
+Level:               Defense:
+
+h  - high range      = auto block , B , or duck under
+m  - mid  range      = auto block or B
+l  - low range       = D/B low block
+sm - special mid     = auto block , B , or D/B
+T  - throw           = varies
+!  - unblockable     = attack reversal
+
+======================================================================
+======================================================================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X T h r o w  E s c a p e s X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+...................................
+. s e e i n g  t h e  e s c a p e .
+...................................
+
+-if opponent grabs you with left arm in front of their right arm    
+ escape with 1
+-if opponent grabs you with right arm in front of their left arm     
+ escape with 2
+-if opponent grabs you with both arms in the front at the same time           escape with 1+2
+
+........................................
+. b a s i c  t h r o w   e s c a p e s .
+........................................
+
+-1+3 throws are escaped with 1
+-2+3 throws are escaped with 2
+-2+5 throws are escaped with 2
+-left side throws are escaped with 1
+-right side throws are escaped with 2
+-throws that grab crouching opponents are escaped with 1+2
+
+ ________Tackle escapes_________
+
+Push away:*          2 during tackle
+Flip over:           1+2 as character hits the ground
+Tackle-1.2.1.2.1:    2-1st hit 1-4th hit
+      -1.2.1.1.2:    2-1st hit 2-4th hit
+      -2.1.2.1.2:    1-1st hit 2-4th hit
+      -2.1.2.2.1:    1-1st hit 1-4th hit
+Arm Bar:*            1+2.2.2.2.2 
+Knee Bar:*           1+2.1.1.1.1 
+Backmount:-1,2,1,2,1 1-1st hit 4th hit:-  
+          -1,2,1,1,2 1-1st hit 4th hit:-
+          -2,1,2,1,2 2-1st hit 4th hit:-
+          -2,1,2,2,1 2-1st hit 4th hit:-
+
+
+* -This is for every character unless otherwise noted
+-King/Paul/Nina/Jin can reverse armbars with 1+2.2.2.2.2.2.
+-King/Nina can reverse leg bars with 1+2.1.1.1.1.1.
+-Paul can reverse 1st punch with 1.1.2.
+
+............................................
+. s p e c i a l  t h r o w   e s c a p e s .
+............................................
+
+*If there is a T next to the escape the throw can be tech rolled*
+______________________________________________________________________ 
+                            |____Throw Motion___|_______Escape_______|  
+  
+Anna:                        u/f+1+2~5                   1+2 T
+                             d/f,d/f+1                   1+2
+                             QCF+1+2                     2*
+                              -3,4,3,1+2                 1+2
+                              -1,3,2,1                   1
+                               -3,1,4,1+2,1+2            1+2
+                               -2,1,3,4,1+2              2
+                               -2,3,1+2,3+4,1+2          1
+                              -1+3,4,1+2                 2
+                               -4,3,4,3+4,1+2,3+4        1+2
+                               -1+2,4,3,1+2,1+2,1+2      1
+                             u/f+3                       H/2** 
+
+*can tag to anna during throw
+**can't be reversed by attack reversal-2 escape does 18 damage to anna.
+______________________________________________________________________
+Armor King:		     f,N,d,d/f+1+2               1+2
+                              -2+4,1+2,1+2               1
+                              -3+4,3+4,1+2               2
+                                -1,1,1+2                 1
+                                -3,4,1+2,3+4             2
+                             f,HCF+1                     1* T
+                             QCT+1                       1 (3+4)**
+                             d/b,F+2                     2
+                             d/b,D/B+1+2                 1+2
+                             D,d/b_D/B+1+2~5             2***
+                             2+4,d,d,D+3+4               2
+                             d/f+3+4(clean hit)~5        - reversible
+                             fc+1+2_D/B+1+2               1+2
+                              -2,1,2,1,2                 1-1st 2-4th
+                              -2,1,2,2,1                 1-1st 1-4th
+                              -1,2,1,2,1                 2-1st 1-4th
+                              -1,2,1,1,2                 2-1st 2-4th 
+                             d/b+1+3_2+4                 - ****
+                              -1,2,1,2,1                 2-1st 1-4th
+                              -2,1,2,1,2                 1-1st 2-4th
+ 
+*tech roll to take half the damage
+**3+4 to escape after the initial grab
+***Tag throw with King
+****ground throw, works on face up_down opponents
+______________________________________________________________________
+Baek:                        f,f+2                       2
+                             d/b+1+3                     1+2
+                             f+2+3                       2* 
+                    Flamingo:f+2~3                       1+2                        
+*can tag to Hwoarang
++ Baek can tag off of a left side throw
+______________________________________________________________________
+Bruce:                       1+3~5                       1   T
+                             f,N,d,d/f+1+2+4             1+2
+                              -1+2,1+2,1+2               1
+                           LN -3,1+2+3                   2
+                           RN -4,1+2+3                   2
+                                -1,3,1+2+4               LN: 1 RN: 2
+                                  -2,4,1,1+2+3           -
+                             
+______________________________________________________________________
+Bryan:                       FC,d/f,d,d/f+1+2            1+2
+
+*Bryan can tag off his back throw
+______________________________________________________________________
+Devil/Angel: 	 	     f,f+1+2                     1+2 T
+______________________________________________________________________
+Eddy:                        HCF+1+2                     1+2
++can tag off a left side throw
+______________________________________________________________________
+F.Law:	                     f+2+3                       1
+                             d/f+1+2                     2
+                              -1,2,1+2                   -
+                             f,f+3+4~5                   1+2 T
+______________________________________________________________________
+Ganryu:	                     f,f+2+3                     1+2
+                             d+1+2(22dmg)               -back throw
+
++can tag off both side throws                   
+______________________________________________________________________
+Gun Jack:	             QCF+1                       1
+                             u/f+1+2                     1
+                              -d,d/f+2                   B
+                             QCB+2                       2
+                             2+4~5                       2*
+                             d/f+2+4                     2
+                             d/f,d/f+2+4                 2
+                             d/b+2+3                     2
+                             f,F+2+3                     2
+                             d/b,F+1+2                   1+2
+                             d/f+1+3                     -
+                              -1+2                       -  
+*tag throw with Jack 2
++can tag off left side throw
+______________________________________________________________________
+Heihachi:	             f,f+1+2                     1+2#1 T
+                             f,f+1+4                     1+2#2  
+
+____________________________________________________________________
+#1:Can tag to Jun                                                  .
+#2: can only be performed on Jin/Paul/Lei/Kuma/Heihachi/Kazuya     .
+    and the Jacks. They can reverse with 1 or 2, and Heihachi      .
+    can reverse that with 1+2                                      .         
+___________________________________________________________________/
+______________________________________________________________________
+Hwoarang:                    QCB+3                       2
+                             d,D/B+1+3                   1+2
+                             f,f+2                       2      
+                             f+2+3                       2*
+*can tag to Baek  
+______________________________________________________________________
+Jack2:	                     2+4                         2*     
+                             1+3                         -
+                              -1+2                       -
+                             d/b,F+1+2                   1+2
+                             QCB+2                       2
+                             QCT+1                       1
+                             d/f+2+4                     2
+                             d/f,d/f+1                   1
+                            
+*can tag to Gun Jack
++can tag off a back throw
+______________________________________________________________________
+Jin:	                     QCB+1+3                     1
+                             d/f+2+3                     2
+                             f,f+1+2                     1+2* T
+                             [fc_D/B]+1+2                2
+                              -1+2                       1+2.2.2.2.2
+                              -2,1,2,1,2                 1-1st 2-4th
+                              -2,1,2,2,1                 1-1st 1-4th
+                              -1,2,1,2,1                 2-1st 1-4th
+                              -1,2,1,1,2                 2-1st 2-4th
+                                    -1+2                 1+2.2.2.2.2
+*can tag to Jun
+______________________________________________________________________
+Julia:	                     d,D/B+1+3                   1
+                             d/f+1+2                     1+2
+                             d,d/b,b,f+2                 1+2
+                             FC,d/b,d,d/b+1+2            1+2
+                             b+2~5                       d*
+                              -d+1+2                     d
+*can tag to michelle	
+______________________________________________________________________
+Jun:			     d/f+2+3	                 2
+                             b+1+2                       1+2*
+*can tag to Jin/Kazuya/Heihachi	
+______________________________________________________________________
+Kazuya:                      f,f+1+2                     1+2* T
+                             [fc_d_D/B]+1+2              2
+                              -2,1,2,1,2                 1-1st 2-4th
+                              -2,1,2,2,1                 1-1st 1-4th
+                              -1,2,1,2,1                 2-1st 1-4th
+                              -1,2,1,1,2                 2-1st 2-4th
+*can tag to Jun
+______________________________________________________________________
+King:                        d/b,d/b+1+2                 1+2
+                             d/b,f+2                     2
+                             f,HCF+1                     1#3 T
+                             d/f+3+4(clean hit)~5        - reversible
+                             d/b+1+2                     1+2(3+4)
+                             d,d/b,b+1+2                 1+2
+                             d/f+2+3                     2
+                             BT-1+3                      -
+                               -2+4                      -
+                               -b,f+1+2                  -
+                             [D/B+_FC]1+2                2
+                              -1+2                       1+2.2.2.2.2
+                               -1+2                      -
+                              -3+4                       1+2.1.1.1.1
+                               -1+2                      -
+                              -2,1,2,1,2                 1-1st 2-4th
+                              -2,1,2,2,1                 1-1st 1-4th
+                              -1,2,1,2,1                 2-1st 1-4th
+                              -1,2,1,1,2                 2-1st 2-4th
+                                   -1+2                  1+2.2.2.2.2
+                                    -1+2                 -
+                                   -3+4                  1+2.1.1.1.1
+                                    -1+2                 -
+                             b+1+2~5                     -*A.king only*
+                              -1+3                       1
+                              -2+4                       2
+                              -1+2                       1+2
+                              -3+4                       3+4
+                  f,f,n+2(stun)1+2                       -
+                                -u,d+3+4                 -
+                             QCF+1                       1
+                              -1+2                       -
+                              -1+2,3,4,1+2               -
+                             f,N,d,d/f+1+4               1
+                              -1+2,1+2                   1
+                              -1+2,4,2+4                 2
+                               -4,3,4,3+4,1+2            -
+                              -2,1,1+3                   1+2
+                               -2,1,3,1+2+4,1+2+4        1
+                               - 1+3,3+4,2+4,1+2,1+2+3   2
+                           / d/f,d/f+2+4                 2
+                same throw - d/f+1+2                     1+2
+                           \ SS+2+4                      1_2 #1
+                             -2,2,1+2                    -
+                              -1,2,3+4                   1
+                               -2,1,3,4                  1
+                               -3,2,1,3+4,1+2+3+4        2
+                              -3+4,1+2,1+2+4             2
+                               -1,2,3+4,1+2              -
+                                -2,1,3,4                 1
+                                -3,2,1,3+4,1+2+3+4       2
+		           / f,D/F+1+3                   1
+                same throw \ f,D/F+2+4                   2
+                             -2,1,1+2                    2
+                              -3+4,1+2                   1
+                               -1,2,3+4                  -
+                                -2,1,3,4                 1
+                                -3,2,1,3+4,1+2+3+4       2
+                              -2,2,1+2                   2   
+                               -1,2,3+4                  1              
+                                -2,1,3,4                 1
+                                -3,2,1,3+4,1+2+3+4       2 
+                               -3+4,1+2,1+2+4            2
+                                -1,2,3+4,1+2             -
+                                 -2,1,3,4                1
+                                 -3,2,1,3+4,1+2+3+4      2
+                             f,N,d,d/f+2+3               2  
+                               -1+2,3,1,1+3              1
+                               -1,2,3,1+2                2
+                               -1+2,1,3,1+2              1+2
+                                -1,3,4,1+2,3+4           -   
+ _____________________________  
+|________Ground throws________|	
+
+Face Up/Feet Towards:
+                            d/b+1+3                     1
+                            d/b+2+4                     2
+                            D/B+2+4                     1+2
+Face Up/Feet Away:          d/b+[1+3_2+4]               1+2                  
+Face Down/Feet Towards:     d/b+[1+3_2+4]               3+4                  
+Face Down/Feet Away:        d/b+[1+3_2+4]               1+2                 
+Face Down/Left Side:        d/b+[1+3_2+4]               1                    
+Face Down/Right Side:       d/b+[1+3_2+4]               2                    
+Face Up/Left Side:          d/b+[1+3_2+4]               1                    
+Face Up/Right side:         d/b+[1+3_2+4]               2
+______________________________________________________________________
+#1: 1 escapes if grabbed from left side, 2 escapes if grabbed        . 
+from right side. If grab connects from the side the throw will       .
+be the 2,2,1+2.         				             .
+#2: If you're grabbed with f,D/F+1+3 escape with 1. If you're        .
+grabbed with f,D/F+2+4 escape with 2.                                .  
+#3: Can tach roll to take half the normal damage.                    .
+_____________________________________________________________________/
+______________________________________________________________________
+Kuma/Panda:	             f,f+1+4                     1+2
+                             HCB,f+1+2~5                 1+2
+                 (stance:3+4)f+1+2                       1+2
+______________________________________________________________________
+Kunimitsu:	             d/b+1+3                     1+2
+                             f+1+4                       d/f
++can tag off right side throw
+______________________________________________________________________
+Lee:	                     f,f+3+4~5                   1  T
+                 (stance:3+4)3 -cleanhit                 H/-
+                             b+3,3,-4-during block frame H/-
+______________________________________________________________________
+Lei:	                     1+3~5                       1
+                             f,f+1+2                     1+2  
+                             u/f+1+2                     1+2
+                             Dragon stance:1             1
+                             Snake stance: 1+3           1          
+______________________________________________________________________
+Ling:	                     f+2~1                       1+2*
+                             QCB+2                       2
+               (stance:d+1+2)d+[1+3_2+4]                 1-1+3 2-2+4
+               (stance:b+3+4)f,f+[1+3_2+4]               1-1+3 2-2+4
+               (stance:b+3+4)f,f+3+4                     -**
+*f,f to cancel stagger. Can tag to Jin/Heihachi/Panda
+**requires 1/3 of the screen distance
++can tag off left side throw
+______________________________________________________________________
+Michelle:                    D/F+1+2                     2
+                             b+2~5                       d*
+                              -d+1+2                     d
+*can tag to julia
+______________________________________________________________________
+Mokujin/Tetsujin: Mokujin and Tetsujin only have the throws of the
+                  character they are imitating	
+______________________________________________________________________
+Nina:                        2+4-1,2,1                   2
+                              -2,1,3                     -
+                             u/f+1+2                     1+2
+                             d/f,d/f+1                   1+2                
+                             QCF+1+2                     2
+                              -3,4,3,1+2                 1+2
+                              -1,3,2,1                   1
+                               -3,1,4,1+2,1+2            1+2
+                               -2,1,3,4,1+2              2
+                              -2,3,4,2,2                 2
+                               -1,3+4,1,2,1+2            1
+                               -1,2,4,3,1+2+3            1+2
+                              -2,1,1+2,1+2+3             1+2
+                               -1,3+4,1,2,1+2            1
+                               -1,2,4,3,1+2+3            1+2
+                             QCF+3+4                     1
+                              -3+4,3,4,1+2               1
+                              -3+4,4,2,1+2               2
+                               -3,1,4,2+4                1
+                               -1,3,2+4,3+4,1+2          2
+                             f,f,f+3(CH)                 2
+                              -3,1,4,2+4                 1
+                              -1,3,2+4,3+4,1+2           2
+                             QCB+1+4                     -
+                              -1,3,2,1                   1
+                                -3,1,4,1+2,1+2           1+2
+                                -2,1,3,4,1+2             2
+                              -2,1,1+2,1+2+3             1+2
+                                -1,3+4,1,2,1+2           1
+                                -1,2,4,3,1+2+3           1+2 
+                             ws+3                        M
+                              -1+2                       -
+                               -2,3,4,2,2                2
+                                -1,3+4,1,2,1+2           1
+                                -1,2,4,3,1+2+3           1+2
+                             [D/B+_FC]1+2                2
+                              -1+2                       1+2.2.2.2.2
+                              -3+4                       1+2.1.1.1.1
+                              -2,1,2,1,2                 1-1st 2-4th
+                              -2,1,2,2,1                 1-1st 1-4th
+                              -1,2,1,2,1                 2-1st 1-4th
+                              -1,2,1,1,2                 2-1st 2-4th
+                                  -1+2                   1+2.2.2.2.2         
+                                  -3+4                   1+2.1.1.1.1
+______________________________________________________________________
+Ogre:                        d/f,d/f+2+4                 -
+                             f,F+2                       ss_b,b
+______________________________________________________________________
+Paul:	                     b+2+3                       2
+                             f,f+1+2~5                   1+2
+                             d/f+1+2                     1+2
+                            [fc_d/b+1+2]                 b+1+2 
+                             -1+2                        1+2.2.2.2.2
+                              -2,1,2,1,2                 1-1st 2-4th
+                              -2,1,2,2,1                 1-1st 1-4th
+                              -1,2,1,2,1                 2-1st 1-4th
+                              -1,2,1,1,2                 2-1st 2-4th
+                                   -1+2                  1+2.2.2.2.2
+                             -2,d+1,1,N,4,1,1+2          1 
+______________________________________________________________________
+P. Jack:                     D/B+2+3                     1+2
+                             2+4                         2     
+                              -d/b,d,D/F+2               B
++can tag off left side throw
+______________________________________________________________________
+Roger/Alex:                  QCT+1                       1 
+                             d/b,d/b+1+2                 1+2
+                             d/b,f+2                     2
+                             f,HCF+1                     1* T
+                             d/f+3+4(clean hit)~5        - reversible
+*can tach roll to take half the damage
+______________________________________________________________________
+True Ogre:                   d/f,d/f+2+4                 -
+                             f,F+2                       ss_b,b
+                             d/f - reversal              1
+______________________________________________________________________
+Wang:			     d/f,d/f+2+4~5               1+2
+                             d/f+1+3+4                   B
++can tag off right side throw
+______________________________________________________________________
+Yoshimitsu:                  QCB+1+2                     1+2                  
+______________________________________________________________________
+======================================================================
+======================================================================
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X 1 0 - s t r i n g  c o u n t e r s X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+ ____________________________________________________________________ 
+|___A n n a  W i l l i a m s_________________________________________|  
+ 
+1)-1.2.1.2.3.3.2.1.2.4 
+   h h h h h l h h h h    
+     
+ - reversible hits: 1st.7th.10th.
+ - duck after 2nd hit: fc+1
+ - duck 3rd hit ws+2_4
+ - duck 3rd hit and release down as soon as you crouch to ss
+ - ws+4 after blocking the 6th hit
+ - Lei can ws+3 after blocking the 6th hit
+ - duck 8th hit and release down as soon as you crouch to ss
+ ____________________________________________________________________
+|___A r m o r  K i n g_______________________________________________|
+
+1)-1.2.1.1.2.4.4.4.1.3
+   h h m m h l l l m m
+*A.king's sting can be started at the 2nd hit by doing f+2.1...
+
+
+ - reversible hits: 1st.3rd.4th.9th.10th.
+ - the best way to deal with these 10-hits, as well as all other 10-hits, 
+   is too parry the low hits.
+ - fc+1 after first low kick
+ ____________________________________________________________________
+|___B a e k  D o  S a n______________________________________________|
+
+1)-4.3.4.3.3.3.3.3.4.3
+   h h l m m m h m l m
+2)-4.3.3.4.3.3.3.4.3.3
+   h h h l m m m l m !
+
+
+1) - reversible hits:
+
+ - fc+1 after blocking 7th hit
+
+
+2) - reversable hits:
+
+ - duck 3rd hit:ws+2_4
+ - d/f+2, hopkick, or just about anything after 9th hit
+ ____________________________________________________________________ 
+|___B r u c e  I r v i n_____________________________________________|
+
+Bruce has no 10-strings.
+ ____________________________________________________________________ 
+|___B r y a n  F u r y_______________________________________________|
+
+1)-b+3,4,1,2,1,4,2,1,4,2 
+     m m m m h h h h m h     
+2)-b+3,4,1,2,1,4,3,3  
+     m m m m h h m h         
+3)-b+3,4,1,2,1,4,2,4 
+     m m m m h h m h      
+
+
+1) - reversible hits: 
+
+ - jab after 1st and 2nd hits
+ - d/f+2 after 2nd hit
+ - side step left after 2nd hit
+ - duck after 6th hit and duck the 2nd elbow then ws+2_4
+ - jab after 6th hit
+
+
+2) - reversible hits: 
+
+ - jab after 1st and 2nd hits
+ - d/f+2 after 2nd hit
+ - side step left after 2nd hit
+ - jab after 6th hit
+ - duck 7th hit ws+2_4
+
+
+3) - reversible hits:
+
+ - jab after 1st and 2nd hits
+ - d/f+2 after 2nd hit
+ - side step left after 2nd hit
+ - if you try to jab at the 6th hit it seems it makes you keep blocking
+   if_when this happens hold down to duck the last hit then ws+2_4
+ ____________________________________________________________________
+|___D e v i l / A n g e l____________________________________________|
+
+1)-f,f,n.2.1.2.2.3.4.4.1.2.1
+         h h h h h m l h m m
+
+ - reversible hits: 1st.6th.8th.10th.
+ - after 5th hit d/f+2, side step, or almost anything
+ - fc+1 after ducking 8th hit
+ ____________________________________________________________________ 
+|___E d d y  G o r d o_______________________________________________|
+
+1)-4~3,4,2,4,3,
+   m  m h h l                
+2)-4~3,4,2,4,4,3+4,3+4,3+4,d/b+3+4,u/f+3+4
+   m  m h h m  m   m   m      m       m       
+
+
+1) - reversible hits: 1.2.3.4.5.6.8.10
+
+ - dash back after blocking the 1st hit and then counter with whatever
+ - Lei can f,f,4(ch0 after 1st hit , and 4(ch0 after blocking the 2nd
+ - Lei can f,n+3(ch) after the 1st hit
+ - duck after 2nd hit ws+2_4 
+ 
+
+2) - reversible hits: 1.2.3.4.
+
+ - dash back after blocking the 1st hit and then counter with whatever
+ - Lei can f,f,4(ch0 after 1st hit , and 4(ch0 after blocking the 2nd
+ - Lei can f,n+3(ch) after the 1st hit
+ - duck after 2nd hit ws+2_4 
+ ____________________________________________________________________
+|___F o r e s t  L a w_______________________________________________| 
+
+1)-d/f+1.2.2.1.3.3.3.4.3.4
+       m h m h h l h h h m 
+2)-d/f+1.2.2.1.3.3.d+3.N+4.4.4  
+       m h m h h L   m   l l m 
+3)-d/f+1.2.2.1.3.3.d+3.N+3.4.4  
+       m h m h h L   m   l l m 
+4)-d/f+1.3.2.2.3.3.3.4.3.4  
+       m l m h m l h h h m 
+5)-d/f+1.3.2.2.3.3.d+3.N+4.4.4 
+       m l m h m l   m   h l m 
+6)-d/f+1.3.2.2.3.3.d+3.N+3.4.4  
+       m l m h m l   m   l l m
+
+
+1) - reversible hits: 1st.2nd.3rd.5th.10th.
+
+ - duck 2nd hit, then wc+1
+ - duck after 4th hit & wc+1_ws+2_4
+ - duck 7th hit & ws+2_4 right after kick goes over your head
+
+2) - reversible hits: 1st.2nd.3rd.5th.
+  
+ - duck 2nd hit, then wc+1
+ - duck under 4th hit, then ws+2_4
+
+3) - reversible hits: 
+
+ - duck 2nd hit, then wc+1
+ - duck under 4th hit, then ws+2_4
+
+
+4) - reversible hits: 
+
+ - jab after 4th hit
+ - duck 8th hit, then ws+2_4
+
+
+5) - reversible hits: 
+
+ - jab after 4th hit
+
+
+6) - reversible hits: 
+
+ - jab after 4th hit
+ ____________________________________________________________________
+|___G a n r y u______________________________________________________|
+
+Ganryu has no 10-strings.
+ ____________________________________________________________________
+|___G u n - J a c k__________________________________________________|
+
+1)-d+2,1,1,1,2,1,2,1,1+2,1+2    
+     m l l m m h m m  m   m
+2)-d+2,1,1,1,2,1,2,1,d+1+2,1+2   
+     m l l m m h m m   l    m 
+3)-uf+1,1,4,3,4,1,2,1,1+2,1+2   
+      m m l l l m m m  m   m
+4)-uf+1,1,4,3,4,1,2,1,d+1+2,1+2 
+      m m l l l m m m   l    m
+
+
+1) - reversible hits: 4th.5th.6th.9th.10th.
+
+ - low jab after blocking 3rd hit
+ - low jab after ducking 6th hit
+
+
+2) - reversible hits: 4th.5th.6th.10th.
+
+ - low jab after blocking 3rd hit
+ - low jab after ducking 6th hit
+ - d/f+2 after 8th hit
+ - Lei can 4(ch) after 8th hit 
+ 
+
+3) - reversible hits: 1st.2nd.6th.9th.10th.
+
+ - jab after 1st hit
+ - ws+2 after blocking 5th hit
+
+
+4) - reversible hits: 1st.2nd.6th.10th.
+
+ - jab after 1st hit
+ - ws+2 after blocking 5th hit
+ - d/f+2 after 8th hit
+ - Lei can 4(ch) after 8th hit 
+ ____________________________________________________________________
+|___H e i h a c h i  M i s h i m a___________________________________|
+
+
+1)-df+3,2,2,4,4,1,4,1,2,1      
+      m h h l l m h h m m
+2)-df+3,2,2,4,4,1,4,1,2,4     
+      m h h l l m h h m m
+3)-df+3,2,2,4,4,1,2,1,2,1     
+      m h h l l m h m m m
+4)-f,f,n,2,1,2,2,3,4,4,1,2,1   
+         h h h h m m l h m m
+
+
+1) - reversible hits: 1st.6th.7th.8th.9th.10th
+
+ - jab after 3rd hit
+ - Lei can b+1+2 after 6th hit
+ - ws+2_4 after ducking 6th hit
+
+
+2) - reversible hits: 1st.6th.7th.8th.9th.10th
+
+ - jab after 3rd hit
+ - Lei can b+1+2 after 6th hit  
+ - ws+2_4 after ducking 6th hit
+
+
+3) - reversible hits: 1st.6th.8th.9th.10th
+
+ - jab after 3rd hit
+
+
+4) - reversible hits: 1st.6th.8th.10th
+
+ - sidestep left after 5th hit
+ - d/f+2 after 5th hit
+ - Lei can 4(ch) after 5th hit
+ ____________________________________________________________________
+|___H w o a r a n g__________________________________________________|
+
+Right foot forward
+1)-1.2.3.4.3.4.4.4.4.3
+   h h h l m m l h m h
+Left foot forward
+2)-2.2.3.4.3.4.4.4.4.3
+   h h h l m m l h m h
+
+
+1) - reversible hits: 1st.3rd.5th.8th.9th
+
+ - ws+4 after blocking 4th hit
+
+
+2) - reversible hits: 1st.3rd.5th.8th.9th
+
+ - ws+4 after blocking 4th hit
+ ____________________________________________________________________
+|___J a c k 2________________________________________________________|
+
+1)-d+2,1,1,1,2,1,2,1,1+2,1+2    
+     m l l m m h m m  m   m
+2)-d+2,1,1,1,2,1,2,1,d+1+2,1+2   
+     m l l m m h m m   m    m 
+3)-uf+1,1,4,3,4,1,2,1,1+2,1+2   
+      m m l l l m m m  m   m
+4)-uf+1,1,4,3,4,1,2,1,d+1+2,1+2 
+      m m l l l m m m   l    m
+
+
+1) - reversible hits: 4th.5th.6th.9th.10th.
+
+ - low jab after blocking 3rd hit
+ - low jab after ducking 6th hit
+
+
+2) - reversible hits: 4th.5th.6th.10th.
+
+ - low jab after blocking 3rd hit
+ - low jab after ducking 6th hit
+ - d/f+2 after 8th hit
+ - Lei can 4(ch) after 8th hit 
+ 
+
+3) - reversible hits: 1st.2nd.6th.9th.10th.
+
+ - jab after 1st hit
+ - ws+2 after blocking 5th hit
+
+
+4) - reversible hits: 1st.2nd.6th.10th.
+
+ - jab after 1st hit
+ - ws+2 after blocking 5th hit
+ - d/f+2 after 8th hit
+ - Lei can 4(ch) after 8th hit 
+ ____________________________________________________________________
+|___J i n  K a z a m a_______________________________________________|
+
+1)-3.2.4.3.1+4.2.2.1.2
+   h h m h l h h m m m
+2)-3.2.4.3.1+4.2.1
+   h h m h l h h m
+3)-b+2.4.4.4.4.2.1+4.2.1
+     h h h l m m l h h m
+4)-b+2.4.4.4.4.2.1+4.2.d+3+4
+     h h h l m m l h h   l h
+5)-b+2.4.2.1.2_d+2
+     h h m m m   m
+6)-f,f,n,2.1.2.2.3.4.4.1.2.1
+         h h h h m m l h m m 
+7)-f,f,n,2.1.2.2.3.4.4.3.2.1
+         h h h h m m l l m !
+8)-f,f,n,2.1.4.4.2.4.3.2.1
+         h h m m l m l m !
+
+
+1) - reversible hits: 1st.4th.6th.7th.8th.10th.
+
+ - duck 4th hit, then ws+2_4
+ - duck to block 5th hit then ws+4
+
+
+2) - reversible hits: 1st.4th.6th.7th.8th.
+
+ - duck 4th hit, then ws+2_4
+ - duck to block 5th hit then ws+4
+  
+
+3) - reversible hits: 1st.2nd.3rd.5th.6th.9th.10th.
+
+ - jab, d/f+2 or a fast 4 after 2nd hit
+ - Baek can 1,2,3~F, 1,2,3~F, 1,2,3~F N 3+4 after the 2nd hit
+ - block 7th hit ws+4
+
+
+4) - reversible hits: 1st.2nd.3rd.5th.6th.
+
+ - jab,d/f+2 or fast 4 after 2nd hit
+ - Baek can 1,2,3~F, 1,2,3~F, 1,2,3~F N 3+4 after the 2nd hit
+ - block 7th hit ws+4
+
+5) - reversible hits: 1st.2nd.3rd.5th.
+
+
+
+6) - reversible hits: 1st.6th.8th.10th.
+
+ - d/f+2_ss_4 after blocking the 5th hit
+ - wc+1 after ducking 8th hit
+
+
+7) - reversible hits: 1st.6th.9th.10th.
+
+ - d/f+2_ss_4 after blocking the 5th hit
+ - ss last hit
+  
+
+8) - reversible hits: 1st.6th.8th.9th.
+
+ - low jab after the 6th hit
+ - ss last hit f,f then do a back throw
+ ____________________________________________________________________
+|___J u l i a  C h a n g_____________________________________________|
+
+1)-2.1.1.2.3.3.3.4.4.1
+   h m m m l h m h l m
+2)-2.1.1.2.3.3.2.3.2.1
+   h m m m l h m l m T
+3)-2.1.1.2.3.3.2.1.4.3
+   h m m m l h m m l m
+
+
+1) - reversible hits: 1st.2nd.3rd.4th.6th.7th.8th.10th.
+
+ - block 5th low hit, and let the 3 kick go over your head then ws+2_4
+ - sidestep left after 8th hit, if you time it right you can get a 
+   back throw.
+
+
+2) - reversible hits: 1st.2nd.3rd.4th.6th.7th.9th.
+
+ - block 5th low hit, and let the 3 kick go over your head then ws+2_4
+
+
+3) - reversible hits: 1st.2nd.3rd.4th.6th.7th.8th.10th.
+
+ - block 5th low hit, and let the 3 kick go over your head then ws+2_4
+ - she has bad recovery after the last hit is blocked, so do a hopkick
+   or any other fast juggle starter.
+
+ ____________________________________________________________________
+|___J u n  K a z a m a_______________________________________________|
+
+1)-2.1.1.1.2.1.4.3.3+4
+   m h m h m l m l m m
+2)-2.1.1.1.2.1+4.1.3+4
+   m h m h m l h h l h
+3)-2.1.1.3
+   m h m m
+
+
+1) - reversible hits: 
+
+ - duck after blocking the 3rd hit then wc+1
+ - if your very quick, duck the 2nd hit then ws+2_4
+
+
+2) - reversible hits: 
+
+ - duck after blocking the 3rd hit then wc+1
+ - if your very quick, duck the 2nd hit then ws+2_4 
+ - duck 4th hit then ws+2_4 
+
+
+3) - reversible hits: 
+
+- if your very quick, duck the 2nd hit then ws+2_4 
+- I always hold down after the 3rd hit, becuase you will duck if they
+  do the other strings. If they do this string and you hold down after
+  the 3rd hit you will still block the mid.
+ ____________________________________________________________________
+|___K a z u y a  M i s h i m a_______________________________________|
+
+1)-f,f,n,2.1.2.2.3.4.4.1.2.1
+         h h h h m m l h m m 
+2)-f,f,n,2.1.2.2.3.4.4.3.2.1
+         h h h h m m l l m !
+3 )-f,f,n,2.1.4.4.2.4.3.2.1
+         h h m m l m l m !
+
+
+1) - reversible hits: 1st.6th.8th.10th.
+
+ - d/f+2_ss_4 after blocking the 5th hit
+ - wc+1 after ducking 8th hit
+
+
+2) - reversible hits: 1st.6th.9th.10th.
+
+ - d/f+2_ss_4 after blocking the 5th hit
+ - ss last hit
+  
+
+3) - reversible hits: 1st.6th.8th.9th.
+
+ - low jab after the 6th hit
+ - ss last hit f,f then do a back throw
+
+ ____________________________________________________________________
+|___K i n g__________________________________________________________|
+
+1)-1.2.1.1.2.4.4.4.1.3
+   h h m m h l l l m h
+2)-1.2.1.1.2.4.4.4.1.1
+   h h m m h l l l m m
+3)-1.2.1.1.3.3.4.4.1.3
+   h h m m h m l l m h
+4)-1.2.1.1.3.3.4.4.1.1
+   h h m m h m l l m m
+5)-1.2.1.1.3.3.4.3.2.1+2
+   h h m m h m l l l  T
+*all of king's stings can be started at the 2nd hit by doing f+2.1....
+
+
+1) - reversible hits: 1st.3rd.4th.9th.10th.
+
+ - the best way to deal with these 10-hits, as well as all other 10-hits, 
+   is too parry the low hits.
+ - jab after first low kick
+ - Bruce can f,f+2 reverse the 4th hit
+
+2) - reversible hits: 1st.3rd.4th.9th.
+
+ - jab after 1st low kick
+ - Bruce can f,f+2 reverse the 4th hit  
+
+3) - reversible hits: 1st.3rd.4th.5th.6th.9th.10th
+
+ - Lei can b+1+2 after 4th hit
+ - Bruce can f,f+2 reverse the 4th hit
+
+
+4) - reversible hits: 1st.3rd.4th.5th.6th.9th.
+
+ - Lei can b+1+2 after 4th hit
+ - Bruce can f,f+2 reverse the 4th hit
+
+5) - reversible hits: 1st.3rd.4th.5th.6th.
+
+ - Lei can b+1+2 after 4th hit
+ - Bruce can f,f+2 reverse the 4th hit
+ - block 9th hit, then ws+2_4
+ - escape throw with 1+2
+
+ ____________________________________________________________________ 
+|___K u m a / P a n d a______________________________________________|
+
+Kuma and Panda have no 10-strings.
+ ____________________________________________________________________
+|___K u n i m i t s u________________________________________________|
+
+1)-1.2.1.4.4.4.1.2.3.2
+   h m m h h l m h m !
+
+ - reversible hits: 1st.4th.5th.6th.
+ - duck 4th hit, then ws+2_4
+ - jab after 3rd hit...Bruce can 1.4.3.
+ - Lei can b+1+2 after the 3rd
+ - sidestep left after 3rd hit
+ - wc+1 after blocking 6th hit
+ - after 9th hit d/f+2_ss_almost anything
+ ____________________________________________________________________
+|___L e e  C h a o l a n_____________________________________________|
+ 
+1)-d/f+1.2.2.1.3.3.3.4.3.4
+       m h m h h l h h h m
+
+ - reversible hits: 1st.2nd.3rd.5th.10th.
+ - duck 2nd hit, then wc+1
+ - duck after 4th hit & wc+1_ws+2_4
+ - duck 7th hit & ws+2_4 right after kick goes over your head
+ ____________________________________________________________________
+|___L e i  W u l o n g_______________________________________________|
+ 
+1)-1.2.1.3+4.2.1.4.1.4.4
+   h h l  m  m m h m l h
+2)-1.2.1.3+4.2.1.4.1.2.3
+   h h l  m  m m h m m h
+3)-1.2.1.3+4.3+4.3+4.1.1.2
+   h h l  m   m   m  l l m
+
+
+1) - reversible hits: 1st.4th.5th.7th.8th.10th.
+
+ - wc+1_hopkick_ws+4 after blocking the 3rd hit
+ - d/f+2 after the 1st flip.....must be quick
+ - sidestep left after 3rd hit
+ - Lei can CH 4 after 1st flip
+
+
+2) - reversible hits: 1st.4th.5th.7th.8th.10th.
+
+ - wc+1_ws+2_hopkick_ws+4 after blocking the 3rd hit
+ - d/f+2 after the 1st flip.....must be quick
+ - sidestep left after 3rd hit
+ - Lei can CH 4 after 1st flip
+  
+
+3) - reversible hits: 1st.10th.
+
+ - wc+1_ws+2_hopkick_ws+4 after blocking the 3rd hit
+ - d/f+2 after 1st or 2nd flip.....must be quick
+ - sidestep any flip kick
+ - Lei can CH 4 after 1st flip
+
+ ____________________________________________________________________
+|___L i n g  X i a o y u_____________________________________________|
+
+1)-u+4.1.2.1+2.1.3.4.4.4.1
+     m h h  m  m h l l m m
+2)-u+4.1.2.3.3.2.1+2.1.4.2
+     m h h l l m  m  l m m
+
+
+1) - reversible hits: 1st.2nd.5th.6th.9th.10th.
+
+ - if your very quick duck under the 2nd hit, and then ws+2_4
+ - as soon as she turns her back block low(7th hit) then ws+4
+
+
+2) - reversible hits: 1st.2nd.6th.7th.10th.
+
+ - if your very quick duck under the 2nd hit, and then ws+2_4
+ - Lei can ws+3 after blocking the 1st 2 low hits...most characters can 
+   ws+4
+ - d+1 after the 7th hit
+ - their is a long delay before before the last hit so punish her 
+ ____________________________________________________________________
+|___M i c h e l l e  C h a n g_______________________________________|
+
+1)-2.1.1.2.3.3.3.4.4.1
+   h m m m l h m h l m
+2)-2.1.1.2.3.3.2.3.2.1
+   h m m m l h m l m T
+3)-2.1.1.2.3.3.2.1.4.3
+   h m m m l h m m l m
+
+
+1) - reversible hits: 1st.2nd.3rd.4th.6th.7th.8th.10th.
+
+ - block 5th low hit, and let the 3 kick go over your head then ws+2_4
+ - sidestep left after 8th hit, if you time it right you can get a 
+   back throw.
+
+
+2) - reversible hits: 1st.2nd.3rd.4th.6th.7th.9th.
+
+ - block 5th low hit, and let the 3 kick go over your head then ws+2_4
+  
+
+3) - reversible hits: 1st.2nd.3rd.4th.6th.7th.8th.10th.
+
+ - block 5th low hit, and let the 3 kick go over your head then ws+2_4
+ - she has bad recovery after the last hit is blocked, so do a hopkick
+   or any other fast juggle starter.
+ ____________________________________________________________________
+|___M o k u j i n / T e t s u j i n__________________________________|
+
+Mokujin and Tetsujin only have the 10-strings of the character 
+he/she is imitating. 
+ ____________________________________________________________________
+|___N i n a  W i l l i a m s_________________________________________|
+
+1)-(WS+1)_(d/f+1)_1.2.1.2.3.3.2.1.2.4 
+     m       m    h h h h h l h h h h 
+2)-(WS+1)_(d/f+1)_1.2.1.2.3.3.2.1.4.3
+     m       m    h h h h h l h h l m
+3)-(WS+1)_(d/f+1)_1.2.1.2.4.3.4.2.4.3
+     m       m    h h h h h l l m l m
+
+
+1) - reversible hits: 1st.7th.10th.
+
+ - duck after 2nd hit: fc+1
+ - duck 3rd hit ws+2_4
+ - duck 3rd hit and release down as soon as you crouch to ss
+ - ws+4 after blocking the 6th hit
+ - Lei can ws+3 after blocking the 6th hit
+ - duck 8th hit and release down as soon as you crouch to ss
+
+
+2) - reversible hits: 1st.7th.10th.
+
+ - duck after 2nd hit: fc+1
+ - duck 3rd hit ws+2_4
+ - duck 3rd hit and release down as soon as you crouch to ss
+ - ws+4 after blocking the 6th hit
+ - Lei can ws+3 after blocking the 6th hit
+
+  
+3) - reversible hits: 1st.5th.8th.10th.
+
+ - duck after 2nd hit: fc+1
+ - duck 3rd hit ws+2_4
+ - duck 3rd hit and release down as soon as you crouch to ss
+ - Lei can b+1+2 after the 4th hit
+ ____________________________________________________________________
+|___O g r e__________________________________________________________|
+ 
+Ogre has no 10-strings.
+ ____________________________________________________________________
+|___P a u l  P h e o n i x___________________________________________|
+
+1)-1.2.3.2.1.2.1.4.2.1
+   h h m h m h h l m m
+2)-1.2.3.1.4.2.1.4.2.1
+   h h m m l m h m l m
+3)-1.2.3.1.2
+   h h m m m
+
+
+1) - reversible hits: 1st.4th.5th.6th.10th.
+
+ - duck after 3rd hit then ws+2_4
+ - duck after 5th hit then ws+2_4
+
+
+2) - reversible hits: 1st.4th.7th.8th.10th.
+
+ - 1 or d+1 after 3rd hit
+ - Jin,Heihachi,Kazuya, and devil can 1.1.2_1.2.2 after 3rd hit
+ - Bruce can 1.4.3 after the 3rd hit
+ - fast 4 after 8th hit
+ - sidestep left after 8th hit
+  
+
+3) - reversible hits: 1st.4th.5th.
+
+ - 1 or d+1 after 3rd hit
+ - Jin,Heihachi,Kazuya, and Devil can 1.1.2_1.2.2 after 3rd hit
+ - Bruce can 1.4.3 after the 3rd hit
+ - Lei can CH 4 after 4th hit
+ ____________________________________________________________________
+|___P r o t o t y p e  J a c k_______________________________________|
+
+1)-d+2,1,1,1,2,1,2,1,1+2,1+2    
+     m l l m m h m m  m   m
+
+ - reversible hits: 4th.5th.6th.9th.10th.
+ - low jab after blocking 3rd hit
+ - low jab after ducking 6th hit
+ ____________________________________________________________________
+|___R o g e r / A l e x______________________________________________|
+
+Roger and Alex have no 10-strings.
+ ____________________________________________________________________
+|___T r u e  O g r e_________________________________________________|
+
+True Ogre has no 10-strings.
+_____________________________________________________________________
+|___W a n g  J i n r e y_____________________________________________|
+
+1)-2.1.1.2.3.3.3.4.4.1
+   h m m m l h m h l m
+
+1) - reversible hits: 1st.2nd.3rd.4th.6th.7th.8th.10th.
+
+ - block 5th low hit, and let the 3 kick go over your head then ws+2_4
+ - sidestep left after 8th hit, if you time it right you can get a 
+   back throw.
+ ____________________________________________________________________
+|___Y o s h i m i t s u______________________________________________|
+
+1)-1.2.1.4.4.4.1.1.1.1
+   h m m h h l m ! ! !
+2)-1.2.1.4.2.2.2.4.1.1
+   h m m h m m m m ! !
+3)-1.2.1.4.4.4.1.3+4
+   h m m h h l m  m
+4)-4.4.2.2.4.4.1.1.1.1
+   h h m h h l m ! ! !
+5)-4.4.2.2.4.4.1.3+4
+   h h m h h l m  m
+6)-4.4.2.2.1
+   h h m m !
+7)-4.4.2.2.1~1
+   h h m m  !
+
+
+1) - reversible hits: 1st.3rd.4th.5th.7th.
+
+ - jab after first 3 hits
+ - Lei can b+1+2 after the 3rd hit
+ - sidestep left after the 3rd hit
+ - duck under 4th hit, then ws+2_4
+ - Lei can d/b+4 after blocking the 4th hit
+
+
+2) - reversible hits: 1st.3rd.4th.
+
+ - jab after first 3 hits
+ - Lei can b+1+2 after the 3rd hit
+ - sidestep left after the 3rd hit
+ - duck under 4th hit, then ws+2_4
+ - jab after the 7th hit
+  
+
+3) - reversible hits: 1st.3rd.4th.5th.
+
+ - jab after first 3 hits
+ - Lei can b+1+2 after the 3rd hit
+ - sidestep left after the 3rd hit
+ - duck under 4th hit, then ws+2_4
+
+
+4) - reversible hits: 1st.2nd.3rd.4th.5th.7th.
+
+ - jab after 1st hit
+ - sidestep left after 1st hit
+ - duck after 1st hit, then ws+2_4
+ - fc+1 after blocking 6th hit
+
+
+5) - reversible hits: 1st.2nd.3rd.4th.5th.
+
+ - jab after 1st hit
+ - sidestep left after 1st hit
+ - duck after 1st hit, then ws+2_4
+ - fc+1 after blocking 6th hit
+
+6) - reversible hits: 1st.2nd.3rd.4th.
+
+ - jab after 1st hit
+ - sidestep left after 1st hit
+ - duck after 1st hit, then ws+2_4
+
+7) - reversible hits: 1st.2nd.3rd.4th.
+
+ - jab after 1st hit
+ - sidestep left after 1st hit
+ - duck after 1st hit, then ws+2_4
+
+======================================================================
+======================================================================
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X Credits & Copyright Information X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+.....don't bite this faq unless you give credit to skreezy....look for my
+Bruce faq soon....
+
+Big thanks to EVERYONE at Tekken Salute's forum. Just for being 
+intelligent Tekken players. Hopefully it will be back to
+normal soon.
+	--http://salute.consolenation.com/
+
+Big thanks to the whole Tekken Zaibatsu staff for keeping everyone 
+updated with TTT information, and having the frame data we can't find
+anywhere else.
+	--http://www.tekkenzaibatsu.com/
+
+If you have anything to add, email it to me.
+======================================================================
+======================================================================

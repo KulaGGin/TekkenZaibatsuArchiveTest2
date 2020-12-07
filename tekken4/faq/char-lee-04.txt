@@ -1,0 +1,1946 @@
+A Halfway Decent Violet/Lee FAQ
+Version 1.3
+Created: 11:58 PM 8/13/2002
+By Allyourbase (Emmanuel Lopez)
+Contact: solid_snake1882@yahoo.com
+
+***********
+Legal Stuff
+***********
+Violet/Lee and other characters mentioned in this FAQ are the property of
+Namco. This FAQ is the expressed intellectual property of Allyourbase (AKA
+Emmanuel Lopez) and any infringement on copyright laws is bad. Readers may save
+or print out this FAQ as long as it is done only for private use. If you would
+like to post this FAQ on your site, please email me and let me know what you
+intend to do. Any attempt to post this FAQ without giving me credit is
+obviously against the law, so don't try it.
+
+To make sure the text is properly formatted check below
+
+1234567890
+abcdefghij
+
+If the above text lines up, you're free to go!
+
+*****************
+Table of Contents
+*****************
+I.    Introduction/Why I made this FAQ
+II.   Version History
+III.  Movelist
+IV.   Analysis
+      -Throws
+      -Special Arts
+      -Hitman Stance
+V.    Lee Doesn't Suck
+VI.   VS. Strategies
+VII.  Closing Remarks
+VIII. Thank you's and dedications
+
+************
+Introduction
+************
+The Tekken series, especially Tekken Tag Tournament, is one of my all-time
+favorite fighting games, right up there with SoulCalibur and Marvel Vs. Capcom
+(which I suck at sadly). Tekken is an easy game to get the feel of and at the
+same time, it takes a whole lot of time and effort to truly master the game.
+This appeal to novices and seasoned experts produces a unique environment where
+an upset is possible. Compare that to other fighting games where the balance of
+power is clearly biased towards those who spend a lot of time practicing their
+skills. I'm not trying to diss experts, but I like the excitement of having to
+prove myself. I'm not saying an upset is always going to happen, but I believe
+Tekken does reward strategy, but the game's easy-to-grasp nature doesn't
+alienate newbies.
+
+I wrote this FAQ to shed some light on Violet/Lee Chaolan. Long dismissed as a
+weak Law knockoff, Lee started to develop his own style in Tekken Tag. Armed
+with devastating and flashy moves, I saw Lee was a viable character in the
+right hands. And so, the seed was planted. When Tekken 4 came out last year, I
+was pleased they had improved on Lee's capabilities. Many months and countless
+victories later, I felt it was my duty as a Tekken junkie to impart my
+knowledge to those who are fortunate enough to buy Tekken 4 for the PS2.
+
+***************
+Version History
+***************
+10:31 PM 9/5/2002 - Finished the VS. Strategies section and added the "Lee
+Doesn't Suck" section to the FAQ. Whew! I think that's a wrap on Version 1.2.
+Now... to get started on that Soulcalibur II guide. Which character should I do
+it on?
+
+9:09 PM 8/22/2002 - After a nice long break, I decided to press forward and add
+some new features to the FAQ. Right now, I am working on the character specific
+VS. Strategies section. More updates later.
+
+2:01 PM 8/22/2002 - Completed the move analyses.
+
+7:01 PM 8/14/2002 - Finished the movelists. I'll have to round up my buddies to
+use as punching bags and collect data for the analysis. I hope school won't cut
+into my playing time too badly. Anyways, I hope everyone's milked my fondness
+for "Gilmore Girls" for all of its comical worth. Hahaha, enough already, let's
+get to work!
+
+11:58 PM 8/13/2002 - Began production of the FAQ. Poring over movelists and
+thinking about how to lay out information is tough. Did anyone else see
+"Gilmore Girls" tonight? I know it's a replay but... Hey! stop laughing! Even
+the fiercest warriors have a tender side. And besides, Alexis Bledel is a total
+fox!
+
+********
+Movelist
+********
+I'm hoping you understand the universal notation agreed upon by all Tekken
+players. If you don't know, I suggest you hop over to Tekkenzaibatsu.com and
+peruse their glossary. You will find it extremely helpful. But before we go,
+here are a few short terms to take note of:
+
+CHICKEN - to counter a REVERSAL. You need to take note of which limb was
+grabbed and press the corresponding command. For example if a left limb was
+grabbed, press f+1+3.
+HMS - Hitman Stance. Lee's signature stance. Many moves can link to and from
+this stance.
+OKIZEME - attacking a downed opponent.
+REVERSAL = Paul, Nina, Jin, and King are capable of reversing incoming attacks.
+Counter reversals with a CHICKEN.
+PARRY - to turn aside an attack to gain an advantage in frames. Law, Bryan, and
+Julia are capable of parries.
+SS - short for sidestep.
+SSL - sidestep to the left.
+SSR - sidestep to the right.
+
+OK, that's about it. Away we go!
+
+======
+Throws
+======
+Name              Position        Command                 Escape         Misc.
+
+Position change   any              u_d_b_f+1+3
+Wu Tip            front            2+4                    2
+Neckbreaker       front            F+2+4                  2
+Knee Crusher      front            f,F+3+4                1+2
+Harrassment       left             2+4                    1
+Stunner           right            2+4                    2
+
+============
+Special Arts
+============
+Name                             Command                Range            Misc.
+
+1-2 Punch                        1,2                    hh
+ = Mist Step                     ~f,N                   n/a
+ = Violet Knuckle                2                      m
+ = Violet Kick [HMS]             4,[~3]                 m
+1-2 to Silver Rain Kick [HMS]    1,2,4:4                hhm
+Acid Rain Combo                  1,3:3:3                hhmh
+Violet Knuckle                   1,F+2,2>2              hhmh
+Fang Rush                        b+1,1                  hh
+ = Triple Fang Rush              2                      h
+ = Mist Step                     ~f,N                   n/a
+ = HMS                           3+4                    n/a
+Schwartz Rose Hook               S+1+2                  m
+Rave War                         2,2                    hh
+Rave War Combo                   F+2>2>2                hmh
+Right Cross                      SS+2                   h
+ = Mist Step                     ~f,N                   n/a
+Left Violet Screw Kick [HMS]     SSR+3,[~4]             m
+Right Violet Screw Kick [HMS]    SSl+4,[~3]             m
+Slicing Kick                     d/b+3                  l
+Quick Silver Sting               u/f+3                  h
+Roundhouse                       d/f+3                  m
+Split Axe Kick                   f,f+3                  m
+Dragon Slide                     FC,d/f,d,d/f+3         l
+Head Kick to Violet Hammer       3>3                    hm
+Head to Step in Kick             3,f_d/f+3              hm
+Acid Rain Combo #2               f+3:3:3                hmh
+Mist Wolf Kick [HMS]             b+3,[~4]               m
+Mist Wolf Combo                  b+3>3                  mh
+Mist Wolf Feint                  b+3~3                  h
+Mist Wolf Trap                   b+3~3,4                n/a
+Opponent must block kick
+Silver Low Kick to Head Kick     d+3,3                  lh
+ = Violet Hammer                 >3                     m
+ = Step in Kick                  d_d/f+3                m
+Tsunami Kick                     WS+3,3                 mm               Starts
+Infinity Kicks
+ = Step in Infinite Starter      d/f+3                  m
+ = Low Kick Infinite Starter     D+3                    l
+  = Rave Kicks                   3,3,3,3...             mhmh
+   = Violet Hammer Rave Kicks    u+3,3,3...             mmh
+   = Low Rave Kicks              D+3,3,3...             lmh
+Shredder Kicks                   f,f,N,3,4              mm
+ = High Shredder Combo           >4                     h
+ = Mid Shredder Combo            >d/f_f+4               m
+ = Low Shredder Combo            >d/b_d+4               l
+Silver Sting                     u/f+3+4                h
+Delayed Dragon Slide             f,f,N+3+4              l
+Backflip [HMS]                   b,b,N+3+4              n/a
+Shaolin Spin Kicks               4,3,4                  hhh
+Roundhouse to Somersault         4,u+3                  hm
+Violet Spin Hammer               4,3,3                  hhm
+Quick Somersault [HMS]           FC,(u/b_u_u/f)+4,[~3]  m
+High Somersault                  FC,(U/B_U_U/F)+4       m
+Rainbow Drop                     FC,(U/B_U_U/F)+3+4     m
+Fake Somersault [HMS]            FC,(u/b_u_u/f)[~3+4]   n/a
+Silver Tail                      d,d/f+4                l
+Hop Kick                         U/F+4                  m
+Silver Knee                      u/f+4                  m
+Silver Whip                      f+4                    h
+Violet Heel [HMS]                b+4                    m
+Violet Kick [HMS]                d/f+4,[~3]             m
+Rising Violet Kick [HMS]         WS+4,[~3]              m
+Silver Cutter [HMS]              b,b+4,[~3]             m
+Blazing Kick                     d,d/b+4                m
+Machine Gun Kicks                4,4,4                  hhh
+Laser Edge                       d+4                    l
+ = Machine Gun Kicks             >N+4,4,4               hhh
+ = Shaolin Spin Kick             >N+4,3,4               hhh
+ = Violet Spin Hammer            >N+4,3,3               hhm
+ = Roundhouse to Somersault      >N+4,u+3               hm
+Laser Edge Rush [HMS]            d+4>4>4>4,[~3]         lllm
+Hitman Stance                    3+4                    n/a
+Mist Step                        f,N                    n/a
+ = Cancel [HMS]                  b+3+4                  n/a
+ = Soviet Kick                   3,4                    mm
+ = Sway                          b,N                    n/a
+  = Code Red Low                 4                      l
+Silver Cyclone                   d+3+4                  !
+Power Punch                      d/b+1+2                !
+ = Cancel                        u,u                    n/a
+Low Cancel to Cyclone            d+4,N+4~3
+10-String Combo                  d/f+1,2,2,1,3,3,3,4,3,4
+
+==================
+Hitman Stance Arts
+==================
+These attacks can only be done from the Hitman Stance. If you consult the above
+movelist, you see there are many ways to link into this stance. By doing so,
+you can play a lot of mindgames with your opponent. Lots of wholesome fun!
+
+
+Name                                Command                Range
+Misc.
+Freaker Jabs                        1,1                    hh
+ = Mist Step                        ~f,N                   n/a
+Fake Freaker to Scatter Kick        1,3                    h
+Fake Freaker to Violet Kick [HMS]   1,4,[~3]               m
+Fake Freaker to Silver Rain [HMS]   1,4:4,[~3]             m
+Scatter Blow                        2                      m
+Scatter Kick                        3                      h
+Ship Slicer                         4                      l
+Hitman Step                         f                      n/a
+Cancel to Standing                  b                      n/a
+Sidestep Walk                       U_D                    n/a
+Cancel to Crouch                    D/F                    n/a
+Predator Step                       u_d                    n/a
+
+********
+Analysis
+********
+
+======
+Throws
+======
+Wu Tip             2+4          Escape: 2
+Lee grabs his opponent in a headlock and gives them a noogie punch. Yes, this
+is the same technique Law has and a rather mundane one at that. Throws are
+useful for people who turtle up. If they anticipate a high attack, you can
+usually run up to them and throw them to break their guard. That'll show them.
+
+Neckbreaker        F+2+4        Escape: 2
+Another one of Lee's standard throws. This time, he grabs the opponent's neck
+and slams them down with a swinging neckbreaker. Standard throws really suck in
+T4 because you can break either of them by pressing 2. I would stick to command
+throws to crack turtler's shells.
+
+Knee Crusher       f,F+3+4        Escape: 1+2
+The only command throw at Lee's disposal. The motion is quick and simple to
+execute. Basically Lee grabs his opponent and drives his knee into their face.
+Fast. Simple. Very effective with a two button break, although an expert will
+be able to break this throw by quickly tapping and holding down 2 and then
+pressing 1 with two held down. Despite this, you should be able to land this
+throw frequently. To really make effective use of the Knee Crusher, you can
+enter the command f,N,f+3+4. Basically, this allows you to take a Mist Step and
+cancel it into the throw. As you can see, this extends the Knee Crusher's range
+exponentially. Cool, eh?
+
+============
+Special Arts
+============
+1-2 Punch                        1,2
+ = Violet Knuckle                2
+ = Violet Kick [HMS]             4,[~3]
+ = Mist Step                      ~f,N
+A good ol', tried-and-true poking technique. This is probably your safest bet
+as a good opening gambit since they come out reasonably fast. Not as damaging
+as other combos, but fast enough to stuff any throw attempts, unblockables, and
+some other stuff. Nobody's gonna psych me out by charging an unblockable. When
+I see them go for it, I just run in there and give 'em two quick jabs. Combined
+with the Mist Step, you can punch twice and then swiftly move in to close the
+gap on your opponent. In addition, you can also link to other moves from the
+Mist Step to throw off your opponent's timing. While they expect you to be
+vulnerable while moving in, you can quickly cancel the step into another
+attack. Another dimension to a simple 1-2 poke is you can throw in other
+attacks and even link into the Hitman Stance, opening up more mindgames. Last
+but not least, 1-2 Punches make great juggle fillers, although Namco decided to
+tone down juggles. Damn.
+
+1-2 to Silver Rain Kick [HMS]    1,2,4:4
+Personally, I prefer the 1-2, Violet Kick link to Hitman Stance because you
+throw out a mid kick which will push back any aggressive opponents. You really
+have to be up close for the two punches to connect. Hitman Stance is best used
+from just outside kicking range, so linking to it from this move puts you too
+close for my taste.
+
+Acid Rain Combo                  1,3:3:3
+In this series, Lee does a punch, a head kick, followed by a low kick and
+another head kick. The first two attacks hit high, which gives a beleaguered
+foe ample oppurtunity to duck under your onslaught. Not very good. I wouldn't
+throw this one out unless I had a total brain freeze and didn't know what to do
+next. To repeat, stick with the mixups available from the 1-2 Punch.
+
+1-2 to Violet Knuckle            1,F+2,2>2
+Lee does two head punches, a body blow and a final head punch. The good thing
+about this combo is the last hit can be delayed to confuse the crap out of the
+other guy. Against anybody with a functioning brain and some skill, you should
+cut this attack short on the body blow because an expert will wise up to your
+mind games and duck the last punch. You should throw this out every and then to
+poke somebody out of their rush or just to keep them away.
+
+Fang Rush                        b+1,1
+ = Triple Fang                   2
+ = Hitman Stance                 3+4
+ = Mist Step                     ~f,N
+This is the meat and potatoes of Lee's punch strings. The Fang Rush opens up
+with Lee striking the other guy's head with a backfist before hitting them in
+the chest with another backfist. Because of the lunging motion Lee makes when
+executing this attack, you can use this from a good distance away. You will
+like this attack because it's fairly quick, covers a lot of ground and can link
+into either the Hitman Stance or the Mist Step. Furthermore, you can execute
+the Fang Rush straight from a block, making it a handy retaliatory move against
+blocked moves.
+
+Schwartz Rose Hook               SS+1+2
+One of Lee's sidestepping attacks. Executing this command causes Lee to hit his
+opponent with a quick hook punch. If timed right, it is possible to sidestep an
+attack completely and score with this one. The range is a little lacking, as
+you have to be pretty close for it to work. At the same time, it also hits mid
+so you can duck it. Master this move and you got a solid counter.
+
+Rave War                         2,2
+Honestly, this move isn't so hot. Lee simply jabs his opponent in the head and
+follows it with a backfist to the head. Both moves hit high, so it shouldn't
+take a rocket scientist to duck. There are better punch strings at Lee's
+disposal.
+
+Rave War Combo                   F+2,2>2
+A much better variation on the Rave War. Lee advances forward with a head
+punch, body blow and a backfist to the noggin. The good thing about this move
+is Lee moves forward while attacking, allowing you to close the gap between you
+and your opponent or push them into a wall. The last hit goes high, so it's
+best just to stop at the last hit. A very effective poking tool, though not as
+fast as the 1-2 Punch or as versatile as the Fang Rush.
+
+Right Cross                      SS+2
+ = Mist Step                     ~f,N
+Another of Lee's attacks coming off the sidestep. This time Lee throws out a
+quick right cross which hits high. Although it hits high, the execution speed
+is pretty fast and you can link to the Mist Step to set up some of your other
+attacks. Mix this up with the Schwartz Rose Hook and the Screw Kicks to give
+your sidestep some flavor. Remember, in T4, if you can sidestep like a pro,
+then you can easily beat 75% of the people you face.
+
+Left Screw Kick [HMS]           SSR+3,[~4]
+Yet another sidestepping attack at Lee's disposal. The motion for this one is a
+bit odd because you can only do it from one particular direction. Novices may
+be put off by this, but a true master knows the value of this move. Lee does a
+slow turning kick which hits mid and links into the Hitman Stance. Use this
+from a good distance away, like when you're anticipating an opponent to run in
+and attack.
+
+Right Screw Kick [HMS]          SSL+4,[~3]
+Like the Left Screw Kick, this can only be done sidestepping in a particular
+direction. This version is slightly more powerful than the Left Screw Kick. My
+advice is to either stick with one of these and memorize how to do it from both
+sides of the screen or two memorize how to do both from both sides of the
+screen.
+
+Slicing Kick                    d/b+3
+A good move to deceive opponents with. Lee takes a step forward and then uses
+his left leg in a low sweeping motion to hit low. There's a little windup to
+this move, but the kick itself is pretty speedy. On a counterhit, you'll cause
+your opponent to shift to his/her side, setting up a side throw oppurtunity if
+you're fast enough. Use this one occasionally because even the most dimwitted
+opponent will wise up if you overuse it. You can also use the Slicing Kick to
+tag grounded opponents.
+
+Quick Silver Sting               u/f+3
+A flashy move to look at and pretty good too. Jumping into the air, Lee throws
+out a wicked cool sidekick which will knock down an opponent if it connects.
+The only problem is the kick hits high and comes out pretty slow. Believe it or
+not, there is a slower and more powerful version. My suggestion is to use this
+one every now and then to throw your opponents off. You can also use it to halt
+a charging opponent from long range. Don't go crazy with it though, OK?
+
+Roundhouse                      d/f+3
+The roundhouse is a pretty simple move that has many uses. Lee simply throws
+out a roundhouse kick with his left leg. You can use this as part of your
+poking game, to push an opponent away or to bait a chicken (more on that
+later). The range is pretty good and even up close it's a good idea to throw
+one out every now and then.
+
+Split Axe Kick                  f,f+3
+Borrowing a trademark move from his foster family, Lee steps forward and brings
+his leg down with a crushing blow. Since Lee has few power moves besides this
+one, I would use this attack at long range or to punish missed attacks. It hits
+mid, so ducking opponents better think twice about crouching to avoid attacks.
+You can also use the Split Axe Kick to keep grounded opponents from rolling
+onto their feet.
+
+Dragon Slide                    FC,d/f,d,d/f+3
+One of Lee's sneaky weapons from the fully crouched position. Lee slides
+forward baseball-style and trips up his opponent in the process. This leaves
+Lee face down with his head towards his opponent, and it's possible to add a
+sweep kick if you're fast enough. Throw this in with other mixups from the
+fully crouched position to keep the surprise factor intact. Just keep in mind
+you'll switch sides with your opponent. If you're comfortable playing from the
+2P position, there's no need to worry.
+
+Head Kick to Violet Hammer      3>3
+Lee kicks his opponent in the head before using the same leg to deliver an axe
+kick. Probably a good overall attack to use as a poke or if you have a brain
+freeze and don't know what to do. As you can see, the last kick can be delayed,
+which is useful in getting turtles to come out of their shells. The axe kick
+hits mid, so even if the other guy ducks you can probably still nail them.
+Don't too predictable using it, because a savvy player will block high or
+attempt to reverse you.
+
+Head to Step-in Kick            3,d_d/f+3
+Similar to the Head Kick to Violet Hammer, Lee begins with a head kick. But
+this time he steps in and throws out a side kick as a followup. The side kick
+has more range than the Violet Hammer, so this is a safe bet when just outside
+of punching range. The delivery of the last kick is somewhat slower, so be sure
+to have a chicken ready in case of a reversal.
+
+Acid Rain Combo #2              f+3:3:3
+Not really a great combo to use because all three kicks can be blocked
+standing. There are better kicking combinations to be had. Use sparingly,
+unless you know your opponent sucks.
+
+Mist Wolf Kick [HMS]            b+3,[~4]
+ = Mist Wolf Combo              3
+ = Mist Wolf Feint              ~3
+ = Mist Wolf Trap               ~3,4(on opponent's block)
+Although Lee has very few power moves, this is one and probably one of his best
+due to its range and speed. There are a great many mixups available from the
+Mist Wolf Kick, the most notable is the ability to go into Hitman Stance.
+Ahh... all the mind games you can play with the Hitman Stance. Use the Mist
+Wolf Combo against inferior opponents, because experts will be wise enough to
+duck the last hit. The feint will probably fake out some people some of the
+time, so throwing it out adds more dimension to the Mist Wolf Kick. Finally,
+the trap is pretty tough to land. You have to press 4 at the exact moment your
+opponent blocks the kick. Don't obsess about trying to land it. Instead, go
+into the Hitman Stance after the Mist Wolf Kick and proceed to psychologically
+mess up your oppoent's game.
+
+Silver Low Kick                d+3,3
+ = Violet Hammer               >3
+ = Step in Kick                d_d/f+3
+Leaps and bounds better than the Head Kick to Violet Hammer. The initial hit is
+low, which is more than enough to throw off even the smartest players. Either
+finisher hits mid, allowing you to hit crouched opponents. However, the Step in
+Kick has more range than the Violet Hammer. Use it at range. Up close, finish
+this combo off with the Violet Hammer. You'd be surprised how many times you'll
+nail this move before people wise up to it.
+
+Tsunami Kick                   WS+3,3
+ = Step in Infinite Starter    d/f+3
+ = Low Kick Infinite Starter   D+3
+  = Rave Kicks                 3,3,3,3...
+   = Violet Hammer Rave Kicks  u+3,3,3...
+   = Low Rave Kicks            D+3,3,3...
+THE most recognized and feared Lee technique. It is possible to kick
+indefinitely, as the name implies, although it isn't wise to do so. There are
+tons of mixups available from the Tsunami Kick starter and most achieve the
+"deer caught in the headlights" effect nicely. Most people will freak out once
+you start your barrage of kicks and will turtle up or try to counterattack. You
+can either start the third kick low or mid, and it's a good idea to vary your
+Infinite Starters to keep other players on their toes. Another plus is the
+kicks are all done with the left leg, so buffering a reverse should always be
+easy. Just be careful if you're playing against King. No matter what anyone
+tells you, you cannot escape from his kick reversals.
+
+Shredder Kicks                f,f,N+3,4
+ = High Shredder Combo        >4
+ = Mid Shredder Combo         >f_d/f+4
+ = Low Shredder Combo         >d/b_d+4
+Stealing a move from Paul, Lee charges in and delivers two mid-hitting
+launching kicks and follows up with a finisher of your choosing. After the
+dashing motion, Lee goes into the Mist Step, allowing to delay the actual
+attack considerably and expand your range. For example, you can dash, count to
+1 and then launch the Shredder or you can dash, complete a Mist Step and then
+do the Shredder. Along with the Silver Knee, Hop Kick, and Blazing Kick, this
+is a sound juggle starter.
+
+Silver Sting                  u/f+3+4
+The beefed up version of the Quick Silver Sting, except slower and more
+powerful. This time, Lee does a turning jump kick aimed for his opponent's
+skull. There's a little windup, so an alert player can probably duck or jab you
+out of the attack. Thus, my advice is to use this when you anticipate an
+opponent's attack. One more note, this is the only attack which will juggle off
+the Scatter Blow from Hitman Stance.
+
+Backflip [HMS]                b,b,N+3+4,[~3+4]
+Highly useful to create some space between you and an opponent. I like to use
+this to break away from an aggressive opponent or just to play mind games.
+
+Delayed Dragon Slide          f,f,N+3+4
+Similar to the Dragon Slide, you don't have to do this one from the fully
+crouched position. The only difference is there's a delay because Lee stops and
+turns around before sliding. I would recommend using this move at range, as a
+mixup for the Shredder Kicks. Once you have the opposition anticipating the
+Shredder Kicks, you can bust this one out for a low hit.
+
+Shaolin Spin Kicks            4,3,4
+Yet another set of moves borrowed from Law. All of the kicks hit high, so smart
+players will duck or poke you out of your rush. Otherwise, the kicks allow Lee
+to advance, allowing you to close the gap on the other player. All told, don't
+go crazy with this one.
+
+Roundhouse to Somersault      4,u+3
+Lee throws out a head kick, pauses, then does a Somersault. The delay usually
+fools people into eating the Somersault, so you can get away with abusing this
+move to a degree. Throw it in with other kicking combinations to mess up your
+opponent's timing. Too bad you can do any juggles from this move, because the
+Somersault is one hell of a launcher.
+
+Violet Spin Hammer            4,3,3
+Similar to the Shaolin Spin Kicks, but instead of throwing out a final spin
+kick, Lee drops his leg with an axe kick. Use this instead of the Shaolin Spin
+Kicks. It covers as much ground just as fast and can't be ducked under.
+Overall, a good move to freak people out.
+
+Quick Somersault              FC,u/f_u_u/b+4
+With all of that fancy motion, quick seems to be a strange description for this
+move. Law can do this move with a simple u/f+4. But if you've set up your FC
+guessing games fairly well, opponents looking for the Infinity Kicks and Dragon
+Slide will never seen this coming. Otherwise, you might just be doing it by
+accident, which can probably hurt your game.
+
+High Somersault               FC,U/F_U_U/B+4
+It's almost like the Quick Somersault, except slower and it doesn't launch. I
+would stay away from this one and stick with the Quick Somersault.
+
+Fake Somersault [HMS]         FC,u/f_u_u/b,[~3+4]
+This move is probably one of those "Oh crap, I didn't mean to do that" moves.
+Sure you can go into Hitman Stance, but that's about the only good point. Avoid
+this one at all costs.
+
+Silver Tail                   FC_d,d/f+4
+In a fashion similar to move Nina has, Lee uses his entire body to sweep the
+opponent of their feet. The sweep hits low and sets up okizeme pretty well. Off
+the top of my head, the only two problem I cans think of are Silver Tail can be
+countered with the universal low parry (press d/f) and you only knock the
+opponent down on a clean hit. Nevertheless, when you combine this with Lee's
+other FC attacks, you have plenty more guessing games at your disposal.
+
+Hop Kick                      U/F+4
+One of your go-to juggle starters. It's quick, and easy. You should spend a lot
+of time practicing different juggles to find out which combos you're
+comfortable with. Definitely bust out a Hop Kick after a blocked move. It has
+great range but the recovery will leave you in a compromised position if it's
+blocked.
+
+Silver Knee                   u/f+4
+Not to be confused with the Hop Kick. The motion is almost similar except it's
+u/f and not U/F. Silver Knee is a decent juggle starter. What it lacks in
+range, it excels in speed and recovery. This is definitely best used up close,
+around punching range. Again, practice juggles so you know how to maximize the
+damage you score off your opponent's air time.
+
+Silver Whip                   f+4
+Just about the fastest kick in the game. I use this attack to stuff any strings
+and/or multithrow attempts. My only complaint is it hits high, but you need
+Jedi-like reflexes to anticipate when a Silver Whip is coming. It's fairly easy
+to abuse this move because a surprising number of people, and experts, will eat
+this move. For all it's worth, the Silver Whip doesn't do much damage, but
+since you'll be landing them often, all that tick damage really starts to add
+up.
+
+Violet Heel [HMS]            b+4,[~3]
+Not exactly an "abuse me" attack, but effective when thrown out at odd
+intervals. It's especially useful when you want to link into Hitman Stance.
+What's even better is you can throw out the Violet Heel and follow it up with
+either the Silver Whip, Violet Spin Hammer, or some other quick attack to throw
+off you opponent's timing. Violet Heel is primarily used as a fast and easy
+link into Hitman Stance. It can launch opponents, but only on counterhit and
+most of the time you'll have gone into Hitman Stance before you can capitalize.
+
+Violet Kick [HMS]            d/f+4,[~3]
+Lee throws out his right leg with a front snap kick. It's not as fast as the
+Silver Whip, but the ability to link into Hitman Stance is a welcome property.
+From there you can wreak all the mayhem you want. This is a pretty good
+interrupt against strings, but I prefer the Roundhouse to push people who are
+too close.
+
+Silver Cutter [HMS]          b,b+4,[~3]
+It looks like the Violet Heel except it comes out slower and knocks down when
+it scores. The Silver Cutter is an excellent defensive move because the initial
+b,b motion means you backpedal a bit before unleashing a kick. It also tracks
+sidesteppers well. Pretty useful when trying to play keep away with
+overaggressive opponents. Links into Hitman Stance for more fun!
+
+Rising Violet Kick [HMS]     WS+4,[~3]
+Coming out of the fully crouched position, Lee hits his opponent with a kick to
+the gut. It's similar to the standing Violet Kick. When combined with the other
+attacks from the fully crouched position, like the Dragon Slide or Infinity
+Kicks, it really shines in throwing off the other player's rhythym.
+
+Blazing Kick                 d,d/b+4
+A trademark Lee move, he whips out his right leg and sends the opposition
+flying sky high into the air. If fighting didn't work out, Lee could always try
+out as a kicker in the NFL. Haha. Seriously, pay special attention to where
+you're fighting. In open areas, a launched foe will float much higher than any
+other juggle starter. In closed areas like the garage or airport, they will hit
+the wall and come crashing down sooner, enough to throw off your juggle timing.
+Blazing Kick is a decent juggle starter, pushing back opposing players if
+blocked. All in all, it's pretty safe, but I would recommend using Blazing Kick
+at range or when you anticipate an incoming attack.
+
+Machine Gun Kicks            4,4,4
+The speed of the Machine Gun Kicks is impressive, but all three of them hit
+high, which leaves you pretty vulnerable if your attack is ducked. Stick to
+using the Shaolin Spin Kick or Violet Spin Hammer since they fulfill the same
+functions the Machine Gun Kicks do. Still pretty useful if you're in a jam and
+don't know what to do.
+
+Laser Edge                   d+4
+ = Machine Gun Kicks         >N+4,4,4
+ = Shaolin Spin Kick         >N+4,3,4
+ = Violet Spin Hammer        >N+4,3,3
+ = Roundhouse to Somersault  >N+4,u+3
+A low hitting side kick with many great mixups. This is a kick string you can
+rely on heavily. The fact you can delay the next kick will give you a huge
+advantage over the other guy. In fact, it's entirely possible to base your
+entire offensive strategy around this string. The two best mixups in this
+series are the Roundhouse to Somersault and the Violet Spin Hammer because the
+former has a little delay before the Somersault. The Violet Spin Hammer can be
+used to advance on somebody or to tag ducking opponents.
+
+Laser Edge Rush [HMS]        d+4>4>4>4,[~3]
+This is the move that will get you labeled "cheap" if you use it a lot. People
+complain about this move. Why? Instead of bitching about it, why don't they
+just learn how to parry or reverse this attack on reaction. C'mon you lazy
+slapasses, it isn't that hard. All but the final kick hit low, so anybody who's
+paying attention can see what's coming. Laser Edge Rush is very effective
+against Christie scrubs or against any newbies. On counterhit, all of the kicks
+will hit, making it useful in catching grounded opponents who're trying to roll
+to their feet. But please, don't ever attempt this on an expert. They'll
+quickly hose your attack. And plus, it insults our intelligence. Of course,
+this is a great move to use to close out a match. Just because it'll label you
+"cheap" doesn't mean you shouldn't use it.
+
+Hitman Stance                3+4
+Although perceived as a taunt, this stance actually has very good attacks and
+serves its purpose as a psychological weapon. Basically, Lee rears back on his
+back leg and beckons his opponent to attack. Against poorly trained opponents,
+this might provoke them to overextend themselves in an attempt to nail you.
+Fortunately, the Hitman Stance auto-guards high and mid attacks and you can
+unleash lots of nice attacks of your own. Just be aware you can't defend as
+well as you could just standing and your mobility is somewhat limited. Since
+much of Lee's special arts link into this stance, I'll give this it's own
+seperate section.
+
+Mist Step                    f,N
+ = HMS Cancel                b+3+4
+ = Soviet Kick               3,4
+ = Sway                      b
+  = Code Red Low             4
+Don't confuse this with Kazuya's move of the same name. Instead of sidestepping
+like Kazuya, Lee crouch dashes forward. While not considered a true crouch
+dash, it does slip under high attacks. Unlike the Mishima crouch dash, Lee is
+considered fully standing after coming out of the Mist Step. I like to use this
+manuever to close the distance and stay in an opponent's face. You can also
+cancel the Mist Step with some other move; I like cancelling into the 1-2
+Punches or the Laser Edge mixups. The Mist Step has also been beefed up with
+new moves like the Soviet Kick and the Sway. The Soviet Kick looks similar to
+the Shredder Kicks and launches. It's an effective juggle starter any way you
+slice it. Sway looks like the head fake Nina, Paul and Bryan have, although
+only one move links from it. I mostly Sway just to fake somebody out. I find
+after pelting someone with enough Mist Step moves, the Sway does nicely into
+baiting an opponent into a rash attack.
+
+Silver Cyclone               d+3+4
+One of three unblockables at Lee's disposal. It's essentially an unblockable
+version of the Silver Sting with a ton of windup time. The chargeup time makes
+this skill impractical outside of practice mode.
+
+Power Punch                  d/b+1+2
+ = Cancel                    u,u
+I like to charge up the Power Punch and cancel it primarily to scare people.
+This feint works wonders against turtlers, who try to attack when they see Lee
+charging up. You can quickly throw out a Violet Kick, 1-2 Punch or Silver Whip
+to stuff their counterattack attempts. Actually, the fake Power Punch is better
+than the actual move itself.
+
+Low Cancel to Silver Cyclone d+4,N+4,~3
+I'm not sure if this is a glitch move because I've never done it myself. From
+what I hear, the timing is somewhat tricky. If anyone can tell me about this
+move, I sure would appreciate it.
+
+10-String Combo              d/f+1,2,2,1,3,3,3,4,3,4
+Everyone has seen this combo in some form or another because Law has the same
+attack. As such, I doubt you will get anything past the first four hits in.
+It's better to use the first four hits as a juggle filler or a counterattack.
+
+=============
+Hitman Stance
+=============
+Freaker Jabs                 1,1
+ = Mist Step                 ~f,N
+Lee throws out two quick backhands. I like using this move as a keepaway. Most
+people react to the Hitman Stance by trying to rush in and land a hit. With
+these two jabs, you can nail them in their folly. New in T4, you can end the
+two jabs by going into Mist Step. I can't stress how neat this is. For example,
+do Freaker Jabs, Mist Step and then come out of the step with a nice move like
+the Violet Knee for a quick juggle. Neat, eh? If you're playing aggressive,
+this is perfect for stopping a potential counterattack and closing in to press
+your advantage. For those who are more content to hang back and play mind
+games, which is what the Hitman Stance is all about, doing the Freaker Jabs
+returns you into the stance for more wholesome fun!
+
+Fake Freaker to Scatter Kick 1,3
+As the name implies, Lee throws out a fake jab. Instead of punching, he
+switches up the attack with a hooking kick. If you nail the kick on a clean
+hit, you get a jazzy autothrow where Lee wraps his leg around his opponent and
+drives their head into the ground! Just watch yourself because the kick hits
+high and is pretty easy to block or duck on reaction.
+
+Fake Freaker to Violet Kick [HMS]   1,4,[~3]
+Yet another move stemming from the Fake Freaker Jab. Instead of doing the
+Scatter Kick, a mid-hitting front kick is thrown out. Useful for faking out
+people who duck in anticipation of the Scatter Kick. The best part is you can
+return to Hitman Stance by pressing [~3] to continue your assault. It's
+impossible to stay in the stance indefinitely by repeating 1,4,[~3], although I
+wouldn't suggest doing that.
+
+Fake Freaker to Scarlet Rain [HMS]  1,4:4:4,[~3]
+I don't recommend using this move. For all the buttons your press, you pretty
+achieve the same effect as the Fake Freaker to Violet Kick.
+
+Scatter Blow                2
+Probably the most used move coming out of the Hitman Stance. It's a spinning
+uppercut which sends opponents flying. Unfortunately, juggling oppurtunities
+are limited because the other player flys too far. The only guaranteed juggle
+is the Silver Sting, making it seem like a "canned combo." If the Scatter Blow
+is blocked, there's significant lag time, so get ready to block. Like I stated
+before, this is a popular attack from the Hitman Stance; don't lean on it too
+heavily.
+
+Scatter Kick                3
+Flashy describes this move the best. On a clean hit, you will get an additional
+autothrow which is awesome to watch and humiliating for the opponent. It does
+hit high, so a savvy player will duck or block it and unleash a counterattack
+of their own. It's much more worthwhile to set this move up from the Fake
+Freaker to Scatter Kick.
+
+Ship Slicer                 4
+The Ship Slicer looks almost like the Silver Tail. They both hit low and are
+good to use at long range. The only difference is the Ship Slicer always knocks
+down, which the Silver Tail only does on a clean hit. It's the only low-hitting
+move that links off the Hitman Stance, and so should provide a good surprise
+factor. Beware of abusing this move. The worst case scenario is to get parried
+and suffer some form of abuse you can't defend against. Try to keep the
+surprise factor on Ship Slicer fresh by relying on other attacks as your
+primary method of damage dealing.
+
+Hitman Step                 f
+Tapping f allows Lee to take a small step forward while remaining in Hitman
+Stance. This is a pretty good way to move into range for Ship Slicer or some
+other jazzy attack. The step is really small, so don't rely on stepping too
+much. Then again, if you need to do a lot moving to get into position, you're
+doing the whole thing wrong.
+
+Cancel to Standing          b
+You cancel into the standing position. Simple. You can now go back to layin'
+the smack down with your special arts.
+
+Sidestep Walk               U_D
+This move shares similar properties with the Hitman Step. It allows you to take
+a small sidestep left or right. Like the Hitman Step, the movement is somewhat
+small, so use this exclusively as a way to fine tune your position in
+relationship to the other player.
+
+Cancel to Crouching         D/F
+As the name implies, this cancel leave you in the fully crouched posture. From
+here, you can unleash a whole variety of attacks stemming from the crouch.
+Infinity Kicks. Dragon Slide. Violet Kick. Also useful ducking under high
+attacks.
+
+Predator Step               u_d
+THE best movement option available in the Hitman Stance. While remaining in
+Hitman Stance, Lee takes normal-sized sidesteps. Not only does this move him
+off axis, it also allows him to advance on the opponent. At best, you can
+probably evade an attack and land one of your own.
+
+****************
+Lee Doesn't Suck
+****************
+Before we delve into the character specific strategies, there are some general
+remarks I'd like to impart to you, my pupil. First of all, I'm glad you're
+reading this FAQ. That tells me you're looking for something new in Tekken
+besides using Kazuya, Paul or somebody else because they're easy to learn and
+easy to win with. I gotta give you props for taking the road less traveled. Now
+some general words of wisdom about Lee.
+
+1) Lee ain't Law. Lee ain't Paul either. Lee doesn't have an easy executing
+power move like the Deathfist nor can he juggle well. Your strength lies in the
+speed of your attacks and the numerous mixups you have at your disposal. I
+would advise you to take full advantage of them.
+
+2) Playing Lee defensively is bad. As I alluded to before, Lee doesn't have
+many power moves to fall back on. Lee's style is rapid-fire strings and fast
+interrupts, so your best defense offense is a carefully planned and well
+executed offense. Sure you could play as Bryan, block most of the time and then
+bust out with a couple of Mach Punches to win, but this is a LEE FAQ. If you're
+not pressing the issue with attacks, you should be trying to interrupt your
+opponent's onslaught so you can resume your offensive.
+
+3) Always have a plan. Never rush at an opponent without trying to figure out
+what you plan to do next. Kinda like chess, only much faster-paced. My
+philosophy is I attack to set up my opponent for another attack. If I score a
+hit, that's just great. But the idea is to understand how to set up your
+opponent for your other plans.
+
+4) Pay attention! I know it sounds retarded, but sometimes I get busted for it
+too. It's really easy to get carried away with your strings and then eat a
+big-time ass whippin'. Take heed of your opponent's tendecies. We're all
+creatures of habit. Find your opponent's and capitalize on it. Along the same
+lines, study how they react to your attacks. Can they block it? Do they eat the
+whole string? Or did they reverse it? By noting these things, you can gauge the
+skill of the other player and give insights on how to proceed later on in the
+match.
+
+5) You can be flashy. You can win. But you can't always do both at the same
+time. Lee's specialty is chipping away at an opponent's health. I know I'm
+starting to sound like a broken record, but compared to King or Paul, Lee
+doesn't have the capability to cause a lot of damage in a hurry. Never forget
+that.
+
+**************
+VS. Strategies
+**************
+Now that you've learned everything there is to know about the various
+properties and uses for Lee's attacks, it's time to apply them. In this
+section, I will break down how Lee matches up with the other characters in
+Tekken. I'll offer insights based on experience and suggest strategies to hose
+the opposition. To make your life easier, I'll also list some key moves you
+should watch out for. Finally, I've added my own personal ratings. Instead of
+using a hackneyed star or number system, I thought it would be interesting to
+liken each of the characters to a certain situation. For example, fighting Kuma
+could be described as difficulat as getting a root canal. You get it right?
+Here are some terms I'll throw out in the style descriptions. These definition
+should give you an idea of what I'm talking about. Take note that sometimes a
+character will fall into two or more categories.
+
+offensively - also known as a "pitbull" or "bulldog." Characters used
+offensively like to pour on the attacks, giving the opponent little oppurtunity
+to counterattack. Examples would be Kazuya, Lee, and Hwoarang.
+
+defensively - also known as a "turtler." Defensive characters play lots of
+keepaway games, leaving you to screw up your rush. These characters usually
+have high damage moves, which allow them to change the momentum in their favor
+at a moment's notice. Kuma and Marduk are examples of turtlers.
+
+balanced - these characters are comfortable playing either offensively or
+defensively, depending on the situation. King, Bryan and Jin are examples.
+
+tricky - a tricky character is adept at confusing the opponent. This is usually
+entails the uses of various stances, feints or attacks that change levels
+rather abruptly. Yoshimitsu and Lei are great examples.
+
+===============
+King the Second
+===============
+Style most often used: balanced
+
+Moves to watch out for:
+1-2 Punch              1,2
+ = Suplex              2+4
+ = Palm Strike         1
+ = Powerbomb           2+4 (opponent must be crouching)
+Reversal               b+1+3_b+2+4
+Super Kick             b+3
+Hop Kick               u/f+4
+Stagger Kicks          d+3+4,4,4
+Spinning Knife Hand    1+2,1
+Dark Shoulder          f+2+3
+Low Dropkick           d/b+4
+Elbow Sting            d/f+1
+Low Jab Uppercut       d+1,~N+2
+Giant Swing            f,HCF+1
+Deadly Boomerang       SS+3+4
+Frankensteiner         d/f+3+4
+Konvict Kick           f,f+4
+Flying Knee            f,N,d,d/f+4
+Giant Swing            f,HCB+1 [escape: 1]
+Any chain throw setup
+
+How to win: There's a reason to fear the man in the jaguar mask. King has
+inherited some of the late Armor King's moves to make him a more potent
+opponent. While most people only associate King with his multithrows, a true
+King expert knows better. King is adept at short, rapid poking strings and an
+expert will use this to set you up for a whole multitude of chain throw
+horrors. King has one of the fastest 1,2 jabs in the game and he will either
+use that or the Low Jab Uppercut to keep the heat on you. Your paramount goal
+is to keep your opponent off balance. The best way to do this is to out poke
+King and stay in his face with firm, sustained pressure. Don't rush in wildly
+attacking because you'll most likely get reversed or eat a big time attack. I
+like to exploit the mixups I have at my disposal, namely the Laser Edge mixups
+and the Triple Fang. By keeping the opposition guessing, you can divert their
+attention from planning their attack to stopping yours. At range, be wary and
+rush in when you see an opening. The Deadly Boomerang Kick is the hardest
+hitting regular move in the game and walking into one really isn't helping your
+cause out any. You want to keep King at around kicking range, just out of
+Stagger Kick reach. If you're too close you could get Hop Kicked for a quick
+juggle, knocked silly with a Super Kick or eat a CH Stagger Kick. For the most
+part, you can stop crouch-dashes cold with a well-place Mist Wolf Kick, but be
+prepared to break a throw. I recommend the 2,1,1+2 double tap because a
+majority of King's throws break with either 2 or 1+2. You need fingers of
+lightning to do it. To do the double tap, you press 2,[1],1+2. Simple right?
+Obviously any opponent is less dangerous when they're in the air. Punish
+whiffed and blocked attacks with a Silver Knee or Hop Kick to pop King up if
+you're in range. Otherwise, go with the Mist Wolf Kick. Low hitting moves are
+pretty useful against King, since he can only reverse high and mid attacks.
+Sidestepping is also useful to get around King's attacks and set up your own.
+Stick with the Schwartz Rose Hook and the Right Cross because the Screw Kicks
+are slow enough to reverse, and you can't chicken King's kick reversals. Along
+the same vein, don't become predictable with your kicking strings. It will be a
+difficult battle, but if you pick your spots carefully, you can exploit your
+speed advantage to triumph.
+
+Difficulty = Trying to take a college final exam while being shot at by a
+sniper.
+
+==============
+Kazuya Mishima
+==============
+Style most often used: offensively
+
+Moves to watch out for:
+Shining Fists          1,1,2
+Blazing Demon Rush     b+3,1,4,2
+Gut Punch              d/f+2
+Mist Step              f,N
+ = Wind Godfist        d/f+2
+ = Hell Sweeps         d/f+4
+Stonehead              f,f+1+2 [escape: 1+2]
+Crouch Dash            f,N,d,d/f
+ = Wind Godfist        2
+ = Hell Sweeps         4,4
+Heel Drop              d/f+4,4
+Donkey Elbow           b+1
+Demon Gut Punch        WS+2
+Statue Smash           d/b+4
+
+How to win: Kazuya doesn't have very many moves; just the ones good at beating
+you. You'll see a plethora of crouch dash mixups. Other moves which start with
+an f,f motion can be buffered into a crouch dash, so be on your toes for a
+buffered Stonehead throw. If you do get grabbed, press 1+2 immediately to get
+out of it. Try not to overextend yourself attacking, because if you miss,
+you'll be staring at the wrong end of the Shining Fists combo. Beat Kazuya at
+his own game by unleashing a barrage of your own attacks. Your punch combos can
+stuff most of his more powerful attacks. If you ever see Kazuya throw a 1-2
+punch, your reaction should be to duck because he'll probably tack on the
+Statue Smash afterwards. The deadliest move in Kazuya's arsenal is of course,
+the Wind Godfist. It's the fastest juggle starter in the game. Once you do get
+popped up, you'll be subjected to some painful juggles. Along the same vein,
+avoid subjecting yourself to CH. If you're not careful a Demon Gut Punch will
+throw you into a crumple stun and set you up for a world of hurt. Since the
+crouch dash is so great at range, try to stay close to Kazuya. That way, he'll
+have to rely on other moves to create some space. Your main goal is to pour on
+the pressure. Kazuya doesn't have much in the way of defensive moves and you
+can exploit this liability with a controlled flurry of pokes and custom
+strings. By poking him out of his rush, you dictate the pace at which the fight
+goes. Lee is a far superior poker, so throwing in short strings with various
+attack levels works to your advantage. You can go into Hitman Stance because it
+auto guards high and mid attacks. Since Kazuya has a condensed library of
+moves, it's easy for him to get predictable. Don't hang back and wait; take the
+fight to Kazuya.
+
+Difficulty = Writing and turning in an FAQ in 3 days.
+
+============
+Paul Phoenix
+============
+Style most often used: offensively
+
+Moves to watch out for:
+1-2 Punch              1,2
+Deathfist              QCF+2
+Elbow Thruster         QCF+1
+Step in Strike         f+1+2
+Head Fake              QCB
+ = God Hammer Punch    1
+ = Rubber Band Attack  2
+ = Sweep               3
+  = Elbow Strike       2
+   = Stone Breaker     2
+   = Deathfist         1
+Tile Splitter          d+1
+Falling Leaf           d+4,2
+Low Kick               SS+3
+Shoulder Tackle        f+1+4
+Shredder Kicks         f,f+3,4,4_d+4_f+4
+Shredder               u/b_u_u/f+3,4
+Push Away              f,f+1+2 [escape: 1+2]
+Reversal               b+1+3_b+2+4
+
+How to win: There are three flavors of Paul players. First you have the "I'll
+abuse the Deathtfist" scrub. These chumps are easy to dispatch. It's possible
+to sidestep the Deathfist, but in my opinion it's much too risky since it
+tracks reasonably well. I prefer to block and counterattack. If you give little
+oppurtunity to get Deathfist'ed, then you've eliminated 100% of the scrubs'
+offense. This forces the chump to rely on other attacks, which in all
+likelihood, they don't know. From there, you're free to beat the crap out of
+them. The second variety is the reverse scrub. These morons like to turtle up
+and reverse anything you throw at them. What they don't know is Lee is an
+excellent character to bait and buffer chickens because a lot of his attacks
+use the same limb more than once. For example, the Machine Gun Kick is just
+4,4,4 so buffering a chicken is a easy as 4,4,[4]. Try to bait this scrub into
+reversing. Lots of Machine Gun Kicks, Low Kicks to Violet Hammer, Infinity
+Kicks and other simple attacks are in order. Getting chickened has a nice
+chilling effect, and once they learn you know how to counter a reverse, they're
+toast. Smoke and cook to taste. The final variety is the expert. An expert will
+refrain from using the Deathfist unless you miss badly. They like the Falling
+Leaf combos and throwing out short strings to poke you out of your game.
+Fortunately, the Falling Leaf only knocks down on a clean hit, and if you're
+any farther than punching range, that's not going to happen. As for the poking,
+sidestep frequently to avoid the incoming blows. It's in your favor to
+frustrate the other player with your rapid-fire combinations and juggles. Paul
+doesn't have much in the way of low hitting attacks, so you can focus on
+blocking high and mid.  The Silver Whip is excellent in breaking up rush
+attempts and the Roundhouse can push Paul back and force him to come to you.
+Any Shredder attempts can quickly be stuffed with a quick 1-2 Punch or Violet
+Kick. You should respond to any blocked attack immediately with Hop Kick to pop
+Paul up for a juggle. The less time he spends on two feet, the better. Keep
+these points in mind and victory should be yours.
+
+Difficulty = Asking the person you like out on a date.
+
+=============
+Nina Williams
+=============
+Style most often used: offensively/tricky
+
+Moves to watch for:
+Blonde Bomb        f+1+2
+Bad Habit          f,f+3_QCF+3
+Divine Cannon      d/f+3+4
+Spin Kick to Upper d+3,2
+Reversal           b+1+3_b+2+4
+Ray Hands          d/f+1+2
+Spiral Explosion   SS+1+2
+Cartwheel Punch    1+4
+Quick Panther Claw f,f+2
+Wipe the Floor     d,d/f+4
+Head Grab Toss     u/f+1+2 [escape: 1+2]
+Heel Slicer        SS+4
+Jab                SS+1
+ = Crouch Dash     ~F
+  = Bad Habit      3
+ = Sway            ~B
+Uppercut           d/f+2
+
+How to win: Nina is easy on the eyes but a tough customer in the right hands.
+She is one of the best pokers in the game with her assortment of short and
+confusing strings. If you whiff, there's a Bad Habit kick waiting for you. It's
+not fun to get kicked in the nads. Fortunately, you can do something about it.
+For all she's worth, Nina just doesn't have much in the way of power moves like
+Jin or Paul. You, on the other hand have the Split Axe Kick, (Quick) Silver
+Sting, Mist Wolf Kick, and the Screw Kicks. Hmmm... she only has the Blonde
+Bomb and Bad Habit. I'd have to say six to two works in your favor. It's a good
+idea to turtle up against Nina, but not to do it completely. Remember, Nina
+still has those nasty chain throws to hose turtles. If you do get grabbed,
+stick with the 2,[1],1+2 double tap to break free. It won't work all of the
+time, just enough to save your ass. Fortunately, most of Nina's juggles,
+however long they are, don't do so much damage. There are ample oppurtunities
+to break free, usually when you fall back on the ground and Nina attempts to
+scoop you up with a d+4,1. Try to alternate between tech rolling and staying on
+the ground. In addition, the Divine Cannon isn't nearly as fast as it was in
+Tekken 3. Now let's talk offense. Any damage Nina can deal out, you can too and
+a little more. Play your strength advantage and pressure her with Triple Fangs,
+Laser Edge Mixups, and 1-2 Punch mixups. My theory is if you're poking her, she
+can't poke back. While you're at it, juggling her is the best way to gain an
+advantage. Along the same line, perfect okizeme technique will keep Nina
+grounded, where she's not as dangerous. Remember, when fighting Nina, you want
+her 1) in the air or 2) on the ground. As always, buffering a chicken is
+necessary to deter the threat of reversal. Just thank your lucky stars Anna's
+not around, as she was more adept at staying in your face. Needless to say,
+easy on the eyes, not easy to fight against.
+
+Difficulty = Trying to go three days without any sleep.
+
+=================
+Christie Monteiro
+=================
+Style most often used: offensively/tricky
+
+Moves to watch out for:
+Slippery Kick          3,4,4,4
+Handstand              f+1+2
+Satellite Moon         4~3
+ = Satellite Grounder  3
+Arching Crescent       d+4
+Chain Kick             d/b+3,4,4,4
+Knee Thruster          b+3
+Jumping Jacks          u/b+3+4_u+3+4_u/f+3+4
+ = Grounded            D
+Rewinder               1+2
+ = Cartwheel Kick      3
+ = Grounded            3
+ = Flapjack Kick       3+4
+
+How to win: Christie isn't exactly a brand new character, style-wise anyway.
+She's basically, as one writer put it, "Eddy Gordo with great boobs." Umm...
+right. Like Eddy, she's a favorite of button-mashing morons everywhere because
+of the simplicity of her attacks. It doesn't take a rocket scientist to figure
+out that Christie's attacks chain together beautifully and a lot of them
+require kick buttons. I know the "Moves to watch out for" section may seem
+short, but a lot of these moves link into a whole shitload of other attacks.
+Why waste space stuffing a Christie FAQ in a Lee FAQ? My suggestion to you is
+to peruse a good Christie FAQ to find out what she's capable of. If you want to
+simplify things, a majority of her attacks either hit mid or low. So let's go
+over how to beat a Christie player. There are two varieties, scrubs and
+experts. If you're faced with a scrub, my first word of advice is not to
+underestimate your opponent. My second maxim is to fight fire with fire. If
+they're going to attempt to beat you with a barrage of Slippery Kicks, then get
+cheap on them too. Repeated dosages of Laser Edge Rushes, Infinity Kicks,
+Slicing Kicks and Silver Tails are in order. Remember, if they choose to play
+cheap, that's an invitation for you to sink to their level. At least for me it
+does. If there are scrubs, there must be experts too. Experts have a full
+understanding of how each of Christie's strings link into other attacks. There
+are two postions at Christie's disposal, Grounded and the Handstand. Grounded
+looks like Christie is knocked down with her feet towards you. Don't be fooled,
+there is a way to tell the difference. When Christie is Grounded her feet are
+somewhat elevated and her head is raised. It looks as if she's doing a sit up.
+When you determine Christie is Grounded, you have two options, hang back or
+charge in. If you opt to charge in, a rapid-fire attack like a Low Kick or
+Laser Edge can disrupt any mischief Christie is plotting. Most people choose to
+hang back and let Christie get up on her on. It's recommended to vary between
+charging in and staying back at odd intervals. Handstand position should be
+easy to spot, unless you need new glasses or something. Don't try anything
+fancy to bust up Christie because a lot of the moves in the Handstand can put a
+big hurting on you. Stick with the Mist Wolf Kick or Laser Edge. Both are fast
+enough to cut through Christie's strings. Above all else, stay patient. You
+will have little, if any, oppurtunities to take Christie on standing up. When
+she's standing, it's juggle time! Punish her with the baddest juggle you know.
+That wasn't so hard, was it?
+
+Difficulty = Writing a term paper due in a week.
+
+==========
+Yoshimitsu
+==========
+Style most often used: SUPER tricky/offensively
+
+Moves to watch out for:
+Jab                    1
+Savior Boot            d/f+4
+Cartwheel              f,f+3+4
+ = Shark Attack        1+2
+  = Kangaroo Kick      3+4
+Sickness               b+1+2
+ = Bad Breath          1_2_3_4
+Backhand               f+2
+Flea                   1+2
+ = Flea Headbutt       1+2
+ = Kangaroo Kick       d+3+4
+CH Blade Slice         f,f+2
+Moonsault Slayer       QCF+1
+Sword Spin             b,B+1~1
+Sword Slash            d/b+1
+Spin Kicks             d/b+3,3,3,3,3
+Leaping Knee           f,f+4
+Whirling Kick          FC,d/f+3
+Straight Uppercut      d/f+2
+Avoiding the Puddle    u/b_u_u/f+4
+Life Siphon            QCF+2 [escape: 2]
+Possession             QCB,F+1 [escape: 1]
+Hilt Uppercut          SS+2
+Hilt Strike            SS+1
+Ballerina Combo        3,3
+Saw Blade              d/b+1+2
+
+How to win: Yoshimitsu is a tricky, tricky sucka to go up against. Besides
+Xiayou and Lei, nobody else can confuse you as well as the wily space ninja.
+Namco decided to tweak with the speed of Yoshi's pokes, meaning the Savior Boot
+and standing left jab aren't as scary as before. Nevertheless, Yoshi is still
+an excellent poker and is devastatingly effective employing hit-and-run
+tactics. In addition, he also has the Straight Uppercut, one of the best
+launchers in the game (aside from the Wind Godfist) and good juggles. A good
+Yoshi player will utilize his pokes to bait you into eating juggle after
+juggle. The crafty space ninja is the master of confusion and you'll be banging
+your head in frustration deciphering what he'll do next. His unpredictable
+style and numerous unblockables will keep you on your toes all the time. In
+addition, Yoshimitsu is disturbingly adept at keeping you on the ground. Many
+of his moves can hit you as you try to roll to your feet or can quickly put you
+back on the floor. I'm talking about Whirling Kicks, Spinning Kicks, Sword
+Slashes, Flea Stances and Moonsault Slayers. No big deal, right? If you're
+reading this FAQ, it shouldn't be. I said Yoshi is good poker, but I never said
+he was better than you. Lee simply has the speed and priority to cut through
+Yoshi's attacks. Play up your speed advantage by pressuring the other player.
+As long as you keep the heat on, Yoshimitsu won't be able to hang back and play
+his confusion games. Fast attacks like the Silver Whip and 1-2 Punch are your
+go to attacks to poke Yoshi out of his strings. Why not give him a dose of his
+own medicine? Retreat into Hitman Stance and force him to come to you and guess
+what kind of junk you're trying to pull on him. Conversely, launch a bunch of
+mixups at him and have Yoshi figure out what you're up to. If you can poke
+effectively and correctly anticipate what sort of trickery your opponent is
+attempting, this fight is yours to win.
+
+Difficulty = watching TRL without throwing up or hating yourself
+
+==========
+Kuma/Panda
+==========
+Style most often used: defensively/tricky
+
+Moves to watch out for:
+Double Claw            f+1+2
+Hunting Stance         3+4
+Hammer Claw            1+2
+ = Hunting Stance      ~F
+  = Low Swipe          1,2
+  = Lifting Swipe      1+2
+  = Tackle             3+4
+ = Double Hammer       1+2
+Demon Uppercut         f,f+2
+Pushing Front Kick     f+3
+Bear Headbutt          d/f+1+2
+Body Check             u/f+1+2
+
+How to win: It's not very often you find somebody who will play Kuma, but that
+doesn't mean you shouldn't take precautions to insure your victory. Kuma is a
+great long range fighter because he has the longest arms of any character in
+the game. Don't give him the range advantage by staying back. Instead, it's
+best to stay in his face. While Kuma does have range, his moves lack any
+serious speed and priority so staying on him should always be to your favor. Be
+watchful for Double Claw scrubs. They only use one move, but try to vary the
+timing with dashing and sidestepping. It's easy to block since it hits mid.
+Other than that, the Demon Uppercut is a sneaky move which allows Kuma to move
+under high attacks. Rather than try to poke him out of it, just block it since
+it's easy to spot. Their Hunting Stance, which can be accessed after a Hammer
+Claw or by pressing 3+4, offers a range of mixups and low hitting attacks. A
+quick Low Kick should stuff any mischief they plan. In the right hands, Kuma is
+a formidable opponent, but otherwise, he isn't so much difficult.
+
+Difficulty = Doing division on a calculator.
+
+================
+Heihachi Mishima
+================
+Style most often used: offensively
+
+Moves to watch out for:
+Stonehead              f,f+1+2 [escape: 1+2]
+Wind Godfist           f,N,d,d/f+2
+Twin Pistons           d/f+1,2
+Tile Splitter          d+1
+Altar Breaker          b+1
+Dark Thrust            WS+2
+Hell Sweep             f,N,d,d/f+4,4,4,4
+ = Tsunami Kick        N+4,4
+ = Thunder Godfist     1
+Power Punch            QCF+2
+Demon's Breath         1+2
+Flash Punch Combo      1,1,2
+
+How to win: At over 75 years of age, Heihachi is easily the oldest contestant
+in this installment of Tekken. Don't let his age fool you; Heihachi is a more
+potent fighter than Wang (You remember Wang right? Man, he sucked in Tekken
+Tag). Heihachi packs a pretty painful punch and can launch and juggle you in so
+many different ways. The Power Punch is similar to Paul's except it comes out
+faster and stings less. His Hell Sweep mixups are no fun to partake in and his
+Demon's Breath attack is fast enough to stop most attacks. Don't fret, that's
+why you're here; to find out how to beat him. Heihachi is still slow compared
+to fleet-footed Lee and takes hits like a wuss. Sock it to your foster father
+with rapid-fire pokes sprinkled with the occasional power move. Sidestepping
+frequently and safely will get you around a lot of Heihachi's attacks while
+setting up your own. The best way to hose the Hell Sweep is to be able to low
+parry on reaction. If you can do that, it eliminates much of Heihachi's
+guessing games. Aside from the Hell Sweeps, Heihachi doesn't have much in the
+way of low attacks, so you can get away with blocking high to a degree.
+Fortunately, juggles have been toned down greatly in T4, which was pretty much
+old man Mishima's forte in Tekken Tag. In addition, his Hell Sweeps don't
+always hit grounded opponents. Don't count on these revision to save your ass
+however. You'll still need to play it smart to win. Except for a crappy right
+kick reversal, Heihachi can do little to deflect incoming attacks, so buffering
+chickens goes out the window. Stay on him like white on rice and you should
+prevail.
+
+Difficulty = Running to the refrigerator to get snackies before the TV
+commercial break ends.
+
+==========
+Bryan Fury
+==========
+Style most often used: balanced
+
+Moves to watch out for:
+Mach Punch             f,f+2
+Snake Edge             d/f+3
+Snake Slam             b,B+1
+Snake Punch            QCB+2
+Chains of Misery       FC,d/f,d,d/f+1+2 [escape: 1+2]
+Snake Shot             WS+1_QCF+1
+Rising Knee            WS+3_QCF+3
+Body Blow              WS+1+2
+Punch Parry            b+1+2
+ = Mach Punch          ~2
+Snake Lifter           d/b+2
+
+How to win: Bryan is a downright scary opponent in the capable hands of a
+master. He will pressure with all sorts of pokes and get you to panic. Then he
+unloads with the heavy hits like the Mach Punch and his insidious juggles
+caused by launchers, namely the Snake Slam, Snake Punch and Snake Lifter. Bryan
+also has a pretty good crouch guessing games which are also available from his
+QCF crouch dash. In addition, he also has a punch parry which chains into a
+guaranteed Mach Punch if it the parry is successful. Not to worry, there are
+weaknesses in Bryan's game. For starters, Bryan lacks much in the area of low
+hits, which simplifies your blocking technique. You can afford to block high
+and even the Snake Edge, Bryan's best low attack, has considerable windup. An
+alert player can low parry and sting Bryan with a juggle or power hit. Bryan's
+crouch dash is nowhere near as mobile any of the Mishimas, Hwoarang's, or
+King's, forcing him to stay close in order to use his crouch guessing games. A
+fast attack like the Low Kick or Laser Edge can quickly disrupt his crouch
+dash. Keeping Bryan off-balance is the key to beating him. If you manage to
+knock Bryan onto the ground, do your best to keep him there. Numerous Dragon
+Slides and other low attacks are in order. Be careful though, Bryan is more
+than capable of playing defensively. A few well-placed power hits will quickly
+shift the momentum to his favor. Avoid overextending yourself and you will do
+just fine.
+
+Difficulty = Eating anything featured in an episode of "Fear Factor."
+
+==========
+Lei Wulong
+==========
+Style most often used: VERY tricky
+
+Moves to watch out for:
+Tiger Strike           SS+1
+ = Tiger Stance        ~F
+ = Dragon Stance       ~U_D
+Drunken Fist           SS+2
+ = Drunken Strike      2
+  = Drunken Stance     ~F
+Rave Spin              d/b+4,4
+Play Dead              d+3+4
+ = Rave Spin           3,4
+ = Launching Kick      3+4
+Back Turn              b+3+4
+ = Fox Step            ~b
+ = Low Backfist        d+1
+ = Sweep               d+3+4
+  = Snake Stance       ~D
+Cannonball             b+1+2
+Drunken Punch          b,b+1
+ = Drunken Stance      ~F
+  = Drunken Punch      1
+  = Drunken Fist       2
+   = Drunken Strike    2
+ = Drunken Kick        f+3+4
+Razor Rush             f,N,1,2,1,2,4
+Hop Kick               u/f+4
+Dragon Elbow           u/f+1+2 [escape: 1+2]
+Tripping               f,f+1+2 [escape: 1+2]
+
+How to win: I hate to say it, but the moves to watch out for section is far
+from complete. Lei has a dazzling array of moves to confuse and hurt you and a
+lot of them chain together into his various stances. Rather than formulate a
+list ad nauseaum of key moves, my recommendation is to scope out a good Lei FAQ
+(there are many) and study it carefully. When I say carefully, I mean to
+actually take the command sheet, print it out and try them out for yourself.
+Through firsthand experience you can observe each move's different properties
+and links. Arm yourself with this knowledge, you'll need it. If you're a little
+pressed for time, I hope the above list cuts it. As with any other tricky
+character, such as Christie or Steve, the best way to cut through their b.s. is
+to turn up the heat. If you don't give them space to set up, it'll be a nasty
+poking war, which you have the upper hand in. Conversely, you can force Lei to
+come to you. If he lies down, get the hell away and if he goes into a stance,
+back off so he has to come at you. Force him to play guessing games from the
+Hitman Stance and punish him for wrong answers. Guessing games from mixups are
+also quite fun for you. The fully crouched position forces him to guess between
+Somersault Kicks, Dragon Slides, Violet Kicks and Infinity Kicks. Here's a
+quick description of each stance Lei has:
+
+Snake - right foot raised, left arm bent mimicking a snake poised to strike.
+Dragon - right leg hyperextended, left leg bent a bit, arms are raised with the
+right arm higher than the left.
+Panther - crouching with left arm extend toward you, palm down. right arm is
+held close to chest, palm up.
+Tiger - both hands are extended in front of Lei, mimicking a tiger's paws.
+Crane - the Crane Stance, think "The Karate Kid" movies.
+Backward - back is facing you (duh).
+Drunken - left arm is extended and Lei shuffles around randomly.
+Phoenix - left leg is raised and held close to chest, right arm is raised above
+head and left arm is held close to chest.
+
+One more word of advice, beware of a knocked down Lei. Recovery in T4 has been
+sped up and even when on the ground Lei can tag you with a Rave Spin if you're
+not careful. Never let up and be merciless in your assault. Be liberal in your
+usage of the Triple Fang and Mist Step mixups to stay in his face. Now go out
+there and win, win, win!
+
+Difficulty = Trying to find porn on the Internet. Hard at first, but once you
+know where to go, easy pickin's.
+
+===========
+Julia Chang
+===========
+Style most often used: offensively/tricky
+
+Moves to watch for:
+G-Clef Cannon      1~1~1
+Party Crasher      f,f+1
+Mad Axes           QCB,F+2 [escape: 1+2]
+Skyscraper Kick    WS+4
+Tequila Sunrise    WS+2_3~2
+Spin               3+4
+ = Spin Kicks      4,4
+  = Razor's Edge   1
+  = High Kick      4
+  = Low Kick       d+4
+Spin Kicks         4,4
+ = Razor's Edge    1
+ = High Kick       4
+ = Low Kick        d+4
+Twin Arrow         1+2
+Mountain Crusher   d/f+4>2>b,f+1
+
+How to win: Julia is one tough (and disturbingly hot) fighter. This foxy mama
+has a whole bunch of moves which can quickly change attack levels. In addition,
+many of her moves link together, allowing Julia to string together lots of fast
+attacks which will slowly, but surely, deplete your health meter. Julia thrives
+on counterhits to do the heavy damage and she can accomplish this with ease
+because her attacks have high priority. Here's a fact. Many people, even
+experts, lose to a good Julia player simply because they don't know what to
+expect. While most people study King, Paul, Christie, Nina, Kazuya, Hwoarang,
+and Lei FAQs, few bother to study Julia. This ignorance will ultimately lead to
+your downfall. It is my semi-sage advice to read a Julia FAQ so you can
+understand the different ways her moves link. Once you got that down, it's just
+a matter of reading your opponent's intentions and reacting accordingly. A
+smart Julia player will try to pop you up with Julia's fast 1~1~1 or confuse
+you with a whole crapload of mixups. Don't resort to turtling and trying to
+read your opponent. Instead, attack Julia and react to incoming attacks
+accordingly. I'm never comfortable playing guessing games, even though I have a
+fairly accurate idea of what will happen. I'd rather limit the amount of mixups
+I have to decipher by forcing my opponent on the defensive. Push Julia away and
+make her fight on your terms. Violet Kicks, Roundhouse, Mist Wolf Kicks and
+Laser Edge mixups will keep Julia a good distance away from you and allow Lee
+to dictate the pace of the match. It's never wise to go head-to-head with Julia
+because a lot of her better attacks also have good priority. Use Silver Whips
+and Triple Fangs to bust up her strings and lay the smack down with Split Axe
+Kicks and juggle starters. Keep patient because there will come a time when
+Julia has overextended herself from a barrage of attacks. Julia also has some
+degree of windup with some her attacks, so if you're feeling brave, you can
+charge in and poke her out of it. Like Nina, easy on the eyes, but not easy to
+fight against.
+
+Difficulty = Watching an episode of "Dawson's Creek" without falilng asleep.
+
+===========
+Ling Xiayou
+===========
+Style most often used: offensively/VERY tricky
+
+Moves to watch for:
+Rain Dance Stance  b+3+4
+ = Low Kick        d+3
+ = Hook Kick       4
+ = Stepping Kick   f,f+3
+ = Reverse 1-2     2,1
+  = Hook Kick      4
+Rolling Tumble     f+3+4
+Cartwheel Dodge    f+1+2
+Flapping Wings     d+1
+Phoenix Wings      D+1 (ends in Art of Phoenix Stance)
+Art of Phoenix     d+1+2
+ = Phoenix Punch   1_2
+ = Phoenix Lunge   3
+ = Tumble          f+3+4
+ = Phoenix Upper   1+2
+ = Super Upper     d+1+2
+ = Cartwheels      u+4,4,4
+Skyscraper Kick    WS+4
+Storming Flower    d/b+1
+Lily Whip          1+2
+
+How to win: Man, Xiayou can be a tough target to land a hit on. In addition to
+her regular sidestep, she also has a variety of dodges and assorted manuevers
+to confuse you. You will hardly get a chance to fight Xiayou on a horizontal
+plane, so do your best to keep her in your sights. She can't do much damage
+except if she manages to string together many attacks (which she does well), so
+you have the edge there. It would behoove you to read a good Xiayou FAQ to
+understand what she's capable of. Although Namco tweaked juggling in T4, she
+still manages to keep you in the air rather well. When she's in Rain Dance
+Stance, charge at her with caution. Although her back is turned, she can still
+make you pay dearly for your reckless aggression. The Art of Phoenix is just as
+tricky. A swift Laser Edge will knock her out of it. Darting in and out of her
+range is espcially effective and learning how to sidestep effectively will hose
+Xiayou. Now that there are walls in the different stages, focus on pinning her
+down so she has limited room to manuever in.
+
+Difficulty = Doing long division... using Roman numerals.
+
+============
+Marshall Law
+============
+Style most often used: balanced/tricky
+
+Moves to watch for:
+Advancing Knee     1,2,3
+Gut Punches        SS+2,1,2,1
+Dragon Storm       b+1>2>1
+Junkyard Dog       b+2,3,4
+Low Punch to Flip  d+2,3
+Double Flip        (u/b_u_u/f)+4,3
+Poison Arrow       f+2~1
+Dragon Tail        d/b+4
+Rave War Combo     f+2,2>2
+Dragon Hammer      f+1+2
+Knee Crusher       f,f+3+4 [escape: 1+2]
+Noogie Punch       d/f+1+2 [escape: 1+2]
+ = Bulldog         ~2,1,1+2
+Step in Kick       d/f+3
+Super Kick         f,f+3
+Parry              b+1+4_d+1+4
+
+How to win: Experts and novices alike agree, Law can kick ass. Good speed and
+strength combined with ease of use makes Law a nightmare to play against. Most
+of Lee's moves originate from Law, so some of the stuff he throws at you
+shouldn't be foreign. If you're thinking Law and Lee are alike, think again.
+Law is a character who thrives on power strikes and juggles. Lee is more of a
+pressuring type of attacker who excels at confusing the opponent with his
+mixups and pokes. The main thing you want to take note of when fighting against
+Law is to beware of his Dragon Storm and Junkyard Dog combos. These are his
+go-to strings and it is imperative you learn the difference between the two.
+Any time you get block, you can bet your lunch money he'll attempt to
+counterattack with either Dragon Storm or Junkyard Dog. Another bad thing is
+the Low Punch to Flip. The jab is pretty fast, allowing Law to interrupt your
+attack and bust out a hurtin' with the Flip Kick in one fell swoop. Try to
+alternate between slow and fast hitting moves so he can't rely on his parries
+too much. Now that Law has two different stances, you should also learn how to
+distinguish between the two. Personally, I've never seen them, since most
+people like to play Law straight up Tekken Tag style. Pressure Law with your
+best strings and keep the heat on. You never want your opponent to dictate the
+tempo at which the match goes. In my opinion, you should keep Law at kick
+range, since many of his best moves are punches. Infinity Kicks, Mist Wolf
+mixups and other moves should keep him at bay long enough. Be patient and never
+try to force anything. Your best strategy is to employ a balanced mixed of
+turtling and rushing. Good luck!
+
+Difficulty = Going to work with a hangover.
+
+==================
+Hwoarang AKA "Bob"
+==================
+Style most often used: offensively/tricky
+
+Moves to watch out for:
++++++++++++++++++++++++++++++++++++++++
+Done from either Lefty or Righty stance
++++++++++++++++++++++++++++++++++++++++
+Body Blow              d/f+1+2
+Stance Switch          3+4
+Crouch Dash            f,N,d,d/f
+ = Skyrocket           4
+ = Uppercut            2
+Talon Skyrocket        f,N,d/f+4
+Low Kick Doggy Lift    d+3,4
+Crippler               d/b+4
+Public Enemy           d/f+3>4
+Snap Kick              d/f+4
+Tsunami Kick           WS+4,4 (ends in Righty)
+
+++++++++++
+Lefty only
+++++++++++
+1-2 Punch              1,2
+ = Jump Kick           f+4
+ = Side Kick           f+3
+ = Right Flamingo      4
+ = Left Flamingo       3
+E. Coli                f+3~3
+Backhand               f+2 (ends in Righty)
+Flying Eagle           3~4
+Nose Bleed Kick        b+4 (ends in Righty)
+Left Flamingo          f+3
+Icicle Crusher         b+1+2
+
++++++++++++
+Righty Only
++++++++++++
+Migraine               1,1
+Grand Theft            f+4~4
+Cheap Shot             f+3 (ends in Left Flamingo)
+Backlash               3~4
+
++++++++++++++
+Left Flamingo
++++++++++++++
+Snap Kick              d/f+3
+Crescent Kick          b+3
+Right Heel Lance       b+4
+Teaser Trip            d+4
+Low Kick Doggy Lift    d+3,4 (ends in Right Flamingo)
+Left Heel Lance        b+3
+
+How to win: I know what you're thinking. "Dude, what the hell is a Hwoarang FAQ
+doing here?" Well, hate to say it, but it needs to be here. Hwoarang is one of
+the most complex characters in Tekken and this list is only the tip of the
+iceberg. OK, I'm going to give you a moment to catch your breath. Got it? Good,
+let's go. It's easy to notice Hwoarang's primary attacks stem from kicks. A
+good Hwoarang player will use his punching strings to set you up for his more
+lethal combos. Otherwise, a vast majority of the Hwoarang users are button
+mashing idiots. Try to spot the difference between the two. Hwoarang is
+comfortable with keeping the heat on you with flurries and flurries and
+flurries of strings and combos. As such, in conjunction with his confusing
+stances, makes him a formidable fighter. The first order of business is to
+determine which stance he's in. Take note of which leg is facing forward.
+Here's the short and sweet. If Hworang is in the 1P position LFF is when he's
+facing you (as the player looking at the screen). In 2P position, LFF is when
+his back is to you. His Flamingo Stances are easy to figure out and he can't
+block while in them. Nevertheless, caution is the better part of attacking
+because Bob can still bust out some sick attacks. The best way to counter
+Hwoarang is to close the distance on him. As a kick-based figher, Bob needs
+some room to operate. If you can stay uncomfortably close to him, as in within
+punch range, you can poke him out of a lot of stuff. In terms of blocking,
+Hwoarang has hardly any low attacks, so you should can block high. If you can
+anticipate your opponent's intentions, ducking under high attacks on reaction
+will ease your fight. The three keys to beating Hwoarang are staying in his
+face so he doesn't have operating room, keeping him on the ground, and never
+attacking recklessly.
+
+Difficulty = Surviving a heat wave while wearing sweat pants and a big, heavy
+jacket.
+
+============
+Craig Marduk
+============
+Style most often used: defensively
+
+Moves to watch for:
+1-2 Punches        1,2
+ = Body Shot       f+1
+ = Side Kick       3
+  = Headbutt       1+2
+ = Ready Stance    3+4
+Earthquake Punch   b+1
+Alligator Kick     b+4
+Ankle Kick         d+4
+Uppercut           d/f+1
+Berserker Chops    f+2,1,2,1
+Ready Stance       3+4
+ = Tornado Chop    2
+ = Tudo Takedown   1+2 (ends in Mount position)
+Reversal           b+1+2_b+3+4 (ends in Mount position)
+Suplex             QCF+1
+ = Mount           ~1+2 (ends in Mount position)
+Powerslam          QCF+2
+ = Mount           ~1+2 (ends in Mount Position)
+Backhand           b+2
+Elbow Stinger      f,f+2
+
+How to win: Craig isn't a very popular character at the arcades, but then
+again, people can be strange sometimes. The Vale Tudo master is a scary
+opponent to behold and his rough-and-tumble style suits him perfectly. If you
+don't know, Vale Tudo is a combination of Japanese jujitsu and Brazilian
+streetfighting. It was developed by the Gracie brothers and is a common (and
+formidable) style in the UFC world. The power of Vale Tudo is so awesome that
+the US even has
+certain aspects of the art taught to its elite military forces, namely the Army
+Rangers. If you're fighting Craig, expect a lot of your fights to end up with
+you on your back with him on top, trying to pound your face in. Since you like
+to do a lot of your fighting standing up, this can't be good. It's best to
+understand which moves allow Marduk to Mount. Even then, the fight's not over.
+If Mounted, Marduk can throw up to four punches at you in any order. For
+example, he can go 2,1,1,1 or 1,1,1,1. The possibilities are endless. To combat
+this, you need to be alert. If he swings with his left, you should press 1+3
+and 2+4 to block a right punch. Sometimes, Marduk gets sneaky and press 1+3 or
+2+4, which sneaks past your defense. To combat this, hit either 1 or 2. Outside
+of tussling around on the ground, the best way to take Marduk on is when he's
+on his own two feet. Pressure him relentlessly with mixups; your speed is much
+superior to his. Don't anything foolish or too risky unless you like winding up
+on the ground. Be patient, Marduk's lack of speed means he get overextended
+pretty easily. Just try to stay on your feet OK? You should do just fine.
+
+Difficulty = Eating a three course meal in one sitting.
+
+=========
+Steve Fox
+=========
+Style most often used: offensively/tricky
+
+Moves to watch for:
+British Edge       1,2,1
+ = Flicker         ~B
+ = Finisher        2
+ = Low Sweeper     d+2
+Short British Edge 2,1
+ = Finisher        2
+ = Low Sweeper     d+2
+Twin Jabs          1,1
+Low Sweeper        d/b+2
+Sonic Fang         d/f+1+2
+Weave Left         3
+ = Double Hook     1,1
+ = Overhead Smash  2
+Dashing Cross      f,f+1
+Ducking Lunge      f+3_4
+ = Super Upper     2
+Heart Break Shot   f+1+2
+Albatross Spin     3+4
+ = Gut Punch       2
+ = Low Punch       d+2
+ = Extended Spin   U_D
+  = Eagle Hook     1
+Sway               b+3_4
+Punch Parry        2~f
+ = Eagle Hook      1
+Straight Body Hook 2,2
+
+How to win: Another popular T4 character. Like Paul, Steve is powerful and easy
+to use. Steve has great poking speed and plenty of fast, hard hitting attacks.
+With his bob-and-weave style of fighting, he can fake you out of your shorts
+faster than you can say, "What the hell?!?" There are two types of Steve
+players, mashers and experts. Mashers like to abuse the Short and regular
+British Edges, usually ending it with the Low Sweeper. Twin Jabs also come out
+a lot along with random Weaves, Ducks, Spins, and Sways. In short, with all of
+this button mashing, expect to see a constant blitz of attacks. Attack whenever
+you find an opening. Beat a masher to the punch by unleashing some cheapness of
+your own, namely Infinity Kicks, Laser Edge Rushes and whatever else you think
+is cheap. The sky's the limit and it's only fair to give a "cheap" player a
+dose of their own medicine. The difference between a masher and an expert are
+almost imperceptible but the key is the pace at which the match goes. An expert
+understand he can unload a bunch of attacks in a hurry, but knows better.
+Instead he will play Steve like a true boxer, dictating the tempo with pokes
+and interrupts and then going all-out in short assaults when he finds an
+opening. It's difficult to outpoke Steve, since a lot of his moves are fast and
+have high priority. Instead, rely on a mixed blend of turtling and rushing at
+the appropriate times. By keeping him out of his optimal range, you can really
+take the teeth out of an opponent's attack. Strive to keep Steve out of his
+punching range, but close enough for you to kick him. Steve doesn't have a lot
+of low attacks or okizeme game, so if blocking and getting up should be simpler
+compared to other characters. In addition, he's vulnerable to attack when he's
+bobbing, ducking or weaving so a well-placed strike is more or less guaranteed.
+It's best to foil his trickery with a fast attack, since the main purpose of
+his feints are to bait you into eating counterhits. Be patient and time your
+rushes carefully.
+
+Difficulty = Playing basketball with a cold.
+
+==========
+Jin Kazama
+==========
+Style most often used: offensively
+
+Moves to watch for:
+Twin Thrusts       1,2
+1-2 Axe Kick       1,2,3
+Kazama's Fury      1,3,2,1,4
+Jab to Axe Kick    1,3~3
+Twin Lancer        d/f+1,2
+Lancer to Kick     d/f+1>4
+Demon Hell Thrust  1+2
+Lancer             2,1
+ = Side Crusher    4
+ = Shin Kick       4~4
+Crouch Dash        f,n,d,d/f
+ = Thunder Hook    1
+ = Wind Hook       2
+ = Stature Sweep   4
+Electric Wind Hook f,n,d~d/f+2
+Demon's Paw        f,f+2
+Laser Cannon       b,f+2>1
+ = Edge            >1
+ = Scraper         >d+1
+Devious Left Blade d+3,3
+Can-Can Kicks      d+3+4
+Battle Kick        f+4
+High Parry         b+2+4
+Lingering Soul     b+1+2
+
+How to win: Take everything you knew about Jin from Tekken Tag. That's right,
+everything. You got it all? Good, now throw it out the window. Jin is back, and
+with a completely revamped movelist. You won't see Shining Fists, Demon Steel
+Pedals and the like anymore. However, Jin retains his Electric Wind Godfist
+(renamed Electric Wind Hook), Laser Cannon mixups, and Demon's Paw attacks. At
+least you know what those look like. Jin has shifted from being a finesse
+character to more of a power fighter. You'll see plenty of Jin players at your
+local arcade, so you'll quickly get acquainted with his style. To sum it up,
+Jin can bring it, and bring a lot of it. Jin is still one of the top-tier
+offensive pokers in the game and can mix up his attacks as good as Lee. So
+where do I begin? Lee has a speed advantage over Jin and can pretty much poke
+him out of his strings. The best way to do so is to study your opponent's
+tendecies. If they start with the Laser Cannon, it's best to just block it all
+because the other two hits can be delayed and really mess you up if you get
+hit. Fake Jin out of his shorts with your insidious mixups. Sidestepping
+frequently will help you get out of harm's way, if you can do it correctly. One
+thing to take note of is Jin players like to keep the heat on you with a
+continuous rush. Let him know you mean business some of your best and baddest
+strings, juggles and stuff. It's really hard to get away from Jin because his
+Crouch Dash covers so much ground. Conversely, you too can chase a retreating
+Jin with Mist Step. Don't become too predictable with your attacks because Jin
+still has that parry you should worry about. A well-played Jin is hard to
+overcome, so you'll need to bring your A game and minimize your mistakes.
+
+Difficulty = Going to school, having a job, and a social life...
+simultaneously.
+
+======
+Combot
+======
+Style most often used: anyway possible
+
+Moves to watch out for: depends on which character its mimicking.
+
+How to win: Combot is the equivalent of Tetsujin/Mokujin from Tekken Tag. It
+can mimic and character's style although some moves have different properties
+because of Combot's size. This is especially true if Combot is impersonating
+Kuma because it doesn't have the range benefit like he does. Be wary of a
+person who chooses Combot. They might be a) a fool who has no idea what they've
+done or b) a seasoned pro who has a deep understanding each character's
+different nuances and styles. So you should either be frothing at the mouth or
+soiling your shorts. Don't be quick to judge your opponent. Wait until after a
+round or two. A novice will usually turtle and attempt to decipher which
+character Combot is. Why don't you make things harder for them by turning up
+the heat? Go crazy with your best and flashiest attacks. An expert, on the
+other hand, will most likely know what character Combot is emulating and play
+accordingly. Since the element of surprise is in your opponent's favor, I'll
+try to do my best to eliminate that advantage. The trick is to read how Combot
+is standing during the pre-fight sequence. Here's my best shot:
+
+Lee - standing in a relaxed guard position. Both hands are at around waist or
+stomach level.
+King - one of the easier ones. Standing in guard position with both hands
+reared up like a boxer. Bobs from front to back rather conspiciously.
+Lei - also fairly easy to spot. Shuffles to the left and right. If at any time
+you see the Razor Rush step during the pre-fight sequence, you should have a
+pretty good idea of what to expect from your opponent.
+Yoshimitsu - if you can't spot this, I suggest you get some glasses, man! He's
+holding a goddamn sword for cryin' out loud!
+Nina - stands with her arms out from her body. Both hands are open as if she's
+going to do a double karate chop. If you look closely, her arms move in sync as
+she bobs.
+Hwoarang - looks like King's except he isn't semi-crouched like a boxer. He
+bobs up and down rather than from front to back. If he busts out with a stance
+change... then uh... Combot is impersonating Hwoarang.
+Kuma/Panda - pretty easy. Doesn't stand in guard position. Arms are down by the
+waist and Combot is hunched over, kinda like a bear standing on two feet. Duh!
+Steve - similar to King except when he bobs, he twists his chest from side to
+side.
+Heihachi - one arm is out and away from the chest in the open position, as if
+to deliver a karate chop. The other arm is close to the chest open and facing
+palm up. Notice the wide stance adopted by the legs and feet.
+Bryan - it's a pretty macho looking stance. The left hand is down low by the
+waist, while the other hand is close to his face.
+Law - another easy character to recognize. Bobs in place while arms are
+shifting alternately from face level to abdomen level.
+Julia - her feet are spread far apart and is sort of leaning forward. The left
+arm is out at shoulder level while her right arm is close to her left elbow.
+Ling Xiayou - weight is shifted to the back leg. Her stance is similar to
+Nina's in terms of the position of her arms.
+Jin - very difficult to spot right away. Looks like a regular guarding stance,
+nothin' special.
+Paul - similar to Jin.
+Kazuya - similar to Paul, who's similar to Jin. These last three will give you
+trouble.
+
+
+***************
+Closing Remarks
+***************
+I hope you learned something from reading this FAQ. Some people attempt to
+dismiss fighting games as mindless button-mashing, but I digress. As you can
+see, it's more like a science that can be studied. And as with all sciences,
+numerous trials and errors are needed to come upon the winning formula. I think
+the guys at Namco did a marvelous job with the fourth installment of the Tekken
+series. They managed to throw in some new innovations and characters, while
+keeping enough of the "same ol' stuff" to keep long-time fans such as myself
+interested.
+
+Hopefully this FAQ is sufficient enough to vastly improve your mastery. There
+is no substitute for practice. It's one thing to go through this FAQ and decide
+in your mind which moves are the best. I know I've tried to make correct and
+factual analyses, but ultimately, you, not me, will be playing the game.
+Nothing can ever be simulated to perfection. It's better to go to your local
+arcade and practice what you've learned. Not only will you understand what
+works and what doesn't, you'll also remember more and you won't need to bring a
+sheet with commands written down every time you play.
+
+In summary, there are three points I want to elaborate on. First, I've done my
+best to dispel the myth that Lee is an inferior Law clone. Nothing could be
+farther from the truth. While it seems easier to gain mastery over characters
+like Bryan, Kazuya or Jin, Lee has a pretty steep learning curve which will
+reap massive dividends once you get it right. Second, there is no such thing as
+an all-powerful character. Each character has distinct strengths and
+weaknesses. If you suck, you only have your lack of practice to blame. Finally,
+don't be afraid to lose. That may sound antithetical to what I've written so
+far, but every match is a learning experience. You should always look for
+things you do well, things you don't excel at, and areas which need
+improvement. I wish you all the best in your pursuit of becoming the King of
+Iron Fist. Good luck!
+
+***************************
+Thank you's and dedications
+***************************
+To those who perished in the tragedies of Sept. 11, 2001 - This tragedy has
+helped unite a nation long disaffected with prosperity and self-absorption. To
+all those radical leftists, I must chastise you for trivializing these people's
+deaths as nothing more than a means of protest against US policy in the Middle
+East. You don't understand how terrorists think and nobody should be wasting
+time trying anyway. God bless those innocent souls, they will not have died in
+vain.
+
+To the men and women who are serving in the Armed Forces - You are willing to
+make the ultimate sacrifice to defend the values which make this country great:
+freedom, liberty and equality. I salute you and wish you a successful mission
+and safe return home.
+
+My family - First and most importantly, to my family, without who I wouldn't be
+the person I am today. Heck, I wouldn't even exist. My parents, brother and
+sister have been constant presences in my life and I imagine I would be a much
+worse version of my current self without them.
+
+Namco - For creating the most ass-kickin'est game in the recorded history of
+games. I salute you for you efforts!
+
+TekkenZaibatsu.com - If you need movelists, you got 'em right here! Where would
+I be without this valuable resource?
+
+GameFAQs.com - An excellent site, for the people and by the people. If you ever
+need help in a game and don't want to shell out $15 for a game guide, this
+should be your first stop. You can also catch up on the latest gaming news
+here.
+
+Whoever translated the Sega game "Zero Wing" - I pity the fool for
+unintentionally creating one of the most hilarious Internet phenomena! You have
+to watch the goofy music video to truly grasp how badly "Zero Wing" butchered
+the English language. Besides, I have a pretty cool pen name now! Someone set
+us up the bomb! Hahahahahahahahaha...
+
+All my favorite bands - The White Stripes, Coldplay, Foo Fighters, P.O.D.,
+Garbage, The Strokes, The Hives, U2, and yes, even Elvis Presley for providing
+excellent music while I wrote up this FAQ in the wee hours of the morning and
+late afternoon.
+
+Various "lad magazines" like Stuff, FHM, MAXIM - These magazines make it OK to
+act like guys. All this politically correct nonsense has to stop! And besides,
+no other magazines do a better job putting famous gals like Katie Holmes or
+Kirsten Dunst in tasty pictures. Keep up the most excellent work!
+
+
+
+

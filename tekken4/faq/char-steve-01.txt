@@ -1,0 +1,423 @@
+**********************
+Steve Fox Beginner FAQ
+**********************
+
+by Stevenson Lau (LAU) and Sheng Wan (Juniormint)
+
+v.1.2 - updated movelists with translated names from tekkenzaibatsu.com
+
+**********
+Disclaimer
+**********
+
+This document is Copyright (c) Stevenson Lau and Sheng Wan 2001, all rights
+reserved. This document may not be altered in any way.
+
+Some move names were taken from Catlord's Tekken 4 movelist while others were taken
+from www.tekkenzaibatsu.com. If any information is taken from this faq for another faq 
+then credit should be given to both Catlord's faq, tekkenzaibatsu and us.
+
+This document can be used for promotional and/or profitable purposes only if
+formal consent is obtained from either Stevenson Lau or Sheng Wan and proper credit 
+is given to the authors.
+
+All aspects of Tekken 4 used in this document are Copyright (c) 2001 Namco
+Limited. All rights reserved.
+
+
+************
+Introduction
+************
+
+This faq is geared towards people who are familiar with Tekken concepts and
+vocabulary as the 1234 button numbering system is in use for the entire document. 
+For those of youwho are new to Tekken we will provide a brief overview of the 
+connotations used in this faq later. The purpose of this faq is to provide a 
+fundamental understanding of Steve Fox,who many already regard as 
+the most powerful and interesting new character thus far.
+
+Steve is one of the fastest characters in Tekken 4 with great close to mid 
+range pokes,effective wake up games and a set of sway dodges that have immense 
+potential. As far as character innovation goes Steve is at the forefront of 
+Namco's continuous ingenuity. His moves are mainly punches with a few kick moves 
+that are mostly restricted to grounded positions. Add this to his sway system and 
+you have a character who can constantly dodge and weave while unleashing very 
+fast high priority punches. One thing that Steve is seriously lacking however
+is an effective long range game so focus should be distancing him at close 
+to mid range to optimize his effectiveness.
+
+Stevenson and I have played Steve for a combined total of 20 hours during 
+the first week that the game was released in Hong Kong. This faq is a beginners' 
+introduction to Steve. We do not claim to have found everything for him, that is 
+up to the Tekken community. Nor do we claim that everything tested by us as written 
+in this faq is set in stone. We will tell you that we personally tested everything 
+that is documented here on Tekken 4 machines in Hong Kong. Whether or not the machines 
+are different from those in America as regarding to version A and B we do not know. 
+However we expect Steve to remain relatively the same because he was toned
+down considerably from test and he is now very balanced and not as overpowered
+as before. If you have anything to add to this faq then please contact us at
+shengdogg@yahoo.com or stevensonlau@hotmail.com and we will add it to the faq.
+
+Ok enough of the attempts to cover our asses, on with the faq. The faq will 
+be structured like this:
+
+I.	Systems Guide
+II. 	Movelist
+III.	Move Descriptions
+IV.	Sway system
+V.	Juggles
+
+***************
+I. System Guide
+***************
+
+Button Mapping - In Tekken related faqs there is a code system which assigns
+each of the four buttons a number. For those of you who are new to Tekken the 
+system is like this:
+
+left punch 	= 1
+right punch 	= 2
+left kick 	= 3
+right kick 	= 4
+
+Also joystick movements are abbreviated as follows:
+
+forward		= f
+back		= b
+down		= d
+up		= u
+whilestanding	= ws (this is motion from full crouch to standing by letting 
+		      go of joystick)
+
+You can combine these abbreviations for diagonals such as db which means
+diagonally down and backwards and etc.
+
+So for instance a move is listed as f,f+2, that means the move is performed 
+as forward, forward plus right punch.
+
+Also we use the term body length in this faq to connote distance. A body 
+length is equal to the body length of an average character like law and steve, 
+laid horizontally of course.
+
+This is a very simple overview of the connotations used in tekken faqs, if 
+you want to learn the more complicated movements like crouch dash, techroll, and 
+other technical Tekken stuff then we suggest you go take a look at Catlord's excellent 
+overview in his Tekken 4 movelist at
+http://www.tekkenzaibatsu.com/tekken4/faq/t4moves.txt
+
+
+************
+II. Movelist
+************
+
+
+Throws
+
+(2+4_F+2+4) 	front Clinch 			{2}   
+ = 1    	Clinch Hammer  			{2}   
+ = 2    	Clinch Tornado  		{2}   
+ = 3    	Left Push    			--
+ = 4    	Right Push   			--
+f,f+1+2 	front Swordfish Stretch 	{1+2}   
+Flicker b+1+2 	front Griffon 25 		{1+2}   
+1+3+(u_d_b_f) 	any Position Change 		{1}   
+(F+2+4_2+4) 	left Clinch 			{1}  
+(F+2+4_2+4) 	right Clinch 			{2} 
+(F+2+4_2+4) 	back Hellfire Rage  		--
+
+Movelist
+
+1,f+1 			Jab - Body Blow 		hm   
+1,1,f+1 		Twin Jabs 			hhm   
+1,1,2 			Lightning Combo 		hhh   
+1,2,1,2 		British Edge 			hhhm (Juggles)
+1,2,1,d+2 		British Edge Low 		hhhl   
+1,2,1[~B] 		Short Edge - [Flicker] 		hhh   
+d/f+1 			Left Upper 			m   
+ = ~b+(3_4_3+4) 	= Sway 
+ = ~(3_4)  		= Left Weave or Right Weave    
+ = ~(f_F)+(3_4_3+4)  	= Ducking or Extended Ducking    
+d/f+1,2 		Upper Combo 			mh 
+d/f+1,2,2 		Upper Feint Combo 		mm
+d/f+1,2,1[~B] 		Upper Feint Hook - [Flicker] 	mh 
+d/f+1,2,1+2 		Upper Feint Twin Jabs 		mhh   
+d+1 [~B] 		Quick Hook - [Flicker] 		h
+WS+1,2 			Rising Upper - Eagle Claw 	mm
+f,f+1 [~B] 		Brit Smash - [Flicker] 		m   
+d/f+1+2 		Sonic Fang   			mm 
+f+1+2 			Heart Break Shot 		m
+2,1,2 			Quick British Edge 		hhh (Juggles)
+2,1,d+2 		Quick British Edge Low 		hhl   
+2,1 			Quick Short 			hh   
+ = ~B  			= Flicker
+ = ~b+(3_4_3+4)  	= Sway 
+ = ~(3_4)  		= Left Weave or Right Weave 
+ = ~(f_F)+(3_4_3+4)  	= Ducking or Extended Ducking   
+2,2 			Straight - Body Hook 		hm   
+2,1+2 			Straight - Twin Jabs 		hhh   
+d+2~1 			Feint Eagle 			m   
+d+2~1,2 		Feint Eagle Claw 		mm 
+d+2,1,f+2 		Eagle Hook 			lmh
+d+2~1,f+2 		Feint Eagle Hook		mh
+d/f+2 			Right Upper 			m 
+ = ~b+(3_4_3+4)  	= Sway -- --   
+ = ~(3_4)  		= Left Weave or Right Weave 
+ = ~(f_F)+(3_4_3+4)  	= Ducking or Extended Ducking   
+(d/b_FC,d/b)+2 		Cutting Hook 			L (hits grounded)  
+f,f+2 			Eagle Claw 			m   
+d/b+3 			Stomp Step   			L (hits grounded)
+d+1 [~b] 		Quick Hook - [Flicker] 		L
+2~f 			Punch Parry    
+ = f+1  		= Eagle Upper 			m
+3+4 			Forward Spin   
+3 			Left Sway Stance   
+4 			Right sway Stance    
+f+(3_4_3+4) 		Ducking   
+F+(3_4_3+4) 		Extended Ducking    
+b+(3_4_3+4) 		Back Sway Stance    
+(b+1+2_1+2) 		Flicker
+
+Sway qcb,f+2 		Hellfire    			Unblockable
+
+
+Flicker Stance - (1+2)_(b+1+2)
+------------------------------	
+1,1,1,2 		Spit Fire Combo 		hhhm
+1,f+1 			Spit Fire Hammer 		hm
+1<(u_d)+1 		Spit Fire Hook			hh   
+2 			Eagle Hook 			m   
+b+2 			Trident Lunge  			h
+3 			Left Sway   
+4 			Right Sway   
+F+(3_4_3+4) 		Extended Ducking   
+3+4 			Forward Spin    
+b+3+4 			Back Sway    
+  
+
+Left Sway Stance - 3
+--------------------
+1,1 			Twin Gut Hook 			mm
+1 [~B] 			Gut Hook - [Flicker] 		m
+2 			Short Shoulder 			m
+b+3 			Back Sway    
+f+3 			Extended Ducking   
+4 			Right Sway   
+ = ~F  			= Dash   
+    = 1_2    		= Dash Blow 			m   
+
+Right Sway Stance - 4
+---------------------
+1 			Short Shoulder 			m
+2 			Atomic Blow 			m
+b+4 			Back Sway  
+f+4 			Extended Ducking   
+3 			Left Sway 
+ = ~F  			= Dash   
+    = 1_2    		= Dash Blow 			m
+
+Back Sway Stance - b+(3_4_3+4)
+------------------------------
+1               Overhead Punch				m
+2               Limbo Uppercut *Stuns*			m
+3		Left Sway
+4		Right Sway
+F+(3_4_3+4)	Extended Ducking
+
+Ducking or Low Ducking Stance - (f_F)+3+4
+-----------------------------------------
+1 			Gazelle Punch 			m
+2 			Sea Hawk Upper 			m (Juggles)
+f+2 			Sea Hawk Hook 			h
+3 			Left Sway   
+4 			Right Sway  
+F+(3_4_3+4) 		Extended Ducking   
+b+(3_4_3+4) 		Back Sway 
+
+1+2,1,2,1,2,1,2,1,2,1   tenstring			mmmmmmmmmm
+
+Forward Spin - 3+4
+------------------
+~[U_D]          	Sidestep Spin
+  1             	Straight Left   *Stuns on CH*   m
+  (d+1)         	Low Punch                       L (hits grounded)
+2               	Straight Right  *Stuns on CH*	m
+d+2             	Low Punch			L (hits grounded)
+
+
+**********************
+III. Move Descriptions
+**********************
+
+1,2,1,2_d+2 - This is probably the first string that you will use for Steve. 
+The first 3 punches are very fast but all hit high. You can choose from a mid hitting
+uppercut ender that juggles (2) or a low sweep punch (d+2) If the first 1 counterhits
+then the rest is NOT guaranteed. The d+2 sweep will knock opponents off of their feet but
+there are no juggle opportunities afterwards becaue they will knocked a full bodylength
+back. Overall a good string to use on people when the game first comes out but after a
+while people will start to block the d+2 which is slower than the d+4 ender to 
+white heron. Keep in mind there's also the 2,1,2 and 2,1,d+2 which does the same job.
+
+db+2/FC,db+2 - Same sweep punch from the British Edge string. Decent speed, as fast as
+Law's db+4 with about half a bodylength of range. Will hit grounded  opponents so
+use it okizeme too.
+
+1,1,2 - Similiar in movement to Kaz's 112 but the 2 hits high and does not knock 
+down and the string isn't guranteed to to hit if 1 counterhits. Use 1,1 by itself as 
+a fast poke tool, but overall not much use for this string.
+
+ws+1<2 - Very fast startup from crouch, good ws move following a db1. If ws+1
+connects then 2 hits also, similiar in properties to Hwoarang's ws+4,4. After it connects 
+it will leave opponents in crouch with a bit of stun, not long enough for any possible
+continuation. Keep in mind that this move is delayable, the ws+1 looks similar to d/f+1,
+delaying the 2 on block can be helpful.
+
+df+1+2 - Overhead punch followed by uppercut. Very fast startup, uppercut 
+will hit if first punch connects. Knocks down opponent leaving them in face down heads 
+towards position. You can run up and follow up with db+2 for okizeme or d+2,1,f+2 if they 
+try to roll. Overall very useful move as counterattack against whiffed moves or after 
+blocking a long recovery move from the opponent. However it does have a punishable recovery 
+time if blocked so don't just whip it out carelessly.
+
+f+1+2 - Slow start up but one full bodylength range mid punch that stuns on regular hit. A
+ducking stance, 2 is possible after the stun leading to a big damage combo. 
+It is deceptive because he leans back at first and then punches with his entire arm length, 
+it will catcha lot of people off guard but it has horrible recovery time so don't abuse it.
+
+f,f+2 - Decent speed advancing overhead punch that knocks down opponents 
+into face down heads towards position. Good retaliation move and also fast enough to be 
+used as a deathfist type move. Follow up with db+2 for more damage, also keep in mind 
+Steve's deadly wakeup game.
+
+d+2,1,f+2 - One of Steve's best strings, the first punch is a low hit followed by a mid
+hit uppercut and ends with a high hit hook punch. The full string is useful in
+juggles and for picking up opponents as they are trying to get up from ground, works on
+Christie's relaxed position also. As a regular string however you should omit the last 
+f+1+2 as it hits high and can be easily ducked. d+2,1 by itself is a very good poke string, 
+the d+2 has decent speed and it hits low, followed up by a mid hitting fast recovery 
+uppercut (1). Think of this as like King's d1n2 but with the first hit hitting low.
+
+3+4 - The forward spin is worth mentioning, I personally find it work pretty 
+well on wakeup when the opponent is quite far. The 3+4,2 on counter hit will stun 
+the opponent and good enough to follow up with any of your favorite juggles, I personally 
+use d/f+1,2,1+2,d/f+1+2 after a counter hit 3+4,2. I say it's good on wakeup because 
+3+4,2 hits mid, 3+4,d+2 hits low and hits ground. 3+4,(D_U)+1 might catch someone who 
+decided to roll or retaliate after they see the end of 3+4.
+
+d/f+1,2 - This move is pretty decent poke. If the first hit connects the 
+second is guarentee. The real power comes from d/f+1,2,1 where the second hit on block 
+it turns  your opponent a bit. The d/f+1,2,1 if the second hit is counter it'll work like 
+counter hit d+1. Also take a look at the other varitions of d/f+1,2,(command).
+
+***************
+IV. Sway System
+***************
+
+This section consist of moves going into sway and general sway switch. The  sway system
+definately is more advance than what's below but it's a good start.
+
+First I'll point out the moves that get into sway type of stance instantly.
+
+1,2,1~B -> Flicker
+1,2,1,3 -> Left Sway
+1,2,1,4 -> Right Sway
+1,2,1,b+(3_4_3+4) -> Back Sway
+1,2,1,(f_F)+(3_4_3+4) -> Ducking or Low Duck
+
+1,2,1,2,3 -> Left Sway
+1,2,1,2,4 -> Right Sway
+1,2,1,2,b+(3_4_3+4) -> Back Sway
+1,2,1,2,(f_F)+(3_4_3+4) -> Ducking or Low Duck
+
+2,1~B -> Flicker
+2,1,3 -> Left Sway
+2,1,4 -> Right Sway
+2,1,b+(3_4_3+4) -> Back Sway
+2,1,(f_F)+(3_4_3+4) -> Ducking or Low Duck
+
+2,1,2,3 -> Left Sway
+2,1,2,4 -> Right Sway
+2,1,2,b+(3_4_3+4) -> Back Sway
+2,1,2,(f_F)+(3_4_3+4) -> Ducking or Low Duck
+
+d+1~B -> Flicker
+
+f,f+1~B-> Flicker
+
+3,1~B -> Flicker
+
+d/f+1,2,1~B -> Flicker
+
+d/f+2,3 -> Left Sway
+d/f+2,4 -> Right Sway
+d/f+2,b+(3_4_3+4) -> Back Sway
+d/f+2,(f_F)+(3_4_3+4) -> Ducking or Low Duck
+
+d/f+1,2,3 -> Left Sway
+d/f+1,2,4 -> Right Sway
+d/f+1,2,b+(3_4_3+4) -> Back Sway
+d/f+1,2,(f_F)+(3_4_3+4) -> Ducking or Low Duck
+
+Flicker,1~B -> Flicker
+
+Here's the cool part about sways.
+
+Generally you can get into any of the sways, the ducking stance and the 
+forward spin through flicker. Meaning doing something like b+1+2,3 will 
+first step back into flicker stance than go into left sway.This isn't 
+it, it actually much more than that because there are some moves that will 
+ONLY go into flicker but not the sways. For example d+1~B. If you want to go 
+immediately from d+1 to low duck you can simply do d+1~B,F+3.
+
+Another thing that's special about sway is that you can switch from one 
+sway to another sway. For example you can do b+3,3,1 which will be switching 
+from back sway to left sway into a left shot. However this isn't it if you 
+just hold onto 3 or 4 and move your joystick f and b you'll notice you 
+switch stance as well. Meaning you don't have to do 3,b+3,f+3 you can simply 
+do [3],b,f instead for the same result. This can be extremely useful if 
+you want to do something like F+3,4,2 something like this will get you from 
+low duck which closes in on your opponent then immediately switch into the 
+shorter range right hook shot.
+
+Finally the switching the sway will also get you into a new stance if 
+you switch directly from left to right sway. Like 3,4 once you do that 
+you're in some type of left and right weave. At the beginning it'll seem you 
+can't do anything from the left or the right sway unlike the other stance where 
+you can switch freely and none of the moves change. But the truth is if you 
+hold your joystick forward you'll notice Steve will continue doing his 
+weaving left and right. And if you do f+1 or f+2 he'll do a mid hitting hook 
+shot which looks different compare with the normal hook shots (3,1 or 4,2). 
+If you do 3,4,[F],1,2,1,2 he'll first go into left sway the right if you 
+hold forward he then go back to the left with the left hook shot then, when 
+press 2 it'll be the right hook shot, then left, then right. Once again i 
+would like to mention these are different and are currently NOT in the 
+movelist yet but expect them to be up in our next update. These hits are pretty 
+good, but i haven't tested them enough to be sure of their real power. But I 
+can tell you they do decent damage and to a crumple stun on counter. If you 
+want to stop this continuous left and right weave simply let your joystick 
+back to neutral you'll immediately go back to normal stance. Which from 
+there you can kinda buffer any stance, sway, spin, duck, etc, if you like.
+
+Here's an example of a custom string involving with lots of sway stuff. 
+3,1~B->Flicker,f+3,4,3,F+2,N,3+4,2 basically this will start of with 
+left sway into a left hook then go into flicker, and cancel flicker with 
+ducking, cancel that into right sway, and then weave to left, continue the 
+weaving with a right "special" hook shot, get out of weaving by joystick to 
+neutral follow by a forward spin into a straight shot. Hm... seriously this is 
+just an example i thought up right now... the actual use i'm really not 
+sure.
+
+That's it for sway section right now. Expect more on sway system.
+
+
+**********
+V. Juggles
+**********
+
+(ducking stance, 2) 1, 1,2,1,2
+(ducking stance, 2) 1,2, 1,2,1,d+2
+(ducking stance, 2) 1,1,1, f,f+1
+(ducking stance, 2) df+1,2,1, df+1+2
+(ducking stance, 2) df+1,2,1+2, df+1+2
+(ducking stance, 2) 1,2,1, df+1+2
+(ducking stance, 2) 1,2, d2,1,f+1+2
+

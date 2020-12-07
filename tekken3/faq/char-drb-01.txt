@@ -1,0 +1,191 @@
+
+As you may or may not know.. Tekken 3 for PSX is already out in JPN and 
+some other countries.  tekken 3 for PSX in USA will be available by May 1.
+
+
+==============================================================================
+= :: Dr. Boskonovitch MOVELIST ::::::::::::::::::::: Rev. 0.3 :: 03/30/98 :: =
+==============================================================================
+   ________
+   \______ \_______
+    |    |  \_  __ \
+    |    `   \  | \/
+___/_______  /__|   /\  __                            .__  __         .__
+\______   \\/___  __\/_|  | ______   ____   _______  _|__|/  |_  ____ |  |__
+ |    |  _//  _ \/  ___/  |/ /  _ \ /    \ /  _ \  \/ /  \   __\/ ___\|  |  \
+ |    |   (  <_> )___ \|    <  <_> )   |  (  <_> )   /|  ||  | \  \___|   Y  \
+ |______  /\____/____  >__|_ \____/|___|  /\____/ \_/ |__||__|  \___  >___|  /
+        \/           \/     \/          \/                          \/     \/
+
+==============================================================================
+= :::::::::::::::::: By Ben Cureton (tragic@toxic.net) ::::::::::::::::::::: =
+==============================================================================
+
+ |     ..........    This file MUST be viewed in a monospace typeface.    |
+ |     1234567890       Please remember this before emailing me =P.       |
+
+This document looks super awesome when printed from an MS-DOS prompt using the
+generic text editor, edit.com. It can be viewed with Notepad and also Wordpad
+and still look great. Make sure "word-wrap" is off, and you are using a mono-
+spaced typeface... like "courier new". Print from edit.com for best results!!
+
+==============================================================================
+= ::::::::::::::::::::::::::::::::: LEGAL :::::::::::::::::::::::::::::::::: =
+==============================================================================
+
+This guide is for the Tekken 3 community. It is also meant to be free. You may
+distribute this guide at your leisure, so long as you leave the content intact
+and receive no monetary compensation for it. All text, strategies, and other
+non-official information contained in this guide regarding Tekken 3 and/or any
+of the Tekken 3 characters is (C)1997 Ben Cureton. Reproduction in whole or
+part without the express written permission of Ben Cureton is prohibited.
+
+Basically, you suck if this information ends up in your Faq/Guide/Magazine/Web
+Page. You know you didn't work for it. Just ask... you might get lucky... =P
+
+      Tekken 3 and all characters are (C)1994 1995 1996 1997 Namco Ltd.
+                             All rights reserved.
+
+==============================================================================
+= ::::::::::::::::::::::::::::::::: MOVES :::::::::::::::::::::::::::::::::: =
+==============================================================================
+
+:Special Conventions:
+
+GS:  Move causes Guard Stun
+DS:  Double-Over Stun
+FB:  Fall Back (Doctor B. will fall back after this move)
+EFB: Electric Fall Back (Doctor B. will spark, then fall back after this move)
+c:   represents on counterhit
+<:   signifies following move can be delayed
+~:   perform following move immediately
+KND: Knockdown Position (face up, feet towards)
+PLD: Play Dead Position (face up, feet away)
+SLD: Slide Position (face down, feet away)
+FCD: Face Down Position (face down, feet towards)
+
+During FB, press 2 to speed up falling animation. Press 1 during accellerated
+fall down to go directly into Panic Doctor.
+
+At any time during FB, press 3+4 to perform Flip Flop.
+
+During initial animation of FB or EFB, tap forward to recover.
+
+At any time during FB or EFB press U for Doctor Bounce.
+
+-Special Arts-
+
+Move Name              Command            Lev.    Damage             Com.
+
+One-Two Punches        1,2                mm      4,10
+Bad Stomach            1+4                -       -                  #3
+Panic Doctor           2~1                -       -                  FB
+Left Lk-Right LK       3,4                ll      12,7
+Thunder Oldfist        u/f+1              m       25                 EFB
+Wind Oldfist           u/f+2              h       15                 FB
+Trip Slide             f+3+4              M       17 (7 guard damage)
+Crouch Dash            f,f                -       -
+Jam Combo              f,f+1<4<3<2<1      mLLmm   13,8,10,12,13      EFB
+Jam Combo Extention    f,f+1<4<3,3,3,2<1  mLLLLmm 13,8,10,10,7,12,13 EFB
+Jack Tamer             f,f+2              m       20                 DSc GS
+Slash Kick             f,f+3              m       30                 GS
+Whiff Frankensteiner   f,f+4              M       21
+Steel Dive             f,f+1+2            M       27
+Head Dive              f,f+3+4            M       30
+Elbow Rush             f,f,N+2            m       8                  FB
+Elbow Warp             f,f,N+2 (CH)       m       12,5
+ = Laughing Doctor      = f,f             -       -
+   = Mind Warp            = 1+2           M       25                 PLD
+   = Hopping Back Kick    = 3             M       20                 FB
+Panicsmoka             f,f,N+3            M       25
+Twin Pistons           d/f+1,2            mm      8,21               FB
+Slicer                 d+4                L       10                 FCD
+Dr. Kossak Kicks       D/B+3,4,3,4,3,4    LLLLLL  15,12,10,12,12,12  FB
+Guard Break            b+1+4              m       -                  KND
+Banik Charge           3+4                -       -
+ = Banik Oldfist Chain  = u/f+1,3,3,3,3   mmmmmm  25,20,10,10,10     FB
+ = Super Panic Chain... = u/f+1,3,3,...   mmmm... 25,20,10,10...
+   ...Super Panic Chain   ...F+3,3,3,3,3,3mhmmml  ...10,15,10,10,10  FB
+ = Shadow Legs Front    = ~B              -       -
+   = Overhead Crescent    = 3             h       28                 FB
+   = Prison Break         = 4             m       21                 FB GS
+Panik Reverse Charge    b+3+4             -       -
+ = Super Doctor         U                 !       48
+ = Shadow Legs Back     = ~B or ~F        -       -
+   = Summer Kick          = 3             m       25                 FB
+   = Winter Kick          = 4             m       21                 FB
+Gut Stun               SS+2               m       18                 FB DSc
+ = Thunder Oldfist      = 1               m       25                 FB
+Doctor Scoot           KND[f_b]           -       -
+Doctor Roll            KND[f,f_b,b]       -       -                  FB
+ = Rolling Kick         = 4               M       16                 GS
+ = Flying Cross Chop    = f+1+2           M       15                 GS
+ = Flip Flop            = 3+4             M       25                 KND
+Doctor Breath          KND[1_2]           !       3
+Hop Up                 KND 3+4            m       20
+Rolling Kicks          KND 3<3            lm      7,30
+Roger Kicks            KND 4,3,4,3,4      !mmmmm  -,10,10,10,17      #3
+Trick Roger Kicks      KND 4,4,3,4,3,4    !!mmmmm -,-,10,10,10,10,17 #3
+Chi Charge             KND ALL            -       -
+Doctor Scoot Away      PLD[f_b]           -       -
+Doctor Roll            PLD[f,f_b,b]       -       -                  FB
+ = Flying Cross Chop    = f+1+2           M       15                 GS
+ = Flip Flop            = 3+4             M       25                 PLD
+Roo Kick               PLD 3+4            m       21                 EFB
+Chi Charge             PLD ALL            -       -
+Lying Trip Slide       SLD 3+4            L       15
+Spinnng Crescent Lunge FCD 4              m       18                 FCD
+Doctor Roll            FCD b,b            -       -                  FB
+ = Rolling Roo Kick     = ~3+4            m       25                 EFB
+Mind Blast             BK 1+2             M       25
+Mind Blast Away        BK b+1+2           M       25
+Panic Charge Reverse   BK 3+4             -       -
+ = Shadow Legs Back     = ~B or ~F        -       -
+   = Summer Kick          = 3             m       25                 FB
+   = Winter Kick          = 4             m       21                 FB
+High/Mid Punch Parry   1+2                -       -                  #1
+Low Parry              d+1+2              -       -
+Bio Reactor            b+1+2              !       10(10,10,10...)    #2
+Resting Doctor         d+3+4              -       -
+ = Skidding Doctor      = 3_4...          -       -
+
+#1: can chain directly into Irish Whip
+#2: escaped with 3+4, will contuniously do damage until escaped.
+#3: after any 4 in the string, holding B will make Dr. B. roll backwards.
+
+
+-Throws-
+
+BDS (must perform Bad Stomach first 1+4)
+
+Throw Name           Command             Position   Damage     Escape     Com.
+
+Irish Whip           BDS,1+2             f-throw    10         1+2
+ = Elbow Drop         = 2,2,1+2          link       21         ?
+   = Kingstep           = 1+4            link       -          -
+     = Running Bulldog    = 2,1,3,4      link       38         ?
+   = Cartwheel          = 1+2            link       -          -
+     = Taunting Doctor    = 3+4          link       -          -
+     = Shoulder Ram         = 1+2        link       50         ?
+   = Flying Cross Chop  = 3+4            link       10         ?
+Arm Takedown         BDS,1+2             ls-throw   45         ?
+Trip Up              BDS,1+2             rs-throw   40         ?
+Atomic Drop          BDS,1+2             b-throw    60         -
+Rolling Powerbomb    1+2 (Parry), 3+4    l-throw    37         -
+Dr. Frankensteiner   f,f+4               f-throw    15,18      -
+Stone Head           KND[f,f_b,b] b+1+2  f-throw    33         ?
+
+==============================================================================
+= :::::::::::::::::::::::::::::::: CREDITS ::::::::::::::::::::::::::::::::: =
+==============================================================================
+
+Author: Ben Cureton (tragic)
+Contributors:
+   Jay Brewer (Jemhadar)
+   Bruce M. Williams (beamer)
+   #tkn (IRC - Efnet)
+
+==============================================================================
+= :: Dr. Boskonovitch ::::::::::::::::::::::::::::::::::::::::::::::: END :: =
+==============================================================================
+

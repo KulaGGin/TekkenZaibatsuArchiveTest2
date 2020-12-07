@@ -1,0 +1,1410 @@
+
+              Tekken 5 Game System & General FAQ
+                         Version 2.12
+
+
+       ---------  -------  |  /  |  /  -------  |\     |  5
+           |      |        | /   | /   |        | \    |
+           |      |---     |/    |/    |---     |  \   |
+           |      |        |\    |\    |        |   \  |
+           |      |        | \   | \   |        |    \ |
+           |      -------  |  \  |  \  -------  |     \|
+
+
+           Written by: Drake the Demon (drake122@seznam.cz)
+   Formatted and maintained by: Wild Man X (tekkenomics@hotmail.com)
+                   Written on: October 23, 2009
+        Website: Tekkenomics (http://www.tekkenomics.com)
+
+
+               This FAQ version will be available at:
+                 GameFAQs (http://www.gamefaqs.com)
+                     IGN (http://faqs.ign.com)
+          Tekken Zaibatsu (http://www.tekkenzaibatsu.com)
+                Neoseeker (http://www.neoseeker.com)
+              SuperCheats (http://www.supercheats.com)
+       Games Radar / Cheat Planet (http://www.gamesradar.com)
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~                                                                        ~
+~                            Table of Contents                           ~
+~                                                                        ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+ i.    Version Updates
+
+ ii.   Legal Stuff
+
+ iii.  FAQ Description
+
+ iv.   Legend
+
+ v.    Game System & General Moves
+
+       1.  TACKLE ATTACKS & ESCAPES
+
+           1a. TACKLE ATTACKS
+           1b. CRAIG'S MOUNT POSITION
+
+       2.  CRUSH SYSTEM BASICS
+
+       3.  SUPERCHARGER (1+2+3+4)
+
+           3a. Special Supercharger Attacks
+           3b. Special Power Ups
+
+       4.  ATTACK REVERSAL: (b+1+3 or b+2+4)
+
+           4a. Special Reversals
+
+       5.  PARRY
+
+           5a. SPECIAL PARRIES
+           5b. AUTO PARRY / REVERSAL
+
+       6. KING'S THROW ESCPES
+       
+       7. MORE GENERAL TERMS
+
+ vi.   Other Stuff
+ 
+ vii.  About Tekkenomics
+ 
+ viii. Special Thanks
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~                                                                        ~
+~                           i. Version Updates                           ~
+~                                                                        ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+ver# - (mm-dd-yy)
+
+
+1.00 - (07-21-05)  First release
+
+
+1.10 - (06-01-06)  Added "Table of Contents", added "Other Stuff" section
+
+
+2.00 - (05-15-09)  First release outside of TZ forums and Tekkenomics
+       website, format changes, various other changes
+       
+       Game System & General Moves
+            - Added "MORE GENERAL TERMS"
+            - Fixed a few typos
+            - Changed some of the formatting
+       Other Stuff
+            - Moved "MORE GENERAL TERMS" to "Game System & General Moves"
+       Other
+            - Added "FAQ Description", "Legend" and "Special Thanks"
+              sections
+
+
+2.01 - (05-18-09)  Added Drake's e-mail address
+
+
+2.02 - (06-04-09)  Added link to Games Radar / Cheat Planet
+
+
+2.03 - (06-21-09)  (See below...)
+
+       SUPERCHARGER
+            - Organized fighters in alphabetical order
+       ATTACK REVERSAL
+            - Organized fighters in alphabetical order
+       PARRY
+            - Organized fighters in alphabetical order
+       Other
+            - Format changes and typo fixes
+
+
+2.10 - (10-06-09)  Renamed FAQ to "Game System & General FAQ" from
+       "Game System & General Moves"
+
+       NEW SECTION
+            - Added "Legal Stuff" and "About Tekkenomics" sections
+       Legend
+            - Made some notation changes
+       Other Stuff
+            - Added more links
+       Other
+            - Changed "UPDATED" to "UPDATE"
+            - Minor changes and typo fixes
+
+
+2.11 - (10-12-09)  Minor changes
+
+
+2.12 - (10-23-09)  Minor changes
+
+
+
+
+
+FAQ Update Legend
+-----------------
+
+<NEW>       New content that has been added.
+
+<UPDATE>    Content that has been changed, corrected, or modified in
+            any other way.
+
+NOTE: Corrections include adding any notes, changing names, correcting
+      various mistakes or typos, and removing anything.
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~                                                                        ~
+~                             ii. Legal Stuff                            ~
+~                                                                        ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+You may download and print this FAQ, but under no circumstances can you
+put this FAQ on your web page without our permission.  You MAY NOT ALTER
+IT IN ANY WAY or claim it as your own.
+
+From this point on, I will only be sending FAQ updates to GameFAQs, IGN,
+and Tekken Zaibatsu.  Anyone who has recevived permission to host any of
+the Tekkenomics FAQs also has permission to host any of our future
+text-based FAQs (unless specified), and can obtain any updates from the
+above websites.
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~                                                                        ~
+~                          iii. FAQ Description                          ~
+~                                                                        ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+This FAQ is based on the original post by Drake the Demon in the
+thread "T5 Game System & General Moves" on the Tekken Zaibatsu Forums,
+located at:
+http://tekkenzaibatsu.com/forums/showthread.php?s=&threadid=82626
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~                                                                        ~
+~                               iv. Legend                               ~
+~                                                                        ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+------------------
+Commands
+------------------
+
+1     left punch (triangle button)     2     right punch (square button)
+3     left kick (X button)             4     right kick (circle button)
+f     tap forward                      F     hold forward
+b     tap back                         B     hold back
+u     tap up                           U     hold up
+d     tap down                         D     hold down
+d/f   tap down and forward             D/F   hold down and forward
+d/b   tap down and back                D/B   hold down and back
+u/f   tap up and forward               U/F   hold up and forward
+u/b   tap up and back                  U/B   hold up and back
+qcf   quarter circle forward           qcb   quarter circle back
+        (d,d/f,f)                              (d,d/b,b)
+hcf   half circle forward              hcb   half circle back
+        (b,d/b,d,d/f,f)                        (f,d/f,d,d/b,b)
+
+
+------------------
+Notations
+------------------
+
+N      neutral joystick position        SSL    side step (left only)
+SS     side step (left or right)        SSR    side step (right only)
+FC     full crouch position             WS     while standing up from crouch
+WR     while running                    [ ]    optional command(s)
+( _ )  or                               ...    continue infinitely
++      at the same time                 ~      immediately after
+,      followed by                      <      delayed input
+*      press and hold button(s)         =      next in sequence
+:      "just frame" input - button
+         must be pressed on an
+         exact frame number
+
+
+------------------
+Grounded Positions
+------------------
+
+KND/FUFT   knock down (face up / feet towards)
+PLD/FUFA   play dead (face up / feet away)
+SLD/FDFA   slide (face down / feet away)
+FCD/FDFT   face down (face down / feet towards)
+
+
+------------------
+Throw Types
+------------------
+
+F     front throw
+B     back throw
+L     left side throw
+R     right side throw
+C     crouch throw (from the front on a crouching opponent)
+A     air throw (opponent in the air)
+G     ground throw
+-     -
+
+
+------------------
+Move Properties
+------------------
+
+BT    back turned                      FF    face forward
+RC    recovers crouching initially     RCj   RC joystick modifier
+                                               (hold D or D/B)
+CH    major counter hit                OC    forces opponent to crouch
+                                               (ex. Ganryu - u/f+3+4)
+OS    forces opponent's side to        OB    forces opponent's back to
+        face you                               face you
+        (ex. Hwoarang - CH LFF,b+4)            (ex. Marshall - BT+1)
+JG    juggle starter                   BN     bounce juggle starter
+        (ex. Feng Wei - WS+3)                   (ex. Bryan - b+1)
+BS    block stun - attacking           GB     guard break - defending
+        character has huge                      character takes a step back,
+        disadvantage if blocked                 or their hands are in the air
+        (ex. Marshall - d/b+4)                  (ex. Feng Wei - f+1+2)
+SH    stagger hit - opponent may       DS     double over stun - opponent
+        recover KND in some cases               can tap f to escape
+        (ex. Lei - SS+1)                        (ex. King - CH f,f,N+2)
+MS    minor stun - animations          FS     fall back stun - opponent
+        vary, but usually nothing                can tap f to escape
+        is guaranteed after                      (ex. Bryan - CH SS+1,2)
+        (ex. Nina - b,f+3)
+KS    kneel stun - opponent falls      CFS    crumple fall stun - opponent
+        to one knee, free hits are              slowly falls down, free hits
+        sometimes possible                      are usually possible
+        (ex. Anna - d/f+4)                      (ex. Heihachi - CH b+2)
+CF    crumple fall - opponent          CS     crumple stun - opponent falls
+        quickly falls down, free                down, free hits are usually
+        hits are usually possible               possible (ex. Lee - CH f,f+4)
+        (ex. Roger Jr. - 3+4)
+[x]   hit modifier (ex. CFS[1,2])      #      see footnote (ex. #2)
+b     block modifier (ex. BTb -        c      counter hit modifier
+        character is BT on block)               (ex. BNc - BN on counter hit)
+co    crouching opponent modifier      cco    CH on crouching opponent
+        (ex. SHco - SH on                       (ex. JGcco)
+        crouching opponent)
+cl    clean hit modifier               ccl    CH clean hit modifier
+        (ex. JGcl - JG on a                     (ex. FSccl)
+        clean hit)
+bt    back turned opponent             -      -
+        modifier (ex. JGbt -
+        JG on a BT opponent)
+
+
+------------------
+Hit Ranges
+------------------
+
+h     high (block B or duck)
+H     high, hits grounded
+m     mid (block B)
+M     mid, hits grounded
+l     low (block D/B or jump over)
+L     low, hits grounded
+Sm    special mid (block B or D/B)
+SM    special mid, hits grounded
+!     unblockable
+<!>   unblockable, can be ducked
+[!]   unblockable, hits grounded
+T     throw (duck or input escape command)
+
+
+------------------
+Character Specific (Stances, Special Positions, etc.)
+------------------
+
+LBR   Labyrinth (Raven)                FLA   Flamingo (Baek)
+MST   Mist Step (Lee)                  RKT   Rocket Stance (Roger Jr.)
+HMS   Hit Man (Lee)                    LFF   Left Foot Forward (Hwoarang)
+CJM   Chaos Judgement (Anna)           RFF   Right Foot Forward (Hwoarang)
+LCT   Leg Cutter (Asuka)               LFS   Left Flamingo (Hwoarang)
+HPF   Haze Palm Fist (Asuka)           RFS   Right Flamingo (Hwoarang)
+RDS   Rain Dance (Ling)                SIT   Sit Down 
+                                               (Ganryu & Jack-5 & Kuma/Panda)
+AOP   Art of Phoenix (Lei & Ling)      HBS   Hunting (Kuma/Panda)
+DRU   Drunken Master Walk (Lei)        ROL   Prowling Grizzly Roll
+                                               (Kuma/Panda)
+SNA   Art of Snake (Lei)               FKS   Fake Step (Marshall)
+DGN   Art of Dragon (Lei)              DSS   Dragon Sign (Marshall)
+PAN   Art of Panther (Lei)             DFS   Dragon Fake Step (Marshall)
+TGR   Art of Tiger (Lei)               KNP   Kenpo Step (Feng Wei)
+CRA   Art of Crane (Lei)               JAG   Jaguar Step (King)
+CDS   Crouching Demon (Jin)            FLK   Flicker (Steve)
+MNT   Mount Position (Craig)           ALB   Albatross Spin (Steve)
+RDP   Ready Position (Craig)           LWV   Left Weave (Steve)
+HSP   Handstand (Christie/Eddy)        RWV   Right Weave (Steve)
+NEG   Negativa (Christie/Eddy)         DCK   Ducking (Steve)
+POG   Pogo (Yoshimitsu)                DKI   Ducking In (Steve)
+INS   Indian Sit (Yoshimitsu)          SWY   Sway (Steve & Paul)
+DGF   Dragonfly (Yoshimitsu)           WND   Wind Roll (Julia)
+MED   Meditation (Yoshimitsu)          -     -
+
+
+NOTE: For Lei Wulong or Ling Xiaoyu, you might also see the
+      Art of Phoenix / Phoenix Stance (AOP) written as "PNX".
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~                                                                        ~
+~                     v. Game System & General Moves                     ~
+~                                                                        ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+=====================================================================
+                    1. TACKLE ATTACKS & ESCAPES
+=====================================================================
+
+
+Ultimate Tackle (all characters except Craig):
+----------------------------------------------------------
+WR,N (approx. 3 steps)
+
+- Does 5 damage, hits from all directions, crouching opponents as well;
+- FRONT/SIDE TACKLE: can be escaped with 2 (like a normal throw)
+- FRONT/SIDE TACKLE: can be over-turned with 1+2 (when your back is about
+  to hit the ground); this escape chains into your own tackle attacks
+  (and also Craig's Mount if you used him)
+- BACK TACKLE: cannot be escaped
+
+Some characters can do standing Ultimate Tackles as well:
+
+Devil Jin (d_d/b_FC)+1+2
+Kazuya (d_d/b_FC)+1+2
+Raven (d/b_FC)+1+2
+King FC+1+2
+Paul (d/b_FC)+1+2
+
+These have the same escapes as the running Ultimate Tackle and also do 5
+damage.
+
+
+
+********************************
+1a. TACKLE ATTACKS
+********************************
+
+
+(1,2,1_2,1,2),(1,2_2,1) - Ultimate Punches
+(all characters except Yoshimitsu and Craig)
+--------------------------------------------------------
+- Each punch does 5 damage
+- Can be done from a front/side or back tackle:
+- FRONT/SIDE TACKLE: the 1st and 4th punch can be escaped by pressing
+  the OPPOSITE button (example: the 1st punch is done with 2, you need
+  to press 1 to escape)
+- FRONT/SIDE TACKLE: the 2nd, 3rd and 5th punch cannot be escaped
+- BACK TACKLE: the 1st punch can be escaped by pressing the SAME button
+  (example: the 1st punch is done with 2, you need to press 2 to escape)
+- BACK TACKLE: the 2nd, 3rd, 4th and 5th punch cannot be escaped
+
+SPECIAL: Paul can reverse the 1ST RIGHT PUNCH after a FRONT/SIDE tackle
+         with 1,1,2; the reversal does 30 damage, but Paul will also lose
+         5 points because of the punch.
+
+
+1+2 - Cross Arm Lock (Nina, King, Paul, Jin & Devil Jin only)
+---------------------------------------------------------------------------
+- Does 25 damage
+- Can only be done from a front/side tackle, or after the third Ultimate
+  Punch (left or right)
+- All characters can escape it with 1+2,2,2,2,2
+- Craig, Nina, King, Paul, Jin & Devil Jin can reverse it with 1+2,2,2,2,2,2;
+  the reversal does 10 damage (NOTE: the reversal input must be done before
+  the actual animation)
+
+
+3+4 - Leg Cross Hold (Nina, King only)
+---------------------------------------------------
+- Does 20 damage
+- Can only be done from a front/side tackle, or after the third Ultimate
+  Punch (left or right)
+- All characters can escape it with 1+2,1,1,1,1
+- Craig, Nina & King can reverse it with 1+2,1,1,1,1,1; the reversal does 10
+  damage (NOTE: the reversal input must be done before the actual animation)
+
+
+(1_2) - Sword Stab (Yoshimitsu)
+--------------------------------------------
+- Does 25 damage
+- Can be done from a front/side or back tackle
+- This is the only attack Yoshimitsu can do from an Ultimate Tackle
+- Cannot be escaped
+
+
+2,D+1,1,N,4,1,1+2 - Ultimate Punishment (Paul)
+--------------------------------------------------------------
+- Does 61 damage
+- Can only be done from a front/side tackle
+- Only the first punch can be escaped (with 1, or Paul can reverse it with
+  1,1,2)
+
+
+Other character specific tackle attacks (King's Arm Twist after Cross Arm
+Lock, etc.) cannot be escaped, this is already mentioned in the movelists.
+
+
+
+********************************
+1b. CRAIG'S MOUNT POSITION
+********************************
+
+
+Craig's tackle system is completely unique. His running tackles (including
+the unblockable one) are replaced with a special Spear Tackle. He can also
+execute this move (the Spear Tackle) from his Vale Tudo Style with 1+2. But
+the Spear Tackle is not the only way he can get to Mount Position. He has
+numerous transitions from his basic stance and throws as well. Furthermore,
+he also goes to Mount Position if he over-turns a standing or running
+Ultimate Tackle.
+
+
+VTS,1+2 (Spear Tackle to Mount)
+---------------------------------------------
+- Does 12 damage, hits from all directions, crouching opponents as well
+- Can be escaped with 1+2 (only from close range)
+- Cannot be escaped if you see a little arched lunge before Craig hits you
+
+
+WR,N (approx. 3 steps) (Spear Tackle to Mount)
+-> replaces running Ultimate Tackle
+--------------------------------------------------------------
+- Does 12 damage, hits from all directions, crouching opponents as well
+- Can be escaped with 1+2
+
+
+WR,N (more than 3 steps) (Spear Tackle to Mount)
+-> replaces running Unblockable Tackle
+-----------------------------------------------------------------
+- Does 12 damage, hits from all directions, crouching opponents as well
+- Cannot be escaped
+
+
+Other Mount transitions:
+-----------------------------------
+b+1+2 (Craig Mounts after successful high attack reversal)
+
+b+3+4 (Craig Mounts after successful mid attack reversal)
+
+qcf+1,1+2 (Craig Mounts after the throw)
+
+qcf+2,1+2 (Craig Mounts after the throw)
+
+d/b+(1+3_2+4) opponent grounded,
+face up and sideways (Craig Mounts after the ground throw)
+
+
+Mount Position Attack escapes:
+------------------------------------------
+
+Craig does: 1 (Melon Masher, 35 dmg) -> escape: 2
+Craig does: 2 (Melon Masher, 35 dmg) -> escape: 1
+Craig does: 1~2 (Melon Masher, 35 dmg) -> escape: 1
+Craig does: 2~1 (Melon Masher, 35 dmg) -> escape: 2
+Craig does: 1+2 (Mongol Chop, 40 dmg) -> escape: don't press anything! *
+Craig does: 3+4 (Skull Crush, 40 dmg) -> escape: don't press anything! *
+Craig does: 1+3 (Neck Lock, 40 dmg) -> escape: 2
+Craig does: 2+4 (Knee Bar, 40 dmg) -> escape: 1
+
+* Craig only completes this move if you press any button and try to escape.
+
+
+
+=====================================================================
+                        2. CRUSH SYSTEM BASICS
+=====================================================================
+
+
+Well, the crush system is simple in general. However making a list of all
+crushes for all characters would be almost impossible, since everyone has
+at least 10 crushes, not talking about the general crush moves everyone
+can do...
+
+Most lows where the character is considered crouching crush highs and most
+jumping moves crush lows. There are some weird crushes too (Lee's f+2 - you
+wouldn't tell but it crushes highs).
+
+If the opponent does a low move (no matter how fast he is) and you start
+a low crush (even if he acted first - with frame advantage) you WILL
+automatically avoid the low and also hit him in the process (unless his
+low move is a crush for the move you do, then both of you whiff).
+
+Furthermore, there are special moves that for example crush highs at the
+start up and lows AFTER the start up (Lee's d,d/b+4 in Tekken 5.0). Only
+a few though.
+
+
+
+=====================================================================
+                      3. SUPERCHARGER (1+2+3+4)
+=====================================================================
+
+
+- Your character does a power up and his/her fists glow bright red
+- During this period, you cannot block and all hit you receive will be
+  counter hits
+- The attacks you execute will also register as counter hits, and you will
+  cause guard damage if the opponent blocks
+- This effect lasts for only a few seconds after the power up
+- Some characters have special power ups too, or can do special attacks
+  from a Supercharger
+
+
+
+********************************
+3a. Special Supercharger Attacks
+********************************
+
+
+Asuka:
+---------------
+1+2+3+4~D/F+3+4,3+4,1+2 (Ultimate Tackle & a Punch) (5,5 dmg)
+= (2,1,2,1_2,1,1,2) (Special Ultimate Punches) (5,5,5,10_5,5,12,10 dmg)
+
+- This only works if the tackle hits from the front; a side or back hit will
+  result in a normal Ultimate Tackle with normal (escapable) follow ups
+- Also hits crouching opponent
+- The tackle cannot be escaped like a normal one, but you can press 1+2 on
+  a certain frame to over-turn it and continue with your own Ultimate Tackle
+  (or Craig's Spear Tackle) attacks
+- The punches are not escapable
+
+
+Ganryu: - <Thanks to E C>
+----------------
+1+2+3+4~2~3 (Supercharger to Sumo Hug) (0 dmg)
+
+- Can only be done against Julia Chang
+- It only works if the move hits from the front; a side or back hit will
+  result in a normal Ultimate Tackle with normal (escapable) follow ups
+- Also hits crouching opponent
+- Ganryu regains 3 life points during the hug
+- To escape the hug, Julia can press 1 and slap Ganryu for 40 damage (and
+  crumple stun); the slap cannot be avoided
+
+
+Heihachi:
+-------------------
+1+2+3+4~d~u,(u_u/f)+3,4 (Supercharger to Dragon Axle) (30,22 dmg)
+
+- All hits are mid, cause guard break if blocked (note the second kick
+  cannot be neutral blocked)
+- Damages are listed at 100%, but Heihachi is charged, so the first hit
+  will be CH, and the second a juggle hit, real damage is usually 36,15
+
+
+Marshall Law:
+-----------------------
+1+2+3+4,1,3 (Supercharger to Blackout) (10,7 dmg)
+
+- Hits high, then low; real damage will be higher because Law is charged
+
+
+Yoshimitsu:
+---------------------
+1+2+3+4~b,f,u,d+3+4 (Supercharger to Poison Knee Taunt) (0,1 dmg)
+
+- It only works against Bryan Fury
+- First hit is mid, second is unblockable, but can be ducked
+- The second hit causes crumple fall (CF) on hit and does incredible
+  (1) damage
+
+1+2+3+4~b,f,u,d+1+4 (Supercharger to Poison Sword Spin) (1 dmg)
+
+- Unblockable, cannot be ducked and causes crumple fall, along with some
+  damage (again 1)
+
+
+
+********************************
+3b. Special Power Ups
+********************************
+
+
+Heihachi:
+--------------
+b+(1+3_2+4) (Heaven's Wrath)
+
+- This move has identical effects to the Supercharger
+- Works as an attack reversal if the opponent tries to interrupt
+
+
+Jin Kazama:
+----------------------
+Mental Alertness (aka Lingering Soul) transitions
+
+- After certain moves, Jin can press d+1+2 or 1+2 to get charged (check
+  his movelist for the list of transitions, he has many)
+
+b+1+2 (Force Block)
+
+- Jin also gets charged after his b+1+2, Force Block
+- This move also repels all incoming attacks and can chain to an Attack
+  Reversal or the Omen Stance
+
+
+King:
+--------------
+1+2+3+4,1+2+3+4 (Double Supercharger Dance)
+
+- During the first charge, King will start 'dancing', but this can be
+  cancelled to any move.
+- Doing another charge during the dance will make the cancel impossible,
+  but you'll be fully charged after the dance is over.
+
+
+Paul Phoenix:
+------------------------
+FC,D (Paul's Crouching Taunt)
+
+- If you hold down the D button for about 2 seconds, Paul will do a taunt
+  and become charged after the animation
+- He can execute his Incomplete Somersault from the taunt as well
+  (FC,D,u+2+3+4)
+
+
+Raven:
+---------------
+d+1+2 (Summon Force)
+
+- This move has identical effects to the Supercharger
+- Raven can also execute one of his unblockables after the charge
+  (d,d/b,b,u/b,u,u/f,f+1+2)
+- After numerous d+1+2 charges (about 20-25), Raven can do:
+
+~b,f,u,d+3+4 (Summon Mirage)
+- This move creates an illusion, Raven's copy/copies (?) for a very short
+  time.
+
+
+
+=====================================================================
+                4. ATTACK REVERSAL: (b+1+3 or b+2+4)
+=====================================================================
+
+
+- Only a few characters can do attack reversals: Anna, Asuka, Devil Jin,
+  Nina, Paul, Wang
+- Attack reversals cannot catch full body attacks, shoulder rushes, knees,
+  elbows, low attacks, throws* (note that they can catch throw shifts)
+- Damage: (1/2 damage of the reversed move + 25)
+- To escape an attack reversal, the opponent must input the correct chicken
+  command: f+1+3 or f+2+4
+- The chicken is f+1+3 is the reversed attack was a left kick or left punch
+- The chicken is f+2+4 is the reversed attack was a right kick or right punch
+- A successful chicken does 13 damage
+- Some special attacks require a different chicken command (u/f+1+3 or
+  u/f+2+4)
+
+* The only throw attack reversals can catch is the Ultimate Tackle (the
+  reversal only does 25 damage in that case)
+
+
+
+********************************
+4a. Special Reversals
+********************************
+
+
+Craig Marduk - b+1+2 or b+3+4 (High or Mid Trap)
+------------------------
+- b+1+2 is a high attack reversal
+- b+3+4 is a mid attack reversal
+- Damage is always 8
+- These reversals cannot be chickened
+- A successful reversal is an automatic Mount Position transition
+
+
+Feng Wei - b+1+3 or b+2+4 (Punch Reversal) <Thanks to JURASSIC & Sidnei>
+-------------------------
+- High & mid punch reversal
+- Damage is 1/2 damage of the reversed move + 25
+- Cannot be chickened
+
+
+Heihachi - b+1+3 or b+2+4 (Heaven's Wrath)
+-------------------------
+- This move works as a Supercharger, but if Heihachi is attacked during
+  the animation he will auto reverse
+- This move can catch some elbows and knees too
+- Damage is 15
+- Heihachi also suffers 50 damage
+- This reversal cannot be chickened
+
+
+Jin Kazama - b+1+2~f,f,b+(1+3_2+4) (Side Step Attack Reversal)
+----------------------------------
+- This is a regular attack reversal, except it side steps
+- The 1+3 version is a SSL
+- The 2+4 version is a SSR
+
+
+King - b+1+3 or b+2+4
+-----------------------
+- b+1+3 is a right punch reversal (damage is 30)
+- b+2+4 is a kick reversal (damage is 1/2 damage of the reversed move + 25)
+- these reversals cannot be chickened
+- King can also reverse some low kicks (the second hit of Hwoarang's
+  RFF f+3,4 for example)
+- After a successful right kick reversal King can execute a JF Figure Four
+  Leg Lock (b+2+4:3+4)
+
+
+Nina Williams - b+(1+3_2+4)
+------------------------------
+- If Nina reverses a left punch with her regular attack reversal, she
+  can continue with the Back Hand Slap (qcf+1+2) multi throw parts
+- This reversal cannot be chickened, but it can be escaped with 2 as a
+  throw attack
+
+
+Raven - SDW,f+1+2 (Sixth Sense Punch Reversal)
+-------------------
+- High & mid punch reversal
+- Damage is 25
+- Cannot be chickened
+
+
+
+=====================================================================
+                              5. PARRY
+=====================================================================
+
+
+- A parry can stop incoming attacks like an attack reversal, but:
+- A successful parry does no damage and cannot be chickened
+- All characters get a free attack/juggle starter after a successful parry
+- Attacks the parry cannot catch are the same as those listed in the attack
+  reversals section (above)
+
+
+Generic Low Parry: (all characters - d/f)
+-----------------------
+- Low & special mid attack parry
+- Can also catch slides
+
+
+
+********************************
+5a. SPECIAL PARRIES
+********************************
+
+
+Baek Doo San - b+1+2 (Punch Parry)
+------------------------
+- High & mid punch parry
+- After a successful parry, Baek can go to Flamingo with B
+
+
+Bryan Fury - b+1+2 (Punch Parry)
+--------------------
+- High & mid punch parry
+- After a successful RIGHT punch parry, Bryan can do a Vulcan Punch
+  with 2 (22 damage + minor stun)
+- After a successful LEFT punch parry, Bryan can do a Mach Breaker
+  with 2 (30 damage)
+- Bryan auto-taunts after the Mach Breaker counter hits and he can
+  continue with the Bruiser Combo (f+2,1,4,2,1,4,2)
+- Steve can escape and punish the Mach Breaker with ~B~2 for 22 damage
+
+
+Ganryu - b+(1+3_2+4) (Twin Wall)
+----------------
+- High & mid punch parry
+- After a successful parry, the opponent is back turned and Ganryu can do
+  a Pedal Press Back throw with ~1+2 (for 22 damage and opponent stays BT)
+
+
+Ganryu - SIT,D,f (Shiranui)
+----------------
+- High & mid punch parry
+- After a successful parry, the opponent is back turned and Ganryu can do
+  a Pedal Press Back throw with ~1+2 (for 22 damage and opponent stays BT)
+
+
+Jin Kazama - b+(1+3_2+4) (Parry)
+---------------------
+- High & mid attack parry
+
+
+Lee Chaolan - b+1+2 or HMS,1+2 (Mist Illusion)
+-----------------------
+- High & mid punch parry
+- After a successful parry, the opponent is back turned
+- An unsuccessful parry works as a taunt
+
+
+Lei Wulong - f+3+4 or DRU,f+3+4 (Drunken Master Parry)
+---------------------
+- High & mid punch parry
+- After a successful parry, the opponent is side turned
+- After an unsuccessful parry, Lei can do all DRU attacks
+
+
+Ling Xiaoyu - 1+4 or RDS,1+4 (Parry)
+---------------------
+- High & mid attack parry
+
+
+Ling Xiaoyu - RDS,(d/f_d)+1+4 (RDS Low Parry)
+---------------------
+- Low & special mid attack parry
+- Can also catch slides
+
+
+Marshall Law - b+(1+3_2+4) (Parry)
+----------------------
+- High & mid attack parry
+- After a successful parry, Law can go to DSS with ~b,f
+
+
+Marshall Law - b+1+2 or (DFS_DSS),b+1+2 (Fake Step)
+----------------------
+- High & mid punch parry
+- After a successful parry, Law can do special attacks with (1_2_3_4)
+- After an unsuccessful parry, Law can do all DFS attacks
+
+
+Steve Fox - 2~f (Punch Parry)
+-------------------
+- High & mid punch parry
+- After a successful parry, Steve can do a special attack with 1
+  (for 30 damage)
+
+
+Wang Jinrei - b+1 (Neutralizer)
+---------------------
+- High & mid attack/string parry
+- The Neutralizer can stop entire strings like Feng's 1,2,2 and also
+  some attacks the normal parries cannot
+- After a successful parry, Wang can do a special attack with (1_2_3_4)
+
+
+
+********************************
+5b. AUTO PARRY / REVERSAL
+********************************
+
+
+- Special attacks that shift to a parry/reversal in certain situations
+
+
+Anna Williams - b+3 (Cat Stance)
+--------------------
+- Auto reversal - front throw (damage: 25, cannot be escaped)
+- Auto reversal - low & special mid attack
+  (damage: 21 or 25 CH if the string has at least 2 hits; cannot be escaped)
+
+
+Anna Williams - FC,f+2 (Right Hand Stab)
+----------------------
+- Auto parry - high & mid attack
+
+
+Asuka Kazama - 2+3 (Sparrow Pirouette)
+------------------
+- Auto reversal - high & mid punch
+- Damage: 21
+- Cannot be escaped
+
+
+Asuka Kazama - d/f+1+2 (Raging Storm)
+----------------------
+- Auto reversal - low & special mid attack
+- Damage: 32
+- Cannot be escaped
+
+
+Bruce Irvin - f,f+2 (Cross Straight)
+-------------------
+- Auto reversal - high & mid punch
+- Damage: (?)25-32
+- Cannot be escaped
+
+
+Feng Wei - 1+2 (Iron Shield)
+--------------
+- Auto reversal - high & mid punch
+- Damage: 28
+- Cannot be escaped
+
+
+Feng Wei - f,f+1+2 (Push Hands)
+------------------
+- Auto reversal - high & mid punch
+- A successful auto reversal causes a long freeze stun
+- Damage: 25
+- Cannot be escaped
+
+
+Feng Wei - f+3+4 (Shifting Clouds = Kenpo Step)
+----------------
+- Auto parry - high & mid attack
+- Auto reversal - high & mid string (if the string has at least 2 hits)
+  (damage of the reversal: 21; escape: Feng's attack can be just frame
+  blocked as a high or mid attack)
+
+
+Jin Kazama - b+1,2 (Crouching Demon - Suigetsu Strike)
+------------------
+- Auto reversal - high & mid punch
+- Damage: 24
+- Cannot be escaped
+
+
+Kazuya Mishima - f+2 (Soul Thrust)
+--------------------
+- Auto reversal - high & mid RIGHT punch
+- Damage: 30
+- Cannot be escaped
+
+
+Lei Wulong - TGR,f (Art of Tiger Defense)
+------------------
+- Auto parry - high & mid attack
+
+
+Lei Wulong - PAN,f (Art of Panther Defense)
+------------------
+- Auto parry - low & special mid attack
+
+
+Lei Wulong - CRA,N (Art of Crane Defense)
+------------------
+- Crane stance auto-evades all low and special mid attacks
+- If the low/special mid attack has at least 2 hits, Crane only evades
+  the first one
+
+
+Ling Xiaoyu - RDS,f+1+2 (Spinning Push Hands)
+-----------------------
+- Auto reversal - high & mid punch
+- A successful reversal causes minor stun
+- Damage: 18
+- Cannot be escaped
+
+
+Marshall Law - DSS transitions
+(~b,f after certain moves - see the move list)
+------------------------------
+- Auto parry - high & mid attack
+- After a successful parry, Law is still in DSS
+- ? <this may work with DFS as well> ?
+
+
+Steve Fox - b+2 (Jaw Jolt)
+---------------
+- Auto reversal - high & mid punch
+- Damage: (?)25-32
+- Cannot be escaped
+
+
+Wang Jinrei - b+1+2 (Pinwheel Punch)
+-------------------
+- Auto reversal - high & mid punch
+- Damage: 35
+- Cannot be escaped
+
+
+
+=====================================================================
+                       6. KING'S THROW ESCAPES
+=====================================================================
+
+
+Here are King's throw escapes. I realize throw escapes are not something
+that belongs to the game system discussion, but King is an exception. His
+multi escapes are pretty complex IMO...
+
+
+First, I write King's input. The escape is in the brackets [].
+= is taken from the site legend.
+Special notations are marked with /!/
+
+
+(Thanks to Shimma for a lot of info)
+
+
+Throws & Multi Throws:
+----------------------
+
+1+3 or f+1+3 [1]
+2+4 or f+2+4 [2]
+qcf+1 [1] (also use 1 to escape while you are 'upside down')
+= 1+2,1+2 [-] (use 2 to escape while you are 'upside down')
+= 1+3,3,4,1+2 [-] (use 1+2 to escape while you are 'upside down')
+f,hcf+1 [1]
+qcb+1+2 [1+2]
+d/b+1+2 [1+2] (or press :3+4 to reverse)
+b+1+2 [-]
+= 1+2 [1+2]
+= 1+3 [1]
+= 2+4 [2]
+= 3+4 [3+4]
+
+FC+1+2 [see tackle escapes]
+= (1,2,1_2,1,2) [see tackle escapes]
+ = (1,2_2,1) [see tackle escapes]
+ = 1+2 [see tackle escapes]
+  = 1+2 [-]
+ = 3+4 [see tackle escapes]
+  = :1+2 [-]
+= 1+2 [see tackle escapes]
+ = 1+2 [-]
+= 3+4 [see tackle escapes]
+ = :1+2 [-]
+
+FC,d/b,d,d/b+1+2 [1+2]
+d/b,f+2 [2]
+d/f+2+3 [2]
+(f,f,f_WR)+2+4 [1+2]
+d+1+3 (crouch) [1]
+d+2+4 (crouch) [2]
+1+3 or f+1+3 (air) [-]
+2+4 or f+2+4 (air) [-]
+d+(1+3_2+4) (air) [-]
+= 1+2,1+2 [1]
+= 2,1,3,4 [2]
+(f,hcf+1_f,f,f+2+4) (air) [-]
+1+3 or 2+4 or f+1+3 or f+2+3 (left side) [1]
+1+3 or 2+4 or f+1+3 or f+2+3 (right side) [2]
+1+3 or f+1+3 (back) [-]
+2+4 or f+2+4 (back) [-]
+b,f+1+2 (back) [-]
+
+f,N,d,d/f+1+4 [1]
+= 1+2,1+2 [1]
+= 1+2,4,2+4 [2]
+ = 4,3,4,3+4,1+2 [-]
+= 2,1,1+2+3 [1+2]
+ = 1+3,3+4,2+4,1+2,1+2+3 [2]
+ = 2,1,3,1+2+4,1+2+4 [1]
+
+f,N,d,d/f+2+3 [2]
+= 1,2,3,1+2 [1] (does 10 damage to King if you escape)
+= 1+2,1,3,1+2 [1+2] (does 10 damage to King if you escape)
+ = 1,3,4,1+2,3+4 [-]
+= 1+2,3,1,1+3 [2] (does 10 damage to King if you escape)
+
+f,D/F+1+2 [1+2] -> Full Nelson Chain
+SS+2+4 [1_1+2_2] -> Full Nelson Chain /!1/
+d/f,d/f+2+4 (crouch) [2] -> Full Nelson Chain
+
+f,D/F+1+3 [1] -> Reverse Arm Slam Chain
+f,D/F+2+4 [2] -> Reverse Arm Slam Chain
+
+3+4,1+4 [1] -> Mexican Magma Drive Chain
+3+4,2+3 [2] -> Mexican Magma Drive Chain
+
+
+Full Nelson Chain
+ (multi parts after f,D/F+1+2 or SS+2+4 or d/f,d/f+2+4)
+
+= 2,2,1+2 [-] /!2/
+ = 1,2,3+4 [1]
+  = 2,1,3,4 [1]
+  = 3,1,2,3+4,1+2+3+4 [2]
+ = 3+4,1+2,1+2+4 [2]
+  = 1,2,3+4,1+2 [-]
+   = 2,1,3,4 [1]
+   = 3,1,2,3+4,1+2+3+4 [2]
+
+
+Reverse Arm Slam Chain
+ (multi parts after f,D/F+1+3 or f,D/F+2+4)
+
+= 2,1,1+2 [1_2] /!3/
+ = 2,2,1+2 [2]
+  = 1,2,3+4 [1]
+   = 2,1,3,4 [1]
+   = 3,1,2,3+4,1+2+3+4 [2]
+  = 3+4,1+2,1+2+4 [2]
+   = 1,2,3+4,1+2 [-]
+    = 2,1,3,4 [1]
+    = 3,1,2,3+4,1+2+3+4 [2]
+ = 3+4,1+2 [1]
+  = 1,2,3+4 [-]
+   = 2,1,3,4 [1]
+   = 3,1,2,3+4,1+2+3+4 [2]
+
+
+Mexican Magma Drive Chain 
+(multi parts after 3+4,1+4 or 3+4,2+3)
+
+= 1,4,2,3 [-]
+ = 2,1,(1+3_2+4) [1_2] /!4/
+  = 1+2,1,2,(1+2+3_1+2+4) [1_2] /!5/
+   = 2,2,1+2 [-]
+    = 1,2,3+4 [-]
+     = 2,1,3,4 [1]
+     = 3,1,2,3+4,1+2+3+4 [2]
+    = 3+4,1+2,1+2+4 [2]
+     = 1,2,3+4,1+2 [-]
+      = 2,1,3,4 [1]
+      = 3,1,2,3+4,1+2+3+4 [2]
+   = 3+4,1+2 [-]
+    = 1+2,3,4,(1+3_2+4) [1_2] /!4/
+     = 2+4,3+4,1+3,1+2,(1+2+3_1+2+4) [1_2] /!5/
+    = 1+2,4,1+2,1+2+3 [1+2]
+  = 2,3,1,1+2 [1+2]
+= 2+4,1+2,1+2 [1]
+= 3+4,3+4,1+2 [2]
+ = 1,1,1+2 [1]
+ = 3,4,1+2,3+4 [2]
+
+
+Ground Throws:
+----------------------
+
+The escapes here are dependant on King's input.
+- use 1 if he used d/b+1+3
+- use 2 if he used d/b+2+4
+(Thanks to Shimma for the clarification on this)
+
+d/b+(1+3_2+4) (FACE UP & FROM LEFT) [1_2]
+d/b+(1+3_2+4) (FACE UP & FROM RIGHT) [1_2]
+d/b+(1+3_2+4) (FACE UP & FROM THE HEAD) [1_2]
+d/b+(1+3_2+4) (FACE UP & FROM THE FEET) [1_2]
+d/b+(1+3_2+4) (FACE DOWN & FROM LEFT) [1_2]
+d/b+(1+3_2+4) (FACE DOWN & FROM RIGHT) [1_2]
+d/b+(1+3_2+4) (FACE DOWN & FROM THE HEAD) [1_2]
+d/b+(1+3_2+4) (FACE DOWN & FROM THE FEET) [1_2]
+D/B+1+3 (FACE UP & FROM THE FEET) [1]
+D/B+2+4 (FACE UP & FROM THE FEET) [2]
+
+
+Throw Shifts:
+----------------------
+
+AFTER One-Two Punches - (1,2_f+1,2)
+= 2+4 [2]
+= 2+4 (left) [1]
+= 2+4 (right) [2]
+= 2+4 (back) [-]
+= d+2+4 (crouch) [2]
+
+AFTER One-Two Punches to Palm Upper - (1,2_f+1,2),1
+= 2+4 [2]
+= 2+4 (left) [1]
+= 2+4 (right) [2]
+= 2+4 (back) [-]
+= d+2+4 (crouch) [2]
+
+AFTER Stomach Smash - CH f,f,N+2 /!6/
+= 1+2 [1+2]
+= 1+2,u,d+3+4 [3+4]
+
+AFTER Black Arrow - b+2(hold down 2)
+= d+2+4 (crouch) [2]
+
+AFTER Front Kick - (f+3_f,f+3)
+= :1+2 [-]
+
+AFTER Blind Kick - BT+3
+= :1+2 [-]
+
+
+Special Throw Moves:
+----------------------
+
+Frankensteiner
+ (d/f+3+4) [-] (you must crouch and block low to avoid it)
+
+Konvict Kick to DDT
+ (CH f,f+4) [-]
+
+Diving Body Press
+ (f,f+2+3 close range hit) [-] (you can block it)
+
+Wall Jump Body Press
+ (b,b,u/b clean hit range hit) [-] (you can block it)
+
+
+Reversals:
+----------------------
+
+b+1+3 (right punch reversal) [-]
+b+2+4 (right kick reversal) [-]
+= /after successful right kick reversal ->/ :3+4 [1+2]
+b+2+4 (left kick reversal) [-]
+
+
+Notations:
+----------------------
+
+!1 SS+2+4 from the front is 1+2 escape,
+ from the right it's 2 and from the left it's 1.
+ From the back it's not escapable.
+
+!2 This will be the multi starter instead of
+ Full Nelson if you were grabbed from left or right
+ with the SS+2+4 input.
+
+!3 Escape is 1 if the multi was started with
+ f,D/F+1+3 and 2 if it was started with f,D/F+2+4.
+
+!4 Escape is 1 if the multi was inputted with
+ 1+3 and 2 if it was inputted with 2+4.
+
+!5 Escape is 1 if the multi was inputted with
+ 1+2+3 and 2 if it was inputted with 1+2+4.
+
+!6 You can escape the stun after CH f,f,N+2
+ with tapping f, but this won't prevent the throws.
+
+
+
+=====================================================================
+                       7. MORE GENERAL TERMS
+=====================================================================
+
+
+iWS (While Rising moves without crouching or jumping)
+------------------
+
+Normally, WS moves can be executed using the following methods:
+1. you crouch down with (D_D/F_D/B), then release the button and when you
+   are about to get back into standing position, you input (1_2_3_4_1+2_3+4)
+   for the WS move.
+2. you use (u/f_u_u/b) to jump and input (1_2_3_4_1+2_3+4) for WS moves
+   AFTER you have landed.
+
+However, there's a quicker way to do WS moves. You need to input
+d,(d/f_d/b),N+(any WS input). To make this easier, you can also do
+(qcf_qcb)+(any WS input), but only with certain characters, since many of
+them have regular qcf+(1_2_3_4_1+2_3+4) moves.
+
+
+CC (Crouch Cancel)
+------------------
+
+After some moves, your character recovers in crouching (FC) position. Good
+example is Lee's HMS+4. Since the sweep floats the opponent, Lee will want
+to use some juggles, but he's in FC, so he cannot really do any damaging
+moves to follow up. Unless he quickly cancels the crouch and does normal
+moves... To do that, he needs to press u right after the sweep animation
+is over. After that, he can do:
+HMS+4; cc; d/f+1; 1,2~f,N; 1,2~f,N; (w!) 4,3,4 for insane damage.
+
+Few more things to know about CC:
+- You can also use f,f to cancel crouch (maybe even b,b, but I'm unsure)
+- On paper, a cc takes 1 frame. but in reality, probably no one is able
+  to do cc that fast.
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~                                                                        ~
+~                            vi. Other Stuff                             ~
+~                                                                        ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Check out Drake's the Demon and Tekkenomics YouTube channels below:
+http://www.youtube.com/user/Drake122
+http://www.youtube.com/user/tekkenomics
+
+
+Also, check out the Tekken 5 Move Lists on the Tekkenomics Blog:
+http://tekkenomics.wordpress.com/t5-move-lists/
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~                                                                        ~
+~                         vii. About Tekkenomics                         ~
+~                                                                        ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+The main purpose of "Tekkenomics" is to provide you with Tekken FAQs/Guides
+and to keep you updated on Tekken news and information.
+
+"Tekkenomics" was originally the name of the website created by me
+(Wild Man X), with help from Paulinstein and Drake the Demon, which first
+came online on November 6, 2004.  However, due to someone engaging in
+piracy on our hosting server the website went down in April 2007.  With
+the release of Tekken 6 approaching for consoles, I decided to bring back
+Tekkenomics, but in the form of a blog back in June 2009.
+
+"Tekkenomics" contains various Tekken related material, some of which is
+difficult to find on any other Tekken based website.  The blog will
+contain exclusive articles, original FAQ files, move lists, combos/juggles,
+combo videos, in-game matches, Tekken commercials, PC desktop wallpaper,
+PSP wallpaper, CG art, fan-based material, and other things.
+
+If you're having problems visiting the "Tekkenomics Blog" at
+http://www.tekkenomics.com, then you can also visit it at the following
+link: http://tekkenomics.wordpress.com
+
+If you were wondering how we came up with the name "Tekkenomics", back in
+my high school days in the year 2000, Paulinstein, me, and some other high
+school friends would get together to play Tekken 3 on the PlayStation 1.
+At the time, we were also enrolled in Economics. Whenever we would get
+together to play, we would say that we were going to study some
+"Tekkenomics".  So, basically: "Tekken" + "Economics" = "Tekkenomics".
+
+There are a few references on the web to the name "Tekkenomics" that
+aren't related to us or our blog.  There are some members on the Tekken
+Zaibatsu forums that go by the names "Tekkenomics", "Tekkenomics_101",
+and "TekkenNomics Jr." that aren't related to us. On Tekken Zaibatsu,
+we go by the names "Wild Man X", "Paulinstein", and "Drake the Demon".
+The things on the web that ARE related to us are at: GameFAQs, Neoseeker,
+IGN, 1UP.com, Gamerhelp, Gamespot, MySpace, AIM, MSN Messenger, Hotmail,
+GMail, YouTube, PicasaWeb, Blogger, WordPress, ImageShack, and Twitter.
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~                                                                        ~
+~                          viii. Special Thanks                          ~
+~                                                                        ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Name                    Reason
+----                    ------
+
+Shimma                  Providing a lot of info for "KING'S THROW ESCAPES"
+                        section.
+
+E C                     Providing info for the "Special Supercharger
+                        Attacks" section for Ganryu.
+
+JURASSIC                Providing info for the "Special Reversals" section.
+
+Sidnei                  Providing info for the "Special Reversals" section.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EoF

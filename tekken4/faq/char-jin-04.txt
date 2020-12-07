@@ -1,0 +1,2514 @@
+[title of faq] - Jin Kazama : Contender's Guide (Tekken 4)
+[  v./rev.   ] - v.2.1 beta
+[ revision # ] - revision on: June 12, 2004
+[   system   ] - Arcade, Sony Playstation 2
+[   author   ] - Khang Tran
+[ updates at ] - http://www.gamefaqs.com/
+[  contacts  ] - e-mail: solxvi@hotmail.com
+
+ |     ..........    This file MUST be viewed in a monospace typeface.    |
+ |     1234567890       Please remember this before emailing me =P.       |
+
+This document looks super awesome when printed from an MS-DOS prompt using 
+the generic text editor, edit.com.  It can be viewed with Notepad and also
+Wordpad and still look great.  Make sure "word-wrap" is off, and you are 
+using a mono-spaced typeface... like "courier new". Print from edit.com for
+best results!! Note to all readers: Also check your page margins, make sure
+that they are set to 1" margins, and for those of you who do not know what
+v. and rev. stand for: v. is the abbreviation for version and rev. is the
+abbreviation for revision.
+
+ ________________  _________________________________________________________
+| C r e d i t s / /                             c o n t r i b u t o r i e s |
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Christina Hsieh Kanaris
+  - My special someone (my soulmate :D) in my life, thank you for everything
+    you've ever given me, and I thank you for being in my life. I love you
+    Christina :x:p*:D (plus everything ;D).
+
+Khai, Tri, Leah, Megan
+  - My two brothers and sisters who have always been there for me.  Thanks
+    to Khai for giving me a copy of the beta version of Tekken 4 to practice
+    before it came out and for also getting me the pre-release U.S. copy of
+    Tekken 4 and for being my sensei in Tekken, you've shown me everything
+    I have learned in Tekken.  Tri, my other brother, thanks for all the 
+    times we had and will have.  Thanks to my sister Leah who's always been 
+    there for me when I needed her the most, and her cooking :).  And Megan, 
+    my only little sister, I'm proud of everything you've done, and I'll 
+    always be here for you if you need me.
+
+Taloney Aryah
+  - First of all, I'd like to thank one of my childhood friends here, we've
+    been playing Tekken since day one.  Gave me a few combos to add to this
+    faq, and one of the top Mishima players local here.
+
+Jerome Goudy
+  - One of my other close childhood friends here, gave me a few combos with
+    Kazuya.
+
+Zero-X                                                          <aim:NMD9030>
+  - I would like to thank him for putting up with my trash for all these 
+    years in Tekken, he was my sparring partner in tekken and in real life.  
+    He's also my Tekken Tag partner for when we have local tourneys.  His 
+    best characters in Tekken are Bryan and Xiaoyu, he's also the best Byran 
+    and Xiaoyu player I know.
+
+
+Kao Megura (Chris McDonald)                               <kmegura@yahoo.com>
+  - I would like to thank him for the layout used in this newbie's faq (and
+    for my future faqs to come) and the credits section.  He truly has 
+    contributed a lot of faqs to gamefaqs, and he will be missed on those
+    pages.
+
+http://www.namcoarcade.com/
+  - Namco's official site for their games, they have a Tekken guide, and they
+    even have avatars to go along with the characters.  Check this site out,
+    it's worth it.
+
+http://www.tekkenzaibatsu.com/
+  - A non-official Tekken site, but it's one of the best out there for Tekken
+    related material, I used their Jin Kazama movelist, and their combos, and
+    videos to so they get some due credit for being apart of this faq too.
+
+Kent Dela Pena                                <diamond_dela_pena@hotmail.com>
+  - Some Jin info for his mix-up. His faq is great for those newbie's to 
+    Tekken.
+
+Slikatel                                           <slikatel_twp@hotmail.com>
+  - Info on his Demon Paw Torso Thrust, I borrowed his info from his Tekken 3
+
+    Jin guide.
+
+Young Yoo                                                       <yooy@bc.edu>
+  - Info on the Demon Sweep, I borrowed his info from his Tekken 4 Jin guide.
+
+Ben Thayer                                          <bigdaddyb18@hotmail.com>
+  - Contributed some very good info, including a few setup games with the
+    1,2,3, d+4 combo, a tip on how to stop scrubs, a strategy with the Needle
+    Shrine links, and a nice wall combo tip.
+
+Soulblade136                                           <soulblade136@aol.com>
+  - My combo partner, he helped me create some combos, as well as edit a few.
+
+Barry Wright Moretz (BMW)                                <dncbmw@hotmail.com>
+  - I used his info in the terms section to help with mine, thank you for the
+    info.
+
+Sarchithanandan Korisatan                       <angerofthebeast@hotmail.com>
+  - Reminded me on a few notes about the Lingering Soul Omen.
+
+Argonaut and Team
+  - People who made the original transcript for Shotokan's video.
+
+Shotokan                                        <s_h_o_t_o_k_a_n@hotmail.com>
+  - Credit to him for reminding me about the people I forgot to add, and for
+    his video that he put out on the net.
+
+ _________________  ________________________________________________________
+| V. and R e v.  / /                                          H i s t o r y |
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Version 0.1  [may 30, 2002] (thu.)
+  - Jin faq was created today, added a lot of information on Jin: background 
+    history, personal data, endings, etc.  His movelist both short and de-
+    tailed versions have been filled out, did a few dry-runs and added some
+    more information about his moves.
+
+ Version 0.2  [june 12, 2002] (wed.)
+  - I've completed the whole Special Arts section both short and in-depth.
+    Now all I have to do is to list a lot of combos, which I'll need to 
+    work on and also I'll list the strategies for the characters such as:
+    vs. strategies against the CPU and against human players.  And I'll
+    be updating the terms section soon.
+
+ Version 0.3  [june 20, 2002] (thu.)
+  - Fixed some typos, such as my middle name, I must of been typing to fast
+    or something, because I accidentally put "Maikikou" whereas my middle 
+    name is spelled "Mailikou".  Hope you see this CJayC.  Well as for the 
+    updates, I've added some strategies against two characters, including
+    Jin, and Hwoarang.  Also updated the combos section.  I plan to have the
+    vs. strategy section finished within the next three versions.
+
+ Version 0.4  [july 08, 2002] (sun.)
+  - It has been a while since I have updated the faq, I went to a family 
+    reunion in Atlanta, Georgia.  Well I'm back now so that gives me time
+    to work on the faq, I've written down a lot of notes on the vs. character
+    section, and plus I add some new combos also.  Received some info from
+    Ben Thayer, appreciate it, I'll be sure to add the info.  And added a 
+    "submitted info" section near the end of the faq.
+
+ Version 0.5  [july 13, 2002] (sat.)
+  - I've added a few more combos to the combo list, and I have changed a few
+    typos in his combo,  also add some info against Hwoarang.  I plan to 
+    release a combo video soon, so watch out for that, I'll also give you
+    updates on that to.
+
+ Version 0.6  [july 15, 2002] (mon.)
+  - I've been working on the terms section and plan to add more to it, also 
+    thanks to BMW for his info as i had a hard time defining the words 
+    although i knew what they meant.  Also plan to classify combos later.
+
+ Version 0.7  [july 20, 2002] (sat.)
+  - I've finished revamping the combo section, so it'll be easier to read the
+    combos now, and plan to add more in the future, I also plan to add more
+    vs. info.  Fixed a few typo errors, and also changed a few formats.
+
+ Version 0.8  [july 21, 2002] (sun.)
+  - Fixed some more typos and added a few combos, plus I plan to add
+    an infinite I found with Jin, but I want to make sure before I put
+    it in the faq.
+
+ Version 0.9  [july 24, 2002] (wed.)
+  - Fixed some more typos, I plan to add the Jin infinite, also changed
+    a few dividers in the movelist section.  I have finished the video
+    but I need to find a place to host it or put it up.
+
+ Version 1.0  [july 26, 2002] (fri.)
+  - I haven't got any sleep lately, been up for 2 straight days, I added
+    the definitions for the frame data, so you readers that don't under-
+    stand the chart that I plan to add, just look for the frame database
+    definitions, and also found out some more strategies against other
+    players.
+
+ Version 1.1  [august 09, 2002] (fri.)
+  - So sorry I haven't worked on the faq lately people, I had a ton of things
+    going on and I'm moving pretty soon, so if I don't update in at least two
+    weeks, then that means either I don't have my computer hooked up, or I
+    am not able to connect to the net.  But I add a extra note, and thanks to
+    Sarchithanandan Korisatan for reminding me, sorry about the mistake on
+    how to perform the Lingering Soul.
+
+ Version 1.2  [august 18, 2002] (sun.)
+  - Added JF Throat Smash after reading Arcadia's Tekken 4 guide, it's a good
+    book to pick up if you want to know a few things about tekken.  I'll have
+    the VS section completed by the next update, and I also added Shotokan's
+    Jin Act.1 video and transcript (in order).
+
+ Version 1.3  [september 09, 2002] (mon.)
+  - Added some credits, and thanks to Shotokan once again for reminding me.
+
+ Version 1.4  [october 11, 2002] (fri.)
+  - Edited some combo damages, recorrected a few errors in the combos, added
+    some extra infos and had some of the moves mixed up, so I had to also
+    recorrect that.  I'm also working excessively to put the frame data in,
+    which should be in by the next update, I'll have a simple chart layed out
+    so it will be easy for you readers to read the chart.
+
+ Version 1.5  [november 01, 2002] (fri.)
+ - Instead of putting the frame data separately, I decided to put them under
+   their respectful move, it makes it much easier to read all of the move's
+   information and its properties, instead of dividing them all up into
+   different sections.  Also added a few moves to the detailed list, seeing
+   as I accidently left some out, and also revised a few sections of the 
+   faq.
+
+ Version 1.6  [december 12, 2002] (wed.)
+ - I updated a few more combos, and I'm almost done with the VS strategies
+   section, I'll add the remaining info when I can, seeing as tomorrow is
+   my birthday, I'll be out of town for a while, so if I don't update soon,
+   then excuse me, because I'll stil be out of town.
+
+ Version 1.7  [january 15, 2003] (wed.)
+ - Its been a while but I'm back, I just fixed a few typos and a couple of
+   other things, also congratulations to http://www.tekkenzaibatsu.com/ for
+   their update to 4.0, looks great guys!  Keep up the work. 
+
+ Version 1.8  [april 21, 2003] (mon.)
+ - Man...I haven't worked on this faq in forever, sorry people, I've been
+   extremely busy moving and stuff (I live in Amelia, Ohio now >.<).  I'm
+   going add information on Jin and add a transcript for Jin's other movies
+   that I have heard.  Sorry for the lack of updates people.
+
+ Version 1.9  [may 01, 2003] (thu.)
+ - Added Shatokan's second Jin combo movie.  Also updated some of the move
+   information such as the frame rates and filled in any missing spots.
+   Apparently I need to get unformation on a couple of Jin's move, which I
+   don't have the frame information for, so it might take me a while.
+
+ Version 2.0  [may 31, 2003] (sat.)
+ - Updated more frame information, and also added more additional versus
+   information.
+
+ Version 2.1 [june 12, 2004] (sat.)
+ - Haven't updated in over a year due to school and other miscellaneous
+   events.  Changed my email address and contributor name, and I decided
+   to use my Vietnamese name in my future faqs.  Also plan to add a lot more 
+   information into this faq, as it's almost complete.  Also do expect a
+   Tekken 5 Jin faq from me to.  More to come in my next update.
+  
+
+ ________________  _________________________________________________________
+|  N o t i c e  / /                                     C o p y r i g h t s |
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ Copyright © 2002-2004 Khang Tran
+
+ This FAQ and everything included within this file cannot be reproduced
+ in any way, shape or form (physical, electronical, or otherwise) aside
+ from being placed on a freely-accessible, non-commercial web page in
+ it's original, unedited and unaltered format.  This FAQ cannot be used
+ for profitable purposes (even if no money would be made from selling it)
+ or promotional purposes.  It cannot be used in any sort of commercial
+ transaction.  It cannot be given away as some sort of bonus, gift, etc.,
+ with a purchase as this creates incentive to buy and is therefore
+ prohibited.  Furthermore, this FAQ cannot be used by the publishers,
+ editors, employees or associates, etc. of any company, group, business,
+ or association, etc., nor can it be used by game sites and the like.
+ It cannot be used in magazines, guides, books, etc. or in any other
+ form of printed or electronic media (including mediums not specifically
+ mentioned) in ANY way, shape, or form (including reprinting, reference
+ or inclusion), without the express written permission of the author,
+ myself.  This FAQ was created and is owned by me, Jin Kairi.  All
+ copyrights and trademarks are acknowledged and respected that are not
+ specifically mentioned in this FAQ.
+
+ This FAQ was written for GameFAQs (www.gamefaqs.com) only.  If you want
+ it to be put up on any other web site then please e-mail me asking for 
+ my permission to post this faq on your website.  I would be happy to
+ allow you to post this on your site if you ask for permission first.
+
+ This document is protected by US Copyright Law, and the Berne Copyright
+ Convention of 1976.  It is for private and personal use only--it cannot
+ be reprinted in part or in whole, or reproduced in any way or in any
+ form (written or otherwise).  It is a free document that cannot be used
+ in any sort of commercial transaction, including selling it or giving
+ it away as a gift.  This FAQ cannot be referenced, altered, or used by
+ anybody (including webmasters, publishers, and magazine staff) without
+ my express written permission.  This FAQ was created and is owned by
+ me, Khang Tran (solxvi@hotmail.com).  It can be found exclusively at
+ (www.GameFAQs.com).  All copyrights and trademarks are acknowledged and 
+ respected that are not specifically mentioned herein.
+
+ The latest version of this FAQ can be found at:
+ -----------------------------------------------------------------------
+ GameFAQs                           http://www.gamefaqs.com/
+ Tekken Zaibatsu                    http://www.tekkenzaibatsu.com/
+
+
+
+ ________________  _________________________________________________________
+| I N D E X     / /                                                         |
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+• PART 01.  P R O L O G U E : T E K K E N  4  &  J I N
+
+• PART 02.  G A M E  E N G I N E  &  E L E M E N T S
+
+• PART 03.  J I N  K A Z A M A ' S  S P E C I A L  A R T S
+
+• PART 04.  V S. T I P S,  T R I C K S,  H I N T S,  M I S C.
+
+• PART 05.  E P I L O U G E : T E K K E N  4  &  J I N
+
+
+
+_____________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ // PART 01.  P R O L O G U E : T E K K E N  4  &  J I N
+_____________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Two years ago, Heihachi failed to capture Ogre.
+
+ Not willing to give up, Heihachi ordered his researchers to collect blood 
+ samples, skin tissue, and hoof fragments left behind by Ogre (or known as 
+ True Ogre in its true manifestation) in order to conduct genetic 
+ experiments.  Heihachi’s goal was to create a new life form by splicing 
+ Ogre’s genome with his own.  However, the research was unsuccessful.
+
+ After extensive experimentation, Heihachi’s bioengineers came to the 
+ conclusion that an additional gene - the Devil Gene - was necessary in order 
+ to successfully splice Ogre’s genetic code into another living organism. 
+ Heihachi learned that his own genome lacked the Devil Gene, but he knew 
+ someone who did...
+
+ Jin Kazama.
+
+ Jin, who vanquished Ogre in The King of Iron Fist Tournament 3, was shot and 
+ mortally wounded by Heihachi.  As his life slipped away, Jin transformed 
+ into a Devil.  Upon his transformation, he struck down Heihachi and took  
+ flight.
+
+ Jin’s whereabouts were unknown after the Tournament.
+
+ Heihachi searched for Jin to no avail.  However, Heihachi discovered a 
+ photograph during his investigation that stirred his curiosity.  The 20- 
+ year-old photograph was an image of a burnt corpse covered with laceration 
+ wounds.  Heihachi paid particular attention to the corpse’s back, which had 
+ what looked like deformed, protruding wing-like limbs.
+
+
+ Convinced that the picture was of Kazuya, his own son whom he threw into a 
+ volcano 20 years ago, Heihachi diverted all his resources into a search for 
+ the body.  This search eventually led Heihachi to G Corporation, a leading-
+ edge biotech firm making unprecedented advances in the field of biogenetics 
+ research.
+
+ Heihachi discovered that G Corporation found the corpse and extracted and 
+ analyzed its genetic data.  In fact, Heihachi learned that the company was
+ in the midst of creating a new life form by using the data.  Heihachi also 
+ determined that Kazuya’s remains and research data were secured at G 
+ Corporation’s Nebraska and Nepal research laboratories, respectively.
+
+ Friday of 25 December.  The Tekken Force raided G Corporation’s maximum 
+ security research laboratory in Nepal.  The bottom floors of the building 
+ were obliterated, and the remaining data storage facility containing file 
+ servers was airlifted by a group of heavy-duty helicopters.
+
+ At the same time, a separate unit led by Heihachi infiltrated the 
+ underground research facility in Nebraska, where Kazuya’s remains were 
+ preserved.  As Heihachi observed from his helicopter, he soon realized that 
+ unlike the Nepal facility, the operations in Nebraska were not going 
+ according to plan.  The tactical status monitor screens showed the first 
+ wave of the Tekken Force troops being blown out from the storage room where 
+ Kazuya’s remains were supposedly kept.
+
+ A silhouette of a large figure slowly emerged from the room... When Heihachi 
+ could see clearly enough, he instantly recognized the large figure as 
+ Kazuya.
+
+ Kazuya was resurrected in G Corporation’s research facility.  After his 
+ resurrection, Kazuya offered his body as research material to determine the 
+ true nature of the Devil that resided within him.  Kazuya’s goal was to
+ unify his two selves into one.  Kazuya theorized that if he unified his body 
+ with the Devil, he would be able to truly harness its powers.  He could then 
+ finally take revenge against Heihachi and the Mishima Zaibatsu (Financial 
+ Empire).
+
+ Enraged that Heihachi thwarted his plans, Kazuya obliterated the heavily 
+ armed Tekken Force and vanished into the flames of the lab’s wreckage.
+
+ Heihachi was infuriated by Kazuya’s escape and took out his anger on his 
+ hapless subordinates who reported the escape.
+
+ Abel, Heihachi’s lead scientific advisor, urged the enraged Heihachi to 
+ quickly find a way to capture Kazuya. Once his anger subsided, Heihachi 
+ focused his mind and decided on a plan. An evil smile crept upon his lips.
+
+ Two years had passed since The King of Iron Fist Tournament 3.
+
+ The Mishima Zaibatsu announced The King of Iron Fist Tournament 4 and placed 
+ the massive financial empire as the top prize.
+
+ The champion who manages to defeat Heihachi at the end of the Tournament
+ would inherit the Mishima Zaibatsu.
+
+ Well aware that the tournament is just a trap designed to lure him out,  
+ Kazuya nevertheless enters - it is his chance to defeat Heihachi.
+
+  - "Namco Arcade Website"
+
+ First of all, this is my very first faq, so if any of you readers have 
+ comments and/or suggestions, please send them in.  This faq has a few
+ purposes: 1. To give you the info on Jin Kazama; 2. How to play with him;
+ 3. Give some nice tips on combos and such; and 4. How to get the best of
+ Jin's latent power to come out.
+
+
+
+_____________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ // PART 02.  G A M E  E N G I N E  &  E L E M E N T S
+_____________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Basics (101)
+ Intermediate (201)
+ Advanced (301)
+
+This section outlines the basic controls for all characters:
+
+ [ Controller Layout ]  -----------------------------------------------------
+
+  ub  u  uf      Jump Up-Back            Jump Up         Jump Up-Forward
+    \ | /
+ b -- n -- f     Walk Back / Block       Neutral         Walk Forward
+    / | \
+  db  d  df      Crouch / Low Block      Crouch          Offensive Crouch
+
+ Note when facing left, the controls are reversed. :)  One other thing 
+ though, looks like Namco has taken out the back jump and the crouch
+ walk backwards.  So remember that. 
+
+ [ Button Layout ]  ---------------------------------------------------------
+
+  LP   RP        Left Punch              Right Punch
+
+  LK   RK        Left Kick               Right Kick
+
+ [ Commands ]  --------------------------------------------------------------
+
+1       left punch              2         right punch
+3       left kick               4         right kick
+5       tag button              any       any button but tag
+f       tap forward             F         hold forward
+d       tap down                D         hold down
+b       tap back                B         hold back
+u       tap up                  U         hold up
+d/f     tap down forward        D/F       hold down forward
+d/b     tap down back           D/B       hold down back
+u/f     tap up forward          U/F       hold up forward
+u/b     tap up back             U/B       hold up back
+qcf     quarter circle forward  qcb       quarter circle back
+hcf     half circle forward     hcb       half circle back
+
+
+ [ Notations ]  -------------------------------------------------------------
+
+FC       full crouch animation   WS        while standing up
+N        joystick in neutral     iWS       instant WS (d~d/b_d/f+any)
+SS       side step either way    SSW       side step walk
+SSR      side step to right      SSL       side step to left
+T/DSS    Triple/Double Sidestep  WR        while running  
+{ }      escape command          [ ]       optional command
+,        followed by             #         hold last/previous command
++        at the same time        ~         immediately after
+>        delayed input           ( _ )     or (or another name for a move)
+*        push and hold button    =         next in sequence
+cmd      command (throw, etc.)   :         just frame input (on exact frame)
+dmg      damage for an attack    #ppt      properties (see move listings)
+[tag]    move may be tagged      rng       range (i.e. high, mid, low)
+
+ [ Grounded Positions ]  ----------------------------------------------------
+
+PLD or FU/FA    play dead position      face up & feet away
+KND or FU/FT    knockdown position      face up & feet towards
+SLD or FD/FA    slide position          face down & feet away
+FCD or FD/FT    face down position      face down & feet towards
+
+
+ [ Moves Properties ]  ------------------------------------------------------
+
+BT      your back turned to the opponent
+OB      forces opponent's back to face you
+OS      forces opponent's side to face you
+OSB     forces opponent's side to face you when blocked
+OG      while opponent is guarding
+JG      juggle starter
+BN      bounce juggle starter
+RC      recover crouching after a move (can go into WS afterwards)
+RCj     joystick modifier, need to hold D during the move to RC
+RN      while running
+CH      requires a counter hit
+DS      double over stun (escape by tapping f/TAG within 20 frames of impact)
+FS      fall back stun (escape by tapping f/TAG within 20 frames of impact)
+LS      lift stun 
+GS      gut stun
+KS      kneel stun
+HS      hunch over stun
+TS      trip stun
+CS      crumple stun
+CFS     crumple fall stun
+CF      crumple fall
+BS      low block stagger (to attacking character)
+FL      the following attack floats your opponent
+SH      stagger hit (escape by holding d within 20 frames of impact) 
+GB      guard break (usually one or two hands go up in the air)
+GC      guard crouch, opponent recovers in crouching guard
+c       CH modifier (eg. JGc is a juggle starter on counter hit)
+cl      Clean Hit modifier (eg. DScl is a double over stun on clean hit) 
+co      crouching opponent modifier (eg. KSco)
+cco     CH on crouching opponent modifier (eg. FScco)
+
+
+ [ Hit Ranges ]  ------------------------------------------------------------
+
+pos     position change
+l       hits low (block d/b)
+m       hits mid (block b)
+h       hits high (block b or duck)
+L       hits low and grounded opponents (block d/b)
+M       hits mid and grounded opponents (block b)
+H       hits high and grounded opponents (block b or duck)
+Sl      hits special low (block d/b)
+Sm      hits special mid (block d/b or b)
+Sh      hits special high (block b or duck)
+T       throw based range (reverse using designated escape commands)
+front-p (abbreviated f-pos) front position of opponent (i.e. front of person)
+left-p  (abbreviated l-pos) left position of opponent (i.e. left of person)
+right-p (abbreviated r-pos) right position of opponent (i.e. right of person)
+back-p  (abbreviated b-pos) back position of opponent (i.e. behind person)
+!       unblockable hit
+<!>     unblockable hit which can be ducked
+{!}     unblockable hits grounded opponents
+*!*     unblockable hits big grounded opponents
+( *)    damage next to * signifies on a clean hit
+x       (also --) move is just a feint or no hit/escape(throws)(none)
+"       indicates block point in string hits
+.       Pause 1/3 a second between button presses (Tenstring timings only)
+
+
+ [ Extra Combo Conventions ]  -----------------------------------------------
+
+w!    wall stun                  hitting your opponent against the wall
+W!    side wall stun             opponent hitting their side against wall
+cl    clean hit                  hitting your opponent in very close range
+cc    crouch cancel              tap up while crouching 
+iWS   instant while standing     d,d/b,N_d,d/f,N (usually)
+CD    crouch dash                f,N,d,d/f
+WD    wavedash                   f~qcf
+wgf   wind godfist               f,N,d,d/f+2 
+dwgf  dash wind godfist          f,f,N,d,d/f+2
+ewgf  electric wind godfist      f,N,d~d/f+2
+dewgf dash electric wind godfist f,f,N,d~d/f+2
+tgf   thunder godfist            f,N,d,d/f+1
+dtgf  dash thunder godfist       f,f,N,d,d/f+1
+big   big character combo        only works on big characters 
+(  )  missing hit                is required for the next hit
+
+NOTE: Jin's character specific conventions, and note you can a WD to perform
+a wavedash type move. (i.e. WDoewgf : b+1+2*,d,u,b,f, f~qcf~f,N,d~d/f+2
+
+thf   thunder hook fist          SEE wgf
+whf   wind hook fist             SEE tgf
+owgf  omen wind godfist          b+1+2*,d,u,b,f, f,N,d,d/f+2
+oewgf omen electric wind godfist b+1+2*,d,u,b,f, f,N,d~d/f+2
+otgf  omen thunder godfist       b+1+2*,d,u,b,f, f,N,d,d/f+1
+
+NOTE: You can also perform a WDewgf, WDwgf, and WDtgf.
+
+WDwgf  wavedash wind godfist          f~qcf+2
+WDewgf wavedash electric wind godfist f~qcf~f,N,d~d/f+2
+WDtgf  wavedash thunder godfist       f~qcf+1
+
+ [ Special Types of Steps ]  ------------------------------------------------
+
+ Ha Ha Step
+  -
+
+ Fox Step
+  -
+
+ Shadow Step
+  - 
+
+ Snake Step
+  -
+
+
+
+ [ Tekken Reference of Terms ]  ---------------------------------------------
+
+ 
+ ::GENERAL TERMS::
+
+ 000. ani (Move Animation) [animation]
+    -  animation is the video output, measured in frames, that you see while 
+       playing Tekken.  When I refer to the animation of maneuvers, I am 
+       noting the moves 'startup', 'execution' and 'recovery' animation, each 
+       of which is very important.  These animations can be measured in 
+       frames, or 1/60th fractions of a second.  Startup, execution and 
+       recovery are described below.
+
+ 001. exe (Move Execution) [execution]
+    -  the animation (time) during which the most active properties of an 
+       attack or maneuver take place.  The execution of Jin's ub+1+2 would be 
+       the time during which his fist may connect against an opponent.
+
+ 002. rec (Recovery Time) [recovery]
+    -  the animation (time) during which the after-effects of a maneuver take
+       place.  The recovery of Jin's ub+1+2 would be the time after the punch 
+       might have connected, but before he may perform any other maneuver or 
+       block.
+
+ 003. strt (Startup Animation) [startup]
+    -  the animation(time) during which a character prepares to execute his 
+       maneuver. The startup of Jin's ub+1+2 would be the time when ub+1+2 is 
+       input during which he 'charges up' in preparation for his unblockable 
+       attack.
+
+ 004. SS(L/R) (Axis Shift) [sidestep]
+    -  In Tekken 4, you may complete an axis shift by performing a sidestep
+       (which is basically a quick dash to the side).  If you tap up on the 
+       controller, your character will move towards the background of the 
+       arena(away from you), if you tap down, he will move towards the 
+       foreground of the arena(closer to you).
+
+ 005. SSW (Sidestep Walk) [axis walk]
+    -  In Tekken, you can continue to walk to the side (either left or right)
+       by tapping and holding up or down.  If you tap and hold up on the 
+       controller, your character will move towards the background and 
+       continue to walk until you release up.  If you tap and hold down on 
+       the controller, then your character will move towards the foreground
+       and continue to walk until you release down.  This is very useful when
+       you have to position yourself for a wall combo.
+
+ 006. buff (Buffer Technique) [buffering] 
+    -  an aspect of Tekken game mechanics that allows you to enter in button 
+       sequences more efficiently.  This is how it works: you want to enter 
+       in a sequence consisting of button one and then button one and button  
+       two together.  Normally, you would have to tap button one, release it,
+       and then tap button one and button two at the same time.  Buffering is 
+       the ability to PRESS AND HOLD button one(this is the key), and then 
+       tap button two to register an input of both buttons.  In this way, you 
+       can get the same result as before while being much more accurate in 
+       the process.  NOTE: To complete any, and I do mean ANY, individual 
+       move that requires you to press more than one button, you may press 
+       and hold all but one of those buttons and then tap the last one when 
+       you are ready to complete the move.  You can also use buffering to 
+       smoothly cancel one move with another using a modified input sequence.
+
+ 007. cbn (Combination) [combo]
+    -  a series of moves that are unblockable and inescapable, given that the 
+       first move (in the series) connects.
+
+ 008. con (Connect) [unguarded]
+    -  the result of an attack that is improperly guarded against, and the 
+       most basic way an attack may hit an opponent.
+
+ 009. cnm (Counter Move) [counter]
+    -  a move that negates an opponent's move or his recovery from a move. 
+       Specific counter types are explained below.
+
+ 010. ARR (Attack Reversal Reversal) [chicken]
+    -  a reversal reversal performed by inputing f+1+3 if a left limb is
+       reversed or f+2+4 if a right limb is reversed.
+
+ 011. CH (Counter Hit) [interrupt]
+    -  an attack that connects either while your opponent is attacking (major
+       counter), or immediately after his attack while he is still recovering 
+       from it(minor counter), thereby negating his attack or recovery.
+
+ 012. pry (Attack Parry) [parry]
+    -  a sort of thrust-block that throws your opponents attack to the side,
+       and staggers him for a brief period of time. In some situations a 
+       parry allows for a combo by the parrier because of this staggering 
+       effect.
+
+ 013. tch (Tech) [techable]
+    -  a special type of counter that can only be used in special situations:
+       a tech does not negate an attack as other counters do, but instead it 
+       alters the outcome of the attack to the benefit of the player
+       completing the tech.
+
+ 014. tchrol (Tech Roll Recover) [tech roll]
+    -  a tech roll is a quick-recover roll you may perform after many 
+       maneuvers, and it may be used to better your positioning. Any 
+       character may tech-roll after landing face up from a juggle 
+       combination by tapping 1_2 to roll towards the background of the 
+       arena, or 3_4 to roll towards the foreground of the arena.
+
+ 015. rev (Reversable) [reversal]
+    -  a special type of counterhit that attacks your opponent while he is 
+       attempting to attack you.  You may counter reversals by performing
+       a chicken.
+
+ 016. custrg (Custom String) [custom combo]
+    -  a series of individual moves or portions of strings used to create a 
+       move sequence that blends together so well it is difficult to defend 
+       against or counter.
+
+ 017. fr (Frame Rates) [frames]
+    -  the images that are shown to the viewer which make up the video output
+       (animation) of a video game. Tekken 4 flashes 60 of these images
+       (frames) every second. Note that fps stands for Frames Per Second.
+
+ 018. jug (Juggle Combo) [Juggles]
+    -  a juggle is a series of moves used to hit an airborne opponent. 
+       Attacks that are made upon an airborne opponent are effectively 
+       unblockable.  Specific juggle types are explained below.
+
+ 019. bncjug (Bounce Juggle) [bounce starter]
+    -  a type of juggle in which the juggled character bounces off of the 
+       ground (example: Bryan's u/f+4).
+
+ 020. fltjug (Float Juggle) [float, floater] 
+    -  a type of juggle in which the juggled character immediately falls 
+       towards the ground after the juggle starter (example: any characters 
+       grdt3).
+
+ 021. hghjug (High Juggle)
+    -  a type of juggle in which the juggled character is launched 
+       significantly higher than in a normal juggle (example: Hwoarang's
+       f,N,d,d/f+4).
+
+ 022. nmljug (Normal Juggle)
+    -  the most common type of juggle in which the juggled character is 
+       launched upward (example: Jin's d/f+2).
+
+ 023. multhr (Multi Throw) [throw combo]
+    -  a grappling move that may have an alternate outcome via input from the
+       user.
+
+ 024. pokptrn (Poking Pattern) [poke]
+    -  a continuous, repeated series of fast attacks that forces your 
+       opponent into a defensive state (similar to, but not the same as a 
+       custom string).
+
+ 025. stgr (Stagger Attack) [stagger hit]
+    -  many attacks(most notably parries) stagger your opponent.  The 
+       recovering positions after a staggering attack vary, but all staggers 
+       make it impossible for a staggered character to block attacks for a 
+       brief period of time. The are few differences between the technical 
+       aspects of a staggering attack and a stunning attack (see 'stun').
+
+ 026. strg (String Combo) [string, move-string]
+    -  a preselected set of moves that may be chained together to create a 
+       single move sequence (not to be confused with a "combo").
+ 
+ 027. stn (Stun Attack) [stun]
+    -  all attacks cause stun whether it is guard stun (which sometimes makes 
+       it impossible to reverse or parry during attack strings) or connect
+       stun (recovery).  When I talk about the stunning characteristics of a 
+       move I mean to say that this move causes either a significantly longer 
+       stun or that it has special stun properties such as Jin's b,f+2 on 
+       major counter.  This move causes a stun in which your opponent doubles 
+       over and slowly falls face-first onto the ground, allowing for 
+       combinations.
+
+
+
+ ::FRAME DATABASE::
+
+ 028. Command Column [input] 
+    -  Pretty self explanatory, this is how you execute the listed move. The 
+       directions are in relation to which way your character is facing of 
+       course. 
+
+ 029. F Hit Column [F hit] {F}
+    -  Indicates how many frames it takes for a move to hit after you have 
+       finished the command. This does not included the number of frames it 
+       takes to input the command. 
+
+ 030. B Adv Column [B adv] {B}
+    -  The number of frame advantage or disadvantage when the move is 
+       blocked. Meaning the amount of frames it takes before you can input a 
+       new command. Positive numbers are advantages over your opponent, 
+       negative numbers indicate a disadvantage and KD indicates the opponent 
+       gets knocked down. This can either be a juggle, stun or any other kind 
+       of knock down. 
+
+ 031. H Adv Column [H adv] {H}
+    -  The number of frame advantage or disadvantage on a hit. Keep in mind a
+       hit does not necessarily results in an advantage over the opponent. 
+       Frame advantage on stagger moves reflects the amount of stagger 
+       frames, this does not equal the number of frames your opponent cannot 
+       block attacks. 
+
+ 032. Hc Adv Column [Hc adv] {Hc}
+    -  The number of frame advantage or disadvantage on a hit when the 
+       opponent is in a crouched position. Frame advantage on stagger moves 
+       reflects the amount of stagger frames, this does not equal the number 
+       of frames your opponent cannot block attacks. 
+
+ 033. CH Adv Column [CH adv] {CH}
+    -  The number of frame advantage or disadvantage on a counter hit. Keep
+       in mind a counter hit does not necessarily results in an advantage 
+       over the opponent.
+
+ NOTE: If you really want to master your favorite characters you should 
+ definitely take a look at the frame information. You will instantly see what 
+ are the bad moves to use and which moves would be prime retaliation options. 
+ Tekken 4 runs at 60 frames per second.
+
+ It is VERY IMPORTANT to note that sometimes you can block before you can 
+ actually input a command, this is often the case with minor stuns and guard 
+ breaks. Thus a -12 for example doesn't necessarily mean you can't block for 
+ 12 frames (After Jin's Kazama Fury for example you can block almost 
+ instantly yet you cannot move for nearly half a second). Most moves with a 
+ disadvantage of 8 or less can be considered safe moves as it takes at least 
+ 8 for your opponent to execute a standard jab and in some cases your 
+ opponent will not even be within jab range and you have to add on whatever 
+ amount of frames it take for him to dash within hitting range. Christie has 
+ the ability to shorten recovery time after certain moves with a side step or 
+ using recover crouching cancels.
+
+
+
+::TYPES OF PLAYERS::
+
+ 034. Masher
+    -  someone who doesn't really know how to play Tekken. They get on the
+       game, pick a character, and then they attempt to win by hitting 
+        the buttons and yanking on the joystick as fast as possible.
+
+ 035. Novice, Newbie (noob)
+    -  someone who is familiar with basic Tekken tactics, but simply lacks 
+       the knowledge to be proficient in it.
+
+ 036. Scrub
+    -  someone who is good at doing one thing with one character, or repeats
+       the same moves over again repetitively.
+
+ 037. Intermediate
+    -  a WIDE range of players (basically anyone who doesn't fit into the 
+       other categories).
+
+ 038. expert
+    -  expert level players demand control of everything: their player, their 
+       opponent's player, EVERYTHING: they achieve control over their own 
+       character by practicing until they have him down to a science; and 
+       they achieve control over their opponent's character by forcing him 
+       into situations in which he has very limited choices, and then they 
+       make an assumption as to which choice their opponent will make. Note 
+       that an expert level player in one location may or may not be an 
+       expert level player in another locale because the skill levels of the 
+       two locations may be very different.
+
+
+
+ ::TYPES OF TACTICS::
+
+ 039. poking [pokers, poking tactics] 
+    -  the process of using very fast, usually low-damage attacks to knock an 
+       opponent out of his attack (very effective when used in conjunction 
+       with "turtle" tactics). In high-level play, poking becomes a series of 
+       fast moves that entices an opponent to make a mistake, therebye 
+       allowing for a high-damage counterattack (like df+2, for example).
+
+ 040. pit bull [pit bull tactics]
+    -  a "pit bull" is a player who gets right up in your face and attacks, 
+       and attacks, and attacks (basically a poker who doesn't ever let up).
+
+ 041. turtle [turtle tactics, turtler]
+    -  a strategy that involves waiting for the best time to attack by 
+       avoiding and/or your opponent's attacks until he leaves himself open 
+       to your attack.
+
+
+ 
+
+ NOTE:  WILL BE REVISED IN THE NEXT FEW UPDATES :)
+
+
+
+_____________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ // PART 03.  J I N  K A Z A M A ' S  S P E C I A L  A R T S
+_____________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Here is where you'll find all the conventions and explanations to them, but 
+ apparently I have to find some time to work on the definitions, so just give 
+ me a few weeks.  Now some (if not all) of you readers are probably thinking 
+ I took the alpha, beta, gamma idea from Marvel vs Capcom 2, but I didn't, 
+ trust me.  I studied the Greek alphabet last year and so I thought if this 
+ could be my own little "style" to when I type future faqs from now on.  The 
+ alpha section is the short version of the move list. This is where you want 
+ to go to find all of Jin's moves the easy, fast, and reliable way.  The beta
+ section is where I break down the moves and explain how to use each move,
+ or I might just give you readers a combo or to.  The gamma section is where 
+ I list all the combos, custom combos, and the mix/wake-up games.  If another 
+ one of my faqs ever get into gameFAQs, you'll have to check here to see what 
+ I listed as Alpha, Beta, and Gamma.  So on with the faq!  
+
+ a - "alpha" section (short version of movelist)
+ b - "beta" section (detailed version (in-depth) movelist)
+ g - "gamma" section (combos and custom combos and mix/wake-up games)
+
+
+-----------------------------------------------------------------------------
+a - S h o r t   V e r s i o n
+-----------------------------------------------------------------------------
+
+
+
+ __________________________ 
+|G R A P P L I N G  A R T S\_________________________________________________
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Throw Name               Command               Position               escape
+
+Thunder Reverse          (2+4_f+2+4)           front                  {2}
+Oar Crush                qcb+1+3               front                  {1}
+Throat Smash             u/f+1+2               front                  {1+2}
+JF Throat Smash          u/f+1+2:u/b+3+4       front                  {1+2}
+Scales Flip              (2+4_f+2+4)           left                   {1}
+Shoulder Helix           (2+4_f+2+4)           right                  {2}
+Hip Dislocator           (2+4_f+2+4)           back                   {--}
+Position Change          1+3+(u_d_b_f)         any                    {1}
+
+
+
+ ______________________
+|S P E C I A L  A R T S\_____________________________________________________
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Special Arts Name           Command            Range/Damage          #ppt
+
+Twin Thrusts                1,2                hh/7,12
+Twin Thrusts-Inner Axe      1,2,3              hhm/7,12,25           GB JG
+Twin Thrusts-Roundhouse     1,2>4              hhh/7,12,22           GB
+Kazama Fury                 1,3,2,1,4          hhmml/7,10,10,10,10   HS
+= Lingering Soul            ~d+1+2             --/--                 #2
+Lead Thrust-Jaw Kick        1,3                hh/7,13
+Lead Thrust-Vertical Kick   1,3~3              hm/7,22               GB
+= Blade Kick                3                  m/13                  CFSc GS
+ = Lingering Soul           ~d+1+2             --/--                 #1 #2
+Mid Thrust-Side Crusher     d/f+1>4            mm/12,15
+Mid Thrust-Shin Kick        d/f+1,4~4          ml/12,13
+Rising Lancer               WS+1>2             mm/10,16
+Thunder Hook Fist           f,N,d,d/f+1        m/22
+Corpse Thrust               d+1                m/24
+Left Elbow                  b+1                h/14
+Demon Hell Thrusts          1+2                hh/10,21              GB
+= Lingering Soul            ~d+1+2             --/--                 #1 #2
+Lancer                      2,1                hm/10,10 
+Lancer-Side Crusher         2,1,4              hmm/10,10,15
+Lancer-Shin Kick            2,1,4~4            hml/10,10,13
+Rear Thrust-Roundhouse      2,4                hh/10,14
+Final Upper Thrust          WS+2               m/15                 JG
+Quick Upper                 d/f+2              m/15                 JGc
+Wind Hook Fist              f,N,d,d/f+2        h/25
+Electric Wind Hook Fist     f,N,d~d/f+2        h/25                 GB
+Backfist-Side Swipe         b+2,3              hm/12,21 
+= Lingering Soul            ~d+1+2             --/--                #2
+Demon Paw Torso Thrust      f,f+2              m/24
+Right Elbow                 f+2                h/22                 SHc
+Demon Godfist               b,f+2              m/18                 DSc
+Needle Shrine Cannon        b,f+2>1>2          mmm/18,14,10         FSc #3
+Needle Shrine Scraper       b,f+2>1>d+2        mmm/18,14,15         JG FSc #3
+Axe Kick                    f,f+3              m/25                 GB JG
+= Kazama Fury               1,3,2,1,4          hhmml/7,10,10,10,10  HS
+ = Lingering Soul           ~d+1+2             --/--                #2
+= Lead Thrust-Jaw Kick      1,3                hh/7,13
+= Lead Thrust-Vertical Kick 1,3~3              hm/7,22              GB
+ = Blade Kick               3                  m/13                 CFSc GS
+  = Lingering Soul          ~d+1+2             --/--                #1 #2
+Inner Roundhouse-Shin Kick  b+3,4              hl/15,15             KNDc
+Mid Kick                    f+3                m/16
+Vertical Kick               f+3~3              m/22                 GB
+= Blade Kick                3                  m/13                 CFSc GS
+ = Lingering Soul           ~d+1+2             --/--                #1 #2
+Heaven Gate Kick            d/f+3              m/15                 GS
+= Lingering Soul            ~d+1+2             --/--                #1 #2
+Devious Kick-Left Blade     d+3,3              lm/7,10              GS
+Demon Roundhouse            (WS_f,N,d,d/f)+3   h/28
+Demon Lift Kick             d+3+4              mm/5,15              JG
+Crouch Dash Slash Kick      f,N,d,d/f,f,u/f+3  m/30                 GB
+Spinning Roundhouse         (u/b_u/f)+3        h/30 
+Leaping Slash Kick          (WR_f,f,f)+3       m/30                 GB
+Battle Kick                 f+4                M/21                 HS CFSc
+= Lingering Soul            ~d+1+2             --/--                #1 #2
+Spin Heel Kick              b+4                m/18                 GB
+Hell Gate Kick              d/f+4              m/33
+= Lingering Soul            ~d+1+2             --/--                #1 #2
+Outer Axe Kick              f,f+4              M/19
+Tsunami Kick                (WS_f,N,d,d/f,f)+4 m/13
+Demon Sweep                 d+4                L/15
+Shin Kick                   d/b+4              L/15
+Stature Sweep               f,N,d,D/F+4        l/18
+= Lingering Soul            ~d+1+2             --/--                #2
+= Twisting Demon Scissors   (~3_3+4)           M/21                 GB
+Snap Lift Kick              (u_u/f)+4          h/25
+Spin Demon                  u/f,N+4            h/25
+Twisting Demon Scissors     (4~3_WS+4~3)       M/28
+Lingering Soul               b+1+2             --/--                #2
+= Soul Step Reversal         ~f,f,b+2+4        --/varies
+Lingering Soul Taunt         1+3+4             --/--
+High Parry                   b+2+4             --/--
+
+
+ [ Property Listings ]  -----------------------------------------------------
+
+#1. The move must hit in order to perform the Lingering Soul.
+#2. The first attack or attack string will cause guard damage. While 
+    Jin's fists are glowing he cannot block and all all attacks hit as CH.
+#3. The stun occurs on 2nd hit.
+#4. Lingering Soul lasts around 5 seconds. Omen ends after performing one
+    of the moves.
+#5. Regular Lingering Soul properties (#2) applies for the time Jin's fists 
+    are glowing (not the full 5 seconds).
+
+
+
+ ________________________________________________
+|L I N G E R I N G  S O U L  O M E N  S T A N C E\___________________________
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Special Arts Name                  Command           Range/Damage    #ppt
+
+Lingering Soul Omen                b+1+2*,d,u,b,f    --/--           #4 #5
+= Omen Wind Hook Fist              f,N,d,d/f+2       h/30            GB
+= Omen Stature Sweep               f,N,d,D/F+4       l/22
+= Omen Twin Thrusts - Inner Axe    1,2,3             hhm/7,12,25     GB JG
+ = Omen Kazama Fury                1,3,2,1,4         hhmml/10,13(x4) HS
+= Omen Lead Thrust - Vertical Kick f+1,3~3           hm/10,30        GB
+ = Omen Blade Kick                 3                 m/17            CFSc GS
+  = Lingering Soul                 ~d+1+2            --/--           #1 #2
+
+
+
+ ______________________________
+|U N B L O C K A B L E  A R T S\_____________________________________________
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Name                               Command           Range/Damage     #ppt
+
+Needle Shrine Gates                b,f+2>1>d+2*      mm!/18,14,22    #1 JG  
+Eighth Gate of Hell                u/b+1+2           !/100
+
+
+
+ _______________________________
+|C O M B O  S T R I N G  A R T S\____________________________________________
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+Jin has no known string arts
+
+
+
+-----------------------------------------------------------------------------
+b - D e t a i l e d   (i n - d e p t h)   V e r s i o n
+-----------------------------------------------------------------------------
+Example:  move properties / hit range / damage
+
+ Twin Thrusts - -- / hh / 7,12
+ input » 1,2    H adv  » +9,+9
+ F hit » 10     Hc adv » --,--
+ B adv » +2,+1  CH adv » +9,+10
+
+  - One of Jin's better moves to poke with, and you can string this together 
+    with the 1,2,3_4.  This is a move that you want to mix-up with, it'll 
+    keep the opponent guessing what you plan to do.  One of my strategies is 
+    to use the 1,2 a few times, then mix it with the 3 and 4.  If your 
+    opponent catches onto this pattern, use the uf+1+2 throw, it's cancelable 
+    (thanks to Kent Dela Pena for this information), oh, and don't abuse this 
+    move unless you plan to play a second-rate Jin (e.g. playing a cheese or 
+    cheap Jin).
+
+ Twin Thrusts to Inner Axe - GB, JB / hhm / 7,12,25
+ input » 1,2,3     H adv  » +9,+9,KD
+ F hit » 10        Hc adv » --,--,KD
+ B adv » +2,+1,+3  CH adv » +9,+10,KD
+
+  - Mix this up with the Twin Thrusts, if you connect with the Inner Axe at 
+    the end, use a Demon Sweep to get deal some damage, or use another Twin 
+    Thrusts to Inner Axe combo if you can execute it early enough.  I usually 
+    follow this up with a Demon Lift kick, then a Twisting Demon Scissors.
+    It also causes the opponent to have a guard break, if you are quick 
+    enough, use the Throat Smash throw (uf+1+2) just to surprise them.
+    1,2,3 gives you an ungodly frame advantage following up with a needle 
+    Shrine series is hard to stop (certified scrub killer and a decent setup 
+    for high level playing) (from Ben Thayer).
+
+ Twin Thrusts to Roundhouse - GB / hhh / 7,12,22
+ input » 1,2>4    H adv  » +9,+9,KD
+ F hit » 10       Hc adv » --,--,--
+ B adv » +2,+1,0  CH adv » +9,+10,KD
+
+  - Most players (beginners) tend to use this often, when using this, try not 
+    to overuse this move, more skilled players will either parry, duck, or 
+    reverse this move.  If the opposing player ducks the Roundhouse, you'll 
+    be setup for some combos or some okizemes.  When you do connect with this 
+    kick, it'll give you some breathing space and you could either run to you 
+    opponent them slide kick him/her, use a Twisting Demon Scissors, or use a 
+    Demon Sweep.
+
+ Kazama Fury - HS / hhmml / 7,10,10,10,10
+ Input » 1,3,2,1,4       H adv  » +9,+4,+3,+3,+24
+ F hit » 10              Hc adv » --,--,+3,+3,+24
+ B adv » +2,-6,-1,-4,-8  CH adv » +9,+4,+3,+3,+24
+
+  - Yes, Jin's signature five hit combo, a single straight snap jab, one snap 
+    kick, two body hooks, and a low ankle kick to stun the opponent.  I use 
+    this move at least once every match just in case if I get lucky or if 
+    it's a newbie on the machine who doesn't know how to block it.  When you 
+    connect the low kick, use a Demon Lift Kick for a juggle setup, a throw 
+    if you want some damage, or another Kazama Fury.  I use the Hell Gate 
+    Kick because it deals some good damage and knocks the opponent back.  If 
+    you want to do the Lingering Soul cancel, that's alright too, but be 
+    careful for it's lag time.
+ 
+ Lead Thrust to Jaw Kick - -- / hh / 7,13
+ Input » 1,3    H adv  » +9,+4
+ F hit » 10     Hc adv » --,--
+ B adv » +2,-6  CH adv » +9,+4
+
+  - It's a nice looking move, but it's time between the punch and kick is 
+    slow, I'd rather you use this move in juggles, but this is the section 
+    where I help you readers out.  Well, if you can get the Twin Thrusts to 
+    Inner Axe to connect, then just use this after for some damage.  Oh yeah 
+    did I mention it's good to mix this up with the Vertical Kick and Blade 
+    Kick.  If you play against somebody who can reverse kicks (King or Paul 
+    in particular), don't use this move to much, they'll just reverse one
+    of the three kicks to come (that's if they know how to reverse, which 
+    they should).
+      
+ Lead Thrust to Vertical Kick - GB / hm / 7,22
+ Input » 1,3~3  H adv  » +9,KD
+ F hit » 10     Hc adv » --,KD
+ B adv » +2,+5  CH adv » +9,KD
+
+  - The Vertical Kick basically cancels from the Jaw Kick, but anyway, the 
+    kick guard breaks, that means you get some breathing space.  If you hit 
+    your opponent into the wall with this kick, then follow up with a Demon 
+    Hell Thrusts for some good damage, or a Rear Thrust to Roundhouse for 
+    some damage. The Rear Thrust to Roundhouse also sets you up for wake-up 
+    games, so keep that in mind.  Oh and try a Twisting Demon Scissors or a 
+    Demon Sweep after to knock your opponent down to the ground for a hit.
+    If you Follow up with the Blade Kick the opponent will be left in a 
+    Crumple Fall Stun on a counter hit, a nice combo (but kind of difficult 
+    to perform) would be crouch dash, then 4, then finish the combo with a 
+    Twin Thrust to Inner Axe/Roundhouse or a Rear Thrust to Roundhouse.  The 
+    command for the combo would be: f,N,d,d/f,f+4, [1], 1,2,3_1,2>4_2,4.  You 
+    can cancel into the Lingering Soul if you like after the Blade Kick. Have 
+    a 'chicken' buffered just in case if they try to reverse it.  Follow up
+    with a d+4 if the Vertical Kick connects for more damage, as the d+4 is
+    gauranteed.
+
+ Lead Thrust to Blade Kick - CFSc, GS / hmm / 7,22,13
+ Input » 1,3~3,3    H adv  » +9,KD,+1
+ F hit » 10         Hc adv » --,KD,+1
+ B adv » +2,+5,-12  CH adv » +9,KD,KD
+
+  - Of the 3 variations that you can cancel into, the Blade Kick gives you
+    the best opportunity to setup a floating combo; after his stun on CH,
+    follow up with f,N,d,d/f,f+4, which Jin will do a quick thrusting kick
+    forward, and it hits mid.  Mix this up between the three, stop sometimes
+    between some of them so that you can switch to another move (a custom
+    combo is what I'm talking about).  This custom combo : 1,3~3, b+4, d+1,
+    WS+3 would be an example of a custom combo.  Try to develop different
+    combo variations by stopping between the kicks to input another command.
+
+ Mid Thrust to Side Crusher - -- / mm / 12,15
+ Input » d/f+1>4  H adv  » +9,+2
+ F hit » 13       Hc adv » +9,+2
+ B adv » -2,-7    CH adv » +9,+2
+
+  - This should be mixed up with the Twin Thrusts and with the Lancer.  A 
+    good game to keep the opponent guessing high or low is to use the Shin 
+    Kick when mixing up with the Mid Thrust.  I use this in some air combos, 
+    such as a low juggle combo.  When you have a chance try to use this in 
+    the combo mentioned above.  Note to have a 'chicken' buffered, 
+    precautions are helpful.
+
+ Mid Thrust to Shin kick -  / ml / 12,13
+ Input » d/f+1,4~4  H adv  » +9,+2
+ F hit » 13         Hc adv » +9,+2
+ B adv » -2,-15     CH adv » +9,+2
+
+  - The low kick at the end does little damage, but every hit counts right?  
+    Try not to use this too much, otherwise it'll just get low parried, and 
+    then you be open to attacks and such.  The lag time between the punch and 
+    kick is noticeable, so avoid getting hit between the punch and kick.  
+    Remember to have a 'chicken' buffered just in case.
+
+ Rising Lancer -  / mm / 10,16
+ Input » WS+1>2  H adv  » +5,+6
+ F hit » 13      Hc adv » +5,+6
+ B adv » -6,-5   CH adv » +5,+6
+
+  - The old days of using this to poke, and the old command was a lot more 
+    comfortable, but it gained a new attribute of being delayed.  If you 
+    launch somebody up in the air, and want to just knock them out the air 
+    then this is a good move to use to bring them down in front of you for a 
+    Demon Sweep or Twisting Demon Scissors.  Another strategy is to use this 
+    after ducking an opponent's attack, or as a poking game.  
+
+ Thunder Hook Fist -  / m / 22
+ Input » f,N,d,d/f+1  H adv  » KD
+ F hit » 16           Hc adv » KD
+ B adv » -7           CH adv » KD
+
+  - A new Hook for Jin, while it doesn't serve as a juggle starter, it's 
+    damage makes up for it.  It's best to use this for distancing yourself 
+    from your opponent when you need to strategize a new gameplay.  Sometimes 
+    you can land a Thunder Hook Fist at the beginning of a round right after 
+    the announcer says "fight!"  I've been known to do this, but on a rare 
+    notice.  It may seem weak, but people tend to underestimate it's
+    potential.  I use this in juggles only when I'm near a wall, that way, 
+    when it hits, my opponent will bounce of the wall and I get to land some 
+    hits.  One more combo for you readers: [W!] b,f+2,1,d+2, [w!] 
+    f,N,d,d/f+1 [w!], d/f+1,4.  It's best to perform the Thunder Hook Fist 
+    really early so that the punch will connect when you perform the Mid 
+    Thrust to Side Crusher.  Also if the wall is to the right of you (and
+    your facing to the right; vice versa for if your facing left, you would
+    use the Wind Hook Fist) you can use the Thunder Hook Fist to slam your
+    opponent into the wall for some damage.
+
+ Corpse Thrust -  / m / 24
+ Input » d+1  H adv  » KD
+ F hit » 21   Hc adv » KD
+ B adv » -4   CH adv » KD
+
+  - A previous move he has kept.  It hits mid, so if anybody tries to duck or 
+    crouch it, they will be hit.  This move is good to use to duck high 
+    attacks, but try not to use this to much, as it's lag time is huge, but 
+    if you do hit, you'll get some breathing space.  I've used this as a 
+    okizeme sometimes.  If you hit the opponent down and they try to roll, 
+    use this to keep them grounded.  If you hit them against the wall, use a
+    Demon Lift kick or a Demon Hell Thrusts to get some damage, or whatever
+    you would like to use.
+
+ Left Elbow -  / h / 14
+ Input » b+1  H adv  » +7
+ F hit » 13   Hc adv » +7
+ B adv » 0    CH adv » +7
+
+  - This I accidentally use sometimes, but it mostly hits.  If you guard a 
+    string or attack that leaves the opponent close to you, use this to knock 
+    them back a bit.  Follow this up with a Thunder Hook Fist or a Lead 
+    Thrust to Vertical Kick, I know it may sound bad, but it helps keep the 
+    opponent guessing what you'll do.
+
+ Demon Hell Thrusts -  / hh / 10,21
+ Input » 1+2  H adv  » KD
+ F hit » 14   Hc adv » --
+ B adv » -9   CH adv » KD
+
+  - This move hits high, so it's safe to use this to knock your opponent back 
+    when you want some room.  But if ducked, you'll be left wide open, and 
+    that's a scenario you don't want to get yourself in.  Instead use this in 
+    juggles and after a Blocked Twin Thrust to Inner Axe, it's fast enough to 
+    hit.  Though the beginning has a bit of lag time, it's still safe to use.  
+    Hit your opponent against the wall with this to setup a wall combo.  
+    Follow up with a Demon Lift Kick, Demon Sweep, or Twisting Demon
+    Scissors.
+  
+ Lancer -  / hm / 10,10
+ Input » 2,1   H adv  » +9,+12
+ F hit » 10    Hc adv » --,+12
+ B adv » 0,+1  CH adv » +9,+12
+
+  - An excellent tool for the mix-up games with the Twin Thrusts.  I usually 
+    use this and the Twin Thrusts for the mix-up games, along with the Lancer 
+    to Side Crusher/Shin Kick.  Try using this in some of your air combos, 
+    for instance, use a 1,2,3, d/f+2, f,f, 2,1,4~4.  This will connect 
+    sometimes, it's a good combo, but the only hard part to connect is the 2 
+    in the Lancer's beginning part, but work on it and you'll be fine.
+
+ Lancer to Side Crusher -  / hmm / 10,10,15
+ Input » 2,1,4    H adv  » +9,+12,+2
+ F hit » 10       Hc adv » --,+12,+2
+ B adv » 0,+1,-7  CH adv » +9,+12,+2
+
+  - I use this on a daily basis, as it serves for one of Jin's poking games, 
+    although the frame rate is a bit slower than that of the Twin Thrusts 
+    mix-ups, it still has it's purposes.  If the opponent tries to reverse 
+    your kick, have a chicken buffered just for precautions.  The kick hits 
+    mid, so if the opponent tries to duck, they'll be hit by the kick.
+
+ Lancer to Shin Kick -  / hml / 10,10,13
+ Input » 2,1,4~4   H adv  » +9,+12,+2
+ F hit » 10        Hc adv » --,+12,+2
+ B adv » 0,+1,-15  CH adv » +9,+12,+2
+
+  - Okay, now for those who like to parry kicks in the arcade, this would be 
+    a choice move to perform, as it can't be reversed, or parried (except for 
+    the low parry), and you have a nice mix-up game with the Side Crusher and
+    the Shin Kick, it'll confuse the opponent.  Try to use this in some low 
+    hitting combos such as a WS+2, 2,1,4~4, it's best connect if you hit on a 
+    counter hit.
+
+ Rear Thrust to Roundhouse -  / hh / 10,14
+ Input » 2,4    H adv  » +9,KD
+ F hit » 10     Hc adv » --,--
+ B adv » 0,-12  CH adv » +9,KD
+
+  - Excellent guard breaker for those who like to play defensively.  If the 2 
+    hits on a counter hit, the Roundhouse is foolproof to connect.  Also this
+    move is Jin's best anti-SS move, as the Roundhouse also tracks sidesteps,
+    so use this after a cancelled Needle Shrine when your opponent tries to
+    sidestep the second hit of the series (from Ben Thayer).
+
+ Final Upper Thrust -  / m / 15
+ Input » WS+2  H adv  » KD
+ F hit » 14    Hc adv » KD
+ B adv » -12   CH adv » KD
+
+  - This should be used after you have blocked a low attack, and if you're 
+    quick enough, you'll launch your opponent in the air.  A good combo would
+    be WS+2, b,f+2>1,2.  You'll have to delay the 1 as long as you can if you
+    want the full three hits to connect.
+
+ Quick Upper -  / m / 15
+ Input » d/f+2  H adv  » +4
+ F hit » 15     Hc adv » +4
+ B adv » -7     CH adv » KD
+
+  - This would be a good move to use right after you connect with the 1,2,3.
+    If you connect with the d/f+2, quickly press 1, then f,f+2.  It's a 
+    decent combo, so learn to use this in your juggle gameplay.
+
+ Wind Hook Fist -  / h / 25
+ Input » f,N,d,d/f+2  H adv  » KD
+ F hit » 12           Hc adv » --
+ B adv » -2           CH adv » KD
+
+  - I prefer this over the Wind Godfist.  Right before the announcer says 
+    "fight!", do the motion, then tap 2 as the words fade away, not to many
+    opponents expect such an attack, because it is quick, it'll catch most
+    people off guard.  Although the WGF has its perks, its main flaw is that
+    it hits high, and also it doesn't launch, but rather sends them spiraling
+    across the screen, if the wall if facing to the left (and your facing 
+    right; vice versa for if you are facing left, you would use the Thunder
+    Hook Fist) you can WGF the against the wall for some damage.
+
+ Electric Wind Hook Fist -  / h / 25
+ Input » f,N,d~d/f+2  H adv  » KD
+ F hit » 11           Hc adv » --
+ B adv » -1           CH adv » KD
+
+  - This is the same as the Wind Hook Fist, only a little faster.  I mostly
+    use this instead of the regular Wind Hook Fist.  Try to hit your opponent
+    against the wall with this version of the Wind Hook Fist instead of the
+    regular version in order to get free hits if they don't wall tech.
+
+ Backfist to Side Swipe -  / hm / 12,21
+ Input » b+2,3  H adv  » +1,+6
+ F hit » 16     Hc adv » --,+6
+ B adv » -4,-4  CH adv » +1,+6
+
+  - This is a quick right backhand to a inner side kick, I use this in air 
+    combos, but mix this in with the Twin Thrusts and the Mid Crusher varia-
+    tions in order to keep your opponent guessing.
+
+ Demon Paw Torso Thrust -  / m / 24
+ Input » f,f+2  H adv  » KD
+ F hit » 15     Hc adv » KD
+ B adv » -11    CH adv » KD
+
+  - A move he has previously kept, this is the ultimate long distance attack. 
+    It has the same properties as Paul's Death Fist, but comes in a smaller 
+    package. Since it used the f,f command it can be dash buffered for 
+    greater range. This should be one of the most used moves in Jin's 
+    arsenal. There really is nothing bad about this move at all. The only 
+    negative I can see is that it telegraphs itself a little bit so people 
+    will have a better chance of reversing it. However if you simply buffer a 
+    chicken with it every time you perform it, the risk is nil. Only Law, 
+    Ling and Lei have anything to stop it that you can't do anything about 
+    and they'd be risking and Ling and Lei would be risking a hell of a lot 
+    to even think of attempting it. Great for punishing slow recovery 
+    attacks, whiffed attacks or just used at the end of juggles, this is one 
+    move you will use a lot and should use a lot.
+
+
+ Right Elbow -  / h / 22
+ Input » f+2  H adv  » +7
+ F hit » 16   Hc adv » --
+ B adv » 0    CH adv » +28
+
+  - I sometimes accidentally use this move, but for some reason, it seems to 
+    always connect, it causes the opponent to stagger back abit.  It is slow
+    startup animation might cause you to be hit, but if you by some chance
+    hit your opponent on a counter hit, and they hold D to fall to the 
+    ground, use the Twisting Demon Scissors to hit them.   
+
+ Demon Godfist -  / m / 18
+ Input » b,f+2  H adv  » -5
+ F hit » 16     Hc adv » -5
+ B adv » -6     CH adv » KD
+
+  - A powerful punch indeed, it's slow but very powerful.  In order to get
+    the best results from this move you'll have to catch your opponent on a
+    counter hit.  When hit on a counter, they'll stagger just a bit, and
+    fall back.  This is your chance when they stagger,  you can use the
+    Demon Lift Kick in start a juggle combo, or follow up with a Kazama Fury.
+    But note that the opponent can escape by tapping forward within the first
+    20 frames of the stun so watch out if they do recover.  Use a Demon Paw
+    Torso Thrust if they do recover, because 89% of the players out there
+    tend to hold forward after they've recovered.
+
+ Needle Shrine Cannon -  / mmm / 18,14,10
+ Input » b,f+2>1>2  H adv  » -5,0,KD
+ F hit » 16         Hc adv » -5,0,KD
+ B adv » -6,-2,-5   CH adv » KD,0,KD
+
+  - One of my favorite moves with Jin.  This is delayable, it has 3 different
+    ways of ending excluding the just frame Needle Shrine Gates.  It's best
+    delay the attack, that way the opponent will keep guessing of you are 
+    going to either finish the combo, or stop and revert to some other move
+    in Jin's listings.  The last hit can be sidestepped so stop after the 
+    second hit, or if you are willing to take risks, use the 2 instead of
+    d+2, it tends to track better to the sides and thus giving you a better
+    opportunity to hit your opponent if they sidestep.  If you tap b during
+    the needle shrine series, it'll cancel the Needle Shrine series and allow
+    you to perform a 2,4, that should stop any SS attempts (from Ben Thayer).
+    Or if you want a throw, stop after the second hit and throw the opponent, 
+    or sidestep yourself, and perform a 1,2,3, (also from Ben Thayer) d+1, or 
+    if you use 1,2,4, and they hit the wall, use the d/f+4 (Hell Gate Kick)
+    for more damage.  Also 2,4 works well, and you can follow up with a d+1 
+    if they happen to float.
+
+
+ Needle Shrine Scraper - / mmm / 18,14,15
+ Input » b,f+2>1>d+2  H adv  » -5,0,KD
+ F hit » 16           Hc adv » -5,0,KD
+ B adv » -6,-2,-9     CH adv » KD,0,KD
+
+  - Just like the Cannon version, except this on launches you in the air.
+    mix this up with the Needle Shrine Cannon and the Needle Shrine Gates
+    to keep the opponent guessing.  If you launch your opponent perform a 
+    decent air combo that'll drain their bar, or better yet, use the Hell
+    Gate Kick if you are sure that they'll hit the wall, and if your lucky,
+    they'll fall of the wall slowly so you can set them up for a wall combo.
+    If you tap b during the needle shrine series, it'll cancel the Needle 
+    Shrine series and allow you to perform a 2,4, that should stop any SS 
+    attempts (from Ben Thayer).
+
+ Axe Kick -  / m / 25
+ Input » f,f+3  H adv  » KD
+ F hit » 22     Hc adv » KD
+ B adv » +2     CH adv » KD
+
+  - Another type of Axe Kick that Jin has, if you hit, follow up with a 1.
+    It's similar to Kazuya's 3,1 combo, except that your using a axe kick,
+    followed by a Lead Thrust.  This can cancel into the following moves:
+
+    Kazama Fury~Lingering Soul
+    Lead Thrust~Jaw Kick
+    Lead Thrust~(Vertical Kick~Blade Kick~Lingering Soul)
+    
+    This is very useful for setting up special types of combos with him.  
+    Remember to always use the Lead Thrust for best combo results.  A 
+    combo that I always perform when I hit my opponent with the f,f+3:
+    f,f+3,1, f,f, 1, f,f, 1, f,N,d,d/f+2.  It does good damage for such a 
+    short combo.  So learn to time the dashes so that you'll get the punches
+    in.
+
+ Inner Roundhouse to Shin Kick -  / hl / 15,15
+ Input » b+3,4   H adv  » +6,-4
+ F hit » 14      Hc adv » --,-4
+ B adv » +2,-15  CH adv » KD,KD
+
+
+  - This move is very slow, but do not underestimate it's abilities in 
+    combos.  I use this move occasionally, and it's good to finish of a air
+    combo.  A good time to use this move is when you have your opponent
+    trapped in a corner, it'll confuse them with the way Jin rotate's his leg
+    in a inner circle.  The beginning of the move comes out quick for a round
+    kick also, use this move if you need some room, remember that the kick
+    takes time to get in the air.
+
+ Mid Kick -  / m / 16
+ Input » f+3  H adv  » +6
+ F hit » 12   Hc adv » +6
+ B adv » -5   CH adv » +6
+
+  - Your basic Mid Kick from Jin, just try to use this in custom combos, and
+    confuse your opponent by switching between the f+4, b+4, d/f+4, and d/f+3
+    to keep your opponent busy while you think of some new strategy.
+
+ Vertical Kick -  / m / 22
+ Input » f+3~3  H adv  » KD
+ F hit » 22     Hc adv » KD
+ B adv » +6     CH adv » KD
+
+  - Jin will turn in foot inward while thrusting it down, mix this up with 
+    the blade kick to confuse your opponent, a good combo finisher also.
+    The ending animation for the kick will look as if Jin will return back
+    to a neutral position whilst you can still cancel into 2 more attacks:
+   
+    Blade Kick, and the Lingering Soul if the Blade Kick connects.  
+   
+    I'd perform the Lingering Soul only if the opponent was hit by the Blade 
+    Kick on a counter hit, because the counter hit version leaves him or her
+    stun falling to the ground.
+
+ Heaven Gate Kick -  / m / 15
+ Input » d/f+3  H adv  » -3
+ F hit » 14     Hc adv » -3
+ B adv » -7     CH adv » KD
+
+  - This kick should be mixed in with the f+3, f+4, d/f+4, and the d/f+3.  It
+    can also be canceled into the Lingering Soul.  I use this sometimes, but 
+    only if I have my opponent in the corner.  This kick momentarily stuns
+    your opponent (not like Steve's Stun Gun Punch).
+
+ Devious Kick to Left Blade - d+3,3 / lm / 7,10
+ Input » d+3,3    H adv  » 0,-6
+ F hit » 15       Hc adv » 0,-6
+ B adv » -11,-15  CH adv » 0,-2
+
+  - I quick kick to the low and then a kick to the mid.  IF the first hit 
+    connects, the second one is guaranteed to hit.  Use this to finish off
+    a floating air combo, as sometimes the low kick will hit the opponent
+    high enough for the second one to hit.  Also a good strategy is after
+    executing a 2,1, cancel and execute the d+3,3.
+
+ Demon Roundhouse -  / h / 28
+ Input » (WS_f,N,d,d/f)+3  H adv  » KD
+ F hit » 19                Hc adv » KD
+ B adv » 0                 CH adv » KD
+
+  - Use this after ducking an attack, such as Kazuya's Shining Fists or 
+    Steve's British Edge High combo, the hit alone does enough damage that
+    will satisfy you, but a I'll give you a quick list of tricky combos that
+    could be done after a few certain hits:
+    
+    WALL STUN REQUIRED
+    
+    b,f+2,1(2_d+2*), iWS+3
+    iWS+2, iWS+3
+    after opponent gets wall stunned, iWS+3
+
+    This are just some of the possibilities that you may find will using this
+    kick, it's a powerful move, so learn to use it properly.  Also crouch
+    dash (usually referred to as CD) games are useful here, mix this with
+    his Stature Sweep and his two Hook Fists.  If the opponent thinks you're
+    going to cancel and switch to the low hitting moves, this would be a 
+    nice mix up game, as some opponents actually have the habit of blocking
+    high, and it causes a small stun.
+
+ Demon Lift Kick -  / mm / 5,15
+ Input » d+3+4  H adv  » KD
+ F hit » 14     Hc adv » KD
+ B adv » -20    CH adv » KD
+
+  - Ahh...the old days of juggling with the renamed "can-can kicks".  Best to
+    use this after the Double Over Stun with Demon Godfist, a quick combo:
+   
+    CH b,f+2, d+3+4, 1, f,f, 1, f,f, 1, f,f, 1,3~3, d+4.
+   
+    This is a nice combo, plus it looks really cool.  Also if your opponent
+    tends to run up to you alot, then do the Demon Lift Kicks, it's range 
+    maybe short, but if you're lucky, they'll be caught by the first kick, 
+    and juggled in the air by the second one.
+
+ Crouch Dash Slash Kick -  / m / 30
+ Input » f,N,d,d/f,f,u/f+3  H adv  » [n/a yet]
+ F hit » [n/a yet]          Hc adv » [n/a yet]
+ B adv » [n/a yet]          CH adv » [n/a yet]
+
+  - This is just the same if you were to tap f,f,f+3, or run then press 3.
+    But never the less it's a nice move to use.  You slam your opponent into
+    the wall, you should try to connect this move, as it does a massive 
+    amount of damage if you hit them against the wall with this attack.
+
+ Spinning Roundhouse - 3 / h / 30
+ Input » (u/b_u/f)+3  H adv  » KD
+ F hit » 21           Hc adv » KD
+ B adv » -5           CH adv » KD
+
+  - Jins old T3 and TTT style kick has changed a little, its old command
+    was just f+3, now they have altered it.  if you can pin your opponent
+    against the wall with this move, its best to follow up with a quick
+    damaging combo, but I prefer the Needle Shrine Cannon.  And it causes
+    you opponent to spin to the side also, so thats a nice move to set up
+    if you're near a wall, it will knock them into it (it spins them to the
+    left; so use it when the wall is on your left) use moves like the
+    Battle Kick for good results, as it will kick them back into the wall.
+
+ Leaping Slash Kick - / m / 30
+ Input » (WR_f,f,f)+3  H adv  » [n/a yet]
+ F hit » [n/a yet]     Hc adv » [n/a yet]
+ B adv » [n/a yet]     CH adv » [n/a yet]
+
+  - This is the same exact kick as the CROUCH DASH SLASH KICK, so please 
+    refer to that move for the strategy, but it's best to use this after
+    you've knocked down your opponent.  Step back after you've knocked
+    your opponent down, and let him get up (as most tend to mash the kick 
+    buttons) and kick nothing but air, then while he's kicking input the
+    command and you'll luckily get in a free hit. 
+
+ Battle Kick -  / M / 21
+ Input » f+4  H adv  » +3
+ F hit » 20   Hc adv » -2
+ B adv » -9   CH adv » KD
+
+  - This has got to be one of my favorite kicks of all time with Jin!  It
+    has the same properties as Kazuya's Glorious Demon Fist! And that opens
+    pathways to new combo opportunities.  I've used this in every match that
+    I have fought in, it's combo potential is just wide.  for instance, this
+    scenario of Marshall Law versus Jin: Law tries to perfrom the Shaolin 
+    Spin Kicks, and Jin is a just a bit away, he performs the Battle Kick, 
+    and Law keels over!  crouch dash Tsunami Kick, and a Mid Thrust to Shin
+    Kick to finish the combo off.  It would be shown as this in abbreviated 
+    form:
+
+    CH f+4, f,N,d,d/f,f+4, d/f+1,4~4
+
+    It may seem like a weak combo, but trust me, you'll learn to use this 
+    kick alot more often once you realize how powerful it can be, especially
+    when you hit your opponent against the wall and they bounce, giving you
+    even more combo opportunities.
+
+
+ Spin Heel Kick -  / m / 18
+ Input » b+4  H adv  » KD
+ F hit » 17   Hc adv » KD
+ B adv » -7   CH adv » KD
+
+  - This is just a quick turn around kick that'll knock your opponent back 
+    far enough for you to give you time to plan your next attack, or to just 
+    get some breathing space.  This kick is perfect for people who like to 
+    guard, as it hit's mid, some may not hold d/b when blocking low, so you 
+    have a fifty/fifty chance of hitting them.
+
+ Hell Gate Kick -  / m / 33
+ Input » d/f+4  H adv  » KD
+ F hit » 19     Hc adv » KD
+ B adv » -17    CH adv » KD
+
+  - Let's get one thing straight: this kick should be used very, very often.
+    I don't care how slow it is (although it does affect your gaming), if you
+    hit your opponent and they hit the wall and fall, a free demon sweep is
+    guaranteed, or if you got some air combo skills, just juggle the hell out
+    of them for massive damage.  A combo that I use:
+   
+    d/f+4 [w!], 1, f,f, 1, f,f, 1,2,4
+ 
+    This does great damage and can be a bit tricky to pull of but you'll soon
+    know when to start it.  I abuse this move very much (because it's my all-
+    time favorite thing to do with Jin:) and because people tend to run into
+    this when they knock you back far away and think they can get in a free 
+    tackle or running stomp. 
+
+ Outer Axe Kick -  / M / 19
+ Input » f,f+4  H adv  » +6
+ F hit » 20     Hc adv » +8
+ B adv » +4     CH adv » +6
+
+  - This Axe Kick hits opponents on the ground also, so if you have a problem
+    performing the Twisting Demon Scissors, then this would be your second
+    choice.  It does decent damage and learn to use this to finish combos of
+    too.  one combo is: WS+2 1, 1,2,4 [w!] f,f+4.  This combo will connect
+    only if they hit the wall and fall. so work that into the formula also.
+
+ Tsunami Kick -  / m / 13
+ Input » (WS_f,N,d,d/f,f)+4  H adv  » +8
+ F hit » 11                  Hc adv » +8
+ B adv » -3                  CH adv » +8
+
+  - Looks like Jin has altered his Tsunami Kicks a little, it's basically
+    just a straight kick forward, and a quick one at that, use this in 
+    junction with the Battle Kick for good combo results.
+ 
+ Demon Sweep -  / L / 15
+ Input » d+4  H adv  » -4
+ F hit » 16   Hc adv » -4
+ B adv » -15  CH adv » -4
+
+  - A quick wide ranging sweep, that is mostly used for hitting someone on 
+    the ground.  Use it against someone who is rolling around, who is taking 
+    a nap on the floor, or who is in the corner.  Most people when cornered, 
+    panic and are susceptible to three sweeps in a row.  But some of them 
+    will get smart and (1,2) you before you get the next sweep in.  Yes this
+    is susceptible to a counter jab.  BUT, if they are cornered and lying 
+    down, then you have several sweeps guaranteed.  For pokers who like to 
+    jab 1,2,3, d+1 is crucial as the d+1 will go below them and land as a 
+    counter plus you have a huge frame advantage so not many mid attacks can 
+    stop it and only one comes to mind that can do any significant damage.
+    (from Ben Thayer).
+
+ Shin Kick -  / L / 15
+ Input » d/b+4  H adv  » -3
+ F hit » 20     Hc adv » -3
+ B adv » -14    CH adv » KD
+
+  - A quick kick to the shin, it's useful for breaking certain jab strings,
+    and ending some combos, but other than that, try not to use this move to
+    often, as your opponent will start to suspect the kick and try to low
+    parry it.  But it is useful for hitting your opponents that like to stay
+    on the ground.
+
+ Stature Sweep -  / l / 18
+ Input » f,N,d,D/F+4  H adv  » KD
+ F hit » 20           Hc adv » KD
+ B adv » -12          CH adv » KD
+
+  - Vary between the Thunder Hook Fist, the Wind Hook Fist, and this 
+    Stature Sweep.  It helps to vary this move as the motions are the
+    same with the Thunder Hook and Wind Hook Fist.  I've landed at least
+    one of each move (the Thunder/Wind Hook Fists) and the Stature Sweep
+    only because I varied these moves.  Also good to hit the opponent
+    when you've performed many Thunder/Wind Hook Fists, as they'll try to
+    block the Hook Fists, they'll be hit by the sweep instead. Also, this
+    move can be canceled in the Lingering Soul only if it hits or the
+    Twisting Demon Scissors.
+
+ Snap Lift Kick - / h / 25
+ Input » (u_u/f)+4  H adv  » +6
+ F hit » 16         Hc adv » --
+ B adv » -5         CH adv » +6
+
+  - Much like Kazuya's u/f,N,4 kick. Try performing a 1,2,3 or 1,2,4 after
+    hitting your opponent with this kick for some damage. or better yet hit
+    them against the wall using this attack.  If it hits on a regular hit,
+    it'll cause your opponent to be lifted off the ground floor, but not 
+    high enough to juggle, and it will leave you at an disadvantage.  If 
+    it hits on a CH, you'll have a chance to aerial combo your opponent. 
+
+ Spin Demon -  / h / 25
+ Input » u/f,N+4    H adv  » [n/a yet]
+ F hit » [n/a yet]  Hc adv » [n/a yet]
+ B adv » [n/a yet]  CH adv » [n/a yet]
+
+  - Exactly like the Hop Kick to Twisting Demon Scissors.  Use this sparingly
+    because it is slow but powerful, bait your opponent into coming within 
+    it's range by using the Snap Lift Kick and the Devious Kick to Left 
+    Blade.
+
+ Twisting Demon Scissors -  / M / 28
+ Input » (4~3_WS+4~3)  H adv  » KD
+ F hit » 24            Hc adv » KD
+ B adv » --            CH adv » KD
+
+  - Jin's Demon Scissors sure have changed since the last time we saw him use
+    this move, now he rotates his hips in a circle while swinging his body
+    along with the momentum.  This attack is good for people who like to stay
+    on the ground, but it has short range, and if you perform it to close, 
+    he'll roll over his opponent.  Try using this after a 1,2,3 combo some 
+    times for some damage.
+
+ Lingering Soul -  / -- / --
+ Input » b+1+2  H adv  » -22
+ F hit » -16    Hc adv » -22
+ B adv » -22    CH adv » -22
+
+  - This command is only if you are performing it from a neutral standing
+    position, and not after a move. 
+
+    Use d+1+2 after the following connects:
+   
+    Kazama Fury
+    Lead Thrust-Blade Kick
+    Demon Hell Thrusts
+    Backfist-Side Swipe
+    Heaven Gate Kick
+    Hell Gate Kick
+    Battle Kick
+    Stature Sweep
+ 
+    This is only after the move hits!!! While you are in this state, you can-
+    not block and any move that hit's you will be considered a counter hit!
+    So use this move sparingly, unless you want to be optimistic, perform the
+    Lingering Soul then do the Lingering Soul Omen, then perform the Omen 
+    Wind Hook Fist (ooh...bright blue colors...>.<).  You can perform the
+    Soul Step Reversal by quickly tapping ~f,f,b+2+4_b+1+3 immediately after
+    inputting the Lingering Soul, you'll know when you've done it by the 
+    red sparks that appear when he reverses the attack; and he will rotate
+    his hands depending on which command you inputted (if you used b+2+4, Jin
+    will rotate to the left, if you used b+1+3 he'll go to the right).
+
+ Lingering Soul Taunt - -- / -- / --
+ Input » 1+3+4      H adv  » [n/a yet]
+ F hit » [n/a yet]  Hc adv » [n/a yet]
+ B adv » [n/a yet]  CH adv » [n/a yet]
+
+  - There is only one reason I included this in this section: it's damn 
+    cool...Jin simply does the animation for when he performs the Lingering 
+    Soul.  Use this right after you finish your opponent off or something 
+    similar.  This is also one of the kata Jin does in Tekken Tag as a win
+    pose.
+
+ High Parry - -- / -- / --
+ Input » b+2+4  H adv  » 0
+ F hit » 2      Hc adv » --
+ B adv » --     CH adv » --
+
+  - When you high parry any attack, Jin will simply sidestep, but you will 
+    not even notice as the sidestep animation is extremely short.  And as for 
+    the parry animation, it's so quick that all he does is just opens his 
+    palms.  Learn to use this effectively, as it is a life saver.  A good 
+    attack to do after you've parried you opponent's attack is the Demon Lift 
+    Kick to the Rear Thrust-Roundhouse.  It's quick so you'll have to really 
+    pay attention when you do this parry.
+
+ Needle Shrine Gates - #1 JG / mm! / 18,14,22
+ Input » b,f+2,1,d+2*_:d+2  H adv  » -5,0,KD
+ F hit » 16                 Hc adv » -5,0,KD
+ B adv » -6,-2,KD           CH adv » KD,0,KD
+
+  - This move is one of Jin's best (and one of his most abusable ones) move,
+    it comes becomes unblockable if you hold down the d+2, and the most
+    useful thing to do is to 'Just Frame' it by inputting b,f+2,1:d+2.  To
+    JF the move, just release the d+2 AS SOON AS HE BEGINS TO GLOW BLUE CHI.
+    There are two points to where you can release, which is really tricky;
+    the first release point is where his hand just releases 3 or 4 small
+    balls of blue chi.  The second release point is when he has eight to 12
+    smail balls of blue chi.  You will know when you done the JF version of
+    this move when you do not see a large trail of blue chi.
+
+ Eighth Gate of Hell - -- / ! / 100
+ Input » u/b+1+2  H adv  » KD
+ F hit » 75       Hc adv » KD
+ B adv » KD       CH adv » KD
+
+  - Jin's most powerful unblockable, it is slow, but does alot of damage.
+    the chances of you hitting a expert with this move are very slim, but
+    never doubt it.  A cheap thing to do when playing against the computer is
+    to perform the Kazama Fury (1,3,2,1,4) then immediately do the u/b+1+2.
+    It will connect on the first few rounds depending on the difficulty.  But
+    my advice is to NEVER try this move whenever you are in a match against
+    a human opponent unless you are playing a scrub who doesn't know what the
+    hell is going to happen when he sees all the pretty little lightning 
+    sparks of energy.  Use this move if you are will to take a HUGE risk.
+
+
+
+
+
+-----------------------------------------------------------------------------
+g - C o m b o s   S e c t i o n
+-----------------------------------------------------------------------------
+
+ Now, I'm sure most of you readers scrolled down to look for a combo section,
+ so here it is.  It has some pretty easy combos, and some insanely hard combo
+ links as well.  I won't be putting the difficulty by the combo, I will put
+ the combo number, the max amount of hits in the combo (meaning if there is a
+ optional input, it'll count as hit(s)) , and the damage it does.  Note that
+ every combo section has a number listing beginning with one, and each
+ combo section is numbered according to how many combos they have in each
+ section.  Combo's that I came up with, I put the initials au. by them, also
+ if a combo has more than one combo starter, and you try a combo that doesn't
+ work, then try the other combo starters listed.  Combo variations are the
+ other combos that you can do for that starter, for instance the Needle 
+ Shrine Gates combo starter has combo variations, which are all of the
+ standard combos:
+
+ examples:
+
+COMBO STARTER(s) : starter move(s) to begin combo [name of move]
+COMBO VARIATIONS : combos that are compatible 
+NOTE: extra key notes that might need to be known, or remarks/comments.
+-----------------------------------------------------------------------------
+
+ or
+
+TITLE OF VIDEO
+
+NOTE: extra key notes that might need to be known, or remarks/comments.
+-----------------------------------------------------------------------------
+
+COMBO STARTER(s) : b,f+2,1(:d+2*_d+2) [Needle Shrine Gates / Scraper]
+COMBO VARIATIONS : standard combos
+
+ that just simply means you can perform any standard combo (which I listed
+ in parenthesis in all caps) from the b,f+2,1(:d+2*,d+2) starter or from
+ any other combo for that matter if it is listed as so.
+
+ PSL - Post Stun Launcher
+ au. - author's combo (me)
+
+ These will be used throughout this listing, a post stun launcher is a 
+ move that launches your opponent in the air after a stun, for example,
+ Jin's Demon Godfist on a counter hit (b,f+2), after that, you can
+ follow up with a d+3+4 since that is one of Jin's post stun launchers.
+ Although soem are guaranteed and some are not.
+
+ FINAL NOTE: The 1 and 2 jabs in the combos you see below are optional!
+ So if you have problems performing a combo, then just do fewer jabs
+ so that you may connect the combo string, or if you'd like, you can add more
+ jabs to the combos below, but also remember some are required to make the 
+ combo completely connect.
+
+
+
+DEMON'S DARKNESS TRIBUTE and JIN KAZAMA COMBO ARTS act.1
+NOTE: All combos are listed in they order they are shown in the videos.
+-----------------------------------------------------------------------------
+
+::Demon's Darkness Tribute::
+ 
+(06 hit/71 dmg) b,f+2,1,d+2*, b+3, 1, wgf 
+(03 hit/37 dmg) iWS+2, iWS+2, ewgf 
+(06 hit/41 dmg) d+3+4, f,f,N, 2,1, f,f,N, 2,4 
+(05 hit/?? dmg) wgf [w!], wgf [w!], wgf [w!], 1, wgf
+(07 hit/118dmg) b,f+2,1,d+2*, tgf, 1,3~3, d+4 
+(10 hit/110dmg) [CH] b,f+2,1, b,f+2,1,d+2*, 1, f,f, 1, f,f, 1, f,f, 1, f+4 
+(06 hit/95 dmg) f+1+3 [w!], b,f+2,1,d+2*, f+3~3, f+4 
+(06 hit/80 dmg) b,f+2,1,d+2, wgf, 1, ewgf 
+(04 hit/39 dmg) f,N,d,D/F+4, iWS+4, 1, f,f+2 
+(09 hit/89 dmg) b+1+3 [w!], b,f+2,1,d+2*, 1, f,f, 1, f,f, 1,3~3, d+4  
+(08 hit/?? dmg) WS+2, u/f+3 [w!], b,f+2,1,2 [w!], 1+2 
+(08 hit/?? dmg) tgf [w!], tgf [w!], tgf [w!], 1, f,f, 1, f,f, 1,2,4
+
+::Jin Kazama Combo Arts act.1::
+
+(04 hit/?? dmg) WS+2, wgf, 1, f+4 
+(08 hit/73 dmg) [CH] b,f+2 [close wall], 1+2, 1, f,f, 1, f,f, 1,2,4 
+(06 hit/74 dmg) b,f+2,1,d+2, tgf, d/f+1,4 
+(08 hit/60 dmg) [CH] b,f+2, d+3+4, 1, f,f, 1, f,f, 1, f,f, 1,3~3  
+(06 hit/?? dmg) [CH] (f+3~3),3, f,N,d,d/f,f+4, 1,2,3, d+4 
+(05 hit/48 dmg) f,f+3,1, f,f, 1, f,f, 1, wgf 
+(04 hit/44 dmg) [CH] f+4, f,N,d,d/f,f+4, d/f+1,4~4 
+(06 hit/66 dmg) 1,2,3, d/f+2, 1, f,f+2 
+(04 hit/38 dmg) WS+2, b,f+2,1,2 
+(06 hit/58 dmg) b,f+(2,1),d+2*, wgf, 1, wgf
+
+
+SHATOKAN'S JIN act.1 and SHATOKAN'S JIN act.2
+NOTE: All combos are listed in they order they are shown in the videos.
+-----------------------------------------------------------------------------
+
+::Shatokan's Jin's Act.1::
+
+(04 hit/?? dmg) [CH] b+1+2*,d,u,b,f, (f+3~3) 3, iWS+2, 1, owgf
+(04 hit/49 dmg) [CH] b+1+2*,d,u,b,f, f+4, SSR, f,N,d,d/f,WS+4, 1, owgf
+(06 hit/85 dmg) f,N,d,d/f,WS+2, f,f,n+2,1, iWS+1,2~f,f, d+4
+(07 hit/?? dmg) b,f+2,1,d+2*, wgf, 1, f,f,n+2,4
+(05 hit/42 dmg) WS+2, f,f,n+2,1, f,f+1, d/f+4
+(06 hit/41 dmg) d+3+4, f,f+1, b,f+2,1,2
+(04 hit/41 dmg) [uphill] f,N,d,d/f+4, b,f+2,1,2
+(06 hit/?? dmg) 2,4[wallcatch], iWS+4, 1, f,f+1, dewgf
+(05 hit/?? dmg) f,f+3, d/f+2, 1,2, dewgf
+(06 hit/85 dmg) b,f+2,1,d+2*, wgf, 1, d+1
+(04 hit/44 dmg) [CH] f+4, SSR, f,N,d,d/f+4, 2,4
+(07 hit/?? dmg) wgf[w!], f,f,n+2,1[W!], f,f+1, f,f+1, f,f+1, d/f+4
+(03 hit/77 dmg) d/f+4[W!], f+4, [facehit], f,f+2
+(06 hit/40 dmg) WS+2, f,f+1,2, f,f+1,2, dewgf
+(05 hit/46 dmg) f,f+3,1, f,f+1, f,f+1, d/f+4
+(08 hit/?? dmg) [CH] (f+3~3) 3, d+3+4, f,f,n+2,1, f,f+1,2, dewgf
+(05 hit/48 dmg) f,f+3, d/f+2, 1, f,f,n+2,4
+(07 hit/66 dmg) b+1+2*,d,u,b,f, 1,2,3~1, f,f+1, f,f+1, dewgf
+(05 hit/49 dmg) [CH] f+4, SSR, f,N,d,d/f,n+4, 1,2,4
+(07 hit/?? dmg) b,f+2,1,d+2*, wgf, 1,2, dewgf
+(08 hit/?? dmg) b,f+2,1,d+2*, f,f+1,2, b,f+2,1,2
+(06 hit/83 dmg) b,f+2,1,d+2*, wgf, 2,4
+(05 hit/59 dmg) [CH] b,f+2,1,d+2*[full extension w/ no launch], 2,4
+(06 hit/?? dmg) WS+2, f,f,n+2,1, b,f+2,1,2
+
+::Shatokan's Jin Act.2::
+
+(02 hit/43 dmg) d+1 [w!] f,f+2
+(04 hit/61 dmg) [on a upward slope] [CH] f+4, 2,4, d+4
+(05 hit/54 dmg) [with opponents back to you] U/F+4, d+1, iWS+1,2, f,f,N, d+4
+(05 hit/60 dmg) [CH] b,f+2,1,d+2* (full extension), d/f+1,4
+(05 hit/?? dmg) [CH] b,f+2,1,d+2* (full extension), f,f,N,1, ewgf
+(02 hit/?? dmg) thf [w!], BT 3 (wall glitch)
+(08 hit/85 dmg) b+1+2*, d,u,b,f, f,f+3,1, [upward slope] 1,2,3,1,3~3, d+4
+(07 hit/101dmg) b,f+2,1,d+2, wgf, 1,(2),3, d+4
+(03 hit/54 dmg) [on a upward slope] b+1+2*, d,u,b,f, f,N,d,D/F+4, 1+2
+(05 hit/63 dmg) [CH] f+4, SSR, CD+4, 1,3~3, d+4
+(04 hit/?? dmg) SSL, thf [w!], thf [w!], [w!], thf [w!], thf
+(08 hit/?? dmg) SSR, u/f+3 [w!], b+2,3 [w!], 1[w!],3[w!],2[w!],1[w!],4[w!]
+(05 hit/61 dmg) [CH] f+4, SSR, CD+4 [W!], b,f+2,1 [w!],2
+(07 hit/79 dmg) ewgf [w!] b,f+2 [w!], 1,2 [floating], 1,2, ewgf
+(08 hit/?? dmg) thf [w!], SSL, 1,2,4 [w!],  d+1, iWS+1,2, d+4
+(08 hit/97 dmg) b+1+2*, d,u,b,f, b,f+2, 1+2 [w!], 1, 1,2,4 [w!], owhf
+(07 hit/?? dmg) thf [w!], d/f+1,4 [w!], b+2,3 [w!], CD+4, ewgf
+(06 hit/?? dmg) WS+2, ewgf [w!], f,f,N, ewgf [w!], ewgf, 1, ewgf
+(05 hit/?? dmg) thf [w!], ewgf [walltrap], b,f+2,1,2
+(09 hit/?? dmg) thf [w!], b+2,3 [w!], b,f+2,1,2, 1,3~3, d+4
+(07 hit/?? dmg) b+1+2*, d,u,b,f, b+3, d+4 [w!], b,f+2,1 [w!],d+2, 1, owhf
+(09 hit/?? dmg) thf [w!], 2,4 [w!], b,f+2,1,2[w!], (floating), 1,2,4
+(06 hit/?? dmg) b+1+2*, d,u,b,f, SSL, thf, owhf, f,f,N, ewgf [w!], b,f+2,1,2
+(08 hit/?? dmg) ewgf [w!], b,f+2,1[w!],2 (floating), 1, b,f+2,1,2
+
+
+COMBO STARTER(s) [STANDARD COMBOS] : (iWS_WS+2) or {CH} d/f+2 or d+3+4
+NOTE: All combo damage/hits are based on a WS+2 starter unless indicated.
+-----------------------------------------------------------------------------
+001. (06 hit/55 dmg) (1),2, 1,2,3, d+4
+002. (06 hit/35 dmg) 1, 1, 1, 1, f,f+2
+003. (06 hit/49 dmg) 1, 1, 1, 1,3~3, d+4
+004. (05 hit/33 dmg) 1, 1, 1, d+1
+005. (05 hit/?? dmg) 1, 1, 1, d+4
+006. (05 hit/32 dmg) 1, 1, 1, f+4
+007. (07 hit/53 dmg) 1, 1, 1,2,3, d+4
+008. (06 hit/36 dmg) 1, 1, 1,2,4
+009. (06 hit/47 dmg) 1, 1, 1,3~3, d+4
+010. (06 hit/35 dmg) 1, 1,2, 1, f,f+2
+011. (06 hit/51 dmg) 1, 1,2,3, d+4
+012. (05 hit/34 dmg) 1, 1,2,4
+013. (05 hit/45 dmg) 1, 1,3~3, d+4
+014. (03 hit/29 dmg) 1, d+1
+015. (06 hit/40 dmg) 1,2, 1,2, wgf
+016. (07 hit/55 dmg) 1,2, 1,2,3, d+4
+017. (06 hit/38 dmg) 1,2, 1,2,4
+018. (06 hit/49 dmg) 1,2, 1,3~3, d+4
+019. (05 hit/49 dmg) 1,2,3, d+4
+020. (04 hit/32 dmg) 1,2,4
+021. (05 hit/34 dmg) 2, 1, 2,4
+022. (06 hit/54 dmg) 2, 1,2,3, d+4
+023. (06 hit/48 dmg) 2, 1,3~3, d+4
+024. (07 hit/58 dmg) 2,1, 1,2,3, d+4
+025. (07 hit/54 dmg) 2,1, 1, 1,3~3, d+4
+026. (06 hit/38 dmg) 2,1, 1, 2,4
+027. (05 hit/38 dmg) 2,1, 1, d+1
+028. (05 hit/39 dmg) 2,1, 1, ewgf
+029. (05 hit/37 dmg) 2,1, 1, f+4
+030. (06 hit/43 dmg) 2,1, 1,2, ewgf
+031. (06 hit/42 dmg) 2,1, 1,2, f,f+2
+032. (06 hit/43 dmg) 2,1, 1,2, wgf
+033. (06 hit/41 dmg) 2,1, 1,2,4
+034. (06 hit/52 dmg) 2,1, 1,3~3, d+4
+035. (03 hit/36 dmg) 2,1, d+1
+036. (04 hit/40 dmg) 2,1, d/f+4
+037. (04 hit/35 dmg) 2,1, f+4
+038. (04 hit/35 dmg) 2,1, tgf
+039. (05 hit/52 dmg) b+3, 1,3~3, d+4
+040. (04 hit/38 dmg) b,f+2,1,2
+041. (05 hit/44 dmg) d/b+1, WS+1,2, d+4
+042. (05 hit/49 dmg) d/f+1, 1,3~3, d+4
+043. (03 hit/42 dmg) ewgf, d+4
+044. (04 hit/43 dmg) |big only| f+2, 1, f,f+2
+045. (05 hit/57 dmg) |big only| big f+2, 1,3~3, d+4 
+046. (03 hit/35 dmg) f,N,d,d/f,f+4, ewgf
+047. (03 hit/34 dmg) f,N,d,d/f,f+4, f,f+2
+048. (03 hit/37 dmg) iWS+2, wgf
+049. (03 hit/38 dmg) tgf, d+4
+050. (04 hit/70 dmg) (au.) |d+3+4 starter| d/f+4 [w!], tgf
+051. (05 hit/34 dmg) (au.) 1, 2,1,4
+052. (06 hit/53 dmg) (au.) 1, 1,2,4 [w!] f,f+4
+053. (06 hit/?? dmg) (au.) b+3 [w!], 1,2,3, d+4
+
+
+COMBO STARTER(s) : b,f+2,1(:d+2*_d+2) [Needle Shrine Gates / Scraper]
+COMBO VARIATIONS : standard combos
+NOTE: Combo damages listed are based on a just frame or delayed Needle 
+Shrine.  A delayed Needle Shrine does the same damage as both slow and fast
+just frame versions and regular versions.
+-----------------------------------------------------------------------------
+001. (07 hit/80 dmg) b+3, 1, 1, ewgf
+002. (07 hit/79 dmg) b+3, 1, 1, f,f+2
+003. (08 hit/93 dmg) b+3, 1, 1,3~3, d+4
+004. (06 hit/77 dmg) b+3, 1, d+1
+005. (07 hit/91 dmg) b+3, 1,3~3, d+4
+006. (06 hit/79 dmg) b+3, d/f+1, f,f+2
+007. (06 hit/77 dmg) b,f+2,1,2
+008. (06 hit/83 dmg) f+2, 1, ewgf
+009. (06 hit/81 dmg) f+2, 1, f+4
+010. (06 hit/82 dmg) f+2, 1, f,f+2
+011. (07 hit/96 dmg) f+2, 1,3~3, d+4
+012. (06 hit/80 dmg) f+2, 2,4
+013. (04 hit/76 dmg) iWS+3
+014. (07 hit/96 dmg) tgf, 1,3~3, d+4  [alongside wall] 
+015. (07 hit/101dmg) u/f+4, (1),2,3, d+4
+016. (06 hit/84 dmg) u/f+4, 1, f+4
+017. (06 hit/85 dmg) u/f+4, 1, f,f+2
+018. (06 hit/84 dmg) u/f+4, 1,(2),4
+019. (06 hit/86 dmg) wgf, 1, ewgf
+020. (06 hit/85 dmg) wgf, 1, f,f+2
+021. (07 hit/101dmg) wgf, 1,(2),3, d+4
+022. (07 hit/99 dmg) wgf, 1,3~3, d+4
+023. (06 hit/83 dmg) wgf, 2,4
+024. (08 hit/?? dmg) (au.) 1, f,f, 1, f,f, 1, f,f, 1, [close wall], f+4
+025. (09 hit/?? dmg) (au.) 1+2 [w!], b+3 [w!],tgf, (d+4_2,4)
+026. (07 hit/77 dmg) (au.) b+3, 1, f,f, [w!], 2,4
+027. (10 hit/?? dmg) (au.) b+3,1 [w!], 2,1, [w!] 2,4 [w!] d+4
+028. (06 hit/?? dmg) (au.) d/f+1, b+3, f,f+2
+029. (06 hit/76 dmg) (au.) b+3, 1, f+4
+030. (08 hit/98 dmg) (au.) wgf, 1,2,3, d+4
+
+
+COMBO STARTER(s) : f,f+3 or 1,2,3 [Axe Kick / Twin Thrusts-Inner Axe]
+COMBO VARIATIONS : none
+NOTE: The number of hit are based on a f,f+3 starter.  Combo damages listed 
+is based on a f,f+3 combo starter unless indicated otherwise in a combo note. 
+The last hit of 1,2,3 does the same damage as f,f+3. 
+-----------------------------------------------------------------------------
+001. (04 hit/45 dmg) d/f+1, 1, f,f+2
+002. (05 hit/49 dmg) d/f+1, 1,2, f,f+2
+003. (05 hit/59 dmg) d/f+1, 1,3~3, d+4
+004. (03 hit/40 dmg) d/f+1,4
+005. (04 hit/49 dmg) d/f+2, 1, ewgf
+006. (04 hit/48 dmg) d/f+2, 1, f,f+2
+007. (05 hit/62 dmg) d/f+2, 1,3~3, d+4
+008. (04 hit/46 dmg) d/f+2, 2,4 
+009. (02 hit/46 dmg) ewgf
+010. (02 hit/41 dmg) f+4
+011. (02 hit/44 dmg) f,f+4
+012. (05 hit/60 dmg) iWS+4, 1,3~3, d+4
+013. (03 hit/45 dmg) iWS+4, ewgf
+014. (03 hit/44 dmg) iWS+4, f,f+2
+015. (04 hit/47 dmg) (au.) d/f+2, d/f+1,4~4
+
+
+COMBO STARTER(s) : f,f+3,1 [Axe Kick-Lead Jab]
+COMBO VARIATIONS : none
+-----------------------------------------------------------------------------
+001. (05 hit/42 dmg) 1, 1, d+1
+002. (05 hit/42 dmg) 1, 1, f,f+2
+003. (06 hit/56 dmg) 1, 1,3~3, d+4
+004. (05 hit/40 dmg) 1, 2,4
+005. (04 hit/41 dmg) 1, ewgf
+006. (05 hit/43 dmg) 1, 1, ewgf
+007. (05 hit/45 dmg) 1,2, ewgf
+008. (06 hit/60 dmg) 1,2,3, d+4
+009. (05 hit/43 dmg) 1,2,4
+010. (04 hit/54 dmg) 1,3~3, d+4
+011. (05 hit/46 dmg) 2,1, f,f+2
+012. (05 hit/?? dmg) (au.)  2,1, 2,4
+
+
+COMBO STARTER(s) : CH b,f+2,1 or CH b,f+2 [Demon Godfist]
+COMBO VARIATIONS : standard combos
+P.S. LAUNCHER(s) : iWS+2 / b,f+2,1(:d+2*_d+2*_d+2) (b,f+2,1 only) or d+3+4
+NOTE: The number of hits are based on the demon godfist (2 hit) only, post 
+stun launcher hits are not included.  Damages are based on a counter hit b,f+
+2,1 starter unless indicated otherwise in a combo note.  Both Demon Godfist 
+stuns can be escaped by tapping forward, the post stun launchers are not 
+guaranteed.
+-----------------------------------------------------------------------------
+001. (04 hit/64 dmg) 1+2
+002. (03 hit/55 dmg) 4~3
+003. (07 hit/52 dmg) SSR, 1, 1, 1, 1, f+4
+004. (07 hit/?? dmg) (au.) {after PSL} 1, 1,2,3, d+4
+005. (06 hit/?? dmg) (au.) [close wall], d/f+4, 1,2,4
+006. (09 hit/?? dmg) (au.) [close wall], 1+2, 1, f,f, 1,2, f,f, 2,4
+007. (10 hit/?? dmg) (au.) (after PSL) 1, 1, 1,2,3
+008. (06 hit/91 dmg) (au.) {after PSL} owhf, 1, ewgf
+
+COMBO STARTER(s) : CH f+3~3,3 or 1,3~3,3 [Blade Kick]
+COMBO VARIATIONS : none
+NOTE: The Blade Kick stun is inescapable, and the number of hits are based
+only on the Blade Kick stun.
+-----------------------------------------------------------------------------
+001. (02 hit/37 dmg) 4~3
+002. (05 hit/44 dmg) d/b+1, WS+1,2, d+4
+003. (03 hit/41 dmg) d/f+4
+004. (05 hit/50 dmg) f,N,d,d/f,f+4, 1,3~3, d+4
+005. (04 hit/27 dmg) f,N,d,d/f,f+4, d+3+4
+006. (06 hit/?? dmg) (au.) f,N,d,d/f,f+4, 1, 1,2,(3_>4), d+4 (after 3 only)
+007. (05 hit/?? dmg) (au.) f,N,d,d/f,f+4, 1, 2,4
+
+
+COMBO STARTER(s) : f+4 [Battle Kick]
+COMBO VARIATIONS : none
+NOTE: The Battle Kick stun is inescapable.
+-----------------------------------------------------------------------------
+001. (02 hit/47 dmg) 4~3  
+002. (03 hit/35 dmg) d+3+4
+003. (02 hit/41 dmg) f+4
+004. (02 hit/40 dmg) f,f+4
+005. (03 hit/41 dmg) f,N,d,d/f,f+4, d+4
+006. (04 hit/45 dmg) f,N,d,d/f,f+4, d/f+1,4
+007. (04 hit/44 dmg) f,N,d,d/f,f+4, d/f+1,4~4
+008. (03 hit/45 dmg) f,N,d,d/f,f+4, ewgf
+
+
+COMBO STARTER(s) : f,N,d,D/F+4 [Stature Sweep]
+COMBO VARIATIONS : none
+-----------------------------------------------------------------------------
+001. (02 hit/34 dmg) 3~4
+002. (02 hit/39 dmg) ewgf
+003. (02 hit/34 dmg) f+4
+004. (02 hit/37 dmg) f,f+2
+005. (04 hit/40 dmg) f,N,d,d/f,f+4, 1, ewgf
+006. (05 hit/53 dmg) f,N,d,d/f,f+4, 1,3~3,d+4
+007. (02 hit/39 dmg) wgf
+
+
+COMBO STARTER(s) : (d_u_b_f)+1+3 [Wall / Wall Push Combos]
+COMBO VARIATIONS : none
+NOTE: Some moves require a turnaround push or far push in order to be 
+guaranteed.  The number of hits also include / count the wall push as a hit.
+-----------------------------------------------------------------------------
+001. (04 hit/64 dmg) |far wall push| 1+2, d/f+4
+002. (03 hit/23 dmg) |close wall push| 2,1
+003. (03 hit/27 dmg) |close wall push| 2,4
+004. (06 hit/94 dmg) |far wall push| b,f+2,1:d+2*, f+3~3, f+4
+005. (08 hit/?? dmg) |far wall push| b,f+2,1:d+2*, b+3, 1,3~3, d+4
+
+
+COMBO STARTER(s) : first move listed [Power Wall Stun Combos] 
+COMBO VARIATIONS : Standard combos (after d/f+4_u+3)
+NOTE: Most standard combos will work starting with a power move wall stun
+when you are not directly facing the wall and the first juggle hit will break 
+the opponent away from the wall.
+-----------------------------------------------------------------------------
+001. (02 hit/57 dmg) d/f+4 [w!], ewgf
+
+002. (03 hit/71 dmg) d/f+4 [w!], f+3~3, f+4
+003. (02 hit/54 dmg) d/f+4 [w!], tgf
+004. (02 hit/56 dmg) u+3 [w!], d/f+4
+005. (02 hit/49 dmg) u+3 [w!], f,f+2
+006. (02 hit/54 dmg) u+3 [w!], u+3
+007. (07 hit/?? dmg) (au.) tgf [w!], tgf [w!], d/f+1,4
+008. (10 hit/?? dmg) (au.) tgf [w!], b,f+2,1,2 [w!], tgf, d/f+1,4
+
+
+COMBO STARTER(s) (MISC) : first move listed
+COMBO VARIATIONS : none
+-----------------------------------------------------------------------------
+001. (03 hit/36 dmg) 2,4, d+4
+002. (05 hit/37 dmg) FCD 3, WS+2, 1,2, f,f+2 
+003. (05 hit/47 dmg) FCD 3, WS+2, 1,3~3, d+4 
+004. (03 hit/37 dmg) FCD 3, WS+2, ewgf
+005. (04 hit/31 dmg) FCD 3, WS+4, 1, f,f+2
+
+
+
+_____________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ // PART 04.  V S. T I P S,  T R I C K S,  H I N T S,  M I S C.
+_____________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ vs. TIPS:
+
+ Now that we're done with the special arts list and combo listings (whoa!
+ like, that was really long!), I can finally tell you how to beat other types 
+ of opponents and the COM (or CPU) using several types of techniques which of 
+ course will give you the upper hand. Also if you have any strategies please 
+ feel free to send them in, and put the subject as t4 vs. strategy.  A good 
+ way to know more about your opponent is to use the people you usually don't 
+ play with, as it will help you to understand that character better. 
+
+ NOTE: These strategies were based on the hardest difficulty of the game and
+ from tourney gatherings I have been to.
+
+ - vs. KUMA / PANDA -
+ One thing to watch out for when playing against cheese Kuma/Panda 
+ characters, if they perform f,f+2, they can do a Salmon Hunter, which takes
+ of a lot of damage, well not unless you tech roll off course.  If they do
+ the JF Slamon Hunter, you should roll back
+ 
+ - vs. HWOARANG -
+ When fighting against the COM, there are to things to really watch
+ out for: 1) his flamingos; and 2) his stances, if you know which stance he
+ is in, then you will know what to look out for.  Use your 1,2 and 2,1 mix-
+ up strings to keep him from using attacking, and when you think he will 
+ attempt a launcher, sidestep and throw, or use the 2,4 attack to give your-
+ self some breathing room. Now I haven't played to many Hwoarang players, but
+ being a seasoned Hwoarang player, I would know what to look out for.  Most
+ veterans and above players will try to use the crouch dash game and mix-up
+ his f,N,d,d/f,f+3 and his f,f+2 throw.  If your opponent starts to do this,
+ use the f+4 kick, it has enough distance to knock Hwoarang out of his stance
+ flamingo if they are close enough.  But be aware that it is slow, so I'd 
+ prefer to sidestep when ever they start a crouch dash game.  And if your 
+ opponent starts to begin a flamingo mix-up game, use the f,f+2 to knock him 
+ out of it, it has plenty of distance, so use the move to its full potential, 
+ and keep back when your opponent starts to flamingo.  Also do not be caught 
+ with Hwoarangs's 2,f+3 and 2,f+4 strings on a counter hit, as those are 
+ guaranteed hits if they do connect.  Advanced players also tend to use
+ the triple sidestep, and that is something that you must watch for, this
+ allows Hwoarang to move behind you and do some damage.
+
+ - vs. YOSHIMITSU -
+ Yoshimitsu has a lot of moves, but with the exception of the d/f+4 (which 
+ must be sidestepped anticipating on the right), and his f,f+4 (anticipating 
+ on the right), they are not difficult to sidestep; I will list some of them: 
+ d/f+2 can be sidestepped on both directions b+3,1 on both directions 4-3 
+ very easily on the left d/f+1,1,1,1  very easily on the left b+1,1,1 easily 
+ on the right, the first two hits even on the left (attack immediately after) 
+ u/f+4 on both directions d/b+1 on both directions b+1+2, on the left.
+
+ - vs. JULIA CHANG -
+ I think that Julia is a very good character; she can't be sidestepped easily 
+ since almost of her combo which have a low kick will hit you whenever you go 
+ on the right or on the left; however it is still possible to make a side-
+ stepping game when she performs certain moves: d,D/F+1,2.. you can sidestep 
+ this attack on both directions, even if sidestepping it on the left is
+ easier; if she performs a d,D/F+1-delayed 2, you will be able to SS even 
+ after having blocked the first hit (you must go on the left). Another attack 
+ that you can sidestep is 1,1,1; you should go on the right and, if you want 
+ to show some skill, immediately do a WS+2; in this way you may even hit her 
+ if she performs 1,1,4,3(before the first low kick which will otherwise hit 
+ you). In general you will be able to sidestep her whenever she uses long 
+ ranged moves (f,f+1 for example) otherwise it will be a suicide.
+
+ - vs. LEE CHAOLAN / VIOLET -
+ One attack to watch for is his Acid kick combo, if it hits on counter, the
+ rest of the kicks are gauranteed to connect, and from that stun that it
+ causes, you can take a ton of damage from this combo: f+3:3:3, d/f+1, cc,
+ 1,2~f,N, 1,2~f,N, b+1(1)~f,N~b+3,3,d+3.  Its a devestating combo, so watch
+ for that.  Also watch for his Silver Sting and Quick Silver Sting.  His
+ Hitman Stance is also something to be aware off, from the hitman, he has
+ a throw, a launcher, a sweep, and a jab off course in his arsenal, if you 
+ block his Hitman Low Sweep, follow up with WS+2 and juggle Lee; block the
+ Hitman Backhand and follow up with f,N,d,d/f+3 for some damage, or use
+ the Stature Sweep.  If Lee performs the Mist Feint Trap combo, duck the
+ second hit, although block the first, because if you are hit on CH from
+ the first kick of the Mist Trap Feint combo, the second hit is gauranteed,
+ and that also gives your opponent a chance for a Mist Trap Throw.
+
+ - vs. LING XIAOYU / MIHARU -
+ Ling is another one of those characters which can be difficult to sidestep; 
+ the main two attacks I can suggest you how to SS are f,f+1+2,1+2 which must
+ be sidestepped on the right and her BK,4 which should be sidestepped on the 
+ left. Her f,f+3 must be sidestepped on the left, while her db+1 can be 
+ sidestepped on both directions. Her Phoenix Stance(d+1+2) can be very 
+ dangerous, but in this case the sidestepping game can be useful; the Tooth 
+ Fairy is, when she is in this stance, Jin's best juggle starter, so don't be 
+ afraid to use it. Ling is a very strong character and her sidestepping game 
+ is the best in the game, so be careful not to became the prey instead of the 
+ hunter. 
+
+ - vs. CRAIG MARDUK -
+
+ - vs. LEI WULONG -
+ Watch for his Razor Rush combo, he can cancel into any of his 5 animal
+ Qigong stances.  And watch for d/b+4,4, alot of people tend to abuse this
+ move.  He also has a PLD stance and a KND position also, so don't let those
+ fool you, use a 4~3 if they go into these positions, as it hits Low and 
+ grounded opponents. 
+
+ - vs. KAZUYA MISHIMA -
+ Don't worry about his ewgf, or his crouch dash game, but his WS moves.
+ WS+1,2 is gauranteed if it connects on CH.  Also watch for his WS+2, which
+ is inescapable now by the way (so if your playing against a expert, and by
+ some miracle it connects, your screwed).  But remember, the crouch dash 
+ game is still applicable in this Tekken also, they can cancel into either
+ WGFs, can cancel and go into Kazuya's WS moves, and also they can mist step,
+ by f,N,d,d/f,f~f,N.  Parry his 1,1,2 (the second or last hit), his 1,2,2,
+ and parry the 4 in his 1,2,4.  Also parry his WGFs, since they hit high now
+ by the way.
+
+ - vs. PAUL PHOENIX -
+ 
+ - vs. JIN KAZAMA -
+ If Jin starts to do the Needle Shrine Cannon links (aka the Laser
+ Scraper series), just sidestep to the right after you block the second hit,
+ it'll give you enough time to land a free f,f+2 or a 1,2,3_4 if you are
+ close enough to hit them.  Also watch for seasoned Jin players, they tend
+ to use his High parry and counter with a 1+2 or a Demon Lift Kick (d+3+4).
+ so use the 2,1 series, as the 1 hits mid, they won't be able to parry it.
+ Also if a cheese Jin player starts the 1,2,3_4 and does it repeatedly, you
+ can sidestep the 3 in the 1,2,3 string after if you are quick enough, but
+ parry first hit, because if you parry the second hit the Roundhouse may
+ track your sidestep and hit you, and the 3 may hit you if you sidestepped
+ to the left.  Watch for the d+4 Demon Sweep also, because it is a quick hit,
+ most players will throw this in with their mixup games so watch for this.
+
+ - vs. NINA WILLIAMS -
+ Nina is a strong character which has all the weapons to be divesting; she is 
+ even not easy to sidestep, since she can perform a large number of quick 
+ pokes and short strings. I will focus on those attacks which will juggle or 
+ hit you at mid-long range:d/b+3+4, her standard juggle starter, must be 
+ sidestepped on the right; you must be at short-mid range or the kick may hit 
+ you. d/b+4,3, this variation of the previous kick is a bit tricky to 
+ sidestep, cause you  must go (anticipating) on the right with an interrupted 
+ SS; you will take the first kick but the second will miss, so that you can 
+ juggle her. The f,f+3 kick is quite easy to sidestep 'cause you can go on 
+ both directions, from long range I suggest to go on the left. Let's go to 
+ her hand attacks: d,D/F+2 can be sidestepped early on the right or always on 
+ the left; the f+1+2 is a bit tricky 'cause it must be sidestepped 
+ anticipating on the right, or you will be hit. About her pokes and short 
+ strings, I suggest you to learn how to sidestep the first hit and attack 
+ immediately after the SS.
+
+ - vs. STEVE FOX -
+ Most beginners tend to mash or repeatedly do 1,2,1,2 or similar variations 
+ of that string, parry only when you think you will connect with it.  Just 
+ sidestep once they start come near you, and when you sidestep, do a quick
+ hitting combo such as the 2,4 to knock him out of it.  More advanced
+ Steve players use the optional command of (~3_4) after several of Steve's 
+ strings, so watch out and have a mid hitting move ready, such as a d/f+1 or
+ d/f+2. 
+
+ 
+ - vs. CHRISTIE MONTEIRO / EDDY GORDO -
+
+ - vs. BRYAN FURY -
+ Many Bryan players use single powerful moves, and whenever you are facing 
+ one of them you should be able to sidestep him quite easily; his WS+3
+ _d,d/f,f+3 can be easily sidestepped on the left and the same goes for his 
+ WS+1_d,d/f,f+1; the f,f+2 is a very fast attack but if you anticipate the SS 
+ you can do it on both directions. The WS+2_d,d/f,f+2 can be sidestepped more 
+ easily on the right, but since it is a slow attack you should be able to 
+ sidestep it even on the left, just by anticipating a little the SS (an  
+ "interrupted" SS will work too. Even his d/f+1,2 (d/f+2) of d/f+4 can both 
+ be sidestepped on the left, you should only anticipate a little the SS or do 
+ an "interrupted" SS. This are the most common attacks, but not the most 
+ effective; whenever you will fight against a player who uses Bryan's short 
+ combos(or just the first hits of them), you will have problems in 
+ sidestepping him; in this case go with other strategies...
+
+ - vs. HEIHACHI MISHIMA -
+
+ - vs. KING the 2nd -
+ Sidestepping King can be a difficult task since his most useful moves have 
+ to be sidestepped on different directions: his d/f+3,..d/f+2..FC,d/f+1 must 
+ be sidestepped on the left, while f,f+2, and u/f+4(his most common juggle 
+ starter) must be sidestepped on the right; other good attacks can be 
+ sidestepped on both directions: d/f+1,..f,f+4,..b+4..FC,d/f+2. 
+
+ - vs. MARSHALL LAW -
+ Law is a tough opponent, but as long as you stay at long range, he is not so 
+ difficult to sidestep. At this distance his main weapons are b+1,(2,1) and 
+ b+2(,3,4); the first one can be easily sidestepped on the right (the third 
+ hit of the combo must be sidestepped on the left, so whenever you sidestep 
+ the first punch you should attack immediately or the last one may hit you 
+ anyway) while b+2 should be sidestepped on the left; however even if you go 
+ on the right when he performs b+2,3,4 you will be hit only by the first hit 
+ of the combo, the other two will miss and you will be able to hit him. His 
+ UF+4,3+4 can be sidestepped on both sides while the u/f+4 must be
+ sidestepped on the right. As for all the other characters you will start to 
+ have some problems when Law comes at close range with his quick jab attacks; 
+ his main p0unch strings are 1~1,.. and its variations, and f+2,2(2); in the 
+ first case you can sidestep on the right the first two punches and 
+ immediately attack, before the third comes out. About f+2,2,(2) ,you can 
+ sidestep on the right the first punch and immediately attack (or the second 
+ and third will hit you) or you can sidestep the whole combo on the left 
+ (remember however that you can duck under the third punch). As you may have 
+ noticed you will be able to SS him easily, but you must be reactive and 
+ attack as soon as you have sidestepped, or you may be hit by another attack.  
+ Watch for hisDragon Sign Stance and his Fake Step Stance, he can cancel into 
+ a few moves, such as his Thrust Side Kick and his Junkyard Combo.  Also
+ his Dragon Roar combos.
+
+
+ - vs. COMBOT -
+ 
+
+ CODES, SECRETS, HINTS:
+ 
+ NOTE: All these were confirmed on my Japanese Playstation 2!! Remember these
+       may change when the U.S. version of the game is released.
+
+-Unlocking the Hon-Maru Stage (Dojo Stage)
+ Beat Force Mode once with any character. 
+ 
+-Unlocking Eddy Gordo (Christie Palette Swap) 
+ Beat Story Mode with Christie Monteiro at least once.  Then select Christie
+ using the Right Punch button and you will be able to play Eddy Gordo.  Since 
+ this is a palette swap, Eddy has no moves of his own.  Only one player can 
+ be Eddy, if the second player tries to select Eddy as well you end up 
+ playing as Christie.
+ 
+-Unlocking Miharu (Ling Palette Swap)
+ Beat Story Mode with Ling Xiaoyu at least once. Then select Ling using the 
+ Right Kick button and you will be able to play Miharu. Since this is a 
+ palette swap, Miharu has no moves of her own.  If the second player tries to 
+ select Miharu as well you end up with Ling Xiaoyu in her Tekken 3 School 
+ Girl outfit.
+
+-Ling School Girl Outfit 
+ Select Ling with Right Punch after you have beat Story Mode with Ling. 
+ 
+-Getting Your Records On The Internet Ranking Site  
+ Beat whatever mode you would like to enter your records for using the 
+ default game settings (these are the settings colored green, such as 2 
+ rounds or medium difficulty). Once you have beat the mode and you enter your 
+ initials press and hold Square and Triangle, then tap u/f on the joystick. 
+ You will see a password you can enter on the Japanese PlayStation2 Tekken 4 
+ Namco site. (Record Entry Page) The URL is:
+ 
+ http://www.namco.co.jp/home/cs/ps2/tekken4/ranking/index.html
+
+ 
+ S U B M I T T E D  I N F O
+ ----------------------------------------------------------------------------
+
+ ----------------------------------------------------------------------------
+ frm : Ben Thayer
+ eml : bigdaddyb18@hotmail.com
+ 
+ 123 gives you an ungodly frame advantage following up with a needle shrine
+ series is hard to stop(Certified Scrub Killer and a decent setup for high
+ level playing).  For pokers who like to jab 123 d+1 is crucial as the d+1 
+ will go below them and land as a counter plus you have a huge frame
+ advantage so not many mid attacks can stop it and only 1 comes to mind that 
+ can do any significant damage(DO NOT ABUSE THIS). 
+
+ Never finishing the needle shrine is a favorite of mine to do in tag.  I 
+ would either throw or when opp SS I would do 112 which stopped any early 
+ attempt to SS.  After a while your opponent will become confused and is at 
+ your mercy for juggling.  Its a bit different in T4 you can come out and do 
+ 123 for pressure and you can still throw but Jin’s best anti SS move is 2,4.  
+ I find that tapping b can cancel out the Needle shrine and enable you to do 
+ a 2,4 and that should stop any future SS attempts. 
+
+ Favorite tactic move opp to a position where the wall is on his right side 
+ and then do b,f 2,1, JF2 b+3 1 3~3 d+4.  When done right this is not 
+ stoppable except for a low jab before the JF2 and even that is hard.  The 
+ wall stops them from SS.  High level and veteran players know this and as a 
+ result A.  Don't allow them selves to be moved into position for it.  B.  
+ Don't even bother trying to stop it with the hope they can get a wall tech 
+ instead of taking a CH. 
+ ----------------------------------------------------------------------------
+
+
+ (This section will be updated periodically, and please send in anything 
+ you'd like to have posted here, I have plenty of strategies typed down 
+ somewhere on my computer, and I'd be very glad if you readers would send 
+ something in for this section, along with anything else for any other part 
+ of the faq, let it be a combo, tip, etc.)
+
+
+
+_____________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ // PART 05.  E P I L O U G E : T E K K E N  4  &  J I N
+_____________________________________________________________________________
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+ Well readers, I hope you enjoyed this faq I typed for Jin, if you have 
+ anything you would like to add or you would like to tell me what I need to 
+ improve then feel free to e-mail me or contact me, no flames please...
+
+ [please e-mail me as I would really appreciate the help!!!]
+
+
+
+                    [ one love... ]
+
+                                                     - Angel Boy

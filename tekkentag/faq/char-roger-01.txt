@@ -1,0 +1,1419 @@
+Thursday, March 2nd, 2000
+
+Roger: EWGF THIS, you bastard...
+A Strategy guide for Tekken Tag Tournament
+Version 1.9
+By
+Synner (synner@crystald.com) & Grim Walker (forbidden_crypt@www.com)
+
+(with extensive editing by Ug the Caveman)
+
+0123456789
+..........
+
+******************************************************************************
+This is an *EARLY* draft, nowhere near done, but most of the numbers are 
+here, so we can get started....
+******************************************************************************
+
+==============================================================================
+0) UPDATE INFO
+==============================================================================
+v1.9  - Ug made a pass at the formatting, it should be clean now...
+      - addes a few more comments (
+v1.5  - Screwed with formatting, occasional spelling errors,and random b.s.
+      - Added a few comments...(this is only a small update, to make the faq
+        easier to read)
+      - Renick: don't worry, we'll get to the standing left punch in the 
+        next version =P
+==============================================================================
+<<Contents>>
+
+1) Legal Matters
+2) Something to Remember
+3) Introduction
+4) Conventions
+5) Kangaroo Styles of Play
+6) Move List
+7) In-Depth Move Analysis
+8) Strategies
+9)Tricks of the Kangaroo (Having Fun)
+10)Vs Character
+11)Ideal tag-team partner?
+12)Conclusion
+13)Tekken resources
+14)Credits
+
+==============================================================================
+1) LEGAL MATTERS
+==============================================================================
+
+     This strategy guide is meant to be a free for all the Tekken players
+worldwide and you may freely distribute this document without any changes so
+long as it is for personal use.  Basically this whole text document is (C)
+2000 Grim Walker and (C) 2000 Synner...please, if you are going to use any
+information in this guide (in any form) for making a FAQ of your own, please
+credit us appropriately.
+     Plagiarism is a serious issue when it comes to online game faqs, not to
+mention ethically wrong. If we ever get to know of any wrong doing concerning
+our guide, we will take legal action accordingly...(Yeah Right !!).  Well, 
+at least we'll make sure that the culprits and all their publications will be
+boycotted by the TTT community. The facts expressed in this guide belong to
+everybody, the opinions belong to us, the distinction is yours to draw...
+
+(Word for Word what Abrar wrote in his Kuma FAQ...kinda funny, huh?)
+
+==============================================================================
+2) SOMETHING TO REMEMBER
+==============================================================================
+
+Evenin'\Afternoon\Mornin' to ya. We got 2 people writing this faq.
+
+The first is [Grim Walker]
+[Hard out Roger fan for years.  Since Tekken2, in fact]
+
+The other is {Synner}
+{Played tourney level Tekken2 with Roger and A.King. Oooold school...}
+
+Ok, here's the question:
+
+<<<WHY ROGER/ALEX???>>>
+
+Grim Walker's Reasons:
+[I'm sure you all have your own reasons, but here are a few more you might
+find yourself thinking...]
+
+"What the hell am I doing using Paul anyway??" (Good Question!!)
+"I like Armor King, but his moves aren't quite my style..."
+"I love the Godfist, and most of Kings throws, why can't I have a mix??"
+"Personally, my favorite thing is poking untill the other person gets so
+irritated they walk into a giantswing.."
+"Well I cant beat this chick using force, lets try cute tactics..."
+"I'd like faster punches, I just don't have a good character for that..."
+"Heh, that scrub thinks he knows everything, wonder who I can use to wipe 
+the floor with him..."
+
+     These are only a few things I though to myself (other than the Paul 
+one, but especially the cute tactics one) and for this reason I have become
+a Roger fan. (some people like Alex better, I would prefer it if he could
+bite them a few times though)  If you like Raptors better than Kangaroos,
+go right ahead, it's your option to choose.
+     Anyway, the real reason to use these WONDERFUL characters is because,
+well, there cool!! Thats right. The number one top reason! Hehe (Oh and this
+character is good fun to use)
+
+Synners Reasons:
+{Two Words: Style Points}
+
+'Nuff Said.
+
+==============================================================================
+3) INTRODUCTION
+==============================================================================
+
+     This faq can be used for beginners, mediocre players, or expert level
+guys...if you think you are an expert and read this, you might find that you
+didn't know as much as you thought.  Go ahead and e-mail Grim or Synner for
+any changes or corrections, and we'll get right onto it.  Ok, if you're here
+to "expand" your Kangaroo knowledge, please go right ahead and have a gawk. 
+=)
+
+==============================================================================
+4) CONVENTIONS
+==============================================================================
+
+These are the conventions used throughout this FAQ and these are recognized 
+as
+the general commands used in discussions regarding TTT between online Tekken
+players. (based on formats by Tragic and Abrar)
+
+-commands-
+
+f -  tap forward              F -  hold forward
+b -  tap back                 B -  hold back
+u -  tap up                   U -  hold up
+d -  tap down                 D -  hold down
+
+d/f - tap down+forward        D/F - hold down+forward
+d/b - tap down+back           D/B - hold down+back
+u/f - tap up+forward          U/F - hold up+forward
+u/b - tap up+back             U/B - hold up+back
+
+QCF - quarter circle forward  (d,d/f,f)
+QCB - quarter circle back     (d,d/b,b)
+HCF - half circle forward    	(b,d/b,d,d/f,f)
+HCB - half circle back       	(f,d/f,d,d/b,b)
+
+
+Button Layout--> (1)  (2)  (5)
+
+                 (3)  (4)
+
+1 = left punch
+2 = right punch
+3 = left kick
+4 = right kick
+5 = tag button
+
+Con: * - Hold the movement shown before the asterisk till the end of the
+         string.
+
+Con: 315deg - f,d/f,d,d/b,b,u/b,u,u/f
+
+Con: ~ - commands after this sign is done immediately before/after each
+         other.
+
+Con: n - Neutral position.  There should be no joystick motion for about 1/2
+         second.
+
+Con: + -When commands on either side have to pressed together.
+
+
+-Abbreviations-
+
+GS - Guard Stun
+Tag- Can tag if last hit connects
+TTT- Tekken tag tournament
+FC - Full crouch
+SS - Sidestep
+SSL- Sidestep left
+SSR- Sidestep right
+WS - While standing (rising from crouch)
+var- variable
+BT - Roger has his back to opponent
+CH - Counter hit
+
+
+-Hit ranges-
+
+L - Low hit
+m - Mid hit
+h - High hit
+SM- Special mid hit
+! - unblockable
+G - ground hit
+
+==============================================================================
+5) KANGAROO STYLES OF PLAY
+==============================================================================
+
+This is to give an insight on how Grim Walker and Synner play. We both have
+different styles, so this is here for your convenience, to show which one 
+may
+be most helpful to you.
+
+Grim Walker's Style of Play:
+	My style of play is a somewhat Rush in and Attack from all angles. I
+like to get the opponent on the defensive, and smash them into submission. I
+do a lot of sidestepping, and fight hard when I am forced to turtle, since I
+don't like being cornered. I think Roger, a boxing Kangaroo, should be 
+played
+the way he sounds. OFFENSE!! And STYLE! Also, try that cute tactics 
+thingee..
+IT REALLY WORKS!! =)
+
+Synner's Style Of Play:
+Guerilla Kangaroo Tactics...passive agressive, concentrating on high-damage
+strats and tricks.
+
+==============================================================================
+6) MOVELIST
+==============================================================================
+
+Here is the complete official movelist for Roger/Alex with commands, damage
+and hit levels in TTT, adapted from TTT online.  If something is incorrect 
+or if we have missed out something, please e-mail us about it.
+
+-Throws-
+
+Throw name               Command      Throw-Type  Damage  Escape/Note
+----------               -------      ----------  ------  -----------
+Head Butt                1+3          front       30      1
+Jumping Powerbomb	 2+4          front       30      2
+Animal Face Crusher      1+3_2+4      left        40      1
+Animal Rolling Arm Lock  1+3_2+4      right       40      2
+Reverse Throw            1+3_2+4      bt          var     var
+Reverse Neck Throw       1+3_2+4      back        50      Inescapable
+Giant Swing              f,b,HCF+1    front       70      1, #1
+Pile Driver              QCF+1        front       25      1, (3+4)
+Tomb Stone Piledriver    d/b,F+1+2    front       58      2
+DDT                      d/b,D/B+1+2  front       45      1+2
+
+#1 = Any button upon landing to tech roll...1/2 dmg (35) on tech roll.
+
+==============================================================================
+-Moves-
+
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+One Two Upper          1,2,1                  h,h,m       6,10,10{#1}
+Animal Rush to {WP}    f,f,1,2,1,2,1          h,h,h,h,m   10,15,10,15,20{#2}
+Animal Gigaton Punch   f,f,N+1                m           23
+Elbow Sting            d/f+1                  m           15
+WindMill Punch {WP}    f,N+1                  h           30{#2}
+Animal Godfist         f,N,d,f+1              m           50
+Animal Head Butt       d/f,1+2                m           20
+Animal Gut Punch       d/f+2                  m           10
+Low Jab Uppercut       d+1,2                  sm,m        5,15
+Wind Up Punch          b+1                    !           100
+Jab Uppercut           2,1                    h,m         12,12
+K's Flicker            f,f,2                  m           20{#3}
+Stomach Smash          f,f,N+2                l           6
+Crouching Uppercut     D,D/F,2                m           20{#3}
+Head 1st Lunge         f,f+1+2                h           15{#4}
+Capital Punishment     u/f+1+2_F+1+2_f+1+2    m           35
+Animal Smash           F/C+1+2_f,N,d,d/f+1+2  m           22
+Tail Tripper           d/b+3                  l           17
+Konvict Kick           f,f,4                  m           26
+Rolling Animal{RA}     d/b+4,2                m,n/a       17, n/a
+Animal Kick Rush{AKR}  d/b+4,3,4,3,4          m,m,m,m,m   17,17,17,17,17{#5}
+Animal Sweep           SS+4                   l           17
+Exploder               3+4_f,f,3+4            m           25
+Running Exploder       f,f,f,3+4              m           40
+Franken Steiner        d/f+3+4                sm          15{#6}
+Jumping Knee Drop      u/f+3+4                m           40
+Stagger (Ali) Kick     d+3+4_D,D/F+4          l           13
+Stagger (Ali) Kicks    d+3+4,4x2_D,D/F+4x3    l,l,l       17,7,7
+Stagger (Ali) Kicks    d+3+4,4x5_D,D/F+4x5    l,l,l,l,l   17,7,5,4,3
+Animal Jumping Sweep   u+3+4                  l           17
+Animal Drop Kick{ADK}  b+3+4                  m           30
+{ADK} to {AKR}         b+3+4,4x4              m,m,m,m,m   30,17,17,17,17
+{ADK} to {RA}          b+3+4,2,4x4            m,m,m,m,m   30,17,17,17,17
+Elbow Drop             U_U/F+2+4              m           35
+Supercharger           1+2+3+4                n/a         n/a
+
+#1 = f+1 on 1st hit changes damage to 7.
+#2 = If WP is blocked, Animal Upper is guaranteed during block-stun.
+#3 = Tag on hit.
+#4 = Becomes low hit at the end of the animation.
+#5 = Press 2 during 1st or 3rd hit to shift to Rolling Animal. Press b after
+     3rd hit to roll backwards.
+#6 = Shifts to throw on deep hit or guard, throw damage 45. Tag on throw 
+     only.
+
+==============================================================================
+7) IN-DEPTH MOVE ANALYSIS
+==============================================================================
+
+     In this section, we'll analyze only those moves that we deem worthy and
+effective, including  {of course}all of the new moves that Roger has 
+acquired in TTT.  Hence, not all of the moves from the movelist above will be 
+analyzed.
+     We've decided to use a basic "Five Star" rating system:
+
+*     -         Custard does more damage than this.
+**    -         It has its purposes, just not many of them.
+***   -         Not too shabby...
+****  -         Now here is a REAL move you can use!!
+***** -         Abusing a move is, bad right?? Not this one!!
+??    -         Varies on Situation
+
+*Note* The moves are rated in 3 fashions. The first is [G.W], which is Grim
+Walkers Rating. The second is {S}, which is Synner, and the third is <O.R.>,
+the "Overall Rating", which is what the move has been rated in total. This
+just gives a few outlooks on each move.
+
+==============================================================================
+KANGA-THROWS
+==============================================================================
+Throw name               Command      Throw-Type  Damage  Escape/Note
+----------               -------      ----------  ------  -----------
+ANIMAL STONEHEAD         1+3          front       30      1
+
+Grabs opponents head and headbutts them viciously...
+
+[G.W.] ****
+     The follow ups are very good on this throw. It looks cool, but the break
+is easy and is a simple motion to do.  Don't expect to win with this. Expect
+to hurt your opponent.
+
+{S} ***
+     Noticing that a lot of "experts" are defaulting to 2 for an escape, so
+it's kewl to throw this one in every so often...other than that, I usually
+opt for a special grab, if only for style points...
+
+<O.R.>
+
+==============================================================================
+Throw name               Command      Throw-Type  Damage  Escape/Note
+----------               -------      ----------  ------  -----------
+JUMPING POWERBOMB        2+4          front       30      2
+
+Grabs opponent and plants a powerbomb with pretty blue stuff all over the
+place...
+
+[G.W.] ****
+     4* for easy motion. It is a basic throw to keep your opponent on their
+toes. Otherwise look to the other one.  I agree with Synner on this, for the
+moment.
+
+{S} ***
+     This one'll get escaped 80% of the time...use primarily on scrubs.
+
+<O.R.>
+
+==============================================================================
+Throw name               Command      Throw-Type  Damage  Escape/Note
+----------               -------      ----------  ------  -----------
+DDT                      d/b,D/B+1+2  front       45      1+2
+
+Roger\Alex grabs opponents head, before falling to the ground and making 
+them
+eat dirt...
+
+[G.W.] ****
+     This move is very good when you are on the retreat, for the d/b,d/b
+motion that is there. It can do some serious damage too...the double button
+escape makes it definitely worthwhile.  Make sure you smoke people with this
+move... As for style, 100 POINTS!!
+
+{S} ****
+     Niiiiice...a bitch to escape, and it looks kewl as hell.  I only wish
+Roger could do it from crouch like King does...oh well.  The only problem is
+Roger's short arms, so make sure to be *right* next to your opponent when
+pulling this one out...
+
+<O.R.>
+
+==============================================================================
+Throw name               Command      Throw-Type  Damage  Escape/Note
+----------               -------      ----------  ------  -----------
+GIANT SWING              f,b,HCF+1    front       70      1
+
+Takes opponent by the legs and turns around a few times before releasing,
+throwing them a huge distance...
+
+[G.W.] *****
+     This is like a dooms day device. Once it lands, without recover, you 
+are looking for a mean amount of damage that can be done, with buffer motions.
+Rogers arms aren't as long as Kings, so all you fans out there have to get a
+bit closer.
+
+{S} *****
+     My favorite Roger throw, by far...MASTER THIS MOTION!!  Sooo many ways 
+to buffer this one in...when your opponent tags, or after you dash in, or *my
+faves* after either SS'ing or crouch-dashing. Experts will pro'lly escape, 
+but it'll keep'em on their toes.
+
+<O.R.>
+
+==============================================================================
+Throw name               Command      Throw-Type  Damage  Escape/Note
+----------               -------      ----------  ------  -----------
+ANIMAL DRIVER            QCF+1        front       25      1, (3+4)
+
+Grabs opponent by the arms, turns them upside down, and dumps them head 
+first onto the ground...
+
+[G.W.] ***
+	Truly the worst thing that Roger could have achieved.
+
+{S} **
+	Waste of a throw.  Harsh, but true.
+
+<O.R.>
+
+==============================================================================
+Throw name               Command      Throw-Type  Damage  Escape/Note
+----------               -------      ----------  ------  -----------
+TOMBSTONE PILEDRIVER     d/b,F+1+2    front       58      2
+
+Roger\Alex turns opponent upside down and drops to his knees, planting
+opponents head into the ground...
+
+[G.W.] ***
+     Not the easiest to pull off, but well worth it when you do!! It looks
+cool, and does very good damage.  Although the damage doesn't seem to come 
+out at its fullest sometimes.. And it has an easy escape. The looks are still
+cool..But it's got a low rating for the difficulty to pull off..(Learn to do
+the motion fluidly)
+     [I don't do this, too much trouble to pull of...And there's no point...I
+really advise doing it if you can do the motion really fast though, cause it
+is well worth the effort if you can do it. I just stick with the Giant Swing
+though. =)]
+
+{S} ****
+     2nd fave throw, this one kicks ass...I'm not sure if Roger is able to
+fake it w/ the QCB,F+1+2 like King can...if so, than this one moves up to
+*****, if only for the INSANE damage and relative ease to pull off...I'll 
+keep
+ya posted.
+
+<O.R.>
+
+==============================================================================
+Throw name               Command      Throw-Type  Damage  Escape/Note
+----------               -------      ----------  ------  -----------
+ANIMAL FACE CRUSHER      1+3_2+4      left        40      1
+
+[G.W.]
+     What can I say? If your next to some one what else are you going to 
+do??
+Looks cool. Good damage too...Grabs head, runs along and drops, putting
+opponents face into the ground.
+
+{S}***
+     Umm...it's a side throw. yayyy *grinz*  {nice damage, tho!}
+
+<O.R.>
+
+==============================================================================
+Throw name               Command      Throw-Type  Damage  Escape/Note
+----------               -------      ----------  ------  -----------
+ANIMAL ROLLING ARM LOCK  1+3_2+4      right       40      2
+
+[G.W.] ****
+     Ok this is the coolest looking throw. =) It is fast too, and can put
+people into awe. LOL. You should be doing a bit of side stepping with
+Roger\Alex anyway, so expect to see this move often (HINT!) =)
+
+{S}***
+     {See my comment above}
+
+<O.R.>
+
+==============================================================================
+Throw name               Command      Throw-Type  Damage  Escape/Note
+----------               -------      ----------  ------  -----------
+REVERSE THROW            1+3_2+4      bt          var     var
+
+[G.W.]
+     Did you say something Synner??
+
+{S}***
+     Ummm...what? sorry...wasn't paying attention.
+
+<O.R.>
+
+==============================================================================
+Throw name               Command      Throw-Type  Damage  Escape/Note
+----------               -------      ----------  ------  -----------
+REVERSE NECK THROW       1+3_2+4      back        50      no escape
+
+Slides in behind the opponent and grabs their head, then hip tosses them 
+onto
+their stomach.
+
+[G.W.] ****
+     In my opinion the worst looking back throw in the game, but when your
+behind someone what else ya gonna do but SMASH 'EM!! Hehe, This doesn't look
+cool, but it does the damage. And well, there isn't any other option.
+
+{S}***
+     Ah, it's a back throw...kewl damage, tho!
+
+<O.R.>
+
+==============================================================================
+KANGA-MOVES
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ONE TWO UPPER          1,2,1                  h,h,m       6,10,10
+
+Roger/Alex does a left punch, then a right, then an uppercut.
+
+[G.W.] *****
+     This gets ****  because of the quick poking, granted it seems almost
+useless but it is fun to throw in every now and then.  You must buffer the
+chicken on the last 1 because that is the one that is almost ALWAYS 
+reversed.
+This can be a good damage tactic too..Just throw the 1,2,1 and wait the
+reversal. Also there is the opportunity to put the Giant Swing after the 2
+because of the fact that the reversal generally comes at the last 1. If this
+is done, you put your opponent into a Giant Swing which will do DAMN good
+damage if they don't recover...there is of course the recover that takes the
+damage down by half..
+     I use this move for exactly what it says above. The real damage comes
+from getting in close, and a lot of the time, you can do a nice Animal 
+Godfist
+if you get under your opponent with the crouch. Learn to get in close with
+this move and you will be rewarded.  As for the Giant Swing part..There can 
+be
+some nasty things happening with this one. It seems, that all those Jin 
+lovers
+love to reverse the last hit.  Well now, won't it be funny when they run 
+into
+a giant swing. And when they duck because they expect a giant swing, 
+remember
+the last 1 is a uppercut mid hit. This is not an abuse 'em move like d+1,2.
+That is my favorite poke in the game. But don't hesitate to use this.
+
+{S}***
+     I'm not really into this move, if only because of the low damage and 
+the
+h,h, starting...It's kewl to throw out a 1,2 every now and then, but it 
+could
+easily get you punished...d+1,2 is still my fave Roger poke...
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+CROUCHING UPPER        D,D/F,2                m           20
+
+Roger\Alex simply does a smallish uppercut.
+
+[ G.W.] ***
+     This is a fast little number to snail crouching opponents, or to come
+out of a Crouch. Good recovery and damage.  Fast, but I always forget about
+it. It juggles too, so you can do some mean little bits and pieces on the 
+end
+of it. =)
+
+{S} ***(*)
+     You're wide open afterwards, so it's a bit risky, but if you can get it
+off, by all means...and remember to juggle afterwards =)
+(ya get a -12 disadvantage when blocked, not horrible, but not great
+either...Ug was right, tho, it *is* one of Rogers few launchers, and you can
+come out of a crouch with it, so I added a *)
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ELBOW STING            d/f+1                  m           15
+
+Roger/Alex does a rather hard and good distanced elbow downwards on top of 
+the
+opponent...
+
+[G.W.] ****
+     This is an Elbow. On a good connect it knocks the opponent flat on
+his\her face and leaves OODLES of time for good follow ups, some of which
+consists of the d+3+4, d/f+3+4 and also the d/f+1+2. These are all good 
+follow
+ups, and all work if the opponent is grounded. This move is generally used 
+to
+stop a constant assault were you have been forced to turtle and need
+initiative.
+     This is also a good poke to pull off when you want to annoy your
+opponent, because of the slight guard stun it causes. Also, being an elbow, 
+it
+can't be reversed.
+     Well this is a move that has good range, and ability to be an effective
+one in strings. I am not saying abuse it, cause that would be silly, but
+still, when your stuck in the turtle position (One that,in my opinion, you 
+do
+not want to be in) use the Elbow Sting to hammer your opponent and go in for
+the kill once again. Later on in the faq, we will show you custom strings of
+ours, that can help in the annihilation of your opponent.. Tehehehe...
+
+{S} ***
+     It's kind of neat looking, but Roger doesn't gain much after doing 
+it...
+kewl guard stun, and stuffing an opponents attack is always nice, so I'd 
+rate
+it an average move.
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ANIMAL GIGATON PUNCH   f,f,N+1                m           23
+
+Roger\Alex leans back (ducking) and then drives a hard punch into the
+opponents ribs...
+
+[ G.W.]  ***
+     This moves new to TEKKEN TAG TOURNAMENT and does an excellent amount of
+damage, it has a slow start up, and a lot of characters won't be hit by 
+this.
+When they do get hit by it, they have the tendancy to go flying backward
+rather fast. It has a very good range also, it ducks the high attacks that 
+are
+coming in. This is a good distance move for those people tagging and you 
+need
+a good move to nail the person running in.
+     I try not to use this move, unless completely necessary.  It is slow 
+for
+a start up, as far as I am concerned, and also can be easily sidestepped,
+resulting in some nasty damage to you.  This is an amusing device, however, 
+on
+those who like to tag a lot. The F,F motion makes it's range that ever so
+slightly longer, and can make this move a good one also for 10-String 
+freaks.
+     When you are ready for the high attack of a 10-String, just throw this
+move at them and watch 'em go flying backwards. Otherwise, there are no real
+good follow ups. And as for all the rest.. I just don't use this. =)
+
+{S} ****
+     I actually use this move pretty often....it's safer than the Animal
+Godfist, hits mid, and has a mean stagger when blocked.  Try and use it on
+rising opponents...if they try and roll, tag, or back up, it shoots them
+across the screen.  If they block, they stagger, and you're still on the
+offensive, which is perfect.
+     {For starters, throw this one in after the SS+4,d+1,FC+1+2 combo...time
+it for when they get up...then watch'em fly.}
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ANIMAL GODFIST         f,N,d,f+1              m           50
+Roger\Alex crouch dashes and then lets off with a rather large and nasty
+uppercut....
+
+[G.W.]  *****
+     This move is essential to Roger\Alex, without this move Roger\Alex would
+not stand a chance against alot of characters. First of all,  it has good
+distance. The move goes under high attacks and does very good damage. Also,
+Roger\Alex are VERY well known for their Guard Breaks. The guard breaks are
+what makes these characters who they are. The damage also from the Animal
+Godfist is unforgiving.
+     I have the tendancy just not to use this move, its up to you with this
+one, and really I don't know much of it. I have never seen it in a juggle, so
+really there  is not much point. I don't know. I wouldn't use it, but 
+perhaps if you like it use it. I am not saying this is a bad move, and I am
+not saying I have not been hit by it. But I am saying I have not found a good 
+use for it. =)
+
+{S} ****
+     If you *can* use this move, USE IT!  create an opportunity, whether it
+be bulldogging your opponent 'till he tags and Godfisting his partner, or the
+{WP}~Animal Godfist guardstun combo, or whatever. DO IT.  Also, the Jacks and
+the Bears get smacked on the ground by it (SS+4,Godfist)...kind of evil, but
+whateverz, you're playing Roger...anything goes *grinz*
+
+(p.s., Ganryu is *not* considered a big character in this instance...Fatass 
+is
+FAST, so be careful)
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ANIMAL SMASH (a)       f,N,d,d/f+1+2          m           22
+
+Roger\Alex crouch dashes, before charging slightly, then doing a vicious
+headbutt...
+
+[G.W.]  ***
+     He has a little bit of lag to hit with the move up, otherwise its pretty
+simple. He simply rushes toward you, lowers his head, and rams it into your
+stomach. It knocks the opponent backward and does good damage too. There is a
+very good recovery time to this move also. The best part of this move is it
+hits large grounded opponents.
+     Well, its not my type of move. I think that the little lag time at the
+begining is too much, and the better option is the AGF.  Otherwise this is a
+good move for long distance wake-up games.. Heheheheh. (HINT HINT)
+
+{S} ***
+     Kind of weird...you might as well toss it out every once in a while, 
+just to keep'em on their toes, but I'd almost rather CD, SS, FC+1+2 as a
+mixup...it's not *quite* tricky enough (IMHO)  to get 4 *'s...
+     Final Note:  if you're feelin' REAL badass, remember that this goes 
+underhigh moves...with good timing, you can slip it under and knock someone
+on their ass...
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ANIMAL SMASH (b)       FC+1+2                 m           22
+
+Roger\Alex charges slightly, doing a vicious headbutt...
+
+[G.W.]  *****
+     This move deserves a section on its own VS it's crouchdash brother. This
+version can be utilized while ducking and does not have the seeming lag time
+that the crouchdash one has. It is fast, effective, and knocks the opponent
+back on hit. It has plenty of follow ups and is a very mean move to pull 
+off.
+The damage is nothing to laugh at either. It also hits large downed opponents.
+     This move is a very utilized one in my arsenal and should be in most
+peoples too. The range on this thing is too good to pass up, and its speed
+makes it brilliant. It hits mid, even better, and has a wicked recovery 
+time.  It even hits grounded opponents.
+     WOW. This has the making of an exellent move! I use it a lot, and it 
+has won me many games that have looked hopelessly lost.
+
+{S} ****
+     22pt retaliation for a whiffed throw...yayyyy!  Keep this in mind when
+someone does anything close in that leaves them open for a few frames...it's
+nice damage, and gets you on the offensive...Stuff 10-hits with this, btw...
+(you know when the high hits come, right!?!?)
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+LOW JAB ~ UPPERCUT     d+1,2                  sm,m        5,15
+
+Roger\Alex do a simple low jab before hitting with a nice uppercut...
+
+[G.W.]  *****
+     It is simple a really good poking device that It can't be left out of
+Rogers\Alex's arsenal. Pokes are CRITICAL for Roger\Alex, because of the 
+speed of their jabs, and also, a poke can set it up for the unblockable Animal
+Godfist.
+     Well, not much to say here, all of its explained above I think. Just
+don't forget poking and it's abilities.
+
+{S} *****
+     Use this...a LOT.  It's only chip-away damage, but it adds up quick.
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+WIND MILL PUNCH        f,N+1                  h           30
+
+Roger\Alex "rolls" one hand over another before leaning forward, and hitting
+the opponent with his fist.
+
+[G.W.]  *****
+     If it hits it does good damage, and leaves room for followups like the
+Ali Kicks.. It has a hypnotic motion, and looks very cool. It does have a
+slight lag, but leaves the opponent in nasty stun if blocked. It also hits
+the opponent quite a distance, so any follow ups, you must chase your
+opponent.
+     Now this move has style, looks, and guard stun. A little slow, but many
+times I have seen an opponent hypnotized by the movements, and easily block
+it....only to eat the AGF. The AGF is unblockable if this move is blocked.
+Just do the AGF straight away. The opponent will sort of lumber backward and
+then eat the fist. There are other follow ups too, you can do the Ali kicks 
+as
+well, but that doesn't have the cool sparkly stuff. ;) Yeah, this is also a
+bad move to do because of the slight lag time. It means your opponent has a
+free hit. It also hits high, and can be sidestepped. So really, use this 
+when
+your opponent isn't expecting it.
+
+{S} ****
+     This move would be useless, if not for the *nasty* blockstun and the
+style points.  If they duck or SS, you're gonna get hurt. If it hits, it 
+hits
+for 30 pts.  If it's blocked, it hits for 50 pts. {we'll explain later}
+     The **** rating is simply for the fact that it's one of the stupidest
+moves in the game, yet I {and most likely Grim as well)  manage to slip it 
+in at least once a match...and any move that makes your opponent stop,
+smirk, take 50pts of damage to the chest,  look questioningly at the screen,
+then shake the joystick in frustration, ALL while you're trying to keep a 
+straight face, HAS to be good.
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ANIMAL RUSH TO {WP}    f,f,1,2,1,2,1          h,h,h,h,m   10,15,10,15,20
+
+Roger\Alex rushes forward with a series of jabs, before doing a "Wind Up" 
+and nice hard punch to the mid...
+
+[G.W.]  ****
+     This is a good move, for the reasons that it is fast and furious, and
+even if the oponnent blocks the "windup punch" you can still nail them with
+the Animal  Godfist because of the guard stun. The actual rush itself does
+good damage and is not escape-able if the first few hits connect. Also, the
+hit before the wind up, leaves the opponent stunned, so you may do the 
+windup and do good damage, or stop on the stun and do juggles or whatever
+you please.
+
+{S} ***
+     Use the rush, but stay away from the Windmill Punch part of it...any
+decent player will SS it, or hit you during the Wind-up, or, or, or...you 
+get the picture.  Stick to the 1,2,1...avoid the 2nd 2, it leaves you at a
+negative frame adv, which kinda sux (thx, Noxin)
+     Here's an example of a solid string using this (thx again, to Noxin)
+f,f+1,2,1, 1, d/f+1, d+1,2
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+HEAD 1ST LUNGE         f,f+1+2                h/l         15
+
+Roger\Alex dives headfirst into the opponent and ends up rolling onto his
+feet.
+
+[G.W.]  **
+     The damage is not that great, and the recovery if blocked sucks. Good
+players have the tendancy not to get hit by this either, making it a rather
+useless but amusing move.
+     Buffer the DDT after this. If it is blocked, you will grab them and DDT
+them, thats about all I have to say for this poor excuse for a move. As you
+can see, I  don't like it at all. I think it is one of the worst moves in
+Roger\Alex's arsenal and should be used ONLY for low hitters like EDDY and
+LING, when it gains a high priority.
+
+{S} ***
+     I actually use this once in a while, since  it's pretty nifty for a
+suprise move, and the fact that it can either hit high or low is kinda kewl
+(I usually use it from low-hitting distance) ... try the AKR, then roll 
+back, then Head 1st Lunge...kind of an "in/out" strat.
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+CAPITAL PUNISHMENT     u/f+1+2_F+1+2_f+1+2    m           35
+
+Jumps into the air and lands, hands together, on the opponents head.
+
+[G.W.]  ****
+     This hits mid, and clobbers ducking opponents. It has good range, and
+recovery, and does a slight guard stun. It jumps slightly and can leap over
+sweeps to do the damage to your opponents.
+     This is the EDDY killer. This move can pound Eddy to dust. If you time 
+it right, else you gonna eat his legs. It really needs good timing, and if
+your opponent tags? Well the range on this move is VERY generous, especially
+for its damage. So just use it to deal out the extra damage and get them on
+the ground. It also means that all who think they are going to tag slide are
+in for a suprise.
+
+{S} ***
+     Safe, if they don't SS, or  Jab you out of it if they're quick.  Grim's
+right, use this vs. Eddy's, or anyone who digs laying down for half of the
+game.  Also a good followup move vs. someone who doesn't roll sideways after
+getting knocked down.
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ANIMAL HEADBUTT        d/f+1+2                m           20
+
+Roger/Alex does a downward headbutt...
+
+[G.W.]  ****
+     The Animal Headbutt, short range, looks seemingly useless. It hits 
+ground opponents, stuns blocking opponents, and gives non-blocking opponents
+a good view of the ground, by knocking them to there knees. Not to mention
+it's really fast too... but it's very close range. You can pull off some
+nice looking Ground Attacks with this little number. The Guard Stun is not
+as good as the f,n+1, meaning the AGF won't work after this one.
+     Well now, heres a move which can mean the death of an opponent. I use 
+it in Custom Strings, but other than that, it is very rare I use this on a
+non-ducking or non-grounded opponent. Because that would be like signing a
+deathwish.
+
+{S} *****
+     Excellent move...I was going to keep it at 4 *'s because of lack of
+range, but that's actually pretty normal for Roger.  This works in combo's
+(SS+4,d/b+3,d/f+1+2), or alone in custom strings and stuff. It also hits
+grounded characters, so feel free to run up and punish a Lei'ing (sorry, had
+to) character when the opportunity presents itself.
+     Oh, and it can't be parried. *GRINZ*
+
+(Thx for pointing this out, UG...I see what you mean now...great move.)
+{those wacky Australians are keepin' me on my toes w/ Roger stuff...}
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+JAB ~ UPPERCUT         2,1                    h,m         12,12
+
+Roger\Alex simply does a jab, then an uppercut...
+
+[G.W.]  *****
+     Again, it's the poking factor of the move that stands out the most. Its
+just too damn fast. Roger\Alex needs to rely on these factors of speed to 
+win against big opponents.  Use this to get in close. When there, and if you 
+want to get out again, do the DDT. Or, if your going for the kill, Power Bomb,
+Headbutt and all the rest..
+     This is an inside move. Its to get in close, and nail them with throws
+more than anything else. It can be the most interesting and damaging of all
+the moves on follow ups alone. It can be one of the most anoying moves to 
+have had done against you too..GRRR!! Use this often. The damage from a poke
+like this is just too good to leave behind. There is really no point in
+leaving it out, that would be silly. Use it when people are jumping in, or
+doing power moves.. This is all you need.
+
+{S} ***
+     I seem to get hit after this A LOT.  it's a nifty poke, but be careful
+using it...
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ANIMAL GUT PUNCH       d/f+2                  m           10
+
+Roger\Alex puts his elbow hard into the opponents ribs...
+
+[G.W.]  *****
+     Quick, effective, and non-reversable. This will have 'em tied in knots,
+because of the way Roger\Alex hits 'em in the gut with his elbow. This move
+has good range and is very effective when it comes to speed. And to stop
+momentum there is no better way than to stun them into submission. The
+recovery is good too, so really this is a good one for Custom Strings.
+     Wanna drive someone insane with your constant poking?? But you can't
+because of the damn REVERSAL?? Two options spring to mind. First, buffer
+chickens [hehe,  that will give them a run for their money] the second is 
+this move. There is no reversing it, or punch parrying and all of that. Hehe,
+it is generally a  brilliant move to have lurking in the deepest parts of
+your mind ready to spring, or to abuse and drive your opponent insane. So
+really, use it when someone like Yoshi is doing his stupid backfist spin
+thingy, or Kazuya whiffs an EWGF.
+
+{S} ***
+     {this is actually reversable, thx to Birch for pointin' this out}
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+TAIL TRIPPER           d/b+3                  l           17
+
+Spins around, tripping opponent up with tail...
+
+[G.W.]  ***
+     Slow, short range, back turned momentarily. It hits ground opponents, 
+and has good recovery.
+     Why ***? Because people ALWAYS want to eat it. WHY? I don't understand
+this. Why is it that people don't see it coming?  I just don't know... And 
+it
+is kinda fun to use as a suprise tactic too. And when I say "people" I mean
+scrubs. Forget it against anyone better. This move can be a lot of fun, but
+don't try it if you know  your going to miss. Then again, it can be used to
+annoy an opponent when you are both standing head to head waiting for the
+first attack.. This is just funny because of the way  Roger\Alex stay 
+standing
+up, and does a low hit. That is the main purpose of this move. The opponent
+never sees it coming..
+     That is the real beuty of it. Other than that, stay away from it.
+
+{S} ****
+     Hands down, funniest move in the game...GOOO DISCO KANGAROO!!!  You 
+MUST use this once a match.  You MUST laugh your ass off afterwards.  Roger
+Requirement. {p.s. to get it off consistently, toss it into a juggle combo...
+ex:  u/f+4,1,d/b+3 or SS+4,d/b+3,d/f+1+2}
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+JUMPING KNEE DROP      u/f+3+4                m           40
+
+Roger/Alex Jumps up and lands on opponent with both knees....
+
+[G.W.]  ****
+     [don't use this on a standing player unless your  looking for BIG
+punishment, it causes a little bit of stun, just enough to recover]  This is
+a good move because it does good damage for grounded opponents, without
+leaving you in the lie down position. It also hits mid on standing, so any 
+one
+ducking is going to take damage. Of course any one in their right mind won't
+duck a jumping attack..
+     I use this on Lei players, and Eddys and Lings. Because of the way 
+Roger jumps into the air and lands hard, it is a fun thing to do when they
+are in combination moves, 10-strings, or stances. There is no real guarantee
+of a hit from this if they are lying down. It is a chance you have to take
+for yourself. There are always the options of tech rolling etc, while you are
+trying to crunch your opponent. So be careful. I use this after the ss+4
+sometimes for fun.
+
+{S} **
+     You'll get style points, I guess...that's about it.  {although, come to
+think of it, 40 dmg is nothin' to laugh at...}  Oh well, still way too
+dangerous to use effectively.
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+EXPLODER               3+4_f,f,1+4            m           25
+
+Roger\Alex waits a while, before leaping into the air for a double leg
+dropkick...
+
+[G.W.]  ***
+     Small lag time, good damage, leaves you quite a distance away if 
+ducked, and does good damage. If blocked leaves good time for recovery.
+     I very rarely use this move, unless I think that the lag at the start 
+is necessary. (I.E. Law's d/b+1+2, for that little bit of extra damage.)
+Otherwise, it is also good to time for jumpers, just duck backwards (B,B) 
+and push this in. The lag should allow them to land before hammering them.
+
+{S} ***
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+RUNNING DROPKICK       f,f+3+4                m           25
+
+Roger\Alex leaps into the air for a double leg drop kick...(no lag)
+
+[G.W.]  ***
+     Same as the above, but without the delay at the start of it. This is 
+the somewhat better version that should be used more often when you want the
+opponent to go on the defensive. This is an amusing move for anyone on a 
+combo rush (Lei's f,n+1,2,1,2 etc) Because of  its range and damage, it
+clobbers people who are coming at you with moves like this.
+     This is the one I use more often, because of the no delay. I like to do 
+a lot of ground games, and know that this move is dangerous for the reasons
+of that it leaves you on the ground. However, with some timing, you can land 
+this move for huge amounts of damage, at large distances. Like when an opponent
+tags for instance.
+
+{S} ***
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+SATELLITE DROPKICK     f,f,f,3+4              m           40
+
+Roger\Alex runs along, before leaaing into the air and doing a SPINNING
+dropkick...Very cool looking.
+
+[G.W.]  ***
+     The range of this move is very good. It is better than the ram on people
+like Kazuya with his damn shining fists. And True Ogre with his long arms. 
+It is also good  for closing the gap, and getting in close to an opponent.
+However, it leaves you on your back, and prone. It does good amounts of
+damage, and if blocked has an OK recovery time.
+     This I use often. I just like the way it closes the gap between you and
+your opponent. You can move in for the kill also when a tag is made with 
+this, and the range,  (Being longer than the DropKicks) Are really useful for 
+doing this.
+
+{S} ***
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+STOMACH SMASH          f,f,N+2                l           6
+
+Roger/Alex crouches forward and smashes the opponent in the stomach...
+
+[G.W.]  ****
+     A good move, good stun, and long distace. can have some good follow ups
+too. There is good recovery too. This also hits mid so it is a good move
+overall.
+     There is no reason why this should be left out of an arsenal. The amount
+of damage and follow ups that go with this is too good to pass up. Use it on 
+a whiffed opponent, And watch'em stagger..Hehehhehe..
+
+{S} ***
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+FRANKENSTEINER         d/f+3+4                sm          15
+
+Roger\Alex flips over head first. On a good connect he catches opponents 
+head
+with legs and flips back over planting opponents head into the ground...
+
+[G.W.]  *****
+     This move is one of Roger\Alex's best. It is a very good damaging throw,
+as well as having the tag ability after it. It is fast, and if the opponent is
+standing too close to you, it seems to be unblockable. The only real way to
+stop this move from connecting is the poke. But then there's the hitting
+ground opponents part. With a simple movement you can be on top of a grounded
+opponent for extra damage. This move is especially useful when an opponent is
+doing a lot of low attacks. The range on this move is also very good.
+     The only real downfall to it is if you miss, you are prone to Wake Up
+Games, or a damn good hammering while your on the ground.
+     Never forget this move. This move can do such huge amounts of damage if
+conect on counter its not funny, especially with the tag into another person
+to add to the  damage that it dishes out. The move can be usd when in close,
+or at a small distance, there is guard stun if blocked at a long distance, so
+even though you are on your back, you can still have time to get up.
+
+{S} ****
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ANIMAL KICK RUSH{AKR}  d/b+4,3,4,3,4          m,m,m,m,m   17,17,17,17,17
+
+Roger\Alex falls onto his back, and kicks with his feet.. Roll sideways, or
+backwards are the other two options.... (1 and B)
+
+[G.W.]  *****
+     A lot of people don't know how to block this move.. The first hit is low
+and the rest mid.  This is not a good one to close the gap between you and
+your opponent,  because of the roll back, that is really a good idea to use
+too.. Otherwise your most likely looking at some nasty damage. Anyway, in any
+case. This is a good move  to use on a running in opponent. Unless they
+realize that a slide does good damage to you..
+     Use this on runners. You can plant them nice, and rush 'em too, And the
+damage I have seen come off this is rather nasty to say the least. There is no
+real downfall to this, the roll back on the end ROCKS and can be done at any
+time. It is a VERY good move for his arsenal, and should be utalised when 
+felt necessary.
+
+{S} ***
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ANIMAL JUMPING SWEEP   u+3+4                  l           17
+
+Roger\Alex jumps into the air, and lands doing a "Sweep From Hell"...
+
+[G.W.]  **
+     This is kind of  a weird move.. I think its sidestep counterpart is much
+better for reasons of it is a sidestep. And also it is not as easy to see it
+coming.. This is also a good move, for the reasons of, who is gonna expect a
+sweep from a jump?? And it's certainly a good"Ground Games" move, not 
+letting
+your opponent stand up is  always a mean option. Use this move when you are
+against "get up and hit" happy opponents untill they stop trying to do
+recovery moves.. Every time you catch 'em with this move it will knock them
+off their feet.
+     I hate this move, it is a mockery of the side step, and the point of
+jumping into a sweep is WHAT?? I mean, this move is the worst he has I 
+think, I never use it so I know nothing about it.
+
+{S} ***
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+KONVICT KICK           f,f,4                  m           26
+
+Roger/Alex lunges forward with foot extended...
+
+[G.W.]  ***
+     Pull it out evey now and then depending on  the situation. Its a fast
+kick, good range, and one to throw in here and there..But really there is no
+use for it.  Perhaps for fun, and it has good damage and range..It really
+depends on the situation. If its a charging opponent, this is definitely a
+good move to use.  It will kick hem right back were they came from. Its
+recovery is very good too..
+     This is a good move for reasons of its fast, mid, and good range. It 
+can
+knock an opponent back, which helps too.. Use it for chargers and those slow
+moves that you can nail them on. Hehehehehe..
+
+{S} ****(*)
+     After a few comments (thx again, Ug), and some thought, I moved this up
+to 5 *'s...It's powerful, it stuffs unwary opponents, you can combo into it,
+you can buffer into it (toss it at the end of a custom string sometime,
+guys...buffer the f,f while you're still punching)...it's just a great all
+around move.
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+K'S FLICKER            f,f,2                  m           20
+
+[G.W.]  *****
+     Fast, long range, and strong. All the makings of a good move, and stun 
+on CH so its pretty mean. Good recovery too..
+     This is a fast long ranged move, that does good damage. It can stun on 
+CH too, and leave room for heaps of follow up's.
+
+{S} ***
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ANIMAL SWEEP           SS+4                   l           17
+
+Roger\Alex sidesteps, and sweeps the opponents feet from underneath them...
+
+[G.W.]  *****
+     If  blocked, sweep stop frames, bit of lag when blocked. Sidesteps, 
+goes low, knocks opponent off feet, good damage, ducks hit and mid hits.
+     This move is VERY good. Use it, abuse it, all around annoy people with
+it. Be careful if it is blocked though, it has nasty sweep stun. Otherwise,
+if timed right.. Example, after Kings f+4 or A\Kings B+3. Then you can do
+some mean nasty tricks.. And some of the damage you can pull of in "Ground
+Games" is very good. There are also a few strings later on with this as a
+start..
+
+{S} *****
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+ELBOW DROP             U/F+2+4                m           35
+
+Roger\Alex leap into the air and do a large Elbow Drop...
+
+[G.W.]  ****
+     End up lying on the ground, but do good damage to people playing possom,
+while they lie on the ground. Also hits standing opponents.
+     Good move to do when you are against a LEI. It hits hard too, with a 
+loud thump. So it sounds cool. =)  Use it at your own risk though. Its a 
+dangerous one to use.
+
+{S} **
+     Leaves you waayyyy too open. Style points, I guess, if you can pull it
+off w/out getting whupped.
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+WIND UP PUNCH          b+1                    !           100
+
+Roger\Alex does a really large wind up with blue lights everywere before 
+doing
+a mean power punch...
+
+[G.W.]  *****
+     It is really a fun move to do against people when you have a few rounds
+to kill. But if you are having a serious game, where you are actually trying
+to win...forget this move even exists.
+     It gets its rating for the fun factor. I have actually landed it a few
+times, and have apologized for doing so..And not to mention it was a
+tournament.. Hehehehe.. Use it in desperate times when there is no chance of
+you winning.  This move can do just that, Give you the win.
+
+{S} ***
+     would be two *'s, but it's sooo worth it to hear your opponent curse
+after walking into this one...
+
+<O.R.>
+
+==============================================================================
+Move name              Command                Level       Damage/Note
+---------              -------                -----       -----------
+STANDING LEFT PUNCH    1                      h           6
+Roger\Alex does quick left jab...
+
+[G.W.] 
+
+{S} *****
+     At 8 frames, this is one of the fastest jabs in the game.  It can stuff
+pretty much anything, and rumour also has it that if it hits, you can get a
+free d+1,2 afterwards (I've still gotta check this out)...if I'm reading the
+frame data correctly, there's a 7 frame hit advantage, so only 1 frame for
+them to block before getting stuffed again...
+{then again, I really don't know how to read the frame data yet, so I could
+be talkin' outta my ass on this one}
+     Either way, standing jab rules! USE IT!
+
+<O.R.>
+
+==============================================================================
+{not finished guyz, there are [obviously] more moves than this worth doin' 
+ >=)
+....syn}
+
+So far from experience, we can say that the moves analysed above are the 
+only ones that are worthy to use against high-level competition.
+
+All other moves are either too slow or too risky in terms of reversal and
+parrys.  That does not mean that you cannot use the other moves in the
+movelist. We'll just leave that to you and you will understand soon what we
+mean.
+
+==============================================================================
+8) COMBOS AND JUGGLES
+==============================================================================
+L8r...
+
+(just had to put this in, MIC came up with a SS+4,d/b+3,d/f+1+2 combo...ouch)
+(this isn't organized yet, but mess with the SS+4,d+1,FC+1+2, and the 
+SS+4,d+1,ws+2,d+3+4)
+(also, if someone's come up with something more damaging than the
+u/f+4,1,2,f,f+4, lemme know...)
+
+==============================================================================
+9) TRICKS OF THE KANGAROO
+==============================================================================
+L8r...
+
+==============================================================================
+10) Vs CHARACTER
+==============================================================================
+Roger OWNS big characters! 
+(ok, let the flames begin...)
+
+==============================================================================
+11) IDEAL TAG TEAM PARTNER
+==============================================================================
+Messing w/ Bryan/Roger and Kuma/Roger now...Ling/Roger rocks, and (of course)
+pairing him with the wrestlers is always a good move.
+
+==============================================================================
+12) CONCLUSION
+==============================================================================
+L8r...
+
+==============================================================================
+13) TEKKEN RESOURCES
+==============================================================================
+-INSIDE TEKKEN-
+http://www.geocities.com/TimesSquare/Bridge/2700
+
+-TTT ONLINE-
+http://www.tekkentagtournament.com
+
+-TEKKEN SALUTE-
+http://salute.consolenation.com
+
+-TEKKEN ZAIBATSU-
+http://www.tekken.net/zaibatsu
+
+-GAMEFAQS-
+http://www.gamefaqs.com
+
+==============================================================================
+14) CREDITS
+==============================================================================
+Ug the Caveman:
+         Cleaned it up and kept us honest =)  Great comments, sound advice...
+         Ug also fixed the screwed formatting...basically, he went above and 
+         beyond, all for the love of Roger ;P.  Thank you...
+
+Abrar:   definitely...Kuma/Roger will be UNSTOPPABLE!!!
+
+Castel:  since we're on Zaibatsu EVERY day checkin' moves/combos/strats and
+         since he's such a nice guy...he makes life SO much easier...
+
+StatiK:  thx for the comments and the combo's *grinz*
+
+Noxin:   nifty custom strings, pointed out a high-level prob. w/ the animal
+         rush..thx, dude!
+
+Renick:  pointed out a *glaring* omission.. Roger's .standing left punch
+         RULES!!!
+
+Birch:   Attention to detail *grinz* and good King knowledge, which transfers
+         over to great input and strats...
+
+Namco:   For bringing back Roger...now we can forgive you for Eddy...
+
+...umm, etc...
+
+not done w/ the credits even, but we'll get to y'all *grinz*
+
+==========================
+	THE END
+==========================

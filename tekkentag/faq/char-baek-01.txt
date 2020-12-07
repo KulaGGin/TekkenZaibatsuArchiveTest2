@@ -1,0 +1,468 @@
+TTT Baek Doo San FAQ v.1.0
+By Battousai
+
+Table of Contents
+I.   Introduction
+II.  Moves List
+III. Some Moves In-Depth
+IV.  Flamingo Throw 
+V.   Flamingo Stance Cancelling Techniques
+VI.  Sidestep Mix-ups
+VII. Juggles
+VIII.Credits
+
+
+I.INTRODUCTION
+	
+Let's get this out of the way already: I do not, in any way, claim to be a good/expert 
+Baek player. I just believe that I've played enough to be familiar with him, and in the 
+process be able to give tips and some tricks to other Baek players. (And because there's 
+not a single Baek FAQ on www.tekkenzaibatsu.com)
+
+
+II. MOVES LIST 
+
+GRAPPLING ARTS:
+Command 	Place 		Name 			Damage 		Escape 	Properties 
+1+3 		front 		Hammer Head 		30 		1 
+2+4 		front 		Blue Shark Claw 	30 		2 
+f,f+2 		front 		Cobra Bite 		30 		2 		
+d/b+1+3 	front 		Swordfish Catch 	30 		1+2 
+f+2+3 [~5] 	front 		Human Cannonball  	30 		2 	#1 
+(throw)[~5] 	left 		Snake Revenge  		40 		1 
+(throw) 	right 		Hunting Serpent 	40 		2 
+(throw) 	back 		Starfish Throw 		50 		n/a 
+
+#1 Special Tag Throw with Hwoarang only. Hwoarang finishes with a Neck Snapper. 
+Total damage is 10,25. 
+
+
+
+SPECIAL ATTACKS
+Command			Name				Range		Properties
+
+1,1 			Twin Jabs 			hh 		#4 
+1,2 			Double Punch 			hh 		#4 
+= 3,[~f_~b]  		High Kick [Flamingo]		h 		#3 
+= 3,4<3 [~5] 		Launching Rocket [tag] 		hlm 		JG 
+= 3,3,3,4 		Butterfly Kicks 		hhmh 		CS 
+= 3,3,3,d+4 = 		Butterfly Needle 		hhml 		TS RC 
+= 3,3,4<4<3 [~f_~b] 	Black Widow [Flamingo] 		hhhmh 		#3 
+= 3,3,4<4<4,3 		Silver Mantis 			hhhmhh 		JG GB 
+b+1 			Stealth Needle 			m 		GSc #4 
+SS+1 			Lace Hammer 			m 
+2,2 			Mantis Backhand Spin 		hh 		#4 
+b+2 			Bolt Cut 			h 		KNDc #4 
+f+2 			Mantis Backhand 		h 		#4 
+u/f+2 			Bone Stinger 			h 		KSc GB 
+f,N,d,d/f+3 [~5] 	Wing Blade [tag] 		m 		JG 
+3,4<3 [~5] 		Launching Rocket [tag] 		JG 		#4 
+3,3,3,4 		Butterfly Kicks 		hhmh 		CS #4 
+3,3,3,d+4 		Butterfly Needle 		hhml 		TS RC #4 
+3,3,4<4<3 [~f_~b] 	Black Widow [Flamingo] 		hhhmh 		#3 #4 
+3,3,4<4<4,3 		Silver Mantis 			hhhmhh 		JG GB #4 
+WS+3,3<4 		Wave Needle 			hml 		TS RC 
+WS+3,4<4,3 [~f_~b] 	Eliminator [Flamingo] 	hhmh 			#3 
+WS+3,4<4<4,3 		Hurricane hhmhh 		JG GB 
+(WR_f,f,f)+3 		Leaping Slash Kick 		m 		GB 
+u/f,N 			Baek Hop 			n/a 		n/a 
+= 3,4 			Trick Smash 			hh 
+= 3,d+4<3 [~5] 		Starlight Blade [tag] 		hlm 		JG 
+= 3,3,3,4 		Butterfly Kicks 		hhmh 		CS 
+= 3,3,3,d+4 		Butterfly Needle 		hhml 		TS RC 
+= 3,3,4<4<3 [~f_~b] 	Black Widow [Flamingo] 		hhhmh 		#3 
+= 3,3,4<4<4,3 		Silver Mantis 			hhhmhh 		JG GB 
+(FC_d)+3,3,d+3 		Snake Creep 			LLL 		RC #4 
+(FC_d)+3,3,N+3 [~5] 	Snake Blade [tag] 		LLm 		JG #4 
+f,f+3 			Hunting Axe 			m 		JG 
+u/f+3,4,3 		Hunting Hawk 			mmh 		#1 
+u/f+3+4_3+4 [f_b] 	Flashing Halberd [FS] 		hh #4 
+f,f+4 			Hammer Heel 			M 	
+b+4 			Heel Lance 			m 		SH #4 
+d/b+4 			Heel Axe 			M 		GB SLDc 
+4<4 			Tsunami Kick 			hm 		#4 
+f+4<3 [f_b] 		Heel Knife [Flamingo] 		mm 		FSc #2 #3 
+f+4,4,3 		Triple Threat 			mhh 		JG GB 
+WS+4<4<3 [f_b] 		Albatross [Flamingo] 		mmm 		#3 
+WS+4<4<4,3 		Flame Hawk			mmhh 		JG GB 
+d/f+4~4<3 [f_b] 	Albatross [Flamingo]		mmm 		#3 #4 
+d/f+4~4<4,3 		Flame Hawk			mmhh 		JG GB #4 
+(FC_d)+4,3,3,3 [f_b] 	Baek Rush [Flamingo]		lmmm 		#3 #4 
+(FC_d)+4,3,3,d+3 	Baek Needle 			lmml 		#4 
+b+3 			Flamingo Stance 		n/a 		n/a 
+b+1+2 [~B] 		Punch Parry [Flamingo] 		n/a 		n/a #4 
+d/b+3+4 [b,b]		Heel Explosion [cancel]	        !			
+
+#1 The 2nd hit only executes if the 1st hit connects or is blocked. If the 2nd
+   hit is blocked, the 3rd hit is cancelled.
+#2 Stun on the 2nd hit.
+#3 Going into Flamingo Stance cancels the last hit.
+#4 This move can be done out of Flamingo.
+
+
+
+FLAMINGO STANCE ARTS
+Command			Name				Range		Properties
+
+f,f 			Flamingo Steppin' 		n/a 			 
+b,b 			Flamingo Back Dash 		n/a 			 
+(u_d) 			Flamingo Side Step 		n/a 			 
+2~3 [~5] 		Human Cannonball [tag] 		throw 
+b+3 			Head Crusher 			m 
+(d/b_d_d/f)+3 		Maha Needle 			l 
+3,3,4 			Flamingo Wave Needle 		mml 		TS 
+3,4,4,3 [f_b] 		Flamingo Eliminator [FS]	mhmm 		#1 
+3,4,4,4,3 		Flamingo Hurricane 		mhmhh 		JG GB #1 
+
+Going into Flamingo Stance cancels the last hit. Baek can cancel the Flamingo
+Stance into some of his regular moves regular moves. If you are looking to cancel into a 
+Punch or Right Kick attacks you can just input the proper command. It gets a little 
+trickier if you want to cancel into Left Kick attacks or Double Kick attacks. In order to do 
+this you have to keep holding down Left Kick as you go into Flamingo. For the chart below 
+lets assume you did F+1,2,3 to go into Flamingo and you are now holding Forward and Left Kick. 
+
+Command 		Name 				Range 	Properties 
+4,(release 3),4<3 [~5] 	Launching Rocket [tag] 		hlm 	JG 
+4,(rel. 3),3,3,4 	Butterfly Kicks 		hhmh 	CS 
+N+4 [f_b] 		Flashing Halberd [Flamingo] 	hh 
+d+4,(rel. 3),3,d+3 	Snake Creep 			LLL	RC 
+d+4,(rel. 3),3,N+3 [~5]	Snake Blade [tag]		LLm 	JG 
+d/b+4 			Heel Explosion 			{!} 
+
+The regular moves that can be out of the Flamingo are indicated on the move list with #4 
+note in the properties column.
+
+
+
+III. SOME MOVES IN-DEPTH
+
+I won't be listing all the moves in the moves list since I don't use all of them. I will just 
+include those moves that I use in my game. Each move is given a rating of 1 to 5 stars, with 
+5 stars meaning that the move is very effective (for me, at least). 
+
+1,1 | Twin Jabs | ****
+   What can I say? It's a basic 1,2 jab. It's fast (10 frames), and gives a +1 frame advantage 
+on block. On a hit, it gives +9+9. 
+
+---
+1,2 |Double Punch| ****
+   It has the same use as the 1,1 move, but it gives you a lot of options afterwards like:
+
+   = 3,[~f_~b] |High Kick| ***
+	The *** is for the Flamingo cancel option. 
+
+   = 3,4<3~5 |Launching Rocket| ***
+	This move hits h,l,m, but if you use this all the time, the 4 will get parried. You 
+        can delay the final 3, though, and it's a class 2 juggle starter. Just remember to 
+        delay it once in a while to screw up your opponent's timing.
+
+   = 3,3,4<4<3[~f_~b] |Black Widow| **
+        If your opponent doesn't duck all the highs, then the delayable kicks can be pretty
+        effective. 
+	
+---
+b+1 |Stealth Needle| *****
+   This move is very nice. It's an anti-SS move. It also has Baek doing a SSR during the 
+animation. This move counterhits easily. I don't know why, but it seems to have the priority 
+over a lot of moves. This is very useful especially during your Flamingo SS mix-ups. More on 
+that on the FLAMINGO SIDESTEP MIX-UPS section.
+
+---
+b+2 |Bolt Cut| ***
+   This seems to be an anti-SS move, too. It's like a backfist done in reverse. On a CH, the
+opponent gets knocked down, and you get a free d+3,3,N+3. Some people use d+4,3,3 instead, 
+but it sometimes misses. Try it after a SSL, and if it hits, go for a right side throw since 
+you get a +9 frame advantage. This move is great. Too bad it hits high.
+
+---
+u/f+2 |Bone Stinger| ***
+   It's a bit slow (26 frames) and hits high, but it if gets blocked, you get a +9 frame adv.
+Go for a throw, or it the opponent wises up, do any mid move.
+
+---
+f,N,d,d/f+3~5 |Wing Blade| ***
+   Whereas Bob's CD+4 is a class 1 juggle starter only on regular-sized characters, his 
+master's CD+3 launches even the big robots way, way up. On a tag, that is. If you do a CD+3 
+without the ~5, big characters don't get launched as high. Maybe it's a class 1.5 (no such 
+thing) on biggies. You can use this move pretty often since the opponent gets pushed back a 
+bit if Wing Blade gets blocked, leaving you relatively safe from retaliations. I'll give it 
+**** if only it is as quick as Bob's--23 frames compared to 16. 
+
+---
+3,4<3~5 |Launching Rocket| ***
+   This is the same move as the one listed above. Only this time you get to do the 3,4<3 
+without first doing 1,2. The effect is the same... it's a class two juggle starter. Always
+feel free to delay the 3. Or, you can stop at 4 (recover crouching) and then get into your 
+FC game.
+
+---
+WS+3,3<4 |Wave Needle| ****
+   I use this one pretty often. This is the same as Baek's Flamingo Stance (FS) 3,3<4. The 
+only difference is that the first 3 hits high, while the one from FS is mid. The 4 hits 
+low and it kinda knocks the opponent off his/her feet. If you connect with the 4, you get a 
+free u/f+3+4. 
+
+---
+(FC_d)+3,3,d+3 |Snake Creep| ****
+   This move hits LLL. Nice. Just don't abuse this since more and more people can block the 
+second 3. 
+
+---
+(FC_d)+3,3,N+3~5 |Snake Blade| ****
+   It hits LLm. Mix this one up with Snake Creep. This can drive some people nuts if they 
+can't block it correctly. Experts can see the mix up and block correctly, though. This one 
+is also effective in terms of okizeme.
+
+---
+f,f+3 |Hunting Axe| ***
+   This one is too slow for me. It acts like the Mishimas' f,f+3. You can do a d+3,3,N+3 or
+a d+4,3,3 if you hit with it.
+
+---
+u/f+3,4,3 |Hunting Hawk| ***
+   It's pretty much like Bob's own u/f+3,4,3. It hits mmh, and you get a +7 frame adv. I don't
+think there's anything guaranteed after it. You're safe from retaliation, though. You can do
+this as the opponent tags in if you're too far away for a CD+3.
+
+---
+u/f+3+4_3+4 [~f_~b] |Flashing Halberd| ***
+   This hits h,h, but it's fast. It takes 16 frames to hit, but I've read that the u/f+3+4
+version is one frame faster. If you hit with this the opponent gets knocked down quite hard,
+thus not allowing them to techroll. They can hold F and spring forward, though. Do this move
+after connecting with WS+3,3<4. It combos and if your opponent doesn't hold F, do a CD then a
+f,f+4_d/b+4. It's guaranteed to hit. If he does hold F, he can block either move, so do a CD
+Albatross instead.
+
+---
+d/b+4 |Heel Axe| ****
+   If this one CH's or hits a crouching opponent, I believe another one is sure to hit. This 
+is the move to use if you manage to train the competition to stay on the ground after being 
+juggled. This move hits M, so I think this does more damage on an opponent on the ground 
+rather than one who is rolling away.
+
+---
+b+4 |Heel Lance| ***
+   This one looks like Bob's LFS b+4, only Baek's version doesn't juggle. What a shame...
+This one can be used in okizeme, too, but it's not that great there. You can use this one
+on your FS sidestep game. This one pushes away a BT opponent.
+
+---
+f+4<3[~f_~b] |Heel Knife| ****
+   This one is for playing keep-out. Use it at medium range, since it's a bit on the slow 
+side. You can either delay it, or go into FS. If I'm not mistaken, if the 3 CH's, it stuns,
+and you get a free d/b+3+4 (if the opponent doesn't break out of the stun). 
+
+---
+d/f+4~4<3 _ WS+4<4<3 _ CD+4<4<3[~f_~b] |Albatross| **********
+   This is THE move. It hits mmm, is delayable all throughout, stuns on CH, guaranteed on any 
+hit, and is cancelable into FS. All 3 versions are cancelable into FS if you do a ~f_~b. The 
+best one is WDA (Wavedash Albatross). Yeah, Baek can wavedash, too. Here's a brief explanation 
+of Albatross's properties:
+   Delayable: This move is pretty safe to do all the way even when blocked, but if you're not
+sure, you can just do a CD+4. You can still continue the move even after checking if it gets
+blocked or not. That's how long the delay window is.
+   Stuns on CH: The 3 stuns on CH, and a d/b+3+4 unblockable is guaranteed. Or, you can do 
+another WDA.
+   Guaranteed on any hit: The whole string is guaranteed to hit whenever you connect with the
+first or second 4 (kinda like the Mishima 1,1,2's). Even when you delay the hits, they're 
+still sure to hit.
+
+---
+(FC_d)+4,3,3,3[~f_~b] |Baek Rush| *****
+   The d+4,3 part is a great poking tool. This hits lmmm. At 12 frames, it's pretty fast for 
+a kick attack. This can be very effective in your okizeme tactics. Another plus is it's 
+cancelable-to-FS property.
+
+---
+(FC_d)+4,3,3,d+3 |Baek Needle| *****
+   You can mix this one up with Baek Rush to make your opponent guess how to block correctly
+at the end of the strings. 
+
+---
+b+3 |Flamingo Stance| *****
+   It's a great evasive move. The move has a built-in SSR property to it. 
+
+---
+b+1+2 [~B] |High/Mid Puch Parry| *****
+   I prefer parries over reversals since parries are final and cannot be chickened. What makes
+Baek's pucnh parry even better is that a d/f+2 uppercut is sure to hit afterwards. A word of
+warning: be sure to release the stick to neutral after pressing 1+2 or you'll go into Flamingo
+Stance. If that happens and you're not expecting it, you'll quickly lose the advantage you've
+gained.
+
+---
+d/f+2 |Regular Uppercut| *****
+   IMHO, this is Baek's best juggle starter. It's fast, and is guaranteed after his punch
+parry. It doesn't launch the biggies (except True Ogre?), but you can quickly jab them,
+and they'll float as well as the others. 
+   After a low kick parry, d/f+2 is also guaranteed, but it won't juggle. This is because
+Baek's uppercut can't launch crouching opponents. The uppercut would cause a stagger back
+animation, though, and you can follow-up with an u/f+3+4, provided that you're close enough
+so it won't whiff. Refer to u/f+3+4's entry for follow-ups.
+
+
+
+IV. FLAMINGO THROW
+
+   In order to make you FS sidestep game effective, you have to master Baek's Flamingo throw. 
+It's the same as his normal f+2+3 throw, though when you do it in FS, the escape command 
+becomes 1+2. The moves list says it's done FS 2+3. I don't know if this is true since I can't 
+do it that way. The way I input the command is 
+		
+		F+[2]~3
+
+That is, press 3 immediately after pressing and holding F+2. That may sound so simple, but 
+believe me: lots of people find it hard to do, and I'm one of them. It took me about a week 
+before finally getting the timing down.
+   Practice doing the throw first as soon as you enter FS (b+3). Press b+3, then do F+[2]~3.
+Actually, you don't have to input the command as soon as you are in FS. Try doing b+3, then 
+hold F or B to make Baek hop a couple of times. Then, as he finishes his hop animation, do the 
+throw. It will come out all the time. 
+   You can also do F+[2]~3 after a FS sidestep. The motion is b+3, SSR, then F+[2]~3. 
+   Once you master the timing, try doing the Flamingo throw after you cancel a move into FS.
+The easiest one would be F+1,2,3, [2]~3. All you have to do is press [2]~3 (while still 
+holding down F) a split second after the F+1,2,3. On other FS-cancel moves, the timing gets 
+trickier. You have to wait until you see Baek raise his leg up fully before inputting F+[2]~3.
+   If you have a hard time doing the throw, try pressing [2]~3 a little faster. 
+
+
+V. FLAMINGO STANCE CANCELLING TECHNIQUES
+
+   This refers to Baek's ability to cancel certain strings into his Flamingo Stance. These
+certain strings are all those moves in Section II that have "[~f_~b]" on them. The only 
+attacks that are cancellabe to FS are 3's. That is, all left kicks, which makes sense, since 
+it's his left leg that is raised when he enters FS. When you input a "3~f", what you're 
+actually doing is cancelling the kick, so that instead of kicking [???], you just raise your 
+left leg, and go into Flamingo Stance. Trying to do a [~f_~b] to cancel a string into FS is a 
+bit hard. It requires you to time the [~f_~b] carefully right after you input the last 3 which 
+you are trying to cancel into FS. I say, don't try doing that. There's a simpler way. All you 
+have to do is to make sure that you are holding F as you cancel a string into FS. 
+
+   (Note: F# means holding F until another directional command is to be entered. If there
+    is none, just hold F until the entire command sequence is finished.)
+
+   Let's take Baek's 1,2,3~f Double Punch, High Kick [Flamingo] string as an example: Doing
+what the command says means inputting four commands: 1, 2, 3, and then ~f. You can easily
+time the ~f incorrectly such that the High Kick comes out. So, instead of doing the listed
+command, do F#+1,2,3. That is 1 input shorter than 1,2,3~f. Plus, you're 100% sure that the
+3 is going to be cancelled. The same goes for all the other strings with " [~f_~b]". 
+Cancelling f+4<3, for example, is exactly the same as the Double Punch string. You simply 
+hold F until you press 3.
+   But what about strings which don't start with a F like d+4,3,3,3[~f_~b] or d/f+4<4<3? The
+timing is still pretty easy. You can input and hold F pretty much anytime before the last 3.
+Let's say you want to cancel d+4,3,3,3--you can do d+4,F#+3,3,3, or maybe d+4,3,F#+3,3, or
+d+4,3,3,F#+3. All these commands would cancel the last 3 and make Baek go into FS.
+
+   Now that you're into FS, what moves can you do? Beside all of Baek's FS Arts, you can
+do almost all of his Regular Stance moves. Well, except for moves with more than one
+directional input like f,f+4. Another exception are moves that start with u/f like u/f+2
+and u/f+3,4,3.
+   To input a command with no directional input, you have to press and hold F. For example,
+if you are in FS and want to do a 1,1, you have to do F+1,1. Or, if you did F#+1,2,3, and 
+want to do a simple 4, just keep holding F, and press 4 (that is, F#+1,2,3, 4). The f seems 
+to act like a signal telling the computer that you're doing a regular stance move. Also, you 
+can press b, intead of pressing and holding F. This is useful if you're going to do any move 
+that starts with a "b". Let's say you did b+3 to enter FS and you want to follow it up with 
+a b+4. So instead of pressing f or b, the move already starts with a "b" so all you have to 
+do is input b+4 already.
+   In the case of moves that don't start with a "f" or "b", just do a "f" before entering
+the appropriate command for the move. So, in order to do a d/f+4<4<3 while in FS, do
+FS f, d/f+4<4<3. Or if you entered FS by cancelling a string like d+4,3,3,3, this is what 
+you have to do: d+4,F#+3,3,3, d/f+4,4,3. Again, you no longer have to input an additional
+"f" before the d/f+4,4,3 since the "f" is already taken care of by the F#. 
+   To do moves starting with a "3" while in FS, the input is a bit trickier. What you have 
+to do is to input a 3+4 in place of the "3". So if you're going to do a d+3,3,3 after going
+into FS, you should input b+[3] (to enter FS), d+3+4,3,3. The trick here is to hold down 
+the 3 and then press 4. 
+
+   This is where Baek's infinite strings come in. To do an "infinite string" you basically
+input one FS-cancelable string after another. One example is F#+1,2,3, d+4,F#+3,3,3, d/f+4,
+4,3. Another one, and it's also the easiest, is: F#1,2,3, 1,2,3, 1,2,3, etc. Note: if you 
+can't do the infinite string, your timing is off. You have to wait until you see Baek's 
+left leg fully raised before you input the next string. BTW, just because you can do 
+infinite strings doesn't mean you have to abuse them. I recommend doing just 2 strings in 
+a row. A good one would be CD+4<4,F#3, d+4,3. 
+   Keep in mind that when you do cancel a string into FS, you can always do a FS throw (or 
+a quick d/f+1). Let's say you do F#+1,2,3. Instead of doing another string after the FS 
+cancel, do a [2]~3. Again, you don't have to input another "f" since you're already holding 
+F (because of the F#). I may seem too repetitive, but I just want to give stress to the use 
+of the F# command in Baek's entire FS cancel game.
+
+
+
+VI. FLAMINGO SIDESTEP MIX-UPS
+
+   This part is centered around Baek's double sidestep game. Keep in mind that Baek can
+do only a double sidestep to the right because he has only one Flamingo Stance (left). Input 
+a b+3 to make Baek do a SS to the right, and then do a regular SSR (d, when you're on the 
+left side of the screen, and u when on the other side). After a double SS, you've got a lot 
+of options:
+
+F+[2]~3    --> Flamingo throw. You can train the opponent to duck with this one. Since the 
+	       escape command is 1+2, the opponent may think it's just better to duck it.
+               If you manage to catch them on their left side, always tag out to your
+ 	       partner for extra damage.
+b+1        --> You can do this after a b+3 (single ss) since the b+1 already makes Baek 
+	       sidestep to the right. This hits mid, thus training the opponent to block mid.
+d/f+1      --> This is a quick mid uppercut, and it gives a +1 frame adv. on block. Just
+  	       remember that you have to press "f" before doing the d/f+1.
+f+1,d/f+2  --> If you ever end up behind your opponent after a 2SS, do this. It seems as if
+               the d/f+2 launcher is guaranteed after you connect with the f+1.
+d+1        --> Again, remember to press f first. This one starts your FC game.
+d+4,3      --> A nice poke
+FS 3,3,4   --> This is great when you hit the opponent's side. You are sure that the 
+ 	       low-hitting 4 won't be blocked. just don't be tempted to follow it up with
+               an u/f+3+4 since you will WHIFF most of the time. 
+   
+
+VII. JUGGLES
+
+   A lot of these juggles come from ZAIBATSU'S Baek combo movies.
+
+d/f+2,
+   F#+1,2,3, 1,2,3, N+4
+   F#+1,2,3, 1,2,3, 1,2,3, N+4         (Both hits of 3+4 connect on big characters, while 
+ 				        the second whiff on regular-sized characters)
+   F#+1,2,3, 1,2,3, N+1,2,3,4          (You let go of F so that you don't cancel the last 
+                                        string)
+   F#+1,2,3, 1,2,3, 1,2,[3], d/b+4     (The unblockable hits if the opponent techrolls or 
+                                        tags out)
+   F#+1,2,3, 1,2,3, b+4
+   F#+1,2,[3], d+3+4,3,3
+   F#+1,2,3, N+4~f, FS 3,3,4           (big)
+   F#+1,2,3, 1, CD+4,4,F#+3 *
+   u/f+3+4, d+4,3,3,F#+3 *
+   f+3,3,3,4			       (simple, but does nice damage)
+   
+
+CD+3,
+   b+1, d+4,F#+3,3,3, d/b+4
+   b+4, F#+1,2,3, 1,2,3, N+4
+   
+3,4<3
+   u/f+3+4, d+4,3,3    
+
+FS 3,3,4 _ 3,3,3,d+4 _ WS+3,3<4
+   u/f+3+4, dash in, f,f+4_d/b+4 (if the opponent doesn't hold F)
+   u/f+3+4, WDA                  (if the opponent holds F)
+
+
+* CD+4,4,F#+3 and d+4,F#+3,3,3 are a great way to set up your okizeme game. Do the WDA and
+  cancel the 3 into FS and then do a d+[3]+4,3,3 or a d+4,3,3,F#+3 if the opponent techrolls. 
+  The d+4,3,3,3 string is better since you'll have the chance to repeat it after going back 
+  to FS. If the opponent stays on the ground, do a d/b+4.
+
+
+
+VIII. CREDITS
+
+   A lot of thanks go out to all the people who contributed in the Baek Strats Thread in
+www.tekkenzaibatsu.com's Strategy Forum, but some people there deserve special mention:
+
+1) Kgunsurugi - He's the one who kept on giving out nice tips and tricks, especially those
+   concerning the FS throw.
+2) MacJ_007 - Nice strats, man!
+3) new_blood (formerly known as Cel) - Thanks for starting the thread! 
+
+If you've got comments, or feel that I've missed anything, please write to me at 
+battousai@tekken.cc     Please go easy on me 'cause this is my first FAQ hehe.

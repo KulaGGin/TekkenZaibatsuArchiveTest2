@@ -1,0 +1,4022 @@
+TEKKEN TAG TOURNAMENT KING THE SECOND FAQ (TTT KING II FAQ)
+aka TEKKEN TAG TOURNAMENT "I AM KING II HENCE I RULE" FAQ
+Version 0.010
+January 21, 2000
+FAQ written by $muvMoney/David J. Antoine (david_j_antoine@msn.com)
+Copyright (c) 1999, 2000 $muvMoney/David J. Antoine.  All Rights Reserved.
+http://davidja.tripod.com/faqs/tttkingii.txt 
+http://homepages.msn.com/arcade/smuvmoney/faqs/tttkingii.txt
+
+Unpublished Work Trademarked (tm) and copyrighted (c) David Antoine 1999, 2000.  
+All Rights Reserved.
+
+IMPORTANT: YOU MUST READ AND AGREE TO EVERY PART AND EVERY WORD TO THIS 
+DISCLAIMER.  USE OF THIS FILE CONSTITUTES ACCEPTANCE TO THIS DISCLAIMER.
+
+In no event shall this document be reproduced or retransmitted in any way, 
+shape, or form (including but not limited to physical, natural, or electronic).  
+In no event shall this document be used for HTML, Perl, C++, HTMLScript, Active 
+Server Page Files, JavaScript, Java, or any other forms of webmastering that 
+exist without e-mailed permission from David Antoine.  In no event shall this 
+document be used at a password-protected site where either user accounts are 
+utilized and/or money is made through user accounts. Anyone who wishes to mirror 
+this document MUST make this document freely accessible (meaning no access 
+moderation exist at your site), FREE OF CHARGE (whether if it is through FTP, 
+HTTP, Gopher, Finger, LDAP, Mailto, or any other Internet Standards that are 
+approved by the World Wide Web Consortium), and in its 100% entirety, bugs 
+included.  David Antoine GRANTS NO PERMISSION IF FOR ANY REASON THIS FILE WILL 
+BE USED for any profitable (even if you fail to make any money out of it), 
+promotional, and/or commercial transactional purposes (including but not limited 
+to giving this file as some sort of bonus, gift, or otherwise which constitutes 
+making money out of this file which is illegal) whether the content of this 
+document is good or bad.  No permission will EVER be granted to any publisher, 
+editor, employees and/or associates of any publishing/editing corporation,  
+group, and/or business nor can it be used by any gaming guides, game sites, 
+magazines, guides, books, or any other profitable and/or promotional media that 
+exists IN ANY WAY, shape, form (including reprinting, republishing, OCR'ing, 
+etc.), and the like.  Permission is recommended if he/she wants to mirror this 
+document on his/her site.
+
+Currently, this document is being maintained and is the sole property of David 
+Antoine (david_j_antoine@msn.com).  This document is protected by ALL APPLICABLE 
+copyright and trademark laws, patent laws, and international treaties.  YOU MUST 
+TREAT THIS DOCUMENT LIKE YOU WOULD WITH ANY OTHER COPYRIGHT MATERIAL SUCH AS 
+ADOBE GOLIVE AND ADOBE PHOTOSHOP FROM ADOBE SYSTEMS, INC.  Remember any breach 
+of copyright, trademark, and/or patents (which includes but not limited to 
+plagiarism, stealing, laming, pirating, or otherwise) and failure to adhere to 
+the aforementioned URL and ALL PARTS of this disclaimer counts as unauthorized 
+reproduction and/or distribution (partial or full), resulting in severe civil 
+and criminal penalties, which is punishable through prosecution under the 
+maximum extent possible under the law.
+
+David Antoine acknowledges and respects all copyrights, patents (pending or 
+not), and trademarks whether if it's mentioned or not somewhere in this document  
+as no copyright infringement was intended.  David Antoine also acknowledges and 
+respects all copyrights, patents (pending or not), and trademarks of ALL OTHER 
+FAQ AUTHORS (whether if it's Kao Megura, John Culbert, Henry LaPierre, Josh 
+Harring, Mark Kim, or otherwise) and if for any reason I MUST USE any or all of 
+the document, it will be mentioned somewhere in this document, commonly in the 
+Acknowledgements section of this document.
+
+If for any reason you must use any or all of this document for your own FAQ, 
+please properly give credit where credit is due.
+
+IF FOR ANY REASON YOU DO NOT AGREE TO ALL OF THE TERMS LISTED AT THE URL 
+AFOREMENTIONED ABOVE AND/OR IF YOU DO NOT AGREE TO THIS DISCLAIMER, then you 
+must destroy this document at all costs.  Tekken, Tekken 3, Tekken Tag 
+Tournament, King, King The Second, Armor King and all other related events and 
+objects are registered trademarks and copyrighted (c) Namco.  All Rights 
+Reserved.  This document was carefully prepared and created by David Antoine in 
+respect to all Namco Properties, as no copyright infringement was intended.
+
+I'll make this clear: This document is MINE and there is NO UNAUTHORIZED USE of 
+this document at any cost!!!  You are free to mirror this document at your web 
+site, but IT MUST BE SHOWN IN ITS ENTIRETY AND IT MUST REMAIN 100% ORIGINAL AND 
+UNTOUCHED.  Feel free to distribute this document BUT IT MUST BE DISTRIBUTED 
+ELECTRONICALLY AND FREE OF CHARGE.  I didn't create this document so that some 
+lamer will come around and steal this work and/or have a Gaming Mag Company 
+(namely EGM, who's been making blood money from some Tekken 3 FAQs back in 1997) 
+print this document into a magazine.  NO MONETARY COMPENSATION CAN BE MADE FROM 
+THIS DOCUMENT AND THAT'S THE BOTTOM LINE.  ONE FINAL FOOD FOR THOUGHT: THE 
+DOCUMENT MUST BE FREELY ACCESSIBLE WHICH MEANS NO PASSWORDS, NO USER ACCOUNTS, 
+NO CHACHI CAN BLOCK ACCESS TO THIS DOCUMENT!!!
+
+Game Cave: KEEP YOUR HANDS OFF THIS FILE AT ALL COSTS!!!  I'VE HEARD THAT YOU'VE 
+BEEN MAKING BLOOD MONEY OUT OF SOME PEOPLE AND WE ARE GETTING SICK AND TIRED OF 
+YOUR MISCHIEF.  THIS WORK IS MINE AND IF YOU EVEN DARE USE THIS WORK TO MAKE 
+MONEY OUT OF IT, I WILL TELL YOUR PROVIDERS TO SHUT YOU DOWN FOR GOOD.
+
+Note: This copyright is shared with Kao Megura's and Mark Kim's well-placed 
+copyright except that Mark decided to make the copyright a little more severe.  
+Notice that Mark Kim as well as I acknowledges ALL of Kao Megura's works and 
+admires his work and I wanted to imitate his copyright.  This copyright that 
+you see is similar to Mark Kim's copyright on his LA Machine Guns Anti-
+Terrorist Manual.
+
+################################################################################
+# TABLE OF CONTENTS                                                            #
+################################################################################
+
+CHAPTER I - INTRODUCTION
+     What Is This?
+     Where To Find This FAQ
+     Special Thanks
+          Special People
+          FAQ Writers/Contributors
+
+CHAPTER II – MOVES & ANALYSIS
+     Introduction To Tekken Tag Tournament
+     Introduction To King The Second
+     Legend
+          General Notation
+          Joystick/Button Layout 
+     Universal Moves
+          Moving & Blocking
+               Basic Movement
+               Blocking
+               Crouching/Crouch Dashing     
+          Throws
+          Ground Recovery
+               Tech Recovery
+               Normal Recovery
+          Tag
+          Special
+               Running
+               Jumping Attacks
+               Tackle
+               Miscellaneous
+     King The Second Throws
+          Front
+          Side/Sidestep
+          Crouching/Mid
+          Back/Behind
+          Ground
+               Face Up/Feet Towards
+               Face Down/Feet Towards
+               Face Up/Feet Away
+               Face Down/Feet Away
+               Face Up/Side
+               Face Down/Side
+          Multi
+               Reverse Arm Slam/Reverse Stretch Special Bomb/Cannonball Buster
+               Standing Heel Hold
+               Arm Breaker
+               Ultimate Tackle
+               Throw Away
+               Pile Driver
+               Stomach Smash
+     King the Second Reversals
+     King The Second Arts
+          Punch/Body Attacks
+          Kick Attacks
+          Unblockable Attacks 
+     King The Second Hit Strings
+
+CHAPTER III - JUGGLES
+     Hop Kick/Crouching Uppercut/K's Flicker
+     Leg Breaker
+     Right Kick
+     Elbow Sting
+     Black Bomb
+     Knockout Punch/Stomach Smash
+     Tag
+          Tag Juggle Classes
+          Tag Juggle Starters
+          Tag Juggles 
+
+CHAPTER IV - VS STRATEGY
+     General
+          Okizeme
+          Countering
+          Recovery
+          Poking
+          Crouch Dashing
+     Vs CPU
+     Vs Human
+          Mishimas & Kazamas
+               Jin Kazama/Devil Jin
+               Kazuya Mishima
+               Heihachi Mishima
+               Angel/Devil
+               Jun Kazama
+               Lee Chaolan
+          Martial Arts Wannabees
+               Forrest Law
+               Lei Wulong
+               Eddy Gordo/Tiger Jackson
+               Paul Phoenix
+               Hwoarang
+               Baek Doo San
+               Bryan Fury
+               Ling Xiaoyu
+               Bruce Irvin
+          Aint Nuthin But A Chang Wang
+               Julia Chang
+               Michelle Chang
+               Wang Jinrei
+          The Williams Sisters
+               Nina Williams
+               Anna Williams
+          The Jacks Of All Trades & Spades
+               Gun Jack
+               Jack-2
+               Prototype Jack
+               Ganryu
+               Kuma/Panda
+          The Kings Of Giant Swing
+               King
+               Armor King
+               Alex/Roger
+          The Mitsus
+               Yoshimitsu
+               Kunimitsu          
+          The Ogres
+               Ogre
+               True Ogre
+          Mokujin/Testujin
+          
+CHAPTER V – MISCELLANY
+     Biography
+     Apparel
+
+CHAPTER VI - BIBLIOGRAPHY
+     Acknowledgements 
+     What's New In This Version 
+          Version 0.010
+          Version 0.009
+          Version 0.008
+          Version 0.007
+          Version 0.006
+          Version 0.005
+          Version 0.004
+          Version 0.003
+          Version 0.002
+          Version 0.001
+          Upcoming
+
+CHAPTER VII - EPILOGUE
+
+################################################################################
+# CHAPTER I – INTRODUCTION                                                     #
+################################################################################
+
+=================
+= What Is This? = 
+=================
+
+Welcome to my Tekken Tag Tournament King The Second FAQ (TTT King II FAQ).  This 
+FAQ has information on King's new and old moves in TTT.  It also has a lot of 
+information on universal moves to TTT as well.  This FAQ is a work in progress.  
+If you have any feedback, email me (david_j_antoine@msn.com).  Enjoy.
+
+==========================
+= Where To Find This FAQ =
+==========================
+
+This FAQ can be found at GameFAQS (www.gamefaqs.com) and my web site:
+
+http://davidja.tripod.com/faqs/tttkingii.txt
+http://homepages.msn.com/arcade/smuvmoney/faqs/tttkingii.txt (mirror)
+
+==================
+= Special Thanks =
+==================
+
+This FAQ is not possible with the following people and resources.
+
+------------------
+- Special People -
+------------------
+
+God: For allowing me to grace this earth and blessing me
+Family: For birthing, raising, loving, and tolerating me
+Myself: For finally deciding to write a TTT King FAQ
+
+----------------------------
+- FAQ Writers/Contributors -
+----------------------------
+
+FAQ Writers: Vesther Fauransy, Catlord, Tragic, AL X, Beamer, dfdp5, n00body, 
+CyberKow, Kingp82000@aol.com, Y.N. Lo, Slikatel, Notti, K.C. Ma
+Web Sites: Tekken Zaibatsu, Tekken Salute, GameFAQs, TTT.com, Fighters.net
+Publications/Other: Versus Books, Ben Cureton, EFNet IRC channel #tekken
+FAQ Feedback: Those who have emailed me commentary and feedback on my FAQ
+
+################################################################################
+# CHAPTER II – MOVES & ANALYSIS                                                #
+################################################################################
+
+=========================================
+= Introduction to Tekken Tag Tournament =
+=========================================
+
+If you need further elaboration on TTT, I suggest the following:
+
+Tekken Zaibatsu: http://www.tekken.net/zaibatsu
+Tekken Salute: http://salute.consolenation.com
+TTT Official Web Site: http://www.tekkentagtournament.com/
+Fighters.net: http://www.fighters.net/namco/tekken/index.html
+Catlord's TTT Movelist: http://tekken.net/catlord/ttt/tttmoves.txt
+
+These web sites deal with TTT and Tekken 3.  These sources should get youa 
+acclimated with TTT.  The first three sites have forums where you can discuss 
+TTT.  You can find me on those forums as "SmuvMoney".
+
+"The Official Tekken 3 Ultimate Guide – Arcade Edition" by Versus Books 
+(http://www.vsbooks.com)
+"The Unauthorized Tekken 3 Fighting Guide (for Playstation and Arcade)" by Ben 
+Cureton (Tragic) 
+
+Even though these books were written for Tekken 3, there are enough similarities 
+between Tekken 3 and TTT that warrant their usefulness.  However, I'm not sure 
+if you may be able to find copies of either guide at this time.
+
+I write this FAQ from the perspective that you have little knowledge about King 
+II but some knowledge about TTT.  If anything goes over your head, you can 
+probably find information on it from any of the above sources.  You can also 
+view the Acknowledgements under BIBLIOGRAPHY for more sources of information.
+
+===================================
+= Introduction to King The Second =
+===================================
+
+King the Second (King II) is the successor to King I, the Mexican wrestler in 
+Tekken 1 and 2.  According to the Tekken 3 story, King I is killed by Ogre.  
+King II dons the jaguar mask to help the orphanage that King I left behind.
+
+In case you're wondering why I choose King, it's simple - He is King; hence he 
+RULES! =D Seriously, King II is a grappler first and foremost, but don't let 
+that stop you from using his other moves.  He juggles well and can keep an 
+opponent frustrated while standing or on the ground.  King can beat his opponent 
+without throws - the threat of a throw can mess up your opponent's game.
+
+==========
+= Legend =
+==========
+
+The format is loosely based on Catlord's and Tragic's numeric Tekken notation.  
+
+--------------------
+- General Notation -
+--------------------
+
++: Perform simultaneously           _: Or
+,: Perform next motion              ~: Perform next motion immediately
+=: Perform next sequence            <: Can delay next sequence
+...: Perform repeatedly             *!*: New move in TTT (not in Tekken 3)
+***: Multithrow starter             {}: Throw escape
+
+WC: While Crouching                 WS: While Standing (from crouch)
+WR: While Running                   BK: Back Turned
+TR: Tech Recovery possible          RC: Recovers crouching 
+
+JG: Juggle Starter                  BN: Bounce Juggle Starter
+CH: Counter Hit                     SH: Stagger when Hit
+ch: Counter Hit Modifier (JGch)     cr: Crouching modifier (JGcr)             
+GB: Guard Break                     SB: Opponent shows side if blocked 
+KS: Knee Stun                       HS: Hunch Over Stun
+BS: Low Block Stagger               CS: Crumple Stun
+FS: Fall Over Stun                  TS: Trip Stun
+GS: Gut Stun                        LS: Lift Stun
+CF: Crumple Fall                    CFS: Crumple Fall Stun
+OB: Opponent shows back when hit    OS: Opponent shows side when hit 
+KD: Knock Down on hit               TJC#: Tag Juggle Class (followed by a #)
+       
+H: Hits high/can be ducked          L: Hits low/must be blocked low
+M: Hits mid/must be blocked high    sM: Hits mid but can be blocked low
+G: Hits grounded opponents          U: Unblockable (must be avoided!)
+BK: Your Back Turned                B: Behind Opponent
+S: Side                             F: Front                     
+T: Throw                            SS: Sidestep
+SSU: Sidestep Up (u~N)              SSD: Sidestep Down (u~D)                 
+SSL: Sidestep Left                  SSR: Sidestep Right
+
+FU/FT: Face Up/Feet Toward          FU/FA: Face Up/Feet Away 
+FD/FT: Face Down/Feet Toward        FD/FA: Face Down/Feet Away
+FD/S: Face Down/Side                FU/S: Face Up/Side
+
+--------------------------
+- Joystick/Button Layout -
+--------------------------
+
+           1P                                   2P
+            
+UB  U  UF                            UF  U  UB   
+  O O O                                O O O
+   \|/     (1)  (2)  (5)                \|/     (1)  (2)  (5)
+B O-O-O F                            F O-O-O B
+   /|\     (3)  (4)                     /|\     (3)  (4) 
+  O O O                                O O O
+DB  D  DF                            DF  D  DB        
+
+u,d,f,b/U,D,F,B: Tap/Hold direction  N: Neutral (no joystick direction)
+QCF: Quarter Circle Forward (d,df,f) HCF: Half Circle Forward (b,db,d,df,f)  
+QCB: Quarter Circle Back (d,db,b)    HCB: Half Circle Back (f,df,d,db,b)
+
+1: Left Punch                        2: Right Punch 
+3: Left Kick                         4: Right Kick       
+5: Tag                               []: Hold button(s) down
+ANY: Any button except Tag           ALL: 1+2+3+4 (All except Tag)
+
+These are the assumed column headings for the moves in this FAQ:
+
+Name                                Command                 Properties/Escape
+
+===================
+= Universal Moves =
+===================
+
+Not knowing how to use moves universal to TTT can be sometimes be the difference 
+in close matches.  This section breaks those moves down.
+
+---------------------
+- Moving & Blocking -
+---------------------
+
+This may be a little basic for some people, but it gets more complex later.
+
+~~~~~~~~~~~~~~~~~~
+~ Basic Movement ~
+~~~~~~~~~~~~~~~~~~
+
+Move Forward                        f_F                                  
+Dash Forward                        f,f                                 
+Run                                 f,f,f_f,F               WR
+
+Dashing and moving forward give range to your moves especially those with an f,f 
+motion.  If you do the f,f motion slowly, you'll get more range.  Do it quickly 
+to do it faster.  Certain moves can only be done while running (see below).
+
+Move Backward                       b                                   
+Dash Backward                       b,b                                 
+
+Even though I don't encourage this as a general strategy, you can dash backwards 
+to avoid attacks.  However, you will be unable to block for a moment.  You can 
+instead throw out attacks and even sidestep during the lag.
+
+Sidestep                            u~N_d~N                 SS
+
+Added in Tekken 3, sidestepping allows characters to avoid moves when used 
+correctly.  All characters have moves that can be only initiated from a 
+sidestep.  Sidesteps can set up side throws and juggles.  However, a poor 
+sidstep can cause you to walk into an attack and eat minor/major counter hit 
+damage.  In general, if the opponent throws out a move using a right limb that 
+will hit you on your left side, you sidestep to your right (SSR) and vice versa 
+for your opponent's left limb attacks (SSL).  Some moves can not be sidestepped 
+(Yoshimitsu's 3_f+3) while others can be avoided with an SSL or SSR (Armor 
+King's f+1+4).  However, this should work to avoid most moves.  Check the chart 
+below to show you how to SSL/SSR based on what direction you're facing:
+
+     SSU  SSD
+   +----------+ 
+1P | SSL  SSR |
+   |          |
+2P | SSR  SSL |
+   +----------+
+
+Hop                                 ub_u_uf                             
+Jump                                UB_U_UF
+
+A hop is a short, quick leap.  A jump is a higher, further leap.  You can jump 
+over your opponent, but you can't hop over unless they are grounded AFAIK. 
+
+~~~~~~~~~~~~
+~ Blocking ~
+~~~~~~~~~~~~
+
+Passive High Block                  N                       sM_M_H      
+Active High Block                   b_B                     sM_M_H      
+Passive Low Block                   d_D                     sM_L        
+Active Low Block                    db_DB                   sM_L        
+   
+Second in importance to basic movement is blocking.  Passive or neutral blocking 
+works for one or two hits especially if the opponent is stringing attacks.  At 
+that point, you will need to active block appropriately to avoid taking damage.
+
+Low Parry/Thrust Block *!*          df                      sM_L        
+
+New to TTT, all characters now have a low parry.  Simply move the joystick to df  
+when a low or special mid attack is about to hit you.  Unlike other parries, it 
+has no miss animation.  It leaves the opponent stunned for a short time but no 
+attack is guaranteed.  If you mistime the low parry, you will probably get hit.  
+However, learning to use this can save you a lot of worry about high/low mixups.  
+It is best used on moves that you know are coming that special mid or low. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Crouching/Crouch Dashing ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Crouch                              db_d_df                 WC               
+Crouch Walk                         DB_DF                   RC WC
+
+The crouch evades all high attacks and throws.  All characters can walk forward 
+or backward while crouching without a crouch dash.  Simply hold DF_DB and your 
+character will take baby steps in the appropriate direction while crouching.
+
+While Crouching                     DB_D_DF                 WC            
+Modified WC                         d~db_d~df               m-WC            
+
+Many moves can only be done from a crouching position.  When your character is 
+in a full crouch (WC), it can perform the attack.  However, there is a quicker 
+way to do WC moves.  You can go to down and then go to db_df to do the move.  
+This is especially true for moves that have a WC,df motion - you can do a d,df 
+or DF motion to execute it without having to wait for a full crouch animation.
+
+Crouch Dash                         f,N,d,df                            
+Rolling Dash                        d,df,f
+Sway                                d,db,b[~N]                          
+
+There are several characters that have a crouching version of a forward dash, a 
+crouch dash.  The character will quickly advance while keeping their head low, 
+which avoids high and some mid attacks.  Many characters including King can set 
+up many throws and attacks from a crouch dash.  Some characters have a rolling 
+dash, which is similar to a crouch dash except it recovers high.  Other 
+characters have a backward crouch dash or a sway.  The opponent will dash 
+away and/or lean back while crouching before standing up and attacking.
+                    
+While Standing                      WC~N                    WS                            
+Modified WS                         N,d,df,N_N,d,db,N       m-WS                                
+Rolling Modified WS                 N,d,df,f_N,d,db,b       m-WS                               
+
+Many moves can only be done while standing (WS) from a crouch (WC).  However, 
+other methods for WS moves are possible in TTT.  If you perform a N,d,df~N+ANY 
+motion, you perform a WS move even though you didn't fully crouch.  Your 
+character bobs down slightly and then pops up and does the WS move.  The 
+"modified" notion (m-) comes from the fact that you are never fully crouched.  
+It is based from a similar principle in Virtua Fighter.  The neutral at the 
+beginning is technically optional but makes it easier to do.  Note that this 
+motion is almost the same as a crouch dash or sway except for a last step.  In 
+fact, you can do a WS move out of a crouch dash/sway (if your character has 
+one), which makes perfect sense since the motions are so alike.  You can do a 
+QCF_QCB to do some WS moves.  However, if the character already has moves that 
+use QCF_QCB, you will not get WS moves using this method  - you will perform the 
+other move instead.  An example would be Paul's Death Fist (d,df,f+2).  If you 
+want a m-WS+2 Palm Lift, then perform a N,d,db,b+2 or N,d,db,N+2 motion.  
+
+----------
+- Throws -
+----------
+
+Left Front Throw                    1+3                     Left FT {1}  
+Right Front Throw                   2+4                     Right FT {2} 
+Tag Throw *!*                       2+5                     Tag FT {2}   
+
+Each character has at least 7 throws for standing opponents: left front, right 
+front, generic tag, left side, right side, back, and at least one other front 
+throw.  The generic tag throw allows you to switch partners safely while 
+damaging your opponent.  It is an over-the-shoulder toss into a pounce or ground 
+attack by the partner.  There are other team/partner specific tag throws.
+
+Left Side Throw                     1+3_2+4                 Left ST {1}  
+Right Side Throw                    1+3_2+4                 Right ST {2}
+
+Each character has side throws from the opponent's left and right.  Some side 
+throws allow a tag out.  To avoid a side throw, escape with 1 if they are on 
+your left or vice versa with 2.  To set up a side throw, you can sidestep an 
+opponent or hit the opponent with a move that forces their side to you.
+
+Back Throw                          1+3_2+4_2+5             BT {-}       
+
+All back throws are inescapable, but they can be crouched under except for the 
+tackle.  Every character has at least one back throw. If you use the tag throw 
+from behind, you don't tag throw the opponent – you do the 2+4 back throw.
+
+Reverse Throw                       BK 1+3_2+4              BKT {1_2_-}  
+
+The opposite of a back throw is a reverse throw.  It is a throw peformed while 
+your back is turned.  The ensuing throw is the same throw the player would 
+do if not turned around.  The escapes are the same as your standard throws.
+
+-------------------
+- Ground Recovery -
+-------------------
+
+Unfortunately, there will be times when you are on the ground trying to get up.  
+If you have trouble getting up without your opponent tagging you a few times 
+first, then this section is right up your alley.
+
+~~~~~~~~~~~~~~~~~
+~ Tech Recovery ~
+~~~~~~~~~~~~~~~~~
+
+Tech Tag Out *!*                    ~5                                  
+Tech Roll Into Background           ~1_~2                               
+= Crouch Recovery                   = ~D                    RC          
+Tech Roll Into Foreground           ~3_~4                               
+= Crouch Recovery                   = ~D                    RC          
+Tech Roll Back *!*                  ~b                                  
+Back Spring *!*                     ~f                      FU/FT M GB    
+Hop Up *!*                          ~u                      FD/FT M BK    
+Hop Up *!*                          ~u                      FD/FA M       
+
+When knocked down by most moves, you can quickly get up or roll away when you 
+touch the ground.  This is tech get up or tech recovery.  Perform the command 
+when you touch the ground.  Certain moves do not allow a tech get up, but it is 
+best to see if you can tech to avoid further punishment.  In TTT, you can tech 
+recover from longer range knockdowns like Nina's Blonde Bomb (f,f+1+2).  You can 
+only tech roll from a long range throw like Nina's uf+1+2, i.e., no hop up.
+ 
+Back Spring  *!*                    ~b                                           
+Slide Back Up *!*                   ~D/B_d/b+2                          
+
+In TTT, you can also tech get up violent knockdowns like Bryan's Mach Punch 
+(f,f+2) and rollback knockdowns like Paul's Deathfist on counter (QCF+2 CH).
+
+~~~~~~~~~~~~~~~~~~~
+~ Normal Recovery ~
+~~~~~~~~~~~~~~~~~~~
+
+Sometimes you can not tech get up or you choose to not tech.  As with Tech Get 
+Up, there are times when it is better to tech than not.  Like the Rock says, 
+know your "Roll" and you'll be OK (bad pun - sheesh ;p).
+
+Speed Up Recovery                   2                                   
+
+This is listed in the PSX Tekken 3 manual and it seems to work in TTT.  It 
+allows you to gain control of your character while knocked down.  It works after 
+knock down stuns.  Use in conjunction with the get-up techniques listed below.  
+If you stand straight up using this, it is usually best to block low as most 
+people would have been trying to foot sweep your recently grounded character.
+
+Tag Out *!*                         5
+
+When you tag out from the ground, your character gets up and attempts to run 
+offscreen.  You can be hit while onscreen so make sure you can get away clean. 
+ 
+Stand Up                            u                                  
+Rising Low Kick                     3                       LG FD/FT JG                        
+Rising High Kick                    4                       M          
+
+Regardless of ground position, you can get up with a mid or low attack or stand.  
+Note that the Rising Low Kick from FD/FT can be used to start juggle combos.  
+Both the high and low kicks can be reversed or parried respectively.
+
+Rising Feet Lunge                   b,b+3+4                 FU/FT M GB KD
+
+Certain characters including King can spring up from FU/FT position and attack 
+legs first.  This is known as the Rising Feet Lunge.  Not all characters have 
+this move.  If it is blocked, it causes a small guard stun.  If it hits, it 
+knocks down.  For King, this will leave him with his back turned.
+     
+Ankle Lightning Kick                d+3_d+4                 FU/FT L      
+
+If you need to get up with an attack that will stop the opponent cold and allow 
+you to get up cleanly, the Ankle Kick can be used.  It will briefly stun your 
+opponent.  If you miss, you will be punished as the recovery is bad.  I don't 
+think the ankle kick can be parried, but King could reverse this in Tekken 3 - I 
+haven't tried this in TTT.  They may have fixed that though.  Note that this 
+only works from FU/FT with no rolling beforehand.
+
+Roll Forwards_Roll Backwards        f_b                                
+= Rising Low Kick                   = 3                     LG          
+= Rising High Kick                  = 4                     M          
+= Recover Crouching                 = ~D                    RC          
+= Flying Cross Chop                 = ~f+1+2                FU/FT M GB  
+= Rising Feet Lunge                 = b,b+3+4               FU/FT M BK  
+
+Even though the forward/backward roll has its uses, be careful using this 
+against certain characters (King for instance).  You can be hit while rolling, 
+which means a juggle and/or minor/major counter damage.  Know when to roll and 
+not roll.  If you can roll forwards/backwards freely, then the flying cross chop 
+becomes a good move to use since it causes either a guard stun when blocked or a 
+knockdown if not blocked.  Note that the Cross Chop can only be used if you are 
+FU/FT. After a forward/backward roll by itself, you will stand up.
+
+Side Roll Up_Side Roll Down         1_d+1                   FU/FT_FA    
+= Tag Out *!*                       = 5                                         
+= Stand Up                          = u
+= Rising Low Kick                   = 3                     LG
+= Rising High Kick                  = 4                     M
+= Rising Feet Lunge                 = b,b+3+4               FU/FT M      
+= Roll Forwards_Roll Backwards        = f_b                              
+  = Rising Low Kick                   = 3                   LG                      
+  = Rising High Kick                  = 4                   M                      
+  = Recover Crouching                 = ~D                             
+  = Flying Cross Chop                 = ~f+1+2              FU/FT M      
+= Turn Over                         = ~D                    ~ FD/FT_FD/FA  
+  = Stand Up                          = u 
+  = Rising Low Kick                   = 3                   LG FD/FT JG 
+  = Rising High Kick                  = 4                   M          
+  = Roll Forwards_Roll Backwards      = f_b                            
+    = Rising Low Kick                   = 3                 LG JG       
+    = Rising High Kick                  = 4                 M
+    = Recover Crouching                 = ~D                L
+
+You have the most options if you choose to roll to the side.  You can do almost 
+anything mentioned in the previous sections.  After the initial side roll, you 
+can choose to tag, stand up, attack, or roll forwards/backwards.  If you choose 
+to turn over to a face down position (FD/FT_FD/FA), you have the same options as 
+if you were knocked face down initially.  Note that you can't do a Flying Cross 
+Chop or an Ankle Kick once you roll over, but you can still roll forwards or 
+backwards and do almost anything else.
+
+You will need to know when and how to get up.  You can chain various wake-up 
+moves and attacks from any roll - the side roll having the most options.  Most 
+of the options off the side roll can be done on their own off of the 
+forward/backward roll or without a roll.  Knowing how to get up can be the 
+difference between a win and a loss.  It's not something I can easily explain, 
+but it is necessary for TTT success.
+
+-------
+- Tag -
+-------
+
+The largest and most important innovation to TTT is the ability to tag in a 
+partner.  As with ground recovery, you must know when to and when not to tag.  
+You can tag almost anytime except while being thrown, juggled, or in certain 
+types of stuns/staggers.  Since everything is new to Tekken in this section, I 
+will avoid using *!* before all the moves.
+
+Standing Tag                        5                       H_L         
+Ground Tag                          5                                   
+Tech Tag                            ~5                      TR            
+
+Standing, ground, and tech tags are probably the ones you will be using the 
+most.  Note when you tag out, the character leaving can still be hit until 
+he/she is fully off screen.  Make sure it is safe to tag or you will get hurt.
+
+Stun Tag                            5                       DS_FS
+
+If you are caught in a double-over stun or fall-over stun (DS_FS), you can 
+Immediately press tag to tag out and avoid being juggled.
+
+Tag Throw                           2+5                     Tag FT {2}   
+
+All characters have a generic tag throw that allows a safe tag to their partner 
+while damaging the opponent.  The throw itself is an arm drag takedown followed 
+by another move from your partner that hits grounded opponents.  You can not get 
+up before the partner hits you.  You can escape the initial tag throw with {2}. 
+
+Tag Run Cancel                      ub,b                                
+= Tag                               = 5                                 
+Tag Dive                            f,f,N+1+2               M GB KD        
+Tag Slash Kick                      f,f,N+3                 M GB KD
+Tag Slide                           f,f,N+4                 LG          
+
+Are you the person who tags in your partner only to get mugged by the other 
+team?  Well, you can prevent that with tag in moves.  Being able to perform tag 
+in moves is vital to TTT survival.  You can do a dive, kick, or slide to avoid 
+damage.  You can also perform character specific moves.  Tag moves can be 
+buffered offscreen so that the character comes onscreen performing the move.
+
+TTT allows for tag juggles where both team members are involved.  It involves a 
+move that can be tagged from followed by the partner finishing off the juggle.  
+Besides looking cool, tag juggles have another interesting and important 
+feature: they reduce the red healing portion of the life bar.  The red portion 
+of the life bar is the maximum amount a character can heal while not being used.  
+Taking this away can help prevent comebacks later from a healed up tag partner.  
+
+-----------
+- Special -
+-----------
+
+These are other universal moves you may have to use or defend yourself against.
+
+~~~~~~~~~~~
+~ Running ~
+~~~~~~~~~~~
+
+Run                                 f,f,f_f,F               WR          
+= Stop                              = B                                
+= Tag                               = 5                                
+= Flying Cross Chop                 = 1+2                   M GB       
+= Flying Side Kick                  = 3                     M          
+= Sliding Leg Sweep                 = 4                     LG         
+= Shoulder                          = N                     U            
+= Tackle                            = N                     sMT {2_1+2) 
+= Tackle                            = N                     sMBT {-}    
+= Stomp                             = N                     G           
+
+If you're running at a standing opponent, you will automatically tackle at 
+midrange and shoulder block at far range.  If they are grounded, you will run 
+and stomp them.  If an opponent is running at you, it usually means bad things 
+for you.  You can hit people out of running attacks, but it is not easy to do.  
+
+Not all characters have these all the running moves.  King doesn't have the Side 
+Kick or the Leg Sweep.  King will do a standing 3 instead of a Side Kick (do a 
+WR 3+4 drop kick instead).  King will do a Stagger Kick instead of a Leg Sweep. 
+
+~~~~~~~~~~~~~~~~~~~
+~ Jumping Attacks ~
+~~~~~~~~~~~~~~~~~~~
+
+Hop Attacks                         (ub_u_uf)+1_3_4         M_H_M         
+Pounce Attacks                      (ub_u_uf)+2             MG         
+
+For most characters, uf+4 is a hop kick that juggles.  A uf+1 is a hop punch 
+that sometimes knocks down but doesn't juggle.  The uf+3 is usually a jumping 
+spin kick or high kick that hits high rather than mid unlike the other two.  All 
+hopping right punches produce a downward punch pounce that hits grounded 
+opponents.  Most characters have better attacks to hit grounded opponents.
+
+Jumping Midkick                     (UB_U_UF),N+3           M FS KDch      
+
+The UF,N+3 kick actually causes a fall over stun so it is worth mentioning.  The 
+other jumping attacks are similar to their hopping versions.  If you counter 
+hit, it knocks the opponent away in most cases.
+
+~~~~~~~~~~
+~ Tackle ~
+~~~~~~~~~~
+
+Tackle Dodge                        2                                   
+Tackle Flip Reversal                1+2                                 
+
+If you are ever tackled from the front, you can either dodge the tackle during 
+the initial impact for no damage {2} or flip the tackler over before you touch 
+the ground {1+2}.  If you flip the tackler over, you can start attacking as if 
+you tackled that person.  In the case of King, you can do any Ultimate Tackle 
+follow up.  If you are tackled from behind, then you can not escape the initial 
+impact or the falling down.
+
+Front Tackle Left Punch Block       2
+Front Tackle Right Punch Block      1
+
+If you block the opponent's punches when tackled, you will throw them off of you 
+and receive no further damage.  From a front tackle, you can only block the 1st 
+or the 4th punch.  If that punch is a 1, block with 2 and vice versa. 
+
+Back Tackle Left Punch Block        1
+Back Tackle Right Punch Block       2
+
+If you are tackled from behind, the person can only punch you.  However, you can 
+escape the punches if you escape the 1st punch.  If that punch is a 1, block 
+with 1 and vice versa.  The person will be thrown off of you for no damage.
+
+Tackle Arm Lock Escape              1+2,2,2,2,2                        
+Tackle Leg Lock Escape              1+2,1,1,1,1                         
+Tackle Arm Lock Reversal            1+2,2,2,2,2,2                       
+Tackle Leg Lock Reversal            1+2,1,1,1,1,1                       
+
+You can avoid the punishment of a limb lock with the correct escapes/reversal.  
+Everyone can escape limb locks.  However, only Paul, Jin, Nina, and King can 
+reverse arm locks with arm locks of their own.  King and Nina can reverse leg 
+locks.  Limb locks are hard to escape but are worth it to avoid large damage.
+
+~~~~~~~~~~~~~~~~~
+~ Miscellaneous ~
+~~~~~~~~~~~~~~~~~
+
+Left Reversal Escape (Chicken)      f+1+3                              
+Right Reversal Escape (Chicken)     f+2+4                              
+
+Added in Tekken 3 to stop abuse of the attack reversal, I can not emphasize the 
+importance of attack reversal escapes.  This is also known as a "chicken" 
+because the announcer actually says "chicken" during its execution.  If you 
+throw a move that involves a left limb, use the left chicken and vice versa for 
+the right.  If a move uses both arms or legs, the correct chicken (left/right) 
+depends on the character and the move.  You have to enter the motion as soon as 
+or just after you throw the move.  If your opponent attempts an attack reversal 
+and you chicken, you escape the reversal and cause minimal damage to the 
+opponent to boot.  The best way to do a chicken is to buffer it into a move you 
+feel might get reversed.  For example, if I do King's Konvict Kick, but I feel 
+it might get reversed, I would do the following: f,f+4~f+2+4.  If you want to 
+buffer it, you can do f,f+[4]~f+2.  This is an example of button buffering.
+
+Please note the very good news: King's kick reversals can not be chickened!!!  
+
+Supercharger Powerup                ALL                     CH      
+
+If you press all the buttons except tag, your hands will start to glow.  This is 
+a supercharge powerup.  While you are supercharged, any hits cause an automatic 
+counter hit.  It doesn't last long though.  I tend not to use it too much 
+because of its obvious startup.  You can get hit during the startup.  
+
+Netsu/Anger Powerup
+
+This has no joystick motion or button press.  It is a powerup that your tag 
+partner receives if your onscreen character is hit too many times.  When that 
+happens, the lifebar of the offscreen character starts blinking red.  If that 
+character is tagged in, his/her hits will do extra damage for a short time.  
+Once the lifebar of the now onscreen character stops blinking, the powerup ends.  
+Not all teams or characters experience a netsu powerup.  Some anger powerups 
+require more hits than others depending on what team you are using.  By default, 
+most teams allow 5 hits before the powerup is initiated.  If King is partnered 
+with Armor King, only 4 hits are required for either of them to get a netsu 
+powerup.  On that note, let's talk about moves that are specific to King II.
+
+==========================
+= King The Second Throws =
+==========================
+
+For the throws listed with a *** before them, the multiparts will be fully 
+explained in the Multi section.  I just list them because they can be used as 
+standalone throws if you don't know how to do the full multithrow sequences yet.
+
+---------
+- Front -
+---------
+
+Winding Nut                         1+3                     Left FT {1}  
+Suplex                              2+4                     Right FT {2} FU/FA 
+Tag Throw *!*                       2+5                     Tag FT {2}   
+
+Your basic throws don't do much damage compared to command throws, but they are 
+useful since they are quick.  The Winding Nut leaves you far away, but you can 
+do a Stagger Kick.  The Suplex allows for a wake up foot sweep (FU/FA 3) on your 
+opponent.  The tag throw allows your partner to tag in and damage the opponent. 
+
+Muscle Buster                       QCB+1+2                 FT {1+2}
+
+The Muscle Buster is the best command throw King has bar none (and probably the 
+best overall throw in TTT IMHO).  It does huge damage and requires a double 
+button press to escape.  You can follow with a Moonsault or a Blind Kick for 
+okizeme.  The only bad thing about it is you sometimes get the Irish Whip or the 
+Figure Four on bad joysticks.  This should be the #1 command throw of choice.
+
+Giant Swing                         f,HCF+1                 FT {1_TR}
+
+The Giant Swing is King's most damaging single throw.  It has huge reach since 
+you hit forward twice during the motion.  If the character tech rolls, it does 
+half damage, which is about the same damage as your basic throws.  It is also a 
+single button escape.  However, the reach makes this thing scary when used.  Mix 
+with the Tombstone Piledriver for a powerful throw mixup.
+
+Tombstone Piledriver                db,f+2                  FT {2}
+
+The Tombstone Piledriver is a powerful command throw, but the motion is more 
+complex.  On some machines, it's hard to find the db position in a pinch.  Its 
+only other weakness is the single button escape.  It does a even more damage 
+like the Muscle Buster.  You can also perform ground throws afterwards since it 
+leaves the opponent right next to you.  The ensuing ground throw(s) will almost 
+kill them.  Mix this up with the Giant Swing to lessen the chance of escape.
+
+Falling Headlock DDT                D,db,d,DB+1+2           FT {1+2}     
+
+The Falling Headlock DDT is second in damage to the Giant Swing.  Essentially, 
+it is a WC throw, but the motion is complex.  It is sometimes difficult to get 
+this throw off, but the damage is worth it.  Its main use is to evade a high 
+attack and counter grab from crouch.  The double button escape makes this move 
+useful.  You can ground throw afterwards if you dash quickly.  
+
+Frankensteiner                      df+3+4[~5]              FT {-} FD/FT [TJC4]
+
+Even though the Frankensteiner is not escapable and does a butt load of damage, 
+it only throws close standing opponents.  If you get the throw, you can tag out.  
+If you don't throw, you will hit the opponent and end up FU/FT.  If you do throw 
+you will be FD/FT unless you tag out.
+
+Figure Four Leg Lock                DB+1+2                  FT {1+2_3+4}
+
+I tend to avoid the Figure 4.  You can be reversed for damage by hitting 3+4 at 
+the right time.  However, both the escape and the reversal are double button 
+presses.  Since it is a simple command throw, it can be used with the same speed 
+as a basic throw.  If the opponent doesn't know how to reverse it, then feel 
+free to use it.  It doesn't do much damage, but you can Stagger Kick afterwards.
+
+Knee Bash                           df+2+3                  FT {2}       
+
+The Knee Bash does the least amount of damage of your command throws so I tend 
+to avoid.  You can follow with a Stagger Kick afterwards.
+
+Pile Driver ***                     QCF+1                   FT {1_3+4}   
+Throw Away ***                      B+1+2                   FT {-}       
+
+The Pile Driver and Throw Away are non-crouch dash multithrow starters, making 
+them similar to normal throws.  If you enter an wrong button sequence, the throw 
+ends with no follow up.  The Pile Driver can be escaped at the apex with 3+4. 
+For the Throw Away, the throw has no escape, but the follow ups do.
+
+Reverse Arm Slam ***                f,DF+1+3_f,DF+2+4       FT {1_2}     
+Reverse Stretch Special Bomb ***    f,DF+1+2                FT {1+2}     
+
+These two multithrow starters will cause King to crouch dash before he stands up 
+and attempt to throw the opponent.  King will not start the crouch dash motion 
+until the full command is entered, i.e., you have pressed the buttons.  This 
+means you are basically committed to the throw and can not delay it.   
+
+Standing Heel Hold ***              f,N,d,DF+2+3            FT {2}       
+Arm Breaker ***                     f,N,d,DF+1+4            FT {1}       
+
+These two multithrow starters allow King to crouch dash without committing to a 
+throw.  Since King can do other moves from a crouch dash (Black Bomb, Hop Kick), 
+King is not forced to throw unless he presses the buttons at the end.  
+
+The follow ups for the multithrow starters are discussed in the Multi section.
+
+-----------------
+- Side/Sidestep -
+-----------------
+
+Argentine Backbreaker               1+3_2+4                 Left ST {1}  
+Knee Crusher                        1+3_2+4                 Right ST {2} 
+
+Both basic side throws cause good damage and can be followed up with ground 
+throws.  If you throw from a sidestep, make sure you use SS 1+3.  Using SS 2+4 
+will cause a sidestep multithrow rather than a standard side throw.  You can 
+follow up either side throw with a Flying Elbow (uf+1+2) or ground throw.
+
+Reverse Stretch Special Bomb ***    SS 2+4                  SSFT {1+2}     
+= Cancel                            = B                     RC          
+Cannonball Buster ***               SS 2+4                  ST {1_2}
+= Cancel                            = B                     RC
+
+You can grab opponents using a sidestep multithrow.  If you sidestep and end up 
+grabbing them from the front, you will do the Reverse Stretch Special Bomb.  If 
+you grab an opponent from the side or back, you will do the Cannonball Buster.  
+To escape either sidestep multithrow, you escape as you would the crouch dash 
+version for the Reverse Stretch Special Bomb or a standard side throw for the 
+Cannonball Buster.  The back version of the Cannonball Buster is not escapable.  
+You can cancel the initial grab by holding back before King stands up to grab.  
+You can not side throw or sidestep multithrow a crouching opponent.
+
+-----------------
+- Crouching/Mid -
+-----------------
+
+Jumping Power Bomb                  d+1+3_d+2+4             MT {1+2}    
+
+The Jumping Power Bomb does very good damage, but the range is suspect.  Then 
+again, if my opponent is crouching at that range, I'll throw a hop kick before a 
+crouch throw.  If you pull this off, feel free to ground throw the opponent.
+
+Reverse Stretch Special Bomb ***    df,DF+2+4               MT {2} 
+
+Unlike the standing variations of the RSSB, King does not crouch dash or 
+sidestep - he does a crouching throw animation.  It has a little more distance 
+than the Jumping Power Bomb due to the df motions, but I tend not to use crouch 
+throws.  Near a crouching opponent, I'm usually thinking Hop Kick first.
+
+Ultimate Tackle ***                 WC,1+2_f,N,d,DF+1+2     sMT {2_1+2}
+
+The tackle can be your friend or enemy.  It can be done from WC or a crouch 
+dash.  It has many follow ups.  Be careful of tackle reversals.  In that case, 
+your opponent can damage you unless you know some tackle escapes.  Unlike other 
+crouching throws, this will grab standing opponents as well.  The tackle is 
+escaped with 2 and reversed with 1+2.  You can not tackle from the side.
+
+---------------
+- Back/Behind -
+---------------
+
+King has 3 back throws.  It doesn't matter which one you use; they all do huge 
+damage.  Most back throws can not be escaped, but they can be crouched under.
+
+Stretch Buster                      b,F+1+2                 BT {-}
+
+The Stretch Buster is the most damaging of the three back throws and it allows 
+for follow up ground throws especially on larger characters.  Make sure your 
+opponent is facing backward or else you may end up doing a Jaguar Lariat.  The 
+other two are very damaging and humiliating as well but don't have any real 
+ground throw opportunities.  If you have the opportunity for a back throw, I 
+usually go for the Stretch Buster, but any back throw will do.
+
+Half Boston Crab                    1+3                     BT {-}      
+Cobra Twist                         2+4_2+5                 BT {-}      
+
+The Cobra Twist and the Half Boston Crab do equal damage.  It is simply a matter 
+of preference on which one you use.  Neither allow for any ground throws, but 
+you can perform a Stagger Kick afterwards IIRC.
+
+Cannonball Buster ***               SS 2+4                  BT {-}      
+= Cancel                            = B                     RC          
+
+If you do a sidestep multithrow and grab the opponent from behind, this is what 
+you end up with.  As with all back throws, this is NOT escapable, but the 
+follows ups are.
+
+Ultimate Tackle ***                 WC,1+2_f,N,d,DF+1+2     sMBT {-}
+
+You can tackle opponents from front or behind but not from the side.  From 
+behind, the tackle is not escapable, but the follow up punches are.
+
+Reverse Throw                       BK 1+3_BK 2+4           BKT {1_2_-}
+
+If you are facing away from your opponent, you can still perform a throw.  Your 
+character will turn around and do a throw.  The escapes are the same as well.
+
+----------
+- Ground -
+----------
+
+All ground throws have the same command - db+1+3_db+2+4.  However, this can be 
+hard to do in the heat of battle.  I suggest that you hold 1 or 2 during a move 
+stun so that you don't throw a punch.  Then while holding down the punch, you 
+press db and the appropriate kick.  Since you have already held down the 
+corresponding punch, you will attempt a ground throw - welcome to Tekken Button 
+Buffering 101.  Simply do this: [1],db+3 or [2],db+4.  It makes ground throwing 
+a lot easier for me.  You can also hold the kick first and then punch instead.
+
+You usually have to dash in for a ground throw after a set up move.  Buffer the 
+dash or run from your move stun so you  get to the opponent quickly.  If you do 
+it right, the opponent can not get up; they will be forced to escape the throw.
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+~ Face Up/Feet Towards ~
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Head Bomber                         db+2+4                  FU/FT GT {2}
+
+The Head Bomber is the cooling looking ground throw that King has - you will get 
+huge cool points from the audience (and cringes from the men and/or your 
+opponent) if you pull this off.  King lifts the opponent's legs by the ankles 
+and headbutts them in the crotch.  After this ground throw, you can Stagger 
+Kick.  This is probably the ground throw you will be using the most (it's the 
+one I use the most) since it tends to humiliate the best and just hurts a lot.
+
+Figure Four Leg Lock                DB+2+4                  FU/FT GT {1+2)
+
+I almost never the Figure Four ground throw since I prefer the Head Bomber.  
+Unlike the standing Figure 4, you can not reverse the ground the Figure 4.  On 
+larger characters, you may actually be able to do two figure-four leg locks.  
+Perform the standing one (DB+1+2) and then quickly dash and do the ground one.  
+It is actually very hard but not impossible.  If you find your opponent escaping 
+the Head Bomber, use this since it has a double button escape.
+
+Swing Away                          db+1+3                  FU/FT GT {1}
+
+I tend not to use the Swing Away since it doesn't look like you can follow it up 
+very well.  King throws you pretty far away.  However, if you prefer using 1+3 
+for your ground throws, this is the one for you.  King picks up the opponent by 
+the legs and does a single rotation of his Giant Swing before letting go.
+
+FU/FT ground throws can be performed after the following moves:
+
+Knee Crusher                        1+3_2+4                 Right ST {2}
+Leg Screw                           b+1+3_b+2+4             M_H 4      
+Jumping Power Bomb                  d+1+3_d+2+4             MT {1+2}
+Jaguar Lariat                       F+1+2                   UH
+Figure Four Leg Lock                DB+1+2                  FT {1+2}
+Knockout Punch                      SS 2                    H FSc
+Stomach Smash ***                   f,f,N+2                 LG DSc         
+= Hi-Jack BackBreaker               = 1+2                   {1+2}       
+= Jaguar Driver                     = 1+2,u,d,3+4           {3+4}       
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Face Down/Feet Towards ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Half Boston Crab                    db+1+3_db+2+4           FD/FT GT {3+4}
+
+This is King's only FD/FT ground throw.  He grabs a leg and pulls up and back on 
+it until the hip cracks (like the 1+3 back throw).  You need very good timing to 
+get the FD/FT ground throw off the Throw Away setup since you have to dash very 
+far in a very short time (PRACTICE).  It also has an unusual escape {3+4}.
+
+The following moves set up FD/FT ground throws:
+
+Throw Away ***                      B+1+2                   FT {-}
+= Throw Away Knockdown              = ~2+4                  {2}         
+
+~~~~~~~~~~~~~~~~~~~~~
+~ Face Up/Feet Away ~
+~~~~~~~~~~~~~~~~~~~~~
+
+Shoulder Cracker                    db+1+3_db+2+4           FU/FA GT {1+2}
+
+This is King's only FU/FA ground throw.  King grabs one arm, places it between 
+his legs, and cracks the shoulder, similar to the Struggle Combination finish 
+from the Arm Breaker.  All of the setup moves leave your opponent right next to 
+you.  Perform the ground throw as soon as your move stun ends.
+
+The following moves set up FU/FA ground throws:
+
+Tombstone Piledriver                db,f+2                  FT {2}
+Arm Breaker ***                     f,N,d,DF+1+4            FT {1}
+= Chicken Wing Face Lock            = 2,1,1+2+3             {1+2} 
+  = Dragon Sleeper Finish             = 2,1,3,1+2+4,1+2+4   {1}
+Throw Away ***                      B+1+2                   FT {-}       
+= Throw and Destroy                 = ~3+4                  {3+4}
+Leg Breaker                         WC,df+1                 LG JG
+
+~~~~~~~~~~~~~~~~~~~~~~~
+~ Face Down/Feet Away ~
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Wing Tearer                         db+1+3_db+2+4           FD/FA GT {1+2}
+
+For a FD/FA opponent, this is King's only ground throw.  The Wing Tearer is 
+King's second most painful ground throw.  King grabs the opponent by the wrists 
+and puts his knee on their back - he then pulls the wrists towards him like 
+levers until the shoulders crack (OUCH!).  However, the setups aren't the most 
+reliable as all of them require counters.  The Elbow Sting leaves your opponent 
+FD/FA on CH, but your opponent can get up easily.  The Stomach Smash CH and 
+Blind Kick CH are better, but the timing is very precise.
+
+The following moves leave your opponent FD/FA:
+
+Stomach Smash                       f,f,N+2                 LG DSc      
+Elbow Sting                         df+1                    M GB KS     
+Blind Kick *!*                      BK 3                    MG GB CSc
+
+~~~~~~~~~~~~~~~~
+~ Face Up/Side ~
+~~~~~~~~~~~~~~~~
+
+Flip Over                           db+1+3_db+2+4           Left FU/S GT {1}
+Flip Over                           db+1+3_db+2+4           Right FU/S GT {2}
+
+King doesn't have any ground throws that damage FU/S opponents.  For the Flip 
+Over, it is sometimes necessary to dash beforehand, especially after the 
+Argentine Backbreaker.  After the Flip Over, repeat the motion (dash if need be) 
+and you'll get the FD/S ground throw, which will do damage.  After the Flip Over 
+on larger characters, you can do the ground throw motion without a dash.  The 
+escape follows the same protocol as side throws.
+
+The following moves set up FU/S ground throws:
+
+Argentine Backbreaker               1+3_2+4                 Left ST {1}
+Double Heel Hold                    b+1+3_b+2+4             M_H 3
+Shoulder Cracker                    db+1+3_db+2+4           FU/FA GT {1+2}
+Stretch Buster                      b,F+1+2                 BT {-}
+
+~~~~~~~~~~~~~~~~~~
+~ Face Down/Side ~
+~~~~~~~~~~~~~~~~~~
+
+Camel Clutch                        db+1+3_db+2+4           Left FD/S GT {1}  
+Bow & Arrow Stretch Hold            db+1+3_db+2+4           Right FD/S GT {2}  
+
+The commands for the Camel Clutch and the Bow and Arrow Stretch are the same; 
+the throw performed depends on what side of the opponent you are on.  Simply do 
+either setup ground throw, dash if necessary, and then perform the next ground 
+throw.  The escapes are similar to standing side throws.
+
+The following moves set up FD/S ground throws:
+
+Flip Over                           db+1+3_db+2+4           Left FU/S GT {1}
+Flip Over                           db+1+3_db+2+4           Right FU/S GT {2}
+Half Boston Crab                    db+1+3_db+2+4           FD/FT GT {3+4}
+
+---------
+- Multi -
+---------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Reverse Arm Slam/Reverse Stretch Special Bomb/Cannonball Buster ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
+(Left) Reverse Arm Slam ***         f,DF+1+3                FT {1}
+(Right) Reverse Arm Slam ***        f,DF+2+4                FT {2}
+= Back Drop                         = 2,1,1+2               {1_2} 
+  = German Suplex                     = 3+4,1+2             {1}    
+    = Power Bomb                        = 1,2,3+4           {-}
+      = Giant Swing                       = 2,1,3,4         {1}
+      = Muscle Buster                     = 3,1,2,3+4,ALL   {2}        
+  = Cannonball Buster               = 2,2,1+2               {2}        
+    = Manhattan Drop                  = 3+4,1+2,1+2+4       {2}        
+      = Victory Bomb                    = 1,2,3+4,1+2       {-}
+        = Giant Swing                     = 2,1,3,4         {2}
+        = Muscle Buster                   = 3,1,2,3+4,ALL   {1}
+    = Power Bomb                      = 1,2,3+4             {1}
+      = Giant Swing                     = 2,1,3,4           {1}
+      = Muscle Buster                   = 3,1,2,3+4,ALL     {2}   
+
+Reverse Stretch Special Bomb ***    f,DF+1+2                FT {1+2}
+Reverse Stretch Special Bomb ***    SS 2+4                  SSFT {1+2}
+Reverse Stretch Special Bomb ***    df,DF+2+4               MT {2}
+= Cannonball Buster                 = 2,2,1+2               {-}         
+  = Manhattan Drop                    = 3+4,1+2,1+2+4       {2}         
+    = Victory Bomb                      = 1,2,3+4,1+2       {-}
+      = Giant Swing                       = 2,1,3,4         {2}
+      = Muscle Buster                     = 3,1,2,3+4,ALL   {1}          
+  = Power Bomb                      = 1,2,3+4               {1}
+    = Giant Swing                     = 2,1,3,4             {1}
+    = Muscle Buster                   = 3,1,2,3+4,ALL       {2}
+
+Cannonball Buster ***               SS 2+4                  ST {1_2}
+Cannonball Buster ***               SS 2+4                  BT {-}
+= Power Bomb                        = 1,2,3+4               {1}
+  = Giant Swing                       = 2,1,3,4             {1}
+  = Muscle Buster                     = 3,1,2,3+4,ALL       {2}         
+= Manhattan Drop                    = 3+4,1+2,1+2+4         {2}         
+  = Victory Bomb                      = 1,2,3+4,1+2         {-}
+    = Giant Swing                       = 2,1,3,4           {2}
+    = Muscle Buster                     = 3,1,2,3+4,ALL     {1}
+
+Button buffering can be done for the following links to make it easier to get 
+these throws off in the heat of battle:
+
+Back Drop: 2,1,1+2 => 2,[1],2
+Cannonball Buster: 2,2,1+2 => 2,[2],1
+Manhattan Drop: 3+4,1+2,1+2+4 => 3+4,[1+2],4
+Muscle Buster: 3,1,2,3+4,ALL => 3,1,2,[3+4],1+2
+
+You can get 3-6 throws with this series.  To get 6, you start with the Reverse 
+Arm Slam and then branch to the Cannonball Buster.  The only way to get 3 is to 
+start with the Cannonball Buster and chain into the Power Bomb.
+
+You can enter multiple follow up throws during throw intervals.  This is known 
+as multithrow bluffing (thanks to the person in the Tekken Zaibatsu forum who 
+coined the term).  In case someone looks at your hands to see what throw you are 
+doing next, you can do multiple follow ups to a throw to confuse the opponent.  
+
+Let's use the Reverse Stretch Special Bomb to Cannonball Buster throw as an 
+example.  After these two throws, you can do the Power Bomb or the Manhattan 
+Drop, both of which can be escaped with 1 and 2 respectively.  If you are only 
+entering one throw after the Cannonball Buster and the opponent can see what 
+throw you are doing, they may know the escape.  However, if you do both entries, 
+the opponent will be forced to guess.  It looks like this:
+
+f,DF+1+2, 2,2,1+2, 1,2,3+4,3+4,1+2,1+2+4
+
+Note the consecutive 3+4's?  You can actually take one out and still perform 
+the bluff.  It would like this:
+
+f,DF+1+2, 2,2,1+2, 1,2,3+4,1+2,1+2+4...
+
+In the second case, you are buffering throw commands into one another.  I call 
+This multithrow buffering (not to be confused with button buffering).  The 
+buffering in this case also helps to multithrow bluff.
+
+In general, you can bluff anytime you can enter more than one throw.  You can 
+multithrow buffer when any two sequences have a matching begin-end button press 
+(3+4 in this case).  In fact, multithrow buffering makes multithrow bluffing 
+easier since it reduces the number of button presses needed for multiple follow-
+ups.  If this sounds confusing, don't worry - I will show more examples with 
+other multithrows as well.  
+
+True multithrow bluffing can also be done by intentionally missing a button 
+press to fool an opponent into thinking you're doing a certain multithrow only 
+do another sequence correctly.  In the example, if you mess up the Power Bomb's 
+1 or the Manhattan Drop's 1+2+4, you will only do the properly entered throw.
+
+There are several throws whose escape is dependent on what throw you chained 
+from or what buttons you used to grab.  Here is an escape chart:
+
+Reverse           Back              German            Power             Giant     
+Arm Slam ***      Drop              Suplex            Bomb              Swing
+{1_2} ==========> {1_2} ==========> {1} ============> {1_-} ==========> {1_2}
+                          ||              /\                  /\
+             ||<==========\/   /\=========||                  ||
+             \/                ||                             \/
+{2_1+2} ========> {1_2_-} ========> {2} ============> {-} ============> {1_2}   
+Reverse Stretch   Cannonball        Manhattan         Victory           Muscle
+Special Bomb ***  Buster ***        Drop              Bomb              Buster
+
+Here are the "conditional" multi throw escapes:
+
+Reverse Arm Slam: Left {1} ; Right {2}
+
+Reverse Stretch Special Bomb: Crouching {2} ; Crouch Dash or Sidestep {1+2} 
+
+Back Drop: After Left Reverse Arm Slam {1} ; After Right Reverse Arm Slam {2}
+
+Cannonball Buster: Left Side {1} ; Right Side or After Back Drop {2} ; Back or 
+After Reverse Stretch Special Bomb {-}
+
+Power Bomb: After Cannonball Buster {1} ; After German Suplex {-}
+
+Giant Swing: After Power Bomb {1} ; After Victory Bomb {2}
+
+Muscle Buster: After Victory Bomb {1} ; After Power Bomb {2}
+
+The following throws always have the same escape:
+
+German Suplex: After Back Drop {1}
+Manhattan Drop: After Cannonball Buster {2}
+Victory Bomb: After Manhattan Drop {-}
+
+~~~~~~~~~~~~~~~~~~~~~~
+~ Standing Heel Hold ~
+~~~~~~~~~~~~~~~~~~~~~~
+
+Standing Heel Hold ***              f,N,d,DF+2+3            FT {2}
+= S.T.F.                            = 1,2,3,1+2             {1} 
+= Scorpion Deathlock                = 1+2,3,1,1+3           {2} 
+= Indian Death Lock                 = 1+2,1,3,1+2           {1+2}
+  = King's Bridge                     = 1,3,4,1+2,3+4       {-}
+
+For the Standing Heel Hold series, if the opponent escapes the Scorpion 
+Deathlock, Indian Death Lock or the S.T.F., King will receive 10 damage.  
+
+You can button buffer the Scorpion Deathlock from the Standing Heel Hold:
+
+f,N,d,DF+2+3, 1+2,3,[1],3
+
+Since the Standing Heel Hold animation is quite long, you can actually input all 
+three follow ups through multithrow bluffing and buffering:
+
+f,N,d,DF+2+3, 1,2,3,1+2,1,3,1+2,3,1,1+3
+
+If you look closely, I have entered the STF, Indian Death Lock, and the Scorpion 
+Deathlock.  Entering all the throws can prevent a possible escape.  This is easy 
+to do because you have a ton of time to enter all the links.  Even still, it 
+also depends on whether or not you have the links down to a science (PRACTICE).
+
+~~~~~~~~~~~~~~~
+~ Arm Breaker ~
+~~~~~~~~~~~~~~~
+
+Arm Breaker ***                     f,N,d,DF+1+4            FT {1}
+= Triple Arm Breaker                = 1+2,1+2               {1}
+= Head Jammer                       = 1+2,4,2+4             {2}
+  = Struggle Combination              = 4,3,4,3+4,1+2       {-}
+= Chicken Wing Face Lock            = 2,1,1+2+3             {1+2} 
+  = Dragon Sleeper Finish             = 2,1,3,1+2+4,1+2+4   {1}
+  = Rolling Death Cradle              = 1+3,3+4,2+4,1+2,1+2+3 {2}
+
+You can buffer button presses during these chain throws:
+
+Head Jammer: 1+2,[4],2
+Chicken Wing Face Lock: 2,[1],2+3 (or alternatively [2,1],3 or [2],[1],3)
+Rolling Death Cradle: 1+3,3+4,2+4,[1+2],3
+
+Ironically, I can not do the Struggle Combination with button buffering even 
+though it looks like a good candidate.  I have tried to do it but no success.
+
+Even though the Chicken Wing Face Lock sequence is 2,1,1+2+3, you can hold 2, 
+then hold 1 while holding 2, and press 3 while holding both 1 and 2.  Even 
+though you are really doing 2,1+2,1+2+3, it still works - go fig.
+
+Since you do not get much time to enter a followup sequence, you can usually 
+only enter two out of three follow-ups.  If you're really quick and nimble, try 
+entering this from the Arm Breaker:
+
+f,N,d,DF+1+4, 2,1,1+2+3,1+2,1+2,4,2+4
+
+If you take out the Chicken Wing button presses, you can do the Triple Arm 
+Breaker and Head Jammer very quickly.
+
+If you can do the Rolling Death Cradle reliably, you are the BOMB DIGGY!  I 
+still have trouble doing it.  However, it is very possible.  Here is how I do it 
+(thanks to another Tekken Zaibatsu forum member on how to do it):
+
+1+3: Use your index finger and thumb
+3+4: Use your index and middle fingers
+2+4: Use your index and thumb
+1+2: Use your index and middle fingers but hold them down
+1+2+3: Use your thumb for 3 while holding 1+2
+
+It does the most damage in the game for a multithrow, but the button sequence is 
+by far the most annoying of them all.  It is also a simple button escape {2}.
+
+I personally tend to finish the Arm Breaker series with the Struggle Combination 
+or the Dragon Sleeper.  If you get the Head Jammer off, the Struggle Combination 
+is inescapable.  However, I can't seem to follow it with a ground throw – just 
+Stagger Kick afterwards.  However, you can follow the Dragon Sleeper Finish with 
+a ground throw.  I almost never do the Triple Arm Breaker.
+
+~~~~~~~~~~~~~~~~~~~
+~ Ultimate Tackle ~
+~~~~~~~~~~~~~~~~~~~
+
+Ultimate Tackle ***                 WC,1+2_f,N,d,DF+1+2     sMT {2_1+2}
+= Cross Arm Lock                    = 1+2                   {1+2,2...}
+  = Arm Twist                         = 1+2                 {-} 
+= Leg Cross Hold                    = 3+4                   {1+2,1...}
+  = Stretch Combo                     = 1+2                 {-}
+= Ultimate Punches                  = 1,2,1_2,1,2           {2_1}       
+  = Ultimate Punches                  = 1,2_2,1             {2_1}       
+  = Cross Arm Lock                    = 1+2                 {1+2,2...}
+    = Arm Twist                         = 1+2               {-} 
+  = Leg Cross Hold                    = 3+4                 {1+2,1...}
+    = Stretch Combo                     = 1+2               {-}         
+
+You can buffer a Cross Arm Lock from the Ultimate Punches: 
+
+f,N,d,DF+1+2_WC,1+2, 1,2,[1],2
+f,N,d,DF+1+2_WC,1+2, 2,1,[2],1.
+
+To escape the punches from the tackle, you have to put in the escape for the 1st 
+or 4th punch.  If that punch is a 1, escape with 2 and vice versa for 2.
+
+To get the Stretch Combo, you have to hit 1+2 exactly when King's back hits the 
+ground from the Leg Cross Hold.  The Arm Twist doesn't have this precise timing, 
+making it much easier to finish with.  You can do either lock from the first set 
+of ultimate punches.  The Leg Cross Hold into the Stretch Combo does a lot more 
+damage so it is worth going for if you can get the timing and you really need 
+the damage.  If the opponent is close to dying, just go with the Arm Twist.
+
+Ultimate Tackle ***                 WC,1+2_f,N,d,DF+1+2     sMBT {-}     
+  Ultimate Punches                    1,2,1,2,1_2,1,2,1,2   {1_2}       
+
+You can tackle someone from behind.  However, you can only do punches.  Even 
+though the initial tackle is not escapable, the punches are.  Only the 1st punch 
+can be escaped.  If that punch is a 1, escape with 1 and vice versa for 2.  The 
+escape for the punches is actually switched because the victim is turned over. 
+
+~~~~~~~~~~~~~~
+~ Throw Away ~
+~~~~~~~~~~~~~~
+
+Throw Away ***                      B+1+2                   FT {-}
+= Throw and Destroy                 = ~3+4                  {3+4}       
+= Throw Away Knockdown              = ~2+4                  {2}         
+= Throw Away Feint                  = ~1+3                  {1}         
+= Turn Around                       = ~1+2                  {1+2}       
+= Tag w/ Armor King *!*             = ~5                    {2}
+
+Unlike other multithrows, you have to enter the next command after the 
+Throw Away quickly or else you'll just spin the opponent around.
+
+The Throw and Destroy and the Throw Away Knockdown set up ground throws.  As 
+with all ground throws, you have to be quick and usually dash to set it up.
+
+The Throw Away Feint and the Turn Around do no damage and leave the opponent 
+standing.  The Turn Around does leave your opponent BK albeit far away.  Neither 
+of them have any guaranteed follow ups AFAIK.
+
+If King is partnered with Armor King, King can tag from the Throw Away.  The 
+opponent is thrown towards Armor King where he will power slam the opponent.
+
+~~~~~~~~~~~~~~~
+~ Pile Driver ~
+~~~~~~~~~~~~~~~
+
+Pile Driver ***                     QCF+1                   FT {1_3+4}   
+= Double Arm Face Buster            = ~1+2                  {-}         
+= Boston Crab                       = <1+2,3,4,1+2          {-}         
+
+The Double Arm Face Buster can only be done at the very beginning of the Pile 
+Driver.  The Boston Crab has to be entered at the apex.  Since they share a 
+common 1+2, make sure you time your button presses appropriately.  I personally 
+do the Boston Crab since it does more damage.  If you do the Double Arm Face 
+Buster, you only get damage for one throw.  With the Boston Crab, King slams the 
+opponent down first and then go for the Boston Crab, which in turn does more 
+damage.  At the apex of the Pile Driver, an opponent can escape with 3+4.
+
+Even though I don't personally buffer this throw, you can doing the following:
+
+QCF+[1]~2
+QCF+[1]<2,3,4,1+2
+
+~~~~~~~~~~~~~~~~~
+~ Stomach Smash ~
+~~~~~~~~~~~~~~~~~
+
+Stomach Smash ***                   f,f,N+2                 LG DSc
+= Hi-Jack BackBreaker                 1+2                   {1+2}       
+= Jaguar Driver                       1+2,u,d,N+3+4         {3+4}       
+
+This is the only multithrow chain that doesn't begin with a throw.  It starts 
+with a counterhit Stomach Smash.  If you stun, go for the Jaguar Driver.  It 
+does  more damage and looks cooler. :) Both can be followed by ground throws.  
+
+Once again buffering can be done even though you don't really need to:
+
+f,f,N+[2],1
+f,f,N+[2],1,u,d,N+3+4
+
+=============================
+= King the Second Reversals =
+=============================
+
+King has been blessed with kick reversals.  In fact, you can NOT chicken out of 
+them.  Then again he can't reverse punches - you can't win them all.
+
+Leg Screw                           b+1+3_b+2+4             M_H 4      
+
+The Leg Screw right kick reversal throws your opponent away from you, but you 
+can perform FU/FT ground throws if you buffer a dash.
+
+Double Heel Hold                    b+1+3_b+2+4             M_H 3     
+
+The Double Heel Hold left kick reversal keeps your opponent close to you so you 
+can do the FU/S ground throws into the FD/S ground throws.
+
+Low Thrust Block/Parry              d+1+4_d+2+3_D+2+3_D+1+4 L           
+
+The low parry is good against any low attacks.  If you stop a move with this, 
+you can usually Konvict Kick (f,f+4) or Hop Kick (u/f+4) before the opponent can 
+stand up and recover.  If you Hop Kick the opponent, any standard juggle should 
+work.  It stuns an enemy longer than the df universal low parry.
+
+========================
+= King The Second Arts =
+========================
+
+----------------------
+- Punch/Body Attacks -
+----------------------
+
+Low Jab Uppercut                    d+1~N+2_D+1~N+2         sMM         
+
+The Low Jab Uppercut is your best attack bar none and one of the best in TTT.  
+It is useful for getting inside since it moves King forward.  It has little 
+recovery unless it whiffed and it is not very easy to reverse.  Since you start 
+with a low jab, you can travel under high attacks quickly and counter with this.  
+You don't have much recovery after the uppercut.  In fact, this move is even 
+better than the standing Jab Uppercut due to its range and the slower recovery 
+of the Jab Uppercut in TTT.  Abuse this move, but be ready to chicken reversals.
+
+Jab Uppercut                        2,1                     HM          
+
+This is another punch string that can be useful.  Granted it is not his best 
+punch chain anymore, it has set up potential.  The 1 in this case is an uppercut 
+which hits mid so opponents can not crouch this punch chain.  It makes for a 
+good poking tool and as well as a relatively quick counter to any move finishing 
+high.  Unfortunately, you can no longer follow this string with anything for 
+free as you could in Tekken 3.  However, that doesn't mean you shouldn't try.  
+This string was weakened in terms of recovery, but it still recovers quickly.
+
+One note of warning though - DO NOT hold forward while doing the 2 on the ground 
+of in combo.  If you do, you will start F+2 9-hit string version of this where 
+the uppercut has much longer recovery.  Instead, do a f,N,2,1 if you want to 
+increase its range.  This move is also a key part of his juggling strategy since 
+the uppercut causes a mini-rejuggle so to speak.  As with most punch chains, be 
+prepared to chicken in case of reversal. 
+
+Palm Attack To Attack               1,2,1                   HHM
+
+Even though it is not as good as the Low Jab Uppercut or the Jab Uppercut in 
+terms of use, the Palm Attack to Attack is another punch rush that can be used 
+often.  It starts up a little faster than the Jab Uppercut since it starts with 
+1 rather than 2.  Unlike the Jab Uppercut, you can hold forward or even dash to 
+give the initial 1 more distance.  It also ends with the uppercut, but I am not 
+sure if the recovery is the same as the Jab Uppercut.  Since the first two hits 
+are high, you may get countered before you get to the uppercut, the second 1.  
+If you need a quick counter or poke, you can also use this move, but I tend to 
+prefer the Low Jab Uppercut chain in general.  You can also do the Palm Attack 
+without the To Attack uppercut as a generic 1,2 punch string for poking.  The 
+Low Jab Uppercut, Jab Uppercut, and the Palm Attack To Attack have good 
+recovery.  As with the (Low) Jab Uppercut, you may need to chicken reversals.
+
+Leg Breaker                         WC,df+1                 LG JG          
+
+The Leg Breaker is a slow but annoying move that hits low.  It is a damaging low 
+juggle starter.  It is best done from far away because it is easy to counter 
+close up.  If your opponent is turtling, doing this move from far away 
+will sometimes surprise them.  If you do hit the opponent with this, you can 
+usually follow up with another Leg Breaker by holding DF and pressing 1 again.   
+You can combo two in a row, but the opponent can roll to its right and escape 
+after the second one.  You can also do other combos off the Leg Breaker, but 
+another Leg Breaker is probably the simplest one.  You can also perform FU/FA 
+ground throws after the Leg Breaker but you have to be very quick.
+
+Inside Uppercut                     WS+1                    M           
+
+Even though this is a basic move, it is useful inside.  It is quick with little 
+recovery and has a lot or priority.  However, it doesn't knock down or juggle.  
+I sometimes get this move trying to do something else.  Its only weakness is its 
+lack of range.  However, its priority makes up for that.
+
+Crouching Uppercut                  WC,df+2[~5]             M JG [TJC2]       
+K's Flicker                         f,f+2[~5]               M KD JGch [TJC2ch_5]       
+While Standing Uppercut             WS+2                    M KD          
+
+Even though these three uppercuts look exactly the same on execution, they do 
+have subtle differences.  The Crouching Uppercut will always juggle and is a tag 
+juggle starter.  K's Flicker only juggles on counter hit but will tag on a 
+normal hit.  If you tag on a normal Flicker hit, there is no real guaranteed 
+followup.  The WS+2 Uppercut doesn't juggle and you can't tag from it.  If you 
+block a low move with poor recovery, quickly go to df+2 to start a juggle or 
+WS+2 for some easy damage and a knockdown.  Note that all three uppercuts have a 
+very significant recovery.  They all do pretty good damage though.
+
+Stomach Smash                       f,f,N+2                 LG DSch      
+= Hi-Jack BackBreaker               = 1+2                   {1+2}       
+= Jaguar Driver                     = 1+2,u,d,N+3+4         {3+4}       
+
+King goes a long distance as he bends down and punches very low to the ground. I 
+tend not to use the Stomach Smash much, but it has its uses.  It hits low and 
+grounded opponents.  However, the f,f,N sometimes makes hard to use up close.  
+Hence I tend to only use this from far away so I don't get hit out of it before 
+I do the move.  This is another move to use against turtlers who stand a 
+distance away.  Its other redeeming factor is the ability to multithrow on CH.   
+However, King has easier and more useful multithrow starters.  You can also 
+start juggle combos from it on CH, but the double-over stun can be escaped.
+
+Elbow Sting                         df+1                    M GB KDch KScr 
+< Side Swipe *!*                    < 2                     M 
+
+The Elbow Sting is probably his best non-jab single punch attack.  It comes out 
+very fast and causes a stun or guard break on impact.  On crouching opponents, 
+it causes a knee down stun (KS).  It knocks down FD/FA on CH.  Do not ground 
+throw since the opponent can get up easily.  I usually Stagger Kick instead for 
+extra damage.  This is not as dominating as Paul's Elbow, but it is still a very 
+high priority move.  As with most punch attacks, be wary of reversals.  The 
+Elbow Sting can be interrupted by fast jabs at close range.
+
+You can follow the Elbow Sting with a Side Swipe.  A Side Swipe will miss on a 
+Elbow Sting CH.  This is another punch rush that can close distance.
+
+Side Swipe                          df+2                    M           
+
+The Side Swipe has a small range, can't be reversed, hits mid, and has little 
+recovery.  It is also juggle filler since it will cause a small rejuggle.
+
+Head Spinner                        1+2                     M BK
+< Knifehand                         < 1                     M KD         
+
+The Head Spinner - Knifehand (referred to as the Head Spinner combo) is his best 
+long range punch move.  King does a spinning elbow into a knife edge chop.  It 
+covers a large distance quickly and does loads of damage.  It is usually hard to 
+see coming and the first part isn't reversible.  The spinning elbow will avoid 
+most jabs during execution.  The knife hand is reversible so left chicken if the 
+1+2 is blocked.  If the chop is blocked, it is not easy to retaliate.  The chop 
+can be delayed or left out altogether; that will leave King in a BK position.  
+This move can also be done out of a sidestep quickly and easily.  Use this move 
+as a counter when you think your opponent is doing an attack reversal.  Since 
+the elbow isn't reversible, they end up eating the Head Spinner for counter 
+damage.  It is also a good juggle finisher and a very good move in general.
+
+Knockout Punch                      SS 2                    H KD FSch      
+
+The Knockout Punch is a move I hardly ever use.  Even though it comes from a 
+sidestep, it is extremely slow and hits high.  It does do a lot of damage 
+though.  If it does hit, it either causes a violent knockdown on a fall-over 
+stun on CH.  If you do not CH and the opponent doesn't tech roll (~b), you can 
+dash and get a FU/FT ground throw, but you have to be very quick about it.  If 
+you counter hit, you can juggle off of the stun even though it is escapable.  
+You can also ground throw on CH, but the CH stun can be escaped.  
+
+Flying Cross Chop                   f,f,N+1+2               sM_H~LG KD
+
+The Flying Cross Chop is similar to the wake-up version of the Flying Cross Chop 
+that can be done from a knockdown or tag, but it is done from a standing 
+position.  It seems to hit special mid in TTT.  In Tekken 3, it hit high 
+initially then came down to hit low and grounded opponents.  Since King jumps 
+up, this move avoids a lot of attacks.  Its only weakness is the little damage 
+that it does.  It is also not reversible and tends to interrupt other attacks.
+       
+Black Bomb                          f,N,d,df,N+1+2[~5]      M KD BNch [TJC2ch_4]
+
+Since the Black Bomb is a crouch dash move, it is useful in King's crouch dash 
+strategy.  What King essentially does is a crouch dash into a downward double 
+axehandle.  Since four of his multithrows begin with a crouch dash, this move is 
+useful in case your opponent crouches expecting a multithrow.  You can hit them 
+with this for very good damage.  If you counter hit the opponent, you will cause 
+a bounce juggle, which bounces your opponent off the ground.  If you hit with 
+the move, you can tag out, but it only tag juggles on CH.
+
+Capital Punishment                  uf+1+2                  M CFS?          
+
+King performs a jumping axehandle similar to the Black Bomb.  It has far range 
+since he jumps before doing it.  Using it up close can be bad since the opponent 
+can hit you out of your jump and juggle you.  This move hits mid and semi-
+grounded opponents trying to get up but does not hit fully grounded opponents.  
+You can punish mistakes from long range with this move.  It is good for catching 
+incoming (as in tagging in) characters.  I believe this move is reversible as is 
+the Black Bomb.  If you hit with this move, it causes a (crumple fall?) stun 
+that can be followed up with Stagger Kicks for an easy juggle.
+
+Shoulder Tackle                     f+2+3                   M           
+
+The shoulder tackle is good because it has unusual priority.  It does have a 
+little bit of startup so it is best used from medium distance.  Once started, it 
+does much damage, but the recovery isn't too hot unless you use it from far away 
+so use with caution.  It can be used in okizeme to hit semi-grounded opponents 
+and can be used to punish incoming opponents or as a tag move when King tags in.
+
+Elbow Drop                          d+1+2                   MG FU/FA         
+
+This move can be used on hard hit grounded opponents, i.e., after a Jaguar 
+Lariat.  It is similar to the Rock's "People's Elbow" from the WWF (thanks to 
+Domingo's Armor King FAQ on that description).  It hits standing and grounded 
+opponents.  I sometimes use this to avoid damage when tagging in since King is 
+left on the ground after move.  If you do it while someone is standing, chances 
+are you may actually hit whatever they were trying to do since the elbow is the 
+closest thing to the opponent.  This leaves you FU/FA so be ready for okizeme.
+
+High Elbow Drop                     U+2+4_UF+2+4            MG          
+
+This move is a jumping elbow drop.  It can be used to avoid attacks especially 
+when tagging in or to pounce on opponents.  However, with tech get up, this move 
+is no longer the beast it was in Tekken 2 (the U+2 elbow pounce).  It does do a 
+lot of damage but isn't very useful except to avoid certain unblockables.  You 
+can also use it after either side throw as a powerful two-hit combo. 
+
+Diving Body Splash *!*              f,F+2+3                 MG          
+
+Like the Shoulder Tackle, this move comes out slowly, but it does good damage.  
+It can be used as a pounce or for okizeme.  If it is blocked, it stuns but 
+leaves you FD/S to your opponent so expect some okizeme punishment if missed or 
+blocked.  It can be used to counter Kuma's Hunting Bear stance and Ling's Art of 
+Pheonix stance.  It is best used as a surprise move.
+
+Layoff                              f,f+1+2                 H
+
+This move does no damage by itself, but it can be followed up if you are quick.  
+In Tekken 3, you could follow this up with a Disgraceful Kick, but I don't think 
+you can in TTT.  King will push you, which will break your guard, allowing for a 
+fast attack to penetrate.  You can only use it up close like a throw.
+
+----------------
+- Kick Attacks -
+----------------
+
+Stagger Kick                        WC,df+4_WC,df+3+4_d+3+4 LG            
+= Spinning Uppercut                 = ~2                    M KD           
+= Stagger Kick ~ Spinning Uppercut  = 4~2                   LG~M CH KD
+= Stagger Kicks                     = 4,4                   LG,LG       
+  = Spinning Uppercut                 = ~2                  M CH KD       
+  = Stagger Kicks                     = ~4,4                LG,LG CH    
+
+Learn to love the Stagger Kick (Ali Kick) - you will be using a lot.  It hits 
+low, can be repeated, has many follow ups, and hits grounded opponents.  On CH,  
+you can hit with multiple Stagger Kicks or go into a Spinning Uppercut.  If you 
+have a Stagger Kick or Spinning Uppercut blocked, you will be asking for a 
+beating as both have lousy recovery.  People tend to call this move cheap, but 
+it does have enough shortcomings that it can be beaten pretty easily by smart 
+players.  Do not be afraid to use this move especially for okizeme.  To be safe, 
+if you're not sure this is going to hit a standing opponent, only throw one as 
+the recovery isn't too good.  Most players will be expecting 2 or 3 so you will 
+probably escape unscathed even if it is blocked.  A single Stagger Kick can be 
+used to counter Paul's Death Fist due to its length.
+
+Hop Kick                            uf+4                    M JG        
+
+The Hop Kick is your quickest juggle starter.  If you need a quick juggle or 
+counter, use this.  In Tekken 3, you could Hop Kick after a low parry, but I'm 
+not sure if this is the case in TTT.  It has good range and speed.  Its recovery 
+is small but enough to be punished if you're not careful.  The majority of your 
+juggles will come from this move.  As with most other kicks, this can be 
+reversed if you get too predictable with it.  You can also use the Hop Kick out 
+of a crouch dash (f,N,d,df,(f),uf+4).  This is another way to mix up the crouch 
+dash in your King routine.  This move is most useful in countering any blocked 
+high recovery move that leaves you standing.
+
+Konvict Kick                        f,f+4                   M           
+
+The dash motion on the Konvict Kick gives it very good range.  It is simply a 
+mid hitting front kick that knocks down and hits hard.  On CH, it does massive 
+damage.  This is also good for okizeme countering and punishment - second to the 
+Disgraceful Kick.  Since it hits mid, you can punish crouching moves nicely.  It 
+does have some recovery so don't overuse it.  You can also do this move out of a 
+crouch dash (f,N,d,df,f, f+4).
+
+Front Kick                          WS+4                    M           
+
+The Front Kick is probably the safest and most powerful of the WS moves.  It has 
+good range, hits mid, and has good recovery.  You can also do the modified 
+version of it (m-WS+4) as explained in the While Standing section. The only 
+quirk of the m-WS+4 is that sometimes King will go slightly off axis during the 
+kick.  Out of the m-WS moves, the m-WS+4 is definitely the most useful one.  
+This can be done out of a crouch dash (f,N,d,df, f+4).  This move is useful 
+in custom stringing since it reaches far and is quick.
+
+Disgraceful Kick                    b+4                     H           
+
+This move looks like it hits mid, but it hits high.  However, don't let that 
+stop you from using it.  It is his best okizeme move for missed rising attacks 
+(3_4).  If either of these are missed, simply do this move (or the Konvict 
+Kick, but this is faster) to knock them back down and start the fun all over 
+again.  If you hit the opponent at close range, it causes a hard knockdown 
+(extra damage).  In that scenario, you can Moonsault or Blind Kick, but it's not 
+always a guaranteed hit if the opponent knows what he/she is doing.  If you 
+counter hit from midrange, you get a rollback knockdown where you have to run to 
+chase down the enemy.  It can also be used to finish juggles for decent damage.  
+You can counter Nina/Anna's double palm attack (Blonde Bomb/Scarlet Bomb) with 
+this if you buffer it out of your block stun.
+
+Rib Buster                          df+3                    M           
+
+Even though this is technically a basic move, this move is one of King's best 
+kicks.  It is a long reaching left footed round kick that hits mid.  It has good 
+reach and does good damage.  If someone is evading to your left, use this to 
+snuff them clean.  This move is also very good after a Jab Uppercut rush, but it 
+doesn't combo like it did in Tekken 3. I tend to use it towards its maximum 
+range to avoid having it snuffed up close - it does have a slightly slow 
+startup.  This move screams "abuse me" - an overall great move.  As with most 
+moves, be wary of reversals – chicken when necessary.  
+
+Knee Buster                         df+4                    L           
+
+This move is highly underrated.  King does a standing low kick that is similar 
+to his Rib Buster.  It has short yet deceptive range.  It can be used in a 
+mid/low mix-up with the Rib Buster to annoy and pressure the opponent.  Since it 
+hits low, it can only be low parried.  However, I have never seen anyone do that 
+on reaction.  This should be another move in your King ground arsenal especially 
+up close.  Since it is a low move, it helps against turtlers up close.
+
+Frankensteiner                      df+3+4[~5]              sMG FU/FT  
+
+If you don't throw with the Frankensteiner, King will flip and land FU/FT. The 
+flip hits special mid.  It's a good move to use on a grounded opponent.  If you 
+don't throw with this move, it doesn't do much damage.  
+
+Exploder                            f,f+3+4                 M GB KD FU/FT     
+Delayed Exploder                    3+4                     M GB KD FU/FT     
+
+King does a drop kick and ends up FU/FT.  If you press both kicks, King will 
+take a step and then drop kick.  This is the delayed version.  If you dash 
+first, he will drop kick as soon as you press 3+4.  It does moderate damage.   
+Before you hit the apex, you can be hit out of the air so be careful.   
+
+Running Exploder                    WR 3+4                  H GB KD FU/FT 
+
+King does a spinning drop kick and ends up FU/FT.  It hits high but does a lot 
+more damage than the Exploder.  On CH, this does almost as much damage as the 
+Deadly Boomerang.  It works well to catch your opponent when tagging in or out. 
+           
+Deadly Boomerang                    SS 3+4                  H GB KD FD/S       
+
+King does a sidestep into a jumping round kick landing FD/S.  This is the Deadly 
+Boomerang.  It looks like a Back Brain Kick - I like to call it the Head Hunter 
+Kick or the Ghetto Blaster. :) On CH, this is deadly and can end rounds quickly 
+if you know how to use it.  I have killed people with two moves (Giant Swing & 
+Deadly Boomerang), which is reminiscent of Jack-2 in Tekken 2 - CH megaton punch 
+& big splash, but I digress.  Don't try to reverse this kick - it is not worth 
+it.  Someone tried to do it but could not - after 2 hits the round was over.  If 
+this can be reversed, I would like to see it.  King ends up on the ground FD/S.  
+Even though King does the move off of a sidestep, he does a second SS (SSL?) 
+before he does the kick.
+
+Rolling Sobat *!*                   f+4                     M SHch          
+
+King turns around and does a spinning jump kick.  The Rolling Sobat has a long 
+range - about as long as the Disgraceful Kick.  It hits mid, but I have missed 
+some crouching opponents with this move when it looked like it should have hit.  
+It is one of his longest pokes. It is fast for such a long range move.  This 
+kick almost screams "abuse me" but be wary of reversals.  Up close, a d+1 may 
+interrupt it before it comes out and cause a low juggle since King leaves the 
+ground.  It is best used from midrange to avoid getting countered/interrupted.  
+
+Blind Kick *!*                      BK 3                    MG GB CSc   
+
+King does a mule kick while his back is turned.  It hits mid and causes guard 
+stun.  It is best used on semigrounded opponents after a close Disgraceful Kick 
+or Muscle Buster.  You can juggle or ground throw on CH.  
+
+-----------------------
+- Unblockable Attacks -
+-----------------------
+
+Jaguar Lariat                       F+1+2                   UH KD          
+
+The Jaguar Lariat can be used as a surprise move.  It is a high unblockable, 
+but there is no flash before he attacks.  He just sidesteps slightly and 
+lariats.  This does huge damage and allows for an Elbow Drop or a ground throw.
+
+Atomic Blaster                      BK 1+2                  UH KD         
+
+The Atomic Blaster is the backed turned version of the Jaguar Lariat.  Like the 
+Jaguar Lariat, it is a high unblockable that has no warning flash.  He turns 
+around and clotheslines you.  They do about the same damage.  I do not think you 
+can follow up this move since King is to the side of the opponent facing away.
+
+Moonsault                           1+4_f+1+4_BK 1+4        UG KD FD/FT
+
+The Moonsault is his best unblockable.  It hits opponents in every position.  
+King turns around, jumps in the air, and flips face down on his opponent.  It 
+does decent damage and has excellent follow ups.  If you hit the opponent, you 
+can roll off and throw a wake-up 3 and nail the opponent while they're trying to 
+get up.  From there, you can go into a Stagger Kick, Spinning Uppercut combo and 
+attempt another Moonsault.  This is also useful on standing opponents as a 
+surprise attack from medium distance.  Many an opponent has come in attacking 
+from too far away only to have King drop on them for good free damage.  You can 
+be hit out of it if you get too predictable or if you are too close to your 
+opponent when you start the move. If it misses, you land on the ground FD/FT and 
+can receive okizeme punishment there.  I tend to use the above Moonsault trap 
+(f+1+4, wake-up CH 3,d+3+4~2 repeat as they get up) on opponents who don't know 
+how to counter or escape it. One last note: it is usually better to use f+1+4 to 
+do the Moonsault unless you are turned around.  The f motion will align yourself 
+towards your opponent in case your opponent sidesteps or rolls to the side.
+
+===========================
+= King The Second Strings =
+===========================
+
+Note: All strings can be started with 1 (10-hit) or F+2 (9-hit).
+
+1 2 1 1 2 4 4 4 1 1   H H M M H L L L M M
+1 2 1 1 2 4 4 4 1 3   H H M M H L L L M M
+1 2 1 1 3 3 4 4 1 1   H H M M H M L L M M 
+1 2 1 1 3 3 4 4 1 3   H H M M H M L L M M
+1 2 1 1 3 3 4 3 2 1+2 H H M M H M L L L T
+
+F+2     2-4-4     1 
+   \   /     \   /
+1-2-1-1-3-3-4-4-1-3
+             \ 
+              3-2-1+2
+
+This is a more comprehensive chart that describes the moves that comes out when 
+he does his 10-strings.  This is good to know if you are using or facing King.
+
+1       2       3      *4*      5      *6*      7       8      *9*      10
+
+        F+2 ==> ||      /\ ===> 2 ====> 4 ====> 4 ====> ||      /\ ===> 1
+        H       ||      ||      H       LG      LG      ||      ||      MG KD
+        Str8    ||      ||      Elbow   Ali     Ali     ||      ||      Elbow  
+        Punch   ||      ||      Swipe   Kick    Kick    ||      ||      Drop
+                \/      ||                              \/      || 
+1 ====> 2 ====> 1 ====> 1 ====> 3 ====> 3 ====> 4 ====> 4 ====> 1 ====> 3
+H       H       M       M       H       M       LG      LG      M JG    M KD
+Jab     Str8    Upper   Elbow   Spin    Jump    Ali     Ali     Upper   Jump
+        Punch   Cut     Swipe   Kick    Kick    Kick    Kick    Cut     Kick
+                                                ||
+                                                \/ ===> 3 ====> 2 ====> 1+2
+                                                        L       LG      HT {1+2}
+                                                        Foot    Stomach Power
+                                                        Sweep   Smash   Bomb
+
+It is imperative that you learn other characters' hit strings as well as your 
+own so you can counter or reverse them before you misblock and eat half the 
+string.  In fact, if you ever play another King, you will be ready in case 
+the other King decided to test your 10-hit string skills.  Here are some 
+important notes and observations in King's 10-hit strings.
+
+Hits 4, 6, and 9 are break points, i.e., you can always block or even counter or 
+reverse those hits even if you got hit by the previous attack.  They are noted 
+with asterisks around the numbers in the chart.
+
+Hits 1 and 2 are always high punches.
+
+The first medium hit, Hit 3, is always an Uppercut (the same one as the "Jab 
+Uppercut" and "Palm Attack to Attack" Uppercut).  Opponents can no longer crouch 
+at this point.  The uppercut can only be followed by an Elbow Sting at Hit 4.  
+Both hits are mid. 
+
+Hit 5 is always high.  Even though you can have an Elbow Swipe as the 5th hit, 
+it will be considered high (or mabye even sM?) even though by itself it is 
+normally mid.  This is important because you can actually block low in 
+preparation for the Stagger Kick or prepare a counter.  Your other option for 
+Hit 5 is a high spin kick (WS+3).
+
+If you choose to take the kick route for Hits 5 & 6 (Spin Kick => Jump Kick), 
+please note that both are easily reversible if the opponent blocks the elbow 
+before the kick.  I have reversed other King players who have tried this on me.
+
+If you hit with the Stagger Kick in Hit 6 from the Elbow Swipe or in Hit 7 from 
+the Jump Kick (i.e., the first Stagger Kick in the hit string), you cause a very 
+large stun.  You should be able to get off a WS move, tackle, or throw.  I 
+prefer the tackle or throw myself.  If you must use 10 hit strings, use this to 
+your advantage.  The problem is getting to that point in the string so that you 
+do hit.  I tend not to use 10-strings for that reason.
+
+Hits 7 and 8 always hit low.  Hit 7 is always an Stagger Kick.  If Hit 8 is a 
+Stagger Kick, block high.  If it is a foot sweep, block low.
+
+################################################################################
+# CHAPTER III – JUGGLES                                                        #
+################################################################################
+
+===========================================
+= Hop Kick/Crouching Uppercut/K's Flicker =
+===========================================
+
+Hop Kick                            uf+4                    M JG
+Crouching Uppercut                  WC,df+2[~5]             M JG [TJC2] 
+K's Flicker                         f,f+2[~5]               M JGch [TJC2ch_5]
+
+uf+4_WC,df+2_f,f+2 CH
+= 1, 1+2,1
+= 1, d+3+4,4,4
+= 1,2, f+4
+= 1,2, b+4
+= 1,2, f,f+4
+= 1,2, df+2, d+3+4,2
+= 1,2,1, d+3+4,2
+= 2,1, 1+2,1
+= 2,1, df+2, d+3+4,2
+= 2,1, f,f+4
+= 2,1, f+4
+= 2,1, b+4
+= 4, d+3+4,2
+= 4, df+3?
+= 4, b+4
+= d+3+4,4,4 
+
+If I nail any of these juggle starters,  I almost always do the Jab Uppercut 
+into Head Spinner (2,1, 1+2,1).  It does the most damage in this series and 
+isn't that hard to do.  The Jab Uppercut causes a semi-rejuggle in most juggles.  
+If you want more hits, then Elbow Swipe off of the Jab Uppercut and follow 
+through with a Stagger Kick ~ Spinning Uppercut for 6 hits and a little bit of 
+style but less damage.  I don't know of too many easy combos for King that give 
+you move than 6 hits.  The Stagger Kick ~ Spinning Uppercut is a good finisher 
+of choice since it can hit semigrounded opponents for a semi-rejuggle as well.  
+
+Before I realized the power of the Jab Uppercut in juggles, I would normally 
+follow up my juggle starter with a jab or Palm Attack (1,2).  These are still 
+good, viable combos, but I prefer the Jab Uppercut due to the small rejuggle 
+ability and slight edge in damage. 
+
+Like the Jab Uppercut, a right kick will cause a small rejuggle, allowing moves 
+to hit afterwards.  This allows the Stagger Kick finishers to follow easily.  
+The Right Kick - Disgraceful Kick finisher only works on big characters I think.  
+The side kick can also be used if you're close enough.  For the combos that use 
+right kick (4), you can no longer hold forward for extra damage like you could 
+in Tekken 3 or you'll do the Rolling Sobat. 
+
+===============
+= Leg Breaker =
+===============
+
+Leg Breaker                         WC,df+1                 LG JG
+
+WC,df+1
+= WC,df+1
+= d+1, WS+2, d+3+4,2
+= d+1, WS+4, d+3+4,2
+= WS+2, d+3+4,2
+= WS+4, d+4
+= WS+4, d+3+4,2
+= d+3+4,2
+= d+3+4,4,4
+
+The Leg Breaker causes a low juggle float.  You can follow up with either 
+crouching moves or WS moves since the Leg Breaker is a crouching attack.  You 
+can also follow up with a d+1, but it sometimes misses if you are off axis.
+
+==============
+= Right Kick =
+==============
+
+Right Kick                          4                       JGch     
+
+4 CH
+= d+3+4,2
+= d+3+4,4,4
+= df+3
+= b+4
+
+A right kick CH causes a juggle which allows you to hit with the Stagger Kick.  
+Getting the Disgraceful Kick or the Side Kick is also possible.
+
+===============
+= Elbow Sting =
+===============
+
+Elbow Sting                         df+1                    M GB KDch KScr
+
+df+1 CH
+= d+3+4,4,4
+= d+3+4,2
+
+A CH Elbow Sting will floor your opponent, allowing you to follow it with 
+Stagger Kicks.  A ground throw is difficult but possible if the opponent doesn't 
+choose to immediately get up.  You can also employ okizeme at this point.
+
+==============
+= Black Bomb =
+==============
+
+Black Bomb                          f,N,d,df,N+1+2[~5]      M KD BNch [TJC2ch_4]      
+
+F,N,d,df,N+1+2 CH
+= 1,2, d+3+4,2
+= 1,2, b+4
+= 1+2,1
+= 1, 1+2,1
+= 2,1, 1+2,1
+= 4, d+3+4,2
+
+The Black Bomb causes a bounce juggle on CH.  This move is his most damaging 
+juggle starter.  On CH, any Hop Kick series juggle will work here as well.
+
+================================
+= Knockout Punch/Stomach Smash =
+================================
+
+Knockout Punch                      SS 2                    H KD FSch
+Stomach Smash                       f,f,N+2                 LG DSch
+
+SS 2 CH_f,f,N+2 CH
+= d+1+2
+= u+2+4
+= 1,2, df+3
+= 1,2, f+4
+= 1,2, d+3+4,2
+= df+2, df+2, d+3+4,2
+= f+2+3
+= f,F+2+3
+= 2,1, 1+2,1
+= 2,1, d+3+4,2
+
+On CH, these moves stun, allowing for juggles.  However, the stun is escapable.  
+
+=======
+= Tag =
+=======
+
+King can also start and finish tag juggles depending on his partner.  Tag 
+juggles are a new feature in TTT that should not be overlooked.  They are very 
+cool looking when executed properly but are not that difficult to perform.
+
+----------------------
+- Tag Juggle Classes -
+----------------------
+
+I will be using the Tekken Zaibatsu definition of tag juggle classes for tag 
+juggle starters.  You can check this URL for more information and examples: 
+
+http://www.tekken.net/classtag.htm
+
+There are 5 classes of tag juggles, aptly named 1-5.  The level depends on what 
+type of move can be done by the tagged in player after a tag juggle starter.  
+Here is what they mean and some examples.
+
+Class 1: Tag juggle starters allowing almost anything to connect
+(examples: Yoshimitsu's 4~3, Baek's f,N,d,df+3)
+
+Class 2: Tag juggle starters allowing high/standing moves to connect
+(examples: King's f,N,d,df,N+1+2 CH or WC,df+2, Armor King's f,N,d,df+2)
+
+Class 3: Tag juggle starters allowing low moves to connect
+(examples: Julia's f+1, Gun Jack's d+1+2)
+
+Class 4: Tag juggle starters that can't be tech rolled but allow for a ground 
+followup
+(examples: Bryan's b+1, Paul QCB,N+1 CH)
+
+Class 5: Tag juggle starters that do not allow a reliable/guaranteed followup
+(example: King's f,f+2, Wang's f+4)
+
+If a tag juggle combo works for a given class, it works for any higher class.  
+The abbreviation for a tag juggle class is [TJC#] where the number is the class.
+
+-----------------------
+- Tag Juggle Starters -
+-----------------------
+
+These are the moves that King can tag from when they hit:
+
+Crouching Uppercut                  WC,df+2[~5]             M JG [TJC2]
+K's Flicker                         f,f+2[~5]               M KD JGch [TJC3ch_5]
+
+Even though K's Flicker juggles on CH, you can tag out on a hit.  However, 
+without the CH, it will not allow for a guaranteed juggle (Class 5).  On CH 
+juggle and tag, it becomes TJC3.  As with most tag moves, the tag is only 
+possible on a hit.  If blocked, you are not able to tag out.  The Crouching 
+Uppercut is always TJC2, which will float high to allow for most tag combos.
+
+Black Bomb                          f,N,d,df,N+1+2[~5]      M KD BNch [TJC2ch_4]
+
+This move causes a bounce juggle on CH.  However, tagging from this move will 
+not automatically cause a bounce juggle (maybe if you buffer the tag - need to 
+investigate).  If it hits, you can tag.  On CH, it is TJC2.  Without the CH (or 
+a buffered tag?), it is TJC4 since you can not tech roll the hit.  A sliding leg 
+sweep from the tagged in partner may hit the opponent - I will have to check.
+
+Frankensteiner                      df+3+4[~5]              HT {-} [TJC4]
+
+If King throws the opponent, the tag partner can hit the grounded opponent upon 
+tagging.  You have to use a tag-in move (Sliding Leg Sweep) or a fast move that 
+hits grounded opponents.  The Frankensteiner is TJC4 when it throws since you 
+can not tech recover.  Other non-generic tag throws AFAIK are TJC4 or TJC5.
+
+---------------
+- Tag Juggles -
+---------------
+
+If King is tagging in from a juggle starter, what he can do to finish the juggle 
+depends on how high the opponent is when he enters.  Here is what he can do with 
+each class excluding class 5.  If a combo works for a given class, it will work 
+for any higher class.  Note that not all of these are tested, but most should 
+work since they are mostly from Tekken Zaibatsu:
+
+TJC1:
+f+2+3
+f,f+2+3
+
+TJC2:
+= 1, 1+2,1
+= 1,2, f+4
+= 1,2, b+4
+= 1,2, f,f+4
+= 1,2, df+2, d+3+4,2
+= 1,2,1, d+3+4,2
+= 2,1, 1+2,1
+= 2,1, f,f+4
+= 2,1, f+4
+= 2,1, b+4
+= 4, d+3+4,2
+= d+3+4,4,4 
+
+TJC3:
+= d+1, d+3+4,4,4
+= d+1, WS+4, d+3+4,2
+= d+1, WS+2
+= d+1~N+2
+
+TJC4:
+= d+3+4,4,4
+= d+3+4,2
+
+Juggles listed in the Hop Kick section are considered TJC2 juggles for King.  
+
+################################################################################
+# CHAPTER IV - VS STRATEGY                                                     # 
+################################################################################
+
+Let's put all this knowledge together, shall we?
+
+===========
+= General =
+===========
+
+This is where you will find information on how to fight all characters in TTT.
+
+-----------
+- Okizeme -
+-----------
+
+Okizeme is loosely defined as the art of attacking someone who is downed.  For 
+King, it is imperative that you have good okizeme techniques.  King has so many 
+ways to keep you down or punish you when you stand up it should almost be 
+illegal. ;) There are different attacks you can use for okizeme, but they all 
+serve one purpose: to take more energy away from an opponent who is grounded or 
+trying to stand up.
+
+Stagger Kick                        WC,df+4_WC,df+3+4_d+3+4 LG            
+= Spinning Uppercut                 = ~2                    M KD          
+= Stagger Kick ~ Spinning Uppercut  = 4~2                   LG~M CH KD     
+= Stagger Kicks                     = 4,4                   LG,LG       
+  = Spinning Uppercut                 = ~2                  M CH KD       
+  = Stagger Kicks                     = ~4,4                LG,LG CH    
+
+This is probably your #1 move in okizeme.  This will actually hit grounded 
+opponents and opponents who are trying to get up.  If you hit an opponent while 
+they start to get up, you will cause a float or a counter (if they were able to 
+stand) that will allow you to add a Spinning Uppercut or one more Stagger Kick.  
+It is especially useful against characters who like to lay down a lot (Lei and 
+Eddy).  It can be also used after most knockdowns where the opponent can't roll 
+as well as after most ground throws.
+
+Disgraceful Kick                    b+4                     H
+
+If you need a fast attack to counter an opponent's missed wake up move, this 
+move has the fastest motion.  It will hit wake-up 3 and 4 if they miss even 
+though the Disgraceful Kick hits high.  Since it also reaches very far, you 
+usually don't have to move forward.  Just make sure the opponent's kick whiffs 
+and hit the opponent back onto the ground for more okizeme.  You can also use it 
+to start okizeme if you hit with it at point blank range.
+
+Konvict Kick                        f,f+4                   M
+
+If someone misses a foot sweep, I usually dash in and kick for good damage and 
+another knockdown.  Since you have to hit forward, make sure you don't 
+accidentally dash into the wake-up attack before nailing them with this.
+
+Rolling Sobat *!*                   f+4                     M
+
+This move is good for okizeme since it reaches far.  It can be used in places 
+where the Disgraceful or Konvict Kicks are used to attack missed wake-up 
+attempts.
+
+Moonsault                           1+4_f+1+4_BK 1+4        UG KD
+
+This is my second favorite move to punish grounded and standing opponents with.  
+The Moonsault is unblockable and will allow you to roll over and follow up with 
+a foot sweep.  If you counter with the foot sweep, you can Stagger Kick ~ 
+Spinning Uppercut and attempt another Moonsault (Moonsault Trap).  If an 
+opponent doesn't ground recover correctly, you can use it to counter their wake 
+up attempt.  Even though the Moonsault is easy to see coming, it can be hard to 
+avoid because of its unusual hit area.  If your opponent side (tech) rolls a 
+knockdown, wait for the side tech roll to almost finish and then go for the 
+Moonsault.  If done correctly, you should nick them with the Moonsault to allow 
+for the Moonsault Trap to start or continue.  However, if the opponent is fully 
+standing, you may get jabbed during the Moonsault attempt.
+
+Diving Body Splash *!*              f,F+2+3                 MG KD FD/S
+
+Since this move does hit grounded opponents, it should be mentioned in the 
+okizeme section.  It can hit grounded and semi-grounded opponents.  It will 
+leave King grounded, but you can go for a juggle with a wake up foot sweep (3).  
+If you miss, you may be subject to okizeme of your own.
+
+Sidestep (SS)                       u~N_d~N                 SS
+
+You can actually sidestep wake-up attempts.  To sidestep wake up attempts, it is 
+best to be just out of range or at the edge of the range for wake-up attacks.  
+If the opponent rises with a sweep (3), evade to your left since it is a left 
+kick and vice versa for 4.  If you do it right, you will evade the attack and be 
+able to set up a side throw, multithrow, or juggle.  For a high kick, you can 
+actually do a Deadly Boomerang to avoid and counter it if done correctly.  
+However, if you guess wrong/incorrectly, you will eat a counter hit or juggle.
+
+At the right range, you can follow side tech rolls with a sidestep in the same 
+direction as the tech roll.  You can actually do a sidestep multithrow to grab 
+them as they stand up from a side tech roll.  You can also crouching throw or 
+multithrow a side tech roller before he/she fully stands - a side tech roll 
+leaves you crouching before you can fully stand.  Since you can't throw any 
+moves while standing up from a tech roll, they have to escape the throw.
+
+--------------
+- Countering -
+--------------
+
+Knowing what and when to counter is important.  For example, if you duck under a 
+slow high move, feel free to Crouching Upper, Hop Kick or Ultimate Tackle (be 
+wary of escape or reversal).  It is very hard to counter with a low throw so I 
+advise against it in most situations.  Remember that you have a kick reversal 
+and a low parry.  If you can see a move coming and block it, chances are you can 
+reverse/parry the next move in that string.  Slower moves can be countered with 
+a Hop Kick or a command throw since you are in block stun.  Specific moves you 
+can counter will be discussed in the Vs Human section.  I have created three 
+"Counter Attack Classes" that are similar to the Tag Juggle Classes except that 
+they use letters.  These are moves that can used when you block an opponent's 
+attack.  There are three classes:
+
+Class A Counter Attack: Any attack that starts with a jab fits into this class.  
+This is used to counter relatively quick recovering moves.
+
+Class A Counter Attack examples: d+1~N+2, 1,2,1, 2,1, d+2
+
+Best Class A Counter Attacks: d+1~N+2 as long as you're in range
+
+Class B Counter Attack: Any attack that starts with an attack slower than a jab 
+but is still nonetheless quick.  The majority of King's moves are of Class B.
+
+Class B Counter Attack examples: uf+4, 1+2,1, b+4, f+4, df+3, df+4, df+1,2, 
+df+2, most normal throws
+
+Best Class B Counter Attack: uf+4, 1+2,1, b+4, f+4 (situation dependent)
+
+Class C Counter Attack: Any WC or WS that can be used to counter attack after a 
+low block.  Usually the move that is blocked has slow recovery or causes a trip 
+attack stun when blocked.
+
+Class C Counter Attack examples: WS+4, WS+1, WS+2, D+1~N+2, WC,df+2[~5], WS-
+uf+4, D,db,d,db+1+2
+
+Best Class C Counter Attack: D+1~N+2, WS+4, WS-uf+4, WC,df+2[~5]
+
+Any moves that can be countered by Class B can be countered with Class A moves 
+if you are up close to the opponent.  If a move can not be countered by most or 
+all of the moves in that class, only the successful/guaranteed counters will be 
+listed.  For Class C, some counters may not work if the attack blocked recovers 
+without a trip block stun.  However, since D+1~N+2 is a Class C counter, even 
+relatively quick recovering attacks can be countered after blocking.  Further 
+elaboration will be provided in the Vs Human section.
+
+------------
+- Recovery -
+------------
+
+Certain moves have a longer recovery than others.  Some examples are listed 
+below.
+
+Short Recovery          Medium Recovery         Long Recovery
+2,1                     uf+4                    WC,df+1
+1,2(,1)                 f,f+4                   WS+3
+WS+4                    (any missed throw)      WC,df+2
+WS+1                    uf+1+2                  f,f+2
+d+1~N+2                 SS+2                    (WC,df+4_d+3+4),4,4
+                        df+2                    f+2+3
+                        df+1
+                        f+4
+
+Ground recovery is also important.  Know when to tech/side/forward/back roll 
+based on who you're facing.  This really only comes with gameplay and practice.  
+While tech roll will prevent some pseudo combos/ground juggles, you are not 
+allowed to attack until after you fully stand.  If you do a side roll, you tend 
+to be safer, but you can be followed by a sidestep or dash.  If you roll 
+forward/backward, make sure you can do it safely.  If you don't, your opponent 
+will probably knock you back down while rolling, usually with some sort of 
+rejuggle or power move.  
+
+----------
+- Poking -
+----------
+
+Poking is the art of attacking up close to confuse or frustrate your opponent 
+into a mistake that you can take advantage of.  One of the best ways to poke is 
+through custom stringing.  A custom string is a series of attacks that are hard 
+to interrupt if they hit or are blocked.  At higher levels, this is very 
+important.  Poking can prevent opponents from turtling and interrupt slower 
+power attacks.  For most strings, if the previous hit is blocked, the next hit 
+can be reversed so buffer chickens between certain moves.  Here are some  
+examples:
+
+2,1, d+1~N+2, df+1,2
+1,2,1, d+1~N+2, throw
+1,2, df+1,2
+df+4, df+3, f+4
+1, d+1~N+2, 1+2,1
+
+There are tons that you can create to pester and annoy your opponent.  However, 
+the key is to make them block high long enough so you can throw them or block 
+low to eat a mid hit or juggle starter.  Poking allows for a good mixup that 
+will lead to more mistakes, throws, juggles, and frustration for your opponent.  
+
+------------------
+- Crouch Dashing -
+------------------
+
+King has moves that can only be done with a crouch dash.  However, he has moves 
+that can be done outside of a crouch dash that can also be done using a crouch 
+dash.  Here are some examples:
+
+f,N,d,df, uf+4 (Hop Kick)
+f,N,d,df,f, f+4 (Konvict Kick)
+f,N,d,df, f+4 (WS+4 Front Kick)
+f,N,d,df,f, f+2 (K's Flicker)
+f,N,d,df,f, f,N+2 (Stomach Smash)
+
+For the moves done in a crouch dash that normally/otherwise require a f,f 
+motion, it is necessary to buffer a forward into the crouch dash itself 
+(f,N,d,df,f_f,N,QCF).  If you do not, you will usually ending up doing WS moves.  
+The crouch dash gives extra range to these moves as well as provides a mix up 
+especially with the Hop Kick.  If your opponent crouches under what they think 
+is a multithrow attempt, these moves will hit them except for the Stomach Smash.
+
+==========
+= Vs CPU =
+==========
+
+I basically use the CPU to practice combos, multithrows, and new moves in TTT.  
+This is a great time and place to practice tag in moves especially in the early 
+rounds.  Tag in moves are important to survival versus human competition.  It is 
+also a good place to practice multithrows and complex command throws.  The 
+middle rounds are good juggle combo practice as well as poking.  Multithrows 
+become harder in later rounds because the CPU will always crouch unless just 
+tagging in or recovering.  Complex command throws are sometimes harder to pull 
+off as well for that reason.  The later rounds (Rounds 7 & 8) are all about 
+poking and countering and not using too many high recovery moves.  It is 
+difficult for me to give specific strategies for the CPU since it can depend on 
+difficulty and what characters you face.  No matter what round, always know how 
+to ground recover.  It may save your life in combat.
+
+============
+= Vs Human =
+============
+
+I am finally going to add some basic Vs Human strategies.  These are not 
+Complete by a long shot, but it's a start.  Any feedback would be hugely 
+appreciated.  I have attempted to list strengths and weaknesses for a character 
+as well as what moves to look out for.  I have also listed moves that you can 
+counter when blocked as well (see Counter Class listing above).
+
+Since I hate dying to unblocked 10-hit strings, I will include generic charts on 
+how to block 10-hit strings.  I do this by listing the low points in the string 
+for every character listed in this section.  There is no way to memorize all the 
+10-hit strings in the game.  However, I will do my best to inform you of what to 
+look for and how to always be able to at least block every 10-hit thrown at you.  
+How you counter and reverse 10 strings is up to you, but I will name obvious 
+places that King can reverse or counter.  I will try to create a generic chart 
+that covers all the 10-hit strings for a given character.  I want you to always 
+know how to block correctly even if you don't know the exact string the person 
+is using. I will use a compressed format that attempt to cover all the strings 
+for a character.  It will look like this (this is Paul's "blocking chart"):
+
+        5:
+       / 
+1-2-3-4-5-6-7-L-9-0:
+       \         / 
+        L-6-7-8-L
+
+Legend:
+0-9 = mid/high hit (always block high)
+L = low hit (hit may be high or low but not mid so block low to block/avoid)
+: = end of string
+/,\,- = possible string paths
+U = unblockable
+T = throw
+
+I hope this isn't confusing.  I will give a full explanation with each chart.  I 
+also have a separate FAQ for 10-hit string avoidance that should be out by the 
+time this revision is complete.  The 10-hit string sections for each character 
+are also listed in that FAQ, which can/will be on GameFAQs or at the following 
+locations:
+
+http://davidja.tripod.com/faqs/ttt10stringavoid.txt 
+http://homepages.msn.com/arcade/smuvmoney/faqs/ttt10stringavoid.txt
+
+----------------------
+- Mishimas & Kazamas -
+----------------------
+
+Chances are you will fighting a lot of Mishimas - Kazuya, Heihachi, and Jin are 
+among the best TTT characters.  Be prepared - they can put a hurting on you very 
+quickly.  They are similar in some ways, and all must be taken seriously.
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+~ Jin Kazama/Devil Jin ~
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+I find him to be the most commonly used Mishima (OK, he's a Kazama, but his 
+father is Kazuya Mishima).  Anyway, he can juggle with the WS+2, Tooth Fairy 
+(SS+2), Wind God Fist, Twin Pistons, or on a Stun Punch (b,f+2) CH.  Even though 
+the Wind God Fist hits high, you still must be careful.  If you ever get caught 
+on a Stun Punch CH, tag out IMMEDIATELY or hold forward to escape the stun and 
+hopefully be able to block the followup.  If you block an SS+2 or a 1,1,2, 
+punish Jin for his foolishness as both moves have poor recovery.  The WS+2 and 
+WS+1,2 are much harder to punish and have high priority.  His hell sweep is 
+pretty quick and hits low.   His new kick, the Demon Steel Pedal (b+4), can be 
+deadly on CH or in okizeme - roll to your right or SSR to avoid it whenever 
+possible.  The db+1, his other new move, causes a violent knockdown, which can 
+be followed by a 4~3.  If you are hit by this, immediately hold back to kip up, 
+watch Jin miss his 4~3 by inches if he tries it (block back to be safe), and 
+ground throw him quickly or okizeme him.  Jin does have a reversal, so be ready 
+to chicken if you anticipate one coming.  Try not to use too many slow moves at 
+close range for his 1,1,2 will find a way to demolish you for your foolishness.  
+Be careful of his White Heron (1+4,2) strings - try to stop him by crouching 
+under the 2 and then punching before he can get out the last kick.  If you can't 
+do that, try to anticipate the final kick and reverse or low parry.
+
+Here are a few moves that you can sidestep or counter:
+
+b,f+2,1,2: SSR the final hit unless it is in a hit string 
+SS+2: Class B
+1,1,2: Class B
+uf+4,4,4,4: Class C (you will cause a trip stun on either foot sweep)
+1+4,2,d+4: Class C
+
+Jin has the most hit strings in the game.  However, if you break them down based 
+on the starting moves in the string, they become less difficult.  Here are the 
+possible hit string starters:
+
+Punch Kick
+Kick Punch
+Punch Punch
+Devil Jin only
+
+
+Here are the possible block charts based on the starter of the string:
+
+                       4-5:        L-1:
+                      /           /  
+JIN PUNCH KICK = 1-2-3-L-5-6-L-8-9-0-1:
+                                    \ 
+                                     L:
+
+If he starts with a punch kick combo, one of two things can happen:
+
+1) Jump Kick: If he leaves the ground, attempt a reversal or throw a jab.  This 
+is the best way to stop the jump kick string cold.  If you miss that 
+reversal/punch attempt at hit 3, block low at hit 4 and then block high and 
+attempt another reversal at hit 5.  After that, hit 7 is low.  He throws high 
+moves for hits 8 and 9 so try to stop him there (crouch and counter) because at 
+hit 10, he can go mid (Thunder God Fist) or low (Can-Can Kicks).  If hit 10 gets 
+you, then it won't matter what hit 11 because you will be juggled.  If you do 
+block hit 10, he can still mix it up if he went for the Thunder God Fist.
+  
+2) If he does a punch (Laser Cannon) after the punch kick opening, simply block 
+high until hit 5.  The combo ends there.
+
+                                 L:
+                                / 
+JIN KICK PUNCH = 1-2-3-4-L-6-7-8-9-0:
+                                \  
+                                 9:  
+
+If the string starts with a kick-punch combo, crouch at hit 4 and counter.  This 
+is the best way to stop this string so you don't have to worry at all later.  
+However, if you block hit 4, you will eat a stun that will let him continue the 
+string with a White Heron combo (1+4,2).  I think you can parry the first hit of 
+the White Heron, but your timing has to be extremely precise.  From there he can 
+do the following at hit 8:
+
+1) Thunder God Fist: Stand up if you think this coming.  However, he can follow 
+the Thunder God Fist with a mid/low kick.  If you're really brave, do a SSL.
+
+2) Stun Punch: He starts the b,f+2 string.  Just block high.
+          
+                          L-6-L-8-U:         
+                         /          
+JIN PUNCH PUNCH = 1-2-3-4-5-6-L-L-9-0:
+                                   \
+                                    U:
+
+If the 10-string starts with two punches, then it is also somewhat complicated.  
+Here is what can happen next:
+
+1) Punch Punch to Kick Kick: If hits 3 & 4 are kicks, then he is going for a 9-
+string where hits 5 and 7 are low.  You have to hit him between hits 8 (mid) and 
+9 since hit 9 is actually unblockable.
+
+2) Punch Punch to Punch Punch: If hits 3 & 4 are punches, hit 7 will always be 
+low.  Hit 8 can be high or low so block low to be safe.  Stand up for hit 9 
+since that is always mid in this case.  Hit 10 can be an unblockable so if you 
+see lightning, hit him before he hits you.  
+
+DEVIL JIN = 1-2-3-4-5-6-7:
+
+Just block high.  This is actually a true combo where only the 6th hit is mid.
+
+~~~~~~~~~~~~~~~~~~
+~ Kazuya Mishima ~
+~~~~~~~~~~~~~~~~~~
+
+Kazuya doesn't have as many moves as Jin, and frankly, really doesn't need them.  
+He is relatively simple yet extraordinarily effective.  His gut punch (WS+2) is 
+widely respected and feared.  A clean hit will lead to VERY VERY BAD THINGS for 
+you.  He does have other gut punches which are also effective.  He can juggle 
+nicely with the Twin Pistons (WS+1,2) and the Wind God Fist.  He has a low Hell 
+Sweep from a crouch dash and his Stature Kick (db+4_1,2,4).  His few moves are 
+compensated mostly by the damage they do in juggles so be very careful.  Kazuya 
+does keep his Mist Step, which is kind of an auto SS.  Like Jin, he has the 
+infamous 1,1,2 so try to use moves with little recovery as possible.  Kazuya is 
+a bad azz, and those were just a few reasons why (the purple suit helps :).
+
+Here are some moves you can counter:
+
+1,1,2: Class B
+uf+4,4,4,4: Class C (you will cause a trip stun on either foot sweep)
+
+Kazuya has 3 hit strings: 1 9-hit and 2 10-hit.  Here is the blocking chart:
+
+                           U: 
+                          /
+KAZUYA = 1-2-3-4-5-6-L-L-9-0:
+                      \
+                       8-U:
+
+Kazuya always starts with punches.  However, what will happen next is based on 
+hits 3 & 4:
+
+1) Kicks: If hits 3 & 4 are kicks, then Kazuya is doing a 9-hit string.  Block 
+low at hit 7 (always low), stand up for 8 (mid), and hit him out of hit 9 
+(unblockable).  
+
+2) Punches: If hits 3 & 4 are punches, then block low for hits 7 (always low) & 
+8 (high or low but never mid) and stand up for 9.  If he starts to glow, hit him 
+because he is doing an unblockable.
+
+Hit 6 in either case is always a kick that can be reversed by King.
+
+~~~~~~~~~~~~~~~~~~~~
+~ Heihachi Mishima ~
+~~~~~~~~~~~~~~~~~~~~
+
+Where do I start?  Heihachi screams domination and that is what he will be 
+trying to do from the start.  Watch out for the Wind God Fist and the Twin 
+Pistons.  They are both very quick and lead to massively damaging combos.  He 
+can also juggle from his right kick CH.  His Hell Sweep has been toned down but 
+is still deadly when used correctly.  He can also sneak under attacks with the 
+Demon God Fist (f,f+2).  He also has a very quick Deathfist.  Heihachi is armed 
+to the teeth with ways to kill.  
+
+Here are some moves that can be countered when blocked:
+
+1,1,2: Class B
+uf+4,4: Class C
+QCF+2: Class B?
+1+2: Class A?
+f,f+2: Class B?
+
+Even though Heihachi has 4 10-hit strings, 3 of them can be blocked exactly the 
+same way.  Here is the blocking chart:
+
+HEIHACHI = 1-2-3-4-5-6-L-8-9-0:
+                \       
+                 L-L-6-7-8-9-0:
+
+Heihachi can start the string two ways:
+
+1) Kick: If he starts the string with a kick, hits 4 and 5 are low (Hell 
+Sweeps).  You can low parry either one of them.  The rest are high or mid.
+
+2) Punch: If he starts with a punch, the 7th hit is low. Block low or parry.  
+
+If you misblock the last low hit of either string, you may eat the rest of it.
+
+~~~~~~~~~~~~~~~
+~ Angel/Devil ~
+~~~~~~~~~~~~~~~
+
+I haven't fought Angel/Devil enough to give you very specific strategy, but I 
+will try.  You can crouch under the standing lasers (1+2_u+1+2) or even SS I 
+believe.  If he does the flying laser, run towards him.  If he goes behind you, 
+SS twice in the same direction to avoid the laser and then start running towards 
+him.  Angel/Devil has most of the Mishima's including a standing Twin Pistons, 
+Wind God Fist, and Hell Sweeps.  He also a new juggle starter, the Devil Twister 
+(SS+2).  He doesn't have many moves like Kazuya but can still be effective.
+
+Here are moves that you can counter when blocked:
+
+1,1,2: Class B
+1+2_u+1+2: Class C (if you crouched underneath it)
+uf+4,4: Class C
+
+Angel/Devil has 1 10-hit string, taken from Kazuya.  Here is the block chart:
+
+ANGEL/DEVIL = 1-2-3-4-5-6-L-8-9-0
+
+Hit 7 is always low.  Block low here or eat the rest of the string.
+
+~~~~~~~~~~~~~~
+~ Jun Kazama ~
+~~~~~~~~~~~~~~
+
+I haven't fought many Jun's but I will try to give some decent analysis.  Jun is 
+the mistress of confusing strings.  She can continue spinning and stringing 
+until the cows come home, but your reversal and low parry can stop her cold.  Be 
+wary of her b+1, WS+3 trap among other things especially from Jun scrubs.  Her 
+White Heron mixup can mess you up if you're not careful.  She can do other 
+strings from the White Heron instead of the 4_d+4 mixup like Jin.  If you block 
+a sweep in any string, the Cartwheel (should she do one) afterward is reversible 
+almost on reacion - take advantage of this fact.  If you are thrown by her, roll 
+to the side to avoid a Cartwheel follow up, which causes major damage if you 
+roll forwards or backwards.
+
+Here is what you can punish:
+
+d+3+4_any string that ends in Can-Can Kicks: Class C if the second hit goes over 
+your head?
+3+4: Class A?
+
+Here is the block chart for Jun hit strings:
+
+JUN = 1-2-3-4-5-L-7-L-9-0:
+           \         \ 
+            4:        L-0:
+
+Here is what can happen during the string:
+
+1) Kick @ Hit 4: If hit 4 is a kick, the string will end there.
+
+2) Punch @ Hit 4: If hit 4 is a punch, then be prepares to block low at hit 6.
+
+Hit 6 is always low, but it can take one of two forms:
+
+1) White Heron Kick: If hit 6 is the start of the White Heron combo, then hit 9 
+will be low.  Blocking hit 9 low will allow hit 10 to go over your head since is 
+it high (Can Can Kicks).
+
+2) Punch: If hit 6 is a punch, then hit 8 will be low.  I believe hits 9 and 10 
+are a Cartwheel Kick that can be reversed IIRC.
+
+Remember Jun has other string series as well, none of which are covered here.
+
+~~~~~~~~~~~~~~~
+~ Lee Chaolan ~
+~~~~~~~~~~~~~~~
+
+Lee is more than ever his own character in TTT.  He has a few moves of Law, but 
+he can not be used like Law.  He has a few mixups from his d+4 kick.  Remember 
+this though: if he goes low and does the d+4,4,4,4, simply block the third and 
+reverse the 4th kick, which is mid.  If the second kick is high, stand up 
+because he can follow with a flipkick for the 3rd hit.  If the third hit isn't a 
+flipkick, crouch again for the 4th hit is also a high kick.  If he goes into his 
+kick unblockable from the second hit, simply crouch since it is UH (high 
+unblockable).  If he starts his infinite kicks, SSL twice and you can usually 
+back throw for free.  He has two juggle starters from his Hitman stance so be 
+wary if he goes into that stance.  You may be able to Stagger Kick him once from 
+maximum range.  His "Blur Kick" (f+4) is fast but hits high and doesn't do much 
+damage.  His Silver Heel (b+4) will juggle on CH and can interrupt you quite 
+easily, but it comes out slow and is easy to see coming if you're not stuck in 
+the middle of a move.  His Blazing Kick is also a little slow, but it is an 
+excellent tag juggle starter (TJC1 I believe).
+
+I haven't played against Lee enough to tell you what you can counter after 
+blocking it, but I can try:
+
+2,f+2,2_2,2_or any string ending as such: Class A (d+1~N+2)
+
+Lee has only one 10-hit string that is taken from Law:
+
+LEE = 1-2-3-4-5-L-7-8-9-0
+
+As with Law, hit 6 is low.
+
+-------------------------
+- Martial Arts Wannabes -
+-------------------------
+
+These are the characters that are somewhat based on martial arts actors, past 
+and present or who practice an easily recognized established martial art.
+
+~~~~~~~~~~~~~~~
+~ Forrest Law ~
+~~~~~~~~~~~~~~~
+
+Law is the master of inside poking.  His b+1,2,1 CH and b+2,3,4 are made to mess 
+you up.  He has very fast jabs and can juggle off of a CH d+2 (d+2,3).  He also 
+has the standard hop kick and uppercut.  His One-Inch Punch (f+2~1) has amazing 
+priority and can lead to some high damage tag juggles.  Use a lot of d+1~N+2 to 
+interrupt his pokes.  Most Laws try to CH with the b+1,2,1 after making you 
+block other strings - d+1~N+2 comes in handy for this purpose.  You can reverse 
+almost any flipkick if you block the hit before it as long as you're in range.  
+Some flipkicks recover faster can others - enough so that Law can do his parry 
+on any move you throw as a counter and punish you.  Many also recover crouching.  
+If Law is ever stupid enough to do the Shaolin Spin Kicks (4,3,4), crouch 
+underneath the third one and DDT him (or almost any Class C counter) for his 
+stupidity. :) If you see the Tricky Step, just stay out of range and let Law 
+dance.  It will end in a few seconds.
+
+Here is what you can sidestep or counter:
+
+b+1,2,1: SSL the last hit; otherwise Class A
+b+2,3,4: If you block the 3, reverse the 4; otherwise Class A
+db+4: Class C or Class B (just stand up quickly first)
+db+2,4_d+3+4: f,f+4/Class B if he doesn't lie down ; if he lies down, d+3+4
+2,2_f+2,2,2_any string ending as such: d+1~N+2 (Class A?)
+
+Law's 10-strings are almost as complex as Jin's.  Unlike Jin, they can be 
+defeated with a simple blocking scheme if you know the patterns.  Here is Law's 
+simple blocking chart for all his strings:
+
+LAW = 1-L-3-4-5-L-7-L-L-0:
+
+Hit 2 can go high or low but not mid so block low to be safe.  Hit 3 is always 
+mid so stand up quickly.  Hit 4 is high.  Hit 5 is always a high left kick so 
+reverse it if you wish to or crouch and counter before Hit 6.  Hit 6 is always 
+low and is good low parry bait.  However, if you misblock it, you may end up 
+eating the rest of the 10-string.  Hit 7 can be high or mid so stand up to be 
+safe.  Hit 8 and 9 can be high or low but not mid so block low to be safe.  Hit 
+10 is always mid so stand up.  You can also reverse hit 10 as it is always a 
+flip kick/somersault.
+
+~~~~~~~~~~~~~~
+~ Lei Wulong ~
+~~~~~~~~~~~~~~
+
+As TTT's stance master, Lei is all about confusion.  He can confuse you into an 
+array of mistakes through his rushes and stances.  He can go into several 
+standing stances and a few while lying down.  However, all is not lost.  You can 
+sometimes interrupt his stances and punish him on the ground.  Watch out for the 
+rush punches - this is normally the main method of confusion - he can go into 
+any of his animal stances from it.  If you block all the moves in the rush 
+before he sidesteps, a d+1~N+2 will usually stop him cold.  Also be wary of the 
+drunken stance - he has a punch parry from that stance.  He also has other 
+parries from other stances as well.
+
+You can always counter the following Lei moves when blocked:
+
+4~4,3,3: d+3+4 (or ground throw if he just misses)
+SS Stance changes: d+1~N+2 if you blocked the move before the SS unless the 
+stance has a specific parry
+3,3: f,f+4 (other Class B/C may miss or be countered by a low BK backfist)
+1,2,1: WS-uf+4 (other Class C moves may get countered by a low BK backfist)
+
+Lei has 3 strings: 1 9-hit and 2 10-hit.  Here is the blocking chart:
+            
+                  L-L-9: 
+                 / 
+LEI = 1-2-L-4-5-6-7-8-L-0:
+                     \ /           
+                      9
+
+It actually gets complicated if you forget to do one thing: block low on the 3rd 
+hit.  If you block the 3rd hit, simply Hop Kick for a free juggle or WS+4 for 
+free damage.  If you don't block it, he can juggle you with backfists (very 
+likely) or he will perform a backflip at hit 4 and continue the string (unlikely 
+but possible).  Here is what can happen in the string from there:
+
+1) Three Backflips: If Lei backflips, three times, he is going into his 9-hit 
+string.  After the third flip, block low or parry hits 7 & 8 and stand up for 9.  
+
+2) One Backflip: If he only flips once, you won't have a problem until hit 9, 
+which can be mid or low.  However, since hit 7 is a break point and a high kick, 
+you have a window where you can crouch and quickly counter (hit 8 is mid) or 
+reverse the kick, which is pretty easy to do.  Since the other two strings are 
+the same until hit 9, you best stop Lei before that time.  If you block hit 9, 
+you can reverse hit 10 as it is always a high kick.
+
+Do yourself a favor: Block low at hit 3 and counter to stop the string. :) 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~ Eddy Gordo/Tiger Jackson ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+He is second to Lei in terms to stances and confusion due to the nature of his 
+strings.  Even those most Eddy players will rely on stances (handstand/relaxed), 
+Eddy can be dangerous while standing.  He has many strings as well as single 
+moves that do not require any special stance.  He can also sidestep very wide 
+since his natural fighting stance involves a continuous sidestep.  The best way 
+to learn all his string follow-ups is to fight a lot of Eddy players or actually 
+attempt to learn Eddy.  
+
+Here are some counters to blocked Eddy moves:
+
+b+4,4,3+4: d+1~N+2, uf+4 - you can reverse the 2nd 4 IIRC
+3~4,4,4: low parry the third or fourth hit
+Relaxed position: df+1, d+3+4 (if you blocked the previous move)
+
+Eddy has only one true hit string:
+
+EDDY/TIGER = 1-2-3-4-5-6-7-8-9-0-1:
+                      \
+                       L...
+
+If the 6th hit is low, he goes into the Leg Whip strings (which will not be 
+discussed here).  Block high otherwise.  It may be better to stand and block 
+since Eddy's 11-hit has no break points after the 4th hit or later IIRC.
+
+~~~~~~~~~~~~~~~~
+~ Paul Phoenix ~
+~~~~~~~~~~~~~~~~
+
+First and foremost, don't miss any moves with slow recovery as you will be 
+rewarded with a deathfist.  If you are hit by a deathfist, remember to stop the 
+rollback knockdown with an immediate ~DB or ~db+2.  His QCB sway can also make 
+you miss and leave you open.  Watch out for his jump kicks.  Paul has very good 
+jump kicks that most players overlook.  Now that he also has SS moves, be wary 
+of the SS+3 since it hits low.  Paul is never a fun match and can be over quick 
+for you if you're not careful.  Be very careful when tagging in against Paul.  
+If he is close to you when you tag, your partner may not be able to get off a 
+tag move in time.  You may have to jump (UB_U_UF) as soon as you tag to avoid 
+catching a deathfist.  Since he has a reversal, learn to chicken.  Paul has two 
+good double-button escape throws.  Be very wary of both of those.  Poke safely 
+and smartly and chicken and you should be OK.
+
+Here is a list of good counters for blocked Paul moves:
+
+d+1: d+1~N+2 (stops deathfist/falling leaf follow-ups from the elbow up close)
+QCF+2_d+1,2: d+3+4, df+3, or maybe most of Class B (easier to counter up close)
+d+4,2_d+1,4,2: Class B
+f,f+3,4,4_df+4_d+4: d+1~N+2? (I think you can enter this before the third kick)
+QCF+1: Class A (Let me check on this)
+
+Here is how you can best defend against Paul's 10-strings:
+         
+               5:
+              /  
+PAUL = 1-2-3-4-5-6-7-L-9-0:
+              \
+               L-6-7-8-L-0:
+
+If he goes into his 5 hit, it ends in a deathfist so block high if you're 
+not sure what string he is doing.  It's not worth losing the damage.  He can 
+also do a 10-hit string where the 5th hit is low.  If Paul goes into his 10-hit 
+strings, remember this: If the 5th hit is low, the 9th hit is also low.  
+Otherwise, the 8th hit will be low.  That's all you ever need to know.  
+
+~~~~~~~~~~~~
+~ Hwoarang ~
+~~~~~~~~~~~~
+
+Even though Hwaorang uses a lot of kicks that can be reversed by King, smart 
+'Rang players will make use of his punches to stop you.  They will not throw 
+kicks that are easily reversible.  They will peck at you, trying to bait you 
+into a reversal to fake you out and get a free hit or juggle.  This is where his 
+stances come in (Left/Right Flamingo and Left/Right Foot Forward).  This is 
+where Hwoarang can get evil unless you know what can be thrown out of each 
+stance.  Hwoarang is not a given victory in TTT unless he gets too predictable 
+with his kicks.  Watch out for the df+2 - if you get hit by it, hold down to 
+avoid the incoming Torpedo Kick, which leaves Hwoarang at a huge advantage.  If 
+Hwoarang is able to low parry one of your attacks, a Sky Rocket (f,N,d,df+4) is 
+guaranteed IIRC.  Some of his kicks can hit you to the side when blocked so 
+quickly face forward and block unless you want to eat more kicks.
+
+Here is what you can counter easily:
+
+3,3,3,3: reverse the 4th hit if you blocked the third
+db+3+4: reverse this unblockable (not that hard to do and the look on your 
+opponent's face will be priceless :)
+d+4,4: Class C if you blocked the d+4 correctly or crouch under the 4 or reverse 
+the 4 if you blocked the d+4
+
+Hwoarang has 2 10-hit strings.  Here is his blocking chart:
+
+HWAORANG - 1-2-3-L-5-6-L-8-9-0:
+
+For Hwoarang, hits 4 & 7 are always low.  Hits 7 & 8 are the Firecracker combo 
+(d+4,4) so block low and counter/punish. 
+
+~~~~~~~~~~~~~~~~
+~ Baek Doo San ~
+~~~~~~~~~~~~~~~~
+
+Beak, Hwaorang's teacher has some of the moves that Hwoarang has including the 
+Flamingo stances.  His kick strings can be just as deadly as his pupil.  He also 
+has some good punches to keep you from trying to reverse incessantly.  Most of 
+his kick strings do have some lag so if you block one, a quick d+1~N+2 should 
+work most of the time.  Watch out for his f,f+2 throw - it comes out deceptively 
+quick (as does Hwoarang's).  I wish I had more to say, but I haven't fought that 
+many Baeks yet.  
+
+Baek also has 2 10-hit strings.  Here is his blocking chart:
+
+BAEK = 1-2-L-4-5-6-7-8-L-0:
+            \
+             L-5-6-7-L-9-U:
+
+If hit 3 is low (it can be high or low), stand up for hit 4 as it is mid - in 
+this case, hit 9 will be low.  If hit 3 is not low, hit 4 is low, hit 8 will be 
+low and hit 10 will be an unblockable that King can reverse IIRC.
+
+~~~~~~~~~~~~~~
+~ Bryan Fury ~
+~~~~~~~~~~~~~~
+
+Bryan can outpoke you with his jabs and quick kicks and strings.  He can 
+demolish you with his Mach Punch on slow recovering moves.  He has a ton of 
+juggle starters and stun moves as well (especially the b+2,1...).  You may be 
+spending some time turtling waiting for an opening.  If he crouches, he can 
+juggle or throw with the Chains of Misery, which is a double button escape 
+{1+2}.  Watch out for the new Snake Slam (b+1) - it is great for interrupting 
+moves and causes a bounce juggle. 
+
+Here is what you can counter:
+
+f,f+3: Class B
+3,2,1,2: Class B
+df+3: Class C
+
+Bryan Fury has 3 hit strings: 2 8-hit and 1 10-hit.  Here is the blocking chart:
+
+BRYAN = 1-2-3-4-5-6-7-8-9-0:
+                     \
+                      8:
+
+Bryan's block chart is quite simple because there are no low hits in any of his 
+hit strings.  Also, hits 5 & 6 are always high - you know the routine. :)
+
+~~~~~~~~~~~~~~~
+~ Ling Xiaoyu ~
+~~~~~~~~~~~~~~~
+
+Ling is the mistress of sidestepping.  She can easily get behind you or to the 
+side of you before you even realized what happened.  She is very effective from 
+her Rain Dance Stance (RDS) and her Art of Phoenix (AOP) stance.  Even though 
+she no longer has the WS+2 juggle except on CH, she can still juggle you with 
+the RDS 4 (Mistrust), AOP (1+2 variations), and her new df+2~1.  Watch out for 
+her db+1 - it is almost a deathfist like move for her.  Her main weaknesses are 
+that her hits and her stamina are relatively weak.
+
+If you dare, here is what you can counter I think:
+
+RDS 4_any string ending as such: Class A or reverse the kick
+AOP: d+3+4
+df+2~1: Class B? definitely Class A
+b+4_SS 4: Class A?
+
+Ling has 2 10-hit strings.  Here is the blocking chart:
+
+LING = 1-2-3-L-L-6-L-L-9-0:
+            \   /    
+             4-5
+
+Ling can go low or mid at hits 4 and 5.  After that, hits 7 & 8 are always low.
+
+~~~~~~~~~~~~~~~
+~ Bruce Irvin ~
+~~~~~~~~~~~~~~~
+
+Bruce Irvin has become a fearsome character as of late.  He has a ton of short 
+strings that can be mixed up to make you misblock.  If you get juggled, chances 
+are you will see the Triple Knee as the juggle ender.  It does massive damage 
+and Bruce huge comeback power.  Watch out for his Knee Strike (b,f+4).  It is 
+king of slow but can interrupt moves very easily.  Watch out especially for the 
+3,2,1,4 string.  On CH, the 1 will juggle and you will lose at least half a 
+lifebar.  Bruce is never an easy match but he is beatable.  You can safely poke 
+him and SS some of his strings since Bruce tends to be linear.  
+
+I'm not sure what moves you can counter against Bruce (more research needed :).
+
+Bruce Irvin has no 10-hit strings.  He has tons of other canned strings. :)
+
+---------------------------------
+- Ain't Nuthin But A Chang Wang -
+---------------------------------
+
+This section is devoted the Changs and characters like them.
+
+~~~~~~~~~~~~~~~
+~ Julia Chang ~
+~~~~~~~~~~~~~~~
+
+Julia is feared for good reason, mostly the f,f+1 elbow and 1~1,1 on CH.  She 
+can juggle for massive damage especially with her Mountain Crusher string 
+(df+4,2<b,f+1) or elbows into d,df+1,2.  She has a hop kick that is deadlier 
+than King's, only slower in recovery.  She can mix it up like the Williams' and 
+any counter hit can lead of losing half a life bar.  She can also mix it up from 
+a WC position with the Bow and Arrow Kick, the lunging elbow, and the Skyscraper 
+Kick (WC,df+4,3, WC,df+2, and WS+4 respectively).  If you successfully block any 
+of these WC follow-ups, you can punish her.  Be very wary of her Mad Axes - 
+Julia can do the QCB from a few steps away, walk towards the opponent and then 
+press 2 more than a full second later and still get the throw, which is a double 
+button escape to boot.  If you see a right kick, prepare to low parry and save 
+yourself the 4,4 mixup woes.  Otherwise, you will have to watch Julia very 
+closely to make sure you don't misblock.  Her right kick even floats on CH for 
+very easy damage.  At close range, she can beat you down with the 1~1,1, df+1~1, 
+or f,f+1, all of which can take out most King's fastest punch attacks (even the 
+Elbow Sting) and get the CH and juggle/knockdown way too easily.  Your only 
+friend as always is the d+1~N+2.  It can help stop strings, but you will just 
+have to play defensive and take advantage of low parries, reversals, and other 
+mistakes from Julia.  Julia is not one to be played around with unless you want 
+to die quickly. 
+
+Here are some class counters for certain moves:
+
+d+4,1_4,4,1_any string ending in the Razor's Edge: Class B
+1~1,1_df+1,1_any string ending in the Flash Uppercut: Class A
+WC,df+4,3_any Bow & Arrow string: Class B or reverse the 3 if the 4 is blocked
+uf+3+4: Class B
+WS+4: Class A?
+f+1: Class A? 
+
+Julia has 3 10-hit strings:  Here is the blocking chart: 
+
+JULIA = 1-2-3-4-L-6-7-L-9-U:
+                     \   
+                      8-L-0:
+
+Remember that the 5th hit is always low - low parry it if you can.  Stand up 
+again for hits 6 and 7 since they are mid or high.  It get somewhat complicated 
+after that though.  Hit 8 can be high, mid, or low, but there is a string break 
+point before hit 9.  Even if you misblock hit 8, you will be OK as long as you 
+block hit 9.  It comes down to this for the last three hits: 
+
+1) Hit 8 Is Low: if Hit 8 is low, block high for hit 9.  If hit 9 is blocked, 
+hit 10 won't come out since it's a Sky Upper (listed as an unblockable).
+
+2) Hit 8 Is Not Low: If hit 8 isn't low, hit 9 will be low and hit 10 will be 
+mid (a Flash Upper).  That wasn't too confusing, was it? ;)
+
+At hit 8, you basically switch blocking from low to high or vice versa.
+
+~~~~~~~~~~~~~~~~~~
+~ Michelle Chang ~
+~~~~~~~~~~~~~~~~~~
+
+Michelle, even though she's not as good as Julia, can definitely hold her own.  
+She has many of the moves that Julia has including the f,f+1 elbow, 1~1,1, 
+df+1,1, Bow and Arrow mixups, etc.  Even though her elbow doesn't knock down, 
+f,f+1,4 juggles if the f,f+1 hits on CH.  She also has better SS moves than 
+Julia as well as a new high-hitting lunge punch (f,f+2).  She also have some 
+other juggles starters as well.
+
+Here are some class counters for certain moves:
+
+d+4,1_4,4,1_any string ending in the Razor's Edge: Class B
+1~1,1_df+1,1_any string ending in a Flash Uppercut: Class A
+WC,df+4,3_any Bow & Arrow string: Class B or reverse the 3 if the 4 is blocked
+uf+3+4: Class B
+WS+4: Class A?
+f+1: Class A?
+
+Michelle has the same 3 10-hit strings as Julia:
+
+MICHELLE = 1-2-3-4-L-6-7-L-9-U:
+                        \   
+                         8-L-0:
+
+Remember that the 5th hit is always low - low parry it if you can.  Stand up 
+again for hits 6 and 7 since they are mid or high.  It get somewhat complicated 
+after that though.  Hit 8 can be high, mid, or low, but there is a string break 
+point before hit 9.  Even if you misblock hit 8, you will be OK as long as you 
+block hit 9.  It comes down to this for the last three hits: 
+
+1) Hit 8 Is Low: if Hit 8 is low, block high for hit 9.  If hit 9 is blocked, 
+hit 10 won't come out since it's a Sky Upper (listed as an unblockable).
+
+2) Hit 8 Is Not Low: If hit 8 isn't low, hit 9 will be low and hit 10 will be 
+mid (a Flash Upper).  That wasn't too confusing, was it? ;)
+
+At hit 8, you basically switch blocking from low to high or vice versa.
+
+~~~~~~~~~~~~~~~
+~ Wang Jinrei ~
+~~~~~~~~~~~~~~~
+
+Wang is unusual in that he has some of the Julia/Michelle moves like the Sky 
+Upper, the 4,4, the 1~1, the Bow and Arrow etc, but I don't play him like a 
+Chang as such (and most of my opponents don't either).  Wang has some very 
+powerful moves and some disgustingly effective combos.  He does have a Deathfist 
+and a reversal so stay on your toes for both of those.  His f+4, albeit slow, 
+can punish any blocked move with slow recovery.  His best juggles come from the 
+Tiger Mountain to False Lift (db+4,2 or db+2 for just the False Lift).  If 
+blocked, they are slow to recover so punish.  He also has the Sky Upper and a 
+Hop Kick, but the Hop Kick has lousy recovery.  He also has some simple power 
+attacks like f+2 and df+1+2 that can keep you on the ground or nail you when you 
+are there.  Even though his stamina is his greatest weakness, he can beat you 
+quickly enough so that you don't have a chance to hit him.
+
+Here are a few moves you can counter when blocked:
+
+d+4,1_4,4,1_any string ending in the Razor's Edge: Class B
+1~1,1_df+1,1_any string ending in a Flash Uppercut: Class A
+WC,df+4,3_any Bow & Arrow string: Class B or reverse the 3 if the 4 is blocked
+uf+3+4: Class B
+WS+4: Class A?
+db+2_db+4,2: Class B?
+uf+4: Class B
+
+Wang only has one ten hit string.  It is actually from Julia:
+
+WANG = 1-2-3-4-L-6-7-8-L-0:
+
+Hits 5 and 9 are low - simple. :)
+
+------------------------
+- The Williams Sisters -
+------------------------
+
+~~~~~~~~~~~~~~~~~
+~ Nina Williams ~
+~~~~~~~~~~~~~~~~~
+
+The queen of mean can outpoke you, outdistance you, throw you, and multithrow 
+you with ease.  She can do some inhumane juggles even off the simple df+2 
+uppercut.  At close range, watch out for the d+4,1 - d+3,2 - db+4,3 - d+1~N+4 
+and other potential low-high mixups and strings.  If the low kick on most of 
+them counter hits, the following move is unblockable, which usually results in a 
+juggle or good damage.  She can also SS out of the d+4,1 (and some other moves 
+as well) into multithrow or other attacks, which causes havoc from there because 
+of a large sidestep.  Chicken your slower moves due to reversals.  The d+1~N+4 
+is very similar to King's d+1~N+2 except it reaches further.  Watch out for her 
+uf+4,3,4 as it comes out quickly.  If you don't know them already, find out all 
+the escapes for her multithrows.  Nina's mutlithrows can do as much damage as 
+King's.  Watch out for the Can Opener (uf+4,3,4).  It's a quick and easy way for 
+Nina to get inside and poke you down.
+
+Here is a short list of moves that you can counter when blocked:
+f+1+2_WS+1+2_any string ending in f+1+2: b+4, f+4 or most of Class B I think
+db+3+4: Class B
+db+4,3: Reverse the 3 if the db+4 was blocked; otherwise Class B
+db+4: d+3+4 when she is grounded 
+df+2_Any string ending in df+2 upper: Class A? or maybe SSR last hit?
+
+For Nina, here is the best way to defend against 3 10-hit strings:
+
+NINA = 1-2-3-4-5-L-L-8-L-0:
+
+Hit 1 can be mid or high.  The second through fifth hits are always high so you 
+can crouch and D+1 before hit 6.  The 5 hit is always a high kick so reverse it 
+if you're feeling risky and frisky.  The 6th hit is always low for all strings.  
+Hits 7 and 9 can be high or low but never mid, so if you're not sure what string 
+she is doing, then block low at those points to be safe.  Stand up for hit 8 
+with Nina since it can be only mid or high.  Hit 10 is always a kick so if you 
+block/avoid hit 9, feel free to reverse the kick.
+
+~~~~~~~~~~~~~~~~~
+~ Anna Williams ~
+~~~~~~~~~~~~~~~~~
+
+While Nina has better juggle starters than Anna, Anna is said to be a better 
+overall poker.  She has the WC & SS mixups on top of most of Nina's pokes to 
+boot like the d+1~N+4.  She can come mid or low out of WC so be very careful.  
+Her multithrows, although not as varied as Nina, look very painful and do good 
+damage if not escaped.  Pay attention to the Fatal Attack (uf+1,3).  Even if the 
+punch misses, the kick comes out very fast.  As I mentioned, Anna doesn't have 
+as many good juggle starters, but once her opponent is airborne, she can lay the 
+smack down very nicely.  Her df+4 hits low like King's and is good for poking 
+annoyance.  Her Cat Stance (b+4) autoparries low and reverses throws IIRC - so 
+don't do anything to trigger those reversals.  Her Assassin Dagger/Thruster 
+(QCF+1) hits high but comes out quickly and juggles on CH.  As with Nina, watch 
+out for the Can Opener (uf+4,3,4).  It comes out quickly and gets Anna inside to 
+really take you out.  
+
+You can counter the following when blocked:
+
+df+2_Any string ending in df+2 upper: Class A? or maybe SSR last hit?
+f+1+2_WS+1+2_any string ending in f+1+2: b+4, f+4 or most of Class B I think
+uf+4,3,4: If you blocked the 3, crouch or reverse the 4
+
+Anna only has one hit string so the blocking chart is simple:
+
+ANNA = 1-2-3-4-5-L-7-8-9-0
+
+Hit 1 can be mid or high.  All the hits afterward are high except for Hit 6 
+(low).  Ironically, you can use Nina's blocking chart as well for Anna since 
+Anna's only string is also used by Nina.
+
+--------------------------------
+- Jacks of All Trades & Spades -
+--------------------------------
+
+All 3 Jacks scream power as well as Ganryu and Kuma/Panda, who share a lot of 
+the Jacks' moves.  However, in TTT they have a lot of unique moves that actually 
+differentiate the Jack "family" of characters.
+
+~~~~~~~~~~~~
+~ Gun Jack ~
+~~~~~~~~~~~~
+
+Gun Jack happens to be my favorites of the Jacks.  He is powerful, can juggle 
+pretty well, and is built like a tank in terms of endurance.  His major weakness 
+is that overall, he is pretty S-L-O-W.  Almost any blocked/missed move has 
+significant recovery.  However, his jab (2_f+2_d+2) does not; it can keep you at 
+bay and set you up for a juggle or throw.  He has several juggle starters 
+including df+2 and WS+1 and a throw.  His various 1+2 attacks do hellacious 
+damage so slow recovering moves are basically a no-no.  His new b+2 can sneak 
+under high attacks and smack you back easily.  He has a good low attack game 
+(FC,1,1,..., b,db,d,DF+1, FC,1+2, df+2+3) to keep you guessing.  He even has a 
+low throw to boot to complement his already large array of standing throws.  If 
+you can outpoke him, the battle may be yours.  By the way, please watch out for 
+his unblockables.  You should never get hit by them if you're remotely paying 
+attention.
+
+Here is what you can counter against Gun Jack:
+
+f+1+2,1+2: Class C
+1+2,1+2: Class B (b+4 preferably)
+b,db,d,DF+1: Class C if in range I think
+3+4: Run under and back throw
+f+4~1: Hit him quickly w/ anything
+db+4,3...: Class C
+d+3+4,1,2,...: Class C or Class B
+
+(I usually play as Gun Jack not against him...more research needed)
+
+Gun Jack has 4 10-hit strings:
+
+GUN JACK = 1-L-L-4-5-6-7-8-9-0:
+            \       /     \ /
+             2-L-L-L       L
+
+There are two ways he can start the string:
+
+1) Jump Punch: If he jumps for Hit 1, then hits 3-5 will be low Cossack Kicks.
+
+2) Low Right Punch (d+2): From here, he will go into a low Shark Attack for hits 
+2 & 3 and uppercut for 4 and 5.
+
+At hit 6-8, block high for the Wild Swing mid triple.  He can then go low or 
+mid.  If you see Gun Jack duck down, block low.  Stand for hit 10.
+
+~~~~~~~~~~
+~ Jack-2 ~
+~~~~~~~~~~
+
+Jack-2 suffers from some of the same problems as Gun Jack.  He is also quite 
+powerful.  He has gained a new shoulder tackle similar to King's and some SS 
+moves, one of which is a juggle starter.  He can set you up with the jab as 
+well.  His low game as similar to Gun Jack but not as good.  He doesn't have the 
+low throw Gun Jack possesses.  He does have most of the 1+2 strings that do 
+massive damage.  He also has most of Gun Jack's throws and juggles.  He is 
+stronger and tougher than King but not unbeatable.  
+
+You can counter the following moves of Jack-2:
+
+f+1+2,1+2: Class C
+1+2,1+2: Class B (b+4 preferably)
+b,db,d,DF+1: Class C if in range I think
+3+4: Run under and back throw
+f+4~1: Hit him quickly w/ anything
+db+4,3...: Class C
+d+3+4,1,2,...: Class C or Class B
+
+Jack-2 has the same strings as Gun Jack:
+
+JACK-2 = 1-L-L-4-5-6-7-8-9-0:
+          \       /     \ /
+           2-L-L-L       L
+
+There are two ways he can start the string:
+
+1) Jump Punch: If he jumps for Hit 1, then hits 3-5 will be low Cossack Kicks.
+
+2) Low Right Punch (d+2): From here, he will go into a Shark Attack for hits 2 & 
+3 and uppercut for 4 and 5.
+
+At hit 6-8, block high for the Wild Swing mid triple.  He can then go low or 
+mid.  If you see Jack-2 duck down, block low.  Stand for hit 10.
+
+~~~~~~~~~~~~~~~~~~
+~ Prototype Jack ~
+~~~~~~~~~~~~~~~~~~
+
+Prototype Jack is somewhat different than the other Jacks.  He lacks a lot of 
+the moves the other two have - less 1+2 strings for instance.  Instead, he has a 
+decently quick TJC1 starter and a d+1,2 similar to Paul and Heihachi.  He also 
+has the jab and a new f+1 elbow to poke with.  He also has some good SS moves as 
+well.  Even though he has a Jack in his name, he is a little different from the 
+other two Jacks.  
+
+Prototype Jack only has one string, taken from the other Jacks:
+
+PROTOTYPE JACK = 1-L-L-4-5-6-7-8-9-0
+
+Block low at hits 2 & 3.
+
+~~~~~~~~~~
+~ Ganryu ~
+~~~~~~~~~~
+
+Ganryu can be a nightmare.  He has the power of the Jacks but with improved 
+speed and maneuverability.  He has fast jabs, a short shoulder tackle, mad 
+juggles, and good poking moves.  His short shoulder tackle can go under many 
+attacks very easily.  He has a good low game like Gun Jack with the df+3, 
+FC,1+2, and df+2+3.  He is great in okizeme.  He has a good SS game and even has 
+a punch reversal to boot.  A good Ganryu can overpower or finesse you.  He has a 
+few of the 1+2 Jack strings, but his other moves are more varied than the other 
+Jack-like characters.  He even has decent follow-ups from the Sit Down Stance 
+(d+3+4 or SDS).  Last but not least, watch out for his unblockable.  It can be 
+near fatal.
+
+Here is what you can counter with Ganryu:
+
+b,db,d,DF+1: Class A
+1+2,1+2: Class A
+f,f+1+2: Class B
+b+1+2: SS twice/thrice in the same direction
+SDS,2: Class C
+
+Ganryu has no 10-hit strings.
+
+~~~~~~~~~~~~~~
+~ Kuma/Panda ~
+~~~~~~~~~~~~~~
+
+Kuma/Panda (hereafter referred to as Kuma) is not the joke people make him out 
+to be if played correctly.  He has a fast TJC1 starter (f,f+2), a very fast jab 
+(f+1 & 2_f+2), and incredible power.  Kuma is IMHO the most powerful of the Jack 
+family hit for hit.  He has a Giant Swing like throw (the Circus Throw).  He can 
+do some very powerful juggles as well as poke with those long range jabs.  He 
+also has relatively quick power strike in the f+1+2 even though it hits high.  
+He even got a new stance (Hunting Bear Stance - HBS) from which he can cause 
+confusion.   He doesn't use many kicks except for maybe the Running Side Kick 
+(WR 3) - his legs are really too short.  Do not take him lightly or you may be 
+turned into a ball and rolled around for a while. :)
+
+Here are potential counters to some of Kuma's moves:
+
+HBS: d+3+4, df+1 before he can attack
+1+2,1+2: Class B
+
+Kuma/Panda has no 10-hit strings.
+
+----------------------------
+- The Kings Of Giant Swing -
+----------------------------
+
+This is the chapter that deals with King and similar fighters.
+
+~~~~~~~~
+~ King ~
+~~~~~~~~
+
+If you have been reading this FAQ attentively, then you know what to expect from 
+another King player.  I don't know what to put here except use the knowledge 
+given throughout this FAQ to fight off King.
+
+Here is what you can counter:
+
+d+3+4,2: Class B
+d+3+4,4,4: Class C (Class B also works)
+f,f+2_WC,df+2: Class B
+f,f,N+2: Class A
+f+2+3: Class B
+f,f+2+3: d+3+4
+f,N,df,f,N+1+2: Class A (maybe Class B)
+uf+4: Class A
+
+King has 5 10-hit strings, but he can turn them into 9-hit strings by starting 
+with a right punch (F+2).  In any case, the F+2 right punch is always considered 
+hit 2 in this analysis even if King started the string with it.
+
+Here is his blocking chart:
+
+         2
+          \ 
+KING = 1-2-3-4-5-L-L-L-9-0:
+                \   /
+                 6-L-L-L-T:
+
+Everything up to hit 5 is mid or high.  However, hit 6 can be mid or low 
+depending on what hit 5 is:
+
+1) Hit 5 Punch: If hit 5 is a punch (df+2 elbow), hits 6 and 7 are low.
+
+2) Hit 5 Kick: If hit 5 is a kick (WS+3), hit 6 is a mid jump kick (uf+3).  Both 
+kicks are easily reversible.
+
+Hit 7 is always a low Stagger Kick.  Even though hit 8 is always low, hit 9 can 
+be low or mid depending on what hit 8 is:
+
+1) Hit 8 Stagger Kick: If hit 8 is a Stagger Kick, stand up and block high for 
+hit 9 and hit 10.
+
+2) Hit 8 Foot Sweep: If hit 8 is a foot sweep (d+3), then hit 9 is low.  Block 
+low at all costs as hit 10 is a throw (escaped by 1+2).  If hit 9 is blocked, 
+hit 10 will not come out.
+
+It is important that you block the first low Stagger Kick in either combo.  If 
+you misblock, you are stunned for a long time, giving King a huge advantage.
+
+~~~~~~~~~~~~~~
+~ Armor King ~
+~~~~~~~~~~~~~~
+
+King's mentor and friend is a bit different from King.  He can juggle a lot 
+better than King can thanks to the Dark Uppercut (f,N,d,df+2).  Armor King is 
+all about the crouch dash game so you will see a lot of moves from the crouch 
+dash: upper (2), knee (4), lariat (1), choke sleeper (1+2), and other moves that 
+can be performed within or without a crouch dash.  He can also poke like King 
+because of the d+1~N+2, df+1, df+2, db+4, df+4, and other moves he shares with 
+King.  Armor King also has the Mule Kick (b+3), the equivalent of King's 
+Disgraceful Kick.  He has the low drop kick (db+4) to keep people guessing.  
+Watch out for his WS+1 - it knocks down normally and turns opponents around on 
+counter.  His Stagger Kicks are shorter and don't allow for an uppercut 
+followup.  He also has a shoulder tackle that leaves him to the side of you.   
+
+Here are the Armor King moves you can counter:
+
+WS+2: Class A
+F,N,d,df+4: Class A (d+1~N+2)
+d+3+4,4,4: Class C or Class B (f,f+4)
+db+4: Class A
+f+1+4: d+1~N+2 before they can turn around
+
+Armor King only has one 10-hit string, which is taken from King:
+
+               2
+                \
+ARMOR KING = 1-2-3-4-5-L-L-L-9-0:
+
+Block low at hits 6, 7, and 8.  Like King, he can start his string with an F+2.
+Like King, I believe that hit 6 causes a long stun if misblocked.
+
+~~~~~~~~~~~~~~
+~ Alex/Roger ~
+~~~~~~~~~~~~~~
+
+Alex/Roger (Alex) has some of King's moves but has several moves of his own.  
+Watch out for the f,f,N,1.  If you block and get stunned by it, you will have to 
+avoid/SS the animal uppercut (f,N,d,df+1) that will hit you before you leave the 
+stun.  during your stun.  His animal uppercut is great for TJC1 and TJC2 
+juggles.  He also has a headbutt coming out of the crouch dash.  He doesn't have 
+too many juggle starters except for the ones he shares with King.  He shares 
+many moves with King and Armor King: f,f+4, the df+1, df+2, f,f+2, WC,df+2, 
+d+3+4,4,4, f,HCF+1, db,f+2, 3+4, d+1~N+2 (and some others).  He also has the 
+animal kicks - just block high and counter when he finishes if possible.  Alex 
+is unusual but beatable if you don't get sloppy.  
+
+Here is what you can counter:
+
+f,n,d,df+1: Class A
+uf+4: Class A
+d+3+4,4,4: Class C or Class B
+
+Alex/Roger has no 10-hit strings.
+
+--------------
+- The Mitsus -
+--------------
+
+Gee, I wonder what this section is about...
+
+~~~~~~~~~~~~~~
+~ Yoshimitsu ~
+~~~~~~~~~~~~~~
+
+Yoshimitsu still has the best df+2 uppercut in the game for easy, painful 
+juggles.  He also has the df+4 side kick even though it is toned down in TTT.  
+He has more options from the flea stance (u+1+2), a new unblockable, and some 
+new SS moves including some SS juggle starters.  He still has that quick knee 
+(f,f+4) that can't be reversed.  He can even mix it up from the old standing 3 
+(4_df+3+4).  That standing 3 is very powerful so don't miss anything slow.  His 
+1,2,1 is a very good punch string.  He has a throw similar to the Muscle Buster 
+(Rainbow Drop - QCB+1+2) that is about as deadly as well.  He still has his 
+spinning moves - in case he gets dizzy, punish him. 
+
+Here is what you can counter:
+
+3,4: Reverse the 4, Class A before the 4, or throw before the 4
+4~3_3,df+3+4_any string ending in a Kangaroo Kick: Class B
+f,f+2: Class A
+f,f+4: Class A
+WC,df+3: Class C
+
+Yoshimitsu has 2 5-hit, 2 8-hit, and 3 10-hit strings for a total of 7 hit 
+strings.  Here is the blocking chart:
+
+                       6-7-8-U-U:
+                      / 
+YOSHIMITSU = 1-2-3-4-5-L-7-U-U-U:
+                    \     \
+                     U:    8:
+
+Yoshimitsu can start his two ways:
+
+1) Punch Upper: If Yoshi starts with a Punch Upper, you can reverse the 4th hit, 
+a high right kick.  You can also crouch under and counter.  You can low parry at 
+hit 6 in case you messed before that.  Hit 6 from the punches can be low or mid 
+so it is best to stop Yoshi before then.
+
+2) Two Kicks: If Yoshi starts with back to back kicks, you can reverse the 
+second one or crouch under and counter.  In this scenario, you need to stop him 
+before hit 5 because he has 5 hit strings that end with unblockables.  If he 
+doesn't do a 5-hit with the unblockable, then you can reverse hit 5 (a right 
+kick) or low parry hit 6 (a low kick).  If you do neither, you may end up eating 
+unblockables again.  
+
+Be very careful in both cases.  If you haven't stopped Yoshi by hit 7, you may 
+be eating back to back unblockables if he does a full 10 hit.  If he ended up 
+doing an 8-hit, then you were very lucky. :)
+
+~~~~~~~~~~~~~
+~ Kunimitsu ~
+~~~~~~~~~~~~~
+
+Kunimitsu got a lot of new moves in TTT including a power strike (1+2), a jump 
+kick (f+3+4), TJC1 starter (f,f+2) and new unblockables among other things.  She 
+has a similar uppercut to Yoshimitsu's, but Yoshi's is a lot better.  She has a 
+few very unusual moves, including an overhead flip and a foot sweep from SS.  If 
+she jumps up to throw you, hold DF to escape the Frankensteiner.  If she 
+disappears, step back - she may be doing her unblockable from the top of the 
+screen.  She may also be doing her crouch dodge where nothing can hit her.  She 
+can juggle pretty well so watch for the df+2 and f,f+2.  Otherwise, most of her 
+moves are similar to Yoshimitsu.
+
+Here is what you can counter:
+
+f,f+4: Class A
+WC,df+3: Class C
+
+Kunimitsu only has one 10-hit string taken from Yoshimitsu:
+
+KUNIMITSU = 1-2-3-4-5-L-7-8-9-U
+
+Hit 10 is unblockable.  Hit 6 is low.  Hits 4 & 5 are high kicks so reverse or 
+counter.  You can stop the unblockable if you're quick.
+
+-------------
+- The Ogres -
+-------------
+
+Yay, I'm almost done!
+
+~~~~~~~~
+~ Ogre ~
+~~~~~~~~
+
+Ogre has a very big sidestep.  He has some of the better moves from the 
+characters he "destroyed" in Tekken 2, including the Shining Fists (1,1,2).  He 
+has a very fast Hop Kick and quick power strikes and the Waning Moon (df,df+2+4) 
+from Wang.  He has Kazuya's WS+2 gut punch.  He has all of Anna's WC attacks.  
+He also has the Creeping Snake mixup from Baek.  From Armor King, he borrows the 
+Shoulder Tackle and the Drop Kick/Exploder.  He also has the most unblockables 
+in the game and people do use them.  If you block the f,f+2 Snake Hand, dash 
+back or SS to avoid the unblockable part.  Overall, Ogre is a very tough foe 
+when used correctly.  
+
+Here is what you can counter:
+
+1,1,2: Class B
+Infinite Kicks: SSL twice and you usually can back throw for free
+uf+4: Class A
+f+1+4: d+1~N+2 before they can turn around
+
+Ogre doesn't have any 10-hit strings.
+
+~~~~~~~~~~~~~
+~ True Ogre ~
+~~~~~~~~~~~~~
+
+What holds for Ogre mostly holds for True Ogre except for the sidestep stuff.  
+True Ogre is so big that his SS doesn't go that far in most cases.  Unlike Ogre, 
+he can breathe fire.  He also has a few moves that Ogre does not have.  His arms 
+are also a LOT longer than Ogre's so he has very long reach especially on power 
+strikes.  If you block the f,f+2 Snake Hand, dash back or SS to avoid the 
+unblockable part.  Otherwise, the rest of his moves can be treated similarly to 
+Ogre's moves.
+
+Here is what you can counter:
+
+1+2 (Standing Fire): Class C (you should be crouching) or WS-uf+1+2
+3+4: SS twice in the same direction and run towards True Ogre
+Owl's Hunt: crouch under, run, and back throw
+1,1,2: Class B
+f+1+4: d+1~N+2
+Infinite Kicks: SSL twice and back throw
+
+True Ogre doesn't have any 10-hit strings.
+
+--------------------
+- Mokujin/Tetsujin -
+--------------------
+
+Mokujin/Tetsujin is a copycat character.  It will take on the moves and 
+mannerisms of any character except Ogre, True Ogre, and Angel/Devil.  However, 
+it is important to be able to quickly figure out who Mokujin/Tetsujin is 
+mimicking.  The easiest one to tell is Eddy by his obvious stance.  However, 
+others are harder unless they throw moves at you.  Also, juggles will work 
+differently or not work at all due to various differences.
+
+################################################################################
+# CHAPTER V - MISCELLANY                                                       #
+################################################################################
+
+What else is there to know about King?  Well, here are some minor things that 
+you may be interested in.
+
+=============
+= Biography =
+=============
+
+Here is the biography of King in TTT (which is the same bio as Tekken 3 AFAIK):
+
+ANGER OF BEAST
+
+Country of Origin: Mexico
+Fighting Style:    Wrestling
+Age:               28
+Height:            6'7"
+Weight:            198 lbs.
+Blood Type:        A
+Occupation:        Professional Wrestler, Manager of an Orphanage
+Hobby:             Helping orphaned children
+Likes:             Drinking beer in victory with Armor King
+Dislikes:          Tears of children
+
+===========
+= Apparel =
+===========
+
+King has 3 costumes/outfits.  When TTT was first released, only 2 were 
+available.  Soon after, the third outfit (kick outfit from Tekken 3) became 
+available.  Here is the outfit you get based on what button you press to select 
+King once all characters have been time released:
+
+1,2,5: brown/white jaguar mask, black glove on right hand, yellow/purple 
+wrestling tights with attached tail, yellow boots (punch outfit from Tekken 3)
+
+3: Gray/black jaguar mask with red eye, orange shirt, gray/red/black sweatpants 
+with spots, black and white sneakers (new outfit for TTT)
+
+4: Gray/black jaguar mask with red eye, dark blue shirt, gray/blue/black 
+sweatpants with spots, black and white sneakers (kick outfit from Tekken 3)
+
+################################################################################
+# CHAPTER VI - BIBLIOGRAPHY                                                    #
+################################################################################
+
+This is the section that outlines the sources of knowledge for this FAQ as well 
+as version updates.
+
+====================
+= Acknowledgements =
+====================
+
+There are so many sources that have given me the knowledge to write this FAQ.  
+With that, I present the following sources.  With the exception of the first, 
+these sources are good if you are in need for TTT or Tekken 3 information.
+
+Name: Mark Kim
+Pen Name: Vesther Fauransy
+Web Page: http://www.verasnaship.net/
+Email: verasnaship@verasnaship.net
+FAQ: LA Machine Guns: Rage of the Machines For the Sega AM3 Arcade Game Anti-
+Terrorist Manual Version 0.0.2 (Build 0114)
+Copyright (c) 1999 Mark Kim. All Rights Reserved.
+
+Pen Name: Catlord
+Web Site: http://www.tekken.net/catlord/
+Email: catlord@tekken.net
+FAQ: Tekken Tag Tournament Movelist Version 1.07
+FAQ: Tekken 3 Combo Compendium
+Web Page: http://tekken.net/catlord/book/king.txt
+Web Page: http://tekken.net/catlord/corner/buffer.htm
+Copyright (c) 1998, 1999 Catlord.  All Rights Reserved.
+
+Name: Ben Cureton
+Pen Name: Tragic
+Email: tragic@toxic.net
+Book: The Unauthorized Tekken 3 Fighting Guide (For Arcade and Playstation)
+FAQ: The Tekken 3 Manual ACT.1 Revision r.06 
+Copyright (c) 1997, 1998 Ben Cureton.  All Rights Reserved.
+
+Name: Alex Ambrosiak
+Pen Name: AL X
+Email: twistedt@hotmail.com
+FAQ: THE JUGGLER's BIBLE Version 1.01
+Copyright (c) 1997 Alex Ambrosiak.  All Rights Reserved.
+
+Pen Name: R4G3
+Email: r4g3@earthlink.net
+FAQ: King FAQ Version 1.00 
+Copyright (c) 1999 Rage.  All Rights Reserved.
+
+Email: dfdp5@hotmail.com
+FAQ: King Strategy Guide
+Copyright (c) 1998, 1999 dfdp5.  All Rights Reserved.
+
+Name: Bruce M. Williams
+Pen Name: Beamer
+Email: beamer-1@ix.netcom.com
+FAQ: The Arts of King Version 5.05
+Copyright (c) 1997 Bruce M. Williams.  All Rights Reserved.
+
+Pen Name:n00body
+Email: ki2fan@worldnet.att.net
+FAQ: Tekken 3 for Playstation King Combo List 
+Copyright (c) 1999 n00body.  All Rights Reserved.
+
+Pen Name: CyberKow
+Email: Cyberkow@aol.com
+Web Site: http://www.angelfire.com/hi/Cyberkow/welcome.html
+FAQ: King FAQ 1.00
+Copyright (c) 1997 CyberKow.  All Rights Reserved.
+
+Email: Kingp82000@aol.com
+FAQ: Advanced King Guide
+Copyright (c) 1999 Kingp82000@aol.com.  All Rights Reserved.
+
+Names: Y.N. Lo & "Slikatel" (pen name)
+Email: lynx@hknet.com & slikatel@metro.net
+FAQ: Tekken 2 Combo FAQ
+Copyright (c) 1999 Y.N. Lo & Slikatel.  All Rights Reserved.
+
+Pen Name: Notti
+Email: Mahgnitton@hotmail.com
+FAQ: Secret Tekken 3 Tekkniques v0.2
+Copyright (c) 1999 Notti.  All Rights Reserved.
+
+Company: Versus Books
+Web Site: http://www.vsbooks.com/
+Book: The Official Tekken 3 Ultimate Guide - Arcade Edition
+Copyright (c) 1997 Versus Books.  All Rights Reserved.
+
+Web Site: Tekken Zaibatsu (http://www.tekken.net/zaibatsu)
+Web Page: http://www.tekken.net/zaibatsu/move-king.html
+Web Page: http://www.tekken.net/classtag.htm
+Copyright (c) 1999, 2000.  All Rights Reserved.
+
+Web Site: TekkenTagTournament.com (http://www.tekkentagtournament.com/)
+Copyright (c) 1999, 2000.  All Rights Reserved.
+
+Web Site: Fighters.net (http://www.fighters.net/)
+Web Page: http://www.fighters.net/namco/tekken/ttt/faqs.html
+Copyright (c) 1999, 2000.  All Rights Reserved.
+
+Web Site: GameFAQs (http://www.gamefaqs.com/)
+Web Page: http://www.gamefaqs.com/features/contribute/howtowrite.html
+FAQ: "How To Write a FAQ for GameFAQs"
+Copyright (c) 1999.  All Rights Reserved.
+
+IRC channel: #tekken on EFNet
+
+FAQ Feedback:
+Dillon Bussert (dbussert@erols.com)
+Christopher Mast (cjm477@mizzou.edu)
+Jeff Ravatt (dslayer@pcoutfitters.com)
+Jesus Shaves (akerle98@hotmail.com)
+Suicide King (udahbkw@hotmail.com)
+K.C. Ma/ReverendC (reverendc@yahoo.com)
+gaugeyagee@netzero.com
+kevwong@att.net 
+d1truking@aol.com
+shaggy@cafes.net
+
+==============================
+= What's New In This Version =
+==============================
+
+-----------------
+- Version 0.010 -
+-----------------
+
+Added Leg Breaker combos courtesy of K.C. Ma/ReverendC
+Created section on tag juggle classes
+Added tag juggles section
+Added Vs Human strategy
+Added FAQ author
+Changed heading
+Recombined Moves and Analysis section
+Rewrote Table of Contents
+Altered Acknowledgements section
+Continued Vs Human section
+Corrected Apparel section
+Added 10-hit string blocking charts
+
+-----------------
+- Version 0.009 -
+-----------------
+
+Corrected errors in Manhattan Drop multithrow
+Revised text throughout FAQ
+Changed FC => WC and RN => WR 
+
+-----------------
+- Version 0.008 -
+-----------------
+
+Added more information
+Redid move list
+Edited legend
+
+-----------------
+- Version 0.007 -
+-----------------
+
+Continued combos
+Continued okizeme
+Combined moves and analysis section
+
+-----------------
+- Version 0.006 -
+-----------------
+
+Added more combos
+Corrected some errors
+
+-----------------
+- Version 0.005 -
+-----------------
+
+Revamped FAQ
+Removed symbolic joystick representations
+Changed from letter to number format
+
+-----------------
+- Version 0.004 -
+-----------------
+
+Small update
+Updated combos
+
+-----------------
+- Version 0.003 -
+-----------------
+
+Continued Okizeme section
+Added hit levels to moves and throws
+
+-----------------
+- Version 0.002 -
+-----------------
+
+Continued move analysis
+Started combos
+Added more people to the Acknowledgements section
+Began Okizeme section under strategy
+FAQ still incomplete
+
+-----------------
+- Version 0.001 -
+-----------------
+
+First version of FAQ (still incomplete)
+
+------------
+- Upcoming -
+------------
+
+More Vs Strategy
+The rest of the FAQ :)
+
+################################################################################
+# CHAPTER VII - EPILOGUE                                                       #
+################################################################################
+
+This is not the last word on TTT King by far.  However, I do hope that FAQ 
+may be the most complete word on TTT King that you can find on the Net.  I would 
+appreciate any tips on the FAQ itself or any King tips you may have.  Email me 
+at the address below any comments/questions/critiques/flames.  Thank you for 
+taking your time to read this.
+
+This Electronically Published Document is copyrighted (c) and trademarked (tm) 
+by David Antoine.  All Rights Reserved.  This document is protected by 
+applicable copyright laws and international treaties.  Unauthorized 
+reproduction, retransmission, and/or a breach of copyright, partial or full, may 
+result in civil and criminal penalties and is subject to maximum punishment and 
+prosecution to the highest extent possible by law.  Please properly credit David 
+Antoine where credit is due.  This document is the sole property of David 
+Antoine.
+
+TTT KING II FAQ
+FAQ Written by $muvMoney/David J. Antoine
+Copyright (c) 1999, 2000 $muvMoney/David J. Antoine.  All Rights Reserved.
+david_j_antoine@msn.com
+http://davidja.tripod.com/faqs/tttkingii.txt
+http://homepages.msn.com/arcade/smuvmoney/faqs/tttkingii.txt
+John 14:27
+Numbers 6:24

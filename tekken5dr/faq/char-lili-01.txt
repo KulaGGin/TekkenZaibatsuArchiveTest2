@@ -1,0 +1,1065 @@
+-----------
+Tekken 5 - Dark Resurrection - Arcade - Lili FAQ - ver 0.25
+Last updated Tuesday, January 10, 2005
+-----------
+By Syxx
+djjones2180@yahoo.com
+Copyright 2006 - Dan Jones
+
+Submitted to www.tekkenzaibatsu.com and www.gamefaqs.com
+
+If this faq is located ANYWHERE ELSE please contact me.
+-----------
+
+This is a very preliminary FAQ for Lili, one of the three new characters in
+Tekken 5 Dark Resurrection.
+
+I have been playing Dark Resurrection since the initial release of the test
+version at the Cyberstation at the HIP in Norridge, IL, so about 2 months
+now.  I didn't play much Tekken before the release of Tekken 5 in December
+of 2004 but since then it's taken up a lot of my time.  My main character
+in Tekken 5 was Asuka but I can play about half of the cast pretty
+comfortably.  Since the test version of the game my main character has
+quickly switched to Lili.  I like her character design and she is very
+unique when compared to the rest of the cast.
+
+Special thanks to Nappy who has also been playing her since the test
+version came out as well as pIchu from the tekkenzaibatsu.com forums for
+his input as well as air juggles.
+
+-----------
+
+Version List
+0.1 - bare combo faq only
+0.2 - added move list and outlined each move, added Lili's profile and top
+10 moves
+0.25 - added a glossary and added 10 strings, changed a typo and a couple
+other minor changes
+
+-----------
+
+****Profile for Lili (Real Name - Emily)****
+
+Name : Lili
+Fighting style: Street Fighting
+Nationality: Monaco
+Age: 16
+
+Lili is the only daughter of an oil tycoon residing in Monaco—she’s a true
+daddy’s girl.
+
+4 years ago, while being attacked by a criminal group making profits from
+kidnappings, Lili suddenly became violent, and unexpectedly floored one of
+her attackers, it was at that moment that she first realized she took
+pleasure in defeating her opponents. However, deep down inside, Lili is a
+gentle person, she only wants to please her father, but she knows that he
+despises fighting. Troubled by her situation, she tells herself, “I don’t
+want father to hate me…but I want to continue fighting.” Her desire to
+fight couldn’t be contained, and for this reason, she uses a private jet
+to travel abroad to take part in street fights, which she enjoyed
+immensely.
+
+One day, after defeating an opponent in San Francisco, she acquired an
+invitation to martial arts tournament. Lili noticed that the sponsor of
+the tournament, the Mishima Financial Group, caused her father much
+trouble. With the assumption of the Mishima Financial Group becoming a
+useful asset to her father, she was determined to take part in the
+tournament. 
+
+-----------
+
+****Glossary****
+
+In order to understand the move notations and combos in this guide, you
+must be familiar with the common Tekken commands.  This is based off of the
+legend that is found on www.tekkenzaibatsu.com, but everything that you'll
+need to use this guide is listed below.
+
+-----------
+Buttons
+-----------
+
+1 - Left Punch          2 - Right Punch
+3 - Left Kick           4 - Right Kick
+
+-----------
+Joystick Controls
+-----------
+
+u/b - tap up and back    u - tap up             u/f - tap up and forward
+b - tap back             N - neutral            f - tap forward
+d/b - tap down and back  d - tap down           d/f - tap down and forward
+
+U/B - hold up and back   U - hold up            U/F - hold up and forward
+B - hold back                                   F - hold forward
+D/B - hold down and back D - hold down          D/F - hold down and forward
+
+qcf - quarter circle forward        qcb - quarter circle back
+hcf - half circle forward           hcf - half circle forward
+
+-----------
+Other Notations Relevant To This Guide
+-----------
+
+FC - full crouch animation          WS - while standing up
+SSL - side step left                SSR - side step right
+, - followed by                     ~ - immediate after
++ - at the same time                _ - or
+< - delayed input                   = - next in sequence
+° - push and hold button            : - requires just frame input
+
+BT - your back is turned to the opponent
+CH - requires a counter hit
+CD - Crouch Dash, done by inputting qcf on the joystick
+
+L - hits low             M - hits mid           H - hits high
+
+Low hits must be blocked low, ducked or, "crushed" by jumping over them
+with certain moves.
+
+Mid hits must be blocked standing.  You can not duck and block these hits.
+
+High hits can be ducked or blocked standing.  You can also crush high hits
+by doing certain attacks.
+
+
+-----------
+
+****Move List****
+-----------------------------------------------------------------------------
+|      Command      | Hit Ranges  |               Move Name               |
+-----------------------------------------------------------------------------
+| 1,2,3             | H,H,L       | One Two Low Trap                      |
+| 1,2,4             | H,H,M       | One Two Spine Shot                    |
+| 2,3               | H,L         | Quick Low Trap                        |
+| 2,4               | H,H         | Arch Kick Combo                       |
+| 1+2               | M           | Triangle Spread                       |
+| 3+4               | M           | Vertical Axis                         |
+| f+2, 1+2          | H,M         | Pendulum Spread                       |
+| f+3               | M           | Circle Knee                           |
+| f+4               | H           | Arch Kick                             |
+| f+1+2             | M           | Slide Slap                            |
+| f+3+4             | M,M         | Clock Kick                            |
+| f+3+4,3           | M,M         | Delayed Clock Kick                    |
+| f+3+4,3,4         | M,M,M       | Delayed Clock Kick Return             |
+| d/f+1             | M           | Diffusion hand                        |
+| d/f+3             | M           | Hooking Heel                          |
+| d/f+4<4           | M,L         | Shutup Stomp                          |
+| d/f+3+4,3+4       | M,M,M       | Back Flip Spinning Edge               |
+| d+1,2,4           | L,H,M       | Paddling Beat                         |
+| d+2<2<3           | M,H,H       | Bloody Masquerade Hurricane           |
+| d+2<2<4           | M,H,M       | Bloody Masquerade Lance               |
+| d+3+4             | M           | Matterhorn Canon                      |
+| d/b+3             | L           | Freesia Thrust                        |
+| d/b+4             | L           | Edelweiss                             |
+| b+1               | M           | Stone Garden                          |
+| b+2<1             | H,H         | Heliotrope                            |
+|      ~b           |             |                                       |
+| b+3               | H           | Round Cutter                          |
+| b+4               | Spcl. Mvmt. | Rabbit Air                            |
+| b+4~3             | L           | Rabbit Tail                           |
+| b+4~4             | M           | Rabbit Spine Shot                     |
+| b+4~f             | Spcl. Mvmt. | Rabbit Air to Parade Step             |
+| b+1+2             | M           | Dendorobium                           |
+| b+3+4             | Spcl. Mvmt. | Flip Mirror                           |
+| b+1+4             | Unblockable | Spine Shot ff                         |
+| u/f+3+4           | M           | Wing Knee                             |
+| u/f+3+4,3+4       | M,M         | Wing Knee Cannon                      |
+| u/f+4,3           | M,M         | Mustang Lance                         |
+| f,f+2             | M           | Aronjebra Pierce                      |
+| f,f+3,3+4         | M,M,M       | Alstromeria                           |
+| f,f+4             | L           | Alto Rodeo                            |
+| f,f+3+4           | M           | Spine Shot                            |
+| qcf               | Spcl. Mvmt. | Parade Step                           |
+| qcf+1             | M           | Vine Slash                            |
+| qcf+2             | M           | Shanze Strike                         |
+| WS 1              | M           | En Garde                              |
+| WS 2              | M           | Rising Baton                          |
+| WS 3,4            | M           | Honey Circle                          |
+| FC, d/f+3         | L           | Horizon Slide                         |
+| SS 3              | M           | Shirin Dart Kick                      |
+| SS 1+2            | M           | Minuet                                |
+| BT 4,3+4          | M,M,M,M     | Hanged Kick Spinning Edge             |
+| BT 1+2            | M,M         | Tempest                               |
+| BT d+3,4          | L,M         | Antelope Kick                         |
+| BT d+3+4          | L           | Flat Trip                             |
+|                   |             |                                       |
+| 1+3 or f+1+3      | 1 break     | Devotion Kiss                         |
+|                   | throw       |                                       |
+| 2+4 or f+2+4      | 2 break     | Sole Sweep                            |
+|                   | throw       |                                       |
+| Left Throw        | 1 break     | Bounce Swing                          |
+|                   | throw       |                                       |
+| Right Throw       | 2 break     | Snap Crush                            |
+|                   | throw       |                                       |
+| Back Throw        | No break    | Judgment Signal                       |
+| d/f+1+2           | 1+2 break   | Lafreshia                             |
+|                   | throw       |                                       |
+| b+1+3 or b+2+4    | Punch       | Contour Counter                       |
+|                   | reversal    |                                       |
+-----------------------------------------------------------------------------
+
+Ten Strings
+
+
+4,1,3,3,3,4,3,1,3+4,3+4 — H,H,M,M,M,L,L,M,M,Unblockable
+4,1,3,4,4,3,4,4,3+4 — H,H,M,M,L,L,M,M,M
+4,1,3,3 - H,H,M,M,M
+
+This is the official move list, found by kurichan of tekkenzaibatsu.com.
+This is not the entire move list, however.  I'll cover each move in the
+next section.
+
+-----------
+
+****Moves/Ratings****
+This section covers all of the moves listed above, and some additional
+moves that are not.  I have rated move from either 1 to 5 stars depending
+on it's usefulness, safety, and damage
+
+1,2 - H,H - (*****)
+
+2 jabs.
+
+Lili's 8 frame punisher.  I love this move so much.  Both hits are a
+natural combo.  The first hit is +1 frames on block.  For both hits it's
+even frames on block.  Even though there are two different follow-ups to
+her jabs, most of the time it's better to just do her 1,2 jabs.
+
+
+
+1,2,3 - H,H,L (**   ) One Two Low Trap
+
+2 jabs into a low kick.
+
+This is a so-so offensive tool.  The third hit is delayed a lot and will
+high crush, but even on hit this move leaves you at a disadvantage and
+very close to your opponent in a situation where you'll more than likely
+have to guard their next attack.  I use this very rarely, I'd rather do 1,2
+followed by d+4.
+
+
+
+1,2,4 - H,H,M (***  ) One Two Spine Shot
+
+2 jabs into a jumping kick.
+
+A little bit better than 1,2,3.  Lili does two kick jabs into her drill
+kick.  This move can catch people off guard just because the kick is
+delayed so much but your opponent can jab between 1,2 and the 4.  It's a
+decent mix-up only because they might be expecting a low and the kick comes
+out relatively fast as far as the animation.  Still, this isn't something
+that I use very often.  It knocks down on regular and counter hit.  It's
+also a great juggle ender.
+
+
+
+2,3 - H,L (***  ) Quick Low Trap
+
+1 jab into a low kick.
+
+A bit better than 1,2,3 just because the whole move is faster, but the low
+at the end is the exact same thing, and puts you at a disadvantage on hit.
+Still, it is a decent match ending move just because the low can catch
+people off guard.
+
+
+
+2,4 - H,H (***  ) Arch Kick Combo
+
+A quick jab followed by a front roundhouse kick.
+
+Another decent offensive tool.  It puts you at even frames on block and
+knocks down on regular and counter hit.  Both hits are high however and the
+second hit can be ducked.  This is a good move to set people up on the
+wall.
+
+1+2 - M (**** ) Triangle Spread
+
+A double palm strike.
+
+I like this move a lot.  It's similar to Baek's old 1+2 in 5.0 as far as
+how it looks.  It knocks down on regular and counter hit.  Because of the
+new system however, your opponent can do a quick rollback (~b) after it
+hits.  But if they don't, take a few steps forward and you can hit all
+of d/f+3+4,3+4, BT d+3.  This move is -12 frames on block and somewhat
+punishable but it's not too bad.  This move is best used to punish people
+yourself because it comes out really fast.
+
+
+
+3+4 or BT 3+4 - M (**** ) Vertical Axis
+
+A really high jump in the air.
+
+This is one of those moves that makes Lili unique.  She jumps up high into
+the air and either lands on her opponents head and flips them up for free
+hits or knocks them down on the ground (on CH).  If she does this from her
+back turn stance she can even get a juggle from it!  (E.G. BT 3+4, 1,2,
+d+3,3,4).  Either way, Lili's opponent is knocked on the ground.  This move
+even beats out other stomping attacks like Wang and Julia's u/f+3+4.  Also
+this move is surprisingly safe on block and crushes everything.  I don't
+use it a ton only because it may whiff but it's great if they are cornered
+and have no place to go.
+
+
+
+f+2, 1+2 - M (**** ) Pendulum Spread
+
+Quick jab followed by a double palm strike.
+
+This is very similar to her double palm strike as far as the oki options
+afterward.  That's one of the reasons why I rated this so high.  The other
+reason is because it makes a great juggle ender.  It's also only -10 on
+block as opposed to 1+2 which is -12.
+
+
+
+f+3 - M (***  ) Circle Knee
+
+Lili spins in a circle and hits you with her knee.
+
+I don't believe this move is safe however it's a great option against side
+steppers and against people that tech.  This move is weird because on hit
+it knocks them down on the ground to the side.  I don't have much to say
+about this move even though I use it often.
+
+
+
+f+4 - H (***  ) Arch Kick
+
+Round house kick, second part of 2,4
+
+Lili stands on one leg and kicks with the other in a circle.  To be honest
+I haven't found much use for this move except for against the wall.  This
+move does give you +5 frames on block so it's great for setting up CHs and
+keeping the pressure on.  It can be ducked however.
+
+
+
+f+1+2 - M (**   ) Side Slap
+
+To be honest, I haven't found much use for this move.  I don't suggest
+using it often.
+
+
+
+f+3+4 and f+3+4,3,4 - M,M and M,M,M,M (*****) Clock Kick and Delayed Clock
+Kick Return.
+
+Lili does a cartwheel.  In the second version she delays her foot and then
+does a back flip.
+
+This is another one of Lili's great signature moves.  First, f+3+4 is a
+good offensive tool just because of the alternate version people will be
+more likely to just block it but fear the alternate version.  I also use
+this a TON as a combo ender because it makes them land on the ground right
+in front of you!  It's similar to Christie and Eddy's f+3+4.  I really
+recommend this move.  The second version lets you delay the second hit
+and come down with her heel.  At first I thought it would be good as a
+delay move to catch people off guard.  The problem is if they try to attack
+with a jab, they will get in between the hits.  The best situation to use
+this move in is if your opponent is laying on the ground in front of you
+fearing a tech trap, because if you get f+3+4,3 off, the 4 is guaranteed.
+The entire string is about 20 percent damage, and on a grounded opponent
+it makes a huge difference.  If you mix up your wakeup game, believe me you
+will get this move off a lot more often, even if you just mix it up with f+
+3+4 and they think they can get up right away.
+
+
+
+d/f+1 - M (*****) Diffusion Hand
+
+Quick open hand mid jab.
+
+This move is a great standard d/f+1 move similar to Nina's d/f+1 in many
+respects.  In the test version I am currently playing it is +1 on block
+but I have heard that it is -1 on block in the final version B.  Still,
+I believe this is a great offensive tool.  I use this for mind games, mix
+it up with jabs, and throw after almost every time this hits.  It's one of
+Lili's best tools.  It makes people afraid to duck just because it comes
+out so fast.  This is definitely one of my favorite moves.
+
+
+
+d/f+2 - M (**** )
+
+Lili does a spinning fist that launches you in the air.
+
+This is Lili's only completely safe standard launcher.  That is the only
+reason why it rated it so high.  It doesn't have very good range and
+doesn't launch crouchers (except on CH)!  Still, I have to give it credit
+just because you have slightly more options on launch when compared to u/f+
+3, and it comes out semi fast.  Launching with this can lead to about 45
+percent juggles however so spam the heck out of it because it's safe!
+
+
+
+d/f+3 - M (**** ) Hooking Heel
+
+Lili lifts her knee up in the air.
+
+I thought this move was dumb at first, especially when she has d/f+4,4. It
+is certainly not as fast as d/f+4,4 but the good thing about the move is if
+it hits you get d/f+4,4, for free anyway!  Even if they are teching or back
+rolling and this hits you get the full d/f+3, d/f+4,4 combo.
+
+
+
+d/f+4<4 - M,L (***  ) Shutup Stomp
+
+Lili lifts up her knee and then stomps into the ground.
+
+Another one of Lili's signature moves.  I didn't rate it that high.  It's
+not safe and just like Asuka's strings it is very easy for a decent player
+to block and even low parry.  Still, it is like Lee's laser kicks and can
+tear through scrubs like nothing else.  You can't rely on this on good
+players.  The good thing about this move is that the second hit can be
+delayed A LOT and if the second hit is a CH, this move will knock them down
+right in front of you for free oki.  I actually mix this up with f,f+4
+because it throws people off.
+
+
+
+d/f+3+4, 3+4 - M,M,M (*****) Back Flip Spinning Edge
+
+Lili does two back flips.
+
+This move is great!  It's great for oki, setups, and combos.  I avoid the
+entire string if my opponent is standing up.  Between the first two hits,
+he can jab right through it.  However, if they are rolling back, or are
+grounded from another move (1+2, or f+2,1+2, or u/f+4,3, or d+2,2,4) you
+can get this entire string plus an additional BT d+3!  The other great
+thing about this attack is that you can combo off of d/f+3+4.  My favorite
+combo is d/f+3+4,BT d+1,WS+2, d+1,2,4.  This combo is very beautiful, and
+also very damaging.  You can hit this move off at long range so it works
+great as a whiff punisher.  Also, even if they block you are only at a -2
+frame disadvantage and the BT options are terrific.  I'll discuss her BT
+options at the end of the move list.  This is a great move to keep the
+pressure on your opponent, stay in their face, and keep them guessing!
+
+
+
+d+1,2,4 - L,H,M (***  ) Paddling Beat
+
+Low then high jab, followed by a roundhouse kick.
+
+I can't say that I use this move all to often.  First of all, it is unsafe.
+Second of all, it is easily blocked.  There are a couple redeeming factors
+to this move.  It is very good on the wall.  Second, the first d+1 moves
+you forward slightly and is an ok low poke.  Third, it is very good for her
+unorthodox juggles off of stun moves (d+1,2, d+1,2,4 is a good combo from
+many launchers and stuns.)  It's best to just stick to just using this in
+combos.
+
+
+
+d+2<2<3 - M,H,H (**   ) Bloody Masquerade Hurricane
+
+Two quick jabs followed by a roundhouse kick.
+
+I'm not % sure if the first two hits can be delayed.  To be honest I only
+use this as a juggle ender and not so much in combos.  Your opponent can
+jab throw the second and third hit.  The only reason why I rated it so high
+is that it's an awesome juggle ender.  d+2,2 is ok by itself I guess.
+
+
+
+d+2<2<4 - M,H,M (**    ) Bloody Masquerade Lance
+
+Two quick jabs followed by a straight kick.
+
+Almost the exact same thing as Bloody Masquerade Hurricane, except it
+doesn't work quite so well in juggles.  The only time I will use this is if
+I see a wall coming and I know that the first or second hit will hit on the
+wall because this connects better than d+2,2,3.
+
+
+
+d+3+4 - M (*****) Matterhorn Canon
+
+Lili leans down and kicks up with both legs, shooting her opponent high
+into the air.
+
+More great Lili juice.  Seriously, this move is like butter.  It's ultra
+punishable on block (-18) but the damage that you get from this launcher
+is ridiculous.  On top of that, she ducks down so low that not only does
+she crush highs, she avoids some mids as well.  I clearly went under Paul's
+Phoenix Smasher once with this move.  There are a ton of options afterward
+as well (see the combo section below) that there's no reason besides safety
+not to use this move.  If you know for sure that a high is coming, this
+should be your number one option.  This also works after a low kick parry.
+
+
+d/b+3 - L (**** ) Freesia Thrust
+
+Lili falls down a little bit and kicks with her leg.
+
+This is definitely one of Lili's better lows.  It knocks down on hit, and
+FC, d/f+3 is a guaranteed follow-up.  It's also somewhat hard to read.  It
+hits grounded as well and may knock your opponent down again if you use it
+in your oki game.  This move crushes highs.  I like this move a lot.
+
+
+
+d/b+4 - L (***  ) Edelweiss
+
+Lili does a crouching spin kick.
+
+Another one of Lili's decent low attacks.  This also hits grounded.  On CH,
+there is a combo afterward.  This isn't one of my favorite moves because it
+is very readable.  It does crush highs though.  I use this move very
+rarely.
+
+
+
+b+1 - M (**** ) Stone Garden
+
+Lili puts one hand to her side and does a karate chop motion on her
+opponent.
+
+I thought this move was ok at first.  It doesn't have really good range.
+The three good things about this move are that it gives you a +3 frame
+advantage on block, it puts your opponent into crouching on hit and block,
+and on counter hit, you get a free juggle.  It's a super good move, but
+don't expect to use it much just because the range is so short.
+
+
+
+b+2,1~b - H,H (**   ) Heliotrope
+
+Lili does two jabs, which can leave her in back turn.
+
+I honestly don't think this move is that great other than juggle filler.
+Even though you can end this move in back turn, it has too much lag when
+compared to something like d/f+3+4.  The fact that this move leaves you in
+back turn can leave you with some interesting options in juggles.
+
+
+
+b+3 - H (*    ) Round Cutter
+
+Spinning Kick.
+
+I don't have much to say about this move either.  I just don't use it.  If
+you need a move like this, use f+4 instead.  This move leaves you at a
+disadvantage on block anyway.  Some people have used this is combos.
+
+
+
+b+4~f - Special Movement (***  ) Rabbit Air~Parade Step
+
+Lili jumps and spins to the right side and then does an immediate crouch
+dash if you hold forward.
+
+I wouldn't say that this move on it's own is incredibly useful.  It's good
+if people are trying to lock you down and you want to get out of the way,
+then turn the match around by using one of Lili's crouch dash options (which
+are CD 1, CD 2, CD 3,4 or CD 4.
+
+
+
+b+4~3 - L (**** ) Rabbit Tail
+
+Lili jumps and spins to the side, then comes in with a sweep.
+
+I like this move a lot.  It's a great low, and you can follow it up with
+a free WS 3 if you are close enough, or whatever oki or wakeups you want.
+You can even mix it up with b+4~4 or b+4~f into whatever mids you want to
+keep them guessing.  It has a lot of range also.  The only bad thing about
+this move other than it's not completely safe, is that sometimes it doesn't
+track well, which can leave your back to your opponent, but for Lili this
+is not necessarily a bad thing.  This move is a high crush.
+
+
+
+b+4~4 - L (***  ) Rabbit Spine Shot
+
+Lili jumps and spins to the side, then does a jumping drill kick.
+
+This move is pretty average.  Mix it up with b+4~3.  It low crushes many
+moves and like b+4~3 has bad tracking.  It knocks down on regular and
+counter hit.
+
+
+
+b+1+2 - M (**   ) Dendorobium 
+
+Lili leans back and then comes forward to knock down her opponent.
+
+I don't have much to say about this move.  It can avoid attacks but I
+haven't had much success with it.  It knocks down however.
+
+
+
+b+3+4 - Spcl. Mvmt. (***  ) Flip Mirror
+
+Lili stands in place and turns around.
+
+This is one of the moves that got nerfed after the first test version. She
+used to take a step back as well as turn around but now she just spins in
+place.  It's good if you need to set up back turn moves but overall I think
+that d/f+3+4 is a better option just because when she is back turn she
+can't move forward unless it's with BT 4,3+4.
+
+
+
+b+1+4 - Unblockable (M) (***  ) Spine Shot ff
+
+Lili winds up and does her jumping drill kick.
+
+This unblockable isn't super useful, however it is one of the better
+unblockables in the game.  First of all it comes out somewhat fast.  Second,
+it hits mid so they can not duck it.  Third, because she is jumping your
+opponent must either attempt to sidestep it or try to jab you out of it
+in the air.  I use it a decent amount.
+
+
+
+u/f+3+4,3+4 - M,M (****) Wing Knee Cannon
+
+Lili jumps forward with both legs then leans down and shoots both her legs
+into the air to launch her opponent.
+
+This move is great for a few reasons.  First, u/f+3+4 by itself hops over
+lows and is totally safe on block.  It is also great to use in juggles.
+Second, the follow up is a high and sometimes mid crush so if you're
+opponent tries to jab right after you doing the Wing Knee part, you will
+launch them for a ton of damage.  However good players will catch on to
+this.  This is the beauty of the move.  Because if they start fearing the
+second hit, they will stand and block and you can continue your offense
+with whatever move you desire.  Also if you see them trying to jab again
+you can go back to doing the entire string.  The only bad thing about this
+move is that the second part is incredibly unsafe on block.
+
+
+
+u/f+4,3 - M,M (***  ) Mustang Lance 
+
+Lili does a jump kick followed by a standing straight kick.
+
+This move is good because it is a natural combo and knocks down.  It does
+a lot of damage as well.  On hit, if they don't do a quick rollback (~b)
+you can get a free d/f+3+4,3+4,BT d+3 or whatever other oki you like.  The
+first it is a low crush.  
+
+
+
+u/f+3 - M (*****)
+
+Lili does a hop kick.
+
+This is my absolute favorite move with Lili.  Even though it's not in her
+complete move list, it is an important part of her game.  This move
+crushes lows like nothing else.  It has almost phantom range and can be
+used if your opponent whiffs almost anything.  It is merely jab punishable
+and is worth the risk.  It's fast enough that if you were block something
+low that is unsafe, you can do this move right afterward rather than a WS
+move.  Also this move is guaranteed after both low punch and low kick
+parry.  Combos off this move lead to approximately 45% damage.  This move
+is also great to use against wakeup kicks, or any other wakeup moves
+your opponent has because it will fully launch them into the air.  It can
+even catch back rollers.  THIS IS HER NUMBER ONE MOVE.
+
+
+
+f,f+2 - M (***  ) Aronjebra Pierce 
+
+Lili dashes forward into and punches.
+
+I can't say that I use this move all too often since it used to be her qcf+
+2.  The good thing about this move is that it will stun on CH for a free
+mini juggle.  Other then that, I don't think it's that great.
+
+
+
+f,f+3,3+4 - M,M,M (**   ) Alstromeria  
+
+Lili does a jump kick followed by a cartwheel in the air.
+
+Another move that I don't use a lot.  It's not a terrible move, it's just
+very slow and doesn't track well.  It does a lot of damage on hit but it's
+one of the easiest moves to sidestep, and it leaves Lili wide open. I would
+avoid using this attack very often.
+
+
+
+f,f+4 - L (**** ) Alto Rodeo
+
+Lili hops forward and stomps the ground.
+
+This is a great low move.  It doesn't knock down but it will stun Lili's
+opponent on CH.  I mix it up with d/f+4<4 a bit.  The only bad thing about
+this move is that it can be easily stepped and it's best to use if you're
+keeping the pressure on.
+
+
+
+f,f+3+4 - M (***  ) Spine Shot
+
+Lili jumps forward with a drill kick.
+
+This move is alright.  It's relatively fast and knocks down.  It also
+crushes low attacks.  It gives you a massive block stun but not frame
+advantage.  I use it from time to time.
+
+
+
+qcf+1 - M (*****) Vine Slash
+
+Lili does a crouch dash into a backhand launcher.
+
+I like this move a lot.  It's jab punishable, but that is the only
+negative thing about it.  First, it has a lot of range, Lili's juggles off
+of this move take about 45% damage, and this move will go under highs as
+well has some mid attacks.  It's a great offensive tool and one of her
+best launchers.  You can even use this in juggles after WS 2 and d+3+4. This
+move is also referred to as CD 1.
+
+
+
+qcf+2 - M (**** ) Shanze Strike
+
+Lili does a crouch dash into a punch.
+
+This move is alright.  I rated it high for a couple reasons.  First, you
+can mix this up with CD 1 to keep them guessing when to punish, because
+that move is not safe, and this one totally is.  Second, it will stun on
+CH for a juggle.  This move is also referred to as CD 2.
+
+
+
+WS 1 - M (***  ) En Garde
+
+Lili does a fast rising punch.
+
+This move is ok, it's her second fastest WS move.  On CH you can juggle
+right afterward as well.  I don't have a lot to say about this move even
+though I use it often.
+
+
+
+WS 2 - M (**** ) Rising Baton
+
+Lili does a longer version of her d/f+2.
+
+This move is a great punisher for really unsafe lows.  It launches her
+opponent way into the air for at least 50% juggles.  This move is not safe
+but not horribly unsafe however.  It won't work on many lows because it is
+kind of slow, but still it has a lot of range and is a great launcher.
+
+
+
+WS 3,4 - M (***  ) Honey Circle
+
+Lili does a backwards cartwheel followed by a front heel drop.
+
+This move is OK.  From what I understand, in version B you can not juggle
+after this launcher other than with just the second hit of this move. This
+is unconfirmed however.  It doesn't have much range, and is not safe, but
+it does put you out of range to be punished by most characters.  You can
+also do this out of Lili's Parade Step (qcf) and it will hit techrollers.
+
+
+
+WS 4 - M (**** )
+
+Lili does a quick kick straight into the air from a ducking position.
+
+This is a standard WS move but still worth mentioning because it's one of
+her better WS options.  You can also do this move by doing Parade Step 4
+or qcf+4. On CH this move stuns her opponent and you can juggle them.  This
+may have been changed in version B of the game however.
+
+
+
+FC, d/f+3 - L (**** ) Horizon Slide
+
+Lili does a slide on the ground.
+
+I like this move a lot.  Even if it's not incredibly safe, it has a ton of
+range and can catch people off guard.  If you side step before it sometimes
+she will slide right through them and they can't punish it.  You can also
+juggle after this move because it trips them on counter hit.  This move
+is a high crush.
+
+
+
+SS 3 - M (**   ) Shirin Dart Kick
+
+Lili's sidesteps and does a straight kick into the air, launching her
+opponent.
+
+In my opinion, Lili's side step game is very weak.  This move is a side
+step launcher, but it comes out so slow that even if you clearly sidestep
+some moves, they may have time to recover and block it.  It's not safe on
+block either.  Still, I use this move sometimes because it's very
+rewarding, much like any of Lili's launchers.
+
+
+
+SS 1+2 - M (*    ) Minuet
+
+Lili steps to the side and punches her opponent.
+
+This move is complete garbage.  It comes out so slow, and has some of the
+most horrible tracking I have ever seen.  Avoid it!
+
+
+
+BT 4,3+4 - M,M,M,M (*****) Hanged Kick Spinning Edge
+
+Lili does two backward cartwheels, leaving her in back turn position.
+
+Now here is an annoying move!  Not only is the first hit completely safe
+on block (and possibly the second hit) but it can run down opponents who
+try to attack through it, and it even hits grounded.  The first part is
+both a high and low crush.  I don't do the entire string very often
+because the first and second parts can be jabbed through, but even if you
+do just do the first part, you will stay in back turn for a mix-up.
+
+
+BT 1+2 - M,M (**** ) Tempest
+
+Lili turns around and comes down with two kick palm swipes.
+
+Another great move!  This move knocks down on regular and counter hit, and
+even on block leaves your opponent in a crouching position.  It comes out
+really fast, so use it in her BT mix-ups.
+
+
+
+BT d+3,4 - L,M (**** ) Antelope Kick
+
+Lili does a back turned low kick followed by another kick with her other
+leg to the chest.
+
+I like this move a lot, because the first part crushes highs, and the
+second hit is guaranteed on CH.  Not only that, if you are keep the
+pressure on, your opponent will be forced to block because in many cases,
+if they try to low crush the first hit, it will whiff.  This move does
+a ton of damage and knocks down.
+
+
+
+BT d+3+4 - L (***  ) Flat Trip                             |
+
+Lili does a long range sweep from back turn, and returns to back turn.
+
+This move is good, even though I don't use it very often because of it's
+readability.  However if it hits, it will knock down and you can get
+another one for free.
+
+-----------
+
+****Top 10 Moves****
+
+d/f+1 -1 on block, decent punisher, awesome pressure tool, good to setup
+throws or whatever short range move's you'd like.
+
+1,2 8 frame jab punisher. 1 by itself is +1 on block.
+
+d+3+4 high and sometimes mid crush. Bad recovery but worth the risk and
+damage. Guaranteed after low kick parry.
+
+u/f+3 low crush, phantom range, almost 50 percent damage after launching
+with this. Jab punishable but that's about it.
+
+d/f+2 Safe, spammable launcher. Doesn't launch crouchers but it's a good
+launcher nonetheless.
+
+d/f+3+4 Great whiff punisher, leads to a great combo (d+1, WS2, d+1,2,4).
+Great mix-ups out of back turn on block (d+3,4, u/f+4, 1+2, or even throw)
+
+f+3+4,3,4 I would recommend not doing this against a standing opponent
+because they can jab in between f+3,4 and 3 but if they're on the ground
+and the 3 part hits, 4 is guaranteed. Lots of damage.
+
+f+3 Semi fast side kick. Hits side steppers and knocks down.
+
+CD 1 Oh god, I can't say enough good things about this launcher. It's
+another one of those moves that'll some time go under mid moves. I love it.
+It's another great whiff punisher.  However it's not safe but only jab
+punishable.
+
+d/f+1+2 Her 1+2 throw, seems hard to break, it's a good fast option if
+you're keeping the pressure on with d/f+1.
+
+-----------
+
+****Combos/Juggles****
+
+** note ** These combos have all been tested by me, in the test version "2"
+of Tekken 5 : DR.  The US version of DR is imminent in the US so I'll be
+sure to test everything when it is released (Tekken 5 : DR, Version B).
+Lili is the queen of all jugglers and has a lot of possible combos, I  will
+only enter in those that are useful, damaging, or just plain unique.  I'll
+mark the most common ones that I use with a star (*).  If you are unfamiliar
+with Tekken notation, please review the legend on www.tekkenzaibatsu.com or
+the glossary at the top of this document.
+
+-----------------------------------------------------------------------------
+u/f+3
+
+* - d/f+1, 1,2, d+2,2,3
+- d/f+1, 1,2, 1,2,4
+* - d/f+1, 1,2, f+3+4
+* - 1, b+2,1, 1, f+2,1+2
+- 1,2, b+2,1~b, BT 1+2
+
+-----------------------------------------------------------------------------
+d/f+2
+
+* - 2, b+2,1, 1, f+2,1+2
+* - d/f+1, b+2,1, d+2,2,3
+- d/f+1, b+2,1, 1,2,4
+* - d/f+1, b+2,1, f+3+4
+- d/f+1, 1,2, d+2,2,3
+- d/f+1, 1,2, 1,2,4
+- d/f+1, 1,2, f+3+4
+- 1, b+2,1, 1, f+2,1+2
+- 1,2, b+2,1~b, BT 1+2
+- 1,2, d/f+2, 1,2,4
+
+
+-----------------------------------------------------------------------------
+d+3+4 or u/f+3+4,3+4
+
+*- U/F+4, 1,2, d+2,2,3
+- U/F+4, 1,2, 1,2,4
+*- U/F+4, 1,2, f+3+4
+- b+3, 1,2, d+2,2,3
+- b+3, 1,2, 1,2,4
+- b+3, 1,2, f+3+4
+- CD 1, 1,2, d+2,2,3
+- CD 1, 1,2, 1,2,4
+- CD 1, 1,2, f+3+4
+
+-----------------------------------------------------------------------------
+CD 1
+
+* - d/f+1, 1,2, d+2,2,3
+- d/f+1, 1,2, 1,2,4
+* - d/f+1, 1,2, f+3+4
+* - 1, b+2,1, 1, f+2,1+2
+- 1,2, b+2,1~b, BT 1+2
+- 2, b+2,1, d+2,2,3
+
+-----------------------------------------------------------------------------
+WS 1 CH
+* - d+1,2, d+1,2,4
+- d/b+1, WS+2, d+1,2,4 (untested)
+
+-----------------------------------------------------------------------------
+WS 2
+
+* - u/f+3+4, 1,2, d+2,2,3
+- u/f+3+4, 1,2, 1,2,4
+* - u/f+3+4, 1,2, f+3+4
+- u/f+3+4, 1,2, u/f+3+4,3+4
+- u/f+3, 1,2, d+2,2,3
+- u/f+3, 1,2, 1,2,4
+- u/f+3, 1,2, f+3+4
+- CD 1, 1,2, d+2,2,3
+- CD 1, 1,2, 1,2,4
+- CD 1, 1,2, f+3+4
+* - u/f+3+4, 1, b+2,1, u/f+3+4,3+4
+- d+2,2, 1, 1,2,4
+- u/f+3+4, b+2,1, d+2,2,3
+
+-----------------------------------------------------------------------------
+CD 3 or WS 3 (*** note, may not work in Version B ***)
+
+- 4
+- 1,2, 1,2,4
+- 1,2, d+2,2,3
+* - d/f+1, 1,2, d+2,2,3
+- d/f+1, 1,2, 1,2,4
+- d/f+2, 1,2, f+3+4
+
+-----------------------------------------------------------------------------
+CD 4 CH or WS 4 CH
+* - d/f+2, 1,2, d+2,2,3
+* - d/f+2, 1,2, f+3+4
+- d/f+2, 1,2, 1,2,4
+* - d/f+1, 1,2, d+2,2,3
+- d/f+1, 1,2, f+3+4
+- d/f+1, 1,2, 1,2,4
+- d+1,2 d+1,2,4
+
+-----------------------------------------------------------------------------
+SS 3
+
+* - d/f+1, 1,2, d+2,2,3
+- d/f+1, 1,2, 1,2,4
+* - d/f+1, 1,2, f+3+4
+* - 1, b+2,1, 1, f+2,1+2
+- 1,2, b+2,1~b, BT 1+2
+
+-----------------------------------------------------------------------------
+BT u/f+4
+
+- d/f+1, 1,2, d+2,2,3
+- d/f+1, 1,2, 1,2,4
+- d/f+1, 1,2, f+3+4
+
+-----------------------------------------------------------------------------
+d/f+3+4
+
+* - BT d+1, WS 2, d+1,2,4
+- d+1,2, d+1,2,4
+- BT 1+2
+
+-----------------------------------------------------------------------------
+u+4 CH
+
+* - 1,2, d+2,2,3
+- 1,2, 1,2,4
+* - 1,2, f+3+4
+- b+2,1, d+2,2,3
+- b+2,1, 1,2,4
+- b+2,1, f+3+4
+- 1, b+2,1, 1,2,4
+
+-----------------------------------------------------------------------------
+BT 3+4
+
+* - 1,2, d+2,2,3
+- 1,2, 1,2,4
+* - 1,2, 1,2,4
+
+-----------------------------------------------------------------------------
+d/f+3
+
+* - d/f+4,4
+
+-----------------------------------------------------------------------------
+f,f+2 CH
+
+* -d+1,2, d+1,2,4
+
+-----------------------------------------------------------------------------
+u/f,N,3
+
+* - 1,2, d+2,2,3
+- 1,2, 1,2,4
+* - 1,2, f+3+4
+
+-----------------------------------------------------------------------------
+d/b+4 CH
+
+- SSL, d+1,2, d+1,2,4
+
+-----------------------------------------------------------------------------
+b+4~3
+
+* - WS 3
+
+-----------------------------------------------------------------------------
+b+1 CH
+
+* - d+1,2, d+1,2,4
+-----------------------------------------------------------------------------
+d/b+3
+
+* - FC, d/f+3

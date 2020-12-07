@@ -1,0 +1,275 @@
+The Rain Dancing Xiaoyu FAQ
+Written by bigboss (bigboss@postmark.net)
+Version 1.0 (17/12/2001)
+        Initial release
+
+CONTENTS
+
+-Ling Xiaoyu's Movelist
+-RD cancelling
+-Wall stuns
+-Guaranteed damage
+-Acknowledgements
+-Legend
+
+                                     LING XIAOYU'S MOVELIST
+                                         Grappling arts
+-----------------------------------------------------------------------------------------------
+|Name                  |Command          |Position  |Damage  |Escape  | Notes                 |
+|----------------------|-----------------|----------|--------|--------|-----------------------|
+|Position change       |1+3, u_d_b_f     |          |-       |1       |                       |
+|RD pasition change    |RD 1+3, u_d_b_f  |          |-       |1       |                       |
+|So shoe me            |f+2~1            |          |15      |1+2     |                       |
+|Jade                  |F+2+4            |          |10,20   |2       |                       |
+|Ruby                  |2+4              |          |30      |2       |                       |
+|Dragon fall           |2+4~d/f          |          |30      |2       |                       |
+|Dislocator            |QCB+2            |          |35      |2       |                       |
+|Dump the bucket       |2+4              |right     |38      |2       |                       |
+|Arm flip              |2+4              |left      |45      |1       |                       |
+|Crank up              |2+4              |behind    |50      |-       |                       |
+|Leaping throw         |RD f,f,1+3_2+4   |          |30      |2       |                       |
+|Reverse throw         |RD 2+4           |          |30      |1       |                       |
+|Back layout           |RD f,f+3+4       |          |17,30   |-       |Requires clean hit     |
+|Cradle throw          |AOP 1+3_2+4      |          |30      |1+2     |                       |
+|Parry                 |1+4              |          |-       |-       |                       |
+|RD parry              |RD 1+4           |          |-       |-       |                       |
+|RD low parry          |RD d+1+4         |          |-       |-       |                       |
+-----------------------------------------------------------------------------------------------
+
+
+                                            Movelist
+-----------------------------------------------------------------------------------------------
+|Name                  |Command          |Damage     |Range |Stance   |Properties | Notes     |
+|----------------------|-----------------|-----------|------|---------|-----------|-----------|
+|Cloud kick            |f+3              |25         |h     |         |           |           |
+|Phoenix twin kick     |b+4              |13,15      |hh    |iRD      |           |           |
+|High kick             |4                |           |h     |         |JGc        |           |
+|Bayonet               |1,2              |4,7        |hh    |         |           |           |
+|     to Thruster      |   <1            |   ,17     |  m   |         |KND        |           |
+|Fan dance             |1,d+2            |4,10       |hm    |iRD      |           |           |
+|  to Birds flock      |1,d+2,1+2        |    ,24    |  m   |         |CF KNDc    |           |
+|April showers         |2,1              |8,10       |hm    |iRD      |           |           |
+|Dragonfly             |u/b_u_u/f+3      |30         |m     |iAOP     |           |           |
+|Crescent moon kick    |4~3              |30         |M     |iAOP     |JGc        |iAOP hits m|
+|Storming flower       |d/b+1            |25         |m     |         |KND        |1+3+4 on CH|
+|Step kick             |f,f+4            |25         |m     |         |KND DSc    |           |
+| to Swallow dance     |      OG 4       |-          |-     |iAOP     |           |           |
+|Front layout          |f,f+3+4          |25         |M     |         |           |           |
+|Cyanide               |u_u/f+4          |25         |m     |iAOP     |RCj JGc    |           |
+|Birds flock           |1+2              |24         |m     |         |CF KNDc    |           |
+|Butter the bread      |d/f+2            |15         |m     |         |           |           |
+|Scyscraper kick       |WS 4             |14         |m     |         |           |           |
+|Raccoon swing         |f,f+3            |13         |m     |RD       |OSc        |           |
+|X marks the spot      |f,f+1+2          |12         |m     |         |GB         |           |
+|                combo |       ,1+2      |  ,27      | m    |         |BNc        |           |
+|Fortune               |f,f+2            |12         |m     |         |           |           |
+|     to Thruster      |     <1          |17         |m     |         |KND        |           |
+|Sunflower             |WS 2 (~f)        |12         |m     |iRD      |JGc        |           |
+|Jasmine blossom       |WS 2*(~f)        |12         |m     |iRD      |JG         |           |
+|Great wall left       |b+1              |10         |m     |iRD      |           |RD on hit  |
+|Great wall right      |b+2              |10         |m     |iRD      |           |RD on hit  |
+|Belly chop            |d/f+1            |10         |m     |iRD      |           |           |
+|Sunset fan            |d+1              |7,7,7      |mmm   |iAOP     |           |~d to AOP  |
+|Single fan            |u+1              |5          |m     |iRD      |           |           |
+|Double fan forward    |u+1+2            |5,8        |mm    |         |RC GB      |           |
+| to Hydrangea         |     ,2          |   ,12     |  m   |         |KND        |if u+1+2 CH|
+|  to Fortune cookie   |       <1        |      ,25  |   m  |         |KND        |           |
+| to Ginger snap       |     ~3+4        |-         -|      |         |           |           |
+|Cross lifting palms   |d/f+2~1          |5,12       |mm    |         |JG GB      |           |
+|Quick shady lotus     |FC d/f+2         |10         |Sm    |         |RC         |~d/f to RD |
+|    to Lotus twist    |        ,1       |  ,15      |  Sm  |         |RC         |~d/f to RD |
+|Street sweeper        |d+3              |           |L     |         |           |           |
+|      to High kick    |   ,4            |           |h     |         |           |           |
+|Parting sweep         |SS 4             |16         |L     |         |JGc RC     |           |
+|Nutcracker            |d/b+4            |10         |L     |         |KS SLDc    |           |
+|Fire dancer           |FC 3,2,1<4       |8,10,10,16 |Lhhm  |         |JG         |           |
+|Map sweep             |FC d/f+4         |6          |L     |AOP      |           |           |
+| to Double map sweep  |        ,4       | ,10       |L     |         |RC         |           |
+|Knee cracker          |d/b+3            |-          |!     |         |GB         |           |
+|Cartwheel left        |f+1+2            |-          |-     |         |           |           |
+|Dive roll right       |f+3+4            |-          |-     |         |           |           |
+|Art of phoenix        |d+1+2            |-          |-     |AOP      |           |           |
+|Spin up               |3+4              |-          |-     |         |           |           |
+|Spin down             |d+3+4            |-          |-     |         |           |           |
+|Standing back spin    |SS,d/b_d/f,d+3+4 |-          |-     |RD       |           |           |
+|Rain dance starter    |b+3+4            |-          |-     |RD       |           |           |
+|Low back turn         |FC d/b+3+4       |-          |-     |RD       |RC         |           |
+|False salute          |1+3+4            |-          |-     |         |           |           |
+|Greetings             |2+3+4            |0          |-     |         |GB         |           |
+-----------------------------------------------------------------------------------------------
+
+
+                                      Art of Phoenix movelist
+-----------------------------------------------------------------------------------------------
+|Name                  |Command          |Damage     |Range |Stance   |Properties | Notes     |
+|----------------------|-----------------|-----------|------|---------|-----------|-----------|
+|Jumping pirouette     |U/B_U_U/F+3      |30         |m     |         |OB         |           |
+|Crane kick            |u/b_u_u/f,4      |25         |m     |         |           |           |
+|Flying crane kick     |U/B_U_U/F,4      |25         |m     |         |           |           |
+|Heavy wave crest      |d+1+2_d~1+2      |25         |m     |         |JG         |           |
+|Back kick             |4                |23         |m     |iRD      |KND        |~b to RD   |
+|Power wave crest      |1+2              |16         |m     |         |JG         |           |
+|Single barrel shotgun |u/b_u_u/f+3      |15         |m     |         |JG         |           |
+| to Double barrel     |           ,3    |  ,23      | h    |         |KND        |           |
+| to Double scissor    |           ,4    |  ,25      | m    |         |           |           |
+|Quick wave crest      |(AOP)~1+2        |14         |m     |         |JG         |           |
+|Right handfull        |2                |12         |m     |         |           |           |
+|       to thruster    | <1              |  ,17      | m    |         |KND        |           |
+|Phoenix talon         |3+4              |           |mmm   |         |JG         |           |
+|Flower power          |u+4              |8          |mm    |iAOP iRD |RC         |           |
+|    to Trick flower   |   ,4            | ,12       |  mm  |         |RC         |           |
+|Left handfull         |1                |7          |m     |         |RC         |           |
+|Sky kick              |u/b_u_u/f,3      |19         |L     |         |JG RC      |           |
+|Firecracker           |4~3              |15         |L     |         |           |           |
+| to Roll up or down   |   ,u_d          |-          |-     |         |           |           |
+|Knee stabber          |3                |15         |L     |AOP      |           |           |
+|Flower garden         |f+4              |7          |L     |AOP      |           |           |
+| to Double map sweep  |   ,4            | ,10       | L    |         |RC         |           |
+|AOP to Rain Dance     |b+3+4            |-          |-     |RD       |RC         |           |
+|Butterfly             |d                |-          |-     |AOP      |           |           |
+|AOP cancel            |u,N              |-          |-     |         |           |           |
+|Jump                  |u/b_u_u/f        |-          |-     |         |           |           |
+|Forward roll          |f+3+4            |-          |-     |iAOP     |RC         |~d to AOP  |
+|Cradle roll up        |2+4  ~u_d_b_f    |-          |-     |         |RC         |           |
+|Cradle roll down      |1+3  ~u_d_b_f    |-          |-     |         |RC         |           |
+-----------------------------------------------------------------------------------------------
+
+
+                           Hypnotist stance movelist (1st/ 2nd/ 3rd step)
+-----------------------------------------------------------------------------------------------
+|Name                  |Command          |Damage     |Range |Stance   |Properties | Notes     |
+|----------------------|-----------------|-----------|------|---------|-----------|-----------|
+|Spin sticker          |2                |25/ 30/ 35 |m/m/m |         |KND/KND/KND|           |
+|Thunder strike        |1+2              |40/ 50/ 72 |!/!/! |         |           |           |
+|        to cancel     |   ~b,b          |-          |-     |RD       |RC         |           |
+-----------------------------------------------------------------------------------------------
+
+
+                                       Rain Dance movelist
+-----------------------------------------------------------------------------------------------
+|Name                  |Command          |Damage     |Range |Stance   |Properties | Notes     |
+|----------------------|-----------------|-----------|------|---------|-----------|-----------|
+|High kick             |b_f+3            |           |h     |         |KND        |           |
+|Dark and stormy       |2,1<4            |10,10,16   |hhm   |         |JG         |           |
+|California roll       |f+3+4            |-          |-     |RD       |RC         |           |
+|   to Kangaroo kick   |     ~3+4        |25         | m    |RD       |JG         |           |
+|Monkey kick           |3                |           |m     |RD       |KND        |           |
+|Peg leg               |f,f+3            |20         |M     |RD       |KND        |           |
+|Reverse back layout   |f,f+3+4          |17         |M     |RD       |           |           |
+|Mistrust              |4                |16         |m     |         |JG         |           |
+|Falcon's beak         |1                |           |m     |RD       |GS DSc     |           |
+|Back circle breaker   |d+3              |15         |L     |iRD      |KS SLDc    |           |
+|Low kick              |d/b+4            |           |l     |         |           |           |
+|Guard breaker         |d+4              |-          |!     |         |GB         |           |
+|RD to AOP             |d+1+2            |-          |-     |AOP      |           |           |
+|RD cancel             |b_u/b            |-          |-     |         |           |           |
+|Crouching RD cancel   |D/B              |-          |-     |         |           |           |
+|Forward RD cancel     |u/f              |-          |-     |         |           |           |
+|Forward crouching RDc |(FC) u/f,D/F     |-          |-     |         |           |           |
+|Spin tornado up       |3+4              |-          |-     |         |           |           |
+|Spin tornado down     |d+3+4            |-          |-     |         |           |           |
+|Back spin             |b~3+4            |-          |-     |RD       |           |           |
+|False salute          |1+3+4            |-          |-     |RD       |           |           |
+|Greetings             |2+3+4            |0          |-     |RD       |GB         |           |
+-----------------------------------------------------------------------------------------------
+
+iRD moves recover in RD normally.Hold the command's direction to face forward
+iAOP moves recover in AOP when inputting d+1+2
+
+
+                                    RAIN DANCE CANCELLING 
+ Ling can cancel her Rain Dance stance at any time, even during a RD sidestep, by turning 180 
+degrees either away or toward the opponent. In both cases she can recover crouching.
+       b_u/b  RDc   (Rain Dance cancel                  )
+         D/B  RDcc  (crouching Rain Dance cancel        )
+         u/f  fRDc  (forward Rain Dance cancel          )
+(FC) u/f,D/F  fRDcc (forward crouching Rain Dance cancel)
+ Commands you input during a RD cancel animation are parsed as forward facing moves and will 
+cancel the remaining animation. During any RD cancel Ling can not throw, parry, sidestep or 
+jump. During the RD cancel animations Ling can only input a limited set of moves. In RD 
+cancels that put Ling in FC position there seems to be a small window, close to the end of the 
+animation, in which you can input WS and directional FC moves before exiting the RD cancel 
+animation.
+Cancelling the RDc animation in it's early frames with 4~3 or d+1+2 will make the moves come 
+out off axis and with d+1+2 you can even go into BK AOP from where you perform single button RD
+moves.
+Overall, RDc is relatively slow but evasive, whereas fRDc is fast and more attack oriented.
+
+                        Move limitations for RD cancels
+--------------------------------------------------------------------------------
+|                RDc  fRDc              |               RDcc  fRDcc            |
+|---------------------------------------|--------------------------------------|
+|Single button |    1 , 2 , 3 , 4       |FC       |      1 , 2 , 3 , 4         |
+|commands      |                        |commands |   d/f+2 , d/f+4 , d/b+3+4  |
+|              |                        |         |                            |
+|d and D       |   d+1, d+2, d+3, d+4,  |WS       |      1 , 2 , 3 , 4         |
+|commands      |   d+1+2, d+3+4         |commands |                            |
+|              |                        |         |                            |
+|Multi button  |   1+2, 3+4, 4~3        |         |                            |
+|commands      |                        |         |                            |
+|              |                        |         |                            |
+|RDc only      |   3+4 spin away        |         |                            |
+--------------------------------------------------------------------------------
+
+
+                                         WALL STUNS
+  Ling has the following moves that cause KND and an inescapable wall stun on a near wall hit:
+---------------------------------------------------------
+|             Command    |Damage   |Range   |Properties |
+|------------------------|---------|--------|-----------|
+|               d/b+1    |25       |m       |W!         |
+|       (u+1+2, 2) <1    |25       |m       |W!         |
+|              f, f+4    |25       |m       |W!  DSc    |
+|                 1+2 CH |24       |m       |W!c        |
+|       (1, d+2), 1+2 CH |24       |m       |W!c        |
+|           (1, 2) <1    |17       |m       |W!         |
+|       (u+1+2 CH), 2    |12       |m       |W!         |
+|           AOP 4(~b)    |25       |m       |W!         |
+|AOP (u/b_u_u/f+3), 3    |23       |h       |W!         |
+|          (AOP 2) <1    |17       |m       |W!         |
+|            RD b_f+3    |         |h       |W!         |
+|            RD f,f+3    |         |M       |W!         |
+|            RD     3    |         |m       |W!         |
+|          (b+1+2), 2    |25/30/35 |m       |W!         |
+---------------------------------------------------------
+
+
+                                       GUARANTEED DAMAGE
+u+1+2 CH, 2 W!, 1
+AOP 2 CH, 1 W!
+f,f+2 CH, 1 W!
+(1), d+2 CH, 1+2
+WS+4, 4~3
+FC d/f+4,4
+FC d/f+2 CH, 1
+
+
+ACKNOWLEDGEMENTS
+ This FAQ is meant for public use.However, unauthorised reproduction or distribution of this 
+document would be in contrast to copyright law.
+ Lastly, I would like to personally thank Castel and the rest of the Tekken Zaibatsu crew for 
+maintaining TekkenZaibatsu.com, the home of all things Tekken and their Ling movelist upon 
+which mine is based. I would also like to thank the members of the TZ Ling strategy thread for
+ the ideas they have, over time, contributed.
+
+
+LEGEND
+AOP    Art of Phoenix
+BK     Back turned towards opponent
+CF     Crumple fall
+CH     Counterhit
+DS     Double over stun
+FC     Full crouch. Ducking animation
+GS     Gut stun
+JG     Juggle starter move
+KND    Knockdown
+KS     Kneel stun
+OB     Forces opponent's back to face you
+OG     On guard. Reguires opponent to block
+OS     Forces opponent's side to face you
+RC     Recovers crouching
+RD     Rain Dance
+WS     While standing 
+W!     Inescapable wall stun (no wall tech)
+c      counter-hit modifier. Requires CH
+j      joystick modifier (press d to RC)

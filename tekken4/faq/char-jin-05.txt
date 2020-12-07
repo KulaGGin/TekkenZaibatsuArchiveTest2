@@ -1,0 +1,1822 @@
+                                 + AMDG +
+
+                      -----------------------------                                                                                                       
+                     | T | E | K | K | E | N | | 4 |
+                      -----------------------------                                                                               
+              _                                                                          
+          __ |_|        __  __                                                  
+         |  |__ _ __   |  |/  | ___ _ ____   ___ _ _ __ __  ___ _                                  
+      ___|  |  | '  \  |    _ //   ' |_   / /   ' | '  '  |/   ' |                                    
+     |   |  |  |  | |  |      \  O   | / /_|  O   |       |  O   |                      
+      \_____|__|__|_|  |__|\__|\___,_|/____|\___,_|__|__|_|\___,_|                                                                      
+                                                   FATAL LIGHTNING                                
+                -------------------------------------------                                                                      
+               | V | I | N | D | I | C | A | T | I | O | N |
+                -------------------------------------------                                                                          
+                                                                                                                                            
+
+
+                                  v.2.0 
+                                7/7/2003
+
+
+                               Copyright (c)
+                            Tekken:4 Jin Kazama
+                                VINDICATION
+                         Louvenel "the_hitman" Chua
+                            all rights reserved
+                                   2003
+
+
+                                 Tekken:4
+                                Jin Kazama
+                         and all related materials
+                             are owned by NAMCO
+
+
+
+Best viewed using courier new size 10 on wordpad. This document is 
+meant for personal use only.Any other nature of usage, such as for 
+promotion, for profit and the likes, requires the permission of the
+author. You may print this document for portability purposes on the
+condition that you do not alter it's original form, especially the 
+copyright notice. This document is edited to fit the page of a 
+regular paper, so you won't be having those wierd wrapping of 
+sentences. Good to go for printing.
+
+
+========
+CONTENTS
+========
+
+PART ONE
+--------
+1.REVISIONS
+2.INTRODUCTION
+     -2.1 Tekken 4
+     -2.2 Jin Kazama
+     -2.3 This Guide
+3.STORIES
+     -3.1 Tekken 4
+     -3.2 Jin Kazama
+4.CONVENTIONS
+     -4.1 Commands
+     -4.2 Notations
+     -4.3 Grounded Positions
+     -4.4 Move Properties
+     -4.5 Hit Ranges
+     -4.6 Extra Combo Conventions
+5.MOVELIST
+     -5.1 Grappling Arts
+     -5.2 Special Arts
+     -5.3 Unblockable Arts
+     -5.4 String Hit Arts
+6.FRAME DATA
+     -6.1 Grappling Arts
+     -6.2 Basic Arts
+     -6.3 Special Arts
+     -6.4 Unblockable Arts
+
+PART TWO
+--------
+7.THE WAY OF EMPTY HAND
+     -7.1 Poking
+     -7.2 Stringing
+     -7.3 Juggling
+     -7.4 Stun
+     -7.5 Wall System
+     -7.6 Okizeme
+     -7.7 Grounded
+     -7.8 Movements
+8.TEST OF SPIRIT
+     -8.1 Summary
+     -8.2 The Practice
+
+PART THREE
+----------
+9.CLOSING REMARKS
+10.CREDITS AND THANKS
+11.ABOUT THE AUTHOR
+
+=========
+REVISIONS
+=========
+
+VERSION 1 - Finished the first version of this guide.
+
+VERSION 2 - Corrected grammatical errors.
+          - Changed commentary errors.
+          - Redone the conventions to comply with TZ standards.
+          - Redone the movelist to comply with TZ standards.
+          - Added frame data section.
+          - Corrected and added strategies.
+          - Redone title design. 
+
+============
+INTRODUCTION
+============
+
+--------
+TEKKEN 4
+--------
+
+The time Tekken:4 came out I was not immediately impressed. For me
+there is nothing new in it.But all that is changed now. I saw new 
+intricacies in the game that add to that Tekken feel.There is always 
+something new in every sequel of Tekken series. Namco has done a great 
+job.
+
+----------
+JIN KAZAMA
+----------
+
+One of the greatest change, in my opinion, is that Jin no longer using 
+the classic mishima style of fighting. I think that too much fighter 
+using the relatively same style is really a drag. The sudden changeup
+of Jin style gives me inspiration to use him, plus the fact that I am 
+with equal footing against other new Jin players because of the new 
+style.
+
+Many folks in the forum is saying that Jin is overpowering, not true. 
+Many say that with Jin you only have to learn few moves, it is wrong. 
+Then again there are some who says that they tried using Jin, followed 
+the so called few moves to learn and yet they cannot win consistently, 
+they are naive.
+
+Jin is a versatile fighter he can attack(bulldog) and wait(turtle), and 
+Jin is one of those fighter that you cannot just mash the button and 
+win unlike Christie. With many strengths also comes many weakness. Jin 
+was able to cover most play style and yet he is not the strongest in 
+any of it. Overcoming this weakness is what separates the good Jin 
+player from the scrubby. Being able to shift from one style to the 
+other, from one rhythm to the other is the greatest strength of Jin.
+
+----------
+THIS GUIDE
+----------
+
+This guide is written with the novice in mind. I tried to cover most of 
+the gaming style and tricks that I know of. This is not the bible of 
+"how-to-play-jin-guide" and it will never be complete. Discovery and 
+learning has no boundary. I can only try to be as complete as possible.
+
+This guide is organized mainly in two parts. First is the usual stuffs 
+such as stories, conventions and movelist. The second part is composed 
+of how to use Jin. And finally my thanks to all who have supported me 
+or influenced me.
+
+All information in this guide complies with TekkenZaibatsu standards.
+
+Without furthur ado, here we go...
+
+
+
+=====================
+=  P A R T   O N E  = 
+=====================
+
+
+=======
+STORIES
+=======
+
+For your reading pleasure.....
+
+--------
+TEKKEN 4
+--------
+
+Two years ago, Heihachi failed to capture Ogre. 
+
+Not willing to give up, Heihachi ordered his researchers to collect 
+blood samples, skin tissue,and hoof fragments left behind by Ogre (or 
+known as True Ogre in its true manifestation) in order to conduct 
+genetic experiments. Heihachi’s goal was to create a new life form by 
+splicing Ogre’s genome with his own. However, the research was 
+unsuccessful.
+
+After extensive experimentation, Heihachi’s bioengineers came to the 
+conclusion that an additional gene - the Devil Gene - was necessary in 
+order to successfully splice Ogre’s genetic code into another living 
+organism. Heihachi learned that hisown genome lacked the Devil Gene, 
+but he knew someone who did...
+
+Jin Kazama.
+
+Jin, who vanquished Ogre in The King of Iron Fist Tournament 3, was 
+shot and mortally wounded by Heihachi. As his life slipped away, Jin 
+transformed into a Devil. Upon his transformation, he struck down 
+Heihachi and took flight.
+
+Jin’s whereabouts were unknown after the Tournament.
+
+Heihachi searched for Jin to no avail. However, Heihachi discovered a 
+photograph during his investigation that stirred his curiosity. The 20-
+year-old photograph was an image of a burnt corpse covered with 
+laceration wounds. Heihachi paid particular attention to the corpse’s 
+back,which had what looked like deformed, protruding wing-like limbs.
+
+Convinced that the picture was of Kazuya, his own son whom he threw 
+into a volcano 20 years ago, Heihachi diverted all his resources into 
+a search for the body. This search eventually led Heihachi to G 
+Corporation, a leading-edge biotech firm making unprecedented advances 
+in the field of biogenetics research. 
+
+Heihachi discovered that G Corporation found the corpse and extracted 
+and analyzed its genetic data. In fact, Heihachi learned that the 
+company was in the midst of creating a new life form by using the data. 
+Heihachi also determined that Kazuya’s remains and research data were 
+secured at G Corporation’s Nebraska and Nepal research laboratories, 
+respectively.
+
+Friday, 25 December. The Tekken Force raided G Corporation’s maximum 
+security research laboratory in Nepal. The bottom floors of the 
+building were obliterated, and the remaining data storage facility 
+containing file servers was airlifted by a group of heavy-duty 
+helicopters.
+
+At the same time, a separate unit led by Heihachi infiltrated the 
+underground research facility in Nebraska, where Kazuya’s remains were 
+preserved. As Heihachi observed from his helicopter, he soon realized 
+that unlike the Nepal facility, the operations in Nebraska were not 
+going according to plan. The tactical status monitor screens showed the 
+first wave of the Tekken Force troops being blown out from the storage 
+room where Kazuya’s remains were supposedly kept.
+
+A silhouette of a large figure slowly emerged from the room... When 
+Heihachi could see clearly enough, he instantly recognized the large 
+figure as Kazuya.
+
+Kazuya was resurrected in G Corporation’s research facility. After his 
+resurrection, Kazuya offered his body as research material to determine 
+the true nature of the Devil that resided within him. Kazuya’s goal was 
+to unify his two selves into one. Kazuya theorized that if he unified 
+his body with the Devil, he would be able to truly harness its powers. 
+He could then finally take revenge against Heihachi and the Mishima 
+Zaibatsu (Financial Empire).
+
+Enraged that Heihachi thwarted his plans, Kazuya obliterated the
+heavily armed Tekken Force and vanished into the flames of the lab’s 
+wreckage. 
+
+Heihachi was infuriated by Kazuya’s escape and took out his anger on 
+his hapless subordinates who reported the escape.
+
+Abel, Heihachi’s lead scientific advisor, urged the enraged Heihachi to 
+quickly find a way to capture Kazuya. Once his anger subsided, Heihachi 
+focused his mind and decided on a plan. An evil smile crept upon his 
+lips.
+
+Two years had passed since The King of Iron Fist Tournament 3.
+
+The Mishima Zaibatsu announced The King of Iron Fist Tournament 4 and 
+placed the massive financial empire as the top prize.
+
+The champion who manages to defeat Heihachi at the end of the 
+Tournament would inherit the Mishima Zaibatsu.
+
+Well aware that the tournament is just a trap designed to lure him out, 
+Kazuya nevertheless enters - it is his chance to defeat Heihachi.
+
+
+----------
+JIN KAZAMA
+----------
+
+Brisbane, Australia... a city crowded with buildings, new and old. 
+Nestled amongst the towering buildings of this city was a small dojo. A 
+young man trained there, his face covered by the hood of his jacket. 
+This young man trained there quietly...... 
+
+The young man was Jin.
+
+Day after day, Jin trained in the traditional art of karate. Ever since 
+Heihachi's betrayal, Jin loathed everything about himself - his Mishima 
+bloodline, his fighting style, the Devil gene in his blood, everything. 
+He unlearned the Mishima-ryu fighting style thanks to the dojo master's 
+training and mastered traditional karate.
+
+Jin's thoughts burned with the desire to destroy the evil Mishima 
+bloodline - the bloodline of his grandfather, Heihachi Mishima, and his 
+father, Kazuya.
+
+One day, Jin heard rumors that The King of Iron Fist Tournament 4 was 
+announced.
+
+A once in a lifetime opportunity to exterminate the Mishima clan... 
+Without hesitation, Jin hardened his resolve to enter the tournament.
+
+Jin hit a sandbag with his sharply honed kick. The bag burst open 
+violently, and sand poured out of the bag...
+
+SOURCE: TEKKEN4.COM
+
+===========
+CONVENTIONS
+===========
+
+
+Old players may be sick of these now, but I'll still put it on for the 
+sake of newer players.
+
+
+--------
+commands
+--------
+
+1-left punch
+2-right punch
+3-left kick
+4-right kick
+
+f-tap forward                      F-hold forward
+d-tap down                         D-hold down
+b-tap back                         B-hold back
+u-tap up                           U-hold up
+
+d/f-tap down forward               D/F-hold down forward
+d/b-tap down back                  D/B-hold down back
+u/f-tap up forward                 U/F-hold up forward
+u/b-tap up back                    U/B-hold up back
+
+qcb-quarter circle back            qcf-quarter circle forward
+hcb-half circle back               hcf-half circle forward
+
+
+---------
+notations
+---------
+
+FC-full crouch                      WS-while standing
+N-neutral joystick                  WR-while running
+SS-sidestep either way              SSL-sidestep left
+SSR-sidestep right                  []-optional command
+,-followed by                       ~-immidiately after
++at the same time                   ( _ )-or
+<-delayed input                     =-next in sequence
+*-push and hold button              :-requires just frame input
+                 
+------------------
+GROUNDED POSITIONS
+------------------
+
+PLD-play dead position              face up and feet away
+KND-knockdown position              face up and feet towards
+SLD-slide position                  face down and feet away
+FCD-facedown position               face down and feet towards
+  
+---------------
+MOVE PROPERTIES
+---------------
+
+BT-back turned
+OB-forces oponent's back to face you
+OS-forces oponent's side to face you
+OSB-forces opponent's side to face you when blocked
+JG-juggle starter
+BN-bounce juggle starter
+RC-recover crouching after a move
+RCj-joystick modifier, need to hold D during the move to RC
+CH-requires a counter hit
+DS-double over stun
+FS-fall back stun
+LS-lift stun
+GS-gut stun
+KS-kneel stun
+HS-hunch over stun
+TS-trip stun
+CS-crumple stun
+CFS-crumple fall stun
+CF-crumple fall
+BS-low block stagger(to attacking character)
+SH-stagger hit
+GB-guard break(usually one or two hands go up in the air)
+GC-guard crouch,opponent recovers in crouching guard
+#-see corresponding foot note
+c-CH modifier(eg. JGc is a juggle starter on CH)
+co-crouching opponent modifier(eg. KSco)
+cco-CH on crouching opponent modifier(eg. FScco)
+
+----------
+hit ranges
+----------
+
+l-low                               L-hits low and grounded opponent
+m-mid                               M-hits mid and grounded opponent
+h-high                              H-hits high and grounded opponent
+
+Sm-special mid(blocked by d/b)      !-unblockable hit
+<!>-unblockable hit which can be ducked
+[!]-unblockable hits grounded opponent
+"-indicates block point in string hits
+
+-----------------------
+EXTRA COMBO CONVENTIONS
+-----------------------
+
+cc-crouch cancel                    tap u or f,f while crouching
+cd-crouch dash                      f,N,d,d/f (usually)
+iWS-instant while standing          d,d/b or d,d/f (usally)
+wgf-wind god fist                   f,N,d,d/f+2
+ewgf-electric wind godfist          f,N,d~d/f+2
+tgf-thunder godfist                 f,N,d,d/f+1
+big-big character combo             only works on big characters
+()-missing hit                      is required for the next hit  
+
+========
+MOVELIST
+========
+
+--------------
+GRAPPLING ARTS
+--------------
+
+command           throw name        type    damage     escape
+
+2+4_F+2+4         Thunder Reverse   front   30         2
+qcb+1+3           Oar Crush         front   35         1
+u/f+1+2           Throat Smash      front   30         1+2
+u/f+1+2:u/b+3+4   Throat Smash      front   32         1+2
+1+3+(u_d_b_f)     Position Change   any     0          1
+(F+2+4_2+4)       Scales Flip       left    43         1
+(F+2+4_2+4)       Shoulder Helix    right   40         2
+(F+2+4_2+4)       Hip Dislocator    back    50         -
+
+
+------------
+Special Arts
+------------
+
+command         movename                  damage  hitrange  properties
+
+1,2,3           twin thrust-inner axe     7,12,25  hhm      GB JG
+1,2<4           twin thrust-roundhouse    7,12,22  hhh      GB
+1,3,2,1,4       kazama fury               6,10,10, hhmml    HS
+                                          10,10
+ =~d+1+2        lingering soul            -        -        #2
+1,3~3           jab-vertical kick         6,22     hm       GB
+ =3             blade kick                13       m        CFSc GS
+  =~d+1+2       lingering soul            -        -        #1 #2
+d/f+1<4         mid thrust-side crusher   12,15    mm
+d/f+1,4~4       midthrust-shin kick       12,13    ml
+WS+1,2          rising lancer             10,16    mm
+f,N,d,d/f+1     thunder hook fist         22       m
+d+1             corpse thrust             24       m
+b+1             left elbow                14       h
+1+2             demon hell thrust         10,21    hh       GB
+ =~d+1+2        lingering soul            -        -        #1 #2
+2,1,4           lancer-side crusher       10,10,15 hmm
+2,1,4~4         lancer-shin kick          10,10,13 hml
+2,4             rear thrust-rounhouse     10,14    hh       
+WS+2            final upper thrust        15       m        JG
+d/f+2           quick upper               15       m        JGc
+f,N,d,d/f+2     wind hook fist            25       h
+f~N,d~d/f+2     electric wind hook fist   27       h        GB
+b+2,3           backfist-side swipe       12,21    hm
+ =~d+1+2        lingering soul            -        -        #2
+f,f+2           torso thrust              24       m
+f+2             right-elbow               22       h        SHc
+b,f+2           demon godfist             18       m        DSc
+b,f+2<1<2       needle shrine cannon      18,14,24 mmm      FSc #3
+b,f+2<1<d+2     needle shrine scraper     18,14,15 mmm      JG FSc #3
+f,f+3           axe kick                  25       m        GB JG 
+ =1,3,2,1,4     kazama fury               6,10,10  hhmml    HS
+                                          10,10
+ =~d+1+2        lingering soul            -        -        #2
+ =1,3~3         lead thrust-
+                vertical kick             6,22     hm       GB
+  =3            blade kick                13       m        CFSc GS
+   =~d+1+2      lingering soul            -        -        #1 #2
+b+3,4           inner roundhouse-
+                shin kick                 15,15    hl       KNDc
+f+3             mid kick                  16       m
+ =4             spin heel kick            18       m        GB #6
+f+3~3           vertical kick             22       m        GB
+ =3             blade kick                13       m        CFSc GS
+  =~d+1+2       lingering soul            -        -        #1 #2
+d/f+3           heaven gate kick          15       m        GS
+ =~d+1+2        lingering soul            -        -        #1 #2
+ =4             spin heel kick            18       m        GB #6
+d+3,3           devious kick-left blade   7,10     lm       GS
+(WS+3           demon roundhouse          28       h        
+f,d,d/f+3)
+d+3+4           demon lift kick           5,15     mh       JG
+(u/b_u/f)+3     spinning roundhouse       30       h
+(WR_f,f,f)+3    leaping slash kick        30       m        GB
+f+4             battle kick               21       M        HS CFSc
+ =~d+1+2        lingering soul            -        -        #1 #2
+b+4             spin heel kick            18       m        GB
+d/f+4           hell gate kick            33       m
+ =~d+1+2        lingering soul            -        -        #1 #2
+f,f+4           outer axe kick            19       M        GB KS
+(f,N,d,d/f,f+4  tsunami kick              13       m
+WS+4)
+d+4             demon sweep               15       L
+d/b+4           shin kick                 15       L
+f,N,d,D/F+4     stature sweep             18       l
+ =~d+1+2        lingering soul            -        -        #2
+ =(~3_3+4)      twisting demon scissors   21       M        GB #7
+(u_u/f)+4       snap lift kick            25       h
+u/f,N+4         spin demon                25       h
+4~3_WS+4~3      twisting demon scissors   28       M        GB #7     
+1+3+4           lingering soul taunt      -        -  
+b+1+2           lingering soul            -        -        #2
+ =~f,f,b+2+4    soul step reversal        varies   -
+b+1+2*d,u,b,f   lingering soul omen       -        -        #4 #5
+=f,N,d,d/f+2    omen wind hook fist       30       h        GB
+=f,N,d,D/F+4    omen stature sweep        22       l
+=1,2,3          omen twinthrust-inner axe 7,12,25  hhm      GB JG
+ =1,3,2,1,4     omen fury                 10,13,13 hhmml    HS
+                                          13,13
+ =1,3~3         omen lead thrust-         10,30    hm       GB
+                vertical kick         
+  =3            omen blade kick           17       m        CFSc GS
+   =~d+1+2      lingering soul            -        -        #1 #2
+b+2+4           parry                     -        -   
+
+#1 the move must hit in order to do lingering soul.
+#2 first attack or attack string will cause guard damage. while fist 
+   are glowing he cannot block and attacks will be CH.
+#3 stun occurs on the second hit.
+#4 lingering soul omen last about 5 seconds. after executing one of the 
+   4 special moves the omen will end.
+#5 regular lingering soul properties(#2)apply for the time Jin's fist 
+   are glowing(not the full 5 seconds).
+#6 input needs to be delayed in order to work.
+#7 recovers KND. 
+
+------------
+unblockables
+------------
+
+cammand         movename             damage   hitrange  properties
+
+b,f+2,1,d+2*    needle shrine gates  18,14,22 mm!       #1 JG
+u/b+1+2         8th gate of hell     100      !
+ =b,b           cancel               -        -      
+
+#1 you can just frame release the d+2 for an instant hit without hardly 
+   any glow animation.
+
+---------------
+STRING HIT ARTS
+---------------
+
+Jin Kazama has no string arts.
+
+==========
+FRAME DATA
+==========
+
+I put up this frame data section with furthur studying in mind. A 
+novice will eventually learn more than this guide could ever teach. 
+Putting up a frame table here, I believe, will make this info more 
+handy.
+
+Conventions are already part of this guide, you should familiarize 
+yourself with that because without it you will be looking at gibeerish 
+all thru out this guide.
+
+What frame table really tells you is how fast a move hits after you tap 
+the button. Tekken runs in 60 frames per second so a 10 frame move 
+takes at least 1/6 of a second before hitting. Also bear in mind that 
+frame data is not absolute, you must also consider if your opponent is 
+pushed afterwards.
+
+This data may be wrong in some point (considering typing all that 
+numbers). The point here is it will give you a clear idea of what is 
+safe and what is not. The frame data that is about to be shown is 
+exclusively for Jin. For others' frame data refer to the TZ.
+
+Command Column          (command)
+
+Pretty self explanatory, this is how you execute the listed move. The 
+directions are in relation to which way your character is facing of 
+course.
+ 
+Hit Column              (hit)
+
+Indicates how many frames it takes for a move to hit after you have 
+finished the command. This does not included the number of frames it 
+takes to input the command.
+ 
+Block Adv Column        (b adv)
+
+The number of frame advantage or disadvantage when the move is blocked. 
+Meaning the amount of frames it takes before you can input a new 
+command. Positive numbers are advantages over your opponent, negative 
+numbers indicate a disadvantage and KD indicates the opponent gets 
+knocked down. This can either be a juggle, stun or any other kind of 
+knock down.
+ 
+Hit Adv Column          (h adv)
+
+The number of frame advantage or disadvantage on a hit. Keep in mind a 
+hit does not necessarily results in an advantage over the opponent. 
+Frame advantage on stagger moves reflects the amount of stagger frames, 
+this does not equal the number of frames your opponent cannot block 
+attacks.
+ 
+Crouch Hit Adv Column   (crouch h adv)
+
+The number of frame advantage or disadvantage on a hit when the 
+opponent is in a crouched position. Frame advantage on stagger moves 
+reflects the amount of stagger frames, this does not equal the number 
+of frames your opponent cannot block attacks.
+ 
+Counter Hit Adv Column  (CH adv)
+
+The number of frame advantage or disadvantage on a counter hit. Keep in 
+mind a counter hit does not necessarily results in an advantage over 
+the opponent.
+ 
+Escape Adv Column       (escape adv)
+
+Applies to Grappling Arts only. This shows the number of frame 
+advantage or disadvantage you have after your opponent escapes the 
+throw in question. Usually results in 0 or a slight disadvantage. 
+
+CREDITS TO: CASTEL TekkenZaibatsu, descriptions are from his website.
+
+--------------
+GRAPPLING ARTS
+--------------
+
+commands        hit      escape adv
+
+(2+4_F+2+4)     12       0
+qcb+1+3         12       0
+u/f+1+2         12       -6
+
+----------
+BASIC ARTS
+----------
+
+commands       hit     B adv     H adv     crouch hit adv     CH adv
+
+1              10      +2        +9        -                  +9
+2              10      0         +9        -                  +9
+3              14      0         +9        -                  +4
+4              12      -7        +2        -                  +2
+f+1            10      +2        +9        -                  +9
+f+2            16      0         +7        -                  +28
+f+3            12      -5        +6        +6                 +6
+f+4            20      -9        +3        -2                 KD
+d/b+1          8       -2        +9        +9                 +9
+d/b+2          10      -2        +9        +9                 +9
+d/b+3          16      -13       +1        +1                 +1
+d/b+4          20      -14       -3        -3                 KD
+FC+1           8       -2        +7        +7                 +7
+FC+2           10      -2        +9        +9                 +9
+FC+3           16      -14       -3        -3                 -3
+FC+4           12      -11       0         0                  0
+WS+1           13      -6        +5        +5                 +5
+WS+2           14      -12       KD        KD                 KD
+WS+3           19      0         KD        KD                 KD
+WS+4           11      -3        +8        +8                 +8
+d/f+1          13      -2        +9        +9                 +9
+d/f+2          15      -7        +4        +4                 KD
+d/f+3          14      -7        -3        -3                 KD
+d/f+4          19      -17       KD        KD                 KD
+
+------------
+SPECIAL ARTS
+------------
+
+commands       hit  B adv     H adv      crouch h adv     CH adv
+
+1,2,3          10   +2 +1 +3  +9 +9 KD   - - KD           +9 +10 KD                               
+1,2<4          10   +2 +1 0   +9 +9 KD   - - -            +9 +10 KD
+1,3,2,1,4      10   +2 -6 -1  +9 +4 +3   - - +3 +3 +24    +9 +4 +3 
+                    -4 -8     +3 +24                     +3 +24
+ =~d+1+2       -    -         -          -                 -
+1,3~3          10   +2 +5     +9 KD      - KD             +9 KD
+ =3                 -12       +1         +1               KD
+  =~d+1+2           -         -          -                -
+d/f+1<4        13   -2 -7     +9 +2      +9 +2            +9 +2
+d/f+1,4~4      13   -2 -15    +9 +2      +9 +2            +9 +2
+WS+1<2         13   -6 -5     +5 +6      +5 +6            +5 +6
+f,N,d,d/f+1    16   -7        KD         KD               KD
+d+1            21   -4        KD         KD               KD  
+b+1            13   0         +7         +7               +7 
+1+2            14   -9        KD         -                KD
+ =~d+1+2            -         -          -                -
+2,1,4          10   0 +1 -7   +9 +12 +2  - +12 +2         +9 +12 +2
+2,1,4~4        10   0 +1 -15  +9 +12 +2  - +12 +2         +9 +12 +2
+2,4            10   0 -12     +9 KD      - -              +9 KD
+WS+2           14   -12       KD         KD               KD
+d/f+2          15   -7        +4         +4               KD
+f,N,d,d/f+2    12   -2        KD         -                KD
+f~N,d~d/f+2    11   -1        KD         -                KD
+b+2,3          16   -4 -4     +1 +6      - +6             +1 +6
+ =~d+1+2            -          -         -                -
+f,f+2          15   -11       KD         KD               KD
+f+2            16   0         +7         -                +28
+b,f+2          16   -6        -5         -5               KD
+b,f+2<1<2      16   -6 -2 -5  -5 0 KD    -5 0 KD          KD 0 KD
+b,f+2<1<d+2    16   -6 -2 -9  -5 0 KD    -5 0 KD          KD 0 KD
+f,f+3          22   +2        KD         KD               KD
+ =1,3,2,1,4         0 -6 -1   +7 +4 +3   - - +3 +3 +24    +7 +4 +3
+                    -4 -8     +3 +24                      +3 +24
+  =~d+1+2           -         -          -                -
+ =1,3~3             +2 +5     +9 KD      - KD             +9 KD
+  =3                -12       +1         +1               KD
+   =~d+1+2          -         -          -                -
+b+3,4          14   +2 -15    +6 -4      - -4             KD KD
+f+3            12   -5        +6         +6               +6
+ =4                 -7        KD         KD               KD
+f+3~3          22   +6        KD         KD               KD
+ =3                 -12       +1         +1               KD
+  =~d+1+2           -         -          -                -
+d/f+3          14   -7        -3         -3               KD
+ =~d+1+2            -         -          -                -
+ =4                 -7        KD         KD               KD
+d+3,3          15   -11 -15   0 -6       0 -6             0 -2
+(WS+3          19   0         KD         KD               KD
+f,N,d,d/f+3)
+d+3+4          14   -20       KD         KD               KD
+(u/b_u/f)+3    21   -5        KD         KD               KD
+(WR_f,f,f)+3 
+f+4            20   -9        +3         -2               KD
+ =~d+1+2            -         -          -                -
+f,f+4          20   +4        +6         +8               +6
+(f,N,d,d/f+4   11   -3        +8         +8               +8
+WS+4)
+d+4            16   -15       -4         -4               -4
+d/b+4          20   -14       -3         -3               KD
+f,N,d,D/F+4    20   -12       KD         KD               KD
+ =~d+1+2            -         -          -                -
+ =(~3_3+4)          -         KD         KD               KD
+(u_u/f)+4      16   -5        +6         -                +6
+u/f,N+4 
+(4~3_WS+4~3)   24   -         KD         KD               KD
+1+3+4          -    -         -          -                -
+b+1+2          16   -22       -22        -22              -22
+ =~f,f,b+2+4        -         -          -                -
+b+1+2*,
+ d,u,b,f
+ =f,N,d,d/f+2
+ =f,N,d,D/F+4
+ =1,2,3
+  =1,3,2,1,4
+  =f+1,3~3
+   =3
+    =~d+1+2         -         -          -                -
+b+2+4          2    -         -          -                -
+
+----------------
+UNBLOCKABLE ARTS
+----------------
+
+commands       hit  B adv     H adv     crouch hit adv     CH adv
+
+b,f+2<1<d+2*   16   -6 -2 KD  -5 0 KD   -5 0 KD            KD 0 KD
+u/b+1+2        75   KD        KD        KD                 KD
+ =b,b
+
+=====================
+=  P A R T   T W O  = 
+=====================
+
+
+
+=====================
+THE WAY OF EMPTY HAND
+=====================
+
+"The true aim of karate is not to become the strongest, 
+but to have the strongest sense of character"
+                                   
+                                       -Anonymus karate master
+
+
+------
+POKING
+------
+
+Simply put, poking is attacking in the hopes to draw a response from 
+the opponent to facilitate stringing or simply to interrupt their own 
+strings. Basically this are single attacks which is fast and gives up 
+low damage. Don't shun this tactics when I said low damage, you will 
+see that you will hit your opponent many times always adding up that 
+low damage that just might win you that game.
+
+
+*REGULAR POKE*
+
+1
+
+This is my prefered jab. Simple jab nothing fancy, where this thing 
+shines is it gives you 2 frames when blocked, just enough for your 
+strings to come out. Use this often as a setup for what you have in 
+mind.
+
+2
+
+Just like the first jab. Why I put this here is for two reason. First. 
+This jab does not give you frame advantage. Second. I wanna emphasize 
+that if ever you are used to using 2, practice using 1 instead.
+
+1,2
+
+A string poke. If you are using 1 and connects often, it won't hurt to 
+add that 2 for additional damage. I am so used to using only 1 as a 
+poke. I realized that I'm wasting opportunity to tick the life bar of 
+my enemy. I only got used to doing 1,2 when I was using Kaz. 
+
+2,4
+
+If you cannot get used to using 1 as a jab, then make your using 2 
+worthwhile. This move is guaranteed if 2 hits. Good for poking, 
+rounding up your strings and as a punishing move.
+
+3_4
+
+I really don't like using this. Since the kicks hits high it is the 
+same as the jabs. Use the jab instead, because you got more options 
+after the jabs, unlike the kicks.
+
+d/f+2
+
+Juggles on counter hit. The technique for this move is not to throw it 
+immidiately, Throw this if you see your opponent just far enough not to 
+be reached by the simple 1, but in range enough to be hit by any other 
+long moves. The thing is most opponent instinctively attacks if they 
+are on this range making your chance for the counter hit a little more 
+probable. Doing this move on complete close range will spell disaster 
+for you with a capital D!
+
+*LOW POKES*
+
+d/b+1
+
+8 frames fast. In case you don't know this is a universal interruptor. 
+If ever you find yourself being hit by single attacks then throw this 
+one up to stop them on their tracks. 
+
+d/b+2
+
+Refrain from using this one. This gives your opponent frames upon block
+and is slower. Use d/b+1 instead.
+
+d/b+3
+
+A regular low kick. Can hit grounded opponent. The thing here is that 
+this thing is slow. The next one is a better alternative.
+
+d/b+4
+
+A faster version of the one above. A nice continuation for the low jab.
+Also this one is repeatable for example: d/b+1,(hold d/b)4,(hold d/b)4. 
+Heck you can even go on forever if your opponent keeps coming at you.
+
+d+4
+
+Hits low, decent damage. Use this to finish off the last few life of 
+your opponent. Sometimes you can do this repeatedly, against a panicky 
+opponent. I read this strat from a guide somewhere but can't remember 
+where, thanks to you.
+
+Low poke is very essential because this will give you that extra damage 
+that just might give you the game. Inserting low pokes in your strings 
+is a very good way to go, since this will vary your hit range thus 
+giving your opponent somemore to think about.
+
+If your opponent is attackaholic and you are blockaholic then stop from 
+blocking. Retaliate d/b+1 instead, it is prefered because it is a 
+spirited defense. You don't just block and let your opponent dictate 
+the gameflow this is what this low poke is for. Another thing if you 
+manage to hit with the low jab you can refrain from standing at once 
+by doing another lowpoke the prefered method is you hit with d/b+1,
+(hold d/b)4, You will see that you will stop even the best Hwoarang 
+with your lowpokes.
+
+
+*WHILE STANDING MOVES*
+
+This section goes hand in hand with the low pokes. After doing a low 
+poke move just by releasing the stick  will put you on while standing 
+position. Low pokes has a tendency of recovering slow so be careful. 
+I think knowing a few while standing moves will put you on good 
+position after a low poke. WS moves has a tricky distance range so 
+practice these moves and feel their range for yourself. They have a 
+long recovery time if you missed them, so don't miss these moves.
+
+WS+2
+
+A single strike that hits upto mid-distance. Good if your opponent 
+thinks that he is safe from attack from that range. Also this moves 
+launches the opponent for a juggling opportunity. This move could hit 
+fast if done on iWS compare to the after low poke version.
+
+WS+1,2
+
+A very nice move if you just want to go on stringing some more. I 
+believe that it has faster recovery so you can go on pressuring some 
+more. One of my favourite continuation after low poke.
+
+WS+4
+
+Basically a mix-up for your low poke game, If your opponent expects 
+another low poke especially the d/b+4 follow up. This is nice because 
+it hits mid and if the opponent blocks low for an extra long while then 
+you might want to use this instead. Also this is relatively safer if 
+blocked because it pushes your opponent giving you time to defend.
+
+WS+3
+
+A much more powerful kick out of WS. The downside here is that it hits 
+high. Best done if you are certain enough that it will hit. If not 
+stick to WS+4 , it is safer and faster.
+
+You should know when to back off from WS moves. Sometimes it gets 
+predictable and tends to miss a lot and get punished. Like I said 
+before practice their ranges see for yourself. If this moves are done
+right it can give you magnificent end results.
+
+*WS AS A POKE*
+
+As much as possible, you should do WS moves out of low pokes. But there 
+cases that you can really anticipate an opponent's move and you can hit 
+him with a WS moves. Here are the ways you can go into WS.
+
+iWS
+
+Done by tapping d,d/b,N or d,d/f,N . This is the standard way of going 
+into WS without low poking. This may get a little while to learn. But 
+as you gain mastery you'll see that this has more use than what it looks.
+
+WS deftones14 method
+
+I picked this one up from the liquid hwoarang guide. The method here 
+has the same idea as the iWS. The main differences is it makes the 
+motion easier and skips the animation of ducking. This is done by 
+holding D/B. As you anticipate that you are going to crouch release the 
+stick( go N ) and there you go, WS sequence.
+
+CD cancel to WS
+
+Basically the use for this is to close in and hit with a WS move. Done
+by doing CD,d/b,N The CD part will close you into your opponent. By 
+tapping d/b you cancel your CD into plain crouch. Going N will put you 
+finally on WS sequence. 
+
+Thanks to Triple Lei and deftones14! I got more out of the Hwoarang 
+guide than just Hwoarang strategies.
+
+---------
+STRINGING
+---------
+
+Basically stringing is poking done in batches. I separated them for the 
+reason that no matter how similar they are their still different in 
+their own way. Stringing requires more skill, intuition and guts while 
+poking is to fascilitate the stringing, I guess you can call poking a 
+setup.
+
+*TWIN THRUST SERIES*
+
+1,2,3_4
+
+1,2 - a fast double jabs. If you anticipated that your opponent will 
+approach with a move and you interrupt with 1, I guess doing 1,2 is 
+better. I think if 1 connects then 2 is guaranteed. So practice using 
+this, this series is the main point of why Jin is being used widely.
+
+3 - Finishing  with this is much more preferred by many. This move is 
+sweet because the 3 part gives you frames upon block so big even when 
+blocked that you can do it again and again and again.....this is a good 
+setup for whatever you like, like throwing and shifting to laser 
+series. Also a guaranteed stuff is if ever this move hits you can do 
+d+4 for a free additional damage. This thing juggles too on hit.
+
+4 - Not a very good string if done all alone. You can use it as a 
+drawing move, try this on for size. First do 1,2,4 don't worry if it is 
+blocked it is meant to be, you see after 4 your opponent will be pushed 
+far enough for him to be given a window for retaliation, again don't 
+worry it is meant to be. Then as you anticipate his attack throw a 
+d+3+4 for a juggle, a CH. 
+
+Why this thing is good is not only bacause of the 1,2,3 part but as a 
+whole. If done and thrown wisely this moves will give you that extra 
+damage that you need to win the game. Also don't trap yourself in doing 
+the whole string, you can do it like this 1,1,2,1,2,3. Well that combo 
+is good only to an extent but the point is, mix them up.
+
+*LANCER SERIES*
+
+2,1,4_4~4
+d/f+1,4_4~4
+
+2,1 - This is my personal favourite series. It is relatively safe 
+compare to 1,2 since it hits high and mid. Use this alternately with 
+1,2 for better results. The use of this move is just the  same as you 
+would use 1,2 . Best for crouchers and steve's weave.
+
+d/f+1 - this puts you directly to the 1 part of 2,1. this is good for 
+continous pressure on the mid-section. For example 2,1,d/f+1,4 , this 
+series hits the mid-section three times subconciously telling your 
+opponent that he can't crouch. Then you can throw him, or something 
+like that...
+
+4 - As I mentioned earlier finishing with this move pressures the 
+mid-section. If ever you've been using 2,1 for a while, throwing this 
+part in may just surprise your opponent. Another use for this move is 
+for breathing space if 4 is blocked then a single back dash will put 
+you out of most attacks' range, remember I said most not all.
+
+4~4 - This is the mix-up of the combo above where it hits low. Dish 
+this one out occasionaly and  it could give you results. Now the reason 
+why most guides or faqs shuns this move is that it could get 
+predictable in time, has a slow recovery and finally could be 
+interrupted by most jabs. So simply put, don't abuse this move. If ever 
+your opponent can't block the shin kick then use this but if he 
+starts to block it then stop using it.
+
+*LASER SERIES*
+
+b,f+2,1
+ =2
+ =d+2
+ =d+2*
+ =:d+2
+
+This is the same as his old move dating back upto T:3. altough it 
+retains its' looks it no longer has the same properties, meaning 
+useless for juggles. When it comes to damage and execusion then it is 
+the same.
+
+b,f+2,1,2_d+2 - Well many guides has been already written about this 
+and many players can already use this move instinctively, for the sake 
+of the beginners here I go... The first part consisting of the first 
+two hits that hits mid. Finishing this move with the 2 gives you normal 
+mid hitting attack. If blocked this can give you with good breathing 
+space. Finishing with d+2 juggles the opponent. Beware that unlike the 
+normal 2, when d+2 is blocked your whacked! So just be careful. Also 
+works wonders on rolling opponent.
+
+
+d+2* - Now this is new. Holding down the last commands makes the 
+juggling uppercut unblockable!Now don't get to excited, This move has 
+major start-up time. Only works for beginners or simply you shocked 
+your opponent. Overall this is not bad, see if this move works on your 
+opponent otherwise STOP! Use the one below instead.
+
+:d+2 - Now if you notice the move above makes a charging animations 
+before the unblockable part comes out. This move puts you in the 
+earliest stage of the charge-up just enough for it to be unblockable 
+but not long enough for it to be predictive. The timing of this is hard 
+to put on paper lucky for us there is CATLORD. Download the Jin video 
+to see the proper timing, at TZ and catlord.com. 
+
+Remember, you don't have to finish all of it. Be imaginative on how to 
+finish this string. My suggestions are: Go on low poking, throw or just 
+changeup and go on stringing.
+
+To be an effective stringer, you must not hesitate to do them. Every 
+small moment that you stop to think gives your opponent frame gain. The 
+trick here is practice a series of strings so that you don't have to 
+think about it, giving your opponent less time to counter attack. As 
+you progress you can learn another series adding up on what you know. 
+This way you are acting on instinct rather on thinking.
+
+*FINISHING THE STRINGS*
+
+Rounding up your combo is very important in Jin's play. Unlike Hwoarang 
+you can't go on forever on stringing or else it will get predictable 
+and get punished. This section will give good moves that you can use. 
+
+d+1
+
+This I use a lot since it ducks most high moves. If your opponent is 
+enthusiastic about his high attacks then round up your strings with 
+this. Also a Good punishing move for missed attacks that has slow 
+recovery.
+
+2,4
+
+Simply a good finishing string. Where this thing shines is that when 
+the 2 hits the following 4 is guaranteed. Just beware this hits both 
+high.
+
+d+4
+
+Well this is your friendly low sweep, its' utilities ranges from poking 
+to okizeme, SWEET! A very simple move not much damage but it gets the 
+job done. For mix-up purposes use this rather than just always using a 
+high or mid hitting finisher. REMEMBER.. mix it up!
+
+d/f+4 
+
+Well I not recommend you to use this a lot since it is slow and has no 
+evasive properties, but I didn't told you to shun this move either. For 
+what it lacks it makes up for its' damage, nothing could deal better 
+damage.
+
+d+3,3
+
+Between slow and fast this move is in the middle. The juice is that it 
+hits low then mid, so if ever your opponent ducks extensively then this 
+is the move to throw out. Also I believe this move pushes your opponent 
+even if blocked, meaning you can start your stringing all over again! 
+Best as a finisher after 1,2,3 , hitting in different ranges, more to 
+think about for your opponent.
+
+1+2
+
+Both hits high. A good alternative for the 2,4. This move gives more 
+damage. It is a power shot so if you see a wall behind your opponent 
+dish this one out.
+
+Throws - Haha may sound cheap but when playing Jin you know you must 
+use this. I experienced once that no matter how I string the hell off 
+my opponent I can't hit them for they mastered the art of blocking. So 
+I asked one of my friend how could I overcome this problem then he said 
+simply "throw him", and so I did. It worked like magic. If mixedup with 
+all the finishing moves your throw will be invincible even if it just 
+the regular 2+4.
+
+Finishing a string doesn't mean that you should actually stop. The stop 
+that I mean here is that to prevent a missing hit ( a part of the 
+string that doesn't hit). Missing hits in your strings  is very bad for 
+many reasons. First, the frames advantage that you gain from the 
+strings which makes it a string is lost because your attack missed, 
+second this diminished frame advantage means disaster because it gives 
+your opponent a window of opportunity to retaliate. Simply after you 
+finish your strings go into your opponent's face and start another one. 
+This tactic of finishing of strings is just like all the periods in 
+this guide that ends a sentence which in turn put altoghether to make 
+a pharagraph. This is the analogy of Jin's string arts.
+
+--------
+JUGGLING
+--------
+
+Juggling has been an integral part of Tekken since time immemorial. It 
+is good bacause it give you the opportunity to deal as much damage has 
+you can without the hassles of missing, blocking reversals and all 
+that. So it is a must that you know how to juggle. In my opinion 
+juggling is not just juggling. You must first learn how to launch your 
+opponent then hit them in the air. These are the two major parts that 
+you should know and learn well.
+
+*LAUNCHERS*
+
+Of course you cannot juggle if your opponent is on the ground, you'll 
+be stringing him then. To juggle you must first launch them (duh!). So 
+here are launching moves and how to use them. Ching!
+
+d/f+2
+
+Only juggles on counterhit. I've already explained how to use this move 
+so just read back in case you've forgotten.
+
+WS+2
+
+Now, there is a familiar thing. This move is used abusively in TTT. 
+Sometimes you will discover that your low poke doesn't connect even if 
+it is 8 frames. So how you remedy this? Simply just crouch and don't 
+jab, the moment your opponent's move missed release the stick and hit 
+2 and voila! instant juggle guaranteed damage.
+
+d+3+4
+
+Jin had this move for a long time but it is not until tekken 4 that it 
+is widely used. Two jump kicks that hits mid. You can hit rolling 
+opponent with this. A liitle slow startup though. So you will see the 
+properness of this move when we get to movements.
+
+Laser Series d+2 variations - just like old times, this is second to 
+wind god fist back then. Although this time, in my opinion, it is a 
+little bit weaker. It doesn't juggle, side stepping it is much more 
+easier. So for me this is the last launcher that you should use.
+
+*JUGGLES*
+
+Now that you got your opponent into the air then you got to hit him. I 
+am not really into fancy juggles so I'll just list the ones that I use
+the most. I like this a lot because "I get the most with the least", 
+simplicity and effectiveness is the keyword. 
+
+1,2,3,d+4
+
+The 1,2,3 probably the most repeated move in a match with Jin in it. It
+has many utilities such as setups and yes, Juggles! So, if you hit your
+opponent successfully with the 1,2,3 then follow up with d+4 another
+guaranteed to hit. 
+
+1,2,4
+
+Not as much pwerful as the earlier variation. The thing that made me 
+list this down is it's extra damage when the wall is at the back of the 
+opponent. Hitting opponent with this will cause wall stun and your d+4 
+is guaranteed with the added bonus of the wall hit damage. Use this on 
+event that the wall is visible and you know that your opponent will hit 
+them, otherwise stick to the first juggle. Because of the wall you can
+go into okizeme after.
+
+You can also put a 1 before all this, for example, 1,1,2,3,d+4. 
+Sometimes you will see that you cannot connect them all, the problem 
+lies in your distance range. The remedy is dash forward after 
+launching, hit, dash, hit. There you go all moves connected. Getting 
+the most with the least.
+
+If your into flashy juggles just download a video or read other guides 
+that shows you this. I'm just showing the simplest ones.
+
+*FLOATING*
+
+There will be time that you will see your opponent flying around like 
+you hit them with launching moves even if you didn't. This event is 
+called floating. You see sometimes you hit your opponent while doing 
+a move which we regularly calls freefloating moves. Good examples of 
+this are Yoshi's flea stance and King's moonsault press. Plus the rule
+to true floating is hitting them while they are stunned, may it be 
+being walled or stun hitted.
+
+Jin's main arsenal when it come to floating is the everlasting 1(what 
+more could you ask for a measly jab?).When you see this happen 
+juggle them immidiately use 1,2,3,d+4 right away. This is important 
+because it gives you another edge, damage wise. My main advice about 
+this is always be on the alert when you use 1 because this the main 
+arsenal of Jin when it comes to floating, you may hit your opponent
+without seeing that he did a freefloating move.
+
+*SPECIAL FLOAT JUGGLE*
+
+I called this special because this is the part where you can actually 
+force a float into your opponent. Here are the float inducing moves.
+
+1,2,3
+
+Aha! another utility for that pesky 1,2,3(altough the 3 part must 
+connect in order for this to work). This maybe a little wierd because 
+the d/f+(1_2) part will not always connect which is used as a 
+stabilizer for the combo. I believe you must be in complete close range 
+to be able to hit your opponent.
+
+f,f+3,1
+
+The f,f+3 works just like the 3 of the 1,2,3.The main difference is 
+after f,f+3 you tap 1, a guaranteed jab if the f,f+3 hits. Just be 
+careful, altough it is an axekick it comes out slower considering the 
+tapping time it would take you.
+
+Here are the followups...
+
+Starter: f,f+3 or 1,2,3
+Combos:
+d/f+1,1,f,f+2
+d/f+1,1,2,f,f+2
+d/f+1,1,3~3,d+4 (recommended)
+d/f+1,4         (recommended)
+d/f+2,1,3~3,d+4 (recommended) 
+d/f+2,2,4       (recommended)
+
+Starter: f,f+3,1
+Combo:
+1,1,d+1
+1,1,f,f+2
+1,1,3~3,d+4
+1,2,4
+1,2,3,d+4
+
+Thanks goes to the TZ. Their movelist gave me the idea that this 
+strategy actually works.
+
+----
+STUN
+----
+
+I got this idea only after playing Kazuya, and I knew that Jin has a 
+pseudo-stun combo. The only let down here is that it is not as powerful 
+as Kazuya's. Here are the stunners.
+
+f+4
+
+Note that just like Kazuya's, this need to be a CH to be a stun.
+
+b,f+2
+
+Just like the move above this needs a CH to be a stun. This is the 
+preferred stun because it give bigger damage and of course the double 
+over stun.
+
+Here are the follow ups...
+
+Starter: f+4 CH 
+Combos: 
+4~3
+d+3+4
+f+4
+f,f+4
+
+Starter: b,f+2 CH
+Combo:
+1+2
+4~3
+
+Again thanks to TZ.
+
+-----------
+WALL SYSTEM
+-----------
+
+With the integration of wall in tekken 4, it gave the game another 
+twist. Hitting you opponent into one gives extra damage, depending on 
+what move hit them before they hit the wall. The stronger the move the 
+bigger the wall damage(I think, hehe!).
+
+*STUN*
+
+Basically there two type of stuns. One, regular stuns, this are moves 
+that gives you a small window of opportunity to attack with a 
+guaranteed hit. This events are usually fast in animation, usually 
+this are pre-meditated meaning you got a hunch that they will be 
+stunned. Second, power wall stun, this has a longer stun animation 
+meaning you can do a lot. Few examples of what you can do are hitting 
+them with another power shot, juggle them and float juggle them.
+
+*REGULAR WALL STUN*
+
+When your oppopnent back is directly against the wall any move will 
+basically induce a regular stun(in the light that you hit them). This 
+give you an opportunity to start another strings or just throw them. 
+Since the animation is fast it takes practice.
+
+The position change throw command is another effective way of inducing 
+a stun. This is especially useful in situations when you are the one 
+which is about to be stunned, so grab your opponent and push them into 
+walls to turn the tides.
+
+*POWER WALL STUN*
+
+Now this is the meat of the wall system. I am not particularly sure of 
+how the computer calculate the damages you get from wall but the thing 
+I know is what moves induces power wall stuns.
+
+d+1
+d/f+4
+f,f+2
+
+I also refer to these moves as power shots since it gives big damage 
+and a knockdown. If your opponent is against the wall the knockdown 
+part is changed into power wall stun. You will also see that these 
+moves are string enders so this moves is particularly used as enders 
+when you see a wall behind your opponent's back.
+
+What you do after this strong stun is upto your liking. If you are 
+brutal then power shot them.If you can't satisfy your fingers then 
+juggle and float juggle them. Whatever you like.
+
+-------
+OKIZEME
+-------
+
+Okizeme also known as oki. This is a technique that deals with grounded 
+opponent preventing them from getting up and recovering effectively. 
+Again lucky for Jin he has some good oki moves, But unlike Xiaoyou and 
+Julia Jin's oki game is mediocre.
+
+*PLAYING DEAD*
+
+Most players especially those on the know how, will usually remain 
+lying after knockdown. The reason for this is that most oki moves 
+especially those coming from Julia relies heavily on opponent trying 
+to get up. Fortunately for us we are Jin user and we got a little bit 
+of everything.
+
+d+4
+
+No longer just a juggle ender. You see even if your opponent doesn't 
+move you can hit them with this. It is more like a punishing move for 
+those playing dead. Remember that you can hit them as many time as your 
+heart desires.
+
+3~4
+
+Mainly used just like the d+4. The downside is that a side rolling 
+opponent will certainly dodge this. The bad thing about this being 
+missed is that it reverses the position. You will end up lying and your 
+opponent standing, thus your oki game is lost. What saves this move 
+from being trash is its' damage, a single hit even on lying opponent 
+consumes chunk of damage. So much more easier than a repeated d+4. 
+Defenitely not a move for all those playing safe.
+
+f+4
+
+This requires special attention. The thing is it is a little bit slower 
+than d+4 and it is linear meaning a siderolling opponent will evade 
+this and hit you with a sweep. Use this move if your opponent is 
+sandwiched between you and the wall.
+
+d+3+4
+
+An oki move that is only used for a very specific reason. When your 
+opponent is down near a wall. You get much damage, plus you may get the 
+opportunity for a multiple wall hits. But there is a rule here, you can 
+only hit your opponent once after they fall down, after that your kicks
+will completely miss. To reset this after you hit d+3+4 do the d+4 then 
+repeat. This is mainly done to those who is stubborn and wants to lay 
+down indefinitely. Advisably use this if opponent commits a mistake of 
+rolling backwards towrds the wall.
+
+*ROLLING*
+
+Well most fighters need to roll to get up, in this case you can hit 
+them with mid hitting moves. This is one of the most abused oki style 
+and yet the most neglected in some way so let me show you the why and 
+how.
+
+Basically any mid hitting move will probably hit a rolling opponent, 
+such as power shots and the regular oki move. The effective way on 
+throwing this is to time it right, there are certain parts of the 
+rolling animation that your opponent is completely vulnerable. You must 
+be able to time your move in such a way that it hits exactly at this 
+moment. This thing cannot be taught in mere writing, it needs to be 
+practiced and felt. All I can do is point this part out.
+
+Hitting a rolling opponent with power shots is much more effective if 
+they are rolling towards a wall. Extra damage is always good.
+
+In a lying opponent there are two parts in it. First, there is the 
+lying position then there is the part where they are getting up. The 
+first part is playing dead position the next one is the rolling 
+animation. Being able to hit your opponent cleanly while rolling will 
+put them back to playing dead position, in which they have to roll 
+again to get up. You see the pattern here could be endless this is 
+the part which you should learn when it comes to okizeme because this 
+is the process the okizeme expert will exploit.
+
+Then there is the tech roll and the quick getup. The tech roll is 
+accomplished by pressing either any kick or punch the moment you hit 
+the ground. The purpose of this is that it minimizes the play dead 
+and rolling sequence of a fighter. You should watch out for this 
+because you could get punished if you expected your opponent not 
+tech rolling. The next thing in line is the quick getup. This is 
+done by tapping forward as you hit the ground. This is different 
+from the tech roll because of the fact that you skip the whole play
+dead and rolling sequence and it puts you in a standing position. 
+The getup animation will also damage a nearby opponent, not much 
+damage but it will. A constant change up with tech roll and quick 
+getup will put you, most of the time, out of harms way.
+
+Ultimately to be good at okizeme you must train since there is no 
+strings in it. Also keep in mind that you don't have to be flashy, if 
+all this rolling thing and playing dead is too much,you can simply hit 
+your opponent with d+4 repeatedly. This of course is regular way of 
+doing it, it won't give bigger damage or anything but it is effective. 
+A grounded opponent no matter what position they are in will always get 
+hit by a mere d+4.
+
+--------
+GROUNDED
+--------
+
+This may already a common knowledge for all those who is playing tekken 
+for a while now, but I would still like to add my thoughts in it. 
+Grounded means that you are the one who is lying.Since it is seldom in 
+a fight that you do not fall on your back, then this techniques will to
+be invaluable.
+
+When grounded you can press any of this:
+
+4_3
+1+2
+f_b
+b+3+4
+
+f_b - These are basic roll towards / roll away respectively. In earlier 
+section I already discussed the danger of these rolling moves. You can 
+really get hit seriously while doing these but it has its' purpose. 
+Against a scared opponent try rolling in, to minimize walking distance
+. To get space roll out. Apart from moving you will later see more 
+purpose for this roll thing.
+
+1+2 - Flying cross chop - This thing hits mid. The potential of this 
+move is if combined with the proper mixup and of course after a roll. 
+If ever you roll out and the opponent follows surprise them by pressing 
+1+2 and you immidiately go to flying cross chop.
+
+b+3+4 - Rising kickup - I believe this move hits high and cannot be 
+combined with rolling. The only purpose of this move is for surprise. 
+If you are grounded and the opponent closes in right away, then you 
+have no time for rolling, this move is your best alternative.
+
+4_3 - The 4 is a rising kick to the mid and the 3 is a low sweep, both 
+these move will knock down an opponent on clean hit. Since these moves 
+can be combined with rolling, you can play a mind game. If your 
+opponent is near, hit low. If he started to block the sweep hit him 
+mid. Just mix these two up together with rolling and it will be enough 
+to give you a good grounded game.
+
+So now you will think, if there is the rolling and rising kicks mixup 
+then what is flying cross chop and rising kick up is for? Really? This 
+is your answer, the cross chop and rising kickup is for covering a 
+small distance that the 3_4 cannot usually reach. Some opponent will 
+draw you to use this moves, beware of this. What they are actually 
+trying to do is let you think you can hit them but actually they know 
+what you will do and they want you to do it. These moves has a high 
+recovery time so if ever you miss to hit your opponent you will get 
+whacked.
+
+The usual method and the most effective way to do this drawing move is 
+when you are knocked down the opponent will rush in, so you think you 
+can hit them you pressed 1+2. Then your opponent anticipating you doing 
+the flying crosschop,SS rightaway and you miss and you get punished. 
+Another way is dash in then walk back, this is done by f,f to start the 
+running animation but stop there then tap b,b then hold. This will make 
+you see and think that he will go all the way in but he really 
+intend to back out. You do the cross chop, you miss, you get punished. 
+The key here is when you are caught one time don't do it again just 
+stand up by a simple roll away. Now you know how they do it then do it 
+to them.
+
+---------
+MOVEMENTS
+---------
+
+These is probably what made me in love with tekken in the first place. 
+The wide range of movements is what sets tekken apart from other 
+fighting game and this is one of the most earliest game system that is 
+put into tekken. With it being a game system it is worth giving it
+a little run thru.
+
+SS - sidestep - done by tapping u_d. This moves you to the side of your 
+opponent putting him out of  axis. By doing this move you are changing 
+your line of sight making the line of sight of your opponent wrong 
+therefore he cannot hit you. Instead of blocking do this move instead 
+it will put you on a better counter attacking position and puts you out 
+of frame disadvantage.Also by holding the stick to the direction where 
+you SS will put you into walking sideways continously.
+
+CD - crouchdash - done by f,N,d,d/f. For me this is the trademark of a 
+mishima. The primary purpose of this move is to dash in while in a 
+crouch position, also it is used for covering long distances in a 
+relatively safe manner. For a mishima this move has other purposes, for 
+attack. You can also do this in quick succession, f,N,d,d/f,f,f,N,d,d/f
+...and so on and so on. What happens here is you do CD then cancel it 
+by tapping f then do another CD.
+
+Basically Jin has no stances or any move that will allow you to do 
+those fox step or triple SS.Just master the basic SS as a means to 
+dodge a move and it is enough to give you profound results. Really I 
+don't know about the foxstep part but I guess if you don't understand 
+something leave it, you will be better off.
+
+*DRAW STEP*
+
+I invented the name, so what, I did this for ease of explanation. This 
+is done by tapping f,f,b,b. What happens here is that it shows your 
+intention to attack,that is the f,f part. At b,b you are moving away 
+from the reaction of your opponent which is his counter attack to your 
+illusion of attack. After that you are free to counter attack him.
+
+*SHORT DRAW STEP*
+
+Basically the same as the draw step only you do this by f,b,b. This is 
+a mixup for your draw step. If you are always doing the full version 
+your opponent may be able to catch on and hit you during your f,f. By 
+cutting your step short you are evading his attack in a much more 
+shorter time during the b,b part.
+
+*DODGE STEP*
+
+Another invented name. This is done by tapping f,f,d or b,b,d. 
+Actually this is a variation of the draw step, for mixup purposes. 
+What is nice about this is that you move out of the axis of your 
+opponent making you free from attacks.
+
+*CD CANCEL*
+
+Playing for a while, your friends will catch on and try to wait for you 
+to miss your CD+1. In this case do this, CD,b . What happens here is 
+that you CD but don't do any CD moves, you are just giving the illusion 
+of you doing a CD move. After that you can throw them or do anything in 
+accord with how your opponent reacts after your CD cancel.
+
+If your opponent reacts with an attack just SS after the CD cancel. You 
+will see that you are now defending actively and be able to hit them 
+with whatever you had in mind.
+
+You should practice this moves in such a way that it appears that you 
+mean it so it won't appear that you are just bluffing, to arouse the 
+response of your opponent. You may not always get the desired effect of 
+movements, anyway you should keep on doing it, who knows...you might 
+get it. Another thing to remember is that you should keep on moving 
+always changing up your pattern of movements, this will make it hard 
+for your opponent to calculate correctly your position. This is one way 
+on how to get your opponent to commit a mistake, an attack that missed 
+because of your movement skills. Overall you want to maintain the 
+opponent in CD distance, so you will not be susceptible to attacks and 
+making your opponent open for counter CD attack.
+
+*GAME START*
+
+There is this part in tekken where before you start a match, you are
+allowed to do any movements which has no damaging properties. This part
+is essential because this will give you the general flow of the game.
+While on this part you can do the following:
+
+Walk, SS - Simply put, walk towards one side and at the time it says 
+fight! you do an SS to the direction you are walking. This is good 
+because walking puts you out of your opponents axis.If he is wise 
+enough nto move back to put him back on axis then do a SS to put 
+back right out.
+
+Jump over, 4 - Time the jump part in such a way wherein when the 
+announcer says fight you are directly behind your opponent. Press 4 
+then you got your self a free kick. Thanks mini_king.
+
+
+==============
+TEST OF SPIRIT 
+==============
+
+Basically this is a novice read thru. As for the expert, you may know 
+all of this but I still hope you learn something. There is no end in 
+learning.
+
+-------
+SUMMARY
+-------
+
+When stringing, don't be afraid to do them. Always finish up your 
+string to prevent missing hits. Practice mixing them up to prevent 
+the opponent from anticipating your next attack. 
+
+Use low pokes and low attacks. Try to guage your opponent of how many 
+low attacks you can throw at them. Try to do as much as you can but 
+don't use low attacks exclusively.
+
+If your opponent blocks a lot, throw them.
+
+When it comes to juggling keep in mind you want to get free damage in, 
+not to get cocky! If you miss a juggling opportunity because you are 
+trying to do a fancy juggle, prepare to get punished.
+
+Always try to hit your opponent no matter if he is down, standing or 
+whatever. This is tekken not street fighter. Practice your okizeme 
+instincts and techniques.
+
+When doing okizeme beware of the moves that your opponent can do, such 
+as low sweeps and the flying cross chop. 
+
+When you are being knocked down, as much as possible always tech roll 
+or use the quick getup.This will prevent you from staying down for a 
+long time, therefore reducing the risk of you being pummeled 
+defenseless.
+
+You know what your opponent can do? then do the same to them. Getting 
+hit while on ground? them hit them too when they are on the ground. 
+Opponent throwing you a lot? throw them too.
+
+Instead of blocking try SS-ing. This will help you from getting a frame 
+disadvantage. SS-ing also gives you attacking opportunities. So after 
+SS-ing, ATTACK!
+
+Practice movements. Always move a lot. This will make it hard for your 
+opponent to guage your distance from them. Hopefully they would commit 
+a mistake and you get to punish them.
+
+First practice mechanically. Like how to do string, knowing move 
+properties, learning different parts of the game such as okizeme and 
+juggles. As you get used to it, practice instinctively. This is the 
+part where you synthesize all that you know.
+
+The flow of the game from poking to oki to juggle may shift very 
+quickly. Practice in such a way it is instinctive to you of what you 
+are in and react accordingly.
+
+Remember to enjoy the game. A win means "I am improved" not "I am the 
+best". A lost doesn't mean "I suck" but rather "I need improvement".
+
+------------
+THE PRACTICE
+------------
+
+Hmmm... Does the title remind you of something? Anyway, practicing 
+could be very hard especially if you are playing alone with no one to 
+teach you, same as my case.
+
+The thing is practice by parts. This guide is made to do just that. 
+Showing part by part. Practice one part as you gain efficiency, move to 
+another.
+
+*LEVELS OF LEARNING*
+
+We all started as a beginner, I know I did! We saw someone good 
+playing, it captured our attention and started playing. We start to 
+look at movelist and stuff. Started playing in the arcades and get 
+beaten the hell out of us. The main thing here is how we will move on 
+to be good. We are not experts if we can only do one move, it takes a 
+little bit more than that.
+
+To be good, we should pay attention upto the minute detail. From moves 
+that promotes flow of attack to frame advanatage that we gain from 
+simple jabs.
+
+Do not be discouraged because you can't win, remember that your 
+opponent is human or is made by human which is subjected to mistake. If 
+you are at the bottom the only way left is up. The only one who could 
+stop you from learning is yourself.
+
+No Excuse Play Hard Be Tough!
+
+=========================
+=  P A R T   T H R E E  = 
+=========================
+
+
+
+
+===============
+CLOSING REMARKS
+===============
+
+Upto this day Tekken still gathers many fans. Continously capturing our 
+imagination or plainly as an outlet for our inner frustrations. 
+Whatever your reasons for playing always remember that it is just a 
+game. The objective is to gain friends not make enemies.
+
+
+This guide is my labor of love for the game. My aims are for novices to 
+improve thier game, advanced players who wants to learn Jin as a new 
+fighter and finally for experts to consider some other things they 
+might have missed.
+
+"true skills comes with no effort......."
+                                      
+                                       -Li Mu Bai
+                                       played by Chow Yun-Fat
+                                       "Crouching Tiger Hidden Dragon"
+
+
+==================
+CREDITS AND THANKS
+==================
+
+Websites:
+
+TekkenZaibatsu.com            
+Tekken4.com
+Gamefaqs.com
+Arcadepimp.com
+Catlord.com
+
+Friends:
+
+Romyr             Juni           Burck        Arbby
+Nathaniel         Nino           Cloyd
+Basil             Francis        Klein
+Carlos            Lesther        Jenny
+Ron               Allen          E.F.
+
+Arcades:
+
+Quantum
+  - SM-North Edsa
+  - SM-Manila
+
+Worlds of Fun
+  - SM-Manila
+
+Club Synergy
+  - SM-Megamall
+
+CyberIce
+
+Special Thanks:
+
+Castel                           Forum folks
+Kent "mini_king" dela Pena       All Faqs / Gameguides writers
+Triple Lei                       Spyderman
+deftones14
+CATLORD
+
+================
+About the Author
+================
+
+I'm Louvenel Chua. I live in the "Pearl of the Orient Sea" which is 
+Philippines. I am currently earning my degree in architecture in 
+University of Santo Tomas (UST).
+
+I've been playing tekken for a long while now, starting from the first 
+installment. I never got serious on it until tekken 3 where I started 
+to play at arcades and learn some "street-stuffs". I also never gotten 
+to join any tourneys because of my studies, academics comes first, 
+tekken can't feed me you know. Nonetheless, I am beyond average play. 
+
+If any one is in the vicinity please email me for a friendly match up. 
+If you have spotted any errors, either gramatically or strategicaly 
+please email me. Also, if I have missed any strats email me of your 
+suggestions, I'll be happy to accomodate them and give you credit. You 
+can reach me at louvenel@tekken.cc please don't be an asshole when 
+emailing me, it is alright to criticize me but at least put it in a 
+constructive manner.
+
+Thanks,
+NoExcusePlayHardBeTough
+the_hitman
++AMDG+

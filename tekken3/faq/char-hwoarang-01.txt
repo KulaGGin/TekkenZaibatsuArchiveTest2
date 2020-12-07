@@ -1,0 +1,1844 @@
+THE HWOARANG REFERENCE GUIDE
+version 2.0 (7/25/98)
+by
+GARGOYLE SOX
+gargoylesox@juno.com
+
+
+    This guide is a product of, and for, the Tekken community. It may be
+distributed freely as long as the content remains intact, and it is not sold
+or otherwise traded for monatery compensation. It may not be printed, in
+whole or part, in a for-profit publication (hear that, EGM?) without my
+express written consent.
+
+    Essentially, this means that if you copy my work and try to pass it off
+as your own, I will find out, and I will find you. I hold grudges for a VERY
+long time. Take a moment to reflect on that...
+
+    Tekken 3 and it's characters, of course, are copyrighted by Namco and
+are protected throughout the universe and all of space and time by a fleet
+of lawyers with large attache cases, so don't screw with them. Yadda yadda
+yadda...
+       
+    This time, I've typed this up in DOS edit.com instead of wordpad, so now
+all those annoying tabs are fixed. It'll look just fine in Windows or DOS.
+Just remember that the numbers and dots below should line up.
+
+1234567890
+..........
+
+    With that said, let's get on with the faq...
+
+
+TABLE OF CONTENTS:
+
+ INTRODUCTION
+ CONVENTIONS
+   CONTROLLER
+   BUTTONS
+   THROWS AND POSITION
+   HITTING
+   EFFECT NOTES
+   BASIC MOVES/DEFINITIONS
+ MOVE LIST
+ SOME MOVES IN DEPTH
+ BASIC STRATEGIES
+   MOVEMENT, SIDESTEPS, AND THE FLAMINGO STANCE
+   THE CROUCH DASH
+   STANCES
+   CHANGING STANCE
+   ESCAPING THROWS
+   STRINGS
+   TENSTRINGS
+ ADVANCED STRATEGIES
+   PLAYING ON OFFENSE
+     FOOT GAMES
+     POKING
+     THROWS
+     MORE CROUCH DASH TRICKS
+     CUSTOM STRINGS
+     INFINITE STRINGS
+     WAKE UP GAMES
+   PLAYING ON DEFENSE
+     SIDESTEP OR BLOCK?
+     LOW PARRY
+     CHICKEN
+     ADVANCED CHICKEN TRICKS
+     WAKE UP GAMES, PART 2
+ JUGGLES AND COMBOS
+ IN CONCLUSION
+ CREDITS
+ IF YOU HAVE QUESTIONS...
+
+
+INTRODUCTION
+
+    Well, here we go again. Version 2.0 is finally out (and only 1 month
+behind schedule... not bad in my book). Basically this is just a rewrite of
+version 1.2 with some additions and corrections here and there. I've added
+a ton of new juggles, clarified info on reversals and chickens, added the
+chicken glitch moves, and added sections on custom and infinite strings,
+just to name a few of the changes.
+    Lessee, where should I begin? Let's start by first disspelling one of
+the most annoyingly common myths about Hwoarang: that he's a button masher.
+This is downright false. Now, I know that he has a lot of strings that are
+executed simply by tapping a single kick button, or a sequence of both
+kicks, but take a moment to look at what one gets for this kind of effort.
+The result is a string of attacks that, while doing high damage, have
+little to no chance of connecting beyond the second hit if your opponent
+knows how to block. Add to this the fact that these strings all go high and
+mid exclusively, meaning that you can duck some of them in their entirety.
+On top of this, if the opponent has an attack reversal or high/mid parry
+available, these attacks pose more danger to Hwoarang than to the defender
+because of their general lack of speed and variance. What you end up with
+is a character who is played as a masher only by scrubs or people who
+actually want to lose. The simple fact (as I see it, anyway), is that
+Hwoarang is a very much misunderstood character in terms of gameplay. He
+has a good share of flaws, but like all characters, he has his strengths as
+well. Of course mashers will continue to play him the way they do, but if
+you think this is as effective as, say, mashing with Eddy or Law, then good
+luck to ya! In the end, Hwoarang is a character who requires a lot of skill
+to use to his full effectiveness. Learning to take advantage of his ability
+to change stance takes time, and early on, can lead to many defeats. With
+experience, however, I feel that a well played Hwoarang can be quite a
+force to be reckoned with.
+    With that out of the way, let's get on with a little familiarization.
+Hwoarang's fighting style is Taekwondo, primarily an offensive, kick based
+system. If, however, you think that means you can get by with only two
+buttons, get that thought out of your head right now. I won't lie to you,
+mastering Hwoarang takes a lot of practice, more than most other
+characters, but if you take the right approach, it can be done.
+    For the most part, as I said, you'll want to concentrate on maintaining
+an offensive game. This is not only because he has a powerful offense, but
+also because he actually begins to suffer when forced into a defensive game
+due to his lack of fast power strikes and reversals. To win with Hwoarang
+requires a great deal of finesse. You've got to take advantage of your
+opponent's mistakes, and use pressure to force more mistakes. This does not
+mean that you should get in your opponent's face and stay there; Hwoarang
+actually plays best from about medium to near medium range. This is where
+you should try to be most of the time. If you stay too close, you won't
+have enough time to bring out your powerful kick attacks without being
+interrupted by your opponent. This is part of why he's so hard to learn.
+Also, you'll often find yourself doing attacks that leave you in your right
+foot forward stance or one of the flamingo stances, instead of the
+traditional left foot forward stance that most people are used to. You have
+to learn to make the most of whichever stance you happen to be in at any
+given moment, instead of simply switching back to left foot forward all of
+the time.
+    I've put this guide together as a kind of primer for learning Hwoarang.
+None of the strategies I've included are set in stone. They are, however,
+what I use, and I've put down a great many big mouthed (and very skilled)
+players in my time.
+    Okay, I'm in a bit of a serious mood here, so let me lighten things up
+by dispelling another rumor: Hwoarang is not gay. I'm tired of hearing
+about his bare midriff and "faggot-ass chaps". He may seem a bit
+effeminate, but that's no proof. His profile mentions that he's "very
+popular with the ladies". Take it how you will, but for my money, he's
+straight.
+    With that aside, and because I don't want this to be as long as a
+friggin' Norman Mailer novel, let's get on with it...
+
+CONVENTIONS
+
+CONTROLLER
+
+N - control neutral (no direction)   
+f - tap forward (towards opponent)   F - hold forward
+b - tap back (away from opponent)    B - hold back
+u - tap up                           U - hold up
+d - tap down                         D - hold down
+
+d/f - tap down forward (as an angle ie: not down, then forward ;)
+d/b - tap down back
+u/f - tap up forward
+u/b - tap up back
+D/F - hold down forward
+D/B - hold down back
+U/F - hold up forward
+U/B - hold up back
+
+- It should be noted that holding a direction rarely requires more than
+  tapping a direction and holding there for a split second longer than
+  usual.
+
+WS - while standing (while in the animation of rising from a full crouch
+     position).
+QCB - quarter circle back (d,d/b,b)
+- QCB is a rolling motion; roll the stick or pad smoothly from down to back
+
+BUTTONS
+
+1 - left punch (LP)
+2 - right punch (RP)
+3 - left kick (LK)
+4 - right kick (RK)- staggers on counterhit
+
++ - Indicates moves done together ie: d/b+3+4 means tap down/back and press
+    left and right kick all simultaneously.
+
+~ - Indicates moves done IMMEDIATELY one after the other ie: 3~4 means press
+    left kick and then right kick -very- quickly... almost like pressing
+    them at the same time.
+
+, - Indicates sequence ie: 3,3,3,3 means tap left kick four times; f,f means
+    tap forward twice.
+
+_ - "Or". Pick one of the moves on either side of this symbol.
+
+() - Indicates grouping of moves in a sequence ie: F+(3~3) means you hold
+     forward while pressing left kick twice, instead of holding forward for
+     the first press only.
+
+[] - Indicates optional input.
+
+THROWS AND POSITION
+
+FT - throw from the front, facing opponent
+BT - back throw, behind opponent
+LT - throw from opponent's left side
+RT - throw from opponent's right side
+
+LFF - left foot forward stance
+RFF - right foot forward stance
+LFL - left flamingo stance (left foot in the air)
+RFL - right flamingo stance (right foot in the air)
+BK - with your back to your opponent
+
+HITTING
+
+h - Move hits high. Must be blocked standing, or it can be ducked,
+    reversed, or parried.
+m - Move hits mid. Must be blocked standing. Will hit crouching opponents,
+    but can also be reversed or parried.
+l - Move hits low. Must be blocked while crouching, or can be parried (not
+    reversible).
+M - Move hits mid and can hit a downed opponent.
+L - Move hits low and can hit a downed opponent.
+! - Move is unblockable.
+<> - Indicates damage for a clean (deep) hit.
+
+EFFECT NOTES
+
+    The damage for each move listed is approximate. Normally, a full life
+bar constitutes something like 120 to 140 points. I did the testing on my
+PSX, and in practice mode you can get wildly different amounts of damage
+from the same move for no apparent reason. In the notes section, I've put
+up various effects, like stance changes and such. They're abbreviated as
+follows:
+- Stance change notes assume the move CHANGES the stance you were in when
+  you initiated the move. All moves listed in the "either stance" section
+  leave you left foot forward unless otherwise noted. Any other special
+  notations are marked with numbers and corresponding footnotes.
+
+LFF - Move puts you in left foot forward upon completion.
+RFF - Move puts you in right foot forward.
+LFL - Move puts you in left flamingo.
+RFL - Move puts you in right flamingo.
+BK - Move puts your back to your opponent.
+RC - Recovers crouching.
+* - Move is a launcher.
+GS - Move causes guard stun. When blocked, your opponent will be pushed
+     back and will be unable to block for a moment.
+TS - Move causes turn stun. When blocked or when it connects (depending on
+     the move), it will turn your opponent so that their side is facing
+     you.
+DS - Move causes double-over stun. When this move connects, your opponent
+     will bend over and fall to the ground, and will be unable to quick
+     rise.
+ST - Move staggers your opponent. When this move connects, your opponent
+     will stagger backward and be unable to block for a moment (much like
+     guard stun).
+(C) - Modifier; preceeding effect only if the move is a counter hit.
+(B) - Modifier; preceeding effect only if the move is blocked.
+
+BASIC MOVES/DEFINITIONS
+
+sidestep: Quickly tap up or down on the controller to sidestep to the left
+or right of your opponent.
+
+low parry: Tap down or down/back and press 1+3 or 2+4 to push your
+opponent's low attacks aside.
+
+quick rise: When knocked down, it's possible to roll and get back on your
+feet immediately. Press any button the instant you hit the ground to do
+this. Punch buttons roll you to the background, kicks move you to the
+foreground. This can only be done if you land on your back with your feet
+towards your opponent. Also, remember that you can be hit while doing this
+move, so use it sparingly as a surprise tactic when playing against better
+skilled opponents.
+
+supercharger: Press all four buttons simultaneously to use this. Your hands
+glow for about 2-3 seconds, and any hit you connect with during this time
+will count as a counter hit. Beware, though, as you are unable to block
+when charged, and if you're hit, your opponent's attack counts as a counter
+hit on you, and your charge wears off instantly. Use this in conjunction
+with the Firecracker for an almost guaranteed launch.
+
+counter hit: Also known as a major counter, this occurs when you interrupt
+your opponent's attack after he's initiated it, but before it hits you,
+with an attack of your own. This is most often encountered when dealing
+with unblockables. Many moves exhibit special properties or effects when
+they are counter hits, such as stunning them, launching them, or in the
+case of strings, becoming a guaranteed combo.
+
+ankle kick: When face up on the ground with your opponent at your feet, tap
+down and 3 or 4 to deliver a quick kick to his shin.
+
+uppercut: Tap down/forward and hit 1 to perform a regular uppercut. Hit 2
+instead of 1 to do an uppercut that staggers when it connects, and launches
+on a counter hit. Pressing 2 while rising from a crouch (WS+2) will also
+give you an uppercut that launches if it connects (counter or not).
+
+sweep: Hold down and press 3 (while crouching) to perform a basic low sweep
+that can hit opponents on the ground.
+
+jumping sweep: Hold up, up/forward, or up/back to jump, and press 3 just as
+you land to do a sweep kick when you hit the ground.
+
+jumping stun kick: Done the same as above, but hit 3 when you reach the
+height of your jump. When this kick connects, it causes double over stun.
+
+jumping kick: hold up, up/forward, or up/back and press 4 a moment after
+leave the ground. This move hits mid and does only a little less damage
+than the standard jumping spin kick, and is about as fast.
+
+reverse launcher kick: With your back to your opponent, tap up or
+up/forward (up/forward relative to your opponent; actually up and to your
+back) and hit 4 to perform a kick that hits mid and launches your opponent
+when it connects. This is a wonderful surprise move that can be followed up
+with a juggle.
+
+pounce: Tap up, up/forward, or up/back and hit 2 to perform a leaping punch
+that hits mid and can hit a downed opponent (which is all it should be used
+for, if ever...)
+
+ON TO THE MOVE LIST!
+
+THROWS                 INPUT                DAMAGE      ESCAPE     NOTES
+
+Pickpocket             1+3 (FT)             30          1
+Human Cannonball       2+4 (FT)             30          2          #1
+Rolling Jawbreaker     f,f+2 (FT)           30          2
+Leg Hook Drop          d,D/B+1+3 (FT)       30          1+2
+Doormat                QCB+3 (FT)           40          1
+Bring It On            1+3_2+4 (LT)         45          1
+Dead End               1+3_2+4 (RT)         44          2
+Slaughterhouse         1+3_2+4 (BT)         55          n/a
+
+
+LEFT FOOT STANCE       INPUT               RANGE/DAMAGE            NOTES
+
+Migraine               1,1                 h,h/5,8
+Left-Right             1,2                 h,h/5,10
+Home surgery           1,1,3,3             h,h,l,h/6,10,10,23
+Rejecter               [1],2,3             h,h,m/6,9,19
+Rejection              [1],2,4             h,h,h/6,9,37
+Backhand               b+2                 h/10
+Rusty Knife            f+2                 m/15                    RFF
+Tetanous               F+2                 m/15
+Machinegun Kicks       3,3,3,3             h,m,m,h/15,12,10,25     * GS
+Hot Feet               4,4,4,4             h,h,h,m/14,10,10,20     TS(B)RFF
+Stop Kick Combo        f+4,4               h,m/20,15               RFF
+Hard Rocker            4,f+4               h,h/13,20               RFF
+Da Bomb                4,4,f+4             h,h,h/13,10,25          RFF
+Kitchen Sink           4,4,4[~B]           h,h,h/18,13,9           #2 RFL
+Blizzard Kicks         4,4,4,3             h,h,h,l/14,10,10,10
+Disorderly Conduct     3,3,4[~F]           h,m,h/15,12,20          #2 RFL
+Rock Your World        3,3,4,4             h,m,h,m/15,12,20,15     RFF
+Party Hearty           3,3,[d+]3,4[~F]     h,m,m,h/15,12,10,20     #2 RFL
+Total Outrage          3,3,3,4,4           h,m,m,h,m/15,12,10,20,15RFF
+Menace To Society      3,3,d+3,4,4         h,m,l,h,m/15,12,7,13,15 RFF
+Axe Murderer           4,3                 h,m/13,20               ST(C)RFF
+Rude Boy               4,f+3               h,m/13,17               ST(C)
+Spinal Tap             f,f+3               m/30                    GS RFF
+Ecoli                  f+3~3_f,N,d,D/F+3~3 m/22                    #3
+Torpedo Kick           f,f+4               h/30                    #4 BK
+Flying Eagle           3~4                 m,m/15,28
+Doggie Lift            f+4                 h/20                    RFL
+Nose Bleeder Right     b+4                 h/28                    TS(C)RFF
+Left Flamingo Feint    f+3_f,N,d,D/F+3     n/a
+
+RIGHT FOOT STANCE      INPUT               RANGE/DAMAGE            NOTES
+
+Right-Left             2,1                 h,h/6,10
+Double Left            1,1                 h,m/10,12               LFF
+Big Fists              2,1,1               h,h,m/6,10,12           LFF
+Teaser                 3,3                 l,h/15,40               TS(B)LFF 
+Toe Jam                4,4                 h,h/15,27               LFF
+Chainsaw Kick          4,3                 h,M/15,20
+Chainsaw Cancel        4~f                 h/15                    RFL
+Grand Theft            f+4~4               m/20                    *
+Cheap Shot             f+3                 h/25                    LFL
+Cheap Shot-Retreat     f+3~B               h/25                    BK
+Cheap Shot-Jab         f+3,1               h,h/25,12               LFF
+Cheap Shot-Low         f+3,d+3             h,L/25,12               LFF
+Cheap Shot-Sweep       f+3,d+4             h,l/25,15               RC
+Cheap Shot-Snap Kick   F+(3~3)             h,m/25,23
+Cheap Shot-Rocket      f+3,3,3,3           h,m,m,h/25,22,10,25     *GS(B)LFF
+Bad Dancer             f+3,4               h,L/25,20               LFF
+Backlash               3~4                 h/36<54>                TS(B)LFF
+Ripoff                 f,f+3               h/25                    TS(B)
+Screw Kick             f,f+4,3             m,h/18,20               GS
+Misdemeanor            b+4                 h,32                    TS(B)
+Nose Bleeder Left      b+3                 h,28                    TS(C)LFF
+Right Flamingo Feint   f+4                 n/a
+
+EITHER STANCE          INPUT               RANGE/DAMAGE            NOTES
+
+Disrespect             1+2                 n/a                     BK
+Stance Change          3+4                 n/a
+Body Blow              d/f+1+2             m/10
+Lifting Upper          WS+2_f,N,d,D/F+2    m/15                    *
+Firecracker            d+4,4               L,h/7,22                * GS
+Skyrocket              f,N,d,D/F+4         m/23                    *
+Jumping Roundhouse     u/b_u_u/f+4         h/25<37>                GS
+Public Enemy           d/f+3,4             m,m/17,21
+Tsunami Kick           WS+4,4              m,M/13,15               RFF
+Hunting Hawk           u/f+3,4,3           m,m,h/15,14,25          #5 GS
+Hop Kick               u/b_u+3             h/20                    LFL
+Crippler               d/b+4               L/10                    TS(C)
+Repeater               d/b+4~4             m/30                    GS
+Windmill Kick          WS+3                h/28
+Killing Blade          f,f,f+3             m/30                    GS
+Low Parry              (d_d/b)+(1+3_2+4)   n/a
+Dynamite Heel          d/b+3+4             !/40<52>
+                        (b=cancel to LFL)
+
+LEFT FLAMINGO STANCE   INPUT               RANGE/DAMAGE            NOTES
+
+Rocket Laucher         3,3,3               m,m,h/22,10,25          * GS LFF
+Cannon Kicks           3,3,4               m,m,h/22,10,20          RFL
+Extended Cannon        3,3,4,4             m,m,h,m/22,10,20,15     RFF
+Step Kick              4                   h/28                    RFL
+Snap Kick              f+3                 m/18                    RFF
+Snap Spin Kick         b+3                 h/32                    TS(B)LFF
+Cutter Left            d/b_d_d/f+3         L/13                    LFF
+Cutter Right           d/b_d_d/f+4         l/15                    LFF
+Trick Jab              1                   h/12                    LFF
+Right Backhand         2                   m/12                    RFF
+Power Blaster          1+4                 !/80                    LFF
+                        (b,b=cancel to LFF)
+
+RIGHT FLAMINGO STANCE  INPUT               RANGE/DAMAGE            NOTES
+
+Right Stopper          4                   m/20                    DS(C)RFF
+Step Kick              3                   h/25                    LFL
+Snap Kick              f+4                 m/18                    LFF
+Snap Spin Kick         b+4                 h/32                    TS(B)RFF
+Cutter Right           d/b_d_d/f+4         L/13                    RFF
+Cutter Left            d/b_d_d/f+3         l/15                    LFF
+Trick Jab              2                   h/12                    RFF
+Left Backhand          1                   m/12                    LFF
+
+ 1: The Human Cannonball cannot be done from RFF. I think this is just a
+    Playstation glitch. Both 1+3 and 2+4 in RFF are the Pickpocket, and
+    both are escaped with 1.
+ 2: If the optional F or B input is used, Hwoarang will end in LFF.
+ 3: Ecoli done from a crouch dash can be done from either stance.
+ 4: The Torpedo kick leaves your back to your opponent if blocked or
+    ducked, but leaves your opponent's back to you if it connects.
+ 5: The third hit of the Hunting Hawk only comes out if the second hit
+    connects. Both the first and second hits can cause guard stun.
+
+SOME MOVES IN DEPTH
+
+LEG HOOK DROP  (d,D/B+1+3)
+
+    This is actually one of Hwoarang's better throws. First, it's the only
+one that requires 2 buttons to escape, making it that much harder to get out
+of. Second, a Crippler is guaranteed afterwards. Third, if you mess up,
+you'll likely get the Pickpocket instead. Try to throw in the d,D/B
+motion whenever you go for a 1+3 throw for best results.
+
+ROLLING JAWBREAKER  (f,f+2)
+
+    This is, by far, Hwoarang's most useful throw. The f,f motion allows
+you to tack this on after many poking attacks and custom strings, plus its
+built-in dash buffer can be used to double its effective range. The only
+drawbacks to this throw are its single button escape, and the fact that it
+doesn't allow for much in the way of okizeme (ground hits) afterward. If
+you connect with a Torpedo Kick and want to get in a back throw on your
+opponent, use f,f+2 to dash in on them slightly and increase your chance
+of landing it. Use it often, but don't abuse it or your opponents will
+learn to break out of it!
+
+DOORMAT  (QCB+3)
+
+    My personal favorite of Hwoarang's throws. It does the most damage of
+his throws, but is hampered a bit due to the QCB command input and one
+button escape. On the plus side, however, it has some great wake-up
+potential. Just like the Leg Hook, you can easily follow up with a Spinal
+Tap if your opponent moves, or time a Crippler just right for some serious
+cheese action (explained in the Advanced Strategy: Throws section).
+Honestly, you won't get many opportunities to use this move, but you may
+find it easier to do than the Leg Hook, so always keep it in mind for
+whenever an opening shows itself.
+
+HOME SURGERY, REJECTER, REJECTION  (LFF- 1,1,3,3 / LFF- 1,2,3 / LFF- 1,2,4)
+
+    Of these, the first two are the most important pecking tools in your
+arsenal. Home Surgery hits h,h,l,h for a good mixup, plus, if the third hit
+connects, the fourth is guaranteed. Switch up to the Rejecter or just the
+first three hits of Home Surgery once your opponent wises up. If they try to
+block the third hit of Home Surgery, the side kick from the Rejecter will
+connect. You can omit the first hit of the Rejecter and Rejection in order
+to bring out the final power hit sooner, thereby making it harder for an
+experienced opponent to block correctly. In addition, if you just use 2,3
+or 2,4 and the punch connects as a counter hit, it stuns just long enough
+to guarantee the kick after it. This is really the only safe way to use the
+Rejection in your poking game, since all it's hits go high. Other than that,
+Rejection is best used as a solid and easy juggle after a Firecracker. In a
+lot of cases, 1,2,3 and 2,3 are interchangeable poking attacks because both
+of Hwoarang's basic jabs come out at exactly the same speed. Because of
+this, you may want to get used to using 2,3 a lot due to the fact that it
+does about as much damage as 1,2,3, and the kick is guaranteed if the punch
+is a counter hit.
+
+BODY BLOW  (d/f+1+2)
+
+    You should use this move liberally whenever you feel too close for
+comfort. It's good for a final K.O. hit because of it's speed and priority,
+and also as a cheap first hit at the beginning of the round. It's also
+excellent for preventing throws and for keeping your opponent out of throw
+range altogether. When using it for playing keepout, mix it in with the Axe
+Murderer, Rude Boy, and Public Enemy to gain and keep distance, but beware
+of reversals!
+
+PUBLIC ENEMY  (d/f+3,4)
+
+    Now, I know you may disagree with me on this one (as I know some people
+are apt to do...), but I really like this move. It has good range, power,
+a decent amount of speed, and it can be done from both LFF and RFF. On top
+of this, if the first hit connects as a counter hit, the second hit is
+guaranteed for a good 25% damage combo. This should be used occasionally
+whenever you find yourself just outside of poking range. It fits the bill
+nicely for keeping your opponent away from you. Try tossing it in after you
+poke your opponent back a bit for a decent chance at a counter.
+
+ECOLI  (LFF- f+3~3_f,N,d,D/F+3~3)
+
+    This move is good for playing keepout, or when you're behind your
+opponent. It is not, however, as fast as some people think. The reason for
+this is that it "telegraphs" itself a bit because you go into the left
+flamingo stance before it comes out. This fact alone can almost end it's
+usefulness completely against an expert reversal player, so remember to
+always buffer a chicken when going against those guys. Remember, also, that
+you can initiate this move from a crouch dash. Since it's range is a little
+longer than that of the Skyrocket, you can dash in just outside of the
+Skyrocket's range and use the Ecoli to surprise your opponent. You can also
+crouch dash into LFL, then pause and hit 4 for a fake. also, just for the
+sake of saying it, if you happen to crouch dash in under an opponent's
+attack, always go for the Skyrocket and punish him with an unreal juggle!
+
+FIRECRACKER  (d+4,4)
+
+    Okay, listen up. This is one of the Golden Rules when playing Hwoarang
+(think of it as that "don't feed after midnight" rule in Gremlins.) Here it
+is: DO -NOT- ABUSE THIS MOVE UNDER ANY CIRCUMSTANCES!! Repeat this to
+yourself until you dream about it at night! The reason for this is simple
+(and my number one Hwoarang gripe): Even if the first hit, which goes low,
+connects, the second hit can be blocked. This in and of itself is not so
+bad, since it causes guard stun when blocked and pushes your opponent back,
+but here's the kicker. The second hit goes high, so your opponent can (and
+will) duck it even if the first hit connects. Offhand I can't think of a
+single move in the game that leaves you as open to retaliation as this one.
+This move is actually better utilized as a juggle ENDER than a starter.
+The only real saving grace to this move is that the second hit is
+guaranteed if the first connects as a counter, or if you're behind your
+opponent. Therefore, the only exception to the Golden Rule is when you
+perform your Supercharger, which makes your hits act as major counters, or
+after you connect with the Torpedo Kick. Then, and only then, by all means
+feel free to abuse this move... just don't get too predictable with it, or
+your opponent will block low whenever he sees your hands glowing.
+    You know, it kinda sucks that Nina, who is already overpowered to begin
+with, has a similar move (d/b+4,3), that comes out faster, juggles, and hits
+low/mid. Where's the justice??
+
+TORPEDO KICK  (LFF- f,f+4)
+
+    Use this move sparingly, but unexpectedly, to bring out it's full
+potential. Try doing it when your opponent is in an aggressive mode. It's
+also absolutely perfect when your opponent uses their supercharger, since
+then they can't block it at all. If it connects, immediately do an Ecoli or
+a Firecracker and juggle. If done correctly, this sequence can practically
+end the match before it starts. If, however, it is blocked or ducked, you'll
+have your back to your opponent, so watch out! About the best recovery to
+this is a quick d+4 to turn around and deliver a quick low peck to keep your
+opponent back. Another good use for this move is in retaliation of a
+blocked or whiffed power move. If your opponent misses with a move that has
+a bit of lag time and doesn't recover crouching, this should be your
+punisher of choice, as it's just as fast as your f+3~3 Ecoli, but has much
+more potential. Just remember that this move can be your best friend or
+your worst enemy, depending on how and when you use it.
+
+CRIPPLER  (d/b+4)
+
+    This move has it's plusses and minuses, and both must be understood.
+On the plus side, it hits low, and when it hits, it turns your opponent
+sideways a bit, especially on a counter hit. This sets up for a good old
+fashioned side throw. On the other hand, it has a very short range. It's
+also quite slow... far too slow to be a staple foot game attack. Throw
+this in once in a while, then sidestep and go for a throw if it hits. If
+your timing is perfect, this move can cut off an opponent's tenstring,
+especially right before the last attack if it's a power hit like Paul's
+or Gunjack's. Don't abuse this one, either.
+
+REPEATER  (d/b+4~4)
+
+    Uhh, try to stay away from this one. It's a knockdown if it connects
+(Crippler guaranteed afterward), but it's much too slow. It does, however,
+have a deceptively long range.
+
+FLYING EAGLE  (LFF- 3~4)
+
+    This is an okay power hit for a bit outside of throw range. It's also a
+good juggle after a Skyrocket. The second hit sometimes whiffs on smaller
+opponents, though, so watch out, as this can leave you open to retaliation
+for a moment due to it's slow recovery time. If you catch your opponent in
+the air with this (major counter on Heihachi's Hunting Geta kicks, for
+example), you can always follow up with a Firecracker for a juggle.
+
+HUNTING HAWK  (u/f+3,4,3)
+
+    One of Hwoarang's few guaranteed combos, this should be used fairly
+often, especially during your wake up game, and when your opponent whiffs
+an attack. It has great range, so you have it as an option even when you're
+outside the range of most of your opponent's attacks. If your opponent
+blocks this, it causes guard stun, so you can follow up with a throw
+(preferably f,f+2) or a Skyrocket or some poking strings if you think your
+opponent will try to retaliate. The biggest downfall to this move is it's
+somewhat slow execution time. An expert level player will have little
+trouble reversing it, so try to buffer a chicken for the first hit if
+possible.
+    On an interesting side note (much props to Red Smoke for this one): if
+you do u/f+3,4,3 and your opponent blocks it, it causes a slightly longer
+guard stun than just doing u/f+3,4, even though only the first two hits
+come out in both cases. Therefore, you should always complete the entire
+sequence even if your opponent blocks it, so you have a better chance of
+getting off an attack while your opponent is unable to block.
+
+RIGHT STOPPER  (RFL- 4)
+
+    This move is highly underrated. It's actually the only move unique to
+the right flamingo stance, and executes with just one button. The magic of
+this move is that it causes a double-over stun when it connects as a major
+counter. A good and simple setup for this one is to do f+4 from left foot
+forward, then wait a split second, then hit 4 again. The pause is important,
+because without it, you just get a two kick combo that doesn't stun. If the
+opponent tries to rush you after the first hit of the setup, they'll be hit
+by the Stop Kick. This is one of your best chances for a major counter.
+Follow up with d+4,4 or d/b+3+4 or some other fast power hit.
+
+BAD DANCER  (RFF- f+3,4)
+
+    Not too great. It hits high/low for fair damage, but the second hit
+comes out way too slow. If you must use it, do f+3,d+4 instead. This move
+looks the same and has the same range, but it's slightly faster, knocks
+your opponent down, and recovers crouching, allowing you to easily follow
+up with WS+4,4 for an extra ground hit or two. All this and the sweep only
+loses about 5 points of it's original damage. That's a pretty good
+tradeoff, don't you think?
+
+CHEAP SHOT  (RFF- f+3)
+
+    This move is beautiful! It's fast, does generous damage, and recovers
+quickly in LFL, leaving you with a ton of follow up options. You can change
+up into a Step Kick, Snap Kick, Snap Spin Kick, Cutter left or right, or
+the left flamingo Cannon Kicks. Basically any move for left flamingo is an
+option. There's really nothing bad at all about this move. I sometimes win
+matches using this move and it's follow ups exclusively. By the way, it's
+also great for juggles! The only slight drawback to this move is that it
+hits high, and it leaves you open in left flamingo after you do it... but
+no Hwoarang player worth his salt would just do this move alone, right? So
+that doesn't even really count.
+
+MISDEMEANOR/ SNAP SPIN KICK  (RFF- b+4 / LFL- b+3 / RFL- b+4)
+
+    Nothing really special, but looks good. They're slow and hit high, but
+if blocked they turn your opponent sideways. They can be included in your
+evasion tactics due to their built in sidestep and wide hitting range.
+They're also the only high/mid attacks in Hwoarang's arsenal that cannot be
+reversed. Remember this, as LFF is the only stance that you -can't- do one
+of these moves from.
+
+SKYROCKET  (f,N,d,D/F+4)
+
+    Man, this move redefines the term "launcher"! If your opponent starts
+getting used to the Firecracker and ducking the second hit, let him try this
+one out... I swear this would be enough to break gravitational pull if you
+were fighting on the moon. I mean, you can practically make up juggles on
+the spot after you've launched your hapless victim. Even if they do block
+it, it pushes them back a bit, making this move pretty low-risk. Just
+remember to buffer a chicken against reversal-capable characters. If you're
+fast enough, this move is also guaranteed after you parry a low right kick.
+The only drawback is that it doesn't launch Kuma, Gunjack, Ogre, and True
+Ogre well. Regardless, it's safe to say that I love this move like family.
+
+SPINAL TAP  (LFF- f,f+3)
+
+    This move is fair as a power strike, but lacks a bit in execution speed
+and recovery time. What it does have going for it, though, is that it can
+be done from a crouch dash, and you recover in RFF. Also, if you knock down
+your opponent, it is possible to hit him with this if he does anything but
+just lie there. It will hit Kuma, Gunjack, and True Ogre on the ground even
+if they do just lie there, making it a deadly technique to use against them.
+
+CHAINSAW KICK  (RFF- 4,3)
+
+    Hmm, not bad. Really good for ending juggles, cuz you slam your
+opponent to the mat with the second hit, and then you can go right into the
+move again to hit them on the ground. Don't be afraid to keep doing this
+move over and over if your opponent can't seem to get up ;)
+
+POWER BLASTER  (LFL- 1+4)
+
+    Useless. Nuff said. If you actually connect with this, rest assured
+that your opponent sucks (or maybe you just got really lucky...) This does
+fantastic damage, but it's extremely slow and a little tricky to execute.
+If you absolutely MUST use it, do it after a triple sidestep on an
+aggressive opponent. Hopefully, you'll move far enough away to prevent him
+from countering you successfully, and you should be able to connect. Hey, I
+didn't say it was smart, just possible ;)
+
+DYNAMITE HEEL  (d/b+3+4)
+
+    This has to be one of the best unblockables in the game. For one thing,
+it's kinda fast. Second, it hits opponents on the ground. Do this after a
+Skyrocket, and it's almost guaranteed damage even if your opponent tries
+to quick-rise or hit you with an ankle kick. This does not, however, work
+against Kuma, Gunjack, Ogre, and True Ogre since the Skyrocket won't launch
+them. Against normal Ogre, it may work since he's popped up a little higher
+than the other big guys, but if he quick-rises, he has just enough time to
+pull off a fast jab to stop you. If your opponent's slow, you can try this
+move after a Skyrocket/Hunting Hawk juggle, but this is riskier. You may
+want to go for it this way as a quick finish when you have the lead, or
+even as a desperation move when you have nothing left. Use just the Hunting
+Hawk, then the Dynamite Heel against Kuma/Panda, since they can't really
+do much about it. 
+
+BASIC STRATEGIES
+
+MOVEMENT, SIDESTEPS, AND THE FLAMINGO STANCE
+
+    Hwoarang is one of the fastest moving characters in Tekken 3; arguably
+the fastest male fighter. This is an advantage that few seem to utilize, but
+it's extremely important, especially for Hwoarang. If you're used to playing
+other characters, you've probably gotten used to blocking a lot of attacks
+and then countering afterward. This is the wrong thing to do with Hwoarang.
+Remember that, on top of his good quick sidestepping ability, he also has
+the flamingo stances, which further add to his mobility. It will become
+important to learn to anticipate moves and then sidestep and throw or do a
+combo. The reason for this is twofold: First, Hwoarang is not a defensive
+fighter. He can block and low parry, but that's about it. Also, when he's in
+a flamingo stance, he can't block at all, so movement is crucial there.
+Second, he doesn't really have any fast power strikes. This makes the old
+block and counter game a real nightmare for him.
+    You may be wondering what good his flamingo stances are if he can't
+block in them. It's all in that key word: movement. Hwoarang can sidestep
+further in a flamingo than he can normally. On top of this, he also does a
+small sidestep when he goes into the flamingo stance. This is very
+important. What it means is that basically you can go into flamingo, then
+quickly sidestep, and you will have wrapped your way about 1/3 circle around
+your opponent. This is a double sidestep. If you can attack before your
+opponent can turn around, he will be unable to block. If you take this a
+step further and sidestep, go to flamingo, then sidestep again (triple
+sidestep), you will be clean behind your opponent! Remember that this can
+all happen in under a second, so take advantage of the ability.
+    Both the double and triple sidesteps are very quick, but they are
+different and should be handled differently. The double doesn't move you as
+far as the triple, but the execution is blindingly fast. The triple, as
+said, can give you a complete 180, but there is a break after the first
+sidestep where you will be vulnerable. Most of the time, the two are
+interchangeable, but you should stick with the double's speed to evade
+pressure tactics. On the other hand, the triple is just what the doctor
+ordered when your opponent is doing a series of linear attacks (attacks that
+move him/her straight forward with little ability to track your movement,
+like straight jab and kick strings.)
+    Another thing to note is that, when doing this double sidestep trick,
+there is a right and wrong direction to sidestep depending on which method
+and stance you choose. It works like this: If you are on the left side
+facing right (in LFF), and you go into flamingo (f+3), you will auto
+sidestep to your right (down, towards the screen). This is the direction
+you should always do your double sidestep when in this position. If you
+were to sidestep left, going into left flamingo would basically cancel out
+your first sidestep, and you'd still be stuck in front of your opponent,
+minus the ability to block!
+
+HEY LOOK... A CHART!
+
+FACING      STANCE      FLAMINGO    SIDESTEP
+
+RIGHT       LFF         LFL         DOWN
+RIGHT       RFF         RFL         UP
+
+LEFT        LFF         LFL         UP
+LEFT        RFF         RFL         DOWN
+
+    So, if you find yourself on the right side of the screen facing left,
+and you are in the left foot forward stance, you should use the left
+flamingo stance and sidestep up (away from the screen, to Hwoarang's right).
+    The triple sidesteps are a little easier, since stance doesn't matter
+due to the fact that you revert to LFF after the first sidestep. Therefore,
+when on the left side of the screen facing right, you sidestep down both
+times, and when on the right side facing left, you sidestep up both times.
+
+THE CROUCH DASH
+    
+    This ability is beyond important to master, and not just because some
+of Hwoarang's most powerful moves require it. When you do a crouch dash
+(f,N,d,D/F), you quickly duck down and dash forward, rising after the
+forward movement has completed. This allows you to move in fast under some
+high attacks and gives you access to the almighty Skyrocket, plus it gives
+you a new way of doing some of Hwoarang's other moves. His Ecoli kick,
+which is usually performed f+3~3, can also be done with f,N,d,D/F+3~3. This
+may sound complex at first, but it's actually pretty easy once you get the
+motion down. Although this resembles the motion in Street Fighter to
+perform the Shoryuken, it's done a little differently. The trick is that
+after you tap forward, you must return the stick to the neutral position
+before inputting the d,D/F. This can be kind of hard on the arcade machines,
+so practice until you're confident enough that you can do it at least 80%
+of the time.
+    Now, I know you're probably wondering what other moves can be done from
+this. Well, maybe not... but I figure that if I've held your attention this
+long, I can get away with just about anything from here on in. You'll
+notice, first off, that Hwoarang's right uppercut (d/f+2) does not launch
+the way they used to in Tekken 2. If, however, you do a WS+2 uppercut, it
+will indeed launch. Taking this a step further, you'll notice that when
+you do a crouch dash, you end your forward movement in a crouched position.
+Therefore, if you do a crouch dash with right punch (f,N,d,D/F+2), you are
+getting the dash, plus the punch counts as a WS+2 since it executes as
+you're rising. You've just made up a new offensive juggle starter! Now back
+to Ecoli. If you crouch dash into this, but hit 3 only once, voila! You've
+dashed into your left flamingo stance. The real beauty of this is that you
+can go straight into your double sidestep from this all in one smooth,
+fluid motion. You can literally go from outside of attack range, to beside
+or behind your opponent in under one second! Can we say "jinking tactics"?
+    On top of this, there are several other moves that can be done from a
+crouch dash. The two I'll cover now are the WS+3 Windmill Kick and the
+WS+4,4 Tsunami Kick. These actually are not big news. The problem is that
+Hwoarang's crouch dash has an unusually large window of execution for it's
+normal moves (Skyrocket, left flamingo feint, and Ecoli). This means that
+you have to delay your button press until the last possible moment to bring
+out the Windmill or Tsunami kicks, or else you'll get the left flamingo or
+Skyrocket. On top of that, using the flamingo sidestep or the Skyrocket
+would be a better choice of moves almost every time.
+
+STANCES
+
+    I can't stress this enough: KNOW YOUR STANCES! To play Hwoarang
+effectively, you must know 1: what you can do in each stance, 2: what
+stance each move executed will leave you in, 3: how to maximize your stance
+changing ability for any given situation, and 4: how to get out of a
+flamingo stance quickly. Without the ability to use your stances
+effectively, you -will- lose! I've lost count of how many times I've seen
+someone try to play Hwoarang without knowing this stuff. The end result is
+always the same: they lose, proclaim Hwoarang as the weakest character ever,
+plunk in two more quarters, and pick Law (or Paul). I don't mean to mash on
+Law or Paul players, but honestly, they can be mastered pretty easily as
+they are pretty straightforward characters. Ah, well, what's an opinion
+worth, anyway? Lack of this knowledge is also why so many people think
+Hwoarang is for button mashers... but I'm rambling.
+    The first two points I listed above are covered in the move list, and,
+with some study, can open the door to point 3. It's important to know which
+moves can get you into the right foot forward stance. This is where
+Hwoarang's true power lies. Most of his moves here are power hits and
+strong two hit combos, whereas left foot forward is geared more toward
+poking, strings, and juggles. Remember this and incorporate it into your
+strategy.
+    Now for point 4. At some time or another you will inevitably find
+yourself in a flamingo stance when you absolutely don't want to be there.
+If your opponent catches on, he'll run in and stomp your helpless ass.
+First thing: if you want out of a flamingo stance, don't move! That'll just
+cause you to hop around on one leg and perpetuate your embarassment. If you
+stay still, Hwoarang will put his foot back on the ground in short order.
+If that's not fast enough, a simple jab will suffice. f+3 or d+3 in LFL and
+f+4 or d+4 in RFL also work well. Of course, the best thing to do is make
+the most of the situation and launch an attack. You'll usually end up out
+of the flamingo afterward anyway. One final note: if you want out of the
+flamingo, don't hit the button for the leg you are standing on (4 in LFL, 3
+in RFL). This does the Step Kick which, while powerful, ends you in the
+other flamingo stance- basically back where you started!
+
+CHANGING STANCE
+
+    Obviously, the quickest and easiest way to get from left foot to right
+foot stance is the simple 3+4, but I thought I'd fill some space to tell
+you about your other options. During a match, your opponent will likely be
+giving you pressure and trying to stay on top of you, so 3+4 leaves you
+open for easy retaliation. Also note that if you go from LFF to RFF and are
+hit (or if you sidestep or crouch dash), you revert back to LFF, so no
+progress there. In this situation it becomes imperative that you know which
+moves can be done that will change your fighting stance. Usually, moves
+like WS+4,4 , f+2 , or d/f+3,4 will do the job nicely. You get your stance
+change, plus throw out some hits on your opponent. Killing two birds with
+one stone is always good.
+    I've noticed lately that a lot of people don't seem to know of any use
+for Hwoarang's Disrespect move (1+2). Honestly, there isn't much you can do
+with it, although it makes a decent taunt. Just keep pressing 1+2 over and
+over again. Also, if your opponent is at running distance from you (pretty
+far), you can use it to change your stance. Simply hit 1+2, then move
+forward or back a step. You can also hit 1+2 and then any punch or kick
+button to do a quick back turned snapping punch or kick that will change
+your stance and sometimes fake out your opponent. Just don't get too
+comfortable with your back to your enemy.
+
+ESCAPING THROWS
+
+    This is often more a matter of anticipation and luck than timing,
+simply because you have to be so fast. You'll notice in the move list there
+are buttons listed in the escape section for the throws. Simply hit these
+buttons immediately upon being grabbed, and you'll escape the throw. You'll
+also notice that some escapes are uniform. Simple 1+3 throws and left-side
+throws are always escaped by hitting 1. Throws done with 2+4 or done from
+the right side are escaped by pressing 2. Special throws usually are such
+because they are harder to escape, usually requiring two buttons instead of
+one. Learn to mix up your throws so that your opponent has to guess at the
+escape method, and try to go for special throws whenever feasible. You
+should also try to identify patterns in your opponent's throwing habits.
+Do they always use the same throw on you? Learn the escape, plan ahead for
+when he'll throw next, and escape the throw. If he's smart, he'll have to
+start changing up his throws to get you, but most people are idiots...
+Also, don't forget that throws done from behind cannot be escaped, so don't
+make yourself look foolish by trying... just take it like a man.
+
+STRINGS
+
+    One of Hwoarang's advantages is his ability to bring out lots of fast
+kicks at his opponent. On top of this, his stances give him so many
+different options that you can really play a mean guessing game if you know
+what you're doing and what you're capable of at any given moment. I can't
+stress enough the importance of knowing what moves you can do in a
+particular stance, and which stance these moves will leave you in. Although
+the stance changes can be a big hinderance to a beginner, a seasoned expert
+will use each one as a setup for the next set of moves. For starters,
+practice with the simple LFF strings, like 3,3,3,3 , 4,4,4,4 , and
+3,3,3,4,4. There are tons of changeups hidden here. You can substitute the
+third kick in the 3,3,3,3 or 3,3,3,4,4 string for a d+3 to tag a low hit on
+your opponent. You can change 4,4,4,4 into 4,4,4,3 to end low instead of
+mid. You can cut the 4,4,4,4 or 3,3,3,4,4 short to end in RFF early, or to
+end in RFL or even LFF. You can also truncate the 3,3,3,4,4 and make it
+3,3,4,4, and in both of those strings, you can delay the last hit for a
+moment to make it stun on a counter hit. These attacks are great for
+staying on offense and applying pressure to your opponent. Just watch out
+for reversal-happy opponents.
+    As I mentioned before, LFF is the stance of choice for strings, but
+that doesn't mean RFF doesn't have it's fair share. First and foremost,
+there's that wonderful move, the Cheap Shot. This kick can seamlessly link
+to any left flamingo move, making it truly an ideal choice for attack. Now
+let's say you do a string in LFF and end up in RFF. What to do? Well,
+besides the Cheap Shot variations, there's Toe Jam and the Chainsaw Kick.
+Toe Jam delivers two ultra quick high kicks that are hard to defend against
+unless anticipated. The Chainsaw Kick starts out the same, but ends with a
+downward sweeping kick that hits mid and can hit opponents on the ground.
+The first hit of the Teaser combo is also a good low peck that leaves you
+in RFF. You can do this alone once or twice, then bust out the second hit
+for some phat damage.
+    If punches are your thing, try this one from LFF: f+2, 2,1,1. The first
+hit puts you in RFF, and the rest is the Big Fists combo, an overall good
+close range attack. Hey, why not throw in a d/f+1+2 Body Blow after all
+that? The slight lag of the first hit often entices your opponent to close
+in, thereby getting tagged by the rest of the string. The Body Blow can
+then snuff out their retaliation efforts and help you keep the distance
+you've gained. Okay, I know it's not much, but hey, if it's punches you're
+after, use Paul or Bryan.
+    Basically, You'll want to know your stances here so that you can keep
+putting out loads of effective attacks one after the other in order to keep
+the pressure up. Just remember to watch out for reversals, use your
+imagination, and PRACTICE!
+
+TENSTRINGS
+
+#1: f+3,2,2,3, 4, 3,4, 4,4, 4, 3
+#2: f+4,1,2,3, 4, 3,4, 4,4, 4, 3
+
+    -The timing goes like this: f+3,2,2,3 fairly quickly, then 4 right
+after. After a slight pause, do 3,4 again. When you see him go into the
+straight side kicks (looks like d/f+3,4), hit 4,4, pause, then 4 again. You
+may want to keep tapping 4 at this point until you see Hwoarang go into the
+Firecracker. Then tap 3 when your opponent is in the air. Both combos are
+the same except for the first "real" hit. The big thing is to not do it all
+too fast.
+
+    Okay, here's the deal. Aside from Bryan Fury, no one's tenstrings are
+worse than Hwoarang's. This is because they are so slow. The fact that he
+really only has one doesn't help much, either. There is one interesting
+thing to note, however. Many guides say that each one is designed
+specifically for each of the flamingo stances. That's just putting a
+further handicap on these babies. Now don't get me wrong... about all these
+are good for is sailing past the first two or three CPU opponents, but take
+a look at tenstring #1. Does that f+3 look familiar? It should, because
+that's the command for the Cheap Shot in RFF! Remember that about any move
+you do out of the Cheap Shot can string quickly and effortlessly. So, then,
+you start tenstring #1 from RFF instead of LFL and you get an automatic
+extra hit that brings this combo's damage up to 100%! Try it. You'll like
+it.
+    Unfortunately, the same can't really be done with tenstring #2, since
+the f+4 Doggie Lift in LFF has a bit of a lag time, but it still is useful
+for initiating the combo.
+
+ADVANCED STRATEGY
+
+PLAYING ON OFFENSE
+
+    -FOOT GAMES
+
+    "Foot games" is just a term for basic mixed offensive and defensive
+maneuvers. Usually it's a pretty abstract thing, but for purposes of this
+guide, I'll take it to include things like: get in/get out, zoning, and
+annoyance tactics. Hwoarang was made as a very zone-specific character, so
+you have to be able to use these tactics to keep the amount of space that
+you want between you and your opponent at all times. This is the key
+ingredient in controlling any match. First, get in/get out is simply the
+use of movements, dashes, crouch dashes, attacks that travel (move you in
+a direction) well, etc. Like it's name, you want to keep some distance from
+your enemy, usually staying just outside of the range of his attacks. With
+Hwoarang's speedy backdash, this isn't too hard most of the time. When your
+opponent leaves himself open after an attack or while moving at you, you
+quickly move in and hit with a power move or a launcher and juggle. Then,
+depending on how things are going, you can dash back out of range or stay
+in close and get on the offense. Zoning is a similar concept. You use moves
+that have a long range and good recovery time (such as d/f+3,4) in order to
+keep your opponent at a specific range from you at all times. In theory,
+you will keep your opponent from being able to attack you effectively,
+while simultaneously keeping yourself at your optimum attack range.
+Annoyance essentially involves using a small set of "cheap" attacks in a
+highly defensive block and counter pattern. The object is to frustrate your
+opponent and force him into making stupid mistakes. You may or may not want
+to play defensively for a while in every match. Just don't turtle too much.
+It pisses people off and leaves you open to throws (or mid attacks if you
+duck). This can work to your advantage, though, as an angry, flustered
+opponent is a mistake-prone opponent. Keep up the turtling, cheap attacks,
+and low pecks, and soon your opponent will be trying something, anything,
+to put you down. He may even keep doing the same move over and over,
+insistent that it must hit you. Once your opponent slips up, it's
+punishment time.
+    Hwoarang's optimum range is usually well outside of throw range, and
+beyond the range of most punches and low attacks. This way, you have a
+chance to get into your RFF or flamingo stance with a degree of relative
+safety, and set up a hard hitting move. Remember that a lot of Hwoarang's
+attacks are slow, so you need to keep your spacing. A simple d/f+3,4 is
+really good for keeping opponents at bay and buying you some time. 4,3 in
+LFF is also good. The first hit goes high and staggers on a counter hit,
+thereby guaranteeing the second hit if you're close enough. It also puts
+you in RFF, ready to follow up with a power strike like f,f+4,3. The
+Firecracker is another good push back tool if your opponent blocks the
+second hit all the time, instead of ducking it.
+    One thing you have to watch out for is having too much space between
+you and your opponent. Sure, it's not always a bad thing, but what if
+you've got the whole screen in between you, 10 seconds left on the clock,
+and you're losing? Of course, run right on in there, but don't just charge
+in with a head ram. Once at a full run, you have a few options. Pressing
+1+2 gives you a lunging dive that causes guard stun if blocked, plus you
+recover upright. If you time it right, you can get off a f,f+2 throw after
+your opponent blocks this. Pressing 3 gives you a jump kick which, while
+blockable, does as much damage as a shoulder ram, plus it's a lot harder to
+stop. Pressing 4 gives you my favorite, the running slide. No one ever
+seems to expect this. It doesn't do much damage, but it will knock down
+your opponent. Just be careful, as you end up on the ground whether it
+connects or not. Finally, there's the sidestep. During your run, tap back
+to stop (this isn't necessary if you started running from within tackle
+range). Then quickly sidestep at the last moment. Hopefully your opponent's
+counterattack will whiff, leaving him open for a throw or combo. Using the
+flamingo double sidestep and crouch dash flamingo sidestep tricks works
+really great here.
+
+    -POKING
+
+    Poking is an absolutely essential part of a good strategy in Tekken.
+Most of the time, you'll want to keep your opponent out of poking range,
+but when that fails, you have to be able to beat him at his own game.
+Poking correctly will prevent your opponent from getting his more powerful
+attacks out while you're up in his face. Hwoarang's best tools for this are
+his basic punches, his front kick (d/f+4), the Body Blow, Home Surgery, and
+the Rejecter. His basic right and left punches are fast enough to often
+snuff out attacks before they come out fully, plus his left jab can chain
+into his other strings. The front kick has very good range and speed, about
+as fast as the Body Blow. Overall a great pecking tool that is way underused
+by most players. Home surgery hits high twice, then low, then high again,
+and the fourth hit is guaranteed if the third one connects. If your opponent
+gets wise to this, you can either change up to the Rejecter, which goes high
+twice and then mid, or do 1,1, d/f+3,4. With this you're cancelling the Home
+Surgery after the two punches, and then going into the Public Enemy for two
+mid hits, which will hit your opponent if he tries to crouch and block the
+third hit of Home Surgery. You can also go into the Rejecter and Rejection
+strings without doing the first hit (1). When you do this (2,3 or 2,4), and
+the 2 connects as a counterhit, the kick that comes after it is guaranteed.
+This can make your 2,4 attack deadly against an up close, aggressive
+opponent. Whenever you connect with these attacks, you can follow up with
+the Body Blow for a chance at additional damage due to it's rather long
+range. Mix these attacks up often with a few liberally placed sidesteps to
+confuse your opponent, and you should be able to hold your own at close
+range.
+
+    -THROWS
+
+    Hwoarang has some of the kuhlest looking throws in the game, so flaunt
+them! His throw range is actually pretty good for someone who uses his feet
+all the time. When you're at close range, try to anticipate your opponent's
+attack, then sidestep and go for a throw. You may be surprised how often
+you can score side throws this way, especially against Heihachi, who has a
+lot of moves with a very long windup time and poor tracking ability. On top
+of this, getting thrown more than once per round gets to everyone at least
+a little bit, so add this to your annoyance tactics. One cheap pattern I
+found is using the Leg Hook Drop (d,D/B+1+3). An overall good throw to
+begin with because it requires two buttons to escape, the Crippler is
+guaranteed after this... but try delaying it a second longer. If you time
+it right, you can hit your opponent with the Crippler as they are doing
+their getting-up attack. This of course means major counter... and I do
+mean major! Done correctly, your opponent will instantly be brought to
+their feet and turned almost completely around, with a huge delay before
+they can move again. Two words: back throw. This is guaranteed both to hit
+and to piss off even the most even-tempered player, but what do you care?
+You just took off about 60% of your opponent's life bar! To make matters
+worse (for your opponent, that is), after the back throw, the Crippler is
+once again guaranteed... but, delay it for just a second longer and... well,
+you get the picture ;)
+    Another trick that may be of limited use to you is the act of delaying
+throws. It's a little-known fact that with throws that require directional
+input to execute (in this case, f,f+2 , d,D/B+1+3 , and QCB+3), the button
+press can be delayed for about a half second after the directional command
+is performed. This is due to the new control buffering system in Tekken 3,
+which I'll get back to later. Now, ordinarily, this is of little use, but
+when the opportunity arises, it can be a very handy trick, indeed. The most
+apparent application is with f,f+2. Normally, doing this move causes you to
+jerk slightly and go for a grab. Delaying the button press, however, will
+cause you to make a small forward dash, thanks to the f,f motion, thereby
+greatly increasing the range of this throw from just outside of jab range
+to just outside of kicking range. I actually find myself using this move
+and it's crouch dash variation (explained below) a lot.
+    Now, if we apply this to QCB+3, what happens is interesting. You input
+the QCB, then hold back for half a second. During this time, you are able
+to block high and mid attacks as normal. You can then (while still holding
+back) execute the Doormat simply by pressing 3! Now, the uses for this are
+extremely limited, as you can only block something the speed of a single
+quick jab (and you must retaliate very quickly), but someday, this may win
+a match for you... and when it does, you can say that you owe it all to me!
+    Delaying the d,D/B+1+3 doesn't get you much, because you must press the
+buttons immediately, but if you do delay, you get a low parry. Hey, it's
+something, right?
+    In order to maximize your chances of getting a successful special
+throw, you can try doing QCB+1+3. What happens is that you're actually
+inputting the commands for the Pickpocket, Leg Hook, and Doormat all at
+once. This way, you're bound to get one of the throws off. Of course, it
+means you end up with a kind of pot luck on which throw it will be, but if
+you're a big fan of the Doormat like I am, this can help cover for messing
+up it's command input. A bit of insurance, you could say.
+
+    -MORE CROUCH DASH TRICKS
+
+    I decided to put this here instead of with the other section on crouch
+dashing because this stuff is a little harder to implement and not quite as
+necessary to playing Hwoarang. I actually got the idea of the crouch dash
+buffer (which this section is based on) from slikatel's Jin Guide (truly
+fascinating reading for any character and play level), and decided to try
+to apply this principle to Hwoarang. With this, you can bring out moves
+whose controller input ends with "f" (Rolling Jawbreaker, Spinal Tap,
+Torpedo Kick) from a much farther range than usual. Believe me, this comes
+in handy quite often.
+    Basically, you'll want to do a crouch dash, but when you roll through
+the d,d/f portion, continue up to f. This is hardly any different from the
+regular crouch dash, but it makes all the difference. You then quickly tap
+forward once, and either hit 2 for the Rolling Jawbreaker, 3 for the Spinal
+Tap, or 4 for the Torpedo Kick. This is really great, because it means that
+you can initiate an attack from well outside your opponent's attack range.
+Use the Rolling Jawbreaker if your opponent sees you dashing in and decides
+to block or reverse an anticipated Skyrocket. Crouch dashing into Spinal
+Tap is great for playing wake up games with an opponent that has been
+knocked down and is out of range of your normal kicks, and since the crouch
+dash acts as a kind of delay, your opponent will likely stand up right into
+the hit. At max range for the crouch dash/Torpedo Kick, you could've run in
+and tackled your opponent, it travels that far! Of course, if it connects,
+you still end up fully behind him for a potential juggle.
+    To review, the motion is f,N,d,d/f,f,f+2_3_4. Almost like doing the
+crouch dash, and then hitting forward once.
+    Going back a moment to Hwoarang's poking attacks, it is also possible
+to initiate the Rejecter, Rejection, Home Surgery, and Public Enemy from a
+crouch dash. For the first three, simply do the motion as explained and end
+with f+1, and then the rest for whichever string you want. Of course with
+this, it's impossible to do just 2,3 or 2,4, but the surprise factor can be
+worth it. to do the Public Enemy from a crouch dash, you must do the dash,
+then tap forward, then quickly tap d/f+3,4. this is kinda hard to get off
+in a heated battle and isn't particularly useful, but I'm trying to cover
+all my bases here. Mix these up with the Skyrocket, Ecoli, Spinal Tap, and
+Torpedo Kick for mid and high hits, the Rolling Jawbreaker when they get
+defensive, and the double flamingo sidestep for jinking, and you've got
+yourself a crouch dash arsenal your mother would be proud of.
+
+    -CUSTOM STRINGS
+
+    Custom strings, basically, are attacks that are thrown out one after
+the other in an order so that they come out quickly and are hard to defend
+against. The object is to try to attack several areas of your opponent's
+body in quick succession in order to confuse your opponent into blocking
+the wrong way. These can be very effective when used carefully, but beware
+of your opponent recognizing a pattern in your attack. Hwoarang's strength
+in custom stringing is not so much from mix ups, since he has very few low
+attacks, rather, it's in his ability to "bait and switch", so to speak. A
+simple example of this that we've already seen is 1,1, d/f+3,4. The 1,1
+makes an observant player think you're going to follow up with the rest of
+the string, and they duck to block and avoid the low and high hits that
+they think are coming. Instead, they may get nailed by the d/f+3,4, which
+goes mid twice. Most of his customs make use of parts of his tenstring,
+either for it's first few quick hits or to fool your opponent into thinking
+that you're going to do the entire tenstring.
+    When making a custom string, you want to look for moves that come out
+quickly and have a good recovery time. It's also preferable that they move
+you forward some, although it's not exactly required. Here's some examples
+of moves that fill these requirements:
+
+LFF:                     LFL:
+  1,1                      1
+  1,2                      2,2
+  f+2                      d+4
+RFF:                       f+3
+  2,1                    RFL:
+  f+3                      2
+  4~f                      1,2
+ANY:                       d+3
+  WS+4                     f+4
+  WS+2
+  d+1
+  d/f+1+2
+
+    As you can see, Hwoarang doesn't have much variation in the attacks
+that he can use in this situation. What he does have, however, is the
+ability to change stance with some of these attacks in order to bring out
+other ones. Usually, these will be mixed in with some of his other staple
+attacks in order to switch up on his opponent. Now let's take a look at
+some possible custom strings:
+
+LFF:
+  3,3,[3],4,2,f+3,d+4,WS+4,4
+  3,3,[3],4,2,f+3,2,d+1,WS+2_WS+4,4
+
+    Of these, you'll notice that both can be initiated from RFF either by
+replacing the first 3 with f+3 (in which case, the optional [3] is
+required), or by starting from the f+3 later in the string. The first of
+these strings is quite useful because the d+4 is a knockdown sweep that,
+while slow, can catch your opponent off guard. If your opponent blocks the
+d+4, you can go into a d+1,WS+2_WS+4,4 and continue with f+3.
+
+LFF:
+  3,3,[3],4,2, 3,3
+  3,3,[3],4~f, [1],2,3_4
+  3,3,[3],4, 4
+
+    The object here is to feign weakness and entice your opponent into
+attacking at a certain point, in this case, right after the 2 in the first
+string, after the 4~f in the second, and after the first 4 in the third
+string. This first string is one time that the Teaser combo has some sort
+of surprise element going for it. In the second string, the 4~f should leave
+you in LFF, unlike the regular 4, which leaves you in RFL. In the third
+string, there's a small pause between the two right kicks. This way, if
+your opponent attacks, the last kick will hit as a counter and cause a
+stun.
+
+LFF:
+  f+2,d+1,WS+4,4_WS+2
+
+    Just a simple string that pokes a bit and can end with either the
+Tsunami Kick or a launching uppercut.
+
+RFF:
+  f+3,2,2,3,4, 4,4
+  f+3,2,2,3,4, 4,3
+
+    These are examples of using parts of Hwoarang's tenstring in a custom
+string. The usefulness of these two is limited, but can sometimes fake out
+an opponent by ending with power hits instead of letting them break the
+tenstring.
+
+RFF:
+  f+3,2,2,3, 1_2_3_4
+  f+3,2,2,3, u/f+4
+  f+3,2,2,3~B, 3~4_b+3_b+4
+
+    Again, feigning weakness applied. The object here is to end the
+tenstring at the fourth hit, which leaves your back to your opponent.
+Using the first example, when the opponent attacks, they get hit by your
+fast turn around punch, or, preferably, a kick. The second string is the
+same principle, although a bit riskier because the u/f+4 comes out a little
+slower than a standing attack. On the other hand, the payoff is well worth
+the risk, because u/f+4 while your back is turned can launch your opponent!
+Use this and you can follow up with a good juggle to really mess your
+opponent up! With the third, you turn your back, then hold back to continue
+to turn around completely. This puts a little space between you and your
+opponent for the next move. You can follow up with the Backlash, Nose
+Bleeder-Left, or the Misdemeanor. As a plus, the Misdemeanor has a built in
+hopping sidestep to help you avoid attacks, and if the Nose Bleeder connects
+as a counter hit, it turns your opponent's side to you.
+    Remember, also, that any of these RFF strings can also be done from LFF
+by replacing the f+3,2 at the beginning with f+4,1. This is a bit slower,
+but is possible.
+
+RFF:
+  2,1,d+1,WS+4,4_WS+2
+
+    Another simple poke-and-launch string, this time from RFF. You may
+notice that Hwoarang's d+1 doesn't hit low. It actually hits as a special
+mid, so it can be blocked either standing or ducking. The purpose of the
+d+1 is to help avoid your opponent's jab, which would hit high, and, of
+course, to set up the WS move at the end.
+
+LFF:
+  3,3,[3],4,2,f+3,1, f,f+2
+RFF:
+  f+3,2,2,3,4, 4~f,2, f,f+2
+
+    You'll notice that both these strings end with a throw. Right before
+this is a quick recovery punch that causes just enough of a guard stun to
+make this possible. This is the really fun part, cuz it's doubly annoying
+to get pressed by the string, but to then get caught by a cheese throw? No
+self respecting player would take this quietly! The only problem here is
+that the best throw candidate for these strings is the f,f+2, which is kind
+of easy to escape. Your opponent can hit 2 and potentially either interrupt
+your string or escape the throw with one button press. Of course, other
+throws can be used, I just used f,f+2 for this example because of it's built
+in dash buffer. Also, there are many other ways to end strings with throw
+possibilities, but I don't want to make this any more drawn out and boring
+than it already is...
+
+    -INFINITE STRINGS
+
+    Infinite strings are a special type of custom string. As the name
+implies, these are custom strings that can be repeated indefinately with
+little or no break in the loop of moves. Most of what I stated about custom
+strings applies here, so I'll just list a few examples to get this going...
+
+LFF:
+  3,3,[3],4,2, f+3,3,[3],4,2, f+3...
+
+    This is the most common type of infinite. As you can see, it starts
+with a few machinegun kicks, goes to RFL, then a punch to switch up to RFF.
+after this, the Cheap Shot to go into the LFL cannon kicks and start the
+loop all over again. Against an opponent that has no reversal or high/mid
+parry, this can be a ridiculously unfair pressure tactic, especially on an
+arcade machine that has guard damage enabled. You'll also notice that there
+are a few changeups lurking in this string. The [3] can be replaced with
+d+3 to add in a low kick, the f+3,3 can change into any of the LFL attack
+options, such as f+3,1, f,f+2 for a throw, or f+3,2,2,3,4... to go into the
+tenstring. After the 4, you can either hit 3 for a Step Kick, or delay and
+hit 4 for the Right Stopper, which stuns on counter.
+
+LFF:
+  f+4,2,f+3,1, f+4...
+
+    This one is simpler, but has a few flaws, First, the whole thing hits
+high, making a changeup essential here. Second, the f+4 has a slight delay
+in which your opponent can counter. On the plus side, though, it's not too
+hard to buffer chickens for the attacks in this string as long as you've
+got a handle on button and chicken buffering. Usually you'll want to switch
+up at f+3 with something like d+3 or d+4, or even f+3,1, f,f+2.
+
+LFF:
+  d+1,WS+4,4, 2,1,1, d+1...
+
+    This string is a good overall chageup that relies on poking attacks to
+chip away at your opponent's energy. Doing the d+1 helps you avoid high
+attacks and hopefully stop any mid or low attacks that your opponent throws
+out. You can also go into the Cheap Shot after the WS+4,4 or after WS+4,2
+or WS+4,4,2,1. This, of course, leads to many of the other custom and
+infinite attack options.
+
+    There really are a ton of custom and infinite string possibilities
+available to you at just about any given time. Too many, really, for me to
+list them all here. This is another example of how absolutely essential it
+is to have a thorough grasp of Hwoarang's stances and stance changes, so
+that you can basically throw out massive barrages of kicks at your opponent
+at any time. Just keep trying out anything you can think of, and remember
+to utilize the power and fast recovery of the Cheap Shot, and change up
+often.
+
+    -WAKE UP GAMES
+
+    This is a term used both offensively and defensively to describe what
+you should do when you knock your opponent down, or when you yourself have
+been knocked down. Of course, the object here is to knock your opponent
+to the ground and then keep him there. It's cheap, yeah, but it's a
+necessary skill. Besides, when was the last time you saw two people
+fighting, one falls down, and the other one actually lets him get up? The
+first thing to know here is your ground attacks: those moves that can hit a
+downed opponent. Hwoarang's wake up game, though not as good as Jin's,
+Nina's, King's, or Xiaoyu's, can be absolute murder when played correctly.
+    First on our list here is the simple D+3. This sweep is good overall,
+but we need variety. From RFF you have your Chainsaw Kick, the second hit
+of which is a pretty powerful ground hit, plus it's a bit of an infinite
+string in itself. You should try to tack this on whenever you find yourself
+in RFF. The Crippler is another excellent choice if you're close enough.
+It's often really easy to toss this in after a knockdown. The first hit of
+the Firecracker has good range, but not much power. It does, however, have
+another distinct advantage (this is where the fun really starts): If your
+opponent is in the process of rolling toward or away from you, you can bust
+out both hits of the Firecracker, and if the first part hits, the second
+will connect! Unfortunately, you can't juggle off of this unless you catch
+your opponent actually doing his getting up attack, but it does knock your
+opponent back to the ground, allowing you to start your wake up game all
+over again. Another move that works in a similar way is the Spinal Tap. I
+just love putting the smack down with this after a good juggle because it
+will hit your opponent if they do just about anything but lie there. It
+does great damage, but puts you at some risk of retaliation, since they can
+block it if they get straight up, or avoid it altogether if they quick
+rise. This brings us to the big granddaddy of all ground hits: the Dynamite
+Heel. If your opponent doesn't quick rise after being knocked down, they
+really put themselves at risk. One of the best times to use this is
+directly after a Hunting Hawk. Against most characters, you have to try to
+stay out of range of their low and mid kicks, so be careful. Kuma and
+Panda, however, have a real hard time stopping this because of their short
+legs. It's actually pretty safe to do this if you know you are just outside
+of your opponent's rising kick range, because in that case, their only
+options are to roll back to try to avoid the hit, or roll forward to try
+and hit you out of it... and that takes balls. Incidentally, the Hunting
+Hawk is another great tool for wake ups. It brings you off the ground,
+thereby neutralizing low sweeps, and it'll send 'em right back to the
+ground if it hits. Try running up to a downed opponent to bait them into a
+sweep, then dash back and bust this out.
+
+PLAYING ON DEFENSE
+
+    -SIDESTEP OR BLOCK?
+
+    This is a tough call. Most of the time a beginner will be stuck
+blocking almost everything, but I don't need to go into the possibilities
+of a good sidestep again, so just keep trying stuff. You'll want to be at
+least a little familiar with your opponent's moves and general fighting
+style. It's a little ironic that sidestepping is more effective against an
+aggressive opponent, but also harder to perform under pressure. Avoid
+trying to sidestep moves that swing in at an angle, like Bryan Fury's f,f+3
+Slash Kick. These types of moves will catch you unless you block. Rather,
+you should try to sidestep attacks that move forward and have poor tracking
+ability, like Nina's 1,2,1,2 jab strings. Obviously, it's a very bad idea
+to try to sidestep an aggressive Eddy player, because his constant movement
+enables him to remain facing you almost all the time.
+    Try to anticipate what your opponent will do, and weigh the risk vs.
+payoff factors before trying anything. Also, remember that the closer you
+are to your opponent, the more you wrap around him when you sidestep.
+Again, closer = more risk = more payoff. Use the crouch dash flamingo step
+as a workaround for this so you can close distance quickly and step around
+your opponent.
+
+    -LOW PARRY
+    
+    "So what?" you may think. This seemingly useless little thing can
+actually be your best friend in a tight situation. Sure, it's only good for
+low attacks, but that only equals surprise on your side. I swear no one
+ever sees this coming. There are some ways that I actually think these
+parries are better than true reversals. For one, they can't be chickened,
+so the parry is final. Second, you can parry elbow and knee attacks, which
+can't be reversed. Third, if you plan ahead, you can get a lot of damage
+off for one little parry. It's possible to pull off a Firecracker,
+Skyrocket, Ecoli, or Flying Eagle after a successful parry, and all those
+usually do at least as much damage as a reversal, plus the juggle
+possibilities. It's important to note that after parrying a low kick, the
+Skyrocket is guaranteed. This doesn't work against low punches though,
+since a punch parry only pushes your opponent aside, while parrying a kick
+throws your opponent off balance for a moment. After parrying a punch, you
+can try to use Public Enemy (d/f+3,4). If your opponent tries to interrupt
+your attack while you have the initiative, you'll likely get a counter hit
+on the first kick, which guarantees the second.
+    The trick to making parries work for you is knowing your opponent's
+moves and their timing. It's not a good idea to try to parry an attack
+right out of the blue, unless you're sure that your scrub pattern playing
+opponent is going low next. The best time to use a parry is in longer
+strings in which you know the next hit is going low. A perfect example of
+this is Jin's Spinning Demon (u/f+4,4,4,4). This goes high, low, low, mid
+and everyone knows it. Why not take advantage of the fact and parry one of
+those low sweeps? Add a quick follow up power hit, and you're in business.
+    Of course, you shouldn't try to parry everything that comes your way.
+Most low hits are really quick, and therefore hard to anticipate. Others
+you may not want to try because they're part of a large string and you'll
+get utterly spanked if you mess up. Again it's just a matter of timing and
+weighing risk vs. payoff.
+
+    -CHICKEN
+
+    No, not KFC (laugh, dammit...), this is actually the act of reversing
+back at your opponent when they attempt to reverse you, and this is indeed
+tricky business. I'll use an example to illustrate: you throw a punch (RP)
+at Nina, who has attack reversals. She then reverses your attack (b+1+3).
+You quickly hit f+2+4. The result? When Nina grabs your arm, you snap it
+back and punch her in the face, breaking the reversal! This is all well and
+good in principle, but only the CPU has the reflexes to chicken on
+response. What this means is that you have to plan ahead and "buffer your
+chicken". When you do this, your chicken input for that move is stored in
+memory and takes effect if the move is reversed. Taking the above example,
+when you hit 2 to attack, you then quickly hit f+2+4 in anticipation of the
+reversal that you think is coming. The rules are simple: use f+1+3 to
+chicken if your reversed attack was done with 1 or 3, and use f+2+4 if your
+reversed attack was done with 2 or 4. The point is to use the chicken for
+the appropriate side (right or left) that the limb your opponent reverses
+is on. Even though this only works against Paul, Nina, Anna, and Jin's
+reversals, it is nevertheless an important skill to at least get some grasp
+of. This takes insane amounts of practice, but getting it to work will make
+you feel good, so get used to doing it.
+    Now, of course, you can't be expected to buffer a chicken for every
+move you throw out, so you have to try to pick out moves that are easy to
+reverse, such as the Torpedo Kick, Ecoli, Skyrocket, the first hit of the
+Hunting Hawk, the second hit of the Teaser Combo, etc. This can also be
+applied to hits in longer strings, but remember to stick to attacks that
+are easy to reverse when attempting to chicken.
+    You should also remember that you can not chicken King's reversals. I
+don't know why, that's just the way it is... life's rough. Make note of
+this, as King's reversal only works on kicks, so any King player will be
+more than ready to reverse the hell out of Hwoarang. Chickens are also
+ineffective against parrying, although you may want to buffer chickens
+against non reversal characters, just for practice.
+    Lastly, there are certain moves that use more than one button to
+execute, but can only be chickened a certain way (such as d/f+1+2). Here's
+a list of the moves of that type Hwoarang has, and the correct way to
+chicken them:
+
+MOVE                   INPUT         CHICKEN WITH
+
+Body Blow              d/f+1+2       f+1+3
+Backlash               RFF 3~4       f+2+4
+Flying Eagle           LFF 3~4       f+1+3 (first hit)
+Screw Kick             RFF f,f+4,3   f+2+4 (first hit)
+Dynamite Heel          d/b+3+4       f+1+3
+Power Blaster          LFL 1+4       f+2+4
+
+    Remember, you have to chicken for the limb that the reversal grabs.
+
+    -ADVANCED CHICKEN TRICKS
+
+    Yeah, I know it sounds strange, and it really is as wierd as it sounds.
+These moves are most likely glitches, but since they're there, you should
+try to take advantage of them. Here's how it goes: after successfully
+chickening a reversed right kick, it's possible to perform a back throw or
+do an attack that will turn your opponent around so that their back is
+facing you. Again, this only works when your opponent reverses one of your
+right kick attacks and you chicken their reversal.
+    To perform a chicken-back throw with Hwoarang, first chicken a reversed
+right kick. As the animation of the chicken is completing, do f,f+2 or
+d,DB+1+3 (other throw moves MAY work, but these are the easiest). If done
+correctly, you will kind of "teleport" behind your opponent and back throw
+them. This really looks funky, because you won't actually be in contact
+with your opponent when you grab them. This trick works against Paul and
+Jin, but doesn't seem to work aganst Nina and Anna's reversals. It also
+won't work against King, since his reversals can't be chickened.
+    To perform a chicken-turn stun attack with Hwoarang, first chicken a
+reversed right kick. As the animation of the chicken is completing, do
+d/f+4 or b+4. If done correctly, you will kick your opponent and they will
+be turned completely around by the hit, pretty much guaranteeing a free
+juggle combo. This is incredibly cheesy, but fun to do. This works against
+Paul, Jin, Nina, and Anna, but not against King.
+    Both of these tricks are really difficult to do, especially during
+match playing. However, you may want to try to get a handle on them,
+considering Hwoarang's heavy reliance on his kicks, especially right kick
+attacks, like the Skyrocket, Grand Theft, and Torpedo Kick.
+
+    -WAKE UP GAMES, PART 2
+
+    This is where it gets painful. At one time or another, we've all come
+up against the "janitors"- types that just sit there and sweep the floor to
+hit you. All your strategy is useless if you've fallen and can't get up.
+Fortunately, Namco thought to add the quick rise system and that little
+jewel, the ankle kick, to the Tekken arsenal.
+    The only time the quick rise works is when you fall on your back, but
+since this is how you fall most of the time, you'll want to try for the
+quick rise whenever you get knocked down in order to keep your opponent off
+your back. Beware, however, as this can backfire if your opponent
+anticipates it. They can nail you with a power move while you're getting
+up, instead of the small kick you would've taken otherwise.
+    Your use of the ankle kick should be kept to a minimum, actually, as
+it's use is pretty specific. It's fast, but it's range is unbearably short.
+Plus, when you use this, you rise automatically afterward, leaving you
+helpless and open until you're fully upright. This gives your opponent a
+free attack of his choice if you whiff. Use this when your opponent is on
+top of you, and you should be fine. Otherwise, mix up the sweep and mid
+kick to keep your opponent back. It also pays to remember that the mid kick
+has a slightly longer range than the sweep.
+    One thing that Hwoarang sorely lacks in his wake up defense is a
+rolling lunge and lunging double kick. The double kick was never that useful
+(except for Paul's and Yoshimitsu's), but the forward lunge allowed you to
+roll out of range of an opponent's keepdown tactics, then leap right back
+at him. Without this, Hwoarang has to actually stay pretty close to his
+opponent if he wants to get off any type of getting up attack. Because of
+this, Hwoarang's wake up defense is slightly limited, so be prepared to
+quick rise!
+
+JUGGLES AND COMBOS
+
+    Now, I hope you didn't just skip past the rest of the guide and come to
+this section looking for some kuhl juggles, cuz that's not what Tekken's
+all about. Your juggles are useless if you never get an opportunity to use
+them. From here on, we'll be dealing with (what else?) juggles and stun
+combos. Juggle combos speak for themselves and can actually say a lot about
+the player doing them. Someone continuously does 3,3,3,3 and 4,4,4,4 after
+every launcher, and you can guess they're probably a scrub. On the other
+hand, you see someone doing impossible stance-switching juggles (even just
+attempting them with some degree of success), and you can likely expect a
+good fight.
+    First the stun combos. This is when you hit your opponent with a move
+that stuns them (duh!), either with a double-over or turn stun when they're
+hit, or guard stun when blocked. When this happens, you have an opportunity
+to get off some free hits, which is always a good thing. Unfortunately,
+Namco, in their infinite wisdom, decided to give Hwoarang only one double
+over stun move, so guard stun is what you'll encounter most often. I'll
+assume that you know what's going on with the DS combos, but let me get
+just one thing out of the way. Most of the time you can just follow up with
+some kind of attack to hit your opponent when they begin to fall, but for
+some DS combos (such as RFL+4(C), f+3,1,f,f+4), you have to wait just a
+second before administering the pain. This is because during the first few
+frames of your opponent's falling animation, they are still considered to be
+on the ground. If you were to use the above mentioned combo, the f+3 would
+end the stun with your opponent's feet still on the ground, and he would be
+able to block the rest of the hits as normal. If you wait, however, the f+3
+will kind of hit your opponent into the air, where he'll be unable to block
+the rest of the hits. If you only use guaranteed combos, like f,f+4,3 or
+u/f+3,4,3, then you don't really have to worry about this.
+    Guard stun, turn stun, and stagger combos are a bit trickier. Using
+guard stun requires that you are close to your opponent, because typically
+you'll be going for a throw. An example of this is if your opponent blocks
+your u/f+3,4,3. While they're recoiling from the blocked hits, you have an
+opportunity to get in a f,f+2 throw. If your opponent expects the throw,
+you still have the initiative for the next move after the stun, so you can
+try to follow up eith a D+3 sweep or some kind of quick low attack. The
+important thing here is to not be predictable. If you get your opponent into
+a turn stun, you can follow up with a fast f+3~3 that can't be blocked
+because your opponent's side is to you. An even better follow up to a turn
+stun off of a blocked Misdemeanor or Snap Spin Kick is the Nose Bleeder.
+This has good damage and enough speed to be guaranteed if you're close
+enough. Better yet, when it does connect while your opponent's side is to
+you, it will turn them around so that their back is to you! For example,
+RFF-b+4(blocked),b+3. As for staggers, the most common one encountered is
+from a non-counter d/f+2. In this case, it's possible to throw in a
+guaranteed f,f+4 Torpedo Kick if your timing is just right. This is the best
+possible follow up because of it's good damage and the fact that you end up
+behind your opponent when it hits. The down side is that this is extremely
+hard to time, and you'll pay dearly if you do it wrong cuz you'll have your
+back to your opponent.
+    It's a very good idea to have a solid (not necessarily large) library
+of juggles committed to memory and practiced through to the point that you
+can do them without thinking about it. Take what you see here, pick out
+ones you like (c'mon, there's got to be a few...), and use them.
+    By the way, although some of these juggles can be escaped by quick
+rising, they all DO work...
+
+- Juggles that can be escaped by quick rising are marked as such.
+
+- "Big characters" refers to Kuma, Panda, Gunjack, and True Ogre unless
+  otherwise specified.
+
+MOVE:                        # OF HITS: DAMAGE:  NOTES:
+
+UPPERCUT- d/f+2(C)_WS+2_f,N,d,D/F+2
+
+    d/f+3,4                  3          40
+    f+4,3                    3          45
+    f+4[pause],4             3          36 [41]
+    1,2,d+4,4                5          38
+    d/f+1,f,f+3              3          47
+    1,1,2,4                  5          40
+    1,1,2,3                  5          39
+    1,1,3,3                  4          37       
+    3,3,3,4, 3               5          58
+
+FIRECRACKER- d+4,4
+
+    1,2,d+4,4                6          58
+    D+1,WS+4,4               5          51
+    d/f+1,1,2,4              6          64
+    b+4,b+3                  4          69       #2
+    1,f+4,3                  5          64
+    f+4,4,d+4,4              6          72       #1
+    b+4,d+4,4                5          71       #2
+    b+4,4,3                  5          72       #2
+    u+3,1,f+4,3              6          70
+    u+3,1,f+3~3              5          59
+    u+3,1,f,f+4              5          65
+    u+3,1,d+4,4              6          70       
+    u+3,1,3~4                6          69
+    u+3,1,4,4,4,4            7          72       big characters only
+    b+4,f+3, 4               5          75
+    f+2,1,4,3                6          62
+    f+2,1,f+3, 4             6          76       #3
+    f+2,b+3,d+4,4            6          70       #4 big characters only
+    f+4,2,f+3, 4             6          77
+    3,3,3,4, 3               6-7        74
+
+GRAND THEFT- (RFF)f+4~4
+
+    4,4                      3          45
+    1,4,3                    4          43
+    2,1,d+4,4                5          44
+    f+3,3,3,4, 3             5-6        70-80
+    F+(3~3)                  3          48
+    2,1,f+3, 4               5          55
+    f+3,b+3                  3          60
+    b+3,f+4,3                4          63
+    f+3,1,f+3~3              4          59
+    f+3,1,d+4,4              5          60
+    f+3,1,f+4,3              5          70
+    f+3,1,3~4                5          78
+    f+3,1,4,4,4,4            6          73
+    f+3,1,f,f+4              4          69
+    f+3,1,1,2,4              6          69
+    f+3,1,1,2,3              6          60
+    4~f,2,f+3, 4             5          62
+    4~f,2,f+3,b+3            5          64
+    4~f,2,b+3                4          52
+    4~f,2,4,3                5          55
+    4~f,2,4~f,3              5          61
+    4~f,2,f,f+4,3            5          66
+    3~4                      2          63       big characters only
+    b+3,f+2,d+4,4            5          66       #4 big characters only
+    f,f+4,3                  3          47
+    2,u+3,4                  4          48
+    f+3, 4,3                 4          69
+    f+3,b+3, d+4,4           5          73       #5 big characters only
+    f+3,b+3, f,f+3           4          85-100   #5 big characters only
+    f+3,b+3, 1,2,3, [f,f+3]  5-6        75-112   #6 True Ogre only
+
+SKYROCKET- f,N,d,D/F+4
+
+    u/f+3,4,3                4          56
+    3~4,d+4,4                5          67
+    3~4,b+4                  4          63
+    f+3, 4,3                 3          54
+    f,f, u+3,4,3             4          67
+    f+2,1,4,3                5          53
+    f+2,1,4,4                5          56
+    U/F+4,f,f,1,1,2,4        6          62
+    U/F+4,3,3,4, 3           6          68
+    U/F+4,d/f+1,d+4,4        5          60
+    U/F+4,3~4                4          67
+    U/F+4,f+4,3              4          65
+    d/b+3+4                  2          60-70    #1
+    f+4,1,4,f+4              5          62
+    f+4,1,1,2,4              6          66
+    f+4,b+4                  3          58
+    f+4,2,4,3                5          64
+    f+4,2,4,4                5          65
+    f+4,2,f+3, 4             5          70
+    f+4,2,f+3,b+3            5          73
+    f+4,2,u+3,4              5          67
+    f+4,2,f+3,3,3,3          6          73
+    f+4,2,f,f+4,3            5          68
+    3+4,3~4                  2          66<72>
+    3+4,f+3, 4,3             4          73
+    F+3+4~f+3, 3,3,3         5          75
+    F+3+4~f+3, 3,3,4, 3      6          82
+    3+4,f+3,3,3,4, 3         5          74
+    3+4,f,f+4,3              3          48
+    3+4,f+4~4,4,3            4          55
+    3+4,f+4~4,4,4            4          58
+    3+4,f+4~4,d/f+3,4        4          57
+    3+4,f+4~4,4~f,3          4          57
+    3+4,f+4~4,b+3,d+4,4      5          67       #1
+    3+4,4~f,2,f,f+4,3        5          69
+
+MACHINEGUN KICKS- 3,3,3,3
+
+    3,3,3,3                  8          95
+    3,3,4, 3                 8          101
+    4,4,f+4                  7          89
+
+RIGHT STOPPER (STUN)- RFL+4(C)
+
+    d/b+3+4                  2          77
+    f,f+4,3                  3          49
+    d+4,4                    3          44
+    3~4                      2          74
+    u/f+3,4,3                4          55
+    f,N,d,D/F+4              2          44
+    3+4, f,f+3               2          45       big characters only
+    d/f+3,4                  3          51       wait for opp. to fall
+    4,4                      3          45       wait for opp. to fall
+    4,3                      3          50       wait for opp. to fall
+    f+3, 4                   3          54       wait for opp. to fall
+    f+3,1,f,f+4              4          62       wait for opp. to fall
+    f+3,1,d+4,4              5          59       wait for opp. to fall
+
+ON THE GROUND SWEEP- 3 WHILE FACE DOWN, FEET TOWARDS OPPONENT
+
+    WS+4,4                   3          27
+    WS+4,d/f+1,d+4,4         5          35
+
+CUTTER SWEEP FLOAT- LFL-d+4_RFL-d+3
+
+    WS+4,4                   2-3        31
+    d+4,WS+4,4               3          34       #1
+    WS+4,d+4,4               4          42       #4 big characters only
+
+REVERSE JUMP KICK- (BK)u/f+4
+
+    f+4,3                    3          52
+    u+3,2,d+4,4              5          57
+    u+3,1,f+3~3              4          54
+    3,3,3,4, 3               5          60
+    4,4,4, 3                 5          56
+    - Most Firecracker juggles work after the (BK)u/f+4.
+
+ 1: These juggles are escapable by quick rising even if done correctly.
+ 2: These juggles will not work if the Firecracker hits as a counter.
+ 3: This juggle will not work if the f+2 flips your opponent to face down.
+ 4: These juggles are -not- escapable if done correctly (your opponent
+    should be flipped over during the juggle).
+ 5: With these juggles, do the f+3,b+3 as early as possible so that it
+    flips your opponent, thereby guaranteeing the last hits. These work on
+    Kuma, Panda, and Gunjack, but will not flip True Ogre.
+ 6: With this juggle, do the f+3,b+3 as early as possible and immediately
+    go into the 1,2,3 (the 2 will whiff). One of these last two hits should
+    flip True Ogre, thereby guaranteeing the f,f+3 ground hit.
+
+IN CONCLUSION
+
+    Well, I hope this guide has been of some use to you... lord knows I
+spent a lot of time on it. I guess this is the part where I leave you with
+some deep thought to ponder for a while. Okay, I can do that! Here it is:
+PRACTICE! Nothing in this guide can replace the actual experience of
+learning by doing and being done upon. What I've put here should be used as
+the ground work for designing your own personally tailored style of play.
+Just remember to try to stick to your strengths, and try new ways of doing
+things whenever possible. Always try to take advantage of every situation,
+and never give up a fight until you see a big K.O. on the screen.
+
+CREDITS
+
+First off, I'd like to thank my girlfriend, Monica, for always being there
+for me, for always putting up with my Tekken habit, for never failing to
+make fun of Hwoarang whenever I pick him, and for playing a pretty mean Lei
+Wulong...
+
+I'd like to thank all my co-workers at Electronics Boutique, for giving me
+the inside track (remember when they said Tekken 3 on PSX couldn't be
+done?), and for giving me a job close to an arcade. "Yallgoddattekkenthree?"
+
+Kitana, for agreeing to post this on her site. Check it out... it rocks:
+   THE ALTAR TO HWOARANG
+   http://www.geocities.com/TimesSquare/Arena/7917/index.html
+
+Everyone from the Tekken Web Project and Tekken.net, the Faceless Master,
+1TruKing, Precision, and all the gamers whose strategies, insights, and
+faqs helped me become a better player (and inspired me to write this...)
+
+Tragic and Slikatel, for making the best damn Tekken 3 guides available
+anywhere... and for free! Too bad about Tekken.net, though...
+
+Teemu Nuutinen (hope I got your name right ;) and Red Smoke, for all the
+feedback, correspondence, and juggles. I hear that Red Smoke has a Hwoarang
+guide out also, so check it out... I command it...
+
+Special shout out to Aoi, for being tha crack-fiend-like psycho-jugglin'
+maniac that he is... good luck in the Army, man. "I am... in a world...
+of shit..." Sorry, a little Kubrick humor there...
+
+Finally, to Darren, Rick, and Dan, who, for the past year, have been the
+ultimate sparring partners. You guys taught me many things: the value of a
+well timed sidestep, throws for offense and anti-throw tactics for defense,
+and the unspeakable horror of the Rolling Death Cradle! Death should be
+savored like fine wine, indeed...
+
+We should all do it again sometime...
+
+
+IF YOU HAVE QUESTIONS...
+
+... or if you've got a good juggle, or just want to bitch me out for not
+doing a Paul faq or something, just e-mail me. That's gargoylesox@juno.com
+
+
+
+
+
+cut the words and wave goodbye and drop off the edge of the world...

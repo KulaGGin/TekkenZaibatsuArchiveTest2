@@ -1,0 +1,1922 @@
+     _______ __            _______                _______ __               
+    |_     _|  |--.-----. |    ___|.-----.--.--. |     __|  |_.-----.-----.
+      |   | |     |  -__| |    ___||  _  |_   _| |__     |   _|  -__|  _  |
+      |___| |__|__|_____| |___|    |_____|__.__| |_______|____|_____|   __|  
+                                                                    |__|
+
+                            ...and other BT stuff!
+
+
+
+==============================================================================
+    TEKKEN 3 / TEKKEN TAG TOURNAMENT / TEKKEN 4: Fox Step & BT Miscellany
+==============================================================================
+
+
+                             v. 4.00  |  2002.08.05
+                  by Triple Lei <TripleLei -- at -- tekken.cc>
+                   formats: PlayStation, PlayStation2, Arcade
+
+
+
+
+This document / FAQ _may_ be reproduced electronically, as long as it remains 
+in its unaltered form.  You may also print it, but, of course, you _may not_ 
+make money off of this - even if you _do_ give credit!  That doesn't make it 
+any more moral (or legal), folks!
+
+      I want to take this time to humiliate EGM and Game Cave once more:
+                               "This means you!"
+
+This document Copyright 2002 Justin Sison.  This is dedicated to Kao Megura, 
+who, after 5 Megs or so of FAQs, has retired from FAQ writing.  I can't blame 
+him, though... certain magazines and mail order stores are making blood money 
+off his fine work, and he always gets the short end of the stick.  Go to his 
+homepage for more on that... http://i.am/kao  (which is now closed...)
+
+
+Current versions of this FAQ can be found at:
+
+- My forum sig!  LMAO omg... lolol... yeah.
+- http://tekken.underactive.net
+- http://www.tekkenzaibatsu.com
+- http://www.tekkenmania.com
+- http://www.electriccancel.com (maybe)
+
+
+How the version number is calculated:
+
+- Minor editing at one point in time . . . . . . . . . . . . . . . .  + x.x1
+- One or many subsections added: . . . . . . . . . . . . . . . . . .  + x.10
+- FAQ overhaul or new section(s) added:  . . . . . . . . . . . . . .  + 1.00
+                                                    (reset to whole numbers)
+
+
+
+             _   _           _       _       _   _       _       _
+            | | | |_ __   __| | __ _| |_ ___| \ | | ___ | |_ ___| |
+            | | | | '_ \ / _` |/ _` | __/ _ \  \| |/ _ \| __/ _ \ |
+ *********  | |_| | |_) | (_| | (_| | ||  __/ |\  | (_) | ||  __/_|  *********
+             \___/| .__/ \__,_|\__,_|\__\___|_| \_|\___/ \__\___(_)
+                  |_|
+
+  Yeah hi,
+
+  This will be the last update before I totally rewrite the entire FAQ, again.
+  The next update will feature every type of BT move or feature, for every
+  character, in every game.  As for how the heck I'm ordering the characters:
+  I'm going to have to go with alphabetical order (with "Ling Xiaoyu" being
+  near the end; when the game lists her name as "Ling" then I'll put her in
+  the "L" section, dammit!!).  This also means the character who started this 
+  section, Hwoarang, will no longer be first, but I'm hoping you're at least 
+  as smart as a monkey and know how to use the Find fuction.  I had originally 
+  decided on some other order, since in the long run, new characters in new 
+  games would cause me to reorder the sections if done alphabetically... but 
+  in the long, LONG run, it would be easier alphabetically, since it -is-, 
+  after all, alphabetical.  And that's that.
+
+  Oh, and for the majority of you, this will be the first time you see this
+  FAQ, as previous versions have not been posted on Zaibatsu.  Those who 
+  really wanted to know asked around and eventually got a direct link from my 
+  site (and that's fine), or were told to check out JustFrame.com.  I thought
+  it was the ideal way, rewarding the dedicated and enthusiastic learner, but
+  I decided to "publicly" release my FAQ (on Zaibatsu) because:  1) people
+  just can't find the FAQ,  2) other people answer "Fox Step!?" titled threads, 
+  most often incorrectly, and  3) when answered by others, correctly or not, 
+  no credit is given to me - which could make it seem like that -other- person
+  "invented" it or something!  And that's bad, because as deftones14 had said, 
+  I am the "Fox Step Master."  
+
+                                     - Triple Lei (Fox Step Master, 10th Dan)
+
+  P.S.  Watch for a Tekken 4 Hwoarang FAQ co-written by deftones14 and myself!
+
+
+
+=================
+TABLE OF CONTENTS
+=================
+
+ 1.  INTRODUCTION
+ 2.  CHARACTERS
+      - 2.1   Hwoarang
+      - 2.2   Xiaoyu
+      - 2.3   Lei
+      - 2.4   Jin
+      - 2.5   Law 
+      - 2.6   Yoshimitsu
+      - 2.7   King 
+ 3.  MOVIE TRANSCRIPTS
+      - 3.1   Tekken Dance Transcripts
+      - 3.2   SD TeKKeN Transcripts
+ 4.  MISCELLANEOUS
+      - 4.1   Things to do
+      - 4.2   Rantings
+ 5.  LINKS
+ 6.  THANKS
+ 7.  REVISION HISTORY
+
+
+
+==============================================================================
+ 1.  I N T R O D U C T I O N
+==============================================================================
+
+  I'm just making this FAQ since everyone keeps asking me how to do it! :O
+  MAJOR THANKS to KOFTEKKEN...  Hwoarang's instant RFF cancel (via u/b~N) was
+  known at this point, but no one else had apparently thought of doing it
+  while BT!  Of course from this point it is easy... just a quick dash (f,f)
+  as soon as you switch into RFF and you dash!  But that's just the beginning;
+  there's plenty of crazy, cool, and otherwise pointless stuff you could do 
+  with it!  Amaze your friends and make some new ones, and see if you could 
+  get away with it in a tourney...!  If you're a Hwoarang player like me, you 
+  WILL use it whenever you can!
+
+  (oh yeah, Lei and Xiaoyu have it too with b+3+4~f,f, but who cares)
+
+
+  Before you read any further, let me stress these things:
+
+- BT = BK... although I had originally made "BT" the official "back torwards
+  / back turned" notation standard (and with good reason; BK was first used 
+  in tragic's Tekken 3 manual), I decided to use BT because it's also used 
+  in Virtua Fighter and probably in Soul Calibur, too.  There's no real need 
+  for multiple standards. 
+
+
+- LFS = LFL... erg, this pisses me off.  Admittedly, tragic's Tekken 3 Manual
+  uses "LFL" (as do Catlord's Tekken move lists), but seriously... is "stance"
+  not a word?  And are we going to say "LFO" because "FO" = "Foot"?  Pfft.
+  And besides, Castel uses LFS!  Take THAT, tragic!  Cursed "Bob" originator!
+
+
+- When you are in a BT position, and the notations say "f,f", I mean two taps
+  toward RELATIVE TO YOUR OPPONENT.  This also applies for the u/f~N thing.
+
+
+- When you are in a BT position, and the notations say "LFF", I -mean- the LFF
+  stance, even though your -right foot- is closer to your opponent!  I say
+  this because you can easily identify "LFF" and "RFF" if you pay attention to
+  his arms. 
+
+
+- Sometimes I may write "simplified" notations.  This has to do with the 3+4
+  stance switch into Fox Step.  If you see "simplified," it means you should
+  already know what's buffered and where.
+
+
+- No, I did NOT come up with the term "Fox Step" (only "Reverse Fox Step"), 
+  and NO, the Fox Step has nothing to do with Steve! :annoy:
+
+
+  *NEW: TEKKEN 4 NOTES* (mostly from my Zaibatsu post):
+
+  BT u/b~N to cancel RFF into LFF no longer works.  Kinda.
+
+  Back in the TTT days, KOFTEKKEN said to hit u/b~N to cancel RFF into LFF. 
+  I've then realized it cancels because you're really supposed to be doing the 
+  huge U/B jump (thus putting you in LFF for a brief moment for that universal
+  "jump" animation), but since you hit N rather quickly, you stay on the ground.  
+  Of course, U/F (and from there, u/f~N) would work too; same principle, but 
+  opposite directions... not that it would matter if you just went for the 
+  cancel. 
+
+  In T3 & TTT, you could do both u/b~N and u/f~N, both facing forward and 
+  while BT.  Personally, I did u/b~N on 1P side and u/f~N on 2P side (though 
+  it still feels weird on 2P side). 
+
+  In T4, the back jump is removed, which means you can't do the u/b~N cancel 
+  while BT (it still works facing forward).  So to do the Repeating Fox Step, 
+  you must hit u/f~N. 
+
+  Throughout the Hwoarang portion of the FAQ, I will use u/f~N for all games,
+  even though u/b~N also works for T3 & TTT.  This is for:
+  
+  - writing simplicity (for me)
+  - easy backwards compatibility (for you)
+
+
+  *UPDATE: u/b~N to cancel RFF into LFF actually does work, but you can't do
+  anything for about half a second.  It's also harder for some reason.  And
+  although you CAN cancel BT RFF into BT LFF, you CAN'T cancel the RFF dash 
+  into BT LFF!  Point being, don't use u/b~N in Tekken 4 for Repeating Fox
+  Steps!
+
+
+
+==============================================================================
+ 2.  C H A R A C T E R S
+==============================================================================
+
+Universal Stuff ------------------------------------------------------------
+
+  Before you read on, let me post the "universal" BT moves everyone can do, 
+  without buffering from the recovery of other moves, in an effort to reduce 
+  repetition:
+
+
+- Tekken 3:
+
+  1+2+3+4
+  reversals / mid parries
+  taunts (3 buttons, if applicable)
+
+
+- Tekken Tag:
+
+  1+2+3+4
+  2+5
+  reversals / mid parries
+  taunts (3 buttons, if applicable)
+
+
+- Tekken 4:
+  reversals / mid parries
+  taunts (3 buttons, if applicable)
+
+
+Rule of Thumb --------------------------------------------------------------
+
+  When it comes to BT moves, just remember these:
+
+- Moves with "down + two buttons" can sometimes be done without buffering.
+
+- d/b and d/f moves can usually be done without buffering, though everything 
+  must be PRECISE; the input must be one frame for everything!
+
+- qcf-style moves can usually be done by buffering from SOMETHING; jumpover
+  punches (with left punch) can usually work.  Buffering from hit stuns also
+  work for some characters.  f,f-style throws work from here as well.  You
+  can do d,D/B-style throws without buffering, but it is difficult.  Actually,
+  I'd imagine most / all command throws work with buffering.
+
+- You can remain in some stances BT via some jumpover.  If your stance relies
+  on forward (or backward) movement to remain in that stance, you might have
+  to continue attacking or continue moving.
+
+- Just about anyone who has a reversal or parry can do them infinitely while
+  BT by buffering from the previous one.  I don't think Marduk can do this.
+
+
+----------------------------------------------------------------------------
+:: 2.1  Hwoarang (T3, TTT, T4) :::::::::::::::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+The Basics (Jinguu Method) -------------------------------------------------
+
+- Buffering 4 (and only 4) in order to do a button buffered 3+4 stance switch
+  is absolutely necessary because hitting 3+4 while BT while result in a BT
+  launcher.  This isn't from any degree of human error; even if a shoulder
+  button was set to "3+4," a BT launcher will still come out if it's not from
+  a buffer.
+
+  Step 1: Hit 4 during the animation of 1+2 and hold it.
+
+
+- The u/f command is the RFF cancel we've all known since TTT, though it's
+  been there since Tekken 3.  While it's useful for combos normally impossible,
+  u/f works from a BT RFF stance, and the simple 1+2 gets you in that position
+  immediately.  As for why u/f and u/b cancels RFF into LFF in the first place,
+  it's because you're really cancelling a hop forward / back by not holding
+  U/F or U/B.  Everyone jumps the same, of course (i.e., Hwoarang doesn't
+  have a "RFF jump" or "RFF sidestep"), so returning to neutral as quickly as
+  possible is a must.  u/f is the 'official' command for the RFF cancel, but
+  for something like the Fox Step, returning to neutral is just as important,
+  so I include it in my notations.
+
+  Step 2: Cancel the BT RFF (from 1+2) with u/f~N or u/b~N.
+
+
+- At its core, the Fox Step is really just a stance switch into RFF, followed
+  by a dash forward.  It's still a dash forward even though your back is
+  facing.
+
+  Step 3: Now in BT LFF, hit the other kick button (3) for a button buffered 
+  3+4 and immediately follow with a dash: 3+4~f,f.
+
+
+Fox Step Commands ----------------------------------------------------------
+
+- The Jinguu Method
+
+  This was first seen in the Hameko VS Jinguu series.  Jinguu does some very
+  hard-to-do crap very easily, such as RFF f+4~4, u/f~N, f+2, 2, u/f~N, f+2!
+  Here's how he does the Fox Step:
+
+  1+2~3+4, u/f~N, 3+4~f,f
+      \./
+    (buffer)      
+
+  Those are the exact commands, but not all of them will show.  Hit 3+4 
+  during the animation of the 1+2 and -hold them-.  While holding 3+4, hit 
+  3+4 the second time by releasing 3 and hitting it once again (4 is held 
+  throughout the whole thing).  Trust me, you -need- to buffer this so
+  there is no room for error, unless you want to do it the slow, stupid
+  way and look like a wannabe (actually, it wouldn't work in the first
+  place).  As soon as you switch into RFF, hit f,f.
+
+  What -does- show, however, is the 1+2, the RFF cancel, the stance switch,
+  and finally, the Fox Step.
+
+
+- The Jung Gijae Method
+  
+  Jung Gijae just exudes style.  His movements are unmatched, and he is
+  actually damn good with him (as opposed to Jinguu, according to some).
+  He did a Fox Step in a match once, and it is different (and easier to do)
+  than Jinguu's:
+
+  b+3+4~b, 1+2~3+4, 3+4~f,f
+               \./
+             (buffer)
+
+  You don't -need- to do the backdash, but if you're going to do the Fox
+  Step, you would have wanted (and are probably going to need) distance
+  anyway.
+
+  Looking at the command, it seems harder to do, but it's easier if you
+  don't want to risk hitting something other than u/f.  The first part is
+  simply a backdash combined with a stance switch, the stance switch being
+  first (b+3+4~b).  The second goes into BT with 1+2, but like the Jinguu
+  Method, you'll have to buffer a 3+4.  Then hit 3+4 again (you actually
+  see 3+4 this time) and then dash forward.
+
+  What you see: backdash & stance switch, 1+2, stance switch, Fox Step.  For
+  this reason, it is a tad slower than Jinguu's:  With his method (done with
+  perfection & as quickly as possible), you only see two movements (1+2 and
+  Fox Step).  The Gijae method, while more reliable, clearly has three (back-
+  dash, 1+2, Fox Step).
+
+
+- Buffering
+  
+  There is actually an easier way to buffer, as Nathaniel Louie pointed out.
+  This is his exact post:
+
+  "3+4 1+2(buffer and hold 4 during the animation), 3, f,f 
+   here's the outline 
+   3+4, 1+2~4(Hold), 3, f,f"
+
+
+- The Iliketekken Method
+
+  Alright, this was sent to me by deftones14.  Apparently there's an "easier"
+  way to do multiple (repeating) Fox Steps.  I tried it for a little while
+  and had no success, but he loves this method.  Well, whatever.
+
+  "Iliketekken( a friend of mine), who is another Hwoarang user discovered a 
+   faster and easier way to do multiple F.Steps. 
+   1+2(bf3)4~fff at this point you press 4 ~fff, 
+   the last f gets him into lff again somehow when done correctly."
+
+
+- The Slow, Stupid, Wannabe Method
+
+  It is annoying and saddening to see this.  The Slow, Stupid, Wannabe Method
+  is the result of people who don't want to use the u/f~N RFF cancel.  And
+  even though Jung Gijae didn't use it, he was trying to move away, and this
+  was done with the backdash-buffered stance switch facing forward.
+
+  I shouldn't have to write down the method, but if you're going to Fox Step, 
+  make it either stylish, quick, or useful.  Don't just throw it out simply 
+  because you think you can, or you'll look like an uncouth, boorish slob.  
+  That slovenly kind has no place in the Tekken elite!
+
+  1+2, 3+4, 3+4~f,f (simplified)
+
+  Yuck.
+
+
+Fox Step Setups ------------------------------------------------------------
+
+- From Combos
+
+  f,f+4 enders look good, but you can make them look even better!  Here are 
+  some examples:
+
+  RFF f+4~4, f+3,1, f,f+4
+  BT u/f+4, d/f+1, f,f+4
+  (Baek) SS~cd+3~5 (ch), f+3+4, 3~4, f,f+4 (mad hard)
+  
+
+- From Throws
+
+  You can also do a Fox Step after his f,f+2 throw.  (credit: Joshimitsu)
+  Personally, I like following up the Fox Step with a BT U/F,N+3, which
+  can get the other guy if they foolishly try to attack... hopefully it
+  gets them in the back, too... heh heh...
+
+
+- From Moves
+
+  You can also do a Fox Step after his RFF b+4 (ch).  (credit: Playa Pimpmo)
+  This move is fun.  If blocked and off axis, you can do a Fox Step even
+  though it may not look like it.  If you're close and you hit with it
+  (especially after SSR), you can certainly do it.  (note: I'm not sure how
+  often this will actually work, especially in Tekken 4...)
+
+
+More Fox Step Madness ------------------------------------------------------
+
+- BT Launcher Baiting
+
+  This isn't the easiest thing to do, since you're going to have to cancel 
+  the dash with a b~N.  Hitting 3 will launch and you have the option of 
+  tagging out.  Be warned, though, since all this takes time, and Fox Step 
+  'cancel' doesn't really give you any space.  Alternatively, you can use
+  the u/f~N cancel and just hit 4.
+
+
+- Throw Turnarounds
+
+  Cancel your Fox Steps with a throw!  (credit: deftones14).  In Tekken Tag,
+  and especially in Tekken 4, you can have at least a theoretical mix-up with
+  a throw, a BT launcher, or more Fox Step mania. 
+
+
+- Fox "Dash"
+
+  It's not entirely worth it, but you can do a little sprint instead of the
+  quick "hop & stop" the Fox Step does.  Just hold F for a bit longer after
+  the stance switch (...3+4~f,F).  Hold it long enough to start running,
+  but stop before the computer says "hey, wtf" and turns you around.
+
+
+- Repeating Fox Steps
+
+  Here's where the u/f~N cancel comes in.  After you do the Fox Step, you're
+  in RFF, and hopefully you've continued to buffer 3+4.  You can either do
+  this Jinguu style and hit u/f~N and 3+4~f,f again, or you can do it the
+  Slow, Stupid way, hitting 3+4 twice. -_-;
+
+
+- Fox Step, Back Step
+
+  This is very simple and is a set up for an even more impressive technique.
+
+  [Fox Step]~B
+
+  You can have fun with this in TTT: Fox Step, then Back Step, then tag out.
+  Your opponent might mentally say "wtf..." and then "dammit!"  The "dammit!"
+  coming from the tag slide he just ate in his confusion... 
+
+
+BT Moves -------------------------------------------------------------------
+
+- BT moves Hwoarang can do:
+
+  most RFF moves
+  most LFF moves
+  most standard moves
+  d,D/B+1+3
+  f+2+3
+
+
+- BT moves you can do without buffering from other moves are: 
+
+  d,D/B+1+3
+
+
+- BT RFF Moves
+
+  You can do a lot of RFF attacks while BT.  There isn't really any hard
+  setup; it's just a matter of doing the attack as quickly as possible as
+  soon as you -switch into- BT RFF (except for LFF 1+2).  Just be sure to
+  buffer the 3+4s.  To clear up any confusion, the commands are done as if
+  you were facing forward.  Any non-directional or one-directional RFF move
+  can be done. Here are some examples: 
+
+  BT RFF, u/f~N, 3+4, 3~4
+  BT RFF, u/f~N, 3+4, f+4~4
+  BT RFF, u/f~N, 3+4, b+4
+
+  Remember: the timing is "immediately after the switch into RFF."
+
+
+- BT LFF Moves
+
+  First, master the Fox Step, Back Step movement.  Then notice something:
+  you're in LFF!  There's a very small period where you can enter normal
+  LFF commands (as in, DONE IMMEDIATELY when in BT LFF) and have them come 
+  out like normal, only BT.  This is is how the Hwoarang Tekken Dance (not 
+  to be confused with Crazy Legs) was done. Here are some examples:
+
+  [Fox Step]~B, 3~4
+  [Fox Step]~B, 4,4,4,4
+  [Fox Step]~B, 1, 4
+
+  The first is a quick retreat from what the opponent probably believed was
+  a free backthrow.  The 2nd is the same thing, but it's a bit risker.  The
+  third is a jab in the air, followed by a (hopefully ch) BT LFF 4 launcher.
+
+  You can do any LFF move that requires one direction or less.  You -can- do
+  his d+4,4 (and even start another Fox Step), but not his f,N,d,d/f+4 (more
+  than one direction in the command).  Hwoarang's new techniques in Tekken 4
+  allow him to stay in a BT Flamingo Frenzy pretty much forever.
+
+  Three moves I haven't been able to do BT are his Tekken 4 moves:
+
+  b+3
+  f+1+2
+  u/b+4
+
+  ...which is a shame, because BT u/b+4 would have looked SO TIGHT!
+
+  Remember: the timing is "as soon as (or even a little before) the step
+  into LFF."
+
+
+- BT LFF Moves (alternate version)
+
+  The Reverse Fox Step, forward step works for BT LFF moves, but there is
+  another way to do this from the b,b motion.  From the switch into RFF:
+
+  ...3+4~b,B
+
+  You actually end up in LFF here, and this means you can do BT LFF moves.
+  I actually didn't realize this until I was teaching WeaponX how to Fox
+  Step, so thanks to him too, I guess.  
+
+  It should be noted, however, that LFF and standard moves that require a
+  d, d/b, or d/b motion are much harder this way.
+
+ 
+Miscellaneous --------------------------------------------------------------
+
+- Reverse Fox Step
+
+  Instead of 3+4~f,f for a Fox Step, you can also hit b,b.  This is highly 
+  discouraged for obvious reasons.
+
+
+- Reverse Fox Step, Forward Step
+
+  If you ever do this, you're obviously just fooling around.  It looks nice
+  if you do LFF moves after this, since the Forward Step is already a
+  retreat from the opponent, and any more LFF moves move you even further.
+  Try [R. Fox Step]~F, f+3~3.  Neato!
+
+
+- Double Fox Step
+
+  All credit goes to SuperMxyz for this one.  After the Reverse Fox Step,
+  you're still in the BT-Facing Forward mode, so you can do a normal Fox
+  Step after that.  You can delay the 2nd Fox Step for quite a while, too.
+  Here are the simplified notations by SuperMxyz:
+
+  BT LFF, 3+4~b,b~f,f
+
+  Again, a big thanks to SuperMxyz.  I would have -never- thought of it. :)
+  ---EDIT--- While looking at my movie archives, it seems BMW showed this
+  first in his "bobdash2.mpg" movie.  But SuperMxyz deserves the credit
+  anyway, since he plays Hwoarang. ^ ^  (and anyone who calls Hwoarang "Bob"
+  earns my immediate contempt, so...)
+
+
+----------------------------------------------------------------------------
+:: 2.2  Xiaoyu (T3, TTT, T4) :::::::::::::::::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+Fox Step Commands ----------------------------------------------------------
+
+- b+3+4, f,f
+
+  Supposedly you only have one frame to move from b+3+4 to f,f, and only one
+  frame between f and f (f,f).  jjt posted a LONG time ago on the Electric
+  Cancel boards about how it wasn't hard at all, and that the timing wasn't
+  to the frame.  PERSONALLY (and this really irks me), I've never ever EVER
+  been able to do Xiaoyu's.  Of course, I don't really use her, and I give
+  up easily.  Heck, it took me at least three years to nail Bryan's WS+3 (ch),
+  iWS+2,b+2 ONCE... and that was on a big character, if it mattered.  And it
+  probably did.  Gyah.
+
+  And I am absolutely sure that it is still in Tekken 4.  The CPU actually
+  did it once, but I wasn't smart enough to capture the fight to the memory
+  card so I could capture it.  But you all believe me, right??
+
+
+DiGiTaLee's Page -----------------------------------------------------------
+
+  You can download the movie here:
+
+  http://dtl.tcp-ip.cc/
+
+  Movie Page
+  > Enter JAPANESE side
+   > xiao-foxstep.mpg 
+   > xiao-foxstep1.mpg  
+
+  (look for "FOX" on left-most column)
+
+
+  Here is a Babel Fish translation of his directions.  Keep in mind that I
+  replaced the untranslatable Japanese characters with "[]".  Also be mindful
+  of the Japanese / Korean notations:
+
+  u/b  u  u/f        7  8  9
+   b   N  f     =    4  N  6  (this is the same as the number pad on your
+  d/b  d  d/f        1  2  3   keyboard, not phone)
+
+
+  [begin translation]
+
+  The explanation whose FOX step is detailed
+
+  Method $$ln2  For back (4 K) in 6N6N.  However as for 6 of 2nd 6N 
+  1 frame input.  (Deflection below frame) as for detailed explanation 
+  later description.  There is a for maniac and with the one for normal 
+  person.  
+
+  For back for maniac (4 K) after the inputting from 21 deflection to 27
+  deflections with 6N6N 6 of 2nd 6N input only of 1 deflection.  This 
+  command perfect explanation.  However when it inputs from the 27th 
+  frame, unless command everything must be inputted with 1 deflection, 
+  being the excessiveness.  When the normal person normally inputs the 
+  command of the 6N6N, entering into 6 of the 6N, the [] even frame 
+  with we investigation 3.  Depending, the excessiveness.  Therefore 
+  when for the back which is timing of most speed after the inputting 
+  input is started from 21 frame eye, first room to 8 deflections exists
+  in 6 and N.  Therefore in brief the 1st 6N ahead of time [] 
+  thing.  In addition for the back after the inputting 2 deflections or 
+  more inserting 6 of the 2nd 6N when it inputs to 21 - 27 deflections, 
+  it becomes the shape which the stripe uninformed for the back the rear
+  front faces.  When for the back after the inputting the 6N6N is 
+  inputted after 28 frames, no deflection it probably will enter 
+  somewhere, but step in it does.  In case of the failure it probably is
+  this either one mainly.  
+
+  But as for method for the normal person for the back in 6N6N what when
+  too slow, step in will come out and will pay attention from the [].  
+  If it succeeds just this, hardship it does not enter, 
+  however it is probably will be, perhaps without coming out, the 
+  expectation which returns to front direction.  But as for this with 
+  this failure what first gradual clearing.  So when it does, 
+  remembering the timing of the 6N6N which becomes the front direction, 
+  this time to be light you will try doing 6 of the 2nd 6N with the 
+  feeling it is densely the [] inserting.  If some time you do with
+  this, the expectation which appears.  By the way, but for other skill 
+  rear the skill which becomes state, for example upper step and the 
+  squatting turning round the similar thing test red sandal wood also 
+  afterwards as for the [] step in doing after all in rear 
+  just 4 K later.  Above.  
+
+
+
+  Being able to put out in this step is limited to the basic skill (one 
+  command skill however other than provoking) from for the back.  When 
+  the 4N4N (of course 1 deflection) it does 2nd 4 with the same timing, 
+  it does also step in.  Rather than for the back inputting the rear 
+  6N6N, it is quick, is.  From for the back the merit that in the * & * 
+  movie middle for the back and as for for the back from side revolution
+  for the back after the side revolution after in in 96 commands putting
+  state no one perceives, in a front standing state putting out, it 
+  increases.  Once.  
+  Saying, it is detailed well, it is such feeling, (it droops the claim 
+  above laughing, to the milk -----  
+
+  [end translation]
+
+
+BT Parries -----------------------------------------------------------------
+
+- Every Xiaoyu player knows that you can do the d+1+4 parry BT (even in T4),
+  but that's not what I'm talking about.  Her high-mid parry can be done BT,
+  and infinitely, by cancelling and buffering BT taunts:
+
+  (b+3+4) 1+4 (buffer and hold 3+4), 1+3+4~f+1+4, 1+3+4~f+1+4...
+
+
+----------------------------------------------------------------------------
+:: 2.3  Lei (T3, TTT, T4) ::::::::::::::::::::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+Fox Step Commands ----------------------------------------------------------
+
+- b+3+4, f,f
+- B+3+4, f,f
+
+  Like Xiaoyu's, it's (supposedly) a one frame thing.  This Fox Step (maybe
+  Xiaoyu's, too) was discovered by Kenbou, some Japanese guy.  No, I've
+  never done this one either, but I don't play Lei.  (really!)  The second
+  Fox Step command listed is for a delayed Fox Step after the turnaround.
+
+  For download directions and Fox Step translations, see "DiGiTaLee's Page"
+  in Xiaoyu's section.  The two Lei Fox Step movies:
+
+  lei-foxstep1.mpg
+  lei-foxstep2.mpg
+
+  ...are right under Xiaoyu's.  I haven't seen Lei's Fox Step in Tekken 4, 
+  but if Xiaoyu's is in there, then I don't see why not.
+
+
+Reverse Fox Step -----------------------------------------------------------
+
+- Lei has a Reverse Fox Step.  It looks like Xiaoyu's regular dash forward
+  in Rain Dance.  I'm not sure of the command (I've never tried it), but
+  both Evaspeed and some guy in the TZ TTT General forum said they did it.
+
+
+BT Strings ----------------------------------------------------------------
+
+- Lei can stay BT with the Razor Rush strings.  The best ways are:
+
+  u/f+4
+  PLD 3+4
+
+  Then it's just shifting with u and d:
+
+  f,N+1,2,1,2~U, TGR 1,2,1,2..
+  f,N+1,2,1,2~D, TGR 1~U, SNA 1,1,1,1,1,1~F, SNA 1,1,1,1,1,1...
+
+
+Spinning ------------------------------------------------------------------
+
+- This is a technique in Tekken 3 and Tekken Tag.  When you are in BT Razor 
+  Rush strings, and you shift into an animal stance, and don't press anything, 
+  you face forward, still in the animal stance.  If you attack (and continue 
+  pressing buttons) while you turn around, you will "cancel" the turnaround, 
+  spinning for about 3 seconds.  It's not the easiest thing to explain, and 
+  you will definitely need to see what works best for you.
+
+  I discovered how to do this by myself.  *^_^*
+
+
+----------------------------------------------------------------------------
+:: 2.4  Jin (T3, TTT) ::::::::::::::::::::::::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+BT Moves -------------------------------------------------------------------
+
+- BT moves Jin can do, starting with u/f+2+4:
+
+  b+2+4
+  1+4...              T3 / TTT
+  d+3+4
+  u+2+4               T3 / TTT
+  b,f+2...
+  1,3,2,1,4           T4          see below
+  u/f+1+2 (T4)        T4
+
+
+- BT moves you can do without buffering from other moves are: 
+
+  1+4...              T3 / TTT
+  u+2+4               T3 / TTT
+  d+3+4
+  u/f+1+2 (T4)        T4
+
+  The other moves require you buffer them during the last frames of other
+  BT moves.  This means that once you do 1+4, you can continue to do as many
+  b,f+2,1,2s as you like (which is the most practical use).
+
+
+Uses -----------------------------------------------------------------------
+
+- 1+4 is a great move to quickly get that extra bit of space.  If you're
+  lucky, you can try escaping follow-ups to the Waning Moon.  It's also
+  easier to do, since you can be standing still and still be able to do it,
+  unlike b+2+4 and b,f+2,1,2, which have to be done immediately after BT,
+  buffered from other moves.  
+
+
+- In the unlikely event that your back is facing your opponent -and- there's
+  enough room for a shoulder ram, you can do u/b+2+4, which will move you 
+  forward like u/f+2+4, possibly giving you enough time for a retaliation.
+
+
+Tekken 4 Notes -------------------------------------------------------------
+
+- Jin's movelist is almost entirely changed, but he still has the following
+  BT techniques:
+
+  d+3+4
+  b,f+2...
+  b+2+4 (different timing)
+
+
+- Jin can do his 1,3,2,1,4 string with this weird buffer:
+
+  1+2+3,1,4
+
+  You don't even need to buffer it from other moves!
+
+
+- Jin's taunt:
+
+  1+3+4
+
+  ...can be done BT, like all other taunts.  Jin's is special, in that it
+  cannot be cancelled by moving; this allows for easy buffering from a jump-
+  over, and from there, b,f+2,1,2s or whatever else he has!
+
+
+----------------------------------------------------------------------------
+:: 2.5  Law (T3, TTT, T4) ::::::::::::::::::::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+BT Moves -------------------------------------------------------------------
+
+- BT moves Law can do, starting with d/b+2:
+  
+  b+(1+3_2+4)
+  d+3+4,D
+  d/b+1+2...
+  FC,u~N+4            T3 / TTT
+  FC,u,4              T3 / TTT
+  FC,u+4,3            T4
+  FC,u+3+4            T4
+  1...                            see below
+  4...                            see below
+
+
+- BT moves you can do without buffering from other moves are: 
+
+  d+3+4,D
+  d/b+1+2...                      see below
+  FC,u,4...           T3 / TTT
+  FC,u+4,3            T4
+  FC,u+3+4            T4
+
+
+qcf+1 ----------------------------------------------------------------------
+
+- This move deserves a section of its own.  It is used as a catalyst, linking
+  "out of nowhere" moves to the other BT moves, and from there, linking all
+  BT moves to all other BT moves.  Since it's hard to write a "formula," I'll
+  just put a few examples:
+
+  d/b+2, qcf+1, 4,u+3, qcf+1...
+  d/b+2, d/b+1+2,u,u, qcf+1, qcf+1, qcf+1...
+  d/b+2,4, qcf+1,4, qcf+1, 4...
+  d/b+2, 1+2+3+4~1,3, qcf+1,1,1,1,2,f+2,2...
+  d/b+2, qcf+1,2, qcf+1,2, qcf+1, 4,3,4...
+
+  Why does this work?  qcf+1 is actually a real move (knocks down on ch).  In
+  addition, qcf+1,4 is actually a real string (try it yourself sometime).  I
+  will continue to write "qcf+1, 4,u+3" and such style strings because it is
+  far easier to read.  Know, however, that the timing is that of a qcf+1,4
+  string.
+
+  Buffering the qcf motion is extremely important.  As you can imagine, this
+  does require a fair amount of practice.
+
+
+* Very special thanks goes to drumdude; this entire section wouldn't exist if
+  it weren't for his old, old "Law Craziness for Synner!" vid at Tekken Salute.
+  Check out his new (though fairly empty) site at:
+
+  http://salute.tekken.net
+
+
+BT Flipkicks ---------------------------------------------------------------
+
+- In Tekken 3 and Tekken Tag, Law can do his FC,u+4 flipkick while BT with 
+  this unnecessarilly difficult command:
+
+  BT FC,u~N~u+4
+
+  The part going from N to u must be done in one frame.  When buffered with
+  a tag, the kick launches higher (high enough to follow up with another BT
+  flipkick), but there is no tag.
+
+
+* Very special thanks to abrar rana for going on yoko's (Japanese) BBS and
+  asking.  Visit his site, Inside Tekken, at:
+
+  http://tekken.0catch.com 
+
+
+Tekken 4 Notes -------------------------------------------------------------
+
+- Law can no longer do the BT Fake Somersault (TTT: FC,u).  You can do it from
+  qcf+1 strings, though.
+
+
+- Law can do his flipkicks (all styles) normally while BT.  The interesting
+  part is that while doing BT FC,u+4 (and BT FC,U+4 of course) goes straight
+  up, both u/b and u/f go toward the opponent!
+
+
+BT d/b+1+2 -----------------------------------------------------------------
+
+- This is a strange one.  Although you already know that it can in fact be
+  done with a buffer or directly from the d/b+2, I've been able to do this
+  while standing absolutely still and BT.  Although I once passed this off
+  as a fluke, it definitely IS possible, but it is EXTREMELY hard.  You'll
+  need to press d/b+1+2 at the EXACT same time (1 frame for everything),
+  hitting the diagonal VERY precisely!
+
+
+----------------------------------------------------------------------------
+:: 2.6  Yoshimitsu (T3, TTT, T4) :::::::::::::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+BT Moves -------------------------------------------------------------------
+
+- BT moves Yoshimitsu can do, starting with various starters:
+
+  b+3+4...
+  d+1+4...
+  d+3+4...            
+  d/b+2...
+  qcf+1
+  b,b+1                           see below
+  f,f+1+2...
+  f,f+3+4...
+  u/f+1+2
+  d/b+1+2 (T3)        T3 / TTT
+  1+2+3 (T4)          T4
+  b+1+4                           see below
+  1+2... (T4)         T4
+  d+1 (T4)            T4
+  d/b+1+2 (T4)        T4
+  non-direction
+  moves / strings                 see below
+
+
+- BT moves you can do without buffering from other moves are: 
+
+  d/b+2...
+  d+3+4...            T4
+  d+1+4...
+  1+2+3 (T4)          T4
+  d/b+1+2 (T4)        T4
+
+
+Buffering ------------------------------------------------------------------
+
+- Yoshimitsu is a complicated character, and the same goes for his BT stuff.
+  Like other characters, some of his moves can only be done buffered from
+  another move.  But it seems that certain moves can only be done from 
+  certain BT starters.  Some are harder than others because you might have
+  a smaller buffer period.
+  
+
+- qcf+1: This can be done from -
+
+  f,f+2 (ch)
+  f,f+1+2
+  b+3+4
+  f,f+3+4
+  f,f+3+4,1+2
+  f,f+3+4,1+2,3+4
+  d+3+4,4
+  d+3+4,u
+  u/f+1+2
+  f,f+1+4
+  2+5 (TTT)
+  d/b+1+2 (T3 / TTT)
+  1+2+3 (T4)
+  (f,f+1+2),u+2+3
+  (f,f+1+2),u+2+3
+  (f,f+1+2),u+2+3,b,b
+  qcf+1
+
+
+- b+3+4: This can only be done from:
+
+  f,f+1+2
+
+
+- f,f+1+2 and f,f+3+4: These can only be done from:
+
+  f,f+1+2, b+3+4
+
+  These are the hardest BT attack strings to do in the game!  In fact, I wasn't
+  even sure of the commands until I found BMW's "BT Shits" document.  As hard
+  as that thing is to read, I was correct about the notations; it was still
+  f,f, and not some weird-ass command (mentioned later).  But the timing isn't
+  as "easy" as Hwoarang's or Law's or any others'.  I put in Tekken Tag for
+  the better Hit Analysis and found something weird: 
+
+  b+3+4~f,f
+
+  Here's the thing... not only are you "frozen" for less than half a second,
+  you flash red!  Certainly this is something to be explored.  I'm not exactly
+  sure how you can use this to your advantage as far as timing goes; I THINK
+  you time it so you hit 1+2 (or 3+4) right before (i.e. 1 frame?) the red
+  -would- flash.
+
+
+- u/f+1+2: This can only be done from:
+
+  (f,f+1+2), b+3+4, f,f+3+4,1+2,3+4
+  Indian Sit 3,3+4
+
+  You'd think you'd be able to do u/f+3+4 as well, but you can't.  Unless, of
+  course, you can.  Uh, nevermind.  Just skip to the next section.
+
+  
+- d+3+4: This can only be done from:
+
+  f,f+1+2
+
+  In Tekken 4, you don't need to buffer it at all.
+
+
+Buffering (Part II) --------------------------------------------------------
+
+- b,b+1: This can only be done from:
+
+  f,f+1+2
+
+  Except, for reasons unknown, it is done with this command:
+
+  u+2+3
+
+  I have NO idea how or why this works, but it does.  Perform it like it was
+  a string from f,f+1+2.  It's the same timing as buffering b+3+4.  And
+  Button Buffering IS A MUST.
+
+
+- 1+4 (TEKKEN 4 ONLY): This can only be done from:
+
+  f,f+1+2
+  u+1+4
+
+  Except it's done with:
+
+  u+1+4
+
+  It's difficult explaining the timing here because 1+4 is a canned followup.
+  More interesting, however, is that you can continue BT 1+4s this way.  You
+  can even use this to do stolen moves BT!  
+
+  I discovered how to do this by myself.  *^_^*
+
+
+Tekken 4 Notes -------------------------------------------------------------
+
+- These moves do not have to be buffered in order to remain BT:
+
+  d+3+4
+  u+1+2 (1+2)
+
+  Actually, BT 1+2 is a new property.  You were previously unable to do this.
+
+
+- Yoshimitsu can do BT strings and attacks that do not require a direction
+  (like 3,4).  The one exception is d+1, which you can also do with the old
+  d/b+1 command for some reason.  This is done with:
+
+  3+4~B, 3+4~B
+
+  The computer thinks you cancelled the turnaround, and you did, but it was
+  done early enough, and it was cancelled with another turnaround!  (think:
+  90 + 90 = 180)  The timing isn't easy to explain, but if you downloaded SD 
+  TeKKeN's "YoshiYoshi!" the cancel timing should be clear.
+
+  I discovered how to do this by myself.  *^_^*
+
+
+A Copied Post --------------------------------------------------------------
+
+- This was a post copied from some time ago, by some guy:
+
+  [start]
+
+  f,f+1+2(hold 2)+u+3~b~b
+  from the previous string,qcb+1(somersaul), or u/b+1+2(helicopter thingie), 
+  or u/b+3+4,f+1,4(flip into spin into backflip), or u+1+2 or d+3+4, or 
+  d/f+2,2,2,2 or f+1+2~any. That's all of them I guess.
+
+  [end]
+
+  Several things to comment on.  First, he does not use my (now universally
+  accepted, thank you very much) notations of "f = forward RELATIVE TO YOUR
+  OPPONENT."  Second, he mentions other BT moves such as b+1+2 and u/f+3+4.
+  Either it's some new buffering or timing I'm not aware of, or it's totally
+  false.  I'd prefer the former...
+
+
+* Very special thanks to BMW, who discovered / verified at least half of the
+  entire Yoshimitsu section.  Visit his site, Tekken Stuff, at:
+
+  http://www.tekkenstuff.com
+
+  His BT document (though not THAT clear :P ) can be found at:
+
+  http://www.tekkenstuff.com/documents/btshits.txt
+
+  I don't feel bad about linking directly to his FAQ (GameFAQs says I should,
+  and that's quite understandable).  First of all, I wasn't even really
+  looking for a comprehensive document, let alone as a .txt file.  I had
+  found this on the BBS, and only on the BBS (it wasn't anywhere on the site's
+  download page for some reason).  But before I had to do that, I had to
+  select "View All Topics," because there hasn't been a topic since sometime
+  last year!  And by some miracle, I found the thread and the .txt file linked.
+  I'm doing EVERYONE a service here, folks!
+
+
+* Also, very special thanks to Vainj and practically the whole Eurotekken crew;
+  those Euros seem to know all sorts of crazy stuff, like all that Jack crap in
+  TTT, oy.
+
+
+----------------------------------------------------------------------------
+:: 2.7  King (T3, TTT, T4) :::::::::::::::::::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+BT Moves -------------------------------------------------------------------
+
+- BT moves King do, starting with various starters:
+
+  b+2+4
+  b+1+2               T3 / TTT
+  d/b+2+4
+  d/f+2+4
+  d/f,d/f+2+4
+  qcf+1
+  f,hcf+1
+  f,N,d,d/f           T3 / TTT    see below
+  d+1+2               T3 / TTT    see below
+
+
+- BT moves you can do without buffering from other moves are: 
+
+  d/b+2+4
+  d/f+2+4
+
+
+
+==============================================================================
+  3.  M O V I E  T R A N S C R I P T S
+==============================================================================
+
+----------------------------------------------------------------------------
+:: 3.1  Tekken Zaibatsu: Tekken Dance ::::::::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+  About the Tekken Dance Video: 
+
+  This is an old Tekken 3 video compiled by Tekken Zaibatsu (v. 1.0) from a 
+  tape called "Tekken 3 Enhancer: No Place for Losers".  I was absolutely in
+  awe the first time I saw this, and I think I still am.  These sequences
+  were probably performed by two people!
+
+  Format: MPEG
+  Run Time: 46 secs
+  File Size: 5.67 MB
+  BGM: Tekken 3 OST - Results
+
+
+Sequence 1: Jin-------------------------------------------------------------
+
+  u/f+2+4, b+2+4, b,f+2,1,2, 1+4, d+3+4
+
+
+Sequence 2: King -----------------------------------------------------------
+
+  SSR+2+4~B, f,N,d,d/f+1+2, b+1+2, f,hcf+1, d/b+2+4, b+2+4, d/f+1+4
+
+  It starts with both characters doing SSR+2+4~B at the same time.
+
+
+Sequence 3: Hwoarang -------------------------------------------------------
+
+  3+4, 3~4, [Fox Step]~B, d/b+3+4~b,b, 3,3,4, 1,2,3,4,4~f, 3, 1+4~b,b
+
+
+Sequence 4: Law ------------------------------------------------------------
+
+  FC,u~N+4, b+2+4, qcf+1,2,f+2, d/b+1+2,u,u, FC,u,4, d+3+4~D
+
+
+Sequence 5: Yoshimitsu -----------------------------------------------------
+
+  f,f+1+2, b+3+4,3+4,3+4,3+4, f,f+1+2, d+3+4, 4, qcf+1, d/b+2,2,2,2,2,
+  d+1+4, B+1,1,1,1,1
+
+  One player starts with f,f+1+2; the other starts with u/b,b.
+
+
+----------------------------------------------------------------------------
+:: 3.2  SD TeKKeN: Tribute to Tekken Central (Hwoarang) ::::::::::::::::::::
+----------------------------------------------------------------------------
+
+  About the Tekken Central Tribute: 
+
+  This vid is a special vid in a lot of ways; it was the first Tekken 4 movie 
+  I made, and to be honest, I wasn't entirely sure I had enough material to 
+  go around, or if people would care for a movie that -wasn't- a combo or 
+  match movie.  It showcased Hwoarang's many movements and BT attacks, which 
+  weren't really shown before.  It also showcased -my- manual dexterity.  ;)
+
+  Format: DivX
+  Run Time: 57 secs
+  File Size: 9.57 MB
+  BGM: Blümchen - Willkommen in Meinem Garten
+
+
+Sequence 1 -----------------------------------------------------------------
+
+  Crazy Legs, Wall Jump (f,f+4)
+
+  The Crazy Legs is just any sequence consisting of SS, f+3+4,f, and b+3+4,b.
+  The Wall Jump leaps over the perfectly timed f,f+4 by the other player.
+
+
+Sequence 2 -----------------------------------------------------------------
+
+  Repeating Fox Steps
+
+  This was one of the first things documented in this FAQ!
+
+
+Sequence 3 -----------------------------------------------------------------
+
+  [Double Fox Step]~B, b+2, 3+4, 3~4, [Reverse Fox Step]~F, d/b+3+4~b,b,
+  f+3, 3+4, f+4
+
+  Just one of many ways you can hit those guys in the Underground stage...
+  heck, those guys get happy whenever -anyone- gets hit, so...
+
+
+Sequence 4 -----------------------------------------------------------------
+
+  d+3,4, 3+4, d+3,4, 3+4, 3,4
+
+
+Sequence 5 -----------------------------------------------------------------
+
+  1,2,3, f+3, 3+4, f+4, 3, 4
+
+
+Sequence 6 -----------------------------------------------------------------
+
+  Snakedashing
+
+  The snakedash is simplified for pretty much everyone in Tekken 4.  In TTT,
+  you'd have to actually cancel the crouchdash with f, which wasn't exactly
+  easy if you'd want to do it fast.  Now the command is:
+
+  f,N,d,d/f, u, repeat
+
+  Also worth noting in Tekken 4 is that the sidestep cancel only works by
+  sidestepping up - either side.  If you'd want to snakedash to your left
+  on the right side, you'd still have to use that old f cancel.  I was 
+  actually surprised that recording the 1P command and placing that character
+  on the 2P side would even work!  Chalk this one up to the many (many!) 
+  Tekken anomalies.
+
+
+Sequence 7 -----------------------------------------------------------------
+  
+  LFS 3+4, 3+4, 3+4, 3+4...
+
+  Sorry that this wasn't -totally- synchronized.  I honestly have no idea
+  why it wasn't; timing isn't -that- strict!
+
+
+Sequence 8 -----------------------------------------------------------------
+
+  Repeating Fox Steps into Shadow Step
+
+  The "chasing" opponent cannot do the u/f~N cancel in Tekken 4, so it was
+  replaced with a SS which works pretty much the same.  The Shadow Step
+  (thankfully NOT removed from the Japanese PS2 version) is done with:
+
+  BT FC,d/b~d~d/b...
+
+  
+Sequence 9 -----------------------------------------------------------------
+
+  F+3+4~4~4
+
+  This was first seen in Tekken Central's Hwoarang Vol. 1.  Virtua Fighter 3
+  has something like this with the classic "Akira Dance" video.
+
+
+Sequence 10 ----------------------------------------------------------------
+
+  [Fox Step]~B, d/b+3+4~b,b, 3,3,4, 1,2,3,4,4~f, 3, 1+4~b,b
+
+  This, of course, is the Tekken Dance sequence (sans RFF 3~4).
+
+
+----------------------------------------------------------------------------
+:: 3.3  SD TeKKeN: YoshiYoshi! (Yoshimitsu) ::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+  About the Yoshimitsu Tribute: 
+
+  Ok, I kinda rushed this movie out.  I was just so excited about discovering
+  the new Tekken 4 BT properties first shown in that one Paper Fist match
+  movie (namely, 1+4 and non-directional moves and strings).  But not only
+  do I -not- play Yoshimitsu, I didn't even know his full Tekken 4 movelist!
+  I wasn't even aware how to begin the Yoshimitsu Tekken Dance (the commands
+  just never worked for me and I tend to give up easily)...  I knew I had to
+  correct this by including the previously unseen BT strings in a later,
+  all-encompassing movie.  So yeah, the movie could have been better, but
+  I'm still happy with the final result.  
+
+  Format: DivX
+  Run Time: 53 secs
+  File Size: 8.99 MB
+  BGM: Blümchen - Herz an Herz (Herzattackenhaus Mix)
+       Blossom - Heart to Heart (Hearthousemix)
+
+
+Sequence 1 -----------------------------------------------------------------
+
+  Indian Sit, D...
+
+  Normally this move would have Yoshi circle around the opponent, but when
+  two Yoshis do it in the same direction, they just go in a straight line.
+
+
+Sequence 2 -----------------------------------------------------------------
+
+  3+4~B, 3+4~B, 3+4~B, 3+4
+
+  I'm convinced this could have continued indefinitely, but strict timing is
+  required.  Just experiment with the timing and see what works for you.
+
+
+Sequence 3 -----------------------------------------------------------------
+
+  u+1+4, u+1+4, u+1+4, u+1+4, u+1+4...
+
+  This can be buffered with f,f+1+2 or the new 3+4~B, 3+4~B property.
+
+
+Sequence 4 -----------------------------------------------------------------
+
+  3+4~B, 3+4~B, 3, 4
+
+
+Sequence 5 -----------------------------------------------------------------
+
+  (f,f+1+2), qcf+1, qcf+1
+
+
+Sequence 6 -----------------------------------------------------------------
+
+  f,f+1+2, u+2+3
+
+
+Sequence 7 -----------------------------------------------------------------
+
+  3+4~B, 3+4~B, 4,4,2,2,4,4,1,3+4
+
+
+Sequence 8 -----------------------------------------------------------------
+
+  3+4~B, 3+4~B, 4~3
+
+
+Sequence 9 -----------------------------------------------------------------
+
+  d+1, N~D/B...
+
+  Now that I think about it, this could have been done without any BT / Fox
+  Step knowledge at all (you could just sidewalk around it and start your
+  own), but as I mentioned in the Yoshimitsu section, you can (or must?) do
+  it with the old d/b+1 method if buffered and such.
+
+
+Sequence 10 ----------------------------------------------------------------
+
+  Indian Sit, SSL...
+
+  You're not really doing "SSL"; P1 Yoshi is holding up, and P2 Yoshi is
+  holding down.  The result is a spiny Arena camera thingy, and hilarity
+  ensues.
+
+
+Sequence 11 ----------------------------------------------------------------
+
+  f,f+1+2, b+3+4, d/b+1+2, d/b+2, 1+2, d, d+3+4, b
+
+  OBVIOUSLY, this sequence could have been expanded, but I got lazy.  I also
+  wanted to throw in some BT f,f+1+2 stuff, but I didn't find BMW's "BT Shits"
+  document, which confirmed the commands I had tried (but failed to execute)
+  until AFTER the Laws movie, next.
+
+
+----------------------------------------------------------------------------
+:: 3.4  SD TeKKeN: The Laws (Law) ::::::::::::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+  About the Law Tribute: 
+
+  You know what?  I almost didn't make this movie, and it turns out to be
+  one of my favorites! I was pretty much convinced that the qcf+1 stuff was 
+  played out as early as Tekken 3, but I remembered Law's new moves.  And 
+  -then- I remembered that DSS and DFS stuff... obviously I don't really 
+  play Law either!
+
+  Format: DivX
+  Run Time: 1 min
+  File Size: 10.3 MB
+  BGM: Blümchen - Herz an Herz (Intro)
+       Blossom - Heart to Heart (Intro)
+
+
+Sequence 1 -----------------------------------------------------------------
+
+  d/b+2, qcf+1, 4,u+3, qcf+1, 4,u+3
+
+
+Sequence 2 -----------------------------------------------------------------
+
+  d/b+2, qcf+1,4,3~b,f, f+3
+
+  I don't play Law, but I read in the TZ T4 General forum that "b,f, b,f" is
+  not really necessary at all!  I tried b,f, f+3 and it works even better. 
+  I don't really know how or why this works, but it does!
+
+
+Sequence 3 -----------------------------------------------------------------
+
+  qcf+1,2, qcf+1,2, qcf+1,1,1,1,2,f+2,2
+
+  When I was controlling the 1P Law, I originally did just 1,2, thinking that
+  the qcf+1 command was unnecessary.  When I looked at the vid, the timing
+  was off by just a little bit, and I couldn't get rid of it.  I eventually
+  realized that qcf+1 has the ability to come out just a bit faster.  Frame
+  data-wise, it's the same (I think), but the regular 1 can't attack that
+  quickly after the recovery of some other moves. 
+
+
+Sequence 4 -----------------------------------------------------------------
+
+  qcf+1,2,3, qcf+1,2,3, qcf+1,2,u/f+3,4
+
+
+Sequence 5 -----------------------------------------------------------------
+
+  d/b+1+2,1,3, d/b+1+2
+
+  I just wish I had done this in the Mall stage... then every stage would
+  have been in the movie!  I was even trying to redo the entire movie just
+  for that, but... eh...
+
+
+Sequence 6 -----------------------------------------------------------------
+
+  d/b+2,4
+
+  OMGLOLOL... who knew that if two Laws did it at the same time, they would
+  end up in -that- position?
+
+
+Sequence 7 -----------------------------------------------------------------
+
+  BT 1
+
+  I was surprised this even worked...
+
+
+Sequence 8 -----------------------------------------------------------------
+
+  b,b,u/b
+
+  This was annoyingly hard; setting up the CPU to do it at the same time was
+  almost impossible!  They didn't hit the wall at the same time so I had to
+  cut the clip short.  I originally wanted them to do it in between those
+  two pillars, but... I'm only one man!
+
+
+Sequence 9 -----------------------------------------------------------------
+
+  FC,U/F+4, FC,U/F+4, FC,U/F+4, FC,U/F+4...
+
+  I kinda lucked out on this one.  I recorded the white costume Law without
+  any idea how long it took for the Law I would take control of to start his
+  own flip kick and land, or if the whole thing would be evenly timed, but
+  it was!
+
+
+Sequence 10 ----------------------------------------------------------------
+
+  qcf+1, 4,3,4~b,f, 1, f+1
+
+  This is probably my favorite sequence, but it was extremely hard to do!  
+  Matching the timing of a delayed DFS 1, f+1 was just too hard, but it was
+  worth it.  I could have settled for something else, but luckily I didn't!
+
+
+Sequence 11 ----------------------------------------------------------------
+  
+  d/b+2, b+2+4, B (turn around), b+2+4, b+1+2, 3
+
+  I actually wanted to do a Tricky Fake Step f+1, but it didn't reach.
+
+
+Sequence 12 ----------------------------------------------------------------
+
+  FC,u+4, FC,U+4, FC,u/b+4,3
+
+  Good thing those flip kicks recover crouching, eh?
+
+
+Sequence 13 ----------------------------------------------------------------
+
+  d/b+2,4, d+3+4, FC,U/F+3+4
+
+  Actually, you can have them do the Frog Man just a bit closer; their feet
+  will whiff ever so slightly.
+
+
+Sequence 14 ----------------------------------------------------------------
+
+  d/b+2, qcf+1,2,u/f+3, FC,U+4, FC,U/F+3+4
+
+  Just a fun sequence of the many flip kicks, made possible by the recover
+  crouching properties.  I wanted the FC,U/F+3+4 kicks to hit at the same
+  time, but I just wanted to get this movie out already!
+
+
+----------------------------------------------------------------------------
+:: 3.5  SD TeKKeN: BTOMGWTFLOL! *^_^* (misc) :::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+  About the misc tribute: 
+
+  I knew virtually everyone had some sort of backward moves property, though
+  they can't all start it as easily as Hwoarang or Law.  This movie is
+  supposed to be the "final" BT movie, showing everyone in some way.  It
+  took three days to make (I was procrastinating something so I decided to
+  make a movie), and the most amazing part is that the music worked with the
+  video so well, and almost all by itself!  I also discovered Yoshi's BT
+  copied move thing (f,f+1+2, u+1+4) here.  I haven't really dived into this,
+  but I do know that one move he -can't- perform BT is Heihachi's b,b,N+3+4.
+  Shame, too...
+
+  Format: DivX
+  Run Time: 1 min, 36 secs
+  File Size: 17.6 MB
+  BGM: Guilty Gear X OST - Bloodstained Linage
+
+
+Sequence 1: Marduk ---------------------------------------------------------
+
+  3+4, 1+2
+
+
+Sequence 2: Christie -------------------------------------------------------
+
+  d+3+4, 1,4,4,3+4
+
+
+Sequence 3: Steve ----------------------------------------------------------
+
+  3+4, 3+4, f+4, 1+2,1,2,1,2,1,2,1,2,1
+
+  Steve could do a lot more, but considering my experience with Steve (about
+  10 minutes), I decided not to.  Shukudai included a pretty complete Steve
+  Tekken Dance in his Steve Act. 2 video at www.arcadepimp.com.
+
+
+Sequence 4: Kuma -----------------------------------------------------------
+
+  3+4, F, F, 1+2
+
+
+Sequence 5: Kuma -----------------------------------------------------------
+
+  Infinite Kuma Roll
+
+  This was first seen in a video by Tekken Central (Kuma Bowling), but due
+  to kofman's laziness, it was only available on the Korean site.  This clip
+  was done with Yoshimitsu copying Combot imitating Kuma's roll.  The roll
+  could go on forever until you hit a wall.  It's in Yoshimitsu's section
+  under "Buffering Part II". 
+
+
+Sequence 6: Combot ---------------------------------------------------------
+
+  Pillar run glitch
+
+  Not a BT thing, but fun anyway.  It works with pretty much any pillar, 
+  but the Parking Area stage is where it's most applicable.  
+
+
+Sequence 7-9: Various ------------------------------------------------------
+
+  BT Reversals
+
+  Start over with a jump over jab.
+
+
+Sequence 10-13: Various ----------------------------------------------------
+
+  BT Parries
+
+  Start over with a jump over jab.  Marduk does not have this property AFAIK.
+  See the Xiaoyu section for BT parries.  Jin has the same property but
+  different timing.
+
+
+Sequence 14: King ----------------------------------------------------------
+
+  qcf+1, d/f,D/F+2+4, d/f+2+4, d/f,D/F+2+4, qcf+1
+
+  Start with b+4.
+
+
+Sequence 15: Yoshimitsu ----------------------------------------------------
+
+  f,f+1+2, b+3+4, f,f+3+4,1+2,3+4, u/f+1+2~B, D/B+2,2,2,2,2,2
+
+  I should have taken the time to do 1+2+3, but meh...
+
+
+Sequence 16: Lei -----------------------------------------------------------
+
+  (TGR 3),1,2,1,2~u, 3, 1,2,1,2,4~u, 3,4,2,3
+
+  Maybe it would have been better if they both sidestepped in the same
+  direction, but meh...
+
+
+Sequence 17: Jin -----------------------------------------------------------
+
+  1+3+4, b,f+2,1:d+2, b,f+2,1,d+2*
+
+
+Sequence 18: Lee -----------------------------------------------------------
+
+  FC,U+4, FC,u/f+4, FC,u/f, d/b+1+2
+
+
+Sequence 19: Paul & Law ----------------------------------------------------
+  
+  Paul: FC*,u+2+3+4
+  Law: FC,u+4, d+3+4
+
+
+Sequence 21: Yoshimitsu & Hwoarang -----------------------------------------
+
+  f+1+2
+
+  This is one of the moves you can't do using Hwoarang's Fox Step properties.
+  And believe me, I was going for the other one... u/b+4.  Stupid Yoshi
+  couldn't copy that move...
+
+
+Sequence 22: Yoshimitsu & Julia --------------------------------------------
+
+  f,f+1, f,f+1...
+
+  As Yoshimitsu, you can hold 1+4 for infinite elbows.
+
+
+Sequence 23: Yoshimitsu & Paul ---------------------------------------------
+
+  b+1+2
+
+
+Sequence 24: Yoshimitsu & Kazuya -------------------------------------------
+
+  b+1+4
+
+
+Sequence 25: Yoshimitsu & Lei ----------------------------------------------
+
+  b+1+4, 4
+
+
+Sequence 26: Yoshimitsu & Heihachi -----------------------------------------
+
+  b+2+4
+
+  Is there any real reason why Heihachi doesn't have glowing fists?
+
+
+Sequence 27: Yoshimitsu ----------------------------------------------------
+
+  (f,f+1+2), b+3+4,3+4,3+4,3+4, f,f+1+2, b+3+4,3+4,3+4,3+4,3+4,3+4
+
+
+Sequence 28: Jin -----------------------------------------------------------
+
+  1+3+4, d+3+4, u/f+1+2, b+2+4, 1+2+3,1,4~d+1+2
+
+
+
+==============================================================================
+  4.  M I S C E L L A N E O U S
+==============================================================================
+
+----------------------------------------------------------------------------
+:: 4.1  Things to do :::::::::::::::::::::::::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+- Add Paul crap 
+  TTT: u/f+4, b+1+3? (actually anyone who has a reversal or parry)
+
+- Add Lee crap (BT d/b+1+2, FC,u/f)
+
+- Add King crap
+  throws = qcf+1, d/b+2+4, d/f,d/f+2+4, b+1+2 = Tekken 3 only?
+
+- Add Steve crap
+
+- Add Masakun's post:
+
+http://www.tekkenzaibatsu.com/forums/showthread.php?s=&threadid=39041
+
+
+----------------------------------------------------------------------------
+:: 4.2. Rantings :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------
+
+- I dunno about you guys, but Dean Earwicker just sounds like a top-tier
+  character...! (<- written before name change to Steve... uh, lol...)
+
+
+- People abbreviate Tekken Tag Tournament "TTT" (as they should), but the 
+  same people abbreviate Tekken 4 "TK4?"  Gee, that makes a HELL of a lot of 
+  sense!
+
+
+- No more vids for ANYONE!  As I said before,
+
+  "If I do decide to,  it'll be a long time for MY convenience... I'm sure I 
+   mentioned somewhere (like on my site) that whenever I'm asked to upload a 
+   whole SET of something, I tend to care a lot less (i.e., not at all). 
+   Finding it in the CD (out of 40+), uploading them, linking them, verifying 
+   the links, and rotating and repeating is a LOT harder for me than it is for 
+   you to simply download them."  (...but being a TZ Supporter might help...)
+    * Right now I am actually unable to do this anyway.
+
+
+- Addendum to Rant #2:  http://tekken.underactive.net/editorials-rant002.html
+
+  Why are people still calling Hwoarang "Bob?"  I mean, with Tekken 4, you
+  have forum newbies (god bless'em...) calling Hwoarang "Bob" at every chance,
+  if only to prove that they, too, know he's called "Bob!"  I say, "Good for
+  you.  Now stop being a lamer and call him by his actual name."
+
+  It -is- pretty much all tragic's fault, not like he plays Tekken anymore.
+  I certainly respect him, and I can say that he's a better player, but come
+  on.  For the half second it took him to give Hwoarang the QUITE ridiculous 
+  moniker "Bob," and the one IRC session to spread it, he was an idiot.  And 
+  you know what happens when we have idiots in power?  Wars are one thing; 
+  shitty, inappropriate, completely out-of-place nicknames are another.
+
+  I'm not against nicknames, it's just that "Bob," a name which can't be
+  derived anywhich way from "Hwoarang," has its clout because other morons
+  use it.  And from them, more "Bob" morons are spawned... sad, indeed.  If 
+  you honestly don't mind seeing and answering newbie threads asking "Who the
+  hell is Bob?", that's just great for you.  Personally, I have better ways
+  to spend the time I wish I had.
+
+  Sporadic usage is okay I suppose, but all that's left is for people to take
+  it out of control.  I hope we don't see any of these:
+
+  Bobby
+  Bobbo
+  Mr. Bob
+  Billy Bob
+  Bubba Bo Bob
+
+  ...and pretty much any other name.  Until "Bob" is put in a abbreviations
+  legend of some sort (thus spelling certain doom for mankind), I'll be
+  adamantly opposed.
+
+
+
+==============================================================================
+  5.  L I N K S 
+==============================================================================
+
+- http://www.tekkenzaibatsu.com
+
+    Your #1 Tekken resource on the net!  Great selection of movies and the
+    most popular Tekken forum.  As Tekken.Net, it started my fascination with
+    BT attacks and strings with the Tekken Dance Video (not up anymore).
+
+
+- http://www.electriccancel.com
+
+    Fantastic tournament footage, nice layout, and a really popular forum
+    with the cutest smilies... aw... :)  KOFTEKKEN, the one who showed the
+    U.S. how to Fox Step, posts there (especially after tourneys).
+
+
+- http://www.tekkencentral.com
+
+    THIS. IS. HOW. YOU. PLAY. TEKKEN.  Expert Korean gameplay (redundant, I 
+    know ^^; ), and a forum that's always, always worth a look.  The movies
+    are GREAT - Recently a Hwoarang combo movie by the TC Hwoarang movie
+    came out, and it's easily the biggest thing to happen to Hwoarang since
+    the Jinguu TTT movie.  Also, here's the post by my mentor KOFTEKKEN:
+
+    http://tekkencentral.com/eng/forums/showthread.php?s=&threadid=937
+
+
+  Welp, those are the big 3.  There are tons of other great sites, but they
+  probably aren't -too- Fox Step related. :P  Here's my end-all, be-all post
+  with movies and such:
+
+    http://www.tekkenzaibatsu.com/forums/showthread.php?s=&postid=524010#post
+    524010
+
+  Don't forget to copy that "524010" at the end of the first line!
+
+
+  Here are some other sites:
+
+
+- http://tekken.underactive.net (my site)
+    
+    I considered this site one of my main hobbies (and I need a new one...) - 
+    I felt I had to share, though pics and descriptions, the classic / ground-
+    breaking movies in the history of the post-Slikatel Tekken community.  It
+    is extremely hard work putting up site and movie descriptions, taking pics
+    of movies and then writing about them some more, so the site is on hiatus
+    right now.  As you may have guessed, I'm devoting my time to this FAQ.
+     * Actually, at this time of writing, the whole server is down...
+
+
+- http://www.cdycus.com/~sdtekken
+
+    SD TeKKeN, hosted by my bud CodEZ.  Info about the fastest growing Tekken
+    community and much more!
+
+
+- http://www.clubrichandcreamy.com/sdtekken
+
+    The movie page for SD TeKKeN, and where my movies have been hosted.  A
+    super duper ultra extreme alpha omega BIG ASS THANKS to PoiNtKiSMeT!
+
+
+- http://www.arcadepimp.com
+
+    Besides being a supremely high quality site, this site has Shukudai's
+    Steve combo videos.  Act. 2 has a little Tekken Dance, yay!
+
+
+- http://www.tekkenmania.com
+
+    Formerly JustFrame.com!
+
+
+
+==============================================================================
+  6.  T H A N K S
+==============================================================================
+
+- Kao Megura - http://i.am/kao  
+    For inspiring everything I do!  Well, FAQ related, anyway...
+
+- KaNE
+    For reminding me that I can't win on Fox Steps alone (no thanks to ewgf
+    abuse and piss easy b,f+2,1,2 juggles)!
+
+- Thunder Fist
+    Helping me transfer items on PSO.  w
+
+
+Special thanks (i.e., people who actually contributed stuff ^ ^)
+
+- KOFTEKKEN
+- Joshimitsu
+- Playa Pimpmo
+- BMW 
+- SuperMxyz
+- drumdude
+- abrar rana
+- Nathaniel Louie
+- JohnnyFoodmaster!
+- Masakun
+
+
+
+==============================================================================
+  7.  R E V I S I O N   H I S T O R Y
+==============================================================================
+
+- v. 4.00 [2002.8.5]
+  Hwoarang revised (more notes, new BT moves method).
+
+- v. 3.00 [2002.5.23]
+  Minor editing.  Movie Transcript section added.
+
+- v. 2.00 [2002.5.1]
+  Minor editing all over the document ("BT" is now the standard notation).
+  Added various Tekken 4 notes.  Added Yoshimitsu section.
+
+- v. 1.04 [2002.1.13]
+  Added Nathaniel Louie's version of Gijae's Fox Step.
+
+- v. 1.03 [2001.12.14]
+  Added credit to BMW for the Double Fox Step.  Fixed Tekken Salute URL.
+
+- v. 1.02 [2001.11.21]
+  Added "simplified" note.  Added Double Fox Step.  Changed "Continuous Fox
+  Step" to "Repeating."  Finalized the Jin section.  Added Law section. 
+
+- v. 1.01 [2001.9.19]
+  Added Tekken 4 Notes.  Added my animosity toward the term "LFL".  Almost
+  completely rewrote Hwoarang.
+
+- v. 0.10 [2001.5.31]
+  Very basic Hwoarang Fox Step directions up.  More later.
+
+
+[eof]

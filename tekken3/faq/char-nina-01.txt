@@ -1,0 +1,1067 @@
+TEKKEN 3 NINA WILLIAMS MOVELIST AND STRATEGY GUIDE v1.2 by Coz
+
+Note: This should be viewed in a standard text editor in order to look
+right.  It was originally made in Word and had to be converted so it would
+mail right, so I apologize in advance if some of the format is off.
+
+*Table of Contents*
+Introduction
+Why play Nina?
+Changes from Tekken 2 to Tekken 3
+Conventions
+Basic Movelist
+Expanded Movelist
+Combos
+Okizeme
+Attack Strings
+WYTTGTDTDT
+Character Matchups
+Player Styles
+Credits
+
+*Intro*
+This is a strategy guide intended to provide you with the skills and
+tactics of playing Nina at a high level of competition.  Therefore, this
+guide is made with the assumption that you already know how to play Tekken
+3.  I'm not going to bother with the basics of Tekken 3 gameplay and
+strategy, there are many other well-made faqs out there for that.  This
+guide is also assuming that you are playing an opponent at a medium to high
+level of skill.
+
+*Why play Nina?*
+She can put pressure on your opponent like no other character.  She is
+fast, fun to play, has many spectacular combos and moves.  She for some
+reason seems to be unpopular (or maybe the other characters are more
+popular) and you can use the elements of surprise and unfamiliarity to your
+advantage.  She is a well balanced character and matches up good against
+every character so far. Also play her because you can be extremely mean
+with her, especially in the okizeme area.
+
+*Changes from Tekken 2 to Tekken 3*
+Nina was tinkered with a bit from Tekken 2 to 3.  In general, I'd have to
+say Nina was made even more powerful, despite a few obvious power-down
+effects.  Nina lost the stun-on-clean-hit Ninja Bitch Slap,  the Crab Claw
+multiparts can be broken, and her reversal isn't half as effective. 
+However, due to the changes in the Tekken engine, a handful of very useful
+new moves, and some now vicious okizeme, Nina is definitely top-tier of the
+Tekken 3 cast, if not the best overall.
+
+*General Nina Fighting Strategy*
+Nina was designed to be an offensive character.  Obviously everyone has
+their own playing style, but I believe that when you play an aggressive, in
+your face style of Nina you will get the best results.  
+
+*Conventions*
+MC - Major Counter, when you hit your opponent during the execution of his move.
+mC - Minor Counter, when you hit your opponent during the recovery of his move.
+Okizeme - Attacking a downed opponent.
+QR - Quick Recovery, rolling and rising immediately after hitting the ground.
+Clean hit - getting a damage or hit effect bonus by hitting an opponent
+really deep or solidly with a move.   In Nina's case, applies only to the
+Blond Bomb and Flip Kick, and possibly the Ninja Bitch Slap.
+
+*Basic Movelist*
+This is intended to be the first or one of the first complete movelist with
+hit levels.  If I miss any move, no matter how insignificant, please let me
+know.  As the Namco site's move list, the only one with damage points, is
+incomplete, most likely I will not put damage points on this movelist until
+the home version is released, and there isn't space for them in the current
+format anyways.  The Expanded Movelist will have the damage for specific
+moves lifted from the Namco site for the moves that are there.  A note
+about move names:  in general, if you look at 5 different movelists, there
+will be 5 different names for a move.  This list is no exception.  The
+names for the moves are taken from various sorces, and by no means are
+official.  In general I just thought up names that somewhat described the
+move.  If you want official move names, go to Tekken Online, but I think
+they're pretty silly (read "phoenix smasher").
+
+Hit Effect Key (The hit effect that follows after an equal sign is what
+happens on MC):
+H:     Normal hit
+K:     Knocks down
+F:     Floats
+S:     Stuns in some manner
+R:     Rolls back
+
+Hit Level Key:
+h:     Hits standing opponents who are not blocking
+m:     Hits crouching opponents or standing opponents who are not blocking
+l:     Hits standing opponents or crouching opponents who are not blocking
+g:     Hits grounded opponents
+s:     Can be blocked by either standing or crouching opponents
+u:     Cannot be blocked
+caps:  Also hits grounded opponents
+
+THROWS (Escapes in brackets)
+Front:
+1+3			Arm Takedown {1}
+2+4			Lifting Toss {2}
+  1,2,1			  Falling Elbow
+    2,1,3		    Arm Snap
+d/f,d/f+1		Embracing Arm Strike {1+2}
+u/f+1+2			Overhead Toss {1+2}
+QCF+1+2			Chin Bash {2}
+  3,4,3,1+2		  Arm Bar {1+2}
+  2,3,4,2,2        	  Knee Bash, Neck Snap {2}
+    1,3+4,1,2,1+2 	    Falling Neck Snap {1}
+    1,2,4,3,1+2+3 	    Octopus Special {1+2}
+  1,3,2,1		  Standing Arm Lock {1}
+    3,1,4,1+2,1+2	    Double Arm Break {1+2}
+    2,1,3,4,1+2		    Falling Arm Lock {1}
+QCB+1+4			Evading Knee Bash
+  2,1,1+2,1+2+3		  Twisting Arm Lock {2}
+    1,3+4,1,2,1+2	    Falling Neck Snap {1}
+    1,2,4,3,1+2+3	    Octopus Special {1+2}
+  1,3,2,1		  Standing Arm Lock {1}
+    3,1,4,1+2,1+2	    Double Arm Break {1+2}
+    2,1,3,4,1+2		    Falling Arm Lock {1}
+QCF+3+4			Crab Claw {1}
+  3+4,3,4,1+2		  Arm Bar {1+2}  
+  3+4,4,2,1+2		  Achilles Tendon Lock{2}
+    3,1,4,2+4		    Single Leg Lock {1}
+    1,3,2+4,3+4,1+2 	    Figure-Four Leg Lock {1+2}
+
+Left:
+(any throw motion) Arm/Leg Snap {1}
+
+Right:
+(any throw motion) Swinging Arm Toss {2}
+
+Back:
+(any throw motion) Crawling Limb Snap
+
+MOVE NOTATION		DESCRIPTION	   HIT LEVEL	  HIT EFFECT
+
+SIMPLE MOVES		
+u/b+3_u+3_u/f+3		Quick Sky Kick		m		K
+u/b+4_u+4_u/f+4		Leaping Kick		h		K
+3			Slow High Kick		h		K
+4			Fast High Kick		h		H
+1//2			Jab//Slow Jab		h		H
+d+3_wc+3		Turning Sweep		L		H
+d+4_wc+4		Quick Low Kick		l		H
+d+1_2//wc+1_2		Low Jab_Slow Low Jab	l		H
+d/f+1_ws+1//d/f+2_ws+2	Uppercut		m		H//F
+d/f+3			Slow Sidekick		m		H
+d/f+4			Quick Sidekick		m		H
+ws+3			Turning Heelkick	h		K
+ws+4			Quick Axekick		m		H
+
+SPECIAL MOVES
+d+4,1			Low Kick, T-A Slap	lh		H
+d/b+2			Ninja Bitch Slap	m		H=S
+d/b+1			Swipeing Uppercut	m		H
+d,D/F+2			Swinging Uppercut	m		F
+f,f+1			Step-in Slap		h		H
+f,f+2			Quick Stab		m		H
+f,f+1+2_ws+1+2		Blond Bomb		m		K=R
+F+1+2			Delayed Blond Bomb	m		K=R
+b+2,2			Double Slaps		mm		K
+f,f+3_QCF+3		Bad Habit Kick		m		H=S
+f,f+4_QCF+4		Flip Kick		M		H
+u/f+4,3,4		Can Opener		hlh		H=K
+wc,d/f+4		Leg Sweepy		L		K
+d/b+4			Leg Slicer		L		H
+d/b+4,3			Divine Cannon Combo	Lm		F
+d/b+3+4_d,d/b+3		Divine Cannon		m		F
+SS+1+2			Super Blond Bomb	m		K=R
+SS+2			Palm Uppercut		m		H=F
+SS+b+1_b+1		Evading Chop		h		K
+SS+1			Palm Hit		m		H
+SS+4			Shin Sweep		L		H
+d+3+4			Grind			G		-
+u~u/b			Backflip		-		-
+b+1+3_b+2+4		Attack Reversal		-		K
+d+1+3_d+2+4		Low Guard Break		-		-
+d/b+1+2(u,u to cancel)	Hunting Swan		u(m)		K
+QCF,d/b+2+3		Poison Breath		u(h)		H
+Tenstrings:
+1_d/f+1_ws+1,2,1,2,3,3,1,2,1,4		h_m,h,h,h,h,l,h,h,h,h
+1_d/f+1_ws+1,2,1,2,3,3,1,2,4,3		h_m,h,h,h,h,l,h,h,l,m
+1_d/f+1_ws+1,2,1,2,4,3,4,2,4,3		h_m,h,h,h,h,l,l,m,l,m
+
+PUNCH/KICK COMBOS
+3
+  3
+    2			Kick, Low Kick, Uppercut		hLm
+    4			Kick, Low Kick, High Kick		hLh
+    d+4			Kick, Low Kick, Ankle Kick		hLl
+  4			Kick, Turn-Around Kick			hh
+4
+  3
+    2			Fast Kick, Low Kick, Uppercut		hLm
+    4			Fast Kick, Low Kick, High Kick		hLh
+    d+4			Fast Kick, Low Kick, Ankle Kick		hLl
+d+3
+  2			Low Kick, Uppercut			hLm
+  4			Low Kick, High Kick			hLh
+  d+4			Low Kick, Ankle Kick		
+1_d/f+1,2
+  1,2,f+1+2		4 Punches, Blond Bomb			hhhhm
+  f+1+2			2 Punches, Blond Bomb			hhm
+  3			2 Punches, Kick				hhh
+  4			2 Punches, Turn-Around Kick		hhh
+  d+3
+    4			2 Punches, Low Kick, High Kick		hhlh
+    2			2 Punches, Low Kick, Uppercut		hhlm
+d+1,N+4			Low Jab, Toe Kick			sm
+d+2,N+4			Slow Low Jab, Toe Kick			sm
+2
+  4			Punch, Turn-Around Kick			hh
+  3			Punch, High Kick			hh
+  d+3				
+    4			Punch, Low Kick, High Kick		hlh
+    2			Punch, Low Kick, Uppercut		hlm
+d/f+3
+  1,2,f+1+2		Mid Kick, T-A Slap, Punch, B Bomb	mhhm
+  4			Mid Kick, Turn-Around Kick		mh
+  2
+    1,4			Mid Kick, 2 Punches, Sweep		mhhLH
+    d+3
+      2			Mid Kick, Punch, Low Kick, Ucut		mhLm
+      4			Mid Kick, Punch, LKick, H Kick		mhLh
+    3			Mid Kick, Punch, High Kick		mhh
+    4			Mid Kick, Punch, T-A Kick		mhh
+  3,3
+    3			Mid Kick, 2 High Kicks, Low Kick	mhhl
+    4			Mid Kick, 2 High Kicks, T-A Kick	mhhh
+    1,2,f+1+2		Mid Kick, 2 H Kicks, Punches, BB	mhhhhm
+   
+
+*Expanded Move Section*
+This section is intended to explain in detail everything there is to know
+about all of Nina's moves, in terms of what it does, how good it is and
+when to use it.  Damage for the moves on the Namco site is listed
+underneath each move.  If you don't know already, in a player vs. player
+fight, each lifebar is 140 points.  In a player vs. cpu fight, each bar is
+115.
+
+THROWS
+Arm Takedown (1+3)					Usefulness: **
+Damage: 30
+Nina grabs the opponent's arm and spins them to the ground.  Can be
+followed up with okizeme.  Useful if your 2+4 throw is being consistently
+broken, otherwise don't use it.
+
+Lifting Toss, Falling Elbow, Arm Snap (2+4,1,2,1,2,1,3)	Usefulness: ***
+Damage: 30, 5, 10
+The better of the two normal throws.  Does slightly more if you get the arm
+snap, and has okizeme possibilities.  To get the elbow/arm snap, do the
+1,2,1 immediately after you hit 2+4, and then hit 2,1,3 right as she hits
+the ground.  The damage on this throw was toned down from Tekken 2.
+
+Embracing Arm Strike (d/f,d/f+1)			Usefulness: ****
+Damage: 50
+Nina's single best throw.  Can be followed immediately with a 25 point
+d+3+4 grind, and then okizeme.  Obviously not a throw you are going to get
+frequently because of the difficult motion, but it has its uses after a
+d+4,1 and as a mC.  Broken with 1+2.  More on this in other sections.
+
+Overhead Toss (u/f+1+2)					Usefulness: **
+Damage: 40
+This throw is odd because of the inordinate amount of execution time on it,
+and that it can be reversed (and reversal-broken with f+2+4).  However, the
+long execution time can be a boon in that if you throw it out sometimes,
+people will run into it.  1,2,u/f+1+2 seems to work a lot.
+
+Chin Bash multiparts (QCF+1+2)				Usefulness: **
+Damage: Chin Bash - 10
+	  Arm Bar - 30
+	  Knee Bash/Neck Snap - 30
+	    Falling Neck Snap - 35
+	    Octopus Special - 45
+	  Standing Arm Lock - 20
+	    Falling Arm Lock - 25
+	    Double Arm Break - 25
+These are the easiest of Nina's multipart starters to get off, however it
+is also the most easily broken.  I'd recommend against using the knee
+bash/neck snap as the 2nd part as the break is with 2 and people tend to
+hit it most often, however the octopus special after that part is the most
+damaging.
+
+Evading Knee Bash multiparts (QCB+1+4)			Usefulness: **
+Damage: Evading Knee Bash - 15
+	  Standing Arm Lock - 20
+	    Falling Arm Lock - 25
+	    Double Arm Break - 25
+	  Twisting Arm Lock - 28
+	    Falling Neck Snap - 35
+	    Octopus Special - 45
+Admittedly I haven't fooled around with these much.  The time to input the
+2nd part is extremely small, and its a very difficult throw to grab with in
+the first place as Nina takes a step back before the initial grab.  It can,
+however, go under many high attacks.  There is some confusion about this
+multipart series as some of the major movelists have different things
+listed.  Since I really haven't used them much I'm going with what Namco
+Online says for them.  I apologize in advance if they're incorrect.
+
+Crab Claw multiparts (QCF+3+4)				Usefulness: *
+Damage: Crab Claw - 15
+	  Arm Bar - 35
+	  Achilles Tendon Lock - 20
+	    Single Leg Lock - 35
+	    Figure-Four Leg Lock - 45
+These are also very difficult to get off, especially the Achilles Tendon
+Lock.  What works for me is to do QCF, pause, 3+4,3+4,4,2,1+2 very fast. 
+These do about as much damage as the Chin Bash ones.  As you probably know,
+a while running+3 to a standing opponent will automatically do the Achilles
+Tendon Lock.
+
+SIMPLE MOVES
+I'm not going to go into detail on all of these as they are pretty standard
+as far as Tekken normal moves go.  The Sky Kick (u/f+3) is extremely quick
+and hits mid, and recovers decently, however it only hits from extremely
+close range.  The Leaping Kick (u/f+4) unfortunately hits high and has some
+startup time, but if it manages to hit you can get an OTB combo with d+4,1. 
+Its also the start of the Can Opener.
+
+SPECIAL MOVES
+Low Kick, Turn-around Slap	d+4,1		lh	Usefulness: *****
+Damage: 7,10.  Damage is 10,10 if move is performed wc+4,1
+There is tons to say about this move so lets get right into it. This is the
+most overlooked move Nina has, and one of the most useful.  Basically its
+just a low kick then a turn-around chop.  If the low kick is a counter the
+slap is guaranteed, but don't use this move for the damage as its does
+basically nothing. Use it because the recovery on the turn-around slap is
+TINY and leaves you at a huge advantage, ESPECIALLY when the slap hits. 
+Keep in mind that the 1 can be reversed if the 4 is blocked, so be ready
+with reversal-break attempts.  2 of the biggest uses for the Low Kick,
+Turn-Around Slap (hereafter referred to as the LKS) is in float combos and
+for okizeme, both of which will be discussed in other sections.  When you
+use it against non-floating or grounded opponents, there is 3 basic
+situations:
+1)  The kick hits, the slap is blocked.
+This is obviously the most common situation.  If you use the LKS against a
+standing opponent, they will be forced to block the high slap if the low
+kick hits.  After the slap is blocked, you have a small initiative
+advantage, i.e. if you both punch after the slap, your punch will hit.  So
+what this means is that since the slap put you right in their face, you
+have the option of guessing what they are going to do and responding with
+the appropriate action.  If they duck or punch, Divine Cannon them.  If
+they stand, use the Embracing Arm Strike.  In general, the safest thing
+they can do is crouching punch, but your crouching punch will beat that as
+well a low guard break.  More on this in the attack string section.
+2) The kick MCs, the slap hits.
+This is where you really have a chance to inflict some serious pain.  You
+are at a much better advantage when the slap hits rather than blocked.  If
+you do an Embracing Arm Strike immediately after the slap hits, it will
+pull them out of everything they do including punches.  The only thing they
+can do is crouch, but that's easily remedied with a Divine Cannon, d/f+2 or
+other mid-hitting moves.  Note that if the slap hits, the recovery time on
+it is so low that 1,2 punches and d+1,N+4 is actually guaranteed, so go for
+it if they have just a little life left.
+3) The kick is blocked or hits, the slap whiffs over their head.
+Obviously this is the worse situation.  Your best bet here is to either
+backdash or crouching punch, most of the time the crouching punch will
+either come out or trade against whatever they're doing.  However if they
+block the kick it means you've trained them to start blocking low, which
+means you have them right where you want them.  Don't try to abuse the LKS
+against people with good fast while standing attacks like Jin and Xiaoyu as
+it can leave you with some major pain if the slap whiffs and they react
+with ws+2.
+One last note about the LKS: you can sidestep in the middle of it before
+the slap comes completely out, but not do a sidestep attack.
+
+Ninja Bitch Slap		d/b+2		m	Usefulness: *
+Damage: 20, 30 on clean hit
+Nina's old b+2 was wimped.  It no longer double-over stuns on clean hit,
+only on MC clean hit.  After it double-over stuns, you can still follow it
+up with an Embracing Arm Strike or a d/f+2 float.  Don't use it very much,
+as the execution and recovery time on it are both pretty bad, but at least
+its not mCable.
+
+Swipeing Uppercut		d/b+1		m	Usefulness: *
+Damage: 10
+This is a new Nina move, but one that I really don't see a use for.  It
+doesn't float, even on MC, and isn't blindingly fast or recover very well
+either.  Cute for show I guess.  At least it hits mid.
+
+Swinging Uppercut		d,D/F+2		m	Usefulness: **
+Damage: 24
+Another new Nina move that somewhat resembles the Swipeing Uppercut.  Nina
+takes a big step forward and swings her arm in an arc Jack-style.  It hits
+mid, and floats, but not very high and you can't follow it up very well
+with anything other than a punch.  The interesting thing about it is that,
+like Jin's ss+2, sometimes your opponent will spin around slightly while
+being floated, which means they can't  quick recover.  It would rate higher
+but in every circumstance where you can use it, the Divine Cannon is a
+better choice.  This is a move that everyone has conflicting ideas about
+how exactly it is performed but in my experience d,D/F+2 is the minimal
+required.
+
+Step-In Slap			f,f+1		h	Usefulness: *
+Damage: 20
+Don't use this move.  It hits high, has huge execution and recovery time,
+and pretty much sucks.  If you do somehow manage to hit with it a Divine
+Cannon Combo is guaranteed though, as they get turned to the side.  On MC
+they'll take a decent amount of damage and get knocked down.  Use at your
+own risk.
+
+Quick Stab			f,f+2		h(m?)	Usefulness: **
+Damage: 21, 15 for "mid" version.
+Nina steps in and stabs her hand into her opponent's face.  Recovery and
+execution time are moderate.  The only use for it that I've seen is if you
+need a dashing mid move and don't want the bad recovery of the Blond Bomb,
+or in wacky float combos.  Supposedly hits mid if you tap rather than hold
+forward, but I'm not 100% sure of that.
+
+Blond Bomb			f,f+1+2_ws+1+2	m	Usefulness: ***
+Damage: f,f+1+2 - 30, 45 on clean hit.  ws+1+2 - 20, 30 on clean hit.
+This is one of Nina's better moves, despite some pretty bad recovery time. 
+Nina steps in and does a double palmed strike to the opponent's midsection,
+knocking down on normal hit and rolling back on MC.  Does some good damage,
+and is moderately hard to sidestep.  Don't use it in float combos anymore
+(if you ever did in the first place), use the Bad Habit Kick instead.  Its
+good for long range mC, but I wouldn't recommend using it too much in
+normal fighting conditions as the recovery time is pretty horrendous and
+will put you in a bad position.  Although it is a 1+2 move, it is
+reversal-broken with f+2+4.
+
+Delayed Blond Bomb		f+1+2		m	Usefulness: *
+Damage: 20, 30 on clean hit.
+Don't use this move either.  The only difference between this and the
+normal Blond Bomb is that Nina takes a big step in prior to doing the move,
+during with she can be MC ed by anything.
+
+Double Slaps			b+2,2		h,h	Usefulness: **
+Damage: 15, 18
+Another decent new Nina move.  Nina takes a step in and slaps twice.  It
+knocks down on normal hit and MC, but odd things happen when only the
+second slap hits.  More on this in later revisions.  Anywise, it has
+moderate execution time and bad, but not terrible, recovery.  Its best uses
+are in float combos, although don't use it against players who QR as they
+can always do it before you can continue the float.  Don't use it on the
+ground too often, but its not bad if you're not sure of the diagonals and
+need a fast mid move.  If you somehow manage to connect with only the 2nd
+slap, the opponent will turn to the side instead of being knocked down,
+allowing for more abuse.
+
+Bad Habit Kick			f,f+3_QCF+3	m	Usefulness: *****
+Damage: 25
+Most likely the best of the new moves Nina gained.  Nina kicks the opponent
+in the groin with the toe of her foot.  If it hits normally, the opponent
+with grab their groin for a second, then stand back up.  On MC, they will
+grab their groin and fall to the floor with their butt up in the air.  If
+you use it successfully against a standing opponent, immediately dash in. 
+If the kick hit normally, they will recover about the time you get to them,
+leaving you with the initiative.  If it MCed, you can start a float with
+the LKS, or just do a Blond Bomb for some big damage.  This move has good
+recovery and execution, so use it at will when your opponent is within
+range.  The Bad Habit Kick is also the best guaranteed float combo ender
+Nina has.  Another nice thing about the Bad Habit Kick is that you can
+disguise it with the QCF, i.e. you can do QCF+3 one time, which hits mid,
+then do one of her crouch-dashing multiparts the next.
+
+Flip Kick			f,f+4_QCF+4	m	Usefulness: **
+Damage: 20, 30 on clean hit.  When missed, Nina takes 5 points.
+Nina jumps in the air and flips over, landing on her back.  As you've
+probably noticed, Nina will take damage if she doesn't hit anything at all
+and squirm on her back for a second.  However, you can quick recover from
+this move, although I'm not exactly sure how.  Most likely you can do it
+anytime you don't hurt the opponent with it, but the window of time you can
+QR is very small.  Anyway, against skilled players your not going to find a
+use for this move much.  Its best use is against grounded opponents or to
+end a float combo, but obviously they can QR and you'll miss.  However at
+the end of float combos it does substantially more damage than the Bad
+Habit Kick so it might be worth the risk.  Never use this move on a
+standing opponent as if they reverse it, you can't reversal-break it as it
+has a special reversal animation (Paul's powerbomb, Nina's leg spin etc.)
+
+Can Opener			u/f+4,3,4	hlh	Usefulness: **
+Damage: 20, 10, 14
+This is a risky move but if used sparingly, it can be an effective way to
+chip off the last 30 points or so from an opponent's life bar.  Nina leaps
+forward with her right leg then immediately do a low shin kick and a high
+kick.  It will sometimes catch opponents with bad reaction times or people
+who are unprepared for it.  If you need just a last bit of life, you can do
+the first two hits and not be in too much trouble if they are blocked. 
+Quick-thinking players can low guard break the second hit, so be careful. 
+If the whole thing is ducked, you are in for some rough loving, but the
+second hit pushes back far enough so that the standard while standing+2
+will whiff.  Try to use it sparingly or in weird situations where your
+opponent won't be expecting it.
+
+Leg Sweepy			wc,d/f+4	L	Usefulness: ****
+Damage: 18
+This is a great addition to the Nina arsenal.  Nina goes real low to the
+ground and swings her legs around underneath the opponent and knocks them
+down if they were standing.  Its great when your opponent is on the ground
+and you need a last bit of life to finish them off.  It has a deceptive
+range on it, enough so that if you use it up close, it will catch
+back-dashers.  If someone manages to block it, they are pushed far enough
+way so that only a ws+4 or maybe 3 will catch you.  More on this move in
+the Okizeme section.
+
+Leg Slicer			d/b+4		L	Usefulness: ***
+Damage: 10
+First part of the Divine Cannon Combo.  Nina quickly kicks at her opponents
+shin and falls on her face, leaving her feet towards the opponent.  In
+Tekken 3, she can now roll back or forwards after the Leg Slicer, but not
+dive unless you turn over to her face by pressing 1 prior to rolling. 
+Useful if you are playing hit and run, or if you just need a little life
+off to kill your opponent.  Be wary against good players though, as they
+will expect this and low guard break it.
+
+Divine Cannon Combo		d/b+4,3		Lm	Usefulness: *****
+Damage: 10, 25
+Like the Jin Gut-Punch Rush combo, much of your tactics should be based
+around getting this move to MC.  Nina does a Leg Slicer, then immediately
+does a Divine Cannon.  On normal hit the Divine Cannon doesn't combo, but
+on MC it does and that should pretty much end the match.  This was slowed
+down slightly from Tekken 2, and the Divine Cannon can now be reversed, but
+is easily solved by buffering reversal-break attempts.  One thing to note
+is that the recovery time on the Divine Cannon in the Divine Cannon Combo
+is slightly smaller than a normal Divine Cannon, so you can do different
+float combos.
+
+Divine Cannon			d,d/b+3_d/b+3+4	m	Usefulness: *****
+Damage: 25
+Nina takes a big step forward and launches her upward.  There is no
+difference in the two different ways of executing this move but obviously
+the d/b+3+4 is easier to do.  This move comes out slower than it appears
+and has a moderate recovery time.  This is Nina's best normal juggle
+starter, and should be the move you use to mC with if you get the chance,
+but normally the execution time is a little to high to connect with it on
+mC unless you really anticipate a whiffed move.  The real nice thing about
+the Divine Cannon is that it goes under punches.  If people try to punch
+out or duck when they lose initiative, the Divine Cannon will snag them. 
+Be careful though, as if they manage to sidestep from close range you can
+sometimes be back thrown.  Both versions of this move are reversal-broken
+with f+1+3.
+
+Super Blond Bomb		SS+1+2		m	Usefulness: ***
+Damage: 20, 30 on clean hit.
+The Super Blond Bomb is a lot like the regular Blond Bomb but the animation
+is slightly different.  What's "Super" about it is that if you connect on
+normal hit, they will go flying away in a weird sort of Tekken 1-style
+Blond Bomb animation, and most importantly, not be able to Quick Recover. 
+On MC it give rollback animation like the normal Blond Bomb.
+
+Palm Uppercut			SS+2		m	Usefulness: ***
+Damage: 15
+Another nice sidestepping move.  Nina uppercuts with her open palm, 
+causing a stagger-like animation on normal hit and floats on MC.  Decent
+execution and recovery time, but doesn't do much in the damage department.
+
+Evading Chop			b+1_SS+b+1	h	Usefulness: **
+Damage: 15
+Nina sidesteps and chops out with her open arm.  Connecting with it causes
+a crumple-down animation, and she can easily start a combo with d+4,1. 
+However, the fact that it hits high and the not-so-good recovery time puts
+this move towards the end of the usefulness scale.
+
+Palm Hit			SS+1		m	Usefulness: *
+Damage: 15
+While the execution time is decent and it hits mid, it does basically no
+damage and the recovery is god-awful.  Another one of the "why the hell did
+they give her this?" category.
+
+Shin Sweep			SS+4		L	Usefulness: **
+Damage: 10
+Not a bad move.  Nina quickly sweeps with her leg, and if it connects,
+drops her opponent to their knees for a second.  Its not much for damage
+and the recovery time makes it something you don't want to whiff, but not
+its not bad for mixing it up while in-fighting and can confuse your
+opponent.  It can be followed up with immediate while standing moves if
+you're fast.
+
+Grind				d+3+4		G	Usefulness: ****
+Damage: 20, 10 if they are rolling.
+This is another great new move for Nina which helps her win the okizeme
+game.  It basically works like Paul's Stone Splitter (d+2) and King's
+ground throw (but faster).  The problem is that they can't be moving at all
+if you are going to get the full 25 or 30 points out of it.  This seems to
+be guaranteed after an Embracing Arm Strike.  Much more on this move in the
+Okizeme section.  
+
+Backflip			u~u/b		-	Usefulness: *
+Basically a glorified backdash.  Nina flips away similar to Lee's but is
+faster and recovers slightly better.  Use this if you want to get out of a
+bad situation quickly or feel like showing off, otherwise leave it alone.
+
+Attack Reversal			b+1+3_b+2+4	-	Usefulness: ***
+With the addition of reversal-breaks Nina's reversals has lost much of its
+usefulness.  Against skilled players, its best if you use it sparingly or
+at odd times.  Rising kicks can't be reversal-broken so you can use it
+effectively in Okizeme situations.
+
+Low Guard Break			d+1+3_2+4	-	Usefulness: ****
+A great new addition to Nina's defensive arsenal.  When attacked by a low
+kick or punch, Nina pushes away the attack, setting up for some punishment. 
+Keep in mind when Nina low guard breaks a kick, the opponent's recovery is
+much longer, allowing a guaranteed Divine Cannon.  When she breaks a punch,
+the recovery is very short.  Your best bet after a low punch guard break is
+to do an immediate Embracing Arm Strike as they will usually stand up right
+into as they will be expecting a Divine Cannon.  Note: the low guard break
+also works on special level attacks, like a crouching punch.
+
+Hunting Swan			d/b+1+2		u(m)	Usefulness: *
+Damage: 95.
+Like most unblockables, does massive damage and can be seen coming a mile
+away.  Best used when completely unsuspected or as a last-ditch attempt. 
+It gives crumple-falling animation and can be comboed into d+4,1.  It is
+reversal-broken with f+2+4.
+
+Poison Breath			QCT,d/b+2+3	u(h)	Usefulness: *
+Another seemingly useless move.  Does no damage to standing opponents. 
+I've heard it can be effective in Divine Cannon Combo combos but since I
+have a hard time getting this move consistently I haven't tried much.  A
+Divine Cannon may be guaranteed after it.
+
+Tenstrings
+All tenstrings are reversible at the 5th hit so be careful.
+
+1_d/f+1,2,1,2,3,3,1,2,1,4	h_mhhhhlhhhh		Usefulness: *
+Don't use this one as its the easiest to block and mC.
+
+1_d/f+1,2,1,2,3,3,1,2,4,3	h_mhhhhlhhlm		Usefulness: **
+Fairly tricky, ends in a super-lagged Divine Cannon Combo that you can get
+small floats after.
+
+1_d/f+1,2,1,2,4,3,4,2,4,3	h_mhhhhllmlm		Usefulness: ***
+Nina's best tenstring and the one you should use if you feel like using a
+tenstring.  Also ends in a Divine Cannon Combo.
+
+PUNCH/KICK COMBOS
+Again I'm not going to explain every one as most are fairly useless,
+especially the ones that end high.  Nina lost her ability from Tekken 2 to
+use the big sky kick in her P/K canned combos, i.e. 1,2,u+3 etc.  The d+3,2
+Low Kick, Uppercut is one of her best as the uppercut is guaranteed if the
+low kick MC s, but you're probably better off with the Divine Cannon Combo
+anyway.  Keep in mind that the only way to get the nicely annoying double
+sweeps is d+3,d+4, 3,3,d+4, and 4,3,d+4.  Abuse them if you can get away
+with them as nearly everyone is going to block high to avoid the uppercut
+float starter. The d/f+3,2 combos are like the d+4,1: you can sidestep
+during them but can't do sidestep attacks.
+
+
+*Combos*
+Here is the section on Nina float combos.  Lots of Nina combos,
+particularly the off the bounce or low floats, can be interchanged with
+other ones at a small damage difference.  Against players who don't QR,
+many of these combos can have a punch or two added at points.  Experiment.
+
+d/b+4(MC),3,b+2,2,d+3,N+4,f,f+4
+More or less Nina's most damageing Divine Cannon Combo combo.  Don't use
+this on experienced players often as they can Quick Recover from it at 2
+different points.
+
+d/b+4(MC),3,b+2,2,d+4,1,f,f+3
+Slightly less damage than the above combo and only Quick Recoverable at one
+point.
+
+d/b+4(MC),3,u/f+4,d+4,1,f,f+3
+This is the Divine Cannon Combo combo I use against players who QR.  It
+does slightly less damage than the above combo.
+
+(Face Down-Legs Toward Opponent position)3, ws+4,d+4,1,f,f+3
+While basically a "pretty" combo it has its uses, especially people who have 
+mistimed their okizeme attempt.  If you are playing against opponents who
+QR omit the ws+4.  Note that d/b+4 by itself will leave you in the FDLTO
+position.
+
+d/f+2,1,d+4,1,f,f+3
+This is the combo I use if I hit with Nina's quick uppercut or after any
+other low float.
+
+d/b+2(MC),d/f,d/f+1
+One badass combo.
+
+d+4,1,1,f,f+3
+This is the combo I use if you catch a back-rolling downed opponent with
+d+4,1.  More on this in the okizeme section.
+
+d/b+3+4_d,d/b+3,u/f+3,d+4,1,f,f+3
+This is the combo you should use if you connect with a Divine Cannon
+against opponents who QR.  If you don't think they're going to QR, use the
+1st Divine Cannon Combo combo as there is enough time to get the b+2,2
+after a normal Divine Cannon.  Using u/f+4 after a Divine Cannon will
+result in the d+4,1 being QRable.
+
+f,f+3(MC),<dash in>,d+4,1,b+2,2
+Obviously you can do other things after the LKS but this should give you
+some ideas.
+
+d,D/F+2, 1,d/f+3,2,3, f,f+4
+The reason this and others like it is an actual guaranteed combo is that
+sometimes after the swinging uppercut, punch, the opponent gets spun around
+so that he's faceing down, which means he can't QR from the flip kick.
+
+
+*Okizeme*
+By now you should be familiar with the okizeme game in Tekken 3. The game
+works like this: Player A is knocked down and Player B stands over them. 
+If A tries to rise, B does his low (but usually not ground) move that hits
+A out his attempt.  If B does it before A tries to get up, A can wait for
+it to whiff and counter with a rising kick.  However if B thinks A is just
+going to wait for the whiffed attack, B can do a ground move such as the
+grind, the Stone Splitter, ground throw etc.  Nina's standard okizeme move
+is the LKS.  If your opponent back or forward rolls when you do the LKS,
+both hits will connect and allow a small float combo. If your opponent side
+rolls, the 4 will hit and the 1 will whiff, allowing them to get up safely. 
+If they lie there, both hits will whiff and they'll be able to hit you with
+a rising attack before you can recover.  Obviously, you'll want them to
+back roll.  However you need to set them up for this.  A lot of this has to
+do with knowing your opponent. 
+Probably the best thing to do to start after you've knocked someone down is
+to do d+4.  This will hit side and back rollers, and allow you time to dash
+in and set them up again.  The best thing is that if they are lying there,
+the d+4 will whiff, and usually they'll try to rising kick you.  You then
+have a choice of guessing whether its a 4 and reversing it (rising 4s can't
+be reversal-broken), or a 3 and low guard break it.  Many players, after
+getting knocked down, will stay on the ground and wait to see what you do. 
+This is the perfect time to use the d+3+4 grind.  What's nice about the
+grind is that it recovers before they have an opportunity to get up safely,
+so you can repeat the whole process.  Nina has the meanest okizeme in the
+game, so be ruthless when you use it.  I estimate I get about 20-30% of the
+damage in a round I won from okizeme, and this is on people who play me all
+the time.  Good luck.
+
+
+*Attack Strings*
+Nina, like Jin and Xiaoyu, has the ability to string together moves almost
+seemlessly.  She can do this because of low recovery time on some of her
+moves.  When playing Nina aggressively, you need to predict what your
+opponent is going to do when you do X, and then counter with Y or Z.  In
+most cases, Y and Z are the Embracing Arm Strike and the Divine Cannon. 
+This section contains strings that will set up for Y and Z.  The most
+important thing to remember when attacking with a string is that when
+you've started a string, there is only a few things that they can do, and
+there is a way to counter every one of them.
+
+In general, your best bet for attacking is to use the LKS.  So many good
+things can happen if you guess correctly after this move.
+
+d+4,1,d/f,d/f+1_d/b+3+4
+This is a simple yet powerful string.  The vast majority of people are
+going to punch or duck after blocking the 1 slap, and the Divine Cannon
+beats both of them.  Remember to buffer reversal breaks for the Divine
+Cannon.
+
+d+4,1,d+1,ws+4
+This is basically a setup string for against people who like to low punch
+after d+4,1.  This easily flows into other strings or moves.
+
+d+4,1,d+1,d,df+4
+The low jab sets up for the sweepy very nicely.  The sweepy will catch them
+even after a backdash.
+
+d+4,1,d+1,d+2+4
+Use this when people start trying to low jab or kick after your low jab.
+
+d+4,1,d+1,d+4,1,d/b+3+4
+A confusing and very successful string as it trains your opponent to crouch
+into the Divine Cannon.
+
+1,2,u/f+1+2
+As stated before, an unusually successful string.  The extra range on the
+u/f+1+2 throw makes this connect.
+
+d/f+3,2,1, d/b+3+4_d/f,d/f+1
+The 3rd hit, the 1 punch, has a low amount of recovery on it and can be
+stringed into the Embracing Arm Strike or Divine Cannon easily.  The Divine
+Cannon is your best bet as most people will be expecting the 4 sweep after
+d/f+3,2,1.
+
+d/b+4,3(blocked),d+4,1
+A lot of times people will come in with a slow move after blocking the
+Divine Cannon Combo and the LKS will MC it, setting up for more fun.  This
+is an easy way to stay aggressive.  Don't use this against characters with
+fast horizontal mid moves, like Lei's rushing punches, as you'll be MC ed
+easily.
+
+d+1,N+4,d/f,d/f+1
+Occasionally people will walk right into the Embracing Arm Strike after the
+ws+4 as they're hoping for an intiative advantage.
+
+*WYTTGTDTDT Section*
+This section is what about to do in response to what you predict your
+opponent is going to do, or "When You Think They're Going To Do This, Do
+That".
+
+After losing intiative, duck or punch:
+Divine Cannon.  It will hit crouchers and go under punches easily.
+
+After losing intiative, reverse:
+Either throw, pause a second and Divine Cannon, or just do a mid/high move
+and reversal-break it.
+
+After losing intiative, sidestep:
+This is sort of a problem, not only for Nina but every character in
+general.  If they sidestep immediately after a medium or long recovery time
+move a Divine Cannon will usually snag them.   If they do it after a short
+recovery move or one that pushes you far away, your best bet is probably to
+dash in and Divine Cannon, or just Divine Cannon Combo if you think they're
+going to use a sidestepping move.  Be careful of using the Divine Cannon on
+sidesteppers as if you do it from close range and they dodge, they can
+sometimes back throw you.
+
+After losing intiative, ducking punch:
+If they're close up, you can low guard break the punch and follow with a
+throw or Divine Cannon.  If the punch is going to whiff normally, you can
+smack them with a Divine Cannon if you time it right, or just sidestep or
+reverse if you expect a ws+4.
+
+Tenstring:
+You can reverse them at certain points, but your best bet is to low guard
+break them at a low point, especially if its a kick as you will get a
+guaranteed Divine Cannon.  Examples: Paul 1,2,3,1,4, Nina 1,2,1,2,4,3, King
+1,2,1,1,3,3,4 etc.
+
+Quick Recover:
+An immediate Divine Cannon will usually catch them.  I'm not sure about the
+mechanics of the QR, as there has been times where I've Divine Cannoned
+someone 3 times in a row after a QR, and others where its been blocked. 
+Anyways, if your Divine Cannon is being blocked after a Quick Recovery,
+just switch to throws.
+
+Back roll and dive at you:
+The best thing you can do is fake like you're going to attack them, and
+then back dash, makeing their dive miss.  Embracing Arm Strike them.  If
+you're too close and you think they're going to dive, sidestep and run at
+them.  Usually they do a turn towards attack when you get close.  Just stop
+and then dash in and throw or Divine Cannon.
+
+Forward roll and dive at you:
+Obviously the best thing you can do is float them with d+4,1 before they
+can get the dive off.  If you're doing a lot of fakeing for the back roll,
+they might start doing the forward roll+dive from medium distance. 
+Sidestep and run at them.
+
+
+*Character Matchups*
+This section is about what you need to keep in mind while playing against
+the other characters with Nina.  The experience line is how much I
+personally have played Nina vs character X.  Key: ***** I play this matchup
+all the time against good players.  **** I play this matchup frequently. 
+*** I've played a some good players of this character but not a lot.  ** I
+have rarely played this matchup.  * I have basically no clue other than
+what I've learned from playing the computer or some scrub.
+
+vs Xiaoyu:						Experience: ***
+Keep in mind that the Blond Bomb and the Bad Habit Kick will hit Ling out
+of her Phoenix Stance.  Be careful with d+4,1 traps as she has the
+second-best ws+2 in the game and because of her height, the slap tends to
+whiff completely.  
+
+vs Nina:						Experience: ****
+Be ready with reversal-break attempts.  Try to learn something new.  If
+they get predictable with LKSes and Divine Cannon Combos, you can attempt
+to low guard break them at reasonably low risk.
+
+vs Yoshimitsu:						Experience: ***
+You can reverse nearly all his unblockables including the ultra-annoying
+HCF+1, but not f,f+3,1.  If they try to use the pogo stick as okizeme, rise
+with u+2, then u+3 sky kick them as if you try to punch out when they're on
+top of you you'll get smacked.  You can low guard break the d/b+3,3,3
+spinning kicks if you manage to block them.
+
+vs Law:							Experience: ****
+Basically be prepared to low guard break the b+2,3,4 Junkyard Combo, and if
+you're fast, the d/b+4 Dragon Tail Sweep.  Law can be an offensive force
+but most of that offense is centered around the Junkyard Combo, so if you
+take that away he's pretty much at your mercy.  You can mC the b+1,2,1
+tripple upper combo with an Embracing Arm Strike.
+
+vs Hwoarang:						Experience: ***
+Skilled Hwoarang players are going to try to mix up their stunning moves
+with stance-changing attacks.  Low guard break 1,1,3,3 and 3,3,d+3, and his
+other junk that ends low.  You can play more defensive against Hwoarang, as
+he has many holes in his offense and in general, relies on people falling
+for his tricks rather than solid offensive strategy.
+
+vs Eddy:						Experience: ***
+Use lots of LKSes.  Low guard break.  Use more LKSes.  The LKS will hit him
+out of both handstand and on-back position.
+
+vs Paul:						Experience: *****
+This is a tough match, but its better for Nina than it is for nearly any
+other character.  Basically you need to stay on top of him all the time, as
+if you let him get started with the crouch-dash, death fist_falling leaf
+crap you're going to be in trouble fast.  You can generally abuse the d+4,1
+traps more on him as he doesn't have a quick low punch (d+1 is the
+tilesplitter).
+
+vs King:						Experience: ****
+On paper a very even matchup as King can kick reverse the Bad Habit Kick
+and Divine Cannon Combo without worrying about reversal breaks.  However,
+Nina has a definite speed advantage over him.  If you happen to get
+multiparted, watch their hands and input the appropriate break.  If you
+block one ali kick, you can immediately low guard break the next.
+
+vs Lei:							Experience: ****
+Use lots of careful d/b+4s when he's in play dead position.  You can also
+use the f,f+4 flip kick but with good timing Lei can roll away from it.  In
+general the safest thing to do after a rushing punch-stance change is to
+low punch him out of it.  One thing to keep in mind is that unlike Tekken
+2,you can now reverse Lei's play dead position, 3+4 upkick.  If you have
+balls you can attempt to low guard break rave spins.  Also, whenever he is
+on his face do the flip kick, he can't sideroll away from it because
+hitting 1 when he's face down will make him flip over.  You can generally
+abuse the LKS on him as if he drops into play dead position while you do
+it, you'll pick him up off the ground and start a float.  If you see him
+going into the 4~3 cresent kicks, try to punch him out of them.  If you
+have to block them, the best thing you can do is hold down back and look at
+their controller.  If they hit 2, you have enough time to react and block
+high.  If Lei does 1,2,1 (start of the tenstr
+ings), I usually use the u/f+3 sky kick but there is probably something
+better you can use.
+
+vs Jin:							Experience: *****
+A very even matchup and one of the hardest for Nina.  Basically you need to
+set an offensive rhythm against him so he can't start his crouch-dashing
+guessing games.  However his ws+2 can easily mC the d+4,1 traps, so you'll
+need find something else to attack with.  Learn to on reaction low guard
+break u/f+4,4,4,4, 1+4,2,d+4,  TGF,sweep, and if you're ballsy, the hell
+sweep.  Attacking with d+3,2_d+4 is somewhat safe as many times, Jin
+players will look to mC the d+4,1 with a ws+2, and will crouch right into
+the d+3,2 uppercut because the low kicks look somewhat similar.
+
+vs Kuma:						Experience: *
+Easy win.  Too big and slow to avoid Nina's traps.  Doesn't float high
+after Divine Cannons.
+
+vs Julia:						Experience: **
+Lots of chances to low guard break on her, particularly with the d+4,4
+variants.  She has a hard time getting things going offensively.
+
+vs Gun Jack:						Experience: **
+Another fight where your speed and his lack of moves that will hit you out
+of LKS traps is to your advantage.
+
+vs Bryan:						Experience: ***
+You can low guard break 3,2,1,4 and 1,2,1,3.  Most Bryan players are going
+to attack you with his M/L quick strings so be ready with reversals.  Keep
+an eye out for his d/f+3 sweep.
+
+vs Heihachi:						Experience: ****
+He lost a lot of offensive power with the weakening of his hell sweeps, so
+you don't need to be on top of him at all times in order to beat him.  In
+fact, he's one of the easiest character to successfully sidestep and
+side/back throw.  His hell sweeps work like King's ali kicks: if you block
+one, you can low guard break the next, but "blocking" the first hell sweep
+high doesn't count as a block; you need to block the next one to low guard
+break the 3rd.
+
+vs Ogre 1:						Experience: **
+He can be a pain to play against with the Baek cheese sweeps and f,f+2. 
+He's not very solid either so you can generally hang around medium distance
+and punish him.
+
+vs Ogre 2:						Experience: **
+In general you should play him like he's Paul or you'll wind up eating lots
+of f,f+2 snake grabs.  Because of his size lots of things will hit him on
+the ground that normally won't, like the Bad Habit Kick and Blond Bomb.
+
+*Player Style Section*
+In my experience there are 6 different players out there.  Here's how to
+play against all of them.
+
+Scrub
+Obviously this can refer to a large number of Tekken "players" but by scrub
+I meansomeone who has NO clue what they're doing.  They will never block
+both hits of the Divine Cannon Combo and will usually get hit by both even
+if it doesn't MC (but it usually will).  Their character of choice is
+usually Eddy though scrubs have been sighted playing Law and Hwoarang also. 
+Basically its up to you how you want to beat them, usually if they're
+"playing" Eddy I just use them as an excuse to practice low guard break
+combos.  If you happen to get behind to one of them you can usually beat
+them with repeated LKSes but they'll probably throw a little scrub-fit.
+
+Novice
+These types of players know some moves and maybe even how to block.  They
+generally play whoever appeals to them personally but there doesn't seem to
+be reason behind it.  Common Novice character choices are Paul (death
+fist), Yoshi (Tekken 1 tenstring), Hwoarang (d+4,4), Jin (cheese sweeps),
+etc., basically the thing that differentiates Novices from Scrubs is that
+they can do one character's scrub-killing move.  They will regularly eat
+tenstrings, MC Divine Cannon Combos, multipart throws etc.
+
+Average
+Average players are in my opinion the most fun to play against.  They can
+throw (usually the same two buttons over and over), reverse (though they
+usually just do a move, reverse), block some level-changing moves like Paul
+d+1,4,2, and can even sometimes put together something resembling a float
+combo like 1, deathfist.  They usually play Paul or Lei and do their
+respective scrub killing techniques.  What's fun about them is that they
+will get completely flustered when they don't work.  They will be amazed by
+big juggle combos and still get their ass handed to them by okizeme. 
+What's funny about Average or Good players is that they think they're
+actually good at Tekken because they can beat all the other Scrubs and
+Novices.
+
+Good
+By Good I mean players that actually have some skill.  They can block all
+the reaction-block moves like Paul #D,d/f+2,2_1, they can use reversals
+somewhat effectively, they can somewhat adapt to your playing style and
+strategies.  Good players usually play Paul (still), maybe Jin, Lei,
+Heihachi, even Nina.  I'm kind of lumping Good and Average players together
+as they tend to use the same stuff and characters.  The difference between
+Good and Average players is that you will have to put some effort into
+beating Good players as they can put up a decent fight by not being as
+predictable as Average players.  What's neat about Good players is that
+they usually think they rule because they can beat all the scrubs and
+beginners.  They'll usually fall for Nina's good tenstring, can't
+reversal-break or low guard break, and duck or reverse a lot when they lose
+initiative.
+
+Expert
+These are the people like me.  They live and breath Tekken.  They can
+block/counter every tenstring and reaction-block moves, can reversal-break,
+can low guard break, etc.  Most Experts will play at least 4 characters
+with a degree of mastery and a few more at a good level also.  Before you
+go off proclaiming yourself a Expert consider this: Experts become Experts
+from one thing: good competition.  They become good  through playing others
+regularly who have skill and winning.  I personally am extremely lucky as
+our Tekken is .25$ to continue so it encourages competition. Consider
+yourself an Expert if you have gone to every arcade in your area at least a 
+couple times and have beaten everyone there soundly.  Chances are you will
+find someone who is good and if you can beat them you are probably at an
+Expert level.  When you play someone at an Expert level you have to be
+smart.  Don't ever expect the little strategies that you use to beat people
+of a lesser skill level will work against 
+them. You need to have a whole other set of tactics to use against very
+good and expert players.
+
+Master
+The line between Expert and Master play can be easily crossed.  Masters are
+100% cold-blooded and never ever make stupid mistakes.  They are completely
+ruthless, will take advantage of every opportunity they have and play
+merciless okizeme. The big difference between an Expert and a Master is
+that Masters have proved themselves in Tournament and non-local play.  You
+can call yourself a Master (and an addict) if you have traveled to a major
+metropolitan area just to seek out the best Tekken players and beat them. 
+However true mastery is probably outside the reach of most non-big city
+Experts unless they have a huge base of high-skilled Tekken players in
+their local area.
+
+*Credits*
+Chris "coz" Ozols (ozolschr@pilot.msu.edu) - Author, Asskicker
+Bruce Allen (brucea@minn.net) - Co-Asskicker, creator of lots of cool stuff
+Burnsville Players
+John - (Nina/Law) creator of other cool stuff.
+Chet - (Jin/Paul) for showing me the power of ultra-offensive Jin.
+Jarvis - (Paul/Jin) for thinking yer good.
+Jesse - (Paul/Jin) Also very good competition, too bad you stole everything
+from us.
+Saoeub - (Jin/Paul) do I really need a reason?
+Brady - (Lei) helping me learn how to rape people that QR.
+I-Wanna-Be-Like-You guy - (King) for giving me a good laugh.
+The Tekken Slut - (Nina) for kicking all the scrub's asses with Nina.
+The BBB guy - (Jin/Paul) making me laugh when I chicken you and you get pissed.
+Brian - (Jin) doing lots of tenstrings with Jin (aka low guard break time)
+Two-Dot-Chet - (Lei/Paul/King) Playing a solid Lei.
+MT - (Xiaoyu/Ogre/Bryan) Hmm.. free wins?
+Shaw - (King/Yoshi) More free wins?
+Buttons Julia guy - (Julia/Hwoarang) Wow, scrub Julia IS good.
+Zon - (Law) Having the guts to play Law with skill when you could just play
+Paul like everyone else.
+Drexel - (Paul) Hmm.. Killing the Paul winning percentage?
+
+*Standard Challenge*
+If you live in or are visiting the Minneapolis area, stop by Aladdin's
+Castle Burnsville or email me if you want to play a mean game of Tekken 3
+(or VF3 or SF3, I play them all).
+
+8/24/97
+

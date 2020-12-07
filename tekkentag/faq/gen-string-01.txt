@@ -1,0 +1,904 @@
+TEKKEN TAG TOURNAMENT 10-STRING AVOIDANCE FAQ
+Version 0.001
+January 21, 2000
+FAQ written by $muvMoney/David J. Antoine (david_j_antoine@msn.com)
+Copyright (c) 2000 $muvMoney/David J. Antoine.  All Rights Reserved.
+http://davidja.tripod.com/faqs/ttt10stringavoid.txt 
+http://homepages.msn.com/arcade/smuvmoney/faqs/ttt10stringavoid.txt
+
+Unpublished Work Trademarked (tm) and copyrighted (c) David Antoine 
+2000.  All Rights Reserved.
+
+IMPORTANT: YOU MUST READ AND AGREE TO EVERY PART AND EVERY WORD TO THIS 
+DISCLAIMER.  USE OF THIS FILE CONSTITUTES ACCEPTANCE TO THIS DISCLAIMER.
+
+In no event shall this document be reproduced or retransmitted in any way, 
+shape, or form (including but not limited to physical, natural, or electronic).  
+In no event shall this document be used for HTML, Perl, C++, HTMLScript, Active 
+Server Page Files, JavaScript, Java, or any other forms of webmastering that 
+exist without e-mailed permission from David Antoine.  In no event shall this 
+document be used at a password-protected site where either user accounts are 
+utilized and/or money is made through user accounts. Anyone who wishes to mirror 
+this document MUST make this document freely accessible (meaning no access 
+moderation exist at your site), FREE OF CHARGE (whether if it is through FTP, 
+HTTP, Gopher, Finger, LDAP, Mailto, or any other Internet Standards that are 
+approved by the World Wide Web Consortium), and in its 100% entirety, bugs 
+included.  David Antoine GRANTS NO PERMISSION IF FOR ANY REASON THIS FILE WILL 
+BE USED for any profitable (even if you fail to make any money out of it), 
+promotional, and/or commercial transactional purposes (including but not limited 
+to giving this file as some sort of bonus, gift, or otherwise which constitutes 
+making money out of this file which is illegal) whether the content of this 
+document is good or bad.  No permission will EVER be granted to any publisher, 
+editor, employees and/or associates of any publishing/editing corporation,  
+group, and/or business nor can it be used by any gaming guides, game sites, 
+magazines, guides, books, or any other profitable and/or promotional media that 
+exists IN ANY WAY, shape, form (including reprinting, republishing, OCR'ing, 
+etc.), and the like.  Permission is recommended if he/she wants to mirror this 
+document on his/her site.
+
+Currently, this document is being maintained and is the sole property of David 
+Antoine (david_j_antoine@msn.com).  This document is protected by ALL APPLICABLE 
+copyright and trademark laws, patent laws, and international treaties.  YOU MUST 
+TREAT THIS DOCUMENT LIKE YOU WOULD WITH ANY OTHER COPYRIGHT MATERIAL SUCH AS 
+ADOBE GOLIVE AND ADOBE PHOTOSHOP FROM ADOBE SYSTEMS, INC.  Remember any breach 
+of copyright, trademark, and/or patents (which includes but not limited to 
+plagiarism, stealing, laming, pirating, or otherwise) and failure to adhere to 
+the aforementioned URL and ALL PARTS of this disclaimer counts as unauthorized 
+reproduction and/or distribution (partial or full), resulting in severe civil 
+and criminal penalties, which is punishable through prosecution under the 
+maximum extent possible under the law.
+
+David Antoine acknowledges and respects all copyrights, patents (pending or 
+not), and trademarks whether if it's mentioned or not somewhere in this document  
+as no copyright infringement was intended.  David Antoine also acknowledges and 
+respects all copyrights, patents (pending or not), and trademarks of ALL OTHER 
+FAQ AUTHORS (whether if it's Kao Megura, John Culbert, Henry LaPierre, Josh 
+Harring, Mark Kim, or otherwise) and if for any reason I MUST USE any or all of 
+the document, it will be mentioned somewhere in this document, commonly in the 
+Acknowledgements section of this document.
+
+If for any reason you must use any or all of this document for your own FAQ, 
+please properly give credit where credit is due.
+
+IF FOR ANY REASON YOU DO NOT AGREE TO ALL OF THE TERMS LISTED AT THE URL 
+AFOREMENTIONED ABOVE AND/OR IF YOU DO NOT AGREE TO THIS DISCLAIMER, then you 
+must destroy this document at all costs.  Tekken, Tekken 3, Tekken Tag 
+Tournament, King, King The Second, Armor King and all other related events and 
+objects are registered trademarks and copyrighted (c) Namco.  All Rights 
+Reserved.  This document was carefully prepared and created by David Antoine in 
+respect to all Namco Properties, as no copyright infringement was intended.
+
+I'll make this clear: This document is MINE and there is NO UNAUTHORIZED USE of 
+this document at any cost!!!  You are free to mirror this document at your web 
+site, but IT MUST BE SHOWN IN ITS ENTIRETY AND IT MUST REMAIN 100% ORIGINAL AND 
+UNTOUCHED.  Feel free to distribute this document BUT IT MUST BE DISTRIBUTED 
+ELECTRONICALLY AND FREE OF CHARGE.  I didn't create this document so that some 
+lamer will come around and steal this work and/or have a Gaming Mag Company 
+(namely EGM, who's been making blood money from some Tekken 3 FAQs back in 1997) 
+print this document into a magazine.  NO MONETARY COMPENSATION CAN BE MADE FROM 
+THIS DOCUMENT AND THAT'S THE BOTTOM LINE.  ONE FINAL FOOD FOR THOUGHT: THE 
+DOCUMENT MUST BE FREELY ACCESSIBLE WHICH MEANS NO PASSWORDS, NO USER ACCOUNTS, 
+NO CHACHI CAN BLOCK ACCESS TO THIS DOCUMENT!!!
+
+Game Cave: KEEP YOUR HANDS OFF THIS FILE AT ALL COSTS!!!  I'VE HEARD THAT YOU'VE 
+BEEN MAKING BLOOD MONEY OUT OF SOME PEOPLE AND WE ARE GETTING SICK AND TIRED OF 
+YOUR MISCHIEF.  THIS WORK IS MINE AND IF YOU EVEN DARE USE THIS WORK TO MAKE 
+MONEY OUT OF IT, I WILL TELL YOUR PROVIDERS TO SHUT YOU DOWN FOR GOOD.  Note: 
+This copyright is shared with Kao Megura's and Mark Kim's well-placed copyright 
+except that Mark decided to make the copyright a little more severe.  Notice 
+that Mark Kim as well as I acknowledges ALL of Kao Megura's works and admires 
+his work and I wanted to imitate his copyright.  This copyright that you see is 
+similar to Mark Kim's copyright on his LA Machine Guns Anti-Terrorist Manual.
+
+################################################################################
+# TABLE OF CONTENTS                                                            #
+################################################################################
+
+CHAPTER I - INTRODUCTION
+     What Is This?
+     Where To Find This FAQ
+     Special Thanks
+          Special People
+          Contributors
+     Legend
+ 
+CHAPTER II - MISHIMAS & KAZAMAS
+     Jin Kazama
+     Kazuya Mishima
+     Heihachi Mishima
+     Angel/Devil
+     Jun Kazama
+     Lee Chaolan
+
+CHAPTER III - MARTIAL ARTS WANNABES
+     Forrest Law 
+     Lei Wulong
+     Eddy Gordo/Tiger Jackson
+     Paul Phoenix
+     Hwoarang
+     Baek Doo San
+     Bryan Fury
+     Ling Xiaoyu
+     Bruce Irvin
+
+CHAPTER IV - AINT NUTHIN BUT A CHANG WANG
+     Julia Chang
+     Michelle Chang
+     Wang Jinrei
+
+CHAPTER V - THE WILLIAMS SISTERS
+     Nina Williams
+     Anna Williams
+
+CHAPTER VI - THE JACKS OF ALL TRADES AND SPADES
+     Gun Jack
+     Jack-2
+     Prototype Jack
+     Ganryu
+     Kuma/Panda     
+
+CHAPTER VII - THE KINGS OF GIANT SWING
+     King
+     Armor King
+     Alex/Roger
+
+CHAPTER VIII - THE MITSUS
+     Yoshimitsu
+     Kunimitsu    
+    
+CHAPTER IX - THE OGRES
+     Ogre
+     True Ogre
+
+CHAPTER X - MOKUJIN/TETSUJIN
+
+CHAPTER XI - BIBLIOGRAPHY
+     Acknowledgements 
+     What's New In This Version
+          Version 0.001
+          Upcoming
+
+CHAPTER XII - EPILOGUE
+
+################################################################################
+# CHAPTER I - INTRODUCTION                                                     #
+################################################################################
+
+=================
+= What Is This? =
+=================
+
+Welcome to the Tekken Tag Tournament 10-String Avoidance FAQ.  This FAQ will 
+detail how to block/avoid destruction by character's 10-hit string.  I will not 
+detail everything in a character's hit strings.  I will only give you enough 
+detail to get by without misblocking.  In future revisions, I may include more 
+advanced topics including all possible reversal/parry points.  I assume you know 
+how to play TTT so I'm not going to include some fancy introduction to this 
+section.  Let's get to the crux of the matter, shall we?
+
+==========================
+= Where To Find This FAQ =
+==========================
+
+This FAQ will be posted on GameFAQs.  It can be also be found here:
+
+http://davidja.tripod.com/faqs/ttt10stringavoid.txt 
+http://homepages.msn.com/arcade/smuvmoney/faqs/ttt10stringavoid.txt
+
+==================
+= Special Thanks =
+==================
+
+Without the following, this FAQ would not be possible.
+
+------------------
+- Special People -
+------------------
+
+God: For allowing me to grace this earth and blessing me
+Family: For birthing, raising, loving, and tolerating me
+Myself: For finally deciding to write a 10-hit string FAQ so others don't have 
+to killed by these things
+
+----------------
+- Contributors -
+----------------
+
+Web Sites: Tekken Zaibatsu, TekkenTagTournament.com
+
+==========
+= Legend =
+==========
+
+For the charts I will be using in this FAQ (known as blocking charts), this is 
+what each number or letter will mean:
+
+0-9 = Block high (hit is always mid or high in that circumstance)
+L = Block low (hit is either high or low but never mid in that circumstance)
+: = End of string
+/,\,- = Possible string paths
+
+Outside of the blocking chart, assume standard numerical Tekken notation unless 
+otherwise specified.  Here is an example of a blocking chart:
+
+1-L-3-4-5-L-7-L-L-0:
+
+This chart is indicating that you should block low at hits 2, 6, 8, and 9 (the 
+L's) because those hits regardless of the string are either high or low but 
+NEVER mid.  If the move is actually low, you can parry it.  If the move is high, 
+chances are you can crouch and counter pretty easily.  For the other hits 
+listed as numbers, always block high as the move is always mid or high.  With 
+that said, let's look at the individual characters who have hit strings.
+
+################################################################################
+# CHAPTER II - MISHIMAS & KAZAMAS                                              #
+################################################################################
+
+========================
+= Jin Kazama/Devil Jin =
+========================
+
+Jin has the most hit strings in the game.  He can do 5, 8, 9, 10, or 11 hit 
+strings IIRC.  However, you can use process of elimination to determine what 
+string Jin might do simply by looking at the first two hits.  He has four string 
+starters:
+
+Punch-Kick
+Kick-Punch
+Punch-Punch
+Devil Jin only
+
+Here are the charts and the explanation for each set:
+
+                       4-5:        L-1:
+                      /           /  
+JIN PUNCH KICK = 1-2-3-L-5-6-L-8-9-0-1:
+                                    \ 
+                                     L:
+
+If he starts with a punch kick combo, one of two things can happen:
+
+1) Jump Kick: If he leaves the ground, attempt an attack reversal or throw a 
+jab.  This is the best way to stop the jump kick string.  If you miss that 
+reversal/punch at hit 3, block low at hit 4 and then block high and attempt 
+another reversal at hit 5.  After that, hit 7 is low.  He throws high moves for 
+hits 8 and 9 so try to stop him there (crouch and counter) because at hit 10, he 
+can go mid (Thunder God Fist) or low (Can-Can Kicks).  If hit 10 gets you, then 
+it won't matter what hit 11 because you will be juggled.  If you do block hit 
+10, he can still mix it up if he went for the Thunder God Fist.  
+
+2) If he does a punch (Laser Cannon) after the punch kick opening, simply block 
+high until hit 5.  The combo ends there.
+
+                                 L:
+                                / 
+JIN KICK PUNCH = 1-2-3-4-L-6-7-8-9-0:
+                                \  
+                                 9:  
+
+If the string starts with a kick-punch combo, crouch at hit 4 and counter.  This 
+is the best way to stop this string so you don't have to worry later.  However, 
+if you block hit 4, you will eat a stun that will let him continue the string 
+with a White Heron combo (1+4,2).  From there he can do the following at hit 8:
+
+1) Thunder God Fist: Stand up if you think this coming.  However, he can follow 
+up the Thunder God Fist with a mid/low kick.
+
+2) Stun Punch: He starts the b,f+2 string.  Just block high.
+          
+                          L-6-L-8-U:         
+                         /          
+JIN PUNCH PUNCH = 1-2-3-4-5-6-L-L-9-0:
+                                   \
+                                    U:
+
+If the 10-string starts with two punches, then it is also somewhat complicated.  
+Here is what can happen next:
+
+1) Punch Punch to Kick Kick: If hits 3 & 4 are kicks, then he is going for a 9-
+string where hits 5 and 7 are low.  You have to hit him between hits 8 (mid) and 
+9 since hit 9 is actually unblockable.
+
+2) Punch Punch to Punch Punch: If hits 3 & 4 are punches, hit 7 will always be 
+low.  Hit 8 can be high or low so block low to be safe.  Stand up for hit 9 
+since that is always mid in this case.  Hit 10 can be an unblockable so if you 
+see lightning, hit him before he hits you.  
+
+DEVIL JIN = 1-2-3-4-5-6-7:
+
+Just block high.  This is a true combo where only the 6th hit is mid.
+
+For the record, this is the only section that is large and difficult.  The rest 
+become much easier.  Jin just has too many hit strings. :)
+
+==================
+= Kazuya Mishima =
+==================
+
+Kazuya has 3 hit strings: 1 9-hit and 2 10-hit.  Here is the blocking chart:
+
+                           U: 
+                          /
+KAZUYA = 1-2-3-4-5-6-L-L-9-0:
+                      \
+                       8-U:
+
+Kazuya always starts with two punches.  However, what will happen next is based 
+on hits 3 & 4:
+
+1) Kicks: If hits 3 & 4 are kicks, then Kazuya is doing a 9-hit string.  Block 
+low at hit 7 (always low), stand up for 8 (mid), and hit him out of hit 9 
+(unblockable).  
+
+2) Punches: If hits 3 & 4 are punches, then block low for hits 7 (always low) & 
+8 (high or low but never mid) and stand up for 9.  If he starts to glow or spin 
+around, hit him because he is doing an unblockable.
+
+====================
+= Heihachi Mishima =
+====================
+
+Even though Heihachi has 4 10-hit strings, 3 of them can be blocked exactly the 
+same way.  Here is the blocking chart:
+
+HEIHACHI = 1-2-3-4-5-6-L-8-9-0:
+                \       /
+                 L-L-6-7
+
+Heihachi can start the string two ways:
+
+1) Kick: If he starts the string with a side kick, hits 4 and 5 are low (Hell 
+Sweeps).  You can low parry them.  The rest are high or mid.
+
+2) Punch: If he starts with a punch, the 7th hit is low. Block low or parry.  
+
+If you misblock the last low hit of either string, you eat the rest of it IIRC.
+
+===============
+= Angel/Devil =
+===============
+
+Angel/Devil only have one 10-hit string taken from Kazuya.  Here is the block 
+chart:
+
+ANGEL/DEVIL = 1-2-3-4-5-6-L-8-9-0
+
+Hit 7 is always low.  Block low here or eat the rest of the string.
+
+==============
+= Jun Kazama =
+==============
+
+Jun has 3 hit strings - 1 4-hit and 2 10-hits.  Here is the block chart:
+
+JUN = 1-2-3-4-5-L-7-L-9-0:
+           \         \ /
+            4:        L
+
+Here is what can happen during the string:
+
+1) Kick @ Hit 4: If hit 4 is a kick, the string will end there.
+
+2) Punch @ Hit 4: If hit 4 is a punch, then be prepares to block low at hit 6.
+
+Hit 6 is always low, but it can take one of two forms:
+
+1) White Heron Kick: If hit 6 is the start of the White Heron combo, hit 8 is 
+high (it can be high or low) and hit 9 is low.  Blocking hit 9 low allows hit 10 
+to go over your head since it is high.
+
+2) Punch: If hit 6 is a punch, then hit 8 will be low.  I believe hits 9 and 10 
+are a Cartwheel Kick that can be reversed IIRC.
+
+Remember Jun has many other strings series as well, which are not covered here.
+
+===============
+= Lee Chaolan =
+===============
+
+Lee has only one 10-hit string that is taken from Law:
+
+LEE = 1-2-3-4-5-L-7-8-9-0:
+
+As with Law, hit 6 is always low.
+
+################################################################################
+# CHAPTER III - MARTIAL ARTS WANNABES                                          #
+################################################################################
+
+These are characters who are imitations of famous martial artists past or 
+present or who follow a popular, established martial art.
+
+===============
+= Forrest Law =
+===============
+
+Law's 10-strings are almost as complex as Jin's.  Unlike Jin, they can be 
+defeated with a simple blocking scheme if you know the patterns.  Here is Law's 
+simple blocking chart for all his strings:
+
+LAW = 1-L-3-4-5-L-7-L-L-0:
+
+Hit 2 can go high or low but not mid so block low to be safe.  Hit 3 is always 
+mid so stand up quickly.  Hit 4 is high.  Hit 5 is always a high left kick so 
+reverse it if you wish to or crouch and counter before Hit 6.  Hit 6 is always 
+low and is good parry bait.  However, if you misblock it, you will usually eat 
+the rest of the 10-string.  Hit 7 can be high or mid so stand up to be safe.  
+Hit 8 and 9 can be high or low but not mid so block low to be safe.  Hit 10 is 
+always mid so stand up.  You can also reverse hit 10 as it is always a flip 
+kick/somersault.
+
+==============
+= Lei Wulong =
+==============
+
+Lei has 3 strings: 1 9-hit and 2 10-hit.  Here is the blocking chart:
+
+            
+                  L-L-9: 
+                 / 
+LEI = 1-2-L-4-5-6-7-8-L-0:
+                     \ /           
+                      9
+
+It actually gets complicated if you forget to do one thing: block low on the 3rd 
+hit.  If you block the 3rd hit, simply Hop Kick for a free juggle or WS+4 for 
+free damage.  If you don't block it, he can juggle you with low backfists (very 
+likely) or he will perform a backflip at hit 4 and continue the string (unlikely 
+but possible).  Here is what can happen in the string from there:
+
+1) Three Backflips: If Lei backflips, three times, he is going into his 9-hit 
+string.  After the third flip, block low or parry hits 7 & 8 and stand up for 9.  
+
+2) One Backflip: If he only backflips once, you won't have a problem until hit 
+9, which can be mid or low.  However, since hit 7 is a break point and a high 
+kick, you have a window where you can crouch and quickly counter (hit 8 is mid) 
+or reverse the kick.  Since the other two strings are the same until hit 9, you 
+best stop Lei before that time.  If you block hit 9, you can reverse hit 10 as 
+it is always a high kick.
+
+Do yourself a favor: Block low at hit 3 and counter to stop the string. :) 
+
+============================
+= Eddy Gordo/Tiger Jackson =
+============================
+
+Eddy only has 1 true hit string.  However, he can link to his Leg Whip strings 
+halfway through the string for many more possibilities.  Here is his blocking 
+chart:
+
+EDDY/TIGER = 1-2-3-4-5-6-7-8-9-0-1:
+                      \
+                       L
+
+If the 6th hit is low, he goes into the Leg Whip strings (which will not be 
+discussed here).  Block high otherwise.  It may be better to stand and block 
+since Eddy's 11-hit has no break points after the 4th hit or later IIRC.
+
+============
+= Hwoarang =
+============
+
+Hwoarang has 2 10-hit strings.  Here is his blocking chart:
+
+HWAORANG - 1-2-3-L-5-6-L-8-9-0:
+
+For Hwoarang, hits 4 & 7 are always low.  Hits 7 & 8 are the Firecracker combo 
+(d+4,4) so block low and counter/punish. 
+
+================
+= Baek Doo San =
+================
+
+Beak also has 2 10-hit strings.  Here is his blocking chart:
+
+BAEK = 1-2-L-4-5-6-7-8-L-0:
+            \
+             L-5-6-7-L-9-U:
+
+If hit 3 is low (it can be high or low), hit 4 is mid and hit 9 will be low.  If 
+hit 4 is low (it can be low or mid), hit 5 is mid, hit 8 will be low, and hit 10 
+will be an unblockable that can be reversed IIRC, avoided, or countered.
+
+================
+= Paul Phoenix =
+================
+
+Here is how you can best defend against Paul's 10-strings:
+         
+               5:
+              /  
+PAUL = 1-2-3-4-5-6-7-L-9-0:
+              \         /
+               L-6-7-8-L
+
+If he goes into his 5 hit, it ends in a deathfist so block high if you're 
+not sure what string he is doing.  It's not worth losing a ton of damage because 
+you crouched at hit 5.  He can also do a 10-hit string where the 5th hit is low.  
+If Paul goes into his 10-hit strings, remember this: If the 5th hit is low, the 
+9th hit is also low.  Otherwise, the 8th hit will be low.  That's all you ever 
+need to know.  
+
+==============
+= Bryan Fury =
+==============
+
+Bryan Fury has 3 hit strings: 2 8-hit and 1 10-hit.  Here is the blocking chart:
+
+BRYAN = 1-2-3-4-5-6-7-8-9-0:
+                     \
+                      8:
+
+Bryan's block chart is quite simple because there are no low hits in any of his 
+hit strings.  Also, hits 5 & 6 are always high - you know the routine. :)
+
+===============
+= Ling Xiaoyu =
+===============
+
+Ling has 2 10-hit strings.  Here is the blocking chart:
+
+LING = 1-2-3-L-L-6-L-L-9-0:
+            \   /    
+             4-5
+
+Ling can go low or mid at hits 4 and 5.  After that, hits 7 & 8 are always low.
+
+===============
+= Bruce Irvin =
+===============
+
+Bruce Irvin has no 10-hit strings.  He has tons of other canned strings. :)
+
+################################################################################
+# CHAPTER IV - AINT NUTHIN BUT A CHANG WANG                                    #
+################################################################################
+
+===============
+= Julia Chang =
+===============
+
+Julia has 3 10-hit strings.  Here is the blocking chart: 
+
+JULIA = 1-2-3-4-L-6-7-L-9-U:
+                     \   
+                      8-L-0:
+
+Remember that the 5th hit is always low - low parry it if you can.  Stand up 
+again for hits 6 and 7 since they are either mid or high.  It get somewhat 
+complicated after that though.  Hit 8 can be high, mid, or low, but hit 9 is a
+break point.  Even if you misblock hit 8, you will be OK as long as you block 
+hit 9.  It comes down to this for the last three hits: 
+
+1) Hit 8 Is Low: if Hit 8 is low, block high for hit 9.  If hit 9 is blocked, 
+hit 10 won't come out since it's a Sky Upper (listed as an unblockable).
+
+2) Hit 8 Is Not Low: If hit 8 isn't low, hit 9 will be low and hit 10 will be 
+mid (a Flash Upper).  That wasn't too confusing, was it? ;)
+
+At hit 8, you basically switch blocking from low to high or vice versa.
+
+==================
+= Michelle Chang =
+==================
+
+Michelle has the same 10-hit strings as Julia:
+
+MICHELLE = 1-2-3-4-L-6-7-L-9-U:
+                        \   
+                         8-L-0:
+
+Remember that the 5th hit is always low - low parry it if you can.  Stand up 
+again for hits 6 and 7 since they are either mid or high.  It get somewhat 
+complicated after that though.  Hit 8 can be high, mid, or low, but hit 9 is 
+break point.  Even if you misblock hit 8, you will be OK as long as you block 
+hit 9.  It comes down to this for the last three hits: 
+
+1) Hit 8 Is Low: if Hit 8 is low, block high for hit 9.  If hit 9 is blocked, 
+hit 10 won't come out since it's a Sky Upper (listed as an unblockable).
+
+2) Hit 8 Is Not Low: If hit 8 isn't low, hit 9 will be low and hit 10 will be 
+mid (a Flash Upper).  That wasn't too confusing, was it? ;)
+
+At hit 8, you basically switch blocking from low to high or vice versa.
+
+===============
+= Wang Jinrei =
+===============
+
+Wang only has one ten hit string.  It is actually from Julia and Michelle Chang:
+
+WANG = 1-2-3-4-L-6-7-8-L-0:
+
+Hits 5 and 9 are low - simple. :)
+
+################################################################################
+# CHAPTER V - THE WILLIAMS SISTERS                                             #
+################################################################################
+
+=================
+= Nina Williams =
+=================
+
+Nina has three 10-hit strings.  Even though they can get really hectic, it is 
+simple to block them if you know the trick:
+
+NINA = 1-2-3-4-5-L-L-8-L-0:
+
+Hit 1 can be mid or high.  The second through fifth hits are always high so you 
+can crouch and D+1 before hit 6.  Hit 5 is always a high kick so reverse it if 
+you're feeling risky and frisky.  The 6th hit is always low for all strings.  
+Hits 7 and 9 can be high or low but never mid, so if you're not sure what string 
+she is doing, then block low at those points to be safe.  Stand up for hit 8 
+with Nina since it can be only mid or high.  Hit 10 is always a kick so if you 
+block/avoid hit 9, feel free to reverse the kick.  
+
+=================
+= Anna Williams =
+=================
+
+Anna only has one hit string so the blocking chart is simple:
+
+ANNA = 1-2-3-4-5-L-7-8-9-0
+
+Hit 1 can be mid or high.  All the hits afterward are high except for Hit 6 
+(low).  Ironically, you can use Nina's blocking chart as well for Anna since 
+Anna's only string is also used by Nina.
+
+################################################################################
+# CHAPTER VI - THE JACKS OF ALL TRADES & SPADES                                #
+################################################################################
+
+============
+= Gun Jack =
+============
+
+Gun Jack has 4 10-hit strings:
+
+GUN JACK = 1-L-L-4-5-6-7-8-9-0:
+            \       /     \ /
+             2-L-L-L       L
+
+There are two ways he can start the string:
+
+1) Jump Punch: If he jumps for Hit 1, then hits 3-5 will be low Cossack Kicks.
+
+2) Low Right Punch (d+2): From here, he will go into a low Shark Attack for hits 
+2 & 3 and uppercut for 4 and 5.
+
+At hit 6-8, block high for the Wild Swing mid triple.  He can then go low or 
+mid.  If you see Gun Jack duck down, block low.  Stand for hit 10.   
+
+==========
+= Jack-2 =
+==========
+
+Jack-2 has the same strings as Gun Jack:
+
+JACK-2 = 1-L-L-4-5-6-7-8-9-0:
+          \       /     \ /
+           2-L-L-L       L
+
+There are two ways he can start the string:
+
+1) Jump Punch: If he jumps for Hit 5, then hits 3-5 will be low Cossack Kicks.
+
+2) Low Right Punch (d+2): From here, he will go into a Shark Attack for hits 2 & 
+3 and uppercut for 4 and 5.
+
+At hit 6-8, block high for the Wild Swing mid triple.  He can then go low or 
+mid.  If you see Jack-2 duck down, block low.  Stand for hit 10.   
+
+==================
+= Prototype Jack =
+==================
+
+P. Jack only has one string, borrowed from Gun Jack and Jack-2:
+
+PROTOTYPE JACK = 1-L-L-4-5-6-7-8-9-0
+
+Block low at hits 2 & 3.
+
+==========
+= Ganryu =
+==========
+
+Ganryu does not have any 10-hit strings.
+
+==============
+= Kuma/Panda =
+==============
+
+Kuma doesn't have any 10-hit strings either.
+
+################################################################################
+# CHAPTER VII - THE KINGS OF GIANT SWING                                       #
+################################################################################
+
+========
+= King =
+========
+
+King has 5 10-hit strings, but he can turn them into 9-hit strings by starting 
+with a right punch (F+2).  In any case, the F+2 right punch is always considered 
+hit 2 in this analysis even if King started the string with it.
+
+Here is his blocking chart:
+
+         2
+          \ 
+KING = 1-2-3-4-5-L-L-L-9-0:
+                \   /
+                 6-L-L-L-T:
+
+Everything up to hit 5 is mid or high.  However, hit 6 can be mid or low 
+depending on what hit 5 is:
+
+1) Hit 5 Punch: If hit 5 is a punch (df+2 elbow), hits 6 and 7 are low.
+
+2) Hit 5 Kick: If hit 5 is a kick (WS+3), hit 6 is a mid jump kick (uf+3).  Both 
+kicks are easily reversible.  Hit 7 is always a low Stagger Kick.
+
+Even though hit 8 is always low, hit 9 can be low or mid depending on hit 8:
+
+1) Hit 8 Stagger Kick: If hit 8 is a Stagger Kick, stand up and block high for 
+hit 9 and hit 10.
+
+2) Hit 8 Foot Sweep: If hit 8 is a foot sweep (d+3), then hit 9 is low.  Block 
+low at all costs as hit 10 is a throw (escaped by 1+2).  If hit 9 is blocked, 
+hit 10 will not come out.
+
+It is important that you block the first low Stagger Kick in either combo.  If 
+you misblock, you are stunned for a long time, giving King a huge advantage.
+
+==============
+= Armor King =
+==============
+
+Armor King only has one 10-hit string, which is taken from King:
+
+               2
+                \
+ARMOR KING = 1-2-3-4-5-L-L-L-9-0:
+
+Block low at hits 6, 7, and 8.  Like King, he can start his string with an F+2.
+Like King, I believe that hit 6 causes a long stun if misblocked.
+
+==============
+= Alex/Roger =
+==============
+
+Alex/Roger does not have any 10-hit strings.
+
+################################################################################
+# CHAPTER VIII - THE MITSUS                                                    #
+################################################################################
+
+==============
+= Yoshimitsu =
+==============
+
+Yoshimitsu has 7 hit strings total - 2 5-hit, 2 8-hit, and 3 10-hit.  Several of 
+them end in unblockables so it is imperative that you stop the string before he 
+gets to that point.  Here is the block chart for Yoshimitsu 10-strings:
+
+                       6-7-8-U-U:
+                      / 
+YOSHIMITSU = 1-2-3-4-5-L-7-U-U-U:
+                    \     \
+                     U:    8:
+
+Yoshimitsu can start his two ways:
+
+1) Punch Upper Upper: If Yoshi starts with a Punch and two Uppercuts, you can 
+reverse the 4th hit, a high right kick.  You can also crouch under and counter.  
+Hit 6 in this case can be low or mid so it is best to stop Yoshi before then.
+
+2) Two Kicks: If Yoshi starts with 2 kicks, you can reverse the second one or 
+crouch under and counter.  In this scenario, you need to stop him before hit 5 
+because he has 5 hit strings that end with unblockables.  If he doesn't do a 5-
+hit with the unblockable, then you can reverse hit 5 (a right kick) or low parry 
+hit 6 (a low kick).  If you do neither, you may end up eating unblockables.  
+
+In either case, if Hit 5 is a kick, hit 6 will be low.  Be careful in both 
+cases.  If you don't stop Yoshi by hit 7, you may be eating unblockables if he 
+does a full 10 hit.  If he ends up doing an 8-hit, consider yourself lucky. :) 
+
+=============
+= Kunimitsu =
+=============
+
+Kunimitsu only has one 10-hit string taken from Yoshimitsu:
+
+KUNIMITSU = 1-2-3-4-5-L-7-8-9-U
+
+Hit 10 is unblockable.  Hit 6 is low.  Hits 4 & 5 are high kicks so reverse or 
+counter.  You can stop the unblockable if you're quick.
+
+################################################################################
+# CHAPTER IX - THE OGRES                                                       #
+################################################################################
+
+========
+= Ogre =
+========
+
+Ogre has no 10-hit strings.  He already borrows enough moves from other people.
+
+=============
+= True Ogre =
+=============
+
+True Ogre has no 10-hit strings either.  He also borrows a lot of moves from 
+other people and can breathe fire to boot.  Why would he need them?
+
+################################################################################
+# CHAPTER X - MOKUJIN/TESTUJIN                                                 #
+################################################################################
+
+Mokujin/Tetsujin is a copycat character.  It will take on the moves and 
+mannerisms of any character except Ogre, True Ogre, and Angel/Devil.  However, 
+it is important to be able to quickly figure out who Mokujin/Tetsujin is 
+mimicking.  The easiest one to tell is Eddy by his obvious stance.  However, 
+others are harder unless they throw moves at you.
+
+################################################################################
+# CHAPTER XI - BIBLIOGRAPHY                                                    #
+################################################################################
+
+====================
+= Acknowledgements =
+====================
+
+I found the information for 10-hit strings in TTT at the following locations:
+
+Tekken Zaibatsu (http://www.tekken.net)
+Tekken Tag Tournament Official Site (http://www.tekkentagtournament.com)
+
+==============================
+= What's New In This Version =
+==============================
+
+Here is where I list what has changed between revisions.
+
+-----------------
+- Version 0.001 -
+-----------------
+
+First version
+Almost complete already
+
+------------
+- Upcoming -
+------------
+
+More advanced ways to specific counter/avoid 10-hit strings
+Any appreciable feedback
+
+################################################################################
+# CHAPTER XI - EPILOGUE                                                        #
+################################################################################
+
+I hope this has helped clear up how to block 10-hit strings.  I didn't want to 
+get too much into parrying and reversals.  Once you can block the 10-strings, 
+then consider how to parry, reverse, and counter.  I would appreciate any tips 
+on the FAQ itself.  Email me at the address below any comments, questions, 
+critiques, or flames.  Thank you for taking your time to read this.
+
+This Electronically Published Document is copyrighted (c) and trademarked (tm) 
+by David Antoine.  All Rights Reserved.  This document is protected by 
+applicable copyright laws and international treaties.  Unauthorized 
+reproduction, retransmission, and/or a breach of copyright, partial or full, may 
+result in civil and criminal penalties and is subject to maximum punishment and 
+prosecution to the highest extent possible by law.  Please properly credit David 
+Antoine where credit is due.  This document is the sole property of David 
+Antoine.
+
+TTT 10-HIT STRING AVOIDANCE FAQ
+FAQ Written by $muvMoney/David J. Antoine
+Copyright (c) 2000 $muvMoney/David J. Antoine.  All Rights Reserved.
+david_j_antoine@msn.com
+http://davidja.tripod.com/faqs/ttt10stringavoid.txt 
+http://homepages.msn.com/arcade/smuvmoney/faqs/ttt10stringavoid.txt
+John 14:27
+Numbers 6:24

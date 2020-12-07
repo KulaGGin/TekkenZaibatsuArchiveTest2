@@ -1,0 +1,1316 @@
+VERY Advanced Guide to Playing Heihachi
+version 1
+By Reverend C. (K.C. Ma)
+e-mail me at: kma@uci.edu
+
+*****************
+* Legal Things: *
+*****************
+
+Tekken and all the characters in Tekken are copyrighted by Namco.  This
+guide is written by me, but if you want to distribute it or print it or
+whatever, feel free to do so as long as you don't alter the content. If
+you have to alter the content, to be included in your web site, or pub-
+lication, or whatever because my grammar sucks and I can't spell, just
+e-mail me.  If you want to make a profit out of this FAQ...  e-mail me
+for my written consent, but if you don't, I probably will not find out
+about it, but if I find out, I don't know, we'll find out when that hap-
+pens.  But if I see a crappy version of my guide being passed around
+web (because you have some lame comments or technique, and you want to
+add it to my work) I will not be very happy about it.
+
+*********************
+* Table of Content: *
+*********************
+
+Why Heihachi?
+Introduction
+Movelist
+Movelist In-Depth
+Strategies
+	-Kicking Ass
+		-Crouch Dashing
+            -Custom Strings
+		-Countering
+		-Okizeme
+		-Juggle
+		-Throw
+		-Chicken
+	-Defending
+		-Interupting
+		-Blocking or Sidestep
+		-Reversal & Parry
+		-Chicken
+Juggles/Combos
+	-Garanteed Juggles
+	-Stun Combos
+	-Escapeable Juggles
+VS. Human Strategy -coming in the next revision
+Having Fun
+Conclusion
+Credits
+
+
+****************
+* Why Heihachi *
+****************
+
+     Heihachi is the hardest non stance-changing regular sized character to
+master in Tekken.  With that cleared up, you might ask, why play Heihachi?
+Well, once you understand the nature of Heihachi, you will be so hooked on
+Heihachi's style of play.  Heihachi is pure power!  No fancy foot work, no
+complicated stance changing, no turtling all day waiting for an opening to
+attack, Heihachi is about constant carefully thoughtout attack that lead to
+juggles that take off one third of the life bar (if not more).  When you're
+playing Heihachi, you don't try to do a whole bunch of high, low level mix-
+ing attacks and tick your opponent to death.  Your whole objective will be
+starting a juggle, and then keep them juggle as long as possible and watch
+your opponent's life bar drains while float helplessly in the air.  The way
+Heihachi fights reflect his personality.  Heihachi will intimidate and des-
+troy you!
+
+
+*********
+* Intro *
+*********
+
+	Before I start, there's one thing I'd like to say here.  I write FAQs
+in a span of about two weeks, and during this time, new ideas occur to me,
+and I learn new things sometimes.  If that happens and I change my mind or
+want to add, I use *time lapse* to denote that.  If I jump from topic to 
+topic, or my view on one move completely changed, it's probably because I
+learn something new in that time.  Anyway, ike my other FAQs, this FAQ is 
+geared toward high level competition and not intro to Heihachi for begin-
+ners.  I'm assuming that you know how to block, how to side-step, how to 
+juggle, how to parry, etc.  This FAQ is meant for people who are already 
+good at other charactrs, but what to try Heihachi, because he has the best, 
+and I do mean BEST juggle of all.  If you're sick of Nina/Anna's poking, 
+Lei and Ling's stance changing, Paul's deathfist, Hwoarang's tricks, or 
+Julia/Michelle's tick damages, try Heihachi.  Heihachi will not only win 
+fights, he'll destroy!  Heihachi is power and offense in its purest form 
+in Tekken, he is the character designed to kick ass!  Few things before 
+you start though, if you haven't played characters that has crouch dashing 
+moves (f,n,d,df), be prepared to spend a lot of time to learn to do this.  
+To play Heihachi, you MUST be able to do this every single time!  If you 
+ever wanted a Wind God Fist, a something else come out instead, you're not 
+ready to win serious competitions with Heihachi yet, crouch dashing is so 
+important to Heihachi because without it, Heihachi will lose on consistant 
+basis.  Heihachi should stay outside of throw range (just a little bit).  
+At this range, Heihachi can start his crouch dashing guessing game, and he 
+doesn't have to worry too much about constant poking of faster character.  
+I know I make Heihachi sound like the best character in Tekken once you 
+master him, and he probably is one of the best character (right there with 
+Nina, Anna, Kazuya, Jin), but playing Heihachi isn't easy.  It'll take 
+perfect timing, extremely quick reaction, exploit every chance to inflict 
+damage to the fullest extent.  The old man is getting old (73 or 74), he 
+has slowed down and weakened a bit since Tekken 2.  The recovery is very 
+slow (don't ever wiff when you choose Heihachi), and his Hell Sweeps, Wind 
+God Fist, and Twin Pistons aren't as powerful as they were in Tekken 2.  
+Heihachi's strength lies in the damage he can inflict with juggles, and 
+his weakness is the slow recovery time of many of his important moves.  If 
+you can learn to deal with the slow recovery time, you will kill your com-
+petition with the sheer power that Heihachi possess.
+
+
+************
+* Movelist *
+************
+
+
+Conventions:
+
+Refer to Tekken Zaibatsu http://www.tekken.net for convention.
+
+Throws:
+
+Command         Place         Name                          Escape
+
+1+3             front         Neck Breaker                  1
+2+4             front         Power Bomb                    2
+f,f+1+2 [~5]    front         Stone Head                    1+2 #1#2
+f,f+1+4         front         Head Butt Carnival            1+2 #3#4
+2+5             anywhere	Tag Throw				2
+1+3_2+4         left          Tile Splitter Gullotine       1
+1+3_2+4         right         Freefall                      2
+1+3_2+4         back          Atomic Bomb                   N/A
+
+#1 You can quick recover after this throw
+#2 Special Tag only work with Jun
+#3 Only work on Jin, Heihachi, Kuma, and Lei.
+#4 Can be reversed with 1 or 2, and Heihachi can reverse again with 1+2
+
+Special Technique
+
+Command              Name                            Range       Special Properties
+
+b+1                  Alter Splitter                  m           GB KS#1
+1,2                  Double Punch                    h,h         
+  =4                 Roundhouse                      h
+1,1<2                Shining Fist                    h,h,m       #2
+1,2<2                Demon Slayer                    h,h,h       #2
+  =~1+2 [~U_~D]      Demon Executioner [~side-step]  m
+f+1<b+2,1            Demon Massacre                  h,m,m       #2
+f+1<b+2,4            Demon Lair                      h,m,m       GB #2
+d+1                  Tile Splitter                   m
+  =2                 Deathfist                       m
+df+1,2 [~5]          Twin Piston [tag]               m,m         JG
+f,n,d,df+1		   Thunder God Fist                m
+1+2                  Demon Breath                    m           CS KNDc
+b+2                  Demon Boar                      m           HS KNDc
+2,2                  Demon Backhand Spin             h,h
+F+2                  Demon Backhand                  h
+  =~1+2              Demon Breath                    m
+f,f+2 [~5]           Demon God Fist [tag]            m           JG
+f,n,d,df+2 [~5]      Wind God Fist [tag]             m           JG
+f,n,d~DF+2 [~5]      Electric Wind God Fist [tag]    m           JG GB
+QCT+2                Deathfist                       m
+WS+2                 Dark Thrust                     m           HS CSc
+f,f+3                Split Axe Kick                  m           GB
+WR_f,f,f+3           Leaping Slash Kick              m           GB
+f,n,d,df+3           Demon Gut Kick                  m           GB
+f,n,d,DF+3           Demon Slice Kick                L 
+uf+3,4               Hell Axe                        m,h         GB #3
+uf+4,4               Rising Sun                      h,L         
+QCT_WS_f,n,d,df+4<4  Tsunami Kick                    m,m         #2
+f,n,d,DF+4           Hell Sweep                      L           JGc KS 
+                                                                 BS #4
+  =N+4               Rising Kick                     m
+  =N+4,4             Tsunami Kick                    m,m
+  =1                 Thunder God Fist                m
+  =4_4,4             Hell Sweeps                     L_L,L       BS
+    =N+4             Rising Kick                     m
+    =N+4,4           Tsunami Kick                    m,m
+    =1               Thunder God Fist                m
+4                    Roundhouse                      h           CSc
+f+4                  Demon Axe Kick                  m           GB SLDc
+4~3                  Demon Scissors                  M           #5
+d+4                  Geta Stump                      G           #6
+b,b,N+3+4            Shadow Steps                    na
+2+3+4                Angry Taunt                     na
+f_F                  Charging Demon                  na          #7
+d+1+4                Demon Tile Splitter             !           #8
+
+
+#1 Stun on counter hit on standing opponent, regular hit on crouching opponent.
+#2 The hit after < can be delayed.
+#3 On neutral block second hit will connect, on active block both hit stuns.
+#4 Cause KS on regular hit, second hit can still be blocked.
+#5 Heihachi receives damage if wiffed.
+#6 Heihachi can only do this while opponent's grounded
+#7 Heihachi's right kick reversal, only work while Heihachi's doing a special move.
+#8 Right kick will be automatically reversed.
+
+
+*********************
+* In-Depth Movelist *
+*********************
+
+	Before you continue, make sure you can crouch dash (f,n,d,df) and its
+delay (f,n,d,DF).  Heihachi has 8 moves that can be started in crosh dash.
+All of them have special properties that either juggle or stun, except f,n,
+d,df+1 which is Thunder God Fist, but when Thunder God Fist connects, it'll
+do enough damage that you don't really worry about extra properties.  This
+section will cover all of Heihachi's special moves, what I think about it,
+when to use it, its strength and weakness, and a rating based on scale from
+one to five.
+
+
+b+1                  Alter Splitter                       m       GB KS
+
+This is probably one of Heihachi's fastest move.  It stuns lone enough for
+you to inflict decent damage.  If blocked, it takes your opponent quite a
+while to come out of block stun making this move very safe.  Its only pro-
+blem is the lack of range and the fact that it has very little range.  If
+you wiff this move, you'll be very sorry.  But this move is so fast, use
+it often, just don't wiff.
+
+****
+
+1,2                  Double Punch                         h,h
+
+Don't use this!  It hits high, and can be reversed.  The only time I ever
+use this is in the juggles.  If you have to do two punches, use 1,1.  
+
+**
+
+1,2,4                Double Punch, Roundhouse             h,h,h
+
+Don't use this!  Not even in a juggle, this is so useless I don't know
+why anyone would use it.
+
+*
+
+1,1<2                Shining Fist                         h,h,m
+
+This is the Mishima family special technique.  Same Shining Fist used by
+Kazuya and Jin.  This two jabs are extremely fast.  Even if you totally 
+wiffed, you'll recover in time to block.  In close range, Heihachi would
+suffer from lack of quick attacks that recover fast enough.  Heihachi's d+1
+is Tile Splitter, while useful, it's way too slow to either poke or inter-
+rupt.  Ideally, Heihachi should be played just outside of throw range, that
+way Heihachi can use his crouch dash to its fullest extent be lethal, but
+your opponent will know that.  Nina and Anna will poke their way into close
+distance where if you try to perform crouch dash, they'll attack you first.
+Jin, Bryan, Paul, Yoshimitsu, Kunimitsu, Ling, Lei, King, Hwoarang, Eddy,
+Kazuya, Julia, Wang, Michelle will all be able to get close to you.  With-
+out Shining Fist, Heihachi will be very vulnerable since his Shadow Step'll
+not be able to bail him out every time.  If only the first two jabs are 
+performed, it's extremely fast and can be use either to poke or trick your
+opponent.  If your opponent does anything slower then jab, do all three at-
+tacks.  It does decent damage (very nice damage in fact).  This move will
+give you room to breath, regroup, and initiate Heihachi's crouch dashing.
+The jabs are extrememly fast, and it's quite hard to reverse last punch, 
+but if you wiff the first two hits, and still want to finish this combo on
+the gamble that you can catch someone countering, buffer a chicken.
+
+*****
+
+1,2,<2               Demon Slayer                         h,h,h
+
+This move is much more useless than Shining Fist.  First, all three hits
+hit high, can you imagine what will happen if someone duck all three hits?
+Jin has WS+2 uppercut, Nina has WS+3 Spider Knee that can start juggles or
+Palm Grab, Anna has FC,f+1 stun, Bryan has WS+1 uppercut, and worst of all
+Kazuya has WS+2 Demon Gut Punch that will counter and result in Heihachi 
+losing more than half of his lifebar.  Second, it recovers slow.  While it
+is still faster than the recovery of...  Demon God Fist, basic uppercuts 
+and other quick juggle starters will hit Heihachi.  It's good in a juggle
+if in the heat of battle, you paniced and want easy juggle that does good
+damage, this is it, but other than that, don't use this.
+
+*
+
+1,2<2~1+2 [~U_~D]    Demon Executioner [side-step]        h,h,h,m
+
+This is much better than Demon Slayer, but still aren't that great because
+you have to count on your opponent blocking the three hits and not ducking
+them.  If the first three hits are duck though, most people will try stop
+blocking and take the Demon Breath, but don't count on this, the essence
+in this short combo is the side-step at the end.  After the side-step, you
+can usually connect a throw or Shining Fist.  Try to stay away from this
+move.
+
+**
+
+f+1<b+2,1            Demon Massacre                       h,m,m
+
+This should only be used in juggles.  If you use this outside of juggle, 
+you'll pay dearly.  However, it's great in juggles.  It does good damage,
+and looks good (and it's easy to time).
+
+**
+
+f+1<b+2,4            Demon Lair                            h,m,m     GB
+
+If the last kick connects, you'll be spaired the punishment for using this
+move, but don't count on that happening.  The kick stuns long enough for 
+Heihachi to take initiative, and push them back far enough to start crouch
+dashing.  The problem is, it takes forever to come out.  After the second 
+hit, Backfist, Paul has enough time to do QCT motion than counter Heihachi
+with Paul's own deathfist.  It's possible to trick your opponent to block
+the kick, or even take it, but be very careful (why bother, there are too
+many different alternatives, although it's a pretty cool combo).  I never
+used this in juggles, but I think it can be done, but why bother?
+
+*
+
+d+1                  Tile Splitter                          m
+
+Same Tile Splitter Paul has, but I think it does a little bit less damage.
+Not a bad move, if you counter, the Deathfist seem to be garanteed.  The
+best use of this move is to knock opponent down as they try to get up.  I
+don't really use this, but because its bad, but because Heihachi has bet-
+ter options everytime this move can be used.  One good thing about this
+move is the ease to perform it.  If you're stuck with a bad joystick or
+you have a bad machine where you can't find diagnal, use this and death-
+fist on counters.  With some luck it's possible to win.  I strongly sug-
+gest you don't use this on standing opponent, but if you do, buffer chic-
+ken.
+
+**
+
+d+1,2                Tile Splitter, Deathfist               m,m
+
+Same as the d+1,2 Paul has, does good damage on counter, but if you can
+get a counter, why not go for Wind God Fist?  It will end up doing more
+damage, look better, intimidate your opponent, etc.  Not that this is
+bad, just that Heihachi has better options.  If you read my Nina FAQ, you
+will know what I have to say about he Deathfist, buffer a chicken, and in
+this case, it actually make this somewhat useless move somewhat more use-
+ful.  You can purposely use this to induce reversal, and chicken!  The
+Deathfist recover fast enough to leave you safe from most of the moves,
+and this will teach your reverse happy opponent to think twice.
+
+**
+
+df+1,2               Twin Piston                            m,m     JG
+
+The second best juggle starter Heihachi has.  The move itself isn't that
+great (certainly not as good as it was in Tekken 2), but its great when
+you want to retaliate with a BIG juggle.  It does a bit more damage than
+Wind God Fist, juggles opponents a little bit higher (offset by the slow-
+er recovery, but still a little bit better), and come out faster (unless
+you're very good with the crouch dash and can make Wind God Fist come out
+instantly).  You can throw in a lot of df+1, and every now and then com-
+plete the move with 2 (won't always work against better opponent, but it
+is still worth trying).  If you're playing offense, stick with Heihachi's
+crouch dashing moves, but if you're defending and Paul just deathfisted,
+and wiffed, Twin Piston!  
+
+f,n,d,df+1           Thunder God Fist                       m
+
+This is Heihachi's most damaging moves.  In Tekken Tag Tournament, Thunder
+God Fist is become both a better, and worse move.  It got better in two 
+ways, first, the longer you crouch dash, the more damaging it becomes, and
+if you connect just as the crouch dashing's about to end, it'll do as much
+damage as Paul's Deathfist on counter!  But how do you connect Thunder God
+Fist after crouch dashing for that long?  If you do it after a lot of Hell
+Sweeps, you can trick someone into taking the Thunder God Fist (but don't
+ever do this on a master, it'll never work!).  The other way is to antici-
+pate your opponent's tagging.  If you know after a juggle, he will tag for
+sure because there's a small distance between you two, start crouch dash-
+ing.  You'll hit them as them come in.  If they come in a little earlier
+than that you anticipated, hit the 1 as soon as you see them.  The second
+reason this is better in TTT is because of the tag combos.  Anytime your
+other partner does a high juggle starter, Hwoarang's f,n,d,df+4 and Yoshi-
+mitsu's Kangaroo Kick for example, tag immediately and start the crouch
+dashing before Heihachi's actually in (buffer it).  Thunder God Fist will
+connect for major damage, and you can continue with f+1<b+2, Hell Sweeps,
+or other follow ups!  Now to the bad news, it VERY hard to use Thunder God
+in Heihachi's juggles :(  Wind God Fist, jab, jab, Thunder God Fist or f,
+n,d,df+2, 1, 1, f,n,d,DF+1 was Heihachi's most useful (not the most power-
+ful though) juggle, it'll do about 75% of your opponent's life bar.  When-
+ever I connect with Wind God Fist, I go for this.  In TTT however, it is
+extremely hard to do this combo.  I get it to work in earlier stages, and
+on human every now and then, but I don't think it actually combos (they
+were probably just trying to get up or something).  After a lot of frus-
+tration, I gave it up.  I don't even use it anymore, except on big char-
+acters like Kuma and Gunjack.  There are other ways Heihachi can do dama-
+ge to your opponent.
+
+****
+
+1+2                  Demon Breath                            m       CS KNDc
+
+Treat this as your parry or reversal.  Since Heihachi has no high/mid par-
+ry or reversal, this becomes very important.  It stuns long enough for you
+do inflict quite a bit of damage, and it's extremely fast.  On counter, it
+will put your opponent on the ground, and they can't quick recover.  To use
+this, you'll have to anticipate.  If you anticipate a jab coming, use it! 
+Or you can run up to your opponent's face, chance is they'll try to hit you
+can if you do this as soon as you approach them, it'll probably counter.
+Another thing to do is side-step, and use this.  Normally I try to juggle
+after successful side-step, but sometimes I need something faster, this is
+it.  In conclusion, don't use this too often, but when appropriate, don't
+hesitate.
+
+***
+
+b+2                  Demon Boar                              m       HS KNDc
+
+Very useful!  This can be use like Deathfist, and for some reason, no one 
+can block this thing.  Maybe because it has a delay, and people try to coun-
+ter it or something, but I don't care, this is Heihachi's little miracle 
+punch.  It recovers slowly, but as long as you don't wiff, you are prabably
+safe from retaliation.  I don't know if this move can be reversed or not, 
+since it has never happen to me before, but if I throw this out, I try to 
+buffer it with chicken anyway.
+
+***
+
+2,2_F+2_F+2~1+2
+
+Just don't use this, I don't them, and I really don't know how to use them,
+if you disagree, e-mail me, and I'll put your strategy up here and give you
+credit.
+
+I give this NO *, not even one
+
+f,f+2                Demon God Fist                          m       JG
+
+The highest juggle starter Heihachi has.  This is the juggle starter that'll
+do the most damaging juggle in Tekken!  The hard part is getting it actually 
+hit your opponent.  If you throw this out after Shadow Step, it'll catch the
+aggressive opponents sometimes, but don't count on it.  You can use this to
+induce reversal and chicken that, another good with to use it.  But to start
+a juggle with it is very hard, I only use it when f,f+3 stun kick connects, 
+which rarely happens.  Even though this is Heihachi's highest juggle start-
+er, I find this much more useful in ending juggles!  It looks good, does de-
+cent damage, and it works.
+
+**
+
+f,n,d,df+2           Wind God Fist                           m       JG
+
+This is THE juggle starter, this is the uppercut that defines juggle starter
+for rest of the characters in Tekken.  Juggle them to perfect height, comes
+out fast, can be delayed, hits mid, recovers fast, does good damage all by
+itself, and tons of follow up to kill your opponent.  No other juggle start-
+er will connect as often as this one (not even the basic uppercut).  You can
+even initiate this from side-step (kind of slow though).  With the new tag
+juggles, Heihachi become even better then he's ever been because he can con-
+nect Wind God Fist so often.  Everytime this connects, you can decide to tag
+or not to tag.  It completely eliminates the danger of being attact when you
+try to tag, and it connects so often tagging your other into the fight is
+very easy when you have Heihachi on as one of your character.  To make it e-
+ven better, Wind God Fist juggle them to the perfect height that everyone in
+Tekken can come in and finish this juggle and inflict a lot of damage.  To
+take full advantage of this move though, you must master the f,n,d,df and f,
+n,d,DF delayed version.  Oh, almost forgot (got too excited), buffer chicken
+because this is the most reversed move of all Heihachi moves.
+
+*****
+
+f,n,d~DF+2           Electric Wind God Fist                   m       JG GB
+
+Same as Wind God Fist, except if blocked, opponent staggers a little bit.  I
+would say it's better, but it's very hard to make this come out everytime. 
+I don't really try to do this, and when I do, it usually come out by itself
+when I move from d to DF very fast.  I don't completely understand this move
+or how to do it effectively, if anyone out there know, please e-mail me!
+
+***** (if you can actually do this)
+
+QCT+2                Deathfist                                m
+
+Same as Paul's deathfist, except it comes out a little bit faster and weaker.
+I guess this is fair, it's kind of hard to imagine a 73 year old doing 70% on
+counter hit with just one punch without a little dashing head start and stuff
+or a lot of time charging.  And Heihachi is extremely powerful already, not 
+like he need this or anything.  If Heihachi has a Deathfist that rival Paul's
+in power, Namco might as well make Wind God Fist unblockable and Heihachi un-
+able to block (now there's a good idea :) What about Devil Heihachi with the
+unblockable Wind God Fist and unable to block?).  My point is Paul's death-
+fist on Heihachi would be so cheap...  Imagine Paul with Heihachi's juggle!
+
+***
+
+WS+2                 Dark Thrust                              m       HS CSc
+
+This is a new move for Heihachi, and without a doubt the best new move.  I
+know some of you will disagree, there's already another FAQ on the net say-
+ing this move is useless, but I really don't see it that way at all.  Think
+of this as Heihachi's answer to Kazuya's Gut Punch.  It's slower, but it has
+much more range.  It will stun them long enough for you to do some very da-
+maging juggles.  Make sure you don't throw this out of nowhere though, as it
+recovers slowly.  If you just duck a high attack, like Hwoarang's d+4,4 (Why
+do people use this stupid thing?), hit 2 while Heihachi stands up, and stun.
+Follow it with anything you like afterward.  I would debate anyone over this
+move!  I hear a lot of people saying this move is stupid and Heihachi didn't
+get any good new moves like other people.  If it's a scrubby character who
+doen't even know how to fully utilize crouch dashing, I just ignore them.  I
+would debate the usefulness of this Dark Thrust with any good Heihachi play-
+er though.  I usually just use it while we're fighting, and follow it with a
+simple f,n,d,DF+4,4,4,N+4,4, and they are usually convinced after that.
+
+****
+
+f,f+3               Splite Axe Kick                           m       GB
+
+This is quite useless, in Tekken 3, it'll set up Heihachi's 100% juggle, but
+you'll need a miracle to get the whole thing off.  The move is too slow for
+anything practicle.  I really don't use this move much.  If you really want 
+to use it though, mix it up with Heihachi's other f,f moves.  You can buffer
+the f,f and then use either 2 for Demon God Fist, 1+2 for throw, or this to
+stun.
+
+*
+
+WR_f,f,f+3         Leaping Slash Kick                         m       GB
+
+If you're already running this is quite handy since if it's blocked, it'll
+stun them long enough to allow you to initiate crouch dashing.  That's the
+only way to make this move useful though, try not to use this because it's
+really not all that great, and watch the people you jab you out of your mo-
+tion (or at least trade hit).
+
+*
+
+f,n,d,df+3         Demon Gut Kick                             m       GB
+f,n,d,DF+3         Demon Slice Kick                           L
+
+Demon Gut Kick is very useful, but shouldn't be used as often as the Demon 
+Slice Kick because this move can be countered easily.  Use Demon Slice Kick 
+often, and after they starting to block low, do Demon Gut Kick.  When I say 
+use Demon Slice Kick often, I don't mean use it all the time because both 
+of these moves are quite slow, and you'll be punished for both of them if 
+used too often.  Most people do not block Slice Kick since it come out of 
+nowhere.  The smarter ones will catch on very fast, and it's time to do the
+Gut Kick, the starting animations are awefully similar, and even if they do
+recognize it, they'll have a very small chance to do anything about except
+blocking it.
+
+***
+
+uf+3,4             Hell Axe                                  m,h      GB
+
+On neutral block (when you leave the joystick in neutral) the second hit's
+garanteed.  On active block (b on the joystick), both hit will stun when
+blocked.  What does this mean?  If you can pull this off, you'll have no-
+thing to lose.  This is also REALLY good in juggle, unfortunately it only
+work after Demon God Fist because only Demon God Fist juggle them to the
+right height.  Even then it's incredibly hard!  And when I say incredibly
+hard, I mean I've pull this off maybe three or four times my whole entire
+life playing Tekken in an actual fights.  Majority of the time, I end up
+kicking them just above them and wiff.  If you can do this though, fights
+will end really fast since Hell Sweep after you land will do about 80% of
+damage.  
+
+**
+
+uf+4+4             Rising Sun                               h,L       
+
+Fairly useless, but less so then Heihachi's most useless moves.  How to
+use this?  Use it in juggles.  There is no other use for this, because it
+is simply too slow, and the low hit is too obvious.  It'll work against
+people who never block low I guess (the same people who can't block Jin
+and Kazuya's uf+4,4,4,4).  But don't count on that.  How to use this in
+Juggle?  The first one will always wiff (never got it to work before), but
+you can count on the second kick to hit them the same them they hit the 
+ground, and follow it up with other things (I use Thunder God Fist in Tek-
+ken 3, but haven't tried that in TTT).
+
+**
+
+QCT_WS_f,n,d,df+4<4       Tsunami Kick                      m,m
+
+Very good in juggles.  Now that it's really hard to finish juggles with
+Thunder God Fist, I use this and Hell Sweep a lot.  Twin Piston is a good
+finisher too, but I don't use that because everyone else do.  Most of the
+juggles do about 45 to 55 points of damage and they're all about equally
+good, so how do you want to finish your juggles is completely a personal 
+preference.  Out side of juggles, use WS version if you're already in the
+crouching position, otherwise use crouch dashing and mix it with either 
+Hell Sweeps, Wind God Fist, Demon Gut Kick, or Demon Slice Kick.  The de-
+lay is very helpful, as some people will think that you're done with your
+kick and end up taking the second kick.
+
+****
+
+f,n,d,DF+4                Hell Sweep                        L        JGc KS
+  =N+4                    Rising Kick                       m
+  =N+4,4                  Tsunami Kick                      m,m
+  =1                      Thunder God Fist                  m
+    =4_4,4                  Hell Sweeps                     L_L,L    BS
+      =N+4                    Rising Kick                       m
+      =N+4,4                  Tsunami Kick                      m,m
+      =1                      Thunder God Fist                  m
+
+This is Heihachi's best friend next to Wind God Fist.  This is why Win God
+Fist can connect on consistant basis, people don't know what to block.  In
+TTT, Hell Sweeps is much weaker (this move gets toned down in every Tekken
+installment).  If any low kicks are blocked, Heihachi will stagger a little
+bit, and that sucks.  Another thing is every character has low parry now,
+and that doesn't help either.  That doesn't mean this is now useless.  The
+power this move possess in Tekken 2 was awesome, and the new low block sta-
+gger further weakened this move.  Why use this?  Well, because you can de-
+cide when to stick in the mid attack(s).  If the first Hell Sweep connects,
+your opponent will have to do some serious guessing.  Block high? Or low?
+Don't use the same sequence twice though, because you don't want to become
+predictable with this.  Another thing that make this great is the fact that
+it look so awesome in juggles!  This must be the best juggle finisher in 
+Tekken.  Be careful with the people who reverse your Thunder God Fist, and
+Rising kick though.  As always, try to buffer chicken.
+
+*****
+
+4                         Roundhouse                          h
+
+Decent damage and great range!  Use this as a retaliating move though.  It
+is not very safe to use this in offense, but on minor counter, it'll stun.
+It has its uses, but be very careful when you use this.
+
+**
+
+f+4                       Demon Axe Kick                      m      GB SLDc
+
+More useful than Split Axe Kick in my opinion.  Doesn't stun as well as the
+Split Axe Kick, but you can actually get this to connect every now and then
+because this is much faster.  Just don't use it too often.
+
+**
+
+4~3                       Demon Scissors                       M       
+
+Same Demon Scissors Kazuya and Jin has.  This is Heihachi's way to hit the
+grounded and getting up people, or punish Lei.  Just be careful not to wiff
+or Heihachi will take 5 point punishment.  A little trick I learned from 
+William Knight's FAQ: do uf~4~3, and the scissors will come out instantly.
+Normally Heihachi jumps into the air, and turn around, but if you do uf be-
+for 4~3, it'll come out instantly.
+
+**
+
+d+4                       Geta Stump                           G
+
+You can only do this if your opponent is grounded.  Don't use this if you
+think they are going to roll and hit you.  There are times when this move
+is garanteed, like after 2+4 front throw.  It adds nice damage, and it's 
+very handy as long as you use them at the right time.
+
+**
+
+b,b,N+3+4                  Shadow Steps                        n/a
+
+Most underused, but useful move in Heihachi's possession.  It's like us-
+ing parry and chicken, one of those little things that make some people 
+better than others.  Heihachi need some space to be effective, and dash-
+ing back doesn't always help since characters like Anna, Nina, and Ling
+are so damn fast, they'll always be in your face.  Dash back (b,b), and
+then press 3+4 to initiate the steps.  Heihachi will not only run back-
+ward very quickly, he will do it in little side-steps, making it very
+hard to follow.  Another great way to utilize this is to use this with
+Hell Sweeps.  Shadow Steps make using Hell Sweeps fairly safe even if
+you're parried, or blocked (and stagger).  All you do is hold on to the
+last 4, buffer it, dash back (b,b), and press three.  I can't count how
+many times this little trick saved my ass (Thanks to William Knight and
+his FAQ).
+
+Charging Demon
+
+This is Heihachi's reversal, it only reverse right kick, and Heihachi'll
+also receive damage himself, less though.
+
+**
+
+Demon Tile Splitter
+
+It's an unblockable, not too useful except when you can anticipate your
+opponent's tagging.  It doesn't have the same range as...  Paul's so you
+will have to be much more careful when you use this.
+
+
+******************
+* Crouch Dashing *
+******************
+
+I can't emphesize enough on how important Crouch Dashing is!  If Heihachi
+does not have crouch dash, he'll be as weak as...  Kuma with power of Ling
+and unable to juggle.  Well maybe not that bad.  Still, to play Heihachi, 
+you must learn to do f,n,d,df and learn to delay any crouch dashing moves
+by holding the joystick in DF position, and this is why if you can't find
+the diagnal on the joystick you're playing on, play someone else.  The DF
+allow Heihachi to continue dashing for quite a while, and during that the
+dashing, Heihachi can either do 2 or 4, Wind God Fist and Hell Sweep, and
+they come out instantly.  Once you're in crouch dashing, you are pretty
+much in control.  If your opponent attacts, either counter or block (I'd
+rather counter).  Block is block, but counter with Wind God Fist, and you
+will deal out so much damage they will be much more careful next time, and
+it's fairly safe.  But you can't just wait until they attack though, you
+will have to anticipate a little bit too.  Hell Sweep doesn't have as much
+juggle possibilities, but you can still inflict a lot of damage, and with 
+some practice, you can do very damaging juggles from Hell Sweep on counter
+(but HARD!).  I don't know if this following juggle is garanteed, Wind God
+Fist, jab_jab,jab, Thunder God Fist, it work sometimes, but not always, I
+will find out more about this juggle.  Assuming it's garanteed, you will
+have to time the dashing very well to get it to work.  This combo is an
+example of why you'll have to be very good at crouch dashing, many other
+juggles rely on crouch dashing, and good crouch dashing equals to lethal
+Heihachi.  The sheer power of Heihachi possess makes him in my opinion the
+top 5 characters in Tekken (if it's up to me, he would be either first or
+second.  I think Heihachi, Anna, Nina, and Kazuya are tied for first and
+second).  Heihachi has a total of eight moves that he can initiate from 
+crouch dashing.  Thunder God Fist, Wind God Fist, Electric Wind God Fist,
+Demon Gut Kick, Demon Slice Kick, Hell Sweeps, Rising-Tsunami Kicks.  Many
+of these have different variations and all of them are useful.  Wait that's
+only seven!  Well, the last one isn't an official move, but it can be ini-
+tiated from crouch dashing.  That's the WS+2 Dark Thrust.  You do this by
+waiting until crouch dashing ends and Heihachi's getting up.  By then most
+people will try to counter, and Dark Thrust will end up stunning them!  If
+that happens follow it up with either Thunder God Fist or Hell Sweep!  Hei-
+hachi is one of the two, three characters in the game, whereyou might be 
+dying, and there's 10 seconds left, and you can turn the tide and beat your 
+opponent within that 10 seconds, yes that's how deadly this old man can be 
+if played right!
+
+
+******************
+* Custom Strings *
+******************
+
+This is one of Heihachi's major weakness!  His custom strings pretty much 
+sucks (if not non-existant).  Heihachi doesn't have a d+1 jab most charact-
+ers have (Heihachi does a tile splitter instead).  All Heihach can do from
+standing position is 1, 2, 1,2, 1,1,  df+1, df+2, QCT+4<4.  Instead of put-
+ting together a long quick strings that's hard to block and even harder to
+predict (like Anna and Nina), Hehachi has to rely on a couple of extremely 
+quick jabs (even the jabs aren't that quick) to bring Heihachi close to put
+on some pressure, then you can go from there to Wind God Fist or Hell Sweep
+or throws.  If it doesn't work, Heihachi will just have to initiate another
+move very quickly, or regroup.  It's very hard to use strings to set things
+up for Heihachi.  You'll have to rely on constant crouch dashing, and force
+your opponent to block low or high, or reverse (and get chickened).  If you
+put enough pressure on your opponent, eventually they'll have a hole that
+you can exploit.  When you're playing Heihachi, you will have to stay just
+outside of throw range.  If you're right in their face, it's much harder to
+initiate things even if you can do any crouch dashing move instantly.  I'm
+just used to staying at this distance, I feel comfortable, and I play bett-
+er at this distance.  However, as soon as you start the dashing, you want 
+to be right in their face, and make them guess.  After that, you'll have to
+be careful, yet relentless with jabs and Wind God Fists and Hell Sweeps.  
+If you're ever in trouble, parried, staggerd, use Shadow Steps.  The steps
+side steps a little bit and is very hard to track, not to mention Shadow
+Steps are fast.  Anyway, Heihachi doesn't have the ability to make custom
+strings that flow into each other endlessly, but I guess that would make
+Heihachi too cheap.  Learn to crouch dash aggressively, you won't really
+miss the strings that much.
+
+
+**************
+* Countering *
+**************
+
+This is the funnest part of playing Heihachi.  There is nothing more satis-
+fying than juggling your opponent in the air while they can not do anything 
+but stand there and watch helplessly.  Well, but juggles don't come by easy
+and a lot of times, you'll have to tick your opponent to death (Nina, Anna,
+Ling, Jun).  But not Heihachi, no, this old man is made to destroy opposi-
+tion in juggles with sheer brutforce.  But how do you juggle with Heihachi
+if he can't trick people into eating Wind God Fist with custom strings you
+might want to ask.  Well, here's the best part, there really isn't a need
+to set up Wind God Fist.  All you'll have to do is counter whatever comes
+your way with Wind God Fist and finish the juggle.  This is possible only
+because Heihachi's Wind God Fist comes out faster than basic uppercut (if
+you don't delay the crouch dashing, well, it feels that way to me), hits
+mid (it'll also hit people rolling around or Ling hiding in her Pheonix
+stance), goes under high and some mid attacks, has great range for juggle 
+starters, and has incredible priority.  It will take out Paul while he's 
+still in the animation to deathfist.  You'll beat Nina or Anna's jabs be-
+fore they can even reach you.  You'll avoid Bryan's Mech Punch and juggle
+him.  Jin has Wind God Fist, but it hits high (except when he turn into
+Devil Jin).  Kazuya has a Wind God Fist as awesome as Heihachi, but he's
+juggles rely on the stun to do BIG damage.  Wind God Fist is probably 
+the best move in Tekken (what else is anywhere as good?), but wait there
+is even more!  Heihachi can counter with Tsunami kick.  Although not as
+good as Wind God Fist, it has excellent priority and the delay makes it
+a little bit more damaging than if you don't delay it (I think, could be
+totally psychological on my part though, someone e-mail me).  And wait,
+here's more, the good old Deathfist.  Ok, it doesn't take of 75% of the
+life bar like Paul's, but it comes out faster, and that helps when you
+try to counter.  I don't use the Deathfist often though, in fact, I al-
+most never use it because whenever you want to use Deathfist, Wind God
+Fist is better.  Don't forget Twin Piston.  By itself, any moron will be
+able to block or even reverse this, but they can't do anything when you
+counter them.  Maybe they'll actually beat you out, but fat chance.  I
+personally don't use Twin Piston often because I love Wind God Fist so
+much.  But I think Twin Piston comes out a little bit faster, but has a
+smaller range.  If you're afraid that Wind God Fist won't come out in
+time, try Twin Piston.  Another reason you might consider Twin Piston is
+that you can do longer, better looking, more impressive, and a bit more
+damaging juggles with Twin Piston because it juggles them higher (the
+real reason why I would ever choose this over Wind God Fist).  Am I done
+yet?  No!  I know, I know, you get the idea, but here's one more thing,
+Heihachi has the best Hell Sweep of the Mishima family, most damaging,
+and hardest to block.  It has longest range of all the moves that you 
+should use to counter, and it'll duck more moves than Wind God Fist, and
+on counter (you should counter, I mean this is the coutering section), 
+you can do very damaging juggles.  Best of all, Hell Sweep kicks low, I
+hate Bruce's mach punch that reverses high/mid punch, well this is what
+I use on Bruce.  I counter with Hell Sweep and juggle him to death!  I
+am pretty sure you get the picture.  You can basically play Heihachi two
+ways, continuing relentless pressure until they crack, or keep a good
+distance and counter (there're actually more ways which I'll discuss in
+later sections).  If you're just starting Heihachi, and you can't apply 
+enough pressure to make your opponent crack, keep a distance and counter
+with everything Heihachi has!
+
+
+***********
+* Okizeme *
+***********
+
+Ling and Nina has the meanest Okizeme game in Tekken, without a doubt, but
+Heihachi is right there with them.  Maybe not as good as Ling or Nina, but
+better than everybody else.  The most important move Heihachi has to knock
+you opponent back on the ground is Hell Sweep.  All hits will hit grounded
+opponent, though it's very unlikely (if not impossible to get all three of
+the kicks connect).  If your opponent is rolling on the ground, Hell Sweep
+with out hesitation.  If they're grounded and not moving, Hell Sweep.  If
+they quick recover after you knock them down, don't use it.  If they are
+waiting for your action.  One Hell sweep, and you will be in the same pos-
+tion as before, except now he's even weaker.  After a 2+4 front throw, do
+Geta Stomp d+4.  It stomps them for good damage.  If they try to get up,
+or attack you, d+1 Tile Splitter will put them back on the floor.  If you
+are a bit too far, Demon Slice Kick (f,n,d,DF+3).  These all do decent da-
+mage for Okizeme, but Hell Sweeps are what you use to keep them grounded.
+It's not as simple as Ling's sweeps or Nina's d+4,1 and d+3,2, but it'll
+get the job done.  After the juggle, Heihachi can make getting very frus-
+trating, and hate Leis' playing dead?  Stomp them and sweep them to death!
+In Irvine, we have this arcade place called Palace Park, and the people
+who play here are all Asian (Chinese and Korean, I totally respect good
+Japanese Tekken players) guys who do the same 3 or 4 moves over and over
+(BTW you guys at Aladdin's Castle in Torrance got to come here and play!  
+This is the place where fifty cents will last you more than twenty wins 
+in a row if you don't feel like screwing around and lose on purpose!), a
+lot of times I just Hell Sweep them as they try to get up, and if they
+get up, I Hell Sweep them back on the floor.  I beat a lot of people at
+Palace Park doing nothing more than that.  Well, of course they always
+give me that standard you're a cheapass lecture, which is very ironic,
+because all you have to do is block low, or parry, and I'll be in so
+much trouble I probably won't use Hell Sweep carelessly against that
+person anymore.  My point is Heihachi can be very effective at Okizeme
+once you learn to play him effectively, but be careful when your oppo-
+nent does get up because Heihachi doen't have reversals or effective
+parries at close range so you'll have to learn to either block the on-
+coming attacts or side-step it.
+
+
+***********
+* Juggles *
+***********
+
+Well, Heihach has the best juggles in Tekken (not counting Kazuya's Demon
+Gut Punch stun juggles).  They're hard to perform, but reasonable, and you
+will have so many chances to juggle thanks to Wind God Fist.  No one else
+can keep someone in the air as long as Heihachi, and even if I lose, I'll
+still scare a whole bunch of sweat from whoever I play with.  I don't do
+any really long juggles.  I usually do juggles consisting at least five
+hits but almost never more than seven hits.  Why?  Because as the hits add
+up, each successive hits will inflict less damage.  Really long juggles'll
+be cool to look at but won't do anymore damage then a much simpler three
+hit juggle started with Demon God Fist, then Wind God Fist, and finished 
+with roundhouse kick.  Of course if you want to learn all the juggles so
+maybe one day you're fighting someone, you can keep them floated in the
+air and run the clock out.  Personally I see no reason to do that, and I
+don't see any reason why anyone would do it in a very close fight unless
+you've spent your whole life practicing Tekken and you can do them with
+ease (There are actually a lot of people like that out there, but it's not
+necessary).  Anyway, you play Heihachi because of his awesome juggles, now
+I'll discuss Heihachi's awesome juggle starters.
+
+
+Wind God Fist:
+     Without a doubt, the BEST juggle starter in Tekken.  It comes out a
+little bit faster than basic uppercuts, can be delayed, good range, good
+priority, avoid high attacks, and does lots of damage.  It's weakness, it
+can be reversed, but that's really more like a strength if you buffer the
+chicken like I told you to.  Besides that, there are no real weakness, oh
+yeah, did I mention that you can start this from side step?  Well, tech-
+nically you can't, but you can initiate crouch dashing from side step, so
+you can actually start this from side-step, and people always choose Jin
+because his Tooth Fairy is easier to do, well, I'm sure most people would
+agree with me that Wind God Fist is much better than tooth Fairy.
+
+Twin Piston:
+     Heihachi's second best juggle starter.  This is not a substitution of
+Wind God Fist.  A lot of people don't have the crouch dashing down yet, so
+they use Twin Piston whenever they want to do Wind God Fist.  Against ave-
+rage or beginners it might work (anything will work on the beginners), but
+against experts, Twin Piston has some fundamental flaws if used to replace
+Wind God Fist.  First, it doesn't crouch dash.  Crouch Dashing is why Wind
+God Fist is so great.  It ducks high, covers lots of ground, can be delay-
+ed, has extremely high priority.  Anyone can block Twin Piston because you
+can't delay it, which makes the timing easy.  You can't make your opponent
+guess, df motion will do a move hitting mid.  Second, the recovery time is
+awefully long if you wiffed.  You'll be so sorry that you didn't listen to
+me when you're in the air being juggled because Twin Piston recovers too 
+slowly.  Why use this crappy Twin Piston then if I have so many bad things
+to say about it?  Well, like I said earlier, Twin Piston is a bad substi-
+tution for Wind God Fist because they are fundamentally different.  A good
+ways to use Twin Piston would be when you don't feel like blocking anymore
+and there's a step or two between you two, Twin Piston.  It come out just
+a bit faster, and if the first hit connects, the second punch will juggle.
+Twin Piston doesn't have the kind of range Wind God Fist has, so you only
+use it when your opponent is coming to you.  If you see Nina lowering for
+Devine Cannon, Twin Piston.  If you see Paul crouch dashing for Deathfist,
+Twin Piston.  If you see Jin bringing his are back for b,f+2,1 gut punch,
+Twin Piston.  You get my point.  The timing is crucial though, and you'll
+have to anticipate a little bit.  Once Twin Piston connected though, it's
+a whole new story.  The juggles you can do here is better than Wind God
+Fist because it knock them up higher, not to mention Twin Piston itself
+does more damage than Wind God Fist.  Wind God Fist is an offensive wea-
+pon, but if you're reacting to your opponent's attack, Twin Piston is a
+better choice in many occasions (I have to admit that I almost never use
+this though since I have no problem making Wind God Fist come out instant-
+ly, and I LOVE Wind God Fist soooooo much...).
+
+Demon God Fist:
+     This is a show off juggle starter.  The best of Heihachi's juggles
+are started with this.  Incredibly damaging, and visually impressive, but
+the problem is, you won't see this connect too often.  The range is very
+good, so if your opponent is doing his stuff from a few steps away, this
+will usually catch them by surprise.  Much like Twin Piston though, use
+this carefully because this is the slowest recovering move Heihachi has,
+and if wiffed, or even blocked, Heihachi'll be in a lot of trouble.  One
+way to set this up is Shadow Step, the more aggressive people will try to
+catch up with you and they'll run right into Demon God Fist.  Another way
+to use this is buffer the f,f dash, and you can use 1+2 for the Headbutt
+instead.  Headbutt is the best throw Heihachi has because it takes two 
+buttons to break.  You won't have too many chances to juggle with Demon
+God Fist, but when you do, take your opportunity and inflict as much da-
+mage as you possibly can!  By the way this is a good looking juggle end-
+er, not that great in terms of damage, but looks cool.
+
+Electric Wind God Fist:
+     This comes out when you roll the joystick from d to df very fast, and
+dash a little bit I guess.  Some juggles can only be done with Electric
+Wind God Fist, and it's also better in that if this is blocked, this will
+cause long enough block stun to leave you completely safe and you can ini-
+tiate your next attacks before they recover.  I think I do this a lot, be-
+cause my Wind God Fist usually cause guard stun, but I don't know how ex-
+actly this is done.  If anyone knows how to do this, e-mail me!  If you can
+do this though, use it, it's even better than Wind God Fist.
+
+Dark Thrust:
+     This doesn't juggle people in the air, but it has the same effect on
+your opponent because it stuns them on a counter hit to start a juggle.  If
+you ducked high, Hwoarang's d+4,4 for example, while you're standing up in
+their recovery, counter with this!  If you're fast enough, you can finish
+this with Thunder God Fist like Kazuya and his Demon Gut Punch (it doesn't
+always work, I don't know if it's my timing or whatever, someone e-mail me
+on this one).  It side-steps a little bit and it has better range than Ka-
+zuya's Demon Gut Punch!  This is without a doubt Heihahci's best new moves.
+
+Hell Sweep:
+     This only juggles if you counter, which is fine because it ducks a lot
+of moves, and has good range.  The juggles you can do off this move is very
+hard and takes a lot of time to practice.  You have to do one and only one
+Hell Sweep, pause a little bit, do a N+4 Rising Kick.  But if you waited too
+long, Roundhouse will come out instead.  That's the hard part, after you get
+that over with, you can continue with a lot of cool juggles, and these jug-
+gles do good damage!  If this is too hard, or you don't want to spend that
+much time practicing this, well, there's always couple more Hell Sweeps to
+follow up the first one, and you can always finish with a cool Thunder God
+Fist or Tsunami Kick.
+
+
+**********
+* Throws *
+**********
+
+This is funny, Nina and Anna have some of the best throws in Tekken, but I
+rarely use them.  When I play Heihachi, though, I throw like crazy.  The
+reason is I never really need to throw with Nina or Anna, a throw here and
+there, that's all.  But it's different when I play Heihachi.  Because Hei-
+hachi has no good custom strings, or d+1 low jab, throws become Heihachi's
+best friend at close range.  Unless people start breaking my 2+4 throws, I
+use 2+4 throws.  It's cooler, and you can stomp them after for extra dama-
+ge.  Heihachi has nothing that hits low after sidestep, so throws become a
+very good option.  If my offense isn't clicking, I side-step aggressively
+for side-throws, and Heihachi has a pretty big side-step, which helps.  If
+you have problem getting close enough, f,f dash helps, and you can buffer
+that into Headbutt, which requires two buttons to break.
+
+
+***********
+* Chicken *
+***********
+
+When you play Heihachi, you'll have more chances to chicken than any other
+characters.  Mainly because everyone will try to reverse your Twin Piston,
+Wind God Fist, and Demon God Fist.  Well, with Wind God Fist and Demon God
+Fist, you can delay it, or throw instead, but why not just chicken them?
+You'll have to buffer chicken for Twin Piston though, because you have to
+unless you want your uppercuts reversed.
+
+
+****************
+* Interrupting *
+****************
+
+Heihachi does not have any custom strings, or even a low jab to interrupt,
+well, that sucks, but he has Wind God Fist and Twin Piston.  Unlik Nina or
+Anna, Heihachi can't interrupt everything there is in Tekken, and he will
+need a little more distance too.  But instead of interrupting with d+4,1
+or d+1,N+4, Heihachi interrupt with Wind God Fist and Twin Piston.  In a
+way it makes sense, why interrupt and do 5 or 10 points of damage when I
+can juggle them and take out anywhere from one third to half their lifebar
+or sometimes even more!  The trick to interrupting with Heihachi is that
+you'll have to block first.  You wait until your opponent pushed you cou-
+ple of steps away.  Often they don't realize that and they continue with
+their poking or relentless attack, but to Heihachi that's enough distance
+to counter with one of his uppercuts.  This sounds almost like countering
+your opponent with your uppercut, well, in a way it is.  Heihachi relies
+on countering to interrupt.  It takes very precise timing and lots of pra-
+tice, but it pays off.  I remember seeing these Asian guys in Palace Park
+one time, and they were hold the EGM in their hand.  They read the Heiha-
+chi section and EGM told them that Heihachi is awesome, but for experts
+only.  Well these guys picked Heihachi because they think they play at the
+expert level.  Of course they do, no one they know can beat their Paul and
+Jin when they 10-hit combo everyone to death.  Well, I killed them perfect
+like 4 fights in a row.  They got really pissed off, and declare that Hei-
+hachi sucks like shit, EGM is wrong, and picked Paul.  Well, of course I
+have to pick Heihachi now just to show them that they're wrong.  The first
+round I chicken this guy to death, hahahahahhhhaaaaaaaaa!  Then comes the
+second round.  Wind God Fist, jab, jab, Thunder God Fist, dash, f,n,d,DF+
+4,4,N+1 as they try to get up, and the match is over in 6 seconds.  They
+were stunned, and I just scratched my head and continue playing the CPU.
+The other guy laughed at the guy I just beat, and tell him that he was go-
+ing to show him how it's done.  Picked Jin, of course I'll have to teach
+this guy a lesson with Heihachi too.  Well first round goes like this:
+Wind God Fist, jab, jab, Hell Sweep, Thunder God Fist, Counter on Hell
+Sweep, Rising Kick, jab, Demon Massacre, Hell Sweep, sweep, sweep, Tsuna-
+mi Kick him to death as he tried to get up, a perfect round.  The second
+round is just to ridicule these guys.  Interrupted his ten-string with
+Hell Sweep, Rising Kick, jab, Wind God Fist.  Then I just Hell Sweeped him
+to death.  They looked stunned, and I told them Heihachi doesn't suck, and
+they say well only because I play cheap.  I said, well what about I'm just
+better than they are.  Oh, my God, yeah right!  We are the best, no one 
+can beat us!  You're just cheap!  Blah, blah, blah!  Well, whatever, I gave
+that Tekken 3 game to them so they can practice Heihachi more, but they got
+pissed and just left.  Well, that's why they suck, they don't practice!  I
+got carried away.  What I'm trying to say here is that I was able to beat
+them because I interrupted everything they throw at me.  Well, it's true,
+I can just beat them by being very offensive, or block and counter every-
+thing.  But those aren't the only two choices.  It is possible to actively
+interrupt with Heihachi.  It's hard, but the reward is great!
+
+
+**********************
+* Block or Side-Step *
+**********************
+
+When you're playing Heihahci, to block or to side-step is a very big deci-
+sion.  On one hand, side-step sounds very temping considering the payoff. 
+On the other hand, what if you fail?  Well, this is where all the practice
+comes in.  Most of the time you'll have to block (when you're playing the
+defensive side, but Heihachi is much better when played aggressively).  E-
+very now and then, the gap between you two will be big enough to give you 
+other choice besides blocking.  Countering is a pretty good choice most of
+the time, and sometimes you might even consider crouch dash forward and 
+aggressively interrupt whatever they have in mind.  But if you can antiti-
+pate a particular opponent, side-step!  Crouch dashing can be initiated in
+side-steps, or if you're opponent's move isn't that slow in recovery, use
+the side throws.  One cool thing you can do in your side step is side step
+and go into crouch dashing, then side-step again.  Or side step, crouch
+dash, and at the end of it, do Dark Thrust.  Make sure you side step into
+the right direction though.  This can sometimes put you behind your oppo-
+nent because Dark Thrust side-steps a little bit.  The best thing to do in
+side steps though would be mix up Wind God Fist and Throws.  Throws work,
+but some people start ducking immediately when you side steps, and that's
+where Wind God Fist comes in.  Heihachi only has one special move in side
+steps, Demon Breath, but that doesn't Heihachi's option in side-step is 
+inferior in any way.  His big sidestep helps with getting side-throws, and
+if your opponent is doing slow recoverying move, initiate crouch dashing
+from side-steps and start the guessing game.  Using Heihachi's side-step
+takes a lot of caution though, so be careful.
+
+
+********************
+* Reversal & Parry *
+********************
+
+Well, another weakness of Heihachi.  Heihachi has one crappy reversal that
+does damage to Heihachi too.  And he has the the most basic, generic low
+parry, d/f.  This means Heihachi will have to either block, or side-step,
+or interrupt/counter.  Parry is the best thing to have when you're block-
+ing ten-hit combos, and Heihachi has the basic low parry.  But, I don't
+know, I always have problem with diagnals (not most other people though,
+I guess it's just my little problem), and I don't have that confidence to
+tap that diagnal to low parry.  Most of the time I just block the whole
+string, except when there are two low hits in a roll.  That's the only 
+good use I can find for generic low parries.  You block the first low hit
+and there will be enough time to roll the joystick over to parry the se-
+cond low hit.  As for the reversal, it sucks!  I can't count how many
+times in close fights, I see some doing a high right kick, and I tried to
+Wind God Fist him to death (wide open and stuff), and I end up reversing
+it, and I end up dying and the other person's still alive.  It's pretty
+useless I pretty much let it come out on its own.  Heihachi has very few
+options as far as reversal and parry, but who cares, Heihachi is meant 
+to juggle, and kick ass!  You're suppose to KILL, not trying to figure
+out how to defend yourself!  You're suppose to destroy your enemy, keep
+that in mind!
+
+
+***********
+* Chicken *
+***********
+
+When you play Heihachi against any reversal happy enemy, you are in chi-
+cken heaven.  They will always try to reverse either Wind God Fist, or
+Twin Piston, or other stuff.  I expect people to know how to buffer chic-
+kens, but apparently most people still don't know how to do this, so I'm
+going to tell you how to do it briefly.  Let's use Wind God Fist for ex-
+ample since it's probably the most reversed Heihachi move.  The hard way
+to do a chicken is to do Wind God Fist, then with lightening reflecx, do
+f+2+4, and very few people can anticipate or see a reverse, and chicken
+it on reflect, except the CPU of course.  What you want to do is do the
+usual f,n,d,df+2 for Wind God Fist, then HOLD ON to 2, tap f (or you can
+roll the joystick to f), and tap 4.  Think hold 2, and do f+4, everyone 
+can do f+4, it's easy.  If you do that while holding the 2 you used to
+do Wind God Fist, you will have buffered a chicken, and if the Wind God
+Fist is reversed, you'll counter that reverse!  Now, do this for all of
+Heihachi's uppercuts, Deathfist (if you use them), last hit of Shining
+Fist, if you delay it, rising kick (and the rising kick in Tsunami Kick
+too).  Make this a habbit, and you'll be immune to reverse.
+
+
+***********
+* Juggles *
+***********
+
+Garanteed Juggles:
+
+Like the name implies, these are the juggles that once started, you'll
+be able to finish the whole juggle.  It can't be tech rolled out of or
+anything, all you have to do is time your attacks and don't screw up!
+There are too many juggles to be listed here, if you want different 
+juggles, a good source to find them would Tekken Zaibatsu:
+
+           www.tekken.net
+
+I'm only going to list the ones that I feel is both damaging and not
+too hard to perform.  If you know a juggle that does a lot of damage,
+but can't get it off, it won't do you much good.
+
+Wind God Fist:
+
+1, f,n,d,DF+1 (only garanteed on big characters)
+1, 1, f,n,d,DF+2
+1, f+1,b+2,1
+1, 1, f+1,b+2
+1, f,n,d,DF+4,N+4,4
+1, f,n,d,DF+4,4,N+1
+1, 1, QCT+4, d+1
+1, QCT+4,4
+1, 1, f,f+2
+1, 1, df+1,2
+
+When I get a Wind God Fist, I usually stick in one or two jabes, and 
+finish it off with either Hell Sweeps, or Tsunami Kicks, or Twin Pis-
+ton.  There are fancier ways to finish, but this is probably the most 
+effective way (not to mention risk free from screwing up) to finish 
+Wind God Fist Juggles
+
+Twin Piston:
+
+Basically the same Wind God Fist, except that it juggles a little bit
+higher, and I can usually stick an extra jab in there.  The timing is
+a little bit harder because you have to pause a little bit before you
+start your juggle.  If you don't, Heihachi will wiff.  
+
+Demon God Fist:
+
+This the highest juggle starter Heihachi has.  Instead of the jab or 
+two you usually use with Wind God Fist, you can use a Wind God Fist
+instead 1 or 1,1.  
+
+f,n,d,df+2, 4 
+f,n,d,df+2, 1, f+1,b+2
+f,n,d,df+2, 1, df+1,2
+1, f,n,d,df+1  
+I am very sure this will catch them before they hit the ground, making 
+it a garanteed juggle.  I don't know if this is still true in TTT, but
+in Tekken 3 you can't quick recover from this juggle.
+
+Hell Sweep:
+
+This is quite tricky.  It only juggle on a counter hit, and it juggles
+the same way Jin's sweep juggles.  Another way to juggle with this is
+if the first kick is blocked, and the second kick connects (this is ac-
+cording to Tekken Zaibatsu).  I never got this to work in TTT because
+when the first kick is block, Heihachi staggers.  I'll find out more a-
+bout this one.  Hell Sweep itself left the opponent very low, and to
+juggle them you either do another sweeps and finish it anyway you like,
+or do a Rising kick.  There's a delay between Hell Sweep and the Rising
+Kick.  If Rising kick comes out too fast, it will not put your opponent
+at the right height.  If it comes out too slow, Heihachi will just do
+a roundhouse, which will wiff.  The timing is crucial, and it takes a
+lot of practice to do it.  *time lapse*  Just an hour ago, I figure out 
+a new way to do Hell Sweep juggles, and I hate myself right now.  It's 
+so freaking hard to time the Rising Kick, but there's an easier way to 
+do it, much easier.  After you juggle with Hell Sweep, forget the Ris-
+ing Kick.  Just do QCT+4 Rising Kick.  I hate myself for not figuring
+this out earlier *&%@ #^...
+
+QCT+4, 1, f,n,d,DF+2
+QCT+4, 1, df+1,2
+QCT+4, 1, f+1,b+2
+f,n,d,df+2, d+1
+f,n,d,DF+4,4,N+4
+f,n,d,DF+4,4,N+1
+
+
+Stun Juggles:
+
+It starts a little bit different.  You don't immediately juggle them
+into air.  Instead, you stun them, then continue your juggle.
+
+Dark Thrust:
+
+Most of the the Wind God Fist and Hell Sweep juggles work here, I don't 
+know if there is any that doesn't work.  Here are some additions:
+
+f,n,d,DF+1
+Yeah, just like Kazuya's Demon Got Stun!
+QCT+4, f+1,b+2,1
+
+
+*********************
+* Escapable Juggles *
+*********************
+
+Juggles that can be quick recovered from, mainly the ones involving the
+Thunder God Fist.  I don't know the deal with Thunder God Fist in TTT,
+but they are very unreliable.  This was my favorite juggle in Tekken 3
+because this is one of the very few ways where you can juggle with the
+mighty Thunder God Fist.  Well, maybe Namco takes away that and gives
+Heihachi Dark Thrust.
+
+1, f,n,d,DF+1
+1,1, f,n,d,DF+2
+
+
+**************
+* Having Fun *
+**************
+
+Heihachi is one of the more serious characters because he mostly kick
+ass and doesn't do much else.  Unlike Nina and Anna, Heihachi can't 
+string together many short strings to annoy opponents.  And Heihachi
+can do infinite strings to annoy people like Hwoarang and Jun.  And
+Heihachi can't win with annoying button pushing like Baek and Eddy.
+Your source of entertainment while playing Heihachi would come from
+juggling your opponent helplessly in the air.  Call me sadistic, but
+I find destroying other people very entertaining.  Heihachi is get-
+ting pretty old, and with age, he gets slower.  But once you learn
+to compensate for Heihachi's old age, Heihachi is still the best
+juggler in Tekken.  Have fun with the Wind God Fist.
+
+
+**************
+* Conclusion *
+**************
+
+	If you live in Orange County area, you can find me in either
+Lake Forrest or Huntington Beach Nickel Nickel.  They have Tekken Tag
+Tournament for 15 cents, that 3 nickels, cheaper than most of the pla- 
+ces' Tekken 3 game.  I always wear the same Fila shirt with Black and
+Red, or all white outfit, and I have a big burn scar on my left arm
+and a tongue stud.  You can identify me fairly easily, and I always 
+go with my girlfriend, Nancy.  She always wear jeans and tank tops, 
+except every now and then she would go as naked as they would allow 
+her to be.  If you see us please challenge me to a game of Tekken, or
+Nancy to a game of Marvel vs. Capcom (she'll kick your ass with her
+cheap air demon Chun-Li combos).  Once again, at Nickel Nickel, they
+have 15 cent Tekken Tag Tournament, so please stop going anywhere 
+that charges you 50 cents a game even if the continue is only a quar-
+ter.  By the way, I'll be writing FAQ for Kazuya, and Anna next.  De-
+pending on what happens after that, I'might write more FAQs for Julia, 
+Jun, Jin, Michelle, Bryan, Hwoarang, Paul, and Wang (That right, I 
+play just about every character there is), but Kazuya will probably 
+come first, since I played him for the very first time a couple of 
+days ago (I never played Tekken 2), and I must say I'm totally hooked 
+on his WS+2 stunning gut punch, that punch must be the most awesome 
+move in Tekken (right there with Wind God Fist, funny how Mishima, 
+Kazama, and William families got all the good stuff).  *time lapse* 
+It's been about two weeks since I played Kazuya, and I've been play-
+ing Kazuya ever since.  This guy is awesome!  Weaken, but still awe-
+some.  I've been doing a lot of very cool tag juggles with Heihachi,
+Anna, Nina, and Julia.  I'll probably write Kazuya FAQ first because
+it'll probably be shorter and won't take as long as Anna's FAQ.  I'm 
+getting off the subject, anyway, if you want to meet me to play a
+mean game of Tekken (or lame if I feel like screwing around) just e-
+mail me!
+
+
+***********
+* Credits *
+***********
+
+Here are the list of FAQs and Web Sites I refered to while writing
+this FAQ:
+
+Catloard's Movelist {catlord@tekken.net)	
+Tekken Zaibatsu (http://www.tekken.net/zaibatsu)
+William Knight's Tekken 3 Heihachi FAQ

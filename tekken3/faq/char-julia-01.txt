@@ -1,0 +1,583 @@
+
+888888          888 d8b            .d8888b.  888
+  "88b          888 Y8P           d88P  Y88b 888
+   888          888               888    888 888
+   888 888  888 888 888  8888b.   888        88888b.   8888b.  88888b.   .d88b.
+   888 888  888 888 888     "88b  888        888 "88b     "88b 888 "88b d88P"88b
+   888 888  888 888 888 .d888888  888    888 888  888 .d888888 888  888 888888
+   88P Y88b 888 888 888 888  888  Y88b  d88P 888  888 888  888 888  888 Y88b888
+   888  "Y88888 888 888 "Y888888   "Y8888P"  888  888 "Y888888 888  888  "Y88888
+ .d88P
+
+
+
+                                     FAQ v.1.0                            
+                                
+                                  Compiled by Aoi                           
+                                
+                                  2:48 AM 6/30/97
+
+
+                            <<<<<< WHAT'S NEW ? >>>>>>
+
+ - 6/29/97 | First version released, there is much more that needs to be added.
+                          Layout done by myself using Figlet.
+                    Has Julia's official moveslist, not Michelle's.
+
+
+                                  ------------
+                                  INTRODUCTION
+                                  ------------
+
+ Julia Chang is the second time release character. She is one of the most
+ dangerous charcaters in the game if used very intelligently. All characters
+ are dangerous if used effectively, its just certain characters that people
+ push aside cause they can't do many moves with are some of the most fearsome
+ fighters. Lei is a good example cause he uses the 5 animal kung-fu system.
+ Not many people know all of the stances inside and out, the ones who do make
+ Lei move so fluidly through his stances creating a opponent to be reckoned
+ with. Julia is a great character for the advanced juggler.
+
+
+ JULIA'S ATTRIBUTES
+
+ Upside ............... Julia has tons of moves. Mixing it up shouldn't be too
+                        hard if you practice with her like crazy. Her power
+                        comes from her speed and variations of combos and
+                        moves.
+
+ Downside ............. You need to know her like the back of your hand to be 
+                        very effective. She is a top notch choice though if 
+                        you can create attacks on the fly.
+
+
+
+ JULIA'S STATISTICS
+
+ NATIONALITY ------ American
+ FIGHTING STYLE --- Various Chinese Martial Arts
+ AGE -------------- 18
+ HEIGHT ----------- 165 cm
+ WEIGHT ----------- 54kg
+ BLOOD TYPE ------- B
+ OCCUPATION ------- Archeology Student
+ HOBBY ------------ Hunting
+ LIKES ------------ Buffalo
+ DISLIKES --------- Mishima Finacial Empire
+ STAGE ------------ Pyramid Interior
+
+
+ JULIA'S BIO/STORYLINE
+
+ Searching for Michelle.........
+
+ Julia studies archeology in Michelle Chang's tribal lands. As a baby,
+ Julia was deserted in the ruins of ancient Native American settlements,
+ where Michelle found her. Michelle rescued Julia and brought her up
+ with love. Julia loved Michelle and her adopted tribe and trained with
+ Michelle to protect her beloved homeland.
+
+ When Julia was 18, stories of sudden disappearances of famous martial
+ artists all over the world began to reach the tribe. The tribe knew the
+ cause, which was contained in the tribal legends...the legend of the
+ God of Fighting. People in the tribe feared that Michelle's pendant,
+ the key to Native American sacred treasure, had something to do with
+ the disappearances.
+
+ With apprehension spreading through the tribe, Michelle left for Japan
+ to ask Heihachi why he had sought to take the pendant during the second
+ tournament. Michelle hoped to learn about the origin of the God of
+ Fighting's power. Michelle did not return. Julia suspected Heihachi and now
+ seeks him out to discover the truth.
+
+
+
+
+ CONVENTIONS
+
+ f - tap forward
+ F - hold forward
+ b - tab back
+ B - hold back
+ u - tap up
+ U - hold up
+ d - tap down
+ D - hold down
+
+ d/f - tap down and forward
+ D/F - hold down and forward
+ d/b - tap down and back
+ D/B - hold down and back
+ u/f - tap up and forward
+ U/F - hold up and forward
+ u/b - tap down and back
+ U/B - hold up and back
+
+ QCF - quarter circle toward (d,d/f,f)
+ QCB - quarter circle back(d,d/b,d)
+ HCF - half circle toward (b,d/b,d,d/f,f)
+ HCB - half circle back (f,d/f,d,d/b,b)
+
+                        left punch = lp      rp = right punch
+                        left kick =  lk      rk = right kick
+
+ FC------------ full crouch (must be in full crouching animation)
+ N------------- no direction pressed on the joystick (neutral)
+ WR------------ while running
+ WS------------ while rising
+ WJ------------ While jumping
+ SS------------ sidestep+ do moves on either side(s) together
+ ~------------- immediately followed by...
+ <>------------- Denotes that move has optional extension
+ ( or... )--------- Denotes "or" - used for optional commands
+ (f-throw)----- Forward throw
+ (s-throw)----- Side throw
+ (b-throw)----- Back throw
+
+
+
+                  SPECIAL MOVES WITH DAMAGE POINTS AND RANGE
+
+ H ----- High
+ M ----- Medium
+ L ----- Low
+
+ Numbers are in %'s
+
+____________________________________________________________________________
+                                                             |
+            MOVE AND JOYSTICK/BUTTON COMMAND                 |     DAMAGE
+_____________________________________________________________|______________
+                                                             |
+ Low Counter Dodge ----- d/b (or d) 1+3 or 2+4               |     Reversal
+                                                             |
+_____________________________________________________________|______________
+                                                             |
+                                                             |
+ G-Clef Cannon --------- 1,1,1                               |10, 5, 21  H,M,M
+_____________________________________________________________|______________
+                                                             |
+                                                             |
+ Alternate G-Clef------- d/f+1,1                             |    8, 21  M,M
+_____________________________________________________________|______________
+                                                             |
+                                                             |
+ Spinning Sweep -------- (wc)+4                              |       10  L
+                                                             |
+_____________________________________________________________|______________
+                                                             |
+                                                             |       
+ Crazy Horse ----------- (wc)+4,1                            |   10, 21 L,M
+_____________________________________________________________|______________
+                                                             |
+                                                             |
+ Spinning Sweep, High Kick -------- (wc)+4,N,4               |   10, 23 L,H
+_____________________________________________________________|______________
+                                                             |
+                                                             |
+ Sweep, Low Kick -------- 3, d+3                             |   10,10   L,L
+                                                             |
+_____________________________________________________________|______________
+                                                             |
+                                                             |
+ Skyscaper -------------- (ws)+4                             |     15  M
+                                                             |
+_____________________________________________________________|______________
+                                                             |
+                                                             |
+ Foot Stomp ------------- (wj)+3+4                           |       35  M
+
+_____________________________________________________________|______________
+                                                             |
+
+ Tequila Sunrise -------- (ws)+2                             |       15  M
+
+_____________________________________________________________|______________
+                                                             |
+
+ Tequila Sunset --------- (ws)+2,1,1                         |18, 5, 21  M,M,M
+_____________________________________________________________|______________
+                                                             |
+
+ Tequila Sunrise, High Kick --- (ws)+2,4,4                   |15, 12, 23 M,L, H
+_____________________________________________________________|______________
+                                                             |
+
+ Tequila Sunrise, Slicing Uppercut--- (ws)+2,4,1             |15, 12, 21 M,L, M
+_____________________________________________________________|______________
+                                                             |
+
+ Tequila Sunrise, Low Kick ------ (ws)+2,4, d+4              |15, 12, 10 M,L, L
+______________________________________________________ ______|______________
+                                                            |
+
+ Tequila Sunrise, Arrow Kick ---- (ws)+2,1,4,3               18,5,12,15 M,M,L,H
+____________________________________________________________|______________
+                                                             |
+
+ Twin Arrow ------------- 1+2 (melts opponents guard)        |       25  M
+
+_____________________________________________________________|______________
+                                                                |
+
+ Rising Sun ------------- d/f+2                                 |       10
+
+_____________________________________________________________|______________
+                                                             |
+
+ Rising Sun Combo ------- (during Rising Sun) press 1        | 21  M, Special H
+_____________________________________________________________|______________
+                                                                |
+
+ Front Snap Kick -------- d/f+3                                 |       17  M
+
+________________________________________________________________|______________
+                                                                |
+
+ Turnaround Punch ------- b+2                                   |       12  H
+
+________________________________________________________________|______________
+
+ Spinning Sweep --------- d,d/f+4                               |       12  L
+
+________________________________________________________________|______________
+                                                                |
+
+ Spinning Sweep, Bow Leg ---- (during Spinning Sweep) press 3   |       15  H
+
+________________________________________________________________|______________
+                                                                |
+
+ Spinning Evasion, Kick ------- 3+4,4                           |       20  H
+
+________________________________________________________________|______________
+                                                                |
+
+ Sting --------------- f,F+1                                    |       10  M
+
+________________________________________________________________|______________
+                                                                |
+
+ Rapid Fire ----------- d,D/F+1                                 |       14  M
+
+________________________________________________________________|______________
+                                                             |
+
+ Machine Gun Punch ---- 1,2                                  |   10, 8   H,M
+_____________________________________________________________|______________
+                                                                |
+
+ Stun Gun ------------- D,D/F+2 (stuns on a counterhit)         |       20  M
+
+________________________________________________________________|______________
+                                                                |
+
+ Alley Oop, Elbow Smash ---- (ws)+2,2                           |   15, 22  M,M
+
+_____________________________________________________________|______________
+                                                             |
+
+ Bow Kick Combo --------------- d/f+1,4,3                    |8, 12, 15  M, L,H
+_____________________________________________________________|______________
+                                                             |
+
+ Bow Kick Combo 2 ------------- 1+4,3                        |12,12,15   M,L, H
+_____________________________________________________________|______________
+                                                                |
+
+ Slicing Uppercut ------------- 3,2                             |       15  M
+
+________________________________________________________________|______________
+                                                             |
+
+ Moon Cannon ------------------ 1,2,1                        |10,15,21   H,M, M
+_____________________________________________________________|______________
+                                                             |
+
+ Gerinimo Cannon -------------- 2+3,1                        |8, 9, 25   L,M, M
+_____________________________________________________________|______________
+                                                             |
+
+ Moon Cannon, High Kick ------- 1,2,4                        |10, 8, 20  H,M, H
+_____________________________________________________________|______________
+                                                             |
+
+ Moon Cannon, Low Kick ------- 1,2,3                         |10, 8, 10  H,M, L
+_____________________________________________________________|______________
+                                                             |
+
+ Quick Slice Uppercut -------- 3,2,4,4                       |15,12,23   M,L, H
+_____________________________________________________________|______________
+                                                             |
+
+ Spinning Slice Uppercut ----- 3,2,4,1                       |15,12,21   M,L, M
+_____________________________________________________________|______________
+                                                             |
+
+ Double Slice Uppercut ------- 4,2,4,d+4                     |15,12,10   M,L, L
+_____________________________________________________________|______________
+                                                             |
+
+ Slice Uppercut, G-Clef Cannon --- 3,2,1,1                   |18, 5, 21  M,M, M
+_____________________________________________________________|______________
+                                                             |
+
+ Slice Uppercut, Arrow Kick ------ 3,2,1,4,3                 |18,5,12,15 M,M,L,H
+_____________________________________________________________|______________
+                                                             |
+
+ Uppercut, Bash --------------- 3,2,2                        |    15, 22 M,M
+_____________________________________________________________|______________
+                                                             |
+
+ Slow Power Punch, High Kick --- d/f+2,4                     |    10, 20 M,H
+_____________________________________________________________|______________
+                                                             |
+
+ Slow Power Punch, Low Kick ----- d/f+2,3                    |    10, 10 M,L
+_____________________________________________________________|______________
+                                                             |
+
+Kicking Flurry --------------- 4,4,4                         |20, 12, 23 H,L
+_____________________________________________________________|______________
+                                                             |
+
+ Low Kicking Flurry ----------- 4,4,d+4                      |20, 12, 10 H,L,L
+_____________________________________________________________|______________
+                                                             |
+
+ Sting, Skyscaper ------------- f,f+1,4                      |   10, 15 M,M
+_____________________________________________________________|______________
+                                                             |
+
+ Lighting Uppercut ------------ f+1                          |        15 M
+
+_____________________________________________________________|______________
+                                                             |
+
+ Cupid's Arrow ---------------- d,D/F+1,2                    |    14, 21 M,M
+
+_____________________________________________________________|______________
+                                                             |
+
+ Fatal Fury --------------- f+1,2                            |        21 M
+
+_____________________________________________________________|______________
+                                                             |
+
+ Thunderbolt -------------- f,f,f+1                          |        10 M
+
+_____________________________________________________________|______________
+                                                             |
+ UNBLOCKABLE                                                 |
+                                                             |   50 Unblockable
+ Heaven Cannon ---------- F+1+4 (unblockable)                |
+_____________________________________________________________|______________
+____
+
+TEN STRINGS
+
+ 2,1~1,2,3~3,3,4,4,1        Tenstring
+ 2,1~1,2,3~3,2,3,2,1        Tenstring (last hit unblockable)
+ 2,1~1,2,3~3,2,1,4,3        Tenstring
+
+
+ MISCELLANEOUS MOVES
+
+ Taunt -------------------- 2+3+4
+ Feel the Power ----------------- 1+2+3+4 (1st attack is a counterhit
+ and does guard damage. You are left vulnerable during the charge up.)
+
+ THROWS (Forward Throws)
+
+ Death Valley Bomb --------- 1+3
+ Cradle Suplex ------------- 2+4
+ Double Arm Lock Suplex ------ d/f+1+2
+ Mad Axes -------------------- d,d/b,b,f+2
+ Waist Suplex ---------------- d,D/B+1+3
+ Cross Arms Suplex ----------- D,d/b,d,D/B+1+2
+
+ SIDE THROWS (you must sidestep to get these throws)
+
+ Running Bulldog ----------- 1+3 or 2+4 (left side)
+ Twisting Frankensteiner ---- 1+3 or 2+4 (right side)
+
+ BACK THROW
+                                                                        
+
+ Branded --------------------- 1+3 or 2+4 (back throw)
+
+
+
+ JUGGLE COMBOS (more are on the way)
+
+ *(wc) is the same as the down command*
+ ie. (wc)+4,1 is the same as d+4,1
+
+ (wc)+4,1, d+1, d,d/f+4,3, (wc)+4,1
+ (wc)+4,1, 2+3,1
+ (wc)+4,1, d+1, (wc)+4,1, (wc)+4,N,4
+ (wc)+4,1, d,d/f+4,3, f+1,2
+ 1,2,1 (counterhit on 2), f,f,f+1, (wc)+4,1
+ 1,2,1 (counterhit on 2), f,f,f+1, (wc)+4,N,4
+ 1,2,1 (counterhit on 2), f,f,f+1, f,f+1, f+1,2
+ 1,2,1 (counterhit on 2), f,f,f+1, d/f+2,4, (wc)+4,N,4
+ u/f+4, f,f,f+1, f,f+1, f,f+1,4
+ u/f+4, 1,2, (wc)4,1, (wc)+4, n, 4
+ u/f+4, 1, (ws)+2, d,d/f+4,3, f+1
+
+ AGAINST THE CPU
+
+ JIN......
+ The dude has a total package of defense, offense, you name it. The key here
+ is to try to interrupt his attacks frequently. Dodging frequently also helps
+ but don't abuse a good thing. Jin tries to crowd out his opponents. Playing
+ keep away won't fair too well. Instead opt for a counter-attack strategy.
+
+ PAUL.....
+ Paul likes to sit back and wait for opportunity to knock at his door. If you
+ try this strategy he will more than likely beat you to the punch. The best
+ way to get the ball rolling is to start with some low attack then follow up 
+ with a combination of maybe high then mid range. Mix it up. Don't brawl back
+ and forth with him though, that's his forte. More or less dodge very 
+ frequently after his mistakes beacuse recovery time between a lot of his 
+ attacks is a little slow.
+
+ LING.....
+ Ling is a pretty good match up for Julia. When she goes into the Art of 
+ Phoenix, stay on her and go low and follow up with another low attack or 
+ combo maybe low, high to catch her off guard.
+ ---- Simple ie. Low sweep then skyscraper kick ----
+
+ NINA.....
+ Nina is tough because alot of her attacks come from everywhere, like high, 
+ high, mid, low, etc. Try to keep a good distance between yourselves and use 
+ poke tactics.
+
+ YOSHIMITSU.....
+ Keep low against Yoshi. Don't just sit there though cause you can get juggled
+ with a uppercut. Most of Yoshi's attacks are mid and high range so keep that 
+ in mind and emphasis low combo starters.
+
+ FOREST.....
+ I find that spinning attacks and sidestepping seems usefull if you time it 
+ right against Law. If it is used correctly this is his biggest weakness. If
+ not used correctly you will pay very dearly cause his kicks can track or 
+ follow you while you go in and out of the background.
+
+ EDDY.....
+ When he starts his low combos poke at him with low sweeps and finish off with
+ skyscraper kicks or alley oop, elbow Smashes or tequila sunrise attacks when 
+ he tries to recover. From here there are alot of juggle opportunities. Mainly
+ poke tactics are very useful and keeping a solid distance away from him allows
+ you to poke him to death.
+
+ LEI.....
+ Lei's main fault is when he gets on the ground. It isn't necessarily a 
+ weakness, but it doesn't have as much flare as it did in the previous Tekken.
+ His main priority is his different stances. Spinning attacks work very well 
+ and he falls for the turnaround punch, low jab, skyscaper kick very often. So
+ do most all of the other CPU characters. If you do it too much to characters
+ who can reverse high attacks mainly Paul and Nina, they will more than likely
+ stop you dead in you tracks on the turnaround punch and reverse it. But.....
+ you can always "chicken" out of it and reverse them back.
+
+
+ HWOARANG.....
+ Sidestepping works like a gem against Hwoarang. Make sure you follow up 
+ immediately afterwards though cause he has very quick recovery and can jab 
+ you out of most opportunities you think you may have. Other than that he is 
+ rather moderate, but can track like a punk when he starts losing.
+
+
+ KING.....
+ King is another character you can poke at and fair pretty well. He is quite 
+ aggresive because his moves aren't plentiful so he has to do what he can to 
+ make up for his lack of moves. When he goes for multis poke him or sweep him 
+ if you can. Keeping away doesn't do too well cause he likes to get in your 
+ face like he knows you.  Sticking and poking at him while playing some tough 
+ defense you can carry you through.
+
+ GUN-JACK.....
+ Since he is very aggressive I base some emphasis on the 1,2,1 Moon Cannon to 
+ get a counterhit juggle launcher, then start juggling. Poking and spinning 
+ work quite well and if timed right while he is doing those Cossack Kicks or 
+ Swinging Punches you can be preparing yourself for the unblockable and 
+ executing a juggle. 
+
+ Kuma.....
+ Kuma is similar to Gun-Jack the only thing I would watch for is interrupting 
+ her attacks and plan on breaking out of alot of grabs.
+
+ MOKUJIN.....
+ Use strategy according to the character that is being mimicked.
+
+ BRYAN.....
+ Bryan is also a very aggresive fighter with too many powerful combos that take
+ off mad damage. Poking works somewhat but he has too many damaging blows that
+ if you mess up in least you will get beat down. Spinning seems useless 
+ against him cause of his low shin kicks. A good tactic to use is the one 
+ similar to Gun-Jack's.  I do a lot of Moon Cannons (1,2,1) and juggle follow 
+ ups to wear him down.
+
+ HEIHACHI.....
+ I emphasis sidestepping alot against him because of the tile splitter he uses
+ often and low sweeps followed by a high, mid attack.
+
+ OGRE
+ He uses the backflip, tooth fairy like crazy. Block high for both moves and 
+ maybe grab or combo afterwards.
+
+_______________________________________________________________________________
+
+
+ CREDITS/LEGAL
+
+ Namco Limited. Most of the names of the moves are official
+ some I modified for visual clarity to place a picture in
+ your mind of the move. All moves are from the Julia Chang
+ section of the Namco page and Gamest Mook Magazine.
+ 1 or 2 moves were added.
+                                                                        
+ Copyright 1994-1997 by Aoi.  No part of this FAQ is to be altered
+ without prior consent. Freely distribute this faq and it's
+ contents granted no monetary fees are collected. Contact me
+ if you want to place this faq and/or it's contents in media,
+ print, or otherwise.
+
+ Tekken 3 is Copyright (C) 1996 Namco Limited. All rights
+ reserved. Tekken, Tekken 2, and Tekken 3 are all trademarks
+ of Namco Limited. All images, characters, and any other
+ indicia are owned by the companies who license and/or market
+ the products. This FAQ is in no way related to any company
+ mentioned herein.
+                        
+                                                                        
+ You can get this faq on numerous Tekken 3 Sites:
+                                                                
+ http://www.geocities.com/tokyo/3297/links.htm
+
+ Also my faqs are archived at Gamefaqs:
+                                                                
+ http://www.gamefaqs.com
+                                                                
+ My Tekken 3 faqs will be under:
+
+ http://www.gamefaqs.com/varc_tz.html
+
+
+==============================================================================
+
+                          d8888          d8b
+                         d88888          Y8P
+                        d88P888
+                       d88P 888  .d88b.  888
+                      d88P  888 d88""88b 888
+                     d88P   888 888  888 888
+                    d8888888888 Y88..88P 888
+                   d88P     888  "Y88P"  888 aknight@frontiernet.net
+                                 http://www.geocities.com/tokyo/3297
+                        Please send corrections/suggestions/concerns
+
+===============================================================================
+

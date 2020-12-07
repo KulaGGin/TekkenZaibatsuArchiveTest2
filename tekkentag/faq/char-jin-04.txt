@@ -1,0 +1,2814 @@
+                              A BEGINNER'S GUIDE TO JIN KAZAMA
+
+==================================================================================================
+
+1.0 FORWARD
+
+==================================================================================================
+
+Hello, and welcome. This is a guide written to bring you from a starting player to one who has 
+solid competency with Jin Kazama. As such, advanced techniques such as the Crouch Dash, Tag 
+Juggles, and Frame data will not be discussed here; I will instead be concentrating on covering 
+the basics. When you read this guide, keep in mind that I am not totally objective; I favour 
+certain moves over others because I think they look better, or have more success with them than 
+others. All I can do is say how well I think a particular move works; It's up to you whether or 
+not to include it in your arsenal. It'd be a pretty boring world if everyone suddenly started 
+to play Jin the same (poor) way I do :D
+
+==================================================================================================
+
+2.0 DISCLAIMER
+
+==================================================================================================
+
+This guide is not subject to any real copyright stuff but I would appreciate it if you 
+referenced me for any material from it you may use. I also hear that some sites sell guides 
+like this, and though it is hardly likely that they will pick this doggerel up, I did this for 
+free and hope people will accept it in that spirit.
+
+Tekken, all of its characters, and everything else belongs to Namco. All other trademarks 
+belong to their respective owners.
+
+==================================================================================================
+
+3.0 TABLE OF CONTENTS
+
+==================================================================================================
+
+1.0  FORWARD
+2.0  DISCLAIMER
+3.0  TABLE OF CONTENTS
+4.0  VERSION HISTORY
+	4.1 Version 1.
+	4.2 Version 1.01
+	4.3 Version 1.02
+	4.4 Version 1.1
+        4.5 Version 1.11
+        4.6 Version 1.12
+5.0  ABOUT THE AUTHOR
+6.0  JIN KAZAMA
+7.0  PROS AND CONS
+8.0  UNIFORMS
+9.0  CONVENTIONS
+	9.1 Controls.
+        9.2 Abbreviations
+10.0 MOVE PROPERTIES
+        10.1 Hit Heights.
+        10.2 Damage.
+        10.3 Clean Hit.
+        10.4 Counter-Hits.
+        10.5 Juggles.
+        10.6 Stuns.
+        10.7 Okizeme.
+11.0 PUNCHES
+        11.1 Left Jab.
+        11.2 Right Jab.
+	11.3 Demon Backhand Spin (Jab to Spinning Backfist).
+	11.4 Mishima Flash Punch Combo (Shining Fists, Poking Doom).
+	11.5 Left, Right Combo (Double Punch, Twin Punches, Twin Fangs         
+	11.6 Demon Slayer (Twin Fang Backfist, Double Punch Backfist, 
+             etc).
+	11.7 Demon Backfist (Backhand of Justice, a la Minsc).
+	11.8 Overhead Smash.
+	11.9 Parting Wave.
+	11.10 Corpse Thrust (Corpse Hitter, Corpse Splitter).
+	11.11 Demon's Paw.
+	11.12 Uppercut.
+	11.13 Twin Lancers.
+	11.14 Tooth Fairy.
+	11.15 The Laser Series.
+	11.16 High Pounce.
+	11.17 Twin Pistons (Rising Twin Uppercuts).
+	11.18 Punch Rush.
+	11.19 Thunder Godfist.
+	11.20 Wind Godfist.
+12.0 KICKS
+	12.1 Left Kick.
+	12.2 Right Kick.
+	12.3 Spinning Roundhouse.
+	12.4 Demon Steel Pedal (Abuse Kick).
+	12.5 Knee.
+	12.6 Teardrop Kick.
+	12.7 Spinning Sweep.
+	12.8 Left Axe Kick.
+	12.9 Left Jumping Sidekick.
+	12.10 Tsunami Kicks (Crescent to Axe).
+	12.11 Can-Can Kicks (Dancing Man, Low/Mid Jumping Kicks, etc).
+	12.12 Mishima Flip Kick (Demon Scissors, Death From Above).
+	12.13 Spinning Demon (Rising Sun, Spiraling Doom, Descending 
+              Storm, Mishima Cheese Wheel, etc).
+	12.14 Slash Kick.
+	12.15 Hell Sweeps.
+13.0 THROWS
+	13.1 Double High Sweeps (Bitch Kicks, Roundhouse to Crescent).
+	13.2 Over the Shoulder Reverse.
+	13.3 Complicated Wire.
+	13.4 Wrist Chuck Slam.
+	13.5 Stonehead.
+	13.6 Tag Throws.
+	13.7 Side and Rear Throws.
+	13.8 Ultimate Tackle.
+14.0 UNBLOCKABLES
+	14.1 Lightning Uppercut.
+	14.2 Lightning Screw Uppercut.
+15.0 COMBOS
+	15.1 White Heron.
+	15.2 Lashing Out.
+	15.3 Multi-Hit Combos.
+16.0 MOVEMENT
+        16.1 Walking.
+        16.2 Sidestepping.
+17.0 RUNNING ATTACKS
+	17.1 Flying Cross-Arm Chop.
+	17.2 Running Tackle.
+	17.3 Sliding Dash.
+	17.4 Leaping Side Kick.
+        17.5 Stomp
+	17.6 Unblockable Shoulder Charge.
+18.0 THEY SEEK HIM HERE, THEY SEEK HIM THERE
+        18.1 Ducking.
+        18.2 Diving.
+19.0 ON THE GROUND
+	19.1 Stay Put.
+	19.2 Roll.
+	19.3 Get Up.
+	19.4 Low Sweep.
+	19.5 Standing Side Kick.
+	19.6 Rising Cross-Arm Chop.
+	19.7 Rising Kicks.
+20.0 BACK TOWARDS THE ENEMY
+21.0 OPENING MOVES
+22.0 FLURRIES
+23.0 TAGGING
+24.0 AVOIDING THROWS
+25.0 WHAT'S THIS CROUCH DASH CRAP, ANY WAY?
+26.0 JUGGLING
+27.0 COUNTERING
+28.0 SPECIAL TECHNIQUES
+        28.1 Chickening.
+        28.2 Counter-Baiting.
+        28.3 Force.
+        28.4 Box Moves.
+        28.5 Supercharger.
+        28.6 Low Parry. 
+        28.7 Netsu.
+        28.8 Hit Points.
+        28.9 Setting up the WS
+29.0 PLAYER TYPES
+	29.1 The Pit Bull.
+	29.2 The Turtle.
+30.0 PLAYER SKILL LEVELS
+	30.1 Masher.
+	30.2 Beginner.
+	30.3 Intermediate.
+	30.4 Advanced.
+	30.5 Elite.
+31.0 THE OTHERS
+	31.1 A Word To The Wise.
+	31.2 Alex/Roger.
+	31.3 Baek Doo San (Lamek).
+	31.4 Bryan Fury.
+	31.5 Bruce Irvine.
+	31.6 Devil/ Angel.
+	31.7 Eddie Gordo/Tiger Jackson.
+	31.8 Forrest Law.
+	31.9 Ganryu.
+	31.10 Heihachi Mishima.
+	31.11 Hwoarang (Bob).
+	31.12 Julia and Michelle Chang.
+        31.13 Jun Kazama.
+	31.14 Kazuya Mishima.
+	31.15 King/Armour King.
+	31.16 Kunimitsu.
+	31.17 Lee Chaolan.
+	31.19 Lei Wulong.
+	31.20 Ling Xiaoyu.
+	31.21 Mokujin/Tetsujin/Unknown.
+	31.22 Nina and Anna, the Williams Sisters.
+	31.23 Ogre/True Ogre.
+	31.24 Panda/Kuma.
+	31.25 Paul Phoenix.
+	31.26 Prototype Jack, Jack-2, Gunjack.
+	31.27 Wang Jinrei.
+	31.28 Yoshimitsu.
+22.0 WHAT'S NEXT?
+33.0 CONTACTING ME
+34.0 CREDITS
+
+==================================================================================================
+
+4.0 VERSION HISTORY
+
+==================================================================================================
+
+4.1 Version 1.0 24/04/03
+
+The very first attempt. Probably loaded with incorrect spelling and poor syntax, as well as 
+misleading and false information. Further attempts will correct these :D
+
+==================================================================================================
+
+4.2 Version 1.01 19/05/03
+
+Spelling mistakes and grammatical errors cleaned up. New information for fighting against 
+Bryan Fury and Lei Wulong; errors in damage counts corrected and new moves added. The layout of 
+the guide was prettied up, and the Table of Contents was created. The guide grew by 7 pages!
+
+==================================================================================================
+
+4.3 Version 1.02
+
+More general tidying up of the document. I've learnt how to do f,N,d,D/F moves and give some 
+hints and tips on them. 
+
+==================================================================================================
+
+4.4 Version 1.1
+
+More general tidying up of the text. I posted the guide directly to the Tekken Zaibatsu forums 
+and stood back to watch the fireworks; after the dust settled, I incorporated some of the saner 
+comments and criticisms into this re-write :D
+
+For the foreseeable future, this will be the last major update. I think I've got the most 
+important stuff down. At a massive 60+ pages, I think I've covered enough, already! 
+
+Get out there and play!
+
+=================================================================================================
+
+4.5 Version 1.11
+
+More editing and general tidying-up. The Guide is more or less complete, so unless there's an 
+epiphany of Biblical proportions around the corner, this should be the final update.
+
+==================================================================================================
+
+4.6 Version 1.12
+
+More diting. Some more information added and some wordings clarified.
+
+==================================================================================================
+
+5.0 ABOUT THE AUTHOR
+
+==================================================================================================
+
+My name is Michael Adams. I am a 20-year old University student. I study Biochemistry and 
+Molecular Biology, and Biological Science at Griffith University in Brisbane, Queensland, 
+Australia. I do not ride Kangaroos, Wombats, or bilbies around, contrary to what you 
+have seen on The Simpsons. In my spare time, I work, study, play computer games, read, work, 
+and study some more.
+
+I've recently decided to give Science the flick for something I feel I'll enjoy more: Teaching. 
+Yes, after finishing the requisite 12 years at school, I've still not learnt my lesson and will 
+be heading back for more punishment ~.^ 
+
+Griffith University has a Tekken Tag machine, and that is how I learnt to play. I recently 
+bought a PS2 to feed my addiction. It was cheaper to buy one than to keep spending money at 
+the arcade :D
+
+==================================================================================================
+
+6.0 JIN KAZAMA
+
+==================================================================================================
+
+Jin Kazama was born to Kazuya Mishima and Jun Kazama. During his mother's pregnancy, Kazuya 
+Mishima was hurled into a volcano by Jin's grandfather, Heihachi Mishima. Following the 
+supposed death of its host, the Devil within Kazuya fled and attempted to possess the unborn 
+Jin. Jun managed to fight the weakened spirit off, sending it back to her husband's 
+shattered husk.  Jun Kazama taught her son Kazama style karate as he grew up in the woods, 
+isolated from the corruption of his Mishima bloodline-he never even took his father's surname 
+for his own, instead taking the Kazama name.
+
+At the age of 16, Jin's world was shattered when the Ogre, released by the machinations of his 
+grandfather, attacked his mother. Jin fought hard in her defence, but the Ogre was too powerful 
+and he was knocked unconscious. When Jin awoke, his mother was gone. Swearing vengeance for her,
+he set out to confront the only man who could give him the strength he needed to vanquish the 
+Ogre; his grandfather, the evil head of the Mishima corporation- Heihachi Mishima himself. On 
+his journey, Jin was attacked and stunned by an unseen force; thereafter, he was marked with a 
+black tattoo on his arm- the mark of the Devil which now dwelt in his soul. Nevertheless, Jin 
+found his grandfather and convinced him to teach him Mishima style karate, melding it with his 
+mother's Kazama style and his own form to create an unstoppable art. It was during this time 
+that Jin encountered his only rival, the Korean Tae Kwon Do fighter, Hwoarang. Hwoarang and his 
+gang encouraged passers-by to fight for prize money, and Jin was caught in this game. Jin and 
+Hwoarang fought on, but were unable to find any advantage; the match ended in a draw, and both 
+men swore to fight again to prove themselves the better. 
+
+Three years later, at the age of 19, Heihachi deemed Jin ready. To draw the Ogre out, he 
+announced the King of Ironfist 3; martial artists from across the globe gathered for the 
+traditional 1 billion-dollar prize. Jin blew through all opposition, even downing Heihachi for 
+the right to face the captured Ogre. Against all expectations, Jin slaughtered the Ogre-even 
+after it had shapeshifted to its powerful, flame-breathing True form. Following the battle,
+Heihachi moved in to take samples of the Ogre's blood, which supposedly held the secrets to 
+immortality. He also decided that Jin, capable of defeating both him and the Ogre, was too 
+powerful an opponent to leave alive; along with a Tekkenshu team, Heihachi attempted to kill 
+Jin. After being badly wounded (and shot in the head by Heihachi, no less!), Jin's Devil 
+manifested, keeping Jin alive. Jin retaliated, killing all the Tekkenshu and hurling Heihachi 
+out through the temple's wall. Since that time, Heihachi Mishima discovered that to unlock the 
+power of immortality from the Ogre's blood, he needs the power of the Devil. Since Kazuya's 
+body was supposedly unrecoverable (and we all know how *THAT* one turned out), Heihachi has 
+begun a hunt for Jin. For his own part, Jin Kazama will stop at nothing to kill his evil 
+grandfather.
+
+==================================================================================================
+
+7.0 PROS AND CONS
+
+==================================================================================================
+
+Well, there are many pros to playing Jin Kazama. First off, he's one of the fastest characters 
+in the game,  throwing moves out incredibly quickly. Second, he deals out a hell of a lot of 
+damage. Although not the biggest one-hit wonder in the game (that title belongs to Paul 
+Phoenix with the accursed Phoenix Smasher), Jin's speed means he can dish out a series 
+of fast strikes for excellent overall damage. Third, Jin has one of the meanest juggling games 
+around, thanks to the mighty Laser series. Finally, Jin has moves which flow together well and 
+can be varied to catch your opponent off guard.
+
+Unfortunately, all of the above means that Jin is a very popular character. Many people use Jin,
+so he's one of the most watched characters around. As a result, your opponent will probably 
+have seen most of your tricks before. So when using Jin, you'll have to fight smart, not just 
+hard. The other major con Jin suffers is that he really demoralises beginning players; when I 
+started out, my opponent used Jin and creamed me. So this of course made me want to learn how 
+to use Jin. He let me practice, so I opened up the command list and saw, to my horror, a 
+multitude of moves to learn. Complete with commands like b,f+whatever and f,*d,d/f+ whatever. 
+I gave up and went back to mashing with Hwoarang. I feel that this happens a fair bit; 
+people assume that Jin is only for the masters and tend to steer clear. 
+
+Well, it isn't so and this guide will prove it.
+
+==================================================================================================
+
+8.0 UNIFORMS
+
+==================================================================================================
+
+Yes, dear reader, I have far, far too much spare time on my hands.
+
+Pressing (1) will give you Jin in black pants with blue fire designs on them and blue gloves. 
+Pressing (2) will give you Jin with black pants with red fire designs on them and red gloves.
+Pressing (3) will give you Jin in black and red leathers with red gloves. 
+Pressing (4) will give you Jin in black, red, and orange leathers with red gloves. This is 
+similar to (3) but the jacket has different highlight colours and as a result looks kinda weird.
+Pressing (5) gives you Jin in his Mishima High School uniform. It has a purple top and tartan 
+pants and looks very odd. 
+
+==================================================================================================
+
+9.0 CONVENTIONS
+
+==================================================================================================
+
+(These were borrowed from Kioni Kappahala's excellent Jin Kazama Guide for Tekken 4)
+
+==================================================================================================
+
+9.1 Controls.
+
+[ Controller Layout ]  -----------------------------------------------------
+
+  ub  u  uf      Jump Up-Back            Jump Up         Jump Up-
+                                                         Forward
+    \ | /
+ b -- n -- f     Walk Back / Block       Neutral         Walk Forward
+    / | \
+  db  d  df      Crouch / Low Block      Crouch          Offensive Crouch 
+ 
+
+Button 1 (Square on the PS2): Left Punch
+Button 2 (Triangle on the PS2): Right Punch
+Button 3 (X on the PS2): Left Kick
+Button 4 (O on the PS2): Right Kick
+Button 5 (Any of the trigger buttons or the right analogue stick on the PS2): Tag
+
+==================================================================================================
+
+9.2 Abbreviations. 
+
+d/f     tap down forward                             D/F       hold down forward
+d/b     tap down back                                D/B       hold down back
+u/f     tap up forward                               U/F       hold up forward
+u/b     tap up back                                  U/B       hold up back
+qcf     quarter circle forward                       qcb       quarter circle back
+hcf     half circle forward                          hcb       half circle back
+WS      while standing up                            SS        side step either way
+N       joystick in neutral                          ,         followed by             
++       at the same time 
+
+==================================================================================================
+
+10.0 MOVE PROPERTIES
+
+==================================================================================================
+
+10.1 Hit Heights.
+
+There are three heights that attacks strike at; High, Mid, and Low.
+
+High Attacks hit opponents who are standing fully; they will pass over the heads of crouching 
+opponents; at certain times, an opponent in the midst of a special move will be missed by such 
+moves as well. High Attacks may be blocked with the normal Standing Guard (ie, by holding Back 
+on the direction pad).
+
+Mid Attacks will hit both opponents who are Standing and who are Crouching. Mid Hits are only 
+blocked with the Standing Guard. SM denotes a "Special Mid" hit. These hits can be blocked 
+either Standing or Ducking, but cannot be Countered.
+
+Low Attacks will hit both standing and grounded opponents. Low Hits can only be blocked with 
+the Low Guard (ie, by holding Down/Back).
+
+==================================================================================================
+
+10.2 Damage.
+
+Each move does different damage. The challenge of Tekken Tag Tournament lies in balancing the 
+speed, hit properties, advantages and disadvantages of each move against its damage potential. 
+Keep in mind that low-damaging attacks, although they may seem fairly useless, can offer 
+substantial bonuses to the crafty player.
+
+==================================================================================================
+
+10.3 Clean Hit.
+
+A move that strikes an opponent who is not guarding against it will hit "Clean". A "Clean" hit 
+will offer more damage and perhaps some other special properties as well.
+
+==================================================================================================
+
+10.4 Counter-Hits.
+
+A move that hits an opponent just before or just after they perform a move of their own becomes 
+a "Counter-Hit". It will do extra damage and take on additional hit properties.
+
+A move that hits an opponent in the midst of their own move becomes a "Major Counter". It will 
+yield phenomenal amounts of extra damage and a number of additional hit properties.
+
+==================================================================================================
+
+10.5 Juggles.
+
+Some moves can throw an opponent into the air, making them a target for powerful Juggle moves. 
+These are identified as Juggle Starters.
+
+After performing a successful Juggle Starter, perform a Juggle. Some moves below will be 
+identified as being particularly good for Juggles.
+
+==================================================================================================
+
+10.6 Stun.
+
+Although not the core of Jin's game, some of his moves can induce some pretty severe Stuns.
+
+A Stunned opponent is at your mercy, unable to defend themselves and vulnerable to extra damage.
+
+Stun Juggles, identified below, take advantage of this temporary vulnerability to do some 
+guaranteed damage.
+
+==================================================================================================
+
+10.7 Okizeme.
+
+Okizeme is, basically, the art of flaying a downed opponent. Hardly sporting, but that's the 
+way it goes. Although I'll not delve into the intricacies of being a cheap, cheap bastard, 
+I'll point out some good ground-hitting arts.
+
+==================================================================================================
+
+11.0 PUNCHES
+
+==================================================================================================
+
+11.1 Left Jab. 1. H. 6.
+
+A fast snapping jab. It hits high, but as Jin is right-handed it inflicts low damage. I don't 
+use it much by itself.
+
+The primary value of this move is as a long Juggle stabiliser. It will toss your opponent back 
+up into the air long enough to follow on with a more powerful attack sequence.
+
+==================================================================================================
+
+11.2 Right Jab. 2. H. 10.
+
+Another jab. It hits high for better damage than a left jab, but that's all it has going for it.
+
+==================================================================================================
+
+Demon Backhand Spin (Jab to Spinning Backfist). 2,2. H,H. 10,18.
+
+Jin lashes out with a jab, then follows through with a spinning backfist. Although the damage 
+is excellent, it hits high twice and suffers in recovery. I use this to interrupt my opponents. 
+
+The damage on offer often makes this worthwhile as an alternative to the 1,1,2 poke.
+
+Some people perform this move by accident because their fingers were in the wrong place and 
+they were trying for a Mishima Flash Punch Combo. Make sure you are hitting the correct buttons.
+
+==================================================================================================
+
+11.3 Mishima Flash Punch Combo (Shining Fists, Poking Doom). 1,1,2. H,H,M. 6,8,18.
+
+Jin lashes out with two fast left-handed jabs, then follows through with a massive right cross 
+that knocks your opponent flying. This is Jin's most reliable poking attack. It combines high 
+speed and damage with delayability and the surprise factor of a mid-hitting finish. Opponents 
+who duck may be hit by this, and since you can delay the final hit, sometimes you can collect 
+opponents coming in to punish what they thought was a failed attack sequence. Plus, if you are 
+fighting a counter-nazi, they will always get hit if they try to reverse the final punch 
+because they tried to counter it too early :D. I use this to interrupt my opponents, to juggle 
+if I put my opponent into the air unexpectedly, and quite often when I Tag in. It offers some 
+breathing room because the final hit knocks guarding opponents back. 
+
+This is quite probably the most important move in Jin's basic arsenal. It is a low-risk, high 
+damage move, and will quickly become your standard counter-attacking move.
+
+Many people accidentally perform Demon Slayer when attempting this move. Make sure you are 
+pressing 1,1,2 as you can get yourself in trouble by doing that.
+
+==================================================================================================
+
+11.4 Left, Right Combo (Double Punch, Twin Punches, Twin Fangs etc). 1,2. H,H. 6,10.
+
+Jin snaps a left-handed jab out, followed by a right cross. Damage is nothing to write home 
+about, but it is a quick attack and several other moves follow. This is a pretty hard move to 
+stuff up. Just check you are hitting 1,2 in that order and are not hitting any direction 
+buttons.
+
+==>Following this, you can hit (4) to turn it into One, Two, Knee. The knee attack does 12 
+damage and is very fast. Additionally, knees cannot be countered so this move works well 
+against counter-nazis. Some people accidentally perform Shoot the Works by hitting (3) instead 
+of (4). Personally, this is the move I most often use to finish the string. Jin advances 
+throughout, which gives it solid range. If you intend any follow-on moves from the above two 
+punches, I would strongly recommend that you choose this one.
+
+==>By hitting (3) you can turn this into Shoot the Works. Jin follows up with an axe kick that 
+does 25 damage, which is quite nice. It can even be delayed a little bit. 
+
+Some people do One, Two, Knee by accident here by pressing (4) instead of (3). 
+
+You can then tack on a final hit here. Pressing (4) whilst Jin performs the (3) Axe Kick (and 
+this timing is important- you can't just go 1,2,3,4 here as he will stop after 1,2,3) has him 
+follow up with another axe kick. This does 30 damage, however you would have to be very lucky 
+to ever see this full combo connect. Jin advances throughout, so I very occasionally
+(maybe once per game) try this out against opponents who back away rather than stand and block, 
+in the hopes of catching them as they come in.
+
+I have occasionally seen people perform the Mishima Flip Kick (see below, in the Kicks section) 
+by accident here, though I have never done so myself. The most common mistake when trying for 
+this move is that the kick doesn't happen. Make sure you have your timing right. 
+
+Alternatively, you can go f+4 here and Jin will throw out a faster front kick, turning the 
+whole affair into Shoot the Works Upper. The damage is only 10 points, but the speed can make 
+it worthwhile. Otherwise it is the same as Shoot The Works. I use this in the same 
+circumstances as the above move, but I throw this in as a speed variation in case they are 
+fast off the mark. 
+
+The most common mistake here is that no kick comes at all, so check your timing. The other 
+common one is that Jin simply performs the final, slower axe kick. Make sure you are pressing 
+forwards when you hit (4) and that you have the correct timings.
+
+==================================================================================================
+
+11.5 Demon Slayer (Twin Fang Backfist, Double Punch Backfist, etc). 1,2,2. H,H,H. 6,10,18
+
+Jin performs a left jab, followed by a right cross, then finishes with a spinning backfist. 
+Although the overall damage is better than the Mishima Flash Punches, there is a bit of time 
+after the move when Jin is recovering, so do be careful. This move gets slammed in about every 
+Jin guide I have read, and although I don't think it's as bad as has been made out, 
+be careful with this attack. The main bonus is that this doesn't knock back as does the Mishima 
+Flash Punch Combo, so if you have something devious planned, this can be useful. Beware if 
+Kazuya Mishima ducks beneath this; you'll very shortly be seeing the dreaded Demon Gut Punch to 
+Insane Juggle of Ultimate Doom. 
+
+Some people accidentally perform Mishima Flash Punches when attempting this attack. Although 
+not a fatal error, as IMO the Flash punches are better, if this was part of a devious plot 
+you'll need to be fast on your feet to think up a new plan.
+
+==================================================================================================
+
+11.6 Demon Backfist (Backhand of Justice, a la Minsc). b+2. H. 12.
+
+Jin spins in place, delivering a backhand. I used to do martial arts, long, long ago and the 
+Spinning Backfist was one of my favourite moves. Although not quite as damaging as a real-life 
+spinning backfist is (you can block it...if you like having broken arms), my own bias towards 
+this move makes me throw it out fairly often. 
+
+The only problem I could see here is if you forgot to press back, in which case Jin would do a 
+normal jab. Despite my use of the move, it is not overly recommended because of the recovery 
+time.
+
+However, and this is the sneaky bit, you can follow up with a (4) for Jin to kick them. This 
+does another 15 damage, and then keep mashing (4) to continue the attack with a jumping, 
+spinning roundhouse high, a spinning low sweep, and a front kick! The only downside is that 
+this is the opening to one of Jin's ten-hit combos and your opponent may anticipate and 
+correctly block or counter this, so don't overuse it.  
+
+Kudos also to Catfish, who pointed out that if you go f+3 after b+2, Jin will execute a fast 
+side kick. The surprise factor may be enough for you to flick in a Can-Can Kick launcher for a 
+Juggle.
+
+==================================================================================================
+
+11.7 Overhead Smash. f+2. H. 18.
+
+Jin performs a punch that smashes downwards onto your opponent. Damage is OK and the move is 
+fast, but it takes a while to recover from. If you perform this move, even by accident, follow 
+it up with a (4) to perform 893BP Punch Knee for another 10 damage. I find this a good move to 
+use on people who are standing up, because it catches them off guard (most people anticipate a 
+low sweep, because that's what computers and opponents do the most often). The range on this is 
+good, as Jin steps forwards to do it. 
+
+If you are having trouble getting this right, make sure you are pressing forwards. You may get 
+the first hit of the Laser Series here if you attempted this move immediately after blocking as 
+well, so make sure Jin steps forwards off the block before pressing (2) if this is the move 
+you are going for.
+
+==================================================================================================
+
+11.8 Parting Wave. b+1. M. 15.
+
+Jin performs what I would normally call a parry. He sweeps his hand down towards their guts. In 
+real life, you would do this sort of thing to turn aside an opponent's punch or something, but 
+here, it's an attack. Go figure. By pressing D/F after this attack, Jin will burrow in towards 
+his opponents. I use this to attack opponents who are getting up. 
+
+Jin has a long reach with this attack.
+
+The real bonus here is that by holding D/F here counts as f,N,d,d/f so you can follow up with a 
+Thunder Godfist, a Wind Godfist, Hell Sweep, or Slashing Kick (see below for all these moves) :D 
+
+This is something I discovered by accident; I was trying for a Tsunami Kick and got a Hell 
+Sweep instead. This is not a phenomenon I have seen covered in any other guide, so this is 
+something special for all you readers. Make sure you use this, as it is a guaranteed surprise. 
+
+I have seen this move stuffed up. Generally you will get a normal jab (you didn't press back) or 
+a Corpse Thrust (you pressed d/b by accident).
+
+The Tekken Forumites reccommend you stay away from this move, citing low follow-up speeds. 
+Still, if you're a newer player looking for easy Mishima moves, it's good for the interim whilst 
+you practice up.
+
+Also note the really odd recovery time folowing a sucessful Mishima attack after Parting Wave 
+makes it quite difficult to juggle.
+
+==================================================================================================
+
+11.9 Corpse Thrust (Corpse Hitter, Corpse Splitter). d/b+1. M. 24.
+
+Jin takes a step forwards, kneels, and then delivers a massive punch to the gut. The pain, it 
+burns! Aside from mondo damage, this hit knocks your opponent flying and is worth points with 
+the crowd if you can do it when your opponent runs at you. As Jin ducks as part of this move, 
+High attacks go over his head and you'll score a lot of counter-hits with this wonderful move. 
+
+Some people accidentally do Parting Wave here by pressing back instead of d/b, so be careful of 
+that. 
+
+I see a lot of people use this as a juggle ender, with varying degrees of success. I personally 
+use other juggle moves, but I must say that a Corpse Thrust finisher has *STYLE*.
+
+==================================================================================================
+
+11.10 Demon's Paw. f,f+2. H. 27.
+
+I use this a lot whilst running. Even doing this off the cuff gives you a great deal of range, 
+as Jin takes a step forwards and really leans in with the blow. Smackdown! Again, mondo damage 
+with a massive knockback. Good for a distance strike; learn to time this and you will be able 
+to send your opponent flying every time they so much as blink :D. Another of my favourites. 
+Jin ducks a little, sometimes enough to duck beneath a high hit, but don't gamble on it too 
+much. It will take you under Eye Lasers, though.
+
+I most often stuff up here by not pressing forwards twice, in which case you wind up with an 
+Overhead Punch. Make sure you hit f,f or are hitting forward at the end of your run.
+
+==================================================================================================
+
+11.11 Uppercut. d/f+2 or ws+2. H. 15.
+
+I find this move has limited value. Unlike other uppercut moves, Jin's will only juggle on a 
+counter-hit. Otherwise they grab their nose and stagger back a bit, which is your cue to step 
+in and smack them around some more. He does duck as part of this attack, so I find it useful to 
+smack the Devil out of his Eye Lasers.
+
+If you do perform this move as a While Standing one, it will always juggle. So, if you do plan 
+on using this as a Juggle-Starter, learn it as the WS variant. This is my standard reply to anyone 
+who attacks low; I block the hit (or string) then put them up with this for a Laser Juggle. Lotsa 
+fun for the whole family :D
+
+The ways I have seen people stuff this is by pressing forward instead (getting an Overhead 
+Punch) or getting a normal jab (you didn't hit anything).
+
+==================================================================================================
+
+11.12 Twin Lancers. D/F+1,2. M,H. 10,16.
+
+Jin lashes out with a left-handed jab to the gut, then follows up with an overhead blow. He 
+leans to the side when doing this, so sometimes cross-body attacks from your opponents miss, 
+which is always a bonus.
+
+This is a good poking attack against people who duck and crouch a lot. You can use it to 
+Juggle, but I wouldn't really recommend it unless you're going for a stylish kill.
+
+People usually stuff this by not holding D/F throughout. You must *HOLD* D/F throughout as 
+tapping it will just give you the first gut punch. God only knows why, but a friend of mine 
+constantly stuffs this move by pressing back, and winds up with Force instead. I don't think 
+many people would be cursed with the affliction of hitting B+1+2 instead of D/F+1,2 but it is 
+funny to see it.
+
+==================================================================================================
+
+11.13 Tooth Fairy. SS+2. H. 16.
+
+Jin sidesteps, then dashes in and performs a swift uppercut. This always juggles and is 
+probably the most commonly seen opening move. 99.99% of the other Jin players I have fought 
+open with this in the hopes of scoring an early Laser Cannon juggle. As a result, this move is 
+often seen and commonly abused, so think before using it. The range on this attack, plus 
+the fact it attacks from unexpected quarters with the Sidestep, means you can occasionally 
+catch people off-guard with this. However, be careful with this attack, because, I must stress, 
+*EVERYONE USES IT*.
+
+To surprise your opponent you could try it off of a Left sidestep (u,u) as I have never seen 
+anyone else try it and it usually works for me, as my opponents usually think it can only come 
+off the right sidestep.
+
+The most common problem is that Jin performs a sort of crouching jab instead of the Tooth Fairy. 
+If so, check two things; firstly that you have tapped up or down twice. Secondly, hit (2) just 
+after the sidestep animation has begun.
+
+==================================================================================================
+
+11.14 The Laser Series. b,f+2,... H. 18.
+
+Ahhh, yes. Probably the most commonly seen, used, and abused move in Jin Kazama's arsenal. Jin 
+takes a step in, leans forwards, and smashes his opponent in the gut with a massively powerful 
+punch. This attack, by itself, induces crumple stun, so you can just perform this to stun your 
+opponent, then throw out a juggle starter, or even throw Them if you wish. Aside from maybe 
+Corpse Thrust or Demon's Paw, this is probably the most important attack to learn for Jin, as 
+along with the Demon Steel Pedal, this will be your most common counter-hitting tool. Be 
+careful when using it, as the b,f motion betrays your intentions early on and so many people 
+have seen the attack. If they duck, counter, or parry this hit, you could be in for it.
+
+This is one of the moves that frightened me back when I started to play Jin. I thought I would 
+never get the b,f motion right, but I discovered the simplest way was to unleash the hit from 
+blocking by pressing forwards immediately after blocking a long string. This is a good way to 
+get a handle on the b,f motion. The other bonus is that the b,f motion is executed in almost 
+exactly the time it takes for Jin to recover from a previous attack, guard stun, or whilst an 
+opponent falls from a juggle starter to attacks height! This is a very important move to learn 
+for Jin, so practice, practice, practice.
+
+==>The next hit in this sequence is executed by hitting (1). This attack is a multidimensional 
+hook punch, so you will hit people who try to sidestep. Damage is nothing flash at 14 points. 
+If you perform this attack, you are probably committed to finishing the Laser series, and it 
+will end the stun induced by the previous hit, allowing your opponent to block, counter or 
+whatever the final hit. The only thing this attack has going for it is that it has a delay of 
+about one second built into it, so you can hold off on pressing (1) until your opponent drops 
+back down during the ever-familiar Laser juggle, or hold off on the attack to punish an 
+opponent who thinks you've messed up the attack sequence and is coming in for the kill. You can 
+also punish sidesteppers and counter-nazis by delaying this move. This is the best-tracking 
+move of the sequence, so if you don't catch your opponent with this, it might be a good time 
+to stop.
+
+If you've gotten the b,f+2 part of the move down, there are few ways to stuff this attack up. 
+Just be sure you aren't hitting any directional buttons and have hit (1) instead of any other 
+button. As an aside, a mistake a friend of mine commonly makes is performing Force here instead 
+of the Laser Series. I can only speculate as to how he is managing this, but I think the 
+joystick may be faulty or that he is not allowing enough time for the b,f motion to compute 
+before hitting 2,1. It's very funny to see, though. "Hah! In the air! Fear my...Force? What 
+the hell?"
+
+==>The final part of the sequence is performed by hitting (2). This is the biggest hit in the 
+sequence, doing 24 damage. This attack is commonly countered or avoided, so be careful here. 
+I usually only do this from a distance, advancing in with the Laser series to catch people out. 
+This hit knocks your opponent down and away. I see a lot of people use this as a juggle ender, 
+but there is a better option, discussed below. This turns the move into Laser Cannon.
+
+==>The other option to end this sequence is in pressing d/f+2 for the juggling Laser Scraper. 
+Jin will step in and perform an uppercut, launching your opponent into the air. I have seen one 
+player who loop juggled by performing Laser Scraper over and over, but I think that's kinda 
+cheap. Personally, I follow this with a Laser Cannon, or a White Heron (see the Combo section, 
+below). It deals 15 damage.
+
+If you've gotten this far into the attack sequence and are stuffing up, check that you are not 
+hitting any additional buttons or directions. A common mistake is getting the opposite end to 
+the one you were trying for, so just check you aren't hitting any direction buttons.
+
+Just to reiterate...this is a *VERY* commonly-seen attack from Jin, and almost everyone knows 
+when to duck, sidestep, or counter-attack it. Against good opponents, throwing this out will 
+not get you anywhere. Its place is in juggles or when advancing in, to give your opponent pause 
+for thought. *DO NOT OVERUSE THIS ATTACK!*. However, the fact that it is so commonly seen means it 
+is always expected, so if you stop and change attacks mid-sequence you will probably catch your 
+opponent out, especially with a low attack or Throw as most people are happy to ride out the
+attack by blocking the sequence.
+
+==================================================================================================
+
+11.15 High Pounce. U/F+2+4. Hits all. 
+
+Jin leaps straight up into the air, flying forwards with Mishima lightning flowing across him. 
+As he lands, he delivers a powerful right-handed punch. The "Hits All" notation means that it 
+attacks against all ranges as Jin comes down; if they are standing, it hits high, crouching, it 
+hits mid, and if they are on the floor, it hits low. In this case, Jin will also then jump back 
+after finishing the hit. If he hits High or Mid, Jin will just stay put. It's the same case if 
+they blocked the attack, as well. 
+
+This is a jump and a half, and looks very stylish, particularly if you do manage to hit with it. 
+I commonly use this as a finishing move to win points with the crowd, to stylishly evade Ogre 
+Flames or Devil Lasers and win even more points with the crowd, or to change sides of the 
+screen. Occasionally you can get a rear throw by performing this, but it isn't often worth the 
+gamble.
+
+Unfortunately, Jin has a fair amount of hang time in this move, so your opponent will probably 
+have moved by the time Jin gets around to attacking. So unless your opponent takes long naps 
+during the fight or you are up against the computer, don't use this move too much. Still, it is 
+too stylish to be ignored.
+
+You can jump straight up by pressing (U) instead of U/F or backward by hitting U/B, in case 
+you need some other tactical edges.
+
+The most common ways I stuff this up are by not hitting U/F properly, in which case I wind up 
+with a sort of hopping jab, a Throw, or an Overhead Smash. I also see some people kick by 
+accident here. Make sure you are hitting U/F+2+4 correctly here.
+
+==================================================================================================
+
+11.16 Twin Pistons (Rising Twin Uppercuts). WS+1,2. 10,15.
+
+In my opinion, While Standing moves are the toughest to execute in the game. Although you get 
+many opportunities for them (especially when you get into the habit of ducking attacks or 
+parrying low hits), I personally find the timing to get a While Standing move to be a real pain. 
+However, given that my Tag partner is Jin's father, Kazuya Mishima, I had to learn the WS real 
+fast to take advantage of the massively evil Demon Gut Punch :). Anyway, back to Jin. 
+
+This move cops a beating in just about every Jin guide I have read, and I can understand why. 
+First off, there's the problem of getting the WS timing right, and then after that is the fact 
+that this move, unlike every other Mishima in the game, and the Jacks, will only juggle on a 
+counter-hit. Weak. Secondly, it takes a while to recover if this move fails. Oh, well. 
+
+Now, just note that I have not found any way to integrate this attack into my style of play. If
+you can, then you should include it and you should always experiment with moves to see what you 
+can get. If anyone out there has any ideas about this move, I'd like to hear them so I can add 
+them in here.
+
+To be perfectly honest, in any situation that you can think of to use Twin Pistons, you are 
+probably far, far better off to simply use Jin's While Standing Uppercut, as it will *ALWAYS* 
+juggle.
+
+On the few occasions where I've actually attempted this move, I have stuffed it more often than 
+not. Check you are attacking whilst Jin is standing up; I time this by thinking "one" after I 
+release the stick from the "down" position, then hit 1,2. Sometimes you may get a WS+2 instead, 
+but this isn't too bad as it's the second hit which juggles anyway, and there's less of a 
+recovery lag in this case. Just remember that unlike Heihachi Mishima and the Devil, D/F+1,2 
+won't work here, as Jin Kazama has the Twin Lancers command instead.
+
+==================================================================================================
+
+11.17 Punch Rush. f,f,N,2,1,2,2. H,H,H,H. 7,8,6,7.
+
+This is the opening of one of Jin's ten-hit combos, so it can be predicted from the f,f,N 
+motion. Jin steps in twice, hesitates an instant, then lashes out with a right jab, a left 
+cross, a right cross, and finishes off with a spinning backfist. Damage for this series is 
+surprisingly light, but the speed is excellent. I use this to finish opponents off in juggles 
+or to continue on with the Ten-Hit combo.
+
+The most common problem I encountered here was getting the f,f,N motion right. I do this by 
+thinking "forward, forward, one...attack" and I suspect you will also have to learn some timing 
+trick to get this. You may end up with just a standard jab, or you may get Demon's Paw instead. 
+Either way it was because of the f,f,N timing. This move will require some practice to get down 
+right.
+
+==================================================================================================
+
+11.18 Thunder Godfist. f,N,d,D/F+1. H. 29.
+
+This is a very hard move to master due to the f,N,d,D/F motion it requires. If you are having 
+trouble getting it right, have a look at performing it from the Parting Wave. Since I cannot 
+perform this move on a regular basis, I cannot offer any other advice than to practice, though 
+if anyone out there has some tips for learning it or performing it easier, I would like to hear 
+from them.
+
+There are also other moves you can do after this. If they ducked, hit (3) for Jin to perform a 
+mid-hitting side kick on the way down to punish them. If they simply blocked it high, try a 
+low-hitting (4) for a spinning low sweep.
+
+==================================================================================================
+
+11.19 Wind Godfist. f,N,d,D/F+2. H. 25. 
+
+If you've read other Jin guides, you've probably noticed that they dwell in great detail on 
+this move. Yes, it is good for starting juggles, blah, blah, blah, but it is quite difficult 
+to get right, and you don't have to be able to use this to be a good Jin player. Since you are 
+just starting out, I would suggest avoiding this move altogether for the time being, but 
+after you have gotten the basics down pat for Jin, it is time to start looking at moving on to 
+the higher levels of play. 
+
+This is one of the moves that you will need to advance into the Advanced ranks. 
+
+But remember, *THIS IS A GUIDE FOR BEGINNERS*, and there are other moves to worry about before 
+you try this or any of the other f,N,d,D/F moves Jin has. Do not get demoralised if you cannot 
+get this move right. It is difficult and practice will make perfect. If you really want to use 
+it but are having trouble getting it right, I would suggest trying it off the Parting Wave 
+(see above.)
+
+It is a widely known fact that Jin's Wind Godfist hits High instead of Special Mid like the 
+other Mishimas, so if your opponent spots this, they will probably duck or try a counter. 
+
+I also hear that there is an Electric Wind Godfist, done the same way but at greater speed. 
+Apparently Jin does the move quicker and there are sparklier special effects. I have never 
+performed this move and have never seen it in action, so I cannot offer any advice on 
+exploiting it. And, let's face it, if you can do this move you probably know all about it 
+anyway. Something for the experts, I think.
+
+Don't get demoralised if you cannot perform this attack. All f,N,d,D/F attacks are quite 
+difficult.
+
+==================================================================================================
+
+12.0 KICKS
+
+==================================================================================================
+
+12.1 Left Kick. 3. H. 25.
+
+Jin performs a side kick. It's slow coming out, but does have good range and moderate damage.
+
+==================================================================================================
+
+12.2 Right Kick. 4. H. 30.
+
+Jin performs a spinning Roundhouse. It has excellent range because he steps forwards whilst 
+doing it.
+
+==================================================================================================
+
+12.3 Spinning Roundhouse. H. F+3. 35.
+
+Jin takes a short sidestep, then spins and unleashes this massive spinning roundhouse. The 
+attack sends your opponent spinning through the air, and combined with the high damage and 
+funky Mishima lightning effects, this is one of Jin's best crowd-pleasers. I use this sometimes 
+to evade an attack and then stylishly reply, but that requires a lot of practice to get the 
+timing right to sidestep around with the animation of this attack, and I paid the price early 
+on, eating many a Phoenix Smasher until I got it right. Still, the surprise value when your
+opponent discovers you've stepped around them then delivered this massive hit makes it  well 
+worth the effort to learn.
+
+Make sure you are holding forwards when you attempt this attack.
+
+==================================================================================================
+
+12.4 Demon Steel Pedal (Abuse Kick).  b+4. 21.
+
+Jin takes a moment to gather his strength, then unleashes a massive front kick. This attack 
+causes crumple stun, executes very quickly, and can knock your opponent back. As a result, 
+this is one of the most important weapons in your arsenal. It takes on even more properties 
+during a counter-hit, so use it to interrupt your opponent. This move will also collect 
+grounded opponents.
+
+The best part of the move is the stun it can cause. I used to follow it up with another Demon 
+Steel Pedal, but more recently I have moved to the Tsunami Kicks as my first choice to follow. 
+I also see some people follow up with the Laser Series or a juggle starter. They're yours to 
+play with if this hits on a counter, so make sure you learn this move inside and out.
+
+The most common mistake here is that you didn't hit back when you kicked out. Make sure you are 
+hitting b+4.
+
+==================================================================================================
+
+12.5 Knee. F+4. M. 12.
+
+Jin steps in and performs a quick knee to the 'nads. Damage is not spectacular, but this is very 
+fast and near-impossible to predict unless you constantly use this move. This is good to throw 
+out against people who you've taught to duck under Jin's Punches. 
+
+The most common error here is that you get Jin's basic roundhouse kick, in which case you have 
+not hit Forward correctly.
+
+==================================================================================================
+
+12.6 Teardrop Kick. D+3. L. 5.
+
+Jin lashes out with a low-hitting Teardrop Kick. This attack hits low and is good for taking 
+opponents on the floor or who block high a lot. This is good to throw out at random; any damage 
+done is to your advantage, and it all adds up in the end.
+
+I should also note that this is a "Box" move (see below, in Special Techniques) and as such has 
+excellent range.
+
+You may get a Side Kick or Spinning Sweep instead here, in which case your "d" motion was 
+inaccurate.
+
+==================================================================================================
+
+12.7 Spinning Sweep. D/B+3. L. 12.
+
+Jin spins in place and delivers a low, sweeping kick. This is a multidimensional attack and 
+will catch sidesteppers. This is used in a similar way to the above move.
+
+Again, just make sure that you get the D/B motion correct or you will wind up with a normal 
+side kick or Teardrop Kick.
+
+==================================================================================================
+
+12.8 Left Axe Kick. f,f+2. H. 23.
+
+This is the same animation as the axe kick in the Shoot The Works combo. Jin dashes in twice, 
+then performs an axe kick. The damage is solid, and it can induce some nice staggering and 
+guard breaks, but this can be somewhat unreliable as the f,f motion really gives you away. 
+This move is worth points with the crowd if you can collect an opponent who is running in.
+
+This move slightly bounces your opponent from the ground after it hits, so if you're fast 
+enough, you can pick them up with a White Heron Juggle :)
+
+The biggest problem here is that sometimes you will get the Left Spinning Roundhouse instead of 
+an Axe Kick. Make sure you are hitting f,f and are not just holding forwards.
+
+==================================================================================================
+
+12.9 Left Jumping Sidekick. f,f,f+3. H. 30.
+
+Jin takes three steps forwards, then leaps to deliver a side kick. Damage is good, and because 
+he moves forwards and then jumps, it works very well to take out fleeing opponents.
+
+However, the fact that Jin is very, very open to attack when using this means that you should 
+be careful about its use.
+
+If you are having problems here, make sure you are tapping forwards three times. Otherwise you 
+will end up with the Axe Kick or Left Spinning Roundhouse instead.
+
+==================================================================================================
+
+12.10 Tsunami Kicks (Crescent to Axe). d/f+4,4 or WS+4,4. M,M. 10,16.
+
+Jin lashes out with a Crescent kick to his opponent's head, then switches into an Axe kick on 
+the way back down. This is a stylish attack, and works very well against downed opponents, 
+especially large models like the Bears and Jacks, and against people who like to roll. It also 
+serves well during juggles. The only thing is that opponents get two chances to parry or 
+counter-attack against this, so be careful with it.
+
+The most common thing here is that Jin will kick only once (check you have hit the kick button 
+twice) or will do his normal kick, in which case you didn't get the D/F right. 
+
+Jin does more damage with this if it is performed as a WS instead of D/F. That might be worth 
+having a look at if you can nail the WS attacks. 
+
+==================================================================================================
+
+12.11 Can-Can Kicks (Dancing Man, Low/Mid Jumping Kicks, etc). D+3+4. L,SM. 5,20.
+
+Jin jumps up, kicking out with his left, then right legs. If the first kick hits, the second is 
+not always guaranteed, but it will always juggle. This is a good move to use against ducking 
+opponents. 
+
+I throw this out against opponents who are getting up or running towards me. It is a stylish 
+move and worth points from the crowd if you can perform an impressive juggle from it as well.
+
+This move has copped a beating in other guides I have read due to the lag in recovery time if 
+this misses or is blocked. Again, I don't think the problem is that bad, but still be careful. 
+
+If stuffed up, this move might yield a Mishima Flip Kick (see below), or any of Jin's standing 
+or sweeping left or right kicks. Make sure you are hitting D+3+4 correctly.
+
+This move has recently become one of my favourites, largely due to the fact that I play more 
+Tekken 4 these days and it's a good attack for Jin in that game. In any case, it's become my 
+standard reply to opponents who've stuffed up, as I can then tack on a White Heron Juggle for 
+some better damage. 
+
+Catfish from the Zaibatsu Forums informs me that if you hit your opponent with a stabilising 
+Left Jab (1) after this move, you can Laser Juggle them as well. I'm working on it...
+
+==================================================================================================
+
+12.12 Mishima Flip Kick (Demon Scissors, Death From Above). 4,3 or 4,3,u. M. 25.
+
+A very stylish move. Jin takes a moment to make sure his opponent is in the right place, then 
+performs a flipping kick. This is a great move against grounded or fleeing opponents, or to 
+stylishly evade Ogre flames or Devil lasers. It wins big points from the crowd if you get it 
+off as the finishing move or to end a juggle.
+
+It bears special note as an attack against Ling Xiaoyu when she is performing the Phoenix 
+stance, as she cannot block it or sidestep to get out of the way. Hahahaha. 
+
+The downside here is that you wind up on the floor. This can put you in the position of getting 
+smacked around from your opponent's Okizeme game, and is virtual suicide against the Kings, who 
+can grab you on the floor. Urg.
+
+Hitting "up" just after you hit 4,3 eliminates the hesitation when Jin looks at your opponent, 
+so the move executes slightly faster. However, I believe this also makes it slightly more 
+inaccurate, as Jin may not aim his fall correctly.
+
+The most common problem here is that you hit 3,4 instead of 4,3, in which case you wind up with 
+a side kick. Sometimes you may mis-hit "3" and get Jin's basic right kick. These problems become 
+even more compounded if you are trying the "up" command as well. Make sure you are hitting 
+4,3, delay an instant, then hit "up".
+
+==================================================================================================
+
+12.13 Spinning Demon (Rising Sun, Spiraling Doom, Descending Storm, Mishima Cheese Wheel, etc). 
+U/F+4,4,4,4. H,L,L,M. 25,15,12,25.
+
+Ah, yes. The Mishima Cheese Wheel, savior and bane of every starting Tekken player. Jin leaps 
+up, performs a spinning roundhouse, lands, spins twice with low sweeping kicks, then rises up 
+with a final, mid-hitting side kick. This move will work well against less skilled opponents, 
+mashers, and people who use Ling Xiaoyu and Eddie Gordo in their alternative stances. 
+
+However, this is a move that every averagely skilled player will have seen a billion and one 
+times, and they'll know the block sequence inside out, and that's assuming they didn't do 
+something sadistic, like counter early on, or low parry the two sweeps. Since Jin will be in 
+for a long stagger if the low sweeps are blocked or parried away, be careful when using this.
+
+That being said, the fact that it is so well known means that you can sometimes get the drop on 
+people by using it. 99.99% of your opponents will assume you aren't dumb enough to try spamming 
+this move...which is where you prove them wrong. Try maybe once in a game; if it works, you 
+just took off a major chunk of their life. 
+
+If it didn't...well, you're in for a world of hurt. 
+
+I use this move when people are trying to get up (I have trouble getting Hell Sweeps right), 
+and it works fairly well then, as people are usually more concerned with getting up safely than 
+countering or parrying at that time. Even in this situation it is not foolproof, so drop this 
+attempt as soon as they adapt to it. The other time I use it is when I anticipate my opponent 
+Tagging out. Sometimes you can collect the outgoing character and finish them off; the two low 
+sweeps are almost guaranteed against incoming characters. Just be wary of people who like to 
+come in with a sliding kick.
+
+==================================================================================================
+
+12.14 Slash Kick. f,N,d,D/F+3.  M. 30.
+
+This is the same as the Leaping Side Kick I detailed earlier, except that it is performed off 
+the f,N,d,D/F instead, giving it the element of surprise. Again, not a move I would be worrying 
+about at this stage of your Tekken career. 
+
+Try it off the Parting Wave, or practice hard to get it right.
+
+==================================================================================================
+
+12.15 Hell Sweeps. f,N,d,D/F+4,4. L,M. 18,15.
+
+These two hits are the same as the final two kicks in the Mishima Cheese Wheel. The first hit 
+knocks your opponent off their feet, the second kicks them away.
+
+I hear that the best thing to do here is to just keep going f,N,d,D/F+4 to do the sweep, and 
+trap your opponent in a Mortal Kombat-style Trip Lock.
+
+This is my favourite to use after a Parting Wave, because no-one expects you to attack so 
+quickly, and they certainly don't expect a low attack.
+
+Since this is a f,N,d,D/F move do not get stressed if you can't do it yet. Practice will make 
+perfect.
+
+==================================================================================================
+
+13.0 THROWS
+
+==================================================================================================
+
+I cannot overstate the importance of Throws in your game. Surprisingly few players know how to 
+evade throws, and you will succeed with them far more often than not. Also, learn how to evade 
+and break throws (this is covered later, in Special Techniques). With throws, your timing is 
+critical; you must hit the throw buttons simultaneously or Jin will not perform the move. 
+Instead, you will wind up with some sort of punch or kick combo, if you are lucky. I also find 
+it helps to hold Forward during my throws as sometimes you get Countered on the move before you 
+went to throw and wind up with a free Chicken.
+
+==================================================================================================
+
+13.1 Double High Sweeps (Bitch Kicks, Roundhouse to Crescent). 1+3. H. 30.
+
+Jin grabs his opponent, stares them down, then kicks them twice in the head. Red lightning arcs 
+through their body, and Jin hurls them away, laughing sadistically. This is a powerful 
+psychological tool and is worth big points with the peanut gallery. This can be evaded by 
+pressing (1) or ducking.
+
+Your opponent is now on the floor nearby and it is time to follow up :D
+
+==================================================================================================
+
+13.2 Over the Shoulder Reverse. 2+4. H. 30.
+
+The stock-standard martial arts chop-socky movie throw. Jin grabs his opponent's arm, turns his 
+back and steps in, then flings his opponent away using his own body as leverage. The downside 
+to this move is that Jin throws them too far away for any easy follow-up attacks. This can be 
+broken by pressing (2).
+
+==================================================================================================
+
+13.3 Complicated Wire. qcf+1+3. H. 35.
+
+Jin grabs his opponent's arm, then using his leg for leverage, flings them away. The damage on 
+this is better than his standard throws, but it doesn't look that impressive and again they
+land too far away to follow up on. This can be broken by pressing (1).
+
+==================================================================================================
+
+13.4 Wrist Chuck Slam. D/F+2+3. H. 38.
+
+Jin grabs his opponent, yanks them forward, then punches them in the back of the head, sending 
+them sliding away across the floor. Again they end up too far way to easily follow this attack 
+up, but it is a very impressive looking throw and one of my favourite finishing attacks. It 
+can be broken by pressing (2).
+
+==================================================================================================
+
+13.5 Stonehead. f,f+1+2. H. 33.
+
+Jin steps in and then grabs the back of his opponent's head, staring them down before giving 
+them a Glasgow Kiss to go home with. They skid backwards across the floor; this is your cue to 
+finish them by running over and stomping on them, or by Mishima Flip Kicking them, because 
+they are at the perfect distance for the kick!
+
+This is a Command Throw and can only be broken by hitting 1+2, so throw this out regularly. I 
+doubt your opponent will break this often.
+
+==================================================================================================
+
+13.6 Tag Throws. 2+5. H. Damage Varies; Generally ~15.
+
+Jin grabs his opponent, hurls them to the floor, then tags out. His partner tags in and makes a 
+free, if low-damaging attack. This is without a doubt the safest way to Tag in and out. It is 
+broken by pressing (2).
+
+==================================================================================================
+
+13.7 Side and Rear Throws. Any Standard Throw (Not Tag Throw). H. Side Throws do 43; Rear 
+Throw does 60.
+
+None of Jin's side throws look that impressive, and are certainly not up to the intimidating 
+standards set by his father's menacing moves. However, his Rear Throw (Chicken Butcher) deals 
+out a massive 60 damage, which is just under his most powerful Unblockable move! And it looks 
+cool, as well.
+
+These throws can all be ducked. A Left Side Throw is broken by pressing (1), and a Right Side 
+Throw is broken by pressing (2). There is no way to break a Rear throw.
+
+==================================================================================================
+
+13.8 Ultimate Tackle. D+1+2. H. 5.
+
+Jin runs forward, grabs his opponent by their middle, and slams them onto their back. He then 
+sits on their chest. From here, you can punch them in the face six times (Just hit the 
+alternating Punch button-1,2,1,2,1,2 and so on until Jin gets up) or punch them in the face 
+three times and break their arm (by pressing 1+2). Alternatively, you can break their arm as 
+soon as they fall, to virtually guarantee the damage. 
+
+The Punches do 5 damage each; the arm break does 40. The character hit by this attack can break 
+the punch series by holding Back and pressing (2) during the punch. The Arm Lock can be broken 
+by pressing 1+2. The Tackle can be reversed by the opponent pressing 1+2 on the way down, 
+letting them punch you in the face. Watch out for that.
+
+The most common problem is that people do a punch attack instead of the Tackle. Make sure you 
+are holding Down and pressing 1+2 together.
+
+==================================================================================================
+
+14.0 UNBLOCKABLES
+
+==================================================================================================
+
+I really must warn you: although Unblockables offer insane damage and can't be blocked (duh...
+hence the name), the downside is that they take forever to execute (forever and a day, in the 
+case of the Lightning Screw Uppercut), and leave Jin very, very vulnerable throughout. Although 
+the computer will eat them on a regular basis, no human opponent who has seen the move before 
+will allow you to land it. Sadly, Jin cannot cancel out of these moves, so they are useless as 
+sucker moves as well.
+
+==================================================================================================
+
+14.1 Lightning Uppercut. b+1+4. M. 40.
+
+Jin ducks down, spins a few times, arcs red lightning, then leaps up with an uppercut similar
+to the Thunder Godfist. Unfortunately, the attack knocks your opponent too far away to follow 
+up.
+
+The only advantage this move has over the Lightning Screw Uppercut is that it takes less time 
+to execute.
+
+This move will hit grounded opponents who have their heads towards you.
+
+The most common error here is that you get the longer-spinning Lightning Screw Uppercut (See 
+below) or White Heron. In the case of the former, you held Back instead of tapping it; in the 
+latter, you didn't tap backwards at all. 
+
+==================================================================================================
+
+14.2 Lightning Screw Uppercut. B+1+4. M. 80.
+
+Jin's biggest single hit. Jin goes down, spins for three and a half years, and then rises up 
+with a massive uppercut. As spectacular as this move is, it is simply too dangerous to even 
+contemplate.
+
+If you tried this move and it didn't work, makes sure you are holding back. Otherwise you may
+get a White Heron or a Screw Uppercut instead.
+
+==================================================================================================
+
+15.0 COMBOS
+
+==================================================================================================
+
+As well as the combos already covered in Punches and Kicks, Jin has a few other chain attacks 
+up his sleeve. Many players seem to think that the 10-hit combos are the be-all and end-all of 
+their character's abilities and will sit there and spam away with them all day. Although this 
+is a good tactic to keep the pressure up on an opponent, the problem is that if you stuff up, 
+Jin is probably in for some stagger stun or major recovery time, or even more likely, your
+opponent has seen the combo before and knows how to block it, or even worse, when to 
+counter-hit. 
+
+I find it is better to attack in short flurries than in long, convoluted strings, but I do 
+acknowledge the usefulness of 10-Hitters in keeping the pressure up on your opponent and would 
+suggest that you learn at least one of them for that purpose.
+
+==================================================================================================
+
+15.1 White Heron. 1+4,2. L,H,H. 5,10,10.
+
+Jin lashes out with a spinning low kick, makes a left-right punch attack, and then can follow 
+on with either of the following end kicks:
+
+==>Standard Finish- press (4). Jin ends with a powerful, mid-hitting spinning kick, which does 
+21 damage.
+
+==>Low Sweep: hold Down and press (4) and Jin will spin through with a sneaky low-hitting sweep 
+that does 14 damage. Your opponent will be knocked onto their back.
+
+The idea is to mix up the ending of this series so that your opponent has to guess whether to 
+block high and potentially take the low sweep, or block low and take the mid-hitting finishing 
+kick. If you use White Heron, make sure you mix it up or you may find yourself Parried, 
+Countered, or Low Parried. As a four-hit combo, this move is fairly safe to perform in combat.
+
+I often use this move to Juggle. Wait until your opponent is about to hit the floor, and then 
+start the combo. This takes a bit of practice to get right, but it breaks up the monotony of 
+Laser Juggles.
+
+Be careful when performing this move; opening into this out of a blocking sequence could see 
+you perform a Lightning Uppercut. Although this will probably surprise your opponent, and may 
+even work, this is not a good habit to get into. Alternatively, Jin may perform some other
+kick or punch. Make sure you aren't hitting any direction buttons, and are hitting (1) and (4) 
+simultaneously. 
+
+==================================================================================================
+
+15.2 Lashing Out. 3,2,4,3. H,H,M,H. 15,6,10,10.
+
+Jin performs his Side Kick, jabs with his right hand, knees his opponent, then follows through 
+with a spinning roundhouse. This is the opening sequence for one of Jin's Ten-Hit combos, so 
+it will help you to learn this move. 
+
+The bonus with this move is something I discovered by accident; if you stop the 10-Hit chain 
+here, you may get a Side Throw if you are fast enough. It seems to be dependant on your 
+opponent being a smaller model, so it won't work against the Bears, Jacks, or Ganryu. Even if 
+you don't get a side throw from it, the throw will almost certainly succeed as your opponent 
+will expect the 10-Hit combo to continue.
+
+I would suggest using 1+3 as your throw here, because as Jin appears to be to the right of the 
+enemy, you should succeed in the throw if your opponent spotted the throw and anticipated a 
+Right Throw and attempts the (2) Throw Break.
+
+==================================================================================================
+
+15.3 Multi-Hit Combos.
+
+(All of the following move lists and hit data were taken from Jim Fitzpatrick's Jin Kazama 
+Guide for Tekken Tag Tournament, Version 3.0. Full credit goes to him for this information.)
+
+Combo 1: b+2,4,4,4,4,2,1+4,2,1,4. H,H,H,L,M,L,H,H,H,H. 12,10,10,8,6,6,5,5,5,21,20
+
+Combo 2: b+2,4,4,4,4,2,1+4,2,d+3+4. H,H,H,L,M,H,L,H,H,M,M. 12,10,10,8,6,6,5,5,5,21,21
+
+Combo 3: f,f,N,2,1,2,2,3,4,4,1,2,1. H,H,H,H,M,M,L,H,M,M. 7,8,6,7,6,11,5,5,8,30
+
+Combo 4: f,f,N,2,1,2,2,3,4,4,3,2,1. H,H,H,H,M,M,L,L,M,M. 7,8,6,7,6,11,5,5,25,30
+
+Combo 5: 3,2,4,3,1+4,2,2,1,2.H,H,M,H,L,H,H,M,M. 15,6,10,10,7,5,7,10,15,30
+
+Combo 6: f,f,N,2,1,4,4,2,4,3,2,1. H,H,M,M,L,M,L,M,M. 7,8,7,10,5,7,5,25,30
+
+Combo 7: 3,2,4,3,1+4,2,1,3. H,H,M,H,L,L,H,M,M. 15,6,10,10,7,5,7,21,20
+
+Combo 8: 3,2,4,3,1+4,2,1,4. H,H,M,H,L,H,H,M,L. 15,6,10,10,7,5,7,21,12.
+
+Combo 9: b+2,4,2,1,2. H,H,M,M,M. 12,10,10,15,30.
+
+Combo 10: b+2,4,2,1,d+2. H,H,M,M,M. 12,10,10,15,15. 
+
+With these attacks, you must pay special attention to any directional buttons used, as well as 
+getting the buttons right. Additionally, some moves require a delay between their input, so be 
+prepared for that as well.
+
+It may be worth your while to learn the openings of all of these moves, because they are useful 
+as flurrying attacks and can be tacked together for custom attack strings.
+
+==================================================================================================
+
+16.0 MOVEMENT
+
+==================================================================================================
+
+As summed up by the immortal words of Sun Tzu: "No combat can be won without movement."
+
+Although I'm generally content to allow Jin's attacks to move me around the arena, occasionally 
+you do need to move for yourself. Most obviously, we want to get away from an attacking opponent, 
+and move towards an opponent who is running.
+
+Although Tekken Tag isn't a truly 3-D game, it kinda sorta operates in three dimensions. As 
+well as back and forward and up and down on one plane, we can Sidestep to the Left, and to the 
+Right.
+
+So, when do we do what?
+
+==================================================================================================
+
+16.1 Walk.
+
+Walking is done by holding either forwards or backwards, in which case you will start taking 
+steps towards (or away from) your opponent. 
+
+It's slow, but you can only be Counter-Hit, not Major Countered, whilst you're walking.
+
+Walking backwards will slowly, slowly get you away from the action, with the added benefit of 
+your being in a permanent Standing Guard.
+
+That's about it, really. 
+
+==================================================================================================
+
+16.2 Sidestepping.
+
+You can Sidestep by tapping up or down twice in succession. Jin has only one While Sidestepping 
+move, the Tooth Fairy, which I've already talked about, above. This section is devoted to the 
+defensive aspects of Sidestepping. 
+
+When your opponent uses a highly linear attack (such as a punch combo), sidestep after the 
+first few hits and move out of harm's way. Do not, I repeat, do not, sidestep against 
+multiplanar attacks, as you will get creamed every time. Edddie Gordo and Hwoarang track very, 
+very well, and likely will not miss, either.
+
+To be perfectly honest, I can offer relatively little advice on Sidestepping. I rarely do so; I 
+have yet to work it into my game pattern and I'm looking for advice myself.
+
+==================================================================================================
+
+17.0 RUNNING ATTACKS
+
+==================================================================================================
+
+To run, tap forwards once, then hold forwards. Running takes care of any "f" notation for any 
+of Jin's regular attacks, and there are a number of special attacks Jin can only perform whilst 
+he is running.
+
+Just note, however, that Running attacks track very poorly, so watch for cunning opponents who 
+sidestep around them.
+
+==================================================================================================
+
+17.1 Flying Cross-Arm Chop. Run at least 3 Steps, then press 1+2. H. 30.
+
+Jin runs forwards, then flings himself at his opponent in an attack similar to the Leaping 
+Cross-Arm Chop you can perform while getting up (see below). It is a highly linear attack, 
+because Jin does not track well whilst running.
+
+Make sure you have taken at lest 3 steps and have hit the 1+2 buttons correctly. Otherwise, 
+you may get a different running attack or a Punch attack.
+
+==================================================================================================
+
+17.2 Running Tackle. Run 3 steps or more towards your opponent. H. 5.
+
+Jin runs forwards and then executes the Ultimate Tackle, which you can follow up as per the 
+usual steps from the 'Throws" section, above.
+
+Make sure you are running at least 3 steps; otherwise, Jin may just run in and stand there. 
+Not good.
+
+==================================================================================================
+
+17.3 Sliding Dash. Run towards your opponent for 3 or more steps, then press 4. L. 17.
+
+Well, that's about it. Run forwards, hit (4) and Jin will slide along the ground and knock his 
+opponent down. This is a good move to perform when tagging in as it hits low and executes 
+quickly.
+
+Make sure you are running and you hit (4). Otherwise you will see a Knee attack or Jin's 
+standard Right kick.
+
+==================================================================================================
+
+17.4 Leaping Side Kick. Whilst running, press 3. H. 30.
+
+This is identical to Jin's f,f,f+3 Leaping Side Kick.
+
+
+==================================================================================================
+
+17.5 Stomp. Run at least 3 Steps. Hits Grounded opponents only. 14.
+
+Jin runs forwards, then stomps on his opponent as he runs over them.
+
+Make sure you don't press any other buttons when attempting this attack.
+
+==================================================================================================
+
+17.5 Unblockable Shoulder Charge. Run towards your opponent for at least 4 Steps. M 
+(Unblockable). 30.                                
+
+Run from a large distance away. Jin will drop his head down behind his shoulder and slam into 
+his opponent for 30 points of Unblockable damage. Follow this up with a quick Tsunami Kick to 
+raise the damage to 46.
+
+Make sure you are running from the required distance and didn't hit any other buttons when 
+attempting this attack.
+
+==================================================================================================
+
+18.0 THEY SEEK HIM HERE, THEY SEEK HIM THERE
+
+==================================================================================================
+
+18.1 Ducking.
+
+An important part of the game is knowing when to Duck. Ducking is a vital tactical tool; you 
+can slot in WS attacks, avoid enemy attacks (and especially enemy throws and generally become 
+more flexible. To Duck effectively, you must learn your opponent's Hit Heights for their 
+attacks and be able to accurately predict them; to do this, watch them play and read the 
+appropriate guides for the other characters. What you need to watch out for are opponents with 
+a lot of Mid hits, as they can rapidly shift over and punish people who are avoiding their 
+attacks.
+
+You can Duck into three positions:
+
+Low Block. Holding Down/Back will see you duck down and inch away from your opponent. 
+Although you can be hit by Mid attacks, Low attacks will be blocked and High attacks will miss.
+
+Crouch. Holding Down will see you remain in place. You will be in the same defensive position 
+as above, but you are only on Passive Block, which will not block all moves.
+
+Offensive Crouch. Holding Down/Forward will see you duck down and creep forwards. You have no 
+defence against Low attacks in this stance, but High attacks will still miss.
+
+==================================================================================================
+
+18.2 Diving.
+
+A more extreme way of avoiding attacks is to Dive, by doing the Mishima Flip Kick. Now 
+invulnerable to anything but Low attacks, Jin is on the floor. A bad idea against anyone 
+displaying Okizeme talent, but with the number of wake-up attacks at Jin's disposal, sometimes 
+a frighteningly good tactical choice. This is particularly true against Eye Laser morons.
+
+==================================================================================================
+
+19.0 ON THE GROUND
+
+==================================================================================================
+
+You could be put on the ground for a variety of reasons. Most people panic when they hit the 
+floor, fearing a follow-up attack. Your opponent, unless they're an Okizeme master, probably 
+won't have a lot to follow up with, so just stay calm and think ahead. 
+
+I have won games by intentionally putting myself on the deck to sucker my opponent in. 
+
+==================================================================================================
+
+19.1 Stay Put.
+
+Take a nap. 
+
+Why not? 
+
+The longer you stay down, the more likely it is that your opponent will try to hit you, so 
+getting up would probably be a good idea. It's a good idea to stay down when your opponent is 
+running towards you (it hurts less to get Stomped on than to get Shoulder Charged, for example), 
+or if you have a plan in mind. Staying down can be followed up with any of the other options 
+available.
+
+==================================================================================================
+
+19.2 Roll. 
+
+This is what most people will do. Press (1) to roll to the left, or D+1 to roll to the right. 
+It will take you away from oncoming liner attacks, but beware nearby Mishimas, who will punish 
+you with a Tsunami Kick if you try this.
+
+Jin will not stand up automatically at the end of a side roll, so make sure you instruct him to 
+stand.
+
+You can also roll forwards or backwards by pressing those directional buttons.
+
+==================================================================================================
+
+19.3 Get Up.
+
+Press Up and stand. Not very inventive, but it gets the job done. The only bonus here is that 
+you should be able to get some WS moves happening.
+
+==================================================================================================
+
+19.4 Low Sweep. 3. L. 10.
+
+Press (3) and Jin will perform a low-hitting sweep as he stands. Many people do this because 
+they think their opponent won't expect a low hit while they get up.
+
+==================================================================================================
+
+19.5 Standing Side Kick. 4. M. 12.
+
+Jin stands up, spins, and delivers a side kick. This is good to use on opponents who you've 
+educated to block low, as it will catch them out and they'll have to start guessing.
+
+==================================================================================================
+
+19.6 Rising Cross-Arm Chop. Whilst Rolling Forwards, 1+2. M. 15.
+
+Jin rolls forwards, then launches himself at his opponent. Damage is low, but it does hit mid. 
+Still, a common move that many opponents will expect to see, so don't use it too much.
+
+Make sure you are hitting 1+2, or Jin may simply roll forwards then deliver a punch.
+
+I also discovered by accident that you can perform this move by pressing 1+2 when Jin rolls 
+backwards. Jin will roll back a little, then fling himself forwards. I tried this out at the 
+arcade and it worked quite well; my opponent had never seen it before, either.
+
+==================================================================================================
+
+19.7 Rising Kicks. Whilst Rolling Backwards, 3+4. M. 20.
+
+Jin rolls backwards, then uses his arms to hurl himself feet-first at his enemy. Again, a 
+relatively common move, though it does hit mid. Your opponent will be knocked down.
+
+Make sure you are hitting 3+4 properly, or Jin may roll back and deliver one of his kicks 
+instead.
+
+==================================================================================================
+
+20.0 BACK TOWARDS THE ENEMY
+
+==================================================================================================
+
+Obviously, this is not where you want to be. You can turn around by holding the direction pad 
+in the opposite direction, but this takes a while, and is not a good idea.
+
+The best way to turn around is to execute a Throw. Jin will spin quickly, and that animation 
+also has the added benefit of extending the throw's range. Since your opponent also probably 
+went for a Throw, this will help to get you out of the incredibly painful Rear Throw scenario.
+At best, Jin will knock them away from the Throw; at worst, he'll spin quickly enough to be 
+Front Thrown rather than Rear Thrown, which is at least a quarter of a Life Bar worth of 
+difference.
+
+Alternatively, you can perform a kick or punch attack. These are slower, but are more powerful 
+and will knock your opponent back and away.
+
+==================================================================================================
+
+21.0 OPENING MOVES
+
+==================================================================================================
+
+At the start of the fight, you are probably looking for a fast, surprising move to tag your 
+opponent with. Shining Fists is a good, safe, opening move; the Stonehead throw is also an 
+excellent opening attack because it is a command throw.
+
+Many Jin players open with a Tooth Fairy to get an early Juggle in.
+
+I also like to open with Corpse Thrust and Demon Paws to get my opponent on the back foot 
+very early on.
+
+There are also two riskier options that I sometimes see used. The first is the High Pounce 
+opener. The idea here is that you jump behind your opponent and perform a Rear throw on them. 
+Though it yields results, your opponent may react faster and rear throw *YOU* instead, or set 
+up some sort of Juggle during the long air time Jin has during this move.
+
+The second risky option is to open straight into an Unblockable attack. Even the best players 
+will freeze up when confronted with the thought of loosing over half their life bar from a 
+single attack, and that freezing can be enough to actually get the move in. It will only work 
+once, however, so don't make a habit of this.
+
+==================================================================================================
+
+22.0 FLURRIES
+
+==================================================================================================
+
+Just like a real fight, I find it works best to dart in and out, making short attacks against 
+my opponent before going back onto the defensive. Quick, safe moves like Shining Fists, Corpse 
+Thrusts, and Demon's Paws are good here.
+
+The trick with making a Flurry attack is not to push it. Make a fast attack, then pull back. 
+If you try to push too hard, you could make a mistake and find yourself in trouble. 
+
+The best part of fighting like this is that you typically knock your opponent down or back, 
+and can buy yourself valuable breathing time to think up new tactics.
+
+==================================================================================================
+
+23.0 TAGGING
+
+==================================================================================================
+
+Unfortunately, no matter how good you are with Jin, you will be saddled with a liability- your 
+Tag Team partner (of course, if Jin is your secondary character and you're reading this for 
+ideas, Jin will be the liability :D). If you're anything like me, you'll be OK with Jin and...
+slightly less than OK with whoever else you have got on the team (Individual characters will 
+be discussed later on). 
+
+The best time to Tag is when your opponent can't do anything about it. Tag Throws are, without 
+a doubt, the best and safest way to Tag out, but you can't rely on that method alone.
+
+The next-best way is to knock your opponent away to give yourself time to run. Fortunately, Jin 
+has many moves which can do this; Shining Fists, Corpse Thrust, and Demon's Paw are probably 
+the most effective, though, as they are probably already part of your most-often used moves.
+
+Failing that, you can Tag out after your opponent has botched a move and they are going to 
+spend a lot of time recovering. 
+
+Alternatively, you can Tag out after putting your opponent into the air; this is particularly 
+true if you can perform a Tag Juggle.
+
+The final safe way is to Tag out when your opponent does.
+
+When your partner comes on, they are running; if you tap forwards once, then hold it, you will 
+continue the run and can make a Running Attack, as detailed above. For those intending to use 
+Kazuya Mishima, note that he will not run on. I believe this is due to his Mist Step.
+
+However, the fact that you are running on means that you are vulnerable to attack; anything 
+executed against an incoming player will hit Counter and Clean. You must Tag with caution, as 
+an error here could very well cost you the game.
+
+When you have Tagged out, the player will regain health (Blue) up to his new maximum (Red) on 
+the life bar. Try to keep your best character healthy. The other one can take it for the team.
+
+==================================================================================================
+
+24.0 AVOIDING THROWS
+
+==================================================================================================
+
+The best way to avoid throws is to spot them early and then duck, which gives you the option of 
+using a WS move or buying time to Tag out or do something else. However, you will get caught 
+eventually, so you'll have to learn how to Break throws as well.
+
+Learning how and when to break throws is a vital skill. There are three button combos to break 
+throws : (1), (2), and (1+2). If your opponent only ever uses one throw, just learn the 
+appropriate break and keep using it. 
+
+Most opponents will mix their throws up, however, so you'll need to learn how to pick the 
+correct button. If they reach out with their left hand, the Break button is (1). If they 
+reached out with their right, the button is (2). If they reached out with both at once, the 
+break is 1+2.
+
+If they try to grab you from the left, the break is (1). If they tried from the right, the 
+break is (2). You cannot break rear throws.
+
+The other way to break a Throw is to initiate a Throw of your own as soon as you see your 
+opponent reach out. 
+
+The final (possibly the best) way to avoid throws is through Ducking. As soon as you think 
+they are throwing, duck. This works very, very well, and Ducking (aside from attacking back) 
+is the only way to save yourself from being Rear Thrown.
+
+Be aware that King and Armour King have Throws which can collect you if you are Ducking, or 
+even if you are on the floor. You must be careful against such opponents.
+
+==================================================================================================
+
+25.0 WHAT'S THIS CROUCH DASH CRAP, ANY WAY?
+
+==================================================================================================
+
+Well, I have recently experienced an Epiphany and am now able to regularly pull off those 
+accursed f,N,d,D/F moves. I'm even starting to work the "Crouch Dash" into my game. It 
+ain't pretty, but it is effective. Mostly. Sometimes. OK, once :D
+
+The trick I use to do this is to tap the joystick (or pad) towards my opponent, then roll the 
+stick (or slide my thumb across the pad) the same way as if I was throwing a Fireball with 
+Ryu from Street Fighter. You have to hesitate for an instant before you roll it, though; that 
+accounts for the N (Neutral) position, then keep going. Depending on how accurate your motion 
+is, and how sensitive the control you're using is, though, the results may vary and you'll 
+need to practice a little to get it right. 
+
+You may have noticed that, unlike other guides, I don't rant and rave about the Crouch Dash or 
+f,N,d,D/F moves in general. That's because this is a guide intended for beginners. The move is 
+part of Jin's arsenal, which is why I included it, but they're quite difficult to do, at least 
+at first. 
+
+If you can't get it right, don't stress out or give up; they just need a little more time 
+to get right. Don't waste time trying to get them down pat as soon as you start playing the 
+game; learn other moves first, then come back later when your arsenal has expanded a bit more.
+
+Also, depending on what control you're using, the sensitivity and required motion may require 
+some tweaking and practice. The more often you play the game, the more precise your movements, 
+and control, will become; eventually, the magical light will just flash on, and you'll be set. 
+
+It'll just take some time, so hang in there.
+
+==================================================================================================
+
+26.0 JUGGLING
+
+==================================================================================================
+
+Without a doubt, the most feared part of Jin Kazama's game is his lethal Juggling ability. If 
+you can get your opponent in the air, their death is all but assured.
+
+The most obvious Juggle Jin has is the infamous Laser series, which I discussed above. Most 
+players perform a short, left-handed Jab to open into the Laser juggle. Combined with the 
+Juggle Starter (typically a Tooth Fairy) the damage for the combo is usually around 80 points. 
+
+The next Juggle that is exceedingly common is the White Heron. Wait until your opponent is just 
+about to hit the floor, then open into the White Heron. This is a good Juggle for starting 
+players as it is a button-only attack, rather than the timing and button-intensive Laser 
+Juggles. 
+
+I must also make mention of Jin's standard Right Kick (4), which works well in Juggles and will 
+deal about 50 damage, so if you are having trouble with more complicated Juggles, this is a 
+good interim move. The only reason to use another Juggle is for additional damage (which means 
+you are going for a Laser Juggle), or to eat time, which is why I use the White Heron Juggle.
+
+My personal favourite Juggle is to put my opponent into the air (usually with Tooth Fairy, but 
+occasionally with an Uppercut of some kind), then perform a Laser Scraper (not Laser Cannon) 
+and finish off with a White Heron. The damage on offer for this juggle is almost 100 points! 
+The timing on this attack is harder to get right, but it looks spectacular and does mondo 
+damage.
+
+If you are having trouble with those Juggles, any High-hitting attack will work. I used to 
+extensively use Mishima Flash Punch Combos, Demon Backhand Spins, and Shining Fists to attack 
+my opponent in the air. Tsunami Kicks is another good move; basically, any damage you can do 
+to an enemy in the air is free damage. 
+
+They can't do anything about it, so just hit them with whatever you can. It all adds up. Again, 
+start small and work towards the harder Juggles such as the Laser Series. Practice, practice, 
+practice!
+
+A WS+1,2, WS+2, or Wind Godfist Launcher allows you to Laser Cannon Juggle straight off. Start 
+the sequence straight after you flick them up; leave off the final hit until they fall down to 
+the appropriate height. Watch someone else do it if you're unsure of the timing; we Jin players 
+use this Juggle a lot because of the damage. With a bit of practice, you should also be able to 
+tack a Tsunami Kick onto the end for a little bit more damage.
+
+For those looking to Lase Cannon Juggle from the Tooth Fairy, you must stabilise your opponent 
+in the air with a (1) punch. This flicks them up for long enough that you'll be able to Laser 
+them before they fall. Delay the final Laser hit as usual, though I've never been able to tack a 
+Tsunami Kick ender on.
+
+Off a Can-Can Kick Launch, you can Laser Juggle after a (1) punch to stabilise them. However, 
+you must delay the hits significantly to get it right. Also, this combo (whilst certainly 
+looking spectacular) will only cause 56 damage; a much simpler White Heron Juggle will do 47...
+Many thanks to Catfish, Chains of Misery,  and Night who pointed that out to me.
+
+==================================================================================================
+
+27.0 COUNTERING
+
+==================================================================================================
+
+Jin Kazama has one of the most dreaded abilities in the game; he can Counter moves thrown at 
+him. By pressing b+1+3 or b+2+4 just as your opponent's blow would have landed, Jin will grab 
+their limb and deliver a counter-attack. The animation for this counter-attack varies, 
+depending on what limb your opponent tried to hit you with. The damage tends to vary, and I 
+believe it is based on the damage that would have been inflicted had the move hit you. 
+
+Jin can counter Punches or Kicks, but only if they would have hit High. He cannot Counter mid 
+or low hitting attacks.
+
+The most important part of this tactic is practice. In order to use Counters as a major part of 
+your game, you must become familiar with the timing of your opponent's attacks. This will
+require a good deal of practice, especially against opponents with large move lists or highly 
+variable attack options.
+
+Basically, watch your opponent as they fight. Start to time the difference between their limb 
+moving towards you and the block animation. Although difficult at first, this will become 
+second nature. Start with common attacks from popular characters, and gradually expand the 
+amount of moves you can counter-attack against over time. 
+
+It will take time to get this down; I have been playing for six months now, and can only pick 
+my opponent's attacks coming about half the time. I counter whatever moves I think I can get 
+away with it, and have a reasonable amount of success with the attempt.
+
+The biggest problem with countering is hitting the buttons correctly. Many arcades have shonky 
+buttons, which do not behave as expected, so if you are not getting anywhere because of that, 
+it would be a good idea to stop. 
+
+Secondly, certain attacks (especially knees and elbows) cannot be Countered. You'll learn these 
+the hard way. I find it very difficult to counter Lee Chaolan because of his insane attacking 
+speeds, and Bryan Fury/Bruce Irvine because they knee and elbow more than anyone else does.
+
+The final problem lies in stuffing the counter up, by doing it at the wrong time or whatever 
+else. Getting hit because of a failed counter really, really hurts as all hits against you are 
+Counter-Hits and Clean, providing major damage bonuses to your opponent. For this reason alone, 
+it is a bad idea to try to Counter high-power moves (such as Phoenix Smasher) because the 
+damage you take will be all-but fatal. 
+
+Practice will eventually make perfect, though, so just keep on trying until you get it right. 
+Start small, then work your way up.
+
+A final, if unlikely, danger must also be pointed out; the "Chicken", where your opponent 
+Counters your Counter. Damage is small, but you are knocked back and your opponent gains an 
+initiative bonus on their next attack. Also, the computer announcing "CHICKEN!" is annoying and 
+humiliating. Anyway, only high-skill or lucky opponents will be able to Chicken you, so if you 
+think you are playing a really good opponent, you might be better off to steer clear of the 
+Counter.
+
+==================================================================================================
+
+28.0 SPECIAL TECHNIQUES
+
+==================================================================================================
+
+This is where I will be discussing some of the more advanced or exploitative moves available to 
+Jin Kazama.
+
+==================================================================================================
+
+28.1 Chickening. Press F+1+3 or F+2+4 during an Enemy's Counter.
+
+If you are prescient enough to read your opponent's mind or fast enough to spot the Counter, 
+you can fight back with the always crowd-pleasing Chicken. Damage offered is low, but if you 
+can Chicken your opponent a few times, they will probably abandon their attempts to Counter you.
+ 
+As I mentioned earlier, if you mix throws in to your standard attack line up, it might help you 
+to hold forwards as you attempt the throw as sometimes your previous attack is countered and 
+you wind up with a free Chicken.
+
+==================================================================================================
+
+28.2 Counter-Baiting.
+
+The easiest way to get Counters is to bait your opponent into attacking you. I usually do this 
+by performing a slow-to-recover move just outside of its attack range. My opponent then steps 
+in to punish me for my perceived mistake, only to wind up getting countered! This is a somewhat 
+risky technique as some characters (Bruce, Bryan) have uncounterable attacks that they like to 
+use, or your opponent may make a low attack. Still, once you get used to the timing of counters 
+and can start to predict your opponent's attacks, Counter-Baiting is a technique which will 
+give you a few free points of damage when you really need it.
+
+==================================================================================================
+
+28.3 Force. B+1+2.
+
+Jin Kazama has a special move called Force, which you can activate by pressing B+1+2. Jin will 
+step back, perform a short Kata, then arc lightning across himself. Anyone attempting to attack 
+whilst he is in Force will be knocked back.
+
+Force is an often-overlooked part of Jin's arsenal. Although it does have limited application, 
+when timed correctly, Jin can gain a major advantage with this move. I often use Force to buy 
+myself breathing room if an opponent comes at me with a long combo, or to fry nearby opponents 
+on the ground if I am close enough (they get shocked and fall back over). It can even be used 
+against opponents who are flying towards you.
+
+There is a fair bit of danger in using this move; I use it when I am confident it will work, or 
+am so desperate that I consider the risk of being hit being worth it to balance the fact that I 
+am being forced onto the back foot. If you do intend to try to use Force, I would recommend you 
+practice on a PlayStation where it doesn't cost you anything to play, or against a very 
+inexperienced opponent if that is impossible.
+
+I have to say, the very best way to finish a fight on the PS2 is to kill your opponent on a 
+Counter-Hit with the Demon Steel Pedal, then perform Force. They will crumple down into you, 
+hit Force, get zapped, and be knocked away. Stylish. Annoyingly, you can't fry people like 
+that at the arcade.
+
+Of course, where Force really shines is when Jin is partnered with Heihachi Mishima. By 
+pressing 2,2,3 during the Force animation sequence, Jin will perform Omen. His stance will 
+shift to that of Heihachi's, and red lightning will continue to pulse off of Jin. Jin gains 
+some new moves from this stance, but since they are all complicated I will not waste your time 
+by discussing them. The only move of note at this level is the Omen Corpse Thrust, which is 1+2. 
+Jin will cause about 9 damage to himself, but will knock his opponent down in spectacular 
+fashion, complete with crumple-stun animation and red lightning. The downside is that Jin is 
+slow to recover off this move, and he does damage himself, which is not good.
+
+Omen will end if you block, step back, or perform any move from the stance. You can still walk 
+(but not Run) forwards in Omen.
+
+If you intend to use Omen, make sure you are hitting 2,2,3 at the right time, or Jin may just 
+perform a punch or kick at the end of the Force animation.
+
+==================================================================================================
+
+28.4 Box Moves.
+
+I am not very knowledgeable about computer graphics or programming, so this explanation is in 
+my own words and may be inaccurate.
+
+Imagine each character as a stick figure. Over this is laid the polygons and graphics that make 
+up the character model. The stick figure defines the character's movements, and the rest of the 
+model animates them by moving in relation to the stick figure. 
+
+However, the character's model is not the end of the character themselves. Instead, a "box" 
+extends out past the edges of the animated figure, which allows the computer to determine where 
+the character is, how far they can reach, and so on and so forth.
+
+This "box" extends slightly around every character, which is why you get the odd Throw 
+animations where people appear to be reaching inside the other character. However, this "box" 
+has a practical use as well.
+
+If you can get to know how far this "box" reaches around Jin, and how far it extends beyond 
+your opponent, you may be able to execute attacks at ranges beyond which they expect. This is 
+a difficult technique to learn and apply, but even slight advantages gained by using it can 
+make it a worthwhile effort.
+
+In the example of offence, Jin's leg "boxes" extend beyond his feet by a fair margin, which I 
+exploit by using his low attacks. His character animation comes nowhere near his opponent, but 
+they are still knocked back, off their feet, or whatever else.
+
+In the example of defence, Forrest Law's leg "box" during his Dragon's Tail sweep extends a 
+number of centimetres beyond his foot. If you are unaware of this, you may believe yourself 
+safe because you are further away than his legs would seem to reach, but you may still be in 
+the "box" zone and wind up getting knocked down.
+
+I know this seems overly semantic and technical, but it can be an important part of organising 
+your combat techniques.
+
+==================================================================================================
+
+28.5 Supercharger. 1+2+3+4.
+
+By mashing all four buttons together, you can Supercharge. This will take a little bit of time, 
+but it is a good psychological tool and has some advantages associated with it. First of all, 
+when Supercharged, all your attacks a Counter-Hits, and you will be able to damage blocking 
+opponents. 
+
+Secondly, if you Tag whilst Supercharged, your Tag partner will come on Supercharged.
+
+This is difficult to get right as all four buttons must be pressed simultaneously, and as we 
+all know, arcade buttons are never in perfect order.
+
+==================================================================================================
+
+28.6 Low Parry. Press d/f as opponent attacks.
+
+Jin, like everyone else, can make Low Parries against his opponents. This is an important 
+technique to master, particularly against fellow Mishima players. Your opponent will be treated 
+to a stagger stun and you will be awarded the initiative. I find that a Throw works wonders 
+after this.
+
+Be careful when you Low Parry; your timing must be precise, or you will be Counter-Hit, which 
+is never pleasant.
+
+==================================================================================================
+
+28.7 Netsu.
+
+The "Netsu" (Anger) power up comes into play after a Tag partner has been hit a certain number 
+of times. Fortunately for us, Jin Kazama is a caring, compassionate lad and will start to get 
+angry after his partner has been hit about 5 times, even if it's The Devil or Hwoarang!
+
+You will notice that the Tag partner's life bar begins to flash red; this indicates that they 
+have grown angry and will inflict more damage when they attack. Sometimes, even if you're low 
+on life, it can be worth the gamble to bring on an Angry character than to leave them out of 
+the fight.
+
+However, some characters care little for Jin (such as The Devil) and won't get Angry, even if 
+Jin is near death.
+
+==================================================================================================
+
+28.8 Hit Points.
+
+Not all characters in the game can take the same amounts of punishment. Jin Kazama is an 
+absolute tank, with somewhere in the region of 150 Hit Points. Kazuya Mishima, the Bears, The 
+Devil, and the Jacks also share high Hit Points and can take a major beating. Other characters, 
+such as Heihachi Mishima and Wang Jinrei are old, old men and have about 100 Hit Points. Ling 
+Xiaoyu and Jun Kazama are also quite weak. Most characters fall along the middle line of this 
+extreme and have something like 120 or 130 Hit Points. 
+
+I also hear that human players are given 30 extra Hit Points.
+
+Knowing how much of a beating you and your opponent can take at any given time is vital to your 
+planning, as it will help you decide what moves to make and when to use them, and how much of a 
+risk you are willing to take.
+
+==================================================================================================
+
+28.9 Setting up the WS
+
+WS (While Standing) moves are, quite frankly, a pain in the arse. But, as well as learning your 
+timings as you come up from ducking, there's an easy way to set up the While Standing moves. 
+Thesewill work for a little while, but repeating them against a good opponent will get you 
+hammered, so do be careful.
+
+The first set-up for a WS is d+1. Jin will sort of crouch and poke out with his left hand. 
+Anything you follow this up with will be a WS move. So, a d+1,1,2 will net you a Twin Pistons; 
+a d+1,4,4 will get you a Tsunami Kick. This isn't too bad as a mix-up, as you can stay down low
+for a low spin kick (3) or come up with a high-hitting Twin Piston or Rising Uppercut launcher 
+with the Tsunami Kicks to keep them guessing.
+
+The second way to set up the WS is with a d/b+3. Jin will spin down low and deliver an 
+ankle-hitting kick. This is good for surprise factor; anything you can do with a d+1, you can do
+with a d/b+3.
+
+If you're having trouble, remember to let go of the directiona controls as soon as you've 
+finished the d+1 or d/b+3 attack.
+
+Both of these are cheap, and I'd really recommend you learn how to duck for your WS, but these 
+moves might help you out in a tight spot.
+
+==================================================================================================
+
+29.0 PLAYER TYPES
+
+==================================================================================================
+
+Generally, there are two types of players you will see: Pit Bulls and Turtles. Highly skilled 
+opponents will switch between these styles of play, but at this level of skill, you will 
+probably have a preferred style of combat.
+
+==================================================================================================
+
+29.1 The Pit Bull.
+
+Pit bulls are easily identified by their character selection. Picking a Mishima is usually a 
+declaration you will fight from the offensive, as Mishimas have little in the way of defensive 
+techniques. Picking two Mishimas is a pretty sure sign you are a Pit Bull.
+
+Pit Bulls are players who will attack, attack, attack all day long and halfway through the 
+night if given the chance. They will come in with powerhouse attack sequences and mix up 
+strings to keep you guessing. Pit bulls will rarely, if ever, throw because their standard 
+moves are more effective in their fighting style.
+
+The key to winning as a Pit Bull is to keep up the attack. No matter what, never stop or 
+falter; force your opponent onto the back foot and keep them there. If you can force them into 
+a reaction-only mindset, you've won already. 
+
+Keep 'em guessing.
+
+The way to beat Pit Bulls is to learn their favourite attack sequences and block, parry, or 
+counter them. The average Pit Bull won't have a huge number of attacks in their repertoire, 
+but what they do use will be highly effective. Pit Bulls tend to have short reins, so if you 
+can frustrate them with throws, counters, blocking, parries or whatever else, they will start 
+to loose it and will rush in without thinking. Additionally, defensive techniques are alien to 
+Pit Bulls, so if you can force them onto the back foot (granted, not an easy task) they will 
+fall to pieces then as well.
+
+==================================================================================================
+
+29.2 The Turtle.
+
+Turtles are thoughtful, meticulous players who fight from the defensive. Picking characters 
+who are able to Counter, who are tough, or "Safety" characters like Lamek or Jun usually shows 
+a Turtle at work.
+
+Despite the name, Turtles are anything but slow in combat; however, instead of attacking 
+outright, Turtles will sit back and fight the way they want to. Opponents who mess up will be 
+severely punished with massive counter-hits, and they will Throw the unwary into oblivion. 
+
+The way to win as a Turtle is to learn your opponent's techniques and just smack them out of 
+whatever they are doing. Punish any failed attacks with Shining Fists, Demon's Paws, Counters, 
+or Throws, and control the battle by forcing your opponent to come to you.
+
+The way to beat Turtles is to turn their own technique against them. Start mixing in throws, 
+counters, and anything else. Force them to come to you.
+
+==================================================================================================
+
+30.0 PLAYER SKILL LEVELS
+
+==================================================================================================
+
+30.1 Masher.
+
+The button-basher is the first stage in the evolution of every Tekken player. They don't really 
+know what's happening, but figure that as long as you're pressing a button, you're ahead. As 
+mashers progress, they will learn some attack strings and will try to use them more often than 
+simply mashing. Many people deride Mashers, but this is stupid for two reasons: firstly, 
+everyone will have been a Masher at some stage; you can only get better. 
+
+Secondly, some characters, such as Jin, Ling, and Hwoarang can be very dangerous in the hands 
+of a Masher; they have so many moves that any random combination of buttons and directions can 
+result in a special move, and since *THEY* don't know what they are doing, you won't be able to 
+predict it,either. 
+
+Most Mashers will be happy to hear any advice you have for them, so if you can help them out, 
+do it. The better the competition gets, the better you will get. Also, keep an eye on 
+Mashers who use the characters you fight with, since their unorthodox fighting style may give 
+you some ides of your own.
+
+==================================================================================================
+
+30.2 Beginner.
+
+Hopefully, this is where you will be after reading this guide. Beginners will be good with 
+their primary character, and not that hot with their other one. Beginners will probably know 
+every move their character has, but may not use them because they have trouble getting the 
+motions right or are afraid of getting punished for it. Beginners will have a solid basic 
+style, but won't get too fancy in case they get confused or stuff up. Beginners will know a 
+few Juggles and be able to deal significant damage to unwary opponents.
+
+==================================================================================================
+
+30.3 Intermediate.
+
+I consider myself to be an intermediate player. I can perform any of Jin's moves except the 
+f,N,d,D/F ones whenever I like (shonky buttons and control sticks notwithstanding), and 
+Counter, counter-hit, poke, and Juggle often. 
+
+Intermediate players are very good with their primary characters, and are at Beginner level 
+with their Tag partner. Most players at arcades will be of at least this level.
+
+I can win better than half of my games, but I know there are gaps in my style. I don't throw 
+often enough, and am working on mastering the f,N,d,D/F moves and Tag juggles. I also need to 
+work on learning how to fight better with Kazuya Mishima to become more dangerous.
+
+==================================================================================================
+
+30.4 Advanced.
+
+At this level, your opponents are truly dangerous. They will be able to Crouch Dash, are 
+equally skilled with both their characters and can fight well with another half-dozen or so 
+characters if they get predictable. They will Tag Juggle, Chicken, and Throw you like there's 
+no tomorrow.
+
+They will still have a few flaws in their style, but these will be hard to pick and harder to 
+exploit.
+
+Advanced players are good to watch to see what to try out next.
+
+==================================================================================================
+
+30.5 Elite.
+
+Elite players are the top of the Tekken tree. They will know every move for every character, 
+make use of Frame data, and on the whole have no discernible weakness. 
+
+A fight between two players of this level will just come down to luck.
+
+Elite players are absolute gurus and know pretty much everything there is to know. If you ever 
+do see an Elite player, try to con them into teaching you some tricks.
+
+==================================================================================================
+
+31.0 THE OTHERS
+
+==================================================================================================
+
+Sadly, Jin is not the only character in the game, so you'll have to learn to fight with 
+(and against) some 30-odd other people as well (Grah!). This section will detail their 
+usefulness as a Tag partner for Jin, as well as how people tend to fight with them and what 
+the computer likes to do. 
+
+==================================================================================================
+
+31.1 A Word To The Wise.
+
+The easiest way to get ahead is to select another Mishima fighter as Jin's partner, or to use 
+his mother, Jun Kazama. Many Mishimas get special moves when they are put together, as does 
+Jun when paired with Jin.
+
+Although these two features make selecting a Mishima or Kazama seem ideal, the downside is that 
+you will probably play the two characters in a similar style, which could mean predictability. 
+If you do choose a Mishima or Kazama as Jin's partner, be careful and mix it up.
+
+==================================================================================================
+
+31.2 Alex/Roger.
+
+These carnival freaks are all but useless, which is why no-one in their right mind would pick 
+them. Still, their small stature, speed, and ability to hide their attacks with their natural 
+movement means they can whip out a few surprises, especially with their spinning Tail Trip. 
+They mix a few Mishima moves with some of the King's moves, so be prepared for anything.
+
+I have never seen a human play Alex or Roger.
+
+The computer likes to throw and uses a lot of sneaky low attacks, so be prepared.
+
+==================================================================================================
+
+31.3 Baek Doo San (Lamek).
+
+Quite probably the most annoying character in the game, Lamek's major claim to fame is the fact 
+that he makes a lot of noise. Every attack, he grunts. Tap the direction buttons, he grunts. I 
+mute the TV whenever I have to fight Lamek. Anyway, Lamek is a dangerous character, because he 
+has a variety of high and low attack mix ups and is an infinite string attacker. 
+
+Most Lamek players are pit bulls who will kill you by putting pressure on you. 
+
+You can't block everything. 
+
+Lamek is easier to learn than Hwoarang, his student, and can be a good bridging character if 
+you want to learn to fight with Bob as many of their moves and fighting techniques are similar.  
+
+Human players will constantly spam with infinite attack strings and force you to guess whether 
+to block high or low. Fortunately, they don't tend to throw much as Lamek winds up on his back 
+as well, which is a small mercy.
+
+The computer, too, will spam away and keep you guessing, but it will throw frequently, which is 
+actually in your favour, as you can then get some valuable breathing time.
+
+==================================================================================================
+
+31.4 Bryan Fury.
+
+Like Jin, Bryan is a powerhouse attacker and has a number of painful Juggles. Again, like Jin, 
+Bryan Fury has few low-hitting moves, and tends to become a bit predictable. Still, his 
+excellent While Standing moves and the ever-popular Chains of Misery throw he has make him an 
+excellent partner for Jin.
+
+Well, Rashan has moved on to Bryan Fury, apparently having decided that Bruce Irvine just 
+wasn't quite cheap enough. The Cheese Knees were back in force, along with high/low mix-ups, 
+throws, and moves which allowed him to duck beneath my punches and reply. Fortunately, as yet, 
+Rashan can't do Chains of Misery and has yet to learn any major Juggles... 
+
+Anyway, after having been taken 5-0 by Rashan, all I can suggest is that you really, really 
+watch your opponent carefully.
+
+Try to pick the attacks ahead, as it seems Bruce doesn't have many alternate attack sequences.
+
+Bruce has a number of powerful, painful Mid Hits, so don't Duck without good reason. You have 
+been warned. 
+
+*Shudder*
+
+The computer doesn't throw a lot, instead relying on powerful counter-hits and the Vulcan 
+Cannon punches. The computer will spam with Bryan's Mach Breaker punch, so be careful at middle 
+distances.
+
+==================================================================================================
+
+31.5 Bruce Irvine.
+
+Arg. Those accursed Cheese Knees...Bruce fights in Kickboxing style, which means that he hits 
+hard. Fortunately, Bryan has few low-hitting moves and can be predicted with a bit of practice.
+
+Bruce deals an incredible amount of raw damage, and it only gets worse on Counter-Hits.
+
+Human players will attempt to get you in the air for the Cheese Knees Juggle of doom. Don't let 
+it happen.
+
+The computer tends to fight Bruce like Bryan.
+
+==================================================================================================
+
+31.6 Devil/ Angel.
+
+The Devil is Kazuya Mishima's darker alter ego; the Angel is a force out to save Kazuya's soul. 
+In either case, both are essentially Mishima "shells"; they share the bulk of Jin's moves and 
+will be easy to learn to fight with. Also, they have the most insane Juggle Starter in the 
+game,Devil Twister, and the ever-popular Eye Lasers. It should also be noted that the Devil 
+doesn't care much for Jin and won't get angry if he is beaten down on; the Angel, however, 
+will. 
+
+Additionally, the Angel is slightly smaller than the Devil and her Eye Lasers shoot 
+correspondingly lower, so she will be able to hit the smaller characters, such as Roger/Alex, 
+Ling Xiaoyu, and Wang Jinrei. Finally, the Angel is just a palette swap, so if your opponent 
+picked her first, you will be lumped with the Devil.
+
+Most human opponents who use the Devil do so just for the Lasers. Learn to duck beneath the 
+standing Laser, and if they take to the air, run behind them and Chicken Butcher them. A good 
+opponent, however, will make the Devil a true menace; learn to block the low Hell Sweeps and 
+make sure you never get hit by the Devil Twister, which is the harbinger of a long, exceedingly 
+painful juggle.
+
+The computer tends to stick to Demon Slayers and Shining Fists, but it throws a bit as well. 
+It occasionally uses the Eye Lasers, but for some reason it does Air Inferno, which is used to 
+shoot down flying targets and always misses. Stay on the move against the Devil.
+
+I have been Stun Juggled by a Devil player lately. I tagged out, got hit by the Eye Lasers from 
+up close...and then he put the Devil's 10-Hit Combo onto me with the Laser's Stun. Not pleasant; 
+be warned.
+
+==================================================================================================
+
+31.7 Eddie Gordo/Tiger Jackson.
+
+Heh. Capoeira. Anyway, Eddie and Tiger are just the same character and nothing changes between 
+them at all, so don't worry if they pick Tiger. Eddie has a bunch of alternate stances and is 
+quite spectacular to watch. His Capoeira style means he is constantly doing the Ginga movement, 
+so he is in a constant sidestep. Linear attacks tend to miss a lot, and Eddie players tend to 
+duck a lot as well. Eddie is moderately tough, spams well, and does a fair bit of damage 
+because of his speed.
+
+I have only ever fought one Eddie player (Ashley again), and I was surprised by the punishing 
+Juggle damage and unpredictability the human element brings to Eddie. Ashley swept low a lot, 
+threw frequently, and set up some damaging Juggles. However, the fact that he depended on the 
+Ginga and ducking for protection rather than blocking meant that I could catch him with 
+multidimensional attacks and mid-hitting attacks.
+
+The computer tends to spam random moves, but enjoys ducking and using alternate stances. 
+
+I find Eddie to be a difficult character to fight, primarily because the Ginga disguises a lot 
+of his attacks. Since I see him so infrequently, I also lack practice against him, and I 
+suspect that it is the same for most other players as well.
+
+==================================================================================================
+
+31.8 Forrest Law.
+
+AKA: Bruce Lee. Forrest is a swiftly-moving, mean-juggling powerhouse attacker. Forrest's 
+style is characterised by long, painful juggle series and annoying "Woy-yah!" noises.
+
+Humans who use Forrest will tend to Parry a lot of the time, and will look for every 
+opportunity to Juggle you. Forrest is a *VERY* fast attacker, so don't get suckered in when 
+fighting him. Forrest also has a lot of sneaky attacks, such as Poison Arrow and Dragon's Tail,
+which you must be on the lookout for during combat.
+
+The computer also tends to parry a lot, and is one of the few characters that will actually 
+Juggle under AI control. Stay out of Law's reach, and make sure you don't get put into the air.
+
+==================================================================================================
+
+31.9 Ganryu.
+
+Hmm. Looks like E. Honda has escaped from Street Fighter for a cameo appearance. Anyway, 
+Ganryu players tend to be E. Honda fans and will come at you with palm slaps and charging moves, 
+so be prepared for the inevitable flurries and knock backs. Also beware of the move in which 
+Ganryu hops around slapping downwards, as this move hits low and has to be blocked that way 
+despite the fact that it appears to be hitting mid or even high. 
+
+And I thought Paul Phoenix was cheap. Man...Anthony has taken to Ganryu. So many Unblockables, 
+so many charges. *Shudder*. The big guy is fast, and I have no answers. Anyone?
+
+The computer fights Ganryu like the Jacks, but places more emphasis on low hits in case it can 
+catch you out.
+
+==================================================================================================
+
+31.10 Heihachi Mishima.
+
+Another old, old man. Heihachi, too, shares the Phoenix Smasher, along with some nasty stuns 
+and the ability to Hell Sweep low *THREE* times, then open into a Tsunami Kick or Thunder 
+Godfist, causing massive amounts of damage. Since you already fight with Jin, Heihachi will be 
+fairly easy to learn, but be aware that he has few hit points and is quite slow. Again, don't 
+fall into the trap of fighting the same with Jin and Heihachi.
+
+Humans who use Heihachi tend to pair him with Jin and only bring him out for Tag Juggles. 
+Heihachi's attacks tend to be quite linear, so sidestep a lot and you should avoid the worst 
+of it. Just make sure you are never caught by one of his Hell Sweeps, as the results are very 
+painful.
+
+The computer tends to fight Heihachi like the Devil and will rely on single, powerhouse moves 
+rather than mid-length attack strings and Juggles. However, since you have selected Jin, 
+Heihachi will probably be his sub-boss, so expect to see his 10-Hit Combos fairly often.
+
+==================================================================================================
+
+31.11 Hwoarang (Bob).
+
+Definitely one of the better Jugglers in the game, and equipped with nasty poking moves as 
+well, Hwoarang is a true threat. All of Hwoarang's moves are quite painful to get hit by, and 
+he has the ability to mix things up by switching between high and low attacks quite well. 
+
+Hwoarang is an excellent Tag partner for Jin, as he's not too hard to learn.
+
+Human players generally come in two flavours; Mashers and Skilled. Don't waste your time trying 
+to fight fair against a Masher; just whip out the Mishima Cheese Wheel and Shining Fists to put
+them in their place. Generally, Mashers will be scared already because you picked Jin, so if 
+you can take advantage of that, they'll go down easily. Skilled players are a lot rarer than 
+the Mashers who use Hwoarang, so be careful if you see they are not spamming moves and appear 
+to have some direction to their attacks. Skilled players will make use of long attack 
+sequences from Hwoarang's Flamingo or alternate stances, and will sidestep and throw a lot. 
+Basically, sidestep as much as you can (but be careful- Hwoarang's moves track better than any 
+other character's) and be prepared to block frequently.
+
+The computer doesn't tend to mix things up much, and almost never Juggles. However, it throws 
+frequently, so be ready to break them.
+
+==================================================================================================
+
+31.12 Julia and Michelle Chang.
+
+Grr. My most hated opponents, the Changs. The Changs have a number of high/low mix up attacks, 
+the accursed G-Clef Cannon, and the ability to spin around and get behind or beside you for 
+some easy throws. 
+
+Julia Chang is the newer of the pair and has a slightly more effective fighting style; she is 
+also in Tekken 4, so if you want a Chang as your partner, I would recommend her.
+
+Human opponents tend to spin, G-Clef Cannon, and Juggle a lot. Fortunately, the Changs have a 
+limited move list and can become quite predictable; you *MUST* learn how to block the high, 
+low, high Juggle Starter sequences they constantly spam.
+
+The computer fights like the humans I have seen, so practicing against it will help a lot.
+
+==================================================================================================
+
+31.13 Jun Kazama.
+
+Jin's mother, Jun (yeah, these Namco people are real creative with names :P) shares many of 
+Jin's attacks, and so is easy enough to learn. Because Jin centres around Mishima moves and 
+Juggling, rather than infinite attack sequences, which are Jun's forte, you will probably wind 
+up fighting the pair differently enough that predictability should not be a problem. Jun also 
+has a nasty, low-hitting slap attack, which she will then Counter from if you were trying to do 
+anything. The only major problems with Jun are that she has few Juggle Starters, Juggles 
+poorly, and has low hit points to boot.
+
+Human players will spam endlessly with infinite attack strings, so be prepared to block a lot. 
+Although she attacks forever, she has fewer moves than people like Lee or Lamek do and after a 
+while, you should be able to predict her attacks well enough to block or counter effectively.
+
+The computer will spam all day, so smack it down early to avoid pain.
+
+==================================================================================================
+
+31.14 Kazuya Mishima.
+
+My personal choice as Jin's sidekick, Kazuya Mishima is one of the most vicious attackers in 
+the game. He shares many moves with Jin, so he is easy to learn- but don't fall into the trap 
+of fighting father and son in the same style, or you will be predicted and punished. Kazuya's 
+main strength lies in his insane stun moves, and the wonderful Mist Step, from which he can
+perform f,N,d,D/F moves at high speeds. He also has the Tekken version of a Get Out Of Jail 
+Free card, in his Twin Fang Stature Smash attack.
+
+Human players will center their style around Kazuya's Stun moves and Mist Step. Also learn to 
+block the Twin Fang Stature Smash, but be careful as the better players will mix in mid-hitting 
+Gut Punches to punish the faster learners.
+
+The computer will tend to fight Kazuya Mishima the same as it will Jin, so watch and learn as 
+anything you learn from one will be useful against the other. It tends not to do much in the 
+way of Mist Stepping or stunning moves.
+
+==================================================================================================
+
+31.15 King/Armour King.
+
+Chain throw, Chain throw, Chain throw. Anyone who picks either of these character is probably 
+going to be dependant on the Throw Chains for victory. *STAY OUT OF THROW RANGE*. Against this 
+pair, ducking or lying down to avoid their Throws won't work, because they can grab you from 
+there as well! Lame. Also, their low-kick attack series can't be Low Parried unless you have 
+the Command Parry, which Jin doesn't- so don't even waste your time trying. They can mix up the 
+low kicks with a spinning backfist or clothesline, and the better players will mix that in as 
+well. The Kings can also counter kicks, so do be careful with that. The best advice I can give 
+you is to read a King/Armour King guide to learn how to break their Throw chains. If you can't 
+tell what throws they are using, just start hitting 1,2,1+2,1,2,1+2 over and over until the 
+chain ends, because hitting anything is better than hitting nothing as you will have at least 
+a 33% chance of breaking the chain that way.
+
+Humans will chain throw.
+
+The computer likes to us the low-kick series and throws frequently, but thankfully won't Chain 
+Throw too much, unless you hit King in stages 6 or 7.
+
+Anything you learn fighting King or Armour King will help you fight the other.
+
+==================================================================================================
+
+31.16 Kunimitsu.
+
+Yoshimitsu's mortal enemy, Kunimitsu fights a lot like he does. Although it's tempting to think 
+of Kunimitsu as a Yoshimitsu palette swap, Kunimitsu has a number of moves that are all her own 
+and will leave the unwary in a world of hurt.
+
+Human players use her Teleporting and Fake-Teleporting attacks a lot to avoid damage and make 
+powerful follow-up attacks, so don't over-commit yourself against Kunimitsu as her speed and 
+damage will quickly wear you down.
+
+The computer will play Kunimitsu almost exactly the same was as Yoshimitsu.
+
+==================================================================================================
+
+31.17 Lee Chaolan.
+
+Uncle Lee. Lee Chaolan is one of the most ridiculously fast characters in the game. His Silver 
+Whip kick is faster than anything you've ever seen, and Lee has long, long attack strings to 
+keep you under pressure. Add to that his Hitman stance and ability to defy gravity, and Lee 
+can rapidly become a major headache. Lee shares a lot of moves with other characters, most 
+notably Forrest Law, Paul Phoenix, and Baek Doo San, so be careful as a wily opponent will mix 
+it up.
+
+I have only ever fought one Lee player, but he used Lee's fast spamming attacks to put me on 
+the back foot, then finished me off with the Mist Wolf sneak throw. Basically, Lee will appear 
+to feint a kick, then drive his hell into your gut and kick you in the head as he spins up. Gah.
+
+The computer tends to fight Lee exactly like Forrest Law.
+
+==================================================================================================
+
+31.19 Lei Wulong.
+
+AKA: Jackie Chan. Lei Wulong has a billion alternate stances, including the Karate Kid's Crane 
+stance. He also enjoys sleeping on the job and will spend a lot of time on the floor. Lei 
+Wulong's individual attacks trend to be quite slow, but don't be fooled as he can rapidly 
+switch to another stance, and the longer he attacks, the faster he gets. Also, Lei tends to mix 
+his attacks between high and low hits quite effectively, so keep an eye out.
+
+Rashan has dropped Forrest Law and now uses Lei. Aside from the insanity of the Drunken Master 
+Headbutt and those accursed spinning backfists and backflips, throws and sidesteps were all 
+the rage. I found the fight to be quite annoying, as although I could pick the attacks coming 
+from a mile away, there was nothing I could do about them. I would recommend mid-hitting 
+attacks and quick-to-recover moves against Lei, as he *WILL* make you pay for any errors.
+
+The computer doesn't tend to make much use of Lei's alternate stances; it tends to lie down a 
+lot, though, and likes to use the lying-down kicks. These are quite painful as the animation 
+suggests he is kicking low, but they are actually hitting Mid; block them normally.
+
+==================================================================================================
+
+31.20 Ling Xiaoyu.
+
+Ling is a swiftly-moving pain in the neck. Complete with annoyingly fast pokes, alternate 
+stances, sidestepping and pirouetting moves, Ling will quickly put you on the back foot if you 
+give her an inch. Fortunately, Ling does negligible damage, doesn't juggle that well, and has 
+low hit points, so if you get the drop on her, it'll all be over bar the screaming.
+
+I have only ever fought two Ling players, and both had dramatically different style. A friend 
+of mine, Ashley, used her Phoenix stance to attack low and her Rain Dance steps and Mistrust 
+moves to get around me. None of my linear attacks worked, as he kept ducking, so I eventually 
+brought him down by using the Mishima Flip Kicks and Mishima Cheese Wheel to snap him out of 
+the alternate stances and force him to fight my way. The second Ling player I fought was a very 
+skilled young lady; she poked continuously, threw a lot, and made use of Ling's alternate 
+stances to gain additional range for juggling and normal attacks.  At this stage of my gaming, 
+I still used Hwoarang and The Devil, so my response was to Eye Laser her into oblivion. Quite 
+frankly, she was much more skilled than me, and I would be at a loss to beat her with Jin now. 
+If you meet an opponent like this, just block until you get some breathing space, as although
+Ling is quite fast, her attack sequences tend to be short.
+
+The computer doesn't seem to stick to any fixed pattern when fighting with Ling, so your guess 
+is a good as mine.
+
+==================================================================================================
+
+31.21 Mokujin/Tetsujin/Unknown.
+
+These characters select any other character's move list at random and mimic their style. They 
+cannot imitate the Ogres or The Devil, at least, so you don't have to worry about Eye Lasers or 
+Fire Breath. However, it can take a while to pick which character they are imitating, so you 
+can be fatally surprised at times. I wouldn't recommend you pick any of these characters as 
+Jin's Tag partner as to be effective with them you must have mastered nearly every character in 
+the game and be able to pick who Mokujin/Tetsujin/Unknown is imitating. The only thing you have
+in your favour is that Unknown always starts out imitating Jun Kazama.
+
+Human players who select these characters are probably masters of the game. They will know 
+almost every character and move inside out, and have picked this character to make things 
+slightly more interesting.
+
+Of course, it could also be that they are an amateur who doesn't know that these characters 
+imitate others instead of having their own move lists, and if this is the case, have a field 
+day!
+
+In all cases, these characters will fight like whoever they are imitating, so it's important to 
+pick it early and be prepared. Some characters are easy to spot (the Mitsus, Heihachi Mishima, 
+the Bears), but others are tougher to spot and could get you in trouble.
+
+==================================================================================================
+
+31.22 Nina and Anna, the Williams Sisters.
+
+Alleged fighting style: Assassination techniques based on Bone martial arts and Aikido. Actual 
+fighting style: Bitch slapping, hair-pulling, and eye-gouging. Make no mistake, these two are 
+exceedingly dangerous opponents; they have fast poking strings, the ability to Counter, nasty 
+Okizeme moves, and Throw Chains! 
+
+Nina Williams appears to be slightly faster and has more options in her Throw Chains, but does 
+less damage than her sister.
+
+Anna Williams is slightly slower, but does more damage than her sister and has easier Okizeme 
+attacks.
+
+I have never fought a human opponent who used one of the Williams, but when I play them, I 
+counter a lot, poke my opponents, and occasionally delve into the throw chains, which are 
+surprisingly easy. With Nina I also use her Divine Cannon Juggle Starter a lot; with Anna, I 
+tend to put a lot of effort into knocking my opponent down so that I can stomp on them.
+
+If you pick a Williams as Jin's partner, I would recommend Nina as she is also in Tekken 4 and 
+changes very little. 
+
+The computer tends to make long attacks with the Williams and next to never uses their throw 
+chains. Be careful of their ability to Counter, though, as the computer seems to enjoy doing 
+it.
+
+==================================================================================================
+
+31.23 Ogre/True Ogre.
+
+These two fight a similar style, so aside from the True Ogre's ability to breathe fire, little 
+changes. The Ogres are composite characters, and have the Mishima punches and Baek's kicks. 
+The shared moves they have make them easy to pick up, but their kicking game will ensure that 
+you fight in styles different enough not to become predictable, which is good.
+
+I find the True Ogre is the more dangerous of the two, as wings, fur, and horns occupy most 
+of his character model, and with his colouration, they serve to conceal a lot of his attack 
+movement. Additionally, the True Ogre has tail trips and long, long arms, so be careful when 
+you fight him. As with the Devil, most human players will just breathe fire at you all day 
+long; be careful of the standing version, which attacks through several dimensions and has 
+to be ducked under or constantly sidestepped. If they take to the air, run behind them and 
+Chicken Butcher them.  
+
+Skilled opponents will make use of Infinity Kicks, low attacks, and throws, which makes things 
+very dangerous. Also watch out for the Snake Venom punch/throw attack; it will catch you out a 
+lot at first, so you will have to learn to deal with it.
+
+The computer will mainly use Mishima punches, Infinity Kicks, and Throws and so is not that 
+hard to deal with as long as you can fight Mishimas and Lamek.
+
+==================================================================================================
+
+31.24 Panda/Kuma.
+
+Fighting bears. Fair enough. Like Ganryu and the Jacks, these characters are big, tough, slow, 
+and deal massive amounts of damage. They have some nasty Juggle moves as well. The Bears fight 
+like the Jacks. 
+
+I have never seen a human player who uses the Bears.
+
+The computer likes to sit around in the Hunting Bear stance a lot, so use low and mid-hitting 
+attacks to teach it a lesson. Stay away from their throws, which are painful and appear to have 
+painful, guaranteed follow-up attacks.
+
+==================================================================================================
+
+31.25 Paul Phoenix.
+
+Hands-down the lamest character in the game, Paul Phoenix comes complete with high/low mix-ups, 
+the ability to Counter, and the most painful attack in the game, Phoenix Smasher. In many ways, 
+Paul is a natural partner for Jin, as he has a number of low-hitting attacks to make up for 
+Jin's almost complete lack of them. Paul Phoenix is also a fairly tough character and has high 
+Hit Points.
+
+Human players will punish you mercilessly with the Phoenix Smasher. If you ever stuff a move up 
+around a Paul player, expect to see about half your life bar disappear. Paul players also like 
+to use his high/low mix up attacks after the downward Karate Chop, after which they can follow 
+with a trip and elbow, or slam a mid-hitting Phoenix Smasher through to keep you on your toes. 
+Fortunately, Paul Phoenix has relatively poor juggling ability, so he can't take advantage of 
+putting you in the air.
+
+The computer doesn't mix up its attacks as much as a human will, so its predictability will be 
+its downfall. Again, watch for the counter-hitting Phoenix Smasher.
+
+==================================================================================================
+
+31.26 Prototype Jack, Jack-2, Gunjack.
+
+These massive robots are ridiculously tough and deal major damage, but by way of compensation 
+are glacially slow. You should be able to pick their attacks coming from a mile away and avoid 
+them; however, the sheer power of the Jacks means that if you do get hit, you will know all 
+about it. The Jacks also have some funky abilities, such as flying or performing the Cossack 
+Dance, which are worth points with the crowd.
+
+Human players who use the Jacks are very rare, but they tend to use the Jack as the secondary 
+character and only bring him on if their primary character has been hammered or during Tag 
+Juggles, which is where the Jacks become quite dangerous.
+
+The computer likes to perform the Vulcan Cannon punches, do the Cossack Dance, and throw a lot. 
+It also sometimes takes to the air; make sure you run behind the Jack so you can perform the 
+Chicken Butcher when it lands.
+
+==================================================================================================
+
+31.27 Wang Jinrei.
+
+Wang is an old, old man and takes damage like it. He s very weak in terms of hit-points, but 
+many of his counters cannot be Chickened and he has a move similar to Phoenix Smasher.
+
+Human players who use Wang tend to run a lot, so it's easy to score counter-hits against them. 
+As with Paul, though, make sure you avoid the Jinrei Smasher, as it will leave you in a world 
+of hurt.
+
+The computer tends to fight Wang the same way as the Changs.
+
+==================================================================================================
+
+31.28 Yoshimitsu.
+
+A futuristic, Ninjitsu cyborg Robin Hood, Yoshimitsu has a number of easy and effective 
+Unblockable attacks thanks to his Ninja-To, so be careful when he starts waving it around. 
+Yoshimitsu is a solid character; tough, fast, and with easy-to-learn and damaging Juggles and 
+powerhouse standard attacks, Yoshimitsu is an effective Tag partner for Jin.
+
+Human players tend to use a lot of Unblockable attacks, so be careful to stay out of sword 
+reach. Yoshimitsu players tend to use his spin moves, then switch into a throw to avoid the 
+nausea at the end of the spin, so be careful there as well. Beware if Yoshimitsu sits down or 
+starts to use his sword as a pogo stick, because he has a number or cheap and effective moves 
+from them.
+
+The computer spins so much it makes itself sick, so just sit back and take advantage of it. 
+ 
+==================================================================================================
+
+32.0 WHAT'S NEXT?
+
+==================================================================================================
+
+I plan to update this guide whenever I get enough material to make it worth it. In the event 
+that I make it to Advanced levels, I will write an Intermediate Guide To Jin Kazama that will 
+build on this work and give you some insights into playing Jin at higher levels.
+
+==================================================================================================
+
+33.0 CONTACTING ME
+
+==================================================================================================
+
+If you have any questions, comments, or material to add to this guide, I would like to hear it. 
+I have established an e-mail account, nightward@tekken.cc, where you can reach me concerning 
+this Guide. I look forward to hearing from you.
+
+==================================================================================================
+
+34.0 CREDITS
+
+==================================================================================================
+
+Writing this guide would have been impossible without the material from Kioni Kappahala's Jin 
+Guide for Tekken 4 and Jim Fitzpatrick's Jin Guide for Tekken Tag. Kioni's guide had the 
+control diagrams I used at the start of his guide; Jim's work influenced my own fighting style 
+and the Combo Information I used here was taken from his guide. I must also credit the authors 
+of several other Tekken guides out there, especially Essence of Jr and Exar Kun, whose 
+excellent guides provided me with many ideas for my own playing style, and DevilJin and 
+ILuvMomo for their Kazuya guides as well. 
+
+Thanks also go out to the Tekken crowd from the Hub at Griffith, especially Dan for all the 
+mercy rounds, Keiran for introducing me to the game and being an excellent punching bag, 
+Rashan for being such a cheap, cheap Bruce player, Ashley for showing me how Ling and Eddie 
+work, and to Ryan, Kevin and Ivan for raising the bar and showing how it's done.
+
+I must also mention my new sparring partner, Anthony Durl. Although I've had no success at 
+all converting him to Jin (or any other Mishima) he is learning fast and developing into a 
+skilled opponent. It will not be long, I fear, before the student surpasses the master :(
+
+Many thanks also to Catfish, Chainsofmisery, Freeman-Sama, Honkey#1, Insomnotek, Night, Rocket7, 
+and Yukifumi, who took the time to proof-read my guide and correct the glaring errors. 
+And going easy on the n008.
+
+I'd also like to thank you for bothering to read this. I hope it helped.

@@ -1,0 +1,579 @@
+
+
+                      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                      IAM´s Tekken 4 KILLING JUGGLE TECHNIQUES
+                      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+(Version 1.00; October 4, 2001)
+
+By:
+Ph.D. IVAN ALEX MERCADO LORBERG
+<webmaster@ivan-mercado.8m.com>
+<imercadol@hotmail.com>
+
+
+IMPORTANT: YOU MUST READ AND AGREE TO EVERY PART AND EVERY WORD TO THIS  
+DISCLAIMER.  USE OF THIS FILE CONSTITUTES ACCEPTANCE TO THIS DISCLAIMER.
+
+
+IAM´s DISCLAIMER.- This guide may be freely distributed as long as the contents 
+remain intact, credit is given to the author for his contribution to Tekken 
+knowledge in general, and no monetary compensation is received (Just if I could 
+win a penny for the practice of this knowledge ... I would be rich!).
+In no event shall this document be reproduced or retransmitted in any way, 
+shape, or form (including but not limited to physical, natural, or electronic).  
+In no event shall this document be used for HTML, Perl, C++, HTMLScript, Active 
+Server Page Files, JavaScript, Java, or any other forms of web mastering that 
+exist without E-Mailed Permission from Ivan Alex Mercado.
+
+Anyone who wishes to mirror this document MUST make this document freely 
+accessible (meaning no access moderation exist at your site), FREE OF CHARGE 
+(whether if it is through FTP, HTTP, Gopher, Finger, LDAP, Mailto, or any other 
+Internet Standards that are approved by the World Wide Web Consortium), and in 
+its 100% entirety, ¡bugs INCLUDED!.  Ivan Alex Mercado (IAM) GRANTS 
+NO PERMISSION IF FOR ANY REASON THIS FILE WILL BE USED for any profitable (even 
+if you fail to make any money out of it), promotional, and/or commercial 
+transactional purposes. This document is protected by ALL APPLICABLE 
+copyright and trademark laws, patent laws, and International Treaties. Remember 
+any breach of copyright, trademark, and/or patents (which includes but not 
+limited to plagiarism, stealing, laming, pirating, or otherwise) and failure to 
+adhere to the aforementioned URL and ALL PARTS of this disclaimer counts as 
+unauthorized reproduction and/or distribution (partial or full), resulting in 
+severe civil and criminal penalties, which is punishable through prosecution 
+under the maximum extent possible under the law. So, basically, don't F%#K with 
+any of it and/or go around saying this is yours.
+
+
+IF FOR ANY REASON YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS DISCLAIMER, then 
+you must DESTROY this document at all costs.
+
+
+All non-official information contained in this document is copyright by:
+Ivan Alex Mercado Lorberg
+<webmaster@ivan-mercado.8m.com>
+<imercadol@hotmail.com>
+
+All the credits of the Tekken Series are copyright by Namco.
+The Tekken series, Kazuya Mishima, and all related events/characters are 
+
+(c) 2001 of Namco Hometek.  All Rights Reserved.
+
+==============
+| WHAT'S NEW | 
+==============
+
+About the author: I’ve been busy lately, specially preparing myself to defend my 
+Economy Thesis. By the way, it went very good ¡Thanks for asking!.
+
+
+XXXXXXXXXXXXXXXXX
+TABLE OF CONTENTS:
+XXXXXXXXXXXXXXXXX
+
+I).-	INTRODUCTION
+
+II).-	BUTTON CONVENTIONS AND NEW T4 MOVES
+
+III).	PAUL PHOENIX
+
+IV).-	YOSHIMITSU
+
+V).-	MARSHALL LAW
+
+ACKNOWLEDGEMENTS 
+
+-----------------------------------------------------------------------------
+
+     XXXXXXXXXXXX
+I).- INTRODUCTION
+     XXXXXXXXXXXX
+
+¡Welcome to the Ironfist Tournament 4!. I think that the first objective in any 
+game is to beat all your opponents and hence defeat the “final boss” (whom by 
+the way in t4 is Heihachi). Ok, your vision is clear but your mission can vary 
+depending of HOW you may to accomplish your final objective. In resume, you can 
+do it the “hard way” (winning your opponents with fancy/new movements) or you 
+can do it the “easy way” (by using the FAQ that you are reading this precisely 
+moment). 
+
+I mean “easy” because if you accomplish the movements that are presented here,
+ your opponent will tend you say some words like this: “¡you’re so cheap!”, 
+“that is not fair! (allowed)” or simple “damn you fu***”. This will turn 
+especially true to those Tekken players that tend to Tech-roll (hit any button as 
+soon as they touch the floor after being attacked) as soon as they get hit with 
+a Juggle Starter (JG). 
+
+In the overall, in this FAQ you will find the following staff:
+
+*  How to beat the CPU with the best Time Killing Record at your local 
+Tekken4 arcade center (you will “immortalize” your initials at the game’s 
+Credits Name), as well as the usage of these techniques with some human 
+opponents.
+
+*  New movements attached to T4 as well as their usage in your new game 
+strategy plan. Note I didn’t copy ALL the movements because I am sure that you 
+already have an excellent printed version of the characters movements.
+
+Now, ¡it’s time to kick some bad asses!.
+
+-----------------------------------------------------------------------------
+
+
+      XXXXXXXXXXXXXXXXXX
+II).- BUTTON CONVENTIONS
+      XXXXXXXXXXXXXXXXXX
+
+I’ve borrowed this Tekken convention from the Zaibatsu folks. Please note that 
+these movements are assuming that your character is FACING TO THE RIGHT.
+(If they are facing to the left, reverse all b, f, B, F, SSL, and SSR 
+commands).
+
+                                | BUTTON  LAYOUT |
+                                ------------------
+                                |                |
+           1 - Left Punch       |   ___    ___   |
+           2 - Right Punch      |  /   \  /   \  |
+           3 - Left Kick        |  | 1 |  | 2 |  |
+           4 - Right Kick       |  \___/  \___/  |
+                                |                |
+                                |   ___    ___   |
+        It's very important to  |  /   \  /   \  |
+   become familiar with the     |  | 3 |  | 4 |  |   
+   numeric conventions of the   |  \___/  \___/  |
+   buttons.                     |                |
+                                |                |
+                                ------------------
+
+
+		    *-*-*-MOVEMENT CONVENTIONS-*-*-*                        
+
+f - tap forward once           d/f - tap down/forward once
+b - tap backwards once         d/b - tap down/back once
+d - tap down once              u/f - tap up/forward once
+u - tap up once                u/b - tap up/back once
+
+F - Hold stick forward         D/F - Hold stick down/forward
+B - Hold stick back            D/B - Hold stick down/back
+D - Hold stick down            U/F - Hold stick up/forward
+U - Hold stick up              U/B - Hold stick up/back
+
+N - Neutral joystick position (Joystick is not touched)
+SS - Short Sidestep (u,N or d,N)
+QCF - Quarter circle forward (Circle stick from down to forward)
+QCB - Quarter circle back (Circle stick from down to back)
+HCF - Half circle forward (Circle stick from back to down to forward)
+HCB - Half circle back (Circle stick from forward to down to back)
+
+		*-*-*-LINKING & SPECIAL CONVENTIONS-*-*-*
+
++ - Moves must be done together
+, - Moves must be done right after the other
+~ - Moves must be done IMMEDIATELY after the other
+_ - Or (When used between two moves, they are interchangeable)
+> - Move following the > has the option of being slightly delayed  
+= - MOVE FOLLOWING THE = HAS TO BE PRECISION TIMED TO EXECUTE
+# - Hold movement preceding the '#' until end of string or until N (Neutral)
+FC - Do move during full crouched position
+WS - While standing up (Returning the stick to neutral from a crouch)
+RN - While running (f,f,f)
+BK - Back facing the opponent
+FD/FT - Lying on the ground Face Down / Feet Towards opponent
+FD/FA -   "           "     Face Down / Feet Away from opponent
+FU/FT -   "           "     Face Up / Feet Towards opponent
+FU/FA -   "           "     Face Up / Feet Away from opponent
+CH - Major Counterhit (Hitting your opponent during their move execution)
+[] - Brackets surrounding an item indicate an optional output
+() - Parenthesis indicates moves grouped together
+{} - Curved brackets indicate buttons needed to break a throw
+: - Pause 1/3 a second between button presses (Tenstring timings only)
+
+  
+MOVE LIST ABBREVIATIONS
+-----------------------
+
+BK - Your back facing the opponent  
+OB - Forces opponent's back to face you 
+OS - Forces opponent's side to face you 
+OSB - Forces opponent's side to face you when blocked 
+JG – Juggle Starter 
+BN - Bounce Juggle Starter 
+RC - Recover Crouching after a move 
+CH - Requires a Counter-Hit  
+DS - Double-Over Stun 
+FS - Fall Back Stun 
+LS - Lift Stun 
+GS - Gut Stun 
+KS - Kneel Stun 
+HS - Hunch-Over Stun 
+TS - Trip Stun 
+CS - Crumple Stun 
+CFS - Crumple Fall Stun 
+CF - Crumple Fall 
+BS - Low Block Stagger 
+SH - Stagger Hit 
+GB - Guard Break
+FL - Float
+# - see corresponding footnote 
+c - CH modifier (e.g. JGc is a juggle starter on counter hit)
+cl - Clean Hit modifier (e.g. DScl is a double over stun on clean hit) 
+co - Crouching Opponent Modifier (e.g. KSco) 
+cco - CH on Crouching Opponent Modifier (e.g. FScco)
+h - Attack hits High (block High or duck)
+H - Attack hits High and on ground (block High or duck)
+m - Attack hits Mid (block High)
+M - Attack hits Mid and on ground (block High)
+l - Attack hits Low (block Low)
+L - Attack hits Low and on ground (block Low)
+sm - Attack hits Special Mid (block High or Low)
+! - Unblockable hit
+<!> - Unblockable hit which can be ducked
+{!} - Unblockable hit which hits grounded opponents
+*!* - Unblockable hit which hits big grounded opponents
+" - Indicates block point in Strings
+
+
+
+///////////////////////////////
+KILLING JUGGLES (KJ) TECHNIQUES 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+What does “Killing Juggles” means?. Is it some kind of new movement invented 
+exclusively for Tekken4?. The answer my friends is: NO. It’s just a fancy name 
+that I have decided to include in the Tekken gallery properties because it has 
+attributes in order to drain a lot of energy from your opponent. If you read my 
+previous FAQ´s for T3 and Tekken Tag Tournament you will be able to recognize 
+the following explanation; and as we are talking now about Tekken FOUR, we will 
+add another Step to the sequence in order to perform 1-2-3-4 steps for the 
+Killing Juggle:
+
+
+STEP-1) POSITION: As the name tells itself, it means the stance position you 
+have to be in order to begin the KG. For example, if you read in S-1 that you 
+have to be in the “Crouching Position” at the beginning of the round, hence you 
+have to be full duck (D/B). In other cases you may not required to being in an 
+specific stance, buy anyway its important that you have some critical distance 
+between you and your enemy.
+
+
+STEP-2) KILLING JUGGLE (KJ) STARTER: In this title, I present you the kind of 
+attack that you have to perform against you opponent. This movement has changed 
+drastically since other Tekken versions. Why? Because in Tekken 4 some of these 
+fatal juggle starters have changed for some guys e.g. Kazuya´s WGF attack not 
+only now it can be ducked but also it doesn’t have the attribute of float your 
+enemy at the air with his (her) facing down to the floor in the air (remember my 
+previous FAQ which detailed how Kazuya tend to rip off his enemy’s energy).
+
+
+STEP-3) JABS: Now it’s time to lure your enemy, so you can “heat” its 
+expectations that you are going to continue the Juggle Started with a combo 
+meanwhile your opponent is defenseless in the middle of the air. Be sure to do 
+this attack no matter how simple it can look up (most of the times it will be a 
+pair of jabs), because the difference from Tekken Tag Tournament is that ¡the 
+CPU won’t Techroll automatically after being juggled!,.
+
+
+STEP-4) FINISHING: This means literally what its written ¡Finish your opponent!. 
+How?, the answer is simpler ¡execute your enemy with an Unblockable movement!. 
+Notice that T4 has introduced smarter CPU´s in order to avoid the KG´s but for 
+some characters, these “bugs” (as one of the Namco dudes said in an interview) 
+works perfectly in Tekken4.
+
+Confused?. Don’t worry, and will explain in specific detail what these 1-2-3-4 
+Steps involve and how you can use them in your game’s benefit.
+
+-----------------------------------------------------------------------------
+
+       XXXXXXXXXXXX
+III).- PAUL PHOENIX
+       XXXXXXXXXXXX
+
+He is the first character in this FAQ because Paul was the source of my 
+inspiration to continue my “nutjob” (since T3 and TTT), after I played Tekken4 
+with the Phoenix and prove that some techniques of my Fast Time Killing Records 
+STILL work in this newest version of Namco’s King of Ironfist Tournament. Why 
+these “BUGS” weren’t removed in T4, well I have a couple of theories in mind 
+that you will be able to read in a special section of this paper.
+
+Yeah boys and girls, Paul is back in T4 and a good Tekken tradition ¡he is the 
+easiest player to start with!. I mean this based in two considerations: first 
+the game play of the King of Ironfist 4 demands that you have a reliable level 
+on managing the diagonals of your control. Lets remember that in Tekken Tag, 
+NAMCO first attempt to include the blocking down attacks (d/b) has an important 
+significance in terms to just don’t pull the joystick all the time (technique 
+sometimes called “turtle stance”). 
+
+
+///////////
+KJ for PAUL
+\\\\\\\\\\\
+
+Well, now it have became fundamental that you are a master in the crouching 
+diagonals (d/b_D/B) in order to avoid the low starting juggle start attack. So 
+remember Paul’s bitching kicking technique?. Yes, the infamous Falling Leaf 
+(d+4,2) combo attack comes back very useful again. The difference? You have to 
+be very close to your opponent to execute this movement, so the Elbow attack 
+becomes guaranteed. 
+
+Anyway, if you remember the Time Killing Records that I wrote for the Tekken3 
+and Tekken Tag versions I have good news for all you that wants to become 
+immortalize in the Time Records credits: ¡Paul still has some moves to kick ass 
+the CPU in Tekken4!. 
+
+Are you ready in toned-down the actually ridiculous record minutes?. Well, as a 
+fan fanatic of oldie Paul these secrets are revealed now:
+
+
+STEP-1)POSITION: One of the obvious differences in Tekken 4 is that before you 
+start a round  you can move freely in the screen but without any attack button.
+Anyway, here is the trick: before the referee yields “Round X … fight” you must 
+be in  the CROUCH  DOWN position (D/B). This means that you really must excel 
+your  diagonal  technique if you want to survive in the world of T4.
+
+
+STEP-2) KILLING JUGGLE (KJ) STARTER: Now that you are crouching down, you must 
+be really fast at the  beginning of  the round to execute the Thunder Palm 
+(WS+2), so recommend that  you move far  away before the match begins from the 
+CPU. This attack Juggles you  adversary  into the air and the most important 
+property of this is that you opponent floats in a Facing Down position. 
+
+
+STEP-3) JABS: Now it’s time to hit some jabs to your floating opponent (1_2). I 
+don’t recommend you hit too much to your adversary because this course of action 
+will tend to distance both characters, and believe me that this will work au 
+contraire to you (for example, I kwon some guys that after their enemy has being 
+juggle started, they tend to make automatically 3 or 4 jabs and the –for the 
+worst- the hit ´em  with a Deathfist. ¡Ridiculous for our purposes!.
+	
+
+STEP-4) FINISHING: It’s time the moment of true, but with Paul this is the 
+easiest part. After S-3 you just have to execute your enemy with the Unblockable 
+hit (b+1+2).  The name of this movement is called “Burning Death Fist” and in 
+this new version  of Tekken is still an insanely powerful attack. If you have 
+perform successfully  Steps one trough four the last think you will have to do 
+is take the last  remains of energy left from your opponent. In the particular 
+case, Paul’s  opponent will fly away (very away) from you, so to finish him 
+(her) once for all  you just have to run (f,f) and the sway (4) or jump towards 
+your “about to die” enemy.
+
+-----------------------------------------------------------------------------
+
+      XXXXXXXXXX
+IV).- YOSHIMITSU
+      XXXXXXXXXX
+
+He is a “Bug” itself … ¡so what!. He is back and now ¡He’s more mysterious that 
+ever!. The video showing Yoshi executing Paul’s Deathfist (QCF+2) opens and 
+interesting perspective of Yoshi´s new beating Time Records. I will keep you 
+informed about this strange movement in latest updates.
+
+
+STEP-1) POSITION: And advantage of Yoshimitsu at the beginning of the round is 
+that you can move backwards of your opponent simply by doing the Backflip 
+(u/b~b). By doing this sway away you can keep an interesting distance from you 
+and your opponent, specially when the CPU is obsessed to be nose-to-nose in 
+front you. 
+
+
+STEP-2) KILLING JUGGLE (KJ) STARTER: If you read my previous paper for TTT you 
+might know what the move is about. Remember, in Tekken 4 there is just one 
+special movement that can represent your victory from “GREAT!” or a sad but true 
+“You loose”. This movement is of course the Shrine Lift (SS+2), why? Simply 
+because when you connect this attack to your opponent they will get juggled just 
+as you wanted to be: floating in the air and facing the ground. 
+
+
+STEP-3) JABS: As we discussed previously, it’s imperative that you hit some jabs 
+(1_1) to your flying and helpless opponent in order that the CPU automatically 
+tech-rolls, so ¡do it!. One more thing, in T4 the inclusion of walls has made 
+the game more interesting, the borders can be your friends or they can a hideous 
+enemy in your strategy moves. So, for Yoshimitsu I recommend that you never try 
+to do this movement closer to the wall edges because your enemy will suddenly 
+tech-roll and be close to you to make any attack he (she) wants to. It’s vital 
+that you start these KG techniques at a middle distance from the end of each 
+stage, because Yoshi´s sword is very long.
+
+
+STEP-4) FINISHING: Ok, you have your opponent surrounded next to the wall, so 
+what now? ¡finish him!. Yes, the cherry at the top of this KG I to execute the 
+Sword Impale (b,b+1), which will drain the 90% of damage to your furious 
+opponent. Once again, you must notice in which stage you are fighting in, e.g. 
+if you are at the “Fight Club” stage, then you must consider that in this Stage 
+is really easy to get surrounded; but if what you want is space room, then the 
+“Airport” stage is your best choice to move freely and make your sword shine in 
+the sky.
+
+-----------------------------------------------------------------------------
+
+     XXXXXXXXXXXX
+V).- MARSHALL LAW
+     XXXXXXXXXXXX
+
+First at all, let me tell you that I am tired to repeat to the ignorant people 
+that says “Yaahh, look at Forrest Law, he looks thinner and oldie…”. Once for 
+all ¡it’s Forrest’s father and his name is MARSHALL!.
+
+His arms may be shorter than his son, but once clear that point let move to the 
+core of your attention, the “killing technique of Law”
+
+Step-1) POSITION: As you may be aware, you can move any direction before the 
+match begins (except that no button will work until you hear “fight”). So my 
+recommendation is that you move backwards to avoid an annoying CPU that tries to 
+get over you as quick as it can. Then move pull down backwards the joystick to 
+stay in the ducking Stance (D/B).
+
+
+
+Step-2) KILLING JUGGLE (KJ) STARTER: Law has quiet more opportunities to juggle 
+his opponent is a convenient way than other character. Let me start with a 
+similar KG Starter similar of his buddy Paul: use the Dragon Upper (WS+2) after 
+S-1 and rumble your opponent to the sky. An inconvenient of this KG Starter is 
+that it doesn’t place your enemy in the convenient “mid/air facing down 
+position”, so you must not expect a 100% of effectiveness every time your 
+perform this killing technique.
+
+An alternative KG Starter to the mentioned above, is to use the Junkyard Combo 
+(b+2,3,4). This attack represents of course a more difficulty to pull-off in 
+order to hit your opponent, because it’s just the third move that interest us, 
+Why? Simple because it contains the property that we were looking for: the 
+opponent’s Facing Down Position. 
+
+
+
+STEP-3) JABS: Now it’s time to make the CPU think that you are going to perform 
+it serial attacks while its in the middle of the air floating. So, in stead of 
+smashing your opponent, just hit one jab (1) or two jabs (1_2). Be careful of 
+the distance you want to be with your opponent, if your are close to the wall 
+you don’t want to connect 2 or more jabs. 
+
+
+
+
+
+STEP-4) FINISHING: At last, it’s time to unleash Marshall big punch: the Dragon 
+Fang (d/b+1+2).This Unblockable move is comparable as Paul Burning Death Fist 
+because it almost leaves your enemy at a flat linear point. Depending of your 
+choice in the Step-2 (S-2) your probabilities of connect this super hit to your 
+opponent will vary. So the most probable it’s that it will be connect an air/mid 
+Facing Down opponent. 
+
+One more thing, I know that sometimes it's hard to do S-4 because it needs to 
+press TWO buttons (1+2) at the same time making it a hard move to pull off 
+properly for beginners, so listen, an important difference about Tekken and 
+other games (like Street Fighter X-version) is that if you want to press more 
+than one button at the same time. You can  just press one button then HOLD that 
+button and press the other and so on; in  the previous example it means (1) –
+hold it-, (2) -hold it-, (3) -hold it-,and  finally press (4). This can become 
+very handful in many characters multimoves, and Heihachi its no exception: you 
+may noticed that sometimes Step-3 means connecting a couple of Jabs (button 1), 
+well ... which button you need for the next Unblockable move?, Yeah! The 
+(d/b+1+2)!, so if the buttons seemed to be very whacked out simple Jab the 
+floating opponent with Left Jabs (1_1) and HOLD the first button (1) and 
+immediately finish the Unblockable Dragon Fang (d/b+2).It will work perfectly 
+and without any whiff surprises!.
+
+-----------------------------------------------------------------------------
+
+XXXXXXXXXXXXXXXX 
+ACKNOWLEDGEMENTS 
+XXXXXXXXXXXXXXXX
+
+Well my friends, that's all for now ... but don't worry I will update this FAQ 
+with other interesting characters like: Steve Fox, Jin Kazama, Heihachi Mishima 
+and other interesting competitors.
+
+
+About the last epilogue in Tekken Tag Tournament: 
+WILL THE FOLKS OF NAMCO ELIMINATE THESE “BUGS” IN TEKKEN 4 ???
+
+I have an answer for this million question: No. First at all, the techniques 
+presented in this article cannot be considered as “bugs” because this words 
+means “malfunction”. IF you have read carefully this text you may noticed that 
+in certain occasions the CPU tends to wake up (tech-roll) as soon as it hits the 
+floor ... ¡just as some nervous dudes I know!. Well, technically it can happened 
+as a machine as an intelligent human being. 
+
+But, for my satisfaction I can say that I KNOW that some people of NAMCO have 
+read my last paper, How do I know? Simple because most of the Killing Juggle 
+Techniques that worked beautifully in the previous Tekken series, now are gone 
+for good and just a few remain intact. 
+
+Anyway, I think that in Tekken Tag Tournament 2 (yes, TWO ... ¡just imagine the 
+possibilities!), we’ll still discussing this issue. 
+
+
+I would also like to salute some good friends of mine: my brother Franz and of 
+course my Mom Gladys Martha for being so supportive all the time, my "compadre" 
+
+Luchin (LFSG) with which we started to enjoy the Tekken games playing thousands 
+and thousands of hours with the PSX at home; my "padawan" learner Jusseff and 
+his family; and finally to all the Tekken Players here in La Paz (Vladi, Andres, 
+Ariel, Felix, and all the guys at the Arcades) ... This one goes for you boys!
+
+
+Well, for the moment that's all. Thank you very much for reading this essay and 
+if you have any suggestions, comments, questions or some interesting stuff about 
+this subject, please FEEL FREE TO E-MAIL ME AT:
+
+<webmaster@ivan-mercado.8m.com>
+<imercadol@hotmail.com>
+
+And don't worry, if your stuff is useful for a KG Technique you will gain all 
+the credits in the Acknowledgements as my gratitude for contributing in the 
+development of this FAQ.
+
+
+
+I wish you all the best luck and skillful techniques in beating everybody's 
+records, and as my own favorite proverb says:
+
+"Information is power ... but the REAL POWER becomes after several practice from 
+this Knowledge". Don't you think so?
+
+
+
+Your BOLIVIAN friend 
+Ivan Alex Mercado 
+(IAM)
+  
+
+"Good fight and ..." ¡you know the end of this sentence!.
+
+
+
+
+------------------------------------------------------------------------------
+
+
+This Electronically Published Document is copyrighted (C) and trademarked (TM) 
+by Ivan Alex Mercado Lorberg.  All Rights Reserved.  This document is protected 
+by applicable copyright laws and International treaties.  Unauthorized 
+reproduction, retransmission, and/or a breach of copyright, partial or full, may 
+result in civil and criminal penalties and is subject to maximum punishment and 
+prosecution to the highest extent possible by law.  Please properly credit Ivan 
+Alex Mercado (IAM) where credit is due.  
+
+
+
+IAM´s: TIME KILLING RECORDS 
+FAQ Written by: Ph.D. Ivan Alex Mercado Lorberg 
+<webmaster@ivan-mercado.8m.com>
+<imercadol@hotmail.com>
+Copyright (c) 2001. All Rights Reserved.
+
+
+You can find the latest version of this FAQ at the following URL's: 
+http://www.tekkenzaibatsu.com
+http://www.catlord.com
+http://www.gamesdomain.com
+http://www.gameadvice.com
+
+
+(John 3:16)
+(Isaiah 53:5-6)
+(Apocalypses 22:18-19)
+
+
+------------------------------------------------------------------------------
+
+

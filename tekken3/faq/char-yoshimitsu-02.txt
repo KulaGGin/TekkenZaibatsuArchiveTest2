@@ -1,0 +1,2429 @@
+==============================================================================
+= :::::::::::: The Yoshimitsu Manual :::::::: Revision 0.5 ::::::::::::::::: =
+==============================================================================
+       _____.___.            .__    .__        .__  __
+       \__  |   | ____  _____|  |__ |__| _____ |__|/  |_ ________ __
+  The   /   |   |/  _ \/  ___/  |  \|  |/     \|  \   __Y  ___/  |  \
+        \____   (  <_> )___ \|   Y  \  |  Y Y  \  ||  | \___ \|  |  / Manual
+        / ______|\____/____  >___|  /__|__|_|  /__||__|/____  >____/
+        \/                 \/     \/         \/             \/
+
+==============================================================================
+= :::::::::::::: By Ben Cureton ::::::::: (tragic@tekken.net) :::::::::::::: =
+==============================================================================
+
+ |     ..........  This file MUST be viewed in a monospace typeface!!!    |
+ |     1234567890     "Courier New" is recommended by the author.         |
+
+This guide is for the Tekken 3 community. It is also meant to be free. You may
+distribute this guide at your leisure, so long as you leave the content intact
+and receive no monetary compensation for it. All text, strategies, and other
+non-official information contained in this guide regarding Tekken 3 and/or
+Yoshimitsu are (C) 1997, 1998 Ben Cureton. Do not steal the information
+contained in this guide or attempt to reword it. Doing so will result in your
+FAQ/Guide being boycotted by TEKKEN.NET along with all other Tekken 3/Video
+Game related sites affiliated with it. Lately, a lot of FAQs/Movelists/Guides
+have been ripped/reworded/redistributed (especially by magazines). Suggestion:
+don't do it. It only makes you look like a moron.
+
+==============================================================================
+= ::::::::::::::::::::::::::: Table of Contents :::::::::::::::::::::::::::: =
+==============================================================================
+
+[i]  Legal
+
+[1]  Prologue
+[2]  Conventions
+       - Commands
+       - Abbreviations
+       - Throws
+       - Comments
+       - Levels
+       - Damage
+[3]  Introduction to Yoshimitsu
+       - Strengths
+       - Weaknesses
+       - General Play Style
+[4]  Yoshimitsu Basics
+       - The Basic Uppercut
+       - The Art of the Unblockable
+[5]  Original Arts (Movelist)
+       - Special Attacks
+       - Throws
+       - Strings
+[6]  Descriptions
+       - Special Attacks
+       - Throws
+       - Strings
+[7]  Combos
+       - Juggling Basics
+       - Unconventional Juggling
+       - Combo List
+[8]  Basic Strategy
+       - Defense
+       - Positioning
+       - Throwing
+[9]  Advanced Strategy
+       - Custom Strings
+       - Buffering Chickens
+       - Yoshimitsu's Oki-zeme
+       - The Keep-Away Game
+       - Tricks of the Trade
+       - Controlling the Game
+[10] The Total Package
+       - Defensive vs Offensive
+       - Taking Risks
+[11] Epilogue
+[12] Useless Info
+       - Yoshimitsu's Story
+       - Biography
+       - Outfits
+       - Pre-Fight/Winning Stances
+[13] Credits
+
+
+==============================================================================
+= [1] :::::::::::::::::::::::::::: Prologue :::::::::::::::::::::::::::::::: =
+==============================================================================
+
+With the success of Slikatel's (Robert Brassfield) excellent Jin Kazama Guide,
+I was compelled to write something similar for Yoshimitsu. This guide is meant
+for all Yoshimitsu players, seasoned or not. Its purpose: to provide you, the
+player, with as much information as possible on Yoshimitsu. As with Slikatel's
+Guide, this guide is geared toward mid to high level play. It does not contain
+tactics for beating the CPU characters, nor beating the game in record time.
+It does, however, contain new ways to use old moves, and many different
+tactics and styles of play. All of the strategy in this guide has been
+play-tested many times against many different opponents. I feel it is one of
+the most comprehensive guides concerning Yoshimitsu and I hope all readers get
+something out of it. Enough rambling... let's get to it!
+
+
+==============================================================================
+= [2] :::::::::::::::::::::::::: Conventions ::::::::::::::::::::::::::::::: =
+==============================================================================
+
+-Command-
+
+f -  tap forward      F -  hold forward
+b -  tap back         B -  hold back
+u -  tap up           U -  hold up
+d -  tap down         D -  hold down
+
+d/f - tap down and forward       D/F - hold down and forward
+d/b - tap down and back          D/B - hold down and back
+u/f - tap up and forward         U/F - hold up and forward
+u/b - tap up and back          U/B - hold up and back
+
+QCT - quarter circle toward  (d,d/f,f)
+QCB - quarter circle back    (d,d/b,b)
+
+ left punch = 1  (O) (O)  2 = right punch
+
+  left kick = 3  (O) (O)  4 = right kick
+
+
+-Abbreviations-
+
+FC    - full crouch (must be in full crouching animation)
+N     - neutral (no direction pressed on the joystick)
+WS    - while rising from a crouch
+SS    - side step
++     - do moves on either side of + together
+~     - immediately followed by...
+[ _ ] - you have a choice of which way to continue the move
+=     - next part of sequence
+-     - N/A
+BK    - back towards opponent
+ANY   - any button
+ALL   - 1+2+3+4
+@     - guard point in string, hit can be blocked if previous hit connected
+<     - moves on either side of < can be slightly delayed
+
+
+-Throws-
+
+f-throw  - will only throw standing opponents from the front
+b-throw  - will only throw standing opponents from behind
+rs-throw - will only throw opponents from the right side
+ls-throw - will only throw opponents from the left side
+
+
+-Comments-
+
+BK  - this move recovers with back towards opponent
+JG  - this move, or one of the moves in the string, juggles opponent
+RC  - recovers crouching (you may go into any WS after indicated move)
+OB  - if unguarded against, this move forces opponents back towards you
+DY  - this move damages your character
+GS  - Guard Stun (opponents guard is broken for a short time)
+CS  - Crumple Stun (opponent crumples over when hit)
+TS  - Turn Stun (move turns opponent sideways if guarded correctly) 
+CH  - move must be a counter hit
+
+
+-Levels-
+
+l - move hits low range                        (D/B to block)
+m - move hits mid range                        (B to block)
+h - move hits high range                       (B to block)
+L - move hits low range and downed opponents   (D/B to block)
+M - move hits mid range and downed opponents   (B to block)
+H - move hits high range and downed opponents  (B to block)
+! - move is unblockable
+{!} - move is unblockable and hits downed opponents
+
+
+-Damage-
+
+Damage is based on a point system. Each energy bar has 140 points of energy by
+default. Each number under the "Damage" category signifies how much energy 
+will be subtracted from the opponents energy bar if it connects. (Energy bar
+settings may be set differently in your local arcade.) VS MODE ONLY
+
+
+==============================================================================
+= [3] ::::::::::::::::::: Introduction to Yoshimitsu ::::::::::::::::::::::: =
+==============================================================================
+
+Yoshimitsu is arguably one of the most potent characters in Tekken 3. However,
+he is also one of the more difficult characters to play effectively. Yoshi is
+an excellent mix of power/speed/cunning and can be almost unstoppable in the
+hands of a master. In the wrong hands, Yoshi is nothing more than +1 on a win
+streak. A good Yoshi player can juggle as well as he/she pokes. With Yoshi, if
+you don't have the all around game down, you will have a tough time against
+even average opponents. Read this guide a few times, soak up as much of it as
+you can, then head to the arcade and practice. Yoshi is 95% execution, and 5%
+luck (IMHO).
+
+
+-Strengths-
+
+Yoshi's main strength comes from his ease of juggling. He has the best basic
+Uppercut (d/f+2) in the game. He also can juggle from his Kangaroo Kick (4~3),
+his Rising Uppercut (WS+2), and his Lunging Sweep (FC,d/f+3). Each of these
+starters has great recovery time, and some awesome follow-up juggles. A good
+Yoshi player will know when and where to use each of these starters, as well
+as have a good repertoire of follow-up juggles when one connects.
+
+Another one of Yoshi's strengths is his ability to keep an opponent blocking
+for long stretches of time. His basic Standing Jab (1) is arguably the fastest
+move in the game, and can be used to pester opponents by repeatedly poking
+them in the face. Mixed in with well placed Side Kicks (d/f+4), basic Low
+Punches (d+1), Rising Front Kicks (WS+4), and basic Uppercuts (d/f+2), Yoshi
+can keep a hesitant opponent blocking, and force them to attack at the wrong
+times as well. These tactics "poking" will be described at length later in the
+guide.
+
+Unblockables. Yoshimitsu has the BEST arsenal of unblockable attacks in the
+game. He has aerial unblockables, damage-trading unblockables, forward rushing
+unblockables, rising unblockables... the list goes on. The most important of
+all Yoshi unblockables is the Bad Breath (b,b+1+2,ANY). Not only is it a quick
+unblockable, it is also unduckable, uncounterable, it lingers, and last but
+not least... you can combo out of it. Not bad if you ask me.
+
+The last major strength of Yoshi is his ability to gain his health back. What
+more can you ask for? A competent Yoshi player will gain life back whenever an
+opportunity arises. Sometimes having 10 health left instead of 8 can be the
+difference between winning and losing.
+
+
+-Weaknesses-
+
+Of course every character has some form of weaknesses, and Yoshimitsu is no
+exception. I think his main weakness is the absence of a side game. This means
+he has no really good side stepping attacks. Yoshi does have some great side
+throws, but he really has no decent side stepping attacks like some of the
+other characters.
+
+Another weakness is his lack of special throws. I know this isn't a major
+disadvantage, but in high level play, good players go for the special throws,
+which are usually harder to escape. Now... since Yoshi only has one special
+throw (Rainbow Drop QCB+1+2), anti-Yoshi players will have no problem escaping
+it when they know it's coming.
+
+Besides those two weaknesses, the only other problem with Yoshi I can think of
+is that he is a very skill-orientated character. To me, this means that he
+takes a lot more practice/patience to achieve high level playing capability
+than say, Paul or Law. Like Slikatel pointed out, and most of us already know,
+Paul and Law can win at an average level with just a few basic moves. They
+both have high damage/quick recovery moves which are semi-easy to execute. I
+do, however, feel that these characters can be played on a higher level, with
+great strategy and tactics, but I feel that on the beginner/average level, the
+Paul/Law players will come out ahead.
+
+
+-General Play Style-
+
+In my opinion, I think Yoshimitsu (as well as most of the Tekken 3 characters)
+is more effective on the attack. He excels at juggling and poking, which are
+two major assets in Tekken 3. With the addition of Reversal Reversals (a.k.a.
+"chickens") a well played Yoshi can attack constantly, with little regard for
+an opponents retaliation. Now I don't mean you can just forget your opponent
+is there and just attack without cause. What I do mean, is that with a well
+planned attack, you can keep players blocking as you come up with your next
+set of moves. This is effective because, while you are attacking, the person
+you are attacking is worried about taking damage, thus concentrating on your
+attacks, looking for an opening in which to attack back when possible. You, on
+the other hand, are pelting your opponent with simple attacks i.e. Jab, Side
+Kick, Low Punch. This doesn't require strenuous thinking on your part, letting
+you think of what to do next. This is a great advantage as I am sure you can
+already imagine.
+
+Even though Yoshimitsu is an offensive character, you still need an effective
+defense to stop people from doing the same to you. Well-timed Low Punches
+(d+1) and Rising Front Kicks (WS+4) can keep almost anyone at bay. More risky
+moves, such as the Kangaroo Kick (4~3) are also very effective for defensive
+purposes, but must be used at the correct times. These opportunities will be
+discussed later in the strategy section. Skilled Yoshimitsu players will be on
+the attack, even when they are on the retreat. What I mean is: if you need to
+get away from pokers, instead of dashing back, attack them with a fast Low
+Punch (d+1) and start your attacking patterns. This way, you can immediately
+put Yoshimitsu back into the area he is best at... attacking.
+
+
+==============================================================================
+= [4] ::::::::::::::::::::::::: Yoshimitsu Basics :::::::::::::::::::::::::: =
+==============================================================================
+
+There are two main basics concerning Yoshimitsu. One is the Basic Uppercut and
+the other is his Unblockable arsenal. Any great Yoshi player will have these
+two basics mastered. When I say "basics" I mean part of the foundation of his
+strength. Both the Uppercut and the Unblockable arsenal are vital to a high
+level Yoshi player.
+
+
+-The Basic Uppercut-
+
+For some reason, Yoshimitsu's Basic Uppercut (d/f+2) is different than every
+other character's Basic Uppercut. Fortunately, it is also better than all the
+others as well. It has an extended range because of a built in mini-step. When
+the uppercut is performed, Yoshi puts his whole body into the uppercut, which
+actually makes him step forward a short distance, as well as duck a tiny bit.
+The Basic Uppercut is undoubtedly Yoshimitsu's most useful juggle starter, as
+well as an excellent addition of a well tuned poking pattern. When used at the
+correct times, you can effectively use uppercut, along with its built in mini
+step/duck to attack underneath opponents high attacks. Another reason the
+uppercut is listed as one of the Yoshimitsu staple attacks is because of its
+ease of use. The only problem is, that if you are playing on bad joysticks,
+your Yoshimitsu play can really suffer. It's really no good when each time you
+try an uppercut, you get a Backhand (f+2) instead. At any rate, make sure you
+can get your Basic Uppercut out when you need it. In my opinion, it's THE most
+important move Yoshimitsu possesses. 
+
+
+-The Art of the Unblockable-
+
+Yoshimitsu has some of the best attacks in the game, and the fact that many of
+them are completely unblockable makes them even better. Seasoned Yoshimitsu
+players should have uses for all of his unblockables. The Sword Slice (d/b+1)
+is one of Yoshi's most useful unblockables. It's extremely fast, and can hit
+opponents who are on the ground. Another is the Bad Breath (b,b+1+2,ANY). As
+described above, it's probably one of the best moves in the entire game. Yoshi
+has nearly twenty different versions of unblockables (depending on how you
+count them) making him one of the deadliest characters around. Knowing when to
+use each of the unblockables is very important. Even the Sword Impale (b,b+1)
+has a use, making sure you know it is smart, not only to better your game, but
+to know how to avoid it as well.
+
+
+==============================================================================
+= [5] ::::::::::::::::::::::::::: Original Arts :::::::::::::::::::::::::::: =
+==============================================================================
+
+::Special Conventions::
+
+SDP - Sword Debate Position
+
+-Special Arts-
+
+Move Name              Command            Lev.    Damage             Com.
+
+Punch-Uppercut         1,2                hm      5,8
+Punch-Double Uppercut  1,2,1              hmm     5,8,6
+PK Combo               2,3                hh      12,21
+PDK Combo              2,d+3              hL      12,8               RC
+Zig-Zag                3,4                hm      30,30
+Kangaroo Kick          4~3                m       30                 JG
+Triple Roundhouses     4,4,4              hhh     20,20,21           TS
+Backhand               f+2                h       12                 OB #1
+Ninja Blade Rush       f,f+2              m       18
+Ninja Blade Slice      f,f+2              m       18                 CH
+  = Sit                  = d+3+4          -       -
+Knee Bash              f,f+4              m       20
+Dive Bomb              f,f+1+2            m       40                 BK
+Shark Attack Combo     f,f+3+4,1+2,3+4    Mmm     40,40,30           JG
+Stone Fists            B+1,1,1,1,1,1      hhhhhh  10,10,10,10,10,10  #2 #3
+Uppercut-Backhand      d/f+1,2            mh      15-12              OB #1
+Door Knocker           d/f+1<1<1<1        mhhm    15,12,12,18        GS
+Basic Uppercut         d/f+2              m       13                 JG
+Side Kick              d/f+4              m       19
+Stone Backhands        D/B+2,2,2,2,2,2    mmmmmm  10,10,12,12,14,15  RC #3
+Spinning Low Kicks     D/B+3,3,3,3,3      lllll   12,7,7,5,5         RC #3
+  = Front Kick           = f+4            m       12                 #4
+Sword Debate Position  SS+3+4             -       -                  SDP
+Jumping Twist Foot     [u/b_u_u/f]+4      m       25
+Lunging Sweep          FC,d/f+3           L       12                 RC
+Sit                    d+3+4              -       -
+Gain Life              d+3+4,N            -       +5(each bounce)
+Teleport               d+3+4[b_f]         -       -                  #5
+Meditate               d+3+4,D            -       -
+Feint Stone Backhands  d+3+4,2,2,2,2,2    mmmmm   10,12,12,14,15     RC #3
+Feint Kangaroo Kick    d+3+4,4            m       30                 JG
+Sit-Stand Up           d+3+4,U            -       -
+Spinning Evade         b+3+4 (up to 6x)   -       -8 each spin       DY
+Low Parry              [d_d/b]+[1+3_2+4]  -       -
+Poison Wind            u/f+3+4            M       10
+Poison Rush            u/f+3+4,b+1        Mh      10,2
+Poison Typhoon         u/f+3+4,b+1,3+4    MhM     10,2,20
+Poison Hurricane       u/f+3+4,b+1,4      MhM     10,2,15
+  = Delay Sword          = D/B            -       -
+    = Sword Slice        = N              {!}     (varies)           #6
+Sword Slice            d/b+1              {!}     10
+  = Delay Sword          = ~N,D/B         -       -
+    = Sword Slice          = N            {!}     (varies)           #6
+Sword Impale           b,b+1              !       90
+Spinning Sword         b,b+1~1            !       30
+  = Spin Cancel          = b,b            -       -
+Sword Sweep            FC,d/b,b+1         !       20
+Helicopter Leap        U/F+1+2            {!}     25/30/40
+Heli Quick Down Slash  U/F+1+2~d          {!}     25/25/40
+Reverse Helicopter     U/F+1+2,B          {!}     35
+Standing Suicide       d+1+4              !       60(-60 to you)     DY
+  = Spinning Suicide   B+1,1,1...         !       3(-3 to you)       DY
+Fake Turning Suicide   f,f+1+4,N          -       -                  BK
+Turning Suicide        f,F+1+4            !       100(-100 to you)   DY
+  = Second Stab          = f,f            !       100(-100 to you)   DY
+Sword Pogo             u+1+2              {!}     30
+  = Pogo Rush          [b,b_f,f]          {!}     25
+  = Pogo Hop           [u/b_u_u/f]        {!}     15/15/15
+  = Kangaroo Kick      3+4                m       30                 JG
+Death Pose             B+1+2              -       -
+  = Bad Breath         ANY                !       30                 CS
+Wood Chopper           f,f+3,1            m{!}    20,18
+Double Front Slice     QCF+1              !{!}    15,28
+Sword Counter          B+1+4              !       35                 CS
+Backflip               u/b                -       -
+
+#1: can link directly into the Stone Backhands
+#2: can chain into Spinning Low Kicks after one or more Spinning Stone Fists.
+#3: after any spin series ending with a backhand after 6 consecutive spins,
+    Yoshi will become dizzy and fall over. after any spin series ending with
+    a low spinning sweep after 5 consecutive spins, Yoshi will become dizzy
+    and fall over.
+#4: can only go into Front Kick after two or more Spinning Low Kicks.
+#5: if opponent is close when Yoshimitsu teleports, he will appear behind
+    directly behind them. if Yoshi was more than 3 character lengths away,
+    he will teleport to the same location he was sitting in, but face his
+    back towards opponent.
+#6: after 6 1/2 hops, Delayed Sword Slice will do 100% damage.
+
+
+-Throws-
+
+Throw Name           Command             Position   Damage     Escape
+
+Jumping Body Slam    1+3                 f-throw     30        1
+Jaw Smash            2+4                 f-throw     30        2
+Rainbow Drop         QCB+1+2             f-throw     50        1+2
+Life Siphon          SDP [1+4_2+3]       f-throw     varies    -
+Live Give            SDP [F+1+4_F+2+3]   f-throw     varies    -
+Tornado Drop         [1+3 or 2+4]        b-throw     70        -
+Flying Cartwheel     [1+3 or 2+4]        ls-throw    15-25     1
+Clonimitsu (heh)     [1+3 or 2+4]        rs-throw    15-25     2
+
+
+-Strings-
+
+          ::Command Flowchart::                          ::Statistics::
+ _______________________________________        _____________________________
+|_1_|_2_|_3_|_4_|_5_|_6_|_7_|_8_|_9_|_10|      |_1|_2|_3|_4|_5|_6|_7|_8|_9|10|
+                 _______________________
+                |   |   |   |   |   |   |
+                | 2 | 2 | 2 | 4 @ 1 | 1 |  Lev:              m  m  m  m {!}{!}
+                |___|___|___|___|___|___|  Dam:              3  3  3  7  8 30
+               ___|
+ _____________|_________________________   -----------------------------------
+|   |   |   |   |   |   |   |   |   |   |
+| 1 | 2 | 1 @ 4 @ 4 @ 4 | 1 | 1 | 1 | 1 |  Lev:  h  m  m  h  h  L  m {!}{!} !
+|___|___|___|___|___|___|___|___|___|___|  Dam:  5  8  6  9  9  5  5  8  8 30
+               ___|       |___
+ _____________|_____         _|_           -----------------------------------
+|   |   |   |   |   |       |   |
+| 4 @ 4 | 2 | 2 | 1 |       @ 4 |          Lev:  h  h  m  h  !        M
+|___|___|___|___|___|       |___|          Dam: 20 20  5  6 30       25
+ _______________________________________        _____________________________
+|_1_|_2_|_3_|_4_|_5_|_6_|_7_|_8_|_9_|_10|      |_1|_2|_3|_4|_5|_6|_7|_8|_9|10|
+
+
+-Basic Move Frame Info-
+
+Ex = Execution / Grd = Advantage if opponent guards
+Hit = Advantage if hits opponent / Cnt = advantage if hits on counter hit (CH)
++ = your advantage / - = opponents advantage
+D = knocks opponent down
+ __________________________________________________________________________
+|      1       |      F+1     |      2       |      F+2     |      3       |
+|______________|______________|______________|______________|______________|
+|  |   |   |   |  |   |   |   |  |   |   |   |  |   |   |   |  |   |   |   |
+|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|
+|__|___|___|___|__|___|___|___|__|___|___|___|__|___|___|___|__|___|___|___|
+| 8| +2| +7|+11|10| +3| +7|+12|10| 0 |  +6   |17|-13|  +17  |16|-17|   D   |
+|__|___|___|___|__|___|___|___|__|___|_______|__|___|_______|__|___|_______|
+
+ __________________________________________________________________________
+|      F+3     |      4       |      F+4     |     FC 1     |      d+1     |
+|______________|______________|______________|______________|______________|
+|  |   |   |   |  |   |   |   |  |   |   |   |  |   |   |   |  |   |   |   |
+|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|
+|__|___|___|___|__|___|___|___|__|___|___|___|__|___|___|___|__|___|___|___|
+|16|-19|   D   |14|-14|  -3   |14|-14| -5| D | 8| -2|  +9   | 8| -2|  +9   |
+|__|___|_______|__|___|_______|__|___|___|___|__|___|_______|__|___|_______|
+
+ __________________________________________________________________________
+|     FC 2     |      d+2     |     FC 3     |      d+3     |     FC 4     |
+|______________|______________|______________|______________|______________|
+|  |   |   |   |  |   |   |   |  |   |   |   |  |   |   |   |  |   |   |   |
+|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|
+|__|___|___|___|__|___|___|___|__|___|___|___|__|___|___|___|__|___|___|___|
+|10| -2|  +9   |10| -2|  +9   |16|-17|  -3   |16|-17|  -3   |12| -8|  +3   |
+|__|___|_______|__|___|_______|__|___|_______|__|___|_______|__|___|_______|
+
+ __________________________________________________________________________
+|      d+4     |     WS+1     |     WS+2     |     WS+3     |     WS+4     |
+|______________|______________|______________|______________|______________|
+|  |   |   |   |  |   |   |   |  |   |   |   |  |   |   |   |  |   |   |   |
+|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|
+|__|___|___|___|__|___|___|___|__|___|___|___|__|___|___|___|__|___|___|___|
+|12| -8|  +3   |12| -2|  +9   |15| -7|   D   |16|-16|   D   |11| -6|  +5   |
+|__|___|_______|__|___|_______|__|___|_______|__|___|_______|__|___|_______|
+
+ __________________________________________________________________________
+|     d/f+1    |     d/f+2    |     d/f+3    |     d/f+4    |     u/f+4    |
+|______________|______________|______________|______________|______________|
+|  |   |   |   |  |   |   |   |  |   |   |   |  |   |   |   |  |   |   |   |
+|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|Ex|Grd|Hit|Cnt|
+|__|___|___|___|__|___|___|___|__|___|___|___|__|___|___|___|__|___|___|___|
+|14|-10|  +1   |16| -1|   D   |16| -9|  +2   |12| -7|  +4   | ?|  ?|   D   |
+|__|___|_______|__|___|_______|__|___|_______|__|___|_______|__|___|_______|
+
+
+==============================================================================
+= [6] :::::::::::::::::::::::::::: Descriptions :::::::::::::::::::::::::::: =
+==============================================================================
+
+This section breaks down each individual moves, coverings its strengths and
+weaknesses, as well as its usefulness. Each move is graded on a scale of 1 to
+5 indicated by *'s with 5 being the most useful. Each move will also have any
+special attributes listed as well. Below is the explanation of the rating
+system:
+
+*      - one of Yoshi's least useful moves, very specific uses, hardly used
+**     - below Yoshi standards, semi useful in certain situations
+***    - standard Yoshi move, decent uses, not bad, not great
+****   - above average Yoshi move, great uses, and versatile
+*****  - definitely one of Yoshi's best moves, tons of uses, a main attack
+
+
+------------------------------------------------------------------------------
+-Special Attacks-
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Basic Punch            1                   *****          N/A
+
+The Basic Punch is really not an official move, but rather the first attack in
+a string of attacks. The reason I gave it it's own section is because it is
+one of the most essential moves in any Yoshi players arsenal. It is probably
+the fastest move in the game, and has tons of uses. The most important use of
+all, is to poke. The Basic Punch comes out very quick, and also retracts fast
+as well. This is great for chipping away at opponent's health, and also great
+for keeping them on defense. Another excellent use for the Basic Punch is for
+filling combos. What I mean is: since the move is so fast, you can knock your
+opponent up with a juggle starter, then tack on a few Basic Punches before you
+end the combo with a finisher.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Punch-Uppercut         1,2                 ***            N/A
+
+The Punch-Uppercut is another non-official move, but again a set of attacks
+that are actually part of a string. The reason it also has its own section is
+because it is an useful extension of the Basic Punch. Since many players get
+wise to constant poking tactics, and begin to crouch under the Basic Punch,
+the Punch-Uppercut is used for hitting them in their crouch. Another good use
+for the Punch-Uppercut is to add some distance between Yoshi and his blocking
+opponent. Great for setting up Side Kicks.
+
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Punch-Double Uppercut  1,2,1               ***            N/A
+
+The Punch Double Uppercut is one more non-official move. It is best used to
+push blocking opponents even further back. It's also great for inducing a
+Reversal, which can then be easily Chickened (Reversal Reversal). 
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+PK Combo               2,3                 ***            N/A
+
+The PK Combo is excellent for pushing blocking opponents back. Many times, an
+opponent will try to attack in-between the punch and kick and end up taking a
+foot to the face. Also, since both hits are guaranteed to connect if the punch
+connects on CH it is a great for interrupting attacks. The drawback of this
+move is the fact that both hits are high. This means they can easily be ducked
+if your opponent knows what to expect. Also, the kick retracts semi-slow, thus
+giving your opponent to retaliate with a quick attack.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+PDK Combo              2,d+3               ***            RC
+
+The PDK Combo is another useful move for pushing opponents back. Like the PK
+Combo, both hits are also guaranteed on CH. I like it because the second hit
+attacks low, preventing opponents from ducking and retaliating. It's best used
+when the opponent is low on health. This is when they are trying to block all
+incoming attacks and tend to miss the low block.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Zig-Zag                3,4                 **             N/A
+
+The Zig-Zag is a semi-useful Yoshi attack. It has a big delay in between both
+kicks, which make for an interesting mix of Pro/Con. It is good to use when
+playing against a defensive player, since they will usually try to block both
+kicks, and even Reverse the second kick if their character has one. The main
+drawback is that an offensive player will know to rush in-between the kicks
+and punish Yoshi. I find it best to use the Zig-Zag to induce reversals and
+trick opponents getting up off the floor, into the second kick. Sometimes when
+an opponent sees you whiff a standing kick, they will attempt to get up with a
+rising attack, thus standing them up into the second hit of the Zig-Zag.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Kangaroo Kick          4~3                 ****           JG
+
+The Kangaroo Kick is one of Yoshimitsu's intimidation moves. Almost every good
+Tekken player knows that if they get hit with a Kangaroo Kick, they can kiss
+65+ health goodbye. It is his strongest juggle starter, and opponents are very
+timid towards trying to reverse/interrupt it because they know if they miss it
+they are gone. The best use for the Kangaroo Kick is when your opponent is in
+the middle of a string of high attacks. This way, Yoshi will crouch underneath
+their attacks, and kick them up. Another good time to use it is when you see
+your opponent starting a slow-executed Unblockable i.e. Paul's Burning Fist. A
+well skilled Yoshi player can run up and execute this move before the Burning
+Fist comes out, thus resulting in a huge damage juggle.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Triple Roundhouses     4,4,4               *              N/A
+
+The Triple Roundhouses are arguably one of Yoshimitsu's worst moves. All three
+kicks hit high, and can easily be ducked under. This is even a bigger problem
+when you opponent knows to use a Rising Uppercut as a retaliation. When I use
+this move, I really only use the first two kicks. This is because it is one of
+Yoshimitsu's string starters. In high level play, I suggest you stay away from
+this move.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Backhand               f+2                 ***            OB
+
+The Backhand is more of a retaliation move, than a main attack. It's best to
+use after you opponent missed a slow-recovery move. That way it's guaranteed
+to force the opponent to turn around, thus giving you a huge advantage. The
+drawback of the Backhand is that it his high, and can easily be ducked under.
+It also retracts slow and can be punished by a quick attack.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Uppercut-Backhand      d/f+1,2             ***            OB
+
+The Uppercut-Backhand is a useful move for pushing opponents away as well as
+tricking them into taking a Backhand in the face. It's probably best used when
+you mix it in-between a flurry of Basic Punches, because a wise opponent will
+start to crouch underneath the punches. The first hit of the Uppercut-Backhand
+hits mid, so it will damage the crouching opponent.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Door Knocker           d/f+1,1,1,1         ****           DL
+
+The Door Knocker is a great move to lure your opponent into taking damage. If
+you effectively mix up the Door Knocker with delays into your poking attack
+patterns, you can basically trick your opponent into trying to attack, which,
+in turn, gives you the advantage. Since the first and last hits of the Door
+Knocker hit mid, it's excellent for hitting crouching opponents.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Basic Uppercut         d/f+2               *****          JG
+
+This is another non-official move, but needs a special section because it is
+probably Yoshimitsu's best move all around. The Basic Uppercut has already
+been explained in the Yoshimitsu Basics Section, so I will just use the same
+explanation.
+
+"When the uppercut is performed, Yoshi puts his whole body into the uppercut,
+which actually makes him step forward a short distance, as well as duck a tiny
+bit. The Basic Uppercut is undoubtedly Yoshi's most useful juggle starter, as
+well as an excellent addition of a well tuned poking pattern. When used at the
+correct times, you can effectively use uppercut, along with its built in mini
+step/duck to attack underneath opponents high attacks. Another reason the
+uppercut is listed as one of the Yoshimitsu staple attacks is because of its
+ease of use. The only problem is, that if you are playing on bad joysticks,
+your Yoshimitsu play can really suffer. It's really no good when each time you
+try an uppercut, you get a Backhand (f+2) instead. At any rate, make sure you
+can get your Basic Uppercut out when you need it. In my opinion, it's THE most
+important move Yoshimitsu possesses."
+
+All great Yoshimitsu players know when and where to use the Basic Uppercut. In
+addition to knowing when to use it, you should also know how to keep it safe
+from Reversals. Make sure you always buffer a Chicken (f+2+4).
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Side Kick              d/f+4               *****          N/A
+
+The Side Kick is another staple Yoshimitsu move. It has the best range of any
+Yoshi moves, and is great for keeping opponents at bay. In addition to its
+range, it comes out incredibly quick, and retracts as fast. This makes it one
+of the most potent weapons of all Tekken 3 moves. I find that it is best used
+within a sound poking pattern, as the extra range can reach opponents you have
+already pushed back. I also use it to finish long-range juggles, it eludes
+kind of a "in your face" attitude.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Ninja Blade Rush       f,f+2               ***            N/A
+
+The Ninja Blade Rush is one move that is overlooked by many Yoshi players. It
+comes out very quick, moves Yoshi closer to his opponent, and has acceptable
+recovery time. You can also substitute the Ninja Blade Rush for the Knee Bash
+when finishing combos. It hits a bit lower, so sometimes it's wiser to use it
+instead. Just remember it does 2 point less damage.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Ninja Blade Slice      f,f+2               ***            CH
+
+The Ninja Blade Slice is performed exactly like the Ninja Blade Rush. The only
+difference is, that if the Ninja Blade Rush hits an opponent on CH, it becomes
+the Ninja Blade Slice. Yoshimitsu pulls out his sword and runs to the side of
+his opponent, slicing them in the midsection. This is one of Yoshimitsu's best
+looking moves, and works well with the Chi-Charge (ALL).
+
+  = Sit                = d+3+4             ***            N/A
+
+If you connect with the Ninja Blade Slice, it's wise to go directly into the
+Sit to gain a small amount of life. The one problem about this version of the
+Sit is that you can only stand up from it. You cannot use the Teleport or any
+of the other attacks from this position.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Stone Fists            B+1,1,1,1,1,1       ****           N/A
+
+The Stone Fists are very vital to the success of a Yoshimitsu player. They
+have many great uses, the most important being juggle filler. When you knock
+your opponent into the air, you want to inflict as much damage as possible
+before they land. One of the best ways to do this, is to use some well timed
+Stone Fists. They come out very quick and chain together extremely well.
+Another good use for the Stone Fist is for quick advancement towards your
+opponent. If you are out of striking range of your opponent, instead of
+dashing you can use the Stone Fists. This will move you up closer, as well as
+damage any opponent who isn't blocking.
+
+After two consecutive Stone Fists have been executed, Yoshi may immediately go
+into his Spinning Low Sweep. Being able to switch from a high attack to a low
+attack quickly is a great addition.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Stone Backhands        D/B+2,2,2,2,2,2     ***            RC
+
+The Stone Backhands are a wise addition to a Yoshi players arsenal. Now I
+don't mean the entire set of backhands, but more like 1-3 of them. The fact
+that the Stone Backhands recover crouching (RC) is a great advantage, since
+you can go into a short spurt of backhands, then surprise an opponent with a
+Rising Front Kick (WS+4). Another advantage is that they hit mid, so crouching
+opponents must block standing up. This opens low attack possibilities, because
+since you will automatically be in a crouch, you can do all of your low
+attacks as soon as the Stone Backhands recover.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Spinning Low Sweeps    D/B+3,3,3,3,3       ***            RC
+
+Yoshimitsu's Spinning Low Sweeps have been significantly toned down from
+Tekken 2. In Tekken 2, all of the sweeps would hit a fallen opponent. This is
+no longer the case, as only one low sweep will hit. This doesn't mean that the
+Spinning Low Sweeps are completely useless though. They are great for chipping
+away at an opponents health as well as training them to block low.
+
+  = Front Kick           = F+4             ****           N/A
+
+The Front Kick addition can only be performed after two consecutive Spinning
+Low Sweeps. The Front Kick is great because it hits mid, and the two previous
+hits hit low. This entices opponents to block low, then take a Front Kick in
+the face. Against high level competition, be sure to keep a Chicken buffered
+where needed.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Dive Bomb              f,f+1+2             **             BK
+
+The Dive Bomb is a specialty move. I hardly ever use it, but don't count it
+out. It's best purpose is trick your opponent into thinking they have a free
+shot at your back. It is imperative to make sure the Dive Bomb connects with
+your opponent, blocked or unblocked. That way your opponent will be unable to
+respond back, and first have to recover before they attack. Then, when they do
+attack, you can use a quick turn around punch (d+1) or kick (d+4) to interrupt
+them.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Shark Attack Combo     f,f+3+4,1+2,3+4     **             N/A
+
+The Shark Attack Combo is another specialty move. Each part comes out pretty
+slow and it can put you in some really odd predicaments when used incorrectly.
+I find that it's best to use it to cover long distances, or for attacking a
+charging opponent. It is also useful when playing defensive players. Many
+times an opponent will see the attack coming, and attempt to counter-attack
+and end up eating some massive damage.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Sword Debate Position  SS+3+4              ****           SDP
+
+Even some of the best Yoshimitsu players often overlook the Sword Debate
+Position. This move is great because it lets Yoshimitsu gain his health back.
+Yoshimitsu turns his back to his opponent and begins to meditate. When you tap
+forward during the Sword Debate Position, Yoshi will turn back around and push
+on the hilt of his sword, and gain back energy as he does it. The longer you
+stay turned around, the more energy you get back. Besides the obvious drawback
+of being turned around during the Sword Debate Position, Yoshimitsu will start
+to lose life while his back is turned. He will gain it back once he turns back
+around, but you have to know that if he gets hit while his back is turned, he
+will not gain any of the lost life back.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Knee Bash              f,f+4               *****          N/A
+
+The Knee Bash is probably Yoshimitsu's second most useful move. It comes out
+extremely fast, is excellent for countering opponents, even better when used
+as a retaliation move, and a great juggle combo addition. Skilled Yoshimitsu
+players will have this move down. Remember to press f and 4 and the same time
+to ensure proper execution.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Jumping Twist Foot     [u/b_u_u/f]+4       ****           N/A
+
+The Jumping Foot Twist is best used to stop incoming rush attacks. The reason
+it is rated so well is because of its excellent priority. It also hits mid
+and is very quick in it's execution time.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Lunging Sweep          FC,d/f+3            ****           RC,JG
+
+The Lunging Sweep is another of Yoshimitsu's power move. Since it is performed
+from a crouch, and is a low attack, it is a great pattern addition. It also
+recovers crouching (RC) which makes it even more potent. Perhaps the best
+thing though, is the fact that is executes very quick, and can start decent
+juggle combos. The only drawback of the Lunging Sweep is the lengthy recovery
+time which allows for retaliation by a blocking opponent.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Sit                    d+3+4               ****           N/A
+
+Yoshimitsu's Sit maneuver is a very good part of his arsenal. Not only can he
+gain life with it, but he can also attack from it and teleport behind his
+opponent. The advantage should have already made itself clear.
+
+  = Gain Life            = N               *****          N/A
+
+Gain Life does exactly what it says "gain life". There is not much to describe
+about the Gain Life, except that Yoshimitsu gains his health back at a rate of
++5 points every time he bounces.
+
+  = Teleport             = [b_f]           ****           N/A
+
+The Teleport is a very potent tool of Yoshimitsu. When close to an opponent,
+pressing b or f on the controller will make Yoshimitsu spin, disappear, and
+then re-appear behind his opponents back. Many times you can use the Teleport
+and grab an opponent from behind while they are in the middle of attack. This
+is absolutely deadly as the Tornado Drop (throw form behind) takes off a huge
+70 points of health. The drawback of the Teleport is noticeable when Yoshi
+is too far from his opponent. If Yoshi is further than about two character
+widths away, he will teleport in place, and end up with his back facing the
+opponent. I like to lure people with the Sit, then use the Teleport to quickly
+get behind them as they attempt to attack me. A good anti-Yoshi player will
+know how to reverse-bait you so you need to use this move wisely. When I say
+reverse-bait, I mean they will know to dash in, then backup right as you use
+the Teleport, thus leaving your back exposed to them.
+
+  = Meditate             = D               *              N/A
+
+This is, without a doubt, until further review, Yoshimitsu's least useful
+moves. I have absolutely no use for this move, other than to provoke your
+opponent into attacking.
+
+  = Stone Backhands      = 2,2,2,2,2       ***            RC
+
+The Stone Backhands from the Sit are exactly like the  Stone Backhands from a
+standing position. The only difference is the added element of surprise. They
+are best used to catch an advancing opponent as they try to dash up and hit
+you low.
+
+  = Kangaroo Kick        = 4               ****           JG
+
+Like the Stone Backhands from the Sit, the Kangaroo Kick from the Sit is the
+exact same as the Kangaroo Kick from a standing position. The only difference
+is the added element of surprise. This move telegraphs itself and it's pretty
+easy to spot. The good thing about it is the fact that it goes under a lot of
+attacks during execution.
+
+  = Stand Up             = U               *              N/A
+
+If you don't understand this move, you shouldn't be playing Tekken 3.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Spinning Evade         b+3+4 (up to 6x)    ***            DY
+
+The Spinning Evade is basically a modified sidestep. The best thing about it
+though, is that is steps back and to the side at the same time. The drawback
+is that it depletes 8 health from your health meter each time he spins. Yoshi
+can spin up to six consecutive times. I use it when opponents try some wacky
+slow-recovery move. That way, I can get behind them and take advantage of
+better positioning.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Low Parry              [FC_d+][1+3_2+4]    ****           N/A
+
+The Low Parry is used to stop an attacking opponents low strike. It's very
+effective for halting an opponents momentum. With it's quick recovery time if
+missed, the Low Parry can by used generously. The best follow-up for a Low
+Parry is probably a throw. I recommend the Rainbow Drop (QCB+1+2) but only if
+you can perform it without problems. I find it best to use d+1+3 when I want
+to Low Parry. It's simple and quick. Another effective follow-up to the Low
+Parry is the Knee Bash (f,f+4). It is unstoppable if done quick enough.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Poison Wind            u/f+3+4             ****           N/A
+
+One of Yoshimitsu's better mid attacks, the Poison Wind is a great move for
+stomping opponents who have been knocked down. It also is effective because it
+is the begging of a chain of moves. When used correctly, the chains can take
+off major damage in juggles, or as oki-zeme.
+
+  = Mini Backhands       = b+1             ***            N/A
+
+The Mini Backhands come out extremely quick which make them very useful for
+chipping away health from your opponent. Many times after the Poison Wind, an
+opponent will try to retaliate, and end up catching a mini backhand in the
+face. One main problem with the mini backhand is that it takes off only a very
+small 2 points of health.
+
+    = Big Poison Wind      = 3+4           ***            N/A
+
+The Big Poison Wind chain finisher is handy for finishing off your juggle
+combos. It actually takes off more health than the regular Poison Wind which
+adds to it's use. The drawbacks are a slow recovery time, and the required
+initial chain which must be first executed.
+
+    = Flip Kick            = 4             ***            N/A
+
+The Flip Kick is one of the best moves of this series, just for the fact that
+it can get you out of harms way quick. Once the Mini Backhands finish, Yoshi
+will Flip Kick backwards. This move actually can hit opponents who try to rush
+in and attack after the Mini Backhands. It is also effective because it chains
+into an unblockable.
+
+      = Delay Sword          = D/B         ****           N/A
+
+The Delay Sword is just a way to postpone the Sword Slice from coming out, and
+make it more damaging. Each additional hop forward adds to the damage that the
+Sword Slice will do once it connects. At six and one half hops, the Sword
+Slice will take off 100% health from your opponent. You will know it is fully
+charged because the sword will smoke. Do not expect to catch your opponents
+with the 100% Delayed Sword Slice, because it takes forever to charge up.
+
+        = Sword Slice          = N         *****          {!}
+
+The Sword Slice is great follow-up to the Flip Kick. It hits opponents on the
+ground and it is delayable. The damage inflicted varies on how long the Delay
+Sword move was used.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Sword Slice            d/b+1               *****          {!}
+
+The Sword Slice, by itself, is one of Yoshimitsu's greatest weapons. Not only
+is it Unblockable, but it hit opponents lying on the ground. It also has great
+execution and recovery time. I use the Sword Slice to punish super defensive
+players, as well as hit an unsuspecting opponent.
+
+  = Delay Sword          = ~N,D/B          ****           N/A
+
+The Delay Sword is just a way to postpone the Sword Slice from coming out, and
+make it more damaging. Each additional hop forward adds to the damage that the
+Sword Slice will do once it connects. At six and one half hops, the Sword
+Slice will take off 100% health from your opponent. You will know it is fully
+charged because the sword will smoke. Do not expect to catch your opponents
+with the 100% Delayed Sword Slice, because it takes forever to charge up.
+
+    = Sword Slice          = N             *****          {!}
+
+Exactly the same as the Sword Slice above except it follows a delay. The
+damage inflicted varies on how long the Delay Sword move was used.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Sword Impale           b,b+1               **             !
+
+The Sword Impale is my least favorite move of Yoshimitsu's. The reasoning
+behind this is because it interferes with his gameplay. It's ease of execution
+leads to it coming out at the wrong time, like when I dash back and jab punch.
+Needless to say, it is still in the game. I do not use it except to switch
+into the Spinning Sword. The drawback is a very long execution delay.
+
+  = Spinning Sword       = ~1              ****           !
+
+The Spinning Sword can be used effective as either an Unblockable Shield, or
+as a great oki-zeme maneuver. When time is low and I have the upper hand, I
+put out the Spinning Sword to protect myself for the final 2 or 3 seconds. It
+is also effective against opponents lying on the ground. If you knock them
+over, put out a Spinning Sword right above their body. Many times, your
+opponent will stand right up into certain damage.
+
+    = Spin Cancel          = b,b           ****           N/A
+
+The Spin Cancel does exactly what is sounds like it does. It cancels the spin
+of the Spinning Sword. This is very effective as most players are used to
+waiting the duration of the move, then retaliating. This move can give you the 
+advantage back by only letting you know if the Spinning Sword will go the full
+duration or be cut short (heh a pun!).
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Sword Sweep            FC,d/b,b+1          ***            !
+
+Yoshimitsu's Sword Sweep is useful in a sound poking pattern. Since it is an
+Unblockable that starts from a crouch, it allows you to change from high to
+low attacks, then trip them up semi-quick. The main drawback is that when the
+the Sword Sweep misses, it takes a relatively long time to recover. This is
+obviously bad news, so be sure to use it only when in close.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Helicopter Leap        U/F+1+2             ***            {!}
+
+The Helicopter Leap is one of Yoshimitsu's aerial Unblockables. He jumps way
+into the air, floats for a while, then comes down with a powerful sword. I
+hardly ever use the Helicopter Leap without using the Quick Down Slash also. 
+The problem with the full Helicopter Leap is the incessant lag time of which
+Yoshi suffers from while he is in the air. There is more than enough time for
+a wise opponent to run underneath the airborne Yoshi and get a free behind
+throw when he lands.
+
+  = Quick Down Slash     = d               ****           {!}
+
+The Quick Down Slash makes the Helicopter Leap worthwhile. It's meant to drop
+Yoshimitsu from the Helicopter Leap, into an immediate slash. It is very fast,
+and sometimes I use it when I am in the middle of a poking pattern. It's still
+a risky move, so you should only use it when you are certain you have a good
+chance to inflict damage. It's also relatively good for hitting opponents that
+like to stay lying after a knockdown.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Reverse Helicopter     U/F+1+2,B           ***            {!}
+
+The Reverse Helicopter is a decent addition to Yoshimitsu's Unblockable
+arsenal. He jumps up as if he was starting the Helicopter Leap, then float
+down, then back up and does a 180 degree turn, and finally comes down with a
+reverse slice. The problem with the Reverse Helicopter, is that Yoshimitsu can
+easily be punched out of it, thus resulting in a juggle for your opponent. The
+lag time which Yoshi suffers from while in the air, makes this a very high
+risk move.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Standing Suicide       d+1+4               **             !,DY
+
+The Standing Suicide is another of Yoshimitsu's specialty moves. It's only
+useful when Yoshi's back is facing the opponent. Yoshi raises his sword, then
+stabs himself in the chest. If your opponent is standing close to Yoshi's back
+they will take damage. It is best used after a successful Kangaroo Kick juggle
+starter, as it will take off huge damage.
+
+  = Spinning Suicide   B+1,1,1...          *              !,DY
+
+The Spinning Suicide hardly causes any damage at all, which makes it more of
+a show-off move. It's best used to finish an opponent off, one with a very
+small amount of health left.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Fake Turning Suicide   f,f+1+4,N           **             BT
+
+The Fake Turning Suicide comes out slow and doesn't really add much to Yoshi
+playing tactics. The only thing I use it for is to turn around, then quickly
+use a quick turn around punch (d+1) or kick (d+4) to interrupt opponents who
+try to attack.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Turning Suicide        f,F+1+4             ***            !,DY
+
+The Turning Suicide is a decent move to use against defensive players. Yoshi
+turns around and stabs himself in the chest in one big motion. This move can
+be deadly not only to your opponent, but to yourself as well. If used at the
+wrong time, you will be the only one taking damage. Obviously this is bad. You
+definitely don't want to help your opponent beat you, so plan the to use the
+Turning Suicide when your health is high, and your opponent's is low.
+
+  = Second Stab          = f,f             ***            !,DY
+
+Sometimes you just have to go for the gusto. The Second Stab is the way to do
+it, if you get the win. After the Turning Suicide, Yoshi will stab himself a
+second time. This often catches characters that escaped damage from the
+initial Turning Suicide, and try to rush up and attack you.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Sword Pogo             u+1+2               *****          {!}
+
+The Sword Pogo is one of Yoshimitsu's most useful moves. It leads into three
+other excellent moves, which is one of the reasons it is rated so high. The
+Sword Pogo is a great anti-low attack move, as most moves will end up kicking
+the exposed sword. It is also an excellent oki-zeme maneuver because of the
+relatively large damage it causes.
+
+  = Pogo Rush          [b,b_f,f]           ****           {!}
+
+Not only is the Pogo Rush great for following up the Sword Pogo, it's very
+good for running over opponents who like to stay on the ground. The Pogo Rush
+can also be performed right after a Pogo Hop.
+
+  = Pogo Hop           [u/b_u_u/f]         ****           {!}
+
+The Pogo Hop is adds the element of risk to the Sword Pogo series. Yoshi jumps
+into the air, while still on the sword. The opens up an opportunity for your
+opponent to juggle you with some well timed attacks. Even with that, the Pogo
+Hop is an excellent follow up to the Sword Pogo.
+
+  = Kangaroo Kick      3+4                 ****           JG
+
+
+The Kangaroo Kick from the Sword Pogo is the same as the Kangaroo Kick from a
+standing position. The only difference is the added element of surprise. This
+move telegraphs itself and it's pretty easy to spot. The good thing about it
+is the fact that it goes under a lot of attacks during execution.
+
+  = Stand Up             = U               *              N/A
+
+If you don't understand this move, you shouldn't be playing Tekken 3.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Death Pose             B+1+2               *****          N/A
+
+The Death Pose is one of my favorite moves in the entire game. It is also one
+of Yoshimitsu's most powerful moves, Unblockable or otherwise. I use it for
+many things, one of them being to escape throws. What I mean by this is that
+when I see a throw coming, and I have time to react, I quickly go into the
+Death Pose. This avoids the throw, and sets up a powerful Bad Breath combo. A
+more tricky use of the Death Pose is to avoid an opponent's high poking attack
+strings. When you know a set of high punches are coming, or even a string of
+moves that ends with a short range high attack, using the Bad Breath to avoid
+it is deadly.
+
+  = Bad Breath         ANY                 ******         !
+
+I know, I know... I put six stars instead of five, but I had to. This move
+is one of the most useful moves in the entire game. Not only can it be used as
+a shield, but it is unblockable, unduckable, uncounterable, and you can start
+very high damage juggles from it. Also, it is very quick in it's execution, as
+well as recovery, and it lingers during execution. This often can catch an
+opponent as they try to rush in and attack too soon. The best use for the Bad
+Breath is with a quick dash forward. Most of the time, your opponent will be
+worried about a Basic Jab or a quick attack, then be caught in the breath.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Wood Chopper           f,f+3,1             *****          {!}
+
+The Wood Chopper is a very versatile move. It can be cut short and used for a
+quick advancement move. It is an excellent combo finisher. It works great for
+pressuring blockers, and is an effective oki-zeme tool. I use it most for a
+pressure attack. When an opponent is attacking with slow moves, I rush in with
+the Lunging Foot to counter hit (CH) them, then slam them with the sword,
+uncontested. Keep in mind, if you cut the Wood Chopper short, the Lunging Foot
+recovers crouching (RC).
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Double Front Slice     QCF+1               ****           !{!}
+
+The Double Front Slice is a very risky move, but useful nonetheless. It's best
+used against opponents as the rise from a knockdown. This move hits mid then
+low, so the second part works as a good as an oki-zeme maneuver. Be aware that
+this move can get you in some serious trouble when you try it against a decent
+opponent.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Sword Counter          b+1+4               *****           !
+
+The Sword Counter is an all-around excellent move. It can be used to stop an
+opponents attacks, juggle an opponent, or just as a regular Unblockable. Yoshi
+exposes his sword in front of him for a very short delay, and anything that
+comes in contact with it gets hit. What most people don't know about the Sword
+Counter is that you can just run up real close to your opponent and use as you
+would any other Unblockable.
+
+------------------------------------------------------------------------------
+Move Name:             Command:            Rating:        Comments:
+Backflip               u/b                 ***            N/A
+
+The Backflip is actually just a fancy way to get away from your opponent. The
+problem with it is that you can get slammed when you are flipping backwards
+since you cannot defend. I hardly ever use this move unless I have finished a
+combo and I want to back up in style.
+
+
+------------------------------------------------------------------------------
+-Throws-
+------------------------------------------------------------------------------
+Throw Name:            Command:            Rating:        Escape:
+Jumping Body Slam      1+3                 ***            1
+
+Yoshimitsu grabs his opponent, inverts them and jumps into the air, then comes
+down crashing on their body. It's very easy to perform and comes in handy when
+you need to inflict quick damage. The disadvantage to using the Jumping Body
+Slam is that it is easy to escape.
+
+------------------------------------------------------------------------------
+Throw Name:            Command:            Rating:        Escape:
+Jaw Smash              2+4                 ****           2
+
+Yoshimitsu grabs his opponent, kicks out one of their feet and pushes their
+head back, then slams them right in the jaw area with the hilt of his sword.
+It's very easy to perform and comes in handy when you need to inflict quick
+damage. Another advantage is that you can tack on a Basic Low Kick (d+3) and
+damage them even more, before they can get up. The disadvantage to using the
+Jaw Smash is that it is easy to escape.
+
+------------------------------------------------------------------------------
+Throw Name:            Command:            Rating:        Escape:
+Rainbow Drop           QCB+1+2             ****           1+2
+
+Yoshimitsu grabs his opponent, puts them up on his shoulders and jumps high
+into the air, then and comes down right on his opponents body. This is Yoshi's
+best forward grab. It's the most damaging and more difficult to escape. The
+main drawback is that it is more difficult to perform than his other two basic
+forward grabs.
+
+------------------------------------------------------------------------------
+Throw Name:            Command:            Rating:        Escape:
+Life Siphon            SDP [1+4_2+3]       **              -
+
+Yoshimitsu grabs his opponents head with one hand, and siphons some of their
+health, using it to replenish his health meter. Well I hardly ever even try to
+get this move to connect because it comes out extremely slow. I find that it's
+best used after the Dive Bomb (f,f+1+2) but still lacks any redeeming quality
+besides that if you do actually connect, you get to tell your opponent he/she
+sucks for getting grabbed. =)
+
+------------------------------------------------------------------------------
+Throw Name:            Command:            Rating:        Escape:
+Live Give              SDP [F+1+4_F+2+3]   *              -
+
+With the same drawbacks as the Live Siphon and the added lame ability to give
+your opponent life back, the only good use for this throw is to give a "In yo
+FACE!" to your opponent.
+
+------------------------------------------------------------------------------
+Throw Name:            Command:            Rating:        Escape:
+Tornado Drop           [1+3 or 2+4]        *****          -
+
+Yoshimitsu grabs his opponent, jumps into the air, and spirals his opponent up
+and back down, slamming them headfirst into the ground. If you have a good
+chance to get this throw off, go for it. It wreaks a powerful 70 points of
+damage and cannot be escaped. 
+
+------------------------------------------------------------------------------
+Throw Name:            Command:            Rating:        Escape:
+Flying Cartwheel       [1+3 or 2+4]        ****           1
+
+Yoshimitsu grabs his opponent, turns upside down, locks their head between his
+feet, then does a leaping cartwheel. This throw is definitely one of Yoshi's
+better looking throws. Even though this side throw is as easy to escape as
+both his basic forward grabs, people hardly ever escape it. This is because
+it usually catches them off guard.
+
+------------------------------------------------------------------------------
+Throw Name:            Command:            Rating:        Escape:
+Clonimitsu            [1+3 or 2+4]         ****           2
+
+One of the best throws in the game, the Clonimitsu looks awesome. Yoshi grabs
+the opponent from the side, splits into two Yoshimitsu's, stabs them in the
+stomach, then slams them to the ground. Even though this side throw is as easy
+to escape as both his basic forward grabs, people hardly ever escape it. This
+is because it usually catches them off guard.
+
+
+------------------------------------------------------------------------------
+-Strings-
+------------------------------------------------------------------------------
+
+Yoshimitsu's string attacks are neither the best or worst set of strings in
+Tekken 3. There are two basic forms so I split them up into two main groups.
+I really only use complete string attacks against the average player, as they
+have a hard time escaping them. It becomes a lot more difficult to catch a
+good opponent because they know when and how to escape. Even though it's wise
+to stay away from using the full strings in a high level match, it's even
+smarter to know what Yoshimitsu has, and be ready for it when it comes at you.
+
+-Set 1-
+
+#1) 1,2,1,4,2,2,2,4,1,1
+#2) 1,2,1,4,4,4,1,1,1,1
+#3) 1,2,1,4,4,4,1,4
+
+These are Yoshimitsu's best strings. They start with the Punch-Double Uppercut
+and lead into a frenzy of other attacks. The main problem with these sets is
+the fourth his in the series, the roundhouse. Any good anti-Yoshi player will
+immediately stop the string by ducking the first roundhouse and retaliate with
+a Crouching Low Punch (d+1) or a Rising Uppercut (WS+2). Always, and I do mean
+always, buffer a Chicken for the first roundhouse. Anyone playing a character
+with a Reversal will be tempted to catch the kick. If you do manage to catch
+your opponent off guard and sneak the first roundhouse by them, I recommend
+continuing with string #2. It's a tad harder to break out of in the latter
+stages and it ends with two good Unblockables.
+
+-Set 2-
+
+#4) 4,4,2,2,4,4,1,1,1,1
+#5) 4,4,2,2,4,4,1,4
+#6) 4,4,2,2,1
+
+These are Yoshimitsu's weaker strings. They start with two high roundhouses
+which can easily be crouched under. The roundhouses also come out slow, and a
+quick Crouching Low Punch (d+1) can stop them cold. Another drawback of these
+strings is that the fourth hit, the backhand, also comes out slow and hits
+high. This means it too can also be crouched under and retaliated against. I
+usually don't even think of using these strings, but once in a while it isn't
+bad to throw them out and see what happens.
+
+
+==============================================================================
+= [7] ::::::::::::::::::::::::::::::: Combos ::::::::::::::::::::::::::::::: =
+==============================================================================
+
+Combos are a major part of Yoshimitsu play. In fact, combos are a major part
+of Tekken 3 play in general. When playing as Yoshi at high levels of play, you
+must be able to execute his big damage combos consistently, or you will most
+likely lose. A combo by definition means "any sequence of hits which are
+unblockable after the first hit connects". What this means is, once you start
+a combo, your opponent will be unable to do anything but take damage after the
+first hit connects.
+
+
+-Juggling Basics-
+
+With any combo, you need the initial starter. Yoshimitsu has about six basic
+ways to start combos. You should know all of these, as they all have very
+important uses. The combo starters are:
+
+Command:      Starter Name:        Lev.    Height:        Damage:    Type:
+
+d/f+2         Basic Uppercut       m       medium         ?          Basic
+WS+2          Rising Uppercut      m       medium         ?          Basic
+4~3           Kangaroo Kick        m       high           30         Basic
+FC,d/f+3      Lunging Sweep        L       low            12         Adv.
+b+1+2~ANY     Bad Breath           !       low special    30         Adv.
+b+1+4         Sword Counter        !       low special    35         Adv.
+FC,d/b,b+1    Sword Sweep          !       low special    20         Adv.
+
+The most useful starter is the Basic Uppercut (d/f+2). You have already read
+the advantages of the Basic Uppercut, so you know how important it is to good
+Yoshi play. The majority of all Yoshimitsu juggles follow d/f+2 because it is
+mixed well in poking patterns, and it connects much more than the other juggle
+starters. It's also great as a retaliation move, meaning it comes out fast
+enough to punish slow-recovery moves. The main thing to remember when using
+the basic uppercut is that many anti-Yoshi players expect the d/f+2, and many
+times have strategies just to stop it. Make sure you always keep a Chicken
+(f+2+4) buffered against Reversal characters. That way, even if your opponent
+grabs Yoshi, you can escape unharmed.
+
+The least useful starter is probably the Sword Counter (b+1+4). Even though
+the Sword Counter is a very useful move in itself, it is very difficult to
+counter with it effectively, without trading hits. On the up side, if you are
+quick and brave too, you can run right up next to your opponent and use the
+Sword Counter as an Unblockable. From there, you can start your juggle. The
+only problem with this is that you need to be right up next to them for the
+Sword Counter to hit.
+
+Obviously knowing when and where to use each starter plays an important role
+in your victory. Just as important as the juggle starter is the juggle filler.
+The juggle filler is the mass of the juggle. Usually a couple of hits before
+you finish the combo with a juggle finisher. Since the Tekken 3 juggle engine
+is very odd sometimes, allowing many different types of hits to juggle, I will
+only list the basic juggle fillers. The basic juggle fillers are:
+
+Command:        Filler Name:          Normal Damage:    Exec:    Recov:
+
+1               Basic Punch           5                 Great    Great
+d+1             Crouching Low Punch   ?                 Great    Great
+f+2             Backhand              12                Good     Slow
+d/f+2           Basic Uppercut        ?                 Good     Good
+f,f+3           Lunging Foot          20                Good     Good
+f,f+2           Ninja Blade Rush      18                Great    Good
+f,f+4           Knee Bash             20                Great    Good
+b+1(,1,1)       Stone Fist(s)         10(,10,10)        Great    Great
+D/B+2(,2)       Stone Backhand(s)     10(,10)           Good     Slow
+d/f+1,2         Uppercut-Backhand     15,12             Good     Slow
+
+The usefulness factor of a juggle filler comes by weighing the execution time
+vs the recovery time. The two most useful for Yoshimitsu are the Basic Punch
+and the Stone Fists. Both of these moves come out very quick and give you
+plenty of time to add in other juggle filler, many times the same move. Some
+of the juggle fillers above have a slow recovery time. This doesn't make them
+useless, but it does make them harder to utilize. Another good thing about the
+slower recovery moves is that they usually do more damage.
+
+The last thing you need for a juggle combo is a finisher. The finisher is the
+final hit of your combo, usually a power hit. Juggle finishers basically need
+to be fast, damaging, and have good range.
+
+Command:        Finisher Name:        Normal Damage:    Exec:    Range:
+
+d/f+4           Side Kick             ?                 Great    Long
+f,f+2           Ninja Blade Rush      18                Great    Long
+f,f+4           Knee Bash             20                Great    Long
+u/f+4           Jumping Twist Foot    25                Good     Short
+b+1+4           Sword Counter         35                Great    Short
+u/f+3+4         Poison Wind           10                Good     Medium
+f,f+3,1         Wood Chopper          20-18             Good     Medium
+u+1+2,f,f       Sword Pogo-Pogo Rush  30-25             Great    Short
+
+On the average, the shorter the range of the finisher, the more damage it will
+inflict. This isn't always the case, but generally it's true. By practicing
+your juggles you will be able to judge, on the fly, the range you are at after
+all filler connects. This is a very important ability because you don't want
+to be attempting a short range finisher when you have knocked your opponent
+too far. That only results in a low damage combo. I recommend to start off by
+finishing your combos with the Side Kick (d/f+4) as it has the best range and
+it's very quick. Then move to the Knee Bash (f,f+4), then onto some of the
+more complicated finishers, i.e. Wood Chopper (f,f+3,1) and Sword Pogo-Pogo
+Rush (u+1+2,f,f).
+
+
+-Unconventional Juggling-
+
+Once you understand the fundamentals of the Tekken 3 combo system, you can
+move into the more advanced style of juggles. Unconventional juggles can be
+started a few different ways. The first way is with a regular juggle starter
+which knocks and opponent low or low special. These starters do not act like
+the typical juggle starter because they don't launch the opponent into the
+air. The second style of Unconventional juggle is an anti-air juggle. What
+this means is you actually knock your opponent out of the air during one of
+their attacks. This is definitely more difficult to execute than the normal
+Basic juggles, but can become quite easy with a bit of practice.
+
+
+-Combo List-
+
+I have tried to separate the easy juggles with the more difficult ones, giving
+a difficulty rating for each juggle. The rating system is exactly like the
+move description ratings except for the addition of half stars. Keep in mind
+that some juggles may be easier or harder for you than myself and these are
+based on my experience only. With that, onto the juggles.
+
+The damage for each juggle is not listed yet because there is not way I can
+accurately get the damage for each juggle. Perhaps when the home version comes
+out I can add the damage. I almost might just rate each juggle's damage factor
+like I did the other categories.
+
+Style points simply signify the "coolness" of a certain juggle in my opinion.
+A 1 signifies a non stylish juggle, and a 5 signifies the most stylish. Many
+times, when presented a juggle opportunity, I opt for the stylish combos. =)
+
+------------------------------------------------------------------------------
+Starter: Basic Uppercut (d/f+2) or Rising Uppercut (WS+2)
+------------------------------------------------------------------------------
+Combo:                                  Hits:   Damage:   Diff:   Style:
+------------------------------------------------------------------------------
+u/f+1                                   2-hit             *         5
+u/f+4                                   2-hit             *         5
+
+1, u/f+4                                3-hit             *         4
+1, d/f+4                                3-hit             *         1
+1, f,f+4                                3-hit             *         2
+1, dash, b+1+4                          3-hit             ***       4
+b+1, dash, b+1+4                        3-hit             ***       4
+f,f+4, b+1+4                            3-hit             *****     5
+b+1+4, f,f+4                            3-hit             ****^     5
+
+1, 1, f,f+4                             4-hit             **        2
+1, 1, d/f+4                             4-hit             **        2
+b+1, 1, f,f+4                           4-hit             **^       2
+b+1, 1, d/b+1                           4-hit             **^       2
+b+1, 1, d/f+4                           4-hit             **^       2
+b+1, 1, dash, u+1+2                     4-hit             ***^      3
+d/f+2, d/f+2, d/f+2                     4-hit             **        1
+d/f+2, d/f+2, d/f+4                     4-hit             **^       2
+d/f+2, d/f+2, f,f+4                     4-hit             ***       2
+f,f+3, d+1, f,f+4                       4-hit             ***^      4
+f,f+3, d+1, FC,d/f+3                    4-hit             ***^      4
+f,f+4, 1, f,f+4                         4-hit             ****      5
+f,f+4, d+1, f,f+4                       4-hit             ***^      4
+f,f+4, d+1, FC,d/f+3                    4-hit             ***       3
+U/F,4, d+1, FC,d/f+3                    4-hit             ****      5
+
+1, 1, 1, f,f+4                          5-hit             ****      4
+1, 1, 1, d/f+4                          5-hit             ***^      4
+1, b+1, d/b+2, d/b+3                    5-hit             ***^      4
+1, u/f+3+4,b+1,3+4                      5-hit             ***       2
+b+1, 1, d/f+1,1                         5-hit             ***^      3
+b+1, 1, dash, u+1+2,f,f                 5-hit             ****      4
+b+1, 1, 1, f,f+4                        5-hit             ****      4
+b+1, u/f+3+4,b+1,3+4                    5-hit             ***^      3
+b+1,1,1, b+1+4                          5-hit             ****      5
+d/f+2, f,f+3, d+1, f,f+4                5-hit             ****      5
+d/f+2, f,f+3, d+1, FC,d/f+3             5-hit             ****      4
+d/f+2, d/f+2, d/f+2, d/f+4              5-hit             *****     4
+f,f+4, 1, d/f+2, f,f+4                  5-hit             ****      5
+
+1, 1, 1, 1, f,f+4                       6-hit             *****     5
+1, b+1,1,1,1, 3                         6-hit             ***       4
+b+1, 1, u/f+3+4,b+1,3+4                 6-hit             ****      3
+d/f+1,2,d/b+2,2, WS+4                   6-hit             ***       3
+b+1, 1, b+1,1, u/f+4                    6-hit             ***^      4
+
+1, b+1,1,1,1, 1, f,f+4                  7-hit             ****^     3
+1, d/f+1,2,d/b+2,2,2, d/b+1             7-hit             ****      3
+b+1, 1, b+1,1, f,f+3,1                  7-hit             *****     5
+
+1, b+1,1,1,1, f,f+3, D+1, FC,d/f+3      8-hit             *****     5
+b+1, d/f+1,2,d/b+2,2,2,2, WS+4          8-hit             ****^     4
+
+b+1,1,1, b+1,1,1,1, d/f+4               9-hit             *****     5
+b+1,1,1, b+1,1,1,1, f,f+4               9-hit             *****     5
+
+------------------------------------------------------------------------------
+Starter: Kangaroo Kick (4~3)
+------------------------------------------------------------------------------
+Combo:                                  Hits:   Damage:   Diff:   Style:
+------------------------------------------------------------------------------
+b,b+1~1                                 2-hit             ***^      4
+
+b+1+4, f,f+4                            3-hit             ****      4
+
+b+1+2~ANY, 3,4
+B+1+2~ANY, f,f+3,1                      4-hit             ****^     4
+B+1+2~ANY, 1, f,f+4                     4-hit             ****      4
+B+1+4, 1, f,f+4                         4-hit             ****^     4
+
+B+1+2~ANY, 1, f,f+3,1                   5-hit             *****     5
+
+B+1+2~ANY, 1, b+1,1, f,f+4              6-hit             ****      5
+
+------------------------------------------------------------------------------
+-Unconventional Juggles-
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+Starter: Lunging Sweep (FC,d/f+2)
+------------------------------------------------------------------------------
+Combo:                                  Hits:   Damage:   Diff:   Style:
+------------------------------------------------------------------------------
+WS+4, f,f+4, d/b+1                      4-hit             ****      5
+
+WS+4, u/f+3+4,b+1,3+4                   5-hit             ***^      3
+
+------------------------------------------------------------------------------
+Starter: (FC,d/b+1)
+------------------------------------------------------------------------------
+Combo:                                  Hits:   Damage:   Diff:   Style:
+------------------------------------------------------------------------------
+d+4, f,f+4                              3-hit             ***       4
+d+4, FC,d/f+3                           3-hit             ***       3
+
+------------------------------------------------------------------------------
+Starter: Bad Breath (B+1+2~ANY)
+------------------------------------------------------------------------------
+Combo:                                  Hits:   Damage:   Diff:   Style:
+------------------------------------------------------------------------------
+3                                       2-hit             *         2
+d/b+1                                   2-hit             *^        1
+
+4,4                                     3-hit             **        2
+1, f,f+4                                3-hit             **^       3
+
+1, 1, f,f+4                             4-hit             ***       4
+1, 1, d/f+4                             4-hit             ***       3
+
+1, b+1, 1, f,f+4                        5-hit             ***^      4
+1, b+1, 1, d/f+4                        5-hit             ***^      4
+
+d/f+1,2,d/b+2,2, WS+4                   6-hit             ***       5
+
+1, b+1, 1, b+1, 1, f,f+4                7-hit             ****      5
+
+------------------------------------------------------------------------------
+Starter: Sword Counter (b+1+4)
+------------------------------------------------------------------------------
+d+1, f,f+4                              3-hit             ***       4
+d+1, FC,d/f+3                           3-hit             **        3
+
+d+1, WS+4, d/b+1                        4-hit             ***^      3
+u/f+3+4,b+1,3+4                         4-hit             ***       3
+
+
+==============================================================================
+= [8] ::::::::::::::::::::::::::: Basic Strategy ::::::::::::::::::::::::::: =
+==============================================================================
+
+Well now that all the moves have been explained, and you have a grasp of how
+the juggle system works, it's time to learn how to actually use it all. In
+this section I will cover the absolute basic requirements for good Yoshimitsu
+play. If you are new to Tekken 3, or Yoshi for that matter, I suggest you read
+and learn the following section. If you are a more experienced Yoshi/Tekken 3
+player, you might already know most of this. Of course, it doesn't hurt to
+check it out anyway.
+
+
+-Defense-
+
+Blocking is the probably the most important part of any fighting game. Since
+the goal of the game is to inflict as much damage on your opponent before time
+expires, it's a good idea to know how to guard against your opponent. Blocking
+requires good hand-eye coordination as well as a fair bit of anticipation. A
+good defense uses offensive elements in the place of basic blocking, which can
+give you the offensive advantage when used correctly. Side stepping is also an
+effective defense tactic. Using a side step to avoid an attack can give you
+a major advantage over your opponent. The last major part of a good Yoshimitsu
+defense is his Low Parry (d+1+3). Momentum is a major factor in Tekken 3, and
+when you become effective at switching the momentum to your attack whenever
+your opponent is on the attack, you will have a much easier time inflicting
+damage.
+
+Interrupting is a very important part of Tekken 3. The most common technique
+is the basic couching low punch (d+1). The low punch is excellent for breaking
+an opponents chains and can be followed up with a Rising Front Kick (WS+4). A
+smart Yoshi player will interrupt strings and attacks with the low punch, then
+follow up with the rising kick, making sure to buffer a Chicken (f+2+4) when
+playing a reversal character. Another good interrupt is Yoshi's Knee Bash. Its
+execution time is very and with the higher damage factor its uses quickly
+appear. The drawback is the lag time, which follows a blocked Knee.
+
+Another defensive tactic is to avoid oncoming attacks altogether via side
+step (u_d,n). Many players have good attacking patterns which, when read
+right, can prove to be more of a setback than an advantage. Proper times to
+side step obviously differ between each opponent because of individual moves.
+Sometimes, even random side stepping can be useful and confusing. When mixed
+in with dashes, your opponent can sometimes be provoked into attacking, thus
+giving you the advantage.
+
+The Low Cancel (d+1+3) is used in place of blocking, and many times can prove
+to be more effective. When an opponent attacks low and you parry their attack,
+Yoshimitsu will push them aside. This is an excellent defense tactic because
+once your opponent is parried, you gain the advantage. Many times I just go
+for a throw follow-up, but other times I attempt a Bad Breath. The reason both
+of these techniques are effective is because an opponent who gets reversed
+often is afraid of being juggled, so they hold straight back. Obviously throws
+grab standing opponents, and the Bad Breath hits anything in range. Sometimes
+I just go for a low kick (d+4) to push my opponent back.
+
+
+-Positioning-
+
+Positioning is a very important part of basic Yoshimitsu gameplay. With the
+additions of side steps to Tekken 3, you can virtually end up in any position
+in relation to your opponent. Knowing what to do when an opportunity arises is
+crucial to high level gameplay success. There are 5 basic positions which can
+come up any time during a game. These are: In Close; Dash Range; Far; Side;
+and Behind. 
+
+
+:In Close:
+
+In close is exactly what is sounds like. In close constitutes anything inside
+Front Kick (d/f+4) range, which means if the Front Kick can hit your opponent,
+you are in close. This is Yoshi's strongest position in front of the opponent.
+Most all of Yoshimitsu's "custom strings" start from this position. Custom
+strings are explained in the Advanced Strategy section.
+
+
+:Dash Range:
+
+Dash range is about one dash away from your opponent. Dash range is a very
+strong position for Yoshi because of his excellent advancing moves. At this
+range you can dash in (f,f), use a Knee Bash (f,f+4) or a Lunging Foot (f,f+3)
+to get close while attacking, or play the keep-away game. The keep-away game
+will also be explained in the Advanced Strategy Section.
+
+
+:Far:
+
+Far is another no-brainer. If you are far enough from your opponent to where
+running is an option to get close (f,f from more than 3 character widths) then
+you are obviously far. From this distance Yoshi doesn't have much in the way
+of attacking. I usually run up into dash range then immediately cut the run
+short. Sometimes an opponent will charge at you from this range, many times a
+simple Helicopter Leap will get you out of harms way.
+
+
+:Side:
+
+Side is when you are on the either side of your opponent. This can be achieved
+on of two ways: by you initiating it with a side step (u_d,n); by stopping an
+opponents attack before it completes, thus leaving you at a different angle.
+In both cases the side throw is usually the best option as it is a guaranteed
+40 points of damage if it connects. Other more risky options include: a side
+step in attempt to get into the Behind position; an attempt to damage via a
+juggle or a power move; and an evasive fake. The evasive fake is an Advanced
+Strategy and will be explained in that section.
+
+
+:Behind:
+
+Probably the most desired and coveted position by many Tekken 3 players, the
+Behind position usually seen more by Yoshimitsu players. This is because he
+has the Backhand (f+2), the Uppercut-Backhand (d/f+1,2), the Spinning Evade
+(b+3+4 up to 6x), and the Teleport (Sit, b_f). Each of these moves have some
+ability which causes Yoshi to gain the Behind position. Usually the best thing
+to do in the Behind position is go for the throw. This is an easy 70 damage
+and is inescapable once initiated. You can also go for the damage attempt, or
+use the evasive fake which is described in the Advanced Strategy section.
+
+
+Having good positioning is key to high level play. Being able to manipulate
+various situations to your advantage can be the difference between winning and
+losing. With proper use of side steps, dashes, and turn around moves, Yoshi
+can be anywhere at any time.
+
+
+-Throwing-
+
+Throwing is such a basic part of Tekken 3 play, you not only need to know how
+to utilize it correctly, but also defend against it. To both use and defend
+against throws you need to have a basic idea of your opponents skill. First of
+all, can your opponent even throw on command? Does your opponent use non-basic
+throws? Knowing these facts can really help your throwing game. If you find
+that your opponent can't even throw themselves, you will more than likely have
+an easy time tossing them around at your leisure. If you notice your opponent
+uses non-basic throws, and escapes throws efficiently, you need to think about
+switching up your basic throws, and adding the Rainbow Drop (qcb+1+2). On the
+whole, it's all about reading your opponent. Don't give them the chance to
+surprise you. Always play a top level throwing game. Switch up between both
+basic throws and the Rainbow Drop, and remember to keep yourself safe from
+getting thrown. When you are in throw range, be sure to attack and cover up
+your opponents possible throw opportunities. One other thing about throwing:
+"Throwing is not cheap!". Live with it...
+
+
+==============================================================================
+= [9] ::::::::::::::::::::::::: Advanced Strategy :::::::::::::::::::::::::: =
+==============================================================================
+
+By now you should have a decent grasp on Yoshimitsu's moves, combos, and basic
+elements of gameplay. This section covers much more advanced styles of play,
+which will constitute the greater portion of your Yoshimitsu play. By adding
+you own style to the following techniques and styles, you will really begin to
+develop your own Yoshimitsu.
+
+
+-Custom Strings-
+
+Custom strings are one of the hardest parts of Yoshimitsu to master. At high
+levels of gameplay, a good custom string can be what separates you from the
+rest of the pack. Since many people have no idea what a custom string is, let
+me explain. A custom string is a series of quick moves in which, when used
+together, make it very difficult for your opponent to do much of anything
+besides blocking. This isn't as easy as it sounds though, because putting a
+few moves together one after another doesn't make an effective custom string.
+You must create your custom strings to be quick and very unreadable. Most
+custom strings are more useful than real strings because of their speed and
+lack of major delay between moves. Some people refer to custom strings as
+"patterns" but this is a general misconception. Patterns can easily be spotted
+which in turn can be easily defended against. A true custom string has many
+alternatives, making it very hard to defend against and at the same time they
+often force your opponent into making unwise decisions.
+
+Creating a custom string takes experimentation and practice. Many moves can be
+executed one after another with little or no delay time, thus making them more
+effective as custom string additions. A great example of two moves that flow
+together effectively are the Crouching Low Punch (d+1) to Rising Front Kick
+(WS+4). The Crouching Low Punch has almost zero recovery time and the Rising
+Front Kick has excellent execution time. Add these together are you have the
+most basic custom string in Tekken 3. A bad example would be a Low Kick (d+3)
+to a Roundhouse (4). Both moves have delayed execution times and with the
+extended lag time of standing up before the Roundhouse, it's obvious why these
+two moves do not flow well together. A good practice for creating your own
+custom strings is to vary up the hit ranges. Hitting mid range is essential
+because your opponent cannot duck the hits. Hitting low is important because
+your opponent must block. Try to avoid constantly attacking high because your
+opponent can easily duck and retaliate. A good set of high attacks can be very
+useful though, so don't drop them altogether. When used all in one tightly
+wrapped package, a custom string can completely frustrate your opponent
+
+The effectiveness of a custom string relies on three things: position; speed;
+and variation. The importance of speed and variation have already been
+explained so I will briefly comment on position. If you have read the Basic
+Strategy section, you know that Yoshimitsu's most effective range is In Close.
+This is because most of his quick moves have relatively short range. Once you
+get into position you need to know how to maintain it. Yoshimitsu has a few
+great moves for advancing while attacking. These are essential for keeping
+your custom string going. If you use a short burst of moves which contain no
+forward momentum, you have basically created a gap between you and your
+opponent, thus losing position. The success of a custom string can be judged
+on how well it flows together, how long you can maintain it, and how much
+damage it causes or sets up. Remember to keep this in mind when you create a
+string. What is the purpose of this string? Do you want to separate yourself
+from your opponent? Do you want to continuously bombard your opponent with
+quick attacks. Or are you trying to set up a throw? Having a goal for a
+particular string is a very important factor to know as you create custom
+strings.
+
+You should have a general idea about the uses of a custom string, as well as
+the different factors involved when creating one. Now I will explain Yoshi's
+major custom string moves, as well as put them in an easy to read format.
+
+
+Forward Momentum Moves:             Stationary Moves:
+
+d/f+1,2                             d/f+4
+d/f+2                               WS+4
+1,2                                 d+1
+b+1                                 WS+2
+                                    1
+
+These moves are the ones most used in Yoshimitsu's custom strings. The each
+have one of two basic properties. They either: move Yoshimitsu forward during
+execution; or keep him stationary during execution. If you want your custom
+string to keep on the attack, then it's wise to have a bigger percentage of
+forward momentum moves. If you wish to separate yourself from your opponent,
+then a couple of quick stationary moves will do the trick.
+
+Let's look at a very basic custom string which I use a lot. This is a cross
+between forwards momentum and stationary. I use it to attack in a quick short
+burst, then push me away to safety.
+
+1, d+1, WS+4, d/f+4
+
+My main custom string starts with the the quick Basic Punch. It creates enough
+block stun against your opponent which lets you immediately go into the next
+hit, the low punch. Since the Crouching Low Punch is one of the fastest
+executing and recovering moves in the game, the Rising Front Kick is an
+excellent follow-up. The Rising Front Kick will separate you and your opponent
+far enough for you to safely throw out a Side Kick. This is one of the most
+effective basic strings for Yoshi because of its ease of execution and the
+fact that it only contains one high attack. Many times your opponent will try
+to foolishly attack in between the hits, thus taking damage.
+
+Obviously this isn't a combo, but it designed to force your opponent to block
+or take damage. Each part of the string flows well together making it very
+difficult for your opponent to attack. Usually an opponent will be enticed to
+attack after the Rising Front Kick and end up eating the Side Kick. This is
+great for you because when the Side Kick interrupts attacks, it tends to do
+major damage.
+
+If you want a longer string, you can switch up a few of the moves and end up
+with a never ending custom string.
+
+1, d/f+2, 1, d+1, WS+1, 1, d/f+2, 1, d+1, WS+1...
+
+This string is basically the same small string repeated multiple times. It
+starts with the Basic Punch, then a Basic Uppercut follows. The Uppercut has
+a little bit of a start up time, but the fact that Yoshi ducks down as he
+performs it makes up for it. The custom string then goes back into a Basic
+Punch, then a Crouching Low Punch. The final hit of the initial string is a
+Rising Uppercut. Then the string flows seamlessly back into itself, making it
+a very useful infinite custom string. The drawback of infinite custom strings
+is that your opponent will begin to recognize in, then develop solutions to
+escape. A great advantage to this string is its juggle potential. With the
+Basic Uppercut thrown in, if your opponent is lured into attacking at the
+wrong time, the will find themselves in the middle of getting juggled. Since
+there is never more than one high attack strung together, this is an effective
+string to use against opponents who like to crouch a lot. One obvious problem
+with this string is it doesn't ever attack low. Then again, it was designed to
+constantly bombard your opponent with hits with the intention of catching them
+with a juggle starter in between.
+
+Maybe you want to set up a juggle combo. Using custom strings to train your
+opponent to block is a super effective tool for Yoshi because he has the very
+powerful Unblockable Bad Breath. As you know, this move can start some great
+juggles even against blocking opponents. A simple, yet effective Bad Breath
+set-up string is:
+
+1, b+1, 1, dash forward B+1+2~ANY
+
+Simple, yet effective. Conditioning your opponent to block with a constant
+barrage of custom strings is essential for this string to work. Once your
+opponent is afraid to attack, they will be hesitant to attack when you dash in
+and start the Bad Breath. Once they realize what is about to happen it is
+usually to late and they end up caught in a Bad Breath juggle.
+
+The same effect can be produced with:
+
+1, dash forward B+1+2~ANY
+
+Basically this is the same thing as above without the first two attacks. It is
+great for interrupting an opponents attacks as well. Usually, when you stop
+one of their attacks with a Basic Punch, they immediately go into a defensive
+mode. This opens up an opportunity to go right into the breath.
+
+Another great way to set up juggles is to mix in a bunch of Basic Uppercuts
+into your string. Here is a string which I use to lure opponents into walking
+right into a juggle.
+
+d/f+4, d/f+2, 1, d/f+4, d/f+2, 1...
+
+The Side Kick puts some distance between you and your opponent. The Basic
+Uppercut brings you back towards your opponent. The Basic Punch is used to set
+up the Side Kick. It's a great custom string for setting up juggles because
+many opponents think the Side Kick has a slow recovery time, which isn't true.
+They usually end up walking into the Uppercut and taking a bunch of juggle
+damage.
+
+Since Yoshimitsu can start juggles from a crouch via his nifty Lunging Sweep
+(FC,d/f+3), there is no reason you can't use it in custom strings. In fact,
+most of the Yoshimitsu players I know utilize it in some form of string. My
+most used Lunging Sweep custom string is usually some form of the two below:
+
+1, d+1, FC,d/f+3
+
+1, d+1, WS+4, d+1, FC,d/f+3
+
+Basically the Lunging Sweep always follows the Crouching Low Punch. The first
+string is a very quick version of a Lunging Sweep custom string. The second
+example uses the popular Low Punch to Rising Kick string in between. Both of
+these strings are effective, but suffer a very dangerous side effect. If the
+Lunging Sweep is blocked, then Yoshimitsu is susceptible to some heavy damage.
+The best times to use either of these strings are when you have conditioned
+your opponent into blocking high. This is accomplished by using custom strings
+with many mid attacks and very few low attacks.
+
+You now know what a custom string is, and the many uses for them. You should
+definitely create some of your own to fit in with your own style. I have made
+a list of some of my most used custom strings for you to try out. Since each
+of these strings are variations of the major ones described above, I won't
+bother explaining them all.
+
+1, d+1, WS+4, d/f+4
+1, 1, d+1, WS+4, d/f+4
+1, 1, d/f+4, d/f+2
+
+d/f+2, d/f+2, 1, d/f+2...
+d/f+2, d/f+2, d+1 WS+4, d/f+4
+d/f+2, 1, b+1, 1, d/f+2...
+
+d/f+4, d/f+2, 1, d+1, WS+4
+d/f+4, d/f+2, d/f+1,2,d/b+2,2 d+1, WS+4
+
+f,f+2, d+1, WS+4, d/f+4
+f,f+2, 1, 1,2, d+1, WS+4, d/f+4
+
+
+These are just a small amount of the custom strings I use in my matches. They
+should give you an idea of how I string them together, and give you ideas on
+how to create your own.
+
+
+-Buffering Chickens-
+
+To effectively reverse ("chicken") your opponents Reversals, you must first
+understand how to do it. It's very simple really. If your opponent reverses
+one of your left limbs then you Chicken with f+1+3. If your opponent reverses
+one of your right limbs you Chicken with f+2+4. If a double limbed attack is
+reversed, such as a Kangaroo Kick or a Shark Attack, then you can Chicken with
+either f+1+3 or f+2+4. Now that we have that out of the way, let's take a look
+at Yoshimitsu's most commonly reversed moves. They are:
+
+d/f+2
+1,2,1,4 (last two hits)
+WS+4
+WS+2
+3,4
+d/f+1,2
+d/b+3,3(,3,3,3),f+4 (last hit)
+d/f+1,1,1,1 (last two hits)
+
+I am sure these aren't the only moves that will be reversed, but they are the
+most common. Buffering a Chicken requires some quick hands and a little bit of
+practice. Let's take the Side Kick (d/f+4) for example. To buffer the Chicken
+for the Side Kick, immediately press f+2+4 after performing the d/f+4 motion.
+Both motions should be as one and done fluidly. If your opponent tries to
+reverse your Side Kick, Yoshimitsu will have a stored Chicken and break out of
+it automatically. If your opponent doesn't reverse, you can go on with your
+match. Buffering is a very advanced technique which requires some experience.
+Once you can successfully buffer all of your reverse-prone moves, your game
+will greatly improve.
+
+One important side note: You cannot escape King's reversals. So buffering a
+Chicken for your kicks is not necessary.
+
+
+-Yoshimitsu's Oki-zeme-
+
+Oki-zeme is a Japanese term which basically means "to place pressure a downed
+opponent". This is loosely translated I suppose, but it is what most players
+recognize the word to mean. Many players think of hitting a downed or rising
+opponent as being "cheap" or "unfair" which is really not the case. Just as
+slikatel pointed out in his guide, in a real street fight, when someone goes
+down, you don't let up until it's over. This relates to Tekken 3 as well. When
+you knock your opponent down, you want to keep them down as long as possible
+in order to inflict as much damage as you can. Yoshi's most useful moves for
+keeping your opponent on the ground and/or damaging them while they are down
+are as follows:
+
+d+3
+d+4
+d/b+1
+d/b+3...
+u/f+1+2~D
+u/f+3+4...
+u+1+2,f,f
+f,f+3,1
+b,b+1~1
+
+Yoshimitsu has quite an oki-zeme arsenal as you can see. Usually when I knock
+an opponent down with Yoshi, I try to tack on a couple more hits instead of
+trying to keep them down. The best move for this is probably the Crouching Low
+Kick (d+3). Most of the times after I finish a juggle, I try to sneak in this
+extra hit because it hits both rolling and lying opponents. I also like to
+switch up with the Low Side Kick (d+4). This is another great move for hitting
+opponents who like to roll, and many times you can run up and add on the
+Crouching Low Kick.
+
+If your opponent just stays down after a knockdown, waiting to see what you do
+next, go into the Sword Pogo (u+1+2), then the Pogo Rush (f,f). These two
+moves take of a ton of damage and are both great ground strikes. The Pogo Rush
+even damages opponents which like to roll backwards or forwards.
+
+If you are unsure of what your opponent might do after a knockdown, don't be
+afraid to use one of the Poison Wind (u/f+3+4...) variations. The initial move
+will stomp any opponents lying on the ground, and sometimes can catch them as
+they attempt a roll. The advantage of using one of the Poison Wind variations
+is the fact that if you miss, you can backflip to safety. If you do connect
+with the initial hit, you can then continue with the Mini Backhand into the
+Big Poison Wind. Since the Big Poison Wind takes even more damage than the
+first one, connecting with this string can be very deadly to your opponents
+health.
+
+A risky but damaging oki-zeme strike is the Helicopter Leap-Quick Down Slash
+(u/f+1+2~D). This move takes of a considerable amount of damage at 25 points,
+but can really get you into a bind if your opponent rolls forward. I hardly
+ever use this technique but it effective against a mediocre opponent.
+
+The Spinning Low Sweeps (d/b+3...) have always been a great oki-zeme tool. In
+Tekken 2, almost all of the kicks would connect on a lying opponent. In Tekken
+3 they have toned it down so that only the first hit connects. I commonly use
+the Spinning Low Sweeps in places I would use the Crouching Low Kick (d+3).
+
+A very effective/high-powered oki-zeme tactic is the Wood Chopper (f,f+3,1).
+This move is great against opponents that like to roll forwards or backwards
+after a knockdown, but is also good against opponents which lie still. The
+Lunging Foot (f,f+3) can catch the opponent as they roll which makes the next
+part guaranteed. The only drawback of this oki-zeme tactic is the fact that
+opponents can avoid the damage with a roll to the side.
+
+The Spinning Sword (b,b+1~1) is another great move for pressuring a rising
+opponent. If you put out the Spinning Shield above your opponents lying body,
+many times they will stand up into it and take damage. Even if they try to
+attack as they rise, they will take damage. You must make sure to perform the
+Spinning Sword quickly, or it loses it's effectiveness.
+
+Perhaps the most effective oki-zeme move is the Sword Slice (d/b+1). Since it
+is one of Yoshimitsu's many Unblockables, your opponent has little defense for
+it while they are lying on the ground or rising. The only way your opponent
+can avoid being struck with the Sword Slice is to roll to the side, and even
+some of the best players tend forget rolling sideways.
+
+
+-The Keep-Away Game-
+
+Playing the Keep-Away game is much different than playing a strictly defensive
+or offensive game. Basically it entails making your opponent come to you and
+you running away or pushing them back. The reason this is technique can be
+effective is because, when your opponent is coming at you, they can't block. I
+sometimes use this play style when I play against high level competition, but
+it is more effective against the mediocre player. To play the keep-away game
+you have to take risks, it's as simple as that. Going for high-risk moves as
+your opponent rushes you is what it's all about. The most common moves I use
+for my keep-away game are as follows:
+
+d/f+4
+f,f+4
+u/f+4
+U/F+1+2~B
+4~3
+B+3+4 (up to 6x)
+Sit, [b_f]
+
+Both the Knee Bash (f,f+4) and the Jumping Twist Foot (u/f+4) I use to smash
+my opponent as they rush in. The risk factor here is that if your opponent
+does block them, they can retaliate and damage you instead.
+
+I use the Side Kick (d/f+4) to stop an opponent dead in their tracks. Many
+times I catch them right as they attack and I cause some major damage. The
+risk factor here is that is your opponent is out of range and doesn't get hit
+with the Side Kick, they can dash in and punish you before your Side Kick
+retracts.
+
+When opponents are far and they try to run in and slam me with a shoulder butt
+or slide, I go for the Reverse Helicopter (U/F+1+2~B). This is very effective
+because many times your opponents with go right underneath you, and you will
+end up coming down on them from behind. The drawback of using the Reverse
+Helicopter is that you can end up with your back to your opponent if they can
+anticipate the Reverse Helicopter, then stop their charge prematurely.
+
+The Kangaroo Kick (4~3) is used against opponents who like to rush in and go
+for a slow executing high attack. The Kangaroo Kick will go under their attack
+and set up a very large damage combo opportunity. Again, if your opponent cuts
+their rush short, you can end up whiffing the Kangaroo Kick, thus allowing
+your opponent to take a free shot at you.
+
+Both the Spinning Evade (B+3+4 up to 6x) and the Teleport (Sit, b_f) are used
+to get away from your opponent and change your positioning. When an opponent
+rushes in, the Spinning Evade can avoid all attacks and sometimes even place
+you behind your opponent. The Teleport is used more to lure your opponent into
+coming at you, so you can Teleport behind them at hit them for free.
+
+I am sure you can come up with Keep-Away uses for many of Yoshimitsu's moves,
+but I just wanted to give you a basic idea of how the Keep-Away game is played
+and which moves I use when I utilize the technique. Again, if you do not like
+taking risks I suggest you stay away from this play style. You can get into
+some really dangerous predicaments when you throw out wild moves as your
+opponent attacks, sometimes causing major damage to you instead.
+
+
+-Tricks of the Trade-
+
+Yoshimitsu has some very effective tricks and techniques used by the some of
+the top players. Usually tricks involve ways to use certain of moves together
+to confuse your opponent and cause damage. Others are used for making regular
+moves more effective. Knowing all the little nuances of Yoshimitsu can really
+help your style and make you an all-around killer.
+
+
+:Low Parry to Breath:
+
+Exactly as the name implies, this technique consists of first parrying a low
+attack, then using the Bad Breath (B+1+2~ANY). This is a deadly tactic because
+when opponents have a low attack parried, they usually worry about being hit
+or thrown so they block. Since the Bad Breath is unblockable, it will hit your
+opponent whether or not they are blocking back or crouching, thus setting up a
+big damage combo. To successfully use this technique, I suggest using a tiny
+dash towards your opponent immediately after you parry their low attack. This
+will bring you in range and also make your opponent weary of attempting an
+attack.
+
+
+:Jaw Smash to Free Hit:
+
+Since Yoshimitsu's Jaw Smash (2+4) throw keeps him near his opponent after he
+knocks them down, it is possible for Yoshi to add on extra damage before the
+opponent has any chance to escape. The first move which connects is the basic
+Crouching Low Kick (d+3). The second, more powerful, follow-up is the Sword
+Pogo-Pogo Rush (u+1+2,f,f). Many times this Pogo Rush will hit twice, making
+the Jaw Smash a very powerful throw. One thing to remember is that, if you use
+this technique too much, your opponent will catch on and begin to escape the
+initial throw.
+
+
+:Jaw Smash to Go Behind:
+
+Another great trick to use after a Jaw Smash (2+4) involves sidestepping
+towards your opponents head after the Jaw Smash connects, then using quick
+pokes to keep them from rising the correct way. Basically, if you connect with
+the Jaw Smash, sidestep towards your opponents head, then use a basic low
+punch (d+1), immediately followed by a rising right kick (WS+4) then repeat
+the pattern until one of the attacks hits. If your opponent tries to stand up
+or attack from this position, you will punch/kick them out of the attack and
+their back will be towards you. I suggest using a Knee Bash (f,f+4) if the
+rising kick connects, and a rising kick, then Knee Bash if the low punch
+connects.
+
+
+:Lunging Foot to Crouching Attacks:
+
+Another confusing set-up attack is the Lunging Foot (f,f+3). Since it recovers
+low (RC) you can smoothly flow into any move which starts as FC. The best part
+about using the Lunging Front Kick as a low move set-up is because most of the
+time your opponent will be worried about the Sword Slice follow-up and they
+will stand up. This gives you and opportunity to strike with a Lunging Low
+Sweep (FC,d/f+3) or a Sword Sweep (FC,d/b,b+1). Both moves are good because
+they cause some good damage. The drawback is the fact that if either move is
+defended against correctly, Yoshimitsu is open to some damage.
+
+
+:Lunging Sweep Combo to Wakeup Breath:
+
+A very tricky and nasty tactic to use when your opponent tech rolls a combo
+which leaves you close is to immediatly dash then Bad Breath (b+1+2~ANY). One
+of the best setups for this particular trick is: first catch your opponent
+with a Lunging Sweep (FC,d/f+3), then use a rising kick (WS+4), immediately
+followed by a basic low kick (d+4). As soon as the basic low kick connects,
+dash right up to your opponent and Bad Breath. Many times you will catch them
+off guard and score a high-damage combo.
+
+
+:Dash Buffered Attacks:
+
+Dash buffering attacks is nothing more than using a dash forwards (f,f) then
+adding a move onto the end of it. The best example I can give is the Dash to
+Knee Bash (f,f,f+4). As you can see, when using the dash with a Knee Bash on
+the end you have combined both moves to form one smooth motion. What makes
+this technique useful is the fact that you can cover larger distances before
+you attack.
+
+
+:Delayed Door Knocker:
+
+Using the wait-delay feature of the Door Knocker (d/f+1,1,1,1) you can often
+make your opponent walk right into damage. I have found that by delaying the
+third hit, it yields the best results. This is probably due to the fact that
+opponents don't realize what is going on for the first two hits so they end up
+blocking. Then once they realize that you are using the Door Knocker they know
+what to expect so when you delay the third hit they sometimes think the Door
+Knocker is finished. When they try to attack they end up finding out you were
+not done with the Door Knocker and they take damage. Experiment with different
+delay times and places to use the delay, you might find better places to use
+it effectively.
+
+Another great trick to use with the Door Knocker is to cut it short after the
+first two hits, then throw. By siwtching up between using the full four hits
+of the Wood Chopper, and cutting it short for a throw in between, you can keep
+your opponent guessing.
+
+
+-Controlling the Game-
+
+Controlling the game is a very hard thing to explain. Basically it involves
+you making your opponent do exactly what you want them to do, when you want
+them to do it. This is a very hard thing to do, especially at high levels of
+gameplay, but it can be done. The most important factor is being able to read
+your opponent. Do they have any predictable patterns? Do they always try to
+throw after you do a certain move? When do they go for juggles? In addition to
+knowing all that, you have to learn how they react to your attacks and actions
+each time you do something. Does your opponent block this consistently? Does
+your opponent now how to escape this throw? Knowing all this can be a great
+advantage if you pick it up quick enough.
+
+Once you get to the point where you know what your opponent is going to do
+after one of your attacks or actions, you must learn to exploit it. If your
+opponent always rushes in after a Rising Front Kick (WS+4), go for a grab, or
+slam them with a Side Kick (d/f+4). If your opponent always pokes you two or
+three times, then goes for a juggle attempt, use a Crouching Low Punch (d+1).
+The tactics above aren't guaranteed to work 100%, but when you find some that
+do, use them. Frustrating your opponent is very important. Once they feel like
+they have nothing they can do, you have won the game. When they get to the
+point where they are afraid to use their own tactics, you have basically shut
+them down, giving you free reign over the match.
+
+Now, if this actually happens to you, don't worry. Step back and play it safe
+for a few seconds. Try something you don't normally do. I mean, if you already
+have lost hope in winning, then why not try something new? Sometimes this is
+the key to getting out of the rut. The mental part of Tekken 3 is extremely
+important and you must learn to play it well.
+
+
+==============================================================================
+= [10] ::::::::::::::::::::::::: The Total Package ::::::::::::::::::::::::: =
+==============================================================================
+
+Now that you know what Yoshimitsu can and can't do, it's time to develop your
+own style of play. You have learned all about his moves, his combos, ways to
+create and utilize custom strings, and lots of really effective strategy. As
+slikatel pointed out in his guide, I can't tell you exactly how to play. That
+is something you have to find out for yourself through practice. I developed
+my style through tons of practice and constant experimentation. Take your time
+to learn everything you can about your character. If you think up something
+new to try, write it down and take it to the arcade and see what happens. 
+
+
+-Offensive vs Defensive-
+
+This is still one of the biggest questions regarding Tekken 3 play. Should I
+play defensive? Or should I play offensive? The answer to this lies in how you
+perform with each style. If you win more by playing defensive, then play a
+defensive game. If you win more by staying on the attack, then attack for all
+your worth and a little bit more. My recommendation is to make sure you know
+both facets of play. You can't do much against an opponent who is a defensive
+player when you yourself are one. Also, if your opponent is a great attacker
+like yourself, yet you aren't very experienced at defending, then you are in
+big trouble. Generally though, at high levels of play, only those with both a
+strong defense and offense will succeed. 
+
+
+-Taking Risks-
+
+Risk taking is a very important aspect of high level play. In my experience,
+only those players who take the final step and put everything on the line for
+a victory are those who who win consistently against the best competition. I
+am not saying you can't win by playing it safe, because that would be untrue.
+A sound no-risk defense and offense can be quite effective. In my opinion
+though, I do think that taking risks can open up your eyes and help you learn
+new ways of dealing with different situations. Try using moves in places you
+would never normally try them in a really serious match. I mean, go for an
+unblockable during an opponents string, throw out a random Kangaroo Kick, try
+using jumping attacks to escape odd situations. This is only the tip of the
+iceberg, but I am sure you understand my point. Many times you will find a
+great new technique that you can incorporate into your style of play.
+
+To be consistent and sound, is to be good... to be unpredictable and creative,
+is to be great...
+
+
+==============================================================================
+= [11] ::::::::::::::::::::::::::::: Epilogue :::::::::::::::::::::::::::::: =
+==============================================================================
+
+Well this is basically the end of the guide. If you are a novice Yoshi player
+or just starting out, you should probably read this guide a couple more times,
+trying to learn a few new things each time. Be sure to get all his moves down
+and be able to perform them on call. Then make sure you can juggle with decent
+proficiency and consistency. Once you have the general Yoshimitsu gameplay
+under control, work on your own style of play. If you are an intermediate to
+advanced Yoshimitsu player, I hope you have learned at least one or two things
+new from reading this guide. The sole purpose of this guide is to make you a
+better player. Since there is always something new to learn, this guide can't
+possibly list everything there is to Yoshimitsu. I can only hope I have given
+an accurate representation of his abilities. Remember... have fun! - Ben
+
+
+==============================================================================
+= [12] ::::::::::::::::::::::::::: Useless Info :::::::::::::::::::::::::::: =
+==============================================================================
+
+-Yoshimitsu's Story-
+
+Boskonovitch created the Cold Sleep machine during experiments in his search
+for eternal life. The technology, still unproven, was used to preserve his
+young daughter who suddenly passed away. 
+
+Yoshimitsu raises research funds and as the leader of the "Manji" party he
+helps the poor and disadvantaged. Yoshimitsu visited Boskonovitch when he
+learned of the many martial artist disappearances. The "Yo-man" was surprised
+to find Boskonovitch suffering from a mysterious pathological organism. It's
+believed to have been contracted during lab experiments while making the Cold
+Sleep machine. Like some weird sci-fi story, Boskonovich claims he needs blood
+from the God of Fighting to complete his research and bring his daughter back
+to life. Indebted to Boskonovitch for saving his life, Yoshimitsu enters the
+tournament to help an old friend. 
+
+
+-Biography-
+
+Copy:            "Cyborg Ninja"
+Nationality:     None
+Fighting Style:  Manji Ninja Arts
+
+Age:             Unknown
+Height:          178cm
+Weight:          63kg
+Blood Type:      0
+Occupation:      Leader of Manji Clan
+Hobbies:         Sumo Wrestling, Net Surfing
+Likes:           Arcades, especially those in Shinjuku, Japan
+Dislikes:        Villains, Poor Losers
+
+
+-Outfits-
+
+Button:
+1 or 2       Yoshimitsu is clad in gold torso armor and shin guards and is
+             also wearing black pants with a red belt. His helmet is really
+             big and convexed shaped.
+
+3 or 4       Yoshimitsu is clad entirely in silver body armor. His helmet is
+             normal shaped with a red tassel on top.
+
+
+-Pre-Fight/Winning Stances-
+
+:Pre-Fight:
+
+Button:      Result:
+1 or 2       Yoshimitsu does a backflip with a twist, landing in his fighting
+             stance.
+
+3 or 4       Yoshimitsu bounces onto the screen while in his Sit, eventually
+             ending up on the ground in front of his opponent, where he then
+             uses his Teleport to stand up in the correct position.
+
+:Winning Stances:
+
+Button:      Result:
+1            Yoshimitsu draws his sword and waves it back and forth as he then
+             pulls it back and is ready to strike.
+
+2            Yoshimitsu does a back flip into his Sit as he then draws his
+             sword and holds it in front of him.
+
+3            Yoshimitsu does his Double Sword Slice, lands, then poses as if
+             he is about to strike.
+
+4            Yoshimitsu hops on one leg with one knee in the air, puts his leg
+             back on the ground, shakes his head, and poses with one arm out.
+
+
+==============================================================================
+= [13] :::::::::::::::::::::::::::::: Credits :::::::::::::::::::::::::::::: =
+==============================================================================
+
+Ben Cureton (tragic@tekken.net)                     Author/Designer/Player
+  - That's me. The Yoshimitsu Manual took me about two weeks to complete which
+    is definitely a long time to spend on one character. Yoshimitsu has been
+    my favorite character since the first Tekken and I figured he deserved an
+    accurate representation of his abilities.
+
+Robert Brassfield (slikatel@tekken.net)             Inspiration/General Format
+  - Rob made a lot of great points in his spectacular Jin Kazama Strategy
+    Guide which I reused with his permission. I also used his general format
+    for getting the information across. Rob is an excellent Yoshimitsu player
+    and together we have bettered each others Yoshimitsu play.
+
+Steve Sronce (wls@eosinc.com)                       Stance List/Player
+  - Steve is another excellent Yoshimitsu player. Steve has always shared his
+    techniques and strategies and I definitely got some fresh ideas on Yoshi
+    play from him. I also modified his Winning Stance List for Yoshimitsu and
+    used it in my Useless Information section.
+
+Matt Kutaka (no@email.com)                          Main Yoshi Competition
+  - Matt Kutaka is one of the most advanced Yoshimitsu players I have ever had
+    the priviledge of competing against. Matt always has new tricks up his
+    sleeve and is never one to keep them secret.
+
+Jeff Batdorf (khorkina@earthlink.net)               Main Yoshimitsu Discussion
+  - Jeff is one of the premiere Yoshimitsu players online. He is responsible
+    for some really crazy combos as well as some awesome tactics. Pray you
+    don't run into him.
+
+Dr. Boskonovitch (drb@namco.com) =)                 Keeping Yoshimitsu Oiled
+  - What can I say? The man's a genius!
+
+ Extra Special Thanx to all the people not mentioned in this section, namely
+       all of the guys online in #gamenation and members of TEKKEN.NET.
+
+      - The Yoshimitsu Manual is dedicated to all of those Yoshimitsu -
+      -  players who stuck with him when non-believers shot him down  -
+      -        and gave him no respect. Yoshimitsu Forever!!!         -
+
+                      TEKKEN.NET - http://www.tekken.net
+
+==============================================================================
+= :::::::::::::::::::::::::::: End Of Document ::::::::::::::::::::::::::::: =
+==============================================================================

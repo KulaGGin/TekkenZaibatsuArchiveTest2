@@ -1,0 +1,440 @@
+Date: Thu, 10 Jul 1997 18:42:21 -0400 (EDT)
+From: Time Killer <timekillr@videotron.ca>
+
+|----------------------------------------|
+| Tekken 3 Forest Law Guide v1.0         |
+| by TimeKillr (timekillr@videotron.ca)  |
+|----------------------------------------|
+(Anyone wanna draw an ascii? :)
+
+Some stuff before we begin. First of all, my nick DOES come from Time Killers.
+I used to love that game, and I've had it for 4 years or so, so I'm not gonna
+bother finding a new one. Second, this is the first time I've ever written a
+FAQ. So.. there probably will be some typos, errors or anything. If you have
+any corrections and/or additions to make, email me or answer to the post in
+rgva.
+
+This file should be read with QEdit(hey, that's what I used to write it. :))
+but any 80 column formatted reader should do just fine.
+
+I'll post every addition to this FAQ on rec.games.video.arcade, and also
+www.gamefaqs.com and the Tekken 3 information center
+(http://www.geocities.com/SiliconValley/Heights/7811/tekken3.htm)
+
+Now that that's over with... let's go on with the program.
+
+Table of contents
+1.......... Introduction/Law's story
+2.......... Move list
+3.......... Move comments/strategies
+4.......... CPU strategies
+5.......... Credits
+
+---------------------------
+1. Introduction/Law's story
+---------------------------
+
+Marshall Law's son. (Note: Marshall Law is in Tekken 1 and 2, for those who
+don't know.)  He is training himself at his father's dojo, but any contests
+outside his own group is forbidden by his father. Once in three months,
+Paul Phoenix visits this dojo to fight with his father, Marshall. As usual,
+Paul came again, but the situation is different this time, because his
+father was absent in order to build a new dojo. Paul invited him to join
+his journey of training, and forced him to ride on the back seat of his
+bike, though he was still irresolute.
+
+Paul suddenly asked him to participate in "The King of Iron Fist Tournament
+3" together. He said that he was forbidden to fight with others, but Paul
+flattered him, saying "You have a better talent than your father." Though
+he worried what to do, he wanted to have a try himself and this is also a
+good chance to test whether he is good enought to inherit his father's dojo
+or not. Forest neglected his father's advice and made up his mind to
+participate in the tournament. Of course, Marshall was so enraged to read
+Paul's message left behind. "My son was stolen!"
+
+Catch Copy                  Flaming dragon has come back
+Nationality                 U.S.A.
+Fighting Style              Martial arts (Note: Kung Fu is more like it)
+Age, Height, Weight,
+Blood type                  25, 177cm, 66kg, B Type
+Occupation                  The second master of Marshall's dojo (maybe)
+Hobby                       Shopping
+Likes Credit Cards          (He was made to shoulder Paul's participation fee of
+                            the tournament as well as all the gasoline
+expenses.)
+Dislikes                    Riding on the bike with Paul.
+                            (He is afraid of Paul's driving.)
+
+Law was labeled as a scrub character in Tekken 1 and 2.  I never personally
+played him in TK1, and I barely played TK2.(The CPU was set at WAAAY to
+hard the day we got it, and since people were not very competitive, nobody
+played it). From what I saw from the PSX version of TK2, Law has gotten a
+lot of new moves and combos that make him less a scrubby character. His
+father was lacking combos, like the Junkyard. People who used to play Law
+in Tekken 2 do not have much to fear, as he kept all his moves. But Law is
+also a LOT stronger in TK3. The new combos they gave him offer new
+opportunities he did not have in TK2. It is now easier to juggle, and with
+fast starting combos, has a more effective game. This FAQ is written so
+that you can see that Law IS NOT a scrubby character anymore, and that he
+can be a pretty deadly Kung Fu master. He is most certainly figured after
+Bruce Lee, the Kung Fu legend, especially in part 3. He moves like Bruce
+Lee, acts like Bruce Lee and shouts like Bruce Lee. I haven't seen much
+Kung Fu, but I don't think that all forms are like Bruce Lee's style, the
+Gung Fu. Law isn't a hard to master character, like Lei, who has lots of
+different stances, but isn't like Eddy, who is most of the time a
+button-mashed character. (I have yet to see someone using punches with
+Eddy. Or maybe they just think that those 2 buttons on top of the 2 they
+usually use are for some dark, unknown use. :)) I like Law for his balance,
+his abundance of juggling, and also for the effect playing him has on other
+players(I've received quite a few 'Wow, how did he do that' after a d/b+2,4
+combo). So I hope you'll appreciate this guide, and remember for any additions/
+comments, you can either post on rgva or email me.
+
+------------
+2. Move list
+------------
+
+Motion                 Attack Level   Comments
+
+Punch Combos
+
+1,2                    hh             1-2 Punches
+2,F+2,2                hmh            Dragon Knuckle Combo  [Knock Down]
+2,2                    hh             Double Knuckle        [Knock Down]
+1,1,1,1,1              hhhhh          Rapid Left Punches
+  = 2,2(after 1-4 1's) hh             Double Knuckle
+  = 2,F+2,2 (same)     hmh            Dragon Knuckle Combo
+b+2,3,4                mlm            Junkyard Combo
+b+1,2,1                mmm            Fists of Fury         [Juggle Starter]
+f+2~1                  m              One Inch Punch        [Massive Damage]
+d/b+2                  m              Turn Away Backfist    [Knock Down
+                                                                 on Counter]
+  = 4                  m              Backflip              [hits on ground
+                                                                      level]
+(BK) [1 or 2]          m              Turn Toward Punch
+
+
+Kicks
+
+d/f+3                  m              Step-In Middle Kick
+3,3                    hh             Multi Kick Starter
+  = 3                  h              Finish High Kick
+    = 4                m              Flip Kick Finish      [Juggle Starter]
+  = f+3                m              Feint Middle Kick
+  = 4                  m              Roundhouse Finish
+d+3,3                  lh             Low Kick-High Kick
+  =  4                 m              Kickflip              [Juggle Starter]
+  =  3                 h              Side Kick
+    =  4               m              Kickflip              [Juggle Starter]
+    =  3               h              Side Kick             
+      =  4             m              Flip Kick Finish      [Juggle Starter]
+  = f+3                m              Feint Middle Kick
+4,3,4                  hhh            Spinning Kick Combo
+FC[U/B or U or U/F]+4  m              High Flip Kick
+FC[u/b or u or u/f]+4  m              Low Flip Kick
+FC[u/b or u or u/f]3+4 m              Somersault Drop        [hits on ground
+                                                                       level]
+4,u+3                  hm             Roundhouse-Kickflip
+FC,3,4                 lm             Low Kick-Kickflip      [Juggle Starter]
+[d or FC]+4,3          lm             Side Kick-Kickflip     [Juggle Starter]
+d/f+4,3                mm             Frontkick-Kickflip     [Juggle Starter]
+WS+3,4                 hm             Twist Kick-Kickflip    [Juggle Starter]
+WS+4,3                 mm             Frontkick-Kickflip     [Juggle Starter]
+[d+ or FC]2,3          lm             Low Punch-Kickflip     [Juggle Starter]
+3,4                    hm             Highkick-Kickflip      [Juggle Starter]
+3+4                    m              Kickflip               [Juggle Starter]
+  = 3                  m              Double Kickflip        [Juggle Starter]
+d+3+4                  mm             Backflip-Pop Up
+D+3+4                  m              Backflip-Laydown
+                                      
+
+Low Attacks
+
+FC,3                   l              Low Spin Kick          [hits on ground
+                                                                       level]
+d/b+4                  l              Dragon Tail            [Knock Down]
+FC,d/f,d,d/f+3         l              Dragon Slide           [Knock Down,
+                                                               hits on
+                                                               ground level]
+
+
+Reversals, etc
+
+SideStep+3+4           lh             Double Dragon Kicks    [This first kick
+                                                               Knocks Down
+                                                               and the second
+                                                                combos]
+b+1+2 (as counter)     -              High Punch Reversal
+  = 1                  m              Turn Around Punch
+b+1+2                  -              Hopping Taunts
+  = 1                  m              Fatal Backhand         [Massive Damage]
+b+[1+3 or 2+4]         -              High Reversal
+[d+ or FC][1+3 or 2+4] -              Low Reversal
+d/b+[1+3 or 2+4]       -              Low Reversal
+
+
+
+Unblockable
+
+d/b+1+2                !              Dragon Fang            [Super Damage]
+  = u,u                -              Dragon Cancel
+
+
+Throws
+
+1+3                    f-throw        Reverse Elbow Throw
+2+4                    f-throw        Leg Grab Takedown
+f+2+3                  f-throw        Dragon Dive
+d/f+1+2                f-throw        Chastisement Punch
+  = 1,2,1+2            link           Bulldog
+f,f+3+4                f-throw        Dragon Knee
+1+3 or 2+4             b-throw        Throat Punch
+1+3 or 2+4             rs-throw       Dragon Crotch Punch
+1+3 or 2+4             ls-throw       Reverse Kick to Head
+
+
+Strings
+
+d/f+1:22:13:3:3:4:3:4           
+d/f+1:22:13:3:D+3:D+3:(3_4):4:4 
+d/f:1:3:2:2:3:3:3:4:3:4         
+d/f:1:3:2:2:3:D+3:D+3:(3_4):4:4
+
+
+---------------------------
+3. Move comments/strategies
+---------------------------
+
+I will only comment on what I use the most for the moment, and later on I will
+add something for every move... anything I can find useful I'll post.
+
+Junkyard combo (b+2,3,4)
+
+    Okay, so no one likes this move(or so it seems) except in combos. Well,
+    let me tell you something. It's EXCELLENT in Okizeme(attacking a rising
+    opponent) if you're playing against someone who doesn't know how to
+    stay dead. You'll just Junkyard them to victory. :) But the most
+    effective thing about this move, is that the third attack is a medium
+    attack. Okay, so now you're wondering 'What does that have to do with
+    anything?' Look at is this way. The attack levels are ALL medium/low,
+    and you have to block high/low/high. Okay, that isn't that hard, but
+    you can't duck under the last kick so there's no chance of easy
+    retaliation. Against beginners and intermediate players, either the
+    punch or the low kick hits. (Usually it's the low kick). So it's good
+    for some tick damage once in a while. Another good thing is that the
+    punch is fast. VERY fast. So you can easily block almost anything that
+    does not stun you and recover quickly and score an easy hit, and maybe
+    even 2 since most players do not see the low kick coming. Of course,
+    the last kick will most probably be blocked, unless you play against an
+    idiot. And even if the last kick is blocked, Law recovers REALLY fast.
+    Only moves that are as fast as the Junkyard can be used to hit Law as
+    he recovers, and I have yet to find someone using those moves(the CPU
+    surely doesn't). Another beauty of this move is that the last kick
+    always counts as a counter and hits kinda hard. Plus it juggles, adding
+    2-3 easy hits. Plus it can be juggled with itself, meaning another 3
+    easy hits. So you see, this move is VERY useful, and you can really
+    count on it. The only downside is that against human opposition, the
+    last kick rarely hits, and most of the time only the low kick hits. Of
+    course, you might get countered. It never happened to me(maybe it's
+    because nobody counters where I play) and it probably never will. I
+    think that the last kick would be a bit hard to counter, but it's just
+    me. I have to get the timing right to counter, so I'll have to practice
+    on that.
+
+Fists of Fury combo (b+1,2,1)
+
+    This is another great juggle setter. If the first hit counters, the
+    last hit is guaranteed, and that also means some other free juggling
+    hits. The problem with it is that it's not too fast, and I heard that
+    the last punch was easily counterable. You can toy with this by not
+    finishing the combo. It's also great as a juggle with the Junkyard. It
+    does not hit very hard, but all the hits are medium so if you see your
+    opponent ducking go for it. I also really like juggling this with
+    u/f+3,4(it's an ugly jumping side kick followed by a kickflip). If done
+    correctly, this combo does around 75% damage, which is not something to
+    spit on.
+
+One inch punch (f+2~1)
+
+    My advice to you: Never use this move normally. It has pathetic range,
+    is slow as hell and you see it coming a mile away. The only use I've
+    found for this is as a juggle with b+1,2,1. It's pretty strong though,
+    and it might be useful against newbies.
+
+
+Turn away backfist (d/b+2)
+
+    This move has 2 uses: it's fast, maybe faster than the Junkyard, but
+    harder to execute, especially on crappy joysticks that button-mashers
+    just love breaking. It also has an interesting effect on your opponent
+    when you link a 4(reverse backflip). Most of the time they are so
+    baffled by the move that they just stop moving for a second or two,
+    allowing you to close in and attack. The backflip is spectacular, and
+    is also an excellent move, for it hits on ground level and has a
+    relatively large range. This move is also great for juggling after a
+    Junkyard. It does decent damage and looks good. It's enough for me. :)
+    Pressing 1 or 2 after it does a turning punch, which is fast and makes
+    your opponent back up. And finally, pressing 3 after it does your
+    normal everyday turnaround kick. All around, a good move with good
+    combo opportunities.
+
+Low punch - kickflip combo (d+2,3)
+
+    I use this more often than low kick - kickflip, because the punch is a bit
+    faster than the kick. It's great for knocking those awful Eddy's out of
+    their dancing low kicks, and it EXCELLENT as a juggle started against
+    Yoshimitsu when he uses his move where he stands on his sword(I don't know
+    the name of that move, sorry).
+
+Dragon's Tail (d/b+4)
+
+    This is Law's BEST low move. Even though it's slow, it's effective, it
+    knocks down, is useful as Okizeme... it's got everything. Plus it's
+    a bit effective against the CPU. Remember this move when playing against
+    Eddys or Leis. Very useful.
+
+Dragon's Fang (d/b+1+2)
+
+    Law's unblockable. As with all unblockables, it takes forever to wind up,
+    you see it coming a mile away, and only clueless newbies get hit by it.
+    It's good if you time it correctly when an opponent gets up though.
+
+Hopping Taunts/Fatal backhand (b+1+2, 1 2 seconds later)
+
+    The punch in this move does MASSIVE damage. I think it does about the
+    same amount as the unblockable, if it counters. Anyhow, this move is
+    GREAT against beginners and also some intermediate players. Almost no
+    one sees the punch coming, most of the time they get confused by seeing
+    Law hopping. Also good against CPU opponents, when they are a bit far
+    this move gives them the time to close in and then smack them. The
+    punch has EXTREMLY high priority, is VERY fast and hits VERY hard. What
+    more do you need?
+
+That's it for now. As you might have noticed, I haven't included anything
+involving kicks. That's because I NEVER use his kicks singlehandly. His kicks
+aren't that good, and you often whiff a kickflip with that.
+
+-----------------
+4. CPU Strategies
+-----------------
+
+Against Ling Xiaoyu
+
+    Nothing special about this one, just remember that the first kick in the
+    Junkyard hits her in her Art of Phoenix stance, which is pretty good.
+
+Against Forest Law
+
+    Well, I NEVER had a fight against a CPU Law with Law so I can't really
+    tell. :)
+
+Against Nina Williams
+
+    Nina is a real bitch. (Sorry, but I had to say it). Usually all I do
+    is Junkyard, block whatever she throws at me and counter-attack with
+    a Junkyard. And usually only the punch from the Junkyard connects, but
+    hey, sometimes she doesn't block the second kick so I'm happy juggling!
+
+Against Yoshimitsu
+
+    Yoshi is not that hard to beat. Remember the d+2,3 kickflip combo when
+    he stands on his sword, and counterhit the b+4,4 when the first kick is
+    done.
+
+Against Hwaorang
+
+    Reverse his kicks. Most of the are always high, and b+1+3 works very well.
+    After a successful reverse, go for a side throw or a simple 2,f+2,2 combo.
+
+Against Eddy Gordo
+
+    Eddy is not that hard to beat either. Junkyard your way to the end! :)
+
+Against Paul Phoenix
+
+    Paul is a little harder to beat, but remember that whenever he uses death
+    fists, the falling leaf combo or practically much anything, he has lots
+    of lag time before he recovers. Use Law's speed at your advantage here.
+
+Against King
+
+    Not much against King. The CPU is really no good, and only does multis
+    all day, which are not that hard to break out of. Otherwise Junkyard like
+    crazy and block whatever he retaliates with.
+
+Against Jin Kazama
+
+    Watch out for the hell sweeps combos. Learn to block them then retaliate!
+
+Against Lei Wu Long
+
+    Lei is a sucker for the Dragon's Tail (d/b+4) when he lies on the ground.
+    Other than that... Junkyard paradise. :)
+
+Against Panda/Kuma
+
+    Those 2 are pretty pathetic. They are so slow you can counter with the
+    Junkyard any time!
+
+Against Julia Chan
+
+    Julia is harder to beat for me, mainly because I have not played Tekken 2
+    that much so I have no experience against Michelle. Mainly, watch out
+    for high-low combos.
+
+Against Gun-Jack
+
+    He's much like Panda/Kuma, but with a little more moves. A bit faster too
+    (might just be me there). Anyway, do the normal pattern, Junkyard-block-
+    retaliate.
+
+Against Heihachi Mishima
+
+    Heihachi is not that hard. He blocks a lot, but some of his moves also have
+    some lag after they are performed so once again use that to your advantage.
+
+Against Ogre 1
+
+    Ogre 1 is much like Heihachi. But against Ogre 1, you can do Junkyards all
+    day, and it's much easier to retaliate.
+
+Against Ogre 2
+
+    Ogre 2 is like a Panda/Kuma, only with a somersault/tooth fairy combo
+    (I think it's what's it's called). Same thing here, Junkyard-block-
+    retaliate.
+
+Mokujin is not even playable at my arcade yet, so nothing on against him(anyway
+anyone can figure it out, he's just a Mimic.)
+
+
+Some other good tactics that I've found.
+
+When using the Fists of Fury combo (b+1,2,1), remember that it has some lag
+before recovering. So the CPU is more likely to come and throw you. Use
+that to your advantage, and try to reverse anything they throw at you. Most
+of the time, if they throw, you'll at least escape the throw, which by
+itself is a pretty good strategy.
+
+NEVER use the 10-hitters after the second opponent. I've never been able to
+do anything useful with it other than with the first opponents and against
+human challengers, and I doubt I ever will.
+
+----------
+6. Credits
+----------
+
+Credits go to Hyun Yim, whom I took the movelist from.
+
+He took the moves from the various FAQs, like Surfbard's and Catlord's.
+
+Everything else is written by me(obviously).
+
+For any additions/corrections/spelling mistakes/whatever(I'm french
+canadian, and my english is not perfect so any problems with that I'd
+appreciate knowing about it), email me at timekillr@videotron.ca. I can
+also be reached on IRC, sometimes in #tekken3, and sometimes in #emuroms
+too. My nick is TimeKillr. And I am known on the ICQ network as Time
+Killer.
+
+July 10th, 1997

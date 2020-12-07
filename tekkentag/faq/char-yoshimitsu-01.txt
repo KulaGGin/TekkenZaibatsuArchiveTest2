@@ -1,0 +1,1208 @@
+YOSHIMITSU, The Deception
+Yoshimitsu FAQ by Cosmic Forge (jraley@austin.rr.com)
+First draft:  10/03/99
+Revised: 06/16/2000, Ver 2.0
+-----
+History List:
+1.1 --Added more BK juggles/starters and elaborated more in the strategy
+      section.
+1.2 --Clarified several juggles and fixed some typos and formatting errors.
+1.3 --Added a few new combos, including the b+1+4 and FC, d/f sweep juggles.
+1.4 --Formatted for text-only reading.  No more ugly long lines.  Sorry.
+1.5 --Reworking of overall appearance... smoother reading and less jumping
+      around.  Also updated website references.  Made some changes to some
+      combos as well (SS+2 and others).  New sections added:  Custom Strings
+      and Tag Team Partners.
+1.6 --Annotated "backwards" after all Shark Attack combos for clarity.
+      Updated all references to the Pogo hop variations.    
+      Updated combos/strategies for:  SS+2, SS+4(CH), f,f+4~3(NEW), SS>f+4~3,
+      d+1+2(clean), f,f+2(now f,f>2), 4~3 (new juggle), and f,f,N,f+4(NEW).
+      Updated Sections:  Credits, Custom Strings, Move Breakdowns (True Shark
+      Attack combos VS Backturned moves, Crosschop Stun Advantage), and Tag 
+      Team Partners (new/old).  
+      More touchup formatting.
+2.0 --Custom Combos section added (deviant of Custom Strings).
+      Notations section added.
+      New addition in the Strategy Section:  Vs Specific Characters:
+      Mishimas, Changs and Lei added.
+      Updated d/f+2 combos, and explained d/f+2 properties more.
+      Low Parry added in Move Breakdowns with guaranteed followups.
+      Whirlwind kick moved from Non Juggle to Combo Area in Move Breakdowns.
+      Tag Cancel added and explained in the Tag Moves section.
+      Completed Tag Team Juggle Section (open to suggestions!).
+      New properties discovered for SS+2~5.
+----
+Okay, so I finally made my own FAQ for this wacky guy.  Why?  Well, I think
+he's just the coolest character in the game, even since T2.  He probably has 
+the biggest movelist, and has totally unique arsenal of moves unlike any 
+other character.  For this FAQ, I have clipped the Movelist from Catlord's 
+FAQ and made changes/updates to it.  If you need to know what the conventions 
+mean, download the full FAQ at 
+http://www.tekken.net/catlord/ttt/tttmoves.txt.  I also suggest visiting the 
+Zaibatsu site at http://www.tekkenzaibatsu.com  I have split the FAQ into the 
+following sections:
+
+***NOTATIONS***
+I use the standard notations of the Tekken community.  However, if you are 
+unfamiliar with them, please see Catlord's movelist for complete
+details.  I'll include a few less common ones here:
+_    Underscore, same as "OR". I.E., (f+3)_(f,f+4) is f+3 or f,f+4
+CD   means crouch dash, the motion being f,N,d,d/f on the joystick/controlpad.
+[ ]  Brackets mean the enclosed commands are optional
+( )  Parentheses mean the enclosed commands whiff on purpose so the rest of
+     the combo/commands will execute or connect for desired effect.  They also
+     separate options in combos with the _ character.
+*    Asterisk indicates that there will be additional notation for that move
+     (TECHNIQUES section-- indicates moves not normally on Catlord's list)
+ASAP (As soon as possible), basically enter the command within the first few
+     frames of opportunity
+WGF  The motion of f,n,d,d/f+2
+TGF  The motion of f,n,d,d/f+1
+
+-----------
+FAQ OUTLINE
+
+1) TECHNIQUES
+2) MOVE BREAKDOWN Section
+  A) Combos/Juggles 
+  B) Non juggle moves/combos
+  C) Tag moves
+3) FIGHTING STRATEGIES
+  A) AS YOSHI
+    I) Against Defensive Players
+    II) Against Offensive Players
+    III) Against Mashers
+    IV) VS Specific Characters
+  B) AGAINST YOSHI
+  C) CUSTOM STRINGS (poking strings)
+  D) CUSTOM COMBOS  (situational combo setups)
+  E) OKIZEME
+  F) TAG TEAM PARTNERS
+4) CREDITS
+  
+  
+
+------------------------------------------------------------------------------
+TECHNIQUES
+
+GRAPPLING TECHNIQUES
+(Front)  1+3                 Flying 69 Slam {1}
+         2+4                 Hilt Smashdown {2}
+         2+5                 TAG THROW {2}
+         QCB+1+2             Missile Press {1+2}
+(Left)   (1+3)_(2+4)_(2+5)   Flying Cartwheel {1}
+(Right)  (1+3)_(2+4)_(2+5)   Clonimitsu {2}
+(Back)   (1+3)_(2+4)_(2+5)   Spinning Missile Press
+(Tackle) 1_2                 Chest Stab  *Unblockable*
+
+SPECIAL TECHNIQUES
+f,f>2                   Elbow Smash  *Sword Run Through On CH*
+  d,3+4                   Immediate Sit  *On CH Slice*
+f,f+4                   Jumping Knee
+* ~3                      Cancel into Kangaroo Kick [Before Knee Appears]
+* f,f,N, f+4            Delayed Jumping Knee 
+* f,f,N, f+4~3		Delayed Jumping Knee Cancelled into Kangaroo Kick
+f,f+3+4,1+2,3+4         Shark Attack, Shark Dive, Kangaroo Kick  *Juggles*
+4~3                     Kangaroo Kick  *Juggles*
+b+1,[1],[1],[1],[1],[1] Spinning Hilt Strikes  *Dizzy after x6*
+b+1,d/b+3,3,f+4         Spinning Hilt Strike, Leg Sweeps, Midkick
+b+1,3+4                 SPINNING HILT STRIKE, SPINNING SIDESTEP
+SS+1                    HILT SMASH UPPERCUT  *Juggles on CH*
+SS+2 [~5]               DODGING UPPERCUT [Tag] *Juggles*               
+SS+4                    WHIRLWIND *Stun on CH*
+* SS>f+4~3 [~5]         Sidestep Cancel to Kangaroo Kick [Tag]
+2,3_d+3                 Punch, Kick_Lowkick
+FC,d/f+3                Sweeping Kick  *Floats, Autoparry if blocked*
+D/B#+3,3[,3,3,3],f+4    Spinning Leg Sweeps  *Falldown After x6*, Midkick
+D/B#+2[,2,2,2,2,2],f+4  Crouching Fist Spins  *Dizzy After x6*, Midkick
+d/f+2 [~5]              Yoshi Uppercut [Tag]  *Juggles*
+3                       High Spinkick                                  
+  4			  Medium Boot
+  d+3+4   		  KANGAROO KICK [Tag] *Juggles*                
+4,4,4                   3 High Kicks
+u/f+3+4                 Flipstomp
+  b+1,3+4                 Spinning Hilt Strike, Flipstomp
+  b+1,4,d/b+1             Spinning Hilt Strike, Backflip, Sword Slash
+    D/B#   	            Cancel Sword Slash to Smoking Sword Slice hops
+  3+4,3+4 [~5]            KANGAROO KICK [Tag]  *Juggles*                 
+(u/b_u_u/f)+4           Twisted Foot
+u~u/b                   Backflip
+d/f+4                   Savior Boot!
+f,f+1+4,N               Suicide Feint, BK
+f+2                     Backhand  *Turns Opponent Around*
+d/f+1                   Elbow
+  1>1>1                   Sword Pommel Strikes
+  2                       Backhand  *Turns Opponent Around*
+    D/B#+2[,2,2,2,2],f+4    Crouching Fist Spin[s], Midkick
+d+3+4                   Sit Down
+  u                       Stand Up
+  N                       Rejuvination  *Regains Life*
+  ~D#                     No Rejuvination Sit
+  4                       Kangaroo Kick  *Juggles*
+  2[,D/B#+2,2,2,2],f+4    Crouching Fist Spin[s], Midkick
+f,f+1+2               Shark Attack,                                 
+  1+4  			  Life Siphon Throw *Steal Opponent's Life*    
+  1+4~F			  Reverse Life Siphon Throw *Give Opponent Life*
+* QCF+1                   (BK) Double Somersault Backwards
+* d/b+2[,2,2,2,2,2]       {BK) Spin Away Crouching Fist Spins
+* d+3+4                   (BK) Sit Down Backwards
+*   u                       (BK) Stand Up Backwards
+*   N                       (BK) Meditation Backwards
+*     f_b                     (BK) Teleport Away (Not Behind)
+*   4                     (BK) Kangaroo Kick Backwards
+*   2[,D/F#+2,2,2,2],f+4  (BK) Crounching Fist Spin Backwards, Midkick
+* u+1+4_2+3               (BK) Sword Stab Backwards *Unblockable*
+*   ~1                      (BK) Cancel to Saw Blade Backwards *Unblockable*
+* u/b+1+2                 (BK) Copterblade Backwards *Unblockable*
+*   d                       (BK) Quick Fall Backwards *Unblockable*
+*   f                       (BK) Turnaround Fall Backwards *Unblockable*
+d/b+1+2                 PROPELLER GUARD
+FU/FT_FU/FA 3+4           SIT DOWN                                
+SS+3+4                  Meditate Position  *Hurts Yoshi After x5*
+  F                       Rejuvination  *Unblockable, Regains Life*
+  (1+4)_(2+3)             Life Siphon Throw  *Steals Opponent's Life*
+  (1+4)_(2+3)~F           Reverse Life Siphon  *Gives Opponent Life*
+
+f,f+3,1                 Front Kick, Sword Slice  *Sword Unblockable*
+QCF+1                   Double Somersault, Sword Slice  *Unblockable*
+d+1+4,[B+1,1,1...]      Standing Suicide, [Spinning Suicide]  *Unblockable*
+f,F+1+4,[f,f]           Turning Suicide, [Second Stab]  *Unblockable*
+B+1+2,(1_2_3_4)         Bad Breath Stance, Bad Breath  *Unblockable STUN*
+d+1+2                   SWORD UPPERCUT  *Unblockable, Juggles*
+b,b+1                   Samurai Stab  *Unblockable*
+b,b+1,N,1               Saw Blade  *Unblockable- b,b to Cancel*
+FC,b+1                  Samurai Cutter  *Low Unblockable, Floats*
+d/b+1,[d/b]             Sword Slice, [Delay]  *Unblockable*
+d/b+1,D/B# (x6 1/2)       Smoking Sword Slice  *Unblockable* -Release to slash
+u/f+1+2,B_D             Copter Blade, Turnaround_Fall  *Unblockable*
+1+2                     Pogo Stick  *Low Unblockable*                  
+  f,f_b,b                  Forward Pogo Slide  *Unblockable*
+*   3+4                      SIT DOWN                                   
+  u/f_u_u/b               Delayed Pogo Hop  *Unblockable*
+  f~u/f_b~u/b             Quick Hop F_B (Immediately after entering Stance)
+  4~3                     Kangaroo Kick
+  1+2                     FLEA HEADBUTT  *Juggles on CH*
+  d+3+4                   SIT DOWN
+b+1+4                   Sword Reversal  *Unblockable STUN*
+
+d_FC+(1+3)_(2+4)        Low Cancel
+b+3+4,[x6]              Spinning Sidestep[s]  *Takes Away Life*                 
+
+
+121:4::4:4::1::1:1:1    Tenstring      
+121:4::4:4::1::3+4      Eightstring
+121:4::2::224:1::1      Tenstring
+44:2::2::4::4::1::1:1:1 Tenstring
+44:2::2::4::4::1::3+4   Eightstring
+44:2::2:1               Fivestring
+44:2::2:11              SIXSTRING
+
+
+
+------------------------------------------------------------------------------
+------------------------
+|MOVE BREAKDOWN Section|
+------------------------
+Ahhh, the fun part.  Yoshi has a modest array of juggles.  I say modest in 
+that he has a good number of them, but most fall in the difficult category to 
+pull off(depending on quality of the arcade stick).  Here I will show you the 
+actual juggles and the ways to make them easier.  I will list each juggle 
+starter and below it a list of possible followups.  Non-juggling attacks will 
+also have strategic breakdowns too, including custom strings.  Attacks in 
+parentheses ( ), mean they whiff in order for the next hit to connect.  
+[Tag] means you can press 5 to make it a tag juggle starter.  
+
+HINT:  Any action requiring # (hold directional), can be done during 
+preceeding move.  EX:  Bad breath+sweeps.  During the bad breath, you can be 
+holding D/B and hitting 3 rapidly, and he'll immediately go into the sweeps 
+ASAP.  This is "buffering", and can be used for anything requiring you to 
+hold a directional.  
+HINT #2:  Any move requiring FC,d/f, or FC,d/b, is actually not that
+complicated.  What the game wants is for you to change into the position
+of 'crouch walking', (ie, holding D/F or D/B).  The key is the CHANGING of
+position.  So, from a standing position, all you really have to do is press
+D/F or D/B and hold it just long enough for your character to start crouch
+walking.  This is the required animation for such moves.  Using this technique
+will make using Yoshi a lot easier.  Specifically his spinning footsweep,
+FC, d/f+3.  From standing position, just press D/F, hold it for about a half
+second, and hit 3.  Hope that helps.
+
+
+--------------------
+COMBO/JUGGLE SECTION
+--------------------
+Yoshi Uppercut[TAG] (d/f+2),
+D/F#+2,2,2		
+D/F#+2,2, D/F+1,2		
+D/F+2, b+1,(1),1,(1),1, [b+1], (f,f+4)_(f,f+3,1)_(f+3)
+b+1,(1),1, B+1,1,(1),1, (f+3)_(f,f+4)_(d/f+2~5)
+b+1,(1),1, B+1,1,(1),1, B+1, f,f+4(fast)
+b+1, d/b+2, d+1, FC,d/f+3 (aka, SPINIMITSU!(tm))
+d/f+1,2,D/B#+2,2,2,2...
+
+Yoshi's famed staple attack.  Get this move down pat.  It's range, windup 
+speed, and recovery times are all underestimated.  Excellent after a poke or 
+as a retaliatory move.  Also, it works well as a combo ender since you can 
+tag with it.  A few notes on the properties of this attack:  First, it causes
+a backwards stagger against ducking opponents; a tag-buffered d/f+2 will
+always launch them, however.  Second, a tag-buffered d/f+2 causes the
+same guard stun imposed by a blocked EWGF, though neither char gets
+noticable frame advantage.
+-----------------
+Kangaroo Kick[TAG]  (SS>f+4~3) (4~3) (UF+3+4, 3+4) (3,d+3+4) (SIT,4) (1+2,4+3)
+* B, n, f+1, b+1,1,(1),1, b+1,1,1
+* B, n, f+1, b+1,1,(1),1, f,f+4_f,f+3,1_3
+* B, n, b+1+4, (f,f+4,d+4)_(d/f+4)_(u/f+3+4,b+1,4) 
+* B, n, b+1+4, f+1, d/f+1,2,D/B#+2,2,2,2,2,[2]
+B+1+2~any, (d/f+4)_(f,f+4,d+4)
+NOTE on *:  All you need to do here is hold back just long enough for Yoshi to
+take a tiny step, so that they'll fall in front of Yoshi instead of on top/
+behind.  For the last combo, make sure that you use the flash them up as high 
+as possible.  This will turn them face down for the rest of the juggle to 
+connect.  If you delay it too long, they'll be pushed back out of range.
+
+By itself, this move isn't so great, in that it's easy to see coming and easy 
+to block.  However, mixing it up is the key.  If you can anticipate your 
+opponent launching a bunch of high attacks (Law's punches, other 10-hits, 
+etc), then go for it.  On a hit, the Kick is an excellent juggle for either 
+Yoshi or his partner.  Remember, if you still want to do his roo kick out of a
+SS, you'll have to press forward first, else you'll get the whirlwind kick.
+
+-----------------
+Bad Breath (B+1+2, any),
+D/B#+3,3,3,3,f+4
+
+This move avoids all all attacks, and throws!  Amazing eh?  Often an 
+opponent will try to throw you after you or he both blocks an attack(s), so 
+instead of trying to get out of the throw, just go into this stance, then 
+breathe on them and juggle away!  Warning:  Yoshi can be crouch thrown by
+King and Gunjack in this stance.
+-----------------
+Sweeping Kick (FC,d/f+3),
+d+1, WS+1, (d/f+4)_(f,f+4,d+4)_(d/f+1,2)
+d+1, D/B#+3,3,3,3,3...
+* u+1+2, 1+2, d+4
+* u+1+2, f~u/f, (f,f)_(f~u/f)_(1+2, [1, d/f+4_f,f+4])
+NOTE *: normally, 1+2 enters the pogo stance, but in this case, since Yoshi
+is recovering in a crouch position, the U puts him in the pogo faster than
+waiting for him to stand up.  [ ] means this is possible, but I have not
+verified it yet.
+-----------------
+Sword Sweep (FC,d/b,b+1)
+D#+1, FC,d/f+3
+D#+1, D/B#+3,3,3
+d+1, WS+1, d/f+4
+d+1, WS+4
+d+1, f,f+4
+1+2, (1+2,d+4)_(f,f)_(f~u/f, 1+2--techrollable)
+  Note--Pogo combo only works if Sword sweep hits close.
+
+Not the best range out of this move, and it has some slow windup time. 
+Throw it in maybe once every 1-2 rounds to mix it up.  Best application is to
+use it immediately after a ducking jab/poke.  If you want to keep up
+the momentum, go for the d+1, f,f+4 juggle, which can set you up for some
+okizeme (thanks to Shauno for the tip).  This move avoids d+1 jabs, since
+they hit special mid.
+-----------------
+Dodging Uppercut[TAG] (SS+2),
+1,2,1
+f+1, (f,f+4)_(f,f+3,1)_(d/f+4)
+f+1, d/f+1,2,D/B#+(2),2,(2),2,(2),2
+f,f+4
+d/f+4
+
+Although a decent move for Yoshi to juggle with (it leaves opp. face down),
+chances are you'll get better results if you use it as a tag-juggle opener.
+Use sparingly as well, since the recovery time is just long enough to eat
+a retaliation if blocked.  As like all of his SS attacks, it can be delayed
+forever, which is often the best application (wait til the SS completes).
+Interesting NOTE:  If you sidestep AWAY from the screen (into the background),
+and press tag, the tag-partner will enter much sooner than if you SS towards
+the screen.  Remember this, since this can make all the difference in precise
+timing-required tag-juggles.
+------------------
+Sidestep Hilt Upper[CH] (SS+1),
+f+1, B+1,1,1, B+1, (f+3)_(f,f+4)
+f+1, B+1,1,1, d/f+2[TAG]
+
+Probably the best of Yoshi's new moves.  Unless it completely misses, it's
+safe to execute.  It causes a backwards block-stagger when blocked, juggles
+on a counterhit, and does decent damage on a normal hit, with good priority.
+Since it can be grossly delayed after a sidestep, it can be used as a last
+second attack if your SS gives you good positioning.  Even though he hits
+with the hilt, you still need to chicken it against reversers.
+-----------------
+Sword Uppercut (CLEAN HIT d+1+2)
+f+1, B+1,1,1, B+1, f+3
+d/f+1,2,D/B#+2,2,2,2,2
+
+There really isn't an optimum time to use this attack, exept immediately
+after a 2+4 throw.  It's slow windup and recovery are both undesirable,
+and it does miniscule damage.
+-----------------
+Backfist (f+2 OR d/f+1,2 OR BK 2),
+f,f+3+4,1+2,3+4 *
+d/f+2, d/f+2, b+1,(1),1,(1),1, f,f+4_3
+d/f+2, b+1,(1),1, b+1,(1),1,(1),1, f,f+4_3
+* The first hit of the shark attack hits always, but only on a CH will all 3 
+connect.  Also, after the 1st hit, your opponent can duck the last 2 hits 
+easily.  100% Damage combo with Netsu.
+
+Another Yoshi staple attack.  Best application is when you anticipate a
+tag-switch, since they can't block during the run-in animation.  Another
+good time to use this is after a few pokes, baiting your opponent into
+thinking it's safe to attack.  This move has good range but less than
+desirable recovery.  If it is blocked frequently, try adding the D/B+2,2,2...
+afterwards to catch over-eager punishers.
+-----------------
+Sword Flash (b+1+4)
+1+2, 1+2 
+1+2, f~u/f~1+2, [f+1, f,f+4] *
+
+* The combo can be techrolled after the pogo hop if you don't have absolute 
+precision timing.  The difference will be that the pogohop will hit in midair 
+instead of on the ground.  If you miss the midair hit, they can techroll 
+before you land.  However, if they roll f, b, or try to get up immediately, 
+the headbutt will score.  It is suggested to only attempt this until your 
+opponent catches on, then go for the 1st juggle for more guaranteed results.
+The last two hits I haven't been able to do myself, but are possible with
+absolute precision timing.
+
+This move now has amazing priority.  The best applications is when your 
+opponent is flush against you trying to attack.  You'll find this is easier 
+when you run up and do the flash against a tagging opponent (they can't stop 
+running-usually), or after a blocked move... rush in and sword flash... if 
+they try to throw or "poke", they'll meet the flash.  Thanks to Shauno for
+the strat against tag-ins.
+-----------------
+Whirlwind Kick (STUN) (CH SS+4)
+f,f, U+1+2,1+2
+f,f, d+1+2
+f+3 (close)
+u/f+3+4
+f,f+2, d+1, FC,d/f+3
+SS+1
+u/f+1+2~D
+D/B#+3,3,3,3,3
+d/f+2~5
+5, f,f,N+4
+
+Although not a juggle per se, this combo is guaranteed if the kick hits CH.
+The pro's for this move are that it has good range, decent damage, and
+pretty safe recovery.  The downside is that it has a slow windup time and
+hits high.  However, this move should be used in anticpation of an attack.
+Like the other SS moves, it can be delayed like crazy.  You can wait until
+his SS is complete and still execute this move.  The UP in the command for
+the pogo attack combo is to ensure its execution.  Otherwise, the game will
+interpret the attack as f,f,N+1+2, which is basically f,f,N+2, which is
+f,f+2!  Heh.  Wierd stuff.
+------------------
+[Flying]Crosschop (FU/FT, b,b+3+4) OR (Tag, f,f, N+1+2)
+1_2, D/B#+3,3,3,3,3_d/f+4_f,f+4
+1, b+1,1,1, b+1, f+3
+NOTE:  The trick is to press either punch fast enough to hit them out of the 
+guard stun created by the blocked crosschop.  The first version (FU/FT) is 
+always guaranteed.  The second (tag dive) is slightly different:  they must 
+block it near the end of the animation to give you enough frame advantage.  
+The juggle created is very minor (basically they just start falling down), 
+so only a quick ender will work, as listed above.
+
+
+
+------------------
+NON-JUGGLE SECTION
+------------------
+Elbow Smash/Runthrough (f,f>2 CH)
+Use this whenever you can anticipate an attack and score the CH.  Don't use 
+this too often, however, it is a decent poke.  Also, on a CH, you can go into 
+the sit down, but since he doesn't meditate, I don't use it.  A more tactical 
+option is to go right into the 1+2+3+4 chi powerup while still backturned, 
+then turn around.  Your next hit will be a CH, which can lead to all kinds of 
+fun;)  NOTE:  There is an optional delay on this move, which lasts up until
+Yoshi returns to completely neutral position from the f,f, dash.
+--------------
+Jumping Kneebutt (f,f+4 or f,f,N~f+4)
+An excellent and quick knockdown interruptor.  This attack hits mid, and on 
+anything but a glance, will knockdown your opponent.  Make sure you use this 
+to interrupt 10-hits starting at a distance, charging unblockables, or at any 
+time you wish to knock your opponent out of hard-to-avoid attacks.  This move 
+is also an excellent juggle finisher.  Recently discovered is the ability to
+cancel the beginning of his jumping knee into his kangaroo kick.  Only in the
+first few frams of the knee animation can this be done, however.
+--------------
+Uppercut/Turning Backfist (d/f+1,2, [D/B#+2,2,2,2,2,2)
+An excellent deception move.  Most people who don't know Yoshi will think 
+he's finished after the 1st uppercut.  The backfist sets them up for all 
+sorts of unpleasant damage.  HOWEVER... against skilled opponents, this may 
+be dangerous.  Be sure to buffer your chicken reversal escape for the 
+backfist (in this case, f+2+4).  And, for mixup-sake, you might consider
+adding the D/B#+2,2... string to discourage any responses after the backfist.
+--------------
+Sommersault Swordslash (qcf+1)
+A great move to pull from a dash distance or further.  Most people don't 
+sidestep or not in time.  NOTE:  This move is reversable and unchickenable by 
+Nina, Anna, Jin, Jun, and Wang.  ALSO... you can perform this as a tag-
+cancel.  As soon as you tag to bring in Yoshi, immediately perform this move 
+and he'll stop running to do the attack.
+--------------
+Ducking punch+Followups (d+1)
+The d+1 is a quick way to poke your opponent low.  You can hold down to stay 
+crouched after the punch.  Easily follow up with the following:
+WS+2        (JUGGLE STARTER!  See juggle section)
+WS+1        (Use for a faster rising poke than WS+4 or WS+2)
+WS+4
+FC,b+1      (JUGGLE STARTER!)
+FC,d/f+3     (JUGGLE STARTER!)
+--------------
+Meditate+Followups (d+3+4) (1+2, d+3+4) (1+2, f,f, 3+4)
+Lure your opponent into thinking he can hit you easily while sitting in life-
+gaining mediation.  As your opponent rushes in and before the attack, tap f 
+or b and he'll begin teleporting.  Just make sure you time it early so the 
+teleport will execute before they land an attack (ie, in anticipation of an 
+attack).  This will put you right behind your opponent.   And if they are 
+commited to an attack, you can rush in an throw, or do his other various 
+opponent-backturned combos.  Remember, you can link into the meditation after 
+pogo rushes.  So... after you've mowed over them, sit down for some quick 
+healing before they know what's going on!
+--------------
+Savior Boot! (d/f+4)
+Wow, what a fast and far ranging poke.  This move is about as quick (slightly 
+less) than Lee's frontkick poke.  Also, it serves as a decent juggle 
+finisher.  If your opponent is annoying you with little pokes, poke right 
+back, and with range!  Indeed, it is slower than Tekken 3, but still 
+worthwhile.
+--------------
+Pogo Stick+followups (1+2)
+If you are fighting a low-hitting player, go for this move.  It's great 
+okizeme when followed up with f,f dashes on downed opponents. Also, if 
+your opponent bumps into the sword, they'll fall backwards.  You can chain 
+his FLEA HEADBUTT (1+2) for a quick juggle!  If you do the pogo rushes, chain 
+it to his 3+4 mediation as just about every time your opponent will roll away 
+from the pogo stick rushes after they connect.  You'll get a few bounces and 
+some life before they completely recover!  And... do the headbutt when you 
+suspect they'll try to high-hit you out of it.  It's actually a juggle!  
+Don't forget he can go right down into meditate sit, and mix it up into a 
+kangaroo kick and low spinning backfists too.
+--------------
+Lunging Kick and Slash (f,f+3,1)
+This is one of the best attacks Yoshi possesses.  You can mix it up alot to 
+keep your opponent wincing.  Do the slash several times after the kick, then 
+mix it up by not doing the slash, and instead, go for a throw or ducking jab 
+see Custom Combo Section).  Just make sure that the kick is blocked (for 
+guard stun) or hits, otherwise, if it misses, Yoshi is wide open before the 
+slash.
+--------------
+Hilt Takedown (2+4)
+By itself, this throw already a great attack.  First of all, the escape is 2, 
+and much of the time people will try to escape by hitting just 1.  Secondly, 
+the throw leaves you a bunch of okizeme opportunities, plus some zany, out of 
+this world juggles!  I will list them below:
+1+2, f,f, (3+4) [Use the meditation when you anticipate a back-roller or a 
+                 slow-riser]
+d/b+1
+D/B+3,3,3,3  (Not all hit)
+u/f+3+4, b+1, 4,
+NOTE:  For the flipstomp combo to work, your opponent must not roll into the 
+stomp.  The point is to cross over them so Yoshi will back up towards them 
+with the backflip kick.  Following the kick are the juggles listed.
+  If backflip Blocked, use the quick 2+4 turn throw, or see BACKTURNED section
+  If backflip hits:
+    (delayed) 1, f,f+4
+    (delayed) 3_4
+    turn around, d/f+4
+    u+4_3
+    d+1+4 *
+*  You MUST perform the d+1+4 suicide juggle ASAP after the backflip hits, or 
+it whiffs.
+---------------
+Shark Attack+Followups (f,f+1+2)
+1+4         Turning Life Siphon.  Use only against block-turtles.
+b+3+4       Quick Spin away dodge, followed by a throw attempt.
+  ,2+4        The throw will be a sidethrow if they don't quickly face you.
+d/b+2,N+2   Spin away Crouching Fist into standing Turning Backfist
+
+By itself this move is less than mediocre, however, the followups are what 
+makes it so valuable.   Mix it up to keep your opponent guessing (and 
+hurting).  Make sure to start the attack from dash distance or further, as it 
+is easily interruptable up close.  For the moves to work, you must input
+the command immediately after the Shark Attack hits or is blocked (HINT: it's
+easier if you simply input the command several times for accuracy).
+----------------
+Back-Turned(BK) Mixups (f,f+1+2) (f,f+1+4,N) (SIT, f_b from distance)
+u/f+4  (Jumping Turn Kick--juggles below)
+  f+1, b+1,1,(1),1, (f,f+4)_(3)_(f,f+3,1)
+  f+1, b+1,1,(1),1, b+1,1,1
+  d/f+1,2,D/B#+2,2,2, f+4
+d+1    (Hits LOW, begin FC Mixups in Custom Strings Section)
+2      (Turning Backfist, Begin OBT Combos)
+2+4    (Quick Turnaround throw)
+d+1+4  (Fast hitting Suicide attack, can be avoided with Opp, b,b!)
+
+Use these strings if you decide not to employ a true Combo from the Shark
+Attack, or feel you're opponent will freeze up after seeing the f,f+1+4,N.
+-----------------
+Command Low Parry (d+1+3 or d+2+4)
+As you know, the low parry's primary purpose is to deflect a low hit.
+However, used intelligently, it can be a powerful tool to put Yoshi in
+a better attack position.  
+
+Firstly, any character can cancel their command Low Parry into a FC,d/f or a 
+FC,d/b move.  This is useful because you don't actually have to crouch in 
+order to do FC moves.  The only move Yoshi has to take advantage of this is 
+FC,d/f+3.  So in essence, you can do d+1+3~d/f+3 and pull out his sweeping 
+kick without entering crouch stance.
+
+Secondly, the Low Parry can be used to stop a 10hit string or any string
+where you have the opportunity to input d+1+3.  Remember, everyone has the
+universal d/f low parry, which is better only in that it has no windup
+animation (I suggest you learn to use it on reaction instead of d+1+3 for
+purposes of speed, anyways).  There are no guarantees after a parried low
+punch, so I suggest going for one of his 3 throws (you still have frame adv.).
+When you actually parry a low kick, you have certain guaranteed followups that
+cannot be blocked:
+Low Kick Parry
+d/f+2   (Staggers, does not juggle)
+d/f+2~5 (A tag buffered d/f+2 DOES juggle out to his partner!)
+d/f+4
+f,f+4
+
+------------------
+***TURNING SUICIDE*** (f,F+1+4)
+THE BIG ONE!  This is Yoshi's best move, I think.  Yes, it hurts him too, but 
+here's the trick.  In TTT, there is the "Anger" or "Netsu" powerup.  Pick 
+Yoshi as your 2nd character and have him wait to tag in.  In 4 hits of your 
+current character, Yoshi will "powerup".  Come in, and force your opponet to 
+defend briefly, then go for this move.  The suicide+netsu powerup does almost 
+90% damage!!  And... it gets better!  There are 3 applications of the suicide 
+attack. 
+1)  Winning the round and living:  make sure your opponent won't be able to 
+survive the hit and you will (ie you have more than 50% life and they have 
+less than 60).  Quick and easy win.  Plus, it's a crowd pleaser.
+2)  Winning the whole match on double KO:  win the first round, and on the 
+second, do the suicide and make sure it'll kill them.  Doesn't matter if 
+you'll die too, because on a double-ko, you both get a win.  If you already 
+have 1 win and they have 0, you win the whole match! (2 to 1).  NOTE:  you 
+can also do this if you both have 1 win (ie on the final round), HOWEVER, 
+make sure that you are the defending champion (you were on the machine 
+before your opponent), or if you both start the game at the same time, you're 
+on the 1st player side.  The game awards the win to the defending champion in 
+the occurance that there's a double ko on the final round.
+3)  If the turning suicide barely misses (and I mean it's close), most of the 
+time your opponent will think it's over and just let you fall.  If you have 
+won the first round, and missing the suicide will leave you near death, go 
+for broke!!  Yoshi can do a second stab, so do it!  It's f,F#+1+4, f,f.  He 
+will actually back up a full step and stab again.  I've actually 
+won whole matches by missing the first stab, surviving it, backing up, and 
+stabbing again for the double ko.
+
+
+
+
+---------
+TAG MOVES
+---------
+Yoshi has an interesting, if not somewhat limited arrary of tag-in attacks.  
+He has his standard tag attacks most characters have, as well as his own.
+----
+These are performed immediately after pressing TAG--
+--------------
+Cross Chop (f,f, N+1+2)
+An excellent tag in attack for any character really.  It has several bonuses.  
+First, if it hits, it knocks your opponent down.  If it is blocked, it 
+creates long enough guard stun to do the special guard stun juggle (See JUGGLE 
+section above).  Lastly, it's a special mid, meaning it will also hit 
+grounded opponents.  So, if Yoshi's partner performs a juggle-tag that would 
+otherwise be too fast for Yoshi to take advantage of (they fall fast or the 
+juggle is low), then you can pounce on them with this move.  If your opponent 
+is far (out of dash distance), this is the move of choice, as it has some 
+windup time.  If they're close, though, go for the knee.
+---------------
+Jumping Knee (f,f, N+4)
+Not as useful, however, it can catch opponents unexepectedly if they're 
+waiting to attack you as you tag in.  Although, if Yoshi's partner does a tag 
+juggle that leaves them too low (but close) for a normal juggle, go for the 
+knee.  Otherwise, if they're far away, use the crosschop.
+----------------
+Sommersault Swordslash Tag Cancel (qcf+1)
+Same as the normal move, but it cancels his run in animation very quickly.  
+However, the move itself is not changed... so it will still have it's slight 
+windup time and can still be sidestepped/reversed, etc.  Use only to mix up 
+the game.  This move CAN hit targets launched by class 1 juggles(the highest 
+juggle) if timed precisely as Yoshi enters, up to 3 hits, depending on timing.
+----------------
+Tag Cancel (u~u/b)
+For most characters, a tag cancelling is a very powerful tool, but for those
+(Like Yoshi) who also do backflips, the action becomes almost moot and
+pointless.  Tag cancels are used for two purposes:  preventing your opponent
+from being able to take avantage of your tag-in run animation, and to execute
+slow yet powerful attacks in juggles (ie buying you extra time).  Seeing this,
+the only real strategy for this technique then is to avoid your opponents
+anti-tag attacks... although you can still be hit out of the backflip.
+-----------------
+Tag Juggles
+See the Tag Team Partners section for universal and specific Tag juggles.
+
+
+
+--------
+STRATEGY
+--------
+Against Defensive Players
+-------------------------
+It's safer to use riskier moves, especially unblockables as these players 
+will block expecting a combo or some such.  By far the easiest to defeat.  Go 
+for the suicide when it'll be a sure win, and mix up 10hit combos.  Also, 
+rush in and use bad breath or the low spinning sweep to start juggles.  If 
+they like to duck alot, go for the Yoshi uppercut or kneebutt.
+
+Against Offensive
+-----------------
+It's hard to play a defensive Yoshi, but your best guess is to use alot of 
+pokes here.  d/f+4, f,f+4, f+1, f,f+2 are decent pokes.  Also, get a hang for 
+his sidestep game and use his ss+1 or ss+2 whenever you see an opening.  If 
+you can, go for the d+1 punch then the FC, mixups.
+
+Against Mashers
+---------------
+Most mashers will attack even at a distance, so try and go for his qcf+1 
+sommersault slash, d/b+1 slash and if feeling lucky, his b,b+1 lunge stab.   
+They won't bother to avoid it, heh.  Also, against Eddy style mashers, the 
+f,f+4 knee is a good interruptor.  The f,f+3,1 is good against rising 
+mashers, just make sure the kick doesn't miss.  Finally, mashers rarely know 
+10-hit combos, so go for his 4 sword slash combo frequently.
+
+Against Yoshi
+-------------
+Fighting against Yoshi isn't so difficult once you know what to expect.  
+First, beware Yoshi when he tags in during Netsu powerup and you have less 
+life than he does.  Experienced players may go for the fatal turning suicide, 
+so sidestep frequently.  If you see him do a d/f+1 uppercut, keep blocking, 
+cuz his backfist may follow.  His f,f+1+2 shark dive can be followed by some 
+nasty tricks, make sure you 1 or d+1 before he can link to it.  If you ever 
+get your back turned to Yoshi, DON'T HIT ANY BUTTONS--especially after he 
+hits you with a backfist!  A shark dive into your back on a CH is pretty much 
+round over.  However, if the shark dive is used against your back, just hold 
+down to avoid the last 2 hits.  Just don't try to be smart and d+1 out of it.  
+If Yoshi goes into bad breath stance, try to do a long-range attack... 
+getting close is too dangerous, and never think you can throw him unless 
+you're playing King or Gun Jack (crouch throws work).  Beware his f,f+3,1 
+kick'n'slash.  If you manage to block the kick, you can sidestep the slash 
+easily.  A side (sometimes back) throw is yours for free.  Yoshi starts 
+ducking and poking, it's safe to duck and block, because numerous low attacks 
+may follow.  Just be wary, his WS+2 uppercut will juggle just as well as his 
+df+2, and he can also do a WS+4.  If you are at a distance from Yoshi, don't 
+rush or charge, as he can copter over your charge, catch you in a fan blade 
+or a jumping knee.  Also, watch him closely.  If he suddenly sommersaults, 
+he's going for his spinning sommersault slash.  Sidestep to safety.    
+If you're playing as a reverser, don't bother trying to reverse his 10-hits, 
+as it is easy to chicken a 10-hit with Yoshi.  Only attempt to reverse his 
+unblockables (not Paul), because Yoshi cannot chicken out of reversals then.
+And, whenever Yoshi Tags in, be wary of trying to take avantage of his run-in
+animation, as he can cancel it with the b+1+4 sword flash as soon as he enters!
+Use only long range, safe attacks to penetrate the flash.
+
+Against Specific Characters
+---------------------------
+Briefly, I will discuss the common fighting strategies used by the most
+popular characters and ways to employ good offense and defense to defeat
+them.
+
+Mishimas (Devil/Angel, Jin, Heihachi, Kazuya)
+ The first of the top three tiers of cheese, as I'd say it.  The Mishimas,
+when played right, are incredibly difficult to defeat.  There are several
+staple attacks used by Mishima players, so I'll list each and how to
+overcome them.
+ WGF/EGWF--When used correctly, you cannot see this move coming.  Don't worry
+about trying to stop or interrupt the move itself, or even bothering to SS.
+The only way you will ever beat this move is to predict and prevent it from
+executing.  Against Devil/Hei/Kazuya, your best bet is a poking game, mixed 
+up with crouch guarding and throw attempts.  Basically, you want to knock
+them out of the f,n,d~d/f motion with a quick poke.  Up close, d+1 is good,
+but from a distance, you'll want to use his d/f+4.  Against Jin, remember
+to chicken the savior boot.  And, against all of them, crouch guarding is
+quite safe as long as they stick to WGF and hellsweeps.  After a few blocks,
+they may go for mid hitting moves such as the Twin Pistons or the Laser
+Cannon Combos, so don't turtle too much.  Even though they are safe after
+you block a WGF, you DO have frame advantage, so use it to begin your poking
+strings.  Against EGWF however, you'll be pushed back.  Here, study your
+opponent.  If he/she keeps doing EGWF, backstep (b,b) to allow the move to
+whiff.  If they answer this with a wavedash, d/f+4 them out of it.  The point
+here is to put THEM on the defensive so that they don't get WGF opportunities.
+Finally, Jin's WGF hits high unless it's tag buffered (which is rare), so
+be prepared to punish a whiffed WGF with a WS+2 or WS+4.
+ HELLSWEEPS--Again, crouch guarding between these and WGF/EGWF is quite safe.
+If you block the first sweep, you are usually guaranteed a WS+4.  If they
+miss the first hellsweep and are spinning for the second, just press 1+3/2+4
+while holding down and you'll get a low kick parry guaranteed followup.
+ WS ATTACKS--All of the Mishimas have nasty WS moves, but fortunately, they
+all hit mid and are easily blocked.  Since none of them have any dangerous
+FC attacks, you are relatively safe guarding standing up.  As such, don't
+expect more than a d+1 or a d+4 here.  If you do see a d+1 jab, keep blocking,
+since this is usually a linker for a WS attack.  However, if you are quick
+enough, you can usually SS their WS hits.  Just clue in to any patterns
+they use.  Also, it's pretty dangerous attempting to interrupt their WS
+game, so play it safe and don't go for the CH.  If you insist, use d/f+4
+or your own d+1 in retaliation.
+ 1,1,2/1,2,2/1,2,4--The Mishima poking game.  Here, you're safe crouch
+guarding until the last hit, which hits mid.  Either stand up to guard it
+or poke them out of it with a quick (FC)+1.  If you block the string
+standing, it's safe to keep standing, except against Kazuya.  If you
+see him 1,2, you can bet on the 4 ender.  Unless you have lightning
+reflexes(low parry), block it low, then d+1 into your FC mixup strings.
+Note however, that the whole string can be avoided in a crouching guard,
+which is usually a safe position against Kazuya anyways (again beware
+his twin pistons/gut punches).
+
+Changs
+Known for their incredible speed and safe-recoveries, the Changs can be
+incredibly frustrating and annoying to challenge.  Primarly, you need to
+watch out for their elbows (f,f+1 and FC,d/f+2), hopkicks, and kick pokes
+and sweeps (4,4,d+4, FC,d/f+4, b+3-Julia).
+ f,f+1--The infamous elbows, the staples of the Changs.  Against characters
+with high-mid parries (Law, Anna, Xiaoyu) these aren't as dangerous, but
+since Yoshi doesn't have this option, you have to really play carefully.
+The thing to remember here is that if you block a f,f+1, 9 times out of 10
+the Changs will have frame advantage over anything you do, and usually is
+some kind of juggle.  Basically, after a blocked f,f+1, you should expect
+one of the following:  1~1[~1, juggle]; d/f+2,1(juggle); CH 1,2,1(juggle),
+4,4,d+4_4_1; u/f+4.  At any rate, your best bet is to continue blocking,
+and capitalize on any mistakes.  If they do all of 1~1~1, throw them or
+start a d+1, FC mixup string.  If you see the first kick of the 4,4...
+string, crouch guard, and stay there.  Few people use the uppercut finisher,
+and if you're quick you can see it coming and stand to block it, then punish
+with a throw, d+1 FC mixup string or d/f+4 poke.  Just remember, after
+the elbow, you do NOT want to duck, unless they become predictable with
+throws.  The best way to overcome the elbow (smart players abuse it)
+is to stay out of range and let her whiff it, then immediately move into
+a custom string, preventing her from unleashing another one.  F,f+4, d/f+4
+and SS(whiffed elbow)+1 or +2 or +4 are good options.  Also, b,b+1~1, the
+spinning fan strike as well as b+1+2~any will often trick elbow-abusers
+into attacking.  Don't be afraid to backdash and SS alot until an elbow
+misses, and be ready to keep them on the defensive with custom strings.
+ b+3 with Julia--A nasty little sweep with Julia.  If you get hit on a CH,
+expect to be juggled for awhile.  If it hits normally, you can usually
+expect a FC,d/f+3,4 (it comes out fast!) or a WS+4 or a u/f+4.  If you
+are quick enough, however, you can d+1 them out of anything except the
+WS+4.  Lastly, a well-timed SS can get you to safety as well.  
+
+Lei
+ In the right hands, Lei is a non-stop barrage of safe attacks, mixups, and
+juggles.  The key to defeating a strong Lei, just like any other strong
+character, is to take away their offensive power.  Most of Lei's game
+revoles around his rush punches+stances, lay-down position, and hopkicks.
+ Rush bunch barrage--His staple attack, the rushes are fast, high priority,
+safe, and easily mixed up.  One thing you should note about the rushes:
+if Lei cancels into any stance besides panther, you can immediately throw
+him before he can hit you.  Remember this.  Although most masters know this
+as well, and will always cancel into his panther and from there mix up
+the juggle or the double punch low hit.  As always, you'd rather guard
+standing and eat the low-punch trip than a juggle.  A low parry is nice,
+but not worth it since there are no guarantees after.  You can always
+mislead your opponent into thinking you always block high for the first
+few times, then parry when he gets predictable.  You can SSL the first
+rush punch at the beginning, however it will track you, so SSL again
+before trying to attack.  If they use the guard-melting punches and
+stop after the 2nd hit, duck, since an u/f+1+2 throw may be coming.  If they
+execute all four melts, block low, since his d+1 will sweep you.
+ Lay down position--You can pretty well avoid Lei's nastiness if you are
+quick to react.  If he lays down right against you, d+3.  If he lays down
+still and waits, the d+3 hits ground.  If he immediately goes for the sweep
+or roo kick, d+4 will stop that.  If he lays down at a distance then
+rolls towards you, you can d+4 him out of the roll, or if fast enough,
+f,f+4 out of it as well.  SS are iffy, so only use if you are confident.
+ Remember, whenever you knock Lei out of his rolls or rushes, take avantage
+and put in your mixup strings.  Don't turtle/duck too much against Lei,
+since a hopkick juggle will ruin your lifebar.
+
+Ling Xiaoyu
+ I hate Ling.  Sorry, but the only character I hate more is Julia, but I have
+good reasons for hating both, heh.  Anyways, Ling is a real bitch (pun
+intended, dammit) in the right hands.  Her strengths are her insane speed
+and poking ability.  Mainly the phoenix stance (d+1+2) and rain dance (b+3+4),
+as well as her SS game make her nearly impossible to hit.
+ Phoenix Stance--While down low, you can forget just about all high, mid, and
+most low attacks against her.  Only hits that will hit the ground (just like 
+Lei) will connect, for the most part.  Against a turtling phoenix, d/b+1, d+3,
+D/B+3,3,3..., FC,d/f+3, u/f+3+4,b+1... all seem to work decently.  Most smart
+players know not to stay in any one stance too long, so you have to react 
+fast. Your best bet is to backdash as SOON as you see her enter the stance, or
+SS. If she rolls towards you, d+4 or f,f+4.  Otherwise, the guessing game 
+between the sweeps and the launchers will be too difficult.  Your best bet is 
+to do far-ranging pokes to punish her for entering the phoenix (d/b+1, 
+FC,d/f+3, or u/f+1+2~D).
+ Rain Dance--With her back turned, Ling is dangerous if you continue to stand
+and block too much.  BK turnaround throws and poking combos will be most
+infuriating.  If you see her do her 2,2, pokes duck and d+1 her.  If she
+rolls backwards towards you and does the roo kick, block it and begin your
+d+1 strings.  Basically you have to really study your opponent here, because
+you WILL lose any poking battles since the rolling roo kick comes out fast
+and goes underneath.  Your best bet here is to block any 2,1 or 2,2 pokes
+and d+1.  If they use the rolling roo or BK 4 alot, don't try to SS, since
+both track quite well.  F,f+4, f+1, d+1 and sometimes b+1+4 are your quickest
+and simplest retaliation attacks.
+
+Coming soon...
+Bruce & Bryan
+Big Characters
+Kings
+Williams
+
+
+--------------
+CUSTOM STRINGS
+--------------
+Close Range (jab/throw range) (can omit f+1 for mixup)
+f+1, d/f+2
+f+1, f+2
+f+1, d/f+1,(1,1,1))_(2)
+f+1, d+1, FC,d/f+3
+f+1, d+1, FC,B+1
+f+1, d+1, WS+4_2
+f+1, 2+4
+d+1, d+3+4, f_b(attempt behind throw, or d/f+2 into back)
+b+1+2, any
+
+Short Range (just outside jab/throw)
+f,f+3, d+1, FC,d/f+3
+f,f+3, d+1, FC,b+1
+f,f+3, d+1, WS+2
+f+3, d+3+4
+d/f+4, d/f+2
+d/f+2, d/f+2... (won't expect quick recovery time)
+SS, SS_+2_+1_+4
+b+1, QCB+1+2
+b+1, 2+4
+b+1, b+1+4
+b+1, (Close Range Strings)
+d/b+2, WS+1_2_4
+d/b+2, (FC),d/f+3
+d/b+2, d+1, (d+1 Close Range Srings)
+D/B+2, d/b,B+1
+
+Medium Range (must dash to reach short range)
+f,f>2 (can be delayed a long time)
+f,f+1+2, (ensuing mixups, see Shark Attack section)
+u/f+1+2, D_B
+qcf+1
+d+3+4, 2, d/b+2,2,2, 4
+d+3+4, f_b (when they rush in trying to hit you... anticipate it!)
+
+Long Range (can start running with f,f)
+b,b+1[,1] (against non-reversers)
+
+
+-------------
+CUSTOM COMBOS
+-------------
+A brief explanation of this section:  the combos listed here are not true
+guaranteed combos.  Only after a juggle is mentioned is the rest of the
+'combo' guaranteed.  An * indicates the point where the true combo begins.
+You'll see what I mean.
+
+f+2(hit), 4~3 (hit Opp back turned)*, b+1+4, f,f+4
+SSL, f+2(hits)*, ~f+2~f+2~f+2, d/f+2, (class 3 juggle ender)
+SSL, f+2(hits)*, ~f+2, d/f+2, d/f+2, b+1,(1),1, b+1,(1),1, f+3
+SSL, f+2(hits)*, x3 [sidethrow after 1st, 2nd or 3rd f+2]
+
+
+-------
+OKIZEME
+-------
+1+2,f,f (close)
+f,f+1+2
+f,f+3+4
+u/f+3+4, b+1, (3+4)_(4)
+FC,d/f+3
+D/B+3,3,3,3,4
+d/b+1
+d+1+2
+
+Anti Tag-in (when you can easily anticipate a tag in run: they can't block)
+f+2, (BK Combos)
+f+3
+b+1+4 (run up first to be close, tag in run rushes into the swordflash)
+f,f+3+4,1+2,3+4~5 (Start from a distance and as/before tag switch begins)
+
+
+-------------------------
+TAG TEAM PARTNERS/JUGGLES
+-------------------------
+**********************************************************************
+(THIS SECTION UNDER CONSTANT CONSTRUCTION!  IF YOU HAVE CONTRIBUTIONS,
+PLEASE EMAIL THEM TO ME, AND I'LL ADD THEM, CREDIT TO YOU OF COURSE!
+THANKS)
+**********************************************************************
+NOTE:  All tag dives/slides at the end of combos are techable, I only listed
+them as optional enders to keep your game momentum going.  Any tag combos
+where the partner's 1st command is u~u/b is actually a tag cancel to allow
+enough time for the 1st attack to connect.
+
+Standard Yoshi TAG Juggles for:
+Class 1
+b,b+1~1
+4~3~5
+QCF+1 (up to 3 hits, depending on exit time of partner)
+
+Class 2
+F+1, b+1,1,(1),1, [b+1,] f+3_f,f+4_d/f+2~5,tag slide/dive
+b+1, 1, b+1,1,1, f+3_f,f+4
+f,f+4, d+1, f,f+4
+f,f+4, 1+2,1+2 (pogo techable)
+1+2,1+2, d+4 (all techable)
+d/f+1,2,D/B#+(2),2,...
+* Some Class 2 juggles bring Yoshi in late. In this case, only perform 3 b+1's
+  since all 3 hit (any more will whiff and the remaining combo as well).
+
+Class 3
+f,f,N+4
+
+Class 4
+None
+-------
+Alex/Roger
+1)d/f+3+4(blocked), (Yoshi) (u/f+3+4,b+1,3+4)_u/f+1+2~d
+2)(Yoshi) d/f+2 or SSL+2~5, (Roger) TGF (ASAP!)
+...................................d+1, FC+1+2
+3)(Yoshi) 4~3~5, (Roger) (b+3+4)_(f,f+3+4, KND,d+4)_(f,f+1+2)_(f+1+2)_TGF
+
+Angel/Devil (Use Angel if you want Netsu Powerup option)
+1)WGF~5, (Yoshi) Class 2 Juggle
+2)SS+2~5, (Yoshi) f,F+1+4 (ASAP! Hits after he passes underneath)
+3)SS+2~5, (Yoshi) F, 1+2,1+2, d+4 (Small step needed, NOT techable!)
+4)SS+2~5, (Yoshi) Class 1 Juggle
+5)Yoshi 4~3~5, (Angel) TGF,(~3)_(1,1,2)_(1, 4)_(WS+4,4)_(d/f+1,2~5)
+..........................,(1, WGF~5)_(1, CD+4,4 techable) [All TGF ASAP!]
+6)Yoshi 4~3~5, (Angel) 1+2 (ASAP!)
+
+Anna
+1)U/F+4~5, (Yoshi) Class 3 Juggles
+2)u/f+1+2~5, (Yoshi) Techroll? Y=tag dive/N=(u/f+3+4,b+1,3+4_u/f+1+2~D_d/b+1)
+3)(Yoshi) d/f+(SSL+)2~5, (Anna) (1, u/f+1,3, f+1+2)_(d/f+1,2, f+1,2, f+1+2)
+................................(d/f+1,2,1, u/f+1,3)_(qcf+1, d/f+3,2,3)
+................................(qcf+1, 1, 1,2, f+1+2)_(qcf+1, 1,2, d/f+3,1,4)
+
+Armor King/King
+1)(King) CD+1+2(CH)~5, (Yoshi) 1+2,1+2, d+4
+..............................Class 2 Juggle
+2)(A. King) CD+2~5, (Yoshi) Class 2 Juggle
+3)(Both) FC,d/f+2~5, (Yoshi) Class 2 Juggle
+4)(Both) d/f+3+4(blocked), (Yoshi) (u/f+3+4,b+1,3+4)_u/f+1+2~d
+5)(Yoshi) SSL+2~5, (King) 2,1, 1+2,1
+6)(Yoshi) 4~3~5, (King) (F+1+2)_(U/F,N+4, d+3+4,2)_(f,f+3+4, KND,d+4)
+.................(A. King) (f+1+2)_(U/F,N+4, d+3+4,4,4)_(f+3+4)_(CD+4_1)
+7)(Yoshi) d/f+2 (SSL+2)~5, (A. King) (CD+4_1)_(2,1, 1, b+3)
+
+Baek
+1)CD+3~5, (Yoshi) qcf+1 (execute ASAP for all 3 hits)
+2)CD+3~5, (Yoshi) b+1+4 (high as poss.), b+1,1,1, f+3
+3)FC+3,3,N+3~5, (Yoshi) Class 2 Juggle
+4)(Yoshi) SSL+2~5, (Baek) 4+3, d+4,3,3
+5)(Yoshi) d/f+2~5, (Baek) 1,2,3~F#, 1,2,3, (release F) 1,2,3,4
+6)(Yoshi) 4~3~5, (Baek) b+4, FC+3,3,N+3~5, (Yoshi) tag dive
+
+Bruce
+1)1+3~5, (Yoshi) d/b+1
+2)d/f+[1,]2~5, (Yoshi) Class 3 Juggle
+3)(Yoshi) 4~3~5, (Bruce) f,f+4(ASAP), b+4,3,4
+.........................U/F,N+4, b+4,3,4
+.........................b+3, b+4,3,4
+4)(Yoshi) SSL+2(or d/f+2)~5, (Bruce) see #5 combo
+
+Bryan
+1)b+1~5, (Yoshi) (1+2,1+2)_(D/B+3,3...)_d/b+1
+2)b+1(CH)~5, (Yoshi) (same as above)_u/f+1+2~D
+3)WS or qcf+1~5, (Yoshi) Class 2 Juggle
+4)(Yoshi) d/f+2 or SS+2~5, (Bryan) (b+2,1,4)_(f+4,3,4)_(f+1,4, 3,3)
+5)(Yoshi) 4~3~5, (Bryan) (U/F,N+4, f,f+2)_(f+2, f+4,3,4)_(qcf+2, 1~4,3,3)
+
+Eddy
+1)f,f+3+4~5, (Yoshi) (1+2,1+2,d+4)_(1+2,f~u/f,1+2 techable)
+2)SS+1+2~3 or [b+4(CH)]d/f+3+4~5, (Yoshi) Class 2 Juggle
+3)handstand, d+3+4~5, (Yoshi) Class 3 Juggle
+4)SSR,throw~5, (Yoshi) d/b+1_(u/f+3+4,b+1)
+5)(Yoshi) d/f+2 or SS+2~5, (Eddy) (f+1,2,4~4)_(b+4,4,3+4)
+6)(Yoshi) 4~3~5, (Eddy) U/F,N+4, f+1,2,4~4
+
+Ganryu
+1)b,d/b,d,d/f+1~5, (Yoshi) Most Class 1 Tag Juggles, All Class 2 Juggles
+2)SSR+throw~5, (Yoshi) (1+2,f,f)_d/b+1_d+1+2_(D/B+3,3...)
+3)SSL+throw~5, (Yoshi) (1+2,f,f)_d/b+1_d+1+2_(u/f+3+4,b+1,3+4)_(u/f+1+2~D)
+4)(Yoshi) d/f+2~5, (Ganryu) f+2,1,2,1, d+1+2
+5)(Yoshi) SS+2~5, (Ganryu) d/f+2, d+1, FC+1+2
+6)(Yoshi) 4~3~5, (Ganryu) u~u/b, (FC,d/f+1,2,1)_(SS+1)
+..........................(b,d/b,d,d/f+2)_(U/F+3+4,2)
+
+Heihachi
+1)[E]WGF or f,f+2~5, (Yoshi) Class 2 Juggle
+2)(Yoshi) SS+2 or d/f+2~5, (Hei) (CD+4,4,1, d+1)_(f+1, f+1,b+2,1)_qcf+2
+3)(Yoshi) 4~3~5, (Hei) (TGF, d+1)_(u/f+3,4, d+1)_(CD+4,1)_CD+3_qcf+2_d+1+4-BIG
+
+Hwoarang
+1)CD+4~5, (Yoshi) Class 1 Tag
+2)BK/RFF,4 or BK/LFF,3 or 3,3,3,3 or d+4,4~5, (Yoshi) Class 2 Tag
+3)(Yoshi) d/f+2 or SS+2~5, (Bob) d+3,4, 1, d+4,4~5, (Yoshi) tag dive
+.................................3,3,3,3~5, (Yoshi) tag dive
+.................................3,3,3,(4), 3
+4)(Yoshi) 4~3~5, (Bob) 3+4, 3~4
+.......................d/b+3+4 (escape on tech-tag and rollback only)
+.......................(u/f+3,4,3)_(u+3, b+4~5, (Yoshi) tag dive)
+.......................(U/F,N+4, d+4,4~5, Yoshi tag dive)_(u+3, 4, 3 (hard!))
+
+Jacks (G=Gun Jack, P=Prototype Jack, 2=Jack-2, WLS=Whiffs Opps who lie still)
+1)(G/2) WS+1~5, (Yoshi) Class 2 Juggle
+2)(G) hcf~d/f+1~5, (Yoshi) Most Class 1 Juggles
+3)(G/P) SSR+throw~5, (Yoshi) d/b+1_(u/f+3+4,b+1,3+4)_(D/B+3,3...)
+4)(P) b,d/b,d,d/f+1~5, (Yoshi) Most Class 1 Juggles
+5)(P/2) SS+1~5, (Yoshi) (1+2,1+2, d+4)_(1+2,f~u/f,1+2 techable)_(Most Class 1)
+........................(u/f+1+2~D)_(D/B+3,3...)
+6)(2) back throw 2+4~5, (Yoshi) d/b+1_(u/f+1+2~D)_(D/B+3,3...)
+7)(Yoshi) d/f+2 or SS+2~5, (ALL) f+2, f+2, f+1+2_1+2
+8)(Yoshi) SS+2~5, (G) b+2  (2) f,f+2  (ALL) f+3+4
+9)(Yoshi) 4~3~5, (G) b+1+2_b+2_(u~u/b, SS+2)_(d+1+2~5, Yoshi tag dive)
+.................(P) f,f+2_(wait, U/F,N+4, d/f+1+2_d+1)
+.................(2) (f,f+3, 1+2 WLS)_(d+1+2~5, Yoshi tag dive)
+.................(ALL) u/f+3+4_b,d/b,d,d/f+2  (G/2) U/F,N+4, 1+2
+
+Jin
+1)SS_WGF+2~5, (Yoshi) Class 3 Juggles (Jin tags out way too slow!)
+2)b,f+2,1,2~5, (Yoshi) Class 3 Juggles (Still too slow! Grr!)
+3)(Yoshi) d/f+2_SS+2~5, (Jin) b,f+2,1,d+2, f,f+2
+4)(Yoshi) 4~3~5, (Jin) TGF,(~3)_(1,1,2)_(d/f+4,4)_(d/f+1,2~5)
+.........................., 1+4,2,d+4 [All TGF ASAP!]
+
+Julia/Michelle
+1)1~1~1~5, (Yoshi) Class 2 Juggle
+2)(Michelle) d/f+3+4~5, (Yoshi) Class 2 Juggle
+3)(Yoshi) d/f+2~5, (Julia) d+1, FC,d/f+4,3, d/f+4,2,b,f+1
+...................(J or M) f,f+1, f,f+1, f,f+1, (f,f+1,4)_(f,f+1)
+...................(J or M) d+4,1
+...................(Michelle) d/f+3+4~5, (Yoshi) tag dive (guard break combo)
+4)(Yoshi) 4~3~5, (J or M) U/F,N+4, f,f+1, f,f+1, f,f+1,4
+..........................f+1+4, u/f+3+4 (escape backroll/tech tag only)
+5)(Both) WS+2,1,1~5, (Yoshi) tag dive (guard break combo)
+
+Jun
+1)f+2 or d/b+2~5, (Yoshi) Class 2 Juggle
+2)b+3~5, (Yoshi) Class 3 Juggle
+3)(Yoshi) d/f+2~5, (Jun) (1+4, 1+4,2,d+4)_(b+2,1+2, 1+4,2,d+4)
+.........................(b+2,1+2, 1,1,3)_(b+2,4,1+4,2,d+4)_(b+2,1+2,b+3~5)
+4)(Yoshi) 4~3~5, (Jun) f+3, d/b+4
+
+Kazuya
+1)WGF~5, (Yoshi) Class 2 Juggle
+2)f+1+2, 5, (Yoshi) (d/b+1)_(D/B+3,3...)_(u/f+3+4,b+1)
+3)WS+2(CH & Clean Hit)~5, (Yoshi) (same as #2)_(1+2,1+2)
+4)(Yoshi) d/f+2 or SS+2~5, (Kazuya) 1,2, (d/f+2_d/f+4,4)
+5)(Yoshi) 4~3~5, (Kazuya) (TGF~3_4)_(TGF, 1,1,2_1,2,4)_(TGF, d/f+4,4)
+..........................(U/F,N+4, d/f+4,4_d/f+2)
+
+Kuma
+1)3+4,1+2~5, (Yoshi) f,f,N+1+2 (not techable)
+2)f,f+2~5, (Yoshi) Class 1 Juggle
+3)(Yoshi) 4~3~5, (Kuma) u/f+1+2, f+1,1,1~5, (Yoshi) tag dive
+4)(Yoshi) d/f+2 or SSL+2~5, (Kuma) f+1,1,1~5, (Yoshi) tag dive
+
+Kunimitsu
+1)d/f+2~5_f,f+2~5, (Yoshi) Class 2 Juggle
+2)(Yoshi) 4~3~5, (Kuni) b+1, 1, b+1,1,1, f,f+3
+3)(Yoshi) SSL+2 (or d/f+2)~5, (Kuni) Yoshi's Class 2 Juggles
+................................... f+1, b+1,1,(1),1, f+3+4_1+2
+
+Law
+1)U/F+4 or (u/f+)3,4 or 3+4 or FC,u~n+4 or WS+2 or b+1,2,1~5, (Yoshi) Class 2
+* 2)b+2,3,4~5, (Yoshi) f+1, d/f+1,D/B#+2,(2),2,(2),2,(2),2
+3)f,F+3+4~5, (Yoshi) d/b+1
+4)(Yoshi) d/f+2 or SS+2~5, (Law) f+1,[2] b+2,3,4~5, (Yoshi) tag dive
+.................................(f+1, b+2, d+2,3)_(b+1,2,1~4 (Yoshi)tag dive)
+5)(Yoshi) 4~3~5, (Law) U/F,N+4, b+2,3,4~5, (Yoshi) tag dive
+* NOTE:  Perfect timing on PS2 is required to hit Yoshi's f+1, though it
+         is a little easier in the arcade.
+
+Lee
+1)d~D/B+4~5, (Yoshi) Class 1 Juggle
+2)FC,u/f+4~5, (Yoshi) Class 2 Juggle
+3)(hitman stance) 2+5~5, (Yoshi) Class 3 Juggle
+4)b+4(CH)~5, (Yoshi) 1+2,1+2
+5)f,F+3+4~5, (Yoshi) d/b+1
+6)(Yoshi) SS+2~5, (Lee) (f,f,N+3,4,f+4)_(4~u+3)
+
+Lei
+1)Tiger Stance: 1~5, (Yoshi) 1+2,1+2, d+4
+2)Panther Stance: 2~5, (Yoshi) Class 2 Juggle
+3)(Yoshi) (d/f+2)_(SSL+2)~5, (Lei) f,N+1,2,1,2~U, 4
+4)(Yoshi) 4~3~5, (Lei) U/F,N+4, 4~4~3~3~5, (Yoshi) tag dive
+
+Nina
+1)d/b+3 or d/b+4,3~5, (Yoshi) Class 2 Juggle
+2)u/f+1+2~5, (Yoshi) Techroll? Y=tag dive/N=(u/f+3+4,b+1,3+4_u/f+1+2~D_d/b+1)
+3)SSL+throw~5, (Yoshi) 1+2_(u/f+1+2~D)_(u/f+3+4,b+1,3+4)_(d/b+1~D/B,N)
+4)(Yoshi) d/f+2 or SS+2~5, (Nina) (1,2, d/f+3,1,2,f+1+2)_(b+2,2, d+4,1, f,f+3)
+5)(Yoshi) 4~3~5, (Nina) (u/f+4, d/f+3,1,2>f+1+2)_(d/f+3,3,3,1,2,f+1+2)
+.........................U/F,N+4, d+4,1, f,f+3
+
+Ogre
+1)d~D/B+4~5, (Yoshi) f,f+1+2 (unescapable)
+2)d~D/B+4(CH)~5, (Yoshi) Class 2 Juggle
+3)FC+3,3,N+3~5, (Yoshi) Class 2 Juggle
+4)WS+2(CH & Clean Hit)~5, (Yoshi) d/b+1_(D/B+3,3...)_(u/f+3+4,b+1)_(1+2,1+2)
+5)(Yoshi) SS(d/f)+2~5, (Ogre) d/f+1, 4
+6)(Yoshi) 4~3~5, (Ogre) f,f+4, d+2, (FC,f+2)_(WS+4,4)_(WS+3,3)
+............................., FC+3,3,N+3~5, (Yoshi) tag dive
+............................., (u/b+3)_(d/f+4)_(1,2,2)
+........................(u/b+3,2~5)_(u/f+3,4,3)_(U/F,N+4, d+4,4)
+
+Ogre-2 (True Ogre)
+(Has same juggle options as Ogre except #5)
+1)d/f+1+2, u/b+3,2~5, (Yoshi) tag dive
+2)(Yoshi) SS(d/f)+2~5, (TOgre) d/f+1, d+2, FC,f+2
+3)(Yoshi) 4~3~5, (TOgre) d+1+2(ASAP!)
+.........................(U/F,N+4 or u+3+4), d+2, FC,f+2
+
+Paul
+1)qcf+1~5, (Yoshi) Class 3 Juggle
+2)qcb+1(CH)~5, (Yoshi) (u/f+1+2~D)_(U/F+3+4,b+1,3+4)_(D/B+3,3...)
+3)[qcf+1(CH)], f,f+1+2~5, (Yoshi) d+1+2_d/b+1_1+2_(D/B+3,3...)_(U/F+3+4,b+1)
+4)(Yoshi) d/f+2~5, (Paul) (1,2, u/f+3,4)_qcf+2
+5)(Yoshi) SS+2~5, (Paul) (qcb+3,2,1_2~5)_qcf+2
+6)(Yoshi) 4~3~5, (Paul) (u~u/b, SS+1, d+1)_(U/F,N+4, f+1, qcf+2)_qcf+2
+
+Xiaoyu
+1)(BK)+4~5, (Yoshi) Class 2 Juggle
+2)(Yoshi) d/f+2~5, (Xiaoyu) d/f+1, 2,1, f,f+1+2,1+2
+3)(Yoshi) 4~3~5, (Xiaoyu) UF,N+4, d/b+4
+4)(Yoshi) 4~3~5, (Xiaoyu) d+1+2, u+4,4, WS+2, 2,1,4~5, (Yoshi) tag dive
+
+Wang
+1)SS+1+2(CH), d/f,d/f+2+4~5, (Yoshi) f,F+1+4
+2)d/f,d/f+2+4~5, (Yoshi) f,F+1+4
+3)d/b+4,2, f+1, d/b+4,2~5, (Yoshi) tag dive
+4)d/b+2~5, (Yoshi) Class 3 Juggle
+5)1~1~1~5, (Yoshi) Class 2 Juggle
+6)WS+2,1,1~5, (Yoshi) tag dive, (f+1 guard break combo)
+7)(Yoshi) SSL+2~5, (Wang) f+1, d/b+4,2~5, (Yoshi) tag dive
+8)(Yoshi) 4~3~5, (Wang) b,b+1, u/f+3+4 (escapable on tech tag only!)
+........................b+1+2, (esc backroll/flipup, hits tech tag-ins)
+........................U/F,N+4, (f+1+2)_(d+4,1)_(d/b+4,2~5, Yoshi tag dive)
+NOTE:  Combos 1, 2, 7 and 8(unblockables) are 100% on all regular sized 
+       characters, and are 100% on everyone if the tagged partner has Netsu!
+
+--------------------
+Credits.
+The Movelist contributed by Catlord and his FAQ, avaialable on the Tekken 
+Zaibatsu site, http://www.tekken.net/zaibatsu, and at Catlord's own page:
+http://tekken.net/catlord/(tttmoves.txt)
+
+Contributors:
+TTT.com--My first Tekken Tag Forum, which, thankfully led me to Zaibatsu and
+         other quality forums, so I won't have to go back (shudder).
+Catlord--Constant research and updates on your Movelists are always 
+         informed and appreciated!
+Castel-- Head Honcho at Zaibatsu, for providing such a kickass TTT service to
+         dedicated players, as well as those insane juggle movies.  Keep up 
+         the good work!
+Shauno-- Showing me some awesome stuff on our Favorite Ninja, thanks man!
+Inca--   For sharing some bizarre yet cool Yoshi tricks on Zaibatsu, gracias!
+Bastard--More enlightening info from Zaibatsu, rock on. ;)
+
+...the posters at Zaibatsu and other good sites for your insight and 
+discoveries, and many others un-named!

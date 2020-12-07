@@ -1,0 +1,3019 @@
+
+                                                       
+                        ____               ____
+                         |ekken Tag Tournamen|
+                          .COMBO COMPENDIUM.
+                        Version 1.12 (01/03/01)
+                    Arcade and Playstation2 Version
+                    -------------------------------
+                compiled by Catlord (catlord@tekken.net)
+        Latest compendium available at- http://catlord.tekken.net
+
+Note: This FAQ must be printed in monospace format, otherwise it will come
+      out ugly as hell and not lined up..    1234567890
+                                             ..........
+
+=============================================================================
+
+ COMBO - A stringing of moves that when the first hit connects, the
+ -----   following hits are _COMPLETELY INESCAPABLE_.
+
+=============================================================================
+
+        It is important to remember this definition.. Combos CANNOT be
+tech rolled (quick recovered) out of. If you have a Playstation2, you can
+make sure your combos are 'true' or 'guaranteed' by setting the Training
+Dummy in Practice Mode to "QUICK ROLL /\" or "QUICK ROLL \/".  There are also
+a number of stun attacks that can be escaped with a quick tag out or a
+controller movement (ex. Tapping forward to escape the hitstun of Jin's
+counterhit b,f+2,1,d+2.)  Unfortunately, TTT on the PS2 has no Practice Mode
+setting for the computer to escape such stuns.  Remember, if your opponent
+can get out of your combo in any way possible, it's not a combo.  
+
+        A bug in the JAPANESE VERSION of TTT is that it reports incorrect
+damage percentages when the Counter Attacks setting is turned on.  If you
+have a Japanese version of TTT, Do NOT turn on the Counter Attacks setting
+because it will count every hit in the juggle as a Counter Hit. In order to
+obtain TRUE damage readouts for combos that start off with a Counter Hit,
+use the Kiai Tame Powerup (1+2+3+4) to start off the juggle.  Hitting all 4
+buttons at once can be a pain in the ass, especially on Playstation pads, so
+go to the Controller Setup on the Options menu and bind 1+2 (LP+RP) to the
+L1 button, and 3+4 (LK+RK) to the L2 button.  Makes it a LOT easier if you
+just have to push down two wing buttons.  Namco fixed this bug in the
+American version of TTT.
+
+        ALL these combos have been tested on NORMAL sized characters.  I
+used Jin or Julia as the practice dummy in all the combos to verify this.
+They do NOT have to be used on big characters like Kuma/Panda, Ogre-2, or
+GunJack in order to connect.  In the future I may add combos that work on
+big characters, but for now I'm going to concentrate on stuff that works on
+normal sized ones.
+
+        To pull off Hard or Very Hard juggles that seem impossible, make
+sure to either:
+ a) Hit the opponent as early and as high up in the air as possible, or
+ b) Move forward between the hits of the juggle, bringing the opponent
+    closer (deeper) to you.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+        If you have any guaranteed juggles to contribute to the Compendium,
+please email them to catlord@tekken.net.  Before submitting, please follow
+these guidelines:
+ a) Juggles must NOT be tech rollable or tag escapable.
+ b) Juggles must work on NORMAL sized characters.
+ c) If you are contributing CH juggles with damage points, make sure to start
+    the juggle with a Kiai Tame Powerup, do NOT use the Counter Attacks
+    setting in the Practice Mode option menu.
+
+        I can be real busy at times, so it might take a while until I update
+the list with new submitted juggles.  Try ta send me juggles for characters
+that may not have that many combos listed for them.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+ ==============
+ | WHAT'S NEW |    Total Juggles Listed: 2,176
+ ==============                          -----
+
+   v1.12  Updated Bruce, Bryan, Alex/Roger, Ganryu, King, Armor King,
+   -----  Ogre, Wang, Heihachi, Jin, Julia, Lei, Lee, Yoshimitsu, Anna,
+          Kunimitsu, and Kazuya.  (135 Juggles Total)
+
+   v1.11  Updated Anna, Jun, Julia, Paul, Kunimitsu, Wang, Law, P-Jack,
+   -----  Bryan, Ganryu, and Angel/Devil. (222 Juggles Total)
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+		     *-*-*-BUTTON CONVENTIONS-*-*-*
+                                             __________________
+                                             | BUTTON LAYOUTS |
+                            -------------------------------------------------
+                            |        ARCADE         |   PLAYSTATION2   ___  |
+                            |                       |       ___       | 5 | |
+         1 - Left Punch     |   ___    ___    ___   |      /   \      |___| |
+         2 - Right Punch    |  /   \  /   \  /   \  |      | 2 |        R1  |
+         3 - Left Kick      |  | 1 |  | 2 |  | 5 |  |      \___/        R2  |
+         4 - Right Kick     |  \___/  \___/  \___/  |  ___      ___    L1  |
+         5 - Tag            |                       | /   \     /   \   L2  |
+                            |   ___    ___          | | 1 |     | 4 |       |
+                            |  /   \  /   \         | \___/     \___/       |
+   It's very important to   |  | 3 |  | 4 |         |   ß   ___   O         |
+ become familiar with the   |  \___/  \___/         |      /   \            |
+ numeric conventions of the |                       |      | 3 |            |
+ buttons.                   |                       |      \___/            |
+                            |                       |        X              |
+                            -------------------------------------------------
+
+		    *-*-*-MOVEMENT CONVENTIONS-*-*-*                        
+
+f - tap forward once           d/f - tap down/forward once
+b - tap backwards once         d/b - tap down/back once
+d - tap down once              u/f - tap up/forward once
+u - tap up once                u/b - tap up/back once
+
+F - Hold stick forward         D/F - Hold stick down/forward
+B - Hold stick back            D/B - Hold stick down/back
+D - Hold stick down            U/F - Hold stick up/forward
+U - Hold stick up              U/B - Hold stick up/back
+
+N - Neutral joystick position (Joystick is not touched)
+SS - Sidestep (u,N or d,N)
+QCF - Quarter circle forward (Circle stick from down to forward)
+QCB - Quarter circle back (Circle stick from down to back)
+HCF - Half circle forward (Circle stick from back to down to forward)
+HCB - Half circle back (Circle stick from forward to down to back)
+
+		*-*-*-LINKING & SPECIAL CONVENTIONS-*-*-*
+
++ - Moves must be done together
+, - Moves must be done right after the other
+~ - Moves must be done IMMEDIATELY after the other
+> - Slightly delay the move after the '>'
+# - Hold movement preceeding the '#' until end of string or until N (Neutral)
+
+FC - Do move during full crouched position
+WS - While standing up (Returning the stick to neutral from a crouch)
+cc - Crouch Cancel (Tapping u while crouched to bypass performing a WS move)
+BK - Back facing the opponent
+FD/FT - Lying on the ground Face Down / Feet Towards opponent
+FD/FA -   "           "     Face Down / Feet Away from opponent
+FU/FT -   "           "     Face Up / Feet Towards opponent
+FU/FA -   "           "     Face Up / Feet Away from opponent
+
+CH - Major Counterhit (Hitting your opponent during their move execution)
+
+Side - Initial juggle starter connects to opponent's side.
+
+[] - Brackets around moves mean that the hits are not part of the combo, but
+     are necessary to be thrown for the later juggling hit.
+
+{} - Curved Brackets indicates an attack that misses in a juggle.
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+POSTNOTES
+---------
+
+*  - Indicates a New Juggle added in this Compendium revision.
+
+$  - A Safe Juggle is easy to execute, but does a good deal of damage.
+
+^  - Choice Juggles gotta look cool, regardless of their difficulty.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                             | ALEX / ROGER |
+                             =-=-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+f,N+1 (blocked), f,f+3+4                       2        25           Easy
+                 f,N,d,d/f+1                   2        50           Easy   ^
+                 f,f,N+1, u/f+2+4              2        51          Medium  *
+                 u/f+1+2, <Any u/f+1+2 Combo>                               $
+                 u/f+4, <Any u/f+4 Combo>
+
+f,f,N+1, u/f+2+4                               2        51          Medium   
+
+f,f+1,2,1,2,1 (blocked), f+1,2, f+1,2          4        18           Easy   *
+                         3                     1        20           Easy   *
+                         d/b+4,[3],4           2        21           Easy   *
+                         f,f+1,2,[1],2         3        22           Easy   *
+                         f+1, 1,2, d+3+4       4        23           Easy   *
+                         d/b+3, d+1, FC,d/f+4  3        23           Easy   *
+                         d/b+3, d/f+1+2        2        23          Medium  *
+                         f+4, d+3+4            2        28          Medium  *
+
+CH f,f+1,2,1,2, ~1                             5        75           Easy
+                f,f+2                          5        75          Medium   
+                f,N,d,d/f+1                    5       105           Hard    
+                f,f, u/f+4, <Any u/f+4 Combo>
+                u/f,N+4, <Any u/f,N+4 Combo>
+
+d/b,d/b+1+2, d+3                               2        52           Easy
+
+d/b,f+1+2, d+3                                 2        70           Easy   
+           d/f+1+2                             2        78           Easy    
+           
+u/f+1+2, d+3+4,4,4                             4        54           Easy   $
+         d/b+3, d/f+1+2                        3        58         V. Hard   
+
+1+3, d+3                                       2        42           Easy    
+     d/f+1+2                                   2        50           Easy    
+
+CH f,f+2  1,2, f,f+2                           4        50           Easy
+          1,2, 4                               4        52           Easy   $
+          1, 1, f,f,N+2                        4        47          Medium
+          f,f+1,2,{1},2                        4        52          Medium
+
+FC,d/f+2, 1, 1,2, d+3+4                        5        39           Easy    
+          2,1, d+3+4                           4        43           Easy    
+          f,f+1,2, f,f+4                       4        43           Hard   
+
+2+4, d+3                                       2        42           Easy    
+     d/f+1+2                                   2        50           Easy    
+
+d/b+3, d/b+3, d+1, FC,d/f+4                    4        38           Easy    
+
+u+3+4, d+3+4,4,4                               4        36           Easy   $
+
+u/f+4, 1, d/b+3                                3        25           Easy    
+       1,2, d/f+1                              4        30           Easy    
+       1, 1,2, d+3+4                           5        32           Easy
+       1, 1, FC+1+2                            4        32           Easy    
+       u/f+4, d+3+4,4                          4        34           Easy
+       1,2, f,f+4                              4        36           Easy    
+       2,1, d+3+4                              4        36           Easy   
+       1,2, 1,2                                5        37           Easy
+       4, d+3+4                                3        35          Medium   
+       f,f+1,2,1,2                             5        40          Medium
+       f,f+1,2, f,f+4                          4        41          Medium   
+       f,f+1,2, d/b+3                          4        31           Hard    
+       1, d+3+4,4,4                            5        32           Hard    
+       f+1,2, f,N,d,d/f,f+4, d+3+4             5        49           Hard   *
+       1, 1, f,N,d,d/f+1                       4        46         V. Hard  ^
+       4, f,f+4                                3        ??         V. Hard
+
+u/f,N+4, f+4, d+3+4                            3        51           Easy   *
+         f+1, d+1, FC+1+2                      4        43          Medium  *
+         1,2, f,f+4                            4        48          Medium  *
+         f,f+1,2,1,2                           5        52          Medium  *
+
+
+SS+4, d+1, FC,d/f+2                            3        31           Easy
+      d+1, FC+1+2                              3        32           Easy   $
+      d+1, FC+1,N+2                            4        30          Medium   
+      d/b+3, d/f+1+2                           3        40          Medium  ^ 
+      d+1, FC+1, FC+1+2                        4        34           Hard
+      d+1, WS+2, d+3+4                         4        36           Hard
+      d/b+3, d+1, FC,d/f+4                     4        38           Hard    
+      d/b+3, d+3+4,4,4                         5        44         V. Hard  
+      d+1, cc,1, f,f+4                         4        ??         V. Hard
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                            | ANGEL / DEVIL |
+                            =-=-=-=-=-=-=-=-=
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+1+2  1,2,2                                     4        59           Easy                
+     4                                         2        64           Easy   $
+     1, 1,2, f,N,d,d/f+2                       5        65          Medium   
+     1, 1, 1, 1,2                              6        58           Hard    
+     1,2, 1,1,2                                6        66           Hard
+     f,N,d,d/f+1,3                             3        69           Hard
+     d/f+1,2, f,N,d,d/f+2                      4        65         V. Hard   
+
+f,f+1+2, d+3                                   2        45           Easy    
+
+d/f+1,2, 1,2, d/f+1,2                          6        44           Easy
+         1, 1,2,2                              6        47           Easy
+         4                                     3        47           Easy    
+         1,2, 1,1,2                            7        49          Medium
+
+f,N,d,d/f+2  u+1+2                             2        41           Easy
+             1, 1,2,2                          4        47           Easy
+             1, 1,1,2                          4        47           Easy
+             4                                 2        49           Easy    
+             1,2, 4                            4        50           Easy   $
+             d/f+1, f,N,d,d/f+4,4              4        44          Medium   
+             d/f+2, d/f+4                      3        44          Medium   
+             1, d/f+1, f,N,d,d/f+2             4        46          Medium   
+             1,2, f,N,d,d/f+2                  4        47          Medium
+             1,2, f,N,d,d/f+4,4                4        50          Medium
+             d/f+1,2, 4                        4        53          Medium   
+             d/f+2, f,N,d,d/f+2                3        49           Hard    
+             1, 1,2, f,N,d,d/f+2               5        50           Hard
+             1, 1,2, 1,{1},2                   6        50           Hard    
+             1,2, 1,1>2                        6        51           Hard
+             1, 1, 1, 1,2                      6        44         V. Hard   
+             1, 1,2, f,N,d,D/F+4,4             6        51         V. Hard
+             d/f+1,2, 1, f,N,d,d/f+2           5        53         V. Hard   
+             f,N,d,d/f+2, 1, f,N,d,d/f+2       4        60         V. Hard   
+
+CH f,N,d,d/f+2, 1, d/f+1,2                     4        53           Easy    
+                1,1, 1,{1},2                   5        58           Easy
+                1,2, 1,{1},2                   5        59           Easy    
+                4                              2        61           Easy   $
+                f,f,N+2,1,{2},2                4        47          Medium   
+                f,N,d,D/F+4,4                  3        55          Medium
+                d/f+1, 1, f,N,d,d/f+2          4        58           Hard
+
+CH d/f+2, u+1+2                                2        38           Easy    
+          1,2, 1,2                             5        40           Easy
+          1,2, d/f+1,2                         5        43           Easy    
+          d/f+1, f,N,d,D/F+4,4                 4        41          Medium
+          1,2, 1,1,2                           6        48          Medium   
+          1,2, f,N,d,D/F+4,4                   5        45           Hard    
+
+SS+2  1, 1,1,2                                 5        49           Easy
+      1+2                                      2        62           Easy   $
+      Run Under, 1,2,2                         4        48          Medium   
+      u+1+2, 1,1,2                             5        61          Medium
+      u+1+2  4                                 3        61          Medium
+      U/F,4, 1,1,2                             6        66          Medium
+      b,b, f,N,d,d/f+1,3                       3        59           Hard   ^
+      f,N,d,d/f+2, 1, f,N,d,D/F+4,4            5        65         V. Hard   
+      b,b, f,N,d,d/f+1, 1,1,2                  5        ??         V. Hard
+      u+1+2, 1, f,N,d,d/f+2, 4~3               5        ??         V. Hard
+
+2+4, d+3                                       2        37           Easy    
+
+u/f,N+4, u+1+2                                 2        41           Easy    
+         1, 1,2,2                              5        47           Easy    
+         4                                     2        49           Easy   $
+         1,2, f,N,d,d/f+2                      4        47          Medium 
+
+CH f+4, f,N,d,D/F+4                            2        55           Easy    
+        f,N,d,d/f,f+4                          2        53           Hard    
+
+Crouch Opponent f+4, d/f+1                     2        35           Easy    
+                     f,f+2                     2        57           Easy    
+                     f,N,d,d/f+2, <Any f,N,d,d/f+2 Combo>
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                            | ANNA WILLIAMS |
+                            =-=-=-=-=-=-=-=-=
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+FC,f+1, d+3,4                                 3         43           Easy    
+        d+4,1, 1,2, f+1+2                     6         54           Easy
+        d+4,1, d+3,4                          5         50          Medium
+
+d/f,d/f+1, d+3                                2         45           Easy    
+           d+3+4                              2         49           Easy
+
+CH QCF+1, b+4,4                               2         48           Easy    
+          3,4                                 3         59           Easy
+          QCF+1, 1,2, f+1+2                   5         66           Easy
+          QCF+1, 1, 1,2, f+1+2                6         68           Easy    
+          QCF+1, d/f+1, 1,2, f+1+2            6         71           Easy    
+          d/f+3,3,3,1,4                       6         59          Medium   
+          QCF+1, d+1, FC+3,N+4                5         64          Medium  *
+          QCF+1, 1, 1,2,{1},2,3               7         64          Medium
+          u/f+4,{3},4, f+1+2                  4         65          Medium   
+          U/F,4, 1,2, f+1+2                   5         69          Medium
+          SS+3                                2         51          Medium
+          QCF+1, d/f+3,2,3                    5         70          Medium   
+          u/f+4, 1,2, d/f+3,1,4               7         72          Medium   
+          QCF+1, 1,2, d/f+3,1,4               7         73          Medium
+          QCF+1, u/f+1,3, f+1+2               5         74           Hard
+          QCF+1, d/f+1+2, 1,2, f+1+2          6         78           Hard
+          u/f+4, u/f+1,3, f+1+2               5         89           Hard
+          QCF+1, QCF+1                        3         58         V. Hard
+          QCF+1, 1, QCF+1, d+4,1              6         70         V. Hard   
+          u/f+4,{3},4, u/f+1,3                5         70         V. Hard   
+          QCF+1, 1, QCF+1, d+1~N+4            6         70         V. Hard
+          QCF+1, 1, QCF+1, d+3,2              6         ??         V. Hard
+          QCF+1, QCF+1, d+3,4                 5         ??         V. Hard
+          U/F,4, u/f+1,3, f+1+2               6         ??         V. Hard
+          QCF+1, 1, QCF+1, 1,2, f+1+2         7         ??         V. Hard
+
+SS+1+2, d+4,1                                 4         32           Easy
+        1,2, f+1+2                            5         41          Medium
+        1, u/f+1,3                            5         41          Medium   
+
+Side SS+1+2, d/f+3,2,{1},4                    5         39          Medium   
+             d/f+3,2,4                        5         42          Medium   
+             1, d/f+1+2, f,f, d+3+4           5         42           Hard    
+
+CH SS+1+2, d/f+3,1,4                          5         52           Easy
+           1,2, f+1+2                         5         52           Easy   $
+
+1+3, d+3                                      2         42           Easy    
+     d+3+4                                    2         46           Easy    
+
+Right Side Throw, d+3+4                       2         54           Easy    
+
+d/f+2, 1,2, d+4,1                             5         29           Easy
+       4, f+1+2                               3         34           Easy
+       1,2, d/f+3,1,4                         6         38           Easy    
+       u/f+4, d+4,1, d/f+4                    5         41           Easy
+       d/f+3,1, d/f+3,1,4                     6         42           Easy    
+       u/f+1,3, u/f+1,3                       5         46           Easy   $
+       d/f+1+2, 1,2, f+1+2                    5         29          Medium
+       d/f+1+2, d/f+1,2,4                     5         31          Medium   
+       d/f+3,3,3,1,2                          6         32          Medium
+       d/f+3,3,3,1,4                          6         39          Medium   
+       1, u/f+1,3, f+1+2                      5         41          Medium
+       d/f+1, u/f+4, d+3,2                    5         41          Medium
+       u/f+4, d+4,1, d+4,1                    6         44          Medium
+       QCF+1, 1,2, f+1+2                      5         46          Medium   
+       QCF+1, 1, 1,2, f+1+2                   6         48          Medium   
+       u/f+4, d+1~N+4, f+1+2                  5         45           Hard
+       QCF+1, 1, d/f+3,1,4                    6         48           Hard    
+       QCF+1, 1,2, u/f+1,3                    6         52           Hard
+       d/f+1+2, d/f+1+2, 1, f+1+2             5         12         V. Hard  *
+       d/f+1+2, 1, d/f+1+2, d/f+4             5         19         V. Hard
+       QCF+1, 1,2, d/f+3,1,4                  7         53         V. Hard  *
+       QCF+1, 1, QCF+1, 1, f+1+2              6         ??         V. Hard
+
+CH WS+2, d+4,1, d+4,1                         5         40           Easy
+         d/f+1,2, d/b+1                       4         48          Medium   
+         1, u/f+1,3, f+1+2                    5         51          Medium   
+         d/f+3,1, d/f+3,1,4                   6         52          Medium
+
+CH SS+2, d+1, d+3,N+3                         4         41           Easy
+         FC,U/F+4                             2         45           Easy   $
+         WS+1, d/f+3,1,4                      5         43          Medium
+
+CH FC,f+2, d+3                                2         38           Easy    
+           d+3+4                              2         42           Easy   $
+
+CH d+3,2, 1,2, 1,2, f+1+2                     7         53           Easy    
+          u/f+1,3, u/f+1,3                    6         61           Easy    
+          d/f+3,1, d/f+3,1,4                  7         57          Medium
+
+CH [u/f+1],3, d+4,1, d/b+4                    4         41           Easy    
+              d+4,1, d+4,1                    5         44           Easy
+
+U/F+4, 1,2, 1,2                               5         38           Easy
+       1, 1,2, d/b+1                          5         44           Easy
+       1,2, 1,2, f+1+2                        6         48           Easy
+       u/f+1,3, u/f+1,3                       5         56           Easy    
+       d/f+3,3,3,1,2                          6         45          Medium
+       d/f+1,2, d/b+1                         4         48          Medium   
+       d+4,1, d/f+3,1,2                       6         52          Medium
+       2, u/f+1,3, f+1+2                      5         55          Medium   
+       d/f+3,1,4>2,3                          6         47           Hard
+       FC,U/F+4                               2         50           Hard
+
+CH f+4, f+1+2                                 2         39           Easy
+        u/f+1,3, f+1+2                        4         52           Easy   $   
+        f,f, d+4,1, d/f+3                     4         43         V. Hard
+
+u/f+4, d+3,2                                  3         34           Easy    
+       d+4,1, d+4,1                           5         38           Easy    
+
+BK u/f+4, 1,2, d+4,1                          5         38           Easy    
+          1,2, 1,2, f+1+2                     6         47           Easy    
+          d/f+1, u/f+4, d+4,1                 5         47          Medium   
+          d/f+3,3,3,1,4                       6         48          Medium   
+          d/f+3,1, 1,2, f+1+2                 6         51          Medium   
+          d/f+3,2,1, u/f+4,1                  6         53          Medium   
+          u/f+1,4, u/f+1,4                    5         55          Medium   
+          d/f+3,1,4,{2},3                     5         46           Hard    
+          QCF+1, 1,2, f+1+2                   5         55           Hard    
+
+FC,u/f+4  d+2, FC,d/f+2                       3         37          Medium
+          FC,U/F+4                            2         50           Hard
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                               | ARMOR KING |
+                               =-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+WS+1, d+1~N+2, d+3+4                           4        27           Easy    
+      d+2, WS+2, d+3+4                         4        31          Medium
+      d+2, FC,d/f+3+4,4,4                      5        32          Medium
+      d/f+2, d+1~N+2, d/f+3+4                  5        33          Medium   
+      d+2, WS+4, d+3+4                         4        34          Medium
+      4, d+1~N+2, d+3+4                        5        43          Medium   
+      f+4, d+1~N+2, d+3+4                      5        47           Hard    
+      d+1, cc, 1,2, b+3                        5        ??         V. Hard
+
+CH WS+1, f,N,d,d/f+2, 1,2, 1,2, b+3            7        49          Medium   
+         f,N,d,d/f+2, 2,1, 1,2, b+3            7        56          Medium  *
+         f,N,d,d/f+2, f,N,d,d/f+4              4        56           Hard
+         f,N,d,d/f+2, 1, 1,2, 1,2              7        57           Hard
+         f,N,d,d/f+2, f,N,d,d/f+1              3        61           Hard
+         f,N,d,d/f+2, f,N,d,d/f+2, d+3+4,4,4   6        66           Hard    
+         f,N,d,d/f+2, 1, f,N,d,d/f+2, d+1+2    5        71           Hard   
+
+d/b,d/b+1+2, d+3                               2        52           Easy    
+
+u/f+1+2, d/b+4                                 2        47           Easy    
+         d+3+4,4,4                             4        54           Easy   $
+
+1+3, d+3+4                                     2        47           Easy    
+
+b+1+4, f,f, d/b+4                              3        42           Easy   *
+       f,f, d+3+4                              2        43           Easy   *
+       f,f, d+1+2                              2        46          Medium  *
+       u/f+2+4                                 2        58           Hard   *
+
+CH WS+2, 1, 1,2, b+3                           5        45           Easy    
+         u/f+4, d+1, FC,d/f+4                  4        42          Medium   
+
+FC,d/f+2, 1, 1,2, b+3                          5        43           Easy
+          1,2, f,N,d,d/f+2                     4        40          Medium
+
+f,N,d,d/f+2, 1,2, 1,2, d+3+4                   6        45           Easy
+             u/f+4, d+1~N+2                    4        40          Medium   
+             1, 1, 1, b+3                      5        42          Medium
+             1, 1, 1,2, d+3+4                  6        43          Medium
+             f,N,d,d/f+2, d+3+4,4              4        48          Medium
+             b+1, d+3+4                        3        58          Medium   
+             u/f+4, d+1, FC,d/f+4              4        41           Hard    
+             1,2, d+1, FC,d/f+3+4              5        39           Hard
+             1, d+1~N+2, d+3+4                 5        41           Hard    
+             f,N,d,d/f+1                       2        46           Hard    
+             1, f,N,d,d/f+2, d+3+4,4           5        47           Hard
+             2,1, f,f+2, d+3+4                 5        54           Hard   *
+             b+1, d+3+4                        3        62           Hard
+             2,1, f+1, f,N,d,d/f+2             5        51         V. Hard  *
+             1, f,N,d,d/f+2, d+1+2             4        52         V. Hard
+             f,N,d,d/f+1, d+3+4                3        54         V. Hard   
+             f,N,d,d/f+1, d+1+2                3        62         V. Hard   
+             f,N,d,d/f+2, 1, f,N,d,d/f+2       4        ??         V. Hard
+
+FD/FT 3, WS+4, d+3+4,4,4                       5        40           Easy   $
+         WS+4, d+1, FC,d/f+3+4                 4        36          Medium   
+
+u/f+4, u/f+4, d+1~N+2                          4        32           Easy
+       1, 1,2, b+3                             5        36           Easy
+       2,1, 1,2                                5        38           Easy   $
+       4, b+3                                  3        39           Easy    
+       2,1, f+4                                4        40           Easy    
+       1,2, f,N,d,d/f+2                        4        33          Medium
+       u/f+4, d+1, FC,d+3+4,4                  5        36          Medium
+       2,1, f,f+1, d/b+4                       5        39          Medium   
+       2,1, f+1, b+3                           5        41          Medium   
+       2,1, f,f+4                              4        41          Medium   
+       1,2, 1,2, b+3                           6        42          Medium
+       f+2, f+2, f+1, b+3                      5        45           Hard   *
+
+CH 4, d+3+4                                    2        40           Easy
+      b+3                                      2        46           Easy    
+
+CH f+4, d/f+1                                  2        49           Easy    
+        b+3                                    2        53           Easy
+        d+3+4,4,4                              4        54          Medium
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                             | BAEK DOO SAN |
+                             =-=-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+d/b+1+3, d+3                                   2        42           Easy    
+         d/b+4                                 2        43           Easy    
+
+d/f+2, d+1, FC+3,3,N+3                         5        32           Easy
+       b+4, d+4,3,3                            5        38           Easy    
+       3+4, d+4,3,3                            6        42           Easy   $
+       1,2,3~F, F+4,3,{3},d+4                  6        36          Medium   
+       1,2,3#~F, d+4,3,3                       6        37          Medium   
+       1,2,3,3,{3},d+4                         6        40          Medium
+       1,2,3~F, 1,2,3~f, 1,2,{3},4             8        42          Medium
+       1,2,3~F, 1,2, 3+4                       7        41           Hard
+       d/f+1, 1,2,f+3, f+1, f,N,d,d/f+4,4      7        45         V. Hard
+       1,2,3~F, 1,2,3~f, 1,2,3#~f, N+4         9        ??         V. Hard
+
+2+4, d+3                                       2        35           Easy    
+
+f,N,d,d/f+3, b+1 <Flip>, d/b+4                 3        46           Easy    
+             b+4, d+3,3,N+3                    5        52           Easy
+             u/f+3,4,3                         4        56           Easy
+             3,3,3,4                           5        61           Easy   $        
+             3+4~F, d+3                        4        43          Medium
+             3+4~F, d+3                        4        43          Medium
+             f,N,d,d/f+3                       2        45          Medium
+             u/f,N+3,3,{3},4                   4        63          Medium   
+             f,f, BK 3, BK 4                   3        52           Hard    
+             1,2,3~f, 1,2, 3+4                 7        55           Hard
+             3+4, d+4,3,3                      6        55           Hard  
+             f,f, BK 4, 4,4                    4        61           Hard    
+             b+1 <Flip>, d+4,3,3,3~f, d/b+4    6        70         V. Hard   
+        b+4, 1,2,3~F, 1,2,3#~F, f+4,3,{3},d+4  9        ??         V. Hard
+
+CH d+3,3,N+3, 1, d+3,3,N+3                     5        59           Easy
+              3,3,[3],4                        6        69           Easy   $
+              d+1, WS+3,3                      6        49          Medium
+              b+4, d+4,3,3                     7        65          Medium   
+              1,2,3~f, 1,2, 3+4                9        69           Hard
+
+[3,4],3, 3,3,[3],4                             4        55           Easy    
+         1,2,3~f, 1,2,3~f, 1,2,{3},4           8        55          Medium   
+         3,4,3                                 4        57          Medium   
+         3,3,3,4                               5        61           Hard    
+
+3+4, f,f, d/b+4                                3        41          Medium   
+
+
+[WS+3,3,]4, u/f+3+4                            3        34           Easy    
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                              | BRUCE IRVIN |
+                              =-=-=-=-=-=-=-=
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+CH b+1, d/f+3,1                                3        56           Easy    
+        d/f+3, b+4,3,4                         5        68          Medium   
+
+CH SS+1, d/f+3,1                               3        51          Medium   
+
+1+3, d/f+1                                     2        37           Easy    
+
+CH d/f+1,2, 1,2, d/f+3,1                       6        59          Medium
+            2,3, f+2,f+4                       6        66          Medium   
+            U/F,4, b+4,3,4                     6        76          Medium   
+            d/f+1, d/f+3, b+4,3                6        59           Hard
+            f+4, d/f+3, b+4,3,4                7        ??         V. Hard
+
+CH WS+2, b+3,4                                 3        44           Easy    
+         b+4,3,4                               4        55           Easy   $
+         f+4,3,4                               4        53          Medium   
+
+d/f+2, 1, f+1,2,1                              5        32           Easy
+       2, 3,3                                  4        39           Easy    
+       f+4,3,4                                 4        41           Easy   $
+       2,3, 2,f+4                              5        48          Medium
+       1,2, b+4,3,4                            6        52          Medium
+       2,3, b+4,3,4                            6        57           Hard   *
+
+CH 3,2,1, f+4,3,4                              6        83           Easy   *
+          3,2,1                                6        78          Medium  *
+          2, b+4,3,4                           7        81          Medium
+          2,3, b+4,3                           7        86          Medium  *
+          3, b+4,3,4                           7        94          Medium  *
+          b+3, b+4,3,4                         7        94          Medium
+          2,3, 1,{2},f+4                       7        90           Hard   *
+          2,3, 2,f+4                           7        90           Hard
+
+u/f+4, f+4,3,4                                 4        44           Easy
+       f+2, f+2, f+2,4                         5        47           Easy   *
+       3, b+4,3,4                              5        55           Easy   $
+       b+3, b+4,3,4                            5        55           Easy    
+       d/f+1, b,f+4                            3        37          Medium   
+       u/f+4, b+4, b+4,3                       5        46          Medium  *
+       2,3, 2,f+4                              5        51          Medium  *
+       f+4, d/f+3,1                            4        49           Hard
+       f+4,3, 2,f+4                            5        53         V. Hard  *
+
+u/f,N+4, b+3, b+4,3,4                          5        67           Easy   $
+         1, d/f+3, b+4,3                       5        50          Medium   
+         1,2, f+2,f+4                          5        58          Medium   
+         d/f+1, d/f+1, b+4,3                   5        56           Hard    
+
+CH f+4, b+4,3,4                                4        59           Easy    
+
+b,f+4, b+4,3,4                                 4        62           Easy   $
+       u/f,N+1, 1, d/f+3,1                     5        63          Medium   
+       {2},d+4,3, b+4,3                        5        64          Medium   
+       b+3, b+4,3,4                            5        71          Medium
+       U/F,4, 1,2,f+4                          5        73          Medium  *
+       SS+4,4                                  3        52           Hard
+       U/F,4, b+4,3,4                          5        77           Hard    
+
+CH b,b+4, d/f+3,1                              3        51           Easy    
+          b+4,3,4                              4        59           Easy    
+          d/f+3, b+4,3,4                       5        63          Medium   
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                              | BRYAN FURY |
+                              =-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+WS+1  b+2,1,4                                 4         49           Easy 
+      f+2, f+4,3,4                            5         52           Easy    
+      d+2, f+4,3,4                            5         57           Easy   $
+      f,f+4                                   2         43          Medium   
+      1,2, f,f+2                              4         43          Medium
+      1,4, b+3,4                              5         45          Medium
+      b+2>1,2                                 4         48          Medium   
+      3, 1, f,f+2                             4         50          Medium   
+      d+2, 1,2, f,f+2                         5         54          Medium
+      3,3, f,f+2                              4         55          Medium   
+      1,4, 1,4                                5         42           Hard
+      1,4, f,f+2                              4         44           Hard
+      b+2,1, 1,4                              5         48           Hard    
+      b+4, 1, f,f+2                           4         49           Hard    
+      d+2, d+2, d+2                           4         50           Hard
+      3,3, 3,3                                5         57           Hard    
+      3,3, f,f+4                              4         59         V. Hard   
+      b+3,2,1, f,f+2                          5         60         V. Hard   
+      1, 3,3, f,f+2                           5         54         V. Hard   
+      b+2,1, 1, f,f+2                         5         ??         V. Hard
+      f,f (Under), d/b+2, 1, f,f+2            4         ??         V. Hard
+      d+2, 1, 1,2,{1},2                       6         ??         V. Hard
+
+b+1, d+1, WS+3                                3         37           Easy    
+     1, 1,4,{3},3                             5         45           Easy    
+     d+2, f+4,3,4                             5         61           Easy   $
+     1, b+3,2,{1},4                           5         48          Medium   
+     d+2, d+2, 1,{4},3                        5         56          Medium
+     d+2, 1,2, f,f+2                          5         58          Medium   
+     d+2, 1,4,{3},3                           5         54         V. Hard   
+     1, 3,3, f,f+2                            5         58         V. Hard   
+
+WS+2,b+2, 1,4,{3},3                           5         60           Easy   $
+          f+4,3,4                             5         59          Medium   
+          f,f+2                               3         63          Medium
+          d+2, 1,4                            5         64          Medium   
+          f+2, 1,4                            5         59           Hard    
+          b+2,1,4                             5         70           Hard
+
+CH b+2, f+1+4                                 2         39           Easy    
+        f,f+3                                 2         49           Easy
+        b+2,1,4                               4         54           Easy    
+        b+2,1, 1,4                            5         54           Easy    
+        b+1+4                                 2         83           Easy    
+        f+1+4                                 2         39          Medium
+        D/F#+1,1,1,2                          5         52          Medium   
+        QCF+3, 1, f,f+2                       4         58           Hard    
+        b+3,2,1, f,f+2                        5         65           Hard
+
+CH b+2,1, 3,3                                 4         62           Easy
+          WS+3,4                              4         65           Easy
+          f,f+3                               3         66           Easy   
+          f+4,3,4                             5         70           Easy   $
+          b+2,1,4                             5         71           Easy   $
+          b+2>1,2                             5         70          Medium  
+          f+2, f+4,3,4                        6         74          Medium
+          b+3,2,1, f,f+2                      6         82         V. Hard
+
+QCB,2, 1,4,{3},3                              4         42           Easy    
+       f+4,3,4                                4         51           Easy   $
+       2, f,f+2                               3         45          Medium
+       1,4, 1,4                               5         45          Medium   
+       2, b+3,4                               4         46          Medium   
+       1,2, f,f+2                             4         46          Medium
+       1,2, 1,{2},1,4                         6         45           Hard    
+       1,4, f,f+2                             4         47           Hard
+
+d/f+3, d+1, WS+3, d+3                         4         44           Easy
+       WS+3,4                                 3         50           Easy   $
+       WS+3, 1,4                              4         52           Hard    
+       WS+1+2, 1, f,f+2                       4         52           Hard
+       WS+1+2, 1,4,{3},3                      5         52           Hard    
+       WS+3, 1, f,f+2                         4         60           Hard    
+       d+1, WS+3, 1, f,f+2                    5         56         V. Hard   
+       WS+1+2, d+2, 1,{4},3                   5         ??         V. Hard
+       f,f, d+2, d+2, 1,{4},3                 5         ??         V. Hard
+       cc, 1+3+4, u/f+3, 1,4                  5         ??         V. Hard
+
+u/f+4, 1, 1,4,{3},3                           5         45           Easy
+       1, f+4,3,4                             5         52           Easy   $
+       1, 1,2, f,f+2                          5         48          Medium  
+       1,4,3,3                                5         51          Medium
+       1,2,1, f,f+2                           5         52          Medium
+       2, f+4,3,4                             5         56          Medium
+       d+2, 1,2, f,f+2                        5         58          Medium
+       d+2, f+4,3,4                           5         61          Medium  ^ 
+       1, d+2, 1, f,f+2                       5         53           Hard
+       d+2, d+2, 1,{4},3                      5         56           Hard    
+       1, 3,3, f,f+2                          5         58           Hard    
+       f+2, 3,3, f,f+2                        5         63           Hard   *
+       d+2, 1,4,{3},3                         5         54         V. Hard
+       1, QCF+3, 1, f,f+2                     5         55         V. Hard   
+       1,4,3,3, f,f+2                         6         66         V. Hard   
+
+CH f+4, f,f+2                                 2         50          Medium   
+
+u/f~N+4, b+2,1,4                              4         56           Easy
+         2, f+4,3,4                           5         59          Medium
+         3,3, f,f+2                           4         62          Medium   
+         b+3,2,1, f,f+2                       5         67         V. Hard   
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                             | EDDY GORDO |
+                             =-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+CH SS+1+2~3, 1, d/f+3+4                       4         51           Easy    
+             1,2,4~4                          5         65           Easy    
+             1, d/f+1, d/f+2                  5         53          Medium   
+
+CH WS+2, u/f+3+4, d+4                         3         34          Medium
+         1, f+1, d/f+4                        4         35          Medium
+
+CH SS+2, u/f+1+2                              2         42           Easy
+         b+4,4,3+4                            5         66           Easy   $
+         SS+4,3                               3         47          Medium   
+         f,f+4~3, 1+2                         3         52           Hard    
+
+3~3, Sitdown 3~4                              2         37           Easy
+
+3~4, Sitdown 4~3                              3         29           Easy
+     4, d+4                                   4         34           Easy    
+     Sitdown 3~4                              3         36           Easy
+     4,4                                      4         39           Easy    
+
+d/f+3+4, 1, 1, d/f+3                          4         34           Easy    
+         1, d/f+3+4                           3         34           Easy    
+         1, 1,2,4~4                           5         51           Easy   $
+         1,2, b+3                             4         26          Medium
+         d/f+1, 1,2,4~4                       5         55          Medium   
+         1, d/f+1, d/f+2                      4         36           Hard    
+         1+2~1+2~3                            3         39           Hard    
+         1,2, 1,2,4~4                         6         58           Hard
+         1, 1, d/f+3+4                        4         37         V. Hard   
+         1, 1, 1,2,4~4                        6         54         V. Hard   
+
+f,f+3+4, d+3                                  2         39           Easy
+         SS+4                                 2         39          Medium   
+
+u/f+3+4, d+4                                  2         25          Medium
+
+Sitdown 3~4, 1, d/f+3+4                       3         34           Easy    
+             1,2, d/f+2                       4         38          Medium
+             1, 1,2,4~4                       5         51          Medium   
+
+
+u/f,N+4, f+3                                  2         37           Easy   
+         1, 1,2,4~4                           5         56           Easy   $
+         1, d/f+1, d/f+2                      4         41           Hard    
+         1+2~1+2~3                            3         44           Hard    
+
+CH 4, d/f+4                                   2         32           Easy    
+      d/f+3                                   2         35           Easy    
+
+CH b+4, SS+4                                  2         31           Easy
+        1,2,4~4                               4         50          Medium
+        d/f+3+4, <Any d/f+3+4 Combo>
+
+Handstand d+3+4, 4, u+3                       4         45           Easy   
+                 2,4,3                        4         51          Medium
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                                | GANRYU |
+                                =-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+b,d/b,d,D/F+1, b+1+2,2, d/f+3                  3        47          Medium   
+               U/F,4, d/f+4                    3        58          Medium
+               U/F,4, d+1+2                    3        61          Medium
+               U/F,4, d/f+2, d/f+3             4        65          Medium   
+               FC,d/f+1,2,1                    4        53           Hard    
+               b,d/b,d,D/F+2                   2        62           Hard
+               U/F,4, d+1, FC+1+2              4        62           Hard    
+               f,f, BK 3, BK 3                 3        62           Hard    
+               U/F,4, 2, d+1+2                 4        68           Hard    
+               b+1+2~2, 2,1, 1+2               5        ??         V. Hard
+               SS Rt, f+1, 2,1,2,1, {2},1,2,1  9        ??         V. Hard
+
+SS+1, d/f+3                                    2        43           Easy   *
+      d/f+3 <Flip>, u/f+3+4                    3        69          Medium  *
+
+b+1+2,2, u/f+3+4                               2        38           Easy    
+         d+4                                   2        52           Easy   $
+         2,1,2, d/f+4                          5        38          Medium   
+         2,1,2, d/f+2, 1+2                     6        47          Medium   
+         2,1,2, d+1+2                          5        41           Hard
+         d/f+2, d+1, WS+2, d/f+3               5        41         V. Hard  ^
+
+f,f+1+2, d/f+3                                 2        30           Easy    
+
+1+3, d/f+3                                     2        47           Easy    
+
+d/f+2, f,f+1+2                                 2        28           Easy    
+       f+1+2                                   2        37           Easy
+       f,f+2, 1+2                              3        36          Medium
+       f,f+2, d+1+2                            3        37         V. Hard
+       f,f+2, d+1, WS+2                        4        ??         V. Hard
+
+b+2, d/f+2, d+1, WS+2, d+1                     5        38           Easy    
+     d/f+2, d+1, FC+1+2                        4        39           Easy    
+     d/f+2, 2,1,2                              5        42           Easy
+     d/f+2, d/f+2, d/f+3                       4        42           Easy    
+     d/f+2, d/f+2, 1+2                         4        44           Easy
+     d/f+2, 2,1, d+1+2                         5        49           Easy    
+     4, d+1+2                                  3        42          Medium  *
+     2,1,2, f+4                                5        45          Medium  *
+     f+1,2,1,2, 1+2                            6        45          Medium
+     f+1,2, f,f+2, d+1+2                       5        47          Medium  *
+     d/f+2, 2, d/f+2, 1+2                      5        50          Medium
+     f+1,2, 2, f,f+2                           5        42           Hard   *
+     2, f,f+2, d/f+2, 1+2                      5        48           Hard   *
+     d/f+2, 2,1,2, d/f+2+3                     6        48           Hard   *
+     d/f+2,2,1,2, 1+2                          6        52           Hard
+     d/f+2,2,1,2, d+1+2                        6        53           Hard    
+     d/f+2, d/f+2, d/f+2, d/f+3                5        ??         V. Hard
+
+d/f+2+3, FC+1+2                                2        28           Easy
+         FC+1,1,1                              4        30           Easy
+         WS+4, d/f+3                           3        36           Easy
+         WS+4, 1+2                             3        38           Easy   $
+         WS+1+2,1+2                            3        36          Medium  *
+         WS+2, d+1, WS+2, d+1                  5        35           Hard   ^
+
+2+4, d/f+3                                     2        45           Easy    
+
+[3+4],2, FC+1+2                                2        34           Easy    
+         WS+4, 1+2                             3        44           Easy   $
+
+f,f+2+3, d/f+3                                 2        52           Easy    
+
+BK u/f+4, d+1+2                                2        38           Easy    
+          d/f+2, 2,1,2, 1+2                    6        58          Medium   
+
+CH 4, 1+2                                      2        48           Easy    
+      d+1+2                                    2        47          Medium   
+      f,f+2, d+1+2                             3        ??         V. Hard  
+
+CH f+4, 1+2                                    2        53           Easy    
+        d+1+2                                  2        53          Medium   
+
+Backthrow, d/f+3                               2        57           Easy    
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                               | GUN JACK |
+                               =-=-=-=-=-=-                                 
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+WS+1, 2, f+1+2                                3         39           Easy
+      2, 2, f+1+2                             4         46           Easy   $
+      2, d+2                                  3         36          Medium   
+
+WS+1+2, d+2, FC,d/f+1+2                       3         38           Hard
+
+CH D/F#+1,2,1,2  D/F#+1,2,1                   7         79           Easy   $
+
+CH FC,D/F#,1,2,d/f+1, FC+1+2                  4         62           Easy
+                      WS+4, f+1+2             5         70           Easy    
+                      D/F#+1,2,1              6         71           Easy
+                      U/F,4, d+1, FC+1+2      6         78         V. Hard   
+
+HCF~d/f+1, d+1+2                              2         58           Easy   $
+           U/F#+4, f+1+2                      3         50          Medium
+           b,d/b,d,D/F+2                      2         48           Hard
+           {d/b+1},1,{1},2                    3         54           Hard
+           f,f, BK 3, BK 3                    3         54         V. Hard   
+
+QCF+1, d/b+3                                  2         58           Easy    
+
+u/f+1+2, d+3                                  2         42           Easy    
+
+d+1+2  d+2, WS+1                              3         63           Easy
+       2, 2, f+1+2                            4         71           Easy   $
+
+f+1+2, 1+2                                    2         33           Easy    
+       b,d/b,d,D/F+1                          2         37          Medium
+
+d/b,f+1+2, d+3                                2         70           Easy    
+           d/b+3                              2         76           Easy    
+
+1+3, d+3                                      2         39           Easy    
+     d/b+3                                    2         48           Easy    
+
+d/f+2, f+2, 1+2                               3         31           Easy
+      1, WS+1                                 3         32           Easy
+      d+2, FC+1,2                             4         35         V. Hard   
+
+CH WS+2, f+2, d/f+4                           3         40           Easy    
+         D/F#+1,2,1                           4         42           Easy    
+         3                                    2         42           Easy    
+         f+3+4                                2         42           Easy    
+         1,1                                  3         43           Easy     
+         f+2, f+2, f+1+2                      4         51          Medium   
+
+[2,1,]2, d+4                                  2         28           Easy    
+
+QCB+2, d/b+3                                  2         63           Easy    
+
+f,f+2+3, d/b+3                                2         53           Easy    
+
+d/f+2+3, FC+1+2                               3         28           Easy    
+         FC+1,1,1                             4         32           Easy
+         FC+1,1, FC+1+2                       3         36           Easy    
+
+CH FC,D/F#+2,1,2, d/f+1,2,1                   6         71           Easy   $
+
+d/f,d/f+2+4, f+3+4                            2         20           Easy
+             u/f+3+4                          2         26           Easy
+             d+1+2                            2         45          Medium
+             HCF~d/f+1                        2         22           Hard
+             b,d/b,d,D/F+1                    2         25           Hard
+             b,d/b,d,D/F+2                    2         33           Hard  
+
+CH 4, f+1+2                                   2         43           Easy
+      1+2                                     2         46           Easy    
+
+CH f+4, f+1+2                                 2         54           Easy    
+        1+2                                   2         53           Easy    
+
+BK u/f+4, f+3                                 2         40           Easy    
+          D/F#+1,2,1                          4         41           Easy    
+          f+3+4                               2         41           Easy    
+          f+2, f+2, f+1+2                     4         50          Medium   
+
+f+4~1, 1+2                                    2         117          Easy   $
+       b,d/b,d,D/F+1                          2         126         Medium
+       d/b+1,1,{1},2                          4         140          Hard
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                            | HEIHACHI MISHIMA |
+                            =-=-=-=-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+d/f+1,2, 1,2, d/f+1,2                         6         51           Easy   
+         1,2, QCF+2                           5         52          Medium
+         1, f,N,d,D/F+4,4,1                   6         56          Medium
+
+f,f+1+2, d+3                                  2         45           Easy    
+
+1+3, d+3                                      2         42           Easy    
+
+CH d/f+2, 1,2, d/f+1,2                        5         42           Easy   *
+          QCF+2                               2         44           Easy   *
+          d/f+1, f+1,b+2,1                    5         51          Medium  *
+          QCF+2 (Clean)                       2         56           Hard   *
+
+f,N,d,d/f+2, 1,2, 1,2                         5         40           Easy
+             1, 1,2,2~1                       5         47           Easy   $
+             1,2, f,N,d,d/f+2                 4         45          Medium
+             1, d/f+1, f,N,d,d/f+2            4         45          Medium   
+             1, d/f+1, d/f+1,2                5         47          Medium   
+             d/f+2, f,N,d,d/f+2               3         48          Medium   
+             f,N,d,d/f,F,4, d/f+1,2           4         48          Medium
+             QCF+2                            2         49          Medium   
+             1, f+1,b+2,1                     5         54          Medium
+             u/f,N+1, f+1,b+2,1               5         59          Medium   
+             f,N,d,D/F+4,4,1, d+1             5         60          Medium   
+             1,2, 1,1,2                       6         49           Hard
+             u/f,N+1, 1,2, f,N,d,d/f+2        5         53           Hard    
+             1+2, f,N,d,D/F+4,4,1             5         65           Hard    
+             1+2, f+1,b+2,1                   5         67           Hard  
+___________  1, 1, 1, QCF+2                   5         50         V. Hard
+ EWGF is   | 1+2, f,N,d,d/f+2                 3         54         V. Hard   
+f,N,d~D/F+2| 1,2, f,N,d,D/F#+4,4,N+1          6         56         V. Hard
+___________| EWGF, EWGF                       3         57         V. Hard  ^
+             EWGF, 1, EWGF                    4         60         V. Hard   
+             EWGF, f+1,b+2,1                  5         70         V. Hard  ^
+             1+2, 1, f,N,d,d/f+2              4         ??         V. Hard
+             f,N,d,d/f+1                      2         ??         V. Hard
+             1,2, f+1,b+2,1                   6         ??         V. Hard
+             1, f,N,d,d/f+1                   3         ??         V. Hard
+             QCF+4, 1, f,N,d,d/f+2            4         ??         V. Hard
+             1, EWGF, EWGF                    4         ??         V. Hard
+
+CH WS+2, 1,2, f,N,d,d/f+2                     4         55          Medium
+         d+2, WS+4,4                          4         58          Medium   
+         QCF+2                                2         71          Medium   
+
+f,f+2, 1, 1,2,2~1                             5         47           Easy
+       QCF+2                                  2         66           Easy   
+       1,2, QCF+2                             4         48          Medium  
+       1,2, f,N,d,d/f+2                       4         50          Medium
+       EWGF, BK 4                             3         62           Hard    
+       f,N,d,d/f+2, 1, QCF+2                  4         68           Hard
+       1+2, 1, f,N,d,d/f+2                    4         62         V. Hard   
+       1+2, f+1,b+2,1                         5         72         V. Hard   
+       EWGF, f,N,d,D/F+4,4,1                  5         73         V. Hard   
+       EWGF, f,N,d,D/F+4,4,4,1                6         ??         V. Hard
+       EWGF, f+1,b+2,1                        5         ??         V. Hard
+       EWGF, 1, f,f, 1, EWGF                  5         ??         V. Hard
+
+2+4, d+3                                      2         42           Easy    
+
+f,f+3, f,N,d,D/F+4,4,1, d+1                   5         59          Medium   
+
+CH f,N,d,D/F+4, d+1                           2         34           Easy
+                f,N,d,d/f+2                   2         40           Hard
+                QCF+4, f+1, f,N,d,d/f+2       4         46         V. Hard   
+                QCF+4, f,N,d,D/F+4,N+4, EWGF  5         53         V. Hard   
+               QCF+4, f,N,d,D/F+4,N+4, QCF+2  5         56         V. Hard   
+             QCF+4, f,N,d,D/F+4,4,N+4, QCF+2  6         62         V. Hard  ^
+
+CH f,N,d,D/F+4,N+4, d/f+1,2                   4         47          Medium
+                    f+1,b+2                   5         54          Medium
+                    1,1,2                     4         48           Hard
+
+CH f,N,d,D/F#+4,4,N+4, QCF+2                  4         61           Hard
+
+u+4, 1,1,2~1                                  4         34           Easy
+     f+1>b+2,1                                4         41          Medium
+     1,2, f,N,d,d/f+2                         4         35           Hard
+     1,2, f,N,d,D/F+4,4,1                     6         46           Hard    
+
+CH 4, f,N,d,d/f+1                             2         76           Hard
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                            | HWOARANG (Bob) |
+                            =-=-=-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+CH d/f+2, 1, d+4,4                            4         40           Easy
+          1, 1,2,4                            5         46           Easy
+          1, 1,2, f+2                         5         41          Medium   
+          d+3,4, 4                            4         47          Medium
+
+2+4, d/b+4                                    3         40           Easy    
+     FC+3                                     3         42           Easy    
+
+LFF [3,3,3,]3, 3,3,3,3                        5         60           Easy
+               1, 1,2,4                       5         49           Easy
+
+QCF+3, d/b+4                                  2         50           Easy    
+       FC+3                                   2         52           Easy    
+
+CH d+4,4, 1,2, d+4,4                          6         55           Easy
+          1, 1,2,4                            6         56           Easy
+          d+3,4, 4                            5         57           Easy    
+          3,3,3,3                             6         67           Easy
+          4,4,4, 3                            6         65          Medium
+          3,{3},3,4, 3                        6         71          Medium
+          1,2, 1,2,4                          7         61         V. Hard
+          1,2, 3,{3},3,3                      7         ??         V. Hard
+
+RFF f+4~4, 2, 2, d+4,4                        5         41           Easy    
+           F#+3,3                             3         42           Easy    
+           f+3, N+4                           3         48           Easy
+           f+3,1, F+3~3                       4         48           Easy    
+           f+3,N+3,3,3                        4         57           Easy
+           4~f, 2, f+4~4                      4         45          Medium   
+           2,1, 4~3                           5         46          Medium
+           4~f, 1,2,3                         5         46          Medium   
+           4~f, 2, b+3                        4         49          Medium
+           b+3, f+4, 3                        4         64          Medium
+           f+3,1, f,N,d,d/f+4                 4         48           Hard
+           4~f, 2, 4,3                        5         52           Hard
+           4~f, 2, f+3,N+4                    5         58           Hard   ^ 
+           f+3,1, f+4, 3                      5         59           Hard     
+           f+3, N+4, 3                        4         60           Hard    
+           f+3,3,3,4, 3                       6         66         V. Hard
+           2, f+3,1, f,f+4                    5         ??         V. Hard     
+
+LFL b+4, F+3~3                                3         44           Easy
+         4,4                                  3         46           Easy
+         2, f+3,1, d+4,4                      6         51           Hard
+
+f,N,d,d/f+4, d/b+4~4                          2         47           Easy
+             u/f+3,4,3                        4         54           Easy
+             3,3,3,3                          5         58           Easy
+             3+4, f+3,{3},3,3                 4         60           Easy    
+             d/b+3+4                          2         63           Easy   $
+             4,4,4, 3                         5         56          Medium   
+             b+4, b+3                         3         59          Medium   
+             SS, b+4, 4~3                     4         62          Medium
+             3~4, d+4,4                       5         63          Medium
+             3+4, 3~4                         2         66          Medium
+             3+4, f,f+4,3                     3         47           Hard
+             f,f, BK 3, BK 3                  3         55           Hard   ^
+             U/F,4, d+4,4                     4         57           Hard
+             f,f+4, BK 3                      3         59           Hard
+             U/F,4, 1, d+4,4                  5         60           Hard
+             U/F,4, 4,3                       4         60           Hard
+             U/F,4, 1,2,4                     5         63           Hard   
+             3+4, f+3,{3},3,4, 3              5         64           Hard     
+             u+4, d+4,4                       4         66           Hard
+             U/F,4, 3,{3},3,3                 5         67           Hard
+             3~4, 1,2,4                       6         69           Hard   ^
+             u+3, 4, 3                        4         65         V. Hard
+             f,f, BK 3, 4,{4},4,4             5         ??         V. Hard
+                                                                            
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                                | JACK-2 |
+                                =-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+WS+1, D/F#+1,2,1                               4        40           Easy
+      f+2, f+2, f+1+2                          4        46           Easy
+
+SS+1, f,f+3                                    2        37           Easy
+      f+3+4                                    2        42           Easy   $
+      b,d/b,d,D/F+1                            2        40          Medium
+      f,f+2                                    2        41          Medium
+      f,f, d+1, FC+1,2                         4        41           Hard    
+
+d/b,f+1+2, d+3                                 2        70           Easy    
+           d/b+3                               2        76           Easy    
+
+QCF+1, d/b+3                                   2        58           Easy    
+
+CH D/F#+1,2,1,2  D/F#+1,2,1                    7        79           Easy    
+
+CH FC,D/F#,1,2,d/f+1, FC+1+2                   4        62           Easy    
+                      WS+4, f+1+2              5        70           Easy    
+                      D/F#+1,2,1               6        71           Easy    
+                      f,f+2                    4        67           Hard    
+                      U/F,4, d+1, FC+1+2       6        78         V. Hard   
+
+f+1+2, d+3                                     2        26           Easy    
+       1+2                                     2        33           Easy
+       b,d/b,d,D/F+1                           2        37          Medium
+       D/B#+1,1,{1},2                          4        53         V. Hard   
+
+d/f,d/f+1, f+3+4                               2        22           Easy 
+           U/F,4, 1+2                          3        30          Medium   
+           d+1+2                               2        45          Medium
+           b,d/b,d,D/F+1                       2        33           Hard
+
+f,f+2, b,d/b,d,D/F+1                           2        47          Medium 
+
+d/f+2, D/F#+1,2,1                              4        30           Easy
+       2, 1+2                                  3        31           Easy
+
+CH WS+2, f+2, d/f+4                            3        40           Easy    
+         D/F#+1,2,1                            4        42           Easy    
+         3                                     2        42           Easy    
+         f+3+4                                 2        44           Easy    
+         1,1                                   3        43           Easy     
+         f+2, f+2, f+1+2                       4        51          Medium   
+
+QCB+2, d/b+3                                   2        63           Easy    
+
+[2,1,]2, d+4                                   2        28           Easy    
+
+f,f+3, 1+2                                     2        43           Easy    
+
+CH 4, f+1+2                                    2        43           Easy
+      1+2                                      2        46           Easy   $
+      f+3+4                                    2        52           Easy    
+
+CH f+4, f+1+2                                  2        54           Easy    
+        1+2                                    2        53           Easy    
+        f+3+4                                  2        59           Easy    
+
+BK u/f+4, f+3                                  2        40           Easy    
+          D/F#+1,2,1                           4        41           Easy    
+          f+3+4                                2        43           Easy    
+          f+2, f+2, f+1+2                      4        50          Medium   
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                              | JIN KAZAMA |
+                              =-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+CH WS+1,2, 1,2, d/f+4,4                       6         52           Easy
+
+d/b+1, 4~3                                    2         49          Medium   
+
+f,f+1+2, d+3                                  2         45           Easy    
+
+QCB+1+3, d+3                                  2         47           Easy    
+
+WS+2, f+4, d/+1,2                             4         40           Easy
+      U/F,4, d/f+4,4                          4         51           Easy
+      WS+2, d/f+4,4                           4         45          Medium  *
+      1,2,4, f,f+2                            5         46          Medium
+      U/F+4, 1+4,{2},d+4                      5         52          Medium   
+      b,f+2,1,d+2, f,f+2                      5         59          Medium
+      WS+2, f,f+2                             3         45           Hard   *
+      b+2,4,2>1,2                             6         54           Hard   ^
+      U/F,4, 1+4, d/f+4,4                     6         58           Hard
+      f,N,d,d/f+2, f,f, 1+4,2, f,f+2          6         ??           Hard   
+      U/F,4, 1, f,f+2                         4         ??           Hard
+      f,N,d,d/f+1,3                           3         ??         V. Hard  ^
+      U/F,4, b,f+2,1,2                        5         ??         V. Hard
+      b,f+2>1,2, f,f+2                        5         71         V. Hard   
+
+CH d/f+2, f,N,d,d/f+1,3                       3         ??         V. Hard
+
+f,N,d,d/f+2, 1, 1,1,2                         5         46           Easy
+             1, 1,2,2                         5         46           Easy
+             1,2, d/f+4,4                     5         47           Easy   
+             d/f+4, b+4                       3         43          Medium   
+             1,2, f,N,d,d/f+2                 4         46          Medium
+             1,2, 1+4,{2},d+4                 6         48          Medium
+             f+2,4, d/f+4                     4         49          Medium  *
+             1, 1+4,2,4                       6         51          Medium
+             WS+2, d/f+4,4                    4         52          Medium  *
+             1, b,f+2,1>2                     5         57          Medium
+             1,2,4, f,f+2                     5         53          Medium             
+             f,N,d,d/f+2, d/f+4,4             4         58          Medium   
+             1, 1,1, f,f+2                    5         49           Hard
+             1,2, 1,1,2                       6         50           Hard
+             1,2, 1, f,f+2                    5         50           Hard
+             WS+2, f,f+2                      3         52           Hard   *
+             WS+2, f+2,4                      4         53           Hard   *
+             1, 1+4,2, f,f+2                  6         54           Hard
+___________  f,N,d,d/f+2, d/f+4,4             4         58           Hard
+ EWGF is   | b+2,4,2>1,2                      6         61           Hard
+f,N,d~D/F+2| b,f+2,1,d+2, f,f+2               5         66           Hard
+___________| b,f+2,1,d+2, d/f+4,4             6         66           Hard    
+             1,2,4, EWGF                      5         52         V. Hard
+             EWGF, d/b+1                      3         57         V. Hard   
+             EWGF, EWGF                       3         57         V. Hard  ^
+             EWGF, 1, d/b+1                   4         60         V. Hard   
+             EWGF, 1, EWGF                    4         60         V. Hard  ^
+             f+4, b,f+2,1>2                   5         62         V. Hard
+             1,2, b,f+2>1>2                   6         62         V. Hard
+             b+4, f,f, 1+4,2, EWGF            6         66         V. Hard   
+             b+4, f,f, 1+4,2, f,f+2           6         67         V. Hard   
+             EWGF, 1+4,2, EWGF                6         69         V. Hard  ^
+             EWGF, 1+4,2, f,f+2               6         70         V. Hard   
+             EWGF, b,f+2>1,2                  6         73         V. Hard   
+             b,f+2>1,2, f,f+2                 5         71         V. Hard
+             b,f+2>1,2, EWGF                  5         ??         V. Hard 
+             b+4, EWGF                        3         ??         V. Hard
+             4, EWGF                          3         ??         V. Hard
+             EWGF, b+2,4,2                    5         ??         V. Hard
+             EWGF, f,N,d,D/F+4, EWGF          4         ??         V. Hard  ^
+
+SS+2, 1,2,4                                   4         31           Easy
+      1, d/f+1,2                              4         33           Easy
+      1, d/f+4,4                              4         33           Easy
+      2,2                                     3         35           Easy    
+      1, 1,1,2                                5         36           Easy
+      1, b+2,4,2                              5         36           Easy
+      1, 1, d/f+4,4                           5         36           Easy
+      1, 1,2,2                                5         37           Easy
+      1,2,3                                   4         37           Easy
+      1,2, d/f+4,4                            5         38           Easy
+      1,2, f,f+2                              4         38           Easy
+      1+4,2,4                                 5         40           Easy
+      1+4, 2,2                                5         41           Easy
+      1+4, 1,2,2                              6         41           Easy   $
+      2, f,N,d,d/f+2                          3         37          Medium
+      1, f+4, d/f+4,4                         5         39          Medium
+      1, 1,2,3                                5         40          Medium
+      1, d/f+2, d/f+4,4                       5         40          Medium
+      1,2,4, b+4                              5         41          Medium
+      1, 1+4,2,4                              6         42          Medium
+      2, 2, f,f+2                             4         44          Medium
+      1,2,4, f,f+2                            5         44          Medium
+      1, 1+4,2, f,f+2                         6         45          Medium
+      1, b,f+2,1>2                            5         48          Medium
+      1, 1, f,N,d,d/f+2                       4         35           Hard
+      1,2, f,N,d,d/f+2                        4         37           Hard
+      1,2, b,f+2>1,d+2                        6         48           Hard  
+      3,2,4, f,f+2                            5         49           Hard
+      1, d/f+2, f,f+2                         4         40         V. Hard
+      1,2, b,f+2,1,2                          6         ??         V. Hard
+      f,N,d,d/f+1,3                           3         ??         V. Hard
+
+d+3+4, 1+4, d/f+4,4                           6         47           Easy
+       1+4,2,4                                6         49           Easy
+       1+4,2, f,f+2                           6         52          Medium  
+       1+4,2, f,N,d,d/f+2                     6         51           Hard
+       1, b+2>1>2                             6         57           Hard    
+
+f,f+3, d/f+4,4                                3         39           Easy    
+       1+4, 1+4,2                             6         44           Easy
+       1+4, 1+4,{2},d+4                       6         46           Easy   $
+       1+4,2, f,f+2                           5         50          Medium
+
+FD/FT 3, WS+4, 1+4, d/f+4                     5         32          Medium
+
+CH b+4, d/f+1, 1,1,2                          5         56           Easy    
+        d/f+1, 1, d/b+1                       4         55          Medium   
+        b,f+2,1,d+2, f,f+2                    5         72          Medium
+        d/f+1, 1, 1+4, d/f+4                  6         55           Hard    
+        d/f+1, b,f+2,1,2                      5         68           Hard    
+        f~b+4, 1+{4},2, f,N,d,d/f+2           5         66         V. Hard   
+        f~b+4, 1+{4},2, f,f+2                 5         67         V. Hard   
+
+f,N,d,D/F+4, d/f+4,4                          3         34           Easy    
+             1+4, 1+4,2                       5         43           Easy   
+             1+4,2,4                          5         46           Easy
+             1+4,2, f,f+2                     5         49          Medium
+             d/f+4, 1+4, d/f+4,4              5         42           Hard
+             1+4, 2,2                         5         47           Hard
+             1+4,2, f,N,d,d/f,f+4,4           5         49           Hard   *
+             f,N,d,d/f+2, d/f+4,4             4         55         V. Hard
+             b+4, 1+{4},2, f,N,d,d/f+2        5         57         V. Hard   
+             b+4, 1+{4},2, f,f+2              5         58         V. Hard   
+             b,f+2,1,2, f,f+2                 5         ??         V. Hard
+             f,N,d,d/f+2, 1+4,{2},4           5         ??         V. Hard
+
+[1+4,2,]d+4, d/f+4,4                          3         30           Easy
+             1+4, d/f+4,4                     5         36          Medium
+             1+4,2, f,f+2                     5         41          Medium
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                             | JULIA CHANG |
+                             =-=-=-=-=-=-=-=
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+CH 1~1,1, f,f+1,4                             5         56           Easy
+          f,f+1, d/f+4,2,b,f+1                7         77           Easy    
+          f+2, f,f+1,4                        6         62          Medium
+          d+2, FC,d/f+2                       5         54           Hard
+          f,f+1, f,f+1, f,f+1, d,d/f+1,2      8         79           Hard    
+
+f+1, f+2, f,f+1,4                             4         36           Easy
+     f,f+1, d/f+4,2,b,f+1                     5         48           Easy    
+     f,f+1, f,f+1, 1,{2},3                    5         38          Medium   
+     f,f+1, f,f+1, f,f+1, d,d/f+1,2           6         50          Medium   
+     f,f+1, f,f+1, f,f+1, f,f+1, f,f+1        6         43           Hard
+     1,2,4                                    4         37         V. Hard   
+
+f+1+4, 1+2                                    2         70           Easy
+       u/f+3+4                                2         78           Easy   $
+       d+1, WS+2,2                            4         72          Medium
+       U/F,4, f,f+1,4                         4         82          Medium
+       d+2, FC,d/f+4,3, d/f+4,2>b,f+1         7         94          Medium  ^
+       U/F,4, f,f+1, d,d/f+1,2                5         92           Hard
+       f,f, BK 1, BK 1, f,f+1,4               5         76         V. Hard   
+       f,f, 4, BK 4                           3         78         V. Hard   
+
+1+3, d+4                                      2         45           Easy    
+     d+3                                      2         47           Easy    
+
+CH f+1+2, d,d/f+1,2                           3         62          Medium
+          f,f+1, f,f+1, f,f+1, f,f+1          5         64          Medium
+          f,f+1, f,f+1, d,d/f+1,2             5         71           Hard
+          U/F,4, f,f+1,4                      4         73           Hard
+          U/F,4, f,f+1, f,f+1, f,f+1,4        6         83         V. Hard
+          U/F,4, f,f+1, f,f+1, d,d/f+1,2      6         88         V. Hard  ^
+                                                        
+Side f+1+2, b+4, d/f+3                        3         49           Easy   ^ 
+            b+4, f,f+1, 1,{2},3               5         57          Medium   
+            U/F,4, f,f+1, d+4                 4         63          Medium
+            f+1+2, f,f+1,4                    4         62           Hard
+            f+1+2, d,d/f+1,2                  4         67           Hard    
+            b+4, f,f+1, d/f+4,2,b,f+1         6         71           Hard    
+            b+4, f,f+1, 1, d,d/f+1,2          6         65         V. Hard   
+
+FC,d/b,d,d/b+1+2, d+4                         2         55           Easy    
+                  d+3                         2         57           Easy    
+
+CH 1~2~1, f,f,f+1,2                           5         82           Easy   $
+          f,f+1, f,f+1, f,f+1, f,f+1          7         84           Hard
+          f,f+1, f,f+1, f,f+1, f,f+1, f,f+1   8         91           Hard
+          f,f+1, f,f+1, f,f+1, d,d/f+1,2      8        102         V. Hard
+
+[WS+2],4,1, 1~1,4                             5         49           Easy   *
+            f,f+1, f,f+1, d+4,1               6         61          Medium  *
+            d+2, FC,d/f+4,3, d/f+4,2,b,f+1    8         79          Medium  *
+            1, f,f+1, f,f+1, f,f+1, f,f+1,4   8         64           Hard   *
+
+CH WS+2,4,1, 1~1,4                            6         71           Easy   *
+             1, f,f+1, d+4,N+4                7         80           Easy   *
+             f,f+1, f,f+1, d+4,1              7         83          Medium  *
+             d+2, FC,d/f+4,3, d/f+4,2,b,f+1   9        101          Medium  *
+             1, f,f+1, f,f+1, f,f+1, f,f+1,4  9         86           Hard   *
+             1, f,f+1, f,f+1, d,d/f+1,2       8         86           Hard   *
+
+[2+3,]1, u/f+4                                2         45           Easy
+         d,d/f+1,2                            3         46           Easy    
+         f,f+1, 1, d+4,1                      5         50          Medium
+         b+4, f,f+1,4                         4         50          Medium   
+         f,f+1, f,f+1, f,f+1, d,d/f+1,2       6         60           Hard    
+         d+2, FC,d/f+4,3, d/f+4,2,b,f+1       7         71           Hard    
+
+d/f+2,1, f,f+1, f,f+1, f,f+1, f,f+1           6         59           Hard
+         f,f+1, f,f+1, f,f+1, f,f+1, f,f+1    7         64           Hard   
+         f,f+1, f,f+1, f,f+1, d,d/f+1,2       7         71         V. Hard
+
+2+4, d+4                                      2         40           Easy    
+     d+3                                      2         42           Easy    
+
+CH 4, f,f+1, f,f+1, d,d/f+1,2                 5         60           Hard
+      f,f+1, f,f+1, f,f+1, f,f+1, d,d/f+1     6         60         V. Hard   
+
+CH b+4, f,f+1, f,f+1,4                        4         45           Easy    
+        b+4                                   2         38          Medium   
+        f,f+1, f,f+1, f,f+1, f,f+1            5         48          Medium   
+        f,f, d+2, FC,d/f+4,3, f,f+1, f,f+1,4  7         63           Hard    
+        f,f, d+2, FC,d/f+4,3, d/f+4,2,b,f+1   7         71           Hard    
+        f+1+2, f,f+1, f,f+1, d,d/f+1,2        6         74         V. Hard  ^ 
+        f+1+2, f,f+1, f,f+1, f,f+1, f,f+1,4   7         74         V. Hard   
+
+u/f+4, 2+3                                    3         35           Easy
+       1, d/f+2,3                             4         39           Easy
+       f+2, f,f+1,4                           5         46           Easy
+       1,2, f,f+1,4                           5         49           Easy 
+       2,1,1,2                                5         40          Medium
+       1, f,f+1, 1, f,f+1,4                   6         48          Medium
+       f+2, f+2, f,f+1+4                      5         52          Medium
+       1,2, f,f+1, d,d/f+1,2                  6         59          Medium   
+       d+2, FC,d/f+4,3, d/f+4,2>b,f+1         7         71          Medium  ^
+       b+4, f,f+1,4                           4         50           Hard   *
+       2+3, f,f+1, f,f+1,4                    6         52           Hard
+       4, f,f+1,4                             4         53           Hard    
+       1,2,4, d,d/f+1                         5         54           Hard
+       b+4, f,f+1, d,d/f+1,2                  5         60           Hard   *
+       b+4, f,f+1, f,f+1, f,f+1,4             6         60           Hard   *
+       d+2, FC,d/f+4,3, f,f+1, f,f+1,4        7         63           Hard   ^
+       d+2, FC,d/f+4,3, d/f+4, f,f+1,4        7         64           Hard
+       d+2, FC,d/f+4,3, d+1, FC,d/f+2         6         58         V. Hard
+       d+2, FC,d/f+4,3, d+1, f,f+1,4          7         60         V. Hard  ^ 
+
+BK u/f+4, 1,1,1                               4         41           Easy    
+          b+4, d+4,1                          4         49           Easy    
+          f,f+1, BK 4                         3         41          Medium   
+          1, f,f+1, f,f+1, f,f+1,4            6         47          Medium   
+          b+4, d,d/f+1,2                      3         51          Medium   
+          b+4, f,f+1, f,f+1,4                 5         51          Medium   
+          4,4,4                               4         54           Hard    
+          b+4, f,f+1, d,d/f+1,2               5         56           Hard    
+          f,f+1, f,f+1, f,f+1, f,f+1 f,f+1,4  7         56           Hard    
+          b+4, f,f+1, f,f+1, f,f+1, f,f+1,4   7         61           Hard    
+          d+2, FC,d/f+4,3, d/f+4,2,b,f+1      7         67           Hard    
+      d+2, FC,d/f+4,3, f,f+1, f,f+1, f,f+1,4  8         64         V. Hard   
+          d+2, FC,d/f+4,3, f,f+1, d,d/f+1,2   7         64         V. Hard   
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                               | JUN KAZAMA |
+                               =-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+1+2, f+2                                       2        34           Easy    
+     d+2, FC,d/f+2                             3        36           Easy    
+     d+3+4                                     3        36           Easy    
+     d+1, WS+3                                 3        37           Easy    
+     d/b+4,4,4                                 4        47           Easy    
+     1+4,2,4                                   5        49           Easy    
+     1+4, 1+4,{2},d+4                          6        50           Easy    
+     3~4,1+{4},2,4                             5        53          Medium                          
+     1+4,2, f,f, 1+4,{2},d+4                   7        55           Hard
+     d/b+4,1+4, f,f, 1+4,{2},d+4               7        59           Hard    
+     d+1, cc,1, 1+4,{2},d+4                    5        47         V. Hard 
+     d+1, WS+1, 1+4,{2},d+4                    5        54         V. Hard  
+
+1+3, d+3                                       2        42           Easy    
+
+f+2, 1, 1,2, b+2                               5        29           Easy
+     1, d+3+4                                  4        30           Easy
+     d/f+1, 1, 1+2                             4        36           Easy    
+     1, 1+4,2,4                                6        43           Easy
+     d/f+1, 1,2, 4                             5        40          Medium   
+     b+2,1+2, 1+4,{2},d+4                      6        46          Medium
+     1+2, 1+4,{2},d+4                          5        50          Medium  ^
+     1, 1, 1,3                                 5        25           Hard    
+     d/f+1, 1,2, f+2                           5        37           Hard    
+     1+2, 1+4, 1+4                             6        48         V. Hard
+
+d/f+2, 1,2, FC,d/f+2                           4        29           Easy    
+       f,f+2                                   2        35           Easy    
+       b+2,1,4                                 4        38           Easy    
+       1, 1,2, f+2                             5        32          Medium   
+       b+2>1+2, 1+4, 3                         6        39          Medium  ^
+       b+2,4,1+4,{2},d+4                       6        42          Medium
+       1+4,2, f,f, 1+4,{2},d+4                 7        48         V. Hard   
+       1+2, f,f, 1+4,{2},d+4                   5        50         V. Hard
+
+CH FC,d/f+2, WS+1                              2        36          Medium   
+             WS+3                              2        39           Hard    
+
+d/b+2, 1, 1, 1+4,{2},d+4                       6        39           Easy
+       1,2, f,f+2                              4        36          Medium   
+       1, 1+4,2,4                              6        44          Medium
+       b+2,1+2, 1+4,{2},d+4                    6        47          Medium   
+       1, 1, 1,3                               5        26           Hard
+       1,2, 1, 1+4,{2},d+4                     7        44         V. Hard   
+
+2+4, d+3                                       2        42           Easy    
+
+b+3,4, 4                                       3        38           Easy    
+       1+{4},2,d+4                             5        49           Hard    
+
+d+3+4, d+1, WS+3                               4        50           Easy    
+       1+4,2,4                                 6        52           Easy    
+       1+4, 1+4,{2},d+4                        7        53           Easy    
+       1+4,2,1,1                               7        53           Easy    
+       1+4,2, f+2                              6        47           Hard    
+
+BK u/f+4, 1, 1+4,2,4                           6        49           Easy    
+          b+2>1+2, 1+4, 3                      6        45           Hard    
+
+CH 4, f+2                                      2        42           Hard    
+      1+4,{2},4                                4        50           Hard
+                                                                             
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                             | KAZUYA MISHIMA |
+                             =-=-=-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+f+1+2, d/f+4,4                                 3        43           Easy   *
+       f,N,d,d/f+4,4                           3        44           Easy   *
+       {u+4},4,4,4                             4        56           Easy   $
+       f,N,d,d/f,f+4, d/f+4,4                  4        50          Medium  *
+       f,N,d,d/f+2, d+4                        3        49           Hard   *
+       f,N,d,d/f,f+4, 1, f,N,d,d/f+2           4        51           Hard
+       f,N,d,d/f,f+4, 1,2,4                    5        52           Hard
+       f,N,d,d/f,f+4, 1, d/f+4,4               5        53           Hard   *
+       f,N,d,d/f,f+4, 1, f,N,d,d/f,f+4, d/f+4  5        49         V. Hard  ^
+       f,N,d,d/f,f+4, 1, 1, d/f+2              5        ??         V. Hard
+
+f,f+1+2, d+3                                   2        45           Easy    
+
+CH WS+1,2, 1, 1,2,2                            6        54           Easy   $
+           1, 1,2, d/f+2                       6        55           Easy    
+           1,2, d/f+4,4                        6        56           Easy
+           4                                   3        56           Easy    
+           1,2, 4                              4        57           Easy    
+           1, 1,2, f,N,d,D/F+4                 6        51          Medium
+           1, 1,2, f,N,d,d/f+2                 6        57          Medium
+           1, 1, 1, f,N,d,d/f+2                6        55         V. Hard   
+           f,N,d,d/f+2, f,N,d,d/f+2            4        ??         V. Hard
+
+f,N,d,d/f+2, 1, 1, f+2                         4        48           Easy    
+             1,2, d/f+4,4                      5        49           Easy   $
+             4                                 2        49           Easy    
+             f,N,d,d/f,F+4, d/f+4,4            4        49          Medium   
+             1, 1,2, f,N,d,d/f+2               5        50          Medium
+             1,2, 1,1,2                        6        51          Medium   
+             1,2, 1,2,4                        6        51          Medium  *
+             d/f+1, d/f+4,4                    4        52          Medium
+             f,N,d,d/f+2, d/f+4,4              4        58          Medium   
+             1,2, 1,2,4                        6        51           Hard
+             1, 1,2, d/f+4,4                   6        52           Hard    
+             1,2, 1, f,N,d,d/f+4,4             6        53           Hard   *
+             1, 1, 1, 1, 1,{2},4               7        50         V. Hard
+             1, 1, 1, 1, f,N,d,d/f+2           6        51         V. Hard   
+             f,N,d,d/f+2, f,N,d,d/f+2          3        57         V. Hard  ^
+             d/f+1, 1, f+2                     4        ??         V. Hard
+      f,N,d,d/f+2, f,N,d,d/f,F+4, f,N,d,d/f+2  4        ??         V. Hard
+
+CH f,N,d,d/f+2, 1,2, d/f+4,4                   5        61           Easy    
+                1, 1,2, d/b+4                  5        64           Easy
+                f,N,d,d/f,F+4, d/f+4,4         4        61           Hard    
+                1, 1, 1, f,N,d,d/f+2, u/f+4~3  6        ??         V. Hard
+
+2+4, d+3                                       2        40           Easy    
+
+CH Clean d/f+2, {u+4},4,4,4                    4        76           Easy   $
+                f,N,d,d/f,F+4, d/f+4,4         4        70           Hard    
+                b+1+4                          2        78           Hard    
+                f,N,d,d/f,F+4, f,N,d,d/f+2     3        68         V. Hard
+
+Crouching Opponent f+4, f,N,d,d/f+2, <Any f,N,d,d/f+2 Combo>
+
+BK u/f+4, 1,2, d/f+4,4                         5        45           Easy    
+          f+4                                  2        49           Easy    
+          d/f+4, d/f+4,4                       4        43           Hard    
+
+u/f,N+4, f+2                                   2        49           Easy    
+         1, 1, 1, 1, 1,{2},4                   7        ??         V. Hard
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                                  | KING |
+                                  =-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+CH f,N,d,d/f+1+2, 1,2, b+4                    4         63           Easy
+                  1,2, d+3+4,2                5         64           Easy
+                  1+4                         2         66           Easy
+                  4, d+3+4,2                  4         68           Easy    
+                  u+2+4                       2         69           Easy   $
+                  2,1, 1+2,1                  5         72          Medium
+
+FC,d/f+1, WS+2                                2         37           Easy
+          WS+4, d+3+4,2                       4         48           Easy   $
+          WS+4, d+4                           3         40          Medium
+          d+1, WS+1, d+3+4,2                  5         42          Medium
+
+QCB+1+2, d+3+4                                2         72           Easy    
+
+1+3, d+3+4                                    2         52           Easy    
+
+FC,d/f+2  1,2, b+4                            4         42           Easy
+          1,2, 1,2                            5         42          Medium
+          2,1, f,f+4                          4         47          Medium
+          2,1, 1+2,1                          5         51          Medium   
+
+CH f,f+2, 2,1, 1+2,1                          5         61           Easy
+          1,2, d/f+2, d+3+4,2                 6         58          Medium
+
+d/b,f+2, d+3+4                                2         75           Easy    
+
+d/f+2+3, d+3+4                                2         47           Easy    
+
+Opponent BK, f+2,1, d+1~N+2, d+3+4,2          6         44           Easy    
+
+2+4, d+3                                      2         42           Easy    
+
+FD/FT 3, WS+4, d+3+4,2                        4         37           Easy
+
+u/f+4, d+1, FC+1~N+2                          4         26           Easy    
+       u/f+4, d+1~N+2                         4         32           Easy
+       1,2, 4                                 4         34           Easy
+       1,2, b+4                               4         34           Easy
+       1,2, d+3+4,2                           5         35           Easy
+       d+1~N+2, d+3+4,2                       5         35           Easy    
+       u/f+4, d+1, FC+3+4,2                   5         36           Easy   ^
+       2,1, b+4                               4         37           Easy
+       2,1, f+4                               4         38           Easy
+       2,1, f,f+4                             4         40           Easy
+       2,1, 1+2,1                             5         44           Easy   $
+       f,f+1+2, f,f+1+2, d+3+4,2              5         24          Medium   
+       u/f+4, d+1, FC,f+2                     4         35          Medium
+       d/f+2, d/f+2, d+3+4,2                  5         37          Medium
+       1, 1,2, d+3+4,2                        6         38          Medium
+       d+1, WS+4, d+3+4,2                     5         38          Medium   
+       2,1, d/f+2, d+3+4,2                    6         43          Medium
+       1+2, d+4, d+3+4,2                      5         42           Hard   *
+       f,f+1+2, f,f+1+2, f,f+1+2              4         13         V. Hard
+       f,f+1+2, 1, f,f+1+2, d+3+4,2           6         27         V. Hard   
+       2,1, 1,2, d+3+4                        6         43         V. Hard
+
+u/f,N+4, 1,2, d+3+4,2                         5         48           Easy   *
+         u/f+4, d+1, d+3+4,2                  5         48          Medium  *
+         1+2, d+4, d+3+4,2                    5         54           Hard   *
+CH 4, d+3+4,2                                 3         45           Easy    
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                             | KUMA/PANDA |
+                             =-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+WS+1, f+2, 1+2                                3         33           Easy
+      u/f+1+2                                 2         34           Easy
+
+WS+1+2, f+1, f+1+2                            3         41          Medium
+        f+1, f+1, f+1+2                       4         46           Hard
+
+CH f+1~1,1, f+1,1,1                           6         56           Easy
+            f+1, f+1, f+1+2                   6         62          Medium  $
+
+CH D/F#+1,2,1,2, WS+1                         5         63           Easy   $
+
+CH FC,D/F#,1,2,1, FC,d/f+1,2,1 (Giant Swing)  6         81           Hard   ^ 
+
+f,f+1+4, d+3                                  2         47           Easy    
+         1+2                                  2         56           Easy    
+
+f+1+2, 1+2                                    2         41           Easy   $
+       d/f+1+2                                2         41           Easy    
+       f,f+2                                  2         42           Easy    
+
+Prowling 1+2, f,f, f+1+2                      2         44          Medium
+
+f,f+2, 3+4, 1+2                               2         41           Easy
+       u/f+3+4                                2         42           Easy
+       u/f+4, 1+2                             3         42           Easy
+       FC,d/f+1,2,1 (Giant Swing)             4         45           Easy
+       WS+1+2,1+2                             3         46           Easy
+       u/f+4, f+1~1,1                         5         48           Easy
+       U/F,4, f+2, f+1+2                      4         61           Easy   $
+       f+1,1,1                                4         41          Medium
+       U/F,4, f,f+2                           3         53          Medium
+       f,f+2, f+1~1,1                         5         55          Medium
+       f,f+2, f+1, f+1+2                      4         56          Medium
+       U/F,4, f+1, d/f+1+2                    4         57          Medium
+       U/F,4, f+1, f+1+2                      4         59          Medium   
+       u/f+1+2, f+1~1,1                       5         60          Medium  ^
+       u/f+1+2, f+1, f+1+2                    4         61          Medium
+       U/F,4, u/f+4                           3         48           Hard
+       b,d/b,d,D/F+2                          2         48           Hard   ^
+       f,f+2, BK 4                            3         51           Hard    
+       U/F,4, u/f+1+2                         3         56           Hard   *
+       f,f+2, f+1  f,f+2                      4         ??           Hard
+       f,f+2, f+1, f+1~1                      5         ??           Hard
+       1+3+4, u/f+1+2, f+1,1,1                5         60         V. Hard   
+       U/F,4, f+1, f+1, f+1+2                 5         ??         V. Hard
+       SS Right, 3, f+1, 1+2                  4         ??         V. Hard
+
+d/f+2, f+1, 1+2                               3         30           Easy
+       2, f+1+2                               3         33           Easy
+
+Rt. Side Throw, b+1+2,HCB,u/b,u,U/F           2         ??         V. Hard
+
+CH FC,D/F#+2,1,2, D/F#+2,1                    5         63           Easy   $
+                                                           
+CH f+4, 1+2                                   2         53           Easy   $
+
+u/f+4  f+2, 1+2                               3         34           Easy
+       2,1,2                                  4         39           Easy
+       f+2, f+1, f+1+2                        4         41          Medium
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                               | KUNIMITSU |
+                               =-=-=-=-=-=-=
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+u+1+2, u/f+3+4                                 2        41           Easy    
+       D/B#,3,3,{3},3,f+4                      5        45           Easy   $
+       f,f+4                                   2        33          Medium   
+       1, f,f+4                                3        34           Hard 
+       1,2,1                                   4        36           Hard    
+       1, f+3                                  3        45           Hard 
+       1, 1, 1, f,f+4                          5        40         V. Hard  ^
+
+d/b+1+3, d+3                                   2        47           Easy    
+
+f+2, d/f+2, b+1+2                              3        31           Easy
+     d/f+2, d/b+2                              3        37           Easy    
+     d/f+2, 1+2                                3        42           Easy    
+     d/f+2, U/F,N+4                            3        45           Easy    
+     d/f+2, f+3                                3        51           Easy   $
+     d/f+2, b+1,{1},1,{1},1, b+1+2             6        47          Medium   
+     d/f+2, b+1,1, b+1, d/f+3                  6        51          Medium
+     d/f+2, b+1,{1},1,{1},1, f+3               6        59          Medium   
+     d/f+2, b+1,1, b+1,{1},1, f+3              7        64          Medium   
+     d/f+2, b+1,{1},1, b+1,{1},1, f+3          7        64          Medium    
+     d/f+2, f,f+3+4                            3        49           Hard    
+     d/f+2, b+1,1, b+1, 1, f,f+4               7        50           Hard    
+     d/f+2, b+1,{1},1,{1},1, b+1,{1},1, f+3    8        69           Hard   ^
+
+f,f+2, f+3                                     2        50           Easy   $
+       b+1,1, b+1,1, b+1, f,f+4                7        57          Medium
+       b+1,1, b+1,1,{1,1},1, f+3+4             7        67          Medium   
+       b+1,1, b+1,{1},1,1, f+3                 7        68          Medium
+       b+1,1, b+1,1,{1,1},1, 1+2               7        ??         V. Hard
+
+2+4, d+3                                       2        42           Easy    
+
+d/f+2, 1, 1, f,f+4                             4        25           Easy    
+       d/f+2, d/f+2, f,f+4                     4        34           Easy
+       b+1, 1, D/B#,3,3,{3},3                  6        34           Easy    
+       f+3+4                                   2        37           Easy
+       f+3                                     2        39           Easy   $
+       b+1, 1, b+1,1, d+3                      6        39           Easy    
+       f,f+4, d+1, f,f+4                       4        28          Medium
+       b+1, 1, 1,2,1                           6        32          Medium
+       b+1, 1, b+1, 1, f,f+4                   6        35          Medium  ^
+       U/F,4, 1, f,f+4                         4        40          Medium   
+       d/f+2, f+3+4, d+4                       4        41          Medium  *
+       b+1, 1, b+1,1, b+1, f,f+4               7        43          Medium  ^
+       b+1,1, b+1, 2,3                         6        47          Medium   
+       1, b+1,1,{1},1, f+3+4                   6        47          Medium   
+       b+1,1, b+1,1, f+3                       6        52          Medium
+       1, b+1,1,{1},1, b+1, f+3                7        53          Medium   
+       b+1,1, b+1,1,{1,1},1, f+3+4             7        56          Medium   
+       b+1,1, b+1,{1},1,1, f+3                 7        57          Medium
+       b+1,1,{1},1, 2,3                        6        47           Hard   *
+       U/F,4, 1, f+3                           4        51           Hard
+       d/f+2, b+1,{1},1, b+1,{1},1, f+3+4      7        58           Hard   *
+       d/f+2, b+1,{1},1, b+1,{1},1, f+3        7        59           Hard   *
+       b+1, f+1, b+1, 2,3                      6        ??         V. Hard
+       f+3+4, 1, 3                             4        ??         V. Hard
+
+FC,d/f+3, WS+4, f,f+4                          3        33           Easy
+          WS+4, d+3                            3        34           Easy   $
+          D/B#,3,3,{3},3,3,f+4                 6        34          Medium
+          d+1, d+1, FC,d/f+3                   4        21           Hard    
+          d+1, WS+1, f,f+4                     4        25           Hard    
+
+d+3+4, f,f, d+1, f,f+4                         4        37          Medium   
+       d/b+2                                   3        40          Medium   
+       D/B#,3,3,{3},3,f+4                      6        48          Medium   
+       D/B#,3,3,{3},3,3,f+4                    7        50           Hard  
+
+BK 3, d+1, f,f+4                               3        35           Easy    
+      4                                        2        42           Easy    
+      d+3, WS+4                                3        41           Hard    
+
+SS+3+4, u/f+3+4                                2        31           Easy    
+        D/B#+3,3,{3},3,3,f+4                   6        37          Medium
+        WS+4, d+4                              3        34           Hard    
+
+BK u/f+4, b+1,1, b+1, f,f+4                    5        41           Easy    
+          f+3                                  2        47           Easy    
+          b+1,1, b+1,1, f+3                    6        60          Medium   
+          b+1,1, b+1,1, b+1, 3                 7        65          Medium   
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                              | LAW (Forest) |
+                              =-=-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+CH b+1,2,1, 1, b+1,2,1                        7         67           Easy
+            1, b+2, d+2,3                     7         69           Easy
+            f+3+4,3                           5         70           Easy    
+            1,2, b+2,3,4                      8         75           Easy
+            u/f+3,4                           5         76           Easy
+            4, b+2, d+2,3                     7         77           Easy
+            4, b+2,3,4                        7         78           Easy   $
+            u/f,N+1, 1, f+1+2                 6         66          Medium   
+            u/f+4, d+2,3                      6         70          Medium
+            d/f+1, U/F+4,3                    6         76          Medium
+            u/f,N+1, 1, b+2,3,4               8         76          Medium   
+            f+2~1                             4         76          Medium  ^
+            d/f+1, d/f+1, b+2,3,4             8         78          Medium
+            1,2, F#+1,2,{2},2                 8         68           Hard
+            b+2, 1, b+2, d+2,3                8         76           Hard
+            4,u+3, d/f+3                      6         80           Hard    
+            4,u+3, d/b+4                      6         83           Hard   ^
+            d+2,3, d+2,3                      7         77         V. Hard
+            4,u+3, b+2,3                      7         81         V. Hard   
+
+CH f+1+2, f+1+2                               2         51           Easy    
+          f+2~1                               2         65           Easy    
+          U/F+4,3                             3         65           Easy    
+          4, b+2,3,4                          5         66           Easy    
+          1, d/f+1, d/b+4                     4         51          Medium   
+          4,u+3, d/f+3                        4         70           Hard    
+          4,u+3, d/b+4                        4         73         V. Hard    
+
+
+d/b+1+2, d+4,3                                3         115          Easy   $
+
+WS+2, 1, b+2, 1,2, b+2                        6         46           Easy    
+      f+4,3,4                                 4         47           Easy    
+      1,2, b+2,3,4                            6         53           Easy    
+      U/F+4,3                                 3         54           Easy    
+      u/f+4, 1, b+2,3,4                       6         56          Medium   
+      4,u+3, d/f+3                            4         58          Medium   
+      4,u+3, d/b+4                            4         61          Medium
+      d+2,3, d+3,3                            5         49           Hard    
+      d/f+1, f+2~1                            3         50           Hard    
+      1, 4,u+3, b+2                           5         55           Hard    
+      4,u+3, b+2,3,4                          6         70         V. Hard   
+
+CH d+2,3, d+2,3                               4         54           Easy
+          4,3,4                               5         60           Easy
+          4, b+2,3,4                          6         69           Easy   $
+          1, b+2, 1, b+2, d+4                 7         57          Medium   
+          1, b+2, 1,2, b+2                    7         60          Medium  ^
+          1, b+2, d+2,3                       6         61          Medium
+          d/f+1, U/F+4,3                      5         68          Medium   
+          4,u+3, d/f+3                        5         72           Hard   
+          4,u+3, d/b+4                        5         75           Hard
+
+d/f+2, 1, d/b+2,4                             4         35           Easy   
+       1, b+2, 1, b+2, d+4                    6         33          Medium   
+       d/f+1, 1, d/b+4                        4         35          Medium   
+       f+2~1                                  2         44          Medium
+       4, b+2,3,4                             5         46          Medium   
+       d+3,3,4                                4         35           Hard    
+       b+1, 1,{1},1,F+2,{2},2                 6         36           Hard    
+
+2+4, FC+3                                     2         42           Easy    
+
+[b+2,3,]4, 1, d+2,3                           4         41           Easy    
+           d/b+4                              2         42           Easy    
+           1, d/b+2,4                         4         45           Easy    
+           1,2, b+2, d+3                      5         41          Medium   
+
+CH 3,4, d+2,3                                 4         63           Easy
+        WS+4,3                                4         66           Easy
+        FC,U/F+4                              3         71           Easy
+        WS+4, b+2,3,4                         6         77           Easy   $
+
+FD/FT 3, FC+3,4                               3         29           Easy
+         WS+4, d/f+1, b+2,3                   5         34          Medium   
+
+u/f+4, 1, b+1,2,1                             5         37           Easy    
+       1, d/b+2,4                             4         37           Easy    
+       1, b+2, d+2,3                          5         39           Easy
+       1,2, b+2,3,4                           6         45           Easy
+       1,2, d/f+3                             4         33          Medium   
+       u/f+4, d+4,3                           4         38          Medium   
+       d/f+1, d/b+2, BK 3                     4         41          Medium
+       d/f+1, f+3,4                           4         42          Medium
+       d/f+1, U/F+4,3                         4         46          Medium   
+       4,u+3, d/b+4                           4         53          Medium   
+       SS, 1,1,1,1,F+2,{2},2                  7         35           Hard    
+       1,2, d+2,3                             5         39           Hard
+       4, 1, b+2,3                            5         39           Hard    
+       d/f+1, f+2~1                           3         42           Hard
+       u/f+4, d+1, FC,d/f,d,d/f+3             4         35         V. Hard   
+
+FC,u,N+4, 1, b+2, 1,2, b+2                    6         49           Easy
+          1,2, b+2,3,4                        6         56           Easy
+          4, b+2,3,4                          5         58          Medium
+          1, d/b+2, BK 3                      4         48           Hard    
+
+U/F+4,3, d+3,3                                4         54           Easy    
+         d+4,3                                4         58          Medium   
+         F#+1,2,{2},2                         5         59          Medium
+         d+2,3                                4         60           Hard
+         1, b+2,3,4                           6         68           Hard    
+
+CH 4, b+2,3,4                                 4         47           Easy   $
+
+CH d+4,3, FC,u/f+4                            3         55           Easy
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                               | LEE CHAOLAN |
+                               =-=-=-=-=-=-=-=
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+1+3, d+3                                      2         37           Easy    
+
+d/f+2, f+4, f+4                               3         20           Easy
+       1, b+1, b+1,1,2                        6         36           Easy    
+       1,2, b+1,1,2                           6         37           Easy
+       3,b+3                                  3         35          Medium   
+       b+1, b+1, b+1,1, b+3                   6         39           Hard    
+       d+4,N+4,u+3                            4         42         V. Hard   
+       f,f,N+3,4>4                            4         47         V. Hard   
+       d/f+1, f,f,N+3,4>4                     5         49         V. Hard   
+
+Hitman 2, f+3+4                               2         47           Easy    
+          f,f+3,4>4                           4         58           Hard    
+
+f+3+4, FC,d/f+4                               2         44           Easy
+
+f,f+3, d+4,4,{4},4                            4         40          Medium   
+       d+4,4~4                                4         42         V. Hard   
+
+f,f,N+3,4, f+1,2,{2},2                        5         46          Medium   
+           f+1, d,d/b+4                       4         46         V. Hard  *
+
+u/f+4, f+4, f+4, f+4                          4         24           Easy    
+       1,2, b+1,1,2                           6         38           Easy    
+       d/f+1, b+1, b+1,1,2                    6         40           Easy   *
+       1,2, d+3,3                             5         31          Medium
+       f+4, d+4,{4},4,4                       5         33          Medium
+       4,[3],4, d/f+4                         4         36          Medium  *
+       d/f+1, b+1, f,f+1,f+2,[2],2            6         39          Medium  *
+       d/f+1, 4,u+3                           4         44          Medium  *
+       1,2, d+4,{4},4,4                       6         38           Hard
+       d/f+1, b+1, f,f+1,1,f+2,[2],2          7         40           Hard   *
+       b+1, b+1, b+1,1, b+3                   6         40           Hard
+       d/f+1, d/f+1, b+1,1, d/b+3             6         42           Hard   *
+       4,u+3, d/f+4                           4         45           Hard    
+       4,u+3, d/f+3                           4         49           Hard    
+       4,u+3, d,d/f+4                         4         49           Hard    
+       d/f+1, f,f,N+3,4>4                     5         50           Hard    
+       4~4, u/f+3                             4         39         V. Hard
+       4~4, d,d/f+4                           4         40         V. Hard  ^
+       d/f+1, b+1, f+1,1,1,2,2
+
+Hitman 4, WS+3,3                              3         38           Easy   *
+          WS+4, f+4                           3         41           Easy   *
+          d+4,N+4,4                           4         41           Easy   *
+          WS+4, d+4,[4],4                     5         43          Medium  *
+          FC,u/f+4                            2         42         V. Hard  *
+
+FC,u/f+4, WS+1, b+1,1, d+4,{4},4              6         47           Easy    
+          WS+1, b+1,1,2                       5         49           Easy
+
+d,d/b+4, f,f+3, d+4,N+4                       4         53           Easy    
+         f+3+4                                2         46          Medium
+         U/F,4, f+2,2,2                       5         52          Medium
+         f,f+3, d+4,{4},4,4                   5         55          Medium   
+         U/F,4, b+1, b+1,1,2                  6         61          Medium  *
+         SS Right+3                           2         46           Hard
+         b,b+4~3, 3                           3         47           Hard
+         b,b+4~3, 2                           3         48           Hard
+         f,N, BK 4, d+4,{4},4,4               5         57           Hard
+         U/F,4, b+1,1, d+4,{4},4              6         55           Hard    
+         4,u+3, d/f+3                         4         58           Hard    
+         f,f+3, b+3,3                         4         58         V. Hard  ^
+         U/F,4, f,f,N+3,4,N+4                 5         ??         V. Hard
+         f,f,N+3,4, 1, d,d/b+4                5         ??         V. Hard
+
+CH 4, f+4                                     2         28           Easy    
+      ~4, b+1                                 3         33           Easy    
+      b+1, b+1,1, f+4                         5         40          Medium   
+      b+1, b+1,1,2                            5         44          Medium   
+      b+1, b+1,1, d/f+4                       5         42           Hard    
+      d+4,4,{4},4                             4         40         V. Hard   
+
+BK u/f+4, d+4,{4},4,4                         4         38           Easy    
+
+CH b+4, f+3+4                                 2         56          Medium
+        f,f,N+3,4>4                           4         67          Medium   
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                               | LEI WULONG |
+                               =-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+BK d+1, d+1, d+1, d+1, N+3                    5         34           Easy    
+        d+1, N+1, 3                           4         32          Medium
+        F, 4~4,3,3                            4         33           Hard    
+        d+1, N+1, d+1, N+1                    5         27         V. Hard  ^
+
+b+1, d+4                                      2         31           Easy   *
+     u/f+2                                    2         39           Easy   *
+     4~3                                      2         49         V. Hard  *
+
+CH 1+2, d+1,1,1                               4         40           Easy
+        d+1, N+1, d+1                         4         42          Medium
+
+d/f+2, 1+2,1, d+1                             4         39           Easy
+       f+2, f,N,1,2,{1},2,4                   6         41          Medium
+       f,N+4~1, f,N+1,2,{1},2                 6         43           Hard
+
+BK 2,  1, f,N+1,2,{1},2,4                     6         44          Medium   
+
+FU/FA 3, WS+4, d+4                            3         29           Easy
+
+FU/FA 3+4, b+1+2                              2         45           Easy
+           u/f+4, 1, f,N+1,2,{1},2            6         46          Medium
+           u/f+4, f,N+1,2,{1},2,4             6         51          Medium
+           u/f+4, f,N+4~1,2,3                 6         54           Hard   ^
+
+CH 4,  4~4,3,3                                4         48           Easy    
+       f,N+1,2,{1},2,4                        5         46          Medium
+       f,N+1, 4~4,3,3                         5         52          Medium  *
+       f,N+1, f,N+1,2,{1},2,4                 6         49           Hard
+       f,N+4~{1,2},3,4, d+4                   5         50           Hard    
+
+u/f+4, 1, f,N+1,2,{1},2,4                     6         37           Easy    
+       d/f+1, d/f+1, 3                        4         40           Easy
+       f,N+4~1, 3                             4         45           Easy    
+       1+2,1, BK 3                            4         48           Easy
+       1, f,N+4~1,2,3                         6         40          Medium
+       d/f+1, f,N+4~1,2,3                     6         44          Medium   
+       1+2,1, d+1, d+1                        5         44          Medium
+       f,N+4~1,2,3, d+4                       6         46          Medium  ^
+       d/f+1, f,N+3                           3         38           Hard   
+       f,N+1, f,N+1, f,N+4~{1},2,3            6         40           Hard    
+       f,N+1, f,N+1, f,N+1,2,{1},2,4          7         43           Hard
+       4, f,N+1,2,{1},2,4                     6         45           Hard   
+       f,N+4~1, f,N+4~{1},2,3                 6         48           Hard
+       4, f,N+1,[2],1~d, 1                    5         39         V. Hard  *
+
+u/f,N+4, 1, f,N+1,2,{1},2,4                   6         49           Easy   *
+         1+2,2                                3         49           Easy   *
+         f,N+4~1,2,3, d+4                     6         58          Medium  *
+         4, 4~4,3,3                           5         60           Hard   *
+         f,N+4~1, f,N+4~{1},2,3               6         60           Hard   *
+
+d/b+4, 4~4,3,3                                4         40           Easy   $
+       d/f+1, 3                               3         37          Medium   
+       d/f+1, f,N+1,2,{1},2,4                 6         43           Hard
+       d/f+1, f,N+4~1,2,3                     6         46           Hard    
+
+d/b+4~d, 2,2>2                                4         39          Medium
+         4, 1,1,{1},1,1,1                     7         42          Medium  ^
+
+(f,N+3,)d+4, 4~4,3,3                          4         35           Easy
+
+Dragon Stance CH 2, 1, f,N+1,2,{1},2,4        6         61          Medium
+
+Crane Stance 2, 1+3                           2         80           Hard
+
+Crane Stance [3,4,2,]3, 1, f,N+1,2,{1},2,4    6         39          Medium
+
+Tiger Stance 1, f,N+1,2,{1},2,4               5         48          Medium
+                u/f+4, 4~4,3,3                5         58           Hard
+                u/f,N+4, 4~4,3,3              5         68         V. Hard  *
+
+Tiger Stance 4, WS+4 d+4                      3         39           Easy
+                4~4,3,3                       4         45          Medium   
+
+Panther Stance 2, f,N+4~1,2,3                 5         53          Medium
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                             | LING XIAOYU |
+                             =-=-=-=-=-=-=-=
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+CH [f,f+1+2~]1+2, f,f+3,4                     3         58           Easy    
+                  f+3                         2         60           Easy
+                  d/b+1                       2         60           Easy    
+                  1,2, d/b+1                  4         59          Medium   
+                  f,f+1+2,1+2                 3         62          Medium
+
+1+3, d+3                                      3         38           Easy    
+
+d/f+2~1, 1, f,f+3, BK d+3                     5         36           Easy    
+         1,2, d/f+2~1                         6         37           Easy
+         1, d/f+1, 2, 2, 3                    7         50           Easy
+      d/b+3, d/b+3, d/b+3, d/b+3, d/b+3, d+3  8         28          Medium  ^
+         1, d/b+3, d/b+3, d/b+3, f,f+3        4         36          Medium   
+         d/f+2~1, d+4                         5         37          Medium   
+         1, d/f+1, 2, d/f+4, f,f+3            7         43           Hard
+
+CH WS+2, 2,1, 1,d+2                           5         37           Easy
+         2,1, d/f+1, d+3                      5         39           Easy
+         2, 2, 2, 2, 2, 4                     7         53           Easy   $
+         2, 2,1, f,f+1+2~1+2                  6         54           Easy
+         2,1, 1,2, d/b+1                      6         47          Medium   
+         2, 2, 2, 2, 2, 3                     7         57          Medium   
+         2, 2, 2,1, f,f+1+2~1+2               7         59          Medium   
+         2, 2, 2, 2,1,4                       7         52           Hard 
+         U/F,4                                2         ??         V. Hard
+
+CH WS+2~F, 1,2, d/b+1                         4         36           Easy
+           d/f+1, 2, 2, 2, 2, 4               7         53           Easy    
+           1,d+2, 1,d+2                       5         33         V. Hard
+
+QCB+2, d+3                                    2         43           Easy    
+
+BK CH 2,1,4, d/f+1, 2,1,4                     7         70           Easy    
+             d/f+1, 2, 2,1, f,f+1+2,1+2       9         77           Hard
+
+2+4, d+3                                      2         38           Easy    
+
+FD/FT 3, FC+3,2, 2,1, f,f+1+2~1+2             7         48          Medium
+
+BK f+3+4~3+4, 2,1, f,f+1+2~1+2                4         57          Medium
+              U/F,4, 1,d+2, f,f+3             5         45           Hard    
+              f,f, d+2, FC,d/f+2~D/F, BK 3    4         50           Hard
+              f,f, d+2, FC,d/f+2~d/f, 2,1,4   6         51           Hard   ^
+              U/F,4, 1,2, d/b+1               5         62           Hard
+              U/F,4, 1,2, f,f+1+2~1+2         6         56         V. Hard    
+
+CH f,f+3+4 (Non-throw hit), 4                 2         52           Easy    
+
+CH BK f,f+3+4 (Non-throw hit), BK 4, <Any BK 4 Combo>
+
+CH 4, d/b+1                                   2         42           Easy   $
+      f,f+3,4                                 3         40          Medium   
+
+CH u/f+4, 1, 1,2, d/b+1                       5         57          Medium
+          WS+2, 2, 2, 2, 2, 4                 7         74          Medium   
+          FC+3,2, 2,1, f,f+1+2~1+2            7         75           Hard
+
+CH d/b+4, d/b+3, 1, d/b+1                     4         29          Medium   
+          d/b+3, 1, f,f+1+2,1+2               5         36           Hard    
+
+BK 4, 1,d+2, d/b+1                            4         36           Easy
+      1,d+2, f,f+1+2~1+2                      5         43           Easy
+      d/f+1, 2, 2,1,4                         6         46           Easy
+      d/f+1, 2, 2,1, f,f+1+2~1+2              7         58          Medium   
+      f,f+3, 2, 2, 3                          5         48           Hard
+
+WS+4, f,f+3,4                                 3         32          Medium  
+
+Phoenix 1+2, 1,d+2, d/b+1                     4         36           Easy
+             d/f+1, 2, 2, 2, 3                6         51           Easy   $
+             d/f+1, 2, 2, 2, 2, 4             7         61          Medium   
+              
+Phoenix d+1+2, 1+2                            2         44           Easy
+               d+1+2, u/f+3,4                 3         49           Easy
+               U/F,4, f+3                     3         57           Easy   $
+               U/F,4, f,f+1+2~1+2             4         64          Medium
+               d+1+2~u+4, d+1, WS+4           4         39           Hard
+               d+1+2~1, FC+3,2, 3             5         49           Hard
+               d+1+2~u/f+4, WS+2, 2, 2, 4     6         55           Hard
+               f,f+3, 2, 2,1, f,f+1+2~1+2     7         69           Hard    
+               U/F,4, 1, d/b+1                4         59         V. Hard
+               2+3+4, d/f+1, 2, 2, 3          6         ??         V. Hard
+
+Phoenix u/f+3, 1,2, d/b+1                     4         33           Easy
+               d+2, WS+2, 2, 2, 3             6         47          Medium
+               d/f+1, 2, 2, 2,1,4             7         50          Medium
+               d/f+1, 2, 2,1, f,f+1+2~1+2     7         57          Medium
+
+Phoenix u/f,3, d/f+2, d/f+1, 2, 2, 3          6         75          Medium
+               d/f+2, d/f+1, 2, 2, 2, 4       7         76          Medium
+
+Phoenix U/F#,3, FC+3,2, 2,1,4                 6         45           Easy
+                FC+3,2, 2, 2, 3               6         50           Easy   ^
+                FC+3,2, 2,1, f,f+1+2,1+2      7         57          Medium
+                WS+2,2, 2,1, f,f+1+2~1+2      7         62          Medium   
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                             | MICHELLE CHANG |
+                             =-=-=-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+f+1, f,f+1, f,f+1, f,f+1, f,f+1, f+1           6        45           Hard
+     f,f+1, f,f+1, f,f+1, f,f+1, f,f+1, f,f+1  7        48         V. Hard  ^
+
+CH 1,1,1, f,f+1, d+4,1                         6        59          Medium
+          f,f+1, f,f+1, f,f+1, f,f+1, f,f+1    8        69           Hard       
+
+f+1+4, d/f+3+4                                 3        71           Easy
+       u/f+3+4                                 2        78           Easy    
+       U/F,4, f,f+1, f,f+1, f,f+1,4            6        92          Medium  ^
+       SS+3, f,f+1, f,f+1,4                    5        79         V. Hard   
+       FC,d/f+4,3, d+1, FC,d/f+4,3             6        81         V. Hard   
+
+d/f+2,1, f,f, f,f+1, f,f+1, f,f+1, f,f+1,4     7        66           Hard
+         f,f, 1, f,f, d+1, FC,d/f+4,3, f,f+1,4 8        ??         V. Hard
+
+2+4, d+4                                       2        40           Easy    
+     d+3                                       2        42           Easy    
+
+SS+3,4, 3                                      3        54           Easy    
+        f,f+1, f,f+1, d+4,4                    6        53          Medium   
+        4,4,1                                  5        66          Medium   
+        4,4,4                                  5        67           Hard    
+        d+2, FC,d/f+4,3, f,f+1, f,f+1,4        8        72           Hard    
+        f,f+1, BK d+1, f,f+1, f,f+1,4          7        ??         V. Hard
+
+d/f+3+4, 1,1,1                                 5        51           Easy
+         f,f+1 <Under>, BK d+1, FC,d/f+2       5        58          Medium   
+         4, f,f+1, f,f+1, f,f+1,4              7        73          Medium   
+         1, f,f+1, f,f+1, f,f+1, f,f+1,4       8        66           Hard
+         4,4,4                                 5        68           Hard
+         d+2, FC,d/f+4,3, f,f+1, f,f+1,4       8        73           Hard
+         4, f,f+1, f,f+1, f,f+1, f,f+1,4       8        78           Hard    
+
+CH 4, f,f+1, 1, f,f+1, f,f+1,4                 6        57          Medium   
+      f,f+1, f,f+1, f,f+1, f,f+1, f,f+1,4      7        65           Hard    
+
+u/f+4, 1, f,f+1, d+4,1                         5        49           Easy
+       f,f+1, f,f+1, d+4,1                     5        53           Easy    
+       1, f,f+1, 1, f,f+1,4                    5        48          Medium
+       f,f+1, f,f+1, f,f+1, f,f+1, f,f+1       6        53          Medium   
+       4,4,1                                   4        57          Medium
+       f,f+1, 1, f,f+1, d,d/f+1                5        49           Hard
+       1, f,f+1, f,f+1, f,f+1, f,f+1,4         7        56           Hard
+       4,4,4                                   4        58           Hard
+       d+2, FC,d/f+4,3, f,f+1, f,f+1,4         7        63           Hard   ^
+       1, f,f+1, d/f+2,4                       5        49         V. Hard   
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                             | NINA WILLIAMS |
+                             =-=-=-=-=-=-=-=-=
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+b+1, d/b+4,3                                  3         30           Easy
+     d+4,1, f,f+3                             4         37           Easy 
+     d+4,1, 1,2,f+1+2                         6         41          Medium   
+     {d+1}~N+4, d+4,1, f,f+3                  5         43          Medium   
+     d+4,1, d+4,1, f,f+3                      6         45           Hard    
+
+d/f,d/f+1, d+3                                2         45           Easy    
+           d+3+4                              2         49           Easy    
+
+d/b+1+2, d+4,1, f,f+3                         4         117          Easy   $
+         3,3                                  3         120          Easy    
+         d+4,1, d+1, FC,d/f+4                 5         114         Medium   
+         d+4,1, 1,2>f+1+2                     6         122         Medium
+         d/f+3,3,3,1,2,f+1+2                  7         128         Medium
+
+1+3, d+3                                      2         42           Easy    
+     d+3+4                                    2         46          Medium   
+
+d/f+2, f+1+2                                  2         28           Easy    
+       1,2, f+1+2                             4         31           Easy    
+       d/f+1+2, d+1, FC,d/f+4                 5         29          Medium   
+       1,2, 1,2,{3},3                         3         33          Medium   
+       d/f+1+2, 1,2, f+1+2                    6         37          Medium   
+       1,2, d+4,1, f,f+3                      6         41          Medium
+       d/f+1, u/f+4, d+3,2                    5         41          Medium   
+       b+2,2, d+4,1, f,f+3                    6         53          Medium   
+       u/f+4, d+4,1, d+4,1                    6         44           Hard
+       f+4, d+4,1, f,f+3                      5         44           Hard    
+       1,2, d/f+3,1,2,f+1+2                   7         44           Hard
+       d/f+3,3,3,1,2,f+1+2                    7         45           Hard    
+       d/f+1, u/f+4, d+4,1, f,f+3             6         50           Hard   ^
+       d+4,1, d/f+3,1,2,f+1+2                 7         45         V. Hard   
+
+d,d/f+2, 1,2,1,2,4                            6         42           Easy    
+         1, 1,2, f,f+3                        5         46           Easy    
+         4,3,4                                4         50          Medium   
+         d+4,1, 1,2,1+2                       6         51          Medium
+         f+1, 1,2,1,2,f+1+2                   7         51          Medium
+         d+4,1, 1,2,{1},2,1+2                 7         52           Hard    
+
+CH SS+2, 1, d/b+4,3                           4         39           Easy    
+         1,2, 1,2, f+1+2                      6         48           Easy
+         3,4                                  3         49           Easy    
+         1, 1, 1,2, f+1+2                     6         45          Medium   
+         d/f+3,1,2>f+1+2                      5         48          Medium   
+         d+4,1, 1,2, f,f+3                    6         51          Medium   
+         1,2, d+4,1, f,f+3                    6         51          Medium   
+         d/f+3,3,3,1,2,f+1+2                  7         55           Hard
+
+Sidehit SS+2, 1, d/f+3,4                      4         30          Medium   
+              1,2, 1,2, f+1+2                 6         40          Medium   
+              1, 1, 1, f+1+2                  5         32           Hard    
+              1, d/f+3,1,4                    5         36           Hard    
+
+QCF,d/b+2+3, f+1+2                            2         20           Easy
+             d/b+3+4, u/f+3, d+4,1, f,f+3     6         61          Medium
+
+QCF,D/B+2+3, f+1+2                            2         20           Hard    
+             d/b+3+4, <Any d/b+3+4 Combo>
+
+FU/FT b+3+4 (Kickup), d+4,1, f,f+3            4         42          Medium
+                      d+4,1, 1,2, f+1+2       6         47          Medium   
+
+FD/FT 3, WS+4, d+3,2                          4         33           Easy    
+         d+3,4                                3         33           Easy    
+         WS+4, d/b+3+4                        3         41          Medium   
+         WS+4, d+4,1, f,f+3                   5         42           Hard
+
+CH WS+3, d/f+3,1, d+4,1                       5         41           Easy    
+         1,2, 1,2, f+1+2                      6         48           Easy    
+         d+4,1, 1,2, f+1+2                    6         49           Easy   $
+         f+1, f+4, f,f+3                      4         43          Medium   
+         d/f+1, d/f+1,2,{1},2,3               6         48          Medium   
+         1,2, d/f+3,1,2,f+1+2                 7         54          Medium   
+         1,2, d+1, FC,d/f+4                   5         40           Hard    
+         2,3>4                                4         47           Hard
+         d/f+3,2,3>4                          5         53           Hard    
+
+CH f,f+3, d/b+4,3                             3         52           Easy    
+          f,f+3                               2         57           Easy    
+          d+4,1, f,f+3                        4         59           Easy
+          d+4,1, 1,2,{3},3                    6         59           Easy    
+          1+2                                 2         61           Easy   $
+          {d+1}~N+4, d+4,1, f,f+3             5         65           Hard    
+          d+4,1, d+4,1, f,f+3                 6         67           Hard    
+
+CH d+3,2, 1,2, 1,2, f+1+2                     7         53           Easy
+          d+4,1, 1,2, f+1+2                   7         54           Easy
+          f+1,2,1,2,4                         7         46          Medium   
+          d/f+3,2,3,4                         6         58          Medium   
+
+d/b+3+4, 1,2, b+2,2                           5         49          Medium
+         f+4, f+4, f,f+3                      4         57          Medium   
+         u/f+3, d+4,1, f,f+3                  5         61          Medium
+         f+4, f+4, f+1+2                      4         55           Hard    
+         b+2,2, d+4,1, f,f+3                  6         66           Hard
+
+CH f+4, 1+2                                   2         39           Easy
+        f,f+4                                 7         43           Easy
+        f,f, d+4,1, d+4,1                     5         41           Hard    
+
+BK u+4, d/f+1, 1,2, f+1+2                     5         46           Easy    
+        d/f+1+2, d+3,2                        5         40          Medium
+        d/f+3,3,3,1,2,f+1+2                   7         54          Medium   
+
+u/f+4, d+4,1, d+4,1                           5         48          Medium   
+       d+4,1, f,f+3                           4         41          Medium   
+
+CH d/b+4,3, 1, d/b+4,3                        5         47           Easy
+            1, 1,2, f+1+2                     6         52           Easy
+            d+4,1, 1,2, f,f+3                 7         60           Easy   $
+            u/f+3, d/b+4,3                    5         60           Easy   $
+            u/f~1, d+3,2                      5         51          Medium
+            u/f~1, d+4,1, d/b+4               6         51          Medium  ^
+            1,2, b+2,2                        6         56          Medium
+            d+4,1, 1,2, f+1+2                 7         58          Medium
+            d/f+3,3,3,1,2,f+1+2               8         64          Medium
+            u/f+4, d+4,1, f,f+3               6         67          Medium   
+            f,f+2                             3         44           Hard    
+            d/f+1+2, d+1~N+4, f,f+3           7         56           Hard
+            d/f+1+2, d+4,1, f,f+3             7         59           Hard
+            u/f+3, d+1~N+4, f+1+2             6         64           Hard
+            d/b+1, u/f+4, 1,2, f+1+2          7         66           Hard    
+            u/f+4, d+4,1, d+4,1               7         63         V. Hard
+            d/b+1, u/f+4, 1, d/f+3,1,2,f+1+2  9         ??         V. Hard
+            u/f+4, 1, d/f+3,1, f,f+3          7         ??         V. Hard
+            d/f+1+2, 1, 1, 1, f+1+2           8         ??         V. Hard
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                                | OGRE |
+                                =-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+FC,f+1, d~D/F+3,3,N+3                         4         60          Medium  $
+
+Ducking Opponent f+1+2, f+4                   2         47           Easy   $
+
+1+3, d+3                                      2         42           Easy    
+
+f,f+2, d+4,4                                  4         35           Easy
+       d+1, FC+3,3,N+3                        5         51           Easy   $
+
+CH FC,f+2, d+4,4                              3         60           Easy
+           SS+4                               2         62           Easy    
+
+CH d/f+2, 1, d+4,4                            4         40           Easy
+          4                                   2         50           Easy    
+          d/f+1, 1,1,2                        5         48           Hard    
+
+FC,d/f+2, f,f+1+2                             2         45           Easy
+          FC+3,3,N+3                          4         55          Medium
+
+d/f,d/f+2+4, f,f,F+3                          2         65          Medium   
+
+[u/b+3,]2, 1, d+4,4                           4         43           Easy
+           1, 1,2,2                           6         49           Easy
+           d/f+1,2, d+4,4                     5         55          Medium
+           d/f+1, f+1,2,2                     5         56          Medium   
+
+CH FC+3,3,N+3, d+1, WS+3,3                    6         82           Easy
+               1, 1,2,2                       7         85           Easy
+               4                              4         89           Easy   $
+               SS Left, d+1 <Flip>, WS+4,4    6         80          Medium   
+               SS Left, d+1 <Flip>, WS+3,3    6         82          Medium   
+               d/f+1, d+2, FC,f+2             6         93          Medium   
+               d/f+1, d~D/F+3,3,N+3           7        100         V. Hard   
+
+f,f+3, d+4,4                                  3         38           Easy
+
+u/f+4, d+1, WS+3,3                            4         34           Easy
+       1, 1,1,2                               5         37           Easy
+       d/f+1, 1,1,2                           5         39           Easy
+       4                                      2         41           Easy    
+       d/f+1, 4                               3         42           Easy   $
+       d/f+1, f+1,2,2                         5         44           Easy    
+       d/f+1, WS+3,3                          4         42          Medium  *
+       FC+3,3,N+3                             4         43          Medium
+       d/f+1, d+2, FC,f+2                     4         45          Medium   
+       d/f+1, d~D/F+3,3,N+3                   5         52           Hard    
+
+SS+4, d+3                                     2         31           Easy
+      WS+3,3                                  3         42           Easy    
+      FC+3,3,N+3                              4         52          Medium   
+
+CH d,D/B+4, 1, 1,2,2                          5         69           Easy
+            4                                 2         73           Easy
+            d+1, FC+3,3,N+3                   5         76           Easy   $
+            1,2, d+4,4                        5         70          Medium   
+            d/f+1, d~D/F+3,3,N+3              5         84          Medium   
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                            | PAUL PHOENIX |
+                            =-=-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+CH 1, f+1,2,3                                 4         35           Easy
+
+QCF+1, 1, d+4,2                               4         40           Easy
+       1, QCF+2                               3         40          Medium
+       1, 1,2, d+1                            5         41          Medium   
+       QCB,3,2,2                              4         49           Hard
+       QCB,3,2>1                              4         51           Hard    
+
+CH QCB,1, 1,2, d+1                            4         40           Easy    
+          QCF+2                               2         48           Easy
+          1, QCF+2                            3         42          Medium
+          d+4,2                               3         42          Medium
+          QCB,3,2,2                           4         51         V. Hard   
+
+d/f+1+2, d+3                                  2         47           Easy    
+
+Ducking Opponent f+1+2, f+4                   2         47           Easy   $
+
+1+3, d+3                                      2         42           Easy    
+     d+2                                      2         46           Easy    
+
+d/f+2, 1, d+4,2                               4         33           Easy
+       4, d+1                                 3         36           Easy    
+       1,2, f+1+2                             4         37           Easy
+       1, 1,2, f+1+2                          5         40          Medium   
+       1,2, u/f+3,4                           5         43          Medium
+       f,f+3,4,N+4                            4         48          Medium   
+       1, 1, 1, f,f+2                         5         30           Hard    
+       1, 1, 1, QCF+2                         5         39           Hard    
+       1, QCB,3,2,2                           5         43         V. Hard   
+       1, 1, 1, 1, f,f+2                      6         ??         V. Hard
+
+WS+2, d/f+1, 1, f+1+4                         4         36           Easy
+      1, 1,2, d+1                             5         37           Easy    
+      f+1, u/f+3,4                            4         39           Easy    
+      2, 1,2, d+1                             5         42           Easy    
+      SS+3                                    2         33          Medium
+      d+4,2                                   3         41          Medium   
+      d/f+1, u/f+3,4                          4         43          Medium   
+      1, 1, 1, QCF+2                          5         42           Hard    
+      f+1, d+4,2                              4         36         V. Hard   
+      d/f+1, 1, QCF+2                         4         42         V. Hard   
+
+[FC,d/f+2,]2, SS+3                            2         38           Easy    
+              d+4,2,                          3         41           Easy   $
+              QCB,3,2,2                       4         50          Medium
+              QCB,3,2>1                       4         50           Hard
+
+u/f+3, 1, QCF+2                               3         37           Easy
+       1, 1,2, f+1+2                          5         44           Easy
+       1,2, u/f+3,4                           5         47           Easy    
+
+[u/f+3,]4, 1, d+4,2                           4         42           Easy
+           4                                  2         46           Easy    
+           1,2, u/f+3,4                       5         52          Medium   
+           QCB,3,2,2                          4         61         V. Hard   
+
+FD/FT 3, WS+4, d+1                            3         31           Easy
+
+CH 4, f+1+2                                   2         51           Easy   $
+      QCF+2                                   2         56           Hard   
+
+u/f+4, 1, f+1+4                               3         27           Easy
+       1, QCF+2                               3         33           Easy
+       1, d+4,2                               4         33           Easy
+       1,2, f+1+2                             4         37           Easy
+       u/f+4, d+4,2                           4         39           Easy
+       1,2, 1, f+1+2                          5         40           Easy
+       d/f+1, f+2, f+1+2                      4         40           Easy
+       1,2, u/f+3,4                           5         43           Easy
+       u/f+3,4, d+1                           4         44           Easy   $
+       1, QCF,4, d+1                          5         33          Medium
+       1, 1,2, QCF+2                          5         43          Medium
+       f,f+3,4,N+4                            4         48          Medium
+       FC+1, FC,d/f+2,1                       4         37           Hard
+       1,2, d+4,2                             5         40           Hard
+       d/f+1, 1, 1, QCF+2                     5         43           Hard
+       1, f,f+3,4>4                           5         46           Hard
+       4, 1, QCF+2                            4         48         V. Hard
+       1, 1, 1, 1, QCF+2                      6         ??         V. Hard
+
+Ducking Opponent f,f+4, WS+4, d+1             3         41           Easy
+                        FC+1, u/f+3,4         4         41           Easy    
+                        FC+1, d+4,2           4         38          Medium
+                        FC+1,FC+1, FC,d/f+2,1 5         ??         V. Hard
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                             | PROTOTYPE JACK |
+                             =-=-=-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+SS+1, SS+1+2                                   3        43           Easy
+      u/f+3+4                                  2        48           Easy    
+      SS+1                                     2        50           Easy    
+      FC,d/f+1,2,1                             4        51           Easy    
+      WS+1+2,1+2                               3        52           Easy    
+      4, 1+2                                   3        54           Easy    
+      f,f+2                                    2        56           Easy
+      SS+2                                     2        58           Easy   $
+      b,d/b,d,d/f+1                            2        45          Medium   
+      U/F,4, f+2, f+1+2                        4        66          Medium   
+      U/F,4, d/f+1+2                           4        64           Hard    
+      b,d/b,d,d/f+2                            2        69           Hard
+      f,f, BK 3, 1+2                           3        58         V. Hard   
+
+b,d/b,d,d/f+1, SS+1+2                          3        37           Easy    
+               SS+1                            2        44           Easy    
+               SS+2                            2        46           Easy
+               f,f+2                           2        50           Easy    
+               b+1+2, f+2, f+1+2               4        40          Medium   
+               b+1+2, d/f+1+2                  4        41          Medium   
+               U/F,4, d+1                      3        49          Medium
+               U/F,4, d/f+1+2                  4        58          Medium
+               U/F,4, f+2, f+1+2               4        60           Hard    
+               b,d/b,d,d/f+2                   2        63           Hard
+               f,f, BK 3, BK 3                 3        54         V. Hard   
+
+f+1+2, d+3                                     2        31           Easy    
+       1+2                                     2        38           Easy
+       d/f+1+2                                 3        41           Easy   ^
+        
+d/f+2, f+2, d+1                                3        28           Easy    
+       D/F#+1,2,1                              4        30           Easy
+       2, 1+2                                  3        31           Easy
+       f+2, f+1                                3        27          Medium   
+
+d/f+2,1, WS+1                                  3        28           Easy    
+         WS+4                                  3        32           Easy    
+
+2+4, d+3                                       2        42           Easy    
+     d/f+1+2                                   3        58           Easy    
+
+[2,1,]2, d+4                                   2        28           Easy    
+         WS+1, 1+2                             3        39           Easy    
+         WS+1, f+1, 1+2                        4        46          Medium   
+
+CH WS+2, f+2, d/f+4                            3        40           Easy    
+         f+3+4                                 2        42           Easy
+         D/F#+1,2,1                            4        42           Easy    
+         3                                     2        42           Easy    
+         1,1                                   3        43           Easy    
+         f+2, f+2, d+1                         4        47          Medium   
+         f+2, f+2, f+1+2                       4        51          Medium
+
+CH 4, d+1                                      2        42           Easy    
+      f+1+2                                    2        43           Easy
+      1+2                                      2        46           Easy   $
+
+CH f+4, d+1                                    2        49           Easy    
+        f+1+2                                  2        54           Easy    
+        1+2                                    2        53           Easy    
+
+BK u/f+4, f+3                                  2        40           Easy    
+          d/f+1+2                              3        40           Easy    
+          D/F#+1,2,1                           4        41           Easy    
+          f+3+4                                2        41           Easy    
+          f+2, f+2, f+1+2                      4        50          Medium   
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                           | TRUE OGRE (Ogre-2) |
+                           =-=-=-=-=-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+FC,f+1, FC+3,3,N+3                            4         60          Medium
+
+d+1+2, d+1, WS+3,3                            4         59           Easy
+       f,f+1+2                                2         60           Easy
+       1+2                                    2         64           Easy
+       d+1+2                                  2         72           Easy   $
+       u/f+1+2~d                              2         76          Medium   
+
+d/f+1+2, d/f+1+2                              2         45           Easy
+         f+1+4                                2         49           Easy
+         u/b+3,2                              3         53           Easy
+         u/f+4, 1,2,2                         5         53           Easy
+         4                                    2         53           Easy
+         u/f+3,4,3                            4         56           Easy   $
+         d/f+1+2, d+1                         3         47          Medium   
+         u/f+4, d+1, FC,d/f+2                 4         49          Medium
+         d,D/B+4                              2         49          Medium
+         d/f+3+4, 1,1                         4         51          Medium
+         U/F,4, 1,1,2                         5         58          Medium
+         u+3+4, d+2, FC,d/f+2                 4         62          Medium
+         d/f+1, d~D/F+3,3,N+3                 5         64          Medium   
+         u+3+4, d+2, FC,f+2                   4         65          Medium  ^
+         u+3+4, d/f+1, d+2, FC,d/f+2          5         73           Hard    
+
+1+3, d+3                                      2         42           Easy    
+
+b+2, d+3+4                                    2         42           Easy   $
+
+f,f+2, d+4,4                                  4         35           Easy
+       FC+3,3,N+3                             5         50          Medium
+
+CH FC,f+2, d+4,4                              3         60           Easy   $
+           FC,d/f+2                           2         65          Medium   
+
+FC,d/f+2, f,f+1+2                             2         45           Easy
+          FC+3,3,N+3                          4         55          Medium
+
+d/f,d/f+2+4, f,f,F+3                          2         65          Medium
+
+[u/b+3,]2, 1, d+4,4                           4         43           Easy
+           u/f+4 d+1 FC,d/f+2                 4         49          Medium
+           d/f+1, d+2, FC,f+2                 4         57          Medium   
+
+CH FC+3,3,N+3, 1, 1,2,2                       7         85           Easy    
+                                                        
+f,f+3, d+4,4                                  3         38           Easy
+
+u/f+4, 1, 1,1,2                               5         30           Easy
+       d+1, WS+3,3                            4         34           Easy
+       d/f+1, 4                               2         42           Easy    
+       d/f+1, 1,2,2                           5         43           Easy 
+       d/f+1, d+2, FC,f+2                     4         45          Medium   
+       d/f+1, d~D/F+3,3,N+3                   5         52          Medium   
+       FC+3,3,N+3                             4         43           Hard
+       d/f+1, d/f+1, d+2, FC,f+2              5         53           Hard    
+
+CH d,D/B+4, 1, 1,2,2                          5         67           Easy
+            d/f+1, 1,1,2                      5         70           Easy
+            d/f+1, 4                          3         74          Medium
+            d/f+1, d~D/F+3,3,N+3              5         84          Medium   
+
+SS+4, d+3                                     2         31           Easy
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                               | WANG JINREI |
+                               =-=-=-=-=-=-=-=
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+CH 1,1,1, 1, d/b+4,2                           6        55           Easy    
+          1, d+4,1                             6        55           Easy    
+          1, 1, f+1+2                          6        52          Medium   
+
+CH d/f+1,1, 1, d+4,1                           5        51           Easy    
+            1, d/b+4,2                         5        51           Easy    
+
+b,b+1, U/F,4, d+4,1                            4        105          Easy   $
+       U/F,4, f+2                              3        100         Medium
+       d/b+4,2, 1, f+1+2                       5        100         Medium   
+       4,4,1                                   4        102         Medium   
+       f,f, BK 4, BK 4                         3        102          Hard    
+       4,4,4                                   4        103          Hard    
+       U/F,4, 1, QCF+2                         4        107        V. Hard
+
+1+3, d+3                                       2        42           Easy    
+
+d/f+2,1, QCF+2                                 3        60           Easy   $
+         f+2                                   3        52          Medium
+         1, 1, f+1+2                           5        52           Hard    
+         1, d+4,1                              5        55           Hard    
+         f,f, d+1, WS+4                        4        47         V. Hard   
+         f,f, d+1, FC,d/f+4,3                  5        53         V. Hard   
+         1, 1, 1, f+1+2                        6        54         V. Hard   
+
+d/b+2, 1, 1+2                                  3        38           Easy    
+       1, d/b+4,2, d/f+1+2                     5        65           Easy    
+       b+2, d/b+4,2, d/f+1+2                   5        67           Easy   *
+       1, 1, f+1+2                             4        37          Medium   
+       1, d+4,1                                4        40          Medium   
+       1, d+1, FC,d/f+4                        4        33           Hard
+       1, 1, d/f+3                             4        35           Hard    
+       d/b+4,2, d/b+4,2, d/f+1+2               6        76         V. Hard  *
+       
+
+2+4, d+3                                       2        42           Easy    
+
+f+4, 1, 1, f+2                                 4        36           Easy
+     1~1,1                                     4        40           Easy
+     1+2                                       2        41           Easy    
+     4, f+1+2                                  3        46          Medium
+     4, f+2                                    3        46          Medium   
+
+CH 4, f+2                                      2        46           Easy    
+      d/b+4,2, 1, f+2                          5        50           Hard    
+      QCF+2                                    2        54           Hard
+
+CH d/b+4,2, 1, d+4,1                           5        55           Easy
+            1+2                                3        57           Easy   
+            1, d/b+4,2, d/f+1+2                6        77           Easy   $
+            f+1+2                              3        52          Medium   
+            1, 1, d/b+4,2, f+1+2               7        77         V. Hard   
+
+u/f+4, 2,1,1,[2],3                             5        40           Easy
+       1, 1, f+1+2                             4        41           Easy
+       1, d+4,1                                4        44           Easy
+       1, d/b+4,2                              4        44           Easy    
+       f+1,1,1                                 4        45           Easy    
+       d+2, FC,d/f+4,3                         4        46           Easy
+       1+2                                     2        46           Easy    
+       4, f+1+2                                3        51           Easy   $
+       1, d+1, FC,d/f+4,3                      5        44          Medium   
+       2, 1, 1, f+1+2                          5        45          Medium   
+       4,4,1                                   4        57           Hard
+       1, 1, 1, 1, f+1+2                       6        ??         V. Hard
+
+CH SS+4, WS+4                                  2        35           Easy    
+         FC,d/f+4,3                            3        39           Easy
+         d+1, FC,d/f+4,3                       4        38          Medium   
+         d+1, WS+1, f+1+2                      4        41           Hard    
+         d+1, cc,1, f+2                        4        37         V. Hard
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                               | YOSHIMITSU |
+                               =-=-=-=-=-=-=-
+
+Juggle                                       Hits     Damage      Difficulty
+----------------------------------------     ----     ------      ----------
+CH SS+1, 1, b+1,1,{1},1, d/f+4                6         59           Hard
+         1, b+1,1,1, b+1+4                    6         ??         V. Hard
+
+FC,b+1, f+3                                   2         46           Easy
+        d+1, f,f+4                            3         34          Medium   
+        u+1+2, 1+2                            3         49           Hard    
+
+b+1+4, 1+2, 1+2                               3         52           Easy   $
+       b+1+4                                  2         45           Hard    
+       d+1, cc,1, f,f, b+1+4                  4         ??         V. Hard
+
+d+1+2, d/b+1                                  2         26           Easy
+       1, b+1+4                               3         34           Hard
+
+Pogo CH 1+2, f+3                              2         58           Easy    
+             1, b+1, 1, f,f+4                 5         53          Medium   
+             1, b+1, d/f+1, D/B#+2,2          6         59          Medium   
+
+QCB+1+2, d+3                                  2         62           Easy    
+
+B+1+2,1, d/b+1                                2         43           Easy
+         1, f,f+4                             3         49           Easy
+         1, 1, f,f+4                          4         51           Easy
+         D/B#+3,3,3,3,f+4                     6         57          Medium
+         d/f+1,d/b+2,2,{2},2,2                6         71          Medium
+         d/f+2, f,f+4                         3         55           Hard
+         3                                    2         59           Hard
+         4,4                                  3         61           Hard
+         d/f+1,d/b+2,2,{2},2,f+4              7         74           Hard
+
+d/f+2, u/f+1                                  2         22           Easy
+       f,f , d+1, FC+d/f+3                    3         23           Easy
+       1, d/f+4                               4         26           Easy
+       1, f,f+4                               4         27           Easy
+       1, 1, d/f+4                            4         29           Easy
+       b+1, 1, d/f+2                          4         29           Easy
+       1, u/f+4                               3         29           Easy
+       1, 1, f,f+4                            4         30           Easy
+       b+1, 1, d/f+4                          4         32           Easy
+       b+1, 1, f,f+2                          4         32           Easy
+       b+1+4                                  2         33           Easy    
+       u/f+4                                  2         33           Easy
+       b+1, 1, f,f+4                          4         33           Easy
+       d/f+2, d/f+2, d/f+2                    4         35           Easy
+       d/f+2, uf+4                            3         35           Easy
+       b+1, 1, d/f+1,1                        5         36           Easy
+       b+1,1,{1},1,{1},1                      5         36           Easy
+       d/f+2, d/f+2, d/f+4                    4         38           Easy
+       f,f+3,1                                3         38           Easy
+       b+1,1, u/f+4                           6         38           Easy
+       b+1,1, d/f+1,1                         5         39           Easy
+       f,f+3, 4                               3         39           Easy
+       f+3                                    2         39           Easy
+       d/f+2, d/f+2, f,f+4                    4         39           Easy
+       d/b+2,2,2,{2},2                        5         40           Easy
+       d/f+2, f,f+3,1                         4         42           Easy    
+       b+1, d/b+2,2,2,{2},2                   6         44           Easy   $
+       1, b+1+4                               3         29          Medium
+       b+1, b+1+4                             3         33          Medium
+       1, b+1, d/b+2, f,f+4                   5         37          Medium   
+       f,f+4, d+1, FC,d/f+3                   4         37          Medium
+       b+1,1, b+1+4                           4         38          Medium
+       b+1, 1, b+1, 1, f,f+2                  6         39          Medium
+       b+1, 1, b+1, 1, f,f+4                  6         40          Medium   
+       d/f+2, f,f+3, d+1, d+3                 5         40          Medium
+       f,f+4, d+1, f,f+4                      4         41          Medium   
+       d/f+2, b+1, 1, d/f+1,2                 6         43          Medium
+       d/f+2, b+1, d/b+2,2, d+4               6         43          Medium   
+       d/f+2, b+1, d/b+2, WS+4                5         43          Medium
+       b+1,1, b+1,1, f,f+4                    6         46          Medium
+       d/f+1,d/b+2,2,{2},2,f+4                6         47          Medium
+       d/f+2, b+1,1,[1],1, f,f+4              6         48          Medium
+       b+1, 1, b+1,1, f+3                     6         49          Medium
+       1, 1, 1, f,f+2                         5         32           Hard    
+       b+1, 1, 1, f,f+4                       5         37           Hard
+       U/F,4, d+1, FC,d/f+3                   4         41           Hard
+       f,f+4, b+1+4                           3         41           Hard
+       1, b+1,1, b+1,1, f,f+4                 6         47           Hard
+       b+1, 1, b+1, 1, f+3                    6         48           Hard
+       b+1,1, b+1,1, d/f+1,2                  7         49           Hard    
+       b+1,{1},1, b+1,1,{1},1, f,f+4          7         51           Hard
+       d/f+2, b+1,1, b+1, d/f+1,2             7         51           Hard
+       b+1, 1, b+1,1, f,f+3,1                 7         52           Hard
+       b+1,1, b+1,1, f,f+3,1                  7         55           Hard    
+       1, 1, 1, f,f+4                         5         33         V. Hard
+       d/f+2, f,f+3, d+1, f,f+4               5         44         V. Hard  ^
+       1, 1, 1, 1, f,f+4                      6         ??         V. Hard
+       b+1+4, 1, f,f+4                        4         ??         V. Hard
+
+2+4, d+3                                      2         42           Easy    
+
+SS+2, f+1, d/f+1,2,D/B#+2,{2},2,{2},2,{2},2   7         55           Easy    
+
+f+2, d/f+2, f,f+3,1                           4         50           Easy
+     d/f+2, d/f+2, b+1, d/f+1,2               6         53           Easy   $
+     d/f+2, b+1, 1, d/f+1,2                   6         43          Medium
+     d/f+2, b+1,{1},1, b+1,{1},1, f,f+2       7         57          Medium   
+     d/f+2, b+1,{1},1, b+1,{1},1,{1},1, d/f+2 8         59          Medium   
+     d/f+2, b+1,{1},1, b+1,{1},1, f+3         7         64          Medium   
+     d/f+2, b+1,{1},1, b+1,{1},1,{1},1, f+3   8         69          Medium   
+     d/f+2, b+1,1, b+1, d/f+1,2               7         56           Hard   ^
+     d/f+2, d/f+2, b+1,{1},1, f+3             6         61           Hard    
+
+FD/FT 3, WS+4, f,f+4                          3         36          Medium   
+
+FC,d/f+3, d+1, f,f+4                          3         24           Easy
+          u+1+2, 1+2                          3         39           Easy    
+          WS+4, d/f+4                         3         38          Medium
+          1+2,1+2, d+4                        4         42           Hard   *
+          1+2,1+2, f,f+4                      4         49         V. Hard  ^
+
+4~3, b+1+2,1                                  2         58           Easy    
+     b, b+1,1, b+1,1, f,f+3,1                 7         72          Medium
+     d+1+4                                    2         78          Medium
+     b,b+1~1                                  2         54           Hard
+     b+3+4, d/b+2,2, d+1, FC,d/f+3            5         56           Hard
+     b+1+4, f,f+4                             3         60           Hard
+     B,b+1+4, 1, f,f+4                        4         62           Hard
+     b+1+2~1, d/f+4                           3         67           Hard
+     B,b+1+4, f+1, d/f+1,D/B#+2,{2},2,{2},2   7         77           Hard    
+   SS, b+1+4, d/f+1,D/B#+2,{2},2,{2},2,{2},2  7         81           Hard   ^
+     1+2, 3+4                                 3         61         V. Hard  ^
+     B,b+1+4, b+1,1, f,f+3,1                  6         ??         V. Hard  
+
+CH SS+4, f,f, 1+2,1+2                         3         69          Medium   
+
+BK u/f+4, 4,4                                 3         47           Easy    
+          b+1,1, b+1,1, b+1, f+3              7         65          Medium   
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Contributors:
+-------------
+Major Contributors- Castel, BillK, Red King, Agent316, MIC, per-sie-val,
+                    and Raijin Aoki.
+
+Other Contributors- Prizim, Synner, Stocking Matsui, Shauno, Nicky Quick,
+                    Renick, Gondee, anonimuss, aristotle, ron, Hayashida,
+                    weltschmerz, Cosmic Forge, DigitaLee, tomhilfig, aviax,
+                    Robby Stone, Martin, Snake Plisken, Jimmylee, koftekken,
+                    Johnny Foodmaster, Thunder Fist, Drakkon von Hassen,
+                    Dan Chen, CursedOne, Kakarot, Fishboot, abrar, DUK2000,
+                    Soo Hwan Cho, and EclipseKid.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

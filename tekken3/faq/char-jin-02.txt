@@ -1,0 +1,2989 @@
+Jin Kazama Strategy Guide
+Version 2.0
+
+By Slikatel (slikatel_twp@hotmail.com)
+
+
+This guide must be viewed in a monospace typeface like "Courier New" or else
+the alignment will not be correct.
+
+This guide is intended for free circulation through all internet related
+resources including web pages, newsgroups, email, IRC, FTP and any other
+forms that exist. You may distribute or print this guide at your own
+leisure providing you do not alter the content in any way or receive
+monetary compensation for it. The strategies and other non-official
+information regarding Tekken 3 and/or Jin Kazama are copyright Robert
+Brassfield, 1997,1998. Do not steal the information contained in this guide or
+attempt to reword it.
+
+
+|Updated|
+
+Many things in the world of Tekken 3 have happened since this guide was
+published 9 months ago. During that time I had other priorites that
+warranted my attention so that is the reason this guide has never been
+updated until now. Recent events have lead me to update this guide once
+again, as well as fix the errors that I had known about for some time. Many
+things have been added including a much larger and more advanced combo
+section. Quite a few new Jin combos have been found since I originally wrote
+this guide so you will definately see some new things, some that might even
+surprise you. I have listed below what has been added or changed but I urge
+you to read the guide from start to finish once again to make sure you don't
+miss any new information that might have gone unnoticed. The added sections
+are easy to point out but I went through the guide from top to bottom and made
+a lot of changes here and there so you might not catch them unless you read
+through from the beginning.
+
+Also, due to the shutdown of Tekken.Net, our host wasn't very happy about our
+bandwith and hard disk usage, it might be a bit tough for this guide to be
+introduced back into the Tekken 3 community. Since there are no current plans
+to revive Tekken.Net on a new server I might build a small page if only to
+hold this guide and perhaps a few movies to coincide with it. Some of the
+combos in this guide are extremely difficult, and some may not make sense
+until they are witnessed live so I am thinking about making some movies as a
+helper to this guide. Be sure to keep your eyes open incase I go forward and
+actually do it. Enough rambling though, time to enjoy the update.
+
+
+Just what has been updated?
+
+
+Fixes:
+
+-All the Electric Wind Godfist information has been corrected and more has
+ been added to uncloud all of the mysteries surrounding this move.
+-Many terms have been updated to their newer more universal names.
+ For example "low cancel" has been changed to "low parry", and "quick rise"
+ has been changed to "tech roll". There are a few others.
+-Many sections have been updated with new information including some of the
+ move descriptions so again I stress you read this guide from start to finish
+ to catch all of the changes.
+-The Chicken Buffering section is now more in depth and explains the
+ technique much better.
+
+Additions:
+
+-Lots of new juggles including dive stun juggles, electric guard juggles,
+ flipover juggles and plenty of new expert level ones including the most
+ damaging Jin combo found yet.
+-A tactics section has been added to advanced strategy. It only holds one
+ tactic for now but hopefully I will be adding some more soon.
+-Elecric Guard combo setups was added to tricks of the trade.
+-The Super Hop Kick and Hopping Stun Kick were added to the move list and
+ move description sections.
+-4 new tricks have been added to the Tricks of the Trade section.
+
+
+
+|Table of Contents|
+
+: Prologue
+: Conventions used in this guide.
+        - Commands
+        - Abbreviations
+        - Throw Conventions
+: Introduction to Jin Kazama
+        - Strengths and weaknesses.
+        - Basic play style
+: Jin basics
+        - Jin is not Kazuya
+        - The art of the crouch dash
+        - The art of the dash buffer
+: Special Attacks
+        - Reference Lists
+                - Throws
+                - Special Moves
+                - Strings
+        - Descriptions
+                - Throws
+                - Special Moves
+                - Strings
+: Juggle Combos
+        - Jin juggling basics
+        - Unconventional Juggles
+        - Stun Combos
+        - Flipover Juggles
+        - Electric Guard Juggles
+        - Juggle combo listing
+                - Standard Juggles
+                - Unconventional Juggles
+                - Stun Combos
+                - Dive Stun Juggles
+                - Flipover Juggles
+                - Electric Guard Juggles
+: Basic Strategy
+        - When to block and when to not
+        - Reversal
+        - Interrupting
+: Advanced Strategy
+        - Custom strings/patterns
+        - Chicken buffering
+        - Tactics
+        - The art of Okizeme
+        - Tricks of the Trade
+        - Making the best of all opportunities
+: Putting it all together
+        - Should I play offensively or defensively?
+        - Should I take chances or play it safe?
+: Epilogue
+: Useless Info
+        - Character Story
+        - Biography
+        - Outfits
+        - Winning Stances
+: Credits
+
+
+
+**********
+*Prologue*
+**********
+
+Before we get started I want to explain the focus of this guide. It does not
+contain strategies for defeating the computer opponents nor does it have
+patterns for finishing the game in record time. It is directed towards the
+beginning Jin player or the seasoned Jin player who might be looking for
+some fresh insight from another experienced player. The strategy and tactics
+contained in this guide are also geared towards good to excellent
+competition. If all you have in your area are beginners and button mashers
+then this faq probably won't do you any good. It's ironic that high level
+strategy is worthless against mashers, but it's simply because they don't
+fully understand the logistics of the game and usually just try to keep
+attacking regardless of what you do. Against mashers and beginners you can
+usually win with a small foray of moves that will catch them when they are
+open. However if you try to use high level strategy meant to trick your
+usual level of opponents, the beginner/masher won't even have the slightest
+clue and will probably ruin the whole setup by an off the wall attack or by
+being hit before you finish with the setup. While in a sense it shows how
+important variety is, the fact of them escaping certain death or hitting you
+with an off the wall move is due to luck not skill. Therefore 9 times out of
+10 if you tried to repeat what they did you would fail. However on a final
+note, don't always count a button masher as completely worthless. Sometimes
+their luck is a gateway to a new escape or counter that was never thought of
+before. They obviously won't see it, but you the good player will and can
+pick it up right away.
+
+With that said let's get on with the guide...
+
+
+********************************
+*Conventions used in this guide*
+********************************
+
+|Commands|
+
+f -  tap forward        F -  hold forward
+b -  tab back           B -  hold back
+u -  tap up             U -  hold up
+d -  tap down           D -  hold down
+
+d/f - tap down and forward              D/F - hold down and forward
+d/b - tap down and back                 D/B - hold down and back
+u/f - tap up and forward                U/F - hold up and forward
+u/b - tap down and back                 U/B - hold up and back
+
+QCB - quarter circle back       (d,d/b,b)
+
+ left punch = 1  (O) (O)  2 = right punch
+
+  left kick = 3  (O) (O)  4 = right kick
+
+|Abbreviations|
+
+N       - neutral (no direction pressed on the controller)
+WR      - while running
+WS      - while standing
+SS      - side step
+FCD     - face down, feet facing opponent
++       - execute commands on either side of + simultaneously
+~       - immediately followed by...
+[ or ]  - you have a choice of which way to continue the move
+=       - next part of sequence
+?       - this information has not yet been confirmed
+CH      - counter hit
+
+
+|Throw Conventions|
+
+(f)     - facing opponents front
+(ls)    - facing opponents left side
+(rs)    - facing opponents right side
+(bk)    - facing opponents back
+
+
+|Attack Levels|
+
+l       - move hits low range
+m       - move hits mid range
+h       - move hits high range
+L       - move hits low range and downed opponents
+M       - move hits mid range and downed opponents
+H       - move hits high range and downed opponents
+!       - move is unblockable
+
+
+****************************
+*Introduction to Jin Kazama*
+****************************
+
+Jin Kazama is arguably one of the most dangerous characters thus far in
+Tekken 3. His speed and power allow him to do large amounts of damage in
+little time. He relies on his ability to juggle opponents and keep them on
+the defense with a barrage of quick attacks. Jin is far from perfect however
+as he is missing some very useful attacks or specialties that other
+characters have. The most important thing to remember with Jin is that when
+used correctly he can be quite devastating, but in the wrong hands he can
+become a punching bag. This faq is dedicated to providing you with the
+information necessary to assure you aren't one of the punching bags.
+
+
+|Strengths and Weaknesses|
+
+You got a quick overview of Jin's overall power but I'll go into a bit more
+detail on those strengths and then cover his weaknesses so you can beware.
+
+On the strength side I've already mentioned his speed and power. He is
+probably the fastest male character in the game though still a bit slower
+that the females. He does however have a lot of quick recovery attacks which
+allow him to be more offensive with less worry of being punished. Some of
+his moves are very powerful and do large amounts of damage while also
+setting you up for a juggle combo. He probably has one of if not the best
+sidestepping attack in the game, the Tooth Fairy(SS+2). It's very quick and
+is an immediate juggle starter which should allow you to take half of your
+opponents life in one instance. It's a risky move as it is one of his slower
+recovering attacks, however if used correctly the strengths far outweigh the
+weaknesses.
+
+Another one of Jin's strengths is his ability to crouch dash and initiate
+quite a few different moves from it. This keeps the opponent guessing as to
+what move you will perform thus giving you a greater chance of getting
+through their guard. Some of his moves also use the f,f motion which allows
+him to use the dash buffer technique, which is explained later in this guide,
+giving those moves greater range.
+
+And last but not least Jin has a semi unique ability to add delay to a few
+of his moves. Other characters have this ability too, but Jin's delayed
+moves are some of his most powerful ones making it a dangerous combination.
+His stun punch string(b,f+2,1,[2_d+2]) is quite arguably his best attack due
+to it's high damage, ability to juggle, it double over stuns on a major
+counter and to top it off it's delay-able. This is the heart of Jin's attack
+style and everything should revolve around it. Not to say it should be
+abused as it could obviously get you in trouble, however its strengths far
+outweigh its weaknesses and besides there is a way around those that I will
+explain later on.
+
+Now on to the weaknesses. Jin has a few flaws, usually in the form of an
+absence of a certain attack or special move. The number 1 thing on that list
+is the fact that he doesn't have a low parry. For those who don't
+rely on them with your other characters you may not understand what you are
+missing without it. A low parry gives your character the ability to
+cancel any low attack immediately thus stopping it or the string in which
+the move was in. This means Jin has to block all low attacks unless he can
+interrupt them before hand which is risky indeed. For instance if another
+Jin does the hopping kicks(u/f+4,4,4,4) and you are Jin you basically have
+to block the 2 sweeps as their isn't nearly enough time to interrupt them
+once they are started. However characters with low parries can stop the
+string on the 2nd or 3rd hit and a few can even unleash nasty combos.
+That is just a small example but the low parry is a definite ace in the whole
+type move and Jin is unfortunately without it.
+
+His other main weakness is the lack of a quick juggle starter. While he has
+some of the best uppercuts around, they all take time to initiate so they
+aren't good for punishing after a blocked attack. He does have the can-can
+kicks(d+3+4) which are fairly quick to initiate, but their lack of any range
+whatsoever takes away from the speed of execution factor. He just doesn't
+have any moves to juggle in an instant like a d/f+2, u/f+4, etc...
+
+Other than those he really doesn't have many weaknesses. I think his main
+weakness is the fact that he takes a bit longer to learn than the average
+character. He seems a very straight forward character, but to play him to
+his fullest degree takes a lot of time and practice, whereas characters like
+Law and Paul can be learned rather quickly and don't require as much skill
+to play. Don't get me wrong, you CAN play those characters with high levels
+of strategy, my only point is that you can reach that level much faster with
+them than you can with Jin. Let's face it, you put a mediocre Paul against a
+mediocre Jin and 9 times out of 10 the Paul will win because of his ease of
+use. I'll probably take flak from Paul players for this, but regardless what
+anyone says he is a very easy character to play due to his simple joystick
+commands, low risk attacks and high damage.
+
+
+|Basic Play Style|
+
+Now that we know a bit about Jin's strengths and weaknesses we can discuss a
+bit about his basic play style. Obviously as with any character you are the
+one who decides how to play them. I don't think there is a right or wrong
+answer, however I do believe that characters have attributes which make them
+better at certain play styles. Jin happens to be excellent at keeping the
+character on the defensive by a steady flurry of offensive attacks. He can
+also be played defensively as well but my theory is that the offensive
+character has the advantage in Tekken 3 due to the chickens and low
+recovery time after certain moves. In Tekken 2 the defensive character was
+stronger because reversals and special throws were final so you could
+constantly key upon mistakes made by the offensive player. It just doesn't
+work that way in Tekken 3 anymore because Namco wanted to keep players from
+sitting back and turtling which was so popular in Tekken 2. This is evident
+in the fact that back dashing has a no guard recovery time. Meaning
+characters who always try to tap back to stay away from the attacker are at
+a high risk of attack after dashing. Many people complained though I think
+it's great because it makes people fight up close face to face where the
+true skilled player will win. Not the one who back dashes out of danger the
+most.
+
+To be an excellent Jin player you need to be able to adjust and play both
+ways. If you take control of the match early on you should stay offensive.
+Never let up when you are ahead or you risk losing that momentum. However if
+you are low on energy and or behind you should definitely understand how to
+play defensively. When you are offensive you are obviously going to take
+some damage from the opponent so if you are low on energy you are taking a
+risk. Playing defensively could theoretically keep you out of harms way if
+you do it right, but again defense has weaknesses in Tekken 3 so the player
+can capitalize on them.
+
+
+************
+*Jin Basics*
+************
+
+|Jin is not Kazuya|
+
+If you are a returning Tekken 2 player their is one thing you should realize
+before playing Jin. He is not Kazuya so don't try to play him that way.
+There are many differences, most which I won't discuss as it's not the focus
+of this guide. The main thing you need to know is that you cannot rely on
+the Wind God Fist(f,N,d,d/f+2) like you could with Kazuya. That was arguably
+the best move in Tekken 2 because of its  awesome recovery time which made
+it low risk, and the fact that it hit mid level meaning you couldn't duck it
+and could only block, interrupt or reverse it somehow. Kazuya players could
+abuse that move without worry and the payoffs were high when it hit.
+Unfortunately Jin doesn't share this advantage with his father and instead
+his Wind God Fist hits high. This fact alone greatly diminishes its
+usefulness in battle. Not only can you duck it but if it happens to hit as a
+major counter it knocks the opponent away taking the ability to juggle
+afterwards with it. Not to say that it is completely worthless now, only you
+can't rely on it like Kazuya could so you must drastically change your play
+style. You probably won't even need me to tell you that as anyone attempting
+to play Jin like Kazuya will learn the hard way rather quickly.
+
+Jin still has a lot of Kazuya's strengths and also some obvious new ones
+Kazuya never had. The moves he gained from his mother come in quite handy as
+do the ones unique to him. All in all the main things he is missing from
+Kazuya is a proper Wind Godfist, the rising stun punch, the twin pistons and
+the ability to buffer the crouch dash from a sidestep. This may not seem
+like much but to any Kazuya die hards will know that those attacks were the
+heart of Kazuya's effectiveness. When playing Jin for the first time just
+remember to keep an open mind. He has his own play style and it just has to
+be learned with time.
+
+
+|The art of the crouch dash|
+
+Before we can really get down to gameplay tactics you must learn how to
+effectively crouch dash. For those not familiar with that term, it's
+basically a move in itself performed by the (f,N,d,d/f) motion. When done
+with no button inputs Jin will quickly crouch and rush forward a bit. From
+this motion you can perform 3 of his major attacks. The Wind God Fist, the
+Hell Sweep and the Thunder God Fist. The beauty of this move which some
+people don't realize is that you can initiate any of these moves at any time
+during the crouch dash animation. That means you can perform any of those
+moves at the beginning of the animation so he won't dash at all , or you can
+wait till the end of the animation where he can gain distance and duck
+underneath an opponents high attack. You can also choose to perform the move
+anywhere between the beginning and end or choose to not attack at all.
+Needless to say the crouch dash is a very important part of Jin's arsenal
+and must be learned immediately. The only problem is that it's one of the
+most difficult motion to master in Tekken 3, only second to Law's Dragon
+Slide or Kuma's roll. The difference however is that you use Jin's all the
+time so it must be perfected. The motion itself is basically a dragon punch
+from Street Fighter, but it is requires more direct and precise joystick
+movements. You can basically rub out a dragon punch in Street Fighter fairly
+easy but in Tekken its quite different and takes some practice. And since
+the crouch dash is a dash type move you must learn how to stay in it longer
+instead of the immediacy of a dragon punch. With time it can become as
+natural as a fireball motion but it takes a bit of practice and until you
+get it down your Jin will suffer.
+
+Not to jump too far ahead, but there are quite a few tricks that can be done
+with the crouch dash that will be explained later on. These will strengthen
+your Jin greatly so again learning this motion is an absolute must.
+
+
+|The art of the dash buffer|
+
+The dash buffer is a trick, not necessarily exclusive to Jin, that you must
+learn and incorporate into your arsenal. It's basically the act of tacking
+on a special move to the end of a dash whether it be backwards or forwards.
+For the most part you will be doing forwards buffers but there are a few
+backwards ones you will learn. The dash buffer is quite easy to do, it only
+requires a move that uses a f,f or b,b motion, or in some cases only b or f.
+For the sake of Jin you will learn it with moves that begin with f,f or b.
+Jin has 3 moves that require the f,f motion. The stomach rush(f,f+2), the
+left ax kick(f,f+3) and the Stonehead throw(f,f+1+2). Each of these can be
+performed immediately without moving forward by quickly tapping f,f then the
+buttons however you can delay the button tap after the f,f motion for a few
+frames which will gain you some distance. Some of you may by doing this now
+without realizing its anything special though it is. There are uses for both
+ways of performing those moves. Without the dash buffer technique you can
+perform the moves instantly, while using the buffer will gain you distance
+and a delay time if you want. For instance if a character misses an attack
+you can quickly tap f,f+2 to nail them with an immediate Stomach Rush. On
+the other hand if you were to block a slow recovery type move like a death
+fist or something similar a simple f,f+2 wouldn't have enough range to hit
+the attacker. Using the dash buffer technique would allow you to dash
+forward a bit and then release the Stomach Rush. The time to perform it will
+lag a bit but it will at least let you answer your opponents long distance
+attack, and it might even hit if they don't expect it.
+
+The back dash buffer is not quite as useful, for Jin at least, but it's good
+to know it's there. This will work with b,b style moves, in which Jin
+doesn't have any, or b moves in which Jin has a few. Most noticeably the
+Stun Punch combo(b,f+2...), his unblockables(b_B+1+4), his
+reversal(b+[1+3_2+4]) and his electric guard(b+1+2). You use it the same way
+as the forward dash buffer and you can do things like back dash into an
+immediate Stun Punch rush which can and does come in handy from time to
+time. The motion for this would be (b,b(hold back),f+2,1... You are
+basically using the second tap of the b,b motion as the first tap for you
+b,f+2 motion which in a sense is like killing 2 birds with one stone and
+that is what buffering attacks is all about.
+
+
+*****************
+*Special Attacks*
+*****************
+
+|Throws|
+
+
+Throw Name                Type          Command         Damage          Escape
+----------                ----          -------         ------          ------
+
+Bitch Kicks               (f)           1+3             10,20           1
+Flip Toss                 (f)           2+4             5,8,17          2
+Stonehead                 (f)           f,f+1+2         33              1+2
+Striking Shiho Rage       (f)           d/f+2+3         38              2
+Arm Flip Toss             (f)           QCB+1+3         35              1
+Run Around                (rs)          [1+3_2+4]       40              2
+Arm Break                 (ls)          [1+3_2+4]       12,19           1
+Mop the Floor             (bk)          [1+3_2+4]       60              -
+
+
+|Special Moves|
+
+
+Move Name                       Command         Level           Damage
+---------                       -------         -----           ------
+
+1-2 Jabs                        1,2             hh              6,10
+1-2 Jabs, Knee                  1,2,4           hhm             6,10,12
+Devil Fists                     1,2,2           hhh             6,10,18
+Shining Fists                   1,1,2           hhm             6,8,18
+Standing Uppercut               WS+2            m               18
+Twin Pistons                    WS+1,2          mm              10,15
+Right Uppercut                  d/f+2           m               12
+Twin Lancers                    d/f+1,2         mm              10,16
+Overhead Shot                   f+2             m               18
+Tooth Fairy                     SS+2            m               16
+Wind God Fist                   f,N,d,d/f+2     h               25
+Electric Wind God Fist          f,N,d,D/F+2     h               30
+Thunder God Fist                f,N,d,d/f+1     h               35{52}
+ = Side Kick                     = 3            m               20
+ = Hell Sweep                    = 4            L               12
+Stomach Rush                    f,f+2           m               27
+Stun Punch Combo                b,f+2,1         mm              18,14
+ = Stomach Rush                  = 2            m               24
+ = Uppercut                      = d+2          m               15
+Spinning God Fist               b+1+4           !               40
+Super Spinning God              B+1+4           !               80
+Fist
+Super Hop Kick                  U/F,4           m               32
+Hopping Stun Kick               U/F,3           m               25
+Shoot the Works                 1,2,3           hhm             6,10,25
+ = Ax Kick                       = 4            m               30
+ = Rising Kick                   = f+4          m               10
+White Heron Combo               1+4,2           mhh             5,10,10
+ = Arching Roundhouse            = 4            m               21
+ = Sweep                         = d+4          L               14
+Knee                            f+4             m               12
+Double Ax Kick                  d/f+4,4         mm              10,16
+Rising Double Ax Kick           WS+4,4          mm              13,21
+Left Ax Kick                    f,f+3           m               23
+Hell Sweep                      f,N,d,D/F+4     Lm              15(18)
+ = Roundhouse                    = 4            m               15
+Hopping Kicks                   u/f+4,4,4,4     hLLm            25,15,12,25
+Arching Roundhouse              4               h               30
+Arching Left                    f+3             h               35
+Roundhouse
+Running Side Kick               WR+3            m               30
+Can-Can Kicks                   d+3+4           mm              5,20
+Hop Back Kick                   u/b+4           m               ?
+Crushing Kick                   4~3             M               25
+Corpse Splitter                 [u/b_u_u/f]+2+4 M               ?
+Electric Guard                  B+1+2           -               -
+Reversal                        [b+1+3_b+2+4]   -               -
+Ultimate Tackle                 [d_d/b]+1+2     -               5
+ = Arm Bar                       = 1+2          -               25
+ = Mounted Punches               = 2,1,2,1,2    -               5,5,5,5,5
+ = Punches to Arm bar            = 2,1,2,1+2    -               5,5,5,25
+
+
+
+|Strings|
+
+Com:    - Command
+Lev:    - Level
+Dam:    - Damage
+
+
+Com: b+2     4       2       1       2
+Lev: h       h       m       m       m
+Dam: 12      10      ?       ?       ?
+
+
+Com: b+2     4       4       4       4       2       1+4     2       1       3
+Lev: h       h       h       L       m       m       l,h     h       m       m
+Dam: 12      10      10      8       6       6       5,5     5       21      ?
+
+Com: b+2     4       4       4       4       2       1+4     2       1       4
+Lev: h       h       h       L       m       m       l,h     h       m       L
+Dam: 12      10      10      8       6       6       5,5     5       21      ?
+
+Com: b+2     4       4       4       4       2       1+4     2       3+4
+Lev: h       h       h       L       m       m       l,h     h       l,h
+Dam: 12      10      10      8       6       6       5,5     5       21
+
+Com: 3       2       4       3       1+4     2       2       1       2
+Lev: h       h       m       h       l,h     h       m       m       m
+Dam: 25      6       10      10      7,5     7       10      15      30
+
+Com: 3       2       4       3       1+4     2       1       3
+Lev: h       h       m       h       l,h     h       m       m
+Dam: 25      6       10      10      7,5     7       21      ?
+
+Com: 3       2       4       3       1+4     2       1       4
+Lev: h       h       m       h       l,h     h       m       L
+Dam: 25      6       10      10      7,5     7       21      ?
+
+Com: f,F+2   1       2       2       3       4       4       1       2       1
+Lev: h       h       h       h       m       m       l       h       m       m
+Dam: 7       8       6       7       6       11      5       5       8      30
+
+Com: f,F+2   1       2       2       3       4       4       3       2       1
+Lev: h       h       h       h       m       m       l       L       m       !
+Dam: 7       8       6       7       6       11      5       5       25     30
+
+Com: f,F+2   1       4       4       2       4       3       2       1
+Lev: h       h       m       m       l       m       L       m       !
+Dam: 7       8       6       7       6       11      5       5       25
+
+
+***************************
+*Special Move Descriptions*
+***************************
+
+This section will give a brief description of each move and cover its
+strengths and weaknesses. The moves' overall usefulness will be rated by a
+number of *'s from 1 to 5, 5 of which being the most useful. Each move will
+also have information on special attributes such as stuns, juggles, etc...
+
+The attributes key is as follows:
+
+GS      - Guard stun
+S       - Double over stun
+J       - Juggles
+TR      - No tech roll
+D       - Delay-able
+DB      - Dash buffer-able
+R       - Sends opponent rolling away
+UB      - Unblockable
+[  ]    - Denotes attribute only works on CH
+
+
+|Throws|
+
+Name                            Command         Escape          Usefulness
+----                            -------         ------          ----------
+Bitch Kicks                     1+3             1               ***
+
+These is the old Kazuya favorite all the way back from Tekken 1. It is only
+a standard throw so it can be broken easily. However since it is simple to
+perform requiring no joystick movements it is quick to initiate and can
+throw your opponent off guard. You are also guaranteed a d/f+4 after this
+throw(detailed instructions in the tricks section) which makes it another
+plus.
+
+
+Name                            Command         Escape          Usefulness
+----                            -------         ------          ----------
+Over the shoulder toss          2+4             2               **
+
+Jin's other standard throw. Not quite as entertaining as the Bitch Kicks,
+and it also doesn't have a guaranteed ground hit afterwards so overall
+damage is less.
+
+
+Name                            Command         Escape          Usefulness
+----                            -------         ------          ----------
+Stonehead                       f,f+1+2         1+2             *****
+
+
+This is without argue Jin's most useful throw. For one thing it can be dash
+buffered making it a long distance throw. Second of all it's the most
+difficult to escape because it requires the person to use 2 buttons instead
+of just 1. To top it off it also allows you to get a free d/f+4 kick in
+afterwards just like the Bitch Kicks, and it's much easier to time as well.
+The only negative thing about this throw is that it requires a joystick
+motion so it takes a little bit longer to initiate.
+
+Name                            Command         Escape          Usefulness
+----                            -------         ------          ----------
+Striking Shiho Rage             d/f+2+3         2               ***
+
+
+Jin learned this throw from his mother and is arguably his best looking one.
+Even though it is a special throw it only requires one button to escape so
+it's hard to give it a high usefulness rank. The d/f+2+3 command itself can
+be initiated almost as fast as a regular throw but when you are a ways from
+your opponent it is not a good choice. You can theoretically dash forward
+and initiate it, but the f,f,d/f+2+3 motion is quite a bit more difficult
+and you gain nothing in return. Since the escape is the same, anytime you
+require a dash to close the distance you should use the Stonehead. This
+throw also doesn't have any guaranteed extra hits afterwards.
+
+One bonus is that you can get a guaranteed Hell Sweep in after this throw
+which makes its overall damage the highest of all the throws. Keep this in
+mind when you are going for the kill.
+
+
+Name                            Command         Escape          Usefulness
+----                            -------         ------          ----------
+Twisting Wrist Toss             QCB+1+3         2               ***
+
+
+This move gets the same basic rating as the previous one. It is escaped in
+the same manner and is performed at around the same difficulty level. The
+only reason to mix up these throws is for variety or in personal preference
+to one of the commands.
+
+
+|Special Moves|
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+1-2 Jabs                        1,2             ****
+
+The 1-2 jabs are really just a part of other strings however I am
+considering them their own move because they are very useful by themselves.
+These are great for setting up special moves in juggles. For instance if you
+knock someone in the air with a SS+2, most special moves aren't quick enough
+to hit the opponent before they land. However the jabs are very quick and
+will keep your opponent in the air long enough to connect with a special
+move.
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+1-2 Jabs, Knee                  1,2,4           ***
+
+This is just another extension of the 1-2 jabs that ends with a quick knee.
+This can be used in the same manner of the 1-2 jabs, only it requires a
+little better timing. It is also useful on the ground because these 3 hits
+come out in rapid succession. It is good for pummeling your opponent back
+and keeping them away because the knee knocks them back.
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+Devil Fists                     1,2,2           ***               D
+
+Another classic Mishima combo. Very quick and powerful, however since the
+combo doesn't knock you down it's a bit risky. It also isn't guaranteed to
+hit even if the first 2 jabs hit so finishing it is also very risky. The
+recovery time is slow so and the whole combo can be ducked so missing either
+way will get you into serious trouble. Still good for using at the end of
+juggle combos though.
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+Shining Fists                   1,1,2           *****             D
+
+This is without a doubt Jin's most useful combo. It is extremely fast and if
+the first jab connects then the rest is guaranteed. The last punch also hits
+mid level so you can't duck the whole thing. But most importantly this move
+has a delay factor so you don't have to buffer all punches ahead of time
+before knowing if it is going to hit or not. This delay will be explained
+later on in the guide, but for now just realize that you are given time to
+decide to finish the combo or not after you tap the first 2 buttons. This is
+part of what makes this combo so powerful.
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+Twin Pistons                    WS+1,2          **                J
+
+The Twin Pistons are another move borrowed from his father, however Jin's
+version is much weaker. Number 1 you can only initiate them while standing
+from a crouch so there aren't many time when you'll get a chance to use
+them. Even when you do get a chance they won't do much good unless they
+major counter the opponent. Unlike his father's version these aren't
+guaranteed to both hit if the first punch does. They first punch can connect
+and the opponent can still block the second. Since only the second one
+juggles this usefulness of this move is not very good. It is best used to
+throw in some variety but is not an integral part of his arsenal.
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+Uppercut                        WS+2            *****             J
+
+Without a doubt Jin's most useful juggle move. Since it is initiated while
+standing from a crouch it is great for punishing opponents after ducking a
+high attack or attempted throw. It also hits mid level so if they try to
+duck it, it will still hit. The move knocks them very high into the air,
+even high on a major counter. It is the only juggle starter thus far that
+allows you to connect with a Thunder God Fist before they land. It is such a
+great juggle because you gain immediate control over Jin the instant the
+animation is over. There is absolutely no lag time which is what allows Jin
+to perform some very large combos. With this move it is easy to see why the
+Twin Pistons should not be used when instead you could connect with this.
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+Twin Lancers                    d/f+1,2         *****
+
+Another one of Jin's key moves. While the move itself has no special
+properties like the ability to juggle or stun the opponent, it is
+nonetheless very useful. You should think of it as a catalyst to his other
+moves. The recovery time after this move is incredible. It also moves you
+closer to your opponent so coupled with its recovery time it's quite
+dangerous indeed. I've already mentioned Jin's ability to perform a heavy
+barrage of attacks on the opponent and this is one of the moves involved in
+that ability. It can be used to end juggles as well however it's best suited
+for close combat.
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+Overhead Smash                  f+2             ***
+
+This move is the same as the second hit of the previous combo. Used by
+itself it's not quite as useful, though it still holds some value. It hits
+mid level and comes down in an arch so its great for punishing ducking
+opponents. It can also be used to end juggles that knock the opponent out of
+reach.
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+Tooth Fairy                     SS+2            *****             J
+
+Another one of Jin's key juggle starters. This one is special because it can
+be initiated from a sidestep and it only requires 1 button to perform so you
+should never miss the move because of a failed command. It's great for
+sidestepping an opponents attack and then knocking them into the air for a
+juggle combo. The recovery time for this move is a bit slow so you must be
+careful not to miss your opponent or perform it when they can block. Used
+correctly however this move can be your enemies worst nightmare.
+
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+Wind God Fist                   f,N,d,d/f+2     ***               J
+
+One of his father's best moves, though Jin's watered down version doesn't
+even compare. It has 2 major weaknesses that bring its usefulness down to
+only 3 *'s. First of all it hits high now so it can be very easily ducked so
+be prepared to be punished for even trying it. Second if it hits as a major
+counter it will knock the opponent far away so you can't juggle them. This
+means the only way to juggle is to NOT major counter with it. That is one of
+the most unique special properties in the game. All is not lost however as
+it is still very useful in certain situations(which will be explained
+later), you just can't abuse this move or you'll find yourself on the ground
+quite a bit.
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+Electric Wind God Fist          f,N,d,d,D/F+2   *****             J
+
+You're probably thinking "what in the hell is an Electric Wind God Fist?".
+Well the term "Super Wind God Fist"  was actually used in Tekken 2 and I
+believe Namco actually decided to make it a reality in Tekken 3 though it gaine
+d
+a new name. In Tekken 2 it was basically just a name for performing a Wind God
+Fist so early in the crouch dash animation that it seemed as if he never
+actually dashed. While it had no special properties it was very useful in
+combos and for also surprising your opponent in close quarters. In Tekken 3
+Namco decided to make this phenomenon actually perform a different variation
+of the Wind God Fist, thus we have the Electric Wind God Fist.
+
+This version is quite hard to perform consistently as it takes excellent
+timing of the joystick and punch button. You must actually tap right punch the
+instant the joystick arrives in the D/F position and continue to hold it
+there. That isn't too hard but it also must be performed so quickly that you
+can't see him dash. You'll know when you do it because lightning surrounds
+Jin's arm even if it doesn't connect with the opponent.
+
+So what are the advantages of this move? If it's blocked it will block stun
+your opponent and send them back and they will have no chance for responding
+to it. Unlike the normal Wind God Fist it's a guaranteed juggle regardless if
+it counter hits or not as well as does more damage than a regular Wind God
+Fist. And if that's not enough it also has better juggling capabilities as it
+doesn't knock you quite as far away and it gives you a bit more hang time
+which allows for a few more juggle options with the extra time. It goes
+without saying that under most circumstances you should attempt this variety
+of the move. Unless of course you are going for distance or delay, but in most
+situations especially in juggles it is the clear winner.
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+Thunder God Fist,               f,N,d,d/f+1[3_4]***
+[Hell Sweep _Side Kick]
+
+Just as with the Wind God Fist, the Thunder God Fist now hits high as well
+so even it can be ducked. The hit mechanics themselves though are still
+quite strange because even though it hits high it can duck underneath a jab
+if properly timed. The 2 kicks that are available afterwards help it out
+some but they can be easily interrupted before they can be performed. The
+best use for the Thunder God Fist is either used in juggles where it can't
+be blocked or ducked, or also performed sparingly for sheer variety. The
+damage is so great with this move that it's worth the risk once in awhile.
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+Stomach Rush                    f,f+2           *****             [R],DB
+
+This is the ultimate long distance attack. It has the same properties as
+Paul's Death Fist, but comes in a smaller package. Since it used the f,f
+command it can be dash buffered for greater range. This should be one of the
+most used moves in Jin's arsenal. There really is nothing bad about this
+move at all. The only negative I can see is that it telegraphs itself a
+little bit so people will have a better chance of reversing it. However if
+you simply buffer a chicken with it every time you perform it(I'll
+explain later) the risk is nil. Only Law, Ling and Lei have anything to stop
+it that you can't do anything about and they'd be risking and Ling and Lei
+would be risking a hell of a lot to even think of attempting it. Great for
+punishing slow recovery attacks, whiffed attacks or just used at the end of
+juggles, this is one move you will use a lot.
+
+
+Name                            Command         Usefulness        Properties
+----                            -------         ----------        ----------
+Stun Punch Combo                b,f+2,1,[2_d+2] *****             J,[S],D
+
+If the Stomach Rush is one of the best punch attacks then this is the
+ultimate. If your Jin style doesn't revolve around this combo in some way,
+shape or form then you are severely limiting Jin's power. This is possibly
+the best string attack in the game as it has awesome special properties. It
+can end in 2 different ways, one of which juggles the opponent and the other
+which sends them flying like the Stomach Rush. It can be initiated almost
+instantaneously and if it counter hits it will double over stun the
+opponent. Better yet, if you happen to stun the opponent you are set up for
+an 80%+ combo that makes your opponents life bar extinct in short order. And
+if all that wasn't enough the move is delay-able which makes it very hard to
+reverse. If you mix up your timing then your opponent will have to guess as
+to when to attempt a reversal. The problem for them is if they miss-time
+their attempt it could mean severe punishment. Even if they do time the
+reversal correctly you can buffer a chicken just like with the
+Stomach Rush which makes your opponents life a living hell. There will be
+much discussion on this move later on in the guide.
+
+If the first hit of this string hits as a CH then the opponent will be stunned
+with no chance for escape. If you do the fist to parts(b,f+2,1) and they CH
+then the opponent will still be stunned but they can escape by simply tapping
+the controller forward and they will safely be able to block any follow up
+even if you fully completed the string. The only choice for a guaranteed combo
+is to stop after the b,f+2 and then attempt to combo. However you have much
+less time to juggle after b,f+2 than you do after b,f+2,1. That is the cost
+of it being guaranteed.
+
+It used to be thought that the only guaranteed follow up for a juggle after
+b,f+2 on a stun was the can-can kicks(d+3+4). However it has been recently
+found that you can also follow up with a WGF or EWGF if timed perfectly. This
+will knock the opponent up in the air just like normal and allow you to do
+the most powerful, and most difficult, Jin combos in the game.
+
+Also be aware that the last punch of this combo, whichever one you choose to
+end it with, can be sidestepped 100% of the time by your opponent. This means
+you must be very careful on choosing when you want to end it. If you attempt
+to finish the combo and they sidestep it you are wide open and in a bad
+position. If you fight an opponent who seems to sidestep after the second hit
+a lot then you can set him up. A throw works well for those sidestepping
+freaks because a it will automatically orientate you in the direction of
+your opponent. If you attempt to do a move while they are on the side of you
+it will most likely be aimed forward which makes your position even worse.
+The throw might get broken but at least you will be in a better position than
+with your side to the opponent.
+
+
+Name                            Command         Usefulness       Properties
+----                            -------         ----------       ----------
+Spinning God Fist               b+1+4           **               UB
+
+This is one of Jin's 2 unblockable attacks. It is basically a smaller
+version of his Super Spinning God Fist that does half damage. Although most
+unblockable attacks in Tekken 3 are quite slow, this one is fairly quick to
+initiate. It also hits mid level and causes Jin to move forward so your
+opponent will have no choice but to interrupt it or reverse it somehow.
+
+
+Name                            Command         Usefulness       Properties
+----                            -------         ----------       ----------
+Super Spinning God Fist         B+1+4           *                UB
+
+This is Jin's most powerful single move however it is also the slowest to
+initiate. Even though it hits mid level and carries him forward it is very
+easy to see coming and makes it almost worthless. He spins in 2 complete
+circles before unleashing it giving the opponent plenty of time to do
+something. If they interrupt you with a ducking jab it will even pop you up
+in the air allowing them to pull off a small juggle combo which is not a
+good thing. I recommend sticking with the smaller version of this move if
+you must use an unblockable.
+
+
+Name                            Command         Usefulness       Properties
+----                            -------         ----------       ----------
+Shoot the Works                 1,2,3,[4_f+4]   ***              GS,J
+
+This string is one of Jin's exclusive moves that wasn't borrowed form either
+parent. It's a bit slow but has some good properties. First of all the third
+move, which is the ax kick, will block stun the opponent which gives you the
+initiative for another attack. The last kick can be mixed up between a right
+ax kick and a rising mid kick. If you are at extremely close range the
+rising mid kick can't be blocked after the ax kick stuns them. And to add
+another twist, if the third hit connects you can actually start a juggle
+from it. Keep in mind however that the time between the second jab and the
+first kick is a bit slow so the opponent will have time to interrupt if they
+so choose to do. It also opens up an opportunity for reversal, but again you
+can be prepared by buffering a chicken. Last but not least you can
+use this move for the end of a juggle combo, but with other powerful enders
+like the Stun Punch Combo there is no need to.
+
+
+Name                            Command         Usefulness       Properties
+----                            -------         ----------       ----------
+White Heron Combo               1+4,2,[4_d+4]   ****             J,TR
+
+One of his mother's old combos, the White Heron is a valuable addition to
+his arsenal indeed. While using it on the ground is fairly useful, its real
+strength is its use in juggle combos. Since the move starts out very low to
+the ground it is great for starting juggles out of strange scenarios like
+after a Left Ax Kick or Hell Sweep. It is also one of the few moves that
+will juggle well after his can-can kicks. On the ground it can be quite
+useful because the last kick can be ending either high or low. This makes
+the opponent have to make a choice in order to block it correctly. If they
+block high and you go low you will knock them off of their feet and are able
+to perform a juggle combo immediately after. If they block low and you end
+it high it will simply knock them down, though it does good damage. The only
+negative about the move is that the second and third hits are both high so
+an alert opponent can duck quickly and interrupt you before you get to the
+final attack. On the other hand it can be used quite well in Okizeme
+situations so there really isn't much bad to say about this combo.
+
+
+Name                            Command         Usefulness       Properties
+----                            -------         ----------       ----------
+Knee                            f+4             ***
+        
+To some this move seems completely worthless however in reality it is quite
+useful. The knee itself has no special properties whatsoever and does
+minimal damage. Even with that against it, it still holds some value so long
+as you understand its purpose. The knee is one of the few mid attacks that
+cannot be reversed so you can abuse it, but more importantly it knocks your
+opponent back out of your face to give you breathing room. It is initiated
+so quickly and has so much priority that anytime you feel too close for
+comfort with your opponent you can simply bring out the knee and back them
+away. Since I've already mentioned the dangers of back dashing a lot you can
+see how this move would be of benefit. If you want to be away from your
+opponent why not push them back instead of you.
+
+
+Name                            Command         Usefulness       Properties
+----                            -------         ----------       ----------
+Double Ax Kick                  d/f+4,4 or      *****
+                                WS+4,4
+        
+While the Stun Punch Combo is the king of the punch attacks, the Double Ax
+Kick reigns supreme over kick attacks. This simple move has so much going
+for it that if you don't exploit its full possibilities in your arsenal then
+you are limiting your Jin's potential. There are a lot of features to cover
+but since I feel this move is so important I will try to cover them all.
+
+First and foremost this move can be initiated 3 different ways. The easiest
+is the d/f+4,4 methods because you can do it from a standing position. The
+next method is simply WS+4,4 which is nice because you can duck  under
+attacks and punish an opponent with it while you stand up. Finally, an
+excellent method but somewhat unknown is to use it at the end of a crouch
+dash. This is not shown in the move list because it's not an *official*
+move. You are basically doing a crouch dash then performing the WS+4,4
+method at the end. This however is one very smooth and fast motion that
+looks as if it was meant to be used in this manner. The exact motion for
+this method is f,N,d,d,f,N+4,4. It follows the same rules as any crouch dash
+style attack therefore you can pull out the Double Ax Kick at any point
+during the dash. This variety is great for ending large combos that knock
+your opponent a good distance away. The WS+4,4 methods also take a small
+amount more damage than the d/f+4,4 way so if you have a choice between the
+2 opt for the more damaging version.
+
+Since the Double Ax Kick hits twice, it's pretty obvious that you may only
+choose to use one of those hits. To do this simply use d/f+4 or WS+4. This
+has great advantages because the first hit of the ax kick has the unique
+ability of pulling opponents off of the ground if they so much as to flinch.
+It's considered a mid level hit but because it hits while his leg is on the
+way up it tends to connect very low to the ground. His recovery after the
+first kick by itself is very fast so you can use it in small custom strings
+which I will explain a bit later.
+
+The move is insanely fast, does good damage and has awesome range. Jin
+actually slides forward on his left foot while the first leg is coming up so
+doing it from a standstill will move you forward a bit. If the opponent
+blocks both hits you will still slide toward them but it will knock them
+away so there is a good chance even after they block it that they won't be
+able to retaliate. The recovery isn't as fast as the single ax kick, however
+it is still quite fast compared with other kick attacks. It has great
+priority over other characters moves and since it covers most of Jin's
+frontal area it can interrupt most attacks regardless of their height. It
+eats low attacks for dinner along with mid and high ones. If you are looking
+for the safest move to start the round off with then this might just be it.
+It can obviously be reversed, but the speed of its execution is so great
+that most people won't be able to grab it on reflex alone. They would almost
+have to completely guess it was coming and take a chance on trying to
+reverse it.
+
+Quite simply put, this should be one of your most used moves next to the
+Stun Punch Combo. It's high strengths and low weaknesses allow you to abuse
+it without too much worrying of being punished. Specific uses will be
+mentioned in the strategy section of this guide.
+
+
+Name                            Command         Usefulness       Properties
+----                            -------         ----------       ----------
+Left Ax Kick                    f,f+3           ***              DB,J,TR
+
+Another move learned from his father the Left Ax Kick is quite a powerful
+attack. If it connects at close range you can even start juggle combos from
+it. Like other f,f style attacks it can be easily dash buffered to get more
+range in which it needs. With all these pluses you'd think it would be quite
+useful however it is actually slow to initiate so it basically telegraphs
+itself giving the opponent time to interrupt, reverse or block. You can
+easily deal with the reversals by buffering a chicken and it has good
+recovery so even if they block you won't be in too much danger. The slow
+wind up is the moves demise as it is very susceptible to interruption. Many
+times I get it interrupted by complete accident which is annoying. I find
+the best use for this move is to perform it with the dash buffer after an
+opponent has whiffed a move or you blocked one of their slow recovering
+attacks. Keep in mind however that there are other better moves more suited
+to that situation so this would only be used for variety or to throw your
+opponent off.
+
+
+Name                            Command         Usefulness       Properties
+----                            -------         ----------       ----------
+Hell Sweep, Roundhouse          f,N,d,D/F+4,4   *****            J,TR
+
+Another one of the Mishima characters bread and butter attacks that you
+simply cannot survive without. Jin's is a bit different from his fathers and
+grandfathers though it seems to have the best of both worlds. It hits twice
+and at different heights so it one ups his fathers version, and if both hits
+are blocked it has great recovery time much like his grandfather. The Hell
+Sweep however is best used as a single sweep instead of following it up with
+the roundhouse. This is simply because you can initiate juggle combos if you
+connect with the sweep only at close range. The opponent can't tech roll if
+they are hit with the sweep therefore you have plenty of time to decide your
+next move. A simple Hell Sweep connecting can end up doing 30% or more of
+your opponents damage because of the combos possible afterwards.
+
+Since this move can be initiated from the crouch dash it can be performed
+with some distance or immediately close to you. It is very quick making it
+hard to block, however if it is and you only do the one sweep you are left
+open for attack. That is why using only the sweep part is riskier that
+following up with the roundhouse, however the benefits far outweigh the
+risks. Even if it is blocked there is a good chance that you will come out
+of it unharmed. You regain control to block in time, only your opponent will
+have the initiative so you have to guess what level of height to block at.
+
+This is probably the most difficult crouch dash attack to perform simply
+because you have to hold D/F when you are in the dash. It takes some
+practice to get a high consistency with it but its imperative that you do. A
+Jin not utilizing this move is severely limited.
+
+
+Name                            Command         Usefulness      Properties
+----                            -------         ----------      ----------
+Hopping Kicks                   u/f+4,4,4,4     ***             J
+
+It's ironic that I considered this one of Kazuya's weakest moves yet it is
+actually quite useful for Jin. Part of the reason is simply because it has a
+tracking ability so it will follow the opponent around. Sometimes even in a
+complete 180! Not only that but if the first hit connects then the third and
+fourth are usually guaranteed to follow. Another reason it is more useful is
+because you can easily buffer a chicken for the last roundhouse and
+be safe, except when fighting against King that is as you can't break his
+reversals as of yet. You'll notice this move has the ability to juggle
+though the opportunity is fairly rare. To juggle from it the opponent has to
+block the first hit and connect with the second. Or block the first and
+second and connect with the third. If you do hit with one of the those you
+can follow it up with any Hell Sweep style juggles as the second and third
+hits are basically Hell Sweeps to begin with. The difficult part is that you
+have to hit the u/f+4,4,4,4 buttons very quickly so you have to decide
+whether or not you are going to finish the combo right away. You
+unfortunately can't wait to see if  the sweeps are going to hit before you
+decide to finish with the rest of the combo.
+
+All in all this is a fairly useful move that does very good damage so if you
+see an opening its a good idea to use it. It works very well against those
+pesky Eddy players who are all over the place so keep that in mind.
+
+
+Name                            Command         Usefulness      Properties
+----                            -------         ----------      ----------
+Arching Roundhouse              [4_B+3]         ***
+
+These powerful roundhouses were learned form his mother. While they don't
+have any special attributes they are quite powerful and will knock your
+opponent down on contact. When Jin performs one of these kicks he slightly
+steps to the side making it an evasive style attack. He performs the exact
+same kick with both legs so the way he side steps is dependent on the leg
+you perform it with. These moves can also be initiated immediately from an
+actual sidestep making them even more evasive. Since they are very quickly
+performed they work well as a guaranteed hit after blocking a slow attack. I
+generally prefer using a quick punch combo after blocking a slow recovering
+attack, however at longer range the punches wouldn't connect so these kicks
+are a great alternative.
+
+
+Name                            Command         Usefulness      Properties
+----                            -------         ----------      ----------
+Can-Can Kicks                   d+3+4           *               J
+
+You should notice immediately that these kicks have the lowest usefulness
+ranking of any move. They were borrowed from his mother however his version
+is extremely watered down. This is the only move that I am aware of that you
+can block both by crouching or standing. Which means that unless you
+actually connect with them while your opponent isn't blocking they have no
+chance to hit. They also have a nasty recovery time so if they get blocked
+you are basically shit out of luck. They also have absolutely no range
+whatsoever so unless you are extremely close to the opponent they would have
+to walk into the kicks to be hit. The fact that no matter where your
+opponent blocks these kicks won't connect coupled with the slow recovery
+time makes these kicks a major danger to Jin. They do juggle if they happen
+to connect, but they don't knock you very high and the only real juggles you
+can perform afterwards involve the White Heron combo. You don't even have
+enough time to get a jab in most of the time so it's one of the few normal
+juggle starters that won't allow you to use the Stun Punch Combo in the
+combo.
+
+Still there is at least one decent use for it. If you block an extremely
+close range and very slow recovering attack they offer an immediate chance
+to juggle your opponent. Still though since they are slow to intiate you
+risk the opponent recovering in time to block putting you in a world of
+hurt.
+
+
+Name                            Command         Usefulness      Properties
+----                            -------         ----------      ----------
+Hop Back Kick                   u/b+4           ***
+
+You're probably wondering what in the hell move this is. Well it's not on
+his official move list however it's a very useful kick that you should know.
+Some of you have never seen it while other may have and not even had a
+second thought about it. The animation similar to that of the u/f+4 hop
+kicks that some characters have(King, Law, Kuma, etc...). Jin however can
+only jump back or do a delayed version while jumping forward. The jumping
+forward delayed version is not very useful as it's slow and has little
+priority. The quick jumping back version however has some good points. It
+initiates immediately and has awesome priority so if you are in danger at
+close range you can whip this move out to safety. It also works if you think
+your opponent is about to attack because it stops them dead in their tracks.
+This is not something that plays a huge roll in Jin's overall strategy, but
+it's something you should be aware of so that you can use it in the right
+situations. I find myself using quite often.
+
+Name                            Command         Usefulness      Properties
+----                            -------         ----------      ----------
+Super Hop Kick                  U/F,4           **
+
+While this move may seem a bit strange it is actually quite usefull in juggles
+but not much outside of that. Since the first few hits of a juggle do the most
+damage and then the damage deteriorates thereafter, our first move after a
+juggle starter is important. The sheer amount of damage that this move does
+makes it perfect for following up a WS+2 or even a WGF.This move does much
+more damage than a simple jab(32 points to be exact) and it can be followed up
+with other moves so it works quite well. It at least gives you the option of
+mixing up your juggles a bit more.
+
+Name                            Command         Usefulness      Properties
+----                            -------         ----------      ----------
+Hopping Stun Kick               U/F,3           *               S
+
+This is a universal kick that a good deal of characters have though its not
+really very useful in higher levels of play. It does have the nice ability to
+stun your opponent even without a CH so it is fairly unique in that respect.
+It can be followed up for pretty hefty damage so that alone makes it useful,
+but it is a bit slow and you probably won't hit it too often against better
+opponents.
+
+Name                            Command         Usefulness      Properties
+----                            -------         ----------      ----------
+Crushing Kick                   4~3             ****            P
+
+Extremely powerful and useful move for hitting grounded opponents. With the
+advent of the tech roll in Tekken 3 ground attacks have been severely
+limited. This attack however has long range, quickness and power on its
+side. It can't be used as a guaranteed last hit for juggle combos like so
+popular in Tekken 2, but here are some situations where it is almost
+guaranteed. It works great on characters like Lei and Eddy who tend to be
+all over the place and on the ground. Since characters can't block when on
+the ground this move is will hit so long as you aim it right. It's a bit
+risky to just use out of nowhere, but you recover in enough time to get a
+shin kick off before most characters can attack.
+
+It's also good for the art of Okizeme in which you are trying to attack a
+fallen opponent. We know it's no longer guaranteed for ending combos, but it
+can still be used against grounded opponents. If the opponent always quick
+rises you can usually keep punishing them with White Heron's or Double Ax
+Kicks as they try to rise. It generally becomes a guessing game as you try
+to out think each other. If you expect a tech roll and decide to attack but
+they don't tech roll they can attack you before you recover from your
+attack animation. It also works the other way around but you can see where
+you'd have a chance of hitting it. If you try attacking right away all the
+time the opponent may get a bit tech roll shy and let you miss your
+attempted  attack. If you suspect that they won't tech roll you can
+immediately do the Crushing Kick and they won't have much of a chance to
+react. Keep in mind this is a game of anticipation and outthinking your
+opponent so nothing is guaranteed. However with a keen eye and overall good
+feel for your opponents actions you can come out ahead most of the time on
+these exchanges.
+
+Name                            Command         Usefulness      Properties
+----                            -------         ----------      ----------
+Ultimate Tackle                 [d_d/b+1+2]     **
+
+The Ultimate Tackle is another move passed down from Kazuya though it
+doesn't seem to be quite as useful in Tekken 3 due to the ease of escaping
+tackles. It is also possible for everyone to escape the mounted punches so
+that makes it even more useless. However there are a few tricks that will be
+explained later that give this move a better chance of successfully
+connecting. And if the opponent fails to escape it you can do upwards of 45
+points of damage utilizing the mounted punches and the arm bar.
+
+
+Name                            Command         Usefulness      Properties
+----                            -------         ----------      ----------
+Corpse Splitter                 [u_u/f+2+4]     *               P
+
+Another one of Jin's seemingly worthless moves and for the most part it is
+except for a few situations. The main one that comes to mind is an escape
+route from a running opponent. If your opponent is running at you full speed
+sometimes even a sidestep won't save you. Next time try performing this move
+as they come at you and they will run right underneath you while you fly
+through the air. Obviously it's a bit risky but it might get you out of
+trouble once or twice.
+
+
+Name                            Command         Usefulness      Properties
+----                            -------         ----------      ----------
+Electric Guard                  B+1+2           **
+
+This move is often labeled as completely worthless but there are a few
+situations that it works quite well. It is mostly a defensive maneuver so it
+should be used accordingly. It will repel any special move including
+Yoshimitsu's Bad Breath and only a throw can actually penetrate it. One of
+the best uses for it is when an opponent is running at you from across the
+screen. If you time it correctly no matter what the opponent does, whether
+it be slide, shoulder bash, side kick, etc..., it will knock them back to
+the ground instantly. This move is a bit delayed so you must initiate it a
+bit earlier than you might think.
+
+It is also possible to combo from this move if you catch an opponent in the
+air at the right time. Again this is very difficult but possible and it does
+come in handly under certain situations like Yoshimitsu's QCF+1, Ling's
+f,f+3+4, King's f+1+4, etc.. Various combos are listed in the combo section.
+
+Name                            Command         Usefulness      Properties
+----                            -------         ----------      ----------
+Reversal                        b+1+3 or b+2+4  *****
+
+This move's usefulness is quite obvious. A reversal is a cherished thing as
+you can catch an opponent unawares and reverse their attack. It got the
+highest usefulness rating however remember that in Tekken 3 you can now
+break reversals. This means that you must be very selective on the times you
+attempt reversals because doing them at obvious times will get them broken.
+Jin's reversal is one of the better ones because it is one of the few that
+catches Yoshimitsu's sword, something that Paul still hasn't learned in all
+of these years. Catching the swords is quite dangerous but satisfying when
+accomplished.
+
+
+|Strings|
+
+Since Jin has many variations of his string attacks I'll focus on the 3
+different varieties and their various change-ups. Personally I don't use ten
+strings that often and don't recommend them in most cases. However you still
+need to know what Jin is capable of and be aware of all his different string
+variations. You might even have to block another Jin's strings once in
+awhile so be prepared.
+
+b+2,4,4,4,4,2,1+4,2,1,3
+b+2,4,4,4,4,2,1+4,2,1,4
+b+2,4,4,4,4,2,1+4,2,3+4
+b+2,4,2,1,2
+
+This is perhaps Jin's most useful set of strings. Once started they are some
+of the most difficult to interrupt. They aren't hard to block but you might
+force the opponent to simply block the whole thing and make them guess which
+variety of enders you will decide to use. They aren't infallible though
+because the first 3 hits are the weak points. The first 2 hits are high so
+they can be blocked and interrupted by an alert opponent. Once he starts
+hopping they are difficult to interrupt but there are still chances for
+reversals or low parries. The most popular reversal point is the 3rd kick so
+be aware and ready to break the reversal.
+
+
+3,2,4,3,1+4,2,2,1,2
+3,2,4,3,1+4,2,1,3
+3,2,4,3,1+4,2,1,4
+
+While I consider these to be the coolest looking Jin strings they are
+unfortunately worthless for the most part. The 4th hit is the killer as it
+hits high and gives the opponent plenty of time to interrupt. Anytime a Jin
+player tries this on me I calmly duck the 4th hit and counter with a WS+2
+and juggle them to infinity. No matter if the first hit of the string is a
+major counter or not you always have the ability to duck the 4th hit. With
+that said I can't give these strings much recommendation except that they do
+more damage and they can add occasional variety to your game.
+
+
+f,f,N+2,1,2,2,3,4,3,2,1
+f,f,N+2,1,2,2,3,4,1,2,1
+f,f,N+2,1,4,4,2,4,3,2,1
+
+Jin borrowed these strings from his father in Tekken 2 and they are exactly
+the same. Like the first set of strings these are difficult to interrupt
+once they get going but the fact that 2 of them start out with 4 high hits
+they are easy to duck and counter. The last string is the most useful of
+this series and is the one I recommend most of the time. Only the first 2
+hits are high and then he goes into an Ax Kick which they can't duck out of.
+
+
+***************
+*Juggle Combos*
+***************
+
+Much like his father before him, Jin is quite the juggler. He actually has
+more options to juggle than his Kazuya only his seem to do less damage. And
+the unfortunate taming of his normal Wind God Fist means you will have fewer
+chances to juggle on a whole. However Jin has other ways to start juggles
+that Kazuya didn't have like his Tooth Fairy and Can Can Kicks. Needless to
+say juggles are an important part of Jin's strategy so learning them is a
+must.
+
+For those that aren't fully comfortable with the Tekken 3 combo system I
+recommend reading the Juggle section of my advanced strategy guide located
+on Tekken Web Project before proceeding. For those of you who 'think' you
+know everything about juggles I still recommend giving that article a
+browse. It might explain something you weren't aware of and either way it
+makes for good reading.
+
+
+|Jin Juggling Basics|
+
+Assuming you have a good grasp of the concepts of juggling we can examine
+the specialties Jin has in this area. Jin has about 10 different moves that
+he can juggle from in some way shape or form which should clue you in on his
+natural ability to juggle. They are:
+
+d/f+2 on CH
+WS+2
+WS+1,2
+SS+2
+f,N,d,[d/f_D/F]+2
+b,f+2,1,d+2
+d+3+4
+f,f+3 on CH
+f,N,d,D/F+4
+1+4,2,d+4
+B+1+2
+
+Each of these moves have some sort of juggling characteristic that can be
+utilized in some way. For now we'll stick to the standard juggles which
+means the punch variety.
+
+Not all juggle starters are created equal and some are far better than
+others. Meaning you can't do the same juggles from every juggle starter.
+Some can only be followed up in one way while others give you the freedom to
+follow up with just about anything you can think of. For instance after his
+Can Can Kicks(d+3+4) just about the only possible follow up is the White
+Heron combo(1+4,2...) while after a WS+2 you can do something as slow as a
+Thunder God Fist or even his Hopping Spin Kicks. Knowing what is possible
+after each of his juggle starters is extremely important. You may only get
+one chance to juggle your opponent during a match and if you botch it up
+because you weren't prepared you might end up losing.
+
+Jin's WS+2 is without a doubt his best juggle starter. It knocks the
+opponent extremely high into the air and more importantly you recover the
+from the animation immediately giving you endless options. In fact it is
+possible to time your attacks too early after this move so be careful. It was
+once thought that this was the only move that would allow Jin to follow up
+with a Thunder God Fist but this is not the case. Regardless, this is the best
+juggle starter than Jin possesses and any time you have a chance to unleash it
+you should take full advantage.
+
+Jin's absolute worst juggle starter is his Can Can Kicks. It is damn near
+impossible to perform anything other that the White Heron combo after this
+move. Even a jab is extremely hard to connect and isn't worth the effort.
+However this a still a useful juggle starter because of it's quick execution.
+Jin doesn't have a juggling hop kick and his standard d/f+2 uppercut only
+juggles on a CH so you're options are limited if you need a quick juggle
+starter. For instance if you block Paul's Falling Leaf Combo(d+4,2) about
+the only guaranteed juggle starter you can use is his Can Can Kicks and
+perhaps his Super Wind God Fist. Since the Can Can Kicks are much more
+reliable they will probably be your move of choice. Other than situations
+like this the Can Can Kicks aren't much useful for anything else. The only
+other situation is after a b,f+2 stun punch which we'll discuss later on.
+
+So you now understand the importance of knowing what is possible after each
+juggle starter we can take a look at the chart below for an idea of what the
+best moves are. Keep in mind that juggle possibilities are endless so I
+can't cover every possible option but I can give you a good start. The
+charts below will let you know what is possible from each starter.
+
+A follow up is simply any move that you use directly after a starter which
+allows at least one more hit to connect afterwards. I consider a juggle to
+have to be 3 or more hits.
+
+
+Juggle starter(s)       Possible follow-ups
+-----------------       -------------------
+WS+2
+d/f+2 on CH
+f,D,d,D/F+2
+f,N,d,d/f+2             f,N,d,d/f+1
+                        U/F,4
+                        4
+                        [everything below]
+
+
+
+Juggle starter(s)       Possible follow-ups
+-----------------       -------------------
+WS+1,2
+SS+2
+b,f+2,1,d+2             f,N,d,D/F+2
+                        b+2,4,....
+                        b,f+2,1,[2_d+2]
+                        1,2,...
+                        [everything below]
+
+
+
+Juggle starter(s)       Possible follow-ups
+-----------------       -------------------
+f,f+3 on CH
+f,N,d,D/F+4
+1+4,2,d+4
+FCD,3                   d/f+4[4] or WS+4[4] for the FCD,3
+                        1+4,2...
+                        d+1
+
+Juggle starter(s)       Possible follow-ups
+-----------------       -------------------
+B+1+2                   [special case combo discussed in combo section]
+
+
+
+From here we can see how most of our juggles will be performed. From the
+WS+2 we can try many different options but the Thunder God Fist is the
+ultimate finisher. Our most common combos will fall into the second bracket
+because those juggle starter will be more common under most match
+situations. Therefore we can see the most common follow-up moves will be
+some sort of jab combo or the Stun Punch Rush. I put a Wind God Fist as a
+possible follow up simply because it works, however most of you won't be
+using it as it does less damage than the much simpler Stomach Rush.
+
+If you've read the juggle section of the advanced strategy guide like I
+suggested then you will understand the importance of your choice of a juggle
+follow up. Since successive hits start taking a damage penalty you have to
+construct your combos carefully. It is not uncommon for a well designed
+combo with fewer hits to do more damage than a poorly constructed combo that
+requires more hits. With that in mind you should strive to perform the most
+damaging follow up possible while still allowing yourself the ability for
+extended juggles. It's a sort of balancing act where you try to weigh
+damaging follow-ups with less damaging ones that allow more successive hits.
+
+The Stun Punch Rush(b,f+2,1,d+2) is probably the best candidate for this
+task as it is fairly damaging while allowing you to get a few successive
+hits in. To follow up this move you have to finish with the d+2 punch
+instead of the regular 2. The d+2 does less damage but knocks the opponent
+high enough to allow for another hit or 2. The regular Stomach Rush ender
+does more damage but it won't allow you to follow up with anything else so
+the decision is up to you. It takes more skill to finish with the d+2 and
+execute more follow-ups so you might want to stick with the regular ender
+until you are up to the task.
+
+
+|Unconventional Juggles|
+
+I mentioned earlier that you could start juggles from strange moves like the
+Hell Sweep and Ax Kick. I like to call these unconventional simply because
+they aren't your average run of the mill juggle starters. While they usually
+aren't as long or damaging as a normal juggle they are in a sense more
+important because you likely to do them more often than regular juggles. For
+instance you are more likely to connect with a Hell Sweep than you are a
+Wind God Fist so being able to squeeze as much damage out of the situation
+is a must.
+
+The reason these moves work as juggle starters is because they knock the
+opponent off their feet close to you without allowing them to do a quick
+rise. That means you have until they lay on the ground to do some sort of
+attack. While you could do something as easy as sweeping them before they
+get up, it is much better to perform a full fledge combo. To do this you
+have to catch them while they are actually in the falling animation which
+will pop them back into the air providing you use the correct follow-up. The
+most common follow-up is the first 3 hits of the White Heron combo because
+they are simple to initiate and it's a guaranteed 3 hits. I mentioned d/f+4
+and d+1 simply because they will work though you don't have as many options
+from them.
+
+The Left Ax Kick(f,f+3) is also a good unconventional juggle starter that
+might present itself on occasion. It won't happen often but being able to
+take advantage of it is important, and it might turn a few heads in your
+local arcade as well. The reason this kick works is because on an CH the
+opponent is knocked off their feet and actually bounced in closer to you.
+They are completely at your mercy when this happens so a quick White Heron
+is an easy way to follow-up.
+
+The last type of unconventional starter I mentioned is the last low hit of
+the White Heron Combo. This move reacts just like the Hell Sweep so it
+should be treated in the same manner and followed up with another White
+Heron.
+
+
+|Stun Combos|
+
+The most damaging of Jin's juggles will always start out with a stun. As you
+can guess this means being able to combo after successfully performing a
+double over stun to your opponent. In Jin's case it means after a b,f+2 or
+b,f+2,1 on an CH and also with the universal Hopping Stun Kick(U/F,3). Both of
+the stuns starting from the Stun Punch Rush combo will allow you to perform
+juggle starters before they have a chance to fall while the Hopping Stun Kick
+recovers too slowly and only allows you to attack them while they are in the
+falling animation. The 2 punch stun variations are a bit different however
+because the b,f+2 stun makes your opponent fall forward while the b,f+2,1 stun
+makes them fall back. The trick is to hit the opponent as early in the stun
+animation as possible so it will count as a standard ground hit. If you
+connect too late in the animation it will actually pop your opponent in the
+air and away from you which ruins the whole juggle potential. Also be aware
+that even though you can juggle from both of these stuns, only the b,f+2
+starter is unescapable. Your opponent can escape from the b,f+2,1 stun by a
+simple tap forward on the controller. No matter how fast your attack comes
+after they are stunned, they will be able to escape so b,f+2 is a better
+choice. The downside to this is the fact that it is much more difficult to
+juggle the opponent with the b,f+2 than it is from the b,f+2,1. The U/F+3 stun
+is also unescapable but much less useful overall.
+
+It was once thought that the only ground to air juggle starter that was
+possible after the b,f+2 stun was the Can-Can kicks, however it was recently
+found that a perfectly time Electric Wind God Fist will work as well and allow
+humongous amounts of damage to be done. It is also 100 times more difficult to
+time than the Can-Can kicks so you probably won't be successfull with it very
+often. Using the b,f+2 stun setup into an EWGF is the start of Jin's most
+damaging combo in the game which is listed in his combo list below. This combo
+is argueably the toughest known combo in Tekken 3 so if you manage to perform
+it you should feel damn proud. Most of you won't ever be able to achieve that
+feat.
+
+The b,f+2,1 stun is much easier to juggle from, especially when using the WGF
+though since it's escapable it becomes far less useful in higher levels of
+play. The U/F,3 juggle starter on the other hand is unescapable but its
+recovery time is extremely slow and you won't have enough time to be able to
+connect a ground to air juggle starter. You can still however dish out some
+damage by connecting with a few powerful moves that they will have no chance
+to guard against.
+
+You can see the importance of knowing how to juggle out of stuns as they are
+the single most damaging situation that Jin can encounter. With experienced
+opponents you will find that you won't stun them as often, but when you do it
+is good to know how to take full advantage of the situation.
+
+
+|Flipover Juggles|
+
+Another type of juggle that has been found since the original release of this
+guide is the flipover. The flipover simply means that you flip your opponent
+over in mid-air causing them to face the ground instead of up. The advantage
+of this phenomenon is that when an opponent is face down when they hit the
+ground they can't tech roll and it gives you extra time to connect with a
+ground attack. This is one of the few instances in Tekken 3 where you can
+still get a guaranteed ground attack in. Flipovers are generally rare because
+they can only be accomplished in one way. You have to hit your opponent in
+the air sideways instead of their head or feet. When you juggle normally you
+always are hitting their feet, or head if they are facing backwards, but if
+you can manage to hit them sideways which would effectively be their waist
+you can cause them to flip over and get a possible free groud hit in.
+
+Different characters have certain ways to initiate these types of juggles
+but Jin is very limited. The only known ways that can be repeated consistently
+are from a sidestep into Tooth Fairy(SS+2), connecting with his f+3 in mid-air
+and hitting your opponent sideways while they are falling from a double over
+stun animation. For the most part the last 2 won't be used too often. If you
+stun your opponent you most likely won't want to waste the opportunity just to
+be able to perform a flipover juggle since the damage won't be as good. And
+hitting the f+3 in a juggle is also a waste because it has terrible recovery
+time and you barely have enough time to get a ground attack in before they can
+get up.
+
+Most likely you will see flipovers when you sidestep an opponents attack and
+then perform his Tooth Fairy. The move will juggle them straight up as normal
+but when you perform the first air attack you will notice them flipover. This
+type of juggle is unpredictable as the character will sometimes flip back over
+to their original face up falling position and ruin you chances for ground
+hits. Once you grasp the basic idea of it however you can tell when they will
+stay flipped over and then you can take advantage of it. You will notice that
+when the opponents face is down that they have different juggle
+characteristics. They do not bounce upwards at all, in fact each successive
+hit knocks them downwards a tiny bit. However they don't get knocked as far
+away from you as a normal juggle so you if you perform a long, quick hitting
+string attack it will generally keep them close and all hits will connect.
+
+The combo section below will list a few of the possible flipover combos but
+remember they aren't quite as useful for Jin as they are other characters.
+It doesn't hurt to know them though as they can be fun to attempt on lesser
+oppoenents and if you ever get one on accident you will be aware that it can
+gain you an extra ground hit if you time it right.
+
+
+|Electric Guard Juggles|
+
+Another type of juggle that is somewhat unknown is the Electric Guard Juggle.
+People listed this move in juggle before, but generally they use it as a
+follow-up, not a starter.  Well I'll teach you how to use it as a starter and
+wow some of you competition who might not have seen it before. It is
+definately not easy to do, it takes much skill and timing, and it can only be
+used in certain situations so you must be ready for them when they present
+themselves.
+
+The way it works is when an opponent does some sort of aerial based attack on
+you, you can perform the Electric Guard which will cause them to bounce off of
+you and allow you to get in a few hits before they land. However because the
+animation of this move is always the same whether it hits anything or not, you
+have to time it just right. If you time it to early then the opponent will
+land before you can even recover from the animation, and if you do it too
+late... well you can guess what happens.
+
+When you get the timing right you character will bounce up and you can start
+your move immediately. The difficulty of the combo you perform is up to you.
+It can be as simple as performing one powerful attack after they bounce, or
+treat it like a true juggle and do multiple attack. Regardless of what choice
+you make the first move has to be fairly fast. For single moves you have
+enough time to connect with a Wind God Fist, Stomach Rush or Double Axe Kick.
+If you want to get fancier you will need to set them up with jab or 2 and then
+follow up with an ender. It is also possible to connect with the complete Stun
+Punch Rush combo ending with the uppercut as your setup and then tag on an
+ender, but that is extremely difficult and takes perfect timing. It is well
+worth it though because if you ever hit it on someone they will probably be in
+awe because in all of my playing days I have yet to see someone do it besides
+myself. Though I have passed on my knowledge to friends so I know there are
+others who can do them.
+
+Some of the best moves that you can catch your opponent with are Ling's
+(f,f+3+4), Yoshimitsu's (QCF+1), King's (f+1+4) and a few others. It is even
+possible to use the Electric Guard to setup flipover juggles but that is
+insanely hard to do, especially during a real match against a good player.
+I name these specifically because each of them give you enough time to see the
+start of the animation and be able to react in time to start your Electric
+Guard. You can theoretically use this technique against all aerial attacks
+but most of them don't have a very long windup so you won't see them coming in
+time enough
+to react.
+
+These combos are shown in the juggle combo list below.
+
+
+|Juggle Combo List|
+
+You've learned the basics of Jin juggle combos including the unconventional,
+stun, flipover and electric guard versions so you should be able to start
+creating your own. Before heading down to the arcade and trying everything
+under the sun or firing up your PSX and camping out in practice mode for the
+weekend you can take a look at the combos listed below. They give you a good
+indication of what is possible so try building on top of them. Never assume
+for an instant that the best combos have already been found because I
+guarantee they haven't. Some of the best combos in Tekken 2 were never found
+until the home version came out and people were able practice on juggles
+extensively and even then some of those were only found months later.
+There are practically 100's of possible Jin juggles so I'll just stick to a
+few variations of every type. You should be able to figure out other options
+similar to the ones listed.
+
+The combos listed below are 100% unescapable if done as they are listed. There
+are other resources on the internet that might list huge combos that claim to
+do 100% damage, but most of them are escapable. All of my combos have been
+tested on the PSX version with the opponent set to tech roll so the late
+hitting bounce combos that were so popular in Tekken 2, but escapable in
+Tekken 3, won't work. Keep that in mind when trying combos. If the opponent
+can tech roll out of it then it ISN'T a true combo.
+
+Key:
+
+WGF   = Wind God Fist (f,N,d,d/f+2)
+TGF   = Thunder God Fist (f,N,d,d/f+1)
+EWGF  = Electric Wind God Fist (f,N,d,D/F+2)
+qWS+2 = Quick WS+2(QCF+2 or QCB+2) explained in tips section
+>     = small delay
+
+
+|Standard Juggles|
+
+
+Starters          Finishers
+--------          ---------
+WS+2
+f,N,d,d/f+2
+f,N,d,D/F+2
+WS+1,2(CH)
+d/f+2(CH)
+SS+2
+b,f+2,1,d+2       1, 1,1,2
+                  1, 1,2,2
+                  1, 1,2,3
+                  1, 1, EWGF
+                  1, 1, d/f+4,4
+                  1, 1+4,2, f,f+2
+                  1, 1+4,2,4
+                  1, d/f+1,2
+                  1, d/f+2, d/f+4,4
+                  1, d/f+2, f,f+2
+                  1, d/f+4,4
+                  1, f+4, d/f+4,4
+                  1, b+2,4,2
+                  1, b,f+2,1,2
+                  1,2, f,f+2
+                  1,2, b,f+2,1,2
+                  1,2, b,f+2,1,d+2
+                  1,2, EWGF
+                  1,2, d/f+4,4
+                  1,2,3
+                  1,2,4
+                  1,2,4, 1+4
+                  1,2,4, f+2
+                  1,2,4, f,f+2
+                  1,2,4, d/f+4,4
+                  1+4, 1,1,2
+                  1+4, 1,2,2
+                  1+4, 2,2
+                  1+4,2,4
+                  1+4,2, f,f+2
+                  1+4,2, d/f+4,4
+                  1+4,2, EWGF
+                  2, 1+4,2, f,f+2
+                  2, 2, f,f+2
+                  2, EWGF
+                  3,2,4, f,f+2
+                  d/f+1, 1+4,2, f,f+2
+                  d/f+1, d/f+1, EWGF
+                  d/f+2, EWGF
+                  d/f+4, 1+4, d/f+4,4
+                  d/f+4, d/f+4,4
+                  f+4, EWGF
+                  b,f+2>1,2, f,f+2
+                  b,f+2,1,d+2, 1+4
+                  b,f+2,1,d+2, f,f+2
+                  b+2,4,2,1,2
+                  b+2,4,4
+                  u/f,1, 1+4, d/f+4,4
+                  u/f,1, d/f+1, d/f+4,4
+                  U/F,4, 1+4, d/f+4,4
+                  U/F,4, 1+4,2, f,f+2
+                  4, 1+4,2, f,f+2
+                  EWGF, f,f+2
+                  EWGF, EWGF
+                  qWS+2, f,f+2
+                  qWS+2, d/f+4,4
+                  TGF,3
+
+
+        
+Starters          Finishers
+--------          ---------
+d+3+4             d/f+4,4
+                  d+3+4, 1+4,2, f,f+2
+                  1+4,2, d/f+4,4
+                  1+4,2, EWGF
+                  1+4, 2, f,f+2
+
+
+
+|Unconventional Juggles|
+
+
+Starters          Finishers
+--------          ---------
+1+4,2,d+4
+f,f+3
+f,N,d,D/F+4       d/f+4,4
+                  1+4, 1,2,2
+                  1+4,2, d/f+4,4
+                  1+4,2, f,f+2
+                  1+4,2, EWGF
+                  1+4,2, b,f+2,1,2(big characters only)
+                  d/f+4, f+1+4, d/f+4,4
+                  d/f+2, 1,2, f,f+2
+
+
+Starters          Finishers
+--------          ---------
+FCD 3,            1+4,2, f,f+2
+                  1+4,2, EWGF
+                  WS+4,4
+                  WS+4, 1,1,2
+                  WS+4, 1, f,f+2
+                  WS+4, 1+4, d/f+4,4
+                  WS+4, 1+4,2, f,f+2
+                  WS+4, 1+4,2,4
+                  WS+4, 2, f,f+2
+                  WS+4, d/f+4,4
+                  WS+2, d/f+4,4
+                  WS+4, EWGF
+
+
+
+|Stun Combos|
+
+(combos assume that the initial hits causes a stun)
+
+
+Starters                Finishers
+--------                ---------
+b,f+2(CH),              d/f+4,4
+                        2,2
+                        b,f+2,1,2
+                        TGF,3
+
+
+Starters                Finishers
+--------                ---------
+b,f+2(CH), d+3+4        d/f+4,4
+                        d+3+4, 1+4,2, f,f+2
+                        1+4,2, d/f+4,4
+                        1+4,2, EWGF
+                        1+4, 2, f,f+2
+
+
+Starters                Finishers
+--------                ---------
+b,f+2(CH), EWGF         b,f+2>1,2, f,f+2
+                        EWGF, WGF
+                        TGF,3 (Jin's most damaging combo)
+                        [all other standard juggles that start with WGF]
+
+
+Starters                Finishers
+--------                ---------
+U/F,3                   b,f+2,1,d+2, f,f+2
+                        b,f+2>1,2, f,f+2
+
+
+
+|Dive Stun Juggles|
+
+(These combos require you to dive at your opponent, and that they block it
+so that they get the guard stun animation.)
+
+
+Starters          Finishers
+--------          ---------
+(f,f+1+2 while
+on ground)        1,2, d/f+4,4
+                  1,2, f,f+2
+                  1,2, WGF
+                  f+4, 1+4,2, f,f+2
+                  [1_2], 1,1,2
+                  [1_2], 1,2,2
+                  [1_2], 1+4,2, f,f+2
+                  [1_2], b,f+2,1,d+2
+                  [1_2], b,f+2,1,2
+
+
+
+|Flipover Juggles|
+
+(In these combos the starters induce the flipovers. If your opponent
+does not flipover then you are not doing the starters correctly. Also due
+to the flipovers, all ground hits are guaranteed so long as you perform
+them fast enough.)
+
+
+Starters          Finishers
+--------          ---------
+b,f+2(CH),SS,1+4  d/f+4,4
+                  d/f+4, f,N,d,D/F+4
+
+U/F,3             u/f+4,4,4,4, f,N,d,D/F+4
+
+SS+2, 1,          1,2, f,N,d,D/F+4
+                  1,2, 4~3
+                  1+4,2, f,N,d,D/F+4
+                  b,f+2,1,d+2, f,N,d,D/F+4
+                  b,f+2,1,2, f,N,d,D/F+4
+
+SS+2, 1,2,        d/f+4,4
+                  d/f+1,2
+                  f,N,d,D/F+4,4
+                  b,f+2,1,d+2
+                  b,f+2,1,2
+                  EWGF, f,N,d,D/F+4
+
+
+
+|Electric Guard Juggles|
+
+(All combos assume opponent is performing a jumping attack at you such as
+Ling's f,f+3+4, Yoshimitsu's QCF+1, King's f+1+4, etc....)
+
+
+Starters          Finishers
+--------          ---------
+B+1+2,            1,1,2
+                  1,2,2
+                  1,2, d/f+4,4
+                  1+4,2, f,f+2
+                  1,2, WGF
+                  1,2, f,f+2
+                  1, b,f+2,1,d+2
+                  1, b,f+2,1,2
+                  b,f+2,1,d+2
+                  b,f+2,1,2
+
+
+Keep in mind these are just a taste of Jin's overall possibilities. There
+are many variations of these combos alone with many other combos waiting to
+be found.
+
+
+****************
+*Basic Strategy*
+****************
+
+Now that we finally have all of Jin's moves and combos explained we can
+start exploring his overall strategy. We're not ready to jump into all of
+Jin's tricks yet as we must first get a grip on learning his basic feel. You
+must feel comfortable in a match with Jin before you can start to try the
+more advanced strategies so we'll cover the absolute basics first. If you
+are already an experienced Tekken player who is just wanting to learn Jin
+then this next section won't be of much help to you. It is more focused on
+the beginner.
+
+
+|When to block and when to not|
+
+Knowing when to block and when to attack is perhaps the most important
+factor in any fighting game. However it's not something that is easily
+taught as it relies more on instinct than anything else. Therefore I won't
+even try to cover it on a whole, I'll only try to point you in the right
+direction when playing with Jin. If you've played other fighting games in
+the past then you probably already have good fighting intuition and just
+need it to be focused to a specific character.
+
+Jin is a very well rounded character and performs well both offensively and
+defensively. He can launch a barrage of offensive attacks that can bewilder
+an opponent and find a way through their guard but he can also keep a cool
+head and react to an opponents' attacks patiently watching for mistakes. A
+good Jin player will incorporate both of these qualities seemlessly into
+their style and understand the proper time to utilize either one.
+
+With Jin's ability to do crouch dashing attacks along with his long distance
+f,f style moves he is best played at a medium distance from the opponent. If
+you get too far away he loses his effectiveness and if you are too close his
+multitude of high attacks can get him in trouble. A medium distance will
+allow him to get close to the opponent in an instant by  utilizing the
+crouch dash and dash buffering techniques. I call this distance my "cushion"
+and tend to fall back on it after an attack or defensive maneuver. It
+doesn't mean you can't get in closer to your opponent. I like to keep a
+constant offensive upper hand on my opponent which many times takes me up
+very close. However the way Jin's attacks are engineered you almost always
+stay at that cushion distance if the opponent blocks the attack which works
+out great. I see a lot of people play similar to this but use too large of a
+cushion. This is fine for defensiveness but it makes it harder to key upon
+an opponents mistake because you are farther away. By the time you get your
+attack off the opponent may have recovered which ruins your chance at the
+attack.
+
+The frequency in which you attack should be based on the kinds of attacks
+you are using. Attacking too much using the wrong moves can be deadly to you
+instead of the opponents. Constantly performing high attacks or simple
+strings make it easy for an opponent to punish you. The safest style of
+attacks are ones that hit mid or low level as the opponent has to either
+completely evade it or interact with it in some way shape or form. Meaning
+that you can't duck a mid attack so unless they actually evade it with a
+sidestep or back dash, they will somehow make contact with that move. That
+may mean blocking it, reversing it, interrupting it or being hit by it. High
+attacks don't share this ability as they can be easily ducked and then
+counter attacked. This shouldn't mean you never use high attacks because
+they are very useful, only that the majority of attacks, especially smaller
+ones, should be at mid and low levels.
+
+Blocking is self explanatory as it is the single most important part of any
+fighting game. If you can't effectively block an opponents attack then you
+will face a quick death. The trick in Tekken is knowing when to utilize the
+other defensive options such as reversing, evading or interrupting an
+attack. That means that you must decide when it is better for you to attempt
+these features instead of just blocking. Naturally these are more risky to
+try but have larger pay-off's than a simple block. If you block most attacks
+chances are it only effectively prevents you from getting hit with no means
+of answering that attack. On the other hand these other options will allow
+you to inflict your own damage which varies on which option you attempt.
+
+
+|Reversals|
+
+Reversals are probably one of the most popular defensive aspects in Tekken.
+Most people love doing reversals because they look cool and do good damage
+to the opponent. Learning to do them is not very hard as they are simple to
+perform. The whole trick lies in knowing when to attempt them and when not.
+In Tekken 2 reversals were absolute which meant once you performed one the
+opponent was doomed. In Tekken 3 however that has changed with the addition
+of the chicken. Now an alert opponent has the final chance and can
+break your reversal. That means you have to be careful in your use of
+reversals now whereas in Tekken 2 you could abuse them.
+
+As far as deciding when the best times to attempt reversals is up to you.
+The easiest places to perform a reversal are in strings when you know for
+sure what the next attack is going to be and can prepare to catch it. This
+is the easiest time but also risky for you as the opponent knows this as
+well and will most likely be ready to chicken that reversal. Chickens
+aren't easy to perform but an opponent expecting your reversal has a good
+chance to successfully pull one off. This should stress the importance of
+choosing your reversal attempts wisely. The best time to catch your opponent
+unawares is the reverse the first move of a string. It happens so fast that
+they most likely won't be able to react in time with a chicken. The
+downside however is they are tough to time and you will be taking a risk by
+guessing when they will attack. This game is about risks though so use that
+intuition wisely.
+
+
+|Interrupts|
+
+It's clear with the addition of the chicken that Namco was urging
+players to find other ways in stopping their opponents attack. They added
+things like low parries and combo breaks in some characters but since Jin
+doesn't have these we won't cover them. Something each character can do and
+isn't really considered special is an interrupt. As the name implies it
+simply means to interrupt your opponents attack with one of your own. This
+is usually done with a quick attack like a jab or sweep. They don't do much
+damage but when timed properly they will put an end to your opponents
+attack. Interrupts are best used to break up stringed attacks in certain
+openings. The most popular method is a crouching jab at the moment an
+opponents string goes high or timing one between 2 slower attacks regardless
+of their height. Interrupt timing is an acquired skill that must be gained
+with experience. Interrupts are great because they are also absolute. Since
+all you are doing it stopping your opponents attack they can't break it in
+any way.
+
+Once you get the hang of it you can even stop single attacks. A well timed
+crouching jab can put an end to many special moves like Paul's Death Fist
+and other slow initiating ones. Interrupting these moves are obviously risky
+because if you miss-time it you might be eating a fist or foot but used
+smartly they can catch an opponent off guard and give you a slight advantage
+for the next attack.
+
+Nothing in this section has probably been too eye opening for you but it
+should give you an idea of what play style to strive for. Interrupts are
+more important than reversals because they are absolute. However reversals
+are quite important so long as you are adamant about using them in the right
+situations so the opponent won't be ready to break it.
+
+
+*******************
+*Advanced Strategy*
+*******************
+
+We've covered all the basics, including the usefulness of each of Jin's
+moves and which combos Jin is capable of performing. Now with this raw
+information we can begin to sculpt your Jin skills. You have all of this
+information in your head so know I'll finally begin to explain where to use
+it. Obviously you didn't think these situations would simply present
+themselves to you so I'll show you how to make them happen. The next few
+sections will really be the meat of your Jin play style so be sure and try
+to fully grasp the information in them.
+
+
+|Custom Strings|
+
+Custom strings are probably the one area of gameplay where you can be the
+most creative and make your Jin different than others. We all know Jin's
+special strings so using them in a match isn't going to surprise anyone
+including your opponent. Once they learn how to block or interrupt your
+strings they become for the most part worthless. Custom strings on the other
+hand allow us to piece together our own concoction of moves in the order we
+choose which your opponent won't know. This isn't as easy as it sounds
+however as just putting a few moves together in order isn't a custom string.
+An effective custom string blends together smaller moves in one smooth
+motion with very small or even no definite points where an opponent can
+attack. A well designed custom string will flow together as good or even
+better than a real string. Some people refer to these as patterns but I
+don't like that word because it's too negative. A pattern is something that
+the opponent can learn and then figure a way out of. A successful custom
+string has many options so that you can change them depending on the
+reaction of your opponent. Building custom strings takes some
+experimentation with what moves work well together but in the end the time
+is well worth it.
+
+Before we move on let me explain the reason for these strings. First of all
+a custom string will keep your opponent on the defense with few chances to
+do anything but defend themselves. A good string will be hard to reverse due
+to the way the moves flow together as well as their unpredictability. They
+are also used to set up certain situations like juggles, stuns or throws.
+Keeping your opponent on the defensive will usually frustrate them and cause
+them to attempt to escape. If they try to do it at the wrong time a good
+string will catch them with a juggle, stun, throw, etc... Characters like
+Ling and Nina are awesome at these custom combos because of their speed and
+highly adjustable attacks. People often think of Jin as a power character
+though he is much more effective when used with finesse and these custom
+strings are just the trick to achieve that.
+
+Like I mentioned before putting together strings takes some experimentation.
+Some moves can be performed one after the other quickly while others have a
+definite time between their executions. A good example is a crouch jab to a
+rising right kick(d+1, WS+4) while a bad example would be a low sweep to a
+standing jab(d+3, 1). While jabs are fast you would have to fully stand up
+before hitting your button for the jab. On the other hand going from a
+crouching jab to a rising right kick is very fast because you kick on the
+way up from a crouch. Crouching jabs to rising attacks are usually very fast
+as is standing attacks to crouching attacks. Many custom strings go from
+high to low quite often because of the speed in which these types of moves
+interact.
+
+Another factor to think about is the distance the move will place you to
+your opponent. Some attacks pull you closer to the opponent while others
+push you out. 3 moves in a row that push you away from the opponent wouldn't
+be very good for a custom string. To keep the string going you need to have
+a few moves that put you close to the opponent and then you can work your
+way back out. These strings can be short or long depending on the situation.
+You might want to keep the pressure on the opponent and keep a string going
+or you might get in trouble and want to use a short string to put you at a
+safe distance. Regardless of the string you plan on using you must keep all
+of these factors in mind to know what the string will accomplish.
+
+Now that I've explained the different factors to look for in creating a
+customs string I'll list some of Jin's moves that work well and for what
+part of the string.
+
+
+Forward momentum moves:
+
+d/f+1,2
+WS+1,2
+b,f+2,1,[2_d+2]
+1,1,2
+
+
+Backwards momentum moves:
+
+d/f+4,4
+WS+4,4
+1,2,4
+f+4
+
+
+Neutral moves that string well:
+
+d/f+4
+d/f+1
+WS+4
+WS+1
+WS+2
+d+1
+d+4
+F+2
+D+1+2
+
+None of this may make sense at first but as you start fooling around with
+these strings you'll begin to see the pattern. I'll give a few example
+strings and walk you through how and why they work. Then I'll list a good
+amount of pre-configured strings to try as well as a few strings that set
+you up for other situations.
+
+Here is a very simple 5 hit custom string that virtually leaves no room for
+the opponent to interrupt you:
+
+d/f+1,2, d+1, WS+4,4
+
+First of all the Twin Lancers is the perfect forward momentum move. It
+carries Jin forward which puts you very close to the opponent. It's also a 2
+hit combo so there isn't much chance of the opponent sneaking an attack
+between them. Jin recovers immediately, and I do mean immediately, after the
+second punch of the Twin Lancers so a d+1 is practically guaranteed. The d+1
+is used because it is a very fast attack and also if the opponent blocked
+the first attack there is a possibility the crouching jab might hit. From
+the crouch jab we go right into a rising Ax Kick which again is very quick
+and difficult to interrupt.
+
+In no way is this whole string guaranteed to hit. It's purpose is to put the
+opponent on the defensive, eat away at their damage and possibly take a big
+hunk if the last part connects. The end of most custom strings is usually
+where the hidden damage lies, either in the form of the move itself or the
+chance that it might set up a juggle or stun. In this case the last rising
+Ax Kick does over 30 points of damage if it hits. Not bad for a simple
+string.
+
+If we wanted to keep that string going longer we could have changed it up a
+bit:
+
+d/f+1,2, d+1, WS+4, d/f+1,2, d+1, WS+1, 1,1[2], d+1, etc....
+
+This is an ultimate example of a simple but long string. Note that a string
+of this length is by no means guaranteed to always work as the opponent
+might interrupt you somewhere. However this whole string flows very smoothly
+and has lots of opportunity for damage. We start out the same with the Twin
+Lancers to get close to the opponent. Again a d+1 is used for it's speed but
+also because mixing high, mid and low attacks are a must to keeping your
+opponent guessing. After the crouching jab we change it up a bit and go into
+a single standing right kick. This keeps us in decent range of the opponent
+instead of the previous string where the rising Ax Kick put us at a
+distance. The rising right kick recovers very quickly so going back into a
+Twin Lancers is easy. This now puts us closer to the opponent and has begun
+to wear their patience. From the Twin Lancers we crouch jab again but this
+time we use a rising left punch. This keeps us a bit closer than the rising
+right kick does and also lets the opponent know we are doing something
+different. Notice that we could have actually risen into a whole Twin
+Pistons combo(WS+1,2) which could result in a juggle if it connected.
+However the Twin Pistons are a bit slow in recovering so using it would have
+effectively ended the string. From the WS+1 we get a quick recovery in which
+we go right into a 1,1[2]. These first 2 jabs are high which is the first
+high attack we've used in the string. The opponent won't be expecting them
+so there's a chance they might connect. If they do we finish the combo off
+with the right punch. Remember that the Shining Fists have the delay feature
+so we only have to finish if the first 2 jabs connect. If they connected the
+string would have ended with the opponent being knocked down for some 30+
+damage. However if they were blocked or ducked we would have went right down
+into a quick d+1 and kept going from there.
+
+That is a large example but nothing that hasn't been successfully used by me
+before. The trick is the opponent is most likely trying to escape the string
+somewhere along the line which is to your benefit. If they walk into an
+attack it will most likely CH and make your next attack a sure thing. The
+ultimate goal is to get them to walk into a damaging part of the string so
+you keep it going until you get to that point or get knocked out of it.
+
+It takes a lot of practice to be able to get the timing down between all the
+moves and even more practice to be able to create them on the fly. I don't
+go into a custom string knowing what I will do. I usually decide as I am
+going along based on the opponents response. If they are successfully
+blocking everything I might call off the attack and back myself away. On the
+other hand if it seems to be hitting the opponent I might try to throw in a
+big move on the chance it might connect.
+
+Here are some more examples that I use to set up juggles and stuns:
+
+d/f+1,2, d+1, WS+2
+
+Very fast string that ends in a WS+2 uppercut. If they happen to keep
+ducking after the jab or try to interrupt you the WS+2 uppercut will connect
+giving you the most perfect juggle setup you could ask for. Short and sweet,
+this simple string is one of my favorites.
+
+d/f+1,2, d+1, WS+4, b,f+2,1(from here it depends on the outcome of the
+b,f+2,1)
+
+This combo setup is the greatest. If you get this far there are so many
+options that you are bound to hit something. In the best case scenario your
+opponent will try to attack after the rising kick and they'll walk right
+into a stun punch that seemed to come out of nowhere. In this case you would
+combo them using one of the previously discussed combos. If the stun punch
+combo hits but doesn't stun or if they block it you have many choices. Since
+this move brings you forward you should be close to your opponent. This is a
+dangerous situation for them because you have so many possibilities. You
+could immediately d+1 and continue the string as you see fit. They also know
+that the third hit of the string hits mid so they won't be ducking. In this
+case you can finish the string with a high move like 1,1,[2] or even catch
+them off guard with a quick throw. The throw trick works quite well believe
+me. And last but not least you can use the delay feature of the Stun Punch
+Rush and do a late third punch which might catch them. If they are reversal
+happy they might try to catch the last punch so delaying it would hit them
+right about the time they miss the reversal. The delay alone in this move is
+deadly enough but couple it with the ability to continue the custom string
+or attempt a throw and most players are going to play it safe and block.
+Assuming they block the third stun punch it would effectively end your sting
+and put you at a safe distance. If you chose to do a delayed d+2 and it hit
+you would have another juggle set up, and so on.....
+
+There are so many possible outcomes to that situation alone you should see
+how dangerous custom strings can be when used with moves that can be delayed
+and cause stuns or juggles. I stun and juggle more opponents from variations
+of this string that I do at any other time. The b,f+2,1[2_d+2] is an
+invaluable tool in strings so it should be utilized with to its fullest. The
+only real danger you face is getting the initial stun punch reversed, though
+there is a way to keep that from happening using a chicken buffer that I'll
+explain later on.
+
+So now you see how strings work you can probably start coming up with your
+own. I've prepared a decent amount of pre-configured custom strings for you
+to try. I won't explain each one as most of you can see where I am going
+with them. If you see a juggle starter embedded in there somewhere you can
+guess that if that part hit the string would have ended and the juggle
+performed. By the way you probably noticed that I always use the Twin Lancer
+to start the custom strings. That's simply because it is the best at doing
+so. You can also start them from other moves but I'll use the Twin Lancers
+and you can just plug-in your own starters.
+
+d/f+1,2, d+1, WS+2
+d/f+1,2, d+1, WS+1,2
+d/f+1,2, d+1, WS+4, b,f+2,1,
+d/f+1,2, d+1, d+4, WS+4,4
+d/f+1,2, d+1, WS+4, f,f+2
+d/f+1,2, d+1, WS+1, d/f+1, d/f+4,4
+d/f+1,2, d+1, d+4, D+1+2....
+d/f+1,2, b,f+2, d+1, WS+4
+d/f+1,2, d+1, WS+1, 1,2,4
+d/f+1,2, d+1, WS+2, f+4
+etc....
+
+
+|Chicken Buffering|
+
+A chicken is a basically the act of breaking out of an attempted reversal. The
+reason it is nicknamed a "chicken" is because that is what the announcer says
+if you successfully perform one. Chickens are generally only used at the
+higher levels of play as they require great reflexes and a bit of expectation.
+The expectation of a reversal is what chicken buffering is all about. Guessing
+that your opponent is going to attempt a reversal and then being prepared for
+it.
+
+In short, you perform a chicken by the opposite motion of a reversal, and the
+buttons you use depends on the side on which you attack. Meaning that you
+perform them with either f+1+3 or f+2+4 though it requires you to know which
+arm or leg your opponent is attempting to reverse. A left punch/kick reversal
+attempt requires you to use f+1+3 to successfully chicken it, while a right
+punch/kick requires you to use f+2+4. Being aware of which arm or leg all
+of Jin's moves are performed with is an obvious must.
+
+To buffer a chicken simply tag the correct chicken motion on to the end of
+your move or a point in the string that you are most likely to get reversed.
+It is impossible to buffer a chicken on every single move in Jin's arsenal,
+but in time you will begin to see which moves and at what times your opponents
+will generally attempt a reversal. That is the key to buffering chickens and
+when done correctly and can make your opponents extremely shy of using
+reversals which allows you more freedom of which moves or strings you wish to
+use. You are only given a few frames in which to input your chicken command
+so you must be precise and learn the exact timing.
+
+With that out of the way we can get down to business and list which of Jin's
+moves are best suited for buffering. Like I said, you simply can't chicken
+buffer every single one of Jin's moves so the best candidates need to be
+narrowed down. They are as follows:
+
+f,f+2
+f,f+3
+1,2,3(last kick only)
+f,N,d,d/f+1
+f+3
+4
+b,f+2,1,[2+d+2](first and 3rd hit only)
+F+2
+d/f+4,4
+WS+4,4
+WS+2
+
+There are probably a few others you might be able to effectively buffer so
+its up to you. Obviously you don't need to reversal buffer against
+characters without a reversal though you may want to for sheer practice.
+Also there is no need to buffer if you know that the attack is going to be
+hit or impossible to reverse. If you suspect a reversal or aren't quite sure
+you should definitely use the reversal buffer.
+
+|Tactics|
+
+Just like all other characters, Jin has certain tactics that work well
+regardless if your opponent is aware of them or not. These are generally
+situations that you put your opponent in danger that are of low risk to you
+and require them to be quick on their reflexes to decide how to respond.
+Custom strings do this to an extent but they are meant to be used randomly
+whereas these specific tactics are used the same way everytime, only you will
+be choosing a different way to follow them up to keep your opponent on their
+toes. There are many of these but I'll cover a few of the popular ones to
+give you an idea.
+
+||Shoot the Works mixup||
+
+By itself the shoot the works combo (1,2,3,[4_f+4]) isn't that great of a
+string however there is one quality that you can use to your advantage. The
+third hit of the string which is the left ax kick, will guard stun your
+opponent if they block it. This means you will be ending the shoot the works
+combo on the third kick as there is really no reason to ever go beyond that
+kick. If the third kick connects it will set you up for a nice juggle and if
+it is blocked it will guard stun them and allow you to plan your next move.
+That is where the tactic comes in to play. Since you have the advantage while
+they are still in the guard stun animation you can begin your next move before
+they recover and they will be forced to defend themselves in some way. The
+tactic is to mixup your next move between high, mid and low attacks. Mid and
+low are more recommended but it won't hurt to throw in a high attack once in
+awhile to keep them guessing.
+
+Remember though there is a small delay after the first set of 1,2 punches
+before your third kick will come out. Therefore your opponent will have enough
+time to reverse or parry that kick if they wish to try. If they have perfect
+timing they might be able to interrupt it with a quick jab or other fast move
+but that puts them at great risk because if they mistime it then the kick with
+CH and set you up for a rather nice damaging juggle. Also remember that you
+can buffer a chicken into this ax kick so you can *always* escape an attempted
+reversal, unless of course your opponent is King in which you really shouldn't
+attempt this tactic at all. The same goes for Law as he can always parry the
+third kick and gain advantage over you. Other than that you can feel safe
+about using the tactic on everyone else.
+
+Here is a quick rundown of possible situations you might encounter attempting t
+his
+tactic. These are the bread and butter options but there are many more and you
+might find something different that works particularly well for you.
+
+You perform 1,2,3(chicken buffered - f+1+3)
+
+   -Opponent gets hit by the third kick which opens you up for any of the
+   juggles that will follow up a standard f,f+3.
+
+   -Opponent blocks third hit which gives you the advantage of following up
+   with a quick attack:
+       -Stomach Rush(chicken buffered - f+2+4)
+           -Opponent attempts to reverse Stomach Rush but due to your
+           buffered chicken you escape the reversal.
+           -Opponent gets hit by move and loses 37 points of damage
+           minimum and more if it connects as CH.
+       -Hell Sweep
+           -Opponent blocks but you are a safe distance away from a
+           guaranteed counter attack.
+           -Opponent gets hit by Hell Sweep and allows you to follow up
+           with any of the listed Hell Sweep juggles.
+           -Opponent low parries your Hell Sweep and in worst case
+           scenario sets you up for a large juggle.
+       -Throw (most likely Stonehead[f,f+1+2] due to dash buffer-ability)
+           -Opponent escapes throw.
+           -Throw connects and you follow up with half ax kick trick
+           for an easy 40+ points of damage.
+       -Wind God Fist(chicken buffered - f+2+4)
+           -Opponent blocks WGF but you are a safe distance from
+           guaranteed counter attack.
+           -Opponent attempts to reverse WGF but due to your buffered
+           chicken you escape the reversal.
+           -WGF connects and you follow up with your favorite WGF combo
+           and send them on their way with a coke and a smile.
+
+   -Opponent attempts to reverse the third hit but due to your chicken buffer y
+ou
+   escape the reversal. Again this won't work against King or Law.
+
+
+|The Art of Okizeme|
+
+Okizeme is a Japanese term which basically means attacking your opponent
+while on the ground. Players often call this "cheap" though with practice
+it's very easy to escape. It is realistic however to have this type of
+fighting system in Tekken because not letting an opponent get up is quite a
+real phenomenon in street and tournament fighting. You don't give your
+opponent mercy when they fall, you go for the kill or try to keep them
+there. It comes to no surprise that this is a very popular part of Tekken
+gameplay. It is very good at slaughtering novice players who insist on
+constantly tech rolling. We won't cover how to get up safely, as I consider
+that to be a basic skill, though we will cover Jin's ability to keep
+opponents down.
+
+Jin has a few attacks that are good at keeping opponents down, one of which
+even juggles. They are as follows:
+
+1+4,2...
+d/f+4,4
+f,f+2
+f,N,d,D/F+4
+4~3
+
+The single best move to use is the White Heron Combo(1+4,2...) because if
+timed right it will juggle the opponent in the air and let you perform a
+small combo. Keep in mind they might roll away or even kick you while
+getting up so there is always a risk to trying to catch them. The best time
+to try it is immediately after the opponent hits the ground and attempts to
+roll. If you are next to the opponent and you time the move as they twitch
+it will catch them and bring them up off the ground. The White Heron Combo
+will act the same way as if you performed it in an unconventional combo.
+That means you could do 1+4,2, f,f+2 while they were getting up. This is a
+nice hunk of damage for simply catching someone who gets up to early. The
+d/f+4,4 works the same way but it doesn't juggle. It is very quick however
+and takes a nice hunk of damage.
+
+The Stomach Rush(f,f+2) is an unlikely move to punish rising opponents but
+it works great on opponents who like to roll back. If you're playing someone
+who seems to roll backwards every time they get up you can hit them with the
+Stomach Rush every time. Just time it as soon as they twitch and it will
+knock them right out of the roll.
+
+The last 2 moves are meant to be used to hit the opponent while they are
+still on the ground. I bring these up because once you get in an Okizeme war
+with someone it will turn into a guessing game. They might play dead on the
+ground waiting for you to attack so they can punish you. In these times its
+good to just do a quick ground attack because they are wide open for it.
+Like I said it's a guessing game so picking the right move for the situation
+is often a little bit of intuition and a lot of luck. Making the right
+decision could gain you some extra damage while making the wrong one might
+backfire on you.
+
+There is one more feature of Okizeme that actually deals more with the
+instant they actually rise. In this technique you aren't actually keeping
+them down but instead waiting until the instant they stand up and then
+attacking. The Hell Sweep is the best weapon for this technique though it is
+very difficult to time and highly dangerous if you get it wrong. Most
+players have a nasty habit of automatically standing up after they rise
+which leaves them open for a low attack. The object is to enter the crouch
+dash while they are rising and time the Hell Sweep to hit the instant they
+get up. When it works correctly they will immediately get tripped up and you
+can perform one of your Hell Sweep combos. On the other hand if you start
+the crouch dash too early and the opponent rolls to the side your side might
+be left wide open to the opponent. This often results in a side throw which
+is not in your best interest. Obviously this technique is risky but works
+quite well once you get the hang of it.
+
+
+
+|Tricks of the Trade|
+
+As I mentioned in previous sections Jin has a good number of tricks up his
+sleeve that can add extra damage to a wide variety of attacks and
+situations. In order to make your Jin as strong as possible you must learn
+these tricks and use them to their full extent. Some of these tricks I have
+already mentioned in previous sections but I'll place them here again just
+so you can give them all a quick glance to make sure you catch them all.
+
+
+||Throw to Half Ax Kick||
+
+Just as the name implies you can initiate a throw and then connect with a
+half ax kick(d/f+4) before they recover for an extra 10 points of damage.
+This trick only works with the Stonehead(f,f+1+2) and Bitch Kicks(1+3)
+throws and the timing for both is a bit different. It is very easy to do
+after the Stonehead but slightly harder after the Bitch Kicks as the window
+of time is shorter. Simply time the ax kick the instant Jin recovers from
+the throw animation. Your opponents feet will still be in the air at that
+time so the ax kick will clip them. A cool side effect of this trick is that
+it will magically flip your opponent  180 degrees so their head will be
+towards you. This means they are limited to only a few rising attacks giving
+you the advantage. Seeing that this adds 10 damage points to your throw with
+no chance of the opponent escaping you would be stupid not to utilize it at
+every opportunity.
+
+
+||Shiho-Rage to Hell Sweep||
+
+Like the above tricks, it is also possible to get an extra free hit on
+the end of Jin's Shiho-Rage throw(d/f+2+3) as it leaves the opponent unable to
+rise for a short amount of time. After performing the throw simply initiate
+a Hell Sweep as quick as you can. If you do it right you will get an extra
+hit in which brings up your total damage to 60 points. The timing is more
+difficult than the above throw tricks but the payoff is worth it.
+
+
+||Shining Fists Delay||
+
+You already know about the moves that can be delayed so let me stress the
+importance of this feature when used with the Shining Fists(1,1,2). This is
+Jin's quickest punch combo that can't be blocked once initiated and always
+knocks the opponent down. It does 30 points of damage so when you couple
+that with the ability to make it a low risk maneuver it makes it even more
+powerful. The simple trick is to not finish the last punch until you know
+the first 2 have connected. Since the last punch has a slow recovery it is
+imperative that you always use this trick to keep from being clobbered after
+they block it. By simply performing the 1,1 command you can decide to stop
+or finish the combo. If they block it you can recover quickly from those
+jabs and if it connects you simply tap 2 to finish the combo. This trick
+should become second nature to you as it makes the combo 100% less risky.
+
+
+||Alternate Tackle||
+
+Jin's tackle isn't quite as useful in Tekken 3 as his father's was in Tekken
+2 because of the ease of breaking tackles in general. However there are a
+few tricks that can help to surprise your opponent by performing it in
+awkward situations. The official way to perform his tackle is [d/b_d+1+2]
+but what most people don't know is that it can be initiated from a crouch as
+well as a crouch dash. That means that while you are crouching you can
+simply tap 1+2 to go directly into the tackle. Or even better you can hold
+down while in the crouch dash and tap 1+2 to start the tackle. Both are much
+more useful than the standard way that can be seen coming a mile away. The
+ducking one can be used to do a quick tackle after interrupting an attack
+with a crouching jab or sweep. As soon as you recover from the jab a quick
+tackle might throw them off guard enough to where they don't break the
+tackle. Using it in the crouch dash is great because it extends the range of
+the tackle as well as throwing opponents off guard. If they see a crouch
+dash the last thing they will be looking for is a tackle. They will be
+worrying about a Wind God Fist or Hell Sweep so performing a tackle might
+throw them off guard enough to complete the tackle.
+
+
+||Crouch Dash to Stomach Rush||
+
+This is a fairly unknown trick that may not be as useful as others but I
+feel you should at least know of it. As the title implies you can go into a
+Stomach Rush(f,f+2) directly from a crouch dash in one smooth motion. Its
+usefulness may not seem readily apparent but knowing it can give you another
+variance of the crouch dash in your arsenal. Performing as many different
+moves as possible from the crouch dash will keep your opponent guessing at
+all times and dissuade them from trying to reverse or interrupt you. The
+motion required for this trick is simply [f,N,d,d/f,f,F+2]. Seems a bit
+difficult but in reality it's one smooth motion. Just perform the crouch
+dash like normal though end it in the forward position instead of down
+forward. Many of you probably do that now without realizing it. Then once
+that motion is complete tap F+2 quickly. When done correctly Jin will do a
+crouch dash and then execute the Stomach Rush immediately out of it. This
+gives you more distance with the Stomach Rush but slows down the total
+execution time. It's greatest advantage is variance from the crouch dash.
+
+
+||Rising Ax Kick Utilization||
+
+As I mentioned in the move descriptions, the rising variety of the Ax Kicks
+take more damage than the standing ones. Simply meaning that WS+4,4 takes
+more damage than d/f+4,4 meaning you should attempt to use the rising
+version as much as possible. To stress the importance of this be aware that
+d/f+4,4 does 26 points of damage while WS+4,4 does 34 points. The difference
+in damage can quickly add up so striving for the WS version is important.
+
+Obviously the d/f version is much easier to do in combos and in general
+gameplay but there is a trick in making the WS version much more useful.
+Instead of trying to crouch quickly then perform it you can tack it on to
+the end of a crouch dash giving it a longer range and faster execution time
+from a standing position. Doing it from a crouch is obviously not a problem
+but remember we are trying to use it in situations where we normally use the
+d/f+4,4. This is most prominent in juggle combos where damage is very
+important. The way the crouch dash trick works is that we are actually going
+into a crouch and then rising into the ax kick like normal. The difference
+being that we are using a special command to accomplish it. The correct
+command would be [f,N,d,d/f,N+4,4] which is one smooth motion. It follows
+the same rules as normal crouch dash attacks meaning you can initiate it
+anywhere in the dash. That gives the rising Ax Kick more variety than the
+standing version. Not only does it do more damage but has more range and
+when performed quickly in the crouch dash it is almost as fast.
+
+Using the WS version of the Ax Kick instead of the standing version in any
+possible situation is something that you should strive to achieve. Doing
+that extra damage at every chance might give you the added advantage to win
+a match that comes down to the wire.
+
+
+||Face Down Sweep Combos||
+
+As with most characters Jin can start a combo from a sweep initiated while
+rising from the face down position. You don't run across that situation very
+often but when it does present itself you should make the best of it. Most
+of the time it will occur when you are throw by certain characters,
+especially Hwoarang. When you are lying face down simply tap left kick to
+perform a special sweep that knocks the opponent off their feet but keeps
+them close to you. You also recover instantly from the sweep and can perform
+a juggle combo. In Jin's case he can perform any of the standard
+unconventional combos listed in this guide either by rising into half of his
+Ax Kick(WS+4) or by starting the White Heron Combo(1+4,2..). This
+opportunity won't happen to often so make sure you take advantage of it when
+the time comes.
+
+
+||Alternate WS Motion||
+
+The WS motion is a very important motion as a couple of Jin's best attacks are
+started with it. The only problem is that you have to duck first in order to
+do them and that takes a bit of time which takes some of the usefulness out
+of the moves. Well there is a little trick that allows you to perform this
+motion without consciously ducking down and rising again. Simply perform a
+fireball motion, forward or backwards, and tack the button that corresponds to
+the WS move that you want to peform on the end of it. So QCF+2 or QCB+2 is the
+same as ducking down and then doing WS+2. The exact timing is tricky and you
+have to perform the motion a bit slow but it allows you to pull those moves
+out of your hat a little fast than fully ducking first. If done correctly Jin
+will seem to not really duck all the way down, but instead the move will just
+come out as if he did it from a standing position. You can imagine how useful
+this trick could be. I suggest doing the fireball motion backwards as it seems
+to work a little better.
+
+
+||Hold Directions For Faster Executions||
+
+It has been a little known secret since Tekken 1 that holding certain
+directions while performing a move that requires none can make that move
+initiate a few frames faster. While that alone may sound insignificant
+it can make doing those difficult combos much easier and allow you to have
+a better chance of hitting an opponent while they are on the ground.
+
+In the days of Tekken 2 it was possible for Kazuya to connect with his
+flip kick(4~3) at the end of almost every combo. Most people didn't believe
+this because without using this trick the opponent could rise a few frames
+before the kick connected. However by tapping u/f+4~3, Kazuya was able to
+start the move just a few frames earlier than using just 4~3 and the hit
+became guaranteed. The reason it worked is because you couldn't start the flip
+kick until you recovered from the previous moves' animation. Tapping u/f while
+doing the 4~3 actually broke you free from the animation a few frames faster
+than if you had only done the buttons by themselves.
+
+Bring that knowledge to Tekken 3 and it does indeed help Jin out as well.
+While the flip kick is very seldom guaranteed in Tekken 3 it will still
+initiate faster with the u/f motion than with buttons alone. However that is
+not the only move that works with this trick. Standing jabs and the White
+Heron combo also work very well. Holding forward while performing a jab, most
+likely after a juggle starter, will allow you to jab a few frames faster than
+normal allowing you to get a bit more height with your juggles. Many of you
+probably do this already and don't even realize it is helping you out.
+
+The White Heron combo is perhaps the most important way to use this move as it
+allows you to do you Hell Sweep and Ax Kick combos more profficiently. Many
+people complain that after a Hell Sweep they can't perform some of the tougher
+combos because the White Heron doesn't knock them up high enough. A good
+example is this combo:
+
+f,N,d,D/F+4, 1+4, 1,1,2
+
+Without using any movement on the controller when initiating the 1+4 part
+directly after the Hell Sweep it is unlikely you will knock them high enough
+to connect with the jabs. However if you simply tap f+1+4 instead, it will
+initiate the White Heron just a few frames faster thus knocking your opponent
+a tiny bit higher which makes it possible to finish the combo. You might be
+able to get a jab in without using the trick, but it is much more difficult.
+The whole idea of this trick is to make it easier to perform those difficult
+to time combos.
+
+
+||Diving Stun||
+
+Most people realize that when you perform a dive while getting up it will
+stun your opponent for a second if they block it. What they don't realize is
+you can perform small combos by taking advantage of your opponents inability
+to move. There are several ways to start these combos, but the move has to be
+extremely fast. I suggest a standing jab, preferably a right one as it does
+more damage, a ducking jab or even a knee.
+
+Obviously some of these tricks will be more useful than others, however you
+should utilize each and every one of them when you have the opportunity.
+Gaining that extra damage or other types of advantage at all times is the key
+to winning against other high level players where every health point makes a
+difference.
+
+
+
+|Make the Best Out of Every Opportunity|
+
+This is sort of the cardinal rule for fighting games in general but I see so
+many people not follow it I feel I must stress its significance. It is
+important with any character to follow this rule but this section is
+narrowed down to its importance with Jin. Since Jin is more of a finesse
+character than a power character like Paul you can't rely on a few highly
+damaging moves to win a round. You might get lucky and get a big combo off
+once in awhile but most of the time you will have to eat away at your
+opponents damage and take advantage of any openings you see. I put the tips
+section right before this one on purpose. These are examples of situations
+that you should take full advantage of whenever possible. The next time you
+lose a match to an opponent who has little energy left remember that had you
+used those tricks you probably would have won the match.
+
+Since there are endless possible situations I'll just list a few general
+tips for common situations.
+
+
+|Ducking High Attacks|
+
+Anytime you duck an opponents high attack or attempted throw you should
+counter with a WS+2. You already know that it is his best juggle starter so
+you can do just about anything you want after it. It's very quick so
+sneaking it in after ducking an attack is quite easy but very few times do I
+see a Jin player utilize it. If your opponent attacks high, including in
+strings, then you should answer with a WS+2 to teach them a lesson. The same
+goes for any attempted throw including multi-parts. If King goes for a multi
+and you duck it then make him pay for his mistake. Never under any
+circumstance should you counter a ducked attack with a throw. That is a
+waste of an excellent opportunity for large amounts of damage.
+
+
+|Interrupt Unblockables|
+
+You should never throw, reverse or try to back out of an opponents slow
+initiating unblockable. Moves like Yoshimitsu's sword slashes are the
+exception because of their speed but his stabs along with unblockables like
+Paul's, Nina's, Law's and even Jin's should not go unpunished. They are slow
+to initiate and will give you an automatic CH when you connect. Some
+characters can cancel their unblockables but that won't put you in danger as
+they still have the cancel animation which is quite long. As long as you
+react fast you are almost guaranteed to hit so make the best use of the
+situation. We know that most likely it will be an CH so the Stun Punch Rush,
+or rather the first 2 hits, are the prime candidates. You CH with those and
+it's an automatic stun and most likely a huge combo. Even a simple combo
+like the Shining Fists is better than trying to get away from the character
+or attempting a throw.
+
+
+|Punish a Whiffed Attack|
+
+Anytime your opponent completely whiffs a special move or attack you should
+punish them in some way, shape or form. If the attack is a jab or something
+similar you won't be able to do much but if it's a big move you can do some
+serious counter attacking. For instance if Nina attempts her Divine
+Cannon(d/b+4,3) a little too far away and the second kick misses she is wide
+open for at attack. A quick Stomach Rush(f,f+2) should be the absolute
+minimum response whereas a quick Wind God Fist or Hell Sweep is the best. If
+you can do the Super Wind Godfist then that is the ultimate response because
+of its speed, range, damage and ability to juggle. This again stresses the
+importance of mastering the crouch dash. If the opponents move keeps them in
+a crouching position after they miss like Yoshimitsu's Spinning
+Sweep(D,d/f+3) the Hell Sweep followed by a combo is probably a safer
+response.
+
+
+These examples should get you started in the right direction. Finding the
+best response in the other many situations you'll encounter is up to you.
+Not all situations may have a simple guaranteed answer but to become a top
+Jin player it is imperative that you take full advantage of the ones that
+do.
+
+
+*************************
+*Putting It All Together*
+*************************
+
+Now that you have all of this raw information it's time to actually put it
+together in one smooth play style. You are probably expecting this section
+to give you the magical ingredient in doing that but in fact this section
+will be brief. I simply can't explain to you 'HOW' to play. You know the
+strengths and weaknesses of his moves and strings, his best juggle combos,
+how to use reversal buffers, how to construct custom strings, learned a few
+tricks and the best times to use them but after all of that information it
+is ultimately up to you to put it together. I can point you in the right
+direction but since I'm not there to hold your hand you have to take the
+last step. Think of it as a large puzzle and I just gave you all the
+necessary pieces to complete it or perhaps a large block of wood that I've
+carved a basic shape and it's up to you to add all of the details. I've done
+just about everything possible on paper to help you out but your success
+will depend on your own skills and ingenuity.
+
+
+|Should I play offensively or defensively?|
+
+Again this is up to you. While I believe that each character might excel in
+one aspect I won't tell you that you can't succeed using another. You must
+know how to play both ways and adapt accordingly. I myself prefer to be
+offensive though I have played quite a few very good defensive Jin players.
+Pick the style that is most comfortable to you and exploit it. Or better yet
+learn both styles and mix between them to keep your opponent baffled.
+
+
+|Should I take chances or play it safe?|
+
+Again this is a personal preference but I have seen no top level players win
+repeatedly without taking chances. What makes some players better than
+others is their instinct for knowing when to take chances and when to play
+it safe. Players who constantly play it on the safe side tend to get to a
+certain level and never pass it. By experimenting and taking calculated
+risks you can become a better player and never stop learning. I still to
+this day learn new things that I had never even thought of and it's because
+I refuse to fall into one type of play style and I never play it too safe.
+Conservatives can become good but to become great you have to take risks.
+
+
+**********
+*Epilogue*
+**********
+
+You've finally reached the end of this guide so hopefully you've learned
+something by now. If you are a beginner to Jin you've probably bit off a bit
+more than you can chew at first but just take your time and learn different
+sections at once. Get a feel for his moves, learn to juggle with proficiency
+and then go from there. If you are an old pro at Jin then hopefully I've
+given you some new insight to playing him in a different style or at least
+some bit of information that you weren't aware of. I'm sure there's quite a
+bit of things I'm not aware of yet so I'll probably be adding to this guide
+in time.
+
+
+*********************
+*Useless Information*
+*********************
+
+This section contains completely worthless information to learning to play
+Jin. However you should know a bit about your character if you want to learn
+to the extent intended by this guide.
+
+
+|Storyline|
+
+At the age of 15 he knew that he was Kazuya Mishima's son and at the same
+time he lost his mother Jun Kazama. Jin trained himself under the
+supervision of Heihachi every day with the intention of defeating the "God
+of Fighting" who is supposed to have killed his mother. For him, Heihachi
+was his grandfather and also a reliable "teacher".
+
+Four years have passed, and Jin Kazama is 19 years old now. Mastering the
+Kazama style of Judo  and Mishima style Fighting Karate, Jin starts to take
+action as a martial artist.
+
+
+|Biography|
+
+Copy:                   Fatal Lightning
+Nation of Origin:       Japan
+Fighting Style:         Advanced Mishima Style Karate and Kazama Style self-
+                        defense
+Age:                    19
+Height:                 180cm
+Weight:                 75kg
+Blood Type:             AB
+Occupation:             Martial Artist
+Hobby:                  Forest Bathing
+Likes:                  Mother's precepts
+Dislikes:               Deceiving others
+
+
+
+
+|Outfits|
+
+
+Buttons         Description
+-------         -----------
+1 or 2          Black gi pants with an orange flame on the right leg, red
+                gloves and no shirt.
+3 or 4          Black leather pants, boots and an orange and black leather
+                jacket with a Japanese character on the back.
+Start button    High school dress uniform. Pinstripe pants, dress shoes and
+                collared shirt with blue sweater.
+
+
+
+|Winning Stances|
+
+
+Buttons         Description
+-------         -----------
+1               Jin does a quick 4 punch combo into a defensive fighting
+                stance.
+2               Jin displays his skills by doing a 3 hit 2,2,1 combo in
+                front of the camera.
+3               Jin shows his true Mishima roots by imitating the Devil
+                Kazuya stance from Tekken 2 where he stands straight up with hi
+s arms folded
+                and as the camera zooms in he looks away.
+4               Here Jin does a small uppercut and then comes back with a
+                leaping one directly toward the camera.
+
+
+
+*********
+*Credits*
+*********
+
+Myself(Slikatel)        For writing the damn thing!
+Ben Cureton(Tragic)     For the use of some of the conventions used in his
+                        Tekken 3 move list.
+Steve Sronce(WLS)       For the use of his winning stance list.
+Kazuya and Jun          For conceiving Jin Kazama.
+
+
+
+*****************
+*End of Document*
+*****************
+

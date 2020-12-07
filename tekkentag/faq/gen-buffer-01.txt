@@ -1,0 +1,1337 @@
+
+BUFFERING GUIDE
+version 2.5  March 24, 2000
+
+by
+NICKY QUICK
+jodeniki@bluewin.ch
+
+
+This guide is intended for use by  "the Tekken community"
+(to quote one of my "mentors", gargoyle sox).  It may be 
+freely distributed as long as the contents remain intact, 
+credit is given to the author for his contribution to Tekken 
+knowledge in general, and no monetary compensation 
+is received. All non-official information contained in 
+this document are copyright (SUISA) joe nickerson, 
+February 15, 2000.
+
+I'd like to thank in advance, rather than at the end, those
+who have most influenced and contributed to my general 
+tekken thinking and progress: tragic, catlord, slikatel, 
+gargoyle, castel, angry bear, madrilejo, santa, triple 
+lei, fipo and many more - thanks everybody!
+
+Questions, comments and suggestions are welcome and should 
+be addressed to the above e-mail address.
+
+
+NEW: Version 2.5 March 24, 2000.  Additions to the Lei section 
+and added Jin and Julia sections.
+
+
+
+TABLE OF CONTENTS
+
+Foreword
+Conventions
+Introduction
+Chickens
+Throws
+Character Specific Buffers
+- Lei Wulong
+- Paul Phoenix
+Advanced buffering
+- Ling Xiaoyu
+Bonus
+- Anna Williams
+Multi-throws
+- Nina Williams
+- King
+Additional Character Specific Buffers
+- Hwoarang
+- Forest Law
+- Jin Kazama
+- Julia Chang
+Postscript
+Acknowledgement
+
+
+
+FOREWORD
+
+This started as version 1.1 of my first attempt at contributing 
+a FAQ to the Tekken database at large.  I didn't list a table of 
+contents, rather simply shared my findings as they applied to the 
+subject of this guide, hence the somewhat unstructured form. I 
+would like to at least once here refer to it as "The Art of the 
+Buffer" or perhaps "Buffer your Way to Glory" or something equally 
+pretentious. Seriously, we've all read somewhere that at the 
+highest levels of Tekken play, buffering plays a major role 
+(and not just to chicken).  It is one thing to be told of doors 
+to higher levels, another to be given the keys.  Has everyone 
+understood what buffering suggests and how it works?  If so, 
+you probably don't need this guide.  Let it be for average 
+players, and for those who are interested in attaining these 
+"higher levels".
+
+
+
+CONVENTIONS
+
+I'll assume everyone reading this is a Tekken 3 or TTT player 
+who is in no need of an explanation of the accepted conventions 
+used in Tekken FAQs.  But one convention used in this FAQ must 
+be introduced: bracketed buttons (with or without directional 
+inputs) for example [2], must be held until the inputting of the 
+complete command is finished.  Likewise, F+[1] (using a capital 
+letter for the directional command) means both f and 1 must be held.
+
+
+
+INTRODUCTION
+
+Perhaps buffering, at least intentionally, is not something 
+the average player has had much time to think about.  It's 
+simple: "Buffering" is the art of pre-inputting commands or 
+"parts" of commands, and then finishing them subsequently.  
+What this means is:  1) buffering applies to multi-button 
+commands (with directional commands, buffering applies to 
+adjacent or subsequent commands rather than to simultaneous 
+ones).  2) some difficult command inputs can be simplified 
+and execution times improved.  3) moves can be chained 
+together.  4) whereas a 2 button command (ex. 1+2) produces 
+1 "technique" (Lei's hook-punch, recovers BK), a buffered 
+version [1], 2, will produce 2 techniques (jab followed by 
+hook-punch, BK).  5) many buffered combos can be started 
+either left or right.  6) all the quick taps (4~3) are in 
+reality buffers.  7) superb mix-ups can be created.
+
+Until tekken Tag is available on PSX2 next year, I won't be 
+able to study buffering techniques for all characters concerned 
+(as I wasn't previously a Tekken 2 player) and so will confine 
+my "move lists" of buffering possibilities to those characters 
+I know and love best.  Version 1. will focus on Lei and Paul - 
+my second favorite, Hwoarang, won't be appearing in this version 
+because as defined in point  1) above, buffering only applies to 
+multi-button commands.  Sadly, from a bufferer's point of view, 
+"Bob" is lacking (but hey, he doesn't have a reversal either) 
+in multi-button commands.  He does however have a couple of 
+buffered combo throws that are dynamite!  If you really want 
+to get into buffering though, be sure to choose a character 
+rich in multi-button commands.  Later versions of this FAQ will 
+look at Xiaoyu, Law, Hwoarang, Julia, Jin, Nina and Anna.
+
+I'll try to evaluate the potential of each "combo" in terms 
+of its strategic and/or tactical use in real play as I go along.
+
+
+
+CHICKENS
+
+Everybody knows by now, or should know by now, what a Chicken 
+is and how to buffer one.  A "Chicken" is for those who fear 
+or respect reversals or those who are just too cool to be 
+caught pants down.  In effect we reverse the reversal -
+Kaeshiwaza in Aikido.  Even Namco told us how to do it: if 
+you punch left or kick left, 1 or 3, you must immediately 
+input (buffer) f+1+3 afterward to have a Chicken buffered 
+in the CPUs short term memory "in case" a reversal appears. 
+This is certainly possible but difficult to do: after every 
+move that could conceivably be reversed, we have to additionally 
+punch-in f+1+3 or f+2+4.  It's easier to risk it - after all, 
+only Paul, Nina, Jin, and Anna have reversals for both punches 
+and kicks!  But I would argue this is not truly "Buffering a 
+Chicken" rather simply inputting one.  Buffering means to 
+pre-input parts of commands then finish them subsequently.  
+This is "buffering" a Chicken:
+
+[3], f+1    Easier and faster
+F+[4], 2
+f,F+[3], 1 
+b+[2], f+4
+d, df+[2], f+4
+uf+[4], f+2
+
+There's a "catch" here that has maybe already raised a 
+question in the minds of those who are in the habit of 
+being one step ahead: Won't [3], f+1 or F+[4], 2 produce 
+a throw attempt?  Yes.  Now here's the catch: If we input 
+f+1 before our previous command [3] recovers, it is a 
+buffered Chicken.  If we input after the recovery 
+(which is pretty fast with a jab) it's going to be a 
+throw attempt. DON'T FORGET!  Alternatively, we could 
+also input as shown above: f+[4], f+2 As we can see 
+this applies to virtually every move with less than 3 
+buttons simultaneously.  Rather than risking it, show 
+'em who's boss.  But of course the choice is yours to 
+Buffer or Suffer.
+
+ 
+
+THROWS
+
+Every character, rich in multi-button or multi-directional 
+commands or not, shares this in common: the ability to 
+buffer the normal throws and some special throws.  However 
+Namco did not create all souls equal, and not all 
+characters have the same number of throws - nor do 
+all special throws require two buttons.
+
+Call it basic buffering and keep these points in mind 
+when applying your own buffers:
+
+Jab [1] or [2] followed by kick, 3 or 4 = throw 1+3 or 2+4.  
+Can we do this the other way around, kick first?  Sure.  
+The only problem is, a kick may knock your opponent too 
+far away to reach with your grab.  It depends on your 
+character's attributes of course as well as those of your 
+opponent - how far each jab or kick distances you from your 
+opponent.  So its simple and deep at the same time.  But in 
+general, this is the way to learn buffering.
+
+
+
+PLAYER SPECIFIC BUFFERS
+
+
+Lei Wulong
+
+Starting at the top of Lei's special moves list:
+
+[1], 2, 1 (=1, 1+2 BK, 1) Lei left jabs then hooks to 
+recover with his back turned followed by his repeatable 
+spinning back-fist. So we get a fast jab to start our 
+little combo.  As to the usefulness of this all high 
+hitting combo I won't hazard a comment other than to 
+say it's a buffered combo which creates a small mix-up 
+combo - useful or not, see the possibilities for general 
+theory of relativity, Tekken style?  If you can pull off 
+a d+1 juggle from BK, everything is relative.
+
+[1], 2, 2 (=1, 1+2, 2) Lei jabs left then hooks to recover 
+BK followed by a counter-ably slow, but nonetheless lovely, 
+juggling uppercut.  Here's the great thing about buffering:  
+these two combos can be started [2], 1.  So from the original 
+two combos (1+2, 1 and 1+2, 2) we now have four enhanced 
+combos starting from either side.  In theory the same, but 
+in practice I've found the [2], 1 starter to be much more 
+effective.
+
+F+[1], 2 _ F+[2], 1 (= 1, f+1+2 _ 2, f+1+2) Good news for 
+Lei fans: TTT's great new Lei move, Double Snake Punch to 
+Crane Stance (f+1+2~F) is buffer-able.  Hold F to go to 
+Crane or u or d to go to Panther.
+
+[2], f+3 (=2, f+2+3) Snake Stance.  But not just the tricky 
+to input, unprotected stance change rather a right jab that 
+is fast, scores 15 points damage, and is followed by a mix-up 
+to SNS to fool the best of ‚em. [3], f+2 gives you more room 
+to switch but takes away the surprise.  Remember that each 
+opponent may necessitate you side-stepping in a different 
+direction, ex: SSR vs X, SSL vs Y.
+
+GLITCH: It was assumed that SS+2+3 was a new TTT only chance
+for Lei to go into Snake Stance - but it also works in Tekken 3!  
+Now apply the above buffers with a side-step, ex: f+[3], SS+2.
+
+[4], SS+1 (= 4, SS+1+4) The other possible side-step to SNS
+buffer - also enhanced by appropriate choice of SSL or SSR.
+
+B+[1], 2 (= 1, b+1+2) Another good mix-up: prepare your 
+Cannonball head-butt with a strong left jab.  Why b+1?  
+Because it scores 13 instead of 7 points damage (a bonus 
+glitch to only Lei and Jin). You can turn this one around 
+too no problem - jab and hold right punch first, then input 
+b+1.  Slight loss in speed but slightly more damage.
+
+B+[1], 4 , 3 (= 1, b+1+4, 3)  OK, you can get to Phoenix 
+Stance this way, a jab mix-up to unblockable sounds 
+tempting, but the execution/recovery time is horrendous 
+so make sure you knock ‚em down first with the 3. Recovery 
+or Execution time will indeed be one of the deciding factors 
+in your use or abuse of buffered techniques because the 
+second button responds only after the first move recovers.  
+Combos done with fast recovery moves are advised.
+
+[4], b+3 (= 4, b+3+4) One of the best of the truly useful 
+buffered mix-ups.  Instead of just turning your back (albeit 
+in itself a useful mix-up) you first deliver a fast right 
+kick, then turn BK to start a great guessing game: rave trip, 
+spinning uppercut, mid-kick, low spinning juggler, or 
+spinning hop-kick?  [3], 4  works too - but don't forget the 
+recovery time.
+
+D+[1], 2 _ [1], d+2 (= 1 _ d+1, d+1+2) An even more mixed-up, 
+deceptive ruse to do Lei proud.  This time alternate between 
+low or high jabs to prepare your drop to Slide position.  
+Again, instead of just dropping, you jab then drop.  A 
+simpler command input, faster execution time Mix it up with 
+[2] or D+[2], 1 to start a right or left guessing game.
+
+[4], d+3 _ D+[4], 3 (= 4 _ 3, d+3+4) These just keep getting 
+better.  A fast kick followed by a fast drop to PLD for 
+a pop-up launch (3+4) to juggle your merry way home.  D+[3], 
+4 or [3], d+4 are also both useful and give the same d+3+4 
+result - but is your opponent more likely to strike high or 
+low/mid to minor counter your low kick?
+
+NOTE: Buffers from BK position - the back flips don't buffer, 
+but one thing that works well as a mix-up is BK [4], D+3 which 
+is mid-kick to rave trip to SNS.  Unfortunately, buffers from 
+Prone positions are also not possible - the single buttons all 
+recover standing - so just press 3+4 instead.
+
+F+[4], 3 (= f+4, f+3+4) One of Lei's favorites.  The f+4 avoids 
+many high attacks, does good damage, and knocks your opponent 
+down.  By the time he/she jumps up and comes for revenge, Lei 
+has been buffered into Drunken Stance and can nail ‚em with 
+the Drunken Punch (mid) for 25 damage or hit low for 15 and 
+recovery in FCD.  If you happened to whiff the f+4, you might 
+catch a high punch retaliation with the drunken parry.  Compare 
+to the [3], f+4 or [4], f+3 or F+[3], 4 possibilities.
+
+f, N+[3], f+4, 1 _ 2, 2 (= f, N+3, f+3+4, 1, 2, 2) This 
+qualifies as an Advanced Buffer.  Lightening Crescent to 
+Drunken Stance with either a Drunken Fist or, new in TTT, 
+2 Drunken Punches. 
+
+NOTE:  You'll have noticed that directional commands that 
+are included must be held if performed with the first 
+button input, but input with the second button if the 
+first button was performed alone.  Ex: F+[4], 3  but 
+[4], f+3.  In addition, directional buttons must sometimes 
+be released or re-pressed before the next command is input.
+
+d+1+3 _ d+2+4  Both low punches and both low kicks can be 
+buffered into the low parry for surprising results.  
+Remember a low counter attack might follow your low attack 
+in order to catch you still crouching.  A low parry will 
+set-up your uf+4  hop-kick or df+2 uppercut juggle starter.
+
+
+SPECIAL THROWS
+
+f, N+[1], uf+2 (= rush punch, uf+1+2) Almost no one expects 
+you to stop after only one razor rush punch - unless it's to 
+switch to SNS, which they expect to counter, or to hop-kick, 
+which they try to block.  Instead, we snatch ‚em up with the 
+fast executing Dragon Falls, which recovers FCD.  Easily 
+tack-on Deep Sleep, Rave spin, or Go to Sleep for a wake-up 
+mix-up.  You can also try f, N+[2] and [1] or [2] starters.
+
+f,  N+[1], SSL, 3 (= f, N+1, SSL (SNS), 1+3) The only drawback 
+to this sneaky Snake Stance throw (from the right side is the 
+coolest Lei normal throw, Closing Fan) is that you have to 
+recover in SNS before pressing the 3.  Hold 1 all the way.  
+This is another Advanced Buffering example.
+
+[1], f, f+2 (= 1, f, f+1+2) After knocking them back with a 
+jab, jump in there and trip-throw ‚em for 33 additional 
+damage. If you use b+[1] to start, the total damage goes 
+up to 46 but you must remember to release the b to input 
+the f, f+2.
+
+
+
+Paul Phoenix
+
+Paul has only a couple of multi-button commands, albeit 
+good ones, and luckily a few throws.  These few added 
+buffered combos alone can greatly enhance Paul's overall 
+game.  In this section, we're going to ask Paul as well 
+to demonstrate multi-directional commands buffering.
+
+F+[4], 1 _ F+[1], 4 (= 4 _ 1, f+1+4) Both right kick and 
+left jab are fast ways to lead into Paul's Shoulder Ram, 
+setting up a nice wake-up game.  Note again: This could 
+be input as [1], f+4 or [4], f+1 without holding the 
+directional command.
+
+[1], f+2 _ [2], f+1 (= 1 _ 2, f+1+2) Jab left or right to 
+God Hand.  With the right jab starter, we score almost 50 
+normal damage with the 2nd hit going mid to catch the high 
+jab duckers - need I say more?
+
+B+[1], 2 (= 1, b+1+2) Paul's Burning Fist off a jab is 
+possible, but following up the simple jab is suicide - 
+a good example of execution time spoiling an otherwise 
+good buffer.
+
+WELL, that just about does it for the 2-button category - 
+unless you want to buffer Paul's reversal - but now comes 
+the interesting stuff with directional buffering: FC, df.  
+Paul has some great moves off these commands.
+
+d+1, df+2 (= d+1 (FC), df+2) Let's just get heavy right 
+away - Hammer Punch to Jaw Breaker.  Combined damage for 
+this mid/mid combo is 36.  OK, it does less damage then 
+the canned Hammer-Deathfist which also hits mid/mid so 
+the blocking is the same - but the timing isn't.  Plus, 
+you get style points for this mix-up - and this is only 
+the start.
+
+NOTE:  by not holding anything, only the FC is being 
+buffered.  Furthermore, any move that recovers crouching 
+is in effect the buffered FC for our FC, df commands.
+
+d+1, df+2, 1 (= d+1 (FC), df+2, 1) This time we are 
+buffering the FC and increasing the follow-up 
+possibilities of our beloved Hammer with the Gut Buster combo.
+
+d+1, df+2, 2 (= d+1 (FC), df+2, 2) Here it is, my favorite 
+Hammer Punch mix-up, the Stone (d) Breaker.  An expert 
+opponent might block high/high for the Hammer-Deathfist 
+but we tack on a low juggler!  Follow with a Falling Leaf 
+for damage worthy of a ten-string.  Or they block 
+high/low/high for the Hammer-Falling Leaf combo but we 
+fool ‚em mid/mid/low for some real bewilderment - don't 
+forget to juggle!
+
+NOTE: All of the d+1 buffers could be started with d+2, 
+d+3 or d+4 because we buffered the FC, not the punch and 
+kick buttons.
+
+
+SPECIAL THROWS
+
+B+[2], 3 (= 2, b+2+3) I love this throw despite the touchy 
+input.  I started buffering Paul to see if I could improve 
+my chances of consistently pulling-off this move.  
+Unfortunately, the results are also touchy.  Paul's right 
+jab of course, is strong ( the left kick is worse) and 
+knocks, under normal circumstances, the opponent too far 
+away to reach with the grab.  A nice little combo in theory 
+at least: Jab and Grab.  TIP:  it can work if it whiffs.
+
+[1], f, f+2 (= 1, f, f+1+2) Just like Lei, Paul can start 
+with either a left or right punch followed by one of his 
+best throws. These f, f throws are great: push ‚em back 
+with a jab, then jump in and grab to throw (like we do in Aikido).
+
+DF+[1], 2 (= df+1, df+1+2) Perhaps the best buffered combo 
+throw for Paul.  The mid hitting uppercut usually keeps the 
+opponent close enough to grab for the Face Bash.  If the first 
+hit is blocked or even whiffed, it sometimes works even better.  
+Follow with the Hammer for an easy 12 + 40 + 15 = 67 damage!  
+For that matter, any Paul move (ex. QCB+1) where the 1 can be 
+held, is buffered to chain into df+2 (if it doesn't CH) for 
+the Face Bash.  If you mess up the commands you often get the 
+Hammer-Gut buster combo at no extra charge. 
+
+DB+[2], 1 (= db+2, db+1+2) The Ultimate Tackle is buffered 
+by means of a low punch (1 or 2 will work).  It may surprise 
+your opponent because a buffered tackle executes fairly fast 
+- but the telegraphing is still too hideous to fool even a fool.
+
+
+
+ADVANCED BUFFERING
+
+Advanced buffering is characterized by complex button 
+combinations such as  1) changing or releasing button 
+commands  2) holding a button(s) through more than one 
+subsequent command  3) pressing a subsequent button more 
+than once.  Let's ask Xiaoyu, a character rich in 
+multi-button commands to demonstrate.
+
+
+Ling Xiaoyu
+
+First though, her basic buffering possibilities.  Remember 
+as with Lei and Paul that every buffer can be performed 
+[1], 2 or [2], 1.  If one directional input is required, 
+we have four possibilities: F+[1], 2 or F+[2], 1 but also 
+[1], f+2 and [2], f+1.
+
+[4], 3 _ D+[3], 4 (= 4 _ d+3, 3+4 _ d+3+4) Xiaoyu is 
+already a great mixer-upper but by buffering her moves 
+we can increase her tricky-ness four-fold.  Kick or low 
+kick then spin away or near before your next attack or 
+combo. [3] as a starter would knock your opponent down 
+and a few steps away which pretty much negates your spin.
+
+F+[1], 2 (= 1, f+1+2) Punch left or right (that's the 
+last time I'll say it) then cartwheel right.
+
+F+[3], 4 (= f+3, f+3+4) This time flatten them with one 
+of my favorite Xiaoyu power shots, the Cloud Kick.  
+Why exactly you'd want to cartwheel after knocking 
+your opponent flat isn't immediately clear maybe just 
+to showboat a little? F+[4], 3 is much more useful - 
+afterward you're in position for the Rain Dance Power 
+Hook Kick (4).
+
+[1], 2 (= 1, 1+2) I could have listed this first under 
+Xiao's special moves but since it's new to TTT,  it's 
+new to me.  Like Lei's new F+1+2, this move, Birds Flock, 
+doesn't need to be buffered to be great, but  a quick jab 
+intro doesn't help - your opponent!
+
+[3], f, f+4 (= 3, f, f+3+4) Here is a use for the standing 
+3 kick that knocks down your opponent then follows up with 
+the Front Layout which scores a hit if they stand up 
+without rolling.  If you try this f, F+[4], 3 you get the 
+Step Kick to Cartwheel Left because only the second f is 
+buffered (= f+3+4).  f, F+[3], 4 will be shown later under 
+Xiaoyu's advanced buffers.
+
+[1], b+2 (= 1, b+1+2) Proceed to Hypnotist Stance via a jab 
+then afterwards a follow up.  B+[1], 2 or B+[2], 1 produces 
+the excellent mid parry, The Great Wall, left or right to 
+HYP and perhaps beyond, but it has tricky timing. Even though 
+the directional command is shown here with a capital B, meaning 
+to hold, you must release it shortly after inputting the 
+second button.
+
+[4], b+3 (= 4, b+3+4) Like Lei, instead of just turning your 
+back to the enemy, kick ‚em first.
+
+[1], 4 (= 1, 1+4) Jab to High/mid Parry (maybe if you whiff 
+a lot of jabs).
+
+D+[4], 1 (= d+4, d+1+4) Low kick to Low Parry - for when 
+you're feelin' Eddie wary.  Hold the 1 to tack-on more fun.
+
+Speaking of fun, we can also jab and/or kick then follow 
+with a taunt: [1], [2], 3 or [2], [3], 4.
+
+d+[1], [2], 1 (= d+1, d+1+2, 1+2) the drop to Phoenix Stance 
+can be proceeded by the Sunset fan.  It's the same as the 
+normal Flapping wings D+1 but by holding the 2 and pressing 
+1 once more, you get the juggler Wave Crest-Power!  We're now 
+heading into Advanced Buffering:
+ 
+We wouldn't normally think there's a buffer for a one 
+button command, even an excellent one like Xiao's f, f+3 
+Raccoon Swing. But if we do it:
+
+f, F+[3], 4, 4 (= f, f+3, 3+4, 3+4) Holding 3 all the way, 
+we get the Raccoon Swing followed the California Roll to 
+Kangaroo Kick!  An awesome high-damage combo that serves 
+up, as Catlord would say, "Juggle du jour".
+
+[2], b+[1], 2 (= 2, b+1+2, 1+2) We probably won't find a 
+finer way to attempt Xiaoyu's unblockable Thunder Strike.  
+If you miss it you might get the Spin Sticker if yer lucky.
+
+U+[1], [2], 2, 1 (= u+1, u+1+2, 2, 1) Yep, that's Back 
+Palm-Forward to Fortune Cookie. Guess you just got to buy 
+Tragic's (Ben Cureton's) book now!
+
+F, F+[1], [2], 1 (= 1, f, f+1+2, 1+2)  A Phoenix Wings short 
+cut - but hopefully not clipped short.
+
+
+ADVANCED DIRECTIONALS
+
+Xiaoyu has even more FC, df moves than Paul and with several 
+different starters (including both d+ and RC possibilities) 
+it would take awhile to list them all.  Using only d+1 as my 
+starter, here are a couple:
+
+D+1, df+2, 1, df+4, 4, WS+2 (BK), 2, 2, 2 3 _ 4 (= d+1 (RC), 
+df+2, 1 (RC), df+4, 4 WS+2 (JG, BK), 2, 2, 2, 3 _ 4)  Sunset 
+Fan (RC) to Lotus Twist (RC) to Sun Flower (JG, BK) juggle 
+ending with 3 for more damage or 4 to juggle some more!
+
+d+1, 3, 2, 1, 4 (= d+1 (RC), 3, 2, 1, 4)  Sunset Fan to Fire 
+Dancer.  After any move that recovers crouching (ex. df+4, 4) 
+we can initiate the Fire Dancer.  This is again buffering the FC.
+
+Maybe a couple more mix-ups:
+
+d+1, df+2 (= d+1 (RC), df+2 (BK) Sunset to Shady Lotus to 
+recover into Rain Dance.
+
+d+1, db+[3], 4 (= d+1 (RC), db+3, db+3+4)  Sunset to low kick 
+to Low Back Turn.
+
+
+SPECIAL THROWS
+
+Xiaoyu is a thrower's delight.  Oddly enough, she doesn't 
+really have any 2 button special throws to speak of but she 
+has so many special moves with 1 or 2, in addition to the 
+normal jabs, that it's possible to throw the whole match (no 
+pun intended of course) - intentional or not!  MASHERS take 
+note: (I for one am convinced the unintentional buffering is 
+what makes lucky mashers the great pain in the ass that they 
+are) just hold down 1 or 2 and mash out those throws!
+
+Xiaoyu's weakness, her short reach, is actually her throwing 
+strength: most of her moves leave her very close to her opponent 
+so tossing's only a snatch away.  Not listing them all:
+
+df+[1], 3 (= df+1, 1+3) Belly chop to Jade. Ain't that sweet...
+
+DF+[1], 2, 3 (= df+1, df+1+2, 1+3)  Again advanced buffering.  
+Hold the 1 all the way through for Belly Chop to Phoenix Stance 
+to Jade.  Mixing it up.
+
+u+[1] _ U+[1], 3 (= u+1 _ U+1 (BK), 3) Back Palm to Jade, 
+front or back.
+
+uf+[2], 4 (= u+2, 2+4) A good hit (stun) off of Cyanide 
+will definitely leave you in throwing range.
+
+D+[1], [2], 3 (= d+1, d+1+2, 1+3)  Sunset fan to Phoenix 
+to Jade.  Buffering gets us there a little faster and helps 
+to mix things up.
+
+Df+[2], 4 (= df+2, 2+4) Butter the Bread - yer dead!  (I'll 
+settle for the KO).
+
+From Rain Dance:
+
+f, F+[3], 4 (= f, f+3, f, f+3+4) Buffering from Peg Leg to 
+Back Layout, just for fun.
+
+f, F+[3], 1 (= f, f+3, f, f+1+3)  Even better.  After Peg 
+Leg, spin around and throw with Jump reverse Clutch.
+
+NOTE:  There's a lot more to check out, especially in 
+Raindance and Phoenix - and not just for throwing either, 
+but hey, remember, this is my first FAQ!  I think we'll 
+let the rest ride till next version 3.0 - but by then 
+you'll probably have started finding a lot of stuff 
+yourselves so I think I'll move on...
+
+
+
+BONUS
+
+I couldn't resist a few choice Anna Williams buffers.  
+Anna is truly a Mystic Booty buffering bonanza - so 
+let's start there:
+
+[3], 1+2, 4, 3 (= 3, 1+2+3, 4,3) Left kick (knockdown) to 
+Mystic Booty taunt with a fast turning low/high kick combo 
+to keep ‚em off your butt.
+
+[1], b+[2], SS+1, d+3 (= 1, b+1+2, SS+1+2, d+3) Jab to 
+Single Slap to Bloody Chaos (JG) to low kick.  Or just 
+start with b+[2], SS+1.
+
+SS+[2], 1 _ 4 (= SS+2, WS 1+2 _ 2+4) I know it sounds crazy 
+but when you hold the 2 then hit the 1 you get the Anna Bomb.  
+If that isn't cool enough, check out the throw alternative.
+
+[2], d+1 (= 2, d+1+2) We like to at least try for unblockables, 
+"bloody" or not!
+
+d+3, FC f+1, d+3,4 (= d+3 (RC) f+1, d+3,4) Low kick to Bloody 
+Spear to Low Left/High Right kicks.
+
+d+4 _ d+1, f+[2], 4 (= d+4  _ d+1 (RC) f+2, 2+4) Low kick or 
+punch to Overhead Windmill with follow up throw. d+4 should 
+give you the side throw, Trick Embrace Strike.
+
+d+1, FC df+2, d+3, 4 (= d+1 (RC),df+2, d+3, 4) Low jab to Low 
+Arm Sweep.  Juggle with d+3, 4. Oo-o-ohh, baby!
+
+[2] _ b+[2], uf+1 (= 2 _ b+2, uf+1+2)  Jab or slap to grab.  
+Tack on a running attack.
+
+
+
+ MULTI-THROWS
+
+Until such time that Mike Nappi or another true King/Armor 
+King master steps forward, willing to divulge a few of the 
+secrets that usually remain the providence of those on the 
+"highest levels" of Tekkening, this section must be considered 
+Under Construction. Nicky Quick is not a King player - well, 
+not yet anyway.  I know Nina much better but, in any case, I 
+find it more difficult to input all that acrobatic stuff on 
+an arcade controller than on a PSX controller. Life was easier 
+in some ways with R1, R2, L1 and L2. It cost me many hours 
+to get the Tendon Lock (1,3 2+4, 3+4, 1+2) to work on arcade 
+buttons - the joke I think being on us - as in whose tendons 
+are being locked?  Again buffering provides a key.
+
+
+Nina Williams
+
+[4], QCF+[3], 4 , 4, [2], 1 (= 4, QCF+3+4, 3+4, 4, 2, 1+2) 
+Crab Claw to Heel Hold.  It's pretty hard, buffering or not, 
+to get this input to cooperate - but Practice Makes Perfect 
+(if we understand Lei's movie correctly)!  Indeed if we 
+understand Lei's movie correctly, we also understand that 
+a very important part of training is to know when to take 
+it easy.  Buffer or Suffer.
+
+Without the buffer above, we have three, 2-button inputs 
+including - let's just call it a "simple split", 3+4, 1+2, 
+easy horizontals.  But multi-buttons as used especially in 
+multi-throws, seem to abound in not only these, but also 
+"vertical splits" (1+3, 2+4), "hard splits" (2+3, 1+4) or 
+even "combo splits" - like my favorite follow up to Heel 
+Hold, Tendon Lock (2+4, 3+4, 1+2).  You have to be a real 
+dancer to input accurately and it's easy to slip up.  
+Starting with a fast right kick, the buffered version 
+has NO double buttons until after the Heel Hold. I have 
+to confide it seems easier to input the Tendon Lock follow 
+up as 1, 3, 2+4, 3+4, 1+2 than as 1, 3, 2+[4], 3, 1+2. 
+Practice makes perfect. Since however, it'll get even more 
+rad - even with fingers crossed, in the "Advanced Multi-Throw 
+Bitchin' Bufferin' Section", don't worry too much about these.
+
+
+[2], QCF+1 (= 2, QCF+1+2) Jab to Palm Grab.
+ = 2, 3, 4, 2, 2 Double Attack
+  = 1, 3+4, 1, [1], 2 (= 1, 3+4, 1, 1, 1+2) Neck Crusher 
+at a modest savings.
+  = 1, [2], 4, [3], 1 (=1, 2, 4, 3, 1+2+3) Galetech Stretch 
+your fingers! If you try to buffer the 1 from the beginning, 
+you'll get the 1+2+3 one move too soon - food for thought.
+
+QCB+1+4 (= QCB+1+4) Betrayer.  Unless we find a move with 1 
+or 4 that doesn't push our opponent too far away, we'll have 
+to settle for the "hard split". The compensation isn't bad as 
+this move ducks high attacks (if yer timing's right) and 
+auto-blocks low ones. Nina has to be pretty close though to 
+reach.
+ = 2, [1], 2, 2, 3 (= 2, 1, 1+2, 1+2, 3) Octopus Grab. No DBs 
+(double buttons)
+  = 1, 3+4, [1], 2, 2 (= 1, 3+4, 1, 2, 2, 1+2) Neck Crusher. 
+No DBs.
+  = 1, [2], 4, [3], 1 Galetech Stretch ‚em again.
+
+ = 1, 3, 2, 1 (= 1, 3, 2, 1) Standing Reverse Arm Lock.  
+To mix.up or betray your opponents breakout attempt when 
+she/he assumes your doing the Octopus follow up.
+  = 2, [1], 3, 4, 2 (= 2, 1, 3, 4, 1+2) Falling Reverse 
+Armlock to follow up the SRAL. It's a finger crosser to 
+hold the 1 all the way but, Hey, anything to save a button!
+  = 3, [1], 4, 2, 2 (= 3, 1, 4, 1+2, 1+2) Rear Galetech.  
+Same buffering idea, different result.
+
+
+
+King
+
+I just BECAME a King player!  It's a very enlightening 
+irony, after cajoling you to "choose a character rich 
+in multi-button commands", that I, before the reader's 
+very eyes, should at this time first "discover" King for 
+the awesome self that he is.  This can truly be a site 
+Under Construction now.  I can just keep adding 
+indefinitely till version 218.0 or so.  This will become 
+an "Alter to King's Buffered Awesome-ness" or something! 
+Please indulge just a few easy combos before the 
+Multi-Throw-Show begins:
+
+[1], 2, 1 (= 1, 1+2, 1) Axle Spinner with a jab beginner.
+
+[4], df+3 (= 4, df+3+4) Right kick (a big 26 damage) to 
+Frankensteiner, 60 (at least!) damage - don't ever cry 
+and moan again about Deathfists and Rave Spins!
+
+F, f+[2], f,d,df+1 (= f, f+2, f,d,df+1+2) Power Upper to 
+Black Bomb.  Paul be knowin' where this all come from.  
+We're talkin' Soul now.  Obviously Tekken already has 
+enough techno killers, (no offense Yoshi), zombies 
+(actually I'm a Brian fan too) and otherwise pure white 
+skinned, cold-blooded ninja for your sister types (yes, 
+I've made Kunimitsu's aquaintance) or major destruction 
+Proto- bionics types  as it is and was in need of some 
+Duende Caliente - but now back to work:
+
+[2], f+1 (= 2, f+1+2) Right jab to left Iriminage 
+(Jaguar Lariat) unblockable. Worth a try to make them cry.
+
+[3], f+2 (= 3, f+2+3) Left kick to Shoulder Tackle.  
+The lovely but slow executing Shoulder Tackle is given 
+another chance by the left kick which knocks your opponent 
+down just inside of - you guessed it, Shoulder Tackle range.
+
+
+[4], SS+3 (= 4, SS+3+4) Kick to Boomerang.  It's been said 
+a lot, but don't under estimate mix-ups and simpler inputting.
+
+[1], f,f,N, 2 (= 1, f,f,N, 1+2) Jab to Push back.
+
+f,f+[2], f+1 (= f,f+2, f+1+2) Power Upper to Jaguar Lariat.
+
+[3], 4,  f,f+1+2 (= 3, 3+4, f,f+1+2) Kick to Exploder (KND) 
+to Cross Chop Block.
+
+b+[4], 1 (= b+4 (BK), 1+4) Prison Break to Moonsault. Soulful. 
+
+[1], d+2 (= 1, d+1+2) Jab to Mini Elbow Drop.
+
+[1], f,f+2 (= 1, f,f+1+2) Jab to Lay Off!
+
+So maybe I should.  If that was a folder not yet even full 
+of normal and advanced buffers, a veritable Thesaurus of 
+buffering is next:
+
+
+King's Multi-Throws
+
+[2], b+[1] (= 2, b+1+2) Let's start with the Irish Whip 
+and its buffer-able links.
+ = 3  if we buffer the 1 above, we only need 3 to get 
+the Spin Feint.
+ = 4  if we buffer only the 2 above we get the Quick 
+Slam (hot damn!) with 4.
+ = 1  if we hold both the 1 and 2 above and hit either 
+again we get Turn Around.
+ = 3+4 - no buffer from Irish Whip for Destruction.
+
+d,df,f+[1] (= QCF+1) Again, buffering the 1 from 
+Jaguar Driver sets up:
+ = 2 (= 1+2) Face Buster
+ = 2, 3, 4, 2 (= 1+2, 3, 4, 1+2) Here's where it gets 
+cool.  Believe it or not, we can hold 1 all the way 
+through the Boston Crab because there are no double 
+buttons that require a different button be buffered. 
+You need to run like a crab to not thumb this one.
+
+[4], f,N,d,df+[1] (= 4, f,N,d,df+1+4) Easier to start 
+kicking than to cross finger a "hard split" crouch dash 
+1+4 Arm Breaker.  If we buffered the 1 as well, we can tap 
+2 twice:
+ = 2, 2 (= 1+2, 1+2) to get Triple Buster
+ = 2, 3, 4, 2 (= 1+2, 3, 4, 1+2) Same chowder as before 
+for Boston Crab.
+ = 2, [4], 2 (= 1+2, 4, 2+4) Head Jammer.  Remember we're 
+holding the 1.
+  = 4, 3 [4], 3, 1+2 (= 4, 3, 4, 3+4, 1+2) Buffering where 
+we can as we go from link to link - here the Struggle Combo.
+ = [2], [1], 3 (= 2, 1, 1+2+3) Chicken Wing variations from 
+Arm Breaker. 
+  = [2], [1], 3, 4, 4 (= 2, 1, 3, 1+2+4, 1+2+4) Dragon 
+Sleeper - advanced buffering at its craziest? NO - check 
+out this Advanced Bitchin' Bufferin':
+  = [3], [4] [2], [1], 3 (= 1+3, 3+4, 2+4, 1+2, 1+2+3) R.D.C.  
+This last link from Chicken Wing is worth 70 damage alone but 
+I think it was KO before we even got this far!
+
+NOTE: Just to make it clear: you can try to contort your 
+fingers into holding all the buttons at once but they can 
+and should be held in succession or only as long as necessary.
+
+[2], SS+[4] (= 2, SS+2+4) Reverse Full Nelson.
+ = 2, [2], 1 (= 2, 2, 1+2) Cannonball
+  = 1, 2, 3+4 (= 1, 2, 3+4) Power Bomb, no buffers.
+   = 2, 1, 3, 4 (= 2, 1, 3, 4) Big Swing, no buffers.
+   = [3], 1, 2, [4], 1+2 (= 3, 1, 2, 3+4, 1+2+3+4) T-Bone.  
+Again, if we tried to buffer the 1 and 2 instead of the 4, 
+we would arrive at the 1+2+3+4 one command too early.
+  = 3, 1, 1 (= 3+4, 1+2, 1+2+4) Manhattan Drop.  If we were 
+to hold the [4] all the way from the Reverse Full Nelson and 
+the [2] from the Cannonball, we would have an easy time of 
+this otherwise difficult "combo split" Full Nelson fingering.
+   = 1, [2], 3, 1 (= 1, 2, 3+4, 1+2) If we were still holding 
+the 4 from above and now the 2 here, we could continue our 
+bitchin' bufferin'.
+    = 2, 1, 3, 4 (= 2, 1, 3, 4) If you got this far, 
+congratulations.  Now you can let everything go for the Big Swing.
+    = [3], 1, 2, [4], 1+2 (= 3, 1, 2, 3+4, 1+2+3+4) T-Bone, 
+same menu as before.
+
+LISTEN, if this section is still Under Construction, then 
+I'm finished for now with Version 2.0 - especially if I want 
+to have time to share some buffers for Hwoarang and Law.  
+See you here again in a future up-date.
+
+
+
+ADDITIONAL CHARACTER SPECIFIC BUFFERS
+
+
+Hwoarang
+
+From the lack of 2-button commands, it would appear at a 
+glance, that "Bob" has no chance.  But combining moves to 
+buffer into his two spectacular normal front throws is in 
+itself a thrill - and maybe just the chance Bob needs to 
+become a buffering Star.
+
+[1], 2, 3 (= 2, 1+2, 1+3) Right jab to Disrespect to Pickpocket.  
+1, [2], 4 would of course lead to Human Cannonball but seems 
+to always come up short.  Pickpocket almost never comes up 
+short, the pay-off is always within reach.
+
+[4], 3 _ [3], 4 (= 4, 3+4 _ 3, 3+4) Kick ‚em, then Stance 
+Change. Again, holding the second command would set-up 
+Pickpocket or Human Cannonball.
+
+[3], 4 (= 3~4) Flying Eagle. The quick taps are buffers 
+but again the "catch": the second command must be input before 
+the first fully recovers.
+
+[1], df+2 (= 1, df+1+2) Jab to Body Blow.  To help Hwoarang's 
+mix-up game, alternate between the four possible starters: [2], 
+df+1 or df+[1], 2 or df+[2], 1.
+
+[3], db+4 (= 3, db+3+4) Any number of kick combos ending 
+on 3 or 4 could theoretically buffered into the Dynamite 
+Heel. Distance to target would be the determining factor.  
+Try this: Launch ‚em high with Wing Blade (crouch dash+4), 
+juggle ‚em with Hunting Hawk, uf+3, 4, [3] then finish the 
+demo off with (perhaps a quick side-step first) db+4 - DYNAMITE!
+
+LFL 1+4  Sorry, no jab to Power Blaster buffer. Both 1 and 
+recover out of LFL.
+
+
+SPECIAL THROWS
+
+Hwoarang has so many possible ways to buffer into all the 
+normal throws (if you like to side-step) that they're all 
+sort of Special:
+
+LFF F+[4], 1, 2 (= f+4, 1, 2+4) Funny, the only one who noted 
+that Doggie Lift recovers in RFL seems to have been gargoyle 
+sox, to me the best Hwoarang Guide writer.  Maybe no one noticed 
+because it's the beginning of Bob's LFF ten-string. It's followed 
+by a Left-Backhand to Human Cannonball throw. Now you're only, 
+give or take a little, half a life-bar from victory - time for 
+your opponent to tag out.  As gargoyle says, I love this combo 
+like family.
+
+RFF F+[3], 2, 1 (= RFF f+3, 2, 1+3)  Same brew as above, 
+but from RFF. Here the command for Pickpocket is 1+3 but from RFF, 
+even 2+4 will give you the Pickpocket.
+
+Here are just a couple of starters for use with either normal 
+throws or the RFF Cheap Shot to Right-Backhand to Pickpocket.
+
+f+2, RFF F+[3], 2, 1     or     f+[2], 4 (= Pickpocket)
+b+4, RFF F+[3], 2, 1     or     b+[4], 2
+b+2, RFF F+[3], 2, 1     or     b+[2], 4
+
+A few more buffered combos:
+
+f+2, RFF 2 ,2, [1], 3 (= f+2, RFF 2, 2, 1, 1+3) Rusty Knife 
+to Big Fists to Pickpocket.  If you find after jabbing that 
+you are too far away, make the last command f+3 or f, 3.
+
+Db+[4], 2 (= Db+4, 2+4) Low kick (the Crippler) to Human 
+Cannonball.  Take That!
+
+d+[4], WS+2 (= d+4, 2+4)  Well, you'll get the 2+4 throw or 
+a juggling uppercut - can't go wrong either way.
+
+d+[2], WS+4 (= d+2, 2+4)  This time if you see that you're 
+getting the Tsunami Kick instead of the throw, tack-on 
+another 4 to finish it.
+
+
+
+Forrest Law
+
+Bruce Lee has always been my favorite martial artist.  Why 
+he's not my main man in Tekken 3 and TTT, I'm not sure. It 
+doesn't bother me in the slightest that many Tekken players 
+consider him "cheap" - that's just sour grapes.  Besides, 
+all's fair in love and Tekken.  Law does however have enough 
+buffered combos to restore him to the exalted position 
+bestowed upon his benefactor - and to cure him of the 
+lingering Somersault Syndrome from which he seems to suffer.
+
+[4], 3 (= 4, 3+4) Kinda hard to cure SS (not side-stepping, 
+Somersault Syndrome) when the first buffer down the list is 
+the Quick Somersault.  The good news is this move recovers 
+RC - Law has so many FC moves that we could write a whole 
+FAQ just on his buffers alone!
+
+[4], 3, 4 (= 4, 3+4, 4) This time the left kick followed 
+by the Back Flipper RC recovering juggle - buffer so they 
+suffer before screaming CHEAP!
+
+[4], d+3 (= 4, d+3+4) Frogman from this, or this, D+[3], 
+4 or this, [3], d+3+4). NOTE: If you try D+[4], 3 you will 
+get two low kicks because D+4 recovers crouching but D+3 
+does not.  You can do it with d+[4] (releasing the d) but 
+you have to wait till Law recovers standing before inputting 
+the 3.  I think the only real use for this move is if you 
+whiff the first kick, you do a "fall-back jumper" (like NBA 
+style, you know what I'm talkin' ‚bout?) -and kick their 
+teeth in on your way down.
+
+[4], SS+3 (= 3, SS+3+4) Double Dragon.  It works better 
+with 4 then SS+3 but if you really want all three hits to 
+connect consistently, do it (facing right) SSL, [4], SS+3.
+
+D+1, (FC) Uf+4 (= d+1, FC, Uf+4) Using a low punch again to 
+buffer our FC, we finish with a kind of far away after a 
+buffered punch or kick, Catapult Low.
+
+NOTE:  Once last time, any move recovering RC is the buffered 
+FC for any multi-directionals that could follow.  I'm not 
+going to list them all, how about after 3, 3, 3, 4: Triple 
+Head Kick-Somersault (RC) going into Catapult High?
+
+B+[1], 2 _ B+[2], 1 (= b+1, b+1+2 _ b+2, b+1+2) Either 
+the first hit of the Dragon Storm or the first hit of the 
+Junkyard Attack to Trick Step.  I like this move: If your 
+opponent tries to punch you back for her/his minor counter, 
+Law's Punch Reversal is waiting. Whether you go into Law's 
+Trick Step or Punch Reversal, let ‚em have afterwards with 
+the Fatal Backhand/Dragon Blow!
+
+
+SPECIAL THROWS
+
+First a couple "special" normal throws:
+
+b+[1], 3 (= b+1, 1+3) Dragon Fire.  I love this one.
+
+b+2, [3], 1 (= b+2, 3, 1+3) Dragon Fire from the Junkyard.
+
+d+[1],N, 3 (= d+1, 1+3) You have to let Law recover standing 
+first but, hey, Anything for a Dragon Fire!
+
+DF+[1], 2~1~[2]~1 (= df+1, df+1+2, 1, 2, 1+2) Chastisement 
+buffered into Bulldog.  Law's only multi-throw (and it's 
+way cool)!
+
+[4], f, f+3 (= 4, f, f+3+4) Play it again: these f, f+ 
+throws are great! Right kick to Knee Lift. df+[3], 
+f, f+4 is also up-lifting.
+
+[2], f+3 (= 2, f+2+3) Hard to grab this one unless you're 
+close, which the jab doesn't help - but I'm all out of throws 
+and I'm all out of time. 
+
+
+
+Jin Kazama
+
+Buffering can offer Jin many fast and mixed-up ways to start
+the White Heron combos, unblockable uppercuts, and normal 
+throws.  Thanks to a large number of 2-button commands, Jin's
+moves list begins to resemble Lei's, King's, or Nina's -
+2 pages long!  In addition, buffering helps to boner Jin's
+repertoire of cool throws.
+
+In order to buffer the White Heron we must be able to hold
+1 or 4.  The list is long:
+
+[1], 4 (= 1, 1+4) the start of many mix-ups - enough to out-
+fox even a seasoned Jin opponent.
+
+[1], 4, 3 (= 1, 1+4, 1+3) buffered into Double Kicks.
+
+[1], [4], 2 (= 1, 1+4, 2+4) Holding 1 doesn't effect the 
+buffered 2+4 Shoulder Throw.
+
+1, [1], 4 (= 1, 1, 1+4) If we finish the Shining Fists with
+the 2, we render the buffered White Heron useless (you Do 
+Know how far away Jin slams his opponent with this hit, 
+don't you?).
+
+[1], 2, 4 (= 1, 2, 1+4) One-Two Punches. Hmm, the recovery 
+time after the second punch could/should be better.
+
+[1], 2, 2, 4 (= 1, 2, 2 ,1+4) Holding 1 through both 2 inputs
+is no problem.  Tap 3 after the White heron start to go into
+Double Kicks or hold [4] then tap 2 again to get the Shoulder 
+Reverse.
+
+[1], 2, 3, 4 (= 1, 2 ,3, 1+4) Here's where to buffer gets rougher:
+If we wait till [1], 2 recovers, we'll get a throw attempt when 
+we tap 3. After that, if we hit the 4 too soon, we'll get the
+complete One-two-Split-Axe Kick - but if we wait too long to
+tap 4, we'll miss the White Heron juggle coming off the 1, 2, 3
+single Axe!
+
+1, 2, [4] (= 1, 2, 4, 1+4) Starting the White Heron after the 
+One-Two Knee.
+
+df+[1], 4 _ df+[1], 2, 4 (= df+1, 1+4 or df+1, 2, 1+4) To buffer
+the Heron after the Twin Lancers (one or both hits) you must
+release the df so Jin recovers standing.  As above, if you
+wait/hold too long before entering the 2, you'll get the
+Ultimate tackle instead of Twin Lancers.
+
+NOTE: We're talking about a "Window of Time" (thanks Catlord)
+In which to enter the buffer - as in multi-throws and 10-strings.
+
+df+[4], 1 _ 3 (= df+4, 1+4 _ d+3+4) If you complete the Double
+Axe Jin will be too far away to connect with the Heron. A juggle
+through the Can-Can kicks is available with 3.
+
+[3], d+[4], 1 (= 3, d+3+4, 1+4) Jin's left kick is useful 
+because unlike the 4, which knocks your opponent flying, 3 
+keeps you close enough to connect with the second leg of the 
+Can-Cans.  Hold 4 to juggle with the Heron.
+
+d+4 _ d+3, WS+[4], 1 (= d+4 _ 3, WS+4, 1+4) Half a rising Axe 
+will allow you to buffer into the White Heron.
+
+uf+4, 4, [4], 1 (= uf+4, 4 , 4, 1+4) Far fetched but, if
+your opponent rolls forward...
+
+2, b+[1], 4 (= 2, b+1+2, 1+4) Can't tell Jin this isn't a cool 
+combo. If they bounce off your Force Block, crouch dash ‚em! 
+
+b, f+2, [1], 4 (= b, f+2, 1, 1+4) Or after the second hit of 
+Laser Cannon change to the Heron.
+
+
+WELL, that's at least a Baker's Dozen ways to start the 
+White Heron. Whether to finish the combo (glazed) or to 
+throw (powdered) - it's your donut. 
+
+
+[4], B+1 (= 4, B+1+4) Following a knock-down spinner like 
+Jin's 4, the Lightening Uppercut will fall short unless they 
+move toward you upon standing, so use the Super Twist Uppercut
+instead.
+
+uf+[4], b+1 (= uf+4, b+1+4) The first hit of the Leaping Spin 
+Kicks puts Jin in range for the Lightening Uppercut!
+
+b, f+2, [1], b+4 (= b, f+2, 1, b+1+4) A stun off the second
+hit of Laser Cannon might just do the trick.
+
+f+[4], b+1 (= f+4, b+1+4) Another small chance to surprise?
+
+Moves with 4 or 1 that don't leave Jin enough room to power
+up his unblockables will present even greater problems
+than these but - hey, isn't every unblockable a problem?
+
+
+CROUCH DASH
+I wanted to be able to say we can buffer hits onto every
+directional command in the CD: f, d, df. But as you can 
+imagine this would inhibit the flow of the movement, in
+fact turning it into a three move poker to juggle combo: 
+f+2, d+3, df+2. The GOOD news is, we can attach a strike
+to the f, command and flow right on through to the dash.
+Indeed a directional buffering addition to the already
+deadly dash.
+
+f+2, d, df+[4], b+1 (= f+2, f, d, df+4, b+1+4) Just to start
+off crazy, I've buffered the Power Overhead to the Hell Sweeps
+first hit to the Lightening Uppercut.  As Einstein showed,
+the theoretical can become the physical. E=MC2 (Energy =
+Major Counter, squared).
+
+f+1 is probably the easiest starter because of it's recovery
+time but f+4 knee is also very interesting. The obvious choices,
+just mix ‚em up:
+
+f+1, d, df+1 (= f+1, f, d, df+1) Left jab to Thunder Godfist.
+f+4, d, Df+2 (= f+4, f, d, Df+2) Knee to Electric Wind Godfist.
+f+2, d, df+4, 4, 4, 4 (= f+2, f, d, df+4, 4...) Overhead to
+Hell Sweeps.  Remember these can be chained to subsequent 
+techniques and buffers.
+
+
+SPECIAL THROWS
+
+Buffering some normal throws was described above, if only 
+briefly.  Here are Jin's three Specials:
+
+1, [2], f, f+1
+1, 2, [2], f, f+1      4 possible Stone Heads
+[2], f, f+1
+f+[2], f, f+1
+
+[2], df+3
+[3], df+2              4 Elbow Slams
+f+[2], df+3
+df+1, [2], df+3
+
+[1], QCB+3  Trip Wire.  Without your opponent walking into the 
+second part of this buffer, you won't reach.
+
+
+
+Julia Chang
+
+Ah, Julia.   With a movie like hers, she should be everyone's 
+favorite.  To protect Mother Earth we probably are going to 
+have to fight, so it's good we have Tekken to practice.
+
+It's important not to get predictable with Julia's 2+3 and 
+1+4 moves, central to her arsenal though they might be.
+Completing the 2+3, 1 Ultimate Cannon is predictable. 
+Buffering into and out of it is not.  There are just too
+many possible continuations available. 
+
+[2], 3, (= 2, 2+3) You may follow up a successful right jab
+with a low hitting one leading to a mid kick but often times
+the low jab will be short. This would be an excellent follow
+up to a fake/whiff jab or kick because the buffer continues
+on combo fashion: after whiffing a jab you counter your
+opponent's counter attempt with low and mid strikes then
+follow with d+4, 1 or  [4], 1 (RC) or even the rest of the 
+Ultimate Cannon by pressing 1.
+
+[1], 4 (= 1, 1+4) Likewise the 1+4.  Actually the somewhat 
+slow downward fist of Julia's Axe-Mini Bow is a better
+follow up to the 4 kick so it's better to buffer it [4], 
+1 - but if the right kick whiffs, your counter is a bit slow.
+Since this move recovers RC however, it's too important
+to just not use it. Any Julia player knows there are at 
+least 7 WS combos to buffer into from RC moves like 1+4.
+
+[2], 1 (= 2, 1+2) Using Julia's fast, strong right jab to
+set up the Twin Arrow.
+
+[4], 3 (= 4, 3+4) Like Xiaoyu, Julia can kick then spin 
+sideways.  If you buffer 3 you'll send them flying, 
+negating your spin.  Finish with the Roundhouse.
+
+uf+[4], 3 (= uf+4, uf+3+4) The only way this is gonna work
+is to launch with uf+4, then Foot Stomp down on the back of 
+their head as they're standing - which looks really mean, 
+but wouldn't you rather juggle?
+
+F+[1], 4 (= f+1, f+1+4) Flash Uppercut to Heaven Cannon.  
+I thought I'd at least mention it.
+
+
+DIRECTIONALS
+
+It took some work but it goes like this: Julia's Thunder Palm
+d,df+1 and Lightening Bolt d,df+1, 2 are two of her best power 
+moves which are often performed while running (f,f,f+1) and
+can be used to great effect in countering and wake-up games.
+It's performed with a more or less direct slap into df+1. It
+will not buffer like this: d+4 _ d+2, df+1 - but it will 
+buffer like this: d+4 _d+2, df+2.  In other words we can tag
+a hit onto our first directional command d, but it will only
+work as a buffer to the second hit of the Lightening Bolt
+combo.  This is none other than one of Julia's FC moves: 
+Body Elbow.
+
+d+4, (FC) df+2 (= d+4, FC df+2) Low kick to Body Elbow.
+
+d+3, (FC) df+4, 3 (= d+3, FC df+4,3) Low kick to Bow and Arrow.
+
+[4], 1 (RC) df+4, 3 (= 4, 1+4, FC df+4,3) Adding an intro and
+an extra low hit makes this 1+4, 3 less predictable.
+
+[2], 3, d+4, df+4,3 (= 2, 2+3, d+4, df+4,3) We buffer both
+to disguise our 2+3 to mix it up with 3 hits in the place of 
+two high, low, mid.  Instead of finishing the Ultimate Cannon
+2+3,1 we go into d+4. Rather than finishing the d+4,1 Razors 
+Edge (a move which our opponents know all too well) se use
+the d+1 to buffer the FC then go into the Bow and Arrow as 
+a mix-up. Now we can use our predictable Razors Edge to juggle!
+
+
+SPECIAL THROWS
+
+I'm going to continue the directionals discussion just a bit
+farther here:
+
+d+[1], db, d, db+2 (= d+1,db,d,db+1+2) The Cross Arm Suplex
+buffers nicely if you input before the db motions move Julia
+back out of reach.
+
+QCB, f+2  The Mad Axes are everybody's favorite Mother Earth
+protector. QCB is like the ultimate directional buffering
+exercise: After launching, while running, jumping, back-dashing,
+recovering - you name it, wherever you have enough breathing
+room to do it, QCB can be input.  The choices are only limited
+to those of timing and distance.
+
+d, db+1+3  Waist Suplex.  Forget about buffering this one unless 
+you want a mixed-up way to get the Low Parry. 
+
+df+[2], 1 (= df+2, df+1+2) Once in awhile you get the Arm Lock
+Suplex but if you're really lucky you get the Power Punch 
+Launcher andcan then time a Palm explosion just right to
+keep 'em off their feet.  Remember our Thunder Palm d,df+1
+that wouldn't buffer?  Use it like this: d, df+[1], 2 and
+you will sometimes get the throw!
+
+
+WELL, as a "see you later" I want to remind you that those
+left kicks that send your opponent flying are there for a
+reason: [3], 2+4  - for waving BYE, BYE!  
+
+
+Be cool.
+
+ 
+ 
+POSTSCRIPT to Version 2.5
+
+I hope this proves helpful to those who are interested in 
+broadening their understanding of certain aspects of Tekken 
+inputting not explained in official Tekken documentation.  
+It is dedicated solely to the advancement of Tekken knowledge 
+and Art in general, and to repay in part, that which I've 
+borrowed from all of you who are as enthusiastic about Tekken 
+as I am.
+
+A second Thank You is indeed in order to those who have made 
+all the FAQs and multi-media available to us - the Tekken web 
+sites (to mention only a few):
+
+Tekken Zaibatsu
+Catlord's Tekken Collection
+Fighters.net
+Gamefaqs.com
+Inside Tekken
+Tekken Tag Tournament 
+Iron Fist's Movie Page
+Tekken Web
+Tekken Players
+Tekken Worldwide
+
+
+ACKNOWLEDGEMENT
+
+To Tragic.  I've referred to the techniques used in this FAQ 
+by the names (which differ from Namco's) used in your book The 
+Unauthorized Tekken 3 Fighting Guide - Thanks, I hope this is 
+OK with you. Names for TTT techniques used in this FAQ are 
+borrowed from Catlord's TTT movelist. Thanks, I hope you don't 
+mind.
+
+
+Nicky Quick
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

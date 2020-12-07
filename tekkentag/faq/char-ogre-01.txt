@@ -1,0 +1,2889 @@
+Ogre, Proud like a God - for Advanced and Beginners, Final Revision 5.02
+- by Renick(renickironfist@hotmail.com)
+
+
+
+To check if this FAQ is organised as it's supposed to be, please check
+underneath if the points and numbers line up properly:
+
+
+
+0123456789
+..........
+
+
+
+Disclaimer-
+
+First of all, this guide is for personal use only. If you wanna use
+this publically, you can only do that if the credit goes to me. No dirty 
+tricks by stealing someone elses work. If you DO try and steal my work and 
+use it for your own profit, you are bananis my friend, because I'll find 
+out, and I will shut you down. This guide and everything displayed in this 
+text document is also owned by Renick. If there is any content of a copy of 
+this guide passed on to any website or profitable company without permission 
+of Renick, legal action will be taken against the indicated person. And for 
+the legal blah-blah-blah, Ogre and all characters in Tekken Tag Tournament 
+belong officially to Namco, All rights reserved 1999, 2000.
+
+
+
+===========
+What's new?
+===========
+
+
+- 2/24/00:
+
+In all my haste I've made some big mistakes on the layout and text formats. 
+I also added Sauer Krauts awesome site into the Sites section. Thanks to 
+everyone who e-mailed me to noticed the flaws I made. That's why this 
+revision will be the final revision instead of the last. Corrected some 
+horrible spelling mistakes as well, and added some stuff in the moves 
+section. I also forgot to add the miup surrounding 1,1 in the MIXING UP 
+section.
+
+
+
+- 2/14/00:
+
+As you probably noticed, this guide has been almost completely rebuilt. The 
+reason why, is because the layout of my Bryan FAQ turned more satisfactory, 
+and the previous revision of this FAQ had a lot of flaws, so you can expect 
+a clean sweep here. Have fun...!
+
+
+
+----------------------------------------------------------------------
+
+
+
+-[TABLE OF CONTENTS]-
+
+
+A - Introduction
+
+B - Conventions
+
+C - Move Analysis
+
+D - Blocking and Hit-ranges
+
+E - Okizeme
+
+F - Sidestepping
+
+G - Versus Character Strategy
+
+H - Tagging and Tag Strats.
+
+I - Poking
+
+J - Combo's/Juggles
+
+K - Custom Strings
+
+L - Throwing and Counters
+
+M - Buffering
+
+N - Recovery
+
+O - Countering
+
+P - Mixing Up
+
+Q - Conclusion
+
+R - Sites
+
+S - Thanks section
+
+
+----------------------------------------------------------------------
+
+
+A.  INTRODUCTION
+
+
+The reason why I do a guide on Ogre is the fact that he has been kind of a 
+scapegoat among characters due to the fact that his arsenal actually 
+consists of several popular moves of each sub-boss in Tekken2. But the 
+combination of those moves make him unique in his own way. His description 
+is that he is some kind of tall Alien Aztec Monster (I still like the 
+classic green outfit best) with gold armor and a huge cool looking pony tail 
+behind his head, and makes very cool almost animal like sounds as he fights 
+(his voice is a lot higher now), and he excaims some unknown speeches in his 
+winning stances, and he can fly (I wish he could fly during gameplay!).  He 
+was a boss-charater in Tekken3, where he was introduced the first time, and 
+quickly was considered one of the cheapest and most powerful characters in 
+the game. In TTT he has been toned down and most of his borrowed moves are 
+less good than the versions of the characters where they officially belong 
+to. His arsenal consists mainly of:
+Kazuya's punching strings
+Wangs powermoves and throw
+Baek and Lee's kicks
+Bruce's elbows
+Armor Kings aerial attacks
+The big characters throws
+Kunimitsu's stabs
+Anna's FC attacks
+Combining these features, Ogre is a potential force to recon with. Many 
+people consider Ogre sort of slow, while he is actually a pretty fast and 
+powerful character. He has the best sidestep in the game, has some great 
+moves off the crouch and can to lots of damage in a short period of time, 
+and his okizeme is some of the best in the game. But even now in TTT, he has 
+been weakened a lot. Why Namco? Why did you weaken him? He is the God of 
+Fighting ferchrissakes. His main flaws are still his slow pokes and size 
+(kinda inbetween the Jacks and Mishima's size), and NOW his guaranteed 
+followups after a blocked uf+3,4(3) are gone, his WS+2 gutpunch is a lot 
+slower now, his 1,1>2 is not guaranteed anymore, his df,DF+2+4 is escapable 
+now, his damage rating has been watered down, his standing 4 is slower, 
+practically EVERY GOOD MOVE HE HAD HAS BEEN RAPED!!! Why the hell is the 
+great Toshin such a pathetic underdog character now? He has gained only one 
+new move, the SS+4 which is clearly not enough. Ogre can now be overpowered 
+as long as you just stay in his face, so it's very hard to win with him now. 
+You will have to rely heavily on his df+1, uf+4, ws+2 and 1,1>2 to survive, 
+despite that some of his primary moves have been raped so bad (I really hate 
+what namco did too him, but at least I finally realize it). People say Nina 
+had the biggest raping job, but I think Ogre has been raped the most. 
+Because Ogre will most likely lose in poking wars, it's vital to use Ogre 
+attack range to keep the opponent at bay out of jabbing range. If Ogre can 
+utilize his sidestep and crouching game safely without much fear of 
+retaliation he can still give a hard fight. I hope after reading this guide, 
+you'll reconsider using Ogre more, and understand what his game is all 
+about.
+
+
+So let's this FAQ started, if you have any questions, feedback or comments 
+on my work, my e-mail is renickironfist@hotmail.com, your opinions mean a 
+lot to me, so let me know if you have some wisdom you'd like to share. Have 
+fun with the FAQ...!
+
+
+----------------------------------------------------------------------
+
+
+B.  CONVENTIONS
+
+
+Joystick Layout (facing right) :
+    UB   U  UF
+      \  |  /         B  - backward
+       \ | /          UB - up/backward
+  B ---- +  ---- F    U  - upward
+       / | \          UF - up/forward
+      /  |  \         F  - forward
+     DB  D  DF        DF - down/forward
+                      D  - downward
+                      DB - down/backward
+
+
+Buttons:                       Layout:
+1 - left punch                 [1] - [2] - [5]
+2 - right punch  ----------->
+3 - left kick                  [3] - [4]
+4 - right kick
+5 - tag button
+
+Other terms:
+CD     -  Crouch-dash(f,n,d,df)
+RD     -  Rolldash (d,df,f)
+WS     -  While rising
+FC     -  Full chrouch position
+CH     -  Counter hit
+MC     -  Major Counter
+SS     -  Sidestep
+QCF    -  Quarter circle forward
+QCB    -  Quarter circle backward
+C.O.M  -  Chains of Misery
+(E)WGF -  (Electric)Wind God Fist
+
+
+Small letter   - Tap button command/joystick motion
+Capital letter - Hold button command/ joystick motion
+
+Con: +  - Occurs when button commands/joystick motions have to be
+pressed simultaneously.
+
+Con: ,  - Occurs when button commands/joystick motions have to be
+pressed before/after each other.
+
+Con: ~  - Occurs when button commands/joystick motions have to be
+pressed fast before/after each other.
+
+Con: N  - Neutral motion. There should be no joystick motion for about
+1/2 a second.
+
+Con: () - If a command is shown between this convention, it means it's
+optional wether or not to pull it off.
+
+Con: _  - Occurs when there are more options possible after a certain
+attack/string.
+
+Con: >  - Occurs when hits can be delayed.
+
+
+----------------------------------------------------------------------
+
+
+C.  MOVE ANALYSIS:
+
+
+Ogre is not a hard character to learn, but it takes some good general 
+knowledge and experience to utilize his popular moves in a proper way. This 
+takes a lot more skill than when you use a character like Law, who is very 
+beginners friendly. Also, he has a limited arsenal compared to other 
+characters in the game. But even considering that most of Ogres moves are 
+somewhat slow, he can get lots of frame advantage when he connects them, 
+which means he can maintain pressure on the opponent quite easily. But the 
+main thing with Ogre is damage. even with some of his popular moves watered 
+down in damage, he can still pack a lot of wallop. With moves such as WS+2 
+it takes a lot of anticipation to connect safely in high level play, just 
+like any other move that leads to big damage. In the end, THAT makes Ogre a 
+pretty hard character to use.
+
+This section will display analysis on most of Ogres attacks, and jow to 
+utilize them and so on, so you cannot consider it a real movelist. To find 
+great movelists, check out Catlords movelist or http://www.tekken.net, those 
+are the main locations for the good stuff.
+
+Okay, on the with the move analysis.
+
+
+==================
+Throws and Specials
+==================
+
+
+1+3:
+This is one of Ogres two basic frontal throws. This throw is important 
+because it's taggable, making it one of the safest ways to tag-in your 
+partner without getting countered. Once you connect the throw, the opponent 
+is vulnerable grounded for a guaranteed FC+3. This is the most useful of his 
+two basic frontal throws. This throw can be escaped at the start-up with 1. 
+Jack-2. Use-O-meter: 8 outta 10
+
+2+4:
+The second and least useful of his two basic throws. It has a high piss-off 
+rating since it endures pretty long if you connect it. However the opponent 
+recovers fast once you connected it, making a guaranteed followup 
+impossible. When you expect the opponent to roll away from you afterwards 
+use  d+4,4 or f,f+1+2 for some good damage afterwards. At the start-up of 
+this throw, it can be escape with 2. Kuma. Use-O-meter: 8 outta 10
+
+
+1+3/2+4(from the side):
+You can try a sidethrow after a successfull sidestep, or any other situation 
+when the opponents side is vulnerable to you. Against smaller characters 
+like Lei or Ling you may whiff it due to the fact that Ogres SS travels 
+extremely far, so be cautious with them. None of Ogre sidethrows have 
+guaranteed followups that I know of. Use-O-meter: 8 outta 10
+
+
+1+3/2+4(on backturned opponent):
+Like all backthrows, Ogres is not escapable. Backthrows can be utilized in 
+those uncommon moments when the opponents back is vulnerable to you. This 
+happens a lot against Devils lasers or other moves that reach up high. Also, 
+you can try a backthrow after a successful sidestep, especially if it's a 
+linear move that travels a good distance, like a shoulder dash. Most of the 
+time it's pretty obvious when you have a good backthrow opportunity. After 
+the bacjthrow is successful a FC+3 afterwards can be followed for extra 
+ground damage. Use-O-meter: 8 outta 10
+
+
+df,DF+2+4:
+This is Ogres only special throw, and it's also his best throw. Once you 
+have connected this throw it sets up some big damage combined.
+But it seems it's escapable now with 1+2 unlike in Tekken3 (unfortunately). 
+Still this throw is best used if you buffer it with your attacks since you 
+are pretty vulnerable when you initiate this throw. Follow it after a WS+2 
+double over stun for example, is a good opportunity to connect it safely. 
+This throw is also not guaranteed anymore after the uf+3,4(3) blockstagger, 
+unfortunately. Still, this is his best throw, and has to be used often. But 
+the escape has watered this throw down a lot, so it's not such a "turtle 
+killer" anymore. Wang Jinrey. Use-O-meter: 9 outta 10
+
+
+B+1+2:
+This basically defines Ogres high attack counter, and it's actually pretty 
+useful when you use it sparingly. There is no animation shown when you 
+initiate this command normally, only when you time it accurately with the 
+opponents high attack or throw, making it sort of a taunt and counter at 
+once. If you can anticipate when the opponent does a high attack or throw 
+attempt and stick this in, you will gain some spacing. It even works well 
+inbetween certain strings with lag time. It's actually pretty cool if you 
+can anticipate a throw attempt fast enough, use the God Stance to counter 
+the opponent without putting up a guessing game for a throw escape, but it 
+needs to be time very accurately right before the opponent connects the 
+throw. The B+1+2 counter also works in backturned position to suprise the 
+opponent before he attacks or throws you from behind. There are two versions 
+of this move: The first animation (on a high punch counter) shows Ogre 
+rapelling a strange shield around the opponent to keep him out of reach and 
+stunned for a brief second. The second (on a high kick counter) shows Ogre 
+glowing and the opponent wil lose a chunk of life when he attacks. This is a 
+very fun move for Ogre and it actually proves useful against characters like 
+Lee or Baek, who have a lot of attacks/strings that start up high. It's 
+pretty hard to connect the god stance since your timing has to be extremely 
+accurate. During the godstance animation, Ogre is invincible and immobilzed 
+temporarely. When the animation is over, Ogre recovers fast enough to block 
+on time. The b+1+2 is pretty cool, and functions as a counter and taunt at 
+the same time. Use-O-meter: 8 outta 10
+
+
+
+
+=====
+Arts
+=====
+
+
+d+1:
+This is literally Ogres fastest move. It runs 8frames and when connected it 
+gives you a 9frame advantage, making this his main move to set up Ogres 
+moves off the crouch without much fear of retaliation. Moves like ws+2, 
+FC+3,3,3_N+3, ws+4,4, or a throw are pretty safe because of the framing 
+advantage you've gained, making it the safest move to get into crouch 
+position, where most of Ogres deadliest attacks can be initiated. You can 
+use this as an interrupt set-up move, juggle extension and many other good 
+tactics. Still, like all lowjabs, this hits Special Mid, making it blockable 
+in both standing and crouching positions. Because Ogre hasn't got that much 
+of a poking game, it's important for him to rely on a simple lowjab. Kazuya 
+Mishima. Use-O-meter: 10 outta 10
+
+
+1,1:
+This is a very good poke with Ogre, but it hits 10frames, which is slower 
+than the common 8frames jab. But it is a great move for interrupts, ad it 
+traveling distance gives it an extra forward momentum, making it an awesome 
+poke to stay in the opponents face for custom strings and such. When you mix 
+this up with 1,1>2 and with a throw or d+4(4) afterwards, there is a mean 
+tactic surrounding this attack (see MIXING UP) to realize this is a great 
+move in Ogre's arsenal. Kazuya Mishima. Use-O-meter: 10 outta 10.
+
+
+1,2:
+A simple 1,2 punch combo is a pretty good set-up for Ogre. When 1 hits the 2 
+is always guaranteed, and you can followup a uf+4 or df+1 without too much 
+fear of getting countered. For a single standing 1, you can press f+1 
+instead for a more damaging version. It's a pretty safe move by itself, even 
+though Ogre's standing jabs are somewhat slow compared to most characters. A 
+good move in combo's or custom strings. Kazuya Mishima. Use-O-meter: 9 outta 
+10
+
+
+1,1>2:
+This is one of Ogres best moves, especially as a counterhit attack after you 
+sidestepped the opponent, but it's not a good attack anymore to use as a 
+minor counter after blocking the opponents attack, since the 3rd punch can 
+be blocked ven when the first two connect (which sucks, cuz the Mishima's 
+still have all three hits guaranteed). The reason why you should use it for 
+MC only is because all three hits ARE guaranteed on CH (see COUNTERING). You 
+can also delay the last mid-hitting punch, which is vital since if the last 
+punch is blocked, the recovery isn't good. In that case use the 1,1 alone if 
+it's blocked, either throw, d+1 or do nothing. If it connects, the delay of 
+this attack makes it easy to follow the rest of the 1,1>2 string. That mixup 
+(more on it in the MIXING UP section) by itself makes this one of Ogres 
+primary moves. Kazuya Mishima. Use-O-meter: 9 outta 10
+
+
+1,2,2:
+This attack is not as good as 1,1>2 but does some good damage and all hits 
+are guaranteed on counterhit. But it all hits high, and the last punch 
+leaves you vulnerable if blocked. This is however, and easy and strong 
+juggle finisher, for some good and easy damage. Kazuya Mishima. Use-O-meter: 
+7 outta 10
+
+
+2,2:
+Basically this displays the last 2 hits of the 1,2,2, but it's easier to get 
+countered with this attack. Both punches are guaranteed by impact and both 
+hits combined will do good damage on CH, so I wouldn't say it's a bad move. 
+Good and easy juggle finisher. Kazuya Mishima. Use-O-meter: 8 outta 10
+
+
+df+1:
+Another one of Ogres primary attacks. Connect this midhitting elbow attack 
+and you'll get an 8frame advantage, which means you get a GUARANTEED d+1, 
+and that sets you up for a lot of shit, like the ws+2 or the Snake Kicks. 
+Because if that fact, the df+1 is awesome for custom strings and sorts, to 
+keep pressure on a defending opponent. You can follow 1,1>2 afrerwards as 
+well, which is uninterruptable if iniated after a successfull df+1, heck you 
+can even try a throw attempt. This is also a great attack to counter move 
+like Jins b,f+2,1,2_d+2 stun punch combo from small distances as well as a 
+reliable juggle extender. Also it recovers suprisngly quick when blocked. On 
+top of that, this attack is unparryable, unduckable and unreversable. Still 
+you must set this move up since it can be briefly interrupted by standing 
+jabs and such. If you utilize this move correctly you have the ability to 
+kick some ass. Bruce Irvin. Use-O-Meter: 10 outta 10.
+
+
+df+1,2:
+I wish they had put in Bruce's version instead, since that version juggles. 
+Because Ogres version doesn't juggle there is frankly nothing really special 
+about this attack. It is a pretty solid move on standing position pretty 
+good to counter the opponents crouch or as a juggle extension. But the 
+second hit doesn't come fast enough after the first connects, so it can be 
+blocked, and the recovery isn't too good. Not a bad move by itself, but if 
+it was a launcher like Bruce's this move would've been a lot better. Stick 
+with the single df+1. Bruce Irvin. Use-O-meter: 8 outta 10
+
+
+df+2:
+This is not a bad move, this uppercut hit's mid,  and the stagger it causes 
+will allow you to gain the spacing needed to tag in your partner with less 
+fear of retaliation. Be sure to use this move is harmony with your fast 
+pokes to connect it safely. On CH, it juggles, so it's a good move to hit 
+the opponent with as he tags in his partner recklessly. I especially like to 
+do this move when I successfull Sidestepped the opponent and counter with a 
+juggle. Also, if you connect this on a big character (every Jack, Kuma, 
+Ganryu, not True Ogre though) it'll cause a lift stun on them which means 
+guaranteed followups. It's con is that it's pretty slow for a regular 
+uppercut. Kazuya Mishima. Use-O-meter: 8 outta 10
+
+
+Standing 4:
+In Tekken3 this was the cheapest attack in the game, but in TTT the standing 
+roundhouse has been toned down. It's noticably slower, it;s range has been 
+reduced and it's not guaranteed anymore after the uf+3,4(3) blockstagger, 
+but the damage it still does is too good. This is best used as a juggle 
+extender because of that damage, but you can use it normally as well, but 
+don't blame me if you are called a cheap shot. It can be ducked pretty 
+easily and that leaves you open to get juggles or thrown. Kazuya Mishima. 
+Use-O-meter: 8 outta 10
+
+
+d+4:
+The single d+4 is one of Ogres best low hitting pokes, due to it's speed and 
+suprising range. Believe it or not, this reaches 1 and a half character 
+distance. This is a pretty good move to pester the opponent with and eat 
+away some quick chipping damage. Great attack for custom strings and keep 
+away tactics. Lee Chaolan. Use-O-meter: 9 outta 10.
+
+
+d+4,4:
+This move is very important for Ogres standing game. I personally use this 
+alot as and easy combo finisher, but it's also very useful to hit rolling 
+opponents with after a knockdown. Also, if you counter an aerial attack with 
+df+1 (like Kings uf+1+2) this move is guaranteed. It's not exactly a low 
+risk move by itself, since the second kick can still be ducked or parried 
+when the first connect, but both hits ARE guaranteed on a CH though. Also if 
+the first Kick whiffs, some players tend to rush in on you, and if you 
+initiate the second kick, it will cause a knockdown. Pretty solid move. Lee 
+Chaolan. Use-O-meter: 8 outta 10
+
+
+df+4:
+This is one of Ogres PRIMARY moves, and people underestimate this as a 
+regular df+4 toekick, but it's actually one of the fastest kicks in the game 
+(12frames), making this his primary poke from a distance. And by impact 
+it'll give you an added 7frame advantage, which means you can interrupt the 
+opponent with this and gain the initiative on your offensive game as well. 
+This move has very fast recovery and has very little risk, and should be 
+used often. Use-O-meter: 9 outta 10
+
+
+uf+4:
+In my opinion, this is the best hopkick in the game along with Pauls, and 
+Ogres most reliable jugglestarter. It comes out almost instantly, does good 
+damage, great priority, and recovers fast enough to make it suitable as a 
+juggle extender as well. This move is awesome to minor counter your opponent 
+and punish his errors. If you are good enough, you will be able to punish 
+many blocked attacks with a good juggle opportunity. This move is another 
+must for Ogre, prepare to use it a lot. It's best use as a minor counter 
+since you can get punished when the opponent blocks this attack. 
+Use-O-meter: 9 outta 10
+
+
+f+4:
+At first glance this move looks useless since it's very slow and lacks the 
+range needed to be an offense treat to the opponent. But when this move is 
+blocked you'll gain 11frames of advantage, and that means un-interruptable 
+shit. It also does pretty good damage. Still apart from that, not much 
+special things about things about this move.  Use-O-meter: 6 outta 10
+
+
+ws+4,4:
+This is Ogres safest option off the crouch because of it's great speed, 
+recovery and priority. When the first hit connects, the second is always 
+guaranteed combining good damage. This is a good move to discourage opponent 
+from  to counter your crouching game. This is also a very good attack to 
+interrupt your opponent with since it's speed is awesome, the first hit runs 
+11frames, which is pretty darn quick for a ws-move. Like 1,1>2 is your 
+interrupt of choice from standing position this will do the job from your 
+crouch. You can also pull this off after blocking low attacks, since it 
+somes out a lot faster than ws+2, so it's a good alternative. This is 
+another very important move for Ogre. Lee Choalan. Use-O-meter: 9 outta 10
+
+
+f,f+3:
+Splits kick. Even though d+4,4 is guaranteed once this attack hits on MC, 
+but it comes out incredibly slow, so the risk that you will get thrown or 
+poked out of it is pretty big. I almost never use this move. Kazuya Mishima. 
+Use-O-meter: 6 outta 10.
+
+
+ws+3,3:
+Well, I'd say this move can kinda be used the same way as the ws+4,4, but it 
+recovers slower. But unlike the WS+4,4 the first two Infinity kicks 
+afterwards are guaranteed, which puts this move a little on top.
+Also it runs 10frames, which is a little faster than the ws+4,4. When this 
+attack is blocked, leave the infinity kick starter alone, since players will 
+look out to counter it after you pulled the ws+3,3. Still this move does 
+good damage by itself, and if you add the two guaranteed Infinity Kicks 
+(D+3,3) afterwards you'll deplete about 33% of your opponents lifebar away, 
+which is pretty good (but cheap) if you ask me. Lee Chaolan. Use-O-meter: 9 
+outta 10
+
+
+ws+3,3,D+3(U~_D~_N~)3,3...:
+Well the infinity kicks stay one of the favorite moves of the average button 
+masher. If you initiate d+3 during the ws+3,3, you can keep mashing 3 (with 
+D, U or Neutral) to do the infinite. I wouldn't use this in high level play, 
+since players will SS to the left and counter you. I recommend using the 
+first 4 hits alone (WS+3,3,D+3,3) since they are all guaranteed once the 
+first hit connects, which is pretty cheap, but useful nonetheless. I 
+personally barely use it. Lee Chaolan. Use-O-meter: 8 outta 10
+
+
+D+3,3,d+3:
+The lowhitting Snake Kicks can prove pretty annoying to your opponents. This 
+version is often listed as FC+3,3,3, but that's a false command, you must 
+initiate d+3 fast after the second hit. This version ends with a low ender. 
+This attack and recovers in FC position, so it's pretty decent to utilize 
+the Snake Kicks effectively after ducking certain attacks. Be sure not to 
+get yourself lowparried using this, I recommend setting this move up with a 
+d+1, and sometimes stick with the first two hits alonem since the opponent 
+migh expect the third hit, and might leave him open while crouching or 
+standing. If you mix up the first two hits with juggle and lowhitting 
+version, this can be a potentially effective tactic. The recovery has 
+decreased a bit since Tekken3, but it still isn't too good. It can be used 
+pretty effectively on a grounded opponent as well. Baek Doo San. 
+Use-O-meter: 8 outta 10
+
+
+
+D+3,3,N+3(~5):
+Same as the previous mentioned, but ends with a midhitting kick that 
+juggles. The three hits combined do over 50 points of damage, and the last 
+hit juggles high enough to set up a tag combo. Be sure not to do the full 
+three hits everytime, that might prove in your advantage (see MIXING UP), 
+and mix up the last hit of this move up with the low hitting ender evenly 
+divided. Ogre most damaging combo's are executed from this move. Still, all 
+three kicks come out sort of slow, so it's best not to overuse this attack. 
+Baek Doo San Use-O-meter: 8 outta 10
+
+
+f,f+4:
+I never use this for attacking purposes, simply to get into range if the 
+opponent is at running distance. The safest thing to do is to go in full 
+chrouch position after the final frames of this moves. This move can easily 
+be anticipated, even tho it blockstaggers, people will sidestep it, duck it 
+or counter it, and you will be vulnerable in all cases. I wouldn't recommend 
+using this move much. Bruce Irvin. Use-O-meter: 5 outta 10
+
+
+f,f,N+4:
+This will hit grounded opponents from a forward dash distance. This move is 
+very useful for okizeme, great to counter those who like to rise quick from 
+a knockdown. Still, don't use on standing opponents since you might get 
+countered up close and fall prey into the opponents set-up tactics. But the 
+f,f,N motion gives it that extra range, making it his main okizeme move. 
+This will hit a grounded opponent, a rolling opponent, a rising opponent, 
+sometimes even opponents who get up with sweeps or anklekick. This is 
+literally his best okizeme attack (see OKIZEME). Baek Doo San. Use-O-meter: 
+9 outta 10.
+
+
+WS+2:
+This is pretty much Ogres primary offensive weapon. When this hits clean, it 
+causes a double over stun on the opponent, and you and easily follow an uf+4 
+or df,DF+2+4 to set-up some big added damage. When blocked, your best bet is 
+to try a d+1 afterwards since players will often try to throw or jab you in 
+this situation. But this move has been toned down drastically, at first 
+glance, you will already notice this move is a lot slower, which means 
+players can interrupt it or backdash out of range even easier than in 
+Tekken3. Because of this fact, it's even harder to utilize this move. Still 
+the price of connecting this move is too high, so it's still a move you 
+shouldn't leave out, I still rate it high because it's practically his only 
+way to do good damage without any risk. Kazuya Mishima (I wish Ogre had his 
+version). Use-O-meter: 9 outta 10
+
+
+FC,f+1:
+This is one of Ogre FC-moves, and the least useful of the three. When 
+connected it causes a brief stagger on the opponent and can set up some fine 
+okizeme, but this move is easily countered, and recovers slow. This is, like 
+other moves from FC-position crouchbufferable.  Anna Williams. Use-O-meter: 
+6 outta 10
+
+
+FC,f+2:
+This is one of the better power attacks Ogre has. When you crouchbuffer it 
+with a lowjab, this actually comes out pretty quick, and does great damage 
+on the opponent. When this counters it causes a small stagger on the 
+opponent, and you can get a d+4,4 (i.e.) for free. Pretty good move by 
+itself, be sure to buffer a chicken with it though (see THROWS AND COUNTERS 
+and BUFFERING), against reversal happy players. You can even use this as 
+okizeme on big characters, it's a lot quicker than f,f+1+2. It's only 
+problem is the slow recovery it has when blocked. This attack functions fine 
+as a juggle finisher when crouchbuffered with a d+1, so there is always a 
+way to utilize it. Anna Williams (Blimey, I wish Ogre had that auto-parry 
+built in). Use-O-meter: 8 outta 10
+
+
+FC,df+2:
+Another nice addition of Ogres crouch arsenal. Ogre slides forward a low 
+handswipe that kinda juggles like Bryans df+3. Now that I mention it, this 
+move is not used that much differently from Bryans df+3. It comes out fairly 
+quick, hits low, avoids high and -some- mid attacks, is crouchbufferable and 
+can be used for okizeme. Also when you connect this, the f,f+1+2 is 
+guaranteed, and it's untechable strangely enough. It's only weakness is it's 
+recovery time when blocked. This is an awesome attack, but not one to 
+overuse, since good players will try to anticipate and parry it. If you know 
+how and when to utilize this attack, this can be one of Ogres better moves. 
+Anna Williams. Use-O-meter: 9 outta 10
+
+
+d~DB+4(~5-CH):
+This is one of Ogres flashier moves in the game. It has a slight start-up, 
+but it reaches very far off and does good damage. Also, this attack juggles 
+on CH, and allows you to do some good damaging combo's, you can even tag in 
+your partner for some cool buddy combo's. A good time to get the counter is 
+when the opponents tags recklessly. Not a bad move to throw out once in a 
+while, be sure to buffer than chicken though. Lee Chaolan. Use-O-meter: 8 
+outta 10
+
+
+SS+4:
+This is Ogres only new move, which is simply disappointing. They should've 
+at least give him one more new attack, like a Mishima f,f+1+2 headbutt throw 
+would really come in handy. Still this is really not a bad addition to Ogres 
+arsenal, since it hits low, juggles, hits grounded opponents and comes off 
+his huge sidestep. This moves recovery and speed is not exactly fast, but 
+that's actually not such a big problem, since it's best used as a CH move 
+off the sidestep. Only use it when you are certain for impact, since this 
+move can be lowparried fairly easy. Use-O-meter: 8 outta 10
+
+
+4~3:
+This is a good move to do on a grounded opponent only, after a juggle or 
+knockdown to add some extra damage, especially against players who constanly 
+get up with sweeps or ankle kicks, or recover crouching. However, this 
+version can not be pulled instantly with uf like Jins version. If the 
+opponent manages to tech away from this attack, you are left vulnerable 
+grounded for okizeme. Kazuya Mishima. Use-O-meter: 7 outta 10
+
+
+uf+3,4,3:
+This move was excellent in T3, it was more dangerous blocked than when
+it hit, since the standing 4, 1,1>2, uf+4 and df,DF+2+4 were all guaranteed 
+after the blockstagger. But the guaranteed followups have been taken out in 
+TTT, unfortunately. Still a pretty good offensive move, not too much risk, 
+but it can be anticipated if you overuse it. The second hit is unblockable 
+when blocked neutral, but when blocked active , the third hit won't come 
+out. Baek Doo San. Use-O-meter: 7 outta 10
+
+
+ub+3:
+I listed the ub+3 as a single move since it's better as stand alone move 
+than the full ub+3,2. It's a great attack to counter an advancing opponent 
+or when someone tags in. This attack can get you out of sticky situations, 
+and discourage your opponent to take it up close. Jun Kazama. Use-O-meter: 8 
+outta 10.
+
+
+ub+3,2(~5):
+I don't care what anyone says, I think this move is useless with the
+tooth fairy part. It's easily counterable, sidestepped and punch parried and 
+has horrible lagtime if you block the tooth fairy upper. The only good thing 
+I have to say about this move is that it's taggable if you juggle with the 
+tooth fairy. In other cases, stay away from it, to use this move is asking 
+to be punished. I recommend using the backflip part only since that's a 
+decent way to counter running opponents, but leave the tooth-fairy part 
+alone. Jun Kazama. Use-O-meter: 5 outta 10
+
+
+f+2:
+This is one of Ogres powermoves, what he does is step forward with his arm 
+extended delivering a punch with his palm. This move as extra range because 
+of the little forward step he takes with the punch motion, but during it's 
+mid frames this move is pretty easily countered that way. Ogre can even be 
+thrown during this move. Still it does pretty good damage,  hits mid, and 
+causes a fast knockdown so it's not a really bad move either. Pretty solid 
+attack with some priority, but not really a move to overuse. I use it off a 
+sidestep at times, or as an easy and damaging juggle filler. Not a bad 
+attack, but not exactly low risk either. Wang Jinrey. Use-O-meter: 8 outta 
+10
+
+
+f,f+1+2:
+Even though this move comes out slow it is one of Ogres best okizeme moves. 
+It's power and reach are awesome, and can catch a rolling opponent pretty 
+easily. It also goes under most high attacks. A good time to use this attack 
+is after a successfull FC,df+2 for guaranteed damage. I recommend using it 
+on ar grounded opponent only as okizeme tool, or as a juggle finisher. Wang 
+Jinrey. Use-O-meter: 8 outta 10
+
+
+uf+1+2:
+This is NOT a good move, it can be countered or sidestepped very easily, and 
+because Ogre takes a large jump forward before actually hits the opponent, 
+and you can easily be punished in midair. Stay away from this at all costs. 
+Armor King. Use-O-meter: 4 outta 10
+
+
+f+1+4:
+This move is actually pretty good, since it travels a long distance, does 
+good damage and is a potentially great tool for wake-up games. When this 
+attack is blocked, you'll go right through your opponent, who staggers, 
+allowing a free tag-out. This is a great move to counter a tagging or 
+running opponent with, and Anna is the only character that can reverse this 
+move. It's main weakness is the fact that it can be anticipated from the 
+beginning, and Ogre will be vulnerable if the opponent sidesteps this move. 
+Armor King. 8 outta 10
+
+
+f,f+3+4:
+This another one of Ogres lesser moves. This move seems to whiff more than 
+it hits, and leaves you vulnerable grounded if you failed to connected. 
+Also, a simple jab will counter Ogre easily while in mid-air, and the damage 
+isn't worth it either. You may want to use this move when the opponent tags 
+in, but there are lots of better options in that case, like a df+2. Armor 
+King. Use-O-meter: 4 outta 10
+
+
+f,f,N+3+4:
+This is one of his better okizeme moves, simple because of it's range. 
+Thanks to the f,f,N motion you can even catch an opponent with this before 
+they go off screen after tagging from a knockdown with this slide attack. 
+There are some great okizeme tactics surrounding this move, you can quickly 
+press 3 afterwards for guaranteed ground damage, since you will recover 
+faster from the ground than the opponent. You and catch a rolling opponent 
+with this  but it's hard to time this move to gain the full impact because 
+of the slight start-up. Lee Chaolan. Use-O-meter: 8 outta 10
+
+
+
+============
+Unblockables
+============
+
+
+f,f+2:
+Personally I don't think this is an actual unblockable, since the first hit 
+can be blocked and the second can be escaped with a Sidestep(u,N_d,N) or 
+backdash (b,b). This is actually a pretty useful attack, if the opponent 
+fails to escape it since you can follow a free d+4,4 or a d+1 to start a 
+combo. Still, this attack is pretty hard to utilize, and easy to interrupt 
+on close quarters. But this is one of the few moves that's unique to Ogre. 
+Use-O-meter: 8 outta 10
+
+
+b+2:
+This is one of Ogres better unblockables. It starts up slow, but once Ogres 
+arm reaches out it's very hard to counter, making this move better from a 
+dashing distance. This move also track extremely well and sometimes even 
+avoids high attacks. When you connect this on big characters, d+4,4 is 
+guaranteed. If you are able to keep the opponent at a small distance this is 
+the perfect attack to use in the particular situation. You can also try this 
+off a sidestep. It's only weakness it that it starts up slow and recovers 
+slow when missed. Kunimitsu. Use-O-meter: 8 outta 10
+
+
+f,f,N+2:
+This is Ogres best unblockable IMO. It has good range and speed, and is best 
+used for longer range attacks. Great attack in mix-up with his other f,f(N) 
+attacks. Whe you connect this, you can do some guaranteed ground damage 
+afterwards, and on big characters this can set-up a combo. This is also a 
+good striking move when the opponent backdashes a lot when you are in a 
+range, or when they rise from a knockdown or crouch. Like with b+2 a pretty 
+useful attack to try after a successfull sidestep as well. Still you have to 
+watch out not to end up getting countered pulling this move, don't be 
+reckless with it. Kunimitsu. Use-O-meter: 8 outta 10
+
+
+db+1+2:
+This unblockable tracks very well, but the start up is very slow and you are 
+easily countered during the opening frames. But once the "charge up" is 
+done, the rest of this unblockable is very fast. But I still wouldn't use it 
+since it takes forever for this move to come out. The damage really sucks 
+for such a slow start-up, so this move is not really worth it. Anna 
+Williams. Use-O-meter: 3 outta 10
+
+
+uf,N~1+2~D:
+Looks pretty flashy but it is a useless attack, because you are completely 
+vulnerable when executing it. That's reason alone is enough for me to rate 
+this unblockable the lowest of all of Ogres attacks. Stay away from this 
+unless you have a knack for showing off. Armor King. Use-O-meter: 2 outta 
+10.
+
+
+b+2+3:
+This is not really a bad attack actually, since Ogre leans backward a bit at 
+the startup, giving it an extra evasive momentum. The charge up of this move 
+is faster than many other unblockables, but still slow enough to be 
+vulnerable. If this unblockable was cancellable like Hwoarang and Baeks, ths 
+move would've been a lot better. Stil, the damage and range are both good. 
+This is perhaps good as desperation move when you are low on health. Other 
+than that I don't see that much use in it. Bruce Irvin. Use-O-meter: 6 outta 
+10
+
+
+b,b+1+2:
+This attack can instantly kill your opponent when connected, but the only 
+safe chance to do so is when your competition is having a bathroom break. 
+This move is way to slow, and way too risky to use in high level play. Wang 
+Jinrey. Use-O-meter: 3 outta 10
+
+
+
+
+----------------------------------------------------------------------
+
+
+D.  BLOCKING AND HIT-RANGES
+
+
+Blocking is something you cannot leave out in your basic Tekken game. If you 
+cannot block, you might as well stop playing Tekken. Even if you have an 
+offensive style of play, there are always situations where your defense has 
+to be organised, and blocking is the basis of it all. Wether it's for high 
+level play or basic strats, blocking is something in which you have to 
+involve your Tekken game in constantly. There are two types of blocking: 
+Neutral Guard and Active Guard
+
+- Neutral Guard: If you keep your joystick into Neutral state, you will 
+automatically block high, mid and special mid level attacks. But you have to 
+use Active Guard to block low level attacks (hold DB). This isn't really 
+reliable since the Neutral guard will prove ineffective against set-ups 
+(i.e. a shin kick connected on you, followed by fast pokes, which will hit 
+you if you don't use active guard), guardbreaking moves, certain attack 
+strings that are very varied in hit ranges (like tenstrings), which are very 
+commonly used in high level play.
+
+- Active Guard: This is the most common of blocking types. This is done by 
+holding the joystick back (standing) or downbackward (ducking) away from the 
+opponent timed with their attack. The Active block is the blocking method 
+that's used in high level play. Wether it's tenstrings, set-ups, 
+customstrings, low hitting moves, this is the most reliable way of 
+defending.
+
+
+A good way to learn how to block the popular attacks and strings in the game 
+is to learn the hit ranges. The hit ranges indicate how you have to block 
+certain attacks, wether it's blocking or standing, or wether you can duck or 
+jump over certain attacks or not.  In order to have an organised defense, 
+you must know the hit ranges of each attack in Tekken Tag Tournament (it's a 
+long learning curve, but if you wanna learn how to play, the basic parts 
+must be known first). There are four different types of hit ranges: high, 
+mid, special mid and low level attacks.
+
+- High level attacks: Pretty much explains by itself actually. High attacks 
+are the only attacks that can be ducked (along with throws), and can only be 
+blocked standing. If you learn how to anticipate the popular high hitting 
+moves your opponent, and learn how to duck and counter them, you are one 
+step in the right directions. Also, learn the parts of popular strings that 
+hit high is very recommendable (DUH). Examples: Standing jabs, 4's, Mach 
+Punch, Jin's WGF/EWGF
+
+- Mid level attacks: Most of the attacks in Tekken Tag Tournament hit mid.  
+This means they can only be blocked standing, and cannot be ducked. 
+Unfortunately, most of the priority moves that are mid hitting attacks. You 
+have to be aware of overheads when ever you chrouch or when you try a WS 
+move or lowjab, since many will try to punish your chrouch. The best way to 
+deal with this is be familiar with blocking points of certain 
+attacks/strings, or find a something that's effective as an interrupt like a 
+d+1, which will beat almost anything.
+Examples: df uppercuts, Deathfists, toekicks, hopkicks
+
+- Special Mid level attacks: This is the least common of hitranges. Special 
+mid attacks will hit a chrouching or standing opponent, but can also be 
+blocked both standing and chrouching. Special mid attacks can be lowparried 
+and reversed. The most common special mid attacks are the basic ducking jabs 
+(d+1/d+2). Another well known example is Kazuya's Wing God Fist.
+
+- Low Attacks: The low attacks are pretty obvious as well since they can 
+only be blocked ducking. These are IHMO the most useful of hit ranges, 
+simply because it proves neutral guard non-effective, but also if you mix up 
+your hit ranges very balancing the low attack are the most eaten of all hit 
+ranges. Examples: Shin kicks, Yoshi's d,DF+3 , Kings AliKicks, Lei's db+4.
+
+Blocking is IMO the most important thing you have to do when playing. If you 
+are unfamiliar with blocking and hitranges, learn or don't play. Know how to 
+block popular strings, and know which moves are punishable when you block 
+them. Learn to recognise the hitrangesand blocking points in combat, no 
+matter how offensive some players might be, blocking is always an important 
+aspect to do among your other basic skills.
+
+
+
+----------------------------------------------------------------------
+
+
+E. OKIZEME
+
+
+Okizeme is basically doing as much damage as possible on a grounded (or when 
+recovering from the ground) opponent. This is very much used as high level 
+play, but it's often called cheap since the opponent is defenseless if they 
+get pummeled on the ground, but isn't that the same with juggles? Ogre has 
+some of the best okizeme in the game, maybe Xiaoyu and True Ogre are a 
+little better, but Ogre certainly is one of the oki-greats. He has lots of 
+attacks that hits grounded opponent and attacks that reach far or close 
+enough to catch a grounded/recovering opponent off guard. Ogre has a lot 
+more advanced okizeme game than most characters because of that. The 
+important thing you have to remember about okizeme is to know which move you 
+have to hit the grounded opponent with at what time, depending how the 
+opponent recovers.
+- Good moves that set-up okizeme:
+Basic throws/f+2/juggles/f,f,N+2/b+2/SS+4/1,1>2/f,f,N+3+4/f+1+4
+- Ogres okizeme arsenal:
+d+4,4/4~3/f,f,N+4/FC,f+2/FC,df+2/d~DB+4/SS+4/f,f,N+3+4/f,f+1+2/f+1+4/
+d+3
+- If they stay grounded:
+When the opponent stays grounded after a knockdown, Ogres has too many 
+options that work well. From close range, the d+3 is more than enough to do 
+the trick, when you have good timing, you can even try d~DB+4. From longer 
+range f,f,N+4 and f,f+1+2 are his best two options, you and also try 4~3 
+after a combo, but if the opponent avoids it you will be in a disadvantage.
+- When they roll:
+Especially at intermediate level players will try to roll out of range after 
+a juggle or throw. Most okizeme moves, if not all will hit an opponent in 
+this state. At close range, you can use d+4,4 when the opponent rolls, and 
+it sets up even more damage. At long range, you can practically have a lot 
+of options: f,f,N+4 is always good, same with f,f+1+2, the FC,f+2 takes off 
+great damage and has great reach, FC,df+2 works decent at dashing distance 
+and the f,f,N+3+4 has even more distance. Plenty of options as you see. Whe 
+the opponent constantly rolls away and you use this okizeme properly he will 
+probably never recover, especially is he uses a big character.
+- When they stand up regularly (recover standing):
+His f,f,N+4 is Ogres most versatile okizeme tool, and should be used here as 
+well. You will have to anticipate and time well. The f,f,N+2 is also 
+suprisingly good for this situation and sets up a whole new okizeme 
+opportunity. Because both moves start with f,f,N this can be quite a good 
+okizeme tactic that will add even more confusion. With these moves, you must 
+initiate the f,f,N motion IMMEDIATELY after the knockdown, to use them as 
+okizeme effectively. The FC,f+2 is another great option from long range, it 
+does the CH damage (which is a lot), and delivers a powerful knockdown, and 
+allows you more okizeme afterwards. Many players tend to block standing afer 
+they rise, and that's the FC,df+2 is another good option that tends to 
+connect pretty often. The f+1+4 will also hit strangely, but it requires 
+some good anticipation, if you guess wrong, you might end up vulnerable 
+backturned.
+- When they recover crouching:
+Yes, AGAIN f,f,N+4 is a very good option from a distance. It's hard to 
+anticipate when the opponent recovers crouching, but regardless of what 
+happens, the f,f,N+4 is aways the safest and will hit on many occasions. 
+Other options are FC,f+2 for big damage, you can also go for 4~3, but it's 
+not really safe, or f+1+4, for the same reason as when you use it on an 
+opponent who recovers standing.
+- When they recover with an ankle kick (d+4) or sweep(3):
+This is the best time for the 4~3, since it'll go over the ankle kick or 
+sweep. The f,f,N+4 will hit at this occasion someties, but 4~3 is the best 
+option. I have met some players who constantly get up with d+4, and I once 
+hit 4~3 3 times in one match.
+- When they tag recover:
+When you knock the opponent down who has little life left, you will almost 
+certainly expect him to tag recover. The f,f,N+3+4 has the range to catch an 
+opponent before they roll of screen, but you have to initiate the slide as 
+fast as possible once you've knocked down, since the opponent might 
+tagrecover on time before f,f,N+3+4. You have to kinda plan ahead on this 
+one, but it's very useful if you think rationally, and it's well worth it.
+- When they techroll:
+To be perfectly honest I haven't found a good attack with Ogre to punish 
+techrollers, like I do with Bryan's f,f-moves. You need to have an attack 
+that tracks well, the f,f,N+2 is still Ogres most effective option.
+
+======================
+How to utilize okizeme
+======================
+
+To use okizeme effectively you have to be familiar with your ATTACK RANGE. 
+Estimate which attacks reach the distance the opponent's at to use okizeme 
+with great effect. To utilize okizeme, it's also extremely vital to forward 
+dash (f,f) a lot if you are out of range, to be quick enough to get within 
+range to do more ground damage. That's why okizeme moves like f,f,N+4 and 
+f,f+1+2 are so effective for Ogres okizeme game, because they come off a f,f 
+motion to increase it's reach, and that's one of the important reasons why 
+Ogre has the best okizeme in the game. I don't know many other characters 
+that have okizeme moves off a forward dash. It's just too good. Another 
+important thing about okizeme is ANTICIPATION. After a successfull 
+knockdown, you must anticipate how the opponent will recover, and at the 
+same time you must execute the appropriate okizeme quickly that's suited to 
+punish the way the opponent recovers from the ground. Okizeme is an advanced 
+tactic that should be practiced as much as juggles, poking or whatever else, 
+since it's used extensively in high level play. Be sure to know Ogres 
+okizeme game, and know what attacks are best to punish the opponents 
+recovery, and it can be used with great effect to use as yet another way to 
+eat away chunks of the opponents lifebar, oki doki?
+
+
+----------------------------------------------------------------------
+
+F. SIDESTEPPING
+
+
+The essence of a well timed sidestep has been more and more of a value in 
+Tekken, simply because a successfull sidestep sets you up for free hits. 
+Sidestepping is done by pressing u,N (to the left) d,N (to the right). Ogre 
+especially has to rely on his SS, since he has the best sidestep in game due 
+to the long distance it travels. That’s why the sidestep is one of the most 
+important ways to counter the opponent. He has gained a specific move off 
+his sidestep, the SS+4, which hits low and juggles, but it isn’t always 
+reliable. That’s why you must use other attacks that can be used after a 
+Sidestep to keep your game varied.
+
+
+===========================
+How to utilize the sidestep
+===========================
+
+Sidestepping effective will takes two important things: Anticipation and 
+timing. You need to anticipate your opponents attack, and time exactly right 
+so you won't get hit by it and avoid it safely. When the opponents attack is 
+somewhat slow, you might want to sidestep during the midframes of the 
+attack, when the attack is faster, you might want to time your sidestep 
+during the opening frames, it all takes precision in timing and 
+anticipation, but not as for timing, it doesn't always depend on how fast or 
+slow moves come out, but also in what distance the opponents attack is 
+executed from you. If a move is executed up close, you might want to time 
+your sidestep earlier than when the attack comes from a dashing distance for 
+example. Sidestepping your opponent to it's full effectiveness is best used 
+against moves that travel in a straight line i.e. Thunder Godfists, Kings 
+f,f+1+2, Laws f+2~1, Heihachi's f,n,d,df+3, Julia/Michelles Bow& Arrow 
+mixups, Armor Kings f+1+4, Jins b,f+2,1,2_d+2, Nina's uf+4,3,4 and the list 
+goes on and on. You'll most likely end to their back or side, to do a 
+SideStep-move, but they aren't really safe moves, so I'd recommended to look 
+for some alternatives as well.  Ogres sidestep travels extremely far, he has 
+the ability to end up at an opponent back SS-ing only twice. You can cancel 
+any sidestep holding the joystick away allowing you to block safely against 
+an opponent within range. If you SideStep the opponent, you'll either end up 
+at their back or at their sides, and to minor counter their whiffed attack, 
+here are some recommendable moves (apart from the sidestep moves) to do in 
+these positions:
+
+- At the opponents side:
+If you end up at the opponents side after a successfull SS there are 
+numberous attacks you can do. The 1,1>2 seems obvious  but he last punch is 
+blocked often leaving you open to attack. My fav is df+2, if you counter 
+with it, you can do a juggle. Other options are SS+4, d+4,4, f+2, or a fast 
+unblockable. Sidethrowing is also decent, but I recommend that on big 
+characters only since they tend to whiff on smaller characters.
+
+- At the opponents back:
+This happens a lot against moves that travel longer distances. Good move off 
+your sidestep in these situations is f+2, which does good damage and travels 
+far enough. A simple df+4 will do the trick if the opponents recovery is 
+faster, the Hunting Hawk (uf+3,4,3) is actually pretty good as well due to 
+it’s traveling distance. If the opponent is vulnerable at closer range 
+1,1>2, uf+4, df+2 or a backthrow will do the trick just fine. It all depends 
+on how long the opponent recovers from the attack you sidestep, and at what 
+distance you end up.
+
+============================
+General Tips on Sidestepping
+============================
+
+- If you have trouble sidestepping attacks and feel you time right, an easy 
+way to sidestep is this: Sidestep left limb attacks to the left, and right 
+limb attacks to the right. It seems to work much better, and will grant you 
+a lot more succestful sidesteps, if you know when and how to use the 
+sidestep effectively.
+- Sidestepping moves that travel horizontal (Bruce's f,f+3, Pauls 
+d+4,2(first hit), Lei's db+4, Kuma's f+1+2) is a bad idea.
+- Don’t try to sidestep if you are too close to the opponent since you’ll be 
+jabbed during the neutral motion. always stay and least a half a character 
+distance to sidestep safely.
+
+----------------------------------------------------------------------
+
+H.  VERSUS CHARACTER STRATEGY
+
+
+TTT is in my opinion more balanced in characters than in T3, every character 
+has the ability to kick ass on any other character, and the tag feature 
+makes that an even more open theory.. Characters that were overpowered in T3 
+have been toned down (Nina, Law, Paul and Ogre) and characters that were 
+weaker have been made a lot stronger (Julia, Kuma, Hwoarang and GunJack). 
+Ogre, as said before has been toned down a bit, he is less damageing, a bit 
+slower and most of his moves lost priority. But I believe any character in 
+this game can hold on his own, even Roger and Jun can be quite good (what 
+some people underestimate). And Ogre is no different despite his weaknesses. 
+In this section I will give you some strats what to do to fight other 
+characters in the game with Ogre.
+
+
+(Side note: I'm NOT going to do the detailed strategy against other 
+characters anymore like in my Bryan FAQ, since I think this section would 
+otherwise take far too much space of the rest of this guide. That's why I'll 
+give a more simple minded explanation on how to beat each character instead 
+of telling what to do against each move the character you are up against 
+has. That simply consumes too much time.)
+
+========
+Vs. Jin
+========
+
+Attacks to watch out for:
+- Mostly played: offensive
+- f,n,d~DF+2(EWGF)/b+4/ws+2/1,1>2/f,f+1+2
+It's very hard to beat Jin with Ogre since he has so many useful attacks and 
+very few weaknesses. Most players will stay offensive on you and if you stay 
+too defensive they'll try and throw you with f,f+1+2. It's best to try and 
+attack cautiously, don't make any reckless errors since Jin can punish 
+everything you whiff with an EWGF. Use your uf+4 to counter whiffed godfists 
+or other blocked recovery and punish with a juggle. Also try to poke him a 
+lot, so set up a throw or ws+2. Jin has gained a new b+4, which causes a 
+long stun when players connect it. I recommend relying on your fast attacks 
+and throws a lot since many of Ogres other attacks are too risky, use your 
+ws+2 and uf+4 occasionally as well. Your best bet is to interrupt his 
+attacks, and hope for a juggle opportunity as soon as possible to get a 
+headstart in damage. Don't let him WS+2 or EWGF you at all costs, if that 
+happens, you are more or less screwed.
+- Difficulty: Hard.
+
+
+=============
+VS. Hwoarang
+=============
+
+- Mostly played: offensive~defensive (AKA hit-and-run tactics)
+- Attacks to watch out for: df+4-LFF/RFL,4/d+3,4,4/df+3,4/f+4~4-RFF/f,f+2
+Hwoarang has been strengthened a bit, and he relies a lot on his RFL now, 
+more than his LFL. He will often try to use fast pokes to gain the framing 
+needed to get in his RFL(f,N+4), minimizing fear of retaliation. They will 
+often try to double sidestep (Poking->RFL->Dbl SS) afterwards hoping to 
+counter you with RFL,b+3 or RFL,4 which both set up a combo. That's why you 
+shouldn't rush in on Hwoarang while he's in his Flamingo faints, he'll 
+counter with the previous mentioned or jabs out of his FL stance to 
+interrupt you. To avoid getting pestered by his annoying hit-and-run tactic, 
+you must try to counter him as soon as possible and stay in his face with 
+custom strings and an occasional jugglestarter or throw to keep him from 
+using his stances. If you have an organised offense you should have him 
+nailed pretty fast.
+- Difficulty: Medium.
+
+
+========
+Vs. King
+========
+
+- Mostly played: defensively
+- Attacks to watch out for: Throws/2,1/d+1~N+2/df+3/f+4/Kick Reversal
+The first thing you must know against a King player is to know all the 
+breakouts of his throws and multi's, because King is undeniable grappling 
+oriented. Stay out of throw range and punish all whiffed throws with an uf+4 
+juggle. But apart from his throws also watch out for his mean pokes. The 2,1 
+has lost priority since T3, all the guaranteed followups are gone. He can 
+still chain his throws afterwards fairly quick, so still it's a move to be 
+aware of. He also has an unchickenable kick reversal, so don't go 
+predictable on kick-based moves. King players love to use his f+4 kick, 
+which does great damage by itself and has guaranteed followups when it 
+counters, but because the f+4 and most of his throws are duckable, King 
+isn't much of a treat for your crouching game, so executing from a crouch is 
+not a bad idea. Punish him through interrupts and with d+1's, or an 
+occasional ws+2 attempt is not too risky either, and you should be okay.
+- Difficulty: Medium
+
+
+=========
+Vs. Bruce
+=========
+
+- Mostly played: offensively
+- Attacks to watch out for: df+2/1,2,4_d+4/3,2,1
+Bruce is a cheap and easy character to learn, with lots of quick and 
+damaging attacks. Players like to pester you with 1,2,4_d+4, which are quick 
+and damaging, and have insane priority, since they start with Bruce's left 
+jab, which runs 8frames, which beats anything you can throw at him from a 
+standing position. Because the 1,2-mixups starts up so fast, Bruce can 
+counter you without a sweat with these strings, and on top of that Bruce has 
+some of the most damaging jabs in the game. These string alone will give 
+Ogre a very hard fight. Bruce can also counter you with 3,2,1, which one of 
+the best strings in the game, since it juggles on CH and it's priority and 
+quickness is nearly unmatched. He also has the df+2, a fast elbow attack 
+which juggles up high with damaging results, and Bruce can easily stick it 
+as bend-in move with his pokes and in custom strings. Bruce can kill Ogre 
+just by using these three attacks. Your best bet is to counter him early on 
+and stay offensive with custom strings and throws to do as much damage as 
+possible, since he hasn't got many defensive oriented attacks. Punish every 
+blocked recovery attack with an uf+4 juggle without mercy. Keep him out of 
+jabbing range when he uses the 1,2-mixups a lot, if he carries on his string 
+mixup he will be left more vulnerable if he whiffs the first one or two 
+hits, allowing you to interrupt him. Use your popular attacks cautiously, 
+and hope you will get a headstart in damage.
+- Difficulty: Hard
+
+
+==============
+Vs. Roger/Alex
+==============
+
+- Mostly played: offensively
+- Attacks to watch out for: df+1/2,1/standing 1/f,N+1/throws
+Roger is the most underrated character in the game, his main weakness is his 
+lack of range which gives him trouble fighting other characters. But a good 
+Roger can give Ogre a really hard fight actually. Roger players like to poke 
+you up close with 2,1 and standing 1, which he can link to his throws very 
+easily (his throws cannot be ducked once the 2,1 connect so you have no 
+choice but to escape them). His standing 1 is one of the fastest jabs in the 
+game and when he counters you with it, the d+1~N+2 is guaranteed. Because he 
+lacks the range and is forced to take it up close, there ares ome good 
+tactics to dispose of him more easily. You can keep him at bay with df+4 or 
+ws+4,4 to keep him out of range, and when he whiffs an attack, quickly 
+punish with an uf+4. If you keep Roger from utilizing his close quarter 
+attacks, you should overwhelm him without too much problems.
+- Difficulty: Easy
+
+
+========
+Vs. Baek
+========
+
+- Mostly played: offensive~defensively (AKA hit-and-run style)
+- Attacks to watch out for: b+2/f,f+2/d+4,3,3,d+3/f+4>3/punch parry/3,4>3
+Bay must not be seen as an easy opponent using Ogre. He can delay a lot of 
+his kicking strings to discourage you to attack him. Players will try to 
+bait you into a counterhit with Baeks flamingo delayals. His f+4>3 for 
+example, is obviously one of his best moves,  Baek players will delay the 
+second hit after connecting the first to bait you into the big CH stun. If 
+you block the first hit the second hit wil most likely be cancelled, and 
+Baek can triple SS around you when they cancel it into flamingo faints to 
+juggle or throw you, so there is always an option surrounding the f+4>3. 
+Baeks main weakness that a lot of his kick strings start up high, so if you 
+duck a lot you should be able to hurt him with your d+1 ,FC,df+2 into 
+f,f+1+2 or WS+2. Baek doesn’t have any good mid attack to stop a d+1 attempt 
+up close to set-up your crouching game. You should be able to hold him off 
+if you execute from your crouch and sidestep properly.
+- Difficulty: Easy
+
+=========
+Vs. Julia
+=========
+
+- Mostly played: offensively (off the counter mostly)
+- Attacks to watch out for: 1~1,1/QCB,f+2(Mad Axes)/4,4/FC,df+2
+Julia is the hardest character you’ll face with Ogre IMO. Her 1~1,1 start-up 
+with her 8frame jab,  and the juggle is guaranteed if she counters you with 
+it, and this is not that hard for her since it beats every move you have 
+from your standing game, and that’s a big disadavantage for you. If you try 
+to attack and do damage she will look out to counter you with 1~1,1, but if 
+you turtle, Julia will find ways to buffer into Mad Axes (escape: 1+2) to do 
+damage instead, so it’s practically impossible to fight Julia with Ogre 
+without any risks. Her two weaknesses are the recoverytime of some of her 
+powerattacks, and many of her attacks are not that hard to sidestep. Use the 
+uf+4 whenever she misses or recovers from her attack, you can also try to 
+sidestep some of her popular strings if she executes them from a longer 
+distance. Don’t try to fight her up close, instead use df+4 to counter her 
+when she is within jab range or throwing range, you have a range advantage 
+over her and you should take advantage of that. My best advice is to just 
+tag away when you are safe, since a good Julia is almost unbeatable with 
+Ogre.
+- Difficulty: Hard
+
+
+=========
+Vs. Bryan
+=========
+
+- Mostly played: offensively (off counters)
+- Attacks to watch out for: 
+f,f+2/WS+3/3,2,1,2_4/df+2/f+4/punchreversal/df+3/C.O.M
+Bryan can be a pretty hard character to defeat since he has lots of powerful 
+moves and great mixups. Be sure not to use attacks that recover slow since 
+he can minor counter with his Mach Punch (f,f+2) pretty easily. His awesome 
+mixup ability can be hard to defend against and you must not attack 
+recklessly, since one counter with ws+3 is all Bryan needs to deplete half 
+your lifebar if you don’t watch out. Also be aware of his punchparry with 
+guaranteed followups. He is very dangerous from the crouch like you, players 
+can lowjab you and follow a WS-move or Cains of Misery (escape: 1+2) throw. 
+The best way to fight Bryan is to execute from your sidestep and crouch. Be 
+sure to use df+1 a lot, since Bryan can’t reverse it and it will set-up a 
+free d+1, so you can execute from your crouch with less risk to get 
+countered by a juggle. Be sure to poke a lot from long range as well, df+4 
+and ws+3,3 beats alost every kick attack he has. Don’t be afraid to punish 
+Bryans recovery with uf+4, and try to counter his popular moves and you 
+should overwhelm him in a tough battle.
+- Difficulty: Medium
+
+
+
+
+----------------------------------------------------------------------
+
+
+I.  TAGGING AND TAG-STRATS
+
+
+Tagging is the new feature in TTT that has made it unique from it's 
+predecessors. It allows you to choose two characters, with whom you can 
+switch between during level gameplay. With Tekken already having the deep 
+gameplay, tagging will give it a even larger push. With tagging, there are 
+so many possibilties, I doubt everyone who loves Tekken will find out 
+EVERYTHING about this game, I mean, hey, I'm sure we haven't found every 
+combo possible in T3 alone, most maybe, but certainly not all, and I'm sure 
+we will have a harder exploration time with TTT which makes it even more 
+fun. The whole gameplay scene in Tekken is opened up a lot because of this 
+one feature: Tagging.
+
+=================
+Tagging ingeneral
+=================
+
+
+The most obvious reason to use the tag button is to switch between your two 
+characters, but tagging can also be used in lots of other ways. A good 
+example is to recover from the ground. If you press the tag button once 
+knocked down, you can recover while pressing the tag button to prevent 
+getting okizeme-ed, you'll roll or walk off screen as you tag in your 
+partner. The tag recover can be an advantage or disadvantage, if you tag 
+recover after you are juggled or whatever, the opponent can just wait to 
+counter your partner once he tags in instead of trying to okizeme you. Still 
+other than that you must only tag recovery against those who try to okizeme 
+you. The tagbutton is a great manuever as well to escape stuns like 
+Hwoarangs RFL,4(CH) and Bryans WS+3, to spare you from eating a high damage 
+combo. The tag-escape I still find sucky overall, matches are less 
+entertaining because of the tag-escape, there's less chance of landing some 
+madd combo with Bryan off his WS+3(ch) as a crowd-pleaser or so to be said 
+(including me).
+
+
+============
+Tag throwing
+============
+
+Another option with the tag button in TTT is the tag throw. This allows you 
+to throw your opponent with both your characters, with some savage-ass 
+results. Tag throwing can be done pressing the tag nutton once you connected 
+your throw. Ogre can tag with his 1+3 throw but there are no team specific 
+buddy throws that I know of. A buddy throw is also one of the safer ways to 
+tag in your partner. What I don't like about TTT is the fact that if one of 
+your characters is dead, you've lost! C'mon Namco, what's the point here! 
+The matches are less fun then, are less long and less entertaining. This 
+simply disappoints me. During all the previews on TTT, I was thinking about 
+how cool it would be to beat both your opponents characters while you are 
+only using one. That
+would be so humiliating, hehe.
+
+===========
+Tag Combo’s
+===========
+
+Tagging also allows you to combo with your tag-partner, allowing a 
+tag-combo. The following of Ogres moves are taggable, thus making it 
+possible to tag combo off it: the d,DB+4(ch), D+3,3,N+3 and the ub+3,2. None 
+of these tag starters are low risk, which sucks, so Ogre has to rely heavily 
+tagging his tag partner in via tag throws. His ub+3,2 tag starter is far 
+from being good, and even though the d~DB+4 starter  looks flashy it’s hard 
+to get a CH with it in high level play. I’d say the Snake Kicks are the best 
+option to start a combo, you can do some of the most damaging combinations 
+off it. But even that option is not low risk. I’d say use your tag-partner 
+to start a tag combo and use Ogre to finish them.
+
+==============
+Tag Cancelling
+==============
+
+You can confuse the opponent by canclling while you tag out, with a tag 
+cancel. Tag cancelling is done by pressing Up/Backward right after you tag 
+(5~U/B) and will cancel your character from tagging out for your partner. 
+The best way to use the tag cancel is when you're under pressure with custom 
+strings and pokes. Remember that it can be vital to cancel your tag-recovery 
+from a knockdown. This will allow you to keep using Ogre AND you'll gain 
+some spacing.
+
+
+====================
+General Tagging Tips
+====================
+
+Here are some general tips you need to know when using the tag feature 
+extensively:
+
+
+- Always tag away when low on health, you will gain it back slowly while you 
+are fighting with your other character.
+- Be sure that if you want to tag your partner in, you have got to make sure 
+the opponent is knocked down or immobilized in some way, since your partner 
+is very vulnerable when he/she tags in to get juggled or thrown. With a 
+knockdown or stun, you can tag in your partner more safely as the opponent 
+recovers. The best way is via a tag combo or tag throw.
+- Be sure to counter everytime when the opponent tags in recklessly, either 
+a juggle or throw, or a fast knockdown.
+- Because Ogre doesn’t have many good opions to tag his partner in, it’s 
+best to pick your partner FIRST before you pick Ogre, so you can tag more 
+easily as your partner starts minimizing the chance to get into trouble 
+early in the match.
+- There is no netsu powerup when Ogre’s on the team.
+- It's a good idea to tag everytime when you've got around 50points of 
+damage left (with both characters) everytime to stay longer in the match. 
+Example: You start with Ogre and Bryan against a Julia and Wang player, and 
+your Ogre gets hit by the opponents Wangs juggle which does around 50 points 
+of damage. You use a 1+3 and tag in Bryan fot a tag-throw. Now your Bryan 
+has full health and Wang lost around 30points, which puts you in advantage 
+in that situation. Wang cannot tag since he may be afraid your Bryan will 
+counter his Julia with a b+1 juggle, so if you manage to hurt Wang some 
+more, lets say a f+4(ch)f,f+2, his life will be around 46points of damage 
+and by that time, your Ogre might be fully healed to 100points due to the 
+health recovery the tagged out partner gains to finish the job. What I'm 
+trying to say is, if you use the tag feature and health recovery in your 
+advantage if you think rational, you might win without comparing how strong 
+yours and the opponents characters are against each other, but your largest 
+weapon in Tekken is not always your skill or knowledge, but the most obvious 
+thing you can imagine: THINKING. Damn straight. Your state of mind is your 
+largest weapon, even greater than your knowledge or skill, I believe that if 
+you know how to deal with ANY situation, in ANY game, THINKING is your best 
+weapon.
+
+============
+Tag partners
+============
+
+Okay, a lot of people are gonna hate me when I say this but I still am true 
+to my point: Try other teams than just Jin/Heihachi! Just because Jin can do 
+the Possession then, that doesn't mean everyone suddenly has to pick this 
+particular team!? I've seen so many, TOO many Jin/Heihachi's in the arcades 
+I've visited, it gets me all stressed out. I know it's a great team and all, 
+but please guys, face it, there are more than 30 characters in the entire 
+game and you only use one team? C'mon, experiment! Isn't it boring to see 
+the same styles over and over (Jin....yaaaawwwwwnnnn), while you have very 
+good other combinations? I hope even the below average players will start to 
+explore more characters than just two or three, there are some deadly other 
+combinations of characters out there whose styles will gel together well, 
+not just Jin and Heihachi everytime. Just experiment, explore, and look for 
+more good combinations that suit your playstyle well, I just hope the 
+Mishima's won't get the trademark of being overly picked like Ryu, Ken and 
+Akuma in the SF series. Anywayz, back to my point. Ogre is the character I'm 
+writing about, so I have to change the Sub-J. You have to find characters  
+that play very well with Ogre. Here are good tips of picking a good team:
+- It's handy to pick a partner that doesn't have the weaknesses Ogre has. 
+Example: Ogre lacks fast poking attacks attacks, so find a character who has 
+very good poking ability.
+- Use a partner that suits your gamestyle.
+- Pick a partner who is played in a completely different way than Ogre to 
+force the opponent to play a different style against each character, 
+sometimes this affects their strategy. Some strategies that work well 
+against Ogre but not against your partner, which could be an advantage to 
+you.
+- Have fun, experiment and be a good sport, even if you don't have good day 
+and play like shit.
+
+============================
+Teams recommended with Ogre
+============================
+
+
+- Ogre/Bryan:
+
+This is still my main team, and I still think this is one of the better 
+teams. Bryan has the pokes, jugglestarters, mixups to back Ogre up, and 
+Ogres backs up Bryans lack of low attacks, and his df+1 is quite better than 
+Bryans df+2 (I wish Bryan had Ogres elbow, but his df+2 is still awesome 
+though) because the d+1 is guaranteed afterwards. Both characters have a 
+great WS game, Ogre with his WS+2 and Bryan with his WS+3. Both characters 
+can be very damaging and have a good offensive game, but Ogre doesn’t have a 
+good move of the forward dash to punish the opponents recovery like Bryan 
+has in his f,f+2. Both characters back each other up pretty well but the 
+main weakness they both have is that they only have one special throw, and 
+that’s only two special throws combined. But for the rest, this team suits 
+my playstyle a lot, cuz myself as a player likes to sway, crouch and 
+sidestep a lot. If you like a mobile styled game, this team is 
+recommendable. If you want to find more Bryan, you can check out my Bryan 
+FAQ, which is also released. Team rating: ****
+
+
+- Ogre/True Ogre:
+
+If you like Ogre this is your team of choice. True Ogre plays almost the 
+same as Ogre, but with a few added moves. But True Ogres main flaw is his 
+size which leaves him very vulnerable grounded and when he sidesteps unlike 
+Ogre. His advantage is that his range is far better than Ogres, his ws+2 is 
+a lot better this way, since players’ll have more trouble backdashing out of 
+range. He can also do followups after df,DF+2+4 more easiliy due to his 
+attacks range. True Ogre can also reverse Low, Mid and Special Mid punches 
+with a Man-Eater(Kuma)throw, timing DF with the opponents attack, but can be 
+escaped like a throw with 1+2. Despite the fact that they are very similair, 
+they have different strengths and weaknesses, and that’s why they have to be 
+played a little differently from each other. I just wish Ogre could morph in 
+True Ogre like Kazuya can morph in Devil when you press the tag button. Like 
+Ogre, True Ogre doesn’t have reliable taggable moves, and that’s why this 
+team is not good enough to beat a good Jin/Heihachi or Julia/Michelles. Team 
+rating: **
+
+
+- Ogre/Bruce:
+
+This must be one of the cheapest teams in the game. Bruce is a very good 
+partner for Ogre, since he has damaging attacks, a whole shitload of 
+taggable moves and great quickness. His jabs are extremely fast and 
+damaging, and must be uses a lot. His 1,2 starts up 8frames, and he has tons 
+of options to link afterwards, 1,2,4 the 1,2,d+4(4), the 1,2,f+4, the 1,2,3 
+and the 1,2,1,2. Bruce’s high amount of taggable moves allows you to tag 
+Ogre in a lot. I recommend picking Bruce first to do the big damage and tag 
+in Ogre to finish the job. Your Ogre will back up Bruce’s lack of good 
+WS-attacks as Bruce backs Ogre up with his speed and combo options. Apart 
+from Bruce’s multi, this team has only one special frontal throw 
+(df,DF+2+4), which is really not enough. The main use for this team is to do 
+big damage as fast and easy as possible. More great Bruce stuff can be found 
+in Nick Noreaga’s FAQ. Team rating: ***
+
+
+- Ogre/Roger:
+
+I think this team is best used as a fun team. Roger has some good pokes in 
+2,1, standing 1, d+1,N~2 and df+1. I think Ogre backs up Rogers lack of 
+attack range as well, while Roger backs Ogre up with his fast jabs and good 
+arsenal of throws. Roger has the best left jab in the game, it’s fast and 
+has guaranteed followups when it counters. Also, standing jabs seem to whiff 
+more often on Roger than any other character in the game. Ogre has better 
+damage and stamina, so I recommend using him most of the time if possible. 
+This is more of a fun team to use in friendly matches, than a hardcore team 
+to use in tournament play. Still these two characters ge fairly well 
+together. If you want to learn more about Roger, check out the Roger FAQ by 
+Grim Walker and Synner. Team rating: ***
+
+
+- Ogre/Kuma:
+
+This team is actually pretty good. Kuma has some great pokes in 2,1. f+2 and 
+f+1, which are a lot better than most of what Ogre has. Kuma has some good 
+long range attacks, and his f,f+2 uppercut launches high enough for a 
+guaranteed b,f+2+3. Like Ogre, Kuma has do great damage in little time, and 
+has some great attacks in f+1,1,1 and WS+1,2. Kuma has a lot more speed than 
+many estimate, and also has a good set up throws to back up Ogres lack in 
+them. Ogre lacks a good dashing game  which Kuma backs up as well. Ogre’s 
+crouching and sidestepping game blends well with Kuma’s power attacks, they 
+both can put pressure on an opponent fairly well. Kuma has a good new 
+addition in his ManHuntStance. Ogres fast and long range kicking attacks are 
+a good help for Kuma since many of his kick attacks are very short and slow, 
+except for his standing 4, which can be followed up woth f+1+2 on CH. A very 
+solid team. More on Kuma in abrar’s awesome FAQ on him. Team rating: ****
+
+
+----------------------------------------------------------------------
+
+
+J.  POKING
+
+
+Probably the only thing that's still as effective in TTT as in T3 is poking, 
+one of the most essential techniques in Tekken today. Poking is basically 
+making use of attacks with come out fast and recover fast, like basic jabs. 
+Poking is a wide term, since it has more than one sole purpose. But poking 
+is essential for the good allround Tekken game, you cannot really compete in 
+higher level play without a solid poking game. There are all sorts of 
+different ways to use poking effectively depending on what kind of situation 
+you're in. There are different poking techniques which every play will be 
+confronted with sooner or later in high level play. These techniques will be 
+displayed underneath.
+
+
+=======================
+Basic poking techniques
+=======================
+
+- Offensive poking:
+
+The most commonly used poking tactic, and Ogres strongest point is poking. 
+Basically, offensive poking refers to chaining fast attacks with fast 
+recovery to each other for one sole purpose: pressure. If you keep staying 
+in the opponents face with fast pokes and basic jabs, you will have less 
+risk of retaliation, since the opponents counterattempts will most likely be 
+interrupted with offensive poking. If you keep offensive with fast attacks, 
+the frame advantage will always allow to to attack faster than the opponent 
+unless you use slower attacks with longer recovery. Offensive poking and 
+Set-up poking are often used in harmony which actually comes to the 
+definition of custom stringing, which will be explained later in this guide.
+
+Suitable attacks for offensive poking: 
+1,1/1,2/d+1/1/2/df+1/df+1,2/df+4/d+4(4)/ws+4,4/ws+3,3/
+
+
+- Set-up Poking:
+
+Setting up is basically using fast pokes to connect, to get the framing 
+advantage needed to follow a attack for damage purposes (like a juggle 
+starter, throw or powermove) without having much fear of retaliation. A good 
+example is the df+1, which comes out fast AND recovers fast, so if you 
+connect you will have the opportunity for a followup before the opponent can 
+counter (like the d+1, which is guaranteed), because the recovery of the 2 
+will be faster than the recovery of the opponent from the impact, allowing 
+you to punish that recovery with a throw or fast jugglestarter, before the 
+opponent can interrupt you. If the opponent blocks you on time that's not a 
+real problem either unless you've set up an attack with slow recovery which 
+can be punished. The most important thing you need to know is that you must 
+set-up an attack which is pretty safe in speed and recovery since it happens 
+that the opponent might counter the move you've set up on time if your 
+attempt comes out too slow. Set-up your fast jugglestarters, powermoves and 
+throws and you should be able to use your set-up game without much risk of 
+getting punished.
+
+Set-ups:
+1/2/d+1/df+1/1,1/1,2/df+4/
+
+
+Moves to set-up:
+uf+4/1,1>2/2,2/f+2/FC,f+2/FC,df+2/D+3,3,d+3_N+3/df+2/df+1,2/standing 
+4/f,f,N+2/b+2/ws+4,4/ws+3,3/f,f+2/f+2/f+4/WS+2/any throw
+
+- Interrupting:
+
+Interrupting is actually more of a semi-definition of poking. Basically, 
+interrupting is to stop the opponents attack with fast pokes. This can be 
+either during the lagtimes between some (ten)strings or attacks that have a 
+start-up. Interrupting is best done with fast pokes, and it also depends on 
+the distance you are in, use long range pokes to interrupt attacks from a 
+distance and shorter range pokes to interrupt up close. Estimate the speed 
+of your interrupts and your opponents attack to interrupt their attacks 
+safely, be sure to time right as well, since these days every whiffed attack 
+can be punished no matter how good the recovery is. Interrupting occurs very 
+commonly in harmony with offensive poking since it happens a lot that you'll 
+interrupt the opponents counter attempt when you stay in his face with 
+custom strings and set-ups due to the framing advantage you have gained.
+
+Interrupts: 1(2)/1(1)/2/d+1/d+4/df+1/ws+4,4/ws+3,3/df+4/
+
+- Keep away:
+
+Keep away is not really considered a poking tactic, but most of the time, 
+keep away is actually used as a defensive way of poking. The best way to 
+indicate keep away tactics is keeping the opponent at a certain distance by 
+constantly using (long range) pokes to discourage him to get into a hostile 
+range. A good example is to keep a Paul player out of falling leaf range by 
+constantly countering him with a fast long range attack everytime he tries 
+to rush in to keep him at bay. A good keep away move is the df+4, because it 
+has awesome range and speed and give you framing advantage once connected 
+for you to either gain some spacing or quicky rush in with a fast poke or 
+throw to gain pressure. The d+4 is great as well since it hits low and 
+reaches a suprising distance, and forces the opponent to try and block low 
+on you when they rush in next leaving them vulnerable from he crouch for a 
+df+4 or other fast mid-hitting attack. Great keep away moves from your 
+crouch are the WS+4,4 amd WS+3,3, which keep the opponent at a distance to 
+avoid getting countered whenever you try to execute from a crouch, like 
+after a d+1 attempt. Apart from those attacks Ogres keep away game isn’t 
+really good, since most of his long range attacks are pretty slow.I would 
+concetrate more on gaining pressure with custom strings, which is Ogres 
+stronger point
+
+
+Poking is essential in Tekken, but you don't have too see all these poking 
+techniques as loose definitions. You can use all these poking techniques in 
+harmony and blend them up. For instance, if you interrupt your opponent, you 
+already have a set-up allowing you to stay offensive on the opponent with 
+fast pokes and custom strings. Poking is the safest way to do your popular 
+moves(throws, jugglestarters, powermoves, unblockables) without risk of 
+getting punished, and without necessairily waiting for counterhit 
+opportunity. That's the main reason why I think it's one of the most 
+important features in the entire game. Ogre isn’t as good of a poker 
+compared to many other characters since his jabs are slow and he hasn’t got 
+much else to compete up close against a Bruce or Law player. Still you need 
+to use Ogres fast attack to gain the pressure needed to utilize his reliable 
+options of doing damage, like the WS+2, uf+4 and throwing.
+
+
+----------------------------------------------------------------------
+
+
+K.  COMBO'S/JUGGLES
+
+
+Comboing is a term that's used pretty much used in every fighting
+game. For those who still don't know, a definition of a combo is a 
+combination of certain attacks which link together doing damage combined. 
+Combo's are used in just about every fighting game I've played. Some combo 
+systems are cheap (Killer Instinct, though I loved to play it really), some 
+systems plainly suck (Mortal Kombat, the most krappiest kombo system of all 
+beat 'em ups) and some have great quality (Tekken, Street Fighter, tha real
+work). Fortunately, comboing in Tekken is vital as far as doing damage goes, 
+and in every match, you will be confronted with combo's wether you pull 'em 
+or eat 'em wether it's a simple 2 punch combo, or a monstrous 120+ combo off 
+one hellsweep by a crazy, coffee and coke addicted Jin-nutshell, comboing 
+will stay in Tekken, and probably in every other popular beat'em ups, one of 
+the most deep features ever. Ogre is not a combo character like the 
+Mishima’s but most of them are quite damaging and easy to do.
+
+Ogres Combo starters:
+- ws+2       - Stuns opponent on clean hit/counter -
+- uf+4:      - Juggles opponent -
+- uf,n,3     - Stuns opponent -
+- f,f+3      - Juggles opponent -
+- f,f+2      - 2nd hit staggers opponent, escapable with b,b -
+- d,db+4     - Juggles opponent on MC, taggable.
+- D+3,3,n,3 - Juggles opponent, taggable -
+- FC,f+2     - Staggers opponent -
+- SS+4       - Juggles opponent, hits grounded opponents -
+- df+2       - Staggers big characters, Juggles small characters on CH -
+- FC,df+2    - Juggles opponent -
+- ub+3,2     - Juggles opponent, second hit juggle is taggable -
+
+
+
+- Side tip for beginners: In order to juggle effectively you must find good 
+juggle extensions, which will keep your opponent in the air long enough to 
+do more air damage. Good options are basic jabs and the df+1. Also, damaging 
+juggle finishers are also important if you want to do good guaranteed 
+damage, good attacks for Ogre here are the f+2, the Standing 4 and the f+2. 
+Experiment with different combinations of different attacks after a 
+jugglestarter (see above) to see what is effective and what doesn't. It's 
+important to have good combo's with solid damage that are easy to remember, 
+since good arcade players won't easily allow juggle opportunities after one 
+or two tries, so make sure you have some good combo's ready, to take 
+advantage of every juggle opportunity without getting startled everytime.
+
+==========
+Combo List
+==========
+
+Most of them are quite easy to do in the heat of battle, and most have them 
+still do enough damage to get a good headstart in damage or come back pretty 
+decently after you are behind in the match. If there are any errors in the 
+list, please let me know, any notices of corrections will be thanked and 
+credited. If the word “big” is listed behind a combo it means it can only be 
+done on te bigger characters in the game (Ganryu, Jack-2, P.Jack, Gunjack, 
+Kuma, True Ogre). On with the list......
+
+D+3,3,N+3~D,ws+1,d+4,4
+D+3,3,N+3,df+2,d~DB+4(big)
+D+3,3,N+3,df+2,f+2
+D+3,3,N+3,df+2,d+4,4
+D+3,3,N+3,df+1,f,f+1+2
+D+3,3,N+3,df+1,1,1>2
+D+3,3,N+3,df+1~1,1,d+4,4
+D+3,3,N+3,df+1,df+1,d~DB+4(big)
+D+3,3,N+3,df+1,uf+4,d+4,4(big)
+D+3,3,N+3,uf+4,d+4,4
+D+3,3,N+3,uf+4,1,2,2
+D+3,3,N+3,df+1,D+3,3,N+3
+D+3,3,N+3,uf+4,d+2(FC)f+2
+D+3,3,N+3,uf+4,d+2(FC)df+2
+
+
+ws+2(s)df,DF+2+4,f,f~FC,f+2,d+1(FC)df+2
+ws+2(s)df,DF+2+4,f,f~FC,f+2,d+1(FC)f+2
+ws+2(s)df,DF+2+4,f,f~FC,f+2,d+4,4
+ws+2(s)df,DF+2+4,f,f~FC,df+2,f,f+1+2
+
+
+uf+4,df+1,4
+uf+4,df+1,f,f+1+2
+uf+4,df+1,df+1,d+4,4
+uf+4,df+1,1,2,2
+uf+4,df+2,f+2
+uf+4,df+2,d+4,4
+uf+4,df+2,4
+uf+4,uf+4,d+1(FC)df+2
+uf+4,uf+4,d+1(FC)f+2
+uf+4,uf+4,d+4,4
+uf+4,uf+4,D+3,3,N+3
+
+(Side note: all uf+4 combo’s can be followed after ws+2 stun making them 
+more damaging combo’s)
+
+f,f+2,d+1(FC)f+2
+f,f+2,d+1,ws+4,4
+f,f+2,d+1,ws+3,3
+f,f+2,d+1,D+3,3,n,3
+f,f+2,d+1(FC)df+2
+
+
+d~DB+4(ch)df+1,df+1,d~DB+4(big)
+d~DB+4(ch)df+1,df+1,d+4,4
+d~DB+4(ch)df+1,f+2
+d~DB+4(ch)uf+4,d+2(FC)f+2
+d~DB+4(ch)uf+4,d+2(FC)df+2
+d~DB+4(ch)df+1,1,2,2
+
+
+df+2(ch),df+1,df+1,d+4,4
+df+2(ch),df+1,f+2
+df+2(ch),df+1,2,2
+df+2(ch),df+1,4
+
+
+df+2(big)f~df,DF+2+4
+df+2(big)df+1,2,d+4,4
+df+2(big)d+2(FC)f+2
+df+2(big)d+2(FC)df+2
+
+
+FC,f+2(ch)d+1(FC)f+2
+FC,f+2(ch)d+1(FC)df+2
+FC,f+2(ch)d+1,ws+3,3
+FC,f+2(ch)d+1,FC+3,3,N+3
+FC,f+2(ch)d+4,4
+FC,f+2(ch)f,f+1+2
+
+
+FC,df+2,f,f+1+2
+FC,df+2,d+4,4
+
+
+Total amount of combo’s listed: 56
+
+
+Hopefully you will find some use is these combo’s, and if you have to add 
+some combo’s or correct some stuff if there happen to be flaws in there, you 
+can e-mail me anytime.
+
+
+
+----------------------------------------------------------------------
+
+
+L.  CUSTOM STRINGS
+
+The essence of custom strings is growing larger in Tekken everytime.
+Custom strings basically are fast attacks with fast recovery glued together 
+to keep the opponent from attacking you. You are more or less playing a 
+"block or get hit" game with your opponent. The best way to use custom 
+strings is after interrupts or when the opponent is immobilized. Custom 
+strings are also great to set up certain attacks/throws with fast pokes, 
+those attacks are displayed at the end of each "string". The following 
+custom strings I tend to use are:
+
+
+
+1,1->df+1->d+1->(FC)f+2,d+1
+1,1->df+1->d+1->(FC)df+2
+1,1->df+1->d+1->ws+4,4_ws+3,3
+1,1->df+1->d+1->ws+2
+1,1->df+1->d+1->buffer into 1+3(~5)
+1,1->df+1->d+1->D+3,3,d+3_N+3
+1,1->df+1->1,2->uf+4
+1,1->df+1->1,2->df+4
+1,1->df+1->1,2->d+4,4
+1,1->df+1->1,2->buffer into df,DF+2+4
+1,1->df+1->1,2->b+2
+1,1->df+1->1,2->df+2
+1,1->df+1->1,2->f+2
+1,1->df+1->1,2->df+1,2
+1,1->df+1->1,1>2
+1,1->df+1->buffer into 1+3(~5)
+
+
+
+I use the 1,1 a lot to start custom string because it’s the fastest attack 
+Ogre has from standing position (10frames) and puts you in range by impact 
+making followups very easy. Especially the df+1 afterwards works well since 
+it recovers fast and puts you close enough by impact, to follow a guaranteed 
+d+1, which is Ogres main attack to set-up his crouching game.
+
+
+df+1->df+1->d+1->ws+2
+df+1->df+1->d+1->ws+4,4_ws+3,3
+df+1->df+1->d+1->(FC)f+2_df+2
+df+1->df+1->d+1->buffer into 1+3(~5)
+df+1->df+1->1,1->df+1,2
+df+1->df+1->1,1->uf+4
+df+1->df+1->1,1->df+4
+df+1->df+1->1,1->d+4,4
+df+1->df+1->1,1->buffer into 1+3(~5)
+df+1->df+1->1,1->f+2
+df+1->df+1->1,1>2
+df+1->df+1->1,1->df+2->f,f,N+2
+df+1->df+1->1,1->df+2->uf+3,4,3
+df+1->1,1->df+1->d+2->(FC)f+2
+df+1->1,1->df+1->d+2->(FC)df+2
+df+1->1,1->df+1->d+2->ws+2
+df+1->1,1->df+1->d+2->buffer into df,DF+2+4
+df+1->1,1->df+1->d+2->ws+4,4_ws+3,3
+df+1->1,1->df+1->buffer into 1+3
+df+1->1,1->df+1,2
+df+1->1,1->d+4,4
+df+1->1,1->4
+df+1->1,1->buffer into 1+3
+df+1->1,1->f+2
+df+1->1,1->uf+4
+df+1->1,1->df+4->f,f,N+2
+df+1->d+1->(FC)f+2
+df+1->d+1->(FC)df+2
+df+1->d+1->ws+2
+df+1->d+1->ws+3,3
+df+1->d+1->ws+4,4
+df+1->d+1->ws+1->1,1>2
+df+1->d+1->buffer into 1+3(~5)
+df+1->d+1->ws+3->f+2
+df+1->d+1->ws+3->
+df+1->d+1->D+3,3,d+3_N+3
+df+1->d+1->FC+4->ws+2
+df+1->d+1->FC+4->(hold FC)df+2_f+2
+
+
+The df+1 is Ogres best pressuring move, and custom stringing is all about 
+putting pressure on a defending opponent. This is ideal since it’s 
+unparryable, unduckable, recovers quick and sets up very well, allowing a 
+free d+1 to set up your WS and FC-moves., and it recovers extremely quick. 
+The df+1 is a must if you want to maintain offensive without risk to get 
+retaliated.
+
+
+I credit ETP and some other players for their custom string idea’s, which 
+inspired me to put up this section.
+
+
+----------------------------------------------------------------------
+
+M.  THROWS AND COUNTERS:
+
+
+This section will display in more detail than the move analysis how to use 
+Ogres throws, special counters and escapes effectively, and several 
+strategies around them. You cannot always rely on fast pokes and your string 
+mixups everytime, that's when your throws and counters often become you most 
+useful weapons.
+
+========
+Throwing
+========
+
+Apart from punches and kicks, throwing is another important attack method in 
+TTT. Even with characters who lack throws should use them, since most throws 
+can only escaped at the start-up. If you cloak your throw attempt well with 
+your fast pokes and attack strings, you should be able to suprise your 
+opponent before they get the reaction to hit the escape. A very good example 
+is to buffer your throw with your fast pokes, not only for a faster 
+execution, but if your poke connects, it'll often set you up for your throw 
+attempt. You can throws after a stun or even during the mid frames of some 
+moves. Throws can be executed standing or chrouching, even off a rolldash or 
+sway. Be sure to estimate the distancing of Ogres throw range, since a 
+missed throw attempt will be punished. Still I wish Ogre has at least one 
+more special throw, since I think he still lacks in amounts of throw, and it 
+would've been great to give Ogre a new throw. Here is a small summary on all 
+of Ogre throws.
+
+- Regular Throws
+
+1+3/2+4(front): Ogres basic frontal throws are probably the throws you'll 
+use the most. Mix them both up well to force the opponent into a guessing 
+game with the escape. These throws can be done off a ducking position as 
+well, many opponents don't seem to expect that, which is a good thing.  
+After the 1+3, a d+3 is guaranteed, and it’s taggable. The 2+4 is far less 
+useful, but should still be mixed up with 1+3 so the opponent is forced with 
+a guessing game with the escape.
+1+3 - Escape: 1
+2+4 - Escape: 2
+
+1+3/2+4(from the opponents side): Because Ogres sidestep is so huge it 
+happens often your sidethrows will not reach, and you cwill be vulnerable to 
+be punished . None of Ogres sidethrows have guaranteed followups but they 
+both look painful. Using Ogre you won’t get a sidethrow attempt a lot 
+against good players.
+
+Left Sidesthrow - Escape: 1
+Right Sidesthrow - Escape: 2
+
+1+3/2+4(on backturned opponent): Backthrowing is something which occurs in a 
+select few situations, like to counter moves such as Devils lasers, 
+Hwoarangs f,f+4, P.Jacks 3+4, Yoshi's Deathcopter, Julia's Earthquake Stomp 
+and after sidestepping moves that are linear and travel a long distance, 
+like a Thunder Godfist or Kings f+2+3, just about any situation where the 
+opponents back is vulnerable to you. Connect a backthrow, and your opponent 
+loses big of damage, and on top of that, the FC+3 is guaranteed afterwards, 
+so if you tag off it, the already heavy damage will be increased even more, 
+and the character you've tagged in via the tag throw should be able to 
+finish the job if the opponent isn't dead yet, since such a headstart in 
+damage should be taken advantage of. Still whatever you do, don't try 
+backthrowing on Lings and Lei's, you'll most likely end up thrown or 
+juggled.
+
+Escape: n/a
+
+- Special Throws:
+
+df,DF+2+4:
+This throw is escapable now, unlike the previous versions of this guide say, 
+which really sucks. Still it’s a two button escape, and that’s always harder 
+for an opponent to escape. But it still sets up some good added damage when 
+you connect this throw, and that’s why it should be used often. because you 
+are vulnerable during the execution time of this throw, I’d recommend 
+buffering it. This is together with uf+4 the best followup after the ws+2 
+double over stun, so that’s anothe good situation to pull this off. Like 
+with all throws, you should mix it up with his basic throws, to keep the 
+opponent guesing for the breakout. This is Ogres best throw.
+
+Escape:1+2
+
+
+========
+Chickens
+========
+
+Chickens are used to counter the opponent's high mid attack-reversals
+(Jin, Wang, Jun, Paul, Nina and Anna). This has to be done fast, so  you 
+might not get the timing everytime. An easy trick for that is to buffer your 
+attack with either f+1+3(left limb reversal) or f+2+4 (right limb reversal) 
+if you feel you'll get reversed.
+Important moves to chicken:
+f+2              - Chicken: f+2+4
+1,1>2            - Chicken: f+2+4(last hit)
+ws+3,3,d+3,3...  - Chicken: f+1+3(any)
+uf+3,4,3         - Chicken: f+1+3 (first hit)
+f,f+3            - Chicken: f+1+3
+ws+4,4           - Chicken: f+2+4 (second hit)
+uf+4             - Chicken: f+2+4
+FC,f+2           - Chicken: f+2+4
+FC,f+1           - Chicken: f+1+3
+D+3,3,N+3        - Chicken: f+1+3 (last hit)
+d+4,4            - Chicken: f+2+4 (last hit, if the first whiffs)
+ub+3,2           - Chicken: f+2+4 (last hit)
+4                - Chicken: f+2+4
+d,db+4           - Chicken: f+2+4
+f,f,N+4          - Chicken: f+2+4
+df+2             - Chicken: f+2+4
+f+4              - Chicken: f+2+4
+f,f+4            - Chicken: f+2+4
+Against reversal happy players, it's a good tactic to bait them into a 
+Chicken everytime, especially since the chicken does damage to the opponent. 
+By buffering your Chicken it allows you to execute faster, and lets you gain 
+some spacing again, since the opponent canot tag out during their recovery 
+of a chicken. In the "Buffering" section more on how to exactly buffer a 
+Chicken.
+
+
+=============
+Throw Escapes
+=============
+
+Escaping throws is more common the more you do it. Most throws have
+single button escapes(1 or 2), some are escaped with two buttons pressed 
+simultaneously (1+2). Throw escapes are the main reason why throwing 
+shouldn't be called cheap. Escaping throws can be tricky at times, you have 
+to have good anticipation, since most throws can only be escaped at the 
+start-up. There are some tricks for throw escapes:
+- If the throw is executed with a right attack (i.e. Baek/Hwoarangs
+f,f+2, King/Armor Kings db,f+2) the escape is most likely 2.
+- If the throw is executed with both punches simultaneously(1+2) attack 
+(i.e. Yoshi's qcb+1+2, Kuma's hcb,f+1+2) the most common escape is a 1+2.
+- If the throw is executed with a left attack (i.e.GunJacks qcf+1
+Roger/Alex' hcf+1) the most common escape is 1.
+- All basic front throws are escaped with either 1 (1+3) or 2 (2+4).
+- All tackles are escaped with 1+2.
+
+
+But there are lots of exceptions to this rule underneath, it was pretty time 
+consuming to test these out, I couldn't confirm all escapes so any help will 
+be credited. I'm sure I didn't post all throw-escapes, so mail me if I 
+forgot something. Here are the exceptions:
+
+Kuma/Panda:
+f,f+1+4 - escape: 1+2
+
+Jack-2:
+df+2+4 - escape: 2
+
+Anna:
+df,df+1 - escape: 1+2
+qcf+1+2 - escape: 2
+uf+3 - escape: 2 (unconfirmed)
+
+Wang:
+df,DF+2+4 - escape: 1+2
+
+Baek:
+db+1+3 - escape: 1+2
+
+Jun:
+df+2+3 - escape: 2
+
+Julia:
+df+1+2 - escape: 2
+d,db+1+3 - escape: 2
+qcb,f+2 - escape: 1+2
+
+Prototype Jack:
+db+2+3 - escape: 1+2
+
+Jin:
+df+2+3 - escape: 2
+qcb+1+2 - escape: 1
+
+Gun Jack
+db+2+3 - escape: 2
+f,f+2+3 - escape: 2
+df+2+4 - escape: 2
+d+1+3 - escape: 1+2
+
+Michelle:
+df+1+2 - escape: 2
+
+Nina:
+df,df+1 - escape: 1+2
+qcf+1+2 - 2(?)
+
+Paul:
+b+2+3 - escape: 2
+
+King:
+df+2+3 - escape: 2
+
+Ling:
+f+2~1 - escape: 1+2
+
+Ganryu:
+f,f+2+3 - escape: 1+2
+
+Hwoarang:
+qcb+3 - escape: 2
+d,db+1+3 - escape: 1+2
+
+Lee:
+f,f+3+4 - escape: 1
+
+Kunimitsu:
+db+1+3 - escape: 1+2
+
+
+
+- Side tactic:
+A lot of times you have to put up a guessing game with throw escapes, there 
+are some easy tricks for that. A well known one is to press 
+1,2,1,2,1,2,1,2...etc. which gives you a fifty fifty chance of an escape. If 
+you are not sure wether it'll be a two button or 1 button escape, a good way 
+is to buffer it with  a standing jab (i.e. 1(hold 2)1). If you do it fast 
+enough and the 1 button won't do, the buffer will escape the throw (if it 
+requires a 1+2 escape).
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+
+N.  BUFFERING
+
+
+Buffering is an advanced tactic which allows you to execute moves 
+differently and faster, by cancelling them into each other. Buffering is a 
+very wide term, like poking, since it can be used in so many different 
+forms. Buffering is used during custom strings, escaping, juggles and 
+multiparts. Dashbuffering, Crouchbuffering and Buttonbuffering are the most 
+common forms, but you can also buffer with lowparries, throwing, multiparts, 
+throw escapes, chickens and unblockables, even taunts. This section will 
+give you info on the most common forms of buffering in high level play.
+
+
+
+================
+Button Buffering
+================
+
+Button Buffering is the most common buffering method in TTT. Basically is 
+cancelling attacks with single button commands (standing jabs, for instance) 
+with double button commands (basic throws i.e.).
+
+A small example:
+
+1 into 1+3 -> 1(hold 1)3.
+
+Basically if you hold the 1 and initiate the 3, so you’ll press both buttons 
+together, and then you’ll pull the 1+3. The 1 will allow the throw to come 
+out easier and if the 1 hits the chance of retaliation is minimized as well. 
+Button buffering is a quick and easy way to pull moves that require two or 
+three button pressed simultaneously, and is used very often during combo’s 
+and sorts.
+
+- More examples
+
+
+FC,df+2,f,f+1+2 ---> FC,df+2(hold 2)f,f+1 - The f,f+1+2 is always guaranteed 
+once the FC,df+2 hits, but if you buffer it makes the execution far easier.
+
+ws+2(s)df,DF+2+4 ---> ws+2(hold 2)df,DF+4 - If you want to execute the 
+waning moon faster off the gutpunch stun, than you must buffer it this way.
+
+df+1 into 1+3 ---> df+1(hold 1)3 - Throw buffer.
+
+1,2 into df,DF+2+4 ---> 1,2(hold 2)~f,f~df,DF+2+4 - You must rush in to make 
+the df,DF+2+4 reach.
+
+df+2(on big characters)into df,DF+2+4 ---> df+2(hold 2)~F,df,DF+2+4 - Must 
+initiate the “F” to connect the throw. Must be pulled fast. I still am not 
+sure if the Waninbg Moon is guaranteed or not.
+
+df+4 into f+1+4 ----> df+4(hold 4)f+1 - Yeah, I know this one looks weird, 
+but I actually use it at times, since the framing you gain from df+4 makes 
+it harder for the opponent to attack you and will block the f+1+4 very often 
+allowing a free tag-out.
+
+- How to buffer Chickens:
+
+Remember the part about chickening in the "Throws and Counters section", 
+well here, it'll be shown how to buffer them easily. If you feel your get 
+attack reversed, you must buffer your Chicken the same way as you would with 
+throws but faster:
+Attack           Chicken                        Buffer
+f+2              - Chicken: f+2+4-------------->f+2(hold f+2)4
+1,1>2            - Chicken: f+2+4(last hit)---->1,1>2(hold 2)f+4
+ws+3,3,d+3,3...  - Chicken: f+1+3-------------->any 3(hold 3)f+1
+uf+3,4,3         - Chicken: f+1+3(first hit)--->uf+3(hold 3)f+1
+f,f+3            - Chicken: f+1+3-------------->f,f+3(hold 3)f+1
+ws+4,4           - Chicken: f+2+4(second hit)-->ws+4,4(hold 4)f+2
+uf+4             - Chicken: f+2+4-------------->uf+4(hold 4)f+2
+FC,f+2           - Chicken: f+2+4-------------->FC,f+2(hold 2)f+4
+FC,f+1           - Chicken: f+1+3-------------->FC,f+1(hold 1)f+3
+D+3,3,N+3        - Chicken: f+1+3(last hit)---->,N+3(hold 3)f+1
+d+4,4            - Chicken: f+2+4(last hit)---->d+(4)4(hold 4)f+2
+ub+3,2           - Chicken: f+2+4(last hit)---->ub+3,2(hold 2)f+4
+4                - Chicken: f+2+4-------------->4(hold 4)f+2
+d~DB+4           - Chicken: f+2+4-------------->d~DB+4(hold 4)f+2
+f,f,N+4          - Chicken: f+2+4-------------->f,f,N+4(hold 4)f+2
+df+2             - Chicken: f+2+4-------------->df+2(hold 2)f+4
+f+4              - Chicken: f+2+4-------------->f+4(hold 4)f+2
+f,f+4            - Chicken: f+2+4-------------->f,f+4(hold 4)f=2
+
+
+================
+Crouchbuffering
+================
+
+Ogre strongest buffering game is in the form of the crouchbuffer. 
+Crouchbuffering can be done in every FC-move n the game, it's done by 
+cancelling moves that END in FC-position (recover in a chrouch) and moves 
+that BEGIN in FC position (executed FROM a crouch). A good and wellknown 
+example is the simple d+1 lowjab. Examples of moves executed from FC are 
+Julia's FC,df+2 and Bryans FC,df,d,DF+1+2. If they are cancelled into each 
+other with a low jab, you'll get d+1,df+2(Julia) d+1,df,d,DF+1+2(Bryan). 
+This is a schemtic display of the execution of a crouch buffer:
+
+Moves that recover in FC(i.e.d+1) -----> Moves that begin in FC(i.e.FC,df+2)
+
+You can more or less say the FC-position can be used as a transmission 
+medium to cancel two moves in one, which defines, of course, the 
+crouchbuffer. Ogre has numberous most which are executed recover in the FC 
+position so, it can make an important part in his offense:
+
+Moves that recover in FC position:
+d+1, d+2 and D+3,3,d+3
+
+Moves that begin in FC position:
+FC,f+2, FC,f+1 and FC,df+2
+
+Now all you have to do is link these together (d+1 used as example):
+
+d+1 into FC,f+2  -----> d+1,f+2
+d+1 into FC,df+2 -----> d+1,df+2
+d+1 into FC,f+1  -----> d+1,f+1
+
+Mix these up with your WS-moves after a d+1 to define some great tactics 
+surrounding Ogres crouch. But if the lowjab is blocked the followup is 
+blocked often too, so you best option is to leave it alone or buffer into a 
+throw (a better option IHMO).
+
+The indicated combo’s can not be pulled without a crouchbuffer:
+
+D+3,3,N+3,uf+4,d+2(FC)f+2
+ws+2(s)df,DF+2+4,f,f~FC,f+2,d+1(FC)f+2
+uf+4,uf+4,d+1(FC)f+2
+f,f+2,d+1(FC)f+2
+df+2(big)d+2(FC)f+2
+FC,f+2(ch)d+1(FC)df+2
+
+
+As you can see, crouchbuffering is a very versatile form of buffering, and 
+can suprise the hell out of the opponent, since it's an awesome method to 
+cloak your attacks ina particular execution your opponent might not expect.
+
+
+----------------------------------------------------------------------
+
+O.  RECOVERY
+
+
+Recovery is another essential part of the all-round Tekken game. To recover 
+from the ground the safest way depends a lot on what the opponent does. 
+There are lots of ways to recover, and I'll display how I think the 
+different ways to recover from the ground should be used.
+
+- Recover Standing:
+To recover standing, you have to press up when you're grounded. This is the 
+safest way to recover from the ground if you're knocked down from a distance 
+and once you are on two feet again you can still block the opponents 
+additional attacks. But if be predictable with recovering standing, the 
+opponent might use low or attacks once you get up, or a fast juggle starter 
+or fast mid attack up close, like a hopkick or tilesplitter (Paul/Hei's 
+d+1).
+
+- Recover crouching:
+To recover in your crouch press u~D once you get knocked down, this can be 
+useful when the opponent keeps rushing in on you from a small distance, to 
+counter with a ws+3 knee or ws+1 juggle starter. If they expect you to 
+recover standing and use sweep or so, you can block it on time with the 
+chrouch recovery. Watch out for overheads, you might want to use a d+1 as 
+interrupt if you want to recover in your chrouch safely, more than enough to 
+discourage an opponent to rush in for a minor counter.
+
+- Roll backwards/forwards:
+Roll backwards with b while grounded and f to roll forwards. Use this to 
+avoid attacks such as a regular uf+2, ground pounces, or Julia's uf+3+4, and 
+other mid attacks that hit grounded opponents, but rolling backwards or 
+forwards exposed to the opponent, he'll have a great time pummeling you with 
+okizeme. A lot of intermediate players seem to roll backwards almost 
+automatically, which is bad thing, if you roll after every knockdown you are 
+very vulnerable to the ranged opponent. Use at the right times. The best way 
+to use rolling is in harmony with the Cross Chop (f+1+2) or reverse flip 
+(b+3+4).
+
+- Sideroll:
+Siderolling can be done with d+1,N and will put you in face down position. 
+This is very safe if opponents use okizeme attacks that are too linear, this 
+will avoid King/Armor King/Rogers alikicks, 
+Heihachi/Jin/Devil/Kazuya/Ogre/True Ogres 4~3 and Yoshi's db+1 if timed 
+right. Great to use, pretty safe option to recover if you time right.
+
+- Recover with sweep (3):
+Recovering with the sweep it useful when the opponents whiffs an okizeme 
+attempt (this happens more often than some may think) for a fast knockdown . 
+Still, the sweep isn't really a recovery method that is reliable, since good 
+players will stay out of it's range and minor counter your recovery.
+
+- Recover with mid kick (4):
+Use as a mixup with the sweep but like the sweep, this can be parried, good 
+players will also stay out of range and punish your recovery.
+
+- Recover with an ankle kick (d+4): A simple ankle kick can be good to keep 
+an opponent at bay when they rush in for okizeme. Very good for chipping 
+damage, and when it connects you can block safely after getting up. But 
+don’t overuse this at all costs, since opponents may expect the ankle if you 
+do it too oftenand lowparry or backdash out of range to punish you once you 
+get up.
+
+- Roll ->Reverse Handspringkick:
+While rolling you can press b+3+4 to jump up with a flip that'll hit the 
+opponent. This is great when the opponent has knocked you away with a 
+Deathfist or other move that knocks far away for a suprising counter. Still, 
+it's best used when the opponent rushes in instead of when he's just 
+standing still in anticipation, since you end up backturned after you flip 
+upwards, and if it's whiffled, you might get punished.
+
+- Roll->Diving Punch:
+During your roll press f+1+2 to do dive at your opponent with your fists 
+lunging forward. This is a great way to recover and connects very often, 
+even from smaller distances. It comes out as a sort of suprise attack, great 
+for wake up games. The only con this type of recovery has is the fact that 
+it can be sidestepped pretty easily.
+
+- The Techroll:
+Techrolling allows you to instantly recover from the ground, after a 
+knockdown with a quick sidewards roll. It's done pressing 1~2~3~4 
+immediately after a knockdown. This is very useful when you get juggled, 
+since you might tech away from it to spare you some damage. Techrolling is 
+also useful in okizeme to spare some damage. But if a skilled opponent just 
+waits at a distance, and you techroll, you won't be able to block on time, 
+since techrolls can be punished by many attacks if you don't time them right 
+or use them before the opponent attacks you.
+
+- The Tag Recovery:
+You can recover from the ground pressing 5 as you roll off screen to tag in 
+your partner. The tag recovery may be a very good way to avoid getting 
+okizeme, but smart players will just counter your teammate with a juggle or 
+whatever once he tags in. A good way to avoid that is to tag cancel (5~u/b) 
+before you roll off screen just to stay out of range via the tag recover, 
+and to maybe even fool the opponent as well.
+
+
+
+----------------------------------------------------------------------
+
+P.  COUNTERING
+
+
+Countering is something you'll get involved in a lot during your matches. 
+The word alone speaks for itself, a counterattack is an attack that hits the 
+opponent during their own attack, wether it's during the start-up or 
+recovery. A counter is usually done by fast attacks that interrupt slower 
+attacks, but not necessairely, it all depends on the way to time a move, and 
+at what distance. Many attacks in TTT will give you more frame advantage 
+when you land a CH than when you connect by normal impact. Some attacks, 
+like the df+2 or d,DB+4 , will have a different effect when it counters, 
+when some attacks hit normally on non-counterhit, they'll stun or juggle 
+when you do counter or knock down on counter like they normally don't 
+(standing 4's), just to give some examples, which gives countering a large 
+part in the incredible deepness in TTT. Some followups are guaranteed on CH 
+when they aren't with a normal hit, hell even some combo's are only possible 
+after a CH. There are two different ways to counter:
+
+
+=============
+Minor Counter
+=============
+
+A minor counter occurs when you counter the opponent during the recovery of 
+their attack, that means when you either block their attack or when their 
+attack whiffs. If the recovery of a certain attack is long, he'll be more 
+vulnerable for a minor counter than  with faster recovery. Usually there 
+won't be much difference in your attack when you minor counter as in a 
+normal hit except that your attack might to a little more damage. Minor 
+Counters occur a lot when the opponent is wide open after you've successfull 
+blocked or sidestepped their attack, for a free hit. Depending on how fast 
+or slow the recovery, you must use an attack with the proper speed needed. 
+Attacks with faster recovery have to be punished faster attacks and attacks 
+with long recovery can be punished with moved that come out slower. Ogres 
+best move for this is the uf+4.
+
+
+=============
+Major Counter
+=============
+
+Major Counter (MC) occurs when you counter DURING the opponents move with 
+your own attack. This requires more anticipation than the Minor Counter, but 
+is a lot more rewarding. The most occurring major counter is interrupting 
+the opponents attack with fast pokes, but the major counter is also common 
+on a larger scale like with moves that juggle or stun on CH. Most of the 
+time you have to use faster attacks than the opponent for a major counter, 
+but sometimes it just takes sheer timing and anticipation, to get a major 
+counter out of moves such as ws+2 and df+2, especially WS+2, since the 
+safest way to pull it is during a Major Counter, since it’s slow enough to 
+get hit out of easily. Major Counter will also occur if you counter a 
+running opponent, chrouch/rolldashing opponent, an opponent who tags in or a 
+jumping opponent.
+
+
+Counterattacking is especially important for Ogre due to moves such as WS+2, 
+df+2, d,DB+4 and 1,1>2, even df+1. This means you have to wait until a 
+chance to counter the opponent and stay in advantage by being offensive from 
+there on to play Bryan to his full effectiveness. Off one counter, Bryan can 
+take away a half a lifebar on his own, so waiting for a good chance to 
+counter is vital with Bryan. Good ways to get a counterhit is to use 
+block-retaliate tactics to hope for a minor counter or maybe evasive tactics 
+like sidestepping, (back)dashing and ducking, it's all up to you what's 
+best. But you have to mainly try to focus on the fact to try to counter your 
+opponent, wether it's a fast poke or powermove, to set your offense up with 
+more ease.
+
+
+----------------------------------------------------------------------
+
+Q.  MIXING UP
+
+
+This section is a straight easy way how to mix-up your game, to stay 
+unpredictable. If you use the same tactics over and over, that's asking to 
+get punished. So if you learn how to vary your game, you'll stay 
+predictable. In this section, I'll tell you which are important attacks to 
+mix up. These vary from attack string to dashing moves. Here are the 
+displays of certain features Ogre has suitable for mixups.
+
+
+==================
+The Crouch Mix-up
+==================
+
+- Mix up:
+
+d+1 into
+- FC,f+2
+- FC,df+2
+- WS+2
+- Infinity Kick (first 4 kicks)
+- Throw
+
+Because Ogre is know for his crouch execution, players will always try to 
+anticipate what Ogre will do after he goes into his crouch (most of the time 
+with a d+1). You must keep them guessing in this situation. Once you connect 
+a d+1 there are numberous ways to execute from the crouch:
+
+-d+1->FC,df+2: Mix this one up with the other mixups listed. Once you 
+connect d+1, they could expect FC,f+2, ws+2 or ws+4,4 and block high. If the 
+opponent expects you to throw, they have to initiate the escape. In both 
+situations, FC,df+2 will hit, and a f,f+1+2 is guaranteed afterwards.
+
+-d+1->FC,f+2, ws+3,3 or WS+2: If you connect the FC,df+2 or a throw after 
+d+1, mix up ws+4,4, ws+2 and FC,f+2, since the opponent may either try a 
+throw escape or block crouching, and ws+4,4, FC,f+2 and ws+2 all connect in 
+these situations. FC,f+2 staggers on counter with guaranteed followups and 
+does big damage, if ws+3,3 connects the first two infinity kicks are 
+guaranteed for big damage combined, and ws+2 causes the stun on a clean hit 
+which leads to damaging followups.
+
+- d+1->throw. This is an alternative for FC,f+2, WS+2, and the Infinity 
+Kicks, if the opponent expect one of those attacks and blocks standing, 
+initiate the throw to catch them instead. The best throw IMO is 1+3 since 
+it’s bufferable with d+1, the D+3 is guaranteed afterwards and it’s 
+taggable.
+
+===============
+The f,f,N mixup
+===============
+
+Mix up:
+
+f,f,N+2
+f,f,N+3+4
+f,f,N+4
+
+Very useful mix-up for okizeme, I saw something like this in Sauer Krauts 
+Tekken3 FAQ, so I will give him credit. This mixup takes use of Ogres 
+“f,f,N”-attacks. After you knocked down the opponent, initiate the f,f, and 
+during the “Neutral” motion you’ll have the time to anticipate how the 
+opponent recovers. If the opponent rises quick press 2 for the 
+unblockable(f,f,N+2). If the opponent recovers crouching or with a 
+seep/ankle kick press 4 for the heel kick (f,f,N+4) and if they roll away 
+press 3+4 for the slide kick (f,f,N+3+4). To clear things up in a more 
+schematic display:
+
+
+
+                             A ---> 2
+                             |
+                             |
+Knockdown->f,f->N(anticipate)B ---> 4
+                             |
+                             |
+                             C ---> 3+4
+
+Legend
+- A =  Opponent recovers standing
+- B =  Opponent recovers crouching
+- C =  Opponent rolls away.
+
+
+This mixup requires good anticipation and timing to utilize effective. But 
+of you master this mixup, you can keep the opponent on the ground for 
+awhile.
+
+
+=============
+The 1,1 Mixup
+=============
+
+Mix up:
+
+1,1>2
+1,1->throw
+1,1->d+1
+1,1->df+4
+1,1->d+4
+1,1->df+1
+
+
+
+This is a pretty good mix-up I use a lot myself in custom strings and sorts. 
+Simply this mix up tactic is effective because the1,1>2 is delayable. If the 
+opponent blocks 1,1 you can buffer it into a throw (it's not guaranteed 
+though, but that's actually what makes it useful in the mixup useful 
+->explained later), if 1,1 hits delaying the 2 of the 1,1>2  will allow a 
+knockdown pretty safely. The coolness is, if you over use the 1,1>2 
+opponents will expect to block the last hit, and attempting a throw instead 
+will catch them off guard or even a d+4. If the opponent expects you to do a 
+throw attempt after 1,1 (wether it hits or blocked or ducked) you can delay 
+the 3rd hit (of the 1,1>2 combo) to hit them during their throw escape 
+execution or crouch attempt. The 1,1->df+4 and 1,1->df+1 are too solid 
+alternatives of 1,1,delayed 2 as custom strings in this mixup. In both 
+cases, the d+1 after 1,1 is pretty safe for that matter as well, but can be 
+blocked standing and crouching. This tactic is best againsts offensive 
+character with no particular parry or attack reversal. Against those 
+characters, this pacing tactic works pretty well, especially if you have a 
+pitbull styled game.
+
+
+
+
+======================
+Beginning of the round
+======================
+
+Players are often speculated by one question: "Once the announcer says 
+"FIGHT" what should be my first move?". Well, the most important thing you 
+have to remember in this case is NOT to do the same thing everytime the 
+rounds starts, that'll add only to your predictability, some good players 
+will look at your hands before the round starts to see what buttons you have 
+ready. This is another form of mixing up that's more important than some may 
+imagine, since if you are predictable once the round starts it may prove 
+costly in the rest of the match. Here are some moves with Ogre you can do 
+once the round starts, and you will have to mix up.
+- Backdash: A simple backdash is probably the safest thing to do especially 
+against King and Lei players who oughtta start the round with a hopkick or 
+whatever. You will backdash out of attack range and leaving the opponent 
+open for an easy counter.  Still there are some attacks that can punish you 
+when you recover from your dash, so be sure to be unpredictable when you 
+plan to start with a backdash manuever as the round starts.
+
+- uf+4: Not a bad option for the cocky player (like myself, lol), but good 
+players know this manuever so don’t get predictable with it (I have eaten a 
+lot of junk trying to pull this once the round started and I didn’t cover my 
+hands on the controls well enough for the players to see at the controllers 
+what my first move would be). Use it every once in awhile. Remember: vary 
+your game.
+
+- df+4: The best option IMHO, since it comes out fast and recovers fast, 
+reaches far enough, and gives you some advantage in frames if it hits. The 
+only thing that beats this practically are basic jabs, so is a very safe 
+move to start out with. If the opponent rushes in and gets caught in the toe 
+kick, he’ll probably back away a bit, for you to gain pressure early on.
+
+- d+4: Another great option. It hits low, reaches far enough and is pretty 
+fast. I haven’t seen players who plan to block crouching once the round 
+starts (unless this is the only attack you use in this situation), so this 
+is a pretty safe way to start. Don’t use it a lot, since players will try to 
+anticipate and parry it. Mix up with the other options listed here.
+
+- 1,1: This beats almost anything the opponent will try once the round 
+starts but it lacks range, and Heihaci players can EWGF you for example if 
+they backdash out of range of this attack. Use this against players who like 
+to stay in your face right away once the timer runs.
+- Sidestep: Pretty decent especially with a SS as huge as Ogres. Watch out 
+for throws though.
+
+- Duck: This can be very effective, especially against cocky Jin players who 
+start their rounds with the (E)WGF everytime. Be careful against hopkickers 
+and players that like to df+2 uppercut you once the round starts.
+
+- Throw: Good against players who stay on guard once the round, you can 
+usually tell against intermediates already have their joystick backwards 
+before the announcer says “FIGHT” (Doesn’t the annoucer suck?! I liked the 
+annoucer in Tekken2 a lot better). Heck, I’m not an intermediate anymore, 
+and I still can’t help doing it at times.
+
+- 4: Probably cheap if the opponents keeps running/dashing in range, since 
+it does huge damage. But if it’s ducked or when players backdash out of it’s 
+range you are left vulnerable.
+
+- Walk backward: This is the best option against players you compete with 
+the first few times. This allows you to kind of feel the opponent out and 
+anticipate his first move and stay defensive enough not to get into trouble. 
+If the opponent attacks you recklessly you are in good to be in posirion to 
+block and minor countr with a uf+4 hopkick or throw
+
+- df+2: Not a bad option. If you connect this, the opponent will stagger 
+backwards a bit, which is very good, since you’ll get advantage even if the 
+opponent decides to attack you, and quickly hunt the opponent down with a 
+unblockable or df+4, before the opponent attack you. Against offensive 
+players, this can get you an early juggle opportunity in the game. I prefer 
+usuing this on bifgger and slower characaters due to the liftstun it causes 
+to get off a combo.
+
+
+
+Mixing up is very important since predictability is always a downfall 
+against good players. 9 times out of 10 the player who varies his game the 
+best wins. Tekken is a game with lots of deepness and the main deal is to 
+use that deepness to your advantage. Besides, who wants to get a "Chicken!" 
+Icon? Your honor as a gamer is at stake if you don't vary your game (still, 
+the "Chicken!" is not entirely accurate in some cases if you ask me).
+
+Mixing up is one of the most important, if not the most important thing you 
+have to learn if you want an organised offense, and Ogre has one of the 
+better offenses in the game despite his weaknesses.
+
+
+
+----------------------------------------------------------------------
+
+S.  CONCLUSION
+
+Ogre is probably one of the more misunderstood characters in Tekken,
+mainly because of the fact he's got borrowed moves from other characters.
+But that's what makes him such a cool character, with all the different
+styles he has combined he may not be as wellrounded as most characters can
+be, but he has enough in his arsenal to kick other characters asses. He is 
+far from being overpowered in TTT, since almost everything he has is toned 
+down since Tekken3. Ogre has great balance in hit ranges and has the ability 
+to take it on up close and far away, and can be very dangerous off his huge 
+sidesteps and crouch, and has some of the best okizeme in the game. I hope 
+people will think less hard on Ogre from now on, I think Ogre deserves to be 
+respected more than he does currently despite his many weaknesses, and to 
+know that he's far more than a mixture of certain characters. The 
+combination of the T2 subboss' moves gives him the ability to be unique in 
+his own way, and giving him the ability to kick as much ass as every other 
+character in the game.
+
+
+
+
+----------------------------------------------------------------------
+
+T.  SITES
+
+I'll credit the following sites for their hard work:
+
+http://salute.consolenation.com/
+
+One of the best sites on Tekken. I credit drumdude for the fantastic
+work on the site. Here you'll find many great info on all editions to the 
+Tekken-series. Also this site features the best forum on Tekken out there. 
+But the site is down for awhile, why I don't know, but it better be up 
+soon....
+
+http://www.tekken.net/zaibatsu/
+
+"The non-stop source for everything Tekken-related". If you're
+beginner, intermediate or expert, who cares, this is the place to go if you 
+like Tekken. They have great updates, moves sections, FAQs, combo's sections 
+and best of all, Castel's movies are the bomb. It's a must to see those 
+movies if you visit, no matter what it takes. The staff keep the Tekken 
+Community informed on their tippy-toes with hot news and knowledge. They 
+deserve all the credit they can get with their hard work. Recently they've 
+opened a brand new message forum, and y'know what, it's already full with 
+discussions and interactions This site is sooper, ain't nothin' to it.
+
+
+http://www.geocities.com/TimesSquare/Bridge/2700/
+
+Inside Tekken, Abrar's cool new site focused on TTT. You'll find nice
+updates there, good movies and neat FAQs. Also check out the great (and not 
+to mention ORIGINAL) articles section, which allows you to post an article 
+about a certain issue on Tekken you can share with the visitors. It's kinda 
+like an editorial, but better. check out the cool articles by ETP and 
+mIrAge. Also there's a cool forum there, which I also visit from time to 
+time. Check it out!
+
+
+http://www.tekkentagtournament.com/
+
+Official site of TTT. You'll find some great updates and game-info
+here. Check out the movies as well. There's also a message board for some 
+"in-depth discussions".
+
+
+http://www.fighters.net/
+
+I'd be stoopid if I forgot ol' fighters.net. Check out their great
+stuff on TTT, with awesome movies on the upcoming console version, which 
+have to be seen to be believed. Their FAQ archives are excellent as well as 
+the updates that keeps any fightng game-freak informed to the max. The hard 
+work of the staff (tigeraid, Faceless, Three-11, Mr.MG) has resulted one of 
+the most well organised sites I know. There forum is also a great place to 
+share your knowledge with other gamerz around the globe. This site deserves 
+big props, tell me about it.
+
+
+http://www.gamefaqs.com/
+
+This is the site where you can find the best FAQ archives on videogames on 
+the web. Here you'll find all the info you need on whatever videogame you 
+like. If you're stuck on a game, if you want some codes or want to submit a 
+FAQ or Review, GameFAQs is your place! GameFAQs rules, they are the most 
+popular in FAQ archives on computer games around the web! They have the most 
+reliable methods on contributing FAQs, simply because of the fact that they 
+won't take ripoffs of other FAQs. I'm giving big props to GameFAQs!
+
+
+http://www.geocities.com/tekkenmanila/
+
+Check out this new great site hosted by E-MAN, one of the many loyal
+Tekkenplayers who shares knowledge at the Inside tekken and Tekken Salute 
+forums. This site will be focussed on the Fillipino Tekken scene, it 
+features a great movie on chrouchbuffering the Chains of
+Misery(FC,df,d,df+1+2) with Bryan, with a sadistically cool sountrack from 
+Yhe Prodigy. Check it out yourself, this will be one of the best unofficial 
+tekkensites of the future, I tell ya!
+
+
+http://www.arcadescene.co.uk/
+
+This site is webmastered by Mr.MG, one of the staff members of fighters.net, 
+which is about the arcades in London, and the activities and so on. You have 
+some good info here, and also the results from the Tekken London Showdown 
+where some well-known players around Europe have participated in, including 
+myself. I'll give special credit too him, for his hard work to keep us 
+gamers happy, and his generosity.
+
+
+http://www.counterhit.com/
+
+This is Sauer Krauts new site on Tekken Tag Tournament, and it already 
+rocks!! Here you will find tips on general play, strategies, multimedia, and 
+tons and tons of combo's. The Kraut himself has some great wisdom on Ogre 
+and he still has the best Ogre Guide out there. This great site is a great 
+way to easily find good combo's and good strats. It's like a Manual in 
+pixels. A great pie-a-work and it's still under construction. Who knows what 
+the Kraut has in store for us Tekken players in the future. A MUST visit for 
+the hardcore Tekken player.
+
+
+
+
+----------------------------------------------------------------------
+
+U.  THANKS SECTION
+
+
+As my FAQ is thru I want to thank the following individuals for their
+support/help/knowledge:
+
+- Reverend C: For his great technical Tekken knowledge he has giving me the 
+last couple of weeks, and some fun discussions. Also check out his awesome 
+FAQs on Kazuya, Nina, Anna and Heihachi. Also, I'm currenty writing a 
+comprehensive character guide with him, so keep your eyes open for that one. 
+Huge credits to him.
+
+- The contributers of the "Ask the Experts" section for submitting their 
+great knowledge, to bring it to a larger scale of players. Too bad I haven’t 
+gotten enough responses this time to make a section out of it, so my 
+apologies to the people who did submit for not doing the section this time. 
+Thanks for your time and knowledge and hopefully, my next FAQ will have 
+enough responnses to do another round of “Ask The Experts”
+
+- Castel and the rest of the Tekken Zaibatsu staff for their
+awesome knowledge on Tekken and doing so much for the Tekken Community, and 
+of course their kickass movies. You guys rule, no doubt about that!
+
+- Fighters.net for their kewl TTT section and awesome movies.
+
+- Catlord for his savage-ass FAQ on TTT. Keep up the work!
+
+- Rehan, Harry, Martin, Wing, The Chief, Devilman, Amrej, Mr.MG, Ryan Hart, 
+Claka, KRY and others for being awesome players in the London Tourny, you 
+all have mad skillz, and you all proved to be some of the best in Europe. I 
+thought was great fun competing with you guys, we ought to play again 
+someday.
+
+- Gokmen, Damsko Kazuya, King the 2nd and The Amature, for being great 
+fellow players from Holland, all of you guys have great skillz, I hope to 
+play you guys some more soon, since we only live 45minutes distance from 
+each other, so we oughtta meet up more.
+
+- Red King (check out his Jin FAQ), Simone and Sandro, for being awesome 
+competition from Italy. You guys have amazing skills, and I'm glad to have 
+competed with you all in the London Tournament.
+
+- tragic, QDogg, Gargoyle Sox, 7th Pixel, Notti, shauno, Sauer Kraut(aka 
+SauerChoke), Jorkie (I will definately find a way to meet up and play you 
+d00d), Joshic, SuperT, et3rustee, abrar (check out his Kuma FAQ, and his 
+awesome site, Inside Tekken), mIrAge, drumdude, Cinder, SmuvMoney (check out 
+his King FAQ), Dalamar (check out his Lei FAQ), my_3rd_eye, aviax, kishmomo, 
+Thunder Fist, Ug The Caveman, JoeKing, MC and The_Chink (sorry if I forgot 
+someone, but to make it short, thanks to everyone who I've interacted with 
+in the past) for their awesome Tekken-knowledge shared many times over 
+around the web, without you guys Tekken would never be as alive as now.
+
+- Namco, for making one of the best game-series on the friggin' market. You 
+fella's are tha bomb!
+
+- KoRn and Limp Bizkit, for making awesome music to listen to when and where 
+ever I play Tekken, to keep my blood pumped with adrenaline. I swear the 
+god, it's been proven you play better listening to your fav records than 
+when you are playing in silence. Besides, the louder the music, the less you 
+are distracted my the opponents trash talking phrases, lol....Look for the 
+ads.....I just wish most Arcades had the balls to play something else than 
+just that Dance or Trance or whatever that music's called...
+
+- Myself, for writing this guide (I KNEW I forgot someone...)
+
+- God, for helping me thru difficult times and for always answering my 
+prayers.
+
+- And finally, you, the one currently reading this, thanks for taking a look 
+at my FAQ, I hope you liked it. If you have any comments on it,
+corrections or your own idea's e-mail me at renickironfist@hotmail.com to 
+contact me. Everyone's opinion means a lot to me ^_^
+
+
+"While yer travlin' round tha world,
+Jody's home with your best girl
+Next time I get a three day pass
+I'm gonna WS+2 ol' Jody's *peep*"
+
+- Renick.
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+The End.
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+

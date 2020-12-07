@@ -1,0 +1,2569 @@
+                        _____    _    _              ____  
+                       |_   _|__| | _| | _____ _ __ |___ \ 
+                         | |/ _ \ |/ / |/ / _ \ '_ \  __) |
+                         | |  __/   <|   <  __/ | | |/ __/ 
+                         |_|\___|_|\_\_|\_\___|_| |_|_____|
+                  ____                _             _____ _    ___  
+                 / ___|___  _ __ ___ | |__   ___   |  ___/ \  / _ \ 
+                | |   / _ \| '_ ` _ \| '_ \ / _ \  | |_ / _ \| | | |
+                | |__| (_) | | | | | | |_) | (_) | |  _/ ___ \ |_| |
+                 \____\___/|_| |_| |_|_.__/ \___/  |_|/_/   \_\__\_\
+                                                                     
+                    Version 0.1 by Y.N. Lo(lynx@hknet.com)
+          Later versions maintained by Slikatel(slikatel@metro.net)
+
+
+This faq may be distributed FREELY as long as it remains in its unaltered 
+form. Please do not alter or publish it without prior permission from myself
+and Slikatel.
+
+
+TABLE OF CONTENTS
+-----------------
+I. INTRODUCTION
+
+II. CONVENTIONS USED
+
+III. HOW TO CONSTRUCT A JUGGLE COMBO
+
+IV. NORMAL COMBOS
+        1. Alex/Roger
+        2. Anna
+        3. Armor King
+        4. Baek
+        5. Bruce
+        6. Devil/Angel
+        7. Ganryu
+        8. Heihachi
+        9. Jack-2
+        10. Jun
+        11. Kazuya      
+        12. King
+        13. Kuma
+        14. Kunimitsu
+        15. Law
+        16. Lee
+        17. Lei 
+        18. Michelle
+        19. Nina
+        20. P. Jack
+        21. Paul
+        22. Wang
+        23. Yoshimitsu
+
+V. STUN COMBOS
+        1. Kazuya
+        2. Devil
+        3. Nina
+        4. Roget/Alex/King/A. King
+        5. Michelle
+
+VI. WHERE TO FIND THE LATEST VERSION OF THIS FAQ
+
+VII. TEKKEN2-RELATED WEBPAGES
+
+VIII. ACKNOWLEDGEMENTS
+
+
+
+
+I. INTRODUCTION
+---------------
+This is the Tekken2 Combo FAQ v0.1. It contains combos of all 23 characters 
+from Tekken2. The primary source of combos was the Internet. Others were from 
+the GAMEST TEKKEN2 MOOK BOOK Act2. All the contributors are listed in Part 
+VIII. 
+
+This is my first attempt to write a FAQ of any sort. I tried hard to avoid 
+mistakes but I am sure they are there(especially grammtical mistakes). And 
+sorry for my poor English cos it is not my first langauge!!
+
+Since I'll be out of town(and Internet) for quite a while so I will not be 
+able to maintain this FAQ. If you happen to find any errors or want to submit 
+combos please send it to Slikatel(slikatel@metro.net). He will be the 
+maintainer of this FAQ. I would like to take this chance to thank for his
+help(And he has contributed many many combos to this FAQ too :)
+
+I hope you'll find this FAQ useful. If you have any questions or comments you 
+are welcome to send them to me or Slikatel. Enjoy!
+
+
+
+
+
+II. CONVENTIONS USED
+--------------------
+The part is from the Modified Tekken2 FAQ by MeanBean.
+
+* d,u,f,b (*tap* stick down, up, toward opponent, away from opponent)
+
+* D,U,F,B (*HOLD* stick down, up, toward opponent, away from opponent)
+
+* d/f,d/b,u/f, etc (tap stick diagonally)
+
+* D/F,D/B,U/F, etc (HOLD stick diagonally)
+
+* N (return stick to Neutral position)
+
+* QCT Quarter-Circle Towards (circle stick from down to forward)
+
+* HCT Half-Circle Towards) (circle stick from back to down to forward)
+
+* 1,2,3,4 (tap a button.  They are arranged on most machines
+
+         like so: L.PUNCH  R.PUNCH
+                        1  2
+                        3  4
+                  L.KICK    R.KICK
+
+* A plus sign (+) indicates that the things on either side
+  of it must be done together.  1+3 would mean press
+  L.PUNCH and L.KICK at the same time.
+
+* A comma (,) indicates that the things on either side are
+  of it must be done one after the other.  f,f would mean
+  tap the joystick right two times.
+
+* (WC), While Crouching, basically means tapping the joystick
+   down.  (WC)+1 would mean tap the joystick down and press
+   L.PUNCH at the same time.  This is important, because the act
+   of crouching is not instantaneous.  A move executed during the
+   crouching process is almost always different from what happens
+   when you wait until you are fully crouched to hit the button(s).
+
+* (WS), While Standing, means return the stick to neutral
+  while you are in a crouch and press the button after the
+  plus (+) sign.
+
+* A tilde (~) between two buttons means to press the second
+  one IMMEDIATELY after the first.  It is almost like pressing
+  the buttons together.
+
+* Brackets ([]) surrounding an item indicate an optional input.
+
+* A pound sign (#) after a joystick direction means that the
+  direction indicated before it is to be held for a little while
+  before the button is pressed.  You will often see this after a
+  "D" in a D+(something) move, meaning that you have to wait until
+  your fighter is in a full crouch before doing the next controller
+  input.
+
+* An underscore (_) between items means "or".
+
+
+
+
+III. HOW TO CONSTRUCT JUGGLE COMBOS
+-----------------------------------
+This paragraph describes how I construct juggle/air combos. After reading 
+this you should be able to construct your own.  
+
+In Tekken2 every character has the ability to make its opponent to float, and
+a series of attacks can be followed afterwards. This is called a juggle/float/
+air/aerial combo. Since your opponent cannot block any attacks while they are 
+floating, it is a very effective way to drain your opponent's life.
+ 
+
+In general a juggle combo goes like this:
+
+---------------    --------------------    --------------    ---------------
+|Combo starter| -> |Jab(s)/Uppercut(s)| -> |Special Move| -> |Ground Attack|
+---------------    --------------------    --------------    ---------------
+
+
+A. Combo Starter 
+----------------
+It is the first move in a juggle combo. It makes your opponents airborne after 
+it connects. Most characters can make use of d/f+2 as a combo starter. Except-
+ions are Michelle, Wang, King, Armor King and Roger/Alex. All combo starters
+for each character are listed in its respective section. Note that in some 
+combos only certain combo starter can be used. An example of this is Baek's
+f,N,d,d/f+3, u/f+3,4,3, f,f+4. You CANNOT start the combo with an uppercut.
+In most cases the combo starters of the list combos can be replaced by other
+ones. It would be impossible for me to list all possible combinations so you
+should try experimenting the combos with different combo starters yourself. 
+
+
+
+B. Jab(s)/Uppercut(s)
+---------------------
+These moves are used to lengthen the float time besides doing damages. But you 
+cannot "float" your opponent indefinitely. I have yet to find a combo that 
+consists of more than 4 jabs after the combo starter connects. In many cases
+you can replace the Left Jab by Left Uppercut or even Right Jab/Uppercut.
+
+
+C. Special Move(s)
+------------------
+These special moves will usually knock your opponent far away, doing quite a lot of 
+damage. But at the same time your opponent would not float anymore. Sometimes 
+these moves can be pre-programmed combos.  Examples are Paul's Death Fist 
+(QCT)+2, Heihachi's Wind Godfist f,N,d,d/f+2, and Devil's Shining Fist Combo 
+1,1,2.
+
+
+D. Ground Attack
+----------------
+If your character possesses ground attack(s), you may do it to your opponent 
+after they are knocked down by the special move. 
+
+Here is a list of useful ground attacks(besides Sweep and Pounce) for your 
+reference.  
+
+------------------------------------------------------------------------------
+Character                       Ground Attacks
+------------------------------------------------------------------------------
+Alex/Roger              Ali Kick                (WC)+3+4
+                        Frankensteiner          d/f+3+4
+                        Stomach Smash           f,f,N+2
+                        Double Knee Drop        U/F+3+4
+                        Elbow Drop              U/F+2+4 or U+2
+
+Anna                    Kneeling Kick           f,f+4
+                        Cat Thrust              D#,D/F+2        
+
+Armor King              All of the Alex's
+                        Super Knuckle Bomb      u/f+1+2, D
+
+Baek                    Hammer Heel             f,F+4
+                        Heel Explosion          d/b+3+4
+
+Bruce                   No
+
+Devil/Angel             Crushing Kick           4~3
+
+Ganryu                  Thigh Quake             (WC)+4
+                        Hip Press               u/f+3+4
+                        d/f+2+3                 Thunder Palm
+
+Heihachi                Crushing Kick           4~3
+                        Low Sky Slice           f,N,d,D/F+3
+                        Demon Stomp             (WC)+4
+
+Jack-2                  Megaton Strike          b,d/b,b,D/F+1
+                        Hip Press               u/f+3+4
+                        Cossack Kicks           D/B+3,4,3,4,3,4
+                        Hell Press              1+3
+
+Jun                     Cartwheel Kick          N+3+4
+
+Kazuya                  Crushing Kick           4~3
+
+King                    All of the Alex's
+                        Moon Press              F+1+4
+
+Kuma                    Hip Press               u/f+3+4
+                        Salmon Hunter           b,f+2+3
+                        Hell Press              1+3
+
+Kunimitsu               Flipping Stomp          u/f+3+4         
+                        Kunai Stab              d/b+2
+
+Law                     Dragon Slide            D#,d/f,d/f+3
+                        Dragon's Tail           d/b+4           
+
+Lee                     Dragon Slide            D#,d/f,d/f+3
+                        Dropping Slide          f,f,N+3+4
+
+Lei                     Dropping Ankle Kick,    4~4,3,3
+                        Rolling Kicks
+                        Foot Sweep              d/b+4
+        
+Michelle                Earthquake Stomp        U/F+3+4
+                        Front Leg Sweep +       (WC)+4,1
+                        Uppercut
+
+Nina                    Kneeling Kick           f,f+4
+                        Falling Ankle Kick,     d/b+4, [3]
+                        [Rising Spin Kick]
+
+Paul                    Stone Splitter          (WC)+2
+
+P. Jack                 Hip Press               u/f+3+4
+                        Head Slide              f+3+4
+                        Exploder                b,d/b,d,D/F+1
+                        Dive Bomber             3+4
+                        Hell Press              1+3
+
+Wang                    All of the Michelle's
+                        Lunging Low Double Fist d/f+1+2
+
+Yoshimitsu              Flipping Stomp          u/f+3+4
+                        Shoulder Cut            d/b+1
+-------------------------------------------------------------------------------
+
+
+Note that not every combo has these 4 parts. Here are some examples of 
+juggle combos.
+
+-----------------------------------------------------------------------------
+Character       Combo Starter   Jabs/Uppercut   Special Move    Ground Attack
+-----------------------------------------------------------------------------
+Baek            f,N,d,d/f+3                     u/f+3,4,3       f,F+4
+Baek            f,N,d,d/f+3     1~2, 1~2
+Baek            f,N,d,d/f+3                                     d/b+3+4
+Heihachi        f,f+2           1~2, 1~2                        4~3
+Heihachi        f,f+2           1~2             (QCT)+2
+Devil           f,N,d,d/f+2,    1~2             f,N,d,d/f+2     4~3
+-----------------------------------------------------------------------------
+
+
+
+
+
+IV. NORMAL COMBOS
+-----------------
+**************
+* Alex/Roger *
+**************
+
+Combo Starters
+--------------
+- u/f+4
+Right Jump Kick
+
+- D,#D/F+2
+Dynamite Uppercut
+
+- (WS)+2
+Right Uppercut
+
+
+Combos
+------
+- u/f+4, 1, f,f+4
+Right Jump Kick, Left Jab, Jail Kick
+You can do other normal attacks such as Roundhouse(4), f,f+2 and Sidekick(3)
+after the Left Jab.
+
+- u/f+4, 1~2, f,f+2
+Right Jump Kick, 1-2 Punches, Middle Smash
+
+- u/f+4, 1~2, f,f+4
+Right Jump Kick, 1-2 Punches, Jail Kick
+
+- u/f+4, 1, 1~2, d/f+3+4
+Right Jump Kick, Left Jab, 1-2 Punches, Frankensteiner
+
+- u/f+4, 1(or 2), 1~2, (WC)+3+4,4,4
+Right Jump Kick, Left/Right Jab, 1-2 Punches, Ali Kick x3
+
+- u/f+4, 1, 1~2, f,f+1+2
+Right Jump Kick, Left Jab, 1-2 Punches, Flying Cross Chop
+
+- u/f+4, 1~2, 1~2, f,f, (WC)+3+4
+Right Jump Kick, 1-2 Punches, 1-2 Punches, Dash, Ali Kick
+
+- u/f+4, 1~2, 1~2, f,f,N+2
+Right Jump Kick, 1-2 Punches, 1-2 Punches, Stomach Smash
+
+- u/f+4, 1~2, f,N,d,d/f+1, (WC)+3+4
+Right Jump Kick, 1-2 Punches, Animal Uppercut, Ali Kick
+The Animal Uppercut will hit them while they are on the ground!
+
+=============================================================================
+
+*****************
+* Anna Williams *
+*****************
+
+Combo Starters
+--------------
+
+- d/f+2 or (WS)+2
+Right Uppercut
+
+- D,#u/f+4
+Flip Kick(may not work in all combos) 
+
+
+Combos
+------
+- d/f+2, 1, U/F+4
+Right Uppercut, Left Jab, High Jump Kick
+
+- d/f+2, 1,2,1,2,3,3
+Right Uppercut, First 6 hits of her Tenstring
+
+- d/f+2, 1, 1,2,4
+Right Uppercut, Left Jab, Triple Smash
+
+- d/f+2, 1, d/f+3,2,4
+Right Uppercut, Left Jab, Swan Combo
+
+- d/f+2, 1~2, 1~2, f,f+4
+Right Uppercut, 1-2 punches, 1-2 punches, Kneeling Kick
+
+- d/f+2, 1~2, d/f+3,1,2
+Right Uppercut, 1-2 Punches, Flash Combo
+
+- d/f+2, d+4,1, d+4,1, f,f+4
+Right Uppercut, Lowkick, Spinning Chop, Lowkick, Spinning Chop, Kneeling
+Kick
+
+- d/f+2, d+4,1, 2, f,f+1+2
+Right Uppercut, Lowkick, Spinning Chop, Right Jab, Double Palm
+
+- d/f+2, 1, u/f+4, d+4,1, f,f+4
+Right Uppercut, Left Jab, Right Jump Kick, Lowkick, Spinning Chop, Kneeling
+Kick
+
+- d/f+2, 1~2, f,f+1+2
+Right Uppercut, 1-2 Punches, Double Palm
+
+- d/f+2, 2, 1,2,1,4
+Right Uppercut, Right Jab, Spark Combo
+
+- d/f+2, 1, D+3,2, f,f+4
+Right Uppercut, Left Jab, Low Kick-Uppercut Combo, Kneeling Kick
+
+- d/f+2, 1, 1~2, D#,D/F+2
+Right Uppercut, Left Jab, 1-2 Punches, Cold Blade
+
+- d/f+2, u/f+4, d+4,1, D#,D/F+2
+Right Uppercut, Right Jump Kick, Low Kick, Spinning chop, Cold Blade
+
+- D#,u/f+4, D+1, U/F+4, d+3 or D#,D/F+2
+Flip Kick, Crouch Jab, Flip Kick, Low Sweep or Cold Blade
+
+- D#, u/f+4, 1,2, 4, f,f+4
+Flip Kick, 1-2 Punches, RoudHouse, Kneeling Kick
+
+- D#,f+1, d+3,4, f,f+4
+Cat Thrust, Low Kick, High Kick, Kneeling Kick
+
+- D#,f+1, d+4,1, d+4,1, f,f+4
+Cat Thrust, Lowkick, Spinning Chop, Lowkick, Spinning Chop, Kneeling Kick
+
+============================================================================
+
+**************
+* Armor King *
+**************
+
+Combo Starters
+--------------
+- f,N,d,d/f+2
+Black Smash
+
+- D,#D/F+2
+Dynamite Uppercut
+
+- u/f+4
+Right Jump Kick
+
+- (WS)+2
+Right Uppercut
+
+
+Combos
+------
+- f,N,d,d/f+2, 1, f,f+4
+Black Smash, Left Jab, Jail Kick
+You can substitute Jail Kick by many other normal moves such as f,f+2, 3, 4
+and so on.
+
+- f,N,d,d/f+2, 1~2, d/f+3+4
+Black Smash, 1-2 Punches, Frankensteiner
+
+- f,N,d,d/f+2, 1~2, f,N,d,D/F+2
+Black Smash, 1-2 Punches, Dark Smash
+
+- f,N,d,d/f+2, 1~2, 1~2
+Black Smash, 1-2 Punches x2
+
+- f,N,d,d/f+2, 1~2, f,f+4
+Black Smash, 1-2 Punches, Jail Kick
+
+- f,N,d,d/f+2, 1(or 2), 1~2, (WC)+3+4,4,4
+Black Smash, Left/Right Jab, 1-2 Punches, Ali Kicks x3
+
+- f,N,d,d/f+2, 1~2, (WC)+3+4,4,4
+Black Smash, 1-2 Punches, Ali Kicks x3
+
+- f,N,d,d/f+2, (WC)+3+4,4,4
+Black Smash, Ali Kicks x3
+Do the first Ali kick before the opponent hits the ground. All 3 Ali Kicks
+will hit if you time the first one right. 
+
+- f,N,d,d/f+2, 1~2, 1~2, f,f, (WC)+3+4
+Black Smash, 1-2 Punches, 1-2 Punches, Dash, Ali Kick
+
+- f,N,d,d/f+2, 1~2, 1~2, f,f,N+2
+Black Smash, 1-2 Punches, 1-2 Punches, Stomach Smash
+
+- f,N,d,d/f+2, 1, 1~2, f,f+1+2
+Black Samsh. Left Jab, 1-2 Punches, Flying Cross Chop
+
+
+Dark Smash
+----------
+If the Dark Smash is a clean hit then your opponent will be lying long
+enough so that u can give them an extra hit!
+
+- f,N,d,d/f+1, u/f+1+2, D
+Dark Smash, Super Knuckle Bomb (unblockable)
+
+- f,N,d,d/f+1, U/F+3+4
+Dark Smash, Double Knee Drop
+
+- f,N,d,d/f+1, U+2
+Dark Smash, Hard Pounce
+
+- f,N,d,d/f+1, f,f,F, d/f+3+4
+Dark Smash, Run, Frankensteiner
+
+- f,N,d,d/f+1, f,f, f,f,N+2
+Dark Smash, Dash, Stomach Smash
+
+- f,N,d,d/f+1, f,f, (WC)+3+4
+Dark Smash, Dash, Ali Kick
+
+=============================================================================
+
+****************
+* Baek Doo San *
+****************
+
+Combo Starters
+--------------
+
+- d/f+2 or (WS)+2
+Right Uppercut
+
+- f,N,d,d/f+3
+Wing Blade
+
+
+Combos
+------
+- f,N,d,d/f+3, 3,3,3,4
+ Wing Blade, Butterfly Combo
+
+- f,N,d,d/f+3, d+4,3,3,3
+Wing Blade, Rush Combo
+
+- f,N,d,d/f+3, 1, d+4,3,3
+Wing Blade, Left Jab, Rush Combo
+Note that if you start this combo with Wing Blade rather than Right Uppercut
+then you can replace the Left Jab by either a HIGH jump Kick(U/F, 4) or
+Flying Punch(U/F, 1). It is possible because you will land on the ground
+faster than your opponent after hitting them in the air. They will bounce
+off a little bit from the ground so that the rest of the moves will connect!
+
+- f,N,d,d/f+3, 1, D+3,N+3,3
+Wing Blade, Left Jab, Snake Combo
+You can do the same thing as in the above combo
+
+- f,N,d,d/f+3, D+1, N+3,4,4
+Wing Blade, Crouching Left Jab, Heat Distraction
+
+- f,N,d,d/f+2, 1, F+4,3
+Wing Blade, Left Jab, Knife Heel Combo
+
+- f,N,d,d/f+3, 1, 1~2, f,F+4
+Wing Blade, Left Jab, 1-2 Punches, Hammer Heel
+
+- f,N,d,d/f+3, 1~2, f,F+4, f,F+4
+Wing Blade, 1-2 Punches, Hammer Heel x2
+
+- f,N,d,d/f+3, 1, 2,2
+Wing Blade, Left Jab, Right Jab, Backfist
+
+
+Wing Blade-Only Combos
+----------------------
+These combos can ONLY start with Wing Blade. This is because the move
+right after the Wing Blade requires some time to execute.
+
+- f,N,d,d/f+3, u/f+3,4,3, f,F+4
+Wing Blade, Hawking Hawk, Hammer Heel
+
+- f,N,d,d/f+3, f,f+3, f,F+4
+Wing Blade, Axe Kick, Hammer Heel
+
+- f,N,d,d/f+3, f,f+3, f,N,d,D/F+4,3,3
+Wing Blade, Axe Kick, Crouch Dash + Baek's Rush Combo
+The f,f+3 must be timed so that the tip of your toe hits them which knocks
+them up instead of out. If you go too late you will knock them to far away.
+If you go too early then you will either miss or knock them behind you.
+
+- f,N,d,d/f+3, d/b+3+4
+Wing Blade, Heel Explosion(unblockable)
+
+- f,N,d,d/f+3, (WC)+3,4,4, f,F+4
+Wing Blade, Heat Distraction, Hammer Heel
+This one is quite hard to pull off. You should do the (WC)+3 as late as
+possible. If you do it too early you will knock them too far. It takes away
+87pts of life and is the most powerful combo of Baek found. 
+
+============================================================================
+
+***************
+* Bruce Irvin *
+***************
+
+Combo Starters
+--------------
+- d/f+2 or (WS)+2
+Right Elbow
+
+- d/f+1,2
+Double Facebreaker
+
+- u/f+4 
+Right Jump Kick
+
+- 3,2,1
+First three hits of his Gatling Combo. The last 1 will make your opponent to
+float
+
+
+Combos
+------
+- d/f+1,2, b+4,3,4
+Double Facebreaker, Triple Knee
+
+- d/f+2, b+4,3,4
+Right Elbow, Triple Knee
+
+- d/f+2, d/f+1, d/f+1, 3,3
+Right Elbow, Left Elbow x2, Quick Kicks
+
+- d/f+1,2, d/f+1, d/f+3,1
+Double Facebreaker, Left Elbow, Cyclone Edge, Tournado Uppercut
+
+- d/f+1,2, d/f+1, U/F+4 (or 4)
+Double Facebreaker, Left Elbow, High Jump Kick/Roundhouse
+
+- d/f+1,2, 2,3
+Double Facebreaker, Right Jab, Left Kick
+
+- d/f+1,2, d/f+1, d/f+1, d/f+3,1
+Double Facebreaker, Left Elbow x2, Cyclone Edge, Tournado Uppercut
+Do the motion real fast and they will ALL hit.
+
+- d/f+1,2, d/f+1, F+1,2,1
+Double Facebreaker, Left Elbow, Triple Sock Combo
+
+- d/f+1,2, d/f+1, 2,4
+Double Facebreaker, Left Elbow, Punch-Kick Combo
+
+- d/f+1,2, d/f+1, 2,N+3
+Double Facebreaker, Left Elbow, Punch-Kick Combo 
+
+- d/f+1,2, d/f+1, d/f+1, N+2,4
+Double Facebreaker, Left Elbow x2, Punch-Kick Combo 
+
+- d/f+1,2, d/f+1, 1,2,3
+Double Facebreaker, Left Elbow, Northern Lights Combo
+
+- d/f+1,2, d/f+1, f+3,4,3
+Double Facebreaker, Left Elbow, Triple Kick Combo
+
+- d/f+1,2, d/f+1, b+3,2
+Double Facebreaker, Left Elbow, Stopping Kick, Feint Straight
+
+- d/f+1,2, d/f+1, b+4,3,4
+Double Facebreaker, Left Elbow, Triple Knee
+
+- d/f+1,2, d/f+1, d/f+1, 1,2
+Double Facebreaker, Left Elbow x2, 1-2 Punches
+
+- d/f+1,2, d/f+1, 1,4
+Double Facebreaker, Left Elbow, Punch-Kick Combo
+
+- d/f+1,2, d/f+1, b+3,4
+Double Facebreaker, Left Elbow, Stopping Kick, Knee
+
+- d/f+1,2, b+4,3, b+4,3,4
+Double Facebreaker, Double Knee, Triple Knee
+
+==============================================================================
+
+***************
+* Angel/Devil *
+***************
+
+Combo Starters
+--------------
+- f,N,d,d/f+2
+Wind Godfist
+
+- d/f+1,2
+Double Uppercut
+
+- d/f+2 or (WS)+2
+Right Uppercut
+
+
+Combos
+------
+- f,N,d,d/f+2, 1, 3(or 4 or U/F+4 or f+4)
+Wind Godfist, Left Jab, Side Kick/Reverse Kick/High Jump Kick/Axe Kick
+
+- f,N,d,d/f+2, 1, f,f+3
+Wind Godfist, Left Jab, Axe Kick
+Hard! Remember to hit the Left Jab as early as possible
+
+- f,N,d,d/f+2, D, 1, N+4,4
+Wind Godfist, Crounch Left Jab, Double Axe Kick
+
+- f,N,d,d/f+2, 1, 1,1,2
+Wind Godfist, Left Jab, Shining Fist Combo
+
+- f,N,d,d/f+2, 1, 1,2,2
+Wind Godfist, Left Jab, Devil Fist Combo
+
+- f,N,d,d/f+2, 1, f,N,d,D/F+4,4
+Wind Godfist, Left Jab, Hell Sweeps
+
+- f,N,d,d/f+2, 1, f,F+2,1,2,2,3
+Wind Godfist, Left Jab, First 5 hits of its Tenstring
+
+- f,N,d,d/f+2, 1~2, f,N,d,d/f,N+4,4
+Wind Godfist, 1-2 Punches, Double Axe Kick
+
+- f,N,d,d/f+2, 1~2, f,N,d,d/f,N+4, 4~3
+Wind Godfist, 1-2 Punches, Standing Kick, Crushing Kick
+
+- f,N,d,d/f+2, 1~2, f,N,d,D/F+2, 4~3
+Wind Godfist, 1-2 Punches, Wind Godfist, Crushing Kick
+The trick for the crushing kick to connect is that while doing the 2nd Wind
+Godfist you crouch-dash and slide for a moment before pressing the right
+punch button(that's why I put D/F rather than d/f). 
+
+- f,N,d,d/f+2, 1~2, 1~2, 4~3
+Wind Godfist, 1-2 Punches, 1-2 Punches, Crushing Kick
+
+- f,N,d,d/f+2, 1~2, 4
+Wind Godfist, 1-2 Punches, Reverse kick
+
+
+About the Thunder Godfist
+-------------------------
+If the Thunder Godfist is a "clean hit" then you can punish them while they
+are on the ground by:
+
+- f,N,d,d/f+1, f,N,d,D/F+3
+Thunder Godfist, Crouch Dash + Low Sweep
+
+- f,N,d,d/f+1, f,f, 4~3
+Thunder Godfist, (Dash), Crushing Kick
+
+- f,N,d,d/f+1, U+2
+Thunder Godfist, Hard Pounce
+
+=============================================================================
+
+**********
+* Ganryu *
+**********
+
+Combo starters
+--------------
+- d/f+2 or (WS)+2
+Right Uppercut
+
+- b,d/b,d,D/F+1
+Megaton Float
+
+
+Combos 
+------
+- d/f+2, 1 , 1+2,1+2
+Right Uppercut, Left Punch, Double Uppercut, Hammer 
+
+- b,d/b,d,D/F+1, D+4
+Megaton Float, Thigh Quake
+
+- b,d/b,d,D/F+1, b,d/b,d,D/F+2
+Megaton Float, Megaton Palm
+
+- b,d/b,d,D/F+1, (WC)+2,2,2
+Megaton Float, Kabuki Palm x3
+
+- b,d/b,d,D/F+1, D#+1,1,1,2,1
+Megaton Float, Sumo Rush
+
+- b,d/b,d,D/F+1, 2,1,2,1,2, d/f+2+3
+Megaton Float, Devil Thrusts, Thunder Palm
+
+- b,d/b,d,D/F+1, 2, 1+2,1+2
+Megaton Float, Right Palm, Double Uppercut, Hammer
+
+- b,d/b,d,D/F+1, D#,d/f+1,2,1
+Megaton Float, Wild Swing
+
+- b,d/b,d,D/F+1, 1,1, u/f+3+4
+Megaton Float, Ganryu's Combo, Hip Press
+
+- b,d/b.d,D/F+1, d/f+2, 2,1,2
+Megaton Float, Right Uppercut, Devil Thrust
+
+- b,d/b,d,D/F+1, b,d/b,d,D/F+2, u/f+3+4
+Megaton Float, Megaton Palm, Hip Press
+
+- d/f+2+3, D#+1,1,1,2,1
+Thunder Palm, Sumo Rush
+
+==========================================================================
+
+********************
+* Heihachi Mishima *
+********************
+
+Combo Starters
+--------------
+- f,N,d,d/f+2
+Wind Godfist
+
+- f,f+2
+Demon Godfist
+
+- d/f+2 or (WS)+2
+Right Uppercut
+
+- d/f+1,2
+Double Uppercut
+
+
+Combos
+------
+- f,f+2, 1~2(or 1,1), f,f+2, 4~3
+Demon Godfist, 1-2 Punches/Left Jab x2, Demon Godfist, Crushing Kick
+Very difficult to do. Do the 1~2 (or 1,1) as early as possible. It does 102
+points of damage!!
+
+- f,N,d,d/f+2, 1, 3(or 4 or U/F+4 or f+4)
+Wind Godfist, Left Jab, Side Kick/Reverse Kick/High Jump Kick/Axe Kick
+
+- f,N,d,d/f+2, 1, f,f+3
+Wind Godfist, Left Jab, Axe Kick
+Hard! Remember to hit the Left Jab as early as possible
+
+- f,f+2, 1, u/f+3,4
+Demon Godfist, Left Jab, Screw Blade Leg Attack
+This combo looks really cool. However it seems that this combo works only if
+you start it with Demon Godfist!
+
+- f,N,d,d/f+2, 1, f,N,d,D/F+4,N+4,4
+Wind Godfist, Left Jab, Hell Sweep, Double Axekick
+
+- f,N,d,d/f+2, 1, 1,1,2
+Wind Godfist, Left Jab, Shining Fist Combo
+
+- f,N,d,d/f+2, 1, 1,2,2
+Wind Godfist, Left Jab, Devil Fist Combo
+
+- f,N,d,d/f+2, 1, f,N,d,D/F+4,N+4, 4~3
+Wind Godfist, Left Jab, Standing Kick, Crushing Kick
+
+- f,N,d,d/f+2, 1, f,N,d,D/F+4,N+4, f,f,F, (WC)+4
+Wind Godfist, Left Jab, Standing Kick, (Run), Demon Stomp
+
+- f,N,d,d/f+2, 1, d/f+3,2,2,4,4
+Wind Godfist, Left Jab, First 5 hits of his 10 String
+
+- f,N,d,d/f+2, 1~2, f,N,d,D/F+2, 4~3
+Wind Godfist, 1-2 Punches, Wind Godfist, Crushing Kick
+The trick for the crushing kick to connect is that while doing the 2nd Wind
+Godfist you crouch-dash and slide for a moment before pressing the right
+punch button(that's why I put D/F rather than d/f). If you start this combo
+with Demon Godfist it will take away the 96pts of damage! 
+
+- f,N,d,d/f+2, 1~2, f,f+2, 4~3
+Wind Godfist, 1-2 Punches, Demon Godfist, Crushing Kick
+
+- f,N,d,d/f+2, 1~2, (QCT)+2
+Wind Godfist, 1-2 Punches, Death Fist
+
+- f,N,d,d/f+2, 1~2, d/f+1,2
+Wind Godfist, 1-2 Punches, Double Uppercut
+
+- f,N,d,d/f+2, 1~2, (WC)+1
+Wind Godfist, 1-2 Punches, Tile Splitter
+
+- f,N,d,d/f+2, 1~2, f,N,d,d/f,N+4,4
+Wind Godfist, 1-2 Punches, Double AxeKick
+
+- f,N,d,d/f+2, 1~2, 1~2, 4~3
+Wind Godfist, 1-2 Punches, 1-2 Punches, Crushing Kick
+
+- f,N,d,d/f+2, 1~2, 4
+Wind Godfist, 1-2 Punches, Reverse Kick
+
+- f,N,d,d/f+2, 1, 1~2, f,f,F, (WC)+4
+Wind Godfist, Left Jab, 1-2 Punches, (Run), Demon Stomp
+
+- f,N,d,d/f+2, 1, 1, f,N,d,D/F+3
+Wind Godfist, Left Jab x2, Low Sky Slice
+
+- f,N,d,d/f+2, 1, 1, 1,1,2
+Wind Godfist, Left Jab x2, Shining Fist combo
+
+- f,N,d,d/f+2, 1, 1, f,N,d,D/F+4,4,4
+Wind Godfist, Left Jab x2, Hell Sweeps
+
+- f,N,d,d/f+2, D, 1, N+4,4
+Wind Godfist, Crouching Left Jab, Double Axe Kick
+
+
+About the Thunder Godfist
+-------------------------
+If the Thunder Godfist is a "clean hit" then you can punish them while they
+are on the ground by:
+
+- f,N,d,d/f+1, f,N,d,D/F+3
+Thunder Godfist, Low Sky Slice
+
+- f,N,d,d/f+1, f,f, 4~3
+Thunder Godfist, (Dash), Crushing Kick
+
+- f,N,d,d/f+1, U+2
+Thunder Godfist, Hard Pounce
+
+
+Double Uppercut Combos
+----------------------
+Heihachi's Double uppercut is different from Kazuya/Devil's one because of
+the longer recovery time. So it is not used in the same way as
+Kazuya/Devil's combos. Some of these combos are quite difficult to pull off.
+
+- d/f+1,2, 1, f,N,d,D/F+4,4
+Double Uppercut, Left Jab, Hell Sweeps
+
+- d/f+1,2, 1, f,f+2, f,f, 4~3
+Double Uppercut, Left Jab, Demon Godfist, Dash, Crushing Kick
+
+- d/f+1,2, 1~2, (QCT)+2
+Double Uppercut, 1-2 punches, Death Fist
+Extremely hard to do
+
+- d/f+1,2, 1~2, d/f+1,2
+Double Uppercut, 1-2 punches, Double Uppercut
+This one is even harder than the previous one. If you find it too difficult
+try replacing the 1-2 Punches by a Left Jab.
+
+- d/f+1,2, 1~2, f,N,d,D/F+2, 4~3
+Double Uppercut, 1-2 punches, Wind Godfist, Crushing Kick
+
+- d/f+1,2, 1~2, (WC)+1
+Double Uppercut, 1-2 Punches, Tile Splitter
+
+- d/f+1,2, 1, 1,1,2
+Double Uppercut, Left Jab, Shining Fist Combo
+
+- d/f+1,2, 1, 1,2,2
+Double Uppercut, Left Jab, Devil Fist Combo
+
+- d/f+1,2, 1, f,N,d,D/F+4,N+4,4
+Double Uppercut, Hell Sweep, Double Axe Kick
+
+==========================================================================
+
+**********
+* Jack-2 *
+**********
+
+Combo Starters
+--------------
+- d/f+2 or (WS)+2
+Right uppercut
+
+- D+1+2
+Bravo Knuckle
+
+- (WS)+1
+Violent Uppercut
+
+- d/f,d/f+1+2
+Modified Catapult
+
+- 1+3
+Hell Press
+
+
+Hell Press Combos
+-----------------
+The Hell Press must be fully connected for these combos to work.
+
+- 1+3, b,d/b,d,D/F+1
+Hell Press, Megaton Sweep
+
+- 1+3, d/b+3
+Hell Press, Cossack Kick
+You have to dash towards your opponent after the Hell Press.
+
+- 1+3, u/f+3+4
+Hell Press, Hip Press
+
+
+Modified Catapult Combos
+------------------------
+- d/f,d/f+1+2, 1+2, 1+2
+Modified Catapult Throw, Double Hammer 
+
+- d/f,d/f+1+2, 2, b,d/b,d,D/F+1
+Modified Catapult, Right Punch, Megaton Sweep
+
+- d/f,d/f+1+2, 3(or 4), u/f+3+4
+Modified Catapult, Left/Right Kick, Hip Press
+
+- d/f,d/f+1+2, F+1+2,1+2
+Modified Catapult, Power Scissors, Meltdown
+
+- d/f,d/f+1+2, (HCT)+1
+Modified Catapult, Gigaton Punch
+The Gigaton hits the opponent when they are bouncing off from the ground! 
+
+- d/f,d/f+1+2, 1+3
+Modified Catapult, Hell Press
+
+
+Bravo Knuckle Combos
+--------------------
+- D+1+2, 1+2,1+2
+Bravo Knuckle, Double Hammer, Double Uppercut
+
+- D+1+2, d/b+3,4,3
+Bravo Knuckle, Cossack Kicks
+The 2nd Cossack Kick will miss
+
+- D+1+2, d+1, N+4, u/f+3+4(or b,d/b,d,D/F+1)
+Bravo Knuckle, Crouch Left Jab, Standing Kick, Hip Press(or Megaton Sweep)
+
+- D+1+2, d/b+1, D+1,2
+Bravo Knuckle, Machine Gun Knuckle, Megaton Strike
+
+
+Normal Juggles
+--------------
+- d/f+2,1, D+1,2
+First 2 hits of the Uppercut Rush, Megaton Strike 
+
+- d/f+2, d/b+1, D+1,2
+Right Uppercut, Machine Gun Knuckle, Megaton Strike
+
+- d/f+2, 1+2, 1+2
+Right Uppercut, Double Hammer, Double Uppercut
+
+- d/f+2,1, b,d/b,d,D/F+1
+Double Uppercut, Megaton Sweep
+
+- D/F+2,1, N+1
+Double Uppercut, Violent Uppercut
+
+
+===========================================================================
+
+**************
+* Jun Kazama *
+**************
+
+Combo Starters
+--------------
+- (WC)+3+4
+Can-Can
+
+- F+2
+Charging Strike
+
+- 2 or d/f+2
+Right Uppercut
+
+
+Combos
+------
+- F+1,4, 1+4,2,4 
+Middle Screw Punch, Can-Can, White Heron, Punch, Lightning Crescent
+
+- F+1,4, F+1,4 
+Middle Screw Punch, Can-Can, Middle Screw Punch, Can-Can
+
+- F+1,4, 3~4,4,4,3 
+Middle Screw Punch, Can-Can, Low Sweeps, Cart Wheel Kick
+
+- F+2, 3+4, F+2, 3~4 
+Charging Strike, Cartwheel Kick, Charging Strike, Leg Sweep
+
+- F+2, 3+4, 1+4
+Charging Strike, Cartwheel Kick, White Heron
+
+- F+2, 3+4, f, 3+4
+Charging Strike, Cartwheel Kick, Move Forward, Cartwheel Kick
+
+- F+2, 4, F+2, 3~4
+Charging Strike, Roudhouse, Charging Strike, Cartwheel Kick
+
+- F+2, 3+4, d/b+4,4,4
+Charging Strike, Cartwheel Kick, Leg Sweeps
+
+- F+2, 3+4, f,f, 1+4, d/b+4
+Charging Strike, Dash, White Heron, Leg Sweep
+
+- (WC)+3+4, 1+4,2,4
+Can-Can, White Heron, Punch, Lightning Crescent
+
+- (WC)+3+4, (WC)+3+4
+Can-Can, Can-Can
+
+- (WC)+3+4, 1,1,4, d/b+4
+Can-Can, P, Middle Screw Punch, Can-Can, Leg Sweep
+
+- (WC)+3+4, 1,2, d/b+4,4,4
+Can-Can, 1-2 Punches, Leg Sweeps
+
+- (WC)+3+4, 1,2, 3+4
+Can-Can, 1-2 Punches, Cartwheel Kick
+
+- (WC)+3+4, D+1, N+4, d/b+4,4,4
+Can-Can, Crouch Jab, Kick, Leg Sweeps
+
+- (WC)+3+4, d/b+4,4,3
+Can-Can, Leg Sweeps, Cartwheel Kick
+
+- 2, d/b+4, 1+4,2,D+4
+Right Punch, Leg Sweep, White Heron, Punch, Low Sweep
+
+============================================================================
+
+******************
+* Kazuya Mishima *
+******************
+
+Combo Starters
+--------------
+- f,N,d/f+2 or f,N,d,d/f+2
+Wind Godfist
+
+- d/f+1,2
+Double Uppercut
+
+- d/f+2
+Right Uppercut
+
+
+Combos
+------
+- f,N,d/f+2, 1, 3(or 4 or U/F+4 or f+4 or (QCT)+2)
+Wind Godfist, Left Jab, Side Kick/Reverse Kick/High Jump Kick/Axe Kick /Gut
+Punch
+
+- f,N,d/f+2, 1, f,f+3
+Wind Godfist, Left Jab, Axe Kick
+The AxeKick is hard to time, remember to hit the Left Jab as soon as
+possbile and then do the AxeKick right after that.
+
+- f,N,d/f+2, 1, f,N,D/F+4,4
+Wind Godfist, Left Jab, Hell Sweeps
+
+- f,N,d/f+2, D, 1, N+4,4
+Wind Godfist, Crouching Left Jab, Double Axe Kick
+
+- f,N,d/f+2, 1, d/f+1,2
+Wind Godfist, Left Jab, Double Uppercut
+
+- f,N,d/f+2, 1, 1,1,2
+Wind Godfist, Left Jab, Shining Fist Combo
+
+- f,N,d/f+2, 1, 1,2,2
+Wind Godfist, Left Jab, Devil Fist Combo
+
+- f,N,d/f+2, 1, f,F+2,1,4,4
+Wind Godfist, Left Jab, First 4 hits of his Ninestring
+
+- f,N,d/f+2, 1, f,F+2,1,2,2,3
+Wind Godfist, Left Jab, First 5 hits of his Tenstring
+
+- f,N,d/f+2, 1, b+1+4
+Wind Godfist, Left Jab, Spinning Dragon Punch(unblockable)
+Note that this combo only works on big guys such as Jack-2. The Dragon Punch
+hits lying opponent.
+
+- f,N,d/f+2, 1~2, d/f+4,4
+Wind Godfist, 1-2 Punches, Double Axe Kick
+
+- f,N,d/f+2, 1~2, d/f+4, 4~3
+Wind Godfist, 1-2 Punches, Standing Kick, Crushing kick
+
+- f,N,d/f+2, 1~2, f,N,D/F+2, 4~3
+Wind Godfist, 1-2 Punches, Wind Godfist, Crushing Kick
+
+- f,N,d/f+2, 1~2, f,N,D/F+4
+Wind Godfist, 1-2 Punches, Hell Sweep
+
+- f,N,d/f+2, 1~2, 1~2, 4~3
+Wind Godfist, 1-2 punches, 1-2 punches, Crushing Kick
+
+- f,N,d/f+2, 1~2, 4
+Wind Godfist, 1-2 punches, Reverse Kick
+
+- f,N,d/f+2, d/f+1,2, f,N,d/f+2
+Wind Godfist, Double Uppercut, Wind Godfist
+
+
+About the Thunder Godfist
+-------------------------
+If the Thunder Godfist is a "clean hit" then you can punish them while they
+are on the ground by:
+
+- f,N,d/f+1, f,N,d/f+3
+Thunder Godfist, Crouch Dash + Low Sweep
+Dash as long as you can before you do the sweep!
+
+- f,N,,d/f+1, f,f, 4~3
+Thunder Godfist, (Dash), Crushing Kick
+
+- f,N,,d/f+1, U+2
+Thunder Godfist, Hard Pounce
+
+==========================================================================
+
+********
+* King *
+********
+
+Combo Starters
+--------------
+- u/f+4
+Right Jump Kick
+
+- D,#D/F+2
+Dynamite Uppercut
+
+
+Combos
+------
+- u/f+4, 1, f,f+4
+Right Jump Kick, Left Jab, Jail Kick
+You can do other normal attacks such as Roundhouse(4), f,f+2 and Sidekick(3)
+after the Left Jab.
+
+- u/f+4, 1~2, f,f+2
+Right Jump Kick, 1-2 Punches, Middle Smash
+
+- u/f+4, 1~2, f,f+4
+Right Jump Kick, 1-2 Punches, Jail Kick
+
+- u/f+4, 1, 1~2, d/f+3+4
+Right Jump Kick, Left Jab, 1-2 Punches, Frankensteiner
+
+- u/f+4, 1~2, (WC)+3+4,2
+Right Jump Kick, 1-2 Punches, Ali Kick, Smash Uppercut
+
+- u/f+4, 1~2, 1,2, d+1+2
+Right Jump Kick, 1-2 Punches x2, Short Elbow Drop
+
+- u/f+4, u/f+4, d+1+2
+Right Jump Kick x2, Short Elbow Drop
+
+- u/f+4, 1(or 2), 1~2, (WC)+3+4,4,4
+Right Jump Kick, Left/Right Jab, 1-2 Punches, Ali Kick x3
+
+- u/f+4, 1(or 2), 1~2, F+1+4
+Right Jump Kick, Left/Right Jab, 1-2 Punches, Moon Press(unblockable)
+Basically you juggle your opponent as much as possible and then do the
+moondrop unblockable before they can get up. The timing is tricky though.
+Make sure you are out of the animation of your last jab before you attempt
+the f+1+3 or else you will get a standing high kick or jab. You'll know when
+it's done correctly because you will start the unblockable before they fully
+land on the ground. 
+
+- u/f+4, 1, 1~2, (WC)+1+2
+Right Jump Kick, Left Jab, 1-2 Punches, Elbow Sting
+
+- u/f+4, 1, 1~2, f,f+1+2
+Right Jump Kick, Left Jab, 1-2 Punches, Flying Cross Chop
+
+- u/f+4, 1~2, 1~2, f,f, (WC)+3+4
+Right Jump Kick, 1-2 Punches, 1-2 Punches, Dash, Ali Kick
+
+- u/f+4, 1~2, 1~2, f,f,N+2
+Right Jump Kick, 1-2 Punches, 1-2 Punches, Stomach Smash
+
+============================================================================
+
+********
+* Kuma *
+********
+
+Combo Starter
+-------------
+
+- f+1,1,1
+Bear Heaven Cannon
+
+- d/f+2 or (WS)+2
+Right Uppercut
+
+- 1+3
+Hell Press
+
+
+Combos
+------
+- 1+3, b,f+2+3  
+Bear Hell Press, Salmon Hunter 
+
+- 1+3, 1+2
+Bear Hell Press, Bear Knuckle
+
+- 1+3, u/f+3+4
+Bear Hell Press, Hip Press
+
+- f+1,1,1, f+1,1,1
+Bear Heaven Cannon, Bear Heaven Cannon
+
+- d/f+2, f+1, 1+2,1+2
+Right Uppercut, Left Punch, Double Uppercut, Hammer
+
+- d/f+2, f+1, f+1,1,1
+Right Uppercut, Left Punch, Bear Heaven Cannon
+
+- d/f+2, D+1,1,1
+Right Uppercut, Long Bear Rush
+
+- d/f+2, f+1, f+1, u/f+3+4
+Right Uppercut, Left Punch x2, Hip Press
+
+- D/F+2,1,2, u/f+3+4
+Bear Swing, Hip Press
+
+- (WS)+1+2, u/f+3+4
+Double Uppercut, Hip Press
+
+- B+1+2, 1+2
+Terrible Claw, Bear Knuckle
+
+- B+1+2, u/f+3+4
+Terrible Claw, Hip Press
+
+==========================================================================
+
+*************
+* Kunimitsu *
+*************
+
+Combo Starters
+--------------
+- d/f+2 or (WS)+2
+Right Uppercut
+
+Combos
+------
+- d/f+2, d/f+1, b+1, 2,3 
+Right Uppercut, Left Uppercut, Spinning Hilt Strike, Punch-Kick Combo
+
+- d/f+2, d/f+1, B+1,1, 3(or 4) 
+Right Uppercut, Left Uppercut, Spinning Hilt Strike x2, Left/Right Kick
+
+- d/f+2, 1, 1, u/f+4+3(or 3 or 4) 
+Right Uppercut, Left Jab x2, Flipping Stomp/Left Kick/Right Kick 
+
+- d/f+2, 1, 1, f,f+4, d/b+2 
+Right Uppercut, Left Jab x2, Jumping Knee, Kunai Stab
+
+- d/f+2, b+1, 1,2,1,4 
+Right Uppercut, Spinning Hilt Strike, First 4 hits of her Tenstring
+
+- d/f+2, B+1,1, N+1, f,f+4, (d/b+2 or u/f+3+4)
+Right Uppercut, Spinning Hilt Strikes, Left Jab, Jumping Knee, Kunai Stab or
+Flipping Stomp
+
+- f,f,N+2, D/B#+3,3,3,3,F+4, d/b+2 or (run up)u/f+3+4
+Kunai Advance, Spinning Leg Sweeps, Falling Tree Kick, Kunai Stab or (run
+up)Flipping Stomp
+
+===========================================================================
+
+****************
+* Marshall Law *
+****************
+
+Combo Starters
+--------------
+- d/f+2 or (WS)+2
+Right Uppercut
+
+- u/f+4
+Right Jump Kick
+
+- D,#u+4 or 3+4 or 3,[3],4
+Flip Kick(may not work in all combos)
+
+Combos
+------
+- d/f+2, 1, 4,3,4
+Right Uppercut, Left Jab, Spinning Kick Combo
+
+- d/f+2, N+4,u+3
+Right Uppercut, RoundHouse, Flip Kick
+
+- d/f+2, 1, d+3,3
+Right Uppercut, Left Jab, Low Kick, High Kick
+
+- d/f+2, 1, F+3,3
+Right Uppercut, Left Jab, High Kick, Middle Kick
+
+- d/f+2, 1, F+1,1,1,2,2,2
+Right Uppercut, Left Fist Flurry, Dragon Knuckle Combo
+
+- d/f+2, 1, U/F+4
+Right Uppercut, Left Jab, High Jump Kick
+
+- d/f+2, 1~2, 4
+Right Uppercut, 1-2 Punches, Roundhouse
+
+- d/f+2, (d+4,3)(or (d+2,3) or (d/f+4,3) or (D,#3,4))
+Right Uppercut, Low Kick or Crouching Right Jab or Front Kick or Low Sweep,
+Flip Kick 
+Can start with Flip Kick
+
+- d/f+2,  d+3,3,3
+Right Uppercut, Shin Kick, High Kicks
+Do the d+3 at the moment the opponent hits the ground (can start with a
+Flipkick)
+
+- d/f+2, 1~2, 1~2
+Right Uppercut, 1-2 Punches, 1-2 Punches
+
+- d/f+2, 3,3,3 
+Right Uppercut, High Kick x3
+
+- d/f+2, 1, d+3,3
+Right Uppercut, Left Jab, Low Kick, High Kick
+
+- d/f+2, d/f+1,2,2,1,3
+Right Uppercut, First 5 hits of Tenstring
+
+- d/f+2, 1, 1, d/b+4
+Right Uppercut, Left Jab x2, Dragon's Tail
+
+- d/f+2, 1~2, d/b+4
+Right Uppercut, 1-2 Punches, Dragon's Tail
+can start with a Flip Kick
+
+- d/f+2, 1, d+4,3
+Right Uppercut, Left Jab, Low Kick, Flip Kick
+Do the Low Kick when the opponent is just a tiny bit above the ground.
+
+- 3,3,4, 1, 1~2, U+2
+High Kicks, Flip Kick, Left Jab, 1-2 Punches, Pounce
+
+==========================================================================
+
+***************
+* Lee Chaolan *
+***************
+
+Combo Starters
+--------------
+- d/f+2 or (WS)+2
+Right Uppercut
+
+- u/f+4
+Right Jump Kick
+
+- D#,u/f+4
+Flip Kick(may not work in all combos)
+
+
+Combos
+------
+- d/f+2, 1, 4,3,4
+Right Uppercut, Left Jab, Spinning Kick Combo
+
+- d/f+2, N+4,u+3
+Right Uppercut, RoundHouse, Flip Kick
+
+- d/f+2, 1, d+3,3
+Right Uppercut, Left Jab, Low Kick, High Kick
+
+- d/f+2, 1, F+3,3
+Right Uppercut, Left Jab, High Kick, Middle Kick
+
+- d/f+2, 1, F+1,1,1,2,2,2
+Right Uppercut, Left Fist Flurry, Dragon Knuckle Combo
+
+- d/f+2, 1, U/F+4
+Right Uppercut, Left Jab, High Jump Kick
+
+- d/f+2, 1~2, 4
+Right Uppercut, 1-2 Punches, Roundhouse
+
+- d/f+2,  d+3,3,3
+Right Uppercut, Shin Kick, High Kicks
+Do the d+3 at the moment the opponent hits the ground (can start with a
+Flipkick)
+
+- d/f+2, 1~2, 1~2
+Right Uppercut, 1-2 Punches, 1-2 Punches
+
+- d/f+2, 3,3,3 
+Right Uppercut, High Kick x3
+
+- d/f+2, 1, d+3,3
+Right Uppercut, Left Jab, Low Kick, High Kick
+
+- d/f+2, d/f+1,2,2,1,3
+Right Uppercut, First 5 hits of Tenstring
+
+- d/f+2, D+1, N+3,3 
+Right Uppercut, Crouching Left Jab, Double Axekick
+
+- d/f+2, 1, 1~2, f,f,N+3+4
+Right Uppercut, Left Jab, Dropping Slide Kick
+
+- d/f+2, 1, f,f,3,4
+Right Uppercut, Left Jab, Double Jump Kick
+
+- d/f+2, 1, f,F+3
+Right Uppercut, Left Jab, Axe Kick
+
+- d/f+2, 1, d,d/b+4
+Right Uppercut, Left Jab, Blazing Kick
+
+- f,f,N+3,4, d+4,N+4
+Double Jump Kick, Low Kick-High Kick Combo
+
+- D#,u/f+4, D+1, U/F+4, d+3 or D#,d/f,d/f+3
+Flip Kick, Crouch Jab, Flip Kick, Low Sweep or Dragon Slide
+
+==========================================================================
+
+**************
+* Lei Wulong *
+**************
+
+Combo Starters
+--------------
+- u/f+4
+Right Jump Kick
+
+- d/f+2 or (WS)+2
+Right Uppercut
+
+- d+3+4, 3+4
+Quick Drop, Kangaroo Kick
+
+
+Combos
+------
+- u/f+4, 1, f,N+1,2,1,2,4
+Right Jump Kick, Left Jab, Running Punches-Snap Kick Combo
+
+- u/f+4, 1, f,N+4,1,2,3
+Right Jump Kick, Left Jab, Roundhouse, 1-2 punches, Crescent Kick
+
+-  u/f+4, 1(or 4), 4~4,3,3
+Right Jump Kick, Left Jab/Roundhose, Dropping Ankle Kicks, Rolling Kick
+
+- u/f+4, 1, 1+2, D+4
+Right Jump Kick, Left Jab, Spinning Punches, Foot Sweep
+
+- u/f+4, 1, 3(or 4 or f,N+3)
+Right Jump Kick, Left Jab, Crescent kick/Roundhouse/Charging Crescent
+
+- u/f+4, u/f+4, d/b,4
+Right Jump Kick x2, Foot Sweep
+
+- u/f+4, u/f+4, 4~4,3,3
+Right Jump Kick x2, Dropping Ankle Kicks, Rolling Kick
+Quite hard to do but does tons of damage(about 70%)
+
+- u/f+4, 1~2~1, 3+4,3+4,3+4
+Right Jump Kick, First 6 hits of his Ninestring
+The 2 in 1~2~1 MUST miss otherwise the combo WILL NOT work. The timing is
+tricky for the last 3+4 to connect but if you do it right it WILL connect. 
+
+- u/f+4, 1~2~1, D+1,1,4
+Right Jump Kick, First 3 hits of his Nine String, Low Backfist x2, Foot
+Sweep
+
+- b+3+4, d+4, #4, 4~4,3,3
+Quick Turn, Foot Sweep, Front Kick, Dropping Ankle Kicks, Rolling Kick
+
+Don't press 4 too fast after the Foot Sweep otherwise Lei will do the
+Jumping Hook Kick instead. This one looks cool
+
+- d+3+4, 3, #4, 4~4,3,3
+Quick Drop, Foot Sweep, Front Kick, Dropping Ankle Kicks, Rolling Kick
+Same as the above except it starts at a lying position.
+
+- b+3+4, D+1,1,1,1,1 4
+Quick Turn, Low Backfists, Foot Sweep
+
+- d/b,4, #4~4,3,3
+Foot Sweep, Dropping Ankle Kicks, Rolling Kick
+Once again don't do the Dropping Ankle Kicks too early otherwise Lei will
+end up doing the Jumping Hook Kick instead.
+
+
+Kangaroo Kick Combos
+--------------------
+These combos can only start with the Kangaroo Kick
+The second Jump Kick(u/f+4) in some combos should be hit as early as possible.
+
+- d+3+4, 3+4, u/f+4, f,N+1,2,1,2,4
+Kangaroo Kick, Right Jump Kick, Running Punches-Snap Kick Combo
+
+- d+3+4, 3+4, u/f+4, f,N+4,1,2,3
+Kangaroo Kick, Right Jump Kick, Roundhouse, 1-2 Punches, Crescent Kick
+
+- d+3+4, 3+4, u/f+4, 1+2, D+4
+Kangaroo Kick, Right Jump Kick, Spinning Punches, Low Sweep
+
+- d+3+4, 3+4, u/f+4, u/f+4, d/b+4
+Kangaroo Kick, Right Jump Kick x2, Low Sweep
+
+- d+3+4, 3+4, u/f+4, 1, d/b+4
+Kangaroo Kick, Right Jump Kick, Left Jab, Low Sweep
+
+- d+3+4, 3+4, b+3+4, D+1,1,1,1,1,4
+Kangaroo Kick, Turn around, Sweeping BackFist
+
+- d+3+4, 3+4, d/b+4,4
+Kangaroo Kick, Foot Sweep, Jumping Hook Kick
+
+============================================================================
+
+******************
+* Michelle Chang *
+******************
+
+Combo Starters
+--------------
+- f+1
+Rushing Uppercut
+
+- f+1+4
+Heaven Cannon
+
+- u/f+4
+Right Jump Kick
+
+
+Combos
+------
+- d/f+1,1, 2+3,1
+2-Punch Combo, Death Push, Punt Kick, Uppercut
+This combo simplify the traditional 3 hit punches (1~1,1), (which can be
+blocked even after the first connected), and add the air juggling part to
+the tail.
+
+- 3~2,4,1, 2+3,1
+Slice Uppercut, Low Kick, Uppercut, Death Push, Punt Kick, Uppercut
+This combo uppercut first, then lower kick immediately, then uppercut again,
+then air juggle the guy. The combo start with 3~2, which is the same as
+while standing uppercut (WS+2). But personally I think that 3~2 is faster
+than (WS+2), which you have to duck first and then get up.
+
+
+Heaven Cannon Combos
+--------------------
+- f+1+4, 2+3,1
+Heaven Cannon(unblockable), Death Push, Punt Kick, Uppercut
+This combo is quite an interesting one. It combines with the Michelle's
+unblockable to do an even more devastating one. Watch out, there is a small
+delay between f+1+4 and 2+3. This combo can also start with Jump Kick u/f+4.
+
+- f+1+4, 1, d+4,1
+Heaven Cannon, Left Jab, Front Leg Sweep, Uppercut
+
+- f+1+4, 1~1,1
+Heaven Cannon, Catapult Combo
+
+- f+1+4, (WS)+1,1
+Heaven Cannon, Catapult Combo
+
+- f+1+4, (WS)+2,2
+Heaven Cannon, Slice Uppercut, Elbow
+
+- f+1+4, U+2
+Heaven Cannon, Pounce
+
+- f+1+4, 4, f,f, (WC)+4,1
+Heaven Cannon, High Kick, Dash, Front Leg Sweep, Uppercut
+
+- f+1+4, f+2, f,f, (WC)+4,1
+Heaven Cannon, Rushing Uppercut, Dash, Front Leg Sweep, Uppercut
+
+- f+1+4, 2, f,f+1,4, (WC)+4
+Heaven Cannon, Right Punch, Dashing Elbow, High Kick, Front Leg Sweep
+
+
+
+- f+1, 2+3,1
+Rushing Uppercut, Death Push, Punt Kick, Uppercut
+
+An easy combo to pull off. You just have to smash buttons to get it out.
+Works against local scrubs and button-smashers who attack middle and high.
+Also works EXTREMELY well against Kazuya (CPU) and Devil (CPU).
+
+- f+1,d+4,1
+Rushing Uppercut, Front Leg Sweep, Uppercut
+The Old Man's Combo, as the name implies, is stolen from our favorite old
+Chinese philosopher, Wang. As you should know by now, rushing uppercut (f+1)
+is a very good combo starter. When you hit the opponent with it, just before
+he lands on the ground, do the leg sweep and uppercut. You can sweep him one
+more time.
+
+- f+1, 1, f+1
+Rushing Uppercut, Left Jab, Rushing Uppercut
+
+- f+1, f+1, d+4
+Rushing Uppercut x2, Front Leg Sweep
+
+- d/f+2,1,U+2
+Death Push, Big Punch, Pounce
+Another Combo from the Chinese old man. This one sky-cannoned the opponent
+way up into the sky and pounced him in the air. A little bit of timing is
+required. 
+
+- d/f+2,1, f,f+1, (WC)+4,1
+Death Push, Big Punch, Dashing Left Elbow, Front Leg Sweep, Uppercut
+
+=========================================================================
+
+*****************
+* Nina Williams *
+*****************
+
+Combo Starters
+--------------
+- d,d/b+3
+Lifting Back Kick
+
+- d/b+4,3
+Falling Ankle Kick, Lifting Back Kick
+Not a true combo but if the Lifting Back Kick connects it will juggle your
+opponent the same way as d,d/b+3.
+
+- d/f+2 or (WS)+2
+Right Uppercut
+
+
+Combos
+------
+- d/f+2, 1, U/F+4
+Right Uppercut, Left Jab, High Jump Kick
+
+- d/f+2, 1,2,1,2,3,3
+Right Uppercuts, first 6 hits of her Tenstring
+
+- d/f+2, 1, 1,2,4
+Right Uppercut, Left Jab, Triple Smash
+
+- d/f+2, 1, d/f+3,2,4
+Right Uppercut, Left Jab, Swan Combo
+
+- d/f+2, 1~2, 1~2, f,f+4
+Right Uppercut, 1-2 punches, 1-2 punches, Kneeling Kick
+
+- d/f+2, 1~2, d/f+3,1,2
+Right Uppercut, 1-2 Punches, Flash combo
+
+- d/f+2, d+4,1, d+4,1, f,f+4
+Right Uppercut, Lowkick, Spinning Chop, Low Kick, Spinning chop, Kneeling
+Kick
+
+- d/f+2, d+4,1, 2, f,f+1+2
+Right Uppercut, Lowkick, Spinning Chop, Right Jab, Double Palm
+
+- d/f+2, 1, u/f+4, d+4,1, f,f+4
+Right Uppercut, Left Jab, Right Jump Kick, Low Kick, Spinning Chop, Kneeling
+Kick
+
+- d/f+2, 1~2, f,f+1+2
+Right Uppercut, 1-2 Punches, Double Palm
+
+- d/f+2, 1~2, 4, f,f+4
+Right Uppercut, 1-2 Punches, Roundhouse, Kneeling Kick 
+
+- d/f+2, 2, 1,2,1,4
+Right Uppercut, Right Jab, Spark Combo
+
+- d/f+2, 1, D+3,2, f,f+4
+Right Uppercut, Left Jab, Low Kick-Uppercut Combo, Kneeling Kick
+
+-  d/f+2, 1, d/b+4,3
+Right Uppercut, Left Jab, Falling Ankle Kick, Lifting Back kick
+
+- d/f+2, 1~2, d,d/b+3
+Right Uppercut, 1-2 Punches, Lifting Back Kick
+
+- d,d/b+3, d,d/b+3, d/b+4
+Lifting Back kick, Lifting Back kick, Falling Ankle Kick
+
+- d,d/b+3, u/f+3, d/b+4,3
+Lifting Back kick, Left Jump Kick, Falling Ankle Kick, Lifting Back kick
+This combo MUST start with Lifting Back Kick
+
+- d,d/b+3, u/f+3, d+3,4
+Lifting Back kick, Left Jump Kick, Low Kick, High Kick
+
+- d,d/b+3, u/f+4, d+3,4, f,f+4
+Lifting Back kick, Jump Kick, Low Kick-High Kick Combo, Kneeling Kick
+
+===========================================================================
+
+****************
+* Paul Phoenix *
+****************
+
+Combo Starters
+--------------
+- u/f+4
+Right Jump Kick
+
+- d/f+2 or (WS)+2
+Right Uppercut
+
+
+Combos
+------
+- u/f+4, d/f+1, 1, (QCT)+2
+Right Jump Kick, Left Uppercut, Left Jab, Death Fist
+
+- u/f+4, 1, 2,3
+Right Jump Kick, Left Jab, Punch-Kick Combo
+Similar to the above combo, easier to do but does less damage
+
+- u/f+4, 1, 1~2~3
+Right Jump Kick, Left Jab, First 3 hits of Tenstring
+
+- u/f+4, 1, (WC)+4,2
+Right Jump Kick, Left Jab, Falling Leaf Combo
+
+- u/f+4, 1, U/F+4
+Right Jump Kick, Left Jab, High Jump Kick
+
+- u/f+4, 1, 1~2, (WC)+2
+Right Jump Kick, Left Jab, 1-2 Punches, Stone Splitter
+
+- u/f+4, 1, 1,2,3,1,4,2,1,4,2,1
+Right Jump Kick, Left Jab, Tenstring
+When done correctly the 3,1 will miss the falling opponent but the 4 will
+bounce him right off the ground up into the rest of the combo. Thanks to Son
+Goku.
+
+- u/f+4, 1~2, (QCT)+2
+Right Jump Kick, 1-2 Punches, Death Fist
+
+- u/f+4, 1~2, 3(or 4)
+Right Jump Kick, 1-2 Punches, Spinning Kick/Roundhouse
+
+- u/f+4, 1~2, 1~2
+Right Jump Kick, 1-2 Punches, 1-2 Punches
+
+- u/f+4, 1~2, f,f+3,4,d+4
+Right Jump Kick, 1-2 punches, Triple kicks
+
+- u/f+4, D, 1, D/F+2,1(or 2)
+Right Jump Kick, Crouching Left Jab, Elbow Strike, Death Fist/Lifting Leg
+Punch 
+
+- u/f+4, 1, 1, (WC)+1
+Right Jump Kick, Left Jab x2, Tile Splitter
+Humiliation combo. This smashes your opponent into the ground!
+
+- u/f+4, 4, (QCT)+2
+Right Jump Kick, Roundhouse, Death Fist
+
+- D,D/F+2,2, (WC)+4,2
+Elbow Strike, Lifting Leg Punch, Falling Leaf Combo
+
+- D,D/F+2,2, (WC)+2
+Elbow Strike, Lifting Leg Punch, Stone Splitter
+
+- f,f+3,4, (WC)+1
+Double Jump Kick, Tile Splitter
+
+- f,f+3,4, (WC)+4,2 
+Double Jump Kick, Falling Leaf Combo
+
+=============================================================================
+
+******************
+* Prototype Jack *
+******************
+
+Combo Starters
+--------------
+- d/f+2 or (WS)+2
+Right Uppercut
+
+- b,d/b,d,D/F+1
+Exploder
+
+- 1+3
+Hell Press
+
+
+Combos
+------
+- f+4~1, b,d/b,d,D/F+1 or u/f+3+4
+Dark Cutter(Unblockable), Exploder/Hip Press
+It takes away 120pts of life!!
+
+- 1+3, 3+4
+Hell Press, Dive Bomber 
+
+- 1+3, u/f+3+4
+Hell Press, Hip Press
+
+- 1+3, b,d/b,d,D/F+1
+Hell Press, Exploder
+
+- b,d/b,d,D/F+1, 2, 2, f+3+4
+Exploder, Right Jab x2, Head Slide
+
+- b,d/b,d,D/F+1, D, #1,1,1
+Exploder, Long Hammer Rush
+
+- b,d/b,d,D/F+1, 2, 1+2,1+2
+Exploder, Right Jab, Double Uppercut, Hammer
+
+- b,d/b,d,D/F+1, 3(or 4), u/f+3+4
+Exploder, Left/Right Kick, Hip Press
+
+- b,d/b,d,D/F+1, 2, 2, (WC)+1
+Exploder, Right Jab x2, Tile Splitter
+
+- b,d/b,d,D/F+1, 2(or 4), b,d/b,d,D/F+1
+Exploder, Right Jab/Roundhouse, Exploder
+
+- b,d/b,d,D/F+1, D+2,1,1,1,2,1,2,1,1+2,1+2
+Exploder, Tenstring
+Do the Tenstring while your opponent is about to fall from the highest
+point. If your timing is correct, the 1st, the 6th and the 9th hit of the
+Tenstring will miss while the rest will connect.
+
+- b,d/b,d,D/F+1, b,d/b,d,D/F+2, u/f+3+4
+Exploder, Megaton Punch, Hip Press
+
+- b,d/b,d,D/F+1, b,d/b,d,D/F+1, b,d/b,d,D/F+1
+Exploder x3
+Do the second Exploder when your opponent is about to hit the ground, then
+do the third after the second connects
+
+- b,d/b,d,D/F+1, 1+3
+Exploeder, Hell Press
+
+- (F or f,f)+1+2, f+3+4
+Power Scissors, Head Slide
+
+- 2+4, d/b,d,D/F+2, f+3+4
+Grab, Gigaton Punch, Head Slide
+
+=========================================================================
+
+***************
+* Wang Jinrey *
+***************
+
+Combo Starters
+--------------
+- 1,1,1
+Catapult Combo
+
+- b,B+1
+Heaven Cannon
+
+- u/f+4
+Right Jump Kick
+
+
+Combos
+------
+- 1,1,1, 1, d+4,1
+Catapult Combo, Left Jab, Front Leg Sweep, Uppercut
+
+- 1,1,1, 1,1,1
+Catapult Combo x2
+
+- (WS)+2,1,1, d+4,1
+Slice Uppercut, Catapult Combo, Front Leg Sweep, Uppercut
+
+Old man and the Sea combos
+--------------------------
+Old man and the Sea combos started with the reverse body check. It is named
+because there is a sea of moves to do. It is not easy to pull out. But if
+done correctly, it is fatal.
+
+- d/f,D/F+2+4, f,f, 2,1,1,2,3,3,3,4,4,1
+Reverse Body Check, (Run), Tenstring
+For this one, first you did the reverse body check, and then you dash up to
+the guy and do the 10 hit string to his back from an unguarded position.
+
+- d/f,D/F+2+4, f,f, (WS)+2,1,1, 1, (QCT)+2
+Reverse Body Check, (Run), Slice Uppercut, Catapult Combo, Left Punch, Death
+Fist
+
+- d/f,D/F+2+4, f,f, (QCT)+2
+Reverse Body Check, (Run), Death Fist
+This is the most simplifed version of the series of O.M.A.T.S. combo. It
+really depends on how much energy the opponent has left behind. If you think
+he has less than 65%, you can do the simplifed version. If you want to
+comeback from desperate and hopeless situation (i.e. opponent has 90%>, you
+have
+
+- d/f,D/F+2+4, f,f, b,B+1, (QCT)+2
+Reverse Body Check, (Run), Heaven Cannon(unblockable)
+After the reverse body check you run up kinda close, but not too close to
+your opponent.
+
+- d/f,D/F+2+4, f,f, (WS)+2,1,1, 1, 1, f,f+1+2
+Reverse Body Check, (Run), Crouch Dash, Left Punch x2, Double Strike
+
+- d/f,D/F+2+4, f,f, (WS)+2,1,1, 1, (WC)+4,1
+Reverse Body Check, (Run), Crouch Dash, Slice Uppercut, Catapult Combo, Left
+Punch, Front Leg Sweep, Uppercut
+
+- b,B+1, (QCT)+2
+Heaven Cannon(unblockable), Death Fist
+This one start with Wang's unblockable and then followed up by the death
+fist. It requires some timing.
+
+- b,B+1, 1, d+4,1
+Heaven Cannon, Left Jab, Front Leg Sweep Uppercut
+
+- b,B+1, 1,1,1
+Heaven Cannon, Catapult Combo
+
+- b,B+1, (WS)+2,1,1
+Heaven Cannon, Slice Uppercut, Catapult Combo
+
+- b,B+1, 1, f,f+1+2
+Heaven Cannon, Left Jab, Double Strike
+
+- b,B+1, 1, D#,d/f+4,3
+Heaven Cannon, Left Jab, Back Leg Sweep, Penetrating Bow Leg
+
+- b,B+1, 3 or 4 or u/f+4, d/f+1+2
+Heaven Cannon, Left/Right/Jump Kick, Lunging Low Double Fist
+
+- b,B+1, (WC)+4,1, d/f+1+2
+Heaven Cannon, Front Leg Sweep, Uppercut, Lunging Low Double Fist
+
+- b,B+1, (WC)+4,N+4, d/f+1+2
+Heaven Cannon, Front Leg Sweep, High Kick, Lunging Low Double Fist
+
+- b,B+1, 4, f,f, (WC)+4,1, d/f+1+2
+Heaven Cannon, High Kick, Dash, Front Leg Sweep, Uppercut, Lunging 
+Low Double Fist
+
+- b,B+1, 1,1,1, d/f+1+2
+Heaven Cannon, Catapult Combo, Lunging Low Double Fist
+
+- d/f+2,1, U+2
+Squat Punch, Power Uppercut, High Pounce
+
+=============================================================================
+
+**************
+* Yoshimitsu *
+**************
+
+Combo Starters
+--------------
+- d/f+2 or (WS)+2
+Right Uppercut
+
+- 4~3
+Kangaroo Kick
+
+
+Combos
+------
+- d/f+2, d/f+1, B+1, N+2,3 
+Right Uppercut, Left Uppercut, Spinning Hilt Strike, Punch-Kick Combo
+
+- d/f+2, d/f+1, B+1,1, 3(or 4)
+Right Uppercut, Left Uppercut, Spinning Hilt Strike x2, Left/Right Kick
+
+- d/f+2, 1, 1, u/f+3+4(or 3 or 4) 
+Right Uppercut, Left Jab x2, Flipping Stomp/Left Kick/Right Kick 
+
+- d/f+2, d/f+2, d/f+2, u/f+3+4
+Right Uppercut x3, Flipping Stomp
+
+- d/f+2, 1, 1, f,f+4, d/b+1 
+Right Uppercut, Left Jab x2, Jumping Knee, Shoulder Cut
+
+- d/f+2, B+1, 1,2,1,4 
+Right Uppercut, Spinning Hilt Strike, First 4 hits of his Tenstring
+
+- d/f+2, 1, D/B+3,3,3,3,3
+Right Uppercut, Left Jab, Spinning Leg Sweeps
+
+- d/f+2, 1, f,f+4, D/B+3,3,3,3,3,f+4, f, d/b+1
+Right Uppercut, Left Jab, Jumping Knee, Spinning Leg Sweeps, Falling Tree
+Kick, move forward, Shoulder Cut
+9-hit combo!
+
+- d/f+2, b+1, d/b+2,2, d/b+3,3,3,3,f+4, (d/b+1 or (run up)u/f+3+4)
+Right Uppercut, Spinning Hilt Strike, Spinning Fist Strike, Spinning Leg 
+Sweeps, Falling Tree Kick, Shoulder Cut or (run up)Flipping Stomp
+
+- d/f+2, b+1, 1, f,f+4, (run up)d/b+3,3,3,3,f+4, (d/b+1 or (run up)u/f+3+4)
+Right Uppercut, Spinning Hilt Strike, Left Jab, Jumping Knee, Spinning Fist 
+Strike, Spinning Leg Sweeps, Falling Tree Kick, Shoulder Cut or (run up)
+Flipping Stomp
+
+- d/f+2, B+1,1, N+1, f,f+4, (run up)d/b+3,3,3,3,f+4, (d/b+1 or (run up)u/f+3+4)
+Right Uppercut, Spinning Hilt Strikes, Left Jab, Jumping Knee, Spinning Fist
+Strike, (run up)Spinning Leg Sweeps, Falling Tree Kick, Shoulder Cut or 
+(run up)Flipping Stomp
+
+- d/f+2, 1, 1, 4, f, d/b+1
+Right Uppercut, Left Jab x2, Right Kick, move forward, Shoulder Cut
+
+- d/f+2, 1, d/b+1, d/b+1
+Right Uppercut, Left Jab, Shoulder Cut x2
+
+- 4~3, b+1, 1, f,f+4, u/f+3+4
+Right Uppercut, Spinning Hilt Strike, Left Jab, Jumping Knee, Flipping Stomp
+
+- 4~3, (WC)+1+4 
+Kangaroo Kick, Standing Suicide
+
+- 4~3, D+1, 1, f,f+4, d/b+1
+Kangaroo Kick, Crouch Jab, Left Jab, Jumping Knee, Shoulder Cut
+There is no need to turn around after the Kangaroo Kick. Yoshimitsu will
+automatically does the turn when you hit the Jab.
+
+- 4~3, D+1, N+4, d/b+1
+Kangaroo Kick, Crouch Jab, Standing Kick, Shoulder Cut
+
+- 4~3, D+1, N+4, f, u/f+3+4
+Kangaroo Kick, Crouch Jab, Standing Kick, (Step Forward), Flipping Stomp
+
+- 4~3, 1, 1, f,f+4, u/f+3+4
+Kangaroo Kick, Left Jab x2, Jumping Knee, Flipping Stomp
+This one does about 80pts of damage. You can also start the combo with a
+Right Uppercut.
+
+- D#,d/f+3, N+4, f,f+4, d/b+1
+Spinning Leg Sweep, Standing Kick, Jumping Knee, Shoulder Cut
+
+=============================================================================
+
+
+V. STUN COMBOS
+--------------
+There are some moves in Tekken2 that once connect, will stun your opponent.
+You can then make use of this short period of time to combo them. These
+moves include Kazuya's Gut Punch (WS)+2, Nina's Forearm Chop B+2, Devil's
+Laser, Armor King/King/Roger/Alex's Stomach Smash f,f,N+2 (counterhit) and
+Michelle's Dashing Right Elbow D#,D/F+2 (counterhit).
+After these stun moves connect, you can do: 
+
+1. A throw(except Devil and Michelle): You can do ANY throw(Yes even Giant
+   Swing!!)after the stun moves. For normal throws(1+3 or 2+4) you can just
+   smash the buttons. But for special throws the timings become tricky. Take
+   King's Giant Swing for example, you have to start doing the Giant Swing
+   motion BEFORE the Stomach Smash's animation ends and you have to do it
+   quickly! 
+
+2. Left Jab or 1-2 punches: Note that if you do the Left Jab/1-2 punches too
+   early, your opponent will not be juggled, instead they just remain
+   standing after eating the punches. So you'd better wait for a bit before
+   doing the Jab/1-2 punches. For Kazuya there is an extra option of doing
+   the Double Uppercut d/f+1,2 and in fact it does a better job than 1-2
+   punches cos it hits them higher into the air. You don't have to wait if
+   you choose to do the Double Uppercut. 
+
+3. Other moves: An example is Kazuya's Thunder Godfist, Hell Sweep
+   f,N,d/f+1,4 after the Gut Punch. 
+
+*For Nina's Forearm Chop and Kazuya's Gut Punch, they have to hit the
+opponent at a close distance in order to stun. Otherwise they are just
+normal hits and you can't do combos right after they connect. If you have
+the PlayStation version try to do the stun moves in practice mode, you'll
+know they will stun your opponent if they are "clean hits".
+
+============================================================================
+
+******************
+* Kazuya Mishima *
+******************
+
+Stun Move
+---------
+- (WS)+2
+Gut Punch
+
+
+Stun Combos
+-----------
+- (WS)+2, 1+3 or 2+4 or f,f+1+2
+Gut Punch, any throw
+
+- (WS)+2, d/f+1,2, 1, f,N,D/F+4
+Gut Punch, Double Uppercut, Left Jab, Hell Sweep
+
+- (WS)+2, d/f+1,2, 1~2, d/f+4,4
+Gut Punch, Double Uppercut, 1-2 Punches, Double Axe Kick
+
+- (WS)+2, d/f+1,2, 1~2, f,N,d/f+2
+Gut Punch, Double Uppercut, 1-2 Punches, Wind Godfist
+
+- (WS)+2, d/f+1,2, 1, 1,2,2
+Gut Punch, Double Uppercut, Left Jab, Devil Fist Combo
+100% Combo if the Gut Punch is a counter hit!!
+
+- (WS)+2, d/f+1,2, 1, 1,1,2
+Gut Punch, Double Uppercut, Left Jab, Shining Fist Combo
+
+- (WS)+2, d/f+1,2, 1~2, d/f+4, 4~3
+Gut Punch, Double Uppercut, 1-2 Punches, Standing Kick, Crushing Kick
+Another 100% combo
+
+- (WS)+2, d/f+1,2, 1~2, 1~2, 4~3
+Gut Punch, Double Uppercut, Left Jab, 1-2 Punches, Crushing Kick
+
+- (WS)+2, b+1+4
+Gut Punch, Spinning Dragon Punch(unblockable)
+The Gut Punch must be a counter hit otherwise the unblockable may not
+connect.
+
+- (WS)+2, u+4,4,4,4
+Gut Punch, Spinning Kicks
+You do the Spinning Kicks so that the first kick misses. For big guys such
+as Jack-2, you can do the Spinning Kick right after the Gut Punch, the 2nd
+Kick will miss but the rest will connect.
+
+- (WS)+2, f,N,d/f+1,4(or 3)
+Gut Punch, Thunder Godfist, Hell Sweep/Side Kick
+
+- (WS)+2, (WS)+2
+Gut Punch x2
+
+==========================================================================
+
+***************
+* Angel/Devil *
+***************
+
+Stun Move
+---------
+- 1+2
+Ground Laser
+If the Ground Laser connects, your opponent will be stunned for a short
+period of time. You can make use of this to combo them! The combos you can
+do depends on the distance between you and your opponent.
+
+
+Stun Combos
+-----------
+
+Long Distance
+-------------
+- 1+2, f,f,F(or f,f,F, 4)
+Ground Laser, Running Stomp or Running Slide
+The Running Stomp/Slide can be done after Air Laser(3+4)connects.
+
+Short Distance
+--------------
+- 1+2, f,f,F+3(or f,f+3 or 3 or 4)
+Ground Laser, Jumping Side Kick/AxeKick/Others
+If the distance is not too short you can do a jumping Side Kick. Otherwise
+you can do other normal moves such as AxeKick(f,f+3) or Side Kick(3) etc.
+
+- 1+2, f,N,d,D/F+1, 3
+Ground Laser, Thunder Godfist, Low Sweep
+You must start to do the Thunder Godfist AS SOON AS Angel/Devil
+recovers from the Ground Laser. The timing is very strict. 
+
+- 1+2, 1~2, f,N,d,D/F+2, 4~3
+Ground Laser, 1-2 Punches, Wind Godfist, Crushing Kick
+The MOST powerful combo of Devil.
+
+- 1+2, 1~2, f,N,d,d/f,N+4,4
+Ground Laser, 1-2 Punches, Double Axekick
+
+- 1+2, 1~2, f,N,d,d/f,N+4, 4~3
+Ground Laser, 1-2 Punches, Standing Kick, Crushing Kick
+
+- 1+2, 1, 1~2, 4~3
+Ground Laser, Left Jab, 1-2 Punches, Crushing Kick
+
+- 1+2, 1, 1,2,2
+Ground Laser, Left Jab, Devil Fist Combo
+
+- 1+2, 1, 1,1,2
+Ground Laser, Left Jab, Shining Fist Combo
+
+- 1+2, 1, f,N,d,D/F+4,4
+Ground Laser, Left Jab, Hell Sweeps
+
+===========================================================================
+
+*****************
+* Nina Williams *
+*****************
+
+Stun Move
+---------
+- B+2
+Forearm Chop
+
+
+Stun Combos
+-----------
+- B+2, 1+3 or 2+4 or d/f,D/F+1
+Forearm Chop, throw
+
+- B+2, 2+4,1,2,1,2,1,3
+Forearm Chop, Lifting Toss, Falling Elbow, Arm Lock
+
+- B+2, d/f+3,3,3
+Forearm Chop, Rapid Kick Combo
+
+- B+2, 1, d+4,1, f,f+4
+Forearm Chop, Left Jab, Low Kick, Spinning Chop, Kneeling Kick
+Do the Left Jab when the opponent is just about to fall onto the ground
+-therwise it will not be a combo.
+
+- B+2, 1, d/b+4,3
+Forearm Chop, Left Jab, Falling Ankle Kick, Lifting Back Kick
+
+- B+2, 1, d+3,4
+Forearm Chop, Left Jab, Low Kick, High Kick
+
+- B+2, d+4,1, d+4,1, f,f+4
+Forearm Chop, Low Kick, Spinning Chop, Low Kick, Spinning Chop, Kneeling
+Kick
+
+- B+2, B+2, d+3 or d/b+4
+Foreman Chop, Forearm Chop, Low Sweep or Falling Ankle Kick
+
+=============================================================================
+
+******************************
+* Roger/Alex/King/Armor King *
+******************************
+
+Stun Move
+---------
+- f,f,N+2
+Stomach Smash
+It must be a counterhit
+
+
+Common Combos
+-------------
+- f,f,N+2, 1+3 or 2+4 or d/b,F+1+2 or d/b,d/b+1+2 or f,(HCT)+1
+Stomach Smash, any throw
+
+- f,f,N+2, 1, 1~2, (WC)+3+4,4,4
+Stomach Smash, Left Jab, 1-2 Punches, Ali Kicks 
+
+- f,f,N+2, 1~2~1, (WC)+3+4,4,4
+Stomach Smash, 1-2 Punches + Uppercut, Ali Kicks 
+
+- f,f,N+2, u/f+1+2 or u/f+4 or f,f,N+2 or 4 , (WC)+3+4,4,4
+Stomach Smash, Knuckle Bomb/Jump Kick/Stomach Smash/Roundhouse, Ali Kicks
+
+- f,f,N+2, 1, 1~2, U/F+3+4 or U+2
+Stomach Smash, Left Jab, 1-2 Punches, Elbow Drop or Knee Drop
+
+
+Roger/Alex Only
+---------------
+- f,f,N+2, f,N,d,d/f+1, (WC)+3+4
+Stomach Smash, Animal Uppercut, Ali Kick
+
+The two combos below don't do much damage but they are fun to watch :-)
+- f,f,N+2, d/b+4,3,4
+Stomach Smash, Animal Kicks
+
+- f,f,N+2, d/b+3
+Stomach Smash, Tail Cutter
+
+
+Armor King Only
+---------------
+- f,f,N+2, 2+4,d,d,D+1+2
+Stomach Smash, Steiner Screwdriver
+
+- f,f,N+2, f,N,d,d/f+1, (WC)+3+4 or d/f+3+4
+Stomach Smash, Dark Smash, Ali Kick or Frankensteiner
+
+- f,f,N+2, f,N,d,d/f+2, (WC)+3+4,4,4
+Stomach Smash, Black Smash, Ali Kicks
+
+- f,f,N+2, 1~2, f,N,d,d/f+2, (WC)+3+4
+Stomach Smash, 1-2 Punches, Black Smash, Ali Kick
+
+- f,f,N+2, 1~2~1, f,N,d,d/f+2, (WC)+3+4
+Stomach Smash, 1-2 Punches + Uppercut, Black Smash, Ali Kick
+
+- f,f,N+2, f+1+4
+Stomach Smash, Black Shoulder
+
+
+King Only
+---------
+- f,f,N+2, (QCT)+2, 1+2 or 1+2,3+4,1+2
+Stomach Smash, Jaguar Driver, Flying Press or Boston Crab
+
+- f,f,N+2, 1~2, (WC)+3+4,2
+Stomach Smash, 1-2 Punches, Ali Kick, Middle Smash
+
+- f,f,N+2, 1~2~1, F+1+4
+Stomach Smash, 1-2 Punches + Uppercut, Moon Press
+
+- f,f,N+2, 1, 1~2, F+1+4
+Stomach Smash, Left Jab, 1-2 Punches + Uppercut, Moon Press
+
+===========================================================================
+
+************
+* Michelle *
+************
+
+
+Stun Move
+---------
+- D#,D/F+2
+Dash Right Elbow
+It must be a counterhit
+
+
+Stun Combos
+-----------
+- D#,D/F+2, (WC)+4,1, f, (WC)+4
+Dashing Right Elbow, Front Leg Sweep, Uppercut, Move Forward, Front Leg Sweep
+
+- D#,D/F+2, 1, (WC)+4,1
+Dashing Right Elbow, Left Jab, Front Leg Sweep, Uppercut
+
+- D#,D/F+2, 1~1~1
+Dashing Right Elbow, Catapult Combo
+
+- D#,D/F+2, 1~2,4
+Dashing Right Elbow, Punch-Kick Combo
+
+- D#,D/F+2, 1+2
+Dashing Right Elbow, Double Strike
+
+- D#,D/F+2, 2+3,1
+Dashing Right Elbow, Death Push, Punt Kick, Uppercut
+
+- D#,D/F+2, 3~2,1,1
+Dashing Right Elbow, Slice Uppercut, Catapult Combo
+
+- D#,D/F+2, 3~2,4,1
+Dashing Right Elbow, Slice Uppercut, Sweep, Uppercut
+
+- D#,D/F+2, 3~2,2
+Dashing Right Elbow, Slice Uppercut, Elbow
+
+- D#,D/F+2, 2,1,1,2
+Dashing Right Elbow, First 4 hits of her Tenstring
+
+- D#,D/F+2, D+1, D/F+4,3
+Dashing Right Elbow, Crouch Jab, Back Leg Sweep, Penetrating Bow Leg
+
+- D#,D/F+2, 1, f,f+1,4
+Dashing Right Elbow, Left Jab, Dashing Left Elbow, High Kick
+
+- D#,D/F+2, D#,D/F+2
+Dashing Right Elbow, Dashing Right Elbow
+
+=============================================================================
+
+
+
+
+VI. WHERE TO FIND THE LATEST VERSION OF THIS FAQ
+------------------------------------------------
+You can always find the latest version of this FAQ at: 
+
+1. Slikatel's site      http://metro.net/slikatel/index.htm
+2. MG's site            http://www.blarg.net/~mgofdd/
+3. Beamer's site        http://www.clever.net/beamer/tekken2.htm
+
+
+
+
+VII. TEKKEN2-RELATED WEBPAGES
+-----------------------------
+Check out these sites for more Tekken2 info:
+-----------------------------------------------------------------------------
+MAINTAINER                      URL                      DESCRIPTION
+-----------------------------------------------------------------------------
+Abbott Wang     http://futures.wharton.upenn.edu/~wang57 Heihachi FAQ
+Beamer          http://www.clever.net/beamer/tekken2.htm Movies,Combos,FAQs
+Eric Gavin      http://www.tstonramp.com/~jedi           Tekken2 Master FAQ
+Goose           http://www.access.digex.net/~goose       Move List and Pix
+Iceman          http://www.geocities.com/Hollywood/1577  Lee FAQ
+MeanBean        http://www.ccsi.com/~bean                Move List
+MG              http://www.blarg.net/~mgofdd             Many Tekken2 FAQs
+Toshi           http://www.cyberhighway.net/~toshi       Strategies
+Slikatel        http://metro.net/slikatel/index.htm      Movies,Combos,FAQs
+Wangel          http://wgrobez1.remote.louisville.edu    Move List
+-----------------------------------------------------------------------------
+
+
+
+
+
+VIII. ACKNOWLEDGEMENTS
+----------------------
+This FAQ would not be possible without the help of the following people:
+
+Namco - for making Tekken2
+Gamest - for the cool Tekken 2 Mook Books 
+LukeJedi (lukejedi@ix.netcom.com) - for writing the original Tekken2 FAQ
+LordZor (lordzor@clark.net) - for writing the Modified Tekken2 FAQ v1.75
+Mean Bean (bean@ccsi.com) - for writing the Modified Tekken2 FAQ V2.0 and V2.25
+Vincent Radford (vincent@utkux.utcc.utk.edu)
+Abbott Wang (http://futures.wharton.upenn.edu/~wang57)
+Slikatel (slikatel@metro.net)
+Richard D (richardd@freenet.vancouver.bc.ca)
+Weasel (weasel@ip.portal.com)
+Kyle Kilzer (kyle@ucsd.edu)
+Dan (dan.shrodey@spec.org)
+ShoRyuRepa (ShoRyuRepa@aol.com)
+MikeBBC (http://home.ptd.net/~compudat)
+Hideki Ikeda (ikeda@stolaf.edu)
+Brady Prigge (prigg001@maroon.tc.umn.edu)
+Matt V. Playle (ue921@freenet.victoria.bc.ca)
+Alex Linde (alex@physics.stanford.edu)
+Allen HolBrook (aholbroo@asij.ac.jp)
+Victar (Vctr113062@aol.com)
+Bruce Chen (bchen@netvoyage.net)
+Matt King (Myk6152@is.nyu.edu)
+Brian Alan Juszcyk (bjuszcy@cs.clemson.edu)
+Beamer (http://www.clever.net/~beamer)
+Jesse J. Chounard II (http://www.umr.edu/~jessec)
+Brian Tou zen Fan (btf1@acpub.duke.edu)
+MG (http://www.blarg.net/~mgofdd/tekken.html)
+Roushi (http://pwp.usa.pipeline.com/~joh)
+Justin (japierce@uiuc.edu)
+Sleet (jared@multipro.com)
+Son Goku 
+Miriad
+Heihachi from Boise, Idaho
+Toshi Kunitsu (toshi@cyberhighway.net)
+Andy Lin (andylin@eniac.seas.upenn.edu)
+Bruno Serato (twhouse@earthlink.net)
+Wenchung Shang (wshang@sbi.com)
+
+-----------------------------------------------------------------------------
+Thanks for reading this FAQ!
+lynx@hknet.com
+16-6-96
+
+
+
+ ___________________________________________________________
+|                                                           |
+|I'm glad Queequeg got eaten.  What a stupid name for a dog.|
+|       Gavin Barr s3033257@pompeii.mpce.mq.edu.au          |
+|___________________________________________________________|
+

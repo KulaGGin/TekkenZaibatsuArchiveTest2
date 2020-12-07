@@ -1,0 +1,1673 @@
+			       **********************************
+			       *   ***************************  *
+			       *   * TRUE  OGRE  G u i d e   *  * 
+			       *   * V e r s i o n     2.0   *  *
+			       *   * By Igor Karacha with    *  * 
+			       *   *    I K A Z U S H I      *  *
+                         *   *                         *  *
+			       *   *  karacha@altavista.com  *  * 
+	                   *   * ikazushi@rocketmail.com *  *	
+			       *   ***************************  *
+			       **********************************
+
+
+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+
+
+
+This guide is written with MS Word using Courier New (Western) Font 10.
+
+1234567890
+..........
+
+If the dots and numbers are aligned then it's properly formatted.
+
+
+LEGAL STUFF
+
+
+Unpublished Work Trademarked (tm) and copyrighted (c) Igor Karacha 2000.
+All Rights Reserved.
+
+IMPORTANT: YOU MUST READ AND AGREE TO EVERY PART AND EVERY WORD TO THIS
+DISCLAIMER.  USE OF THIS FILE CONSTITUTES ACCEPTANCE TO THIS DISCLAIMER.
+
+TekkenTag and its characters are the property of Namco.
+You may distribute this guide as long as you do not modify it and/or you do not charge money 
+for it.
+Make sure that you have my written permission before you in anyway distribute this guide. 
+Please give credit where credit is due. 
+
+
+***********************************************************************************************
+WHAT'S NEW IN VERSION 2.0 (from 1.0)? 
+
+-NEW FORMAT, FRAME DATA SECTION + REVERSAL&CHICKEN CHART, CUSTOM STRINGS SECTION, "WHAT OTHER PLAYERS SAY", REVAMPED GENERAL STRATEGY AND OKIZEME; 
+
+-I CORRECTED SOME MISTAKES CONSIDERING MEDIUM POWER PUNCH AND POWER SLAP DAMAGE. ADDED SOME MORE INFOS FOR SERPENT'S VENOM, DEADLY SLASH, DEADLY SLICE AND BUFFALO HORN. 
+
+-NEW EASY COMBO AFTER F,F+2 AND SOME ADDITIONAL CHEESE AFTER CONNECTING BLAZING INFERNO IN ITS LAST HITTING FRAMES (CREDIT GOES TO DOINKER [aka David Ishikawa]). 
+
+-ANOTHER DAMAGING BLAZING INFERNO COMBO (CREDIT GOES TO NIGHT). 
+
+-SOME NEW SETUPS, TRICKS ETC. BY DOINKER, NIGHT, IluvMOMO!!!
+
+-IKAZUSHI'S SETUPS, JUGGLES AND COMMENTS!
+
+HOPE NIGHT, DOINKER AND OTHER PEOPLE WILL PROVIDE SOME ADDITIONAL INFO FOR THE NEXT UPDATE! THANKS FOR THE USEFUL STUFF YOU POSTED ON THE TEKKENZAIBATSU FORUM GUYS!!!
+************************************************************************************************
+
+
+
+OK, on with the most important info. This Guide is now divided in eleven sections:
+
+-Introduction
+-Strengths and weaknesses
+-Movelist
+-Frame Data
+-Reversal&Chicken chart
+-Move analysis
+-Combos
+-Okizeme
+-General Strategy+Buffering
+-Custom Strings
+-What other players say
+
+You will probably find some grammatical errors in this Guide... Don't expect fancy writing, 
+Borges-style stories etc.; this is not my native language, but I hope it's not too bad either!
+All Ikazushi's comments will be written as "IKAZUSHI:".  If I have anything to add, the section will look like a dialog between Ikazushi and me.
+
+
+
+
+************
+INTRODUCTION
+************
+
+Who is True Ogre? This part will not help you a lot 'cause every stat falls under unknown  :
+
+Nationality - None
+Fighting Style - Unknown
+Age - Unknown, perhaps timeless
+Height - Unknown, varying reports
+Weight - Unknown, varying reports
+Blood Type - Unknown
+Occupation - None
+Hobby - None
+Likes - None
+Dislikes - None
+
+The legend of Native Americans says the Ogre was the war weapon which creatures from outer space
+left on earth in ancient time. It understands entire structures of all living and artificial 
+beings, and absorbed them. It wanders the earth in search of strong souls.
+
+*Ogre/True Ogre absorbed most of his moves from other Tekken characters: 
+Wang Jinrei, Bruce Irvin, Lee Chaolan, Anna Williams, Baek Doo San, Armor King, Kunimitsu, 
+Kazuya Mishima, Jun Kazama, Jack2 and Kuma, but this fact makes him unique. In addition to 
+that, he has some very original moves, which can prove extremely useful in a serious match!
+
+*There are no TTT guides for True Ogre, and I don't know why (Shauno, are you reading this!?).
+He's one of the best characters in the game, and I think he gets more and more popular these 
+days... You can see some excellent tournament matches involving this character on the Web 
+(Shauno VS Shafi and Shauno VS Hilfiger), and one unlucky world tourney attempt (Douzono VS 
+Seok, although I'm 100% sure Douzono's True Ogre can be far better than that).
+
+*I will try to explain how to play True Ogre in the following guide, but you have to know few 
+things before that:
+
+1) Know your opponent. If you learn his tricks and setups, True Ogre is one of the best 
+characters you can use to make them pay. Learn those characteristic moments when their game 
+becomes predictable!
+
+2) Don't think that knowing all the moves will win you many matches. Don't get me wrong, 
+knowing many moves for different characters can be big advantage, but the real thing is to know
+WHEN to use certain moves. Good players can win using only few safe moves, looking for an 
+opportunity to juggle/stun their opponent and to decimate the lifebar of their opponent's 
+character in seconds! Timing is everything!
+
+
+
+
+************************
+STRENGTHS AND WEAKNESSES
+************************ 
+
+1) STRENGHTS: We'll keep it simple - Power, stamina, range and some of the most useful 
+unblockables in terms of speed and possible follow-ups. His WS game is great, his FC attacks are
+among the best in the game, and the okizeme is just plain mean (probably the best in the game, 
+IMO)! He's not the easiest character to learn, but he's far from the most difficult. 
+No complicated stance changing, no constant movement, no spending months learning how to 
+wave/snake/lightdash, yet he can punish the opponent with his not so difficult and - at the 
+same time - devastating juggle/stun combos and okizeme! 
+
+2) WEAKNESSES: True Ogre is big, no, he's huge!!! It's easy to do some crazy combos on him 
+because of his size, and staying on the ground when you are knocked down (which is sometimes 
+the best thing to do for other characters) is very dangerous, since they can perform very 
+damaging okizeme on your poor fat character. For the same reason, his sidestepping game sucks; 
+Keep this in mind! 
+The recovery time for certain blocked moves is not so good, so you really have to know when to
+use your attacks, without having to worry about their retaliation! Finally, using True Ogre is 
+all about making your opponent play defensively. If you try to turtle with True Ogre, you will 
+have many problems, since he has small number of moves suitable for poking/interrupting.
+
+
+
+
+********
+MOVELIST
+********
+
+
+
+
+Throws
+======
+
+Throw - Name - Command - Position - Damage - (Escape)
+
+Body Slam 1+3 f-throw 30 (1)
+Bear Hug 2+4 f-throw 35 (2)
+Waning Moon d/f,d/f+2+4 f-throw 30 (1+2) 
+Choke Slam [1+3 or 2+4] ls-throw 50 (1)
+Power Wringer [1+3 or 2+4] rs-throw 40 (2)
+Swing Swung [1+3 or 2+4] b-throw 70 (-)
+
+
+
+
+Important Basic Arts
+====================
+
+Move - Command - Lev. - Damage - * comment *
+
+Low Jab d+1 sm 5 * True Ogre's fastest move *
+Right Uppercut/Elbow df+2 m 15  * staggers; juggles on counterhit *
+Roundhouse 4 h 35  * just look at the damage *
+Hopkick uf+4 m 13 * juggles, great priority *  
+
+
+
+
+Special Arts
+============
+
+Move - Command - Lev. - Damage 
+h=high, m=mid, M=mid+ground, l=low, !=unblockable, {!}= unblockable, hits grounded opponent
+
+One-Two Punches 1,2 hh 5,8
+
+Shining Fists 1,1<2 hhm 5,8,15
+
+Devil Fists 1,2<2 hhh 5,8,18
+
+Cross-Backhand 2,2 hh 12,21
+
+Demon Scissors 4~3 M 25 
+
+Power Punch f+2 m 28
+
+Right Axe Kick f+4 m 27
+
+Shoulder Ram f+1+4 m 30
+
+Hammer Fist (Medium Power Punch) f,f+1+2 M 20
+
+Left Splits Kick f,f+3 m 23 
+
+Bazooka Leg f,f+4 h 35
+
+Hammer Heel f,f,N+4 M 20
+
+Exploder f,f+3+4 h 40 
+
+Dragon Dive (Chaolan Slide) f,f,N+3+4 L 15 
+
+Slash Kick f,f,f+3 m 30 
+
+Shin Kick-Head Kick d+4,N+4 lh 7,20
+
+Double Elbow d/f+1,2 mm 16,10
+
+Blazing Kick d,d/b+4 m 30 * juggles on CH *
+
+Double Knuckle [u_u/f]+1+2 M 35
+
+Delayed Double Knuckle [u_u/f]N+1+2 M 35
+
+Hunting Hawk u/f+3,4,3 mmh 15,14,25 
+
+Windmill Kick u/b+3 M 20 * juggles *
+
+Windmill-Tooth Fairy u/b+3,2 Mm 20,25 * juggles * 
+
+Heavy Body Blow WS+2 m 25 * double-over stun on CH * 
+
+Infinity Kick Combo WS+3,3,d+3,3... mmlm 10,25,15,10...
+
+= Infinity Extension u+3... h 15... 
+= Infinity Extension d/f+3... m 15... 
+= Infinity Extension d+3... l 10... 
+
+Tsunami Kick WS+4,4 mm 13,21
+
+Rising Kick WS+3+4 h 28
+
+Groin Punch FC,f+1 m 30 
+
+Power Slap FC,f+2 M 30 * stuns on CH *
+
+Low Backhand Sweep FC,d/f+2 L 25 * floats *
+
+Snake Creeper FC,3,3,N,3 LLm 12,19,25 * last hit juggles, combos on CH *  
+
+Snake Kicks FC,3,3,3 LLL 12,19,7
+
+Azteca Shoot SS+4 L 22 * floats *
+
+Evil Wheel u+3+4 m 25
+
+Buffalo Horn d/f+1+2 M 25 * juggles * 
+
+Low Tail Spinner d+3+4 L 25
+
+Mid Tail Spinner d/f+3+4 m 25
+
+Double Mid Tail Spinner d/f+3+4,3+4 mm 25,25
+
+Deadly Feast FC,d/f -  * reverses d or d/f punches, can be escaped with 1+2 * 
+
+
+UNBLOCKABLES:
+
+Deadly Slice b+2 ! 22
+
+Killing Blow b+2+3 ! 60
+
+Serpent's Venom (Deadly Spear) f,f+2 m! 15,20 * 2nd hit can be escaped with b,b or SS * 
+
+Deadly Slash f,f,N+2 ! 25
+
+Dragon Power Punch b,b+1+2 ! 100
+
+Bloody Scissors d/b+1+2 ! 60
+
+Burning Knuckle u_u/f~d+1+2 {!} 45
+
+Delayed Burning Knuckle [u_u/f]N,D+1+2 {!} 45
+
+Hell Flame 1+2 (!) 30  * double over stun/float (?) *
+
+Blazing Inferno d+1+2 ! 40  * double over stun/float (?) *
+
+Owl's Hunt [KND_PLD]3+4 ! 40 
+  ~f Warp Behind
+  ~u Side Warp
+  ~d Side Warp
+
+
+
+
+10-Strings
+==========
+
+True Ogre has no strings.
+
+
+
+**********
+FRAME DATA
+**********
+
+Some players requested this, so I decided to include all frame data for True Ogre's throws and special arts;
+I copied this section from www.tekkenzaibatsu.com. It's extemely useful if you want to know how
+to play good True Ogre, whether you're a novice, intermediate or expert player (of course, experts already know all this...).
+
+
+F Hit = Frames To Hit
+B Adv = Advantage If Blocked
+H Adv = Advantage If Hits
+CH Adv= Advantage If Counters
+
+======
+THROWS
+======				
+
+Command	     F Hit	B Adv	   H Adv	Ch Adv
+ 	 	 	 	 	
+1+3 	             12	  x	     x	  x
+2+4	             12	  x	     x	  x
+d/f,D/F+2+4	       12	  x	     x	  x        
+				
+
+ 
+=============
+SPECIAL  ARTS				
+=============
+
+
+Command	 F Hit	        B Adv	       H Adv	   Ch Adv
+ 	 	 	 	 	
+1,2,2	       10 x x	       -5 -6 -8	      +3 +3 +1	  +6 +3 +1
+d/f+1,2      14 x	             -3 -6	      +8 +5	        +8 +5
+1,1,2	       10 x x	       -5 -6 -14	      +3 +2 KD	  +6 +2 KD
+D,f+1	       22	             -14	            KD	        KD
+f,f+1+2      28	             -17	            KD	        KD
+d/f+1+2      24	             -8	            KD	        KD
+f+1+4	       29	             -1	            KD	        KD
+u_u/f+1+2    35	             -16	            KD	        KD
+u_u/f,N+1+2	 35	             -16	            KD            KD	
+2,2	       10 x	             -2 -13	      +7 +2         +7 +2 	
+f+2	       18	             -17	            KD         	  KD
+D,f+2	       19	             -26	            -15	        KD
+D,d/f+2	 20	             -30	            KD	        KD
+f,f+3	       20	             -11	            KD	        KD
+u/b+3	       17	             -22	            KD	        KD
+= 2	        x	             -18	            KD	        KD
+u/f+3,4,3	 27 x x	       -6 +7 x	      KD KD KD	  x KD KD
+FC+3,3,d+3	 16 x x	       -14 -19 -17      -3 -9 -3	  -3 -9 -3
+FC+3,3,N+3	 16 x x 	       -14 -19 -15      -3 -9 KD	  -3 -9 KD
+WS+3,3	 10 x	             -19 -19	      -8 -8	        -8 -8
+= d/f+3	 x	             -14	            -3	        -3
+= D+3	       x	             -19	            -8	        -8
+= 3,3,3,3... x x x x	       -19-19-16-16     -8 -5 -8 -5.. -8 -5 -8 -5... 
+         
+= u+3,3,3... x x x	       -19 -16 -19..	-8 -5 -8...	  -8 -5 -8...
+= d+3,3,3... x x x	       -19 -16 -19..	-8 -5 -8...	  -8 -5 -8...
+f,f+3+4	 23	             x	            KD	        KD
+f,f,N+3+4	 29	             x	            KD	        KD
+u+3+4	       19	             +3	            +1	        +1
+d+3+4	       25	             -20	            KD	        KD
+d/f+3+4	  21             	 -7	            KD	        KD
+= ~D/F	 x	             -10         	KD	        KD
+= 3+4	       x	             -3          	KD            KD
+WS+3+4	 16                -16	            KD	        KD
+SS+4	       18	             -17	            KD	        KD
+d,d/b+4	 22	             -14	            KD	        KD
+d+4,N+4	 12 x	             -11 -9	      -12 0	        KD
+f,f+4	       24	             0	            KD	        KD
+f,f,N+4	 20	             -18	            KD	        KD
+WS+4,4	 11 x	             -3 -15	      +8 -4	        KD
+4~3	       26	             x	            KD	        KD
+				
+
+============ 
+UNBLOCKABLES
+============
+				
+Command	       F Hit	B Adv	     H Adv	    Ch Adv
+ 	 	 	 	 	
+1+2	             58	      x	     KD	    KD
+d+1+2	             25	      x	     KD	    KD
+PLD_KND 3+4	       45	      x	     KD	    KD
+d/b+1+2	       60	      x	     KD	    KD
+u_u/f+1+2~D	       61	      x	     KD	    KD
+u_u/f,N+1+2~D	 61	      x	     KD	    KD
+b,b+1+2	       73	      x	     KD	    KD
+f,f+2	             20	      x	     KD	    KD
+b+2	             34	      x 	     KD	    KD
+f,f,N+2	       25	      x	     KD	    KD
+b+2+3	             56	      x	     KD	    KD
+
+
+
+
+
+**********************
+REVERSAL&CHICKEN CHART
+**********************
+
+Reversals are commands that will catch most attacks in TTT, and then reverse them into
+special, damage inflicting moves. Paul, Jin, Jun, Wang, Nina and Anna can reverse most punch- and kick based mid and high attacks - including some unblockables - while King can reverse only kicks. Nina, Jin and Jun can also reverse sword attacks, and Anna can reverse pretty much everything, including shoulder attacks, sword attacks and lariats! Almost all of these reversals can be reversed again, using special f or u/f+1+3 (if you use left limb attack) and f or u/f+2+4 (right limb attack) commands (so called chickens). This is almost impossible to do on reflex, and that's why you should buffer chicken command right after you perform certain moves, except if you play against King - his reversals cannot be chickened, so be careful when using kicks against him!
+However, not ALL attacks in the game can be reversed, and fortunately True Ogre has some important attacks in this  "unreversible" group. Here is the chart with all True Ogre's moves which cannot be reversed by at least one reversal capable character:
+
+
+Reversing character:   Paul    Jin    Nina    Anna    Wang    King    Jun 
+-------------------------------------------------------------------------
+d/f+1 			x       x      x        x       x       x      x 
+
+d/f+1,2 			x       x      x        x       x       x      x
+
+f+1+4 			x       x 	   x        o       x       x      x
+
+FC,f+2 			x       x      x        x       x       x      x
+
+WS+2 				x       o      x        x       x       x      o 
+
+WR+3 				x       x      x        x       x       x      x 
+
+d/f+3+4 			x       x      x        x       x       x      x
+
+d/f+3+4,3+4 		x       x      x        x       x       x      x
+
+d+3+4 			x       x      x        x       x       x      x
+
+u+3+4 			x       x      x        x       x       x      x
+
+4~3 				o       o      o        o       o       x      o 
+
+(KND_PLD)3+4 		x       x      x        x       x       x      x
+
+1+2 				x       x      x        x       x       x      x
+
+d+1+2 			x       x      x        x       x       x      x
+
+u/f+1+2~D 			x       x      x        x       x       x      x
+
+u/f,N+1+2~D 		x       x      x        x       x       x      x
+
+f,f+2 			x       x      x        x       x       x      x
+
+
+
+Here's the "chicken" chart for those True Ogre's moves which can be reversed:
+
+(CNR = Chicken Not Required [reversing character not able to reverse], x = Chickening Not Possible)
+
+
+Reversing character:   Paul    Jin     Nina     Anna     Wang     Jun 
+------------------------------------------------------------------------
+f+1+4                  CNR     CNR     CNR       x        CNR     CNR 
+f,f+1+2               f+1+3   f+1+3   f+1+3    f+2+4       x     f+1+3 
+u/f+1+2               f+1+3   f+1+3   f+1+3    f+1+3       x     f+1+3 
+f+2                   u/f+2+4 u/f+2+4 f+2+4    f+2+4    u/f+2+4  u/f+2+4 
+WS+3+4                f+1+3   f+1+3   f+1+3    f+1+3    f+1+3    f+1+3 
+4~3                     x       x       x        x        x        x 
+d/b+1+2               f+2+4   f+2+4   f+2+4    f+2+4    f+2+4    f+2+4 
+b,b+1+2               u/f+2+4 u/f+2+4 f+2+4      x      u/f+2+4  u/f+2+4 
+b+2+3                 f+2+4   f+2+4   f+2+4    f+2+4    f+2+4    f+2+4
+b+2			    u/f+2+4 u/f+2+4 f+2+4    f+2+4    u/f+2+4  u/f+2+4 	
+
+
+If you need more system infos I don't know any better source than tekkenzaibatsu.com. They've put lots of time and energy into this. Thanks guys! 
+BTW, True Ogre's b+2 unblockable is NOT in their list so I included it here...
+
+
+
+
+
+
+*************
+MOVE ANALYSIS 
+*************
+
+
+
+THROWS:
+======
+
+
+---------
+Body Slam 1+3 f-throw 30 (1)	***
+---------
+
+-Good throw, with some guaranteed okizeme afterwards: d+3, but you can use some tricks on a recovering opponent. If you use d+1 low jab, he'll stand up backwards! Oops, time for some Low Backhand Sweep combos etc... It's a 1 button escape, though.
+
+
+--------
+Bear Hug 2+4 f-throw 35 (2)	***
+--------
+
+-More damaging, it's good to use when you want to run out of time, but there are no good 
+follow-ups. If you know any, e-mail me...
+
+IKAZUSHI: d+3 works maybe. Btw, after this and 1+3 throw, you can go into FC, and jab
+opponent if they try to get up with a kick or something, if they stay down or
+move away do FC,f+2 . Great position as you will have access
+to some great okizeme tools and they will be at your feet.
+
+-----------
+Waning Moon d/f,d/f+2+4 f-throw 30 (1+2)     *****
+-----------
+
+-One of the best frontal throws in the game. It's almost never escaped, and it has some great 
+follow-ups; f,f,f+3 is guaranteed, f,f,f+2 is also an option, and if you are really good, try 
+f,f,f (run in) d,d/b+4 blazing kick for a nice combo! If you are fast enough (and your 
+opponent without enough experience) you can try Blazing Inferno for a double-over stun, and a
+dditional combos (see "combos" section). Just see combo section. My favourite is f,f run up, u/f+3,4,3. 
+You have to add this in your throwing arsenal, especially since it can be buffered after d/f+2 UpperElbow or the Bazooka Leg!
+
+IKAZUSHI: Blazing Kick can be followed with a tag out and f,f,N+1+2 dive!	
+
+
+----------
+Choke Slam [1+3 or 2+4] ls-throw 50 (1)	     *****	  
+----------
+
+-Great damage, go for it whenever you have the opportunity! This is definitely one of the best 
+side-throws in the game!
+
+
+-------------
+Power Wringer [1+3 or 2+4] rs-throw 40 (2)   ***
+-------------
+
+-Less damage than the Choke Slam, but it's still great. Use it whenever you can!
+
+
+-----------
+Swing Swung [1+3 or 2+4] b-throw 70 (-)	    *****	
+-----------
+
+-What a damaging and cool looking throw! If you have the opportunity, don't miss it!
+
+IKAZUSHI: Can't remember, but after this a d+3+4 MIGHT be guaranteed. Maybe if you're
+quick and they decide not to get up (so they don't get hit and end up same
+position, of course, stay down to [True] Ogre's okizeme is crazy...) you can
+get in a FC,f+2, and if you hit them while moving even more...
+
+KARACHA: If Low Tail Spinner is guaranteed, d/f+1+2 also is (since it's one frame faster) leading into d+1, FC,f+2 for a HUGE combo (same after FC, d/f+2)!
+This is probably THE BEST back throw in the game - 100+ with follow-ups!
+
+
+
+
+BASIC MOVES:
+===========
+
+
+-------
+Low Jab d+1 sm 5 * True Ogre's fastest move (8 frames) *      **********
+-------
+
+-This is your main move for interrupting and entering Full Crouch (FC) position.
+If you don't know when to use it, learn it fast. Without this, True Ogre can be easily outpoked 
+by anyone! It has excellent range, and you can try:
+WS 2, WS 3,3_4,4, FC,df+2, or the FC,3,3,3_n+3 afterwards!
+
+IKAZUSHI: Basic (and practically box standard) mixup is infinity kicks (mid) and
+FC,df+2 (low). If the jab connects infinity kicks CANNOT be interrupted, except
+for Yoshi flash I think. Of course, maybe a parry etc.?
+
+KARACHA: See Infinity Kicks section!
+
+
+
+----------------
+Right UpperElbow     df+2 m 15  * staggers; juggles on counterhit *	*****
+----------------
+
+-Safe and relatively fast (15 frames), you can use this at close range to punish a slow 
+recovery move. If it counterhits, it juggles, and you can do some easy, yet very damaging 
+combos. If it hits as a "normal" hit, it causes the stagger, just like Jin's df+2 (T3) uppercut. 
+Your opponent will walk backwards, holding their nose, and you can try f,f,N+2 unblockable 
+after it. You'll be surprised how many times this combination hits, putting you in position 
+for perfect okizeme (d+3+4), and good positioning afterwards! If they don't know that the 
+stagger is escapable by holding D, you can be really cheap and use Blazing Inferno and your 
+favourite combo afterwards, or b+2+3 Killing Blow unblockable (now, that's what I call good 
+range!). I love this move!
+
+
+----------
+Roundhouse 4 h 35  * just look at the damage *		****
+----------
+
+-Great damage, and if you forget your juggles (don't do this, but still...), stun combos or 
+your retaliation moves, if it's simply not your day or you're feeling sick, you can always use 
+this as a great, damaging, cheap move/juggle ender which will make your opponent pull his hair 
+out!!! Although True Ogre has new SS+4 attack, you can still use good old 4 after SS: SS+b+4.
+
+IKAZUSHI: I think it does 25 damage now, and it's not as fast anymore either. It really can't be thrown around anymore due to lack of speed and not really that worth it for the damage, as you might as well try to hopkick or something. Even on minor counter at the range a hopkick would be a better choice.
+
+KARACHA: Nope, it does 35 damage, at least that's what Zaibatsu System Section says, and it looks like that, when I hit someone with this, hehehe... I completely agree with the the speed factor Ikazushi mentioned, but it IS worth damage. 
+
+
+-------
+Hopkick uf+4 m 13 * juggles, great priority * 	    *****
+-------
+
+-You don't know how to use hopkicks? Learn. Quickly. This is the best way to punish your 
+opponent after blocking a move up close. It has a great priority, and it is setting up some 
+strong, damaging, cool looking juggles. Use it often to punish slow recovering moves up close. 
+If it is blocked, you'll have some serious problems. 
+
+IKAZUSHI: Are you sure 13 frames? I heard 14... not sure. BTW, I think you can get
+hit by 10 frame moves after blocked (pretty sure Mishima 1,1,2 always hit after
+blocked hopkick). Maybe u+4 hopkick would have a use? But then I'd rather be
+blocked then whiff...
+
+KARACHA: 13 damage, 15 frames actually (both u+4, and u/f+4). Still, this is your fastest juggle starter when it comes to punishing slow recovery or -even better- whiffed moves in range. Ikazushi is right, be sure to hit with this, don't just come to your opponent and u/f+4 him.
+You'll be sorry for that! But someone just whiffed a move in front of you? Just hopkick him, and
+proceed with one of the combos from JUGGLE section! It's definitely worth it!
+
+
+
+
+ARTS:
+====
+
+
+---------------
+One-Two Punches 1,2 hh 5,8	***
+---------------
+
+-Fast, good range and priority. Not as useful as 1,1 though, and there's no need to use it too 
+often.
+
+
+-------------
+Shining Fists 1,1<2 hhm 5,8,15	****   
+-------------
+
+-This is a "trademark" move of the Mishima family. Use it when in close combat, and don't 
+forget that this one combos ONLY if the 1st hit counters. Use first two jabs, and if the second
+connects, go ahead and finish it, 'cause the second hit combos into the third! It they block 
+1,1, you are safe, and you can try low jab (d+1) to go in FC, or 1,1 again for those who try to
+rush in!
+
+IKAZUSHI: Only hit on CH. More precisely, the second will only hit after the first on
+CH, and thus on CH the third will hit as the second will. Get it? =P
+
+
+
+-----------
+Devil Fists 1,2<2 hhh 5,8,18    **
+-----------
+
+-1,1<2 is far superior than this. All 3 hits have high property, which means they can be ducked,
+and punished with WS attack leading to damaging combos! Don't use this, except in juggles! 
+
+
+--------------
+Cross-Backhand 2,2 hh 12,21    ***
+--------------
+
+-Great damage, but it hits high. Use only if you want to punish a slow recovery move up close! 
+It doesn't knocks down, and that can be a very good thing sometimes. If you hit, you'll have 2 
+frames advantage, which is enough for safe 1,1 or d+1! If they block it, they will probably 
+throw you for free, since you will have -13 frame disadvantage! Keep this in mind!
+
+IKAZUSHI: This I prefer (not that I use either much) over the 1,2,2 as the 1,2,2 all
+don't hit except maybe on CH. This is ok for interrupting as it does 33 damage
+(judging from your values - too lazy to check hehehe) and it is 10 frames like the 1 jab. BTW, the 2 by itself is an ok poke as it is 10 frames and has much better recovery than a 1 or 1,1 - on hit +3,+2, on block -5,-6, while the 2 is +7 on hit, -2 on block =D
+
+
+--------------
+Demon Scissors 4~3 M 25		*** 
+--------------
+
+-Use it to hit grounded opponents. It has a good range, due to True Ogre's massive body, and 
+you can also try it after a juggle if your opponent doesn't know how to quick rise! Owl's Hunt 
+unblockable (with its variations) is a possibility after 4~3 if you feel lucky.
+
+IKAZUSHI: This I prefer not to use anymore. 1) Useless against standing (obviously, but just pointing out everything) and 2) You can do just as much damage with other things (the f,f,N+4 which does only 5 less damage and is MUCH safer) that won't leave you lying on the ground, which will happen a lot as it's rather slow (only hits if the opponent decides to take a nap) and it doesn't track. HOWEVER, this is OK when your opponent constantly rises with sweeps or anklekicks as it goes over, though a FC,f+2 from range is just as good. It can also be used against handstanding Eddy's who are careless. But these situations aren't likely to happen against advanced players, but sometimes against the intermediates.
+
+KARACHA: Excellent point. And, hey, this IS guide for intermediates, experts are not reading these manuals very often (maybe they should, don't know)...
+
+
+
+-----------
+Power Punch f+2 m 28	****
+-----------
+
+-One of the best True Ogre's moves. OK, it takes 18 frames to execute, so what?
+It hits mid, its range is too good, it will frustrate opponent who is rolling on the floor, it 
+will put some distance between you and the opponent if it's blocked; This move is great as long
+as you're not trying to interrupt fast moves with it. Use it to:
+
+1) gain some breathing space
+2) knock down rolling opponents (Lei Wulong rolling towards you from medium distance? Let's put 
+him back to the ground!)
+3) knock down running opponent
+4) finish juggles sometimes
+
+Keep in mind that this can be reversed, so buffer a chicken whenever you play some reversal 
+happy people (uf+2+4 against Paul/Jin/Wang, f+2+4 against Williams sisters)!
+
+IKAZUSHI: Wouldn't overuse, not that it's a real bad move, but other better moves can
+be used at the time this would be used. BTW, even though seems to track well,
+it has a knack to get sidestepped (I think it's tracking only in the early
+frames, after that they can do whatever and you'll miss).
+
+
+
+--------------
+Right Axe Kick f+4 m 27		*
+--------------
+
+-The real input is f~4.If you do f+4 you'll actually perform simple roundhouse. Almost useless,
+there's no need to use it since it's not very fast, and there are other, better True Ogre's 
+moves to use at medium range.
+
+
+------------
+Shoulder Ram f+1+4 m 30		***
+------------
+
+-Good damage and priority once you initiate the move, you can use it when someone tags in 
+(although there are better moves for that), or to interrupt an opponent who's starting (almost) 
+10-string at medium range. If they block it you have -1 frame disadvantage, but at the same time
+ you are turned to the side, which means you are in not-so-simple position. Don't try any of 
+the slower moves afterwards, your best bet is d+1, or simply B for turning and blocking! If you
+hit, the opponent is knocked down, and you will be in position to try some okizeme.
+
+
+-----------
+Hammer Fist (Medium Power Punch) f,f+1+2 M 20	***
+-----------
+
+-I think this move is very good! It does good damage, has excellent range and it's guaranteed after your opponent is double over stunned. It hits ground, so it's a very useful okizeme tool! Just don't try it in the middle of the match on a standing opponent since it needs 28 frames to 
+execute, and gives you -17 frames after it's blocked! You can also use it after d/f+2 stagger, 
+if your opponent knows how to fall on the ground after being hit with the UpperElbow.
+
+IKAZUSHI: Not really worth using much because of the low damage, as faster and more damaging (or a bit less damaging) other okizeme tools (this has no use except for standing. And maybe juggle enders, but there are better juggle enders too). I rarely use.
+
+KARACHA: True. Sometimes, I use it instead of d+3+4 Low Tail Spinner if I can. Just to show True Ogre still has this move (variety is key to life, after all). And looks pretty powerful, too. 
+If it was the same T3 Hammer Fist (40 damage), I would really use it all the time, but unfortunately, it's not... However, if they fall on the ground after d/2+2 stagger, you can use it.
+
+----------------
+Left Splits Kick f,f+3 m 23 	**
+----------------
+
+-This can prove useful sometimes, but only sometimes! 20 frames to hit and -11 if blocked is 
+far from perfect...If it hits it knocks down, and you can try some mean okizeme afterwards.
+
+
+-----------
+Bazooka Leg f,f+4 h 35	**
+-----------
+
+-Hmmmmm...If you look at the damage, you would say it's a good move, but that's simply not true.
+It has great range, and you can use it when your opponent tags in, but why? There are better, 
+more dangerous (and faster) moves for that! This one executes in 24 frames, but at least - if 
+they block - your disadvantage is 0 which means that you can try to buffer Waning Moon throw 
+after it! Bruce Irvin's version is better 'cause he can flip back, and dupe the opponent into 
+rushing in, and then - boom, Bazooka Leg. But, no, True Ogre's version is just plain, powerful 
+and slow kick you shouldn't use very often!
+
+IKAZUSHI: Even then, for Bruce's version, it's obviously after a flipback anyway, so opponent can just duck or sidestep and if it doesn't come out they are still fine. (this wasn't really relevant but anyway).
+
+
+-----------
+Hammer Heel f,f,N+4 M 20	****
+-----------
+
+-I wasn't very fond of this move, but Ikazushi convinced me that it has some useful applications. Anyway, here's what's he says:
+
+IKAZUSHI: THIS IS A GREAT MOVE! Not much use against standing but definitely one of TO's best okizeme attacks. It's pretty quick, has decent range, and damage is nice (come on, 20 damage is pretty good. After all, EWGF only does 25...). And the fact that if you hit them while they try and get away they are in for even more okizeme. If they stay down and get hit away a f,f,N+2 will usually catch them as they stand up again, thus a guaranteed d+3+4, they try and get up again, f,f,N+2... they stay down, f,f,N+4... or even FC,f+2... killer mixups with this move =D
+
+KARACHA: OK, OK, I tried it, and it really works! Thanks. BTW 20 points is not bad damage, but it's not great. And, EWGF does 25 plus all the things afterwards (my favourite: Hei EWGF, CD 4,4,1, d+1). However, this really works as an okizeme, since it has good range. Practice f,f,N
+if you want to play True Ogre... Thanks for tips, this is very, very useful, so I gave it ****.
+
+
+
+--------
+Exploder f,f+3+4 h 40		**
+--------
+
+-Great damage, relatively slow start (23 frames), and it never hits... If you accidentally hit 
+with this, you can consider yourself very lucky! If it's blocked, you are on the ground, angled
+sideways, causing some very odd situations...
+
+
+-----------
+Dragon Dive (Chaolan Slide) f,f,N+3+4 L 15 	**
+-----------
+
+-It hits low, rising low kick (3) is guaranteed after it (if you end on the other side after hitting), it can confuse your opponent sometimes, but True Ogre is simply so big it's easy to hit him out of this in no time! If your opponent is very defensive, and likes to block standing, you can try it sometimes just to see what will happen... Not recommended against experienced players!
+
+IKAZUSHI: This is OK for okizeme when the opponent's too far away for much else, but don't do too much as if they catch on they'll crouch recover and block you and then okizeme you instead... BTW, 3 ain't guaranteed after I'm pretty sure, just like after tag slides or running slides, the opponent can crouch recover and block methinks.
+
+
+
+----------
+Slash Kick f,f,f+3 m 30		*** 
+----------
+
+-Standard slash kick, nothing special to say about it. If it's blocked, you will have frame 
+advantage, so try to do some low hitting moves or quick unblockables (b+2)...
+
+IKAZUSHI: Best time to use is to put pressure on an oppponent getting up at a moderate
+distance.
+
+
+-------------------
+Shin Kick-Head Kick d+4,N+4 lh 7,20		**1/2 for d+4,N+4   ***1/2 for d+4 only
+-------------------
+
+-This is not bad, using only d+4 is even better, since experienced players can block 
+the first hit, and punish you with WS+2 after you finish the second part. You can poke with it,
+d+4 has great range, and it's fast (12 frames); you can try to start the match with it! Even if 
+you hit with the low kick, keep in mind that the high one can be reversed, so buffer a chicken 
+(f+2+4). If you play against King, don't use high kick too often, since you cannot chicken his 
+leg reversal!
+
+IKAZUSHI: This is much like Hwoarang's d+4,4. Using the second 4 is nearly as bad as using Hworang's, and this moves main purpose is in juggles (though I tend not to use as more damaging stuff) and okizeme on rolling opponents.
+
+
+
+------------
+Double Elbow d/f+1,2 mm 16,10		***
+------------
+
+-Quick, Bruce-style elbows, useful for poking, quite safe (-6 frames if blocked), first hit 
+combos into second, but it doesn't juggles. What a pity! At least, the speed (14 frames) and 
+the damage makes this a useful move you should try at least 2-3 times per match! The other 
+alternative is just df+2, which has some nice properties alone! Look at the beginning of this 
+section again!
+
+
+------------
+Blazing Kick d,d/b+4 m 30 * juggles on CH *	***
+------------
+
+-Strange move, this one. First of all, timing is tricky (actually, it's d~D/B:4), and if you 
+want to do it consistently, you'll have to practice a lot! Does good damage, though, and it 
+knocks down on a perfect distance for True Ogre. If it's a counter, it sets up some cool, 
+damaging juggles! It also has a nice range, but I have to say that this is a pretty risky move... 
+Try it sometimes, and memorize your juggles!
+
+
+--------------
+Double Knuckle [u_u/f]+1+2 M 35	***
+--------------
+
+-This can be a useful move in mid range. It does great damage, it knocks down, it's 
+actually best to use it on grounded opponents who are trying to get up! Other than that, don't know, read what Ikazushi has to say.
+
+IKAZUSHI: Useless really 'cept for backrolling and tagging out ppl (and especially if
+nothing else in range). VERY bad recovery (-16 frames, unlike King's +2 =P).
+
+
+----------------------
+Delayed Double Knuckle [u_u/f]N+1+2 M 35		**
+----------------------
+
+-See Double Knuckle. This one has even more range due to a little hop at the beginning. Cool 
+and funny looking IF you hit!
+
+IKAZUSHI: Even more useless as it's slower. No point getting that range if it takes
+so long to come out that the opponent has time to move from one end of the
+screen to the other...
+ 
+
+
+------------
+Hunting Hawk u/f+3,4,3 mmh 15,14,25		***
+------------
+
+-If you do u/f+3,4, and it's blocked, input the last 3 although it will not come out. It will 
+give you some nice frame advantage... This move can be useful in juggles after d/f+1+2, or when 
+hitting approaching opponent in mid range as an anticipation! You can also use it after 
+performing Waning Moon throw!!!
+If you have some problems with diagonals at your arcade, don't even bother with this! Anyway, 
+if you manage to hit them, the overall damage will be 54! Cool, eh?
+
+
+-------------
+Windmill Kick u/b+3 M 20 * juggles *	*
+-------------
+
+-This is one of True Ogre's juggle starters, and it's one of the worst (if not the worst) in 
+the game. I mean, come on, it doesn't combos with its Tooth Fairy part, except on big characters
+and even then overall damage is poor (45). Avoid this!
+
+
+--------------------
+Windmill-Tooth Fairy u/b+3,2 Mm 20,25 * juggles * 	*
+--------------------
+
+-See Windmill Kick above. Nothing good to say about this move... Actually, the only possible use
+of this is against the reversal-happy person who tries to reverse the Tooth Fairy part, since 
+it's extremely easy to chicken it, just to piss him off! Hehe, I might try that one of these 
+days again...
+
+
+---------------
+Heavy Body Blow WS+2 m 25 * double-over stun on CH * 		****
+---------------
+
+-OK, the legendary Kazuya's punch. It causes double-over stun on CH, and it happens often, after
+you duck some high-hitting moves. It can be escaped by tagging out (boo!), but:
+
+1)It has absolutely great range, and you can do it as d~df,N~2 (instant WS move)!
+2)If they miss the opportunity to escape the stun, you can perform such a great, damaging combos
+that you (and him) will remember that till the end of your life (OK, I'm exaggerating, but 
+it's really good, just see the juggle section).
+3)If they tag out from a mid range, burn their second character with Blazing Inferno for 
+another double-over stun (not on Jacks/Bryan), and insane follow-ups, or go for a hop kick 
+juggle, d/f+1+2 juggle, FC,df+2 sweep, b+2+3 Killing Blow unblockable, Serpent's Venom/Deadly 
+Slice unblockable, whatever... True Ogre has some great options when someone's tagging out, heh...
+
+IKAZUSHI: Poor startup and recovery. Not too good to use, cept maybe against
+intermediates and lower. Good players will escape (and although on CH you get
+double over stun and it's harder to escape, it's not likely to happen).
+
+KARACHA: This is one of the rare points where I cannot agree with my friend Ikazushi. WS+2 cannot be reversed (except Jin and Jun, but even players who play these characters are not trying to reverse it too often, due to high-risk factor). It has such a good range, and if they block at the edge, you're quite safe! This time I'll have to quote ILUVMOMO: 
+
+"I think you need to stress more on the range factor for T.Ogre's Demon Gut Punch (aka WS+2) Since it has so much range (which you mentioned) even when blocked at the maximum range, T.Ogre is relatively safe compared to Kazuya if his DGP is blocked since Kazuya's DGP has quite poor range." 
+
+So there...
+
+
+
+-------------------
+Infinity Kick Combo WS+3,3,d+3,3... mmlm 10,25,15,10...	***
+-------------------
+
+= Infinity Extension u+3... h 15... 
+= Infinity Extension d/f+3... m 15... 
+= Infinity Extension d+3... l 10... 
+
+-First 4 kicks can be very useful, the damage is 60, and no one can interrupt this, even with a low jab. However, if you become too confident and use more that 4 kicks, your opponent will reverse or parry you, dash back and counter with a deathfist for example (ouch!), or sidestep 
+you for a free back throw!!! Be careful when using this, ie. don't mash that 3 too much!
+
+IKAZUSHI: I usually do WS+3,3,d+3,3 and medium standard players and even better sometimes get hit by the low kick. However, if they start lowparrying go with WS+3,3,df+3 as it's safer.
+
+
+
+------------
+Tsunami Kick WS+4,4 mm 13,21		****
+------------
+
+-Good Damage and speed, it's uninterruptable once the first one hits, or it's blocked. The 
+first kick takes only 11 frames to hit; it's a very good attack overall...
+
+
+-----------
+Rising Kick WS+3+4 h 28		***
+-----------
+
+-Solid damage, solid speed (16 frames), but why to use it when you've got WS+2, or WS 4,4_3,3!?
+
+
+-----------
+Groin Punch FC,f+1 m 30 	***
+-----------
+
+-It's somewhat slow (22 frames), but it has good range and if you hit with this, you will have 
+the opportunity for painful okizeme, not to mention great damage it does by itself! 
+If they block, you will have -14 disadvantage, but they are slightly pushed back, so it's not 
+too bad...
+
+
+----------
+Power Slap FC,f+2 M 30 * stuns on CH *   ** if used on a standing opponent,
+----------			                 ***** if used as an okizeme or as a juggle ender
+
+-What a strange move!  Slap does great damage, and if you're using this as an okizeme, or as the juggle ender, it simply rocks! Its range is unbelievable, it cannot be reversed, what else can I say? But if you use it on a standing opponent, what a strange move this is... First of all, if you want to use it on a standing opponent, you have to counter with it (and then you have good okizeme guaranteed for an insane damage)! If you can counter with this consistently, than you don't need this, or any other TTT manual! If they block, you will have -26 disadvantage (!), and if you just hit (non-counter), you'll have -15 (!!!)
+Anyway, use it as a juggle ender, and your opponent will start crying in desperation, and if they just stay on the floor, slap them over and over again, give them what they deserve!
+
+
+------------------
+Low Backhand Sweep FC,d/f+2 L 25 * floats *	****
+------------------
+
+-Here is one of the best moves which comes from the full crouch. Actually, you don't have to be in FC in order to do it. You can simply hold D/F, until True Ogre starts crouch walking. At that moment you press right punch and voila (D/F:2)!
+It does great damage, it hits low and ground, it floats, which means you can do some simple but damaging combos afterwards... Recovery time is poor, so be sure to hit with this, and you won't be sorry! People who don't know True Ogre tend to eat this move all the time. If you play against more experienced person, beware! They will know how to block it, so you can use WS+2_3,3_4,4 or FC+3,3,3_N+3 for some confusion! Variety is the key here!
+
+
+-------------
+Snake Creeper FC,3,3,N+3 LLm 12,19,25 * last hit juggles, combos on CH *   **** 
+-------------
+
+-Again that FC game...If the first hit counters, your opponent can kiss 50%+ of their lifebar 
+goodbye (even the strongest characters in the game such as Gun Jack)! All 3 kicks are 
+guaranteed in that case, third one juggles, and this leads into some of the most damaging 
+(yet easiest) combos in the game!!! If it's not a counter, you can simply use True Ogre's next 
+move.
+
+IKAZUSHI: It's pretty easy to tell the difference between the last kick so don'toveruse as the recovery on either isn't good. Not sure, but some ppl claim that this doesn't combo on CH anymore, but I dunno. 
+
+KARACHA: Whenever I managed to CH the first kick, the last one was guaranteed! If anyone has more info on this, we would appreciate if you e-mail us!
+
+
+
+
+-----------
+Snake Kicks FC,3,3,3 LLL 12,19,7		***
+-----------
+
+-This hits often and it does 38 points of damage. If you know your opponent likes to low parry, use N+3 version above! If you hit with all three kicks, you will have -3 disadvantage. No one really retaliates so quickly after being hit with this move, so you don't have to worry too much. You can simply use your FC+1 low jab to stay in FC or WS 3,3,d+3... But if you know they like to low parry, don't overuse this!
+
+IKAZUSHI: Notation I put as d+3. This is even worse than the other one as you can get lowparried or blocked and WS juggled... Not really much use.
+
+KARACHA: Some people say you have to do FC,3,3,d+3, but whenever I do FC, I just hold D/F and pres 3,3,3. It works 100%, so use this instead bothering with extra d stick motion!
+
+
+
+------------
+Azteca Shoot SS+4 L 22 * floats *		***
+------------
+
+-This is a good new move for True Ogre, the only one which comes out of sidestep. Its speed is not bad (18 frames) and the range is solid. If you hit with this, you will have some nice combo options. Learn it and use it, just don't become too predictable with it!
+
+
+----------
+Evil Wheel u+3+4 m 25		***
+----------
+
+-Nice damage, 19-frames move which gives you +3 advantage if it hits, and +1 if it's blocked! It can be used in juggles but its range is not that great. DO NOT WHIFF with this move, and remember that you can do u+3+4:D to recover FC (actually, True Ogre recovers kinda half-crouching, and than he stands up. If you press D before he stands up -practice this- you'll cancel that, and end in FC! I like to call this technique WSC - while standing cancel)! Sometimes, people will try to retaliate with their high punches  (Law, Heihachi, Jin, etc.) or throws (King, Nina, Yoshi for example), and you can counter with FC+3, leading into crazy, extremely damaging juggles!!! If you do u+4+3:D/F, you'll not only avoid high punches (leading into CH, FC+3), but you'll parry anything low they throw at you, or reverse ANY punch which require d or d/f motion, including low jab (see Deadly Feast reversal). Nice, eh? 
+ILuvMomo and others, hope this helps!
+
+
+------------
+Buffalo Horn d/f+1+2 M 25 * juggles *	  **** 
+------------
+
+-This is True Ogre's best juggle starter! Yes, it takes 24 frames to wind up, but it has good priority, juggles on every hit, and will avoid some high attacks during execution! It will also hit ground, so you can use it as an okizeme tool!If your opponent becomes predictable with high hitting strings from mid range, this is THE juggle starter of your choice! It leads to simple and very damaging combos, cannot be reversed (with one exception, see the end of this section), has excellent range, and gives you -8 disadvantage if blocked, which is totally safe since the opponent is pushed back... You have to learn when to use it and it will counter 90% of the time, making the damage absolutely great! It can be used as a good okizeme tool, even in some combos (after FC, d/f+2 sweep), and a perfect juggle starter when your opponent is tagging out! Better speed would make this move too dangerous I guess... The only problem is that sometimes you'll perform Blazing Inferno instead, and you'll probably be very sorry for that. The best way to perform Buffalo Horn is:
+D/F~1+2. If you do joystick input and buttons at the same time you have 50% chance to do his standing fire attack (especially on bad joysticks)! Practice this!
+
+One more thing. If your opponent is playing True Ogre against you, and you see him crouch walk, use Buffalo Horn. He will reverse automatically, and you can escape immidiately by pressing both punches. Use this to piss him off, and to show that you're in total control of the match. Huge style points for you (and some psychological advantage too). 
+
+
+----------------
+Low Tail Spinner d+3+4 L 25		***
+----------------
+
+-This is a very useful okizeme move. It does good damage, hits grounded opponents, but it's not very fast (25 frames) and it should never be used on a standing opponent, since its range is not that great (it will hit at the edge of the close range, but then it can be easily interrupted).
+
+
+----------------
+Mid Tail Spinner d/f+3+4 m 25		*
+----------------
+
+-Mid Tail Spinner is not a good move; its range is not good, the damage can be better, and, basically, you have tons of better moves to use in a serious match!
+You can use it sometimes as a juggle ender though...
+
+
+-----------------------
+Double Mid Tail Spinner d/f+3+4,3+4 mm 25,25	*
+-----------------------
+
+-See Mid Tail Spinner above. You can also do d/f+3+4~D/F, to do just one spin, and end in backturned (BT) position. If you do that, you'll end in BT with disadvantage of 10 frames and no special moves to do (except turnaround throw), so what's the purpose of this maneuver!? 
+
+
+------------
+Deadly Feast FC,d/f -  * reverses d or d/f punches, can be escaped with 1+2  ***
+------------
+
+-This is True Ogre's reversal; it cannot be chickened, but it can be escaped with pressing both punches which doesn't happen very often... You have to be in
+FC position first, walking forward, and if someone tries to hit you with an uppercut (Yoshi, Nina...), smash you with d+1 Tile Splitter (Paul, Heihachi, P.Jack) or basically perform any punch which requires d or d/f joystick input (Jin's d/f+1,2 , King's d/f+1) they will be auto reversed ie. True Ogre will perform Kuma's "Bear Bite", also known as "Men Eater" throw. It does good damage, it's rarely escaped, but it's quite hard to do consistently. Basically, when you are in FC position you can crouch walk and poke with your FC+1 low jab, hoping that they'll try to interrupt you with an uppercut etc... It's more of a show-off move than anything else I guess.
+
+
+UNBLOCKABLES:
+============
+
+True Ogre has - together with Yoshi - the best unblockable arsenal in the game. Unlike other characters' unblockables, some of these can be very useful, and you should use them at least 2-3 times per match! And, what's also important, some of these unblockables have really good follow-ups, which can decimate your opponent's lifebar very quickly!
+
+
+------------
+Deadly Slice b+2 ! 22		*** 1/2
+------------
+
+-Best used from a medium distance, or when someone's tagging out. You can perform some okizeme afterwards. Use it sometimes, but not too often... It CAN be reversed, so chicken it against reversal-happy persons! I think f,f,N+2 is little bit better, because of its great range, but certain people might have big trouble with well-timed b+2 too! 
+
+IKAZUSHI: This is pretty good when mixed in, but I think a good opponent will always interrupt. The only time I really would use this is if the f,f,N+2 is too "cumbersome" for the situation.
+
+------------
+Killing Blow b+2+3 ! 60 	***
+------------
+
+-True Ogre's BEST big unblockable. It does great damage, has spectacular range, and it's one of your main tools when someone is tagging in! It's maybe too fast for such damaging unblockable (56 frames). This is one of True Ogre's scrub killers (from mid distance of course), and it also works wonders against CPU. You can also connect this after Blazing Inferno for easy 100 points of damage!
+
+
+---------------
+Serpent's Venom f,f+2 m! 15,20 * 2nd hit can be escaped with b,b or SS *  ****
+---------------
+
+-This is True Ogre's best unblockable IMO (some people say b+2 or f,f,n+2 are better, but it all depends on your opponent's gameplay). Great range, executes in 20 frames which means it's the fastest unblockable in the game with an exception of Yoshi's b+1+4 sword reversal (and that one usually cannot be used as a real unblockable). First part can be blocked, and second part can be escaped, but if you hit, you'll have a free ground hit (or d+1, FC,3,3,N+3) making the damage really good (over 50 points)!!! If they escape with u_d and try something, do d+1 right away and you'll hit. If they escape with b,b at the edge of its range, well, you're basically screwed (EWGF anyone?). It doesn't happen too often though (in order to escape with backdash, they have to be hit at the edge of Serpent Venom's range), don't worry. 
+
+Use this once per match (if you use it more against good player, you'll pay for that), from mid distance, throw it out almost randomly, and you'll see that even some experienced players will not escape it on reflex! Every good player thinks: "No one will use this move since it can be escaped" and all, and that IS the reason why it's GOOD to do it as a surprising attack! Once per match is probably enough, since you can really perform some damaging, guaranteed attacks afterwards. Please, don't overuse this, and don't become predictable with it!!!
+
+IKAZUSHI: This is OK, but good ppl will escape and juggle your ass. It's an ok move, with some nice followups, but against skilled EWGFing Mishima players, it's a high risk move. Pretty situational.
+
+
+------------
+Deadly Slash f,f,N+2 ! 25		****
+------------
+
+-Almost as good as Serpent's Venom; best used at mid distance, especially against turtles. It has excellent range, you have guaranteed okizeme afterwards, what else do you want? There's one little trick involving d/f+2, upper elbow and Deadly Slash - I'll just repeat what I said about d/f+2:
+
+"If it counterhits, it juggles, and you can do some easy, yet very damaging combos. If it hits as a "normal" hit, it staggers, just like Jin's df+2 uppercut. Your opponent will walk backwards, holding their nose, and you can try f,f,N+2 unblockable after it. You'll be surprised how many times this combination hits, putting you in position for perfect okizeme. If they don't know that the stagger is escapable by holding F, you can be really cheap and use Blazing Inferno and your favourite combo afterwards. I love this move!"
+
+OK, this trick isn't guaranteed, but after being hit with the uppercut, people usually block, and/or hold back to stay out of the f,f+2 range, and than you use the unblockable with even better range! Of course, they could hold down, to fall on the ground, but then you have f,f+1+2 (and it will not happen often anyway)... If you manage to do both hits, you can do Low Tail Spinner (d+3+4), for cca 60 points of damage!
+
+Some people say this attack is better than f,f+2, but against good pokers, you won't have ANY chance to use it, while f,f+2 is good surprise move from mid distance (once you get there). Deadly Slash is too easy to interrupt once you know True Ogre better!
+I think (and I might be wrong), that Deadly Slash IS ultimate unblockable against turtles. Some attacks will work well against certain kind of players. Some other people will have no problems with those moves... That's why I always say: "Know your opponent!!!" 
+
+IKAZUSHI: Very good unblockable. Pretty quick and also when you dash in many an opponent will wait for an attack and get hit, and then hit again by d+3+4. This is great against rising opponents as well as ones tagging in.
+
+KARACHA: Again, I'll agree with IKAZUSHI, but be careful if you want to use this when someone's tagging in. I think that b+2 from up close is safer, d/f+1+2 sets up more damaging combos and from mid distance there's nothing better than Blazing Inferno in whole TTT!!!
+
+
+
+------------------
+Dragon Power Punch b,b+1+2 ! 100		*
+------------------
+
+-If you hit with this, your opponent should switch from TTT to Mah-Jong. It's very slow and it does 100 points of damage. I don't know any good situation for using it. Stay away from this move!
+
+OK, I actually know one good situation (thanks goes to DOINKER for reminding me):
+Use it in close range IF (and I say IF) you connect Blazing Inferno in its last hitting frames [someone's ducking Blazing Inferno, and gets up too early. This WILL happen against computer, but not very often against human opponent]. Damage? Nothing special - at least 120 points hahaha!!!!!!! Actually, this is very cool combo and all, but if you manage to do it, write the date and time in your diary. You are supposed to remember such rare moments, right?
+
+
+---------------
+Bloody Scissors d/b+1+2 ! 60		*
+---------------
+
+-Slow and not so powerful. It tracks well, but it never hits. If you really want to use "big" unblockable, use b+2+3. It is faster, it has better range, it's far superior than this. Bloody Scissors are totally useless...
+
+
+---------------
+Burning Knuckle u_u/f~d+1+2 {!} 45		***
+---------------
+
+-This is not bad at all! You can use it from far away if you feel lucky; you can also try it on grounded opponents, or those who are tagging in! It combos with Blazing Inferno, and it looks so cool. If the opponent isn't very far, True Ogre will turn around in the air and hit them in the back. Try it, see what happens! 
+
+IKAZUSHI: Sorta OK, but can be sidestepped so easily... also way too slow to hit an idle opponent. You have to anticipate so they like roll back or something, but that doesn't happen 
+too much with good opponents.
+
+
+
+-----------------------
+Delayed Burning Knuckle [u_u/f]N,D+1+2 {!} 45	**
+-----------------------
+
+-Very similar to the Burning Knuckle above. You do a little hop forward, and then you perform the unblockable. Slow, due to u/f motion...
+
+IKAZUSHI: Useless IMO...
+
+
+----------
+Hell Flame 1+2 (!) 30  * double over stun * 	*
+----------
+
+-OK, Hell Flame looks good, the damage is not bad, but everyone will SS twice and punish you for using it - except when you do it in some crazy, unpredictable moment - and if you do it too close to your opponent, he just has to f,f for a free back throw/juggle. Don't use it...
+
+
+---------------
+Blazing Inferno d+1+2 ! 40  
+---------------
+ 
+ * double over stun, well, sorta. It actually has unique hit property *   **** if used correctly              
+
+-Don't use it on a standing opponent, it's so easy to see it coming! Everyone will duck/crouch walk and come back with the powerful WS move that juggles, or even worse -stuns, leading into juggles! But you can use it when they tag in, and then it hurts, I mean really, really hurts. It causes double over stun and you can perform some great combos after it! It was useless in T3; now, with the addition of TAG system it's quite good! Remember that Bryan and Jacks WILL NOT be stunned (OK, I understand that for Jacks, but Bryan!? He's still human, the fact he's a zombie doesn't change anything). 
+
+Actually there are two situations for using this on a standing opponent:
+
+1) Unblockable Shield :  3 seconds till the end, you have the advantage. Your opponent is far away. You use  Blazing Inferno, and there's nothing they can do, except to duck and wait for: "Time UP!" Cheap and effective!
+
+					or you can use it as a 
+
+2)Tool for shortening the distance between you and your opponent. If he's on the other side of the screen, do it twice, and now you are in perfect range for fight! No need for famous ff, SSR, ff, ff, bb, SSL, ff etc.
+
+
+IKAZUSHI: They don't double over stun, meaning moves won't hit with normal properties.
+They are effectively juggled at the time.
+
+KARACHA: Absolutely right. They are effectively juggled, in fact they just float in the air for loooooooooooong time, allowing you to recover and to use some great combos without difficulty. However, you cannot throw them while they are "stunned", 'cause they are "officialy" in the air, OK?
+
+
+----------
+Owl's Hunt [KND_PLD]3+4 ! 40 		**
+----------
+  ~f Warp Behind				*** 1/2
+  ~u Side Warp				***
+  ~d Side Warp				***
+
+-Everyone knows Owl's Hunt and how to avoid it, but not many people expect you to hit from the back or from the side. Sometimes, after knocking you down, they will come close thinking: "OK, I'm close enough; if he tries Owl's Hunt, he'll fly over me, and I can run into him, grab him from the back etc."
+WRONG! If they try this, KND 3+4~f is a sure hit, and side warps can prove useful too! This is a very evil move indeed! Sometimes, it's your only choice when you are in KND position, since True Ogre is huge, and they can try some unblockables or other damaging moves (Thunder Godfists?) on you. Don't let them do that!
+
+IKAZUSHI: Not too useful. As soon as they seen a big hulking True Ogre in the air after a knockdown any decent player will duck, regardless if it came from behind. The rare occasions you'll use this is if you know your opponent will do something to hit you with slow recovery and they whiff and you hit them with it.
+
+KARACHA: Ahhhhhhh, that's a common mistake when you mention KND_PLD 3+4~f! Whenever they rush in instinctively to try some okizeme, you can use Warp Behind version (some people said to me: "Hey, that was really evil!",hehehe. It will hit them before they see "big, hulking True Ogre" in the air. Even top players (look at one of the Tomhilfiger-Shauno matches [tom-sha4]: Hei VS True Ogre from electriccancel.com) make this mistake sometimes and thay suffer huge 40 points of damage! No offence Tom, you're a great player, this is just one of many examples... Props to you and Shauno for nice, attractive final matches! 
+
+
+
+******
+COMBOS
+******
+
+Ah, the fun part... 
+
+True Ogre is actually ground combo/stun fighter, one of the best, if not THE BEST in TTT. Yes, he has very powerful juggles, but he doesn't have any fast launchers [imagine True Ogre with 
+(E)WGF *sigh*] Here is the list of his juggle starters:
+	
+		u/f+4 Hopkick
+		u/b+3 Windmill 
+		d/f+1+2 Buffalo Horn
+		CH d/f+2 UpperElbow
+		CH FC 3,3,N+3 Snake Kicks
+		CH d~D/B+4 Blazing Kick
+
+
+True Ogre has some other attacks with "float", "crumple" or "stun" property; you can perform true combos afterwards, but not real "juggles":
+
+		FC, d/f+2 Low Backhand Sweep (floats)
+		SS+4 Azteca Shoot (floats)
+		D+1+2 Blazing Inferno (stuns/floats, whatever)
+		CH FC,f+2 Power Slap (crumples)
+		FC, f+1 Groin Punch (crumples)
+		f,f+2 Serpent's Venom (crumples)
+		b+2 Deadly Slice (crumples)
+
+OK, here's the list of the most useful (not all possible) combos for True Ogre:
+
+JUGGLES:
+=======
+
+AFTER THESE JUGGLE STARTERS:  d/f+1+2 or CH FC 3,3,N+3:
+
+	-U+3+4, d/f+1 optional, d+2, FC,f+2  - This is quite hard, especially d/f+1 after Evil Wheel (U+3+4) part. Your timing has to be really good here. If you use only U+3+4, d+2, FC,f+2, it's easy and reliable...
+
+	-d/f+1_u/f+4, d+2, FC,f+2  - Nice and easy, great damage. I recommend these...
+
+	-4.  Excellent damage for such a simple finisher. Use it if you cannot remember anything else...
+
+	-d/f+1~D/F+3,3,N+3 - easy, good damage. His best juggle, considering damage and difficulty, IMO. Highly recommended. This cannot be tech-rolled (unlike T3).
+
+
+AFTER u/f+4 HOPKICK:
+
+		-d/f+1~D/F+3,3,N+3   - great juggle. Use this most of the time.
+
+		-d/f+1, d/f+1, d+2, FC,f+2 - Hard, but it can be done with some practice.
+I still prefer the first one.
+
+
+AFTER CH d/f+2 ELBOW UPPERCUT:
+
+		-4.   Excellent damage. Don't use anything else, you can have all sorts of trouble after performing some small combos!
+
+AFTER CH d~D/B+4 BLAZING KICK:
+
+		-d/f+1, D/F+3,3,N+3 - some other things are possible, such as d/f+1,4 or d/f+1, 1,2,2, but they are not even close to D/F+3,3,N+3 ender, so why bother?
+
+AFTER u/b+3 WINDMILL:
+
+		-2 TOOTH FAIRY. Works on big characters. Don't use this starter, it's not worth it, believe me...
+
+
+OK, now a little trick: If you are sure your opponent is NOT a tech roller, and you use Power Slap as an ender, wait for him to HIT the ground, then FC, f+2 him! Guess what? Full 30 points of damage, which makes CH FC+3,3,N+3 the best combo starter in the game (whole combo is 110+ I think, but I might be wrong here)! It's not guaranteed though, so don't blame me if you get nailed 'cause you've tried it! And, of course, it will not work in high competition.
+
+
+IKAZUSHI: My standard juggles:
+(uf+4)_(CH d,DB+4)_([ub+3],2),      df+1, FC+3,3,N+3
+FC+3,3,N+3,                         df+1, FC+3,3,N+3
+df+1+2,                             u+3+4, d+1_2, FC,f+2
+df+1+2,                             df+1+2, d+1_2, FC,f+2
+
+
+
+
+STUN/FLOAT COMBOS:
+=================
+
+AFTER CH FC,f+2
+
+	-FC,f+2 or
+	-D+4,4		-Ugh, what a damage in 2-3 hits (50-60+)!
+
+
+IKAZUSHI: Here's a nice one, can be teched but anyway:
+CH FC,f+2, d+1, FC,f+2
+
+AFTER f,f+2 UNBLOCKABLE
+
+	-D+4,4
+	-d+3+4    -Both are nice and easy. Alternate between the two to show some basic skill...
+	- ~D/F+3,3,N+3    
+	-d+1_2(?), FC+2   - easy, good damage. (thanks to Doinker [aka David Ishikawa] for this simple, yet great combo! It's strange I never tried it... By the way, I'm not sure that d+2 is working, but d+1 IS) 
+	-d+1 (has to be close range hit, I think), FC, 3,3,N+3
+
+AFTER b+2 UNBLOCKABLE
+
+	-d+3+4    -Simple, yet effective. Is it possible to do something else? Probably, I haven't tried yet.
+
+IKAZUSHI: Pretty sure d+3+4 is the best thing guaranteed after.
+KARACHA: Well, 50 points isn't bad, eh?
+
+AFTER FC, d/f+2
+
+	-f,f+1+2 or d+3+4  -The easiest one, and it's damaging too.
+	-d/f+1+2 (small lift), d+1, FC,f+2   -Style points, great damage, crowd pleaser. One of the coolest True Ogre's combos.
+
+IKAZUSHI: f,f+1+2 ain't so good no more, but reliable at least, but I think just hitting with the horns will do same damage anyway, and anything you combo with after the horns is a bonus =D
+FC,df+2, df+1+2, d+1_2, FC,f+2 (which you have but anyway).
+
+
+AFTER FC, f+1
+
+	- ~D/F+3,3,N+3 definitely better and more damaging then d+3+4 Low Tail Spinner.
+
+AFTER d+1+2 Blazing Inferno UNBLOCKABLE (not on Jacks/Bryan. Damn!)
+
+	-Another Blazing Inferno. Very damaging solution and it looks nice, too.
+
+	-u/f+1+2~d. Another evil unblockable. Huge style points and it's his most damaging simple combo after Blazing Inferno. If your diagonals are not that good, forget it. All other solutions are good too.
+
+	-f,f (dash in, if in mid range), d/f+1_2, d+2, FC, d/f+2. Style points again. Easy to do...
+
+	-f,f dash, b+4 (You'll have to cancel the dash with b input if you want roundhouse. Otherwise, you'll perform Axe Kick, which sucks!) . Good ol' roundhouse. It will do the job more than well for a single hit. But if you really want to keep it simple use
+
+	-f,f+1+2 Medium Power Punch (60+ damage, good position afterwards)
+
+	-f,f+4 Bazooka Leg, d+1, FC, f+2  (Thanks to Night for this one.)
+
+
+If you see that you need only one hit after Blazing Inferno to kill your opponent, be THE bastard:
+
+	-1+2 Hell Flame. Here's rare opportunity for this to connect! 
+
+
+IKAZUSHI: d+1+2, df+1+2, d+1_2, FC,f+2
+
+KARACHA: I alredy added some of your juggles before, so I'll just cut your comment short here. BTW,all combos which include f,f+4 Bazooka Leg are not very reliable, due to strange recovery time.
+If you can hit in its last hitting frames, go for it. If not, don't bother, you cannot chose anything wrong and/or weak here, right?
+
+AFTER SS+4:
+
+	-I'm not sure if the D/F+3,3, N+3 is guaranteed, but FC, f+2 definitely is. Use this!
+
+AFTER WS+2 (this is not guaranteed, 'cause they can tag out; if they do, d/f+1+2 them immediately):
+
+	-4. It's easy to miss some small combos, but this is always a sure hit. 50+ damage anyone?
+
+	-If you are close enough, you can try d/f,d/f+2+4 throw, with all the possible Waning Moon combos afterwards! Huge!
+
+	-uf+4 hopkick, any standard combo (d+2, FC,f+2 for example). Be careful, your WS+2 has very good range; sometimes you'll have to dash in for the hopkick to hit. It's much easier to stick with simple 4, or even f,f+4 Bazooka Leg for good damage and excellent positioning afterwards!
+
+AFTER d/f,d/f+2+4 Waning Moon throw:
+
+	-f,f,f+3 Slash kick. But if you feel lucky, you can even try Blazing Inferno. If you hit, run in and perform any Blazing Inferno combo. This really hurts!!!
+
+	-f,f,f run in (b to cancel running), d,d/b+4 juggle into any Blazing Kick juggle. This is possible if they turn around and try something.
+{*I guess Night was right about this on the Tekkenzaibatsu Forum. Here's his recommended combo -Karacha-*}:
+
+-Waning moon, run up, d,db+4~5, f,f,N+1+2... 
+Nice, very nice, what else can I say?
+ 
+I heard there is Douzono's video involving d,d/b+4, but I must say that I haven't seen it. So there... If you know where to find it, send me the link, please!
+I'm not sure what will happen after you connect Blazing Kick on backturned opponent, because I use THIS mean combo after Waning Moon:   
+
+	-f,f,f run up, u/f+3,4,3. Higly recommended, reliable and damaging! 
+
+
+
+
+*******
+OKIZEME  (LEARN OR DIE SECTIOM)
+*******
+
+I usually don't use term "The Best" to describe some aspect of gameplay in TTT, but I have to say that True Ogre is THE BEST okizeme fighter. OK, Nina and Anna are great with their annoying d+3,2 and d+4,1 etc., but True Ogre has some really mean okizeme tools that can, when used properly, completely destroy your opponent in few powerful blows. 
+
+-d+3+4 Low Tail Spinner is almost always guaranteed after you knock your opponent down in close range, and it does 25 points of damage. Use it if you need quick, non-fancy damage after ANY crumple type unblockable: f,f+2; f,f,N+2, b+2. If you knock your opponent on the ground, you can also dash in and d+3+4. He rolls or stays on the ground, doesn't matter - d+3+4. Dash in again and REPEAT UNTIL THEY LEARN OR DIE!
+
+-When your opponent is knocked down on a medium distance and tries to get up, f+2 Power Punch (28 damage) will send him back to the ground. This can be especially frustrating for intermediate players who will often call you cheap because of that. But it's not cheap; it's a proper way of using True Ogre's powerful attacks. If you don't use your advantages, you'll be sorry... 
+I know some people who constantly roll with 1 when they are knocked down on mid distance. I use that predictable moment and I immidiately follow knockdown move with f,f dash, SSL (from the left side)~f+2. Another guessing game for those who like to stay on the ground involves SS+4:
+	f,f run up, SS+4.
+So you can always keep them guessing betwwen Mid-hitting f+2 and Low-hitting SS+4. Both of them knock down, so okizeme them again!
+If you don't have any mercy, REPEAT UNTIL THEY LEARN OR DIE!
+
+-f,f+1+2 Medium Power Punch and FC,f+2 Power Slap are absolutely devastating since they do 25/30 points of damage respectively, and if you know how to keep your distance from grounded opponent, you can finish the match using almost only these, well timed okizeme tools. If they stay on the ground for too long (Lei Wulong scrubs), too bad for them... f,f+1+2 is weakened in TTT (40 damage in T3), so its only advantage over d+3+4 is better range. If someone escapes the stagger after d/f+2 ElbowUpper by holding D to fall on the ground, Medium Power Punch is your guaranteed answer. 
+FC, f+2 is one of the best combo enders in the game, and one of the most feared okizeme attacks. You can use it in just about every okizeme situation in mid range, and if someone tries rising mid/low kick outside of their range- counter with Power Slap for HUGE damage plus stun combo afterwards! What can I say except: REPEAT UNTIL THEY LEARN OR DIE!
+
+-d/f+1+2 is not just another good juggle starter. It hits ground, and you can use it as a good, reliable okizeme attack! Be careful, because you could perform Blazing Inferno instead (look at the Buffalo Horn section again)! It will sometimes lift your opponent from the ground, which is more than enough for d+1, FC,f+2 combo. Whenever you use Buffalo Horn on grounded opponent, be prepared for this combo possibility, and try not to miss it. The most common situation is definitely after FC, d/f+2 low sweep. Sometimes you can let them try rising kicks, and anticipate with d/f+1+2 into painful juggle (the priority of this attack is great). Use in close to mid range and REPEAT UNTIL THEY LEARN OR DIE!
+
+-If you know any use of Mishima's (u/f)+4~3, use this in the same way with True Ogre and remember that his body is huge plus that strange tail (range? RANGE!?)!
+You can also try Owl's Hunt variations after 4~3 Demon Scissors if you feel lucky... If they don't learn, guess what?
+
+-Almost all of these attacks can be used in combos (see juggle&combo section), some of them are guaranteed after certain unblockables, rocketing the damage into 50+ spheres. True Ogre has 20-25 frame unblockables, which do 25 points of damage, but they combo into some of these attacks, making them useful even in a very high, "tournament" level gameplay!
+
+IKAZUSHI: I will enlighten you of f,f,N mixup {*ie. he will enlighten you, the reader. I'm already enlightened, hehe -Karacha-*} .It involves f,f,N+2/ f,f,N+4/ f,f,N+3+4.
+
+Basically:
+
+1.If opponent stays down f,f,N+4.
+
+2.If opponent gets up f,f,N+2 (or techs left, dun track right).
+
+3.If opponent backrolls (or is too far away) f,f,N+3+4.
+
+4.To do this effectively just f,f,N as soon as you knock down opponent.
+
+5.For more information on the f,f,N mixup and okizeme get my Ogre FAQ (btw, just for crediting reasons, I got this from Renick's FAQ and he got it from some others ehehehe...
+
+
+
+
+****************
+GENERAL STRATEGY
+****************
+
+-True Ogre is not for beginners! If you want to become more familiar with the game, start with someone easy yet effective (Law, Paul, Bruce), and try not to be too scrubbish (deathfists, too many b+2,3,4's, too many 3,2,1's). If you play against your friends, experiment a little, don't repeat same things over and over again, and you will realize that there's more then just knowing the moves. Hit and block advantages/disadvantages,sidestepping, poking, spacing, chickening, (low)parrying, throw escapes, etc. are actually essential tools for a good gameplay. OK, if you want to play like a scrub, go ahead and pick True Ogre, then use f,f+2, FC+3,3,N+3 or d+3+4 and alternate it with f,f,n+2 and b+2 unblockables. Oh, yes, don't forget f+2 power punch, hehe... 
+
+This way of playing will not survive any serious match, though. They will learn few things eventually and poke you to death, and you'll feel really bad. It's your choice, though.
+
+-So, the most important aspect of True Ogre is definitely spacing. He's the best at mid to far range, and you should always keep that in mind. No one has better range and that's his biggest advantage, but he's not able to survive many face-to-face matches against Anna, Law, Lee or Julia bulldogs... If you find yourself in close combat, you'll have to d+1 (+all the mixups from the FC position you know) or 1,1 your way out of it, in order to gain some breathing space. Use that f+2 power punch (chicken it!) from mid range to push them even further. Use d/f+2 UpperElbow and all the possibilities it gives you on normal- and counterhit. Stay away from your opponents and make them come to you, then use Power Punch, d/f+1+2 Buffalo Horn, b+2, f,f+2 unblockable, d/f+2 etc., or your excellent WS mixups. If you get juggled, True Ogre's giant size is a problem, but you can try his unique juggle escape.
+For example, against Jin:
+(E)WGF launches you, and he continues: b,f+2,1,2.. When you see last hit coming, just press any button, and Jin will probably whiff... This is not very reliable, but it can be useful from time to time... Timing is everything! I'm pretty sure that almost any popular (and predictable) juggle FINISHER can be escaped safely, because they'll need some time to recover, but this requires hours and hours of practicing. I don't know is it worth it or not, but if you have time and you're dedicated, it's always better to know more than less, eh?
+
+-Start the round with 1,1 or d+1, hopkick (if you think they might get juggled. This is risky though), or d+4,4. All of these attacks have good speed and priority, and they will give you enough spacing for your powerful attacks. Don't get too predictable with this. You can also try short backdash into f+2 Power Punch.
+Wait for the good opportunity to use d/f+2 UpperElbow, and try to do some BUFFERING TRICKS. 
+
+BUFFER 1,1 into 1+3;
+       1,2 (blocked) into 2+4 or Waning Moon; 
+       d/f+2 or f,f+4 Bazooka Leg into d/f,d/f+2+4 Waning Moon;
+       d/f+1 into 1+3;
+       WS+4 into 2+4 or Waning Moon;
+	 u/f+3,4 into Waning Moon.
+
+Basically, every attack which gives you small advantage, like u/f+3,4 is excellent for buffering into throw. Every attack which gives you small disadvantage AND IT HAS PREDICTABLE follow-up (like 1,2,[2], d/f+1,[2], WS+4,[4]) which everyone knows, expects and blocks, can be cut short and BUFFERED INTO A THROW! So, instead of leading 1,2 into right backhand, you stop, keep 2, and press 4 for a simple throw, or d/f, d/f+4 for a Waning Moon. Instead of Double Elbows d/f+1,2  you stop after first elbow, keep 1 and press 3 for a throw. These tricks are far from guaranteed, but it will work often, if you don't use them always in the same situations. Buffering works on a wide spectrum of players- from beginners to experts. Just (here we go again...) don't be predictable. Use full d/f+1,2 two times, then switch to d/f+1, 1+3 etc...
+
+These are good techniques, which will win you many matches. Read some buffering guides on TekkenZaibatsu, and make your own little tricks. 
+
+
+-Don't show any mercy when your opponent is TAGGING IN! Use that BLAZING INFERNO if you are standing. You can do more damage after it then after d/f+1+2 juggle starter, and it's much safer. If you whiff with the Buffalo Horn, you're screwed, and Blazing Inferno will always hit allowing some really damaging, cool combos, if you want to show some skill. If you let them come to you, they will have no mercy either... OK, if it's a really friendly, non-tournament match, you can do whatever you want, that's why practice is for, but be serious in a serious match, that's what I wanted to say... Another good moves for saying "WELCOME" when someone's tagging in are:
+
+1. b+2 unblockable in close range. Follow with combos!
+
+2. f,f+2 in close to mid range. It's very hard to escape after tagging in. Combos again!
+
+3. f,f, N+2 mid range unblockable. Combos? Definitely.
+
+4. b+2+3 long range unblockable. 60+ damage so: No combos here, sorry!
+
+5.If you already did d+3+4, and your opponent had to tag out, DO NOT TRY to stand up and execute
+unblockable attacks! Every move which recovers crouching has safe and damaging follow-up for these purposes: FC, d/f+2! Combos? How can you forget our specialty: d/f+1+2, d+1, FC, f+2!?
+
+
+-Let me just say few more words about possible tag partners for True Ogre.
+Pick someone who can fight close range, in case that your opponent knows your tricks, or pokes like madman. Pick someone with reliable juggle starters and good speed. If you juggle someone and you have the possibility to tag to True Ogre, do it! You cannot find anyone with better, more powerful air combos. That's exactly what True Ogre needs: good and abusable juggle starter! Try Law, if you can play him. He has all: superb defence (he can parry virtually everything), juggle starters, excellent speed and poking ability. Bryan is also good - excellent mixture of speed and power. Using True Ogre and Bryan you can really destroy your opponent with few powerful hits (same thing goes for Bruce). Any member of the Mishima family is great (my favourite is Kazuya, but all of them are more than good), they have all: crouch dash game, and THE juggle starter - (E)WGF, which you can really abuse. Lei is also good partner for True Ogre. He has excellent defence and is known as the king of mixups. Not many good juggle starters except the hopkick, but he has other useful tools. Just keep one thing in mind:
+No one except golden Tetsujin will receive powerup if True Ogre is hurt. Deal with it! Fortunately, True Ogre knows how to take care of himself :)
+
+
+
+
+**************
+CUSTOM STRINGS
+**************
+
+True Ogre does not have great poking ability. So, your main goal will be to keep those annoying
+Annas, Laws, Yoshis (especially Yoshi because of his b+1+4 Flash, which is absolutely deadly against our huge monster) etc. at a safe distance. He doesn't have long, frustrating strings, but he can lure his opponent into eating some UpperElbows and powerful WS attacks! That's why every good True Ogre player knows some basic custom strings. So, True Ogre needs custom strings for pushing his opponent further -not to come closer!- since all of his attacks have great range, and to force his opponent(s) to make mistakes. These strings I've got here are just examples. Once you become more familiar with his fighting style, you can invent your own and make different combinations on the fly...
+
+First of all, let's see how many fast attacks True Ogre has:
+	
+	1,1
+	1,2
+	d/f+1_2_1,2
+	d+1
+	d+2 (little bit slower than d+1, but has more range)
+	d+4 (you have disadvantage after this, but can be good for mixup)
+
+These are you main tools for poking. Not many, eh? But, you have to know that these fast arts have to be mixed with True Ogre's well-timed backdash, powerful WS-, FC- and some other moves:
+
+	WS+3,3,d+3_d/f+3, 3
+	WS+2
+	WS+4,4
+	FC, d/f+2
+	FC+3,3,3
+	FC+3,3,N+3
+	f+2
+	u+3+4
+
+Now, the number of possible cominations and mixups is much better, isn't it?
+
+Many custom strings will start with 1,1 or 1,2 punches:
+
+1)	1_2, d+1, D/F+3,3, WS+3,3, d+3_d/f+3, 3
+
+This one is nice. First 3 attacks are fast and safe. When you're in FC, your opponent will probably expect FC, d/f+2 or WS+2; he will wait to see what will happen -both attacks are possible to block on reflex- and will probably eat first FC+3. The rest is risky since you have
+-3 disadvantage. If he eats another low kick, he will try to parry the third, and he will eat Infinity Kicks, at least first 2-3. If he decides to block the 3rd kick low (not many people will dare to try this), go for N+3 version for a nice juggle! Now, if your opponent blocks 2nd 
+Snake Kick, that's not good, because you have -19 frames, but you have to take some risk...
+(Just to remind you, you can always cut this short after 1st Snake Kick, and throw FC+1 low jab to continue with your FC/WS mixups...
+
+2)	1,1_2, d+1, D/F+3, FC+1_2, FC,d/f+2 {low}_WS+2_WS+3,3...{mid})
+
+Now, try those Snake Kicks 2 times after d+1, and when they start to learn, go for WS+2 and 
+WS+3,3_4,4 (all mid hitting moves):
+
+3)	1,1_2, d+1, WS+2_WS+3,3_WS+4,4
+
+OK, how about this: 
+
+4)	1,2 (they expect the last 2 - right backhand which hits high - and duck to punish you with their own WS setup...). Now instead of finishing like this:
+
+      1,2,2 you do:
+
+      1~2 (they crouch), u/f+4 hopkick!
+
+Now some setups with ElbowUppercuts ([number]=buffer):
+
+5)	1,1, d/f+[1],3 throw
+6)	1,2  d/f+[2]~d/f, d/f+4 throw
+
+Here's more (FC game again, this time start with simple right jab, which is also 10 frames):
+
+7)	2, d/f+1, d+1, FC,d/f+2 low sweep
+8)	2, d+1, FC+4, WS+3,3, d+3_d/f+3,3 or
+9)    2, d+1, FC+4, FC,d/f+2 low sweep
+10)	[2],d/f+1 Buffalo Horn - juggles if hits, pushes back if blocked. This is excellent tool         	if not overused...If you're brave you can try:
+11)	[2], d/f+1 (blocked, pushes them back), b+2 unblockable, d+3+4 Low Tail Spinner!
+
+Now, here are few tricks, short strings and setups you can do with some backdashing if you use True Ogre's 1,1 at full range (don't forget that only Kuma's 1 and Jack's 2 have better or equal range. Not sure about Bruce's 2 though):
+
+12)	1,1, b,b, f+2
+13)   1,1  b,b, d~d/f+2 (instant WS+2!)
+14)   1,1, b,b, D/F:2   (instant FC, d/f+2!)
+15)   1,1  b,b  u+3+4:D. Now look at all those setups after u+3+4 in the "Arts" section!
+
+Lately I've started experimenting with "haha" backdashing as following: b,qcb~b~qcb etc., which is similar to Wavedashing, just backwards. It's hard, but can be extremely useful for True Ogre after his 1,1 at full range. If you backdash successfully and they wiff the move, your best bet is:
+
+16)   1,1 b~qcb,b~qcb, d/f+1+2 into juggle!
+
+Here are some more short custom strings without much explanation:
+
+17)	1,1_2, d/f+1, 1,1_2, d/f+2
+18)	1,1_2, d+4, d/f+1,2
+19)	1,1_2, d+1, WS+4,4, d/f+2, d+4
+20)	1,1_2, d/f+1, 1,1, u+3+4:D etc...
+21)   1,1_2, d/f+1, 1,1, u/f+4
+22)   2, 1,2, 1,1, u/f+4
+
+If you finish your string with d+4 or d/f+1_2 you can also b~qcb,b~qcb backdash into any powerful attack such as f+2, instant WS+2, instant FC, d/f+2 or d/f+1+2!
+
+Now, go ahead, experiment and meke your own strings. If you find something interesting, e-mail me, please...
+
+
+
+
+**********************
+WHAT OTHER PLAYERS SAY
+**********************
+
+
+================================================================================================
+HERE ARE FEW USEFUL THINGS DOINKER MENTIONED IN HIS E-MAIL:
+
+df+2 is good for picking people off the ground in certain combos, as well as okizeme. For example, after ff+2, do df+2, d+2, FC,f+2, does a healthy amount of damage. The df+1+2, u+3+4, df+1, d+2, FC,f+2 isn't too tough, just hit everything as early as possible (spam if you have to). For even MORE damage, do df+1+2, ff+4, d+1, FC,f+2. This is a bit tougher though, but looks craaazeee stylish!
+
+As another side note, you might *intentionally* miss the d+2 in the above horn-gore combo (the u+3+4) one. Then you'll either 
+	a: get the fc,f+2 at full damage off the ground, or CH with it as they get up, or 
+	b: mix it up with the FC, df+2 to juggle again. You have to mix them up and delay the backhand sweep for it to hit the tech rollers, though. 
+
+Abuse d+1+2 at very longrange, but never use the jumping flame (i don't even know the command for it). 
+{*1+2, right? -Karacha -*}. 
+
+If d+1+2 connects at the end of it's hit frames (the opponent stands up too early), you can hit with the Wang unblockable for cheap, cheap damage (the b,b+1+2 one). 
+{*BTW, same thing goes with b+2+3 unblockable, but you have more range, and since it's faster, you can connect Blazing Inferno before very last frames -Karacha-*}. 
+Thanks to Castel for that one, off a combo vid. 
+
+After SS+4, do WS+3_4, d+2, FC,f+2. that d+2, FC,f+2 is just the greatest combo ender ever. Heh, i didn't know about the alternate warps for the Owl Hunting, that's cool. 
+
+uf+4 will get you into some nasty trouble if blocked. Use it sparingly 
+{*as I said earlier, to punish slow recovery moves up close -Karacha -*}.
+
+Ogre's quick recovery in the air can save you a couple of hits. Use it near the end of the combo, since most longer combos end with moves that hit at the edge of their range, and the recovery can often cause them to whiff. 
+
+Abuse df+1+2 also, that move leaves you safe from just about anything if 
+used at medium range.  mix it up with your FC games and your opponent is 
+guaranteed to be annoyed. 
+================================================================================================
+
+MORE USEFUL STUFF BY NIGHT:
+
+Since True Ogre's 1,1,2 is not guaranteed on normal hit, and also gives a frame disadvantage when blocked (unlike Mishimas) I'd rather make use of its range (greater than mishimas) to go for CH, rather than 1,1,  1,1,2 like a Mishima at close range... 
+
+f,f,N+4 Hammer Heel has 1. range and 2. TRACKING. It tracks awesomely... Alot of times, you can f,f,N+4 after they hit the ground at a range and even if they tech back, the range is so good that it hits. It tracks SSers like a bitch too. A good okizeme mixup is f,f,N+2/4 , use the unblockable if they stand straight up, or the hammer heel if they roll back or stay down/side roll.
+================================================================================================
+
+LET'S SEE WHAT IluvMomo SAYS (This is huge, and very useful. Props to our friend ILuv):
+
+The Ground Flame 
+{*d+1+2 -Karacha-*} 
+can be sidestepped it time properly. However, like you mentioned it is good at wasting time if your opponent is far away from you.
+It is also good to bait bulldog players rushing in. After Ground flame, do df+1+2 (the horn uppercut move) to nail him if he is stupid enough to come chargin in with those pesky 1 jabs. 
+Darn... you forgot to mention df+1+2 as an okizeme attack 
+{*I know. Sh*t!Sorry for that, it's in the OKIZEME section now -Karacha-*}
+which acts much like Jin's b+4.
+{*Much better, since Jin's b+4 will hit only those normal-size characters who are grounded AND off axis -Karacha-*}
+Good also for catching fools tagging out. 
+
+Hahaha... my friend today actually found a use for his b,b+1+2... but beware it only works for scrubs. Anyways he did Lei's 1+3~5 tag to True Ogre... Well, he followed it up with a few df+1+2 and scrubs being scrubs always try to roll away. Anyways on one occasion he did b,b+1+2 by mistake and it hit the scrub who had just got up. LOL. It was so hilarious. 
+
+f+1+4 shoulder ram, like Kings', is excellent to rape backdashers.... abuse this alot when facing those stupid backdashers who do nothing but b,b, b,b, b,b, all day.... Grrrr!
+
+Demon Scissors is quite useful against scrubs. Ah well it's a crap move anyways, but it is very useful for knocking those stupid Eddy players out of their- whatever they try from afar (you know how scrubs like to start move from afar) A simple demon scissors will floor then when they try those slippery kick. Okizeme till they are dead. 
+Also f+2 works much in the same way.. against eddy scrubs. f+2 will knock them out senseless when they try their slippery kick nonesense from afar. PLUS f+2 is great to rape backdashers (I just hate people who backdash all day and wait for one opening to attack).
+
+Well, Bazooka Leg after Waning moon... If your opponent is stupid anyways. But if he is stupid you could easily try an unblocakble. 
+
+The Chaolan Slide can be quite useful in certain situations when your opponent is just outside the reach of f+2 or df+1+2 for okizeme. In this case, if he starts rolling well.... the slide has good range (since there is a dash involved in the motion) and will most likely hit your opponent while recovering. The bad thing though is that since True Ogre is so big, your opponent after getting hit by it, can easily retaliate (even though you have the priority) and hit you if you are not fast enough with a roll back, cross chop. 
+
+On bad joysticks, if you want to pull df+1+2, HOLD df and then press 1+2 since it will come off much more consistently... This is especially true after FC,df+2 and you want to connect with a df+1+2 which is quick enough to pop your opponent for a d+1,FC,f+2. 
+================================================================================================
+
+
+
+________________________________________________________________________________________________
+________________
+
+*THANKS TO MY WIFE NATASA, FOR HAVING ENOUGH PATIENCE TO LIVE WITH THIS BIG BABY, HEHE... 
+*THANK YOU ALSO GOES TO NAMCO - FOR MAKING THE TEKKEN GAMES, CASTEL AND ALL THE PEOPLE FROM www.tekkenzaibatsu.com WEB PAGE, BEN IVESTER FOR THE FIRST T3 TRUE OGRE FAQ, GREAT FAQ WRITERS SUCH AS SLIKATEL, TRAGIC, RENICK, ABRAR, REVEREND C, EXAR KUN, RED KING, PATRICK MARTIN, AND, OF COURSE, KHOJIN, BREAKER, DANNY, MATT AND FRED (THE JACK PLAYER) FOR GREAT GAMEPLAY AT OUR ARCADE. 
+________________________________________________________________________________________________
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+

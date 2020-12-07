@@ -1,0 +1,2749 @@
+The Path Of The Kick Boxer
+Version 1.1
+Release: April 14th 2001
+Written By: Grim Walker
+Email: Grim_Walker@hotmail.com
+==============================================================================
+
+<<Contents>>
+
+1) Legal Matters
+2) Something to Remember
+3) Whats Changed
+4) Conventions
+5) Whats Changed
+6) Move List
+7) In-Depth Move Analysis
+8) Strategies
+9) Okizeme and Ground Games
+10)Styles of Play
+        - Poking
+        - Interupting
+        - Bulldoging
+        - Turtling
+        - Punishing
+11)Ask The Experts
+12)Vs Character
+13)Conclusion
+14)Tekken resources
+15)Credits
+
+==============================================================================
+1) LEGAL MATTERS
+================
+
+To check if this FAQ is organised as it's supposed to be, please check
+underneath if the points and numbers line up properly:
+
+
+0123456789
+..........
+
+
+Disclaimer-
+
+First of all, this guide is for personal use only. If you wanna use
+this publically, you can only do that if the credit goes to me. No dirty
+tricks by stealing someone elses work. If you DO try and steal my work and
+use it for your own profit, you are bananis my friend, because I'll find
+out, and I will shut you down. This FAQ is written officially by me, Grim
+Walker, and this whole text document is property of Grim Walker (c).
+If someone tries to use these idea's for profit, money, recognision or to
+open their hanky panky of the usual frauding and plagiarism, it's illegal,
+and will be punished the severely, no matter in what circumstances or
+with what intentions. And for the legal blah-blah-blah, Bruce and all
+characters in Tekken Tag Tournament belong officially to Namco,
+All rights reserved 1999,2000.
+
+Directly Riped from Renicks Bryan Faq with his permission. Cheers mate. ;)
+
+==============================================================================
+2) SOMETHING TO REMEMBER
+========================
+
+Well, here is a hopefully good faq on how to use Bruce without abusing the
+Three knees, if you like the three knees, then this faq isnt for you and
+you can sod off. Hehehehe, well this faq is made on the way I play, wich
+is very rarely juggling with bruce at all, instead it focuses on his deadly
+interupt game, and his CH combos. Enjoy, and any problems - advice email
+me at Grim_Walker@hotmail.com and please include your email addy with the
+actual email itself, cause some servers it has Unknow Sender. =( Like AOL
+for instance.
+
+==============================================================================
+3) WHATS CHANGED
+================
+
+April 14th 2001 v 1.1 - Here is a very small change, in the first addition I
+                        mentioned a lot of his pokes as a little 
+differently,
+                        after realising that the framerates were really bad
+                        and I didnt state the right moves as being the 
+better
+                        ones I figured this release was nessesary. 
+Everything
+                        else is quite the same. Cept for a few minor 
+changes.
+                        This might even be the last edition if no one 
+complains,
+                        there isnt really much else to add, cept framerates,
+                        blah blah blah, wich if people ask for updates I 
+will
+                        add in the next overhaul, with damage etc. But 
+otherwise,
+                        if not enjoy and happy reading.
+
+
+
+
+
+
+==============================================================================
+4) CONVENTIONS
+===============
+
+These are the conventions used throughout this FAQ and
+these are recognized as the general commands used in
+discussions regarding TTT between online Tekken players.
+(based on formats by Tragic and Abrar)
+
+-commands-
+
+f -  tap forward                F -  hold forward
+b -  tap back                   B -  hold back
+u -  tap up                     U -  hold up
+d -  tap down                   D -  hold down
+d/f - tap down+forward          D/F - hold down+forward
+d/b - tap down+back             D/B - hold down+back
+u/f - tap up+forward            U/F - hold up+forward
+u/b - tap up+back               U/B - hold up+back
+
+QCF - quarter circle forward (d,d/f,f)
+QCB - quarter circle back    (d,d/b,b)
+HCF - half circle forward    (b,d/b,d,d/f,f)
+HCB - half circle back       (f,d/f,d,d/b,b)
+
+Button Layout--> (1)  (2)  (5)
+                 (3)  (4)
+
+1 = left punch
+2 = right punch
+3 = left kick
+4 = right kick
+5 = tag button
+
+Con: * -Hold the movement shown before the asterisk till
+the end of the string.
+
+Con: 315deg - f,d/f,d,d/b,b,u/b,u,u/f
+
+Con: ~ -commands after this sign is done immediately before/
+after each other.
+
+Con: n -Neutral position.  There should be no joystick motion
+for about 1/2 second.
+
+Con: + -When commands on either side have to pressed together.
+
+-Abbreviations-
+GS - Guard Stun
+Tag- Can tag if last hit connects
+TTT- Tekken tag tournament
+FC - Full crouch
+SS - Sidestep
+SSL- Sidestep left
+SSR- Sidestep right
+WS - While standing (rising from crouch)
+var- variable
+BT - Back to opponent
+CH - Counter hit
+
+-Hit ranges-
+L - Low hit
+m - Mid hit
+h - High hit
+SM- Special mid hit
+! - Unblockable
+G - Ground hit
+
+==============================================================================
+5) Whats Changed
+==========================
+
+Version 1 12/12/2000:
+Welcome to the first listing of this faq, in future I have huge plans to add
+to this faq, and make it perhaps the most complete faq for bruce that is out
+there, but as you know, a start hast to be made.. so this is it.
+Firsr Release, PLEASE PLEASE PLEASE be alright. ;)
+
+Version 2 16/09/2001:
+Well, there is a BIG update on the first release, it seems there are a few
+errors here and there, and a few people have emailed me stating the obviouse
+on the points were I was wrong, so here is the list of updates..
+        - Frame Rates Added
+        - Moves Updated
+
+==============================================================================
+6) MOVELIST
+===========
+
+Here is the complete official movelist for Bruce with
+commands, damage and hit levels in TTT, adapted from Catlords Movelist.
+Thanks to catlord for the listing. Much apreciated.
+If something is incorrect or if I have missed out something,
+please e-mail me about it.
+
+-Throws-
+
+Placing          Command                   Name of Throw        Escape/Note
+----------       ------------              ----------------     
+-------------
+(Front)          1+3 [~5]                  Knee Bash [Tag]          {1}
+                 2+4                       Rib Crusher              {2}
+                 f,N,d,d/f+1+2+4           Embracing Knee          {1+2}
+                   1+2,1+2,1+2             Tumbleweed
+                   (3_4),1+2+3             Left Knee Strike         {2}
+                     1,3,1+2+4             Turning Knee
+                       2,4,1,1+2+3           Rising Knee
+
+(Left)          (1+3)_(2+4)_(2+5)    HEAD BREAKER                   {1}
+(Right)         (1+3)_(2+4)_(2+5)    FACE BREAKER                   {2}
+(Back)          (1+3)_(2+4)_(2+5)    Reverse Neck Toss
+
+==============================================================================
+
+-Moves-
+
+Command                 Move Name
+---------------         ------------
+1,2                     1-2 Punches
+  1,2                     Bruce Rush
+  3_4_(f+4)               Midkick_Frontkick_Highkick
+[1],2,d+4,3             [Punch,] Punch, Sweepkick, Highkick
+2,4_(f+4)               Punch, Frontkick_(Highkick)
+1+2                     Overhead Bomb
+f+1+2                   Spinning Slice Elbow
+f+1,2,1                 Triple Elbows
+FC,d/f,d,d/f+1          TORNADO UPPERCUT
+1,4,3                   Southern Cross
+SS+1                    NIGHTMARE ELBOW
+b+1                     NIGHTMARE BACK KNUCKLE  *Crumples on CH*
+d/f+2 [~5]              Face Buster [Tag]  *Juggles*
+d/f+1,2 [~5]            Double Face Buster [Tag]  *Juggles*
+d/f+1+2                 Short Stepping Uppercut
+f,f+2                   NIGHTMARE MACH PUNCH  *Reverses Punches*
+f,f+3                   Slice Kick
+d+3_4                   Thai Shinkick
+b+3,4_2                 Frontkick, Knee_Right Punch
+3,2,1 [~5]              Gatling Combo [Tag]  *Juggles*
+  4                       Lowkick
+3,3                     Dual Spinkicks
+b,b,N+3+4,4             Handspring Backflip, Bazooka Leg
+d/f+3,1                 Cyclone Edge, Tornado Uppercut
+d+3+4,3                 Rave Kick, High Sidekick
+d/f+3+4                 STEP-IN MIDKICK
+f+4,3,4                 Triple Blind Kicks
+b+4,3,4_(d+4)           Double Knee Rush, Lunge Knee_(Lowkick)
+b,f+4 [~5]              RISING KNEE [Tag]  *Juggles*
+b,b+4                   NIGHTMARE LOW HEEL KICK
+f,f+4                   Bazooka Leg
+d/b+4                   SWAY HIGHKICK
+SS+4,1_4                BULL KICK,LEFT HOOK_DOUBLE BULL
+
+b+2+3                   Sidewinder  *Unblockable*
+
+
+==============================================================================
+7) IN-DEPTH MOVE ANALYSIS
+=========================
+
+In this section, I will be listing all the moves, on a ranking system of
+1-10 and telling you when hopefully they will be most effective. The
+ranking system is broken into 3 parts, as shown below.
+
+1   --
+2     These moves are near useless, use with caution.
+3   --
+4
+5     These moves are pretty much standard arsenal respectfully.
+6
+7   --
+8     These are the moves that you should revolve an arsenal around,
+9     there are no actual moves you should abuse, EVER.
+10  --
+
+==============================================================================
+THROWS
+==============
+
+
+----------------------------------------------
+
+1+3 [~5]            Knee Bash [Tag]        {1}
+
+Bruces first, and most basic throw that he has.. very useful, because a
+lot of the time, people want to hide from bruces mass assaults, and this
+is what can help break there guard. The escape is simple, but the start
+animation is the same as the 2+4. The bonus to this move is it executes
+VERY quickly, bruce grabs hits and sends opponent flying, no messing around
+looking good or anything. Use this when you want to stop momentum, break
+an opponents guard, do quick easy damage, or want a safe and quick way to
+tag. This is one of bruces 3 throws and for that reason, you MUST utalise
+it whenever the need arises, do NOT abuse this move, cause your opponent
+might get smart and use a constant 1 to escape, which all in all might not
+be a bad thing to set up a Rib Crusher (2+4) throw, but really its not
+worth it.
+
+Its best to do this throw after something like a blocked 1,2,1 combo, you
+simply dash in and 1+3, then depending on your partner, and the state of
+your bruce, tag.
+
+Bruce grabs his opponent, and sends him or her flying backward with a knee
+to the face. This move is taggable, but there are no guaranteed follow ups,
+very safe tag.
+
+Ranking: 7
+
+----------------------------------------------
+
+2+4                 Rib Crusher            {2}
+
+This throw looses out to the Knee Bash for a few reasons, but it only
+looses one point in the ranking system. It is still fast, and as I said
+before has the same start animation, wich is a good way to fool an opponent.
+Basically use this throw somewhat like you would the Knee Bash (1+3)
+But you cant tag off this. =( Wich is kinda sad, but this one looks way
+cooler, and for style, or to humiliate your turtling opponent, land one or
+two of these, with a mix up of the Knee Bash, and you should have your
+opponent almost crying from the crowd pleasing smashes. ;) This is somewhat
+slower, to the extent that it CAN be used in the last few seconds of a game
+to hold that lifethreatening lead, but DONT use it to do any damage to your
+opponent, instead it is a good way to let those seconds tick away, and watch
+as your opponent frowns at you as you chunk up another great win with Bruce.
+;)
+
+Bruce grabs and holds his opponent for a moment, before kneeing them in
+the chest and sending them quite a distance backwards. Good time consuming
+throw, and a great mix up to the other throw to keep them guessing, non
+tagable. But damn useful none the less. What you have to remember is to
+use these as guard breaks, not as any seriouse strategie of damage.
+
+Ranking: 6 (Looses 1 point for not being tagable)
+
+----------------------------------------------
+
+f,N,d,d/f+1+2+4     Embracing Knee        {1+2}
+
+Ok I am breaking this up into the three multi parts, cause one is useful
+to some extent the other is all but useless, the Embracing knee, comes of
+a VERY slow crouch dash, and you will be very lucky to avoid much with
+this against a good opponent. However, this can be used effectively I
+might add, on turtlers who like to hide. It does go under high attacks,
+and bruce being bruce will most likely have them blocking up down, neutral
+left and right respectfully. So a sudden pause in motion often causes a
+strong high hitting move or juggle starter to get at bruce. And these go
+over bruce when he is in his slow ass crouch dash. Dont even THINK of
+wavedashing with this, it cant cancel, and its WAY WAY WAY to slow to do
+anything cool out of it but the throw. The bonus is you can go for two
+options, one VERY stylie, and an easy break. The other, cool to look at
+for a moment, but not really a big multi throw that will make the cround
+go OOOOOOOH! Ahhhhh... and cringe, but none the less, the tumble weed has
+no escape, and is currently the best option.
+
+Bruce crouch dashes SLOWLY (you wont believe how slow till you see it)
+and then grabs his opponent, before doing a good knee to the rib cage,
+and releasing his, rather anoyed looking, opponent soon after, this leaves
+you totally safe from retaliation.
+
+Ranking: 3
+
+1+2,1+2,1+2         Tumbleweed
+
+This is the best finisher to the Embracing Knee, cause there is no escape,
+most people will mash 2 because thats the normal escape, but eh hehe, there
+goin for a tumble, cause this is basically free damage. And you should
+NEVER miss this, the command is easy. And unfortunatly scrubs will look at
+you and say "wow that was a hard multi" but thats ok, bruce isnt made for
+throws.
+
+Use this throw most of the time, cause well, there is no point in doing
+the other one, unless you WANT to humiliate your opponent, and he is
+looking distressed, and NOT mashing the 2 button for an escape. If your
+in a tourney, and you land this on an unsaspecting turtle, I am seriouse..
+tumble his ass and yell out "TUMBLE WEEEEEEED!!"
+
+Bruce simply throws his opponent head over heels, rolling over and over,
+after the Embracing Knee.
+
+Ranking: 8 (If you can land the first part, the ranking is well worth it.
+            Good damage, and ?no escape? (1) ?, what more do you ask for?)
+
+(3_4),1+2+3         Left Knee Strike       {2}
+  1,3,1+2+4           Turning Knee
+   2,4,1,1+2+3         Rising Knee
+
+This is bruces "not very well known" multi part, I say that refering to
+all those scrubs who think King and Nina are the only ones with multi's.
+This is a COOOOOOOOL multi if you land it. I mean, damn it looks HOT but
+the escape is too easy. It is a single button escape, and anyone hitting
+it can escape it GUARANTEED. I have escaped this throw, tapping on the 2
+button slowly. It has a really big escape window, and if your opponent
+doesnt ecape this, he deserves EVERY LITTLE BIT OF THE HUGE DAMAGE. If the
+throw is escaped, your opponent simply pushes bruce off, and you are safe
+from any retaliation. Not that you can hit your opponent. You have no
+advantage, and you have given away free damage on the tumble weed. =(
+
+Bruce knees them with the left knee this time, then turns them around, so
+there facing the other direction, and knees them with the first knee again,
+before holding them there a moment, and lifting them FAR off the ground,
+releasing them letting them fly into the distance with a HUGE blow from
+the second knee again. Sounds cool huh? ^.-.^
+
+Ranking: 3
+
+----------------------------------------------
+
+(1+3)_(2+4)_(2+5)   HEAD BREAKER           {1}
+
+This guy has the two COOLEST looking side throws, but I am sure you know
+how to use side throws already, your SS better be good, and mix this up
+with the SS+4,4 if they like ducking, else yeah duh.
+Bruce grabs opponent with left arm, and with the right, he hits them
+across the face with his elbow, turning his body inward, releasing the
+opponents head, before hitting them AGAIN with a huge backhand from the
+same arm as he hit them with, sending them flying. (And spinning!!!! ^.-.^)
+
+Ranking: 6
+
+----------------------------------------------
+(1+3)_(2+4)_(2+5)   FACE BREAKER           {2}
+
+This guy has the two COOLEST looking side throws, but I am sure you know
+how to use side throws already, your SS better be good, and mix this up
+with the SS+4,4 if they like ducking, else yeah duh.
+
+Anna shares a very close, if not exact version of this throw, but a little
+weaker compared to bruces, bruce pulls the opponent down like a rag doll,
+and lifts his knee into there chests, bringing his elbow down on there
+backs. Ouch. This is actually better than the other side throw, because it
+leaves the opponent so close, and is VERY easy if not guaranteed a d/f+3
+tornado sweep. ^.-.^
+
+Ranking: 7 (Cause it leaves em so close)
+
+----------------------------------------------
+
+(1+3)_(2+4)_(2+5)   Reverse Neck Toss
+
+This is the "generic" backthrow, I mean when namco did this throw, they
+must have been really bored, cause it sucks, the damage and no escape
+make it rock from behind but seriously, NO STYLE. *pokes my tongue out at
+namco* Great game, crap looking throw. I am sure I can come up with
+something better, like perhaps a mean ass kick in the back or something?
+But nooooo.. it had to be a neck toss..
+
+Bruce grabs his opponent from behind, by the throat, and hip tosses them
+over and onto the ground. *pokes his tongue out at namco again*
+
+Ranking: 7
+
+==============================================================================
+MOVES
+==============
+
+1,2                     1-2 Punches
+  1,2                     Bruce Rush
+  3_4_(f+4)               Midkick_Frontkick_Highkick
+
+Welcome to the basis of bruces arsenal. Here we go into the indepth things.
+The 1,2 is your basis move, it is done often, with a finishing combo, and
+even on its own, however you should really finish it most of the time, if
+you are a master, or good reflexed player, after a CH 1,2 a 2,f+4 is
+guaranteed, but more on that in a moment. This is a respectful mixup,
+all the punches are used all to often, and are completely safe if blocked.
+I will go into each one individually to show you what I mean by all of them.
+
+1,2                     1-2 Punches
+
+Basis punches, as I said above, this is your start link, do this OFTEN.
+I can not stress this enough, and the damage is very good, if the first
+1 hits, the second hit is guaranteed. It also interupts, wich is what you
+should be doing all the time with bruce, because that is your main weapon.
+It can beat out almost anything, and also starts your mean custom strings,
+that can rip people apart. Use one or two of these, and then land the throw
+to scare your opponent out of blocking, then go in again. This is like
+being hammered by an arsenal of unstopable punches, believe me. And if you
+get the interupt CH! then go for a big damage kick that can be tacked on,
+for DAMN good damage, or if your not sure, finish with the Bruce Rush.
+This hits high, but freat not, the bruce rush and the kicks to the rescue!
+
+Ranking: 9
+
+
+  1,2                     Bruce Rush
+
+This is bruces perfect punch rush, unlike Bryans, one hit hits on CH,
+the rest is guaranteed, OR if the oppoenent is hit by the second 1, the
+last 2 is guaranteed. This hits H,H,M,H. And can not be retaliated against,
+its VERY fast to come out, and a lot of people will perhaps duck the 2,
+and stand to block the last 1,2. This is not an uncommon thing, the point
+is, I have never seen it interupted. And this is completely safe if blocked.
+There is no retaliation, even on a wiff completely the lag on the last
+punch is VERY small. Not that you should be wiffing, you should be in
+your opponents face. Go on, get!
+
+The damage for this is HUGE if hit on a CH, and I use this often when I
+tag in, if you are an experienced player, you will do a u,u/b tag run
+cancel and launch into this, I have caught a CH of many things with this,
+even hell sweeps, to my suprise I might add. And I cant enphasise the
+damage is HUGE.
+
+Ranking: 10
+
+
+   3_4_(f+4)               Midkick_Frontkick_Highkick
+
+This is the mean ending that hits mid, for style, do a 3, because bruce
+turns around and does a straight kick, a little slower, and easyer to see
+coming, but DEFINATLY not something you can block on reaction. You will
+proberbly not use the 4 as an ender, because it has a worse lag time, and
+can be punished esier, leaving less options than the 3 wich knocks opponent
+off there feet. The f+4 hits high, and is a good damage ender, quick recover
+on this, and is hard to punish.
+If you wiffed the 1,2 and think they are going to retaliate, I have seen
+someone tack on the 3 knees after a counter f+4 but the circumstances for
+this are VERY rare, and that was with the f+4 knocking his opponent off his
+feet, the 1,2 WIFFING.
+
+Anyway, the 1,2,3 is your best and most deadly mixup combination with
+the 1,2,d+4,3 wich is explained below. This move is safe when
+blocked, and should be used often wether on defence or assault.
+I have killed someone with nothing but this move before, because every
+time they blocked, they blocked low scared of the d+4 instead. Did I
+mention that all of the above is guaranteed on CH, and leads to insane
+damage? not as good as the bruce rush, 1,2,1,2 but really good none the
+less. The range of the kicks is excelent also, and does big damage if they
+connect on there own. These are impossible to interupt once into blocking,
+so dont worry about those anoying reversals. This aplies to all of the
+above so far. ;)
+
+Ranking: 10 (9 on the f+4 cause it hits high, but recovers extremely fast)
+            (6 on the 1,2,4 combo, bad recovery)
+----------------------------------------------
+
+[1],2,d+4,3             [Punch,] Punch, Sweepkick, Highkick
+
+This is the mix up you will be using OFTEN instead of the 1,2,3. I mix this
+up 50/50 and this is perhaps, nay it IS the best mix up bruce has. ;) Yep,
+most definatly. The 1,2,d+4,3 is a guaranteed CH up to the 4,
+and most people will fall for it in fear of getting hit by the mid 3
+that they will eat this anyway. ;) When it hits, after it does, damage,
+or even if the 3 is blocked, it is completely safe.
+If the 1,2,d+4 with no 3 is blocked, then you have a seriouse problem.
+As it has a really bad recovery on it, and you ALWAYS want to do a 3
+on the end of it, with a long delay on it. That way you will catch any
+opponents, who more than often want to get out of there with a WS move.
+
+This can actually be used as okizime to some extent as
+well, as the second to last 4 hits low. To use this in okizeme simply
+start the combo while standing over the opponent, then do the d+4, its 
+really
+quite funny, and stylie I might ad. ;)
+
+Rating: 6 ( 10 if you add the 3 on the end )
+
+----------------------------------------------
+
+2,3_4_(f+4)             Punch, Spinning Mid Kick_Frontkick_(Highkick)
+
+This is the time that f+4 is THE best move to end the combo with. If the
+2 hits, then the f+4 is definatly the best way to go, because that is
+guaranteed  on CH, and it ?cant? be escaped if the 2 hits. Even off ch,
+this is THE move to kill mishimas that have there shining fists blocked.
+If you manage to block a stupid mishima shining fist.
+Kill them with the 2,f+4. This is completely safe if blocked, and does
+big damage, actually its as good as mishimas 1,1,2.
+Accept safer. Think of it as a really safe shining fist. ;)
+The 2,3_4 is when you dont think it will hit, use one of these two mid
+hitting kicks to push the opponent back, or mabey even trick them into
+ducking into it for some quick and easy damage. You should mix this up
+with the 2, d+4.
+
+The 2,4 is faster than the 2,3 but both are guaranteed on CH, and the 2,3
+knocks opponents off there feet on a CH. Wich I might add is great time for
+okizeme. As for the times to use this, it is a quick counter attack, that
+needs timing to work properly.. For all you scrubs, just keep messin with
+it. You will work it  out. This is really good for killing strings.. In
+the middle of say.. Jins b,f+2,1,2 with a pause on the last 2
+
+You can (If your good) land a 2,3 on CH to kill the jin and set up some
+NASTY wake  up games. ;)
+
+Ranking: 8 (The 2 jab is still slower than the 1,2 combos. ;) )
+
+----------------------------------------------
+
+1+2                     Overhead Bomb
+
+This looks dorky, I kinda get this when I accidentally push the 1,2 too
+close together, its completely unintentional, let me assure you.
+
+This is one of bruces many USELESS moves to an extent, Its kinda like
+A. Kings knuckle bomb with more start up and end lag. It really is
+that useless. It does hit mid, and CAN be used as okizeme on big chars,
+but really who would want to? I mean, this move is really useless and
+should be avoided like the plague. You can try it if you like, it does
+crap damage and knocks your opponent over, if there stupid enough to
+get hit by it, then theres something wrong with them, or the joy stick.
+
+Ranking: 1
+
+----------------------------------------------
+
+f+1+2                   Spinning Slice Elbow
+
+This move at first, I considered completely useless.. I had no idea that
+it was actually good in some instances. Yes thats right. It has a *SMALL*
+side step that can avoid some attacks, and is actually a very good move
+to tag in with. It can catch the opponent off guard once or twice, but
+dont get too cosy with it, cause it will end up costly. It hits high,
+and the small sidestep doesnt really help too much.. however sometimes
+if you SS or you are at a funny angle, and you are quick, this is a
+great move for getting out of dangerouse situations. It spins you right
+past an opponent a lot of the time, and leaves you a safe distance away.
+
+So recap.
+This is a good tag in move, on the OCCASION.
+This is a good evasive move, depending on timing.
+This can be used to SS small moves, or very liniar moves.
+This is NOT reversable, it is an elbow.
+
+Ranking: 5
+
+----------------------------------------------
+f+1,2,1                 Triple Elbows
+
+This is really rather useless, I never use this, ever but it does do good
+damage, and is good on taggers none the less I suppose. But I personally
+think there are better options. I mean, it has BAD lag if you wiff it,
+and can expect some seriouse punishment, wich would end up a real pain in
+the ass if your against a good ANYTHING player, sepcially someone like
+nina, whos Divine Cannon will teach you a lesson you wont forget ever.
+However, if the first elbow hits on a CH then the rest is guaranteed for
+good damage, and as explaind in the strats section, you often get a CH on
+taggers.. The first elbow is slow.. wich is a pain in the ass, and this
+isnt really good in juggles either, it cant be landed after anything 
+decent..
+
+Bah, this really isnt worth the amount of space I just gave it.
+Again, if you are a better player, I found that if timing is
+used properly, this is an insane priority hard hitting move. If you are
+desperate it is a  good "Help" move, you should, if you use it, NEVER
+stop on the first elbow, because the recovery is bad. The second elbow is
+by far the safest elbow to stop on. The last elbow has quite a lag, so
+then again.. The best thing for this move is to punish anyone tagging in,
+because like the 1,4,3 it will hit on a counter.
+
+Non Reversable, Non Interuptable.
+
+Ranking: 3 (6 if used properly)
+
+----------------------------------------------
+
+FC,d/f,d,d/f+1          TORNADO UPPERCUT
+
+This, believe it or not, is much like the f+1+2, it has its uses, but
+really you wont land it on a good opponent, this is really good against
+a blocked hell sweep,
+quick damage, and mabey guaranteed, I dont know my FC, d/f,d,d/f motion
+is really fast, so I dont know wether or not this is guaranteed after a
+hell sweep or  not.
+
+A lot of the time, a mishima will panic as the lag affter the hellsweep
+when its blocked is atrotiouse, and often is not seen because of the 
+mixups..
+but none  the less, it can be done.
+
+This is also exelent for those stupid people that do the whole ali sweep
+(all 3) as to my knowledge, feel free to prove me wrong, it is guaranteed
+after the last ali sweep. And does really bad damage on them.
+There are only a few real uses for this move, and on the ocasion I will
+use it, but other than that, you wont get a chance to use it, let alone
+land it. If it is blocked, you are totally safe, as the blockstun is huge,
+wich it needs to be if you get it blocked, cause bruce takes forever to get
+back to his feet. If you  wiff it however, god help you cause here comes the
+EWGF and there goes %50 of your life bar.
+
+Ranking: 3-5 (Havent Decided.)
+
+----------------------------------------------
+
+1,4,3                   Southern Cross
+
+This is one of his MEANEST moves, IMHO. The range is excelent, and if the
+jab connects, I believe the rest is almost guaranteed. What I mean by this,
+is that it takes a lot less to catch this on a CH than any of the other
+moves..
+
+I dont know how to explain this best, its CH properties are the
+best out of all of Bruces moves, if the 1 hits CH then the rest of the
+combo is guaranteed anyway. I will try to explain what I mean in the
+strategie section.
+
+This is the move to use to push opponents out of your range, but I have been
+told that the lag on the end of this is really rather bad. I have never
+personally been retaliated on, after this move, but I have heard stories of
+Devils d/f+1,2 twin pistons hitting before bruce can block, and the likes
+of that. Untill I clear this up, I will say that it is safe when blocked,
+and proberbly THE best ender for your custom strings. It has a fast starter,
+long range with the kicks and if one kick hits, the other is guaranteed.
+
+This move hits H,H,M so you dont need to fear any retaliation from WS
+moves, atleast not that I know of, and the 1,4 on its own can be used as
+a really dangerouse poking device, with a fast starter. It is proberbly
+as good as the 2,f+4 but then again I prefer the 2,f+4 more, cause if
+I were to use the 1,4,3 I would do the whole string. But anyway,
+this is the move to use when you believe you need fast damage.
+
+The string knockes opponents down, and leaves them for Okizeme
+and the like. ;)
+
+WARNING WARNING WARNING WARNING WARNING WARNING
+If Devil\Angel blocks this string, there twin pistons, and ONLY
+there twin pistons to my knowledge is GUARANTEED on Bruce. Use
+LIBERALLY.
+
+Ranking: 9
+
+----------------------------------------------
+
+SS+1                    NIGHTMARE ELBOW
+
+This is his SS punch move, really quite sad compared to his SS+4,4, but
+none the less, this move can be used. If it hits on CH, it quite nastilly
+smacks your opponent face first onto the ground. Leaving them to lie
+there a minute, looking rather dizzy and distrancted. ^.-.^ The perfect
+time for a Guaranteed d/f+3 for some extra damage. Too bad the
+tornado upper doesnt juggle after the d/f+3. =(
+
+Otherwise this simply smacks the opponent across the face, and sends
+them to one knee, and in a Crouch Position I might add, so dont attack
+a jin after this cause youll eat the WS+2 from no were. Or a bryan
+cause the ws+3 will stun you for the biggest amount of damage you
+ever seen in your life.
+
+(Side Note: You think Jins b,f+2,1,2 f,f+2 is bad for damage? Damn
+you havent lost %50 of your life to bryans WS+3, b+1, 1, 3,3 ,f,f+2
+before have you??)
+
+Anyway, as I was saying earlier, this move is actually rather good to
+use on people who like to crouch when you manage to get to there side.
+Because it fwaps em something cronic, and well should teach them
+to stand up so you can throw them. :)
+
+But if that doesnt work, give this move a miss and go to the SS+4,4
+Bull Kicks section. ;)
+
+Non Reversable, It is an Elbow.
+
+Ranking: 4
+----------------------------------------------
+
+b+1                     NIGHTMARE BACK KNUCKLE  *Crumples on CH*
+
+This move is a machine for stoping momentum, find yourself caught in
+a mishima 1,1 *pause* 2 ?? Then do this for a big ol CH and crumple
+stun, and slap on a abig damage 4, d/f+3, b+4,3,4 for all you mean
+jugglers out there and rip most of there puny useless life out of them.
+Or for all you knee haters like me, just let em fall to there face, and
+do a u/f+2 and laugh your head off. ;)
+
+No this move is your main momentum stopper, it comes out fast,
+hits high saddly enough, so dont use it on any crouch strings
+"Eddy, Ling for instance" however this is your Hwoarang Killer.
+The b+1 ducks high and some mid attacks, and comes out very fast.
+Use this against strings that go on for a while, or have long and anoying
+high hits to them *cough hwoarang cough* Because they are going
+on and on, this is almost guaranteed to hit them for a CH. Or if you
+just bash them across the face with it.. just smile and watch there teeth
+fall out of there mouths.
+
+This move is NOT safe if blocked, you can be Shining Fists after it,
+!the mishima 1,1,2! so you MUST know you are going to hit it. It does
+come out very fast, and does decent damage when hit. But it is not a
+power move. I suppose you could use it somewhat like a reversal.. But
+yeah I think you get the idea.
+
+Some uses are when JACK is doing a 1,1,1 (Why?!?!) or something
+very slow like that. Or the mishimas delay a 1,1_2. Or even if you
+are very fast, and you are against and anoying Axe Kicker (mishima)
+d/f+4 *PAUSE* 4 then you can actually hit the b+1 between that
+to slap for a counter.
+
+On Hwoarang this rips him appart, as soon as he goes into a HIGH
+piece of his string, then hit the b+1. Really useful cause he will
+hopefully be doing a string, then you will hit CH. Else, watch the
+teeth as I said earlier.
+
+This move is one of his most stylie moves to look at. the backhand is
+really cool to see, and is really nasty. ;)
+
+Ranking: 8
+
+----------------------------------------------
+
+d/f+2 [~5]              Face Buster [Tag]  *Juggles*
+*yawn* This is scrub paradise, hit this, then b+4,3,4 repeat. This is not
+useful, IMHO almost at all. I rarely use it, cause if your opponent is
+ducking, which I might add is the only time you should actually use it,
+then you are doing something seriously wrong, or your opponent is stupid.
+This is good on a Crouching opponent, as it lifts, and tags for small
+damage juggles. Nothing to spectacular. I think it feels very slow, and
+as far as juggle starters go, its damage isnt spectacular.
+
+It is hard to hit this on a good opponent, cause most will not run into such
+a slow move, and will proberbly laugh in your face. I will use this in
+the near future I am sure as often as I do, for those Jins that think they
+are safe, but again you shouldnt be juggling very much with bruce at
+all, cause thats not what hes good for.
+
+DEFINATLY however, make it a point that it is his only Juggle Starter
+that doesnt have a CH to juggle with, and if you want to humiliate your
+opponent after a wiff or something, then use it.. by ALL means!
+It is definatly not a bad move, I just think there are better options.
+Oh and while I am here, it can not be reversed, it is an elbow. And it hits
+mid. The only thing that I know can reverse this move is True Ogres
+face bite FC,d/f but that can be escaped by pressing (1)
+
+Ranking: 7 (By far not a bad move)
+
+----------------------------------------------
+
+d/f+1,2 [~5]            Double Face Buster [Tag]  *Juggles*
+
+IMHO his best juggle starter, it is quick, it is two uninteruptable,
+non reversable elbows, that do good damage and is safe when blocked.
+I believe when this is blocked, you have full initiative, and can even hit
+your opponent with a 1 *Choose Ender* on a CH if this is blocked
+and they retaliate. I have even beaten out mishimas 1,1,2 after they
+blocked this, and slapped them with a CH to boot.
+
+Anyway, this move is best done when you are on an offencive, and
+they are perhaps crouching. You *CAN* mix this up with the d/f+2
+but the real use of this move isnt to juggle. It is to keep your opponent
+standing. The juggle is just an added bonus. Because they are elbows,
+anyone that thinks they are going to reverse you, is in for a suprise with
+depending on your preference, a Stylie, or damaging juggle finisher.
+Personally I go for style over whatever else there may be.
+
+Anyway, what I mean, is if you are bulldogging, were bruce is VERY
+powerful at, with a constant barage, your opponent will most likely
+be looking for a powerful WS counter move, to duck your attacks
+and slap you with a CH and\or a juggle starter. This is esily
+prevented with the addition of d/f+1,2 into your strings. And can
+make your opponents life litterally a living hell.
+
+This move is also excelent for putting into an attacking opponent,
+to hit the CH for the juggle, and send your opponent back so you
+can lay into him or her again. Very usefull indeed.
+
+Ranking: 9
+
+----------------------------------------------
+
+d/f+1+2                 Short Stepping Uppercut
+
+As unfortunate as this sounds, this move is NOT useless, but can not
+be used for anything but a juggle extender. This is good as a quick mid
+hitting poke, but to be honest, it doesnt cut it VS the d/f+1 as a mid hit
+poke. Quite sad really, cause this is a good move. But its a standard
+uppercut. Much like  bryans WS+1+2, not totally useless, but no
+real way to say its worth.. I really think I will personally skip this
+move as an explanation, its best figured out on trial and error. =(
+
+Ranking: 5
+
+----------------------------------------------
+
+f,f+2                   NIGHTMARE MACH PUNCH  *Reverses Punches*
+
+This is a VERY good move, its range makes for a decenet punch, and it
+reverses punches. Damn if it didnt hit HIGH and have such a strange
+animation it would be a cool move.
+
+If you hit this move, then your opponent tumbles head over heals untill
+they lay face up, head towards you. Kinda strange. For an opponent
+who doesnt have there wits about them, they might try and roll away
+from you, so rush in and do a d/f+3, and land 3 Knees, or finish the
+sweet with the tornado upper. But most people have enough brains
+to stay down and take a little extra damage rather than a lot, so many
+people wont get caught by that trick. ;)
+
+Ok here we go, get ready for how to USE this move.
+When an opponent tags in, if you are close, people will rush in with
+Jins EWGF (This does NOT stop mishima Kaz\Hei WGF\EWGF)
+or shining fists, or fast pokes to save there own life bar from depleting
+in the hope of saving themselves. Not only is the range on this move
+excellent, its recovery is rather good. And it has block stun. So your
+blocking opponent wont retaliate. The amazing thing to this move
+is the speed in which it counters punches.
+
+When your opponent is in the middle of a string, jacks d/f+1,2,1,2
+Mishimas 1,1 *Pause* 2 amd the like, then you can seriously land
+this in between, really rather amazing. Its counter andimation, bruce
+sorta sticks his arm somehow in there, and uses the leverage to crunch
+yours, and well, it leaves you face down feet away andyway, for bruce
+to pumel you with whatever he feels nessesary. And as for style,
+this has MANY a time left my opponent either cringing, or the
+cround jeering and going "Yeah, dats what Im talkin about" or
+something of the like. It is a real croud pleaser.
+
+None the less, I have not found any bad side to this move, other
+than it hits high, but it has little lag to it, and has such long
+range on it that it doesnt really matter. And you should use this
+much like bruces b+1+2 for big damage.
+
+Anyway, yeah play with this move, use it while taging in every
+now and again, and use it on taggers, you really dont have much
+to loose, and if you hit a CH counter on netsu, watch the damage
+roll up. *hint hint*
+
+Ranking: 9 (Its a reversal wich is why it ranks so high)
+
+----------------------------------------------
+
+f,f+3                   Slice Kick
+
+This is a nasty kick. Trully nasty and does big damage if it hits. It
+flings your opponent a mile, but onfortunatly its not as good as Bryans
+because you can be beaten up quite badly by a fast opponent after the
+kick itself. =( It stuns your opponent, if they block it.. quite nastily
+I might add, leaving them gaining there senses, but the recovery on this
+move is soo long that if you wiffed it, or even if its blocked, there is
+nothing you can really do. It is a good move in Okizeme, and it does come
+out fast. It hits BIG grounded opponents. And does EXCELENT damage on a
+counter. But then again, your better off using one of his  8 Frame 1
+*choose your combo* starters that do such excelent damage.
+
+This move has its uses, and in juggles it looks excelent. And does alright
+damage too.. but it is fast and hard to land, and needs practice. If this
+kick hits, it flings your opponent far into the distance. Leaving him
+tumbling and rolling. For style its good, and to kill taggers its great
+damage.
+
+It hits mid, and is good against anyone crouching so if you know it
+will hit, by all means use it. ;) Otherwise just be careful not to overuse
+and abuse it. Sometimes you can get away with using it, depending on how
+you spaced yourself...
+
+Ranking: 5
+
+----------------------------------------------
+
+d+3_4                   Thai Shinkick
+
+This move is one of his low pokes, this helps *feel* out your opponent, and
+is great when you just want a quick easy damage poke. That will hit low, and
+hopefully go under your opponents defence. Well this is definatly it. If it
+is blocked, you are safe from ANY retaliation as it is fast and dangerouse.
+Use it in the midle of a string, to feel your opponent out, or to push
+them back a little, and make them nervouse, showing that Bruce can attack
+low just as fast as he can attack high. This can mean the end of a match
+too..
+
+If you need a little tiny bit of damage, keep hitting with this. It is
+safe if they retaliate, just watch out for the ones what wait for a CH
+themselves on you, because you were going for the d+4 two or three times
+over.
+
+What I am saying is use this often, just not too often enough to show that
+you are going to do it, Over, and Over, and Over, cause you will be shown
+up and slapped with a CH for your troubles as well. Believe me. Its safe,
+not abusable. ;)
+
+You can use this as Okizeme too, but thou it hits low, it doesnt always hit
+unless your opponent moves. By this I mean, if they leave the controler
+in neutral position it wont hit. But it will leave you safe from any
+retaliation, IF you can predict wether a sweep or mid kick is coming. ;)
+
+None the less, this is one of your best okizeme takticks, and not to
+mention a cool juggle ender tack on. ;)
+
+Ranking: 8
+
+----------------------------------------------
+
+b+3,4_2                 Frontkick, Knee_Right Punch
+
+The b+3 is SLOW. Thats about all I really want to say about this move. The
+2 is a punch that comes out at an OK speed, but it hits high, and you
+WILL be punished if this isnt blocked. The 4 is a fast knee, that stuns on
+CH, the knee on CH I mean, the b+3 on CH does NOT guarantee the knee on CH,
+wich makes this bruces most useless string. Never use this. At first, people
+did this in a juggle, b+3, b+4,3,4 for bigger damage.. but not even that is
+usefull.. no just move on, go on, stop reading please,
+this is TOTALLY useless.. GO! Shoo..
+
+Ranking: 2 (For the knee CH)
+
+----------------------------------------------
+
+3,2,1 [~5]                Gatling Combo [Tag]  *Juggles*
+          4                       Lowkick
+
+This I actually rarely use, this is THE scrub move, they believe
+this move to be GOD and it might just be for a scrub. But by far its
+not as useful in high levels of play.
+
+The 3,2,1 on CH is guaranteed for BIG damage and a good juggle to
+boot, but its not likely that you will land it. If you do, then punish your
+opponent fully. It is good on an agressive opponent that likes to attack
+from a distance, and is actually also good on wavedashers, if you can see
+them coming. Because the 3 hits mid, it is a good poke on its own.
+Knocking its opponent of his feet if you do it alone, and on a CH. Otherwise
+you are best to finish this combo up to the 1, because it is safe if 
+blocked.
+And it also hits mid. You can come in with this as an attack, but do it from
+to far away you will get nailed, and destroyed so I dont advise it really.
+
+This move is not a big part of bruces arsenal, making way for his more
+destructive and faster 1 *choose comb* moves, that can do as much damage,
+depending on the juggle, and is also safer.
+
+If you ever watch a scrub playing bruce, all he will ever do all day is
+3,2,1 b+4,3,4 and honestly it is really rather pathetic. The 4 at the end
+is a low kick, comes out quite fast, but unlike bryan, thats his ONLY ender
+to the combo. It WILL wiff if you use it against a good player.
+
+And it does NOT juggle opponents.
+
+Actually, I lie, you can do 3,2,1,4 b+4,3,4 on a big opponent, but WHY??
+I dont see the point and personally Id rather just bash them up instead.
+
+This combo does not lift big opponents into the air, they just sort of get
+lifted off there feet, needing a little more encouragement to go into the
+air, and get juggled.
+
+However, this move is not totally useless, and is a good longer ranged
+counter. If this happens on a big opponent, just nudge them with something
+fast, like a 1, and they will fall over. ;)
+
+Ranking: 9
+
+----------------------------------------------
+
+3,3                     Dual Spinkicks
+
+This IMHO is actually better than the 3,2,1, as it is guaranteed on CH, and
+leaves you standing with your opponents quite far away, also some people
+like to try to interupt the kicks. Wich is not possible. It hits mid\high,
+so in all logic it is not as good as the 3,2,1 but none the less, it is 
+still
+damaging and a very quick damage for those last few closing seconds of
+the round. It can pose as a good keep away move as well, pushing your
+opponent back, and not letting them near enough. This is also good against
+wave dashers perhaps, I suppose, but then again when your opponent comes at
+you, then you can anticipate and slug them with this.
+
+I personally dont like long winded combos, and this poses much more uses
+to me than the 3,2,1 does, but I suppose its all opinion. Try it out, and
+see if you like it..  just dont use it often. It doesnt lag at all, and is
+safe if blocked, or even wiffed.
+
+Ranking: 8
+
+----------------------------------------------
+
+b,b,N+3+4,4             Handspring Backflip, Bazooka Leg
+
+This move I currently have mixed emotions about, I dont know wether I
+like it or not. I am one of the few players that like the handspring
+backflip that characters like Lee, Yoshi, Michelle and the like posess..
+So there isnt much to say here. Just learn to use it when you feel it
+nessesary.
+
+The Bazooka Leg is for those dumb opponents that think there going to
+rush in and beat you up. Just kick em in the head to teach them
+differently. You might see more here in a later update.. but
+for now I am open to sugestions, or juggles.. now theres a thought.
+I sometimes use the backflip into the f,f,f+3 wich is very stylie..
+Very indeed.
+
+Ranking: ??
+
+----------------------------------------------
+d/f+3,1                 Cyclone Edge, Tornado Uppercut
+
+This move has its uses, it is somehow guaranteed on a CH or a
+Major CH perhaps?
+
+Anyway, it is excelent for taggers, the d/f+3 goes under most attacks,
+and hits for a ch, and the 1 is guaranteed for good damage, sending your
+opponent sailing into the distance. This is often my choice against a
+tagger to do good damage to them.
+
+And often enough, this move holds its own as an excelent move against
+tags, rollers, and plain stupid offencive players. Then again, if you
+wiff the uppercut, god help you cause your in a new world of pain.
+Most people have been trained to block the sencond half of this,
+funny that it hitting low then mid, but the block stun is enough to let
+you land again, and hold a TINY bit of initiative, perhaps, if your lucky..
+definatly not noticable. =(
+
+Yeah so pretty much this is a good tag counter move, the d/f+3 makes 
+excelent
+okizeme on its own, as if it is blocked it has NO block stagger..
+(Bruce is the MAN!)
+
+And is safe in most cases to use freely. It does good damage too on its own,
+but on a standing opponent this will never trip them up, wich is kinda sad,
+but thats what you get.
+
+Also, on anyone that recovery rolls, try to hold back from the tornado
+upper if you are not sure they are going to roll. Instead, ready the 3 Knees
+(Yes sad isnt it) because they will juggle off the d/f+3 if they move. And
+can be delayed. Also, if you do the 3 Knees, you will go sailing over your
+opponent to a safe distance on the last knee, or you can do
+a d+4 on the end of two knees, so you will be safe.
+
+More on 3 Knees later.
+
+Ranking: 9 (For the d/f+3 alone) 6 (For the whole combo)
+----------------------------------------------
+d+3+4,3                 Rave Kick, High Sidekick
+I have no idea, honestly, it hits low high, and quickly too, but god
+knows what this move is used for, I use it as a juggle ender sometimes,
+but often enough the rave kick hits and the High Sidekick wiffs. I think
+its safe.. anyone? Help? I dont use it at all, and I advise you dont use
+this either. Cause well, It has no use, not even as a set up I dont think.
+
+Ranking: ??
+
+----------------------------------------------
+
+d/f+3+4                 STEP-IN MIDKICK
+
+This is another horrible move, thank god it doesnt overlap anything..
+cause damn this is just a waste of time. I mean, it has a CRAP start up
+time, and a really bad recovery as well.. I mean, thats not the start of
+how bad this move is. It is EASILY sidestepped, has CRAP priority, even
+its range doesnt make up for anything, thou it does have good range..
+it is really useless, not even in custom strings, I spent the whole
+day trying this out, and I swear never to use it again.
+
+Ranking: 0 (No, Go leave this part, quick, while you still have your 
+sanity!)
+
+----------------------------------------------
+
+f+4,3,4                 Triple Blind Kicks
+
+High Mid High, I suppose this can be used as a juggle ender, it would
+do good damage.. But then again, the huge question is once again, WHY.
+The f+4,3,4 actually serves as a good poke, and even a time killer.
+Long range the f+4,3 is proberbly your best poke.
+
+The last 4 is useless. But if you dont do it the recovery is very good.
+And can be used a lot as part of his (Keep Away) Game. You wont be dishing
+out much damage with this but thats not what you are going to be using
+it for. Use it to keep mishimas at bay, and prepare for there wave dash,
+and also use it to kick Jacks backwards, so they cant get in to hammer
+you with throws like they so LOVE to do all the time. No you want to use
+this quite liberally.. make sure you know when to use it.
+
+Learn, wiff it now and then against some people and see what happens. Its
+another choose your own poke. I use it, just like I use the 3,3. But then
+again, you might not like it. ;)
+
+Ranking: 7
+
+----------------------------------------------
+
+b+4,3,4_(d+4)           Double Knee Rush, Lunge Knee_(Lowkick)
+
+THE MOST FAMOUSE of bruces moves, the DREADED, the FEARED the USELSS!
+Thats right, I really dont admire this move as much as some people do.
+I use it every now and again, as sort of a panic. But to be honest, it
+has its uses, just not as a juggle as often as people use it as. The
+Double Knee rush is very good. But its time to go indepth.
+
+When doing a juggle, you can do this (Please dont) as a very easy juggle it
+links to almost anything that hits the opponent for one hit, a jab, a
+single f+1, a b+3, even a single b+4 knee.
+
+But please PLEASE dont do this, its not worth it. It takes your style rating
+RIGHT down, go to the juggle section if you want REAL COOL STYLE juggles.
+Is is an EXCELENT wake up move, thats right. You can use this as Okizeme
+to your hearts content. This is its BEST use. Often an opponent wakes up
+crouching, and with the double knee, if the first b+4 connects, the second
+3 is guaranteed. That is, if b+4 hits 3 is guaranteed.
+
+This means as a wake up move, if they crouch, then the 3 hits also, doing
+good damage, and leaving you with momentum. Used as a mixup with the d/f+3
+this can be deadly. If your opponent rolls, and you SS first, before hiting
+the b+4,3 then if your REAL lucky, you might flip your opponent sideways,
+after the second knee hits in there side, you can land ANOTHER b+4,3,4 for
+serouse damage. I did this a few times, and my opponents only
+yell and scream at there own stupidity. It is rare but it does happen. ;)
+
+Hehehe, yeah well the damage is too good, and as for style, 3 knees is NOT
+stylie, but 5 Knees is DEFINATE STYLE. If you hit a big character, and flip
+them like this, you can actually hit them with 7 Knees, that is
+b+4,3 b+4,3 b+4,3,4 thats right, hows THAT for style? 3 knees my ass.
+
+Anyway, if your opponent does not wake up you have two options. You have the
+safe d+4 to hit your opponent on the ground if he moves after.. But I think
+the lag on this d+4 is a little more as a combo. And rather useless...
+No dont do this. If your opponent doesnt move at all, use the full 3 Knee
+combo, this will send you SAILING overhead and to a safe distance.
+Backturned I might add, so this is an excelent time for a tag. Or to turn
+around, because you are completely safe.
+
+b+4,3 isnt a bad move on its own, for quick damage, but the b+4 is cool to
+use on its own. Its hard to explain that this is a very good poke. It has
+good range, but doesnt move bruce any distance forward. This is great VS
+a flash happy Yoshi. The b+1+4 I mean. And can really irritate many players,
+as it hits mid for decent damage.. then again. It has no block stun, like
+the b+4,3 does. None the less, neither of these can be punished.
+
+The b+4,3 is also an excelent ground covery move, it gets you close at a
+high speed, and after a lot of thinking and using it, I have decided it is
+very good in CD distance to hit your opponent for half decent damage. ;)
+Never use the 3 Knees alone, NEVER NEVER NEVER NEVER. Got that? NEVER EVER.
+So yeah you can try, if you wiff the last knee, then you are SOO dead, if
+its blocked, and for some strange reason not interupted. It has BIG
+blockstun, but that makes up for the REALLY bad recovery lag. ;)
+
+Ranking: 9 ( 0 as a juggle. ;) )
+
+----------------------------------------------
+
+b,f+4 [~5]              RISING KNEE [Tag]  *Juggles*
+
+This is his High Launcher, it tags, but it has a dumb tag system to it.
+Have you ever done a WGF\EWGF and waited a moment, then hit the tag
+button, and got that really strange sorta slow tag that you cant really
+combo off? Well that is what happens with this.
+
+This is perhaps one of the most damaging high launch juggle starters in the
+game, it does big damage by itself, and as a mid hitting juggle starter its
+really good. It is quite slow, so if you use it in the middle of the string,
+it will seem like you have stoped completely. Then, out of the blue bruce
+will lift up his big ass knee, and send you to the moon. ;)
+
+Use this on taggers, or fiersome attackers that like to attack from a
+distance. This is good for those stupid people. There are many MANY juggles
+from this starter, but the funny thing is, now that I think about it, a lot
+of bruces juggles launch really high.. strange. ;)
+
+Anyway, use this on a wiffed long lag move, or if you anticipate that your
+opponent will come at you, cause this will ensure that your opponent will
+have a hell of a headache afterwards.
+
+Ranking: 7
+
+----------------------------------------------
+
+b,b+4                   NIGHTMARE LOW HEEL KICK
+
+This is a great move when your on the back dash defence.. it sorta trips
+your opponent up, and leaves them stumbling a little.. its not really much
+of a comeback move, as its sorta slow, and people noramlly see it coming,
+it hits low thou, and they dont really duck when they see it coming.
+
+If its blocked its safe.. If it hits on CH however, this is were
+your momentum comes back. It trips your opponent up completely on a CH,
+and gives you free 3 Knees (I can forgive you this time. ;) ) You wont get
+this often, most of the time you will eat the WGF of a bulldoging mishima,
+but when you have to try, do it anyway. It might get you out of a situation.
+;)
+
+Ranking: 4
+
+----------------------------------------------
+
+f,f+4                   Bazooka Leg
+
+Stupidly, I use this move sometimes. ;) It has EXCELENT range, and on a long
+range attacker there is no better way to make him think twice about charging
+you again, but the start up lag is horendouse. And the stoping lag isnt too
+good either. I use it when I know it will be blocked, and follow up
+with 1,4,3 southern cross sometimes, but I shouldnt. I play for fun
+thou, so hehehehehehe if it hits a stupid opponent. ;) But yeah, dont
+use it.. You CAN use it to close a gap, cause the block stun us sufficient
+for a good bruce player to perhaps be safe.. but otherwise forget it. ;)
+
+It looks especially great if paul reverses it, bruce sorta puts out his 
+foot,
+and paul decides to spin him in circles, it cracks me up every time. ;)
+
+Ranking: 5
+
+----------------------------------------------
+
+d/b+4                   SWAY HIGHKICK
+
+This move is actually rather good against bulldoggers, if your opponent is
+coming at you like a bat out of hell, then slam them with this move.
+It makes sense cause this move sorta steps backwards, before stepping
+forward again and kicking to the head. Damn what a headache all
+these head kicks must be. Use this move when your opponent is coming
+at you at a high speed, with all luck you will backdash the attack and
+kick there teeth out for there efforts.
+
+This is an EXCELENT tag in move, wich I found out, because it does an
+automatic tag run cancel. If your opponent expects to nail you to the wall,
+then you can do this, and teach them to stay back next time. The damage
+is substantial, and it does hit high. But the recovery is very good, and
+it is not likely that your opponent will hit you.
+
+To my knowledge you can also hit apendages with this, eg poking arms or legs
+that stick out a distance, for instance another bruce does d/b+4 right
+before you, then you do it, there kick will come out and then yours will
+hit there leg. (Hopefully) Use it often anyway, as a pause in your attacks,
+or if your on defence. ;)
+
+Ranking: 9
+
+----------------------------------------------
+
+SS+4,1_4                BULL KICK,LEFT HOOK_DOUBLE BULL
+
+The SS+4,1 is useless, it hits mid then high, if your opponent is
+stupid enough to get hit by the punch, then he deserves to go flying.
+If you hit, DOUBTFUL, then you will send your opponent flying really
+nastily. But youll never land this. ;)
+
+SS+4,4 is Bruces BEST SS move, learn when to do it, and what side to
+SS, as he does not change legs when he kicks, you can either kick an
+opponent in the side twice, or in the stomach.
+(Note: Everything from here is from 1p side. Anything from 2p side
+is reversed. ;) )
+
+There is a lot of use to this move, it hits mid and has EXCELENT
+range to it, and it is a SS move (BONUS!) and is definatly used that way.
+If you SS to his left, thats INTO the screen, then you
+should plant two kicks into your opponents stomachs. If they do
+anything but block during these two kicks, they will be kicked and sent
+tumbling. If you SS INTO the screen, then if you are lucky, the first kick
+sometimes of balances your opponent enough for your second kick to actually
+connect.. and can not be blocked. This is not often. But it can happen,
+and I have seen it happen. Moreso however is the properties of this
+kick. Very short start up time, very long range, very short lag.
+This move is GOD. ;)
+
+Hehehe no if the first kick hits CH then the second will be guaranteed
+and send your opponent flying backwards. Damn bruce is da MAN next to
+Bryan who is also DA MAN. ;) The kick itself, Bruce will ALWAYS use his
+right leg to do this, it doesnt matter what side you are on of your
+opponent, if you SS to BRUCES left, then he will kick his opponent,
+depending on how far you sidesteped.
+
+If you step to BRUCES right side, this is perhaps his best side. ;)
+He will do two hard kicks into the side. This is really remarkable,
+and I said earlier if you SS far enough, then the second kick
+is sometime guaranteed. It really is.. Funny to watch, and
+stylie\embarising for the opponent.
+I have had people complain about there joysticks not working after
+doing this 4-5 times.. But they were scrubs and it was easy to do it
+to them. ;) But use this move as a SS retaliation, never use the ss,4,1
+because it sucks, mix this up with the side throw, and you should have a
+winning combinataion of pain and suffering. ;)
+
+Ranking: 9
+
+----------------------------------------------
+
+b+2+3                   Sidewinder  *Unblockable*
+
+Unblockable, hits mid, looks cool, has excelent range, and quite a
+short start up for an unblockable.
+
+Then again, its only good for taggers, cause it does have a bad start
+up.. good range thou.
+
+Most people have enough sense however to back out of its range,
+and punish it. =(
+
+Ranking: 4 (Cause its unblockable, and BIG damage)
+
+==============================================================================
+
+8) COMBOS AND JUGGLES
+==========================
+
+Here I will list juggles and even some team juggles for peoples pleasure.. I
+will be accepting new juggles also, with the names of there creators,
+including my own. That I have found.
+
+Keep in mind that most of the juggles are under the names of who made them
+famouse, the Generic list is a standard list of juggles that are well known.
+This is actually become the Zaibtsu List. ;)
+
+If you send me any juggle that you have not made up, I will find out.
+If you see one that is yours, rightfully, and put under someone elses name,
+dont email me and start flaming because your email will be delted and you
+will be igrnored. Instead simply email me politely and explain what the
+problem is. As of the moment the juggle list is not to long, and I will
+not be adding stupid easy to do juggles that a scrub can figure out.
+
+IE u/f+4, f+1, B+4,3,4 -= !!DUH!! =-
+
+It is also possible for two or more people to have found the same juggle.
+This is not uncommon to happen, and has done many times. This doesnt matter
+I will figure something out. ;)
+
+I will be adding damage and stuff later, if someone could go throu them and
+give me a listing of damage etc, it would be much apreciated. And you will
+get full credit.
+
+Catlords Juggle List: (Via Catlords amazing juggle listing, this can be
+obtained primarily at www.tekken.net/catlord)
+
+CH b+1, d/f+3, 1
+        d/f+3, b+4,3,4
+
+CH SS+1, d/f+3,1
+
+1+3, d/f+1
+
+CH d/f+1,2, 1,2, d/f+3,1
+       2,3, f+2,f+4
+       U/F,4, b+4,3,4
+       d/f+1, d/f+3, b+4,3
+       f+4, d/f+3, b+4,3,4
+
+CH WS+2, b+3,4
+       b+4,3,4
+       f+4,3,4
+
+d/f+2, 1, f+1,2,1
+       2, 3,3
+       f+4,3,4
+       2,3, 2,f+4
+       1,2, b+4,3,4
+
+CH 3,2,1, 2, b+4,3,4
+       b+3, b+4,3,4
+       2,3, 2,f+4
+
+u/f+4, f+4,3,4
+       3, b+4,3,4
+       b+3, b+4,3,4
+       d/f+1, b,f+4
+       f+4, d/f+3,1
+
+u/f,N+4, b+3, b+4,3,4
+      1, d/f+3, b+4,3
+      1,2, f+2,f+4
+       d/f+1, d/f+1, b+4,3
+
+CH f+4, b+4,3,4
+
+b,f+4, b+4,3,4
+       u/f,N+1, 1, d/f+3,1
+       {2},d+4,3, b+4,3
+       b+3, b+4,3,4
+       SS+4,4
+       U/F,4, b+4,3,4
+
+CH b,b+4, d/f+3,1
+       b+4,3,4
+       d/f+3, b+4,3,4
+
+Well Known Juggles:
+
+b/f+4, SSR, 2,d+4,3 f,f N B+4,3,4
+(Tag In On Bounced Opponent) d/f+3, b+4,3,4
+b/f+4, SS+4,4
+
+Haminko Specials: (Hehe I like saying that)
+
+b,f+4, {1},2,1 b,f+4
+b,f+4, f,f,f+3
+d/f+1,2 d/f+1+2. f,f+3
+d/f+1,2 d/f+1+2, f+1+2
+d/f+1,2 d/f+1+2 f,f,f+3
+
+
+Castel Juggles\Zaibatsu Listed Juggles: (www.tekkenzaibatsu.com)
+Starters : d/f+2_d/f+1,2_u/f+4_u/f,N+4_class 2 tag
+
+1, f+1,2,1
+d/f+1, 1, b+4,3,4
+1,1,2,3
+d/f+1, f+1, b+4,3,4
+1,1,2,f+4
+d/f+1, d/f+1, d+3+4
+1, 2,3
+d/f+1, d/f+1, b+4,3
+1, b+3,4
+d/f+1, d/f+2, b+4,3
+1, d/f+3,1
+d/f+1, f+1,2,1
+1, d/f+3, b+4,3,4
+d/f+1, 3, b+4,3
+1, d+3+4,4
+1,2, f+1,2
+1, b,f+4
+1,2, 2,f+4
+1, f+4,3,4
+1,2, d/f+3,1
+1, 1, 3,3
+1,2, b+4,3
+1, 1, b+1
+1,2,1, b+4
+1, 1, f+1,(2),1
+1,2,1, f,f+2
+1, 1, u/f+4
+1,2,1, (2),d+4,3
+1, 1, d+3+4
+1,2,1, 1,(2),4
+1, 1, b+4,3,4
+2,3, b+4,3
+1, 1, 1, 1, (2),d+4
+2,3, 2,4
+1, f+1, b+4,3,4
+2,3, 2,f+4
+1, d/f+1, d+3+4
+b+3, b+4,3,4
+1, d/f+1, b+4,3
+b+3, 1,2,(1),2
+1, d/f+2, b+4,3
+b+3, 2,3
+1, f+1,2,1
+b+3, 2,4
+1, 3, b+4,3
+b+3, 2,f+4
+d/f+1, 1,2,3
+,3, b+4,3
+d/f+1, 1,2,f+4
+u/f+4, b+4,3,4
+d/f+1, 2,3
+d/b+4
+d/f+1, b+3,4
+b+4, b+4,3,4
+d/f+1, d+3+4,4
+b+4, f+1,(2),1
+d/f+1, b,f+4
+b+4,3, f+2,4
+d/f+1, f+4,3,4
+f+4, 2,4
+d/f+1, 1, 3,3
+f+4, b+4,3,4
+d/f+1, 1, b+1
+f+4, d/f+3,1
+d/f+1, 1, f+1,(2),1
+f+4, d/f+3, b+4,3,4
+d/f+1, 1, u/f+4
+f+4,3, b+4,3
+d/f+1, 1, d+3+4
+
+Nightmare Back Knuckle : b+1
+
+d+1, cc, b+4,3,4
+d/f+1, f+4,3,4
+d+1, cc, 1, f+2,4
+d/f+1, 1, b+1
+d+1, cc, 1, 2,3
+d/f+1, 1, b+4,3,4
+d+1, cc, 1, b+4,3
+d/f+1, f+1, b+4,3
+1, f+1,2,1
+d/f+1, d/f+1, d+3+4
+1, 1,2,f+4
+d/f+1, d/f+1, b+4,3
+1, 2,3
+d/f+1, f+1,2,1
+1, b+3,4
+1,2, 2,f+4
+1, d+3+4,4
+1,2, d/f+3
+1, b,f+4
+1,2, b+4,3
+1, f+4,3,4
+1,2,1, d/f+3
+1, f+1, b+4,3
+1,2,1, f,f+2
+1, d/f+1, d+3+4
+1,2,1, (2),d+4,3
+1, d/f+1, b+4,3
+2,3, b+4,3
+1, d/f+2, b+4,3
+2,3, 2,4
+d/f+1, 1,2,3
+2,3, 2,f+4
+d/f+1, 1,2,f+4
+3,3
+d/f+1, 2,3
+d/f+3,1
+d/f+1, b+3,4
+d/f+3, b+4,3,4
+d/f+1, d+3+4,4
+f+4, b+4,3,4
+d/f+1, b,f+4
+f+4,3, b+4,3
+
+Nightmare Elbow : SS+1
+
+d/f+3,1
+d/f+3, b+4,3,4
+
+Starter : 3,2,1_class 2 tag
+
+f+1,2,1
+d/f+1, 1,(2),f+4
+1,2,3
+d/f+1, d+3+4
+1,2,f+4
+d/f+1, f+1,(2),1
+b+3,4
+2,3, b+4,3
+3,3
+2,3, f+2,4
+d+3+4,4
+1, 2,f+4
+1, b+4,3,4
+f+4,3,4
+d/f+1, 1,(2),3
+
+Starter : b,f+4
+
+Any Standard Combo
+f,f+2
+u/f+4, d/f+1, f+1,2,1
+SS+1
+u/f+4, d/f+1,b+4,3,4
+f,f+3                             big
+u/f+4, 1,(2),1,2
+f,f+4                             big
+u/f+4, 1,(2),1, b+4,3
+(2),d+4,3, b+4,3,4
+u/f+4, 2,3, b+4,3
+u/f,N+1, 1, 3,3
+u/f+4, b+3, b+4,3,4
+u/f,N+1, 1, d/f+3,1
+u/f+4, f+4,3,4
+u/f,N+1, 1, b+4,3,4
+SS+4,2
+u/f,N+1, 1,2, 4
+u/f+4, 1, f+1,2,1
+U/F,N+4, 1, f+2,4
+u/f+4,1, f+2,4
+U/F,N+4, 1, d/f+3
+u/f+4, 1, b+3
+U/F,N+4, 1, b+4
+u/f+4, 1, d/f+3,1
+U/F,N+4, 1,(2),1,2
+u/f+4, 1, 3,3
+U/F,N+4, 1,2,3
+u/f+4, 1, b+1
+U/F,N+4, 2,3
+u/f+4, 1, f+1,(2),1
+U/F,N+4, 2,4
+u/f+4, 1, b+4,3
+U/F,N+4, b+4,3,4
+u/f+4, 1, b,f+4                big
+b,b+4
+u/f+4, d/f+1, 1,(2),3
+u/f+4, d/f+1, 1,(2),f+4
+
+==============================================================================
+9) Okizeme and Ground Games
+===========================
+A good point to this section, is to do as much damage to an opponent while
+they are on the ground as possible. The idea is to drive him\her insane by
+keeping them down, and damaging them. Unlike Anna\Nina, Bruce does not have
+a huge arsenal of juggles, and destruction moves that will keep an opponent
+guessing. However. Here are a few useful ones.
+
+Ground Hitting:
+
+d/f+3
+b,b+4
+FC, 3
+FC, 4
+u/f+2 (Insulting, it really is)
+
+On Big Characters
+
+d+3_4
+b+4
+f,f+3
+
+Tech Rolling\Quick Recovering:
+
+d/f+3, 1
+d/f+3, b+4,3,4
+d+3_4
+f,f+3
+1,2,d+4
+1,2,3_4
+
+If an opponent techrolls:
+
+Then you should really be on top of them as soon as possible, landing
+something like a d/f+3, or if you want to be mean, and not do as much
+damage, a b,b+4. The d/f+3 juggles the opponent in this case, and can
+link into either its starndard tornado uppercut, or even the b+4,3,4
+(I said earlier I would forgive you this time. :) ) for damn good damge.
+
+But if your kind like me, you will just do the d/f+3, 1 and let them go
+running home to mother.
+
+Else you can SS before they move, and slam them with 3,5,7 knees
+respectfully. I already explained this part in the 3 knee section,
+and I dont believe I need to explain it again. If you skiped
+that section, then your still a scrub.
+Go read it.. go on shew. ;)
+
+This is a good time for the d+3+4,4 because it lifts them up and kicks them
+away. ;)
+
+A grounded opponent:
+
+There isnt really much you can do to keep them down, other than the d+3_4
+to keep them down, or the d/f+3.
+
+If there trying to get away, do a d+3_4 and keep them down. Its not
+good leaving them move. =) Yeah hes not as good as nina, INFACT if they
+try to get away, do the rave kick combo, just to send them on there way. ;)
+
+==============================================================================
+10) Styles of Play
+=================
+
+This is a really big section, hopefully. I am going to add HOW to
+play bruce properly in this section, showing that he does NOT rely
+on his 3 Knees to do damage, and his cool ass juggles that most
+people have not seen. No no, here is how to play him as each of the
+3 main ways.
+
+----------------------------------------------
+
+Poking:
+
+When poking with Bruce, you have to remember that his d+1 is really
+long, and comes out fast after a lot of moves.
+This is a big advantage to bruce, beacuse of the way you can utalise
+the d+1 to really lay the hurt down to retaliation.
+
+After a blocked pretty much anything, 1,4,3 1,2,1,2 1,2,4 or
+whatever, then you want to do the d+1 to stay safe.
+If you have an agressive mishima opponent, be warned that the
+priority on the EWGF is very high, and most likely will send you on
+your way to a big juggle if you time the d+1 wrong, in these cases you
+are better to block and wait.
+
+After a d+1, if you are even the slightest but unsure of what is
+comming, even if you wiffed the d+1, do the WS+4, it is totally safe,
+and is a very good move indeed. Use this often. The 1,2 combo is very
+VERY important. Throw it out to feel your opponent out, and keep them
+on defencive.
+
+Examle after a successful b+4,3 you should %60 of the time use a
+simple 1,2 untill they catch on. If the 1,2 hits, then you should be
+ready to do the 2,f+4 wich is by far his best ender for a CH 1,2.
+Its damage is very high, and leaves an opponent cringing. I laugh
+everytime someone lands this in NETSU because of how deadly it really
+is. I can exert this enough, if your in doubt, and against a
+standing opponent. USE THE 1,2!
+
+The b+4,3 has entered this section, because it is your gap closer.
+The last knee should never be used as an attacking device.. ever unless
+in a long knee set up juggle. NOT 3 Knees! This however should be used,
+when you fall victum to a sidestep.
+
+The b+4,3 is extremely high priority and snuffs out a lot of pokes,
+and does the damage to boot. If the first knee hits, the second is
+guaranteed. But thats were it stops. If your opponent sidesteps the
+first two knees, finish the string and you will sail safely into the
+distance, hopefully out of retaliation range, to your most frustrated
+opponent.
+
+Use the b+4,3 on a backdashing character to get back into range,
+or perhaps to land a free hit or two as normally they are very vulnerable.
+The b+4 on its own can be utalised as a very good poke, it is completely
+stationary with a good range, and a fast recovery. It leaves bruce were
+he started the attack from.. Meaning this is mostly safe from retaliation,
+combined with the fast recovery its almost completely safe. I dont actually
+know any retaliation against it. The only real downfall is the lack of
+damage that the b+4,3 would have done. ;) I have tried to do a few of
+these in a row, but it seems that the b+4 doenst come out to fast after
+some moves.. (The 3,3 for examle.. So much for a juggle) But yeah, its
+worth the poke every now and again.
+
+If your unsure of what you should do next, just whip out the 1,2,d+4_4
+mixups, this can drive an opponent over the edge, bringing him to a
+barage of hissy fits and piss ass tantrums because he cant get throu your
+attack. You know you can use this combination of attacks well, when
+you dont know yourself wich one you are going to pull out next. This is
+also extremely good againts backdash turtles. You can destroy there
+guard with this, and a few throws.
+
+The 1,4,3 isnt REALLY a poke, but it comes in here anyway if you
+"Purposly" wif it, so that the kicks will connect and be blocked,
+leaving you mostly safe. However, this isnt really a poke, and should
+be used more as a counter\interupt move.
+
+The d+4_3 is definatly a quick poke that you can use to nudge that
+little bit of extra damage out of your opponent moreso to piss them off.
+You can do this 2 or even 3 times in a row, but no more, and not
+more than once a day, even perhaps a week. Because you will be sooo
+punished. Use this also to force out a crouched JIN that your afraid of.
+People do the WS+2 expecting it will hit..
+A tip.. It doesnt. ;)
+
+----------------------------------------------
+
+Interupting:
+
+Bruces main task throughout the duel is to poke your opponent and to
+interupt there attacks. This takes a lot of anticipation on Bruces part,
+as well as your own. You must know that Bruces jab is VERY fast and
+has high priority. Meaning you can chain and pummel but also do what this
+section is on. Interupting.
+
+This is pretty much guaranteeing yourself a CH with the hit. This is done
+quite easily actually. When taging in, do the simple 1,2,1,2 combo, you
+will be very suprised what this will catch and interupt, also
+this can stun your opponent, leaving them startled for a moment for
+you to run up and d/f+3 there ass.
+
+I have countered a Hell Sweeping Kazuya, in his second spin with this
+move.. and even tag divers.
+
+The d+1 is a move you will interupt with often, as people will expect you
+to have quite a long lag after a lot of your moves, and attack midlessly
+if not relentlessly. Its priority out does many moves, and should be
+used as somewhat of a shield. A "yoshi's flash" if you will.
+You then can do whatever you please, might I suggest a ws+2, a slower
+but juggling uppercut that only juggles on a CH. Many times, while you are
+in crouch possition, people see this as vulnerable, if not potentially
+stupid. This can be fixes with a quick WS+2 from the crouch, that should
+interupt, followed by combo of your choice for the access damage.
+
+The 1,4,3 is definatly a great move to follow many attacks with, I often
+do this after a blocked 1,2,1 string, and deliberatly stop it there, and
+do the 1,4,3. The 1,2,1 string leaves you with a -1 advantage, wich means
+anyone with an 8 frame jab or higher, has exactly 1 frame less than you
+to hit with, and if you do your jab first, you will often find that the
+1,4,3 will hit on a nasty counter.
+
+The 1,2,1,2 is moreso used on an incoming opponent that wants to rush
+in with a nasty attack, nothing mishima style, short of the shining fists.
+If they thing there coming in with it, then show them the power of a real
+counter with the 1,2,1,2.
+
+The 2,f+4 is not useless, it is used as an opening punisher, wich is why
+I will put it into the "Punish" section and not here if your wondering.
+
+However the 2,3_4_d+4 is by far a useful interupt move. It stuns your
+opponent enough for the 3 to knock them over on a CH, and sends them
+off there feet, leaving you for set ups, and a retaliating opponent with
+slow wits will get hit by this a lot. A faster one you may have to
+take it a step up, and do 1,2,3 instead. However, these are great for
+people coming at you.
+
+The 1,2,d+4_4_3 is the combo you will use to interupt very often,
+knocking your opponent off there feet and pretty much destroying there
+ego, and everything else with it. You can
+hang back and win a match using nothing but this, but thats for the
+"turtling" section. So use this when you want an interupt, but just
+arent to sure of yourself.
+
+----------------------------------------------
+
+Bulldogging:
+
+By putting constant pressure on your opponent, you can do one of two
+things, win the match, or watch his head explode, and his temper tantrum
+errupt into yells of "Cheap!" and "You Suck!"
+
+But none the less, this is my favourite way to play bruce. This is all
+to do with timing, you must link pokes in with a good defence, blocking
+when you need to, then going back on the assault. Making sure your
+opponent knows who has superiority when laying the smack down.
+
+You can easily do this, by laying down my most over abused string,
+the 1,2,1, 1,4,3 wich, if the 1,2,1 is blocked, you will nail
+retaliation back into your opponents face. This is the basis of my
+attack, wich I do NOT over use, or abuse. I mean abuse by it is what
+I use to "Trick" damage out of the opponent.
+
+Mix this up with a constant barage of attacks, SS+44's and all the
+poke mix ups listed above.
+Make sure you catch your opponent on a counter whenever he tries to
+attack, because that is when the psycological games start at there
+most deadly way.
+
+Your opponent will go straight into turtle\interupt mode, were
+is why you must learn when to block. I can not tell you this,
+but there is no point in doing a 1,2, 1,4 3,3 string against a
+mishima because it WILL be gone under and slamed with a CH on a
+WGF and you will be totally screwed.
+
+Pressure your opponent with a few d/f+1,2 and keep them standing
+for your pokes. If you do this, then you should be safe with the
+rest of the retaliation that may come with it.
+
+Otherwise you can tack on a 1,4,3 onto a blocked one, and
+depending how fast you\your opponent are, then you
+will either get a CH or a really bad headache. ;)
+
+----------------------------------------------
+
+Turtling:
+
+This is really underestimated with bruce, because you can get many CH from
+waiting for an attack, and then slapping a CH on there forehead followed
+by a big 2,3 2,f+4 juggle.
+
+You can do things like the d/f+1,2 liberaly, hoping they may walk
+straight into it. Dont look suprised, it does happen.
+
+And also, you can do a backwards hopkick u/b+4 to get some distance and
+range from you and your opponent. This looks stupid but it does come out
+fast. And can deal a little damage as well, being very frustrating to
+your opponent.
+
+You have to wait out a lot of moves, prefering the retaliation of one
+or more strong hits, doing little chunks of damage over huge CH combos.
+This is done with the b+4,3 and the 2,f+4 combos, that do such good
+free damage if they hit. It is always nice to land a CH on a stupid
+mishima, but this is not always the case on a charging mishima bull
+horned freak.
+
+This is were the 3,2,1 is most useful. The 3 on the 3,2,1 has very
+good range, and if you anticipate your opponent coming at you, it
+can be used as somewhat of a "HAHA your going to fly", tool. A few of
+these and some small juggles with a netsu will see your opponents life
+bar of to the dumps. Heh, heh heh...
+
+Anyway you want to land a lot of d+1 for the poke damage, and follow
+it up with a totally safe WS+4. You should do this often, buffering
+the chicken on reversal happy opponents, and even non reversal happy
+ones just in case. It can deal damage too. ;)
+
+----------------------------------------------
+
+Punishing:
+
+Ooooh, this is the Anti Scrub section, for those people who make too many
+mistakes..
+
+Finishing shining fists and the like.. Simply wham a good move into them..
+good moves for this are
+
+d/f+2
+ss+4,4
+TUMBLE WEED!!
+d/f+3         Then stand there looking at them. ;) Hehehehehhe..
+b+4,3
+f+1,2         More of an insult really..
+u/f+4         I prefer the d/f+2
+any throw     Yeah yeah boring
+3,3           If they hit a button thinking "Hahah fool did a small move" 
+you can laugh
+              as they go flying.
+f,f+2         GOD I LOVE THAT FLIP OVER! You must yell.. "FREE TRIP!"
+f,f+3         Not really a good idea, unless its REALLY bad wiff..
+f,f,f+3       Better, but it will be blocked with a BIG stun to boot. ;)
+2.f+4         FEEL THE PAIN!
+
+In FC position
+
+WS+4          YES! OH YES! Do this ALL THE TIME!
+WS+2
+d+1           Boring. =(
+d/f,d,d/f+1   Hehe if this hits its STYLE!
+
+So yeah, theres a good list, it shall surfice for now. ;) It will get
+bugger later. ;)
+
+==============================================================================
+11) Ask The Experts
+===================
+
+This will be an ever growing portion of the faq, or so I hope anyway..
+At the moment, I have not gotten the opinions of many people at all, but if
+you have something to say, then please feel free to email me and I will
+look over what you have said, and decide weather it is worthy, or has not
+been already said. You will get full credit and a small portion in this
+section with your name and your un edited comment.
+
+Email: Grim_Walker@hotmail.com
+
+==============================================================================
+12) Vs CHARACTER
+================
+
+This is were we tell you how to beat charicters..
+However this is mostly a reference on what to expect, not an easy to use
+guide to destruction. You must learn bruce and his talents first, then you
+wont need this section at all.. But for now I will tell you what to expect
+from some characters.
+
+Alex/Roger:
+----------
+
+This will be a Greulling fight of throws and pokes. Stay close,
+get ready to escape the throws. Use a lot of scare\keep away
+tactics on him, and watch out for his deadly SS mixup game, its
+insane to say the least.
+
+His SS+4 can be punished by a lot of people, I mean it
+gives mishimas a guaranteed WGF\EWGF so it cant be
+all that good on its block stun. I assume the d/f+2 is much
+the same, so punish him quite redily with whatever you can.
+Be careful, if you see Roger crouch dash, then get ready for
+the AGF. He can go right under a lot of your M\H strings
+and slap you with a counter, make you loose a HUGE
+portion of your life, and seriously damage your ego.
+
+This is not something you can avoid esily if you go
+out on an all out offencive.. If your up against one
+of these, then stay back and turtle, bounce a bit, d,n,d,n
+so you can trick your opponent into doing a low attack
+and block it if your lucky.. but otherwise, be careful.
+
+Thing is, this is proberbly going to be a GREULING
+match, watch out also for the FC, f+2 that can juggle for
+good if not devestating damage. Good luck against a master,
+cause he\she is gonna poke you till you scream.
+
+And dont underestimate roger, his power is undescribable.
+The damage he can dish is damn near overwhelming. Keep
+your limbs to yourself as much as you can, and go into short
+linear pokes, a lot of 2,4_d+4 is definatly a good idea, because
+roger will SS you can you will keep going on anything more
+than on average two hits.
+
+Angel/Devil:
+___________
+
+This guy is a JOKE. Watch out for the twin pistions. Stay low,
+and keep an eye on the laser while tagging. His twin pistons
+are seriously overused. It is not a threat if you are standing,
+it is only a juggle if it lifts you up, and in that case, its
+gonna put you into a juggle.
+
+If its overabused then you can use the f,f+2 to counter the
+sob that is laying into you. If your really fast, and you block
+the first of the twin pistons, you can f,f+2 on the second half
+and slap em with a good damage counter. IF YOUR REALLY
+FAST!!
+
+Do a lot of the 1,2,1 1,4,3 string to push devil out of range.
+Dont initiate a long distance attack, because you will eat
+the SS+2, istead, simply keep playing him with the 1,2
+and the 2,4 to keep him away, and seriously irritae your
+opponent. Devil\Angel have the hellsweep, but if you are
+weary, then you can see this coming. When you block this
+do a d/f+2 and lay the hurt down.
+
+A general rule to keeping Mishimas off you is to do a 2,d+4
+when they are crouchdashing at you. This stops momentum
+and is also a general rule here too. ;)
+
+If they wiff the devil twister, you can land any standard juggle
+starter, and land whatever damage you feel nessesary.
+
+In reality, if you face a master with this character, your best option is
+to not let them initiate crouchdash, the WGF is special mid like
+Heis, not high like Jins, lucky that Devil has no real juggles that
+will do damage on his own, the main one is just WGF, 1, 1, WGF.
+Be careful, and stay close. Devils most powerful ability is his
+crouch dash.
+
+NEVER use the Southern Cross unless you are sure it will hit.
+There Twin Pistons is GUARANTEED on you if it is blocked.
+
+Anna:
+----
+
+Stay low and away.
+Plan your strings better, a simple 1,2,1 1,4 3 will chances are
+be interupted by her insane poke speed. This is due to
+her having the fastest d+1 in the whole game damn it. But
+none the less, bruce has a longer d+1. Stay in Bruces range,
+his kicks are long and pose as a good threat to anna.
+However dont throw it out left right and centre. Simply
+go into defencive mode. Because of the fact that anna has the
+QCF+1 on CH that moves FAST then you pose a seriouse
+problem, let me assure you. None the less, it can be ducked.
+Duck it and do a WS+2 on her, for good damage, and perhaps
+a juggle, always buffer a chicken because the reversal is so fast
+after that.
+
+You want to stay on top in this match up, the d+4,1 and d+3,2
+are excellent pokes and counter moves, they can buffer in a SS
+but most people use the qcf+1 to do most of her damage. This
+is pretty much standard, so stay on your feet and SS a lot, it has
+a little tracking and is a real pain in the ass a lot of the time.
+
+Erm, poke when in range ONLY. This is important, really
+important. This is perhaps bruces most dangerouse match up
+because both characters are TOP TIER CH CHARACTERS.
+
+And it gets to be a real pain in the A$$ but otherwise, watch
+out for her u/f+1,3.. the f+1+2 is a true combo after it, and
+you might even spend the whole match trading that combo
+from her with your own 1,2, 2,f+4 that does BIG damage.
+
+Watch out for 3 main string moves.
+d+1, N+4
+d+4, 1
+d+3, 2
+
+These are the moves that she makes strings out of. So be wareful
+of these.
+
+Armor King:
+__________
+
+This guy's WGF is anoying. A LOT of his moves hit high. He has no
+mid throws, and the WGF is the only mean attack SPECIAL MID. Just
+get in his face and stay low. The WGF is, IMHO the best WGF in the
+game, its not as damaging as the EWGF or the 3EWGF, but it seems
+longer ranged, and more chances to hit than the Mishimas. As for
+juggles, you are looking at a small chunk of your life bar dissapering.
+His WGF can be countered with your f,f+2 but its not likely to
+happen, wich is why I wont advise it now.
+
+Whenever he Crouchdashes, he is either going to do the Black Knee
+or the WGF, knee is mid, wgf is special mid.
+
+So a simple d+1 will stop anything that may come out.
+The clothsline from hell f,n,d,d/f+1, is a very
+fast move, but it hits high. Try to duck the clothsline if
+you can, cause if you get hit by it, you will go flying backwards.
+Also watch out for his Black Shoulder. That can be very damaging.
+After the black shoulder, forget the throw, it is very apealing
+to see A. Kings side to you, but a quick poke, and anything that
+may have done damage is then thrown out the window.
+For bruce this means a good 2,4 or 1,2,f+4 or something of the
+like for most possible damage in the small window of opportunity
+that there is.
+
+Else, he can poke just like the rest. Watch out for his D+1, and his
+D+1, N+2 cause they can be anoying.
+
+He shouldnt get close to you, bruces range is better and stronger than
+A.Kings, and if he gets close, you will have top push him back out again.
+He uses the WGF to punish long range attacks, but if he gets predictable
+use the f,f+2 to scare him into retreat. It normally works.. Then go
+in for the kill, and watch out for the low dropkick.
+
+Keep in mind the Hop Kicks and the Low Dropkicks. They come out
+of no-were. The hopkick is fast, it has good range, and damaging
+juggles to follow. As for the low dropkick, again, if you stay
+low, this should not be a problem. Dont try to low parry it,
+chances are you will land flat on your face with sore ankles.
+Otherwise, its a poke match from hell.
+
+Baek:
+____
+
+This guy is strings, LOTS and LOTS of strings. Watch out for his
+WS strings, they come out fast, and dont stop. You dont want to
+get juggled, because he can do some nice damage like that.
+Just try to poke and block as much as you can. And inticipate
+the next move.
+
+This is bruces most agressive opponent, and you MUST interupt
+him on his string changes, he reaches a point were he will be
+able to be interupted by your 1 and that will hit on a CH for
+such huge damage its not funny. You must anticipate.
+
+An advanced BAEK can wavedash, this is perhaps his highest
+priority to get close, to land his dangerouse strings. If
+you get hit by the last hit of his ws, 3, 3, 4 his u/f+3+4
+is a guaranteed hit, so be wary of that string. Baek has
+a few low hitting moves, but during some point he must go
+to a high hitting move. A lot of the time the transition between
+these moves are when you want to interupt them with the 1,21,2
+combo. This deals HUGE damage and will proberbly force your
+opponent to shorten his strings.
+
+REMEMBER: If the next move has the option of being Low, or a
+mid hitting juggle starter, better to block mid. Unless you
+know that the next move is low. Because, you would proberbly
+be better off taking a low hit, than getting juggled for a
+lot of mean damage.
+
+Eddy:
+----
+
+Pass, seriously I have never played a good eddy before.
+
+Ganryu:
+------
+
+This guy AINT no joke nor jack. This guy can pull off some of the
+most DAMAGING juggles I have EVER seen. Stay up, and watch for an
+oppening, he is NOT slow, so you have to be clever. Poke when you
+can, and watch out for his punch parry. If you are caught by it,
+you cant chicken it, you will take throw damage, and you are left
+with you back turned, and he can pull of anything from a side kick,
+to a Head Rush F+1+2. Chances are, he is going to sit down infront
+of you. There are two options here for old Ganny. He has a Megaton
+Palm, that hits mid for NASTY damage, and also a arm sweep, that
+he can turn into small juggles. If he does the spits, then he can
+roll sideways, but this isnt too much of a threat. If he sits down
+infront of you, you should do a d+1 straight away. You should not
+let him get back up. If he does, its a guessing game, and that is
+not what you want. Also, he will try to get you with his Sumo Push
+d+1+2, if this hits, you will stagger backwards, and if it is blocked,
+he is left with initiative. Although I dont recomend trying to stop
+this move with a poke, you can try it if you feel nessesary to stop
+it. Also, keep in mind, that he has a slow, but damaging sweep. It
+is hard to sidestep, and has no sweep stun when blocked either. So
+all in all, ganny here is a good character to use.
+
+This is were your 1,4,3 comes in most useful. On a CH its guaranteed,
+but also if it hits, I think it may be a guaranteed combo also.. anyway
+this is the combo you must use when Ganny misses or wiffs a move.
+He is a very 1 hit person, so your not going to get many opportunitys
+for the interupt. If your up against a turtle, then the Sniper Kick f,f,f+3
+is a good entry mid hitting move that has big block stun, and gives you
+initiative to come back in and murder your opponent quite happily.
+
+Haplesly take heed my words when I say dont get hit, and let him get
+on the offencive. Because he is dangerouse. Use your f,f+2 a lot,
+gannys kicks suck, and the f,f+2 will interupt a lot, or give good
+block stun, good range etc.. this is your main move next to the
+southern cross 1,4,3 combo. Here also, is were you must use
+the 1,2,1, 1,4,3 combo often, because it cant be interupted, unless
+ganny does a reversal on the 1,4,3. Otherwise if blocked its safe.
+Lastly If you get hit by the last bit of his WS+1+2, 1+2 the throw
+for him is GUARANTEED so be ready to break it.
+
+Heihachi:
+________
+
+A good heihachi player will have you on your toes all the time.
+Dont go head to head with his crouch dashes. Chances are you'll
+loose. Get the throws off, and roll whenever you are grounded
+and think the stomps comming. Techrolling is a good idea sometimes
+just to get away from a stomp happy opponent. But if your opponent
+mixes up with hellsweeps.. Then you have a problem. Stay down,
+and take the first hellsweep. Its better than taking the whole
+two hellsweeps into an TGF. (I say 2, because most people know,
+that the 3rd hellsweep will chances are, not connect.)
+Again if you are fast, then the d+4 or the 2,d+4 is a good Crouch
+Dash killer, IF your timing is good, else you will die.
+
+Watch out for his kicks, things like the standing CH 4 can be
+leathal and damaging to say the least. Dont get him on a counter
+with your CH 4 because, it will do an automatic counter. He still
+takes damage, which is funny to watch as an ending move I might
+add.
+
+His WGF hits special mid now, so don't be afraid to block it from
+any height. If you a crouched, it will send you back a bit, and
+you should be able to recover before he does anything too painful
+to you. Just keep in mind a few things about his Crouch Dashes.
+
+1. After a hell sweep, if there is a pause, the TGF is coming.
+2. The second hellsweep is always blockable accept on counter.
+3. The TGF has no Mid\Low kick after it.
+4. The WGF is SPECIAL MID. NOT mid.
+
+Heihachi has no d+1 poke, it is a tile splitter, BUT a good
+Heihachi player will know that he has a d/b+1 poke. That is
+just as good as the d+1 poke of other characters. He is BEST
+played out crouch dash distance. Dont let him get into this
+position. Chances are he will shadow step out of hellsweeps,
+and stand back. His CD game is very good, so you want to poke
+ALL his CD's. Make sure you dont let him get to CD distance.
+Stay in his face and poke like mad. Dont let him do anything.
+
+The Twin Pistons d/f+1,2 is a good juggle starter, be careful
+of this. You should SS+4 whenever you feel a mid\high move
+comming out. He wont stop in the middle of a Crouch Dash.
+Or if he is wave stepping, again, a SS+4 should stop him.
+Again, he plays much like ganryu, you must set up your own
+CH interupts, things like the 1,2,1 1,4,3 cant be interupted at
+all here, so a good time killer, and life killer for the stupid
+as well. The f+4,3 can be a good poke here, because of the
+fact that Hei likes CD range. Suprise.. and the f+4,3 is two
+good ranged kicks. Use them often if hei is on defencive and
+it can give you the initiative you need to get in there.
+
+Hwaorang:
+________
+
+Toe to Toe. Interupt EVERYTHING with your 1,4,3 1,2,2,f+4
+and your 1,2,1,2. This is heaven. Learn when his strings can
+be interupted. And dont let him BREATH. Bruce can damn
+near rip this guy appart. If your not certain, do a b+1 for
+huge damage, and make him pay a price of strings. This
+is the character IMHO bruce was MADE to beat.
+
+Instead of ducking high parts of strings, do the b+1 because
+it will stun, and you can land whatever after that, wich is nice.
+D+1 is INVALUABLE here, if he is a distance fighter, that
+likes to use his kicks, maul him with whatever you have.
+
+Crazy Legs: This is a Class of its own. This is a very dangerouse
+way to play old BOB here. I have no tacticts VS this, just stay low
+and POKE like mad. Dont do any lag moves, and try not to get confused
+by the amounts of moves that soon follow. Crazy Legs depend on the
+player, but is very pattenised. Just watch for a pattern, and look
+for oppenings to destroy your opponent.
+
+Jack 2:
+______
+
+Raw Power. Watch out for his uppercuts, and SS moves, they can do
+the damage. And he is faster than people estimate, so take care.
+He has mostly the same moves as Mr M G Jack, with lack of a few
+and gain of some others. Watch out for his Ram, it seems to go
+down well with scrubs and masters alike, and also his SS arsenal.
+The SS arsenal is mostly high, that doesnt mean stay low, cause
+you will eat a double knuckle in the head and that would hurt.
+No no, just SS and poke. Get in his face, and wait for a botch
+up of Wiff. Then nail him. On Paper, should be easy. IRL, not
+so much.
+
+Jun:
+___
+
+Jun is VERY string based, and a lot of moves can be ducked. She is
+an easy kill all in all.
+
+Sadly shes not really interupt material for Bruce, but it can be done.
+She may be slow, but she is a very good character to play. And is
+by far as good as Nina atleast. She can dish out the damage, and her
+strings are hard to interupt. You can trade string for string, chances
+are you will win. Her stamina isnt very good, but damn can she
+dish the damage out if you get hit. Her juggles are weak.. so yeah.
+
+Get in there and do what you can to CH!
+
+Also, sidestep whenever she wiffs a move, and punish her. Watch out for
+the Can Can kicks d+3+4 thou, those things are leathal to their name.
+They are not like jins can can kicks, she must have been having a
+period when teching him those, cause something went VERY wrong.
+But anyway, the most favourite string to scrubs is the Punch Punch
+Sweep X3 and from start again. It is easy to low parry the sweep.
+Watch out for the No Hand Cartweel Thingee thou.. (The thing were she
+flips sideways and hits with both her legs, you know the one, I forgot
+the name) And poke her out of her long boring strings, and teach them that
+Punishment is your best trait.
+
+Else all in all its nice and easy.
+
+Now, a master. Stay out of his reach. Once he juggles you,
+do whatever nessesary to get up. DONT STAY DOWN. Cause
+once you are, you have a problem. Jun is VERY good at dishing out
+damage to air and ground opponents, and more so when it comes to
+juggling them. If you get in close, expect strings. Low parry when
+the sweeps come along, they almost always do, and interupt whatever
+comes out high. Again the Can Can Kicks are a favourite in this
+recipie for destruction. Keep that in mind. This is going to be
+a greuling matchup of skill and poking, good luck.
+
+King:
+____
+
+Scrubs? Learn the breaks and beat them up. EASY.
+Masters?? Get in close and poke. This is going to be a war,
+and watch out for the multi's, default to {1} for your break
+after you miss the first {2} break. Chances are, if there not
+good, they will do the Giant Swing. Else watch their hands,
+and if they do the Mussle Buster, default to {2} again.
+
+All kings multis have {1} as a break in them.. Just learn that and
+you should be fine against throwers.
+
+Now, a master will utalise his pokes, and his strategical
+moves. He has a fast hopkick, that leads into small damage
+juggles, that can put a world of pain on if you get thrown
+on the ground. The most prefered ground throw is the Head Bomber.
+
+The break for it is {2} so if you are ground thrown, do this.
+Poking kings are more anoying, they tend to use a lot of standing
+pokes, more so, you should realy be standing against king, if he
+crouchdashes, poke with a d+1. Watch out, king has the d+1, N+2
+It is still devistating. His new poke, is the d/f+1,2 that does an
+elbow sting, into a gutpuch. This is stoped by poking him yourself.
+
+Ok, now, king likes to throw. Most of his damage come from throws.
+The most used command throw is the Muscle Buster. A break of 1+2.
+Then again, the other one is the giant swing. Which has a break of {1}
+So an idea is to push 1, hold, and press 2 for a break. This should
+break any throw that has a break of 1 or 1+2. Watch for the mid throw
+moves that can leave you in a position that you can be ground thrown.
+This is one time I must say, Poke like crazy, and GO head to head
+with his crouch dashes. If he crouchdashes, do the same you might
+land a TUMBLE WEEEEEEEED!!! Hehehe, cause bruce is slower. He might
+do the double knuckle out of the crouchdash, then you have a problem. You
+Will want to use pokes instead in that case. ;)
+
+Dont go head to head with king throwing, being a King master
+Thats just stupid. Show him you have just as long pokes as him
+and damage the BEJESUS out of him with them, and the GUARANTEED
+CH that comes with the damn thing. ;)
+
+Kuma\Panda:
+__________
+
+Dont get hit by the fart. Easy as that. Nah, Kuma is a force to be
+reconed with. The new Bear Stance is very nasty, and can keep away
+a bulldoging opponent really well, just be careful, he has a few
+options from here, namely a bear fling, that hits mid, and also
+a bear swipe, that is like a fast poke. If this hits, the harder
+right hand swipe is unstopable, and quite damaging, however, this
+will take him out of the stance. Also, when he is in this stance,
+he can not block at all. This is handy, cause you can 2,4 or whatever
+else you feel may be nessesary to do good damage and keep him
+out of it. You can generaly get interupts, you will however have to
+use your own timings etc depending on the opponent, and it may
+be easier to set up interupts. Watch out on the 1,2,1 1,4,3 I dont
+*THINK* the f+1,1,1 can interupt, but I am the only AVID Kuma
+user bar Abrar around here so I am not sure, have to check it out.
+Poke anything else he does, watch out for his deamon paw uppercut.
+
+I think everyone would agree that this IS his best juggle starter.
+It can launch you up, for a quick tag or good damaging juggles.
+So watch out. The circus roll is tagable, so if you get cought
+by this, you can expect to be hit by the partner soon after.
+His fastest poke is the f+1, which combos into a G-Clef Cannon.
+The Cannon does good dammage, juggles and is taggable, so watch
+out. Else, his d+1 has an uncanny range, and is fast, so it will
+stop pretty much anything you try and do if your not careful.
+His f+1+2 hits high now, and is pretty much faster than T3 so
+watch out. Do a lot of SS and WS moves. And really poke him to
+submission. Break the Circus Roll whenever you can, and if
+you dont, be ready for damage. Else, just be careful..
+
+Kunimitsu:
+_________
+
+Watchout for the d/f+2 cause that's gonna hurt. Else you should
+be pretty ok. Just keep an eye out for her tricky tactics.
+She has the d+1+2 were she disapears into the floor for a bit,
+and raises back up. The other disapearing act she does, she comes
+out of the roof with unblockables. This is not actually that
+dangerouse, a standing 4 kick will stop her from hitting you
+most of the time, the hit, though unblockable, follows a very
+narrow path straight down. So anything to be hit by it, must be
+directly under it. The other real damaging things are her
+Poison Wind d+3+4, which is easy to avoid, and her SS+3+4.
+Which is like rogers SS+4 but not as cool. I have never faced
+a good Kuni before, so do not know much. I think its a lot like
+yoshi?
+
+You can lay the smack down whenever she wiffs anything, so
+you should do it when you can, else yeah.. ANYONE?
+
+Law:
+____
+
+This is pretty much GREULING. Don't let him juggle you, you will
+be in a world of pain.. Just stay out, and try not to get caught
+on a CH with the 1-Inch. Else, the Dragon Slide, and the Dragon
+Tail are his main low moves. Wait for a nice high flip and smack
+him with a 2,f+4 or 2,d+4
+
+Poking will beat him out of anything big he migh try to do.
+Watch out for his WS position, he has a BIG uppercut that can lead to a
+WORLD of pain on a good tag juggle. His Junkyard Combo (B+2,3,4)
+is a favourite with scrubs. They try to mix it up with his other
+Dragon Punch Combo (Is that what its called?? B+1,2,1) Don't even let
+him start it. As soon as you see the first punch, kill them with your own
+combo of 1,2,1,2 or 1,4,3 and sow them the error of there way. Easy fix.
+Else, if you know its the Junkyard, lowparry the 3. And do a hopkick for
+a nice little juggle.  The other problem you may face is he has a fast,
+and I mean FAST flip from the d+2 punch. This may be a problem
+for any rush moves, as the d+2 will stop you, and the flip will
+send you right up for some mean damage. Otherwise, he has a parry
+
+(Just found that out. =) ) And a wierd dance punch parry. While hes
+dancing hes fodder for the f,f,N+1. Otherwise, you should be able
+to poke like mad. And stop almost everything else. Just low parry
+the second hit of the junkyard combo. PLEASE!
+
+Lei:
+____
+
+Kookie is the right word for this guy. A lot of people do the razor
+rush into a stance (f,n+1,2,1,2,4) Just remember if Lei does the
+last kick, he goes into a Crane stance were he CAN NOT block. There
+are also high or low hits from the crane stance. Get in and punish with the
+1,2,1,2 or 1,4,3. That will stop most lei's in their tracks. If you are
+against a HAHAHA lei, then you have a problem. Try to pull off as
+much damage as you can. And make Lei come to you. Tag Slide, do this
+when you can..
+
+Wait till he does the HAHAHA and slide him. Chances are he will do a
+MID punch to stop you and will go off his feet. Otherwise, just look
+out for the RAVE SPIN, (d/b+4,4) If he does this and you block, stay
+low and do an Get in and Use the opportunity to get in close, and
+punish with your own moves.
+
+If Lei lies down FU/FA Do the d/f+3 ONLY. Dont get near him
+cause he could Rave Spin or Kangaroo Kick, just beat him up.
+If he is lying FD/FA watch out for the slide.
+
+All his moves are pretty much low, so go in carefully, stay low, and
+get ready to block the slide attempt. The other thing, while I remember,
+is dont attack a backturned one. It is bad for your health.
+The other thing I have learned, is people tend to prefer certain moves
+from certain stances, if you watch carefully, you may be able to
+anticipate anything that may be coming.
+
+Also, when he goes into an Animal stance from the Razor Rush, do a d+1
+to get him out of it straight away. That is your best option every time,
+and stand, and get into his face again. Do a lot of mid hits, to keep him
+standing and some low ones for good poke damage. Use the 3,2,1 often also,
+as a good ranged keep away get close safely move.
+
+Ling:
+____
+
+What to say, ling will stay low, REAL low, get in on her. She's fast,
+so watch out for her WS+2 that can lead to a MEAN juggle. Her juggles
+are FINATICAL so dont let her get you up. A lot of her moves are low.
+Do a lot of b+4,3 to get in close, and make sure she doesnt duck. After
+that do a 2,4 to teach her not to duck, you can almost guarantee she will.
+You can interupt a lot, but use the d+4 HEAPS when she is low in anything.
+It is quick and leaves you safe. Dont do 2,4 when shes in Phoenix Stance
+cause you will wiff and get hurt.
+
+All in all this is a nasty battle. And should not be taken lightly.
+If its a scrub thou, pulling out those dumb Phoenix Stance, roll around
+throws, just duck and punish till they die. Oh, and remember the most
+USEFUL move against ling. USE the D+1 WHENEVER you need it. Its going
+to be a NASTY poking game. The thing with ling, is a master will be all
+over the place, dont try to throw a backturned ling, you are gonna get
+hurt somink KRONIK.
+
+Instead do a b+4,3 b+4,3,4.. Believe me it will show her whos boss. ;)
+
+Machine Gun Jack:
+________________
+
+What to say, he is NOTHING like Ganryu, just poke him till he goes
+BALISTIC. Thats it. SS+4,4 heaps. and all inall you should be able to
+beat him EASY. SHOULD is the key word. On paper this is all good,
+IRL against a master, its a different matter. Watch out for throws,
+and make sure you dont stay too low. A few of Mr. M G Jacks moves are
+power low, but they are slow. PARRY THEM whenever you get the chance,
+and remember his guns ARE blockable. He has, as I have discovered,
+a very fast d/f+2 uppercut, with good distance, mid hitting, and doing
+decent juggles can make you loose a good portion of your life.
+Else a lot of his moves are pure, raw, unadaulterated power, and are
+not very hard to stop.
+
+Also, watch out for the Dark Greeting PLEASE!! This move is EASY to
+stop, and so many people get hit.  This is OPPORTUNITY CENTRAL
+to rip him APPART with 1,2 2,f+4!! One more thing. Dont anticipate
+what he is going to do next from the Scissors. Its either a low
+Scissors or a good Megaton Punch. All in all, you can do a d+1
+before the second move comes out. Then go into a poking frenzy,
+from string to string, don't let him do anything. He is very slow
+in the long run, and relys greatly on his power play. So just poke
+untill your opponent tags, and realises his Gun Jack is neautralised.
+Then again, if you fight a scrub, laugh.
+A master.. Good Luck.
+
+Mokujin/Tetsujin:
+_________________
+See all Chars. Just learn the stances so you know who he is!!
+
+Ogre:
+____
+
+Keep out of his kicks, and watch out for his F+2 and his
+f,f+2. The hand snap thingee can be sidesteped after the first block,
+but that doesnt leave you with much initiative, if none at all.
+However if you are good, you can b,b dash instead, wich will leave him
+open to ANYTHING even the b+2+3 sidewider is a good oprion here,
+you can literally rip Ogre Appart in here. ;)
+
+Forget the Infinate Kicks, no one in there right mind will do them.
+Or a smart person will do the first few hits, which I might add does
+DAMN nasty damage.. And then stop. If they like to continue them thou,
+a simple SS+4,4 will stop them very quickly. A good idea is to watch
+out for his legs. They are very long, and can be very damaging if
+your not careful. But any ogre will try to initiate his crouch game,
+the range of moves from this position is too good to give up. Also,
+when you are down, watch out for his double fist cannon ball thing
+that he does. It hits grounded opponents for more damage than I would
+apreciate taking, and that, other than his SS+4 wich is a type of sweep,
+is about the only ground hitting moves he has, but dont think that is
+not enough, because it is.
+
+You can be a pain in the ass with a lot of b+4,3's to keep him standing,
+and get in close, this will stop the stupid Crouch games he plays. ;)
+If you get in close, throw him and get back out again. Its as easy as
+that. A master will do a lot more of his kicks thou, and you will
+have to go toe to toe in hopes that your jabs are faster.. and you can
+catch an interupt here and there. ;)
+
+Paul:
+_____
+
+This guy is the Deathfist masher of the millenium. Most likely,
+you will face nothing but 10-Stringers or Deathfist Junkies.
+All you have to do is poke. If by chance, you do face an opponent
+that manages to use paul more than with Deathfist alone, then you
+will have to watch out for his Elbow QCF+1, into juggle with deathfist
+ender. The Falling Hammer combo's, like the deathfist\falling leaf
+combination, just do a d+1 to stop whatever comes out. Its always
+useful against what ever he is doing, Paul is boring, and I am not
+going to say much more about it. I mean, simple pokes and SS+4,4
+should surfice.
+
+P.Jack:
+______
+
+This guy is wierd. Get out of his way, and watch out for his SS. Dont
+wiff and you cant loose. Well thats an understatement. Hehe..
+Dont get hit by the F+1+2 or you will hurt. And dont get juggled either
+cause Jin gonna come in and lay the smack down on you.. Else POKE and
+Throw. Nice and easy. Never faced a master before, and I bet you wont
+either...
+
+But chances are if you do face one, you will proberbly be in pain.
+I have never faced one, so go for your life.
+
+True Ogre:
+_________
+
+This is a POKE war. POKE EVERYTHING you can. Your D+1 can beat ANYTHING
+he tries to do AT ALL. And that is all you really need. Just POKE like
+Crazy!! And you should be fine for a while. Make sure you dont let him
+get any moves off, and if he does, SS or Duck or whatever. JUST MAKE HIM
+WIFF!! And you should be sweet as for the damage. If you really feel like
+going head to head try a lot of throws. T Also, watch out for his crouch
+games, and his Headbutt juggle starter. Otherwise, as Reverend C said
+in his "Anna FAQ the D+1 should stop anything he does."
+
+Use every string that you have, and go insane with the mix ups, there is no
+point in leaving any openings, T. Ogre is SLOW as hell and should be dead.
+I hate his guts. (From a T. Ogre player, strange eh? ;) ) But yeah,
+MURDER KILL do LOTS of mid hits, the gutpunch is mean, hold F to get out
+of it, and if your on the offencive it shouldnt be hard to escape. ;)
+
+Yoshimitsu:
+__________
+
+Watch out for the d/f+2. Fastest uppercut in the game. And the juggles
+with damage are VERY good. Just dont get caught. SS a lot, and hopkick.
+This is really all you can do. A good Yoshi will have you lost in strings.
+A bad one will do nothing but his Crap 10-String, which I might add can
+be poked at 6 different points in time. Just dont let his dancing around
+intimidate you. Get into him, and throw him around a bit. He has one
+command throw, so learn to break it. And watch out for unblockables.
+
+The unblockables have good tracking, so dont try to SS and get in close,
+chances are your gonna get stabed. At that wouldnt help at all..
+Also, watch out for the Roo kick, that can lead to BIG juggles. If you
+get caught by it thou, you must have been sleeping. Cause its SLOW..
+Keep in mind that he has the sword slash for Okizeme, that can be
+rolled sideways out of.
+
+==============================================================================
+13) CONCLUSION
+==========================
+
+Bruce is an insane Bulldogging character, hes great for that reason mostly,
+and takes a lot of anticipation. Play him for fun more than to win, please?
+I see people doing nothing but d/f+2, 3,2,1 ss+4,4's and all that, and I
+get so bored when all they EVER do is 3Knees, or if they think they are
+good, d/f+1, b+4,3,4 I mean, YEACH! I give up my credit to these people,
+I get so bored I cant be bothered. Really I cant.. its so boring its not
+funny.
+
+Team up Bruce with almost anyone, but experiment, and dont do juggles at
+all sometimes, understand that that is not Bruces strong point. It is
+primarily his CH counter combos, wich he has NUMEROUSE of, so you
+cant complain he doesnt have enough of them..
+
+Please Email me for strats on either of the Kick Boxers, and I will be
+happy to converse with ya, else,
+
+Happy Ass Kicking. ;)
+
+BTW, Merry Xmas to you all, and a Happy New Year. ;)
+
+==============================================================================
+14) TEKKEN RESOURCES
+==========================
+
+-INSIDE TEKKEN-
+http://www.geocities.com/TimesSquare/Bridge/2700
+
+-TTT ONLINE-
+http://www.tekkentagtournament.com
+
+-TEKKEN SALUTE-
+http://salute.consolenation.com
+
+-TEKKEN ZAIBATSU-
+http://www.tekken.net
+
+-GAMEFAQS-
+http://www.gamefaqs.com
+
+-EURO TEKKEN-
+http://www.eurotekken.tsx.org
+
+=====================================================
+15) CREDITS
+==========================
+
+NZ CREW;
+--------------
+
+Abrar - Aye, for making my Bruce a punching bag. Thanks mate.
+Mirage - For those insults, always makes me laugh. Hes a legend all in all.
+Ray - Best mishima avid user I must say.
+Vince - For being a Tekken Master and the BEST tekken player here in NZ.
+
+Sites:
+------
+
+Tekken Zaibatsu - www.tekkenzaibatsu.com
+For being there with the best tekken info. -= SALUTE =-
+
+Inside Tekken - www.insidetekken.com
+For the best NZ site anywere, all players welcome. ;)
+
+EuroTekken - www.eurotekken.tsx.org
+This place is the BOMB. hehe, for good info, and a great
+friendly no shit forum here. And here I shall place my apologies for
+forgeting this great place in my last Roger Update. I am soooo sorry.
+I hope that full apologies are accepted on my behalf for the rattling
+mistake.
+
+Tekken Central - www.tekkencentral.com
+New and upcoming, check it out. Cool man cool.
+
+Catlords Tekken Site - www.tekken.net\catlord
+For being a big tekken fan, and the man with his move\combo lists.
+
+And anyone else I have missed. If you think you should be here, then email
+me for the next update. Till then.. I will write this.
+
+"Thou you play your games, and watch avidly from afar. You place your
+money and listen as some large company makes a fortune from your few
+moments of pleasure. And yet, somewere someone sits upon the street,
+no food, or money to survive themselves, stealing bread for there children.
+Pause a moment, when you perhaps have lost a few matches. And put that
+coin back into your pocket, take a breather, and go for a walk. And always
+know how lucky you are to be able to play games without a hassle."
+
+Grim Walker
+The Wanderer.
+
+Till we meet again, I bid thee all.. Adieu.
+
+==========================
+        THE END
+==========================
+

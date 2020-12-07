@@ -1,0 +1,809 @@
+         ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+         :: La Guida Italiana per Lei Wulong :: v1.0 :: (c) CHuNFy ::
+         ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+         ::   by CHuNFy   ::         http://chunfy.cjb.net         ::
+         ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------------------
+---[DISCLAIMER]---
+------------------
+Questa guida e' libera di circolare attraverso le relative risorse di internet
+incluse pagine web, newsgroup, email, IRC, FTP e qualsiasi altro forum che
+esiste a patto che non venga modificato il contenuto.
+E' possibile distribuire o stampare questa guida a proprio piacere a patto che
+non venga modificato il contenuto. E se si intende includere in un altro
+testo, porzioni di questa guida, e' un dovere segnalarlo nei credits.
+Su questa guida e' vietata qualsiasi azione a scopo di lucro. E non rippate
+le informazioni, le strategie e qualsiasi altra cosa da questa guida!
+Questa guida e' copyright di CHuNFy http://chunfy.cjb.net 3 Maggio 2002.
+
+........................................
+..............Introduzione & Cazzeggi...
+....................Chi e' Lei Wulong...
+........................Bonus & Malus...
+..........................Convenzioni...
+................Voglio tutte le mosse...
+.......Chi Mena Prima, Mena Due Volte...
+.............Massacriamo con i Juggle...
+.............Le Tre Combo Passo-Passo...
+.............Cosa Penso delle Guardie...
+........................Picchiami Qua...
+........Sock! Sock! Sock! ROAAARRRRR!...
+....................Facciamo del Poke...
+...................Vai con il Okizeme...
+..................Sfruttiamo il Parry...
+..............Impariamo il HA HA Step...
+......................Odio Lei Wulong...
+..............................Credits...
+...............................Saluti...
+........................................
+
+-------------------------------
+---[INTRODUZIONE & CAZZEGGI]---
+-------------------------------
+Il primo Tekken a cui ho giocato in sala giochi e' stato Tekken2, selezionai
+subito Law, perche' assomigliava a Bruce Lee (di cui sono un fan sfegatato) e
+quindi gia' mi ispirava potenza e cominciai a fare come si dice in gergo, il
+masher, ovvero a premere a chatso di cane tutti i pulsanti! Mi esaltavo
+quando facevo la ruota e urlavo in contemporanea con Law...avete presente
+i versi che fa' in Tekken2? =D "OOOuuuriaaaAAAhhh!!"
+Ogni volta che giocavo a Tekken2 prendevo sempre Law...quando un giorno ho visto
+un ragazzo usare Lei Wulong e battere un personaggio con solo 2 mosse!!
+Il double kick e il phoenix kick! L'avversario non aveva scampo e andava K.O.!
+Da allora ho cominciato anche io ad usare Lei Wulong...e la tecnica dei 2 colpi.
+Ho iniziato a giocare a Tekken in modo "serio" nell'estate del 1999. Stavo
+perennemente sulla PS a giocare a Tekken3 (perche' ora no? =D). Da allora sono
+passati circa 4 anni e ho affinato il mio stile di gioco, sconfiggendo e
+perdendo (finora piu' vittorie, che sconfitte!) contro vari giocatori, alcuni
+veramente ostici! Finora i giocatori piu' bravi che ho incontrato utilizzavano
+Paul, Hwoarang e Jin. Ad una fiera a Roma ho sfidato (e sconfitto) un ragazzo
+che usava King alla grande, questo mi ha fatto rivalutare questo personaggio.
+
+Un giorno ho visto delle guide e delle FAQ su Tekken nel sito
+http://www.tekkenzaibatsu.com e ho deciso di farne una anche io!
+
+Finalmente dopo un sacco di tempo, ho convinto mio fratello a giocare in modo
+"serio" Tekken, ed infatti ora va alla grande con Law! E facciamo grandiose
+sfide all'ultimo juggle! ^_^
+
+-------------------------
+---[CHI E' LEI WULONG]---
+-------------------------
+nazionalita': cinese (Hong Kong)
+stile di combattimento: varie arti marziali, fra cui Kempo, vari stili di
+                        kung-fu e Wu Xing Fist
+eta': 45 (ma se li porta bene =))
+altezza: 175cm
+peso: 65kg
+tipo di sangue: A
+lavoro: poliziotto
+hobby: film, sonnellini
+gli piace: prodotti della SONY (appare in uno spot della SONY)
+non gli piace: crimini
+
+---------------------
+---[BONUS & MALUS]---
+---------------------
+Bonus - il piu' vasto assortimento di mosse in Tekken
+      - puo' bloccare le mosse basse, con cui si possono iniziare dei juggle
+      - puo' attaccare confondendo l'avversario
+      - possiede anche attacchi veloci che provocano un buon danno
+      - e' uno dei migliori personaggi con tattiche evasive
+      - possiede 12 guardie
+      - le sue guardie possono essere concatenate
+      - possiede degli utili "juggle starter"
+      - attacchi speciali da "sdraiato"
+      - prese efficaci
+      - puo' recuperare energia
+
+
+Malus - non ha colpi devastanti come i Mishima o Bryan Fury
+      - non e' il piu' veloce in generale
+      - e' vulnerabile nelle sue guardie
+      - non possiede colpi medi che siano potenti e veloci
+      - capita spesso di dare le spalle all'avversario
+
+-------------------
+---[CONVENZIONI]---
+-------------------
+................................................................................
+..................................CONTROLLER....................................
+
+                 ub   u   uf        triangolo ===> (2)
+                   \  |  /
+      pad ===>   b -- n -- f       quadro ===> (1)     (4) <=== cerchio
+                   /  |  \
+                 db   d   df                       (3) <=== croce
+
+1: pugno sinistro (quadro)
+2: pugno destro (triangolo)
+3: calcio sinistro (croce)
+4: calcio destro (cerchio)
+
+f: avanti                     d/f: giu'/avanti
+b: dietro                     d/b: giu'/dietro
+d: giu'                       u/f: su/avanti
+u: su                         u/b: su/dietro
+
+F: tieni premuto avanti       D/F: tieni premuto giu'/avanti
+B: tieni premuto indietro     D/B: tieni premuto giu'/dietro
+D: tieni premuto giu'         U/F: tieni premuto su/avanti
+U: tieni premuto su           U/B: tieni premuto su/dietro
+
+N: posizione neutra del pad
+SSR: passo laterale a destra (sidestep right)
+SSL: passo laterale a sinistra (sidestep left)
+QCF: 1/4 di cerchio in avanti (d,d/f,f)
+
++: contemporaneamente a ...
+,: poi premi ...
+~: seguito immediatamente da ...
+#: aspetta il momento giusto
+{n}: pulsante/i da premere per liberarsi
+{!}: mossa imparabile
+t: presa
+h: colpo alto
+m: colpo medio
+l: colpo basso
+FC: mentre il personaggio e' abbassato
+WS: mentre si sta alzando (premere giu' e far tornare il pad in neutro)
+cc: abbassati un istante
+BK: faccia alla spalle dell'avversario
+CH: counterhit
+TIG: Tiger stance
+CRA: Crane stance
+DRG: Dragon stance
+PNT: Panther stance
+SNA: Snake stance
+
+-----------------------------
+---[VOGLIO TUTTE LE MOSSE]---
+-----------------------------
+Vuoi tutte le mosse? Eccole qui! ^_^
+
+...............................................................................
+...............................Posizione Normale................................
+
+Mossa                   Tipo     Nome
+
+d+3+4                   -        play dead
+d+1+2                   -        slide
+b+3+4                   -        back turn
+f+3+4                   -        Drunken stance
+f+2+3                   -        Snake stance
+SS,(1+4_2+3)            -        Snake stance
+b+1+4                   -        Phoenix stance
+1+3                     t        flying sky kick {1}
+2+4                     t        neck wringer {2}
+2+5                     t        tag throw
+f,f+1+2                 t        trip {1+2}
+u/f+1+2                 t        trip & elbow {1+2}
+1+3_2+4                 t        drop down & back push (dietro l'avversario)
+1+3_2+4                 t        triple kicks (lato destro)
+1+3_2+4                 t        fall down & face kick (lato sinistro)
+1+2                     h        spinning punch
+    = ~1                h        spinning punch
+    = ~2                m        uppercut
+3,3                     hl       crescent, lowkick
+3~4                     m        jumping crescent
+    = U                 m        continue jumping crescent (2 in piu')
+    = D                 m        knockdown position
+4~3                     m        cartwheel kick (face down position)
+4~4,3,3                 llm      rolling kicks (knock down position)
+F+4,2,1,2               hmmm     crescent, 3 punches
+    = 3                 l        low kick
+    = 4                 m        mid kick
+        = SS            -        Crane stance
+f,N,1,SS                m-       punch rush (Snake stance)
+f,N,1,2,SS              mm-      punch rush,(Dragon stance)
+f,N,1,2,1,SS            mmm-     punch rush,(Panther stance)
+f,N,1,2,1,2,SS          mmmm     punch rush (Tiger stance)
+        = 3             l        low kick
+    = 4,SS              m        mid kick (Crane Stance)
+f,N,2,1,2,1             hmmm     guard melting punches (per sfruttare il melt,
+                                 la mossa deve essere bloccata, altrimenti
+                                 provochera' il danno normale)
+f,N,3                   h        high crescent
+    = 4                 m        mid kick
+    = d+4               l        low kick
+f,N,4,1,2,3             hmmh     rush combo
+    = 4                 m        mid kick
+    = d+4               l        low kick
+f,f,f+3                 m        flying hawk kick
+b+1+2                   m        headbutt
+d/b+4                   l        rave sweep
+    = D                 -        Snake stance
+    = 4                 h        rave spin
+(u/b_u/f)+2             m        elbow drop
+(u/b_u_u/f+4)           m        hop hick
+(WS)4                   m        rising front kick
+(d_d/b_FC)+1+3_1+3      -        low combo break
+................................................................................
+..............................Spalle all'avversario.............................
+
+1                       h        high backfist
+d+1                     l        low backfist
+2                       m        back uppercut
+4                       m        back midkick
+d+4                     l        rave sweep
+    = D                 -        Snake stance
+    = 4                 h        rave spin
+3+4,3+4,3+4             m        backflips
+(u/b_u/f)+2             m        elbow drop
+................................................................................
+...................................Snake stance.................................
+
+1+3                     t        -> Dragon stance e neck shaker automatico
+1,1,1,1,1,1             hhhhhh   hopping punches
+    = F (on any hit)    -        Snake stance
+2,2                     mm       stabbing punches
+    = F (on any hit)    -        Dragon stance
+    = 2                 l        low stab
+        = F             -        Panther stance
+3                       m        falldown kick
+4                       l        low jab kick (Snake stance)
+SSR                     -        Panther stance
+SSL                     -        Dragon stance
+................................................................................
+.................................Dragon Stance..................................
+
+1                       t        neck shaker
+    = 1+2               -        take a drink (recupera vita)
+1+2                     m        double arm strike (Tiger stance)
+    = F                 -        Tiger stance
+2                       m        uppercut
+    = F                 -        Tiger stance
+3                       h        Dragon blast
+4,1,2,3                 hmmh     rush combo
+    = 4                 m        mid kick
+    = d+4               l        low kick
+SSL                     -        Tiger stance
+SSR                     -        Snake stance
+................................................................................
+.................................Panther Stance.................................
+
+1~2                     lm       double lowpunch combo
+2                       m        uppercut
+    = 1,2,1             mmm      guard melting punches (per sfruttare il melt,
+                                 la mossa deve essere bloccata, altrimenti
+                                 provochera' il danno normale)
+3                       l        sweep
+    = B                 -        Phoenix stance
+4,2,1,2                 hmmm     crescent, 3 punches
+    = 3                 l        low kick
+    = 4                 m        mid kick
+        = SS            -        Crane stance
+SSR                     -        Crane stance
+SSL                     -        Snake stance
+................................................................................
+..............................Tiger Stance......................................
+
+1_2                     m        overhead swipe
+3                       h        high crescent
+    = 1,SS              m        punch rush (Snake stance)
+    = 1,2,SS            mm       punch rush (Dragon stance)
+    = 1,2,1,SS          mmm      punch rush (Panther stance)
+    = 1,2,1,2,SS        mmmm     punch rush (Tiger stance)
+        = 3             l        low kick
+        = 4             m        mid kick
+            = SS        -        Crane stance
+4                       l        Iron Broom
+SSL                     -        Snake stance
+SSR                     -        Dragon stance
+................................................................................
+................................Crane stance....................................
+
+1                       m        guard melting punch ender
+2                       h        backfist
+3,4,2,3                 mlhm     crane dance
+4                       l        jumping low kick
+SSR                     -        Snake stance
+SSL                     -        Panther stance
+
+................................................................................
+..............................Drunken stance....................................
+
+1                       m        Kiss my fist
+3+4                     l        falling low kicks
+................................................................................
+...............................Phoenix stance...................................
+
+3,3,3,3                 mmmm     hawk's claw kick combo (i colpi mantengono
+                                 la Phoenix stance)
+    =4 (on any hit)     {!}      Phoenix kick
+4                       {!}      Phoenix kick
+................................................................................
+.................................Play dead......................................
+
+3,4                     lh       rave spin
+3+4                     m        double kick
+4                       m        rising midkick
+D#+1                    -        Slide position
+(f_b),3,4               lh       roll, rave spin
+(f_b),4                 m        roll, midkick
+u                       -        stand up
+................................................................................
+................................Slide position..................................
+
+3_4                     l        sweep
+4~3                     l        Slide
+1                       -        Play dead
+(f_b),3                 l        roll, sweep
+(f_b),4                 m        roll, midkick
+u                       -        stand up
+................................................................................
+..............................Face down position................................
+
+3                       l        sweep
+3~4                     l        sweep (Play dead)
+    = 4                 h        rave spin
+4                       m        midkick
+4~3                     m        cartwheel kick (Face down position)
+1                       -        Knock down
+(f_b),3,4               lh       roll, rave spin
+(f_b),4                 m        roll, midkick
+u                       -        stand up
+................................................................................
+............................Knockdown position..................................
+
+3                       l        sweep
+3+4                     m        spring up
+4                       m        midkick
+d+4                     l        ankle kick
+D#+1                    -        Face down position
+(f_b),3                 l        roll, sweep
+(f_b),4                 m        roll, midkick
+u                       -        stand up
+
+--------------------------------------
+---[CHI MENA PRIMA, MENA DUE VOLTE]---
+--------------------------------------
+Ecco una tabella con un po' di mosse da fare all'inizio di un round.
+
++--------------------------------------------------------------------------+
+| d/b+4,4,4~4,3,3 || 3,3,d+4,4,4~4,3,3 || 3~3,4,4,N,3   || f,N,4,1,2,3,D+4 |
++--------------------------------------------------------------------------+
+| d/b+4,u,4,3,3   || d/b+4~d,F+2,N,F+2 || f,N,1~u,3,N,3 || 3~4~d,4         |
++--------------------------------------------------------------------------+
+
+--------------------------------
+---[MASSACRIAMO CON I JUGGLE]---
+--------------------------------
+Il juggle consiste nel massacrare il piu' possibile l'avversario con sequenze
+di colpi.
+Questo e' chiaramente un aspetto molto importante in Tekken per vincere.
+Molti personaggi in Tekken (Jin, Nina, Law, Heihachi etc.) possono
+infliggere uno spaventoso danno con un juggle. Nonostante Lei non sia uno
+di loro, anche lui puo' infliggere un buon danno con un juggle.
+Lei possiede anche dei juggle non convenzionali, a causa dei suoi starter
+come il rave sweep o il low backfist. Non ha juggles bastardi come quelli
+di Heihachi, ma possiede piu' starter che gli permettono di usare i juggle
+piu' volte degli altri personaggi. Per di piu' i juggle di Lei sono
+abbastanza facili da eseguire, e cosa piu' importante si possono abbinare a
+degli attacchi okizeme che possono essere usati anche come juggle starter!!
+
+db+4, df+1, f,n,1, f,n,4~1,2,3
+db+4, df+1, f,n,1,2,1,2,4
+db+4,d,SNA, 1,1,1,1,1
+
+df+2, df+1, f,n,1,2,1,2+d, 4
+df+2, uf+4, 4~4,3,3
+df+2, f,n,4~1, f,n,4~1,2,3
+
+d+3+4, 3+4, b+1+2, 4~4,3,3
+d+3+4, 3+4, uf+4, 4~4,3,3
+d+3+4, 3+4, uf+4, f,n,1,2,1,2,4
+d+3+4, 3+4, uf+4, f,n,1,2,1,2+d,4
+d+3+4, 3+4, uf+4, 1, f,n,1,2,1,2+d, TIG
+d+3+4, 3+4, uf+4, f,n,4,1,2,3
+d+3+4, 3+4, 1, f,n,4~1,2,3
+d+3+4, 3+4, 3, 4~4,3,3
+d+3+4, 3+4, 1, 1,2,1,3+4,3+4,3+4
+d+3+4, u,3, f,n,1, f,n,1, f,n,1,2,1,2,4
+d+3+4, u,3, f,n,1, f,n,4~1,2,3
+d+3+4, u,3, f,n,4~1, 4~4,3,3
+
+uf+4, uf+4, 4~4,3,3
+uf+4, f,n,1, f,n,1, f,n,1,2,1,2,4
+uf+4, uf+4, f,n,1,2,1,2+d, 4
+uf+4, f,n,1, f,n,1, f,n,1, f,n,1
+
+DRG, 2 (CH), f,n,1, f,n,1,2,1,2+d, 4
+DRG, 2 (CH), f,n,1, 4~4,3,3
+
+CS, 3,4,2,3, se 3 colpisce allora, 1, f,n,1,2,1,2+d, 4
+
+TIG, 4, ws+4, 4~4,3,3
+TIG, 4, ws+1, f,n,4~1,2,3
+
+4~4,3,3, 3~4, f,3
+
+--------------------------------
+---[LE TRE COMBO PASSO-PASSO]---
+--------------------------------
+Qui di seguito spiego passo-passo come eseguire le 3 combo standard!
+Buon lavoro! ^_^
+
+1,2,1, 3+4, 2,1, 4,1,4,4
+Questa combo e' la migliore delle 3.
+I pulsanti da premere sono abbastanza facili, il difficile sono i tempi!
+1,2,1 devono essere premuti in rapida successione, Lei eseguira' 2 spinning
+punch alti e un spinning punch basso. Quando Lei sferza il 3o pugno premi 3+4,
+Lei fara' un flip kick. Premi 2 quando Lei inizia a fare il flip kick.
+Premi 1 vicino alla fine del flip kick, infine premi 4,1,4,4 in successione con
+un breve lasso di tempo tra ogni pulsante. Se l'avrai fatto con il tempismo
+giusto, Lei sferzera' 2 spinning punch, poi uno basso, flip kick, altri 2 pugni,
+ un calcio alto, un pugno e infine il rave spin.
+
+1,2,1, 3+4, 2,1, 4,1,2,3
+Questa combo ha solo un colpo basso, tutti gli altri colpi sono alti o medi,
+quindi e' piuttosto facile da bloccare. I tempi da dare sono identici alla
+combo precedente, solo che finisce con 4,1,2,3 in successione. Se lo eseguirai
+correttamente, Lei lancera' 2 spinning punch alti, uno spininning punch basso,
+flip kick, 2 pugni, calcio alto, 2 pugni e finira' con uno spin kick alto.
+
+1,2,1,3+4,3+4,3+4,1,1,2
+Questa combo e' piuttosto lenta e prevedibile, ma e' la piu' facile delle 3.
+Premi in rapida successione 1,2,1. Il rimanente 3+4,3+4,3+4,1,1,2 si fa'
+eseguendo ogni passo con un ritardo di circa mezzo secondo.
+
+--------------------------------
+---[COSA PENSO DELLE GUARDIE]---
+--------------------------------
+No, no, no!! Non intendo le guardie che ti hanno beccato al parco, ti hanno
+portato in questura e sequestrato il fumo l'altra sera!! =D
+Ma bensi' le posizioni di guardia che Lei puo' assumere! =)
+Premetto che queste sono opinioni personali, e quindi non devono essere prese
+come fossero (se siete credenti) la Bibbia! O se preferite la Bibbia
+Satanica...vabbe' lasciate stare ed inalatevi nel nervo ottico le mie
+elucubrazioni, sulle posizioni di guardia di Lei Wulong!! ^_^
+
+.............
+...Phoenix...
+Questa guardia purtroppo rende Lei DAVVERO VULNERABILE!
+Anche usando gli "hawk's claw kick" per distanziare o buttare per terra il tuo
+avversario e poterlo cosi' colpire con il (devastante ma lento a partire)
+"Phoenix kick", puo' essere ALTAMENTE RISCHIOSO. Questo perche' i calci del
+hawk's claw sono tutti medi e un po' lenti, quindi facilmente parabili da
+qualsiasi giocatore di media bravura!
+Tutti questi svantaggi pero' sono premiati da un altissimo danno contro
+l'avversario, SE viene colpito dal "Phoenix kick".
+La "Phoenix kick" si puo' usare tranquillamente contro i principianti che
+non ne conoscono il raggio d'azione.
+
+.............
+...Drunken...
+Questa guardia permette di colpire l'avversario con un potente pugno medio
+che causa un buon livello di danno e lo fa' rotolare all'indietro. Il che ti
+permette di corrergli addosso e colpirlo come ti pare!
+Questa mossa e' anche un parry che permette di ritrovarti alle spalle del
+tuo avversario e fargli quello che ti pare!
+Un altra cosa che personalmente trovo utile, sono i "falling low kicks". Questa
+mossa non la usa quasi nessuno, forse per il bassissimo livello di danno che
+provoca. Io lo uso spesso perche' anche se non colpisco l'avversario mi permette
+di avvicinarmi a lui in posizione sdraiata e quindi di colpirlo.
+
+............
+...Dragon...
+La guardia del drago e' una delle mie preferite, possiede dei colpi molto
+potenti che colpiscono sia alto che medio. Il che pero', vuol dire che possono
+essere parate abbastanza facilmente.
+Poi c'e' la presa chiamata "neck shaker", che e' molto figa da vedere
+e se mentre la esegui premi 1+2, alla fine dell'animazione, Lei "beve", guadagna
+un po' di vita (dimezzando il danno della presa) ed entra automaticamente nella
+Drunken stance. Purtroppo anche questa mossa e' un po' vistosa, quindi
+facilmente evitabile.
+
+...........
+...Crane...
+Questa e' la guardia piu' artistica di Lei Wulong! Secondo me i colpi migliori
+sono il "back fist" che si esegue premendo 2 e la "crane dance" (3,4,2,3), molto
+utile in particolare per gli okizeme!
+
+...........
+...Tiger...
+Questa guardia ha solo pochi attacchi, che pero' sono veloci e colpiscono
+a differenti livelli, quindi difficili da parare.
+
+...........
+...Snake...
+Questa e' un altra delle mie guardie preferite! Se attacchi l'avversario con
+gli "hopping punches" e l'attacco va' a buon fine, premi avanti, cosi' ti
+troverai alle spalle del tuo nemico per un nuovo attacco sempre da Snake stance!
+Se pero' l'attacco fallisce, sei alla merce' del tuo avversario!
+Un attacco utilissimo e' il "stabbing punches" che se andato a buon fine
+puo' essere collegato alla Panther Stance! Per un maggior approfondimento leggi
+la sezione "Odio Lei Wulong"! ;)
+
+.............
+...Panther...
+Questa guardia secondo me e' la migliore! I suoi colpi sono bassi, mooolto
+veloci ed e' efficacissimo per il okizeme!
+
+---------------------
+---[PICCHIAMI QUA]---
+---------------------
+In questa sezione spiego cosa potete parare e cosa NON potete parare mentre
+utilizzate le guardie animali. Quando venite colpiti ad un'altezza che potete
+parare, la parata sara' automatica ma perderete la guardia che usavate.
+
+Snake stance.....para solo attacchi ALTI e MEDI
+Dragon stance....para solo attacchi ALTI e MEDI
+Panther stance...para solo attacchi BASSI e MEDI (quelli ALTI passano sopra)
+Tiger stance.....para molti attacchi ALTI e MEDI
+Crane stance.....para solo attacchi ALTI
+
+--------------------------------------
+---[SOCK! SOCK! SOCK! ROAAARRRRR!!]---
+--------------------------------------
+Ti stai chiedendo che cavolo significa questo titolo? E' semplice! Vuol dire
+che con 3 cazzotti puoi assumere la guardia della tigre (Tiger stance) e
+massacrare il tuo avversario! Ma puoi usare anche altre guardie, a seconda di
+quanti pugni dai! Per capire meglio quello che dico leggi qua sotto! ;)
+
+         __(f,N,1,u_d)   Snake
+        /   __(f,N,1,2,1,u_d)  Panther        pugno|guardia
+       /   /                                     1 | Snake
+  f,N,1,2,1,2,4 --(f,N,1,2,1,2,4,u_d)  Crane     2 | Dragon
+         \   \__                                 3 | Panther
+          \     (f,N,1,2,1,2,u_d)  Tiger         4 | Tiger
+           \__                                   5 | Crane
+              (f,N,1,2,u_d)  Dragon
+
+Se non capite la tabella qua sopra...
+
+f,n,1,u -----------> Snake stance
+f,n,1,2,u ---------> Dragon stance
+f,n,1,2,1,u -------> Tiger stance
+f,n,1,2,1,2,u -----> Panther stance
+f,n,1,2,1,2,4,u ---> Crane stance
+
+--------------------------
+---[VAI CON IL OKIZEME]---
+--------------------------
+Il termine okizeme sta per: colpire un avversario che si trova per terra o che
+si sta' alzando dopo un knockdown. Questo aspetto del gioco e' considerato poco
+dai principianti. Mentre i giocatori con un po' piu' d'esperienza sanno che
+l'okizeme puo' fare la differenza e portare addirittura alla vittoria! Datemi
+retta, lo so' per esperienza personale, sfruttate l'okizeme ogni volta che ne
+avete l'occasione!
+
+Osserva come si comporta solitamente il tuo avversario quando va per terra
+e adatta la tua strategia di attacco ad esso!
+
+................................................................................
+............................immobile per terra..................................
+3~4,D
+Il jumping crescent con falldown provoca un buon danno.
+
+u/f+2
+L'elbow drop e' un po' lento e da' la possibilita' al tuo avversario di
+salvarsi in tempo, ma se va' a buon fine provoca un buon danno.
+
+d/b+4
+Il rave sweep non fa' molto male, ma e' veloce e si puo' combinare con lo Snake
+stance...
+
+................................................................................
+...........................rotola all'indietro..................................
+4~4,3,3
+I rolling kicks solitamente sono garantiti se il primo colpo va a buon fine.
+
+3~4,[U#]
+Se esegui tutti e 3 i calci, puoi beccarlo tutte e 3 le volte!
+
+u/f+2
+Solitamente l'elbow drop becca benissimo quelli che rotolano all'indietro.
+
+4~3
+In questo caso il cartwheel kick e' molto utile e provoca un buon livello di
+danno.
+
+b+1+2
+Corri verso l'avversario e dagli una testata, il colpo non e' sicuro ma se va
+a buon fine, fa' un bel effetto!
+
+................................................................................
+............................rotola lateralmente.................................
+3~4,D
+Questo dovrebbe beccarlo alla grande, a meno che lo fai troppo tardi.
+
+d/b+4
+Il rave sweep dovrebbe beccarlo tranquillamente ma non sara' un gran che il
+danno.
+
+................................................................................
+........................si alza subito e para basso.............................
+In questo caso va bene qualsiasi colpo medio, tipo un razoe rush con calcio
+medio finale oppure un u/f+4.
+
+................................................................................
+.......................si alza subito e para medio/alto.........................
+Il rave spin e' la soluzione migliore, per sicurezza e' meglio fare solo il
+primo colpo ovvero il rave sweep (nel caso viene bloccato) e magari assumere
+il Snake stance e colpirlo con gli stabbing punches.
+
+Ora vediamo come ci si puo' difendere dalle strategie d'attacco okizeme degli
+altri!
+
+Lei ha molte piu' mosse da per terra, rispetto a tutti gli altri personaggi
+grazie alle sue "posizioni" da per terra, sfruttale.
+Dovresti cambiare sempre le tue strategie di "rialzata", mai divenire
+prevedibile, perche' un buon giocatore ti puo' castigare per la tua
+prevedibilita'. Aspetta che sia l'avversario a fare la prima mossa e poi agisci
+di conseguenza, per esempio rotolando di lato o all'indietro a seconda delle
+circostanze e combinando double kick e ankle kick.
+
+-------------------------
+---[FACCIAMO DEL POKE]---
+-------------------------
+Il poke e' una tecnica avanzata, vitale quando vuoi sopravvivere contro un buon
+giocatore. Quindi e' un must saper sfruttare questa tecnica. Il poke consiste
+nel utilizzare attacchi veloci con un buon tempo di ripresa, in modo da mettere
+sotto pressione il proprio avversario, interrompere i suoi attacchi o per
+preparare altri attacchi e prese.
+Gli attacchi poke provocano danni leggeri, ma utilizzandoli in continuazione
+possono portare ad un buon danno, o anche essere l'inizio di un juggle.
+Ecco un elenco di poke gia' confezionato! =)
+
+1, u/f+(1+2) oppure 1, f,f+(1+2)
+le prese provocano sempre un buon danno.
+
+1, d/f+2, d/f+4
+rincoglionisci il tuo avversario! =D
+
+1, 4
+questo metodo e' figo, perche' non devi necessariamente premere 1. Il 4
+di per se' e' piuttosto veloce e se va' in counter puoi massacrare l'avversario
+con un razor rush.
+
+d+3+4, 4 oppure d+3+4, 3
+con questo metodo prendi per il culo il tuo avversario e lo confondi.
+
+1
+un normale jab, piuttosto veloce, interrompe alcune mosse.
+
+f,n,1
+un raggio d'azione maggiore del semplice 1, ma un po' lento.
+
+f,n,4~1
+veloce, interrompe le mosse.
+
+d+4
+un colpo basso, estremamente veloce e con un buon raggio d'azione.
+
+d+1
+un buon colpo veloce che interrompe gli attacchi.
+
+ws+4
+veloce rialzata, provoca un buon danno e ha la priorita'.
+
+uf+4
+un veloce juggle starter, da usare dopo un jab o dopo un d+4.
+
+df+3
+un po' lento, ma e' un buon calcio medio.
+
+D+4
+calcio basso da abbassati.
+
+---------------------------
+---[SFRUTTIAMO IL PARRY]---
+---------------------------
+Lei non ha mosse di reverse come Nina, Paul etc. Ma ha il parry.
+Quando il tuo avversario ti colpisce basso, se tu prontamente premi
+d_d/b+1+3_2+4 Lei spingera' via il suo avversario, causando una particolare
+forma di stun. Questo e' il parry. Molte persone sanno come si esegue il parry,
+ma non come sfruttarlo a dovere. Ecco cosa devi fare dopo un parry.
+
+u/f+4, f,N+1, f,N+4,1, 4~4
+u/f+4, d/f+1, f,N+1, f,N+4,(1),2,3
+u/f+4, d/f+1, f,N+1, 2, d/b+4
+u/f+4, d/f+1, 2, 1+2,2
+u/f+4, 4~4,3~3
+
+------------------
+---[HA HA STEP]---
+------------------
+Il HA HA step e' una mossa che conoscono tutti i master di Lei Wulong come
+Seok Dong Min (Tekken World Champion 1999) che l'ha utilizzata nel round finale
+contro Mike Nappi.
+La teoria dietro questa mossa e' che quando hai piu' energia vitale del tuo
+avversario in un match a tempo, tu debba iniziare a "scappare". Ovviamente il
+tuo avversario comincera' ad inseguirti perche' per vincere ha bisogno di avere
+piu' energia rispetto a te, e siccome e' costretto ad inseguirti, deve
+necessariamente premere avanti e quindi restare scoperto! Ed e' qui che tu
+lo castighi con una bella mossa, per esempio il razor rush! Se esegui questa
+mossa consiglio di terminarla con 4 e poi premere 1. Questo perche'
+terminandolo con 3 hai un tempo di recupero piu' lento che permette
+all'avversario di interromperti quando premi 1.
+
+Se sei abbastanza veloce una strategia puo' essere questa...
+...appena il round comincia, colpisci il tuo avversario con un jab o un calcio
+basso, accorciando un po' la sua barra energetica, ora comincia ad usare il
+HA HA step! L'unica cosa che il tuo avversario potra' fare e' inseguirti e
+cercare di massacrarti quanto basta per rendere la tua barra energetica piu'
+piccola della loro, perche' se non lo fanno, prima che il tempo limite scada,
+tu avrai vinto il match!
+Ogni qualvolta il tuo avversario avanza verso di te e si trova abbastanza
+vicino, castigalo con un razor rush!
+
+Il HA HA step e' principalmente una mossa di difesa, infatti puoi combinarlo con
+il passo laterale (side step) e cosi' evitare molti attacchi del tuo avversario!
+
+Ci sono 3 tipi di HA HA step, 2 di questi quando eseguiti, fanno pronunciare
+a Lei un verso, ecco spiegato il nome di questa mossa.
+
+b~3~4~b (HA HA)
+b~4~3~b (HO HO)
+B+3+4~b (silent HA HA step)
+
+Dei 3 HA HA step il piu' veloce e' il "HA HA" che pero' ha un passo piu' corto
+rispetto agli altri! Consiglio a coloro che intendono inserire il HA HA step
+nel proprio arsenale di mosse, di iniziare con il B+3+4~b semplicemente perche'
+e' il piu' facile.
+
+-----------------------
+---[ODIO LEI WULONG]---
+-----------------------
+Se Lei Wulong vi sta' antipatico e lo vorreste prendere a calci in culo ecco
+dei consigli su come farlo!
+Questa sezione DOVREBBERO leggerla anche i fan del poliziotto cinese in modo
+da padroneggiare ancora meglio il combattimento.
+
+Qualunque sia il personaggio che stai usando, impara mosse efficaci che possono
+colpire Lei quando e' sdraiato (play dead, slide). Paul puo' usare il
+"ground punch", Jin il "tooth fairy" o il "jumping roundhouse & sweeps combo",
+King puo' usare il "Ali-kick" e Law il "dragon's tail".
+Massacralo ogni volta che si sdraia! >=)
+
+Quando Lei usa il razor rush aspetta che lo combini con una delle guardie degli
+animali. Se avrai un tempo di reazione sufficiente, potrai bloccarlo con un
+semplice d+2 e se vuoi fare il figo puoi provare a fargli una presa...
+
+Tutti coloro che usano Lei, utilizzano il razor rush. Quando capita che inizino
+la mossa fuori il proprio raggio d'azione e il tuo personaggio possiede mosse di
+reversal, reversalo non appena e' abbastanza vicino.
+
+Quando un giocatore di Lei sta in play dead vicino a te, fara' sicuramente
+o il double kick o il rave spin. Cerca di capire quale usa piu' spesso il tuo
+avversario. Se entri in paranoia e non sai quale dei 2 utilizzera' e' meglio che
+pari alto, perche' se fa' il double kick ti puo' in seguito massacrare con una
+juggle. Comunque un buon giocatore di Lei utilizzera' entrambi indistintamente.
+
+Quando Lei assume una delle guardie degli animali, puo' parare i colpi alti
+"perdendo" la guardia e tornando alla guardia normale. Quindi in questi casi
+e' consigliabile colpirlo con colpi bassi.
+
+Impara a parare i 3 pugni dello "stabbing punches" della guardia del serpente
+(Snake stance).
+Devi parare alto-basso-basso. Se capita che il secondo pugno non lo pari basso
+ma alto, perderai la parata, e sarai colpito dal terzo pugno!
+
+---------------
+---[CREDITS]---
+---------------
+Per scrivere questa guida ho letto quasi 2MB di guide e FAQ scaricate da
+http://www.tekkenzaibatsu.com
+
+ "Lei WuLong Faq" by Blacktimms
+ "Lei WuLong Guide" by Sheng Wan
+ "Lei Wulong Strategy Guide" by Zäk
+ "DrumDude's Guide to Hyper Lei" by DrumDude37
+ "Tag Team Tekken Intro to Lei Wu Long" By Dalamar (Oliver Vuong)
+ "Lei Wulong Profile" by Nicky Quick
+ "Lei Foundation Guide" by ryuster
+ "Ultimate Lei FAQ" by CompleteTekken
+ "Tekken TAG TOURNAMENT FAQ" by James.D (James fox)
+ "TEKKEN 3 LEI WULONG FAQ" by -MG-
+ "Lei FAQ for Tekken 3" by ???
+
+Ho letto tutte queste guide e le ho combinate con la mia esperienza personale.
+
+--------------
+---[SALUTI]---
+--------------
+Un "bella pe te" a mio fratello, giocatore di Law Marshall! =) Ha cominciato da
+poco a giocare "seriamente" a Tekken ma devo dire che e' gia' parecchio bravo!
+Un saluto ed un grazie ad Alessandro (un giocatore DEVASTANTE), per avermi
+fatto conoscere il sito http://www.tekkenzaibatsu.com!

@@ -1,0 +1,1724 @@
+-+=---------------------=+-
+   Tekken Tag Tournament
+-+=------Jun FAQ--------=+-
+        \   by   /
+           Lump
+           v1.0
+  -= 7th September 1999 =-
+
+
+Mail me at: s2251985@cse.unsw.edu.au
+
+Faq length: 76884 bytes
+
+This FAQ should be viewed with monospace font (e.g. Courier). You're using
+monospace font if the following dots line up with the numbers.
+
+1234567890
+..........
+
+
+-: Disclaimer and legalities
+
+The author is not held responsible for any content written hereon. All
+information displayed in this work is assumed by the reader's own discretion
+and the author is not held liable for any incorrect datum listed unknowingly.
+
+This file and/or any hard copy and/or electronic versions of this work cannot
+be manipulated lacking authorisation by the author, distributed and/or
+reproduced for monetary gain or have discernable sections of the work
+reproduced under a breach of copyright laws.
+
+Tekken and its sequels are registered trademarks of Namco.
+
+Copyright 1999 by Lump.
+
+
+
+-----+-----
+-: Version History
+
+v1.0 7/9/99: First release.
+
+
+
+-----+-----
+-: Contents
+
+1. Intro
+2. Movelist
+3. Move details
+  3.1. Throws
+  3.2. Special Moves
+  3.3. Other strings
+4. Strategies
+  4.1. General
+  4.2. Jun's strings
+  4.3. Juggling
+  4.4. Movement
+  4.5. First move
+  4.6. Tagging
+  4.7. Counter attacking
+  4.8. Poking
+  4.9. Okizeme
+5. Vs tactics
+6. Miscellaneous info
+7. Credits
+
+
+
+-----+-----
+-: Intro
+
+Well everyone's wish came true and she's back. One of the meaner characters in
+the game with her strong blend of speed, power and confusion tactics. Probably
+her best attribute is her various strings which you can vary to just about
+anything with the attack levels going everywhere. One of the worst things about
+Jun is that she doesn't really have any powerful juggles to speak of (I might
+find one in the near future hopefully). Oh well. Anyways, read on and hopefully
+you might just learn something useful.
+
+
+
+-----+-----
+-: Movelist
+
+Note: Taken from Catlord's (catlord@tekken.net) TTT movelist 1.12.
+
+Read them. Learn them. Memorise them. Chances are, if you try all the moves a
+few times each, you'll find which ones are cruddy and which ones fit your style
+of play.
+
+~~~
+
+Throws
+(Front) 1+3                 Arm Bar {1}
+        2+4                 Serpent Twist {2}
+        2+5                 Tag Serpent Twist {2}
+        d/f+2+3             Striking Shiho-Nage
+        b+1+2 [~5]          Whip [Headbutt - Only with Jin or Heihachi Team]
+	                    {2}
+(Left)  (1+3)_(2+4)_(2+5)   Cloud Taste {1}
+(Right) (1+3)_(2+4)_(2+5)   Wind Wheel {2}
+(Back)  (1+3)_(2+4)_(2+5)   German Suplex
+
+Special moves
+(b_SS)+1                  Sparrow Trap  *Throws on CH*
+WS+1                      Sparrow Gut Punch  --> See Note 2
+1+2                       Double Palm
+(f+2)_(d/f+1+2)~d/b       Dash Forward
+(f+2)_(d/f+1+2) [~5]      Dashing Uppercut [Tag]  *Juggles*
+f,f+2                     Demon's Paw
+d/b+2 [~5]                Rock Shooter [Tag]  *Juggles*
+(FC_d/f_D/F)+2            Sweeping Sparrow  --> See Note 3
+2+3                       Sparrow Pirouette
+b_SS+2                    Diving Arrow
+  >1+2                      Spinning Nest
+  4                         Leg Cutter  *Leg Cutter strings*
+  1                         Screw Punch
+    3                         Front Kick  *Front Kick strings*
+    4                         Can-Can Kicks  *Juggles*
+1,2                       2 Punches
+1,3                       Punch, Lowkick
+f+1,4                     Screw Punch, Can-Can Kicks  *Juggles*
+1,1,3                     Punch, Screw Punch, Frontkick  *Front Kick strings*
+1,1,4                     Punch, Screw Punch, Can-Can  *Juggles*
+1,4                       Punch, Leg Cutter  *Leg Cutter strings*
+f+4                       Lightning Crescent
+3+4                       Cartwheel Kick
+FC_WS+3+4,3+4             Cartwheel Helicopter
+WS+3                      Sparrow Flip
+d+3+4                     Can-Can Kicks  *Juggles*
+b+3 [~5]                  Backflip Kick [Tag]  *Juggles*
+  2 [~5]                    Dashing Uppercut [Tag]  *Juggles*
+  4                         Leg Cutter  *Leg Cutter strings*
+
+SS+4                      Boomerang Stomp
+u~u/b                     Backflip
+
+(d/b+4)_(3~4)             Leg Cutter String
+  3                         Cartwheel Kick
+  1+4                       White Heron  *White Heron strings*
+  4                         Double Leg Cutter
+    3                         Cartwheel Kick
+    1+4                       White Heron  *White Heron strings*
+    4                         Triple Leg Cutter
+      3                         Cartwheel Kick
+      1+4                       White Heron  *White Heron strings*
+
+f+1,3                     Front Kick String
+  1+4,2                     White Heron  *White Heron strings*
+  1                         High Punch
+    2                         Twin Punch
+    4                         Leg Cutter  *Leg Cutter strings*
+    1,3                       Screw Punch, Front Kick  *Front Kick strings*
+    1,4                       Screw Punch, Can-Can Kicks  *Juggles*
+
+1+4,2                     White Heron String  --> See Note 4
+  (4_D+4)                   (Lightning Crescent_Sweep Kick)
+  1                         Punch
+    1,3                       Punch, Frontkick  *Frontkick strings*
+    1,4                       Punch, Can-Can Kicks  *Juggles*
+    4,[4],[4],3             Punch, Sweep Kick[s], Cartwheel Kick
+
+d/f                       Low Parry  --> See Note 5
+b+(1+3)_(2+4)             Reversal
+
+(F+3)# [D_B to cancel]    Spinning Heel Drop  *Unblockable*
+
+NOTE: Release Forward to stop spinning and execute kick.
+
+(WS)+2:1:1:1::2:1::4:3::3+4   Tenstring
+(WS)+2:1:1:1::2::1+4::1:3+4   Tenstring
+(WS)+2:1:1:3                  Fourstring
+
+~~~
+
+Note 1: As you can see, the above was basically close to an exact copy from
+Catlord's TTT movelist. I haven't modified the guts of it (just removed some
+capitals and got rid of a f+1,3 error) to preserve its identity. So I've just
+listed below some notes about some grey areas of the moves.
+
+Note 2: I think this move acts much like Kazuya's Gutpunch (WS+2) in that her
+Sparrow Gutpunch (WS+1) stuns. There's no block stun for the move but I think
+even when the move hits normally, it causes a slight stun and a longer stun
+when it connects as a counter.
+
+Note 3: I'm not 100% convinced that the Sweeping Sparrow (FC_d/f_D/F)+2 command
+is correct (the d/f+2 will do Jun's basic juggle starter. If you still don't
+get what I'm saying, Jun's d/f+2 is the same as her standing 2 juggle starter.
+Try it.).
+
+Note 4: Another thing to mention is the final string listed for her White Heron
+variations. Where it says "Punch, Sweep Kick[s], Cartwheel Kick", I think it
+should be Leg Cutter "*Leg Cutter Strings*" since I've done the Cartwheel Kick
+by pressing only 3 after one of those sweeps/Leg Cutters. Also, the second 1
+punch in a White Heron string is a Screw Punch (looks like a f+1), not just a
+normal punch. So the revised White Heron String should be like...
+
+1+4,2                     White Heron String
+  (4_D+4)                   (Lightning Crescent_Sweep Kick)
+  1                         Punch
+    1,3                       Screw Punch, Frontkick  *Frontkick strings*
+    1,4                       Screw Punch, Can-Can Kicks  *Juggles*
+    4                       Leg Cutter  *Leg Cutter strings*
+
+Note 5: Jun's Low Parry (d/f) is the generic TTT Low Parry. There is NO
+animation for it so if you go around tapping d/f into thin air, she'll just
+duck as she normally would if you, say, tapped d. The Low Parry animation will
+only come online when you successfully Low Parry an attack.
+
+
+
+-----+-----
+-: Move details
+
+OK so now you know how to do the moves and their names (well, you know how it
+is, there's probably a billion different names for each move... oh well). But
+how do you use them effectively? This section goes into the details of Jun's
+moves. At the end of each move's comment, I'll include a rating for the move
+out of 10, 10 being a bloody good move and 0 being yesterday's garbage.
+
+
+* Throws
+
+
+> Front throws
+
+1+3  Arm Bar
+2+4  Serpent Twist
+
+These are your basic front throws. Quick and easy to do but almost always the
+Striking Shiho-Nage (d/f+2+3) throw is better since it deals more damage.
+Rating: 7/10
+
+
+2+5  Tag Serpent Twist
+
+Probably the safest way to tag with your partner. This is the move I usually
+use when trying to tag (tag juggles are the other alternative. More on that
+later.).
+Rating: 8/10
+
+
+d/f+2+3  Striking Shiho-Nage
+
+Best front throw for damage. Basically a kind of a quick headlock into a
+painful bop on the noggin.
+Rating: 8/10
+
+
+b+1+2 [~5]  Whip [Headbutt - Only with Jin or Heihachi Team]
+
+A selective tag throw. Use it only if you want to tag AND your teammate is
+either Jin or Heihachi (perhaps also Kazuya... but I haven't checked yet). It
+does puny damage when you don't do the tag followup though so keep in mind
+that you may have better alternatives.
+Rating: 2/10
+
+
+> Side throws
+
+Left  (1+3)_(2+4)_(2+5)  Cloud Taste
+Right (1+3)_(2+4)_(2+5)  Wind Wheel
+
+A couple more basic throws. Generally, better versions of their front throw
+counterparts since they do more damage.
+Rating: 8/10
+
+
+> Back throws
+
+(1+3)_(2+4)_(2+5)  German Suplex
+
+Inescapable and does chunks of damage. Because of Jun's limited juggle damage
+ability, it may be better to punish a vulnerable back turned opponent with a
+back throw rather than start a juggle.
+Rating: 10/10
+
+
+* Special Moves
+
+
+(b_SS)+1  Sparrow Trap  *Throws on CH*
+
+Whoa talk about execution time. I nearly fell asleep at the joystick before the
+move came out. Jun basically does a wild sweep with her arm, and boy is it
+useless. Unless your opponent is asleep too, he/she isn't going to fall for
+this move. Prepare to be major countered if you accidentally do the move. If
+you're impossibly lucky and hit someone for a counter with the Sparrow Trap,
+Jun grabs her opponents leg and pushes it hard into their pelvis, rather nasty
+looking.
+Rating: 0/10
+
+
+WS+1  Sparrow Gut Punch
+
+Jun does a short lunging gut punch at her opponent's. This is a rather nice
+addition to Jun's arsenal. It acts something like Kazuya's Gutpunch. There are
+several good points to mention about this move. Firstly, it comes out rather
+fast. Compoundly, since it is a WS move and hits mid, you can train your
+opponent to block low (maybe with a couple of random Leg Cutters or d+1 pokes
+- watch out for Low Parries though), then smack in a Sparrow Gut Punch while
+they crouch. Which brings me to the next point. The move stuns, even if it hits
+normally (longer stun on counter hit) which means you can usually connect
+Can-Can Kicks  (d+3+4) juggle starter into a juggle after the Gutpunch hits
+(although very unlikely if it wasn't a counter hit). Brilliant. Finally, a
+blocked Sparrow Gut Punch will push the opponent away a bit, usually out of
+retaliatory range (you may still get hit by fast dashing moves although I doubt
+it). Oh yeah, I forgot. One of the best uses for the move is as a retaliatory
+move against various blocked low sweeps. In TTT, there are several low sweeps
+which, when blocked, cause the attacker to stagger a bit (kinda like losing
+their footing). An example would be the 3rd hit of Jin's u/f+4,4,4,4. Anyway,
+if you manage to block one of these special sweeps, do a WS+1 out of your
+crouch position and, if you're lucky, a juggle.
+Rating: 8/10
+
+
+1+2  Double Palm
+
+Looks like Jun's been to Heihachi-school. Remember Heihachi's Chi Palm (1+2)?
+Yes that's right, the move which came out faster than lightning on steroids and
+tumbled you half a screen away. Well, here's the baby version of it. Jun takes
+a big step forward (its very fast) and does like a push-away with one hand
+below the other (like the Chi Palm execution... well... sorta). If it hits, her
+opponent crumples quickly to the ground. What makes this move rather silly
+firstly is its range. Even with that initial sneak-in shuffle, Jun basically
+has to be close to throw range to connect with this move. Also, it doesn't do
+much damage which rules this move out as a power move. Something good about it
+though is that her opponent will end up face down, feet away on the ground,
+setting up for some nice okizeme if you wish (although Okizeme isn't going to
+provide much in the way of damage for Jun).
+Rating: 2/10
+
+
+(f+2)_(d/f+1+2)~d/b  Dash Forward
+
+This move ain't TOO bad actually. It's a Dashing Uppercut (f+2) cancelled
+during execution. So what you end up with is a very quick dash forward which
+recovers crouching. Unfortunately, Jun only has a few WS and FC moves to pick
+from. Personally, I find that the Dash Forward is rather nice to set up for a
+quick throw since your opponent may not be used to seeing this weird move come
+out of nowhere. A note here, this move won't work inside juggles as it brings
+you too far forward (except after a Backflip Kick (b+3)).
+Rating: 4/10
+
+
+(f+2)_(d/f+1+2) [~5]  Dashing Uppercut [Tag]  *Juggles*
+
+This is one of her best retaliatory moves. Jun quickly dashes forward and does
+a quick rising uppercut. It's her highest juggle starter (same as the Backflip
+Kick (b+3)) and if you want to experiment with trying to find a juggle
+different from the standard White Heron combo (1+4,2,4), then this is the move
+you're gonna want to use. This move has quite a long range and executes rather
+fast too. The downside is that if you whiff or they block it, you might be in
+for some rough loving. Only use it when you know it's going to connect.
+Rating: 9/10
+
+
+f,f+2  Demon's Paw
+
+Here it is then, the power move she needed. Jun crouch-lunges while extending
+one palm forward. There's also a tiny sidestep involved with the move (barely
+detectable, Jun sidesteps slightly towards the screen). Fast execution, big
+range, pushes away opponents when blocked, good priority, bufferable from
+running and good damage. Woohoo. The Demon's Paw doesn't do anything near the
+psychotic damage of Paul's Deathfist but the damage is good anyhow. On a normal
+hit it will fling the opponent backwards and he/she will land and slide a ways
+on his/her back while on counterhit it will send them tumbling away head over
+heels. The move also sets up a nice running Shoulder Ram or any other running
+pain move. Good times to use this move is to stand just outside a grounded
+opponent's sweep range, wait for them to whiff a sweep, then smack 'em with a
+f,f+2. Also good as a retaliatory move, although you may do more damage by
+doing a f+2 into a juggle. Also good if you SOMETIMES begin a round with Jun
+in the background, tag (5) into her as the round begins and buffer a f,f+2 as
+she runs into the screen. Usually your opponent has started the round with an
+attack which is more than likely to get eaten up by the Demon's Paw. Follow up
+with a running attack. As I said, only do this sometimes since there's nothing
+worse than being predictable.
+
+Oh something I forgot. This move has amazing tracking ability. Unless I've been
+hallucinating, I've done a Demon's Paw against a cartwheeling Ling and Jun spun
+around a huge arc as she tracked Ling about.
+
+The way I wrote the above paragraphs make the move look unbeatable. But alas it
+is not. Do NOT whiff with this move since without the block push-away, the
+recovery is not good at all. The range is deceiving sometimes because of its
+long range and you can sometimes overestimate it.
+Rating: 9/10
+
+
+d/b+2 [~5]  Rock Shooter [Tag]  *Juggles*
+
+Hmmm... I have my reservations on this move. What Jun does is swing one of her
+arms in an enormously exaggerated uppercut. Does average damage and juggles but
+the thing is that the execution time and recovery time is rather poor, not
+good traits for a juggle starter.
+Rating: 1/10
+
+
+(FC_d/f_D/F)+2  Sweeping Sparrow
+
+I'm assuming that this move is the quick version of the Sparrow Trap (b+1)
+since the command for the move is rather dodgy. Anyway, it sounds about right.
+It's basically a quick sweep with one of her arms. Not too bad I guess. If you
+want a quick and easy knockdown, this is one possible move to use.
+Rating: 5/10
+
+
+2+3  Sparrow Pirouette
+
+Jun goes into a quick parry stance then does a big roundhouse kick. The initial
+frames of the move have her go into a parry stance. During these frames, Jun
+will parry any high/low attacks away and the following kick will connect.
+Looks cool and pretty useful too. It's quite safe to use in most cases because
+of the parry frames but note that many times you can still trade hits with the
+parried attack. The kick itself does average damage. If the kick is blocked,
+Jun's opponent will get turned slightly to their side and also causes a very
+very short block stun. All this boils down to is that Jun is safe if the move
+is blocked. Unfortunately, the move hits high.
+Rating: 8/10
+
+
+b_SS+2  Diving Arrow
+  >1+2  Spinning Nest
+  4     Leg Cutter  *Leg Cutter strings*
+  1     Screw Punch
+    3   Front Kick  *Front Kick strings*
+    4   Can-Can Kicks  *Juggles*
+
+The b+2 Diving Arrow string starter is an OK alternative to the other three
+string starters. It's a simple punch aimed slightly downwards. Hits mid so
+it's better to use when, say, you wanted to use 1,1,4 (high, high, low, high)
+you can use the b+2,1,4 instead (mid, high, low, high).
+Rating: 6/10
+
+The Spinning Nest (1+2 after Diving Arrow) is a quick short elbow to the gut.
+Probably the closest move this resembles in usage and feel is King's Uppercut
+-> Backhand (1+2,1). Not bad as a poking move since it recovers quickly.
+However, the damage isn't great so keep it generally as a poking maneuvre.
+Rating: 6/10
+
+The rest of the moves possible in this string are covered later on.
+
+
+1,2  2 Punches
+
+The standard 1-2 punches. Jun's 1-2 punches aren't as fast as some other
+characters' but it does it's job OK. Basically two quick jabs to the face.
+They both hit high so look out. I usually only use this move as a front to a
+throw. By that I mean do a 1,2 when you're close and quickly tap d/f+2+3 or
+2+5 etc. as you come out of the second jab. You should be still close enough
+to connect with the throw. Your opponent may not realise what's coming before
+it's too late.
+Rating: 8/10
+
+
+1,3  Punch, Lowkick
+
+A quick high punch into a low sweep. It can catch some unaware opponents but
+the damage for any of the two attacks is pretty tiny. Also, the sweep is one
+of those sweeps which cause you to "lose footing" if they block it.
+Rating: 2/10
+
+
+f+1,3  Screw Punch, Midkick  *Frontkick strings*
+f+1,4  Screw Punch, Can-Can Kicks  *Juggles*
+
+The Screw Punch (f+1) itself is not bad. Jun twirls around on one leg and
+pokes with a mid punch. You may notice that the Screw Punch appears within
+many strings. One thing to keep in mind is that if you use the Screw Punch as
+a start to a string, it comes out about twice as fast than if it is executed
+within a string. For example, the Screw Punch in the f+1,3 (first hit) comes
+out much faster than the Screw Punch in the 1,1,3 string (2nd hit). The
+followup moves are discussed later on. Here I just wanted to rate the Screw
+Punch.
+Rating: 8/10 (for the Screw Punch only)
+
+
+1,1,3  Punch, Screw Punch, Frontkick  *Front Kick strings*
+1,1,4  Punch, Screw Punch, Can-Can  *Juggles*
+1,4    Punch, Leg Cutter  *Leg Cutter strings*
+
+These are some other standard ways to get into Jun's strings. Try to vary
+between ways to enter into the strings and you'll find that your opponent will
+get confused quicker. The punch is a standard high jab. Oh, remember what I
+said before about the Screw Punch in the middle of strings - it comes out
+slower. The followup moves are discussed later on.
+Rating: 6/10 (for the 1,1 and 1 string starters only)
+
+
+f+4  Lightning Crescent
+
+Jun does a fast downward kick with her heel. It doesn't have the longest of
+ranges and not too much damage to boot although it is a safe move to do
+anytime. It's really only useful within the White Heron confusion combos.
+Rating: 5/10 (as a move by itself)
+
+
+3+4  Cartwheel Kick
+
+This is a rather useful move I must say. Jun does a strong jumping cartwheel in
+this move. The Cartwheel Kick has a lot of good things going for it, including
+big damage and fast execution and recovery times. It hits mid and it usually
+used during the Leg Cutter strings. Used by itself it's not bad either. For
+some reason people keep getting hit by the move... I don't know why... By the
+way, it doesn't hit grounded opponents.
+Rating: 8/10
+
+
+FC_WS+3+4,3+4  Cartwheel Helicopter
+
+Looks and feels like Ling's Flower Power. The only good things about this move
+is that it has a really big range, hits mid, does good damage and looks rather
+nice. Bad thing is that the execution and recovery times are horrid. Keep to
+the Cartwheel Kick (3+4).
+Rating: 3/10
+
+
+WS+3  Sparrow Flip
+
+Jun cartwheels backwards (a proper cartwheel with hands on the ground etc. not
+like the jumping cartwheel of the Cartwheel Kick). Another high priority and
+damage move but it's probably better to stick to the Sparrow Gut Punch (WS+1)
+as a WS move.
+Rating: 6/10
+
+
+d+3+4  Can-Can Kicks  *Juggles*
+
+Her death move. Only ultra experienced and/or psychic opponents can see this
+one coming. It's basically a small vertical double jumpkick. What makes it so
+outrageous is that the first hit hits LOW (second hit hits HIGH) but if the
+first hit hits the second is guaranteed. Of course when the second is
+guaranteed then you get yourself a free juggle. But that's not all either. The
+move itself does good damage (check it out on counter hit!) and the execution
+time is pretty good. As with the Screw Punch, the Can-Can Kicks execute about
+twice as fast when used by itself (i.e. not within a string) as opposed to
+being used inside a string. Take for example a 1,1,4 string. Time the period
+between the second punch and the Can-Can Kicks and you'll notice what a
+difference it makes rather than using the standard d+3+4 command.
+
+There are some pitfalls in this move. Firstly, even a good player can overuse
+this move, thus becoming predictable. If your opponent learns to crouch block
+at the right time, you will whiff with the second hit of the Can-Can Kicks
+(since it hits high and crouching opponents can duck under high attacks).
+There's also low parries which everyone now posseses which could land you in
+big trouble. The range of the move is also something to think about, however
+the range is slightly deceptive, it actually hits further than where the
+animation shows it. Also to take to mind is that the high kick has a longer
+range than the initial low kick.
+Rating: 10/10
+
+
+b+3 [~5]  Backflip Kick [Tag]  *Juggles*
+  2 [~5]  Dashing Uppercut [Tag]  *Juggles*
+  4       Leg Cutter  *Leg Cutter strings*
+
+The Backflip Kick looks much like the Sparrow Flip (only slightly different)
+and is more useful. Although it juggles, the only move you can just about
+possibly connect with is the Dashing Uppercut (2) followup after the Backflip
+Kick (i.e. b+3,2). Also a good alternative is to tag in your teammate if you
+connect with the Backflip Kick for a safe tag-in.
+Rating: 7/10
+
+The Dashing Uppercut followup is somewhat useful after the Backflip Kick. If
+the Backflip Kick hits, then the uppercut followup will guarantee extra damage.
+If the kick is blocked however, the uppercut can be a risky sucker move (e.g.
+opponent blocks kick, runs after Jun, uppercut comes out of nowhere to mash
+unsuspecting opponent). This is risky business so don't use it often.
+Rating: 6/10
+
+The Leg Cutter after the Backflip Kick will only just connect with your
+opponent (because Jun slides forward as she does the Leg Cutters). The Leg
+Cutters do quite a lot of damage and can start some confusing stuff. Not bad
+but not that good either because of how far you are from your opponent after
+the b+3.
+Rating: 6/10
+
+SS+4  Boomerang Stomp
+
+Exactly like Jun's Sparrow Pirouette (2+3) except without the starting parry
+and block effects. The upside is that it comes out quicker than the pirouette.
+Otherwise, it's still the same move.
+Rating: 6/10
+
+
+u~u/b  Backflip
+
+A quick backflip to get away from your opponent. It travels further than the
+Backflip Kick (b+3) and is usually rather safe to use. I hardly ever use this
+move since I play a very aggressive Jun but it looks cool anyway.
+Rating: 3/10
+
+
+(d/b+4)_(3~4)  Leg Cutter String
+  3            Cartwheel Kick
+  1+4          White Heron  *White Heron strings*
+  4            Double Leg Cutter
+    3          Cartwheel Kick
+    1+4        White Heron  *White Heron strings*
+    4          Triple Leg Cutter
+      3        Cartwheel Kick
+      1+4      White Heron  *White Heron strings*
+
+The Leg Cutter string is a brilliant string since it has powerful low and mid
+level attacks as well as having the ability to string to the White Heron
+combos.
+
+Leg Cutter: A forward moving low sweep which does big damage and has a large
+range because of the forward sliding Jun does during the move. The sweeps do
+not knock down which means that you can continue the confusion massacre with
+more Leg Cutters, a Cartwheel Kick or start the White Heron strings. Also,
+the sweeps doesn't have Jun stun if the sweeps are blocked (remember that
+certain sweeps when blocked have the attacker get stunned slightly).
+Rating: 10/10
+
+Cartwheel Kick: Can be chained after any of the Leg Cutters which makes it
+rather annoying for your opponent who has to guess when this big damaging mid
+attack is going to land on them. Read the previous entry for the Cartwheel
+Kick for more information about the move itself.
+Rating: 8/10
+
+White Heron: The White Heron strings are Jun's most devastating (since she can
+do basically anything during the strings) and the fact that you can link it
+after any of the Leg Cutters make for a confusion convention. Watch your
+opponent go cross-eyed as you mix and match between strings.
+Rating: 10/10
+
+
+f+1,3    Front Kick String
+  1+4,2  White Heron  *White Heron strings*
+  1      High Punch
+    2    Twin Punch
+    4    Leg Cutter  *Leg Cutter strings*
+    1,3  Screw Punch, Front Kick  *Front Kick strings*
+    1,4  Screw Punch, Can-Can Kicks  *Juggles*
+
+This is probably Jun's worst string starter (if any can be called bad) as it's
+rather slow and easy to see coming. I tend to always buffer a left side
+chicken when doing the Front Kick (f+1+3 immediately after the Front Kick)
+since it comes out extremely slow after either a f+1,3 or 1,1,3 starter. The
+good thing about the string is that you can jump into any of the other strings
+from here.
+Rating: 6/10 (for the Front Kick)
+
+The Twin Punch (2) is a unique move in this string but as for its uses, stay
+away from it. It hits high doesn't do much damage either.
+Rating: 1/10
+
+
+1+4,2      White Heron String
+  (4_D+4)  (Lightning Crescent_Sweep Kick)
+  1        Punch
+    1,3    Screw Punch, Frontkick  *Frontkick strings*
+    1,4    Screw Punch, Can-Can Kicks  *Juggles*
+    4      Leg Cutter  *Leg Cutter strings*
+
+Note: This is my revised version of the White Heron string.
+
+The White Heron string is undoubtedly Jun's best string. Its confusing like
+nothing on earth when you use it properly and has a rather big damage
+potential. The White Heron string starter itself is a very fast kick to the
+shins (it's a special mid), then a high back turned jab. The 2 after the 1+4 is
+another high back turned jab. As I said, it's very fast to come out, forcing
+your opponent to block all of it usually (unless you get too predictable where
+your opponent may duck the second high punch and bop you) and straight into
+White Heron confusion mania. The initial shin kick also floats opponents who
+aren't in a "normal" position i.e. maybe falling to the ground, rising off the
+ground, not standing, not crouching etc. This sets up the White Heron for a
+few things, such as continuing a juggle, juggling an opponent rolling off the
+ground etc. I haven't tried this on big characters like Kuma and Gun Jack who
+can be hit with many more attacks while lying on the ground but I don't think
+the White Heron will connect in this manner (or else you can infinitely juggle
+them).
+Rating: 10/10
+
+The standard White Heron combos (1+4,2,4 and 1+4,2,D+4) are very useful so
+don't scoff them in favour of the other strings. The sweep kick version (D+4
+after White Heron starter) is extremely useful in that it will hit low at
+least one hit before any other attack within the White Heron variants. So if
+your opponent stays standing, waiting to block another high punch, the sweep
+will take them off their feet. The Lightning Crescent version hits mid. Mixing
+between these two are the beginnings of the White Heron confusion system. As
+you can see, if you train them to block high a lot (using the Lightning
+Crescent version), you can then vary your next attempt into the high punch ->
+other strings which they won't realise to duck or sweep them away with a quick
+sweep (1+4,2,D+4). Note that the sweep kick is one of those special sweeps
+which will have you stunned for a tiny bit of time if they block it.
+Rating: 10/10
+
+
+d/f  Low Parry
+
+Perhaps not as good as a proper Low Parry but the generic low parries still do
+the trick. The timing is the same (just when you think the low attack is going
+to hit, tap d/f). The bad thing about these generic low parries is that you
+can't do them from a crouching position. So for example, if you were caught
+blocking the first of King's Ali Kicks (d+3+4,4,4) then you'll have to block
+them all since you can't low parry from crouching. What this does is force you
+to anticipate to a greater level when the low attacks are going to come. Good
+thing all you have to do is tap d/f. By the way, follow up a successful low
+parry with a f+2_d+3+4 -> juggle.
+Rating: 10/10
+
+
+b+(1+3)_(2+4)  Reversal
+
+High and mid punch and kick reversal. Remember you can only reverse attacks
+where a limb has been fully extended (full punches, jabs, kicks are OK but
+elbows and knees are not). The reversal does quite some damage and very useful
+in turning the attacking initiative but with the advent of chickens (attack
+reversal reversal), reversals have become a risky commodity. By the way, b+1+3
+is the same as b+2+4.
+Rating: 9/10
+
+
+(F+3)# [D_B to cancel]  Spinning Heel Drop  *Unblockable*
+
+NOTE: Release Forward to stop spinning and execute kick.
+
+Jun's big unblockable is really two moves in one. Basically, a f+3 will have
+Jun do a normal spinning kick (looks like the Lightning Crescent) which does
+big damage for its speed. But if you "charge" up the move i.e. hold forward on
+the joystick, Jun will continue to spin around, bringing her forward rather
+fast. If you keep charging, blue sparks will begin to form around the human
+tornado and if you never let go of the forward motion she will automatically
+do the kick at a certain time and will do an unblockable kick which does quite
+some damage. Looks very cool and because of the "two moves in one" you can
+mess around with it rather safely. You can also cancel it by moving the
+joystick to D or B positions as she's spinning.
+Rating: 6/10
+
+
+* Other strings
+
+
+(WS)+2:1:1:1::2:1::4:3::3+4   Tenstring
+(WS)+2:1:1:1::2::1+4::1:3+4   Tenstring
+(WS)+2:1:1:3                  Fourstring
+
+Because of Jun's infinite strings, her tenstrings aren't really that useful.
+But they can be used somewhat if you want to mix up your game some more. Her
+fourstring goes under the same criteria. Personally I think that using these
+strings are just a waste of of memorisation time.
+Rating: 2/10
+
+
+
+-----+-----
+-: Strategies
+
+This section will hopefully provide some pointers to using Jun effectively.
+
+
+* General
+
+Because of Jun's strings, it's very easy to get carried away into being over
+aggressive. Although being offensive with her confusing strings is probably
+her greatest strength, there are points in her strings where she is very
+vulnerable. Learn when it's time to play defensive. When you do go defensive
+though, try to keep being defensive in as short a time as possible. By that I
+mean try to get back into attacking as soon as you can. This means that you
+use those reversals and parries. Also don't forget those quick attacks which
+can stop your opponent's onslaught (e.g. d+1 or d+2 or 2 etc.).
+
+Throw a lot. Everyone knows Jun isn't a throwing character... which is exactly
+the reason why you should throw a lot. Players won't be expecting that throw
+to smack them when they aren't looking.
+
+Beware of good players who crouch a lot. Although Jun has strong mid attacks,
+some of her strings leave Jun very vulnerable when an opponent crouch blocks
+them. Take for example the popular 1+4,2,1,1,4 string. Your opponent can crouch
+block the first hit (special mid) and stay ducking under three high attacks
+until that Screw Punch comes along. That's a long time for your opponent to
+conjure up some kind of super demolition job on you before you can recover
+properly. If you see your opponent ducking successfully during your strings,
+it's best to stop the string then and there or do a mid attack if the string
+allows it.
+
+Jun is better than most at a reasonably close range. She's fast and moves well,
+and your opponent won't be able to react as well to her varying attack levels
+when close. Also at this range you can plop out that Can-Can Kicks every so
+often and up goes your opponent. You will need to practice quite a bit to stay
+at this range safely but once you get it down, you'll find that it's a nice
+zone to play around in.
+
+Abuse the Can-Can Kicks (d+3+4) - the standalone version (not within strings).
+Whenever you find yourself close to your opponent, pop this out. The initial
+low kick is impossible to see coming and with that you can take out about 1/4+
+of your opponent's lifebar. In Tekken terms this may not seem like much but
+the fact is, your opponent cannot possibly react to a Can-Can Kicks and you
+should catch your opponent out about 90% of the time whenever you pull out the
+move within range. By the way, the range of the attack is actually slightly
+bigger than the animation suggests.
+
+By far the most important thing to keep in mind is to be inconsistent.
+Unpredictability is something you should aim to develop into an art form.
+
+
+* Jun's strings
+
+Jun's greatest power is undoubtedly her confusing strings. So don't be afraid.
+to use them over and over again, just as long as you remember to vary your
+strings. Also, great as the White Heron string can be, you shouldn't forget
+about the other two string starters. To help you out, I'm providing the attack
+levels of the strings (note that they may not be 100% correct).
+
+h = high attack
+m = mid attack
+l = low attack
+s = special mid attack
+
+
+Command        Attack level       Name
+
+(d/b+4)_(3~4)       l             Leg Cutter String
+  3                 m             Cartwheel Kick
+  1+4               s,h           White Heron  *White Heron strings*
+  4                 l             Double Leg Cutter
+    3               m             Cartwheel Kick
+    1+4             s,h           White Heron  *White Heron strings*
+    4               l             Triple Leg Cutter
+      3             m             Cartwheel Kick
+      1+4           s,h           White Heron  *White Heron strings*
+
+f+1,3               m,m           Front Kick String
+  1+4,2             s,h,h         White Heron  *White Heron strings*
+  1                 h             High Punch
+    2               h             Twin Punch
+    4               l             Leg Cutter  *Leg Cutter strings*
+    1,3             m,m           Screw Punch, Front Kick  *Front Kick strings*
+    1,4             m,l,h         Screw Punch, Can-Can Kicks  *Juggles*
+
+1+4,2               s,h,h         White Heron String
+  (4_D+4)           m_l           (Lightning Crescent_Sweep Kick)
+  1                 h             Punch
+    1,3             m,m           Screw Punch, Frontkick  *Frontkick strings*
+    1,4             m,l,h         Screw Punch, Can-Can Kicks  *Juggles*
+    4               l             Leg Cutter  *Leg Cutter strings*
+
+Also note that from every string you can enter any other string. With this
+fact, you can construct infinite strings with many variations in them. Try not
+to use too many high attacks in a row e.g. 1+4,2,1,1,4. In the example string
+there's three high attacks in a row. Now don't get me wrong, this string is ok,
+but try not to use it like three times in a row. For variation, try a
+... 1,1,3 ending to hit mid when your opponent thinks to duck or parry low the
+Can-Can Kicks, then pull out the ... 1,1,4 ending to hit low if they stay
+standing for a reversal or mid/high block. Alternatively (one of my favourites)
+is doing the 1+4,2,1,1 and stopping the string. More experienced players will
+be crouching in anticipation of the Can-Can Kicks. Tap 2 straight after you
+recover from the Screw Punch of the string and if your opponent was crouching,
+you can followup the 2 with a juggle.
+
+If you're trying to learn the strings, first learn the string starter commands.
+There a few ways to get into the strings ...
+
+Leg Cutter entries:
+b+2,4
+b+2,4
+1,4
+b+3,4
+Front Kick string -> 1,4
+White Heron string -> 1,4
+
+Front Kick entries:
+b+2,1,3
+1,1,3
+f+1,3
+Front Kick string -> 1,1,3
+White Heron string -> 1,1,3
+
+White Heron entries:
+1+4
+Leg Cutter string -> after any Leg Cutter, 1+4
+Front Kick string -> 1+4
+
+After looking at the movelist for a while, you start finding a pattern for the
+strings. It shouldn't take too long to know all her moves and strings.
+Remember, mix it up. Used properly, your opponent will have very little chance
+of retaliation. Oh yeah, buffer in chickens whenever possible. Smart players
+will want to reverse you whenever they can to shift the initiative of the
+round. Don't forget to keep away from very long strings. Doing several shorter
+strings is better than one big one.
+
+
+* Juggling
+
+Juggling with Jun isn't as rewarding as with other characters. But juggling is
+always an important part of any character's arsenal so here's a small section
+on it.
+
+She has a few juggle starters...
+
+2_d/f+2
+f+2
+d/b+2
+d+3+4 (or any other string which ends with a Can-Can Kicks)
+
+Of these, the easiest and probably one of few OK juggles she can follow up with
+is a White Heron combo. So wait for your opponent to nearly land on the ground
+then go with the:
+
+1+4,2,4
+
+Can-Can Kicks into a White Heron juggle is probably her most damaging juggle
+(about half a life bar on counterhit and 1/4+ lifebar normally.). With the f+2,
+you may be able to fit in this juggle:
+
+3+4, f,f, 1+4,2,4
+
+The Backflip Kick (b+3) is a weird juggle starter since it brings you too far
+away for anything substantial. Only followups for this one are:
+
+b+3,2
+b+3,4,4 (third Leg Cutter won't connect)
+b+3~5 -> teammate's juggle
+
+The first two alternatives won't do anything substantial damage wise, so go for
+the tag juggle instead.
+
+* Movement
+
+Remember, Tekken is a 3D game so use those sidesteps frequently. Sidetepping
+lets you strafe around your opponent while constantly facing him/her, while
+your opponent has to realign themself to face you. It also makes you harder to
+hit, which is a good thing. Back dashing (b,b) and forward dashing (f,f) are
+good zoning maneuvres too. Always be on the move when you're not blocking or
+attacking. Since I used to use Ling a lot I tend to move my character around
+like a hyperactive insect on steroids.
+
+Don't forget to tech roll whenever you can. This will usually prevent you from
+getting caught in vicious Okizeme (keeping a grounded opponent on the ground)
+tactics and will have you quickly recover so that your opponent will have
+little time to take advantage of your knockdown.
+
+
+* First move
+
+One of the more interesting aspects of a fighting game which starts opponents
+off rather close to each other is the initial move. Here are a few thoughts on
+it...
+
+Jun starts the round (active character):
+
+b+1+3_b+2+4
+
+The high/mid reversal may catch those offensive types when starting a round.
+Rather stylish too.
+
+
+f,f+2
+
+Since the Demon's Paw comes out fast, it might out-prioritize your opponent's
+initial attack.
+
+
+b,b_u~u/b
+
+Quickly retreating at the start of the round might have you find that a big
+attack from your opponent whiff (Paul's Deathfist comes to mind). Dash back
+in and counter hit your opponent as they recover.
+
+
+3~4_d/b+4
+
+The Leg Cutter string will have Jun crouch low as she spins about, ducking
+under a lot of attacks. Also since it hits low and moves forward, your
+opponent may get caught.
+
+
+b+3
+
+The Backflip Kick has good priority and you have a chance to eat up your
+opponent's initial attack and you also get a bonus juggle.
+
+
+Jun starts in the background (inactive character):
+
+Tag -> f,f+2
+
+I've found that this is one of the more effective first attacks I've ever used.
+Let me explain in case you're a bit confused on the above notations. Let's say
+your team is Anna and Jun with Anna starting the round as the active character.
+As the round starts, quickly tap 5 to tag in Jun. As Jun rushes in, quickly
+buffer a f,f+2 Demon's Paw. Remember, anything is bufferable after a tag. For
+some reason, people usually get hit by this. Followup with a running attack.
+
+
+* Throwing
+
+As with juggling, Jun isn't exactly right up there with her throwing prowess.
+However, her d/f+2+3 Striking Shiho-Nage throw is still pretty good damage
+wise. Here are some tips to get you to connect that throw more often...
+
+1,2 -> throw
+
+Get close to your opponent and do the 1-2 punches. Quick and easy but the
+important thing is that it still keeps you close for a throw attempt. To
+buffer this into the d/f+2+3 throw, do 1,2 and hold the 2, then tap d/f+3.
+
+
+1+4 -> throw
+
+Much like the 1-2 punches in it's usage. People will be expecting the rest of
+the White Heron to come out, until you bop them in the face preferably with a
+d/f+2+3.
+
+
+f+2~d/b -> throw
+
+The dash is quite fast and looks like Jun is about to attack with something.
+Give em a rude awakening with a throw.
+
+
+b+2,1+2, f, -> throw
+
+This one's rather amusing. The Diving Arrow into Spinning Nest recovers rather
+quickly and leaves you pretty close to your opponent too. What makes it
+strangely effective is that your opponent is gonna go "is that it?", as
+they're expecting something more that just that Spinning Nest. So walk forward
+and throw them in their split second of bemusement.
+
+
+* Tagging
+
+Tagging is a risky business. If your Tekken TT machine has a info sheet on it
+(you know that long-ish piece of paper which gives like 5 moves for a few
+characters plus some how to play guidelines) then you might notice it says
+"... tag often". This is good if you do so carefully but like the capcom "Vs."
+games which popularised the tagging feature, after a tag you're quite
+susceptible to attacks. If you just tag for no reason at all, your teammate
+will undoubtedly come into action, straight into a fat juggle. Best ways of
+tagging are using the 2+5 tag throw (I like this move) and using a tag-able
+juggle starter. Tag juggle starters are good since the tag only happens when
+the attack connects, therefore you don't have to worry about stuffing it up.
+
+Note that after a tag, the character coming in can buffer his/her entrance
+with a move. So if you find yourself having to resort to an unsafe tag, try
+buffering your entrance with something like a d+1_d+2 and hopefully this will
+interrupt your opponent's attack.
+
+
+* Counter attacking
+
+There are many instances where a small mistake by your opponent will leave
+enough of an opening for you to take advantage of. The worst mistake I've seen
+players use is by tagging just because his/her lifebar was low, not considering
+if it was safe to tag in the first place. Of course if the situation is
+desperate, you or your opponent will have to take your chances. But often this
+isn't the case and players will tag for reasons beyond that of safety
+consideration. This is a perfect opportunity for you to catch the incoming
+tagged player with a juggle. If you see that your opponent has tagged, quickly
+tap f+2. You have to be quick though since there is only a small window where
+your opponent's incoming character cannot attack and when he/she can buffer in
+an attack with the tag. Which is why I prefer to use the f+2. This move rushes
+Jun forward, connecting with the incoming opponent much quicker, and therefore
+a better guarantee to hit before he/she can pull out an attack. Experience will
+teach you to stay alert and look out for counter-tag opportunities.
+
+If you find that your opponent has ended up with a big recovery after a move,
+almost always the best thing to do is a f+2 -> juggle when long range and
+d+3+4 if short range.
+
+Low Parrying is perhaps the best form of counter attacking. If you know, or for
+that matter suspect, that a low attack is heading your way, simply tap d/f.
+It's almost always safe to use at random (only very lucky attacks will punish
+a whiffed d/f motion). It will leave your opponent stunned long enough so that
+you can either go for a d+3+4 or f+2 (depending once again on the range) for
+some good damage.
+
+It's also not a bad idea to pull out a quick, high priority move if you know
+your opponent is about to attack, for a chance to major counter him. Just a
+simple 2 or a White Heron starter are two good moves for a quick interrupt.
+
+
+* Poking
+
+Poking is a style of playing whereby you execute quick, short strings or quick
+single attacks to annoy your opponent as well as zoning him/her at the same
+time doing small chunks of damage. Poking with Jun successfully takes quite
+some practice actually, since the variety of her moves doesn't allow for a
+strong poking game. By the way, there is a slight distinction between poking
+and Jun's infinite string potentials. Using Jun in this way (keep on attacking
+with her strings without letting up) is commonly known as a "bulldog" tactic,
+more of a poker who doesn't stop. However, personally I make the greater
+distinction that poking is using quick and safe attacks to keep an ongoing
+pressure on the opponent. Using Jun's strings to their full lengths are
+certainly not safe to use and therefore not exactly poking when used this way.
+However, there are still times when switching to a poking style of play during
+a round will prove fruitful. Her best pokes would be:
+
+d+1_d+2
+2
+3~4
+Short White Heron strings.
+b+2
+b+2,4
+b+2,1+2
+SS+4
+2+3
+WS+1
+3+4
+f+4
+
+Mixing around with these attacks should keep Jun with a good poking strategy.
+The b+3 and WS+3 were omitted since they bring Jun to far away afterwards,
+leaving your opponent enough breathing space (therefore you lose your poking
+pressure game).
+
+
+* Okizeme
+
+The tactic of keeping a grounded opponent on the ground. Okizeme isn't one of
+Jun's strong points since she doesn't posses a move(s) which caters for this
+speciality (unlike Nina's FC, d/f+4 sweep for instance). However, with enough
+practice and a good dose of luck, you can keep your opponent grounded for a
+time. Here are some common scenarios:
+
+Opponent tries to roll back or forwards:
+- f+2_f,f+2 should catch the rolling opponent.
+- WS+3_b+3 will do as above but takes some experience to connect with an
+  opponent rolling backwards.
+- 1+4,2,4 will knock them straight back to the ground (the initial special mid
+  ankle kick floats your opponent). You have to be close to the grounded
+  opponent as they roll (making this a risky tactic).
+
+Opponent tech-rolls close to you:
+- 1+4,2,4 is just about the only thing fast enough to catch a tech-rolling
+  opponent. However, they have to be very close to you for the White Heron to
+  connect.
+
+Opponent is going to do a Rising Mid Kick (4 while grounded) or a Rising Low
+Kick (3 while grounded):
+- Place yourself just outside of the kick range and wait for the anticipated
+  kick. You can punish the whiffed kick with a f+2_f,f+2. You can practice this
+  tactic against the computer since it almost always goes for a Rising Low Kick
+  if you place yourself just outside its range.
+
+The other scenarios aren't really ideal for you to excercise an Okizeme tactic.
+In the other circumstances, simply hit the grounded opponent for extra damage
+(with a 3+4_3~4 ideally).
+
+
+
+-----+-----
+-: Vs tactics
+
+This section is a quick rundown on how Jun measures up against the other Tekken
+TT characters.
+
+
+* Alex/Roger
+
+<Not enough experience with/against Alex/Roger to warrant writing anything
+here>
+
+
+* Anna Williams
+
+Strengths:  Quick strong moves, some confusing strings, has a cool wardrobe.
+Weaknesses: Multiparts are easy to break.
+
+Anna can be difficult when used under the right hands, but if you limit to
+using moves with little recovery time, Anna won't have many opportunities to
+slash out with her quick counter attack moves. You should stick to insistently
+poking to keep Anna from poking you back with her strings and moves. Her
+multiparts are easy to break out of so they shouldn't be a problem.
+
+
+* Armor King
+
+Strengths:  Very powerful moves, painful throws.
+Weaknesses: Ali Kicks often over-used, moves often leave him on the ground,
+            long recovery on some moves.
+
+A.King is a power-based character and the damage he wheels and deals reflects
+this. However, he does lack the ability to apply pressure constantly which
+leaves you free to take the offensive initiative. He also lacks a high/mid
+reversal which makes it easier for you (don't have to buffer chickens in
+difficult spots). Needless to say, you should be able to follow an all-out
+attack on A.King. Doing this also keeps A.King from striking back with his
+power moves. Also, too many players over-use the Ali Kicks (d+3+4 ...). If you
+get hit by the first kick, hold forward and tap d/f as soon as the second kick
+is coming out. The holding forward bit reduces the stun time and the d/f will
+low parry a second Ali Kick. If only the first Ali Kick was used, the recovery
+time on the kick is long enough and the recovery on the d/f motion short enough
+for you to follow up with a f+2 -> juggle.
+
+
+* Baek Do San
+
+Strengths:  Strong and confusing strings, moves are quick to come out.
+Weaknesses: Moves are very linear.
+
+Baek and Jun share common playing goals, so this will probably be either a
+battle of who gets to pull their strings out more often, or more of a defensive
+mind game on both sides. The first suggestion is the more usual though.
+Fortunately, Jun has a high/mid reversal and Baek doesn't, which means that
+Baek will have to fuss over buffering chickens all day. If he's incessantly
+pushing with his strings and you're at a defensive, backdash till you're a
+little out of range of his kicks. If he starts his strings from long range,
+you should be able to sidestep before or after the first attack, leaving Baek
+super-vulnerable since his moves don't track well. You can actually win just
+by sidestepping around until he starts a string, whereby his attacks will
+probably whiff and you can deal out some pain.
+
+
+* Bruce Irving
+
+Strengths:  Powerful moves, short but confusing strings, lots of power moves.
+Weaknesses: Strings are linear, long recovery time on some moves.
+
+Bruce can be a real pain sometimes, but fortunately he isn't as fast as Bryan,
+although admittedly Bruce can do more damage. If you pay attention to how your
+opponent plays, you should be able to spot most of the low hits during Bruce's
+strings. However, it's easier to just bug Bruce with your bag full of strings
+(he has no high/mid punch/kick reversal making life easier for you) so that he
+can't start up his offence.
+
+
+* Bryan Fury
+
+Strengths:  Good power moves, short but confusing strings, very fast
+            unblockable (f+1+4).
+Weaknesses: Strings are linear, lack of good stand-alone low attacks (i.e.
+            mostly high and mid attacks).
+
+Bryan is one of the faster characters in the game, combined with the damage he
+does and some confusing strings, he can be one mean guy. There is, however,
+some holes in his game. Bryan's game plan revolves around ticking life off you
+with his strings, and the occasional big kahuna power move which takes a
+healthy chunk off your lifebar. As with these linear attacking characters, you
+should sidestep a lot and many of Bryan's moves are going to whiff. The 2+3
+Sparrow Pirouette does wonders against Bryan actually. Because a lot of his
+moves are aimed high/mid, the 2+3 successfully parries and connects at a high
+rate of success. Watch out when you're attacking high though, Bryan has very
+good WS moves and well as a decent high/mid punch parry -> Mach Breaker. Find
+a balance between defence and offence against Bryan, and don't forget to use
+those sidesteps.
+
+
+* Eddy Gordo
+
+Strengths:  Powerful moves, lots of low attacks, some confusing strings,
+            auto-sidestep.
+Weaknesses: Some start-up and recovery time on his moves, susceptible to Low
+            Parries.
+
+One of the scrubs' favourite characters (because you can have limited success
+with Eddy by simply mashing 3 and 4 and waggling the joystick). Good Eddy
+players are a rare commodity these days but if ever you go up against one, he
+can be a real royal pain. Eddy is nearly as good as Jun in mixing up
+low/mid/high attacks with his strings and deals out big damage too. Fortunately
+you can basically follow either a snuff out tactic (just go all out with your
+strings and Eddy shouldn't be able to attack back anytime soon) or more of a
+counter attack tactic. The first alternative is the easier and maybe safer of
+the two. The second alternative can be sometimes risky but Eddy does show a lot
+of openings for counter attacking. For example, during his handstand position,
+you can simply do a f,f+2 and knock him out of it (if Eddy tries to attack when
+the f,f+2 is already coming out, he will usually get hit for a major counter).
+Also, since he has so many low attacks, you can have fun with that Low Parry.
+
+
+* Forest Law
+
+Strengths:  Powerful juggles, damaging Punch Parry (b+1+2) followups, Dragon's
+            Tail (d/b+4), fast character.
+Weaknesses: Bad recovery on some moves, not too many low attacks.
+
+Law can do some serious damage once he has you up in the air for a juggle or he
+pulls out that Punch Parry of his at the right time. Against Law, never ever
+start your strings from long distance, always ensure that the first hit of
+your string will at the very least be blocked. This is because the more alert
+Law players can Punch Parry you during one of the many high jabs Jun does
+during her strings, setting you up for big damage. His Flipkicks can do serious
+damage too, setting up a juggle for more big damage. The more patient Law
+Okizeme players will use the Dragon's Tail to good measure. If you get knocked
+down without a chance to tech-roll, stay down. If Law hasn't done the Dragon's
+Tail yet (will whiff on lying down opponents), then tap 2 to roll sideways.
+Hopefully this will cause Law to flinch and do the Dragon's Tail. Also try
+using the Lightning Ankle Kick (d+4 when getting off the ground) once in a
+while, it may out-prioritize the Dragon's Tail. Perhaps you should keep a
+defensive/counter attacking tactic against Law i.e. wait for him to make the
+mistake. Fortunately, he doesn't have too many good low attacks to bother you
+with (although the Dragon's Tail alone can be annoying).
+
+
+* Ganryu
+
+Strengths:  Very powerful moves, Thigh Quake (d+4), Quick Sumo Rush (f+1+2).
+Weaknesses: Generally slow, slow recovery times on some moves, most attacks
+            are high/mid, linear moves.
+
+Ganryu can do immense damage with some of his moves. Take for example that
+Quick Sumo Rush, it comes out very fast and does about as much damage as Paul's
+Deathfist (qcf+2). Another is that Thigh Quake of his. If you ever get
+grounded without tech-rolling, get up as soon as you can. Because if you give
+Ganryu enough time, that Thigh Quake is going to take out a huge chunk of your
+life. Apart from a few choice moves though, Ganryu doesn't excel in other
+aspects of gameplay. The Kabuki Low Palm is an infinite string of low poke
+attacks. Be sure to block low and/or Low Parry them once you spot Ganryu doing
+the move (Ganryu looks like he's hopping on one leg in a dopey stance and
+pushing his palm to around waist height - very easy to spot). It looks like a
+bunch of mid attacks though because of where it hits but, well, now you know.
+Because Ganryu is rather slow and possesses rather linear moves, you should get
+into the habit of sidestepping rings around him, poking away at him.
+String'ing him to death with your infinites may also give you some success,
+although watch out for that mid/high Punch Parry (b+1+3_b+2+4).
+
+
+* Gun Jack
+
+Strengths:  Powerful moves, Punishment Drop (u/f+1+2) -> Gigaton Punishment
+            (b,d/b,d,d/f+2) multipart, Megaton Sweep (b,d/b,d,d/f+1).
+Weaknesses: Generally slow, extremely long recovery times, long startup times
+            on various moves.
+
+Smack smack, gameover. That's about how fast Gun Jack can defeat somebody... if
+he can hit anyone that is. Getting hit by most of Gun Jack's moves is more a
+case of an accident or carelessness on your part and not by any great
+attributes of Gun Jack's moves. However, he has a few choice moves which can
+pose some pain. First and foremost is his Punishment Drop -> Gigaton Punishment
+multipart... it's eeeeevil. It does whopping loads of damage and the escape
+for the Gigaton Punishment is very hard (as the punch is just about to
+rearrange your face, tap b). If you ever get the chance to use Gun Jack, try
+just tapping u/f+1+2 for the Punishment Drop and look at how far his long arms
+extend for the throw. Looking at this fact, his throws have a big range as
+well. His Megaton Sweep comes out at a slightly slow speed and does decent
+damage as well as having big range, not too bad a move actually. However,
+there's enough start up time in the move so that you should be able to block
+it on instinct. Defeating Gun Jack shouldn't really be a problem. You can use
+just about anything on him, since he's slow and has no reversals. Even his
+jabs are slow to come out... which means you can have a jolly time abusing your
+strings.
+
+
+* Heihachi Mishima
+
+Strengths:  Powerful moves, powerful juggles, Hell Sweeps (f,N,d,D/F+4), Twin
+            Pistons (d/f+1,2), Deathfist (qcf+2), Wind Godfist (f,N,d,D/F+2),
+	    Chi Palm (1+2), Slice Kicks (f,N,d,d/f+3,N (hits mid)_f,N,d,D/F#+3
+	    (hits low)).
+Weaknesses: Some recovery times on various moves.
+
+Heihachi is one powerful old geezer. He has confusing attacks, powerful
+attacks, fast attacks, all-of-the-above-plus-it-juggles attacks... and the list
+goes on. Don't let him poke you around too much, you'll know you're being set
+up for something once Heihachi gets into poking. Try to poke back when you can.
+Jun and Heihachi are on even ground when poking around with strings and
+whatnot, with Jun having better all-round speed and Heihachi more power.
+However, when it gets to juggling, Heihachi is downright destructive (although
+with tag-juggles, it doesn't make too much of a difference now). Against a
+good Heihachi player, you'll find your strings being countered more than usual
+(a favourite being with his Chi Palm). Stick with string variants with only a
+few high attacks and you should do alright. Also, I suggest putting more
+emphasis on her short strings (like maybe b+2,1,4 or f+1,4 or 1+4,2,(4_d+4)).
+Try to find a balance between attacking and defending depending on your
+opponent's style of play. It takes lots of experience to take on a good
+Heihachi player.
+
+
+* Hwoarang
+
+Strengths:  Powerful juggles, good pokes, fast moves.
+Weaknesses: Very linear attacks, lack of low attacks.
+
+Hwoarang can be a really annoying guy sometimes. A lot of the Hwoarang players
+I've played poke a lot, and to good measure too. His moves come out rather fast
+and are usually safe, setting up for a good pokey game. But the lack of low
+attacks in his arsenal make him bearable when on the defensive. You can take
+the sidestepping deal against Hwoarang because of his horribly linear moves
+and you should on the right track to winning. Try not to go for risky moves,
+it's not worth it - his juggles are painful.
+
+
+* Jin Kazama
+
+Strengths:  Very powerful juggles, quick and powerful moves, good low attacks.
+Weaknesses: None when used correctly.
+
+Always nice to see some family bickering. Jun's son has inherited various
+characteristics from his parents (Jun and Kazuya) and is a favourite character
+among experienced players. I've played against heaps of Jin players and they
+usually fall under two categories. Scrubby Jin's who rely on his pre-canned
+five -> elevenstrings or the more difficult poking types. Against the first
+type, go all out offensive - nothing annoys those scrubs worse than denying
+them the only thing they can do. However, the second type is another story.
+Jin is fast, has reversals and not really any big weakness I can see. As with
+Heihachi, you should keep to using Jun's shorter strings to confuse your
+opponent with quick strings. Keep him unbalanced. What this does is make your
+opponent predictable since you aren't giving him/her time to think about their
+gameplay. If you happen to be on the defensive, it might be better to actually
+stay close to Jin since his more damaging moves have a slight startup time but
+good range (therefore you can counter these moves easier when you're close up).
+The tactic you'll have against Jin really depends on how your opponent plays
+since Jin is a flexible guy. Ditch those maternal instincts and smack him in
+the face.
+
+
+* Julia Chang
+
+Strengths:  Some confusing strings, good crouching moves, good low attacks,
+            good running moves, good juggles.
+Weaknesses: Bad recovery and startup times on many moves.
+
+Julia can really hurt you with her low attacks and attacks from crouching. What
+this means is that you should stay away from too many high attacks to avoid
+getting beat to a pulp. Julia is surprisingly slow and you get do a lot of
+damage just by sticking close to her. Julia needs her space to perform well so
+get in her face and use your quicker pokes to squeeze in those hits. Take
+advantage of the speed difference between the two of you. She has big damage
+juggles and a pretty good Okizeme to back it up, so don't give her too much
+room to breathe else you'll be K.O.'ed before you even know what happened.
+
+
+* Jun Kazama
+
+Strengths:  Very confusing strings, quick moves, good power/speed balance,
+            Can-Can Kicks (d+3+4).
+Weaknesses: Limited personal juggle followups.
+
+Woohoo a mirror match. Jun vs. Jun games (not to mention any mirror match) are
+always interesting due to the various strategies employed. Firstly, if you get
+caught on the defensive against the other Jun, you'll have to know when and
+which moves of her strings breakable. For her most popular string, the White
+Heron, you need to react quickly. Duck as soon as you detect the White Heron.
+Hopefully you saw it before the 2 of the 1+4,2 White Heron starter came out.
+If you did, then do a d+1_d+2 to break the string. Also, if you see _any_ Screw
+Punches, do a f+2_f,f+2 straight after you block the Screw Punch. This will
+always work since followups after the Screw Punch suffer under the lag of the
+Screw Punch. Try to use your reversals in between attacks within strings,
+these are the points where it's hardest to buffer chickens. A good way to get
+back the initiative of the round is to use the 2+3 Sparrow Pirouette to eat
+through high/mid attacks.
+
+Offensively, go for the shorter strings since you have to assume that your
+opponent will have a keen sense of what's coming next in her strings. The
+standard White Heron combos (1+4,2, (4_d+4)) will do wonders when mixed up.
+Try to use the Leg Cutters (3~4) as a starter to your strings once in a while,
+just for variety. Sidestepping around Jun won't have too much success since
+the only attack you're likely to sidestep well is her Can-Can Kicks, since
+her other attacks have great tracking (even her strings). Speaking of Can-Can
+Kicks, be sure to use this move as a standalone attack when you can (i.e.
+specifically the d+3+4 command) since it's next to impossible to detect that
+initial low kick, therefore free juggle and probably around half a lifebar of
+damage. Good stuff. Buffer chickens whenever humanly possible to stop those
+reversals hurting you too much. Keep on the offensive as much as you can, you
+really can't win just by staying defensive, you'll eventually cave in to her
+confusion tactics.
+
+
+* Kazuya Mishima
+
+Strengths:  Powerful moves, quick recovery on moves, powerful juggles, all
+            moves are outstanding, several stunning moves which can be
+	    followed up.
+Weaknesses: Lack of moves (though not really a weakness in Kazuya's case).
+
+Kazuya has changed quite a bit since the old days. He still has big fat juggles
+but it seems that he's gone down the "power character" road since Tekken 2.
+His crouch dash forward confuser (Hell Sweeps and Wind Godfist) is now gone (a
+VERY good thing if you're vs. Kazuya), his Twin Pistons has now been changed
+to a WS move, the Gutpunch is a standing move and of course he's been toned
+down a little since before. Saying this, there are a few things to commit to
+memory when playing against Kazuya. Whenever he crouch dashes, block low. The
+Wind Godfist (coming from a crouch dash) is now a special mid attack and his
+Hell Sweeps (also from the crouch dash) is a low attack - which means that if
+you crouch, you won't immediately suffer any consequences. I said immediately
+because Kazuya can still crouch dash and do nothing with it, but followup with
+a separate mid attack while you wait for the Wind Godfist or the Hell Sweeps
+(much like the 1+4,2,1,1 stop then 2 strategy I outlined earlier) to come
+knocking. And that's just about the only time you should ever block low
+against Kazuya. Just about all his other attacks hit mid, and they all hurt. 
+
+
+* King
+
+Strengths:  Great pokes, numerous multipart throws, powerful throws, some
+            powerful moves.
+Weaknesses: More damaging multiparts are easy to escape, limited juggling
+            ability, hardly any low attacks.
+
+King has one of the best poking arsenals in the game. So many of his moves come
+out fast, do decent damage, have range and no retaliatory openings. And this is
+how most King players are going to do most of their damage on you. Because King
+can be dangerous at various ranges (close range means painful throws, further
+away means pokes), you aren't really left with much to work on. You can just
+stand there and block everything (not as if you're going to get hit by a low
+attack anytime soon) but you're not going to win that way. You should try to
+get semi-close to him (max range of the Can-Can Kicks is perfect - his throw
+range is less than the Can-Can Kicks range) and gnaw away at him with various
+short strings with a random Can-Can Kick here and there. If you get caught in
+one of his multiparts and you don't know it's escape sequence, try tapping 2~1
+right after you see the hit animation for every throw. Mashing the buttons
+isn't as effective.
+
+
+* Kunimitsu
+
+Strengths:  Jumping Headthrow (f+1+4), quick unblockables.
+Weaknesses: Several moves have horrible recovery rates.
+
+<Not enough experience with/against Kunimitsu to warrant writing anything here>
+
+
+* Lee Chaolan
+
+<Not enough experience with/against Lee Chaolan to warrant writing anything
+here>
+
+
+* Lei Wulong
+
+Strengths:  Confusion galore, good low attacks, good attacks from any position.
+Weaknesses: Several moves have recovery time.
+
+Lei can be severely annoying once he gets going. You'll notice that you're
+gonna eat a lot of low attacks, mainly because he has so many of them. If you
+stay close to Lei though, he can't exactly get into any of his stances so that
+cuts out a lot of his options. Which is a good thing, so do that. Also, if Lei
+is lying around on the ground (as he usually does), do a Leg Cutter or
+Cartwheel Kick to thump him and coax him to get back up on his feet. You really
+can't beat a good Lei player if you give him room and time, you'll inevitably
+fall under his confusion tactics, so keep close.
+
+
+* Ling Xiaoyu
+
+Strengths:  Very fast character, good at evasion, attacks have very little
+            recovery time, good pokes.
+Weaknesses: Doesn't do a lot of damage, her better options are when she has her
+            back turned, not many low attacks.
+
+Ling is basically a set-up character. She'll be poking around, enticing you to
+retaliate and pow, usually straight into a Reverse Hook Kick (back turned 4)
+and into a juggle. Ling can be a hassle at times because her moves come out
+lightning fast (therefore perfect for interrupting your strings) so really
+stick with your shorter strings against her. She is, however, very vulnerable
+to reversals so go reversal-happy until Ling starts to buffer chickens. You'll
+find yourself having to counter attack most of the time against Ling since
+she's just too fast and will inevitably dictate the round. If Ling goes into
+Phoenix stance, or even back-turned, try a Cartwheel Kick to pop her out of it.
+A Demon's Paw will whiff against the Phoenix stance and may get major countered
+by Ling's Reverse Hook Kick.
+
+
+* Michelle Chang
+
+Strengths:  Some confusing strings, good crouching moves.
+Weaknesses: Bad recovery on moves.
+
+Personally I think Julia is a stronger character than Michelle. However,
+Michelle does have the Sliding Doublekick (d/f+3+4) which goes under high
+attacks and launches high for a juggle (but this move alone doesn't compensate
+for Julia's other great moves). But as with just about all her moves, if it's
+blocked or it whiffs, then you have quite a bit of time to retaliate. As with
+Julia, I think that sticking close to Michelle and pulling out short strings is
+the way to contain her.
+
+
+* Nina Williams
+
+Strengths:  Good juggle starters, confusing short strings, fast character,
+            Dragon's Tail (FC d/f+4), crouch dash forward confusion.
+Weaknesses: Some recovery time on several moves.
+
+Nina is one of the better set-up characters in the game. She has a very wide
+variety of moves and can be very confusing at times. One the favourite things
+Nina players use a lot is her crouch dash forward guessing game. What usually
+happens is that Nina crouch dashes and tries to start one of her multiparts
+from that dash (two different starters) which will catch you if you block high,
+and if you duck in anticipation of it, Nina can pull out her Roshambo Kick
+(that evil groin kick) to smack crouchers. If you get caught in this situation,
+the best thing to do is stay standing and cop the multipart. At least you can
+escape them easily.
+
+Nina has one of the best juggle starters in the game (Divine Cannon d/b+3+4),
+but it does have its setbacks. Although it pushes away when blocked, Nina is
+still slightly vulnerable when her Divine Cannon is blocked. If you block one
+of these, try a f+2. Hopefully it'll connect for a juggle. Her Divine Cannon
+combo (d/b+4,3) doesn't seem to push as far as the normal Divine Cannon when
+blocked, so more vulnerable to retaliation.
+
+As with a lot of characters, try to stay within range of your Can-Can Kicks.
+At this range Nina can't do her crouch dashing confuser (if you see her try it,
+you can Can-Can Kick her while she's dashing) and should stop a lot of her
+moves (Double Palm or Blonde Bomb as it's otherwise known, Divine Cannon to
+some degree, several of her confusing strings). At this range you have a slight
+advantage so take it (and remember those chickens!).
+
+
+* Paul Phoenix
+
+Strengths:  Deathfist (qcf+2), very powerful moves, powerful tenstrings, moves
+            come out fast.
+Weaknesses: Recovers like a snail on crack after many of his moves.
+
+The first thing that anyone thinks of when talking about Paul is his Deathfist.
+It has does some serious DAMAGE (around 60% of a lifebar with one major counter
+Deathfist, a little less than 1/3 lifebar on normal hit), comes out fast, has
+enormous priority, has gigantic range (the punch itself is long range, add to
+that a crouch dash distance and you've covered a marathon distance), hits mid
+and pushes opponents back when blocked. Wow. And ouch too if you're at the
+wrong end of one of those punches. But fortunately, there is still a window of
+opportunity to punish Mr Phoenix after you block one his trademarked punches.
+It doesn't seem to push opponents as far away as in Tekken 3 and you will
+recover before Paul will. You can actually hit his arm as he recovers (try a
+f+2 or even d+3+4 if close enough - if these two moves aren't fast enough, try
+a f,f+2).
+
+Paul Falling Leaf combo (d+4,2) has been toned down now, with the initial sweep
+only knocking down on counterhit. It also has enormous recovery time, so you
+can have fun smacking him. Another favourite move is his Double Jumpkicks
+(surprise surprise it does lots of damage) and you shouldn't try to attack him
+after he lands since he can still do a kick after he lands - at which point
+you'll probably be pushed too far away for anything. His tenstrings can do some
+pain if you're clueless about them. His most popular one (1231421421) is easy
+to see coming - look for a couple of jabs (just about the only time a Paul
+player will use jabs is when starting a tenstring) then a high kick then
+another jab. The next (5th) hit will hit low at which point you can use a Low
+Parry or block the sweep and do a d+1_d+2 straight after it. Unfortunately Paul
+can also do a 12312 fivestring where the 5th hit is a mid hit. If you try a
+Low Parry for the 5th hit though, you will recover in time to block mid (the
+final hit of the fivestring come out slowish).
+
+You can beat Paul by playing defensive (wait till he does a move with spastic
+recovery time then smack him) or by staying close and poking around (more
+risky because his moves come out fast).
+
+
+* Wang Jinrei
+
+<Not enough experience with/against Wang Jinrei to warrant writing anything
+here>
+
+
+* Yoshimitsu
+
+Strengths:  Good pokes, good unblockables, Bad Breath (b+1+2,1_2_3_4), weird
+            attacks.
+Weaknesses: Recovery time on some moves.
+
+Yoshimitsu is confusing but not exactly for the reason of varying attack levels
+- rather because his moves are just unique in Tekken, and rather weird. Yoshi
+can be a very good poker, especially when mixed up with some of his faster
+unblockables. Speaking of unblockables, you can't really go past Yoshi's Bad
+Breath, one of the better moves in the game. The Bad Breath stance itself
+(b+1+2) is deceptive, since he sways backwards, evading a lot of high/mid
+attacks. The unblockable breath from that stance comes out fast, does
+considerable damage for its worth and even crumple stuns with followups
+available when it hits. It doesn't have the best of ranges though, but most
+Yoshi players can work around that. But back to his poking game, Yoshi has some
+superb pokes (Savior Boot! d/f+4 comes to mind) and can keep Jun zoned pretty
+well. Again, you might do well by staying close to him and plugging away, this
+way stopping most of his unblockables (most of which have some sort of
+start-up delay) and at this range you have all of your options. Yoshi can be
+played in a number of different ways, so watch how your opponent goes about
+and adapt your tactics to it.
+
+
+
+-----+-----
+-: Miscellaneous info
+
+* Profile
+
+Name : Jun Kazama
+Nationality : Japanese
+Style : Kazama Style Martial Arts
+Age : 22 during second Iron Fist Tournament
+Bloodtype : AB
+Height : 170 cm 
+Weight : 54 kg
+Occupation : Wildlife Protection Officer
+Hobby : Birdwatching
+Likes : Basking in the woods
+Special : Highly psychic
+
+Jun entered the second Iron Fist Tournament to confront Kazuya, the
+Tournament's sponsor (and victor of the first tournament) about his involvement
+in the smuggling of animals. Once in his prescence she sensed a great darkness
+emanating from him. She became determined to excise the demon which held him.
+
+Despite her stunning moves and stamina, Jun was not the ultimate victor of the
+Tournament. Once defeated, however, she could go to Kazuya and discover the
+source of the darkness she sensed from him. The closer she came to him, the
+stronger the feeling became until it nearly overtook her. But Jun found Kazuya
+and though his aura frightened her, she was strangely attracted to him and
+found herself entangled in his plans. 
+
+Jun left the Tournament and returned to her beloved forest. There she gave
+birth to a son, Jin, and there she raised him in the light. She taught him
+self defense and to appreciate nature and the creatures who share our world.
+She never mentioned his father. He did not find out the story of his birth
+until he was 15 years old.... 
+
+
+Note: The above profile section was teken from:
+http://www.geocities.com/Tokyo/Teahouse/1259/purity.html
+
+
+
+-----+-----
+-: Credits
+
+Catlord <catlord@tekken.net>:
+For producing the most up-to-date movelist available.
+
+Xiaoyu Land <http://www.geocities.com/Tokyo/Teahouse/1259/index.html>:
+Background info on Jun.
+
+
+
+-----+-----
+-: Future updates
+
+* Inevitable corrections
+* Update vs. giudes
+* More juggles (there has to be more out there somewhere...)
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+

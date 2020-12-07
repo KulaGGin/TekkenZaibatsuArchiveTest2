@@ -1,0 +1,1244 @@
+
+                    Tekken Tag Tournament: Kunimitsu FAQ
+                            version 1.0  11/12/99
+
+                                   by:
+                                Pete Hahn
+                                  "HAN"
+                             PHahn123@aol.com
+
+
+Disclaimer: This document may be reproduced electronically, as long as
+            it remains unaltered in any way.  Please give proper credit
+            where it is due.  This document Copyright 1999 Pete Hahn.
+
+ Best viewed in edit.com...line up the dots with the numbers to make sure
+ your spacing is right.
+
+ 1234567890
+ ..........
+
+   Table Of Contents:
+
+   1) Introduction
+   2) Kunimitsu: the Character
+   3) Conventions
+   4) The Moves
+   5) Moves Analysis
+   6) Custom Strings/Strategy
+   7) Combos
+   8) Revision History/What I want to add next revision
+   9) Thanks/Credits
+
+
+ { 1 } I n t r o d u c t i o n
+
+        This is my first FAQ writing attempt in a very long while,
+        so please bear with the lack of updates, misspelling/grammar
+        errors and such.  To give any readers that don't know me personally
+        a somewhat of a background for myself:  I play Tekken Tag
+        Tournament regularly in several places in the Chicagoland area
+        against some of the better (maybe best?!?) competition that Chicago
+        has to offer...the group I play with are advanced/expert level
+        players.  I believe I have a firm grasp on what expert level play
+        looks like -- I was one of two people (SauerKraut being the other)
+        that ran the Chicago nationals for TK3 last year.  I've seen Zack J.,
+        Tragic and other top players in action, and I've played some of these
+        top players as well.  This FAQ is designed to share some of my
+        Kunimitsu  technique to better your Kunimistu play and also
+        make you better at TTT overall.  Hopefully everyone will will pick
+        something up from my efforts.  To get the most from this FAQ, you
+        should at least be at an intermediate level of play; this FAQ assumes
+        that you know the basic TTT system.  There are plenty of guides on
+        GameFaqs (www.gamefaqs.com) that can help you with system questions
+        that you may have.  In any case, enough with the intro, lets get
+        started!
+   
+ { 2 } K u n i m i t s u :   T h e   C h a r a c t e r
+ 
+        Story taken from Namco's official Tekken Tag tournament Web site
+        (www.tekkentagtournament.com):
+
+        {Not available as of 11-12-99}
+
+        Somewhat of an underdog is what many people consider Kunimitsu in
+        the past Tekken games.  (To dispel that myth, check out Slikatel's
+        Mitsu tribute for Tekken 2!).  In TTT, it seems that people shy
+        away from trying her because of her past.  Lets take a quick look at
+        Kuni's strengths and weaknesses:
+
+        Strengths:   1) Great poker/custom strings
+                     2) Decent side-step ability
+                     3) GREAT unblockable techniques
+                     4) Easy to set up juggles
+                     5) Taki-wannabe super-sexy purple outfit! :)
+
+        Weaknesses:  1) Much more practice is needed to obtain advanced
+                        technique (i.e. she's not gonna be as easy as
+                        Paul or Law to learn and abuse, er...use.)
+                     2) Lack of single high-powered moves.  Kuni maxes
+                        out at around 30 points, where as our friend Paul
+                        can do 49 points on a clean hit deathfist (i.e.
+                        no counter needed!)
+
+        Her basic playing style depends on her being mostly on the offensive;
+        her jabs, basic uppercut, side kick, and unblockable arsenal allow
+        her to do this.  Much more on all of these later...
+
+ { 3 } C o n v e n t i o n s
+
+        Note: You'll find my conventions very close to those of
+        Tekken.Net...I'm already used to them, and they are pretty
+        much accepted to be a standard in the Tekken community.
+
+        Moves Conventions
+                                 -   -   -
+        1   = left Punch       | 1 | 2 | 5 |
+        2   = right Punch        -   -   -     button layout
+        3   = left Kick        | 3 | 4 |
+        4   = right Kick         -   -
+        5   = tag
+        u   = tap u  (d=down, b=back, f=forward, ect...)
+        U   = hold up (D=hold down, B=hold back, F=hold forward, ect..)
+        d/f = tap down and forward diagonal
+        D/F = hold the down and forward diagonal
+        qcf = quarter circle forward (qcb=quarter circle back, ect...)
+        hcf = half circle forward (hcb=half circle back, ect..)
+         n  = nuetral (no joystick input)
+         ~  = immediately follwed by...
+         ,  = followed by... (i.e. "3,4" = left kick followed by right kick
+         _  = or (i.e. "3_4" = left kick or right kick
+        ss  = side step
+         +  = and (i.e. "3+4" = left kick and right kick simultaneously)
+        ws  = while standing from crouch
+        bk  = move leaves back turned towards opponent
+        bt  = back turned towards opponent
+        jg  = juggle starter
+        fc  = from crouch (i.e. character in full crouch animation)
+        rc  = move recovers in a crouching position
+        ch  = counter hit
+        ob  = opponent shows back when hit with a move with this property
+        gb  = opponent's guard is slighty broken, giving you the advantage
+
+            Hit Levels
+
+             l  = hits low (must block low)
+             L  = hits low and grounded opponents
+             sm = special mid, can be blocked high or low
+             SM = special mid, hits grounded oppponents
+             m  = hits mid, must block standing up
+             M  = hits mid and grounded opponents
+             h  = hits high (can be crouched under)
+             H  = his high and grouded opponents
+             !  = unblockable attack
+             !l = low unblockable 
+             !L = low unblockable that hits grounded opponents 
+             !m = mid unblockable (cannot be crouched under)
+             !M = mid unblockable that hits grounded opponents
+             !h = high unblockable (can be crouched under)
+             !H = high unblockable that hits grounded oppponents
+
+ { 4 } M o v e   L i s t 
+
+       Note: Official move names taken from Namco's official website:
+       www.tekkentagtournament.com...namea for unlisted (unconventional)
+       moves I made up!
+
+       Throws:
+
+       Command      Orientation      Name              Damage     Escape
+       __________________________________________________________________
+
+        1+3           front         Jumping Body Slam    30         1
+        2+4           front         Sickle Bash          30         2
+        2+5           front         Tag Throw            n/a        2
+        1+3_2+4       right side    Tornado  (*)         40         2
+        1+3_2+4       left side     Avalanche            40         1
+        1+3_2+4       back          Back Drop            50       none
+        d/b+1+3       front         Judo Throw           35        1+2
+        f+1+4         front         Manji Rana           35        d/f
+
+        (*) = Kunimitsu can tag out right after throw is excecuted,
+              allowing her partner to do a follow-up (follow-ups will be
+              discussed later...)
+
+       Arts:
+
+       Command        Name                Hit Level   Damage    Properties
+       _________________________________________________________________
+
+        1_f+1         basic jab             h          10
+        d+1_D+1       crouching jab         sm         10
+        d/f+4         side kick             m          15
+        1,2           jab, uppercut         h,m        10,8
+        1,2,1         jab, double uppercuts h,m,m      10,8,6
+        2,3           jab, roundhouse       h,h        12,21
+        2,d+3         jab, sweep            h,l        12,8
+        b+1,1,1,1,1   stone fists           h,h,h,h,h  10 (each)   #1
+        f+2           backhand              h          10          ob
+        f,f+2,(5)     rising kazura         m          24          jg
+        d/f+2,(5)     step in upper         m          13          jg
+        1+2           supreme thrust        m          22
+        f,f+1+2       solar kick - reverse  m          22          bk
+        ss+1+2        windtry wind          h          21
+        u/f,n+3       hopping kick          m          32
+        u/f,d+3       hopping sweep         L          25
+        u/f,n+4       jumping spinkick      m          32
+        u/f,d+4       jumping superspinkick m          25
+        3,4           zig zag               h,m        30,30
+        bt+3          jewel                 m          22          bk,jg
+        fc,d/f+3      raining banish        L          12          rc,jg
+        4,4,4         triple kick combo     h,h,h      20,20,21    ob,#2
+        f,f+4         fubuki                m          10
+        D/B+3,3,3,3,3 crouching spin kicks  L,l,l,l,l  12,7,7,5,5  rc,#1
+        f+4           tree fall kick        m          12          #3
+        u/f+4         avoiding the puddle   m          25
+        f+3+4         growling jewel        m          30          gb
+        f,f+3+4       solar kick            m          30
+        f,f+3+4,1+2   shark attack          m,h        30,30
+        f,f+3+4.3     ninja jewel           m,m        30,30       bk
+        f,f+3+4,3+4   ninja flying shadow   m,n/a      30,n/a      #4
+        u/f+3+4       poison wind           M          21
+        fc+3+4_d+3+4  fairy wax             M,M        5,23
+        ss+3+4        will-o-the-wisp       L          15          rc
+        d+1+2         earth divide          n/a        n/a         #5
+        f,f+3         inverted stalker      n/a        n/a         #6   
+        f,f+3,4       thrust stalker        m          30
+        u,u/b         evasion backflip      n/a        n/a            
+        1+2+3+4       kiai tame powerup     n/a        n/a         #7
+        d/f           universal low parry   n/a        n/a         #8
+
+       Unblockable Arts:
+
+       Command        Name                Hit Level   Damage    Properties
+       _________________________________________________________________
+
+        d/b+2         deadly slice          !m         15
+        b+2           deadly stab           !m         22
+        f,f,n+2       advancing deadly stab !m         25
+        u+1+2         heaven divide         !m         25
+        b+1+2         cycle of rebirth      h,!h       8,11
+
+       Ten String:
+
+       1,2,1,4,4,4,1,2,3,2    Hit levels:  h,m,m,h,h,L,m,h,m,!m
+
+
+       Property Notes:
+
+       #1: After last spin, Kunimitsu will become dizzy and fall
+       #2: opponent shows side if final hit is blocked
+       #3: must be executed during crouching spin kicks (before last spin)
+       #4: Kuni ends up behind the opponent
+       #5: special motion; evades all attacks momentarily
+       #6: special motion; Kuni jumps at opponent, lands and
+           quickly recovers if 4 was not pressed to execute
+           thrust stalker
+       #7: 1st hit after power up is given a counterhit bonus for damage.
+           However, Kuni cannot block while powered up.  If any moves
+           are blocked when Kuni is powered up, she will inflict
+           slight guard damage to the opponent.
+       #8: with a tap of the d/f diagonal right before a low strike
+           comes in contact with Kuni, she will parry it and have a
+           slight advantage
+
+ { 5 } M o v e  A n a l y s i s
+
+       The information that this section provides is useful...I will first
+       give the move command, the name of the move, hit level, damage and
+       a ranking in stars (out of 5) on the first line.  The text following
+       that will detail the moves best uses, set-ups, follow-ups, and any
+       other tidbits that I thought might be useful regarding this move.  
+
+       * = pretty useless move, really should not be used that much if at all
+       ** = below average move, has specialized uses
+       *** = average move, has multiple uses
+       **** = above average move, will use often in multiple situations
+       ***** = a near perfect move in terms of set-ups, follow-ups,
+                speed, recovery; use this move often 
+
+       Throws:
+       -------
+
+       command        name                   damage   escape     rank
+       ________________________________________________________________
+
+        1+3           Jumping Body Slam       30         1        **
+        ----------------------------------------------------------------
+
+        standard throw...I normally don't use this on unless my
+        opponent is escaping my sickle bash and I need to change up,
+        since this throw basically doesn't leave you with any
+        follow-ups or ground games to enjoy.
+
+        2+4           Sickle Bash             30         2        ***
+        ----------------------------------------------------------------
+
+        standard throw...people, use this!  Easy to execute, allows some
+        fun follow-ups: If the opponent stays on the ground, fc,d/f+3 or
+        ss+3+4 will hit...if they stay down slightly longer, back up and
+        do an u/f+3+4 poison wind.  Another nice follow up is Kuni's
+        d+3+4; the first hit will hits them if they don't move, but if
+        they flinch, the other hit will tag them as well.  If you
+        take a step back and execute the d+3+4, only the second hit will
+        connect, for some pretty sweet damage.  You can also try for an
+        u/f,d+3. Just don't get too predictable with it's use or you'll
+        never get it to land. Best to try this throw after a basic jab
+        counterhits.  See "okizeme" under Custom Strings/Strategy for
+        another sweet trap thanks to tragic's tk3 Yoshi.
+
+        2+5           Tag Throw         damage varies    2        ***
+        ----------------------------------------------------------------
+        The actual throw and damage vary with your partner...however,
+        this move really shines when you are teamed up with
+        Mokujin/Tetsujin, as the throw will easily reveal Moku's identity
+        to you (and unfortunately, the opponent).  Obviously, use this move
+        when you need to tag and inflict some damage at the same time.
+
+
+        1+3_2+4       Tornado (right side)    40         2        ****
+        ----------------------------------------------------------------
+
+        Ahh...a nice little side throw we have here.  It allows for some
+        follow-ups afterwards, but it seems that the initial damage is
+        decreased when you tag.  The throws only real downfall is that it
+        is easy to escape, so try to catch your opponent off gaurd by not
+        always throwing when you sidestep one of his moves.  Here are some
+        follow-ups, by character.  Please tell me if you have verified 
+        that someone escaped one of these follow-ups so it can be removed.
+        By the same token (heh, a little arcade pun for you), please inform
+        me of any more follow-ups that you have that aren't on this list.
+
+      Baek: d/b+4 or f,f+4 or d/b+3+4
+      Michelle: u/f+3+4
+      Armor King: ground throw or d/f+3+4 or d+3+4 or d/b+4 or u,n+1+4
+      Gun Jack: b,d/b,d,d/f+1 or u/f+3+4 or d/f+2+3 or F+3+4
+      Anna: f,f+4 or d+3+4
+      Bryan: d/f+3
+      Heihachi: 4~3 or f,n,d,d/f+4 or f,n,d,D/F+3
+      Ganryu: u/f+3+4,2 or d/f+2+3
+      Julia: u/f+3+4 or b+3
+      Jun: 3+4 or b+1 or fc,d/f+2
+      Ling: f,f+3+4 or d+1+2,4~3 or f,f+3
+      Yoshi: d/b+1 or u/f+3+4,b+1,u/f+3+4 or u/f,d+3 or 1+2, f,f
+      Nina: f,f+4 or d+3+4
+      Law: d/b+2,4 (the d/b+2 doesn't hit) 
+      Hwoarang: d/b+4 or (3+4),4,3 or d/b+3+4
+      Eddy: d/b+3 or f,f+3+4 or ss+4
+      Paul: d+2 or D,d/f+2,2 (first 2 misses)
+      King: ground throw or f,f+2+3 or f+1+4 
+      Lei: u/f+2 or d/b+4
+      Jin: 4~3 or f,n,d,d/f+4 or b+4 or u/f+2+4
+      Kazuya: 4~3 or f,n,d,d/f+4
+      Bruce: d/f+3  
+      Kuma: u/f+3+4 or 1+2 or f,f+2
+      Jack-2: b,d/b,d,d/f+1 or u/f+3+4 or f,f+3
+      Lee: fc,d,d/f,d,d/f+3 or fc,d/f+4 or d/b+3
+      Wang: d/f+1+2 or u/f+3+4 or ss+4
+      P-Jack: b,d/b,d,d/f+1 or u/f+3+4 or d/f+1+2 or F+3+4
+      Devil: 4~3 or 3+4
+      True Ogre: f,f+1+2 or 4~3 or ss+4 or d+3+4
+      Ogre: f,f+1+2 or ss+4
+      Roger/Alex: ss+4 or d/f+3+4 or d+3+4 or d/b+3  or u/f+3+4
+
+
+        1+3_2+4       Avalanche (left side)   40         1        ***
+        ----------------------------------------------------------------
+
+        A standard side throw that doesn't offer nearly as much in the
+        ways of follow-ups as the above move, but you can still try to
+        hit the opponent as he's rising with the fc,d/f+3 or ss+3+4
+
+        1+3_2+4       Back Drop (back)        50       none       ***
+        ----------------------------------------------------------------
+
+        Standard back throw that gets the job done, being unescapable.
+        Go for an u/f+3+4 poison wind if the opponent stays on the ground
+        in fear of your wake-up games.
+
+        d/b+1+3       Judo Throw              35        1+2       ****
+        ----------------------------------------------------------------
+        A very useful throw...this frontal throw requires a dual button
+        escape, making it more difficult to break.  Also, it leaves the
+        opponent near you (in a bad position) so get the wake-up games
+        going after this throw.  If the opponent doesn't move right away,
+        the second (and more powerful) hit of d+3+4 will connect with no
+        need to step back...this throw sets you up perfectly.  Another
+        thing to try if they stay down is Kuni's u/f,d+3.  Also,
+        this throw should be used after a blocked, slow-recovering move,
+        (because of the more difficult escape) on better opponents rather
+        than the 2+4 sickle bash.  In Austin Powers fashion, you MUST yell
+        "JUDO THROW" everytime you land this move.  
+
+        f+1+4         Manji Rana              35        d/f       ***
+        ----------------------------------------------------------------
+        A somewhat useful throw.  This will seem unescapable to mashers
+        and scrubs and anyone else that doesn't know that you can't escape
+        it pressing 1 or 2 or 1+2...simply hold d/f as the throw starts,
+        and Kuni will go flying over their head.  Sometimes the damage is
+        worth the risk on better players, but stick with the Judo Throw
+        for retaliation purposes.
+        
+       Arts:
+       -----
+
+       Command        Name                Hit Level   Damage     Rank
+       _________________________________________________________________
+
+
+        1_f+1         basic jab             h          10         *****
+        ----------------------------------------------------------------
+        You might be thinking "5 stars for a basic move?"  Folks, let
+        me tell you, this move rocks.  Here's why:  Easy to execute,
+        extrememly quick in execution AND recovery.  After a counterhit,
+        you opponent has no choice but to block another jab, since it
+        executes before they can even duck, it seems.  It sets up a 2+4
+        throw or JUDO THROW nicely after a counterhit, and chains into a
+        sidekick, uppercut or another basic jab so fluidly that you'll 
+        want to be using this move a LOT.  Don't be afraid to throw 2 or
+        3 jabs out in a row, you'll most likely be safe from most forms
+        or retaliation and push your opponent back at the same time.
+        After pushing them back to the right distance, Kuni's
+        unblockable arsenal is much more effective.
+
+        d+1_D+1       crouching jab         sm         10         ****
+        ----------------------------------------------------------------
+        A great move...usually I use this to interrupt faster attacks,
+        then go for a throw.  Also, this move plays a central part in
+        Kuni's custom strings, setting up her ws+4 or fc,d/f+3, and
+        other moves.  You'll be using this move a lot if you want your
+        Kuni to win.
+        
+        d/f+4         side kick             m          15         ****
+        ----------------------------------------------------------------
+        A very quick kick that recovers almost as fast as it executes.
+        This move should be used fairly often in you custom strings to
+        keep pressure on your opponent without you moving towards them.
+        Also useful as a quick counter to moves that recover near you,
+        but go for the d/f+2 with you are within reach to set up more
+        damage with a juggle.
+
+        1,2           jab, uppercut         h,m        10,8       ***
+        ----------------------------------------------------------------
+        A somewhat useful string, basically used to slightly push
+        opponents away.  Recovers with decent speed as well.
+
+        1,2,1         jab,double uppercuts  h,m,m      10,8,6     ***
+        ----------------------------------------------------------------
+        Same as above, although I find this slightly more useful.  People
+        seem to think that they can just rush in after this move, so I
+        halt them with a side kick or uppercut.  Just make sure that you
+        don't hit your side kick too soon after the last 1, or you'll go
+        on to Kuni's 4th hit in her ten string, which any average player
+        will know to crouch under and counter.
+
+        2,3           jab, roundhouse       h,h        12,21      **
+        ----------------------------------------------------------------
+        A below average string that I (rarely) use in juggles, since
+        there are much more damaging options.  
+
+        2,d+3         jab, sweep            h,l        12,8       ***
+        ----------------------------------------------------------------
+        Slightly better than the above move, because this sets up a
+        guessing game from here...is Kuni going to stay in the crouch
+        and low kick or fc,d/f+3, or will she ws+4?  Basically an
+        easy start into Kuni's custom strings.
+        
+        b+1,1,1,1,1   stone fists           h,h,h,h,h  10 (each)  *** 
+        ----------------------------------------------------------------
+        Never more than 1 or 2 of these outside a juggle.  They are too
+        easy to crouch under.  I will normally use 1 to move myself
+        closer to an opponent when I'm 2-3 steps away, then either go
+        for a buffered JUDO THROW (especially if the b+1 counterhit) or
+        d/f+2 if they are foolish enough to crouch in the face of Kuni.
+        This move is used in many of Kuni's juggles as middle hits to
+        keep an opponent in the air.  
+                                            
+        f+2           backhand              h          10         ***
+        ----------------------------------------------------------------
+        I have mixed thoughts on this move.  The obvious strengths are
+        that it turns the opponent around so that you get a free hit or
+        combo to his back, but it's downfalls are also pretty significant;
+        the move hits high, which means any decent opponent will duck under
+        it if it is anticipated, and it executes relatively slowly as well.
+        That means you should be buffering a chicken with this move
+        against reversal characters (see Custom Strings/Strategy Section
+        on how to buffer a chicken).  Obviously it us best used after slow
+        recovering moves are whiffed by the opponent.  My usual follow up
+        to a successful back hand is either f,f+3+4,3 to poison wind flip
+        stomp or d/f+2 step in upper, b+1, 1, 3 for some cheap back jugglin'
+        action.
+
+        f,f+2,(5)     rising kazura         m          24         ***
+        ----------------------------------------------------------------
+        Think Heihachi's f,f+2.  Pretty similar...her most damaging
+        juggle starter, slow to start up, and slightly longer recovery
+        than her other juggle starters.  Good to throw out every now and
+        then, just be sure to nail a chicken for me, as people like to
+        try to reverse this move.  Can also be tagged, leading to some
+        cool tag juggles.
+
+        d/f+2,(5)     step in upper         m          13         **** 
+        ----------------------------------------------------------------
+        A must learn...this move has always been a core part of any
+        good Yoshi/Kuni game.  Use this move when an opponent leaves
+        themselves open after a slow recovering move to set up a juggle.
+        You can also often trick your opponent into walking into this
+        move in your custom strings.  Her primary juggle starter.
+        Can also be tagged.
+
+        1+2           supreme thrust        m          22         ****
+        ----------------------------------------------------------------
+        For those of you that have played Soul Calibur, think Mitsurugi's
+        b+B move; slight evasion (less so than Mitsu's) and then a quick,
+        ranged poke that quickly follows.  You can evade a throw and attack
+        at the same time using this move.  Also can be used to end some
+        of Kuni's more stylin' juggles.  This move flows smoothly after
+        a series of jabs, or after a blocked d+3+4, or after a blocked
+        side kick.  On a counter, be prepared to run after your opponent;
+        this move send them flying, similar to a counterhit deathfist.
+
+        f,f+1+2       solar kick - reverse  m          22         *** 
+        ----------------------------------------------------------------
+        Actually a much better move than people give it credit for.  Can
+        but used to (carefully) start some custom strings by following
+        it with a d+1,d+4, u/f+4, or just a bt+3.  A mean trick is
+        to follow a f+2 backhand with the f,f+1+2; now, you have just hit
+        the opponent in the back with 22 points of damage, and they are
+        still stuck with their back turned.  Most decent competitors will
+        crouch in fear of being hit with a f,f+3+4,1+2 shark attack after
+        being hit with a f+2 backhand, so capitalize on this fear and
+        hit them again after they sit there in a crouch waiting for a
+        shark attack to go sailing over thier head!
+
+        ss+1+2        windtry wind          h          21         **
+        ----------------------------------------------------------------
+        Not that great a move in my opinion.  If it hid mid, it would
+        at least create some sort of a guessing game with her ss+3+4.
+        I normally won't use this move much at all, unless it's just
+        for a change of pace after sidestepping an opponents move.
+        P.S. did Namco spell that move name wrong???
+
+        u/f,n+3       hopping kick          m          32         **
+        ----------------------------------------------------------------
+        A weird move tht isn't on the official movelist, but I use it,
+        none the less.  Really, it's main use is to switch up from the
+        u/f,d+3.  Other than that, I haven't found much use for it.
+
+        u/f,d+3     hopping sweep         L            25         ***
+        ----------------------------------------------------------------
+        I had thoughts about giving this move a 4 star rating.  This
+        move can make staying on the ground after being floored a
+        bad idea for an opponent.  It's damage makes Kuni's wake-up
+        games that much more effective.  Try it after a 2+4 sickle
+        bash throw, or JUDO THROW.  
+
+        u/f,n+4     jumping spinkick        m          32         **
+        ----------------------------------------------------------------
+        Not too useful on its own, since Kuni spins there in the air
+        after kicking.  It can be useful as a mix-up from the u/f+,d+3
+        hopping sweep move.
+
+        u/f,d+4     jumping superspinkick   m          25         **
+        ----------------------------------------------------------------
+        Kuni gets spin happy after kicking and does an even fast series
+        of spins after kicking.  Because the move looks like the u/f,d+3
+        hopping sweep, use this as a mix-up if the opponent got up and
+        you were about to attempt the u/f,d+3 on his downed character
+        but didn't commit to it yet.
+
+        3,4           zig zag               h,m        30,30      **
+        ----------------------------------------------------------------
+        The entire move itself gets 2 stars.  If you use just the 3
+        portion of it, you actually have a somewhat decent move.
+        With really good timing (and knowing your opponent), go for a
+        3 to counterhit a slow executing move.  The damage this thing
+        deals out is great.  Close to 50 points on a counterhit...
+        that's almost as strong as a clean hit deathfist! Also, for
+        this reason, it can be used at the end of many of Kuni's juggles.
+        I give the 3 alone (without the 4 follow-up): ***
+
+        bt+3          jewel                 m          22         *** 
+        ----------------------------------------------------------------
+        An average move that can be used to start some bt custom strings.
+        Recovery is pretty decent as well, just don't get predictable,
+        as an opponent can backdash and counter if they anticipate it.
+
+        fc,d/f+3      raining banish        L          12         **** 
+        ----------------------------------------------------------------
+        A staple Yoshi/Kuni move ever since the original Tekken.  Use
+        this after a d+1 in a custom string, or from it's furthest
+        reach when you catch your opponent napping. Can be followed
+        by small juggles or a quick u/+3+4 poison wind if you hit them
+        close enough to you.  Also very useful in wake-up games...this
+        move will put an opponent back on the mat if you hit them with
+        this as they attempt to roll away.  Don't be afraid to use this
+        move 4 or 5 times in a row in this manner; if the opponent can't
+        learn how to get up, this is his lesson.  Slightly slow to
+        recover if blocked, so don't get too predictable.  An alternate
+        way to execute this move is D/F+3 (hold the d/f diagnal for a
+        half of a second, then hit 3).
+
+        4,4,4         triple kick combo     h,h,h      20,20,21   * 
+        ----------------------------------------------------------------
+        All 3 kicks together make up one of the most useless moves in
+        the entire game, since they can all be ducked under and you can
+        be punished REALLY easily.  An occaisional 4 by itself is ok
+        to throw out every now and then, but the d/f+4 sidekick is so
+        much better, so why bother?
+
+        f,f+4         fubuki                m          10         ***
+        ----------------------------------------------------------------
+        One of Kuni's quickest executing moves (actually, one of the
+        fastest in the entire game!)  Use this to  counter an overly
+        offensive opponent as he rushes you.  Be careful not to miss,
+        as the recovery time isn't as quick as the execution time.
+        Also used to end juggles, because of it's speed and reach.
+        Too weak in terms of damage to be given a 4 star rank.
+
+        D/B+3,3,3,3,3 crouching spin kicks  L,l,l,l,l  12,7,7,5,5 ** 
+        ----------------------------------------------------------------
+        An ok move in the right situations...the first hit will peg
+        opponents on the ground.  Somewhat useful in wake-up games; if
+        they attempt to roll, the first kick will lift them higher and
+        you can chain into 3 more kicks, followed by a tree fall kick.
+        Also useful in some of Kuni's flashier juggles.  An alternate
+        execution for this move is fc,d/b+3,3,3,3,3.
+
+        f+4           tree fall kick        m          12         **
+        ----------------------------------------------------------------
+        Basically used to push an opponent away after executing some
+        crouching spin kicks.  Looks similar to a ws+4, and has many
+        of the same properties.  Used to finish crouching spin kick
+        juggles, too.
+
+        u/f+4         avoiding the puddle   m          25         ***
+        ----------------------------------------------------------------
+        Somewhat useful if you anticipate a low poke from the opponent,
+        as this move can hop over it and strike at the same time.  This
+        move can be executed with either u/f+4, u+4, or u/b+4, the latter
+        moving you away from the opponent while attacking.  This techinique
+        is also used in some of Kuni's juggles.
+                                               
+        f+3+4         growling jewel        m          30         ***
+        ----------------------------------------------------------------
+        Wow, a great move!  This move tracks well, and causes some
+        serious damage as well.  Use it when an opponent tags out to nail
+        the incoming character, and also use it as the opponent rises from
+        a knockdown.  If they block it, you are relatively safe, as this
+        move causes a slight guard stun.  Just be careful that Kuni is
+        lined up with the enemy properly afterwards; since the move does
+        track well, it could bring you to an opponents side after forcing
+        them to block it after a knockdown...just don't start poking away
+        until you've re-aligned Kuni with her opponent! Also, this move is
+        used in some of Kuni's better juggles.
+
+        f,f+3+4       solar kick            m          30         **
+        ----------------------------------------------------------------
+        Not very useful by itself, but it does good damage, so it's
+        worthwile to poke with one if you haven't in a while.  Just be
+        sure to follow it with one of the 2 different follow-ups
+        listed below...
+
+        f,f+3+4,1+2   shark attack          m,h        30,30      ***
+        ----------------------------------------------------------------
+        Good damage, but hard to land.  Try turning them around with
+        a f+2 and see what they do; if they don't crouch after the
+        initial hit, use this move, if they do crouch after the first hit,
+        use the ninja jewel (below).
+
+        f,f+3+4,3     ninja jewel           m,m        30,30      *** 
+        ----------------------------------------------------------------
+        Use mixup from above move.  Works extremely well on many players,
+        since they are all conditioned to avoid Yoshi's death-trap from
+        the f+2 back hand.  Follow with a u/f+3+4 poison wind if they
+        hesitate in the slightest after being hit. 
+
+        f,f+3+4,3+4   ninja flying shadow   m,n/a      30,n/a     *** 
+        ----------------------------------------------------------------
+        Same beginning as the shark attack, just evades the opponent at
+        the end, in true ninja fashion.  Useful if you need to tag, since
+        you do get some distance between you and the opponent with this
+        move.
+
+        u/f+3+4       poison wind           M          21         ***
+        ----------------------------------------------------------------
+        A very useful move on opponents. Since Kuni's wake-up games are
+        so intimidating, many opponents wait on the floor and leave
+        themselves open to this move..  Try using after: 2+4 sickle bash,
+        JUDO THROW, ninja flying shadow, ss+3+4, fc,d/f+3, and many others.
+
+        fc+3+4_d+3+4  fairy wax             M,M        5,23       ****
+        ----------------------------------------------------------------
+        People, if you don't use this move fairly often, you'll never
+        realize Kuni's effectiveness.  This move recovers so incredibly
+        fast it's sickening.  I use it in several different instances:
+        After a 2+4 throw (described above), to start custom strings,
+        and in general, annoy the opponent with the quick recovery
+        on such a potent move (28 points of damage with such little
+        risk is just so sweet!) Also useful in wake-up games from most
+        knockdowns.  The only slight downfall to this move is that Kuni
+        takes a second to jump up and can be hit at that time, so don't
+        get scrubby predictable with this move... mastery of the multiple
+        uses and properties of this move is one of the keys to dominating
+        with Kuni.
+
+        ss+3+4        will-o-the-wisp       L          15         ***
+        ----------------------------------------------------------------
+        Useful, IF you keep it fresh.  The recovery delay is horrible
+        if the opponent manages to block it.  Use maximum 2 or 3 times a
+        round.  Follow-up with an u/f+3+4 poison wind or fc,d/f+3.
+
+        d+1+2         earth divide          n/a        n/a        ***
+        ----------------------------------------------------------------
+        I call this move "deathfist evader" because that's what I use it
+        mainly for; evading predictable deathfists from Paul scrubs. Some-
+        what useful if you can anticiapte an opponents high or mid move,
+        and a great way to show you've got class  (Style poonts galore for
+        evading throws with this move, then countering).  It seems that low
+        moves can pick it out of it's recovery and execution frames, so
+        even it you meant to evade Paul's falling leaf sweep, it still
+        could peg you.  I need to research this move more to see what moves
+        can be fully evaded if timed properly.
+
+        f,f+3         inverted stalker      n/a        n/a        ** 
+        ----------------------------------------------------------------
+        Just a quick recovering jump towards the opponent.  Really only
+        useful in confusing your opponent after many d+3+4's, or using
+        the quick recovery to land a sneak attack while your opponent
+        waits for the thrust stalker to come out...
+
+        f,f+3,4       thrust stalker        m          30         **
+        ----------------------------------------------------------------
+        Like Eddy's f,f+4~4.  Causes a guard stun if blocked.  Not too
+        useful; I still need to research this move more to find out
+        some more uses besides the above move psych-out.
+
+       Unblockable Arts:
+       -----------------
+
+       Command        Name                Hit Level   Damage     Rank
+       _________________________________________________________________
+
+        d/b+2         deadly slice          !m         15         ***
+        ----------------------------------------------------------------
+        One of Kuni's two most useful unblockables.  Moderately quick in
+        terms of execution, and has decent range, as well.  Does not
+        knock down, however.  The damage that this does is not that
+        great, so I usually opt for the deadly stab in most situations.
+        This move can be used to end some juggles, though, while the
+        deadly stab won't work.  Hits big opponents on the ground (Kuma,
+        all of the Jacks, and True Ogre).
+        
+        b+2           deadly stab           !m         22         ****
+        ----------------------------------------------------------------
+        Kuni's best unblockable technique, in my opinion.  Very useful
+        in that it cause more damage than the deadly slice, and also
+        causes a knockdown, unlike the dealy slice.  Can be followed
+        by a quick d+4 to combo, but I would reccommend getting some
+        wake-up games started after landing this -- this move puts
+        them right where you want them!  If they quick rise close enough
+        after most juggles, you'll be in range to land one of these
+        right away...just like in the above example...b+2, d+4 combo,
+        opponent quick rises, b+2 will put them right back where they
+        belong; on the floor!
+
+        f,f,n+2       advancing deadly stab !m         25         ****
+        ----------------------------------------------------------------
+        Only slightly more damaging than it's normal variation, but
+        it has a akward motion that seems to leave you open to
+        attack, since you have to basically dash at your opponent, then
+        leave the stick nuetral for a split second.  The 2 extra points of
+        damage probably isn't worth it, but the double tap forward might
+        be needed anyway to get nearer the opponent if they are farther
+        away.  
+
+        u+1+2         heaven divide         !m         25         **
+        ----------------------------------------------------------------
+        This move seems to be a lot better than it actually is.  Don't
+        expect to land this move my dashing right in front of their
+        face and executing this move; they will mostl likely WALK back out
+        of range before it hits.  This move can be used to to evade some
+        slow-executing moves that also have a long recovery, because then
+        the opponent can't back off.  As of right now, I haven't found
+        too much use for it, but I will definitely have to reasearch it
+        more; this move has potential.  Also hits big opponents on the
+        ground like the deadly slice.
+
+        b+1+2         cycle of rebirth      h,!h       8,11       **
+        ----------------------------------------------------------------
+        Not an overly useful move, but it looks cool.  The first hit
+        can be blocked standing, and the second it unblockable.  The
+        only problem is that the first portion pushes the opponent too
+        far out of range to be hit by the unblockable portion of it!
+        If you wan to land the second part, space yourself from your
+        opponent using basic jabs (2 or 3)and try to miss the first hit;
+        just be warned, the damage really isn't worth it.  This move can
+        be used in some of Kuni's juggles, though.
+
+
+       Ten String:
+
+       1,2,1,4,4,4,1,2,3,2    Hit levels:  h,m,m,h,h,L,m,h,m,!m   **
+
+        Please, PLEASE do not use the entire string on any worthwhile
+        competition.  There is only 1 low hit in the entire thing, and
+        the unblockable at the end comes out slow enough that most
+        mashers will mash something in between.  ONLY use the entire
+        string against overly defensive scrubs.
+
+ { 6 } C u s t o m   S t r i n g s / S t r a t e g y
+
+       Custom Strings
+       --------------
+
+       Okay folks, this section basically tells you how I put it all
+       together with Kuni.
+
+       First, for those unfamiliar with the term "custom string": I
+       define this as a quick series of attacks that flows from one
+       to the next which leaves little room for the opponent to do much
+       of anything in between.  Useful in confusing and wearing down the
+       opponent because if he attempts most anything while you are executing
+       the string, he will be hit with some damage, especially if he tried a
+       move; you will then get extra damage for the counterhit.  Also sets
+       up guessing games as you move from one techinique in the string to the
+       next...the opponent will be forced to block the next attack,
+       (unless the opponent is extremely quick to attack with an extremely
+       fast executing move, that is) be it low, mid, or unblockable, only
+       you know for sure!
+
+       I will give examples of some strings that I use with a few variations
+       thrown in to give you an idea of how I mix it up.  But it is up to
+       you to get creative and come up with some that you can call your
+       own.  After all, if you only use the ones that I have listed here
+       then the opponent is eventually going to catch on and start finding
+       ways around them (either that, or he's read this FAQ too and and
+       is prepared for it!)  If you find any that you have made that are
+       particularly useful, feel free to send them to me (PHahn123@aol.com)
+       so that I can add them to this section, along with your name!
+
+       Custom String example # 1
+       -------------------------
+
+
+            d+1, ws+4, d/f+4, d/f+2
+
+       crouching jab, while standing right kick, side kick, step in upper
+                
+       notes: very quick executing string, mainly I use it to get some
+              breathing room and set up an upppercut at the same time.
+
+       Custom String example # 2
+       -------------------------
+
+            d+1, ws+4, D+1, d/f+3
+
+                           or
+
+                           ||
+
+                           -> ws+4
+
+       crouching jab, while standing right kick, crouching jab, raining
+       banish lunging sweep
+
+       notes: I use this classic to set my opponent up for the lunging
+       sweep move by first getting him to stand up by hitting mid with a
+       ws+4, then going for the sweep.  Switch up to a second ws+4 if you
+       have an opponent that likes to take the risk of low blocking close
+       to Kuni.
+
+       Custom String example # 3
+       -------------------------
+
+            b+1, d/f+2 or d/f+4 or 1 -> b+1, start string over
+
+               or
+
+               ||
+
+               -> JUDO THROW (especially if b+1 was counter hit)
+
+               or
+
+               ||
+
+               -> d+1 -> custom strings # 1 or 2
+
+       notes: I use this when I have more distance between my opponent.
+       The b+1 accomplishes the forward movement, and sets up an uppercut,
+       throw, or another custom string since it recovers so quickly.
+       
+       Custom String example # 5
+       -------------------------
+
+            1, d/f+4, d/f+2 -> start string over at 1...     
+
+              or
+
+              ||
+                     
+              -> throw (especailly if 1 counter hit)
+
+              or
+
+              ||
+
+              -> d+1 -> custom strings # 1 or 2
+
+       notes: a simple, yet effective string that plays on the quick
+       recovery of the basic side kick.  Use this often to set up juggle
+       opportunities.  
+
+       Custom String example # 6
+       -------------------------
+
+            d+3+4
+                  
+                  -> d+1 -> custom strings 1 or 2
+
+                  or
+
+                  ||
+                 
+                  -> 1, custom string 5 variations
+
+                  ||
+
+                  or
+
+                  -> 1+2
+
+       notes: based on the quick recovery of the d+3+4, which many people
+       think has a longer recovery time than it does. The 1+2 variation
+       is effective if they try to rush in and throw after the d+3+4, as
+       the d+3+4 recovers quickly and gives the first portion of the 1+2
+       a chance to evade a throw or counter attack.
+              
+       Custom Strings (unblockable set-ups)
+       ------------------------------------
+
+            d+1, ws+4, d/f+4, b+2 (great after being "conditioned" from # 1)
+
+            1, 1, 1, d/b+2  (push them back out of their jab range)
+
+            1, 1, d/f+4, b+1+2 (push them back so that the 1st hit of b+1+2
+                                misses and the second they can't block)
+
+            d+3+4 (opponent rushes) u+1+2 (good if you keep it fresh, but
+                                           you will be punish if the u+1+2
+                                           missed!)
+
+       Again, these are only a few examples that I have chosen.  Please
+       use some that define your Kuni to be your own; it's what makes
+       yor Kuni different from everybody elses.
+
+
+       As the opponent rises (aka okizeme, wake-up games, ect...)
+       ----------------------------------------------------------
+
+       There are several invaluable moves you have when you knock the
+       opponent to the mat.  These moves are, in no particualr order:
+
+       u/f+3+4
+       fc,d/f+3
+       d+3+4
+       u/f,d+3
+       b+2
+       f,f,n+2
+
+       Moves that can be used that are not as valuable:
+
+       u+1+2
+       D/B+3,3,3...
+       d/b+2
+
+
+       There are several different options that an opponent has when
+       knocked down that Kuni can take advantage of:
+
+       1) Stay down
+       2) Roll forwards or backwards
+       3) Get up with an attack
+       4) Get up with no attack
+       5) Roll into the foreground/background before getting up
+       6) Quick Recover
+       7) Tag
+
+       How to come away with the most damage in the above situations:
+
+       1) Opponent stays down:
+
+          Okay, there are several option here:  A very damaging one is
+          to hit them with an u/f,d+3 which takes 25 points away from a
+          grounded opponent.  Slightly less damaging is the poison wind
+          (u/f+3+4) which will do 21 points, but also hops a bit before Kuni
+          lans on the opponent.  You have to make sure you use the right move
+          in the right situation.  The wildcard option here is to go for
+          a d+3+4.  If you don't space yourself properly, only the first hit
+          will connect for 5 points of damage.  However, if the second hit
+          connects with the grounded opponent, it will do 23 points!  The
+          trick is to learn the positioning of this second hit.  There are
+          some moves that set you up perfectly for the second hit like the
+          JUDO THROW, but others, like the 2+4 sickle bash throw, you
+          you will need to adjust.  The nice thing about this option is that
+          if the opponent flinches during the d+3+4, both hits will connect
+          for 28 total points of damage.  Take note that large characters
+          (all of the Jacks, Kuma/Panda, and True Ogre) can be hit with
+          Kuni's u+1+2 and d/b+2 unblockables while on the ground.  If you
+          want to be mean, use tragic's old Yoshi get up trap from Tekken 3:
+          sidestep to behind the opponent's head (if you're not there
+          already), then do d+1, ws+4, d+1, ws+4...repeatedly.  The ideal
+          outcome of this scenario is that the opponent either tries to stand
+          up or attack; either way, his back is now facing you.  If the low
+          punch hit, then follow with the ws+4, then take it from there
+          (either a basic uppercut or knee bash) and if the ws+4 hit,
+          go for a knee bash to the back.
+                                                                    
+       2) Opponent rolls
+
+          This is where the opponent really gets himself into trouble.
+          The raining banish lunging sweep move is invaluable against
+          rollers; It will put them right back on the ground, allowing
+          you to continue your okizeme techniques.  Some opponents refuse
+          to get up without rolling (especially scrubs and mashers), so
+          be ready with multiple lunging sweeps.  Don't be afraid to overuse
+          this move either...I used 4 in a row to kill a roller, and I
+          still didn't get a chicken.  You can  try going for a
+          D/B+3,3,3,3,f+4 okizeme-combo if they roll for style points,
+          but the lunging sweep is more effective in my opinion.  The
+          d/b+2 unblockable has some range in the execution where Kuni
+          will lunge and also hit rollers.
+       
+       3) Opponent gets up with an attack
+
+          Another risky proposition for the opponent, depening on Kuni's
+          position.  It is easy to dance in and out of an opponent's
+          get-up attack range, then pop him with an upppercut.  If the
+          opponent does attack and you have poor postion, you will be forced
+          to guess if it's going to be the d+kick lightning kick, a low
+          kick, or mid kick.  The u+1+2 unblockable can go over all of
+          these in it's execution and hit the opponent, but if the
+          opponent psyched you out and doesn't move, he WILL hit you
+          with something after the unblockable whiffs.
+       
+       4) Opponent gets up with no attack
+
+          The safest option for most situations, and many experts get up
+          with out attacking.  This leaves the opponent and Kuni with
+          a 50/50 chance of having the advantage, depening on the position
+          of the opponent in relation to Kuni.  If you are out of range of
+          your side kick, you can try a b+2 unblockable as a sneak attack,
+          but other than that, it's back to fighting.  If you've scared
+          the opponent enough to be defensive as he rises, go for a JUDO
+          THROW and put him back on the mat.
+
+       5) Opponent rolls into the foreground/background
+
+          Also a somewhat safe option for the opponent. See above.
+
+  (*)  6) Opponent quick recovers
+
+          Heh, heh, heh...this is what you've been waiting for.  As long
+          as you are in range, it is near impossible for an opponent
+          to escape a f,f,n+2 or b+2 as the quick recover.  Go for a d+4
+          or after it hits, then watch the opponent closely...do they quick
+          recover again (fools!), or do they stay grounded leaving themselves
+          open for 25 points of ground damage with the u/f,d+3?  Either
+          way, be prepared to make the most of this situation.
+
+       7) Opponent tags
+
+          Another mistake that you can exploit, if you are ready for it.
+          You can choose to nail the incoming character with a high-powered
+          move (I go for 1+2 or f+3+4), or try to peg the downed character
+          with a raining banish lunging sweep as he presses tag and runs
+          for it.  
+
+       The Art of Chicken
+       ------------------
+
+          In order to defend yourself from reversal characters, learning
+          to chicken is a must-learn for high level players.  The best way
+          to describe the execution method is to use the opposite of the
+          reversal motion (f+1+3 or f+2+4) when being reveresed yourself.
+          Well, which one do you need to use?  That depends on which limb
+          was just grabbed by the opponent.  f+1+3 for a left limb strike,
+          or f+2+4 for a right limb strike.  The following is a list of moves
+          most reveresed by opponents in my experience:
+
+          f,f+2                     
+          f+2                       
+          d/f+2                     
+          ws+4                      
+          1,2,1,4 (usually 4)       
+
+          Sometimes you can just throw a move out trying to get a chicken,
+          if you know your opponent will try to reverse.  I like using
+          Kuni's f,f+2 after blocking Paul's deathfist...many Paul's like
+          going for that reversal, and after I chicken them (possibly a few
+          times), they are afraid to reverse most anything.  This allows me
+          to poke without fear of being reveresed.  But then again, some
+          people never learn, and by "buffering" a chicken, you'll be taking
+          away 3/4 of their life bar by chickens.  To "buffer" a chicken is
+          really easy:  hold down the button that you used to execute the
+          move being reversed, then hit forward and the other button needed
+          to chicken right after.  Example:  f,f+2 (hold 2), f+4
+
+ { 7 } J u g g l e   C o m b o s
+
+       I know that some of you flipped right to this section of the guide
+       to see some juggles...that's cool; however, you'll need to learn
+       how to hit an opponent with a move that sets up a juggle first.  I
+       used to think that good juggles defined an expert, now I know that
+       this isn't true.  If you can't land a juggle starter, what good is
+       knowing a damaging/cool-looking juggle?  Just remember this.
+
+       Note: Any hits in parenthesis means that move doesn't hit the opponent
+       in the juggle.
+
+       Conventional Juggle Starters:
+
+       d/f+2 basic step-in upper and f,f+2 rising kazura
+
+       Juggle Starter:  d/f+2 (Step-in Upper) follow-ups:
+
+       Follow up                       Difficulty      Style Points
+       ------------------------------------------------------------
+       3                                 *                *
+
+       1, b+1, b+1+2 (or 3)              ***              ***
+
+       1, b+1, 1, b+1, f,f+4 or d/b+2    ***              ****
+
+       b+1,(1),1, b+1,(1),1, 1+2         ****             *****
+
+       u/f,n+1, 1, 1, 3 or f,f+4         ****             ****
+
+       f,f+4, d+1, f,f+4                 ****             ****
+
+       d/f+2, d/f+2, f,f+4               **               **
+
+       f+3+4, D+1, d/f+3                 ***              *****
+
+       U/F+4, f,f+4                      ***              ***
+
+       D/B+3,3,3,3,3, f+4                ***              ****
+
+       1, 1, 1, 1, f,f+4                 ****             ****
+
+       and probably the most useful combo Kuni has:
+
+       "The Option Combo":
+                                  option:         why:
+       d/f+2, b+1, 1, b+1,1 --->
+
+                                   3             easy, cheesy damage
+
+                                   1, f,f+4      something different
+
+                                   1+2           style points
+
+                                   f+3+4         damage + style
+
+                                   u/f+4         safer, less damage than
+                                                 above
+
+                                   d/f+2~5       need to tag out but didn't
+                                                 realize the need to earlier;
+                                                 also your partner can tag
+                                                 in with a slide that is
+                                                 pretty hard to avoid as
+                                                 well, (f,f,n+4) if he has
+                                                 a slide.
+
+      Juggle Starter: raining banish lunging sweep (fc,d/f+3)
+
+       Follow up                       Difficulty      Style Points
+       ------------------------------------------------------------
+
+       ws+4, f,f+4                       ***              ***
+
+       ws+4, d+4                         *                **
+
+       D/B+3,3,(3),3,3,f+4               ***              ****
+
+       D+4, fc,d/f+3                     ***              ***
+
+ { 8 } R e v i s i o n   H i s t o r y
+
+       Version 1.0 initial release!
+
+       Plans for following revisions:
+       Many more juggle combos, especially tag combos.
+       Vs. strategy against each character.
+       New custom strings.
+       Add strategy section on uses of d/f tap low parry.
+       A "Partners that work well with Kuni and why" section.
+       Much more...it's all in my head, I tell you!
+
+ { 9 }  T h a n k s / C r e d i t s
+
+        The author would like to thank, in no particular order:
+
+        Name:                    For:                       Enter Initials:
+        -------------------------------------------------------------------
+        Udey K.          Cool guy + Got me hooked on tekken!      UKK
+
+        Chi-Fu (Jeff)    Helping me understand Gamest stuff,      ???
+        and Chi-Yuan     for all the times we played at your
+        (sorry if I      place, and for treating us (UKK and
+        spelled it       me) to great food.
+        wrong!)
+
+        SauerKraut       Playing at his place, competition        ???
+
+        Ed               Competition, turtling like MAD! :)       ELP
+
+        Mike E.          Playing every Friday, competition        JZA
+
+        Hass R.          Brian and Bruce forever!!!               HJR
+
+        Chris M.         Starting to play again                   C M
+
+        Pete H.          Being such a cool guy (that's me!)       HAN
+
+        Kristen E.       Being such a cool fiancee                ???
+
+        Paul Scrubz      Being a punching bag for my Kuni        SCRUB
+
+        Also, I would like to thank Tragic for inspiring me to give the
+        Mitsu clan a chance...I saw him use Yoshi at the Chicago TK3
+        nationals, and ever since then I have seen the light.  Also, a great
+        FAQ writing effort in his TK3 Yoshi guide helped tremendously in
+        learning the overall Mitsu gameplan.  I've used some of his ideas
+        in this FAQ.  I strongly suggest that anyone serious about Kuni
+        in TTT give it a read.
+
+        The sites that have helped me in writing this FAQ:
+
+        www.gamefaqs.com  for all of my FAQ needs   
+
+        www.tekken.net   great site for many reasons, but I must admit,
+                         those combo exhibtions rock...thanks guys!
+
+        www.tekkentagtournament.com   nice forum set-up and some move
+                                      information was taken from this
+                                      site for official move names and
+                                      damages.
+
+        I would also like to thank all those at Namco that made the TTT
+        tournies run so well.  While the midwest regionals could have been
+        better with more machines, I think that Namco did the best they
+        could, given the circumstances.  Namco also deserves another round
+        of applause for creating one of the most fun, addictive, and
+        strategy-oriented games ever made!
+
+
+         -------         _     __     _____       __   __            _
+            |    |   |  |  \  |  |      |   |  | |  \ |  | |    |   | |
+            |    |   |  |   | |  |      |   |--| |_ / |  | | /\ |   | |
+          __|    |___|  |_ /  |__|      |   |  | | \  |__| |/  \|   |_|
+                                                                     _
+                                                                    |_|

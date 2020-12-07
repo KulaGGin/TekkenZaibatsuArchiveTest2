@@ -1,0 +1,158 @@
+
+body {
+	background-color: silver;
+	font-family: Verdana, Arial, Tahoma, sans-serif;
+	font-size: 12px;
+	color: #161A00;
+}
+
+#header, #navigation, #leftbar, #rightbar, #search, #crumbs, #adbanner, #links, #extra  {
+	display: none;
+}
+#copyright .smilies, #copyright .design, #legal .chibi, #news .cal, #news .share {
+	display: none;
+}
+#postbit .avatar, #postbit .galaga, #postbit a.data, #postbit .buttons, .mobilehide {
+	display: none;
+}
+.pagenav, .pagenavbar  {
+	display: none;
+}
+
+h1 {
+	font-size: 18px;
+}
+h2 {
+	font-size: 16px;
+}
+h3 {
+	font-size: 14px;
+}
+
+#clear {
+	clear: both;
+}
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+#copyright {
+	margin-top: 10px;
+	font-size: 10px;
+}
+#legal {
+	font-size: 10px;
+}
+
+.moviebox {
+	margin: 0px 3px 6px 3px;
+	width: 333px;
+	padding: 4px;
+	float: left;
+}
+.movietile {
+	margin-right: 5px;
+	padding: 1px;
+	float: left;
+}
+#selectscreen {
+	text-align: center;
+}
+#selectscreen .tile {
+	margin: 2px;
+	padding: 2px;
+	width: 60px;
+	height: 90px;
+	float: left;
+}
+
+#postbit {
+	padding-left: 4px;
+	overflow: hidden;
+}
+#postbit .user {
+	width: 177px;
+	float: left;
+}
+#postbit .userbox {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 4px;
+	background-color: lightgray;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+#postbit .username {
+	margin-bottom: 4px;
+	padding: 1px;
+	background-color: silver;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	text-align: center;
+	font-family: Tahoma, Trebuchet MS, Arial, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+}
+#postbit .usertitle, .usertitle {
+	text-align: center;
+	font-family: Georgia, Tahoma, Trebuchet MS, Arial, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+}
+#postbit .customtitle, .customtitle {
+	text-align: center;
+	font-family: Georgia, Tahoma, Trebuchet MS, Arial, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+}
+#postbit .userdata, .userdata {
+	margin-top: 3px;
+	padding: 2px 3px;
+	border: 1px solid silver;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-size: 11px;
+}
+#postbit .post {
+	margin-left: 147px;
+}
+#postbit .postbox {
+	margin-bottom: 5px;
+	margin-top: 5px;
+	padding: 4px;
+	border: 1px solid lightgray;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	display: block;
+}
+#postbit .postpadding {
+	margin-left: 32px;
+}
+#postbit .postdata {
+	margin-bottom: 5px;
+	padding: 4px 4px 1px 4px;
+}
+#postbit .message {
+	padding: 0px 3px;
+	margin-bottom: 8px;
+	text-align: justify;
+}
+#postbit fieldset {
+        margin-bottom: 3px;
+	padding: 3px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	font-family: Georgia, Tahoma, Century Gothic, sans-serif;
+	font-size: 11px;
+	font-style: italic;
+}
+#postbit legend {
+	font-family: Georgia, Tahoma, Century Gothic, sans-serif;
+	font-size: 11px;
+	font-style: italic;
+	font-weight: bold;
+	margin-left: 8px;
+}

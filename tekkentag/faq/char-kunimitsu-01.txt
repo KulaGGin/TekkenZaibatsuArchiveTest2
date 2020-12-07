@@ -1,0 +1,1371 @@
+                
+               Birch's TTT Kunimitsu Strategy guide     
+               
+                "THE NINJA REVOLUTION Y2K STYLE"
+               
+    
+10/01/00 Version:1.6
+Millenniumitsu version
+
+*************************************************************************
+Created using WordPad.. view in Wordpad.
+I think it still looks rather ugly if printed...
+******************************CONTENTS***********************************
+
+ADDED TO 1.6  Some changes in the Tagging section.
+              Frame rate section added.
+              Comments on the tag nature of the df+2.
+              changes in the b+1+2. 
+ADDED TO 1.5: Various structure changes.
+              Changes to some of the move analysis comments.
+              added the fc,df+3 move analysis in.
+              Some additional juggles thanks to Robb.
+              General Gameplay Section added.
+ADDED TO 1.4: Throw Section Added.
+              Small changes in the backturned department (Kuni has a BK
+              uf+4).
+              Small changes in the unblockable section.
+ADDED TO 1.3: Various grammar changes.  Okizeme section started.
+              Changed comments on some moves (b+2, f,f+3+4,3+4).
+
+-------------------------------------------------------------------------
+
+     Legal
+     "Enter The Tekken"
+     Range
+     Why play Kunimitsu?
+     "Do ya feel lucky, punk?"
+     Movelist- Courtesy of Catlord
+     Move Analysis -Frame Rate's
+                   -Throws
+                   -The Basics
+                   -Past the Basics
+                   -Unblockables  
+                   -Tenstring   
+     General Gameplay Section
+                   -Now that I know the moves, how do I put them 
+                      together?
+                   -Custom String Ideas
+                   -Sidesteping/Movement
+                   -Backturned fighting
+                   -Offence vs Defence
+                   -Tagging
+                   -Okizeme
+     Juggles
+     Credits
+     Comments
+-------------------------------------------------------------------------     
+     still to come:- more juggles  
+                   - move review updates
+                   - vs character section?
+                   - changes for PS-2? 
+                 
+******************************LEGAL**************************************
+
+Disclaimer: This document is Copyright (c) Birch 1999, 2000, all rights
+reserved. This document may not be altered in any way, and may only be
+redistributed in its original electronic form.
+  This document is not to be used for promotional and/or profitable 
+purposes.  Any information used from this document must be given proper
+acknowledgement.
+
+All aspects of Tekken 3 and Tekken Tag Tournament used in this document
+are Copyright (c) 1999 Namco Limited.  All rights reserved.
+
+blah blah... blah
+
+**************************"ENTER THE TEKKEN"*****************************
+-------------------------------------------------------------------------
+
+This is my first attempt to write a Tekken faq.. so please be nice.
+  Tekken Tag Tournament (TTT) has been out for awhile now and its brought
+Tekken skills up another notch from Tekken 3.  TTT has added many 
+interesting quirks to what was already one of the most solid fighting 
+game series created. This faq is written for medium to high level play;
+I haven't had the benefit of good tournament play yet.  This means that 
+you should know how to chicken, side-step, juggle, break out of throws 
+and have a good understanding of poking tactics (poking is very 
+important for Kunimitsu), it also helps to know what all the funky 
+numbers mean.  My knowledge comes from playing fighting games and the 
+Tekken series for a little too long.  This guide will be updated 
+regularly and will probably be given a large face lift to cope with the 
+Playstation-2 version of Tekken Tag Tournament.   
+ If you feel you're not up to medium level play then check out some 
+system guides; Ben Curetons Tekken 3 Manual is worth the time, though 
+you'll probably take a while to grasp all the complex data contained in 
+his work.  Also check or a web site or two;  Tekken Zaibatsu, 
+Inside Tekken and the Official Namco site are all beneficial. Then try 
+learning a character thoroughly, infact learn two; it is Tekken Tag 
+after all. 
+  TTT is a moderately balanced game; enough so that any character *can*
+beat another.  So there's no harm in giving Kunimitsu a try.  If the 
+competition is a problem, just give her a strong tag partner.
+ 
+  This faq aims to deal with a specific character guide for the Ninja 
+with the Dagger, the Fox or Kunimitsu.  It will attempt to cover a wide 
+range of Tekken ideas and tricks but the guide will mainly focus on a 
+couple of important things such as juggles, custom chains and the all 
+important move descriptions.
+  Kunimitsu was Yoshimitsu's sub boss in Tekken1&2 and they still share
+quite a few moves in TTT.  This guide will therefore discuss some ideas 
+that are relevant to both characters. 
+  If you think this guide will tell you how beat most other players then
+I suggest you stop now and pick a stronger character...  
+Hopefully it will give you some more ideas to ponder.
+
+What a long and windy intro... yawn.
+
+STANDARD 1-left punch
+NUMBER   2-right punch
+FORMAT   3-left kick
+         4-right kick
+         5-tag button
+
+******************************RANGE**************************************
+
+RANGES:( concept from the "Tekken 3, Ultimate Guide" )
+
+RANGE 0 = nose to nose, throw range for all characters
+RANGE 1 = begins at the end of range 0 and ends at the edge of
+          your left jab
+RANGE 2 = starts from the edge of your jab to the edge of your
+          power strikes
+RANGE 3 = anything beyond range 2
+
+
+************************WHY PLAY KUNIMITSU*******************************
+-------------------------------------------------------------------------
+
+The Fox.  A Ninja with speed and flair.  Trained by the Ancient Manji 
+Clan in Ninjitsu. Proficient with the Kunai blade and hand to hand arts.
+For some reason she was banished from the Manji clan (trying to steal 
+her sensei's sword?) and now seeks to face their leader Yoshimitsu.  
+Could this be because of the 'Soul' of the sword he holds?
+
+Strengths
+---------
++Manji Ninja Style points
++Good Juggling capabilities
++Quite a few unblockables
++Evasive techniques
++Simplicity
++A very uncommon choice; be interesting!
+
+Problem Issues
+--------------
+-No amazingly effective single moves e.g. Jin: b+4
+-No super launcher for the juggle heads :P       
+-No special tag throws, especially with Yoshi (Come On Namco!!!)
+-No team intro, endings or win animation (to my knowledge)
+-Simplicity
+-Basic while (ws) standing game
+
+*****************************MOVE LIST***********************************
+
+This is Catlords movelist... its pretty and easy to read.  The CAPITALS
+are used for new Tekken Tag Tournament moves.  THANX CATLORD!  
+
+-------------------------------------------------------------------------
+GRAPPLING TECHNIQUES                                               DAMAGE
+(Front) 1+3                     Flying Press {1}                       30
+        2+4                     Jawcrusher {2}                         30
+        2+5                     generic tag throw {2}              varies
+        d/b+1+3                 Hip Lock  {1+2}                        35
+        f+1+4                   MANJI RANA{d/f}                        35
+(Left)  (1+3)_(2+4)_(2+5)       AVALANCHE {1}                          40
+(Right) (1+3)_(2+4)_(2+5) [~5]  DIZZY CYCLONE [Tag] {2}                40
+(Back)  (1+3)_(2+4)_(2+5)       Reverse Neck Toss                      50
+-------------------------------------------------------------------------
+SPECIAL TECHNIQUES                                                 DAMAGE
+(f+2)_(BK 2)         Backfist  *Turns Opponent Around*                  ?
+2,(3_d+3)            Punch, (Highkick_Lowkick)                    12,21_8
+1+2                  RUSHING ELBOW                                     22
+d+1+2                CROUCH DODGE                                      NA
+SS+1+2               WINTER WIND                                       21
+B#+1,1,1,1,1,1       Spinning Hilt Strikes              10,10,10,10,10,10
+B+1,[1],[1],         Spinning Hilt Strike[s]                     10,10,10
+  D/B+3,[3],[3]        Spinning Low Sweeps                        12,7,7?
+    3_(f+4)              Spinning Low Sweep_Falling Tree Kick        5_12 
+D#,D/B+3,[3],[3],[3] Spinning Leg Sweeps[s]                      12,7,7,5
+  3_(f+4)                Spinning Leg Sweep_Falling Tree Kick        5_12 
+D#,d/f+3             Spinning Trip Sweep                               12
+f,f+2 [~5]           DASHING UPPERCUT [Tag]  *Juggles*                 24
+d/f+2 [~5]           Uppercut [Tag]  *Juggles*                         13
+f,f+4                Jumping Knee                                      10
+u/f+3+4              Poison Wind Flipstomp                             21
+FC_d+3+4             FAIRY WAX                                       5,23
+f+3+4                GROWLING JEWEL                                    30
+SS+3+4               KUNAI DRAGONTAIL                                  15
+BK 3                 REVERSE FLIPKICK                                  22                            
+f,f+1+2              Reverse Solar kick, (BK)                          22
+f,f+3+4              Solar kick                                        30                                      
+  1+2                  Shark Dive                                   30,40
+  ~3                   REVERSE FLIPKICK                             30,25
+  3+4                  FLYING SHADOW                                30,NA
+f,f+3,                                                                 NA
+      4              MIDAIR FLIP, HEADKICK                             30
+3,4                  Zig-Zag                                        30,30
+4,4,4                3 Highkicks                                 20,20,21
+u~u/b                BACKFLIP                                          NA
+-------------------------------------------------------------------------
+UNBLOCKABLES                                                       DAMAGE
+d/b+2                Kunai Stab    *Unblockable*                       15
+u+1+2                KUNAI SKYFALL *Unblockable*                       25
+b+2                  Kunai Murder  *Unblockable*                       22
+f,f,N+2              Kunai Advance *Unblockable*                       25
+b+1+2                KUNAI SPIN *Second Hit Unblockable*            8,*11
+
+121:4::4:4::1::2:3:2  Tenstring
+
+-------------------------------------------------------------------------
+CONFUSING CHICKENS:
+
+   1+2:  Rushing Elbow is a right side chicken  (f+2+4)
+ f+3+4:  Growling Jewel is a right side chicken (f+2+4)
+
+*****************"DO YA, FEEL LUCKY PUNK?... DO YA?"*********************
+
+The very basic.
+If your challenging, watch your opponent play a couple of rounds and 
+watch his or her juggles, their throw choices (1, 2, 1+2 escapes?) and
+their overall style of play before you put your coins in.  If he's a 
+scrub give him a lesson... if he's seems to be an expert then get some
+practice.
+
+*****************************FRAME RATE'S********************************
+
+Brought to you by the helpful Web Crew at Tekken Zaibatsu (and some 
+fabled japanese text) and the letter y.
+  This section is mainly for the extreme Tekken nut; but once a moderate 
+level of Tekken understanding is gathered even a average player should 
+find something useful here. Tekken is a fast paced violent game that 
+once taken to it's most base level unfortunately results in mathematics,
+you knew school would teach you something didn't you?
+ Tekken movement can be described in terms of frames of animation.  
+These run at at a silky smooth (baby's butt kinda thing) 60 frames per 
+second, faster than your normal tv or even a speeding Alley McBeal. 
+Therefore most of the numerical data in this will be in terms of numbers
+of frames.
+  I think a little of this information should be taken with a grain of 
+salt as when dealing with 60ths/sec; accuracy, joystick motion and button
+inputs all take time themselves.  A one frame advantage may be enough to 
+stick out a jab faster than your opponent but it would be as easy to miss 
+the opportunity.     
+  This section will breakdown the frame rate for Kunimitsu's basic moves;  
+her other frame rate info will be in the move analsys section.  It is 
+listed with 4 specific numbers which relate too (using Zaibatsu
+notation):-
+
+-> Frames to hit, ie how many frames before the move hits (F Hit)    
+
+-> Frame advantage/disavantage, listed as +/- after the move has been
+          -Blocked (B Adv)
+          -Hit (H Adv)
+          -Counter Hit (C Adv)
+-->KD means that the move has knocked your opponent away in some manor.
+
+On with the numbers!
+
+Command- F Hit  B Adv  H Adv  C Adv[] Command F Hit  B Adv  H Adv  C Adv
+-----------------------------------[]-----------------------------------
+   1       8      +2    +7     +7  []    2      10       0     +6     +6
+   3      16      -8    KD     KD  []    4      14     -14     -3     -3
+ f+1      10      +3    +7     +7  []  f+2      17     -13    +17    +17 
+ f+3      16     -10    KD     KD  []  f+4      14     -14     -5     KD 
+ d+1       8      -2    +9     +9  []  d+2      10      -2     +9     +9
+ d+3      16     -17    -3     -3  []  d+4      12      -8     +3     +3
+FC+1       8      -2    +9     +9  [] FC+2      10      -2     +9     +9
+FC+3      16     -17    -3     -3  [] FC+4      12      -8     +3     +3
+WS+1      12      -2    +9     +9  [] WS+2      14      -7    +24    +24
+WS+3      16     -16    KD     KD  [] WS+4      11      -6     +5     +5
+df+1      13      +1    +7     +7  [] df+2      16      -1     KD     KD
+df+3      16      -9    +2     +2  [] df+4      12      -4     +7     +7
+   
+***************************MOVE ANALYSIS*********************************
+-------------------------------------------------------------------------
+
+This section aims to deal with each of Kunimitsu's moves on a case by 
+case basis.  I'll give my opinion and the opinion's of anyone else I've
+managed to pester. A simple rating in +'s out of 5 will also be given.
+These aren't points set in stone, you may have found a use for a move 
+that I haven't.  If so, send me an email at birch@anet.co.nz and I will
+happily credit you.  
+ 
+******************************THROWS*************************************  
+-------------------------------------------------------------------------
+The detailed throw list.. you asked for it, you got it.
+  After so much feedback (did I mention I got an email :)I decided that 
+the public wouldn't be happy without this lovely presented throwing 
+quide.  Kunimitsu has a simple collection of throws that are easily 
+performed but do little in terms of damage.  Most people I play against 
+hate being thrown though (especially side/back thrown) so these are great
+to put defensive players in more of an agressive frame of mind. 
+  Kunimitsu ain't King so this will be short and 99% fat free.
+
+INPUT: NAME                                                  THROW ESCAPE
+-------------------------------------------------------------------------
+1+3: Spinning Slam   ++                                               (1)
+Frames to hit: 12
+
+     Kunimitsu grabs her opponent spins then... and slams them.  I could
+     make reference to the Manji events that led to this move... but I 
+     won't, its an old joke.  Simple escape for this throw (1) but a 
+     possible mix up if your opponent is looking for 2(2+4,2+5) or 1+2 
+     escapes.
+     This throw doesn't set up oki-zeme tactics very well.
+  
+-------------------------------------------------------------------------  
+2+4: Jawcrusher  ++                                                   (2)
+Frames to hit: 12
+
+     Kunimitsu grabs the opponent and then pushes them off balance with a
+     leg and right arm to the chest.  She then follows this up with 
+     a strike hilt to the... jaw.
+       This throw is escaped with (2).  Since it shares the same escape 
+     as the generic tag throw it is probably a wiser choice to go for the
+     later.  A safe tag and the chance to heal is always a good option...
+     unless of course your partner has been badly injured.
+       This throw is one of her better set ups for oki-zeme.  If your 
+     enemy is complacent you could get away with a poison wind or a fairy
+     wax.  On opponents who rush to get off the ground try things like
+     the FC,db+3 or d+3.
+ 
+------------------------------------------------------------------------- 
+2+5: Generic Tag Throw                                                (2)
+Frames to hit: 12? 
+
+     Effects dependant on your tag patner.  This is one of the safest 
+     ways to tag, along with Tag juggling.  I personally don't aim for 
+     the generic tag throws much, the specific ones look cool;  I use 
+     those but I prefer to tag juggle or use normal tagging.  Still a 
+     excellent way to tag between characters. 
+     Kunimitsu when jumping in does a poison wind.
+    
+-------------------------------------------------------------------------  
+d/b+1+3: Hip Lock                                                   (1+2)
+Frames to hit: 12
+
+     Kunimitsu performs a judo style hip toss sending her opponent to the
+     floor.
+     A great two button escape throw because of the easy as button input.
+     Really her best throw and one that you should be using the most.
+     That said, if you do it all day your opponent should work out how to
+     escape it, therefore mix it.   As with most of Kunimistu's throws 
+     this is a little weak in terms of damage.
+     As with the 2+4 this move does set up well for okizeme tactics.
+
+-------------------------------------------------------------------------  
+f+1+4: Maji Rana                                                       df
+Frames to hit: 12
+
+     Kunimitsu flips up off her opponents knees, She lands her legs 
+     around their neck and then sends them head first to the ground.
+     A cool throw that has an interesting direction (not button) escape.
+       Use lots when your opponent doesn't know how to escape.   Unless 
+     they are Tekken nuts (it does seem that there are quite a lot of us) 
+     or another Kunimitsu player they most likely wouldn't know.  I 
+     haven't seen it escaped around here but I am pretty much the only
+     Kunimitsu player. 
+       This throw places the opponent a little far away to start strong
+     oki-zeme mix ups.
+       When this throw is actually escaped (the opponent ducks the 
+     flip) Kunimitsu ends her jump behind the opponent in.  Back to Back 
+     they faced each other... Kunimitsu is left with all her reasonable 
+     back turned options    
+ 
+-------------------------------------------------------------------------  
+Left  (1+3)_(2+4)_(2+5)       AVALANCHE                               (1)
+Frames to hit: 12?
+
+     Seen it a couple of times... but can't remember what actually
+     happens.  Side throws are always cool when you get the chance, so do
+     try it out.
+
+-------------------------------------------------------------------------  
+Right (1+3)_(2+4)_(2+5)[~5]  DIZZY CYCLONE [Tag]                      (2)
+Frames to hit: 12?
+
+     Kunimitsu grabs her opponent and then runs around them at break neck
+     speed, ratling their brain and dizzying them.  Another weird Manji
+     side throw, quite funky.  Also taggable which can be quite useful,
+     Peter Hahn's Kunimitsu faq (at gamefaqs) lists some of the Tag into
+     options. 
+      
+-------------------------------------------------------------------------  
+Back  (1+3)_(2+4)_(2+5)       Reverse Neck Toss                        NA
+Frames to hit: 12?
+
+     Kunimitsu grabs the opponent around the neck and throws them over. 
+     A back throw standard from Tekken 2, pretty boring actually.  Not 
+     much in the damage stakes either I'd much rather have Yoshimitsu's
+     Tornado Drop.
+ 
+-------------------------------------------------------------------------  
+*************************************************************************
+
+THE BASICS
+
+-------------------------------------------------------------------------
+MOVE         NAME        RATING                                NOTES
+-------------------------------------------------------------------------
+df+2: basic uppercut.    +++++                                ~5 To Tag
+
+Kunimitsu steps foward and uppercuts.
+  A important basic move in any TTT characters game;  a vital move for
+Kunimitsu.  This little puppy is an uppercut that comes out quick,
+juggles on hit (CH for crouching people) and is one of Kunimitsu's best
+moves in range 0-1.  Hit with this and smile as your opponent floats 
+into the air waiting to except any extra damage you can tack on.  This 
+move is what Kunimitsu bases most of her inclose strategy around.  A 
+large portion of the damage you do, should be acumilated with this move 
+(and the subsequent juggle) in my opinion. 
+  It fits well into most custom chains (as will be discussed later) and 
+is quick enough to counter many a powerstrike.
+  An important thing to remember when using this move is it is not quite
+as good as Yoshi's df+2 (the best basic uppercut in all of Tekken); this
+move unfortunately doesn't have quite the same forward movement that 
+makes the ninja man's move so strong. It is none the less one of the 
+best basic uppercuts in the game.
+   This move is also tagable and is a tag 2 class launcher.  The juggle 
+options are limited by your tag partner.  When this move is interupted
+but you still connect and buffer a tag this move lifts to the same level 
+as the f,f+2 and Kunimitsu stays on screen, making some of Kunimitsu's 
+larger juggles possible.  Also when tagging this but having it blocked it    
+causes the opponent to have a differing block animation, I'll do some
+research into what this actually means.
+  An exceptionally strong move.
+
+-------------------------------------------------------------------------
+d+1: The low jab.        ++++                          into full crouched
+
+Another essential move for a healthy Tekken game.  This move is one of 
+the fastest in the game.  It is always handy in close to override your
+enemies attacks and can be a beneficial after most moves that leave you
+in close with little lags.  This move is also a great link to moves such
+as the D,df+3 and the FC+3+4.
+  Her other while standing moves such at the 1, 2, and 4 can also be 
+performed by letting the stick go neutral (n) and inputting the 
+appropriate command.  Her ws+1 and 4 are great pressure and spacing 
+tactics, while the ws+2 short ranged upper. These ideas will be 
+discussed further in the custom chain section.
+  The ws+4 covers the most range and therefore can often be the most
+beneficial ws tactic.  If your foe is just going to sit there though,
+sweep em and juggle.  Don't be afraid to mix up your high, mids and lows.
+
+-------------------------------------------------------------------------
+1: The left jab.          +++++
+
+Another quick fast move.  So many uses for this move; when your in your
+enemies face stick a couple of these suckers out to push them back. The
+left jab can be a simple set up for moves like the df+2 and the 1+2.  
+The left jab also cuts through throw attempts and can interrupt your 
+opponents pressure tactics.  A jab is also a good set-up for a throw of
+your own.  Do remember that this move hits very high and therefore if you
+feel your opponent might duck, maybe go for the 1,2, or the 1,2,1 which 
+hits high,mid,(mid).
+
+-------------------------------------------------------------------------
+df+4: Mid Right Kick       +++
+
+Kunimitsu has a standard Tekken 2 mid kick.  It's not as useful as 
+Yoshi's (used too be?) in terms of reach.  This move is a good push out
+move when your just out of jab range. Quite safe, quite handy.    
+
+-------------------------------------------------------------------------
+BK+uf+4: backturned jump kick ++                               only in BK
+
+Found out just recently that Kunimitsu does infact have a standard(?) 
+backturned jump kick.  This is another handy mid move in backturned 
+position... it also juggles, how wonderful.
+
+***************************PAST THE BASICS*******************************
+-------------------------------------------------------------------------
+1,2: Left jab to upper.    +  
+FRAMES--> F Hit	B Adv		H Adv		C Adv    
+          8,x,    +2,-13      +7,-2       +7,-2       
+This move is a simple jab to (non-lifting) uppercut.  An alright poking
+tactic, very useful because of the speed and hit levels. It can be a good
+choice for continuing pressure as there is forward momentum involved.  
+It isn't given a high plus rating as the pay offs in damage are low.  
+This move actually recovers very poorly, worse than the 1,2,1 and 
+therefore it is not always wise to attempt to stick out a move 
+afterwards.  With that said it does keep you in your opponents face.
+
+-------------------------------------------------------------------------
+1,2,1, left jab to double upper. ++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          8,x,x   +2,-13,-12  +7,-2,-1    +7,-2,-1
+
+The move above with an extra uppercut thrown in.  This move is a 
+excellent poking tactic that recovers better than the 1,2.  This fact 
+makes it more suited for continuing poking tactics.
+
+
+-------------------------------------------------------------------------
+f+2/BK 2         Backfist                           Turns Opponent Around
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          17      -13         +17         +17
+
+The Backfist, a move with some great properties (it turns your opponent 
+around to backturned), it's just a little on the slow side with some 
+nasty lag time.  The backfist is a good option when your opponent is open
+to counter and you know this will hit.  Otherwise its best place is in 
+confusion games from backturned.  After hitting with this your opponent 
+spins and offers you a free look at his/her back.  From here I usually  
+follow up with the simple juggle of df+2, b+1, 1, 3.  Other bigger
+juggles are possible (check out Hayashida1/2 at Zaibatsu for some
+mad Yoshimitsu and Kunimitsu skills) I'm just not that great at linking 
+large amounts of backslaps together.
+
+-------------------------------------------------------------------------
+2,3/d+3: right to high/low kick ++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          10,x    0,-12/-15   +6,KD/-1    +6,KD/-1  
+        
+Haven't used this much.  The low peck version of this can be useful for 
+some low hitting pecking damage.In Tekken 3 Yoshimitsu's 2,3 was 
+guaranteed on counter hit. . We'll have to see if this true for 
+Kunimitsu....
+  
+-------------------------------------------------------------------------
+1+2: rushing hilt strike.   ++++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          25      -16         KD          KD
+
+Kunimitsu quickly ducks and then strikes with a forward hilt strike that
+has brilliant range for a non f,f power move.
+  This move is a great general powerstrike, though at 22 damage its a 
+quite soft on the damage side of things.  It can be used in a similar 
+fashion to Yoshimitsu's bad breath (b+1+2, any) as the quick crouch at 
+the start is very effective for getting under some high poking tactics.  
+Something to throw in to your own poking mix.
+  At first I thought that this move recovered moderately well; 16 frames 
+to recover though is moderately slow.  It may be enough time to lead to
+shining fists or it may push the opponent out of range of jabs, I'll have
+to check, it is also probably enough time for Heihachi or Devil to get a
+free twin pistons.  This info has meant a reduction in+'s for this move.  
+I still think it is something you should use lots when in range, 
+especially against pitbull style opponents.
+
+-------------------------------------------------------------------------
+(wc)/d+3+4: The Fairy Wax.    ++++                     Hits on the ground
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          39      +14         KD          KD
+
+The Fairy Wax, strange move, what can I say.  Kuni jumps high into the 
+air above her foe, does a front flip and comes down with her feet.
+  This move is great if you know your opponent is coming in with a move
+that you can jump over.  That knowledge of course is not very easy to 
+come by, so use it now and again when you opponent is moving forward or 
+if your opponent is being predictable.
+  I also add this move into my custom chains because it can be done from
+full crouch and because of the heavily evasive start, followed by two 
+sharp kicks.
+   The frame rate information breaths new light into the benefits of this 
+move on block. 14 frames of advantage means that you could pull out a 
+df+2 and the opponent would only have 2 frames in which to react (leaving
+their only option to block or get hit).  It may also lead to a free 4,
+f+4, or a f,F+4.  This I will have to check.
+ This move is also very handy for oki-zeme as the second hit in the move
+hits on the ground and her initial jump can avoid both low and mid get-up 
+kicks.  As this move has little foward movement so it when you are 
+standing close to your prone opponent just at the range when they would 
+be thinking about doing a rising low/mid kicks.  She jumps up quick 
+enough to avoid these kicks and if your opponent just lies there she 
+still hits them, splendid.  This placement situation is common from some 
+of these moves (db+1+3, 2+4, b+2, f,f,N+2) but it is wise to keep this as
+a option in your general oki-zeme tactics.
+
+-------------------------------------------------------------------------
+f,f+2:The Dashing Uppercut.   ++++                              ~5 To Tag
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          25      -18         KD          KD
+
+Kunimitsu rushes forward with a lunging uppercut, it ducks midway through
+the move (such as a crouch dash) deep enough to avoid most high attacks.
+  An addition to Kunimitsu for TTT, the f,f+2 is one of her best 
+launchers.  This move is great for pressuring your opponent from mid 
+range and is easy to chicken.  Since TTT is a two team game it can be 
+wise to tag off this move (as long as your partner is in moderate health)
+too keep your characters switching without being open to the run in 
+retaliation.
+  This launcher would be described as a class 2 tag (using the Zaibatsu 
+notation),this means you can follow with a jab height juggle. Use this 
+move to apply pressure from afar and set up a platform for her useful 
+unblockable game. 
+  Once again with knowledge of frame disadvantage on block it may lead 
+to free damage on you from moves like the twin pistons.  Be careful using 
+this on people who base their game on countering.
+
+-------------------------------------------------------------------------
+f,f+4: Fubuki                  ++++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+           7      -17         KD          KD
+
+A jumping knee of exceptional speed and priority, if you've played 
+Yoshimitsu then you'll probably know what I'm talking about.  This move
+is great as a quick in close counter, in that it can't be reversed and 
+that it knocks down you opponent on clean hit.  
+  As the frame rate info shows the speed of this move is unbelievable,
+maybe the fastest move in the game, it does though require a f,f input 
+which in itself would take quite a few frames.  The knee does have some 
+quite bad lags at the end so be sure to properly connect with it.
+  Another thing of interest is its damage listing on TTT.com.  They list
+it as doing 10 damage, which is half the damage of Yoshimitsu's in T3.
+This would make it a little less useful.  One of the reasons that I have
+reduced its rating. 
+
+-------------------------------------------------------------------------
+f,f+3+4: The Solar Flip         ++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          22      -20         -9          -9
+
+The starter for the shark attack combo.  Same as Yoshi's, not much to be
+said here.  This move should be used only to continue into one of the 3
+links.
+  This move was non-reversable in Tekken 3 for Yoshimitsu.  I assume it 
+is the same way for Kunimitsu in TTT.   
+-------------------------------------------------------------------------
+LINK   ~3: The Reverse Flipkick     +++                     BK if blocked
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          x       0           KD          KD
+
+The reverse flipkick (BK+3) mentioned below , use in the same manner.
+This move flows well in this link. 
+-------------------------------------------------------------------------
+LINK   ,3+4: The Flying Shadow      +++
+   
+Kunimitsu does a large flip after the first shark attack flip. This move
+does no damage but places Kunimitsu facing the back of her opponent.
+ If this move was a stand alone then I could see more valid uses for it.
+Even so this can be an really great move to do followed by such as the 
+u+1+2, d+1+2, df+2 or 1+2 (maybe the f,f+2 if your enemy is slow).  Back 
+turned position usually only gives the opponent the option for low or 
+high moves (Ling, Lei, King/A-king(?), Hwoarang and Kunimitsu being some 
+of the major exceptions) meaning that ducking and then countering can 
+also be a useful option.
+  This move also adds to the general confusion game you should be 
+playing with the ninja.
+-------------------------------------------------------------------------
+LINK  ,1+2 The Shark Dive           ++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          x       -27         KD          KD
+
+The second move in Yoshi's shark attack, this is a high priority dive
+that you should use when you think your opponent is going try to 
+retaliate... They will eat this move for some big damage.  Hits high but
+that should be alright when well mixed with the 3.
+
+-------------------------------------------------------------------------
+f,f,3,4: Mid Air Flip->Head Kick     +++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          32      -13         KD          KD
+
+Kunimitsu flips (f,f+3) and then (if you add the 4) goes for a double 
+foot kick to the opponents head, rib cage area.  This move is very 
+similar to Eddy Gordo's f,f+4,(3_4). Kuni's is better in than it hits 
+mid.
+  This move can be a good move to throw out in medium range and is easy
+to chicken.  After this move is blocked or hits Kunimitsu does a backflip
+placing her in safe distance.  This can be useful for getting out of 
+range 1-2.
+  Once blocked this move guard staggers,which can help in applying further
+f,f tactics (2, 3+4 links, n+2, etc.).
+  I use it on occasion but often find that her other f,f+(2, 4, N,+2, 3+4
+links) moves give more useful results.  It also does not have as much 
+range as the f,f+2, f+3+4 or f,f+3+4.  That said it can also be 
+effective having a big kick to place down a punch reversal happy 
+characters (Ganryu, Bryan, Baek and Laws) face.
+  This doesn't leave her in ws as I had thought earlier. 
+   
+-------------------------------------------------------------------------
+BK+3: Reverse Flipkick.       ++                               Backturned
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          23      -2          KD          KD
+
+Kunimitsu executes a reverse flipkick.  This move is either executed from
+back turned or in the link mentioned above.  Since Kunimitsu has only one
+way to purposefully get to backturned (f,f+1+2, which doesn't link to the
+3 that well) it is not often you will use this move as a stand alone.
+  Castel lists this as a juggling move and heh, I believe him.  More 
+research is therefore needed.  This is what I think I've worked out so 
+far.
+ I'm pretty sure that on hit this move leaves Kunimitsu backturned next 
+to an opponent on the ground.  Not many options to continue the attack
+with.  On counter this move places Kuni facing towards her opponent I 
+assume a poison wind is guaranteed a fairy wax may hit.
+  This move leaves you in back turned when blocked, check the backturned
+fighting section for some ideas.
+
+------------------------------------------------------------------------- 
+f,f+1+2: The Reverse Solar Kick +++                            Backturned
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          22      -8          +3          +3
+
+Kunimitsu does a variation of the f,f+3+4 cart wheel leaving her in back
+turned position.  I have tried to link the backturned 3 from here but 
+find it a little slow.  This move can confuse your opponent when well
+mixed in with the other shark attack methods.  After the move is 
+completed try using some of the backturned options listed in the 
+backturned section .
+This (for Yoshimitsu) was also non-reversable in Tekken3. 
+
+-------------------------------------------------------------------------
+f+3+4: Growling Jewel.       ++++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          22      -1          KD          KD
+
+A styling forward jump kick, comes out a similar speed to Lee Chaolan's
+jump kick (uf+3) but hits mid to make it a better move.
+  This kick should be used quite often at medium range as a get in 
+tactic, as it recovers well enough to continue pressure with moves such 
+as the 1, f+1 or d+1.  One should note that this move on block also 
+places Kunimitsu slightly to the side of her opponent.
+  It is also good a powerstrike (to slow to counter with),or even as a 
+juggle ender.  This kick unfortunately only does 30 damage (actually not
+too bad in terms of damage for Kunimitsu) so as said earlier if your 
+having problems ending juggles with this switch to the 3 kick 
+(30 damage also).
+  Looking at the frame rate info this move recovers very well on block.
+1 frame not meaning too much either way.  It also comes out rather 
+quickly.  It may be free after a ws+2 on hit, another thing to check.
+  A powerful advancing move.
+
+-------------------------------------------------------------------------
+d+1+2: Crouch Dodge.        ++
+
+Kunimitsu drops to the ground causing that lovely Tekken dust to fly.
+This move avoids all attacks, lows included.  With that said it is a
+little slow at the start up and can't really be used on reaction to avoid
+blows.  Its most obvious use is as a fake for the u+1+2 unblockable, and
+to exude ninja style.
+  Kunimitsu can be quite a strong defensive player when using moves like
+this and others such as the the u+1+2, u~ub, d+3+4, b+1+2, 1+2.  
+Agression imho is still a better choice in style for picking up regular 
+damage.
+  WcMaxi told me he uses it to set up throws... which also seems quite 
+valid.
+
+-------------------------------------------------------------------------
+b+1,1,1,1,1,1:  The Backhand Slaps  +++                     dizzy after 6
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          17,x,x  +1,+6,+6    +12,+7,+7   +12,+7,+7
+           x,x,x  +6,+6,+6    +7,+7,x     +7,+7,x
+
+  Kunimitsu spins around, her left hand outstrectched moving at a rate 
+of knots aiming to hit the opponent somewhere in the head. 
+The Backhand Slaps; a manji classic.  These handy Manji ninja tools fill
+various gaps in Kunimitsu's arsenal.  I think there main use is as juggle
+filler.  They can also be used as fast get in tactics to begin a custom
+chain because they move so rapidly.  Do remember that they do hit very 
+high so make sure the first one is going to connect or or you might be hit
+by jabs or uppercuts.
+  Once applied in close they can be easily linked into the low sweeps 
+for some always handy pecking damage.  Once doing the low sweeps, make 
+sure to finish with the falling tree kick (chicken it, if necessary).
+  On block these suckers give a better advantage than Kunimitsu's 
+standing jabs (after 2);  highlighting their use in custom strings. 
+
+more comments
+elphfves (elphfves@earthlink.ne)
+
+  Also likes to use a blocked b+1 as a throw tick.  I hadn't commented on 
+this specifically but it is always important to mix throws into your 
+custom strings.  Placing them after fast moves such as the b+1, 1, d+1 is
+always useful. 
+
+-------------------------------------------------------------------------
+D#,D/B+3,[3],[3],[3],[3] Spinning Leg Sweeps[s] ++           Dizzy on 6th
+  -->(f+4)                Falling Tree Kick +++
+FRAMES--> F Hit	B Adv		 H Adv		C Adv
+          24,x,x  -24,-23,-23  -13,-11,-11      -13,-11,-11
+          x,x     -23,-23      -11,-11          -11,-11
+   (f+4)-->x      -4           KD               KD
+
+The full crouched spinning sweeps. you can do more of them from full 
+crouched.  I personally prefer to link these from the backhand slaps.
+The first kick in this series can be used as quite an effective oki-zeme
+move for some extra damage. I added the extra star for the tree kick 
+because it can push you clear of trouble, also can knock your opponent 
+down and the recovery is improved.
+  
+-------------------------------------------------------------------------
+3,4: The Zig-Zag:        ++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          16,x    -8,-14      KD,KD       KD,KD
+
+A quick spinning high kick followed by a sharp mid kick.  This move is
+not something you should be using everyday.  The 3 kick has it's uses as 
+a juggling tool and a fast high priority move.  The 3,4 is a link that 
+that average player will watch and a better player will interupt, a 
+learning player will sometimes be hit by it.  Kunimitsu has many better 
+options. 
+ 
+-------------------------------------------------------------------------
+4,4,4: Three High Kicks     +
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          14,x,x  -14,-5,-8   -3,-3,-4    -3,-3,-4
+
+Three high kicks to head, slow and easily ducked.
+  If you can get all three of these kicks off and get the side turned 
+benefit, then congratulations you've just learned that your opponent is 
+an idiot.  These moves have no place even in medium level competition.
+
+-------------------------------------------------------------------------
+u/f+4: Avoiding the Puddle  +++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          ?       ?           ?           ?
+
+Not the best u/f+4 in terms of priority.  This manji jump kick is not to
+be used to interupt moves like Lei's, The Kings, Ogre and Lee's can.  
+This move can be used to counter with at mid-range and is good for 
+punishing characters who are predictable with sweeps. 
+ 
+-------------------------------------------------------------------------
+SS+3+4: Kunai Dragon Tail.  +++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          16      -37         KD          KD
+
+Kuni plants her hands and spins low with both feet.  This move is a 
+strong side-step attack and Kunimitsu's most damaging low attack.  Not
+that great at only 15 damage but it does knock the opponent down.  This
+move is also a valuable oki-zeme tactic as it hits on the ground. With 
+the changes in the Tekken Tag Tournament system this move makes 
+Kunimitsu stagger when blocked, she also will have large lags before she 
+can even block.  Don't become predictable with this move.       
+
+-------------------------------------------------------------------------
+SS+1+2: Wintery Wind.      ++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          16      -8          KD          KD
+
+Shouryuuken... Kunimitsu attempts to imitate Ryu/Ken and does a leaping
+fast, high priority uppercut.  Hits high but comes out nice and quick.
+
+-------------------------------------------------------------------------
+u/f+3+4: The Poison Wind  ++                           hits on the ground
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          22      -20         -9          -9
+
+Kunimitsu frontflips into a double footed stomp.
+  An oki-zeme tool that you can use after juggles, the 1+3, d/b+1+3
+throws and her f,f,N+2, b+2 unblockables.  Don't let your opponent tech-
+roll this move as you'll be left with lags in a bad position.  If your
+opponent is tech-rolling a lot as get up, use throws and unblockables.
+
+-------------------------------------------------------------------------
+wc,df+3: Spinning Trip Sweep +++                                  juggles
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          18      -16         KD          KD
+
+Kunimitsu sweeps her foot from crouched position, juggling the opponent
+on connect.  
+  This is such a good move when well mixed into her custom chains.  Don't
+be afraid to pull this one out on an opponent who is just watching your
+custom chains progress.  With this threat to their shins exposed they are
+more likely to walk into df+2s or ws+2s.
+  The lags on this move are rather unkind so make sure it is mixed well.
+I juggle with the simple ws+4, f,f+4, but will work on more juggles with
+ps-2 TTT.
+  
+****************************UNBLOCKABLES*********************************
+-------------------------------------------------------------------------
+
+With a properly set up aggressive platform Kunimitsu's unblockables can
+begin to shine.  Though the damage of Kunimitsu's unblockables are 
+relatively small in term of these moves, a couple in a round can truly 
+help to turn the tide of the fight your way.
+  I have checked out wether Kunimitsu's unblockables are reversable and
+sadly they are, I know that Nina can reverse the b+2, f,f,N+2, she can 
+also probably reverse the d/b+2 and it is quite likely that Jun, Jin can
+also; Anna and Wang are maybe's.  Nina's animation has her grabing 
+Kunimitsu's hand and therefore it may be possible to chicken... another
+thing to research.
+  One extra thing to note about the unblockables is that they can be
+easily side-stepped.    
+
+*************************************************************************
+
+u+1+2: Kunai Skyfall.      +++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          50      x           KD          KD
+
+Kunai disappears into the floor and then reappears from the top of the
+screen, coming down with the dagger first.  Think of Hanzo or Galford
+from Samurai Showdown but without the sliced log.
+  A good unblockable that can be used to kill turtling foes and scrubs.  
+It takes a little time for a good player to learn how to interrupt this 
+move, unless they have a strong jump/flip kick that they aren't afraid 
+to use.  Don't give them this chance, pop it out at strange times and mix 
+it up well with the d+1+2.
+  Remember to make sure you are in range to do this move as it has is a
+straight vertical drop.  This move can also be backdashed.  Wiffing is 
+one of the seven great sins of Tekken.
+
+-------------------------------------------------------------------------
+b+2: Kunai Murder.         ++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          34      x           KD          KD
+
+Kunimitsu takes a step forward then drives her dagger into her foes gut.
+Would actually be quite painful and can be followed up with Oki-zeme of 
+your choosing.  This is a unblockable that you should use in close after 
+pacifying your enemy with uppercuts and jabs.  This is probably a little
+tougher to set up than the Kunai advance because of the typically frantic
+nature of range 0 warfare.  Remember that even though this move has a 
+back stick press it can be used after a f,f dash (f,f,B+2).
+This unblockable sets up for oki-zeme; a Poison wind may in fact be 
+guaranteed (Ogre is guaranteed a f,f+1+2 after his). 
+  On large characters you can juggle off the hit.  I've got simple stuff
+like d+1, ws+4 off but it is quite likely that a fubuki may be added
+after this. Also a d+1 to crouch cancel juggle may be an option.  I'll 
+keep working on it.
+
+  I got some feedback (wow, somebody actually read this!) from Renick 
+(Renickironfist@hotmail.com) on this move, Check out his Ogre faq.  He
+thinks this move is useful after sidesteping power moves such as Kuma's 
+F+1~1,1 or Jun's b+3,2 (Julia and Michelle's 2+3,1 is also very easy to 
+side step before the 1).  I personally usually go for sidethrows when on
+a side position (they look cool) but this fast unblockable would also be 
+a good choice (d/f+2 is also a great option). Do remember that this 
+unblockable is reversable by some characters, Kunimitsu's blade isn't as 
+strong as Ogre's green hands.
+
+-------------------------------------------------------------------------
+f,f,N+2: Kunai Advance.     +++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          25      x           KD          KD
+    
+Kunimitsu moves forward and then strikes with her knife into the 
+midsection.  This is probably her most useful unblockable because of the 
+f,f, nature, it is also a little faster than the b+2 (25 frames to 34) to
+come out.  It mixs in very well with her other f,f moves such as the 
+f,f+4, 2 and 3+4(links). 
+  This move also sets up for oki-zeme tactics... once again a Poison wind
+may be guaranteed.
+
+------------------------------------------------------------------------- 
+d/b+2: Kunai Stab.           ++
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          26      x           -8          -8
+
+Kunimitsu quickly slashes the dagger from above her head to the ground.
+A strong Oke-zeme tactic because it hits on the ground(? big character 
+only?), great for getting people trying to tag out on the deck.  This 
+move (unlike the Advance and Murder) leaves the opponent standing on hit
+making it a little more risky.  Still great for building up the damage. 
+ 
+-------------------------------------------------------------------------
+b+1+2: Kunai Spin.          ++ (maybe more +s to come)
+FRAMES--> F Hit	B Adv		H Adv		C Adv
+          19      -41         KD          KD
+
+Kunimitsu does a little figure eight with her dagger.  This move has 
+needed a healthy review after I found out that the second hit is 
+unblockable.  This move attempts to be Yoshimitsu's b,b+1~1 and fails.
+It's unblockable only on the second swish and its slowish to come out;
+it also has some pretty terrible lag time.  
+Castel has this in his Kuni intro movie in a juggle.  Apart from showing 
+off I wouldn't use this one much if at all.
+  This move is still under review.
+
+Move Review by: elphfves@earthlink.net
+
+"I actually found a few uses for this. First off it comes out pretty 
+quick which is good. I use it in anticipation of rushing moves or in a 
+poking string usuall after ws+2 or b+1, people literally walk into it. 
+Especially Lei who has to take that little half step for his rushes.  
+Also after the 2+4 throw im pretty sure it snuffs out ankle kicks and 
+sweeps".
+
+I tried some of these aplications recently and would agree that it could
+be useful against Lei's rushing in.  It still doesn't protect as much as
+Yoshimitsu's spinning blade does and I still has reservations about this
+move.  I would also recommend having a look at Peter Hahn's Faq as he 
+has worked out some custom tactics on making sure only the unblockable 
+stuff hits.
+
+*****************************TENSTRING***********************************
+
+121:4::4:4::1::2:3:2 
+
+Ten strings should only be used very infrequently in high level play.
+Kunimitsu has only one ten string which is a variation of Yoshimitsu's of
+course.  This one is pretty bad because of the predictable right kicks at
+the 4th,5th and 6th position.  Good players will reverse or duck and
+counter these kicks.  There is only one unblockable in this tenstring 
+(the 2 at the last hit) meaning that even if you manage to continue the 
+chain past the right kicks there is only a small reward against players
+who stand and watch.
+
+*************************************************************************
+************************GENERAL GAMEPLAY SECTION*************************
+-------------------------------------------------------------------------
+
+**********NOW THAT I KNOW THE MOVES, HOW DO I PUT THEM TOGETHER?*********
+
+This Section will deal with specific tactics on playing the Fox.  
+Kunimitsu plays a similar game to her Manji counterpart as I have 
+mentioned earlier.  Kunimitsu plays a strong inclose game similar to 
+Yoshimitsu (hers is a little weaker) but also plays a great distance game
+(range 2-3) where Yoshimitsu isn't as strong.  Kunimitsu is also a 
+character that needs to build up her damage consistantly, she won't kill
+an opponent as quickly as Julia, Jin or Kazuya .  Play an offensive game 
+but remain patient and watchful.
+  Kunimitsu in my opinion plays best when played agressively inclose 
+(range 0-1) and a hunt and peck style in range 2-3.  This is beneficial 
+as inclose her custom chains are strong and can often lead to df+2 
+juggle.  Kunimitsu also has many distance moves that leave her in a 
+range to start a poking game (the f+3+4, f,f+1+2, 1+2).  These moves all 
+seem to have resonable lags (I'll be able to comment on these more when 
+PS-2 TTT gets here) with options to start poking chains afterwards.
+Some of my favorite poking chains will be discussed in the next section,
+along with ideas to start on your own variations.
+  At range 2-3 you should be looking out for ways to advance on your 
+opponent.  Kunimitsu's ideal opponent would be coming foward in these 
+ranges giving you options to tag them with moves such as (f,f+2,f+3+4,
+f,f+3,4, 1+2,or f,f+3+4,links).  If they are patient or passive Kunimitsu
+can advance with the f+3+4, f,f,N+2, f,f+1+2, f,f+3+4 links.  These are 
+all relitively safe tactics to use to place yourself closer to your 
+opponent and to start Kunimitsu's strong custom game or wakeup.  
+  If your opponent is playing heavily defensive then it is wise to make 
+them come foward by using unblockable and throw pressure.  Also mix in 
+the lows to make sure your picking up some damage.  Or give them the 
+feeling of pressure by using the f,f+3,4 a bit.
+  Always play the game that suits you best.  These were just some of my
+ideas on fighting with Kunimitsu.
+    
+***************************CUSTOM STRING IDEAS***************************
+
+Custom strings in Tekken refer to the stringing together of usually basic
+moves in a hopefully seemless manor.  This is done to apply pressure and
+hopefully gives your opponent little room to break out of them.  Since
+the moves involved in custom strings are usually fast, low damage moves
+a lot of these custom chains place "enders" in the strings to attempt for
+a larger (damage) pay-off.  Just to make it a little more confusing 
+some "enders" have such good recovery (df+2, 1+2) that custom chains can
+be continued after using these moves.  
+Custom strings are mainly applied at range 0-1 where these basic moves 
+will hit and string without wiffing.  This section will look at the 
+moves that are suitable in creating custom strings and will discuss 
+some that I use. 
+
+Moves Suitable In Custom Strings
+
+Along the way                                   Enders
+1                                               df+2
+df+1                                            1+2
+d+1                                             throws
+b+1                                             D,df+3
+2,d+3                                           d(fc)+3+4
+ws+4                                            u+1+2
+ws+2                                            db+2
+ws+1                                            b+2
+df+2                                            f,f,N+2
+df+4
+
+Some Custom Strings.
+-------------------------------------------------------------------------
+d+1,ws+4:
+A solid very short string that is difficult to interrupt and pushes your
+opponent out of range 0 (where this string should be intiated).  This 
+string consists of a low jab (one of the fastest moves in the game) 
+followed by a while standing right kick.  You can also more basic moves 
+to this little ditty.  I usually continue this string with moves such as 
+the df+2, df+4, 1+2, u+1+2 or even the f+2 if your feeling rather 
+shameless.  
+
+d+1,ws+4 df+2: 
+The same string just adding the df+2 for juggling potential.
+
+1, d+1, ws+4
+A jab to the basic string.
+
+b+1, d+1, ws+4, df+2
+More additions to the basic d+1, ws+4.  This string is great to use in 
+range 2 as the b+1 brings you quickly into your opponents face.  The next
+part overides, then pushes out,then... yada, yada...
+
+b+1, 1, df+2:
+This string consist of a b+1 which should move your into your opponents 
+face. A jab to make them know that your there (and to over-ride most 
+standing moves).  It is then followed up with a df+2 in an attempt to 
+juggle them. 
+ 
+b+1, d+1, wc, df+3
+Another variation on the b+1, d+1, this time following up with a low
+sweep instead of the rising right kick.  Juggle if it conects. Always 
+rememeber variation in terms of mid,lows and highs, this move helps to
+train your opponent into walking into more df+2s.
+
+MORE CUSTOM STRING IDEAS
+
+1, df+4, df+2
+b+1, 1, d+1, ws+4, df+2, 1, d+1...
+b+1, d+1, ws+2  
+b+1, d+1, ws+1, 1, b+2
+b+1, 1+2
+1, df+1, df+2
+d+1,ws+1, df+2
+1, d+1, ws+1, b+1, 1, db+1+2
+1, d+1, ws+1, b+1, 1, f+1+4
+1, d+1, ws+4, 1, b+1, d+1,fc+3+4 
+1, d+1, ws+4, df+4, u+1+2
+1, d+1, db+3,3,3,f+4
+f,f+1+2,d+1,ws+4,df+2      
+f,f+1+2,d+1,fc,df+3    
+
+These are only a small bunch of the possibilities available when it comes 
+to custom strings.  Many of these strings can be continued or started in 
+different manners, the options are huge if you take the time to explore 
+them.  One of the main ideas is to make sure that most of your attacks 
+are connecting (guard or hit).  Unless yor trying to set something up by 
+whiffing, thats a whole different kettle of fish. 
+
+***************************SIDESTEPING/MOVEMENT**************************
+
+Sidesteping and general movement are very important in Tekken.  The 
+minute that your opponent can always predict where you are, is the minute 
+they stop whiffing and that leaves you with less opportunities to counter
+which is bad.  Therefore it is imperitive to always be in motion, 
+Kunimitsu doesn't have an amazing steps like Bob (such as Seok Dong 
+Min's "crazy legs")or crouch dash waving techniques.  Kunimitsu does have
+some interesting movement techniques such as the f,f+3, d+1+2 or u~ub.  
+Back dashing and foward dashing are also effective ways to cover area 
+quickly.
+  Sidestepping was introduced in Tekken3 and though not as complex as the
+8 way run techniques in Soulcaliber it still allows for evasive movement.
+Kunimitsu's sidestep techniques (1+2,3+4) have little range (and should 
+only pulled out in range 0-2) but this does not mean that you should 
+stick to sidesteping only at close range.  When I play I try to always 
+be in motion, this forces my opponent to think carefully before choosing
+his attacking option. 
+
+**************************BACKTURNED FIGHTING****************************
+
+Backturned position is the most dangerous (and a potentially positive)
+situation in Tekken.  Kunimitsu fights quite well from backturned.  She
+is not as strong as Lei or Ling but still has quite a few options in this 
+position.    
+You have a lots of options in this situation as I see it.  It is best
+to always think about how much practice your opponent has had in this 
+situation.  Some of my opponents look to throw, or jab to set up for
+powerstrikes.  Both these options can be ducked, then simply countered 
+or backturned thrown.  Just remember that your backturned options 
+will be limited only by your opponents choices and your willingness to
+experiment.
+
+BK: D+1,ws+4---->options to continue poking.  The ws+4 can be 
+                 interchanged with any ws(2,1)options or any full 
+                 crouched techniques such as the fairy wax (FC/d+3+4), 
+                 or the sweep (listed next).         
+BK: D+1,D,df+3-->another option after the d+1.
+BK: 1----------->option to continue poking.
+BK: 3----------->would probably avoid an opponents low attacks.  Can be 
+                 a little slow if your opponent is very aggresive.  
+                 Keeps you in backturned on block.
+BK: 2----------->on connect follow with a df+2 juggle.
+BK: uf+4-------->juggle.
+BK: throw------->They seem to come out a little faster from backturned
+                 don't know why that is.
+BK: 4----------->high priority turning kick.
+
+****************************OFFENCE VS DEFENCE***************************
+
+Offence vs Defence is a constant complex question in Tekken.  Most of the
+time I am caught by moves is when coming foward (or not reacting to a 
+low) yet if you fail to move foward you are usually not attacking your
+opponent, which is not really what you want.
+  Kunimitsu plays best imho when playing agressive Tekken.  Though she 
+does have defensive options(u~ub or d+1+2) and some offensive defensive 
+moves(b+1+2, d+3+4, u+1+2 come to mind); I personally think it is very 
+unlikely that you could spend a whole game on defense mixing up these and 
+win.
+  There are some points though when it is wise to counter a player.  
+Many Mishama players (devil is one of the clan) around here will 
+sidestep exclusively in an attempt to use moves like the tooth fairy and
+devil twister.  This is when it is probably best to wait for these 
+moves and counter with a df+2.  It is quite easy to set this situation up
+by playing a heavy sidestepping game in range 2-3, waiting for your 
+opponent to pull out these moves.
+  Aggressive play is where Kunimitsu shines. She has some great range 
+2-3 advancing moves: f+3+4 good damage, and continued poking possible
+                   : f,f+2 juggling potential
+                   : f,f+3,4 damage, safe exit to range 3 and guard 
+                             breaking on block
+                   : f,f+4 Priority
+                   : f,f+3+4 good links, solid damage potential
+                   : f,f,n+2 unblockable
+Kunimitsu also has an admirable inclose game, using the poking tactics 
+mentioned above, lots of df+2s and the great counter poking 1+2.  
+Once your opponent has been shell shocked from all the abuse pick up the 
+damage with some of Kunimitsu's fast and wonderfull unblockables.  
+   
+********************************TAGGING**********************************
+
+The Tag system is obviously the largest change from this Tekken to the 
+previous.  Getting to hang of it is *so* important and a good 
+knowledge of the system will help to reduce the risk of being damaged
+during, before and after tags.
+  The Tag throwing and juggling imho are the safest ways to tag.  Tag 
+Throwing usually does little damage (and Kunimitsu hasn't got any cool 
+looking specific ones) but your opponent is left with no chance to 
+retaliate.  Make sure that you have mixed in other throws so that your 
+opponent does not try to use the 2 escape.  
+ Kunimitsu can tag juggle from the df+2 and her f,f+2.  The f,f+2 and 
+her df+2 are class 2 tags and can set you up for juggles such as:
+f,f+2~5/ df+2~5
+Yoshimitsu b+1,1, b+1,1 f,f+3,1
+Heihachi df+1, f,N d,DF+4,4,N+1
+Ling df+1, 2, 2,1 f,f+1+2,1+2
+  
+Kunimitsu's other option to tag is with the tag button.  This is usually
+usually safe in range 2-3.  as long as you know your options properly.
+Eg             (all of these options character dependent)
+   5~f,f,N+1+2 usually a head dive
+   5~ub,b      stop run (blocking possible) 
+   5~f,f,N+4   sliding kick
+
+Kunimitsu when tagged in has options to do these moves
+   5~f,f,N+1+2  head dive
+   5~f,f,N+3    standing left kick
+   5~u,ub       backflip 
+   5~f,f,N+4    fubuki
+   5~ub,b       stop run/ block
+
+I have been informed by superior Tekken minds that Kunimitsu does have a
+stop run, You can ignore my comments about the dangers of tagging in into
+the 'heat of it'. 
+
+*******************************OKI-ZEME**********************************
+
+Ground tactics have always been important to Tekken.  Once you manage to 
+place your opponent on the ground it is always useful to attempt to gain
+an extra advantage in terms of damage.  Kunimitsu has a resonable ground 
+game, nothing flash in comparison to Nina, Ogre or Ling.  This section 
+will first deal with the moves that are important in oki-zeme strategy.  
+Do remember that some of these tactics are dependent on your enemy.  If
+they like to stay on the ground for awhile use the poison wind, fairy wax
+or the kunai stab.  If they rise with get-up kicks either backdash out of 
+range and counter, or use the fairy wax.  If they often tech-role and 
+stand then throw them.  Other opponents like to roll, either knock them 
+back down with a fubuki or try and get in a small (d+3 or d,db+3).
+Always apply your oki-zeme how your opponent allows you to apply it.
+
+MOVES SUITABLE FOR OKI-ZEME
+
+d+3
+d+3+4
+u+1+2
+d/b+2
+u/f+3+4
+f,f+4 (suitable on opponents rolling backward or forward)
+D,df+3
+D,db+3
+throws (on tech rolling ->standing opponents)
+
+*******************************JUGGLES***********************************
+
+More juggles to come when PS2 TTT arrives. 
+NOTE: Some of these may be tech rolled... will confirm in PS2 TTT.
+
+Launchers:
+ f,f+2  -1, b+1,1, f+3+4
+        -1, b+1,1, 3
+        -1, b+1,1, 1+2
+        -b+1,1, b+1,1,1,1, 3
+        -b+1,1, b+1,1,1,1, 1+2
+        -b+1,1, b+1,1,1,1, f+3+4
+        -b+1,1, b+1,1, f+3+4 (my favourite)
+        -b+1,1, b+1,1, 1+2 
+        -b+1,1, b+1,1, b+1, 3
+        -b+1,1, b+1, f,f+4
+
+ df+2   -1, b+1,1, 3
+        -1, b+1,1, f+3+4 
+        -b+1, 1, b+1,1, f+3+4 or 1+2  (elphfves)
+        -b+1, 1, b+1,1, b+1 f,f+4 (elphfves)
+        -b+1,1, 1+2
+        -b+1,1, b+1,1 3
+        -b+1,1, b+1,1,1,1, 3
+        -b+1,1, b+1,1,1,1, 1+2
+        -df+2, b+1,1,1, 3
+        -b+1, 1, b+1+2 (Castel)
+        -b+1, 1,b+1, 1, db+2 (Castel)
+ 
+ BK+3ch?-uf+3+4?
+              
+ BK+uf+4-b+1,1, b+1,1, f+3+4
+        -b+1,1, b+1,1, 3
+        -b+1,1, b+1,1, 1+2 
+ 
+D,df+3 -ws4, f,F+4
+
+****************************STRATEGY INFLUENCE***************************
+
+I have been highly influenced by:
+-------------------------------------------------------------------------
+The Wellington Crowd: 
+-Cypress, Callum, Alex, Derrick, Sports Pimp, Craig, Jack, Bean Pole boy  
+and the rest.
+You always benefit from your opposition.
+-------------------------------------------------------------------------
+Tekken3: Ultimate Guide- Jason Arney, Jason Cole, Gerald Guess, Graham 
+         Wolfe.
+         We used to call this the bible in our flat.  One of the most 
+         handy learning instruments that I have read, re-read and read
+         again just for the hell of it.  Solid Juggle and Strategy 
+         guide.... just a little thin on Hwoarang :P
+-------------------------------------------------------------------------
+The FAQ writers:
+You've written on Tekken3 or Tag? I'm sure I've got it somewhere on 
+the pc and have read it atleast once (yes I need help), keep up the good 
+work.  Hopefully someone will write a TTT faq that rivals Ben Cureton's
+(tragic) Yoshimitsu Manual (an inspiration in my Yoshi play and definitly
+a factor in me picking up Kunimitsu).
+-------------------------------------------------------------------------
+Irc #tekken and #soulcalibur..oops
+Some interesting people... some interesting conversations.  Wink, wink, 
+say no more.  Sorry for interupting #soulcalibur with my Tekken
+conversations.
+-------------------------------------------------------------------------
+Internet:- www.tekken.net          TEKKEN ZAIBATSU
+           The best internet resource on TTT so far.  Recently overhauled
+           to look even more spiffy.  Move guides, system info, faqs,
+           mpegs.  The list goes on.  Special thanks to Castel 
+           for allowing me to include Kunimitsu's frame rate info.  
+           Castel is one crazy ewgf-ing dude.  
+         - www.Tekkentagtournament.com
+           Very handy for damage listings.  I'm sure things will improve
+           when the system guides arrives.  Check out the Official 
+           Tekken Tag Tournament USA national/world results.  Wouldn't 
+           bother with trying to follow the forum though.
+         - www.gamefaqs.com
+           Want faqs? they got em all...
+         - www.fighters.net
+           They do a great job of keeping us fighting game freaks 
+           informed of all the haps.
+         - www.geocities.com/TimesSquare/Bridge/2700/
+           Inside Tekken.  A blessing to see a site based in my home 
+           country New Zealand (Aotearoa).  I mainly use this site 
+           because of the forum, which I find to be helpful and 
+           humourous.
+-------------------------------------------------------------------------
+Feedback- Renick (renickironfist@hotmail.com)
+          comments on the b+2 unblockable and my small throwing section.
+        - elphfves (elphfves@earthlink.net)
+          comments on the b+1+2 (maybe its not that crap?), some juggle
+          variations, b+1 'tick' into throws, also mentions the use of a 
+          blocked f,f+3,4. 
+        - Romel De Guzman 
+          thought I should give a few more stars to the Fairy Wax,
+          he was quite right.  Also thought I had gave to many stars to
+          the fubuki.
+        - Mark Montelban
+          general move ideas.
+
+******************************COMMENTS***********************************
+If you've got to this point then thanks for spending the time.         
+I'd love some more juggles and any other ideas you may have.
+
+comments to birch@anet.co.nz

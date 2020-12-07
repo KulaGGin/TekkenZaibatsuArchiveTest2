@@ -1,0 +1,1612 @@
+The Great Outback
+
+Roger Vs Alex Ver 5.0
+
+Written By: Grim Walker
+Email: Forbidden_Crypt@www.com
+==============================================================================
+<<Contents>>
+
+1) Legal Matters
+2) Something to Remember
+3) Introduction
+4) Conventions
+5) Kangaroo Styles Of Play
+6) Move List
+7) In-Depth Move Analysis
+8) Strategies
+9) Okizeme & Ground Games
+10) Styles of Play
+        - Crouch Dashing
+        - Wave Dashing
+        - Wave Dash Crouch Cancelling
+        - Crouch Cancelling
+        - Custom Strings
+
+11) Vs Character
+12) Conclusion
+13) Tekken resources
+14) Credits
+
+==============================================================================
+1) LEGAL MATTERS
+================
+
+TTT is registered and copyright Namco. All char's etc
+are also copyright Namco. This faq is to show how to
+use and when to do moves of Roger from the hit TTT
+and is not to be changed or altered without my consent
+and permission. This means, in simple terms for you
+dumasses out there who are going to go around it anyway.
+That if I find you ripping my faq, I will be ripping you
+apart. This faq is PROTECTED. So there.
+
+Now ON WITH THE FAQ
+
+==============================================================================
+2) SOMETHING TO REMEMBER
+==========================
+
+Its been 3 years now, I have played roger for a long time. I intend to
+rebuild this faq from the experience I have gained over this time. Amongst
+other things, I want to make this the last and complete version. Rewrite
+quite a bit of it. And modify it. The spell-check took forever and a day,
+oh the horror. I can't believe I didn't have access to a spell check all
+those years ago.
+
+29\04\2003  -   This is it, after all the years of experience the faq
+Ver. 5.0        is going to be almost completely modified. Should be
+                and interesting few weeks of work. I intend to pour all
+                my knowledge into this version of the faq, and hope that
+                it will be complete. The overhaul will remove a lot of
+                the humour that made it an "enjoyable" read and add a lot
+                of fact and strategies that will make it a much more
+                technical and useful read. But the level of play has
+                become a lot higher since I wrote this faq, and even
+                scrubs can wavedash these days. So sit back and I will
+                list the changes below as they are done.
+
+                - Spell Check
+                - General Focus Of Faq Rewritten
+                - All move write-ups redone
+                - Vs. Char's section adjusted
+                - Plans for another update added.
+
+19\09\2000  -   Well first overhaul, not much changed actually,
+Ver. 2.0        more of a focus on some tactics, like wave dashing
+                with roger (yes this can be done) and crouch cancelling
+                etc.. There are some really good new features, I have
+                added a bigger custom string section, as it has been
+                asked for so many times, I thought I would add it.
+                Oh, and now I think of it, killed the Ideal Tag Partner
+                section, have decided that that is personal opinion, its
+                up to you who you team 'em up with, I am here to show you
+                how to use roger. =) And added the styles of play section
+                to add to some fun. And also added some VS players char
+                strats.. These are still open for anyone that still
+                has any, I am happy to hear it. Ya all know my email.
+
+19\11\2000  -   Damn this is an overhaul.. God thank you abrar for showing
+                me all the mistakes that actually were in the faq.. bah..
+                and a serious apology for Euro Tekken, they have been a
+                great help and a great board.. helping with many things and
+                I left them out of the credits on the last update, so here I
+                am doing the formal apology..
+
+                Euro Tekken, my greatest apologies upon the mistake of
+                leaving you and your great board off my faq.. So my dearest
+                apologies and may you have a long and prosperous tekken
+                journey.
+
+                Anyway, now that that's done with.. On with the huge move
+                update, redoing a lot of the ratings and stuff.
+
+13\4\2001   -   Just left me wondering if I actually did release the last
+                update of this faq at all, I don't think I did, but I figure
+                with the update of my Bruce Faq I should fix some spelling
+                and what not, and add the f,f,n+2 into Tomb Stone.
+
+==============================================================================
+3) INTRODUCTION
+===============
+
+Roger or by all the same rights, Alex, are two technical characters that
+have no real power of there own to become abusive and over used. This faq
+won't make you an expert in one day. But then again there isn't a faq in
+existence that will do that. This faq will give you the guidelines that
+are necessary to win with Roger \ Alex in a standard tournament environment.
+It is up to you to take it to the next level with practice and skill.
+
+Becoming a master Roger \ Alex is very fulfilling, and wiping the smiles of
+the sceptical faces of the crowd is just all the better.
+
+"There is nothing to fear if you have nothing to loose." - Grim Walker
+
+
+==============================================================================
+4) CONVENTIONS
+===============
+
+These are the conventions used throughout this FAQ and
+these are recognized as the general commands used in
+discussions regarding TTT between online Tekken players.
+(based on formats by Tragic and Abrar)
+
+-commands-
+
+f -  tap forward        F -  hold forward
+b -  tap back           B -  hold back
+u -  tap up             U -  hold up
+d -  tap down           D -  hold down
+
+d/f - tap down+forward  D/F - hold down+forward
+d/b - tap down+back     D/B - hold down+back
+u/f - tap up+forward    U/F - hold up+forward
+u/b - tap up+back       U/B - hold up+back
+
+QCF - quarter circle forward (d,d/f,f)
+QCB - quarter circle back    (d,d/b,b)
+HCF - half circle forward    (b,d/b,d,d/f,f)
+HCB - half circle back       (f,d/f,d,d/b,b)
+
+
+Button Layout--> (1)  (2)  (5)
+
+                 (3)  (4)
+
+
+1 = left punch
+2 = right punch
+3 = left kick
+4 = right kick
+5 = tag button
+
+
+Con: * -Hold the movement shown before the asterisk till
+the end of the string.
+
+Con: 315deg - f,d/f,d,d/b,b,u/b,u,u/f
+
+Con: ~ -commands after this sign is done immediately before/
+after each other.
+
+Con: n -Neutral position.  There should be no joystick motion
+for about 1/2 second.
+
+Con: + -When commands on either side have to pressed together.
+
+
+-Abbreviations-
+
+GS - Guard Stun
+Tag- Can tag if last hit connects
+TTT- Tekken tag tournament
+FC - Full crouch
+SS - Sidestep
+SSL- Sidestep left
+SSR- Sidestep right
+WS - While standing (rising from crouch)
+var- variable
+BT - Roger has his back to opponent
+CH - Counter hit
+
+
+-Hit ranges-
+
+L - Low hit
+m - Mid hit
+h - High hit
+SM- Special mid hit
+! - Unblockable
+G - Ground hit
+
+
+==============================================================================
+5) KANGAROO STYLES OF PLAY
+==========================
+
+< Removed For Future Reference >
+
+The information included in this section was "Bulldogging" "Turtling"
+"Chicken Baiting" etc. This is general information, and is not needed.
+This section will, if there are any future updates, contain strategies
+I acquire along the way from other players.
+
+==============================================================================
+6) MOVELIST
+===========
+
+Here is the complete official move list for Roger/Alex with
+commands, damage and hit levels in TTT, adapted from TTT online.
+If something is incorrect or if we have missed out something,
+please e-mail me about it.
+
+-Throws-
+
+Throw name              Command        Throw-Type    Damage     Escape/Note
+---------------         -----          ----------    -------    -----------
+Head Butt                 1+3          front         30         1
+Jumping Powerbomb         2+4          front         30         2
+Animal Face Crusher       1+3_2+4      left          40         1
+Animal Rolling Arm Lock   1+3_2+4      right         40         2
+Reverse Throw             1+3_2+4      bt            var        var
+Reverse Neck Throw        1+3_2+4      back          50         Inescapable
+Giant Swing               f,b,HCF+1    front         70         1, #1
+Pile Driver               QCF+1        front         25         1, (3+4)
+Tomb Stone Piledriver     d/b,F+1+2    front         58         2
+DDT                       d/b,D/B+1+2  front         45         1+2
+
+#1 = Any button upon landing to tech roll...1/2 dmg (35) on tech roll.
+
+==============================================================================
+-Moves-
+
+Move name               Command                 Level          Damage
+---------------         ------------            ------         -------
+One Two Upper   #1      1,2,1                   h,h,m          6,10,10
+A.Rush to W.Punch #2    f,f,1,2,1,2,1           h,h,h,h,m
+10,15,10,15,20
+Animal Gigaton Punch    f,f,N+1                 m              23
+Elbow Sting             d/f+1                   ?              ?
+Wind Mill Punch #2      f,N+1                   h              30
+Animal Godfist          f,N,d,f+1               m              50
+Animal Head Butt        d/f,1+2                 m              20
+Animal Gut Punch        d/f+2                   m              ?
+Low Jab Uppercut        d+1,2                   sm,m           5,15
+Wind Up Punch  #3       b+1                     ?              100
+Jab Uppercut            2,1                     h,m            12,12
+K's Flicker    #4       f,f,2                   m              20
+Stomach Smash           f,f,N+2                 l              6
+Crouching Uppercut  #4  D,D/F,2                 m              20
+Head 1st Lunge          f,f+1+2                 h or l         15
+Capital Punishment      u/f+1+2_F+1+2_f+1+2     m              35
+Animal Smash            F/C+1+2_f,N,d,d/f+1+2   m              22
+Tail Tripper            d/b+3                   l              17
+Konvict Kick            f,f+4                   m              26
+Rolling Animal{RA}#5,#6 d/b+4,2                 m,?            17, n/a
+Animal Kick Rush{AKR}   d/b+4,3,4,3,4           m,m,m,m,m      17*
+Animal Sweep            SS+4                    l              17
+Exploder                3+4_f,f,1+3             m              25
+Running Exploder        f,f,F+3+4               m              40
+Franken Steiner         d/f+3+4                 ?              15     #7
+Jumping Knee Drop       u/f+3+4                 m              40
+Stagger (Ali) Kick      d+3+4_D,D/F+4           l              13
+Stagger (Ali) Kicks     d+3+4,4x2_D,D/F+4x3     l,l,l          17,7,7
+Stagger (Ali) Kicks     d+3+4,4x4_D,D/F+4,5     l,l,l,l,l      17,7,5,4,3
+Animal Jumping Sweep    u+3+4                   l              17
+Animal Drop Kick {ADK}  b+3+4                   m              30
+{ADK} to {AKR}          b+3+4,4x4               m,m,m,m,m      30,17*
+{ADK} to {RA}           b+3+4,2,4x4             m,m,m,m,m      17*
+Elbow Drop              U/F+2+4                 m              35
+Supercharger            1+2+3+4                 n/a            n/a
+
+#1 = f+1 on 1st hit changes damage to 7.
+#2 = If Windmill Punch is blocked, Animal Upper is guaranteed during
+     block-stun.
+#3 = Unblockable.
+#4 = Tag on hit.
+#5 = Press 2 during 1st or 3rd hit to shift to Rolling Animal.
+#6 = Press b after 3rd hit to roll backwards.
+#7 = Shifts to throw on deep hit or guard, throw damage 45.
+     Tag on throw only.
+#* = The rest of the hits are the same damage.
+
+==============================================================================
+7) IN-DEPTH MOVE ANALYSIS
+=========================
+
+The rating system has been removed for reasons of different moves are used
+at different times. The use of a move depends on the situation and the
+follow ups available. I will mention any abbusable moves in the listing if
+you can abuse them.
+
+==============================================================================
+KANGA-THROWS
+==============
+Throw name             Command     Throw-Type      Damage
+Escape/Note
+----------            ---------    ------------    --------
+
+ANIMAL STONEHEAD       1+3              front           30             1
+Grabs opponents' head and headbutts them viciously...
+
+Common throw, there are better ones than this, but for
+reasons of completeness I will add it here.
+
+Good followups, standard throw. Use whenever you need a
+quick and effective move to break opponents guard.
+
+==============================================================================
+JUMPING POWERBOMB         2+4           front           30              2
+Grabs opponent and plants a powerbomb with pretty blue stuff
+all over the place...
+
+This throw looks cool. Learn to pull off the command throws faster
+and substitute them for this. Otherwise use this in the mixup. Its
+a good guard breaker.
+
+==============================================================================
+DDT                     d/b,D/B+1+2     front           45              1+2
+Roger\Alex grabs opponents' head, before falling to the ground
+and making them eat dirt...
+
+This move can't be done WC.
+
+The double button escape makes it good to pull out
+when ever you feel the need. Don't get too predictable
+with it. Don't give them a chance to catch on.
+
+Mix it up with the normal and other throws.
+It's D/B motion is a handy buffer from backdash or any
+other useful b or d/b move. You can initiate this by doing
+the d/b to get the backdash instead, and if they attack simply
+press two punches to catch and throw.
+
+==============================================================================
+GIANT SWING             f,b,HCF+1       front           70              1
+Takes opponent by the legs and turns around a few times before
+releasing, throwing them a huge distance...
+
+This move, again, is one of his best. It is good for stopping
+momentum. If they quick recover, it does half damage, and leaves a
+distance between you and your opponent, and you with the
+initiative. The reach of this move is VERY good, so if
+your opponent thinks he's out of throwing distance, use it.
+
+For those more advanced users, you will all know that Rogers
+crouch cancel and crouch dash are very fast, if you want to
+crouch cancel into a Giant Swing the command is something like
+
+f,n,d,d/f~f,b,hcf+1
+
+==============================================================================
+ANIMAL DRIVER           QCF+1           front           25          1, (3+4)
+Grabs opponent by the arms, turns them upside down, and dumps
+them head first onto the ground...
+
+Not worth mention. Move on.
+
+==============================================================================
+TOMBSTONE PILEDRIVER    d/b,F+1+2       front           58              2
+Roger\Alex turns opponent upside down and drops to his knees,
+planting opponents head into the ground...
+
+Learn this motion FAST and FLUENT. Big damage, no recovery,
+front throw, looks cool. It gives you initiative, and leaves your
+opponent really close.
+
+Follow up with a SS+4 if they like to quick recover with a rising
+kick, and you will plant them to the ground again.
+If they just lie there, a simple sweep or d/f+1+2 headbutt will do a
+fine job of hitting them for some good damage. The headbutt leaves
+your opponent a little further away.
+
+==============================================================================
+ANIMAL FACE CRUSHER     1+3_2+4         left            40              1
+Roger/Alex grab the opponent in a headlock, run along
+and drop to the ground planting their face into the
+ground.
+
+When you have to do a side throw, do it. Not much to
+say really. Go for it.
+
+==============================================================================
+ANIMAL ROLLING ARM LOCK	1+3_2+4		right		40		2
+Roger/Alex take the opponents arm, jump up, swing around
+their head, and ends up with an arm drag, kinda like the
+tag throw 2+5 with a cool twirly bit.
+
+==============================================================================
+REVERSE THROW          1+3_2+4          bt              var            var
+Varies. Roger/Alex turn around real fast and throw.
+
+Stock Standard. Next.
+
+==============================================================================
+REVERSE NECK THROW      1+3_2+4       back        50       Inescapable
+Slides in behind the opponent and grabs they're head, then hip
+tosses them onto their stomach.
+
+It's a Back Throw.
+
+**** 10/10 When you're behind, do the damage.
+
+==============================================================================
+KANGA-MOVES
+=============
+Move name                Command             Level           Damage
+--------------           ------------        ------          ---------
+ONE TWO UPPER            1,2,1               h,h,m           6,10,10
+Roger/Alex does a right punch, then a left, then an uppercut.
+
+A good string that can't easily be interrupted. It does good
+damage and ends with a mid attack, making it a general safe
+string to use when you are not quite sure what to do next.
+
+The move itself you will use often enough as it has a lot of
+forward drive. Moving Roger into the opponent to get closer
+to initiate your poke string game. But then again it is also
+a good move to push your opponent back if you are finding
+yourself in a lot of trouble.
+
+As with all linear strings, try not to do this at a distance.
+As it is easily SS for big damage on Rogers side.
+
+==============================================================================
+CROUCHING UPPER         D,D/F+2           m           20
+Roger\Alex simply does a smallish uppercut.
+
+This is a given move, its not used often, and its range isn't
+exactly desirable. Use it often enough at a good distance as
+an interrupt or to intercept a whiffed move, but do not abuse
+it by any means unless you are looking to loose the match.
+
+As with a lot of Roger stuff you don't want to whiff much,
+the problem with whiffing is that the EWGF or the DEWGF are
+always at hand to lift you off the ground. And combine that
+with low stamina and you have suffering.
+
+Use this against a whiffed EWGF if you don't have time to do
+the SS+4 or something of the sort.
+
+==============================================================================
+ELBOW STING                     d/f+1         m             ?
+Roger/Alex does a rather hard and good distanced elbow downwards
+on top of the opponent...
+
+This move is fast, even thou its an elbow, it can be reversed.
+It has a slight guard stun, good recovery, and knocks opponents FD/FA
+so it gives good initiative, and follow ups on a counter.
+
+Its speed adds to its usefulness in custom strings, and does great
+damage. I still do not know the damage for it, anyone know email
+me. Great priority, but don't try and beat out moves you don't have
+to, like the WGF and TGF. And by "Priority" I mean awesome interrupt.
+
+==============================================================================
+ANIMAL GIGATON PUNCH         f,f,N+1       m            23
+Roger\Alex leans back (ducking) and then drives a hard punch
+into the opponents ribs...
+
+This is a really nasty moves in the hands of a skilled player.
+It takes effort and time to learn which moves it is good against
+and which not. It is also good for wakeup and will hit grounded
+opponents like Kumas and Jacks. It ducks high attacks and has
+no real noticeable start up frames whatsoever, it only looks that way.
+Its not like Pauls deathfist. This move has just enough start time
+for any annoying poker to have finished a whiffed poke, to eat this.
+What I mean, is when you see a poke, and it whiffs, do this. When
+your opponent brings his arm back, this should go in and hit him.
+Its not quite an ANTI POKE device, but it serves useful. Also,
+when you want to punish an opponent, or an opponent tags, this
+move is the way to gain initiative. Its ducking ability is enough
+to annoy jacks who enjoy the f+1+2.
+
+Its safe on block and has the best range out of a good portion of
+Rogers moves. Its not completely abusable but it defiantly has its
+uses that is for certain.
+
+
+If the move hits, and is NOT kickup recovered,
+(When the opponent flips up onto there feet by holding F)
+Then the u/f+2+4 elbow drop is guaranteed for some big
+extra damage, as that is the ONLY escape from it.
+
+==============================================================================
+ANIMAL GODFIST              f,N,d,f+1        m              50
+Roger\Alex crouch dashes and then lets off with a rather
+large and nasty uppercut....
+
+This is the move most people DREAD. Roger/Alex are small
+characters in there own right. It one of his strong points,
+and should be used as one.
+
+The AGF hits mid. And crouches beneath a good amount of moves.
+Training the opponent to block low is really easy with Roger,
+most people fear the ss+4 more than the AGF simply because it
+is abused more than the AGF. Training the opponent simply
+requires you to use the SS+4 to its fullest advantage, and then
+SS to an AGF. The opponent will most likely duck on reaction.
+
+This move is the move you want to use against taggers, as it
+does huge damage on counter hit, crouches very low to avoid
+a good amount of attacks. It is the juggle ender of choice for
+almost all his juggles, and defiantly his staples.
+
+It comes out quick and does extreme damage in netsu, this is a
+great move to come out of a tag with, as in tag Roger in and as
+he comes in cancel the run and AGF. You can avoid even EWGF with
+this if you time it correctly.
+
+Its downfall is that if it is blocked, your opponent can do a
+simple 1 to *float* you for a quick damage juggle.
+
+==============================================================================
+ANIMAL SMASH (a)             f,N,d,d/f+1+2           m             22
+Roger\Alex crouch dashes, before charging slightly, then doing
+a vicious headbutt...
+
+Bad move. Next.
+
+==============================================================================
+ANIMAL SMASH (b)           FC+1+2            m              22
+Roger\Alex charges slightly, doing a vicious headbutt...
+
+This is a great move, and highly under used. It hits mid for
+decent damage, knocks the opponent backwards on a block with
+semi decent stun. I don't know of any retaliations if this is
+blocked that are guaranteed. But this is yet to be completely
+tested. It has OK tracking, so on a SS opponent wait till the
+SS is almost over before hitting them with this.
+
+It hits MID but Roger goes very low to do so. It is an excellent
+move for breaking out of those high strings, from Bob and Jin and
+the like. And goes under a good amount of mid moves too.
+
+Trick is not to whiff it completely, cause that leaves Roger open
+for long enough to put you at a great disadvantage. Its not
+completely abusable, but I use this a lot to great effect.
+
+==============================================================================
+Tail Tripper                    d/b+3               l             17
+Roger\Alex turns around, using his tail to trip the opponent up..
+
+Its a really close move with low damage and its very hard to hit.
+Use it if you want to stop momentum but he does have better options.
+I use it as a taunt.
+
+==============================================================================
+Konvict Kick                    f,f+4               m             26
+Roger\Alex lunches forward with a huge kick..
+
+This is a "by choice" move. It is safe on block depending on
+were you are, and it hits mid. Its medium speed. But its not
+something people generally block on reaction. Which means it
+is really useful to throw out once in a while. Its safer than
+the AGF and I don't by any means say abuse the move. I do say
+use it when you need a good mid hitting stationary move. Were
+you won't move any great distance.
+
+==============================================================================
+LOW JAB ~ UPPERCUT              d+1, n+2          sm,m           5,15
+Roger\Alex do a simple jab before hitting with a nice uppercut...
+
+This is your poke of choice. When your in close to the opponent,
+do this. A lot. It goes sm, m which means your opponent will be
+forced out of his ducking position, weather it is to block or
+if he is hit by the mid hit of the move. This means Roger has
+initiative in both ways as he has forced the WS move out of
+the opponent and now they are were he needs them. Up close,
+personal and standing ready for the next poking assault.
+
+A lot of his game revolves around getting in close and using
+this not only for damage, but as escape. This move can interrupt
+a lot of things, including EWGF if timed right. But I wouldn't
+rely on it solely for that purpose. Use it, then backdash to get
+out of the opponent if you find yourself in trouble.
+
+==============================================================================
+WIND MILL PUNCH                 f,N+1            h                30
+Roger\Alex "rolls" one hand over another before leaning forward,
+and hitting the opponent with his fist.
+
+Used sparingly even the best players will fall for this sooner
+or later. Its timing is a little slow, so you most likely want
+to go into a few setups to get this happening. Things like
+abusing the d/f+1 and the d+1,n+2 to push the opponent into
+a general standing position are good ways to setup the f,n+1.
+
+Abusing this move isn't an option. But when it hits you can
+land a CLEAN AGF on the blocking opponent, for some great damage.
+Also any throw is guaranteed. As well as the Hopkick and I *believe*
+the Frankensteiner.
+
+==============================================================================
+ANIMAL RUSH TO WINDMILL PUNCH   f,f,1,2,1,2,1    h,h,h,h,m    10,15,10,15,20
+Roger\Alex rushes forward with a series of jabs, before doing
+a "Wind Up" and nice hard punch to the mid...
+
+On counterhit this is a great move. The f,f,1,2,1,2 is
+what you want to hit on counter, leaving out the last
+windmill punch. This gives you a free AGF instead of
+the windmill.
+
+I tend to use the whole thing, if the opponent blocks.
+You should really cut the string off before the last 1
+but I tend to like the mid hit and the stun of the last
+punch regardless in general. Its not a hugely abusable
+move but the first 1,2 is a great poke to use, and the
+string can be cut off any time. So you can use the 1,2
+as a CH bait.
+
+==============================================================================
+HEAD 1ST LUNGE       f,f+1+2       h(close),l(far)         15
+Roger\Alex dives headfirst into the opponent and ends up rolling
+onto his feet.
+
+This is a hard move to use, though it has great guard stun,
+it really depends on the situation. The damage isn't really
+worth the effort, and on the rarity that I use this for the
+stun I tend to mix it up between Tombstone, DDT and AGF.
+
+This is more of a high risk setup than anything else, and
+I wouldn't advise using the move. At least not often. It does
+however it grounded, and can be used as distanced OKI.
+
+==============================================================================
+CAPITAL PUNISHMENT      u/f+1+2_F+1+2_f+1+2          m            35
+Jumps into the air and lands, hands together, on the
+opponents' head.
+
+Its damage is somewhat more of a power move for roger. There is
+no real retaliation vs this attack, if you get caught in mid air
+thou, be ready for a small juggle. Else, if you are against an
+Eddy or Ling, use this when they do handstand or phoenix positions,
+were they can not block, and this move will evade most of there
+attacks. The other option for this move, is stopping tech rollers
+while they are rolling. Again, like the SS+4 you can do it over
+and over. It also kills quick recovers, and should be used on a
+ground opponent at least once a match. Its most likely going to hit
+any moving character, and if the opponent is smart, then he will lie
+there and take the Ali Kicks that should follow soon after. This
+is not an OKIZEME tactic, as it will not hit grounded opponents,
+but it sure as hell comes close.
+
+This hits large characters on the ground.
+
+==============================================================================
+ANIMAL HEADBUTT         d/f+1+2         m          20
+Roger/Alex does a downward headbutt with the side of their head...
+
+This move is really rather short when it comes to hitting
+standing opponents. But to hit a ground opponent this can
+be your best friend. On a standing opponent, it will leave them
+with a good guard stun. No follow ups. It knocks crouching
+opponents to the floor.
+
+Good for Oki or as free damage after a few of the throws. Is used
+in one of his main SS+4 juggles but other than that it is a good
+close range fast, mid hitting move that leaves opponent with recovery
+and recovers fast enough for you to be safe from retaliation. Its
+not a use and abuse move, but it does the trick in most cases.
+
+==============================================================================
+JAB ~ UPPERCUT          2,1             h,m         12,12
+Roger\Alex simply does a jab, then an uppercut...
+
+On generalisation, I use the d+1, N+2 a lot more than this,
+because the 2 is a lot slower than the d+1.
+
+This combo leaves a good stun when it hits, it comes out
+slow, not interruptible. King can put a giant swing almost
+guaranteed after this, as can Roger.
+
+==============================================================================
+ANIMAL GUT PUNCH        d/f+2          m               ?
+Roger\Alex puts his elbow hard into the opponents' ribs...
+
+This is a great, quick, fast recovery fast hitting mid move
+that does a small amount of damage. And has short range. It
+is a use and abuse move, when ever you are close to the opponent
+or in range for a fast and abusive poke use this. Or the d+1,n+2.
+
+I think this is one of his more safer options actually.
+
+==============================================================================
+JUMPING KNEE DROP          u/f+3+4           m                  40
+Roger/Alex Jumps up and lands on opponent with both knees...
+
+Only ever used on RARE setups. And occasional Oki. Next.
+
+==============================================================================
+Elbow Drop              U/F+2+4                 m              35
+Roger/Alex jumps into the air, and does a BIG elbow drop...
+
+Rare Oki setups, and distance PLD Lei's that enjoy staying on
+the ground. Can be used on Ling or Eddy too. Not advised.
+
+Also don't forget it is the guaranteed followup to the
+f,f,n+1 if the opponent doesn't kick up. The knee drop is not.
+
+
+==============================================================================
+EXPLODER            3+4          m                25
+Roger\Alex waits a while, before leaping into the air for
+a double leg dropkick...
+
+This leaves OK guard stun. Bad start up times. Next.
+
+==============================================================================
+RUNNING DROPKICK          f,f+3+4             m                  25
+Roger\Alex leaps into the air for a double leg drop kick...(no lag)
+
+Much faster than its brotherly counterpart. Its damage is
+understandable and its speed is good too. The main use of
+this move however IS its range. Taggers, long range blond
+bombers, who ever likes to stand out of range and do big
+moves. Its also good for people who are running in towards
+you. The main thing about this move, is the guard stun it
+leaves behind. You should not be oki'd if you use this properly.
+And I think it is one of the most underused moves in the game.
+
+==============================================================================
+SATELLITE DROPKICK            (RN)f,f,f+3+4         m              40
+Roger\Alex runs along, before leading into the air and doing a
+SPINNING dropkick...Very cool looking.
+
+Its better than the dropkick counterpart, damage and style
+wise, but its also harder to pull off. If you need the
+dropkick, try for this. You will only get the drop kick
+if you miss..  Otherwise it has the same tendances as the
+last two dropkicks, except for a noticeably larger guard stun.
+
+This is my move of choice.
+
+==============================================================================
+STOMACH SMASH          f,f,N+2         l               6
+Roger/Alex crouches forward and smashes the opponent in the stomach...
+
+On a counter, this causes double over stun. Useful to the point of
+if your quick, you can catch the double overed opponent, or
+if they tag of the stun, you can catch the tagging opponent
+off guard. This is also fast, good range, and good recovery
+time. And can be mixed up with the K's Flicker. The main use
+of this move, is to do a long range counter. It wont juggle
+like K's Flicker, but it hits low, which is why it surprises
+so many people. It is one of the few high moves that hits low.
+The damage is nothing, you get more out of a poke, but used in
+custom strings, this is one of the best moves you can come out
+with. To start a match, this can also be a good idea. It leaves
+a good stun, and chances are, you and your opponent both went for
+a move. So the chances of a Counter are rather high. Use this also
+on fallen players as OKIZEME.
+
+Don't overuse the move, unless you are training an opponent to block
+low. If so, then use this in conjunction with the SS+4 and the d/b+3.
+
+The AGF is the easiest follow up on ch. As well as any standard throw.
+Giantswing, Piledrive, Stonehead. Etc.
+
+==============================================================================
+FRANKENSTEINER       d/f+3+4           ?                 15
+Roger\Alex flips over head first. On a good connect he catches
+opponents head with legs and flips back over planting opponents
+head into ground...
+
+This has a long range and is not blockable. Use this in those
+awkward situations when you don't know what to do next, and both
+you and your opponent are standing waiting for each other to move.
+
+Sometimes you will get jabbed out of this, most of the time you
+will land it. The frames on this ( I am told ) are in the 20's
+but I just somehow find that hard to believe. I think perhaps the
+frames for the ENTIRE animation may be that high.
+
+Its a great move to use in the middle of a poke string, and it is
+defiantly worth going for if you need a safe tag. It can tag to
+things like Bob's Unblockable.
+
+==============================================================================
+Animal Sweep            SS+4                    l              17
+Roger\Alex sidesteps into a large sweep, and stays very close to
+the ground.
+
+It will duck all high hitting, and even mid hitting move.
+Don't whiff it, cause if it is blocked, it will leave you in a
+sweep stun position. For this reason it should be mixed up with
+the Hop Kick u/f+4. This is one of my most used moves.
+It can be the best move if you use it carefully.
+
+Don't get predictable, use it ONLY when you SS a move and see an
+opening, I cant stress this enough, it is best used as a COUNTER
+attack, something like a free reversal. You should never attack
+with this move. It has frames enough for a good opponent
+to see coming. If you SS or anticipate a move then you will get
+a lot further with this move than any other.
+
+==============================================================================
+8) COMBOS AND JUGGLES
+==========================
+
+Unfortunately, Roger/Alex really lack in this department, its kind
+a shame really, that's all they need to be REALLY mean..
+
+Sweep: SS+4, U+3+4
+
+d+1, WC 1+2                       <-- Thanks Synner. (Yup. LoL.)
+d/f+1+2, f+1+2                    <-- Big Chars and Taggers only.
+d+1, WC, F+2
+d+1, d+3+4
+d/f+3+4                           <-- Not a true juggle.
+d/b+3, d/f+1+2
+d+1, CC, 1, f,n,d,d/f+1
+d+1, CC, 1, f,f+4
+
+Small Juggle: u/f+4, WS+2 etc
+
+u/f+4, d+1, WC+1+2
+2, 4, d+3+4
+1, 1, f,n,d,d/f+1 (My staple juggle)
+4, f,f+4
+d+1, N+2, d+3+4
+d/f+1+2, d+3+4
+f,f+1,2,1,2 ,f,n,d,d/f+1  (Big characters only)
+
+Those are the main ones I can think of..
+
+High Launchers: Devil SS+2, P. Jack SS+1 etc
+
+f,n,d,d/f+1, d+3+4
+f,N+1, 1, f,n,d,d/f+1
+f,f,N+1
+u/f+4, 1, f,n,d,d/f+1
+
+==============================================================================
+9) Okizeme and Ground Games
+===========================
+
+This is grounding your opponent, and hitting them or keeping
+them on the ground for extra damage. To do this here are a list
+of moves in no particular order.
+
+Ground Hitting:
+
+d/f+1+2
+d+3+4, (4), (4)
+d/f+3+4
+U_U/F+3+4
+U_U/F+2+4
+d/b+3
+SS+4
+U+3+4
+d+3_d+4
+
+Tech Rolling\Quick Recovering:
+
+All of the Above
+F+1+2
+FC+1+2
+f,f+4
+
+When doing okizeme, do whatever move you feel necessary to
+keep your opponent grounded. Some characters, like NINA, can
+do huge amounts of damage on a grounded opponent before they
+can get up. However, Rogers strong point is poking. So Okizime
+is not the easiest thing to do. Here is a simple rundown.
+
+If an opponent techrolls:
+At a distance, it is a good idea to do the f+1+2, because of its
+jumping ability, it will move a large distance forward, and hit
+the roller. Otherwise, a shorter distance, the f,f+4 jail kick
+will help, because of its slightly longer than normal mid hitting
+range. If the opponent is close, and you are in a ducking position,
+The FC+1+2 is the best option, as it will leave the opponent a nice
+distance of the U_U/F+3+4 knee drop, or the running ali kicks.
+
+A grounded opponent:
+The main Okizeme tactic here is the SS+4 that will leave the opponent
+flat on the ground in front of you, after a rising attack. Otherwise,
+if the opponent is distanced, the knee drop is a much better idea.
+It does 40 damage, which is more than most moves do to knock the
+opponent down. Otherwise, a quick ali kick will get you into a safe
+distance from your opponent, while doing a small amount of damage.
+
+==============================================================================
+10)Styles of Play
+=================
+
+- Crouch Dashing
+
+This should be the biggest part of your Roger game, it will utilise
+every opportunity for a fast and deadly attack, you must learn the
+f,n,d,d/f motion fluently. Thou Roger does not have as many attacks
+as the mishimas from the CD, this means you have to learn the cancel
+and utilise more of his standard moves, which in my opinion can be
+absolutely devastating. This talent is used for getting close very
+fast, and range for Roger is a big issue. Being small he can get
+under a lot of moves, and using this before or even after a sidestep
+can give you the advantage you need for some big damage.
+
+- Wave Dashing
+
+Or, seeing that its not QUITE a wave dash, I shall call it an ANIMAL
+DASH. Now this looks somewhat different from the wave dash, but has
+the same priorities. It goes under High attacks, closes large distances
+at a small time, and can chain into ANY move what so ever. Including
+things like the Giant Swing.
+
+The motion is done like so..
+
+f,n,d,d/f,f,f,n,d,d/f and so on.
+
+You get the idea.
+
+- Animal Dash Crouch Cancelling
+
+This is somewhat an abbreviation of the ANIMAL DASH (god I love saying
+that.. ) The reason I put it AFTER the ANIMAL DASH is because
+if you can ANIMAL DASH then you can CROUCH CANCEL. The motion is simple
+as you are doing it already. You have to break into the chain, and
+pull of a move. Like so.
+
+f,n,d,d/f,f,f,N+1
+
+This is a Crouch Cancel into a f,f,n+1.
+
+Many things can be crouch cancelled into with practice and time.
+I for one am still learning and am not afraid to admit that. Many
+of you mishima users will find it much harder to ANIMAL DASH and
+CROUCH CANCEL with Roger as he is much faster at it than a Mishima
+IMHO. Then again, you must also learn some throw commands on a whim,
+so you can pull out huge moves. At the moment I have gotten the
+Crouch Cancel into a GIANT SWING down, the motion is one of the easier
+ones, as it contains the BACK press on the joystick.
+
+The most underestimated move from Rogers CROUCH CANCEL is the SS.
+It is devastating at the right time, and two sidesteps can leave
+you behind an opponent that has just retaliated.
+
+This is done as follows.
+
+f,n,d,d/f,f,SS,f,SS etc..
+
+This is a double sidestep, and can be of great use. It takes a little bit
+of practice, and the f and second SS is completely un-necessary. This
+is just an example.
+
+- Crouch Canceling
+
+The true CC is done simply by pressing ~u from the d position. It is used
+in some of the bigger combo's for characters with larger reach, and even
+a few of the combo's that are done in the combo section listed above.
+
+- Custom Strings
+
+This section is written by FIRESEAL. All credit due.
+
+- Poking Strings for Roger
+
+Well I will start off and say that Roger is a powerhouse when it comes
+to poking. He has so many insane strings and juggles off of simple poke
+starters. I will break down the strings I put in and say where you can
+branch off into other combos/juggles/tactics. Here is how to set these
+up.
+
+d+1,n+2,f,f+1,2,d/f+1
+
+Ok this is a basic fast poke string.  The d+1,n+2 is one of the fastest
+pokes in the game and is all mid so no ducking.  The f,f+1,2 is a setup
+for a sweet CH combo.  If you CH the f,f+1,2 you want to finish the
+string f,f+1,2,1,2 then juggle with a quick f,f,u/f+4(insert u/f
+juggle).  This can lead to some nice 50% or greater juggles.  The added
+d/f+1 at the end of the string serves a dual purpose.  The first
+purpose is that if you CH with it they are facedown not he ground and
+you get guaranteed okizeme (Ali Kicks etc.) or any Okizeme game you
+want to play.  The second purpose is if its blocked you are both pushed
+a safe distance away and they cant retaliate with anything guaranteed.
+
+f,f+1,2,f,2,1,hcf+1
+
+Ok this is a great poking string that gives you some sweet damage.  As
+I explained above if the f,f+1,2 cH's punish them.  If it doesn't they
+will usually eat the giant swing tick(f,2,1,hcf+1).  Giant swing tick
+is a sweet sweet move that you must mix in to your poking strings at
+least a couple times a fight.
+
+d/f+1,f,f+1,2,d/f+1,f,f,n+1
+
+Ok now this string seems a bit awkward at first glance, but here is the
+beauty of it.  A counter hit at any point means they hurt bad, and it
+TRICKS them into getting countered.  They will think after the second
+d/f+1 when you f,f, that they can d+1 counter you out of the 1,2 but
+you instead hit them(hopefully CH) with the gut punch and get some nice
+damage or at least a poke in.
+
+f,f+2,d+1,n+2,d/f+1+2
+
+This is just a plain and simple poke-a-thon.  They cant get in and
+interrupt you unless they time in a fast jab perfectly.  The f,f+2
+leads to more juggles on CH.
+
+d+1,n+2,ss+4
+d+1,n+2,ss(delay)4
+d+1,n+2,ss,u/f+4
+
+Ok now this is a nasty series of strings.  The d+1,n+2 pushes them a
+bit away if it hits or if it doesn't then you go for the ss trip.  If
+you land the trip there are plenty of nice juggles to do.  If the trip
+is blocked... pray :)  The point of this exercise is to train them to
+anticipate the trip.  Then the u/f+4 juggles come.  Remember that you
+can delay the trip to hell and back to mix them up even more.
+
+WD+2_f+4_hcf+1_1
+
+Well I will end this section with the basic moves I use to make up any
+good poking string with Roger.
+
+d/f+1
+f,f+1,2
+d+1,n+2
+f,f,n+2
+f,f+2
+d/f+1+2
+f,f+4
+d+1,d+4
+
+Thank you FIRESEAL.
+
+==============================================================================
+11) Vs CHARACTER
+================
+
+This is were we tell you how to beat characters..
+
+Alex/Roger:
+----------
+
+As with all mirror matches it comes down to a quick throw
+combination fight. Whoever has initiative and the better
+use of the character in general should win this. Otherwise
+just read this faq a few times and try to utalise a few
+more things. This doesn't happen often, but when it does
+you will find most people think they can win solely with
+the SS+4 and the AGF.
+
+
+Angel/Devil:
+___________
+
+There is a big debate currently in Tekken Zaibatsu as to
+weather this guy is better than Kaz. Its quite a read.
+
+In my opinion, devil is one of the more basic of the
+mishima's, both in use and in style. This isn't really
+a downfall, it makes him just as devastating, if not more
+so, than any of the other mishima's. The way to beat him
+really is to break down his moves and watch for them.
+
+Twin Pistons: Mishima's have a serious tracking problem to
+there right side. This is no different. The twin pistons can
+be ss for free damage, and even if the d/f+1 hits the 2 should
+in a lot of cases whiff completely. This is a nice thought but
+in reality you should keep your head up and use a lot of pokes
+and leave the strings to short movements. Don't give him an
+opening to use this move.
+
+Other than that there isn't really much more to it than get in
+and look for openings. As I said he is a very basic character,
+meaning all his moves will be to the point. Short. And damaging.
+Designed to kill opponents means you most likely want to stay
+away from general throws, as the Twin Pistons will beat you out
+in most cases. And watch out for his SS+2 which has bad recovery
+and is the perfect opportunity for free damage.
+
+Anna:
+----
+
+Stay low and away. Do headbutts whenever necessary to prevent
+the reversal, and buffer easy reversed pokes. Try to pull out the AGF
+whenever she goes to crouch, and mix it up with the CD+1+2.
+Otherwise turn it into a gruelling poking match. The d+1, N+2
+is a good choice of moves when it comes down to it. The more
+SS+4 mixed up with a u/f+4 you do, the safer you are. The best
+option is to throw her whenever you can. Otherwise, watch out
+for her assassins dagger QCF+1, its fast, REAL fast. And as for
+a poking war, your biggest advantage is that you have fast moving
+pokes. Remember you can initiate your Crouchdash game with her.
+It may be a good chance at survival, and against a master Anna
+player, you may need to side step a lot more, and stay back,
+luring Anna to come to you. If you can do this, then you
+will have no problems pushing her back. Chances are, your
+command throws should do enough damage to put her out of the game,
+problem is, landing them.
+
+Watch out for 3 main string moves.
+
+d+1, N+4
+d+4, 1
+d+3, 2
+
+These are the moves that she makes strings out of. So be weariful
+of these.
+
+
+Armour King:
+__________
+
+
+Whenever he Crouchdashes, he is either going to do the Black Knee
+or the WGF ( black upper ), knee is mid, wgf is special mid.
+So a simple d+1 will stop anything that may come out.
+The clothesline from hell f,n,d,d/f+1, is a very
+fast move, but it hits high. Try to duck the clothesline if
+you can, cause if you get hit by it, you will go flying backwards.
+Also watch out for his Black Shoulder. That can be very damaging.
+After the black shoulder, forget the throw, it is very appealing
+to see A. Kings side to you, but a quick poke, and anything that
+may have done damage is then thrown out the window. Just do a
+simple d+1. It is your best chance, as there is a large guessing
+game after that on what is coming next. You can then do the N+2,
+the FC, 1+2 or even the FC, F+2 for a juggle.
+
+Else, he can poke just like the rest. Watch out for his D+1, and his
+D+1, N+2 cause they can be annoying. Don't throw Head to Head cause you
+will get poked first. And Vice Versa. If he try's to throw.
+Keep in mind the Hop Kicks and the Low Dropkicks. They come out
+of no-were. The hopkick is fast, it has good range, and damaging
+juggles to follow. As for the low dropkick, again, if you stay
+low, this should not be a problem. Don't try to low parry it,
+chances are you will land flat on your face with sore ankles.
+Otherwise, its a poke match.
+
+
+Baek:
+____
+
+This guy is strings, LOTS and LOTS of strings. Watch out for his
+WS strings, they come out fast, and don't stop. You don't want to
+get juggled, because he can do some nice damage like that.
+Just try to poke and block as much as you can. And anticipate
+the next move. Sooner or later, he is going into a high move,
+and that is your opening.
+
+An advanced BAEK can wavedash, this is perhaps his highest
+priority to get close, to land his dangerous strings. If
+you get hit by the last hit of his ws, 3, 3, 4 his u/f+3+4
+is a guaranteed hit, so be wary of that string. Baek has
+a few low hitting moves, but during some point he must go
+to a high hitting move, this is were the AGF comes in, for
+big damage and string interrupts. Watch out for his d/b+3 also
+as he can knock you on the ground and do some dangerous
+okizeme with it.
+
+REMEMBER: If the next move has the option of being Low, or a
+mid hitting juggle starter, better to block mid. Unless you
+know that the next move is low. Because, you would probably
+be better off taking a low hit, than getting juggled for a
+lot of mean damage.
+
+Eddy:
+----
+I don't really know what to say about an advanced player.
+When Eddy goes into a handstand position, he is very venerable.
+But this does not mean rush in and smash him up as fast as you can,
+no, this means, you must time yourself very carefully and try
+to catch Eddy in between his strings.
+
+The best moves against and Eddy players are as listed.
+
+d+3+4,(4),(4)
+SS+4
+F+1+2
+d/f+1+2
+U/F+4
+d+1, N+2
+d+1
+d+4         <-- Its a low kick.
+d/b+3
+
+And so on. Anything that hits fast and low, or mid, will
+probably be ok. The thing is, you wont really have a problem
+too much with smashing Eddys into the ground, the lag between
+the moves should be enough to get in and waste them.
+
+Otherwise, just poke if you get in close.
+Oh, and CD is your best friend here, any high moves from Eddy
+are fodder for the AGF!
+
+
+Ganryu:
+------
+
+This guy AINT no joke nor jack. This guy can pull off some of the
+most damaging juggles. Stay up, and watch for an opening, he is NOT
+slow, so you have to be clever. Poke when you can, and watch out for
+his punch parry. If you are caught by it, you cant chicken it, you
+will take throw damage, and you are left with you back turned, and
+he can pull of anything from a side kick, to a Head Rush F+1+2.
+The way to escape the actual throw part of the reverse is to simply
+hit 1 when you get parried, you can't escape the damage but this will
+face you towards Ganny and stagger you backwards. Avoiding the BT
+guessing game he can initiate.
+
+Chances are, sooner or later, he is going to sit down in front of you.
+There are two options here for Ganny. He has a Megaton
+Palm, that hits mid for nasty damage, and also a arm sweep, that
+he can turn into small juggles. If he does the splits, then he can
+roll sideways, but this isn't too much of a threat. If he sits down
+in front of you, you should do a d/f+1+2 straight away. You should not
+let him get back up. If he does, its a guessing game, and that is
+not what you want. Also, he will try to get you with his Sumo Push
+d+1+2, if this hits, you will stagger backwards, and if it is blocked,
+he is left with initiative. Although I don't recommend trying to stop
+this move with a poke, you can try it if you feel necessary to stop
+it. Also, keep in mind, that he has a fast sweep. It
+is hard to sidestep, and has no sweep stun when blocked either. So
+all in all, ganny here is a good character to use. The way to beat
+him, is utilise the d+1 as often as you can. Sidestepping is an
+excellent idea, if you manage to sidestep the f+1+2 summon rush
+thingee then it will leave you on his side, if not behind him.
+Also, his d+1 will be utilised as a defence, followed by a guessing
+game of FC 1+2 and so on. When he crouches or goes down, get out
+of the way, out of range, just move. Get into CD distance, and
+wait for priority to ANIMAL DASH and murder Ganny.
+
+If you get hit by the last bit of his WS+1+2, 1+2 the d/f+2+3
+for him is GUARANTEED so be ready.
+
+
+Heihachi:
+________
+
+A good heihachi player will have you on your toes all the time.
+Don't go head to head with his crouch dashes. Chances are you'll
+loose. Get the throws off, and roll whenever you are grounded
+and think the stomps coming. Techrolling is a good idea sometimes
+just to get away from a stomp happy opponent. But if your opponent
+mixes up with hellsweeps.. Then you have a problem. Stay down,
+and take the first hellsweep. Its better than taking the whole
+two hellsweeps into an TGF. (I say 2, because most people know,
+that the 3rd hellsweep will chances are, not connect.)
+
+Watch out for his kicks, things like the standing CH 4 can be
+lethal and damaging to say the least. Don't counter him on an
+unblockable with your CH 4 because, it will do an automatic counter.
+He still takes damage, which is funny to watch as an ending move I
+might add.
+
+His WGF hits special mid now, so don't be afraid to block it from
+any height. If you a crouched, it will send you back a bit, and
+you should be able to recover before he does anything too painful
+to you. Just keep in mind a few things about his Crouch Dashes.
+
+1. After a hell sweep, if there is a pause, the TGF is coming.
+2. The second hellsweep is always blockable accept on counter.
+3. The TGF has no Mid\Low kick after it.
+4. The WGF is SPECIAL MID. NOT mid.
+
+Heihachi has no d+1 poke, it is a tile splitter, BUT a good
+Heihachi player will know that he has a d/b+1 poke. That is
+just as good as the d+1 poke of other characters. He is BEST
+played out crouch dash distance. Don't let him get into this
+position. Chances are he will shadow step out of hellsweeps,
+and stand back. His CD game is very good, so you want to poke
+ALL his CD's. Make sure you don't let him get to CD distance.
+Stay in his face and poke like mad. Don't let him do anything.
+The Twin Pistons d/f+1,2 is a good juggle starter, be careful
+of this. You should SS+4 whenever you feel a mid\high move
+coming out. He wont stop in the middle of a Crouch Dash.
+Or if he is wave stepping, again, a SS+4 should stop him.
+
+Summary:
+Remember, Heihachi is uncannily deadly from all angles, My advice,
+is to SS+4 whenever you can, Keep in his face and poke him head
+to head. His CD game is very good, don't let him use it.
+
+Hwaorang:
+________
+
+Throw. Whenever you can, stop the momentum of his strings. Don't
+go toe toe with strings, you will lose. And loose a lot of your
+life to boot. His kicks are very fast, fast and deadly. Once
+you are in the air, he will kick like crazy to keep you up there.
+
+If you are against a string player, watch his strings carefully
+for one round, or before you challenge, and learn the ones he uses,
+then, its a simple matter of poking or throwing Hwoarang, and poking
+in the small time he leaves open between string connections.
+The secret is, a lot of moves hit mid\high. Very few of his
+kicks will actually hit low. CD is an option, but only if you know
+that the move coming hits high, else you are taking the risk of
+getting kicked. The SS+4 is your best friend. Stay back out of
+his way, and look for openings, and SS+4 or f,f,N+1 your way into
+him.
+
+
+Jack 2:
+______
+
+Raw Power. Watch out for his uppercuts, and SS moves, they can do
+the damage. And he is faster than people estimate, so take care.
+He has mostly the same moves as Mr M G Jack, with lack of a few
+and gain of some others. Watch out for his Ram, it seems to go
+down well with scrubs and masters alike, and also his SS arsenal.
+The SS arsenal is high and mid, that doesn't mean stay low, cause
+you will eat a double knuckle in the head and that would hurt.
+No no, just SS and poke. Get in his face, and wait for a botch
+up or Whiff. Then nail him. On Paper, should be easy. IRL, not
+so much.
+
+
+Jun:
+___
+
+I have scrub tactics, willing to insert a write up from anyone
+that is playing a master JUN.
+
+King:
+____
+
+Scrubs? Learn the breaks and beat them up. EASY.
+
+Masters?? Get in close and poke. This is going to be a war,
+and watch out for the multi's, default to {1} for your break
+after you miss the first {2} break. Chances are, if there not
+good, they will do the Giant Swing. Else watch their hands,
+and if they do the Muscle Buster, default to {2} again.
+All kings multis have {1} as a break in them.. Just learn that and
+you should be fine against throwers.
+
+Now, a master will utilise his pokes, and his strategically
+moves. He has a fast hopkick, that leads into small damage
+juggles, that can put a world of pain on if you get thrown
+on the ground. The most preferred ground throw is the Head Bomber.
+The break for it is {2} so if you are ground thrown, do this.
+
+Poking kings are more annoying, they tend to use a lot of standing
+pokes, more so, you should really be standing against king, if he
+crouchdashes, poke with a d+1. Watch out, king has the d+1, N+2
+as well, and its a little slower? Anyway, it is still devastating.
+His new poke, is the d/f+1,2 that does an elbow sting, into a gutpuch.
+This is stoped by poking yourself.
+
+Ok, now, king likes to throw. Most of his damage come from throws.
+The most used command throw is the Muscle Buster. A break of 1+2.
+Then again, the other one is the giant swing. Which has a break of {1}
+So an idea is to push 1, hold, and press 2 for a break. This should
+break any throw that has a break of 1 or 1+2. Watch for the mid throw
+moves that can leave you in a position that you can be ground thrown.
+
+This is one time I must say, Poke like crazy, and GO head to head
+with his crouch dashes. If he crouchdashes, do the same. He might
+do the double knuckle out of the crouchdash, but your AGF will beat
+him out of it anyway. And slap him with a counter to boot for good
+damage. Don't go head to head with king throwing, being a King master
+entitles you to know the breaks for king too, which are the same as
+Rogers\Alexs so just stay safe, poke, SS+4 and Hopkick, and annoy
+king into submission.
+
+
+Kuma\Panda:
+__________
+
+Don't get hit by the fart. Easy as that. Nah, Kuma is a force to be
+reckoned with. The new Bear Stance is very nasty, and can keep away
+a bulldogging opponent really well, just be careful, he has a few
+options from here, namely a bear fling, that hits mid, and also
+a bear swipe, that is like a fast poke. If this hits, the harder
+right hand swipe is unstoppable, and quite damaging, however, this
+will take him out of the stance. Also, when he is in this stance,
+he can not block at all. This is handy, cause you can CD into an
+AGF which will hit for good damage.
+
+Poke anything else he does, watch out for his demon paw uppercut.
+I think everyone would agree that this IS his best juggle starter.
+It can launch you up, for a quick tag or good damaging juggles.
+So watch out. The circus roll is tagable, so if you get caught
+by this, you can expect to be hit by the partner soon after.
+
+His fastest poke is the f+1, which combos into a G-Clef Cannon.
+The Cannon does good damage, juggles and is taggable, so watch
+out. Else, his d+1 has an uncanny range, and is fast, so it will
+stop pretty much anything you try and do if your not careful.
+
+His f+1+2 hits high now, and is pretty much faster than T3 so
+watch out. Do a lot of SS and WS moves. And really poke him to
+submission. Break the Circus Roll whenever you can, and if
+you don't, be ready for damage. Else, just be careful..
+
+
+
+Kunimitsu:
+_________
+
+Watchout for the d/f+2 cause that's gonna hurt. Else you should
+be pretty ok. Just keep an eye out for her tricky tactics.
+She has the d+1+2 were she disappears into the floor for a bit,
+and raises back up. The other disappearing act she does, she comes
+out of the roof with unblockables. This is not actually that
+dangerous, a standing 4 kick will stop her from hitting you
+most of the time, the hit, though unlockable, follows a very
+narrow path straight down. So anything to be hit by it, must be
+directly under it. The other real damaging things are her
+Poison Wind d+3+4, which is easy to avoid, and her SS+3+4.
+Which is like Rogers SS+4 but not as cool. I have never faced
+a good Kuni before, so do not know much. I think its a lot like
+yoshi?
+
+Law:
+____
+
+I have scrub tactics, willing to insert a write up from anyone
+that is playing a master LAW.
+
+Lei:
+____
+
+Kookie is the right word for this guy. A lot of people do the razor
+rush into a stance (f,n+1,2,1,2,4) Just remember if Lei does the
+last kick, he goes into a Crane stance were he CAN NOT block. There
+are also (To my knowledge, I only just started playing lei) high
+or low hits from the crane stance. Get low, and ready yourself for
+a headbutt. That will stop most lei's in their tracks. If you are
+against a HAHAHA lei, then you have a problem. Try to pull off as
+much damage as you can. And make Lei come to you. If you have someone
+who can Tag Slide, do this when you can.. Else, if they can slide and
+the whole HAHAHA Lei thing is happening, wait till he does the HAHAHA
+and slide him. Chances are he will do a MID punch to stop you and
+will go off his feet. Otherwise, just look out for the RAVE SPIN,
+(d/b+4,4) If he does this and you block, stay low and do an Animal
+Headbutt. If Lei lies down FU/FA Do the Ali Kicks. Don't get near him
+cause he could Rave Spin or Kangaroo Kick, just beat him up. That's
+what Ali-Kicks are for. If he is lying FD/FA watch out for the slide.
+All his moves are pretty much low, so go in carefully, stay low, and
+get ready to block the slide attempt. The other thing, while I remember,
+is don't attack a backturned one. It is bad for your health.
+The other thing I have learned, is people tend to prefer certain moves
+from certain stances, if you watch carefully, you may be able to
+anticipate anything that may be coming.
+
+Ling:
+____
+
+What to say, ling will stay low, REAL low, get in on her. She's fast,
+so watch out for her WS+2 that can lead to a juggle. Her juggles
+are FINATICAL so don't let her get you up. A lot of her moves are low.
+Do a lot of Knuckle Bombs (F+1+2) and Ali-Kicks to keep her at her
+distance, and a lot of Animal Headbutts (WC+1+2) To discourage her
+from getting close. All in all this is a nasty battle. And should
+not be taken lightly. If its a scrub thou, pulling out those dumb
+Phoenix Stance, roll around throws, just duck and Animal Headbutt
+till they die. Oh, and remember the most USEFUL move against ling.
+USE the D+1 WHENEVER you need it. Its going to be a NASTY poking
+game. The thing with ling, is a master will be all over the place,
+don't try to throw a backturned ling, you are gonna get hurt somink
+KRONIK. Ling can poke fast, and is made for poking, so you have to
+be ready to unleash all your fast and low power moves at a distance
+to prevent being juggled. A f,f,N+1 is the best thing against a back
+turned ling. Else, good luck. Its gonna be a war.
+
+Machine Gun Jack:
+________________
+
+I have scrub tactics, willing to insert a write up from anyone
+that is playing a master MGJ.
+
+
+Mokujin/Tetsujin:
+_________________
+
+See all Chars. Just learn the stances so you know who he is!!
+
+
+Ogre:
+____
+
+Don't do the Rolling Animal Kicks, you will eat Bloody Scissors soo
+fast. Keep out of his kicks, and watch out for his F+2 and his
+f,f+2. The hand snap thingee can be sidestepped after the first block,
+but that doesn't leave you with much initiative, if none at all.
+D+1 helps a lot, also the AGF. Forget the Infinite Kicks, no one in there
+right mind will do them. Or a smart person will do the first few hits,
+which I might add does nasty damage.. And then stop. If they like
+to continue them thou, a simple SS+4 will stop them very quickly.
+
+A good idea is to watch out for his legs. They are very long, and
+can be very damaging if your not careful. But any ogre will try
+to initiate his crouch game, the range of moves from this position
+is too good to give up. Also, when you are down, watch out for his
+double fist cannon ball thing that he does. It hits grounded opponents
+for more damage than I would appreciate taking, and that, other than
+his SS+4 which is a type of sweep, is about the only ground hitting
+moves he has, but don't think that is not enough, because it is.
+
+If you get in close, throw him and get back out again. Its as easy as
+that. A master will do a lot more of his kicks thou, and you will
+have to go toe to toe in hopes that your jabs are faster..
+
+Paul:
+_____
+
+I have scrub tactics, willing to insert a write up from anyone
+that is playing a master PAUL.
+
+
+P.Jack:
+______
+
+I have scrub tactics, willing to insert a write up from anyone
+that is playing a master P.Jack.
+
+True Ogre:
+_________
+
+This is a hard one, really hard. I'll have to do this one in the next
+update cause this really does need special attention.
+
+Yoshimitsu:
+__________
+
+Watch out for the d/f+2. Fastest uppercut in the game. And the juggles
+with damage are VERY good. Just don't get caught. SS a lot, and hopkick.
+This is really all you can do. A good Yoshi will have you lost in strings.
+A bad one will do nothing but his Crap 10-String, which I might add can
+be poked at 6 different points in time. Just don't let his dancing around
+intimidate you. Get into him, and throw him around a bit. He has one
+command throw, so learn to break it. And watch out for unblockables.
+The unblockables have good tracking, so don't try to SS and get in close,
+chances are your gonna get stabbed. At that wouldn't help at all..
+Also, watch out for the Roo kick, that can lead to BIG juggles. If you
+get caught by it thou, you must have been sleeping. Cause its SLOW..
+
+Keep in mind that he has the sword slash for Okizeme, that can be
+rolled sideways out of.
+
+
+
+==============================================================================
+12) CONCLUSION
+==========================
+
+Roger\Alex are fun players, and should be played as such. Don't get mad
+if you loose, just learn and get better. There is no point in winning
+when you don't learn more of how to win. Just get in there and have fun.
+He can be VERY competitive when it comes to tourneys, so don't count him
+out of those, and just get ready for people to laugh when they see who
+you choose. Cause personally, I don't when I know a good Roger\Alex is
+standing next to me. I know I am about to be in a new world of pain.
+
+
+==============================================================================
+13) TEKKEN RESOURCES
+==========================
+-INSIDE TEKKEN-
+http://www.geocities.com/TimesSquare/Bridge/2700
+
+The best NZ - Australia based website on the net, check it out.
+
+-TTT ONLINE-
+http://www.tekkentagtournament.com
+
+This guy is still around perhaps.. heres hoping. ;)
+
+-TEKKEN SALUTE-
+http://salute.consolenation.com
+
+The best forum around for straight info, no baloney.
+
+-TEKKEN ZAIBATSU-
+http://www.tekken.net
+
+Awesome place for knowledge, Castel is the man.
+
+-GAMEFAQS-
+http://www.gamefaqs.com
+
+General place for loads of faqs, what more can I say. ;)
+
+- EURO TEKKEN -
+http://www.eurotekken.tsx.org
+
+What can I say, my DEEPEST apologies for forgetting you in
+the last update, was not intentional. Everyone be sure to
+check out this site, the host of the OFFICIAL EURO TOURNEY.
+There is no better pace to go. :)
+
+=====================================================
+14) CREDITS
+==========================
+
+Castel          - For creating Tekken Zaibatsu.
+TZ Users        - For giving me a laugh and strats.
+Fireseal        - For the Custom Strings section.
+
+< A lot more to come in the next review >
+
+==========================
+	THE END
+==========================
+
+
+
+

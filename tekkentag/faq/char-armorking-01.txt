@@ -1,0 +1,877 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ ARMOR KING FAQ version 1.5                        +
++ By The Blacksmith - oahfab@tin.it - ICQ# 60357620 +
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SECTIONS:
+
++ Disclaimer 
++ Version history
+  - In the next release
++ The purpose
++ A brief Armor King profile
++ Basics
+  - Conventions
+  - Get up from ground, sidestep and parry
+- Tagging
++ Moves
+  - Throws and multiparts
+  - Arts
+  - Tenstrings
++ Use of the moves
+  - Throws and multiparts
+  - Arts
+  - Tenstrings 
++ Character strategies
++ Juggles
++ Credits
+
+DISCLAIMER:
+
+This Faq  is property of The Blacksmith Workshop: therefore it can't be reproduced
+without the permission of the author. TTT and all characters are copyrighted by Namco.
+
+If you can't view correctly this FAQ, please use Wordpad, then open the "View" menu
+(alt+V) -> Options (O) -> "Text" and choose "wrap  to ruler".
+
+VERSION HISTORY:
+
+0.1 - First version ever. Inserted  all the moves and names according to
+www.tekkentagtournament.com and to Catlord's move list at www.tekkenzaibatsu.com;
+0.2 - Added the "Use of the moves" and "Juggles" sections and corrected grammar errors;
+0.3 - Corrected grammar errors and completed sections;
+0.4 - Completed the "Use of the moves" section;
+0.5 - Added the Tombstone Piledriver trick and corrected "Multiparts" section;
+0.6 - Completed "Basics" section;
+0.7 - Found errors and corrected them. Added two more arts and added the damage amount
+of Double Shin Kick and Mini Spinning Headboot. Added another juggle, taken from Tekken
+Zaibatsu's arcade movie for Armor King;
+0.8 - Corrected "Tagging" and completed "Arts";
+0.9 - Inserted Lee's note about Jumping Knee, corrected and completed "Credits" section;
+1.0 - Inserted "The purpose" section to clarify my aim. Added juggles and Tag-In juggles
+either taken from Tekken Zaibatsu's  Armor King arcade and PSX2 juggle movies;
+1.1 - Made corrections, added comments in the "Arts" section and a juggle;
+1.2 - Made corrections, added a juggle and the new Tombstone Piledriver trick, suggested
+by IluvMoMo;
+1.3 - Made some corrections and added some strategy for the DDT;
+1.4 - Added "Character strategies" section, tried a little format restyle, made many 
+corrections, added three moves to the movelist and some juggles taken from Tekken Zone's
+Armor King video;
+1.5 - Added "In the next release", arts' commands in "Use of the moves" section as
+suggested by Arola§er some combos taken from Kingfan's Armor King #3 video and from
+Catlord's combo compendium.
+
++ In the next release +
+
+- Add some more Character strategies (complete Lei and Bryan's first of all);
+- Add more juggles;
+- Correct errors, so please e-mail me if you find them.
+
+THE PURPOSE:
+
+The purpose of this Faq is to provide an help using Armor King in Vs battles: therefore
+I will not include methods of combat against CPU opponents as, and you'll have certainly
+noticed, CPU is not a hard opponent (even if Unknown can cause problems sometimes) and
+you don't need particular tactics to beat it as it uses the same fighting style over and
+over.
+Use the CPU to train yourself, try and discover juggles, learn tricks and understand arts'
+properties. Ok, let's start!!!
+
+A BRIEF ARMOR KING PROFILE:
+
+Armor King is back in TTT and he's quite changed. Now he's a more complete character with
+some multipart throws and an interesting juggle possibility. He's a well balanced fighter
+that has a lot of advantages (in fact you can use the Crouch Dash to confuse your opponent,
+have a good okizeme possibility, count on a mid/high move power, damaging juggles, quick
+punch strings to set up throws), and weaknesses that IMO are not so serious (Armor King
+lacks about power shots as he cannot count on monsters like Paul's Phoenix Smasher, he
+hasn't the great variety of multiparts that King the 2nd has).
+I use him a lot because I like his fighting style, having the possibility to pressure the
+opponent without too much trouble to suffer retaliation, count on a quite varied gameplay
+and, maybe it's strange to say, I like his armor (even if the one he wore in Tekken 2 was
+better), the mask and the red glowing eye on it.
+
+BASICS:
+
++ Conventions + 
+
+1 = left punch;
+2 = right punch;
+3 = left kick;
+4 = right kick;
+5 = tag in / out;
+1+2+3+4 = Ki powerup. You inflict 1.5 times more damage during the powerup, guard damage
+if the opponent blocks and your first hit will be a Counter Hit, but you can't use block;
+f = tap forward;
+F = hold forward;
+b = tap backward;
+B = hold backward;
+N = leave the joystick neutral;
+~ = press immediately after previous command or button;
+_ = you can choose how to perform the move using the command shown right before the symbol
+or the command that's after it;
+! = unblockable
+WS = while standing;
+WR = while running;
+BK = when backturned;
+cc = crouch cancel;
+SS = Sidestep;
+df = down+forward;
+DF = hold down+forward;
+db = down+back;
+DB = hold down+back;
+u/d = sidestep right / left of your opponent;
+U = hop;
+Uf = hop forward;
+Ub = hop backward;
+f, f = dash forward;
+b, b = dash backward;
+f, f, f = run;
+HCF = half circle forward;
+QCF = quarter circle forward;
+Crouch Dash = f,N,d,df;
+Okizeme = attack a grounded opponent with techniques like Corporate Elbow, Stagger Kicks,
+Double Shin Kick to score one more hit and prevent him from getting up;
+H  = high attack. Block it with standing guard;
+M  = mid attack. Block it with standing guard;
+L  = low attack. Block it with crouch guard;
+SM = special mid attack. You can block it either with standing or crouching guard.
+
++ Get up from ground, sidestep, parry +
+
+If you have played enough time to TTT you'll have certainly noticed that the game offers a
+lot of basic techniques that an average player must know and understand.
+It's important for example to know how and when get up from ground, how to use the sidestep,
+how and when, but IMO it's not fundamental, to parry.
+Speaking about "while-on-the-ground techniques":
+- you can perform a rising mid kick hitting 4, or a rising low kick using 3;
+- you can make a tech roll by hitting a button as soon as you hit the ground; if you tap a
+button after a tech roll you'll perform the corresponding while-standing-attack;
+- you can perform a Backflip (hits mid) if you tap f as soon as you hit the ground;
+- you can roll forward or backward using the joystick or roll sideways using 1 (back) or D+1
+(front); after a roll you can use a rising mid kick or a rising low kick;
+- with b,B+3+4 you can do a Spiral Lunge that leaves you back turned. Quite useful if you
+want to surprise the opponent that's running towards you to try an okizeme. Remember that the
+back turned position leaves you quite vulnerable;
+- with f,F+1+2 you can perform a Head dive. Use it when you are at a medium distance from
+the opponent. If you hit the opponent, he will be knocked down and you'll have the chance
+for okizeme;
+- with d+4 you can perform a quick Ankle Kick, good to interrupt an okizeme attempt.
+About sidestep, you have to learn to use it at the right moment and remember that you can't
+avoid every move easily as some of them like Mishimas' Thunder God Fists and some unblockables
+will "follow" you even during the sidestep, so you'll have to choose your time perfectly.
+Moreover the sidestep may prove useful to perform moves that don't have a "quick" command
+(like the DDT or the Tombstone Piledriver). Learn to use the sidestep at the right moment
+since Armor King can count on a quite wide ark while doing it and that's a very good thing,
+that allows to avoid many annoying attacks (for example Lei's Razor Rush) and get behind or
+at the side of the opponent and have the possibility to punish him.
+The parry it's not, in my opinion, a fundamental technique: all the characters can perform
+a low parry simply tapping df at the moment the low hit is going to strike. Some other character,
+like Law or Bryan, can use also an high/mid hit parry but, as Armor King has not this possibility
+I will not speak about it. Therefore if you want to use the low parry, try to use it to
+interrupt opponents that are trying tenstrings or others strings that you know have low hits
+at a certain point. You'll notice that sometimes is better to block the low hit and follow
+with a quick counter attack.
+
++ Tagging +
+
+Tagging in is another thing that's important to learn. For example, if you tag in at the
+wrong moment and the opponent is near, you'll take a guaranteed hit like a Phoenix Smasher,
+a Mach Breaker, an unblockable, or one of your opponent's juggle starters and you don't want
+this to happen. You have many different ways to tag in: with f,f,f,N,1+2 you can perform a
+Head Dive; with f,f,N,4,4,4 you can perform 3 Stagger Kicks: very useful as they hit low and
+quite quickly.
+
+MOVES:
+
++ Throws +
+
+Name                                Command            Damage       Escape
+
+°Knee Bash                              1+3                30            1
+
+°Suplex                                 2+4                30            2
+
+°Reverse Death          close to opponent's                40            1
+ Valley Bomb           left side 1+3 or 2+4
+                 or any other command throw
+
+°Heavy Fall             close to opponent's                40            2
+ Reverse DDT          right side 1+3 or 2+4
+                 or any other command throw
+
+°Reverse DDT            close to opponent's                55           No
+                       back side 1+3 or 2+4
+                 or any other command throw  
+
+°Giant Swing                        f,HCF+1               70*            1
+
+°Pile Driver                          QCF+1                25   1_3+4*****
+
+°Tombstone Piledriver                db,F+2                58            2
+
+°DDT                              db,DB+1+2                45          1+2
+
+°Jumping Pile Driver          2+4,d,d,D+1+2                35           No
+
+°Armor King Driver **              d,DB+2+4                32            2
+
+°Ultimate Tackle ***               D,DB+1+2                 -         ****
+
+°Mount Position *****         DB+1+3_DB+2+4                 -
+                       on grounded opponent
+
+°Frankensteiner                      df+3+4          Variable           No
+
+* Damage inflicted is halved if the opponent does a tech roll;
+** If your  partner is King you can link this throw into a Tag Flying Lariat hitting 5 during
+the Armor King Driver;
+*** Follow the Mount Position with Mounted Punches: 1,2,1,2,1,2;
+**** Reverse with d+1+2, escape with d+3+4;
+***** Use  this variant of the normal Mount Position only on grounded opponents;
+****** Use 3+4 escape after the initial throw.
+
++ Multiparts +
+
+Name                               Command            Damage        Escape
+
+A) Choke Sleeper              f,N,d,df+1+2                32           1+2
+
+B) Falling Sleeper             3+4,3+4,1+2                15             2
+   Chain Throw        
+
+C) Triple Mount Punches            1,1,1+2                20             1
+
+D) Stretch Muffler             3,4,1+2,3+4                23             2
+
+E) Half Nelson Press           2+4,1+2,1+2                25             1
+
+
+Possible sequences            Total Damage 
+
+1) A, E.                                57
+2) A, B, C.                             67
+3) A, B, D.                             70
+
++ Arts +
+
+Name                            Command             Damage        Hits
+
+°Hammer Strike *                   df+1                 15           M
+
+°Gut Punch                         df+2                 12           M
+ 
+°Left Right Upper                 1,2,1            6,10,10         H,H
+
+°Shadow Lariat               f,N,d,df+1                 32           H
+
+°Left Straight                    d+1~2               5,15         M,M
+ Light Upper
+
+°Water Parting Chop                 b+1                 30           H
+
+°Lifting Elbow **                  WS+1                 10           M
+
+°Palm Upper                  f,N,d,df+2                 21          SM
+
+°Crouching Uppercut ***          D,DF+2                20            M
+
+°Uppercut                          SS+2                22            M
+
+°Jab Uppercut                       2,1             12,12          H,M
+
+°K's Flicker ***                  f,f+2                20            M
+
+°Stomach Smash ****             f,f,N+2                 6            L
+
+°Capital Punishment        f+1+2_uf+1+2                35            M
+
+°Head First Lunge               f,f+1+2                15          H_L
+
+°Burning Knuckle     f+1+2~D_uf,N,D+1+2                45            !
+
+°Corporate Elbow *****            d+1+2                21            M
+
+°Toll Kick                          b+3                20            H
+
+°Blind Kick                        BK+3                25            M
+
+°Konvict Kick                     f,f+4                26            M
+
+°Jumping Knee                f,N,d,df+4                25            M
+
+°Staggers Kicks ******       d+3+4,4,4_            17,7,7        L,L,L
+                             D,DF+4,4,4
+
+°Straight Arrow ****              b+1+4                30            H
+
+°Black Shoulder                   f+1+4                36            M
+
+°Frankensteiner                  df+3+4                15           SM
+
+°Double Shin Kick                  db+4                16            L
+
+°Mini Spinning Headboot             3+4                42            H
+
+°Drop Kick                      f,f+3+4                32            M
+
+°Running Drop Kick               WR 3+4                52            M
+
+°Jumping Roundhouse              SS 3+4                              H
+
+°Jump Moon Drop                U,N,1+4_                25            !
+                               UF,N,1+4
+
+°Elbow Drop         U+2+4_UF+2+4_UB+2+4                35            M
+
+°Double Knee Drop                UF+3+4                40            M
+
+* knocks opponent on the ground on counter;
+** backturns opponent on counter;
+*** you can tag these moves only if you hit;
+**** stun on counter;
+***** use on grounded opponents;
+****** on counter you can perform two more kicks.
+
++ Tenstrings +
+
+Armor King has only a tenstring: you can change it in a ninestring starting with f+2.
+
+Tenstring         1,  2,  1, 1, 2, 4, 4, 4, 1,  3
+
+Damage per hit    6, 10, 10, 6, 6, 5, 5, 5, 7, 24
+                  H,  H,  M, M, H, L, L, L, M,  M
+
+Ninestring          f+2,  1, 1, 2, 4, 4, 4, 1,  3
+
+Damage per hit       15, 10, 6, 6, 5, 5, 5, 7, 24
+                      H,  M, M, H, L, L, L, M,  M
+
+USE OF THE MOVES:
+
++ Throws and multiparts +
+
+Knee Bash (1+3): follow it with some okizeme technique, like the Staggers Kicks; you can follow
+the throw with the Corporate Elbow too, but you have to  be very fast. Other good follow-ups for
+this throw are the Double Shin Kick, or the Black Shoulder (on someone who's rolling forward or
+backward to get up) even if they are not guaranteed.
+
+Suplex (2+4): if you want to use this throw, always link it into the Jumping Pile Driver: it looks
+better, it inflicts more damage and favours okizeme. When the Jumping Pile Driver link starts,
+the throw is not escapable.
+
+Side throws (any normal or command throw performed close to opponent's left or right side): maybe
+it's strange to say but I don't use side throws often. They can be avoided easily as they have
+a one-button escape so I use the Uppercut, a Jumping Roundhouse or, best of all, use the Palm
+Upper to start a juggle. You can follow the Reverse Death Valley Bomb with the Mount Position,
+Mounted Punches.  
+
+Reverse DDT (any normal or command throw performed close to opponent's back side): when your
+opponent is backturned, use this a lot as it is better of a juggle. 55 pts of damage are a
+considerable amount of damage.
+
+Giant Swing (f,HCF+1): a good throw, easy to perform and to setup after a punch string that has
+a drawback: it can be tech rolled and the damage halved. Nevertheless, after it you can try a
+running attack. You can do it immediately after the Blind Kick: on a backturned opponent you'll
+have much more possibilities to land the throw (for example tag with Hwoarang's Sky Rocket
+(f,N,d,df+4) do a Crouch Dash to go under the opponent and when he hits the ground and tech rolls
+do the Blind Kick). 
+
+Pile Driver (QCF+1): I don't use it a lot as it's only 25 pts damage, even if you have 3 Staggers
+Kicks granted after it.
+
+Tombstone Piledriver (db,F+2): the strongest throw in Armor King's arsenal (remember that the
+Giant Swing can be tech rolled). Plus, you can try an okizeme after it. The great drawback of
+the Tombstone Piledriver is the command: there aren't a lot of joysticks with good diagonals.
+Lately I learnt (thanks go to "invincible" Bax for this) a very simple trick that allows you to
+perform the Tombstone every time you want: simply tap db twice, then f+2. You can follow the
+Tombstone with the Mount Position, Mounted Punches. Another great way to perform the Tombstone,
+and this method is better than the 2 x db method, is d~db,F+2 (I removed the version suggested
+by IluvMoMo as we have discussed about it on ICQ and discovered that the last method is better
+than doing QCB,F+2).
+
+DDT (db,DB+1+2): interesting, the motion is easier and faster than King's version but, as I said
+for the Tombstone Piledriver, there's the problem of the diagonals. Good amount of damage and
+rising low kick guaranteed after it. In terms of strategy, I think that the DDT has a best
+retaliatory meaning when used by King, as the command to perform involves a crouch (d,db,d,DB+1+2)
+and so it can be used after avoiding an high attack or after a crouching punch. With Armor King,
+as the command it's quite different, a good use of this throw is during a sidestep game or after
+a quick punch string (like the Left Straight Light Upper or the first two punches of the tenstring).
+I recommend to use this throw a lot to pressure the opponent alternating it with other throws,
+as it has a 2 button escape and a guaranteed okizeme after it as I stated before.
+
+Armor King Driver (d,DB+2+4): use it only if you have King as a partner, and you want to tag out
+in a different, and spectacular, way.
+
+Mount Position, Mounted Punches (DB+1+3_DB+2+4, then 1,2,1,2,1,2): I use this move only after the
+Shadow Lariat or the Lifting Elbow, as after being hit by these moves the opponent is face down,
+and the Punches that follow the Mount Position done as a ground throw on a BK opponent cannot be
+reversed (the first punch that follows the Ultimate Tackle on a backturned opponent can be reversed
+with 1 if it's a left punch, with 2 if it's a right punch. The second, third, fourth and fifth
+punches cannot be reversed). You can use the Mount Position infinite times on an opponent that's
+face down as after every mount he will be stunned for enough time to allow you to do another mount
+and so on. This glitch (known as "Armor King cuffs") is possible ONLY when the opponent is face
+down and only on the arcade version of TTT. Therefore, don't use this "bastard variant" if you
+don't want your opponent to kill you because you won with such a cheap move. You can follow the
+Mount Position with the Elbow Drop or the Corporate Elbow instead of the Mounted Punches.
+
+Frankensteiner (df+3+4): if it connects properly (near the opponent), it becomes a throw that
+inflicts a good amount of damage. Use it when the opponent tags in and you are at close distance.
+Another good use of this move is after a blocked Jumping Knee: immediately after getting blocked,
+try the Frankensteiner. You can also tag out after this move.
+
+Multiparts (see +Multiparts+): use them as a part of your Crouch Dash confusing strategy. Remember
+that Armor King has only a multipart starter, that can be easily escaped with 1+2, but multiparts
+remain a good opportunity of damage. If the starter lands, feel free of follow with the sequence
+you prefer; even if 2) and 3) are the most damaging, their enders are both preceeded by the
+Falling Sleeper Chain Throw, that's easy escapable with 2, so use also 1) sequence: you'll be
+less predictable and your multipart will be harder to interrupt. 
+
++ Arts +
+
+Hammer Strike (df+1): use this when the opponent is trying a combo: you will knock him on the
+ground and have an okizeme possibility with the Double Shin Kick. Use it also on grounded opponents
+that are trying to getting up rolling.
+
+Gut Punch (df+2): even if this move has the same name as Kazuya's, it's completely different
+and quite useless. 
+
+Left Right Upper (1,2,1): use them a lot like a counter, because they are fast and damaging.
+
+Shadow Lariat (f,N,d,df+1): a very good move: fast, damaging and allows you to perform a granted
+Mount Position, Mounted Punches; plus, if you don't want to follow the Mount Position with
+the punches, you can try a granted Elbow Drop or a Corporate Elbow. If blocked, this move
+lets you recover without problems. You can use it also during juggles, even if you have to
+be very fast. It's very good against tag-ins if you are at a distance that doesn't allow you
+to try a Palm Upper.
+
+Left Straight Light Upper (d+1~2): a fast and useful string that you can use to stop an opponent
+that's trying to attack or also when the round starts. Very useful to stop all kinds of strings
+and to setup the DDT or the Giant Swing. Sometimes I use only the first punch, that hits mid
+and leaves Armor King in crouch position, to trap the opponent doing after it a Lifting Elbow
+and have more possibilities to score a counter hit.
+
+Water Parting Chop (b+1): I don't use it a lot because it has a quite long recovery time and
+because it hits high; you can try to use it when the opponent tags in and you are at close
+distance or during juggles, right after a Palm Upper. If you hit the opponent he will be
+stunned and you'll have the opportunity to get closer and start a guessing game, choosing
+between a good throw or a power hit with Palm Upper or Jumping Knee. 
+
+Lifting Elbow (WS+1): a strange move, that can cause problems to the opponent if it hits on
+counter: he will be backturned, and you'll have the opportunity of starting a juggle with a
+Palm Upper; you can also try a Konvict Kick or a Shadow Lariat. The Reverse DDT is not granted
+as you need time to get near the opponent. If the Lifting Elbow doesn't counter, the opponent
+will be face down head towards so you can follow it with Mount Position, Mounted Punches;
+otherwise you can start some good juggles (see the section). If you hit a backturned opponent
+with the Lifting Elbow, the move will become a juggle starter.
+
+Palm Upper (f,N,d,df+2): the best juggle starter in your arsenal since you'll be safe from
+retaliation if it's blocked and be able to cause great damage if you hit. Don't use it always,
+but mix it with the other moves that start with a Crouch Dash or you'll eat a reversal. You can
+tag out after this move. A note about its hitting property: special mid, so the opponent can
+block it even while crouching. Use this fact to take advantage and alternate it with the Jumping
+Knee, that needs standing guard to be blocked.
+
+Crouching Uppercut (D,DF+2): an interesting move. Use it to stop an high attack or after
+avoiding a throw attempt and juggle at the same time.
+
+Uppercut (SS+2): try to use it to stop an opponent that is getting near to try a throw or that
+has started a string. I use it more than the side throws, as throws are easy to escape. Moreover
+it is a quite damaging move, stuns on hit, interrupting well an attacking strategy and allowing
+you to start some pressure with a Crouch Dash mix up or a low attack like the Double Shin Kick.
+A note about hitting backturned opponents: they will be pushed away a little and I think that
+the Konvict Kick will be guaranteed (maybe the Shadow Lariat, thanks to its speed and range, or
+the Palm Upper too, but I'm not sure). 
+
+Jab Uppercut (2,1): use it only during a juggle. In close combat it's too easily reversable and
+slow.
+
+K's Flicker (f,f+2): use this move as a counter. If you're smart, you can learn to use it as a
+counter adding another juggle starter to your arsenal. Like the Konvict Kick, you can perform
+this move after a Crouch Dash, tapping f,N,d,df,F+2. 
+
+Stomach Smash (f,f,N+2): You can't link it with an "automatic" throw like King, but if you
+manage to stun the opponent, you can try to follow it with a Tombstone, even if it's quite hard
+to do correctly and quickly  the command. You can follow the Stomach Smash with a Toll Kick or a
+Konvict Kick if you can't perform consistenly the throw follow up.
+
+Capital Punishment (f_uf+1+2): I use this move after juggles or after sending the opponent to
+the ground. You'll get a granted and quite damaging hit if the opponent tries to get up except
+for side roll get ups: in the last case in fact, you'll be open to a side throw or any other
+type of attack. When you use this move try to "foresee" how the opponent gets up.
+
+Head First Lunge (f,f+1+2): when I do this move, if I get blocked I try a Left Straight Light
+Upper string. Therefore, you don't have a very fast recovery after the move and often you will
+be thrown or hit. Don't use this move, it's better.
+
+Burning Knuckle (f+1+2~D_uf,N,D+1+2): this unblockable has to be used carefully: it can surprise
+almost every  opponent, even experts but it can be prevented and avoided easily with a simple
+sidestep. When you use this move try to calculate distances: if you land close to your opponent
+but you don't hit him, you will be completely vulnerable. A plus of this move is that if you
+jump behind the opponent Armor King will turn and still hit.
+
+Corporate Elbow (d+1+2): I use it after the Knee Bash, or to finish a juggle when the opponent
+is on the ground (see "Juggles" section). Can be also a good follow up after a Mount Position
+done on an opponent that has head down.
+
+Toll Kick (b+3): excellent as juggle ender (but not so powerful) and as a counter move. Its good
+priority gives you the  opportunity to take away the opponent if you are under pressure or tag
+out if in trouble. Remember that it's high so don't abuse it if you don't want to suffer WS counter
+hits and remember to buffer chicken (f+1+3) in case of a reversal .
+
+Blind Kick (BK+3): very good to surprise and stun someone who wants to attack when you are back
+turned. You can try this move also after the Frankensteiner (throw). However it's not very fast
+and remember that the back turned position is not very safe as you can't count on other specific
+moves like Lei or Xiaoyu.
+
+Konvict Kick (f,f+4): use it to hit at mid/long distance, to finish juggles or hit an opponent
+when he tags in. Don't use a lot on players that use reversals or you'll have to regret. You can
+perform this move even after a Crouch Dash, simply tapping f,N,d,df,F+4.
+
+Jumping Knee (f,N,d,df+4): a very good move, maybe Armor King's best Crouch Dash move. It can't
+be reversed so alternate it with the Shadow Lariat, that hits high, and the Palm Upper. If the
+opponent crouches he will get the hit and a good amount of damage. You can use this move to hit
+big characters like the Jacks or Kuma when they are on the ground and try to get up rolling forward
+or to hit them during a juggle (thanks go to Lee for this).
+
+Stagger Kicks (d+3+4,4,4_D,DF+4,4,4): use this move as an okizeme or when opponent tags in and
+tries an attack: you'll crouch, avoid the attack and hit. Plus if you hit on counter you can perform
+5 kicks instead of the standard 3. Good as juggle finishers too.
+
+Straight Arrow (b+1+4): use it only with beginners and with computer in the first stages. It's
+too slow and even an intermediate fighter will punish you. Therefore, if you manage to hit on
+counter, follow the move with a Palm Upper to start a juggle. It can be used, with good timing,
+to avoid and counter some strings but I have to practice it before being more precise.
+
+Black Shoulder (f+1+4): the great advantages of this move are priority and good damage. Use it
+mainly on opponents that try to get up rolling away, that are charging an unblockable attack, or
+that are tagging in.
+
+Double Shin Kick (db+4): (wé!) I use it to surprise the opponent and hit low, or as an okizeme.
+The great drawback of this move is the very low damage it inflicts. Use a lot this move when you
+want to be aggressive and pressure your opponent, alternating it with the Jumping Knee.
+
+Mini Spinning Headboot (3+4): use it when you want to hit high and your opponent is at mid distance.
+It's quite quick and damaging, very good to hit opponents who rely a lot on throws.
+
+Drop Kick (f,f+3+4): I don't use this move because it's slow, and Jumping Roundhouse and Mini
+Spinning Headboot are much better alternatives.
+
+Running Drop Kick (WR+3+4): can inflict high damage but you will hit the opponent with this
+0,00000001 times you'll try it. The only moment that comes to my mind when you can use this move
+is after the Giant Swing: throw the opponent than start running, if he tags out you'll hit the
+other character that's just come in.
+
+Jumping Roundhouse (SS+3+4): use it as an alternative to side throws or when opponent is not at
+throw distance. I think this move is better than the Mini Spinning Headboot: the sidestep position
+is better for this move as leaves you recover with less risk to suffer okizeme from your opponent.
+
+Jump Moon Drop (U,N+1+4_UF,N+1+4)): it's the same as  King's but, because of its stupid command,
+you'll have to wait centuries before hitting someone with it.
+
+Elbow Drop (U+2+4_UF+2+4_UB+2+4): I use this move only as an alternative to Mounted Punches done
+after the Mount Position as a ground throw; moreover, note that the Elbow Drop is quite more damaging
+than the punches so...
+
+Double Knee Drop (UF+3+4): I don't think you'll never use this move: if you do, maybe you want your
+opponent to beat you with no problems during the recovery time.
+
+Tenstring (1,2,1,1,2,4,4,4,1,3): use the complete string only with beginners as they will take it
+all; with other players simply use the first 2,3 punches as they are quite quick. The rest of the
+string is easy to block and during the 3 Stagger Kicks, the opponent can parry and follow with
+guaranteed juggle starters, so be warned.
+
+CHARACTER STRATEGIES:
+
+In this section  I'll try to explain a possible strategical behaviour against human opponents,
+suggesting the possible moves that will be used. I want to make clear that everyone uses in a
+different way a particular char or team so think about this part of the Faq as an explanation
+of my fighting experience with people that have their own styles.
+
+Bryan Fury: Bryan can be a very hard opponent as he can make great pressure and count on good
+power. In TTT he gained a new and very useful tool: a punch parry (b+1+2 to parry, then 2 to
+reverse) that automatically reverses left punches with a Mach Punch and right punches with a
+df+2 punch that I think has a guaranteed f,f+4 kick follow up. Beware from his left standard
+throw (1+3) since after it Bryan has the opportunity to hit you with a Snake Edge (df+3) if you
+remain on the ground or try to roll sideways or hit you with a f,f+3 kick if you try to roll
+forwards or backwards. Bryan has a good while-standing game, thanks to his left knee strike (WS+3)
+that can cause stun on counter hit and followed with a WS+1 punch to start juggles (you MUST
+escape the knee stun hitting 5 immediately after being hit if you don't want to lose lots of
+energy), the Chains of Misery (D,df,d,df+1+2), one of the best looking throws IMO, that requires
+a 2-button escape (1+2). A good strategy against him is to use a lot short punch strings, Left
+Straight Light Upper above all, to interrupt his attacks without too many risks about the punch
+parry. Try to keep Armor King at mid distance as long as possible, to prevent throws and to have
+more opportunities to see his 3,2,1,2_4 mixups start and interrupt them. Alternate a lot your
+Crouch Dash techniques, mainly the Palm Upper and the Jumping Knee, and learn to block on reaction
+the Snake Edge (fortunately Bryan has not many other low hit possibilities). Use the Konvict Kick
+to keep the distance during the match and sometimes make a rapid rush to try one of you throws
+(DDT is the best choice).
+
+Ganryu: a great character, maybe the best big character in the game together with Gunjack (IMO).
+He gained a punch parry that allows him to get behind you and have free and powerful hit with a
+Rushing Back Grab (1+2) or Quick Sumo Rush (f+1+2); he has also the new Low Leg Swipe (df+3) that
+is surprisingly strong and fast (granted after 1+3 and F+2+4 throws) and his old (but now very
+useful for damaging tag combos) Megaton Float (b,db,d,DF+1). But  during the fight, the best weapon
+he has it's the Stunning Push (d+1+2_SS+1+2) that is fast, interrupts easily strings and stuns for
+a short period of time and improves a lot his sidestep game; the Palm Lift (D+1+2) that can fool
+as it hits low and NOT mid. Against him some of Armor King standard juggles may be a little more
+difficult as he will not fly high like normal sized characters, but you can try some "special"
+combos that work only on big characters. Therefore against Ganryu you'll have to face a good variety
+of attacks and must have a  good blocking timing (for example to block the Palm Lift), try short
+strings to set up throws (sometimes I try the Frankensteiner after a blocked string), use a lot
+the Jumping Knee to hit crouching and parry-happy opponents and don't forget the Double Shin Kick
+for a quick and unexpected low hit.
+
+Lei Wulong: this char can be a real problem in the hands of an expert player as it has power
+combined with good speed and guessing game. The most famous thing about Lei are obviously  his
+animal fighting stances, that can be activated in various ways, but mainly during his Razor Rush
+(f,N,1,2,1,2) and after the Rave Spin (DB+4). When in a particular fighting stance, Lei can count
+on specific moves: I'll try to discuss every one of them and try to explain a possible behaviour.
+Snake stance: has only high block [...]
+Panther stance: [...]
+Dragon stance: [...]
+Crane stance: [...]
+Tiger stance: [...]
+Drunken stance: [...]
+But Lei has not only stances, he has the Razor Rush that has great priority and inflicts high
+damage, the Cannonball headbutt that's incredibly useful for avoiding throw attempts. A good way
+to face the "supercop" is to improve your sidestep game, as the Uppercut is a very good tool to
+stop his rush, moreover if you manage to get behind him with a sidestep you can punish him with
+your Palm Upper and follow with a good juggle: if you see that he's starting to use animal stances
+don't be hurried as by switching them using up or down taps Lei can count on  a wide  sidestep angle
+that allows deadly counterattacks, so if you are at good distance and don't want to risk use tag-in
+attacks, mainly the Stagger Kicks, or the Konvict Kick that has long and safe range.
+
+Forest Law: one of the quickest characters in the game, very well balanced, with a good and powerful
+counter hit game, that can start damaging juggles. Don't try to hit him if you are not sure that he
+can't face your attack or you will eat one of his counter techniques (remember that he can delay his
+B+1,2,1 punch string to trap you on counter and juggle) like his Flip Kick strings (d+2~3 is a very
+dangerous counter against your high punch strings so press him with Left Straight Light Upper or
+simply with d+1). Pay attention to his Dragon's Tail sweep (db+4) as some Law players will alternate
+it with Flip Kicks during  pressing strategies causing you some trouble, but remember that the sweep
+is slow enough to see it coming and  then block low. Concerning WS game, Law can count on Flip Kicks
+and on a new "Mortal Kombat"-like uppercut (WS+2) that juggles quite high. About sidestep, you have
+to worry about the Bicycle Kick (SS+3+4) that's very powerful and can be used effectively to hit people
+that tries to get up from ground rolling forward or sideways, and in terms of Armor King's moves, the
+Konvict Kick, Palm Upper, the Jumping Knee can be easily sidestepped if used in a predictable way; the
+Gut Punch Massacre string will be dangerous only on counter as all the hits will be guaranteed, but
+this fact happens rarely if you are carefully enough (moreover, Law players will always use the Bicycle
+Kick as it is much safer). To face Law, I suggest not to be static, make good use of the sidestep and
+Uppercut, use the Hammer Strike as it has good priority and allows you  to try a Double Shin Kick if it
+hits on counter; I also reccomend to avoid mad rushes as Law can counter easily and punish you.
+
+Kazuya Mishima: Kazuya is back in TTT, and you can have an idea about him simply using a word:
+EFFECTIVENESS. He's probably one of the chars that has a not-so-long movelist, but each move can have
+a specific role in his combact strategy. He has lost the most useful version of the Twin Pistons
+(df+1,2), but can use them as a good WS technique and his WS+2-stun-power has been reduced significantly
+by the introduction of the stun escape (press 5 immediately after being stunned); however he still has
+the possibility after some stunning moves like the Glory Demon Fist (f+1+2) and the Demon Gutpunch (df+2)
+to inflict addictional damage using the ultra famous, powerful, too useful juggle starter WGF
+[(f,N,d,df+2)_(f,N,DF+2)] for those who passed the last 3-4 in space and never heard about Tekken, Axe
+Kicks [(df+4,4)_(WS+4,4)_(QCF+4,4)], Hell Sweeps [(f,N,d,DF+4,4)_(f,N,DF+4,4)]. IMO Kazuya has another
+great tool: the Mist Step (f,N) that allows him to do a little sidestep and perform  some of his moves
+(WGF, TGF and Hell Sweeps) in a faster and less predictable  way. WGF and Hell Sweep seem to be the moves
+that take the major advantages: the former gains even more priority and speed, the latter an higher
+usefulness (good okizeme possibility and unpredictability). About other moves Kazuya can count on Mishima's
+trademark punch string (1,1,2 the last hit is delayable) that's guaranteed when the first punch hits
+and a very good  new string, the 1-2 Punches-Stature Kick (1,2,4) mainly for the last kick that hits
+low and can be alternated with the Axe Kick to create confusion. You have to keep clear in your mind
+that Armor King is a bit slower than Kazuya (mainly because Kazuya can use the Mist Step cancel to speed
+up some of his moves), so you won't score a lot of counter hits, but maybe suffer them, so master the stun
+escape if the opponent uses a lot WS Kazuya Gutpunch instead of Twin Pistons and never abuse mid distance
+attacks. You can count a lot on throws (set up them in your punch strings and alternate them a lot, DDT,
+Jumping Piledriver and Piledriver are good choices) and on the hop kick (UF+4) that's quite useful to stop
+crouch dash attempts and start some juggle.
+
+Lee Chaolan: Lee gained a lot of new moves for his return in TTT, giving him a particular style. The most
+notable improvement is the Hitman Stance that can be activated pressing 3+4 or buffering it after some
+combos: the first thing to notice is that Lee will automatically block high and mid attacks so you'll have
+to pay attention; moreover, while in Hitman Lee can count on a wide sidestep simply tapping up or down,
+still remaining in stance and having the possibility to attack you safely. About the attacks that come out
+from the Hitman, pay attention to quick punches (1,1,1,etc) that have very good priority and are extremely
+annoying as they can interrupt and force you to retreat and restart with your attack; the Uppercut (2) hits
+mid, juggles you allowing a granted and quite damaging Silver Sting (f+3+4) follow up; the Snake Edge (4)
+hits low and has granted follow ups too, but it's quite slow, so you shouldn't have problems about blocking
+or low parrying it and counter as Lee will be staggered after getting blocked; the last move during the
+Hitman is the Scatter Kick that hits high, not a great threat.
+Against the Hitman, I haven't a lot of hints: usually I try quick punches if I am at close distance to
+interrupt Hitman Stance attacks or use the Double Shin Kick to surprise the opponent, if I'm at long distance
+I use a Stagger Kick or two to get near and try to hit. About blocking against a Hitman Lee I usually keep
+blocking high since, as I said before, the only low move that comes from the stance is quite slow. Besides,
+Lee has a good variation of attacks: the Flash Kicks (f+4,4,4,4) that, as their name suggests, can be quite
+annoying since they have very high speed and interrupting properties; the Silver Tail (d,df+4) that's a low
+and quite fast sweep that can force you to expose your side if it hits on CH, quite good for okizeme and the
+very deceptive Slice Kick (db+3); Lee has also the Mist Trap (b+3~3 blocked, and immediately followed with 4)
+that can cause you some problems if you keep defending, but it's quite hard to do consistently, so you won't
+suffer it a lot; the last kick move that you have to face carefully is the Lee Cutter (b,b+4) a high kick with
+good range that can be followed with the Hitman Stance. Beginners abuse the Razor Edge Kick Combo (d+4,4,4,4
+then 3 for the Hitman Stance) that consits of three low hits and a mid kick that can activate the Hitman: I
+suggest to parry the second or third kick so you wan't have to guess what move the opponent will perform while
+in stance; the move can be much more annoying if the kicks are delayed, in that case don't be hasty and block
+the combo without trying to counter the kicks or you may risk to get confused and get hit by the final mid
+kick. Speaking about punches, the Triple Fang string (b+1,1,2 the Hitman Stance can be entered after the
+second hit -> b+1,1,3+4) has good evasive properties as Lee will retreat a little before starting it and thanks
+to the possibility to cancel the third hit with the Hitman can trap you sometimes. Lee hasn't a lot of effective
+juggle starters: his famous Blazing Kick (d,DB+4) that will launch you very high and start damaging combos
+can be a dangerous attack if you don't know how to tag in safely so don't change character if the opponent
+is attacking, try to hit him with a knock down blow and then tag out; when it is used during normal combats
+it can be sidestepped quite easily, and you can punish with a Palm Upper to start juggles or a Jumping
+Roundhouse for a quick and damaging hit; the hop kick (uf+4) can be dangerous if you duck a lot or if you
+use continuously the Crouch Dash without paying attention.
+
+Bruce Irvin: one word of advice: BE CAREFUL. Bruce can inflict ridicolously high damage simply hitting you
+with a CH standing left kick to start his famous 3,2,1 Gatling string; after juggling with it he can perform
+his Triple Knee Combo (b+4,3,4) and cause great damage: moreover the knees are linkable to all Bruce's juggle
+starters, like Face Buster (df+2), the Hopkick (uf+4), the Nightmare Low Heel Kick (b,b+4) and the Rising Knee
+(b,f+4) and grant a minimum damage of 50 pts. Juggles aren't the only menace that you'll have to face against
+Bruce since he has also a good amount of strings that can inflict great damage if done as counter hit: his 1-2
+Punches (1,2) have great interrupting properties and, on CH, allow a guaranteed 2,f+4 follow up; after 1-2
+Punches you'll see often the front kick (4) ending, since it's quick, hits mid, inflicts good damage and is
+safe if blocked; another CH string is the Southern Cross (1,4,3) that has great range, a high amount of damage,
+guaranteed if the first jab connects on counter.
+Concerning throws, please note that Bruce's multipart has two main links, the Tumbleweed (1+2,1+2,1+2 that
+ends the first possible sequence) and the Left Knee Strike (3_4, 1+2+3), the former escapable with 1 the
+latter leads to an unescapable and very damaging ender, the Rising Knee (2,4,1,1+2+3) after the Tourning Knee
+(1,3,1+2+4); however the multipart is the only special move that starts with a Crouch Dash, so you shouldn't
+have problems about seeing it. Bruce can be very aggressive starting pressure, force you to attack and punish
+if you whiff or are hit on counter or adopt a defensive behaviour, waiting for a mistake and strike on counter;
+so you can decide the kind of strategy to adopt: for the first type of opponent I suggest to use punch strings
+a lot, to face his great interrupting power and "counter pressure" effectively mixing the Double Shin Kick with
+the Konvict Kick, then restart with punch strings, try a throw, crouching jabs to Lifting Elbow traps or Stomach
+Smash, you have lots of alternatives, so don't get afraid if you are facing an aggressive Bruce player, since
+you have a lot of weapons to react properly. I think that you'll find a formidable help in throws and sidestep,
+as Bruce will be often close using his strings and try to juggle you, allowing to choose between a good DDT or
+an evading sidestep to gain a little space and strike. The second "type" of Bruce can be more dangerous than the
+first, since a predictable move will open your defence and allow the opponent to score a counter hit and all the
+follow ups that Bruce has (I'm referring to juggles and guaranteed strings mentioned above) and even multiparts
+if you whiff moves that have long recovery time like the Double Shin Kick or basic throws, even if it's the minor
+threat. Try to play defensive too, trying to stimulate a reaction and find a possible opening to strike with a
+good juggle, then rush and do a Giant Swing: the opponent maybe won't foresee a similar behaviour, will have to
+try to tech the throw to halve the damage, prepare for your following attack, being always subdued to your
+gameplay. I find this strategy quite useful and easy to adopt, I hope you'll have good results with it.
+
+Kunimitsu: a very original character, no more a clone of Yoshimitsu. She gained a lot of evasive moves that can
+punish you if you attack recklessly, but however you won't suffer great damage in any case. When fighting against
+Kunimitsu, pay attention to her df+2 uppercut that, even if not as good as Yoshi's, has good priority and can
+juggle you. Moreover, there are a couple of techniques that I've seen used by one of my friends at the arcade:
+the first involves the Spinning Hilt Strikes (b+1,1,1,1,1,1) "cancelled" into the Jumping Headthrow (f+1+4) or
+Jumping Spinkick (uf+4), Growling Jewel (f+3+4), the last involves the Reverse Flipkick (BK+3); after doing a
+brief Spinning Hilt Strikes (for example b+1,1) Kuni stops and immediately grabs the opponent with the Jumping
+Headthrow or hits with one of the above mentioned moves to punish crouching attempts, and this can be a very
+annoying strategy since the throw has not a "conventional" button escape (you have to tap df right after being
+grabbed) and if you try to crouch to avoid it you have always the risk to suffer a hit: I suggest to use the
+standing guard in any case and practice the throw escape (usually I rotate the joystick clockwise, since I find
+this way more useful); about the second technique, you have to pay attention when you are on the ground and Kuni
+is close: my friend sometimes jumps over me a moment before I do a get up attack and gets behind me, does a
+Reverse Flipkick and then hits me one more time with a granted BK 4: there isn't a proper way to face a similar
+tactic, simply don't get up from ground trying at all costs to hit.
+About other moves, the Fairy Wax (d+3+4) can be annoying as its initial animation (a crouch followed by a jump)
+can evade attacks made from mid/close distance and lead to a granted double hit, so don't use punch strings or
+moves like the Toll Kick or the Konvict Kick if you aren't sure to force at least a block; the Kunai Skyfall
+(u+1+2) it's not a great threat, a well timed standing jab will interrupt it and even allow you to use a little
+juggle (for example, after the first jab, f+1, Palm Upper); the Dashing Uppercut (f,f+2) is her second juggle
+starter of choice (after df+2), but it's quite slow and has quite long recovery time if blocked so you can choose
+to interrupt with a good Left Straight Light Upper or block the move, and decide for a proper retaliation (the
+Giant Swing can be good thanks to its quickness or, as usual, the Palm Upper); finally the Jumping Knee (f,f+4)
+that's maybe Kuni's best option if you start pressure and she tries to interrupt your attacks.
+
+JUGGLES:
+
+Arts mentioned in the juggle list:
+Hop Right Kick: UF+4;
+Konvict Kick: f,f+4;
+Palm Upper: f,N,d,df+2;
+Lifting Elbow: WS+1;
+Toll kick: b+3;
+Straight Arrow: b+1+4;
+Jumping Knee: f,N,d,df+4;
+Left Straight Light Upper: d+1~2;
+1 Stagger Kick: d+3+4
+2 Stagger Kicks: d+3+4,4;
+3 Stagger Kicks: d+3+4,4,4;
+Shadow Lariat: f,N,d,df+1;
+Double Shin Kick: db+4;
+Mount Position: db+2+4;
+Corporate Elbow: d+1+2;
+Uppercut: SS+2.
+
+- Hop right kick, 2, 1, Konvict Kick;
+-       "       , Palm Upper, Palm Upper;
+-       "       , 1, 2, f+1, f+1, Palm Upper;
+-       "       , Palm Upper, Left Straight Light Upper, Stagger Kick;
+-       "       , f,f+1, f,f+1, f,f+1, Palm Upper;
+- Counter hit with Lifting Elbow, Palm Upper, 1, 2, 1, 2, Toll Kick;
+- Counter hit with Straight Arrow, Palm Upper, Jumping Knee;
+- Lifting Elbow, d+1, cc, 1, 2, Toll Kick;
+-       "      , Gut Punch, Left Straight Light Upper, Stagger Kick;
+-       "      , Palm Upper, Left Straight Light Upper, Stagger Kick;
+-       "      , Palm Upper, 3 Stagger Kicks;
+- Counter with Lifting Elbow, Palm Upper, Shadow Lariat;
+-       "                   , Palm Upper, 1, Shadow Lariat, 3 Stagger Kicks;
+-       "                   , Palm Upper, Jumping Knee;
+-       "                   , Palm Upper, Palm Upper, 3 Stagger Kicks;
+- (Against a big character) Palm Upper, 1, Palm Upper, 1, Toll Kick;
+- Counter hit with Straight Arrow, Palm Upper, 1, Palm Upper, Double Shin Kick;
+- Palm Upper, Palm Upper, 1, Palm Upper, Double Shin Kick;
+-       "   , Palm Upper, Palm Upper, Corporate Elbow,
+-       "   , Palm Upper, 3 Stagger Kicks;
+-       "   , F+1, 1, Palm Upper;
+-       "   , F+1, F+1, Palm Upper, 2 Stagger Kicks;
+-       "   , Water Parting Chop, 3 Stagger Kicks;
+-       "   , Palm Upper, 1, 2, Toll Kick;
+-       "   , Palm Upper, Left Straight Light Upper, Stagger Kick;
+-       "   , Shadow Lariat, 2 Stagger Kicks;
+-       "   , Left Straight Light Upper, Palm Upper, Double Shin Kick;
+- (Only on True Ogre) Palm Upper, Palm Upper, Palm Upper, Palm Upper;
+-       "             Palm Upper, Shadow Lariat, Palm Upper, Palm Upper;
+-       "   , Jumping Knee, Mount Position, Corporate Elbow;
+- (Against a big character) Palm Upper, Palm Upper, 1, Shadow Lariat, Left Straight Light Upper.
+
+Tag-In juggles:
+- Michelle's Tigers's Claw (df+3+4) ~5, 1, Jumping Knee;
+- Heihachi's Wind God Fist (f,N,d,df+2)~5, f,f+1, f,f+1, f,f+1, f,f+1, Palm Upper;
+- Yoshimitsu's Kangaroo Kick (4~3)~5, 1, Konvict Kick;
+-               "                    , Jumping Knee, d+1, WS+4;
+- Hwoarang's Sky Rocket (f,N,d,df+4)~5, Straight Arrow;
+-               "                     , 1, Palm Upper;
+- Kuma's Demon Bearfist (f,f+2)~5, Uppercut, 3 Stagger Kicks.
+
+Please note that all juggles starting with a Palm Upper can be opened by a CH Straight Arrow.
+
+CREDITS:
+
+- Namco, guess why?
+
+- www.tekkentagtournament.com for the names of all the throws, some art names, hit damage and properties;
+
+- Catlord for his movelist (catlord@tekkenzaibatsu.com) for other art names, mainly other chars' mentioned
+in the "CHARACTER STRATEGIES" section and his combo compendium;
+
+- www.tekkenzaibatsu.com for juggle movies and other great stuff like its forums. Check this site because
+there you can find  all you need about Tekken;
+
+- Castel (castel@tekkenzaibatsu.com) for his movies and for his whole site, Tekken Zaibatsu, the BEST Tekken
+site on the net with no doubt;
+
+- www.tekkenzone.com for its great vids, including a super long and impressive tribute to Armor King (26.25 MB
+but worthy download);
+
+- www.coara.or.jp/~kei666 that opened a useful English section where you will find a lot of "extreme juggle"
+videos;
+
+- My friend Bax for the Tombstone Piledriver trick, and all other people who play Tekken with me at the arcade
+(Imp, Ka, Murgia, Tores, Mauriz, Bruno, ecc.);
+
+- Lee for his note about juggle possibility to use Jumping Knee against big characters;
+
+- Lee Kian Chong (ex IluvMoMo) for his new Tombstone Piledriver trick, lots of hints and corrections he mailed
+me and pleasant ICQ discussions, too bad he retired from Tekken world. Check his Kazuya and Julia (with Dayful)
+Faqs since they are very good;
+
+- All the people who posted in my topics in Tekken Zaibatsu's forums.
+
+That's finished! It was my first Faq, I hope you will find it useful. I apologize for grammar mistakes but I'm
+Italian so I can't write in English perfectly. If you find errors or have hints, please e-mail me, and I'll give
+you credit. Remember that you can find me with ICQ too.
+
+15/03/2001 - The Blacksmith

@@ -1,0 +1,1679 @@
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ The   " 1st  D e f i n i t i v e "  ³          GON'S OWN NUANCES           ³
+³          __ _  ___  __  _           ³  (Only useful for Tekken 3 on PSX)   ³
+³         / _` |/ _ \|  \| |          ³                                      ³     
+³        | (_| | (_) | \ \ |          ³  Copyright (c) 2002-2003 gon_again   ³
+³         \__, |\___/|_|\__|    FAQ   ³               gon_again@mail15.com   ³
+³         |___/                       ³  v1.6: Monday, 29th September 2003   ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³ The latest version is available in the FAQs section at Tekken Zaibatsu, or ³
+³ email "gon_again".                                              0123456789 ³
+³ View with Edit / monospace font + ASCII text viewer..           MONO.SPACE ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+  " G u n j a c k  o f  a l l  t r a d e s  b u t  m a s t e r  a t  G o n"
+
+ "Ok not as small as that little orange ugly mug impersonator gon, but small
+  none the less." - The Great Outback: Alex vs Roger ver 2
+- - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - -
+                                    _             _
+Table of             ___ ___  _ __ | |_ ___ _ __ | |_ ___
+                    / __/ _ \| '_ \| __/ _ \ '_ \| __/ __|
+                   | (_| (_) | | | | ||  __/ | | | |_\__ \
+                    \___\___/|_| |_|\__\___|_| |_|\__|___/
+
+[A] ADMINISTRATIVE STUFF   |   [B] PLAYING THE GAME    | [C] TECHNIQUES
+1. Credits/Legal Stuff     |   1. Movelist             | 1. Crouch Dash
+2. Change Log              |   2. Recovery Techniques  | 2. Gon With The Wind
+3. Why a Gon FAQ?          |   3. Move Analyses        | 3. Tail Spin->fire
+4. Usage Instructions      |   4. Anti-Character       | 4. Spacing and Poking
+                           |                           |
+[D] TRICKS OF GON          |   [E] GAME MODES          | [F] APPENDIX
+- - - - - - - - - - - - - -| - - - - - - - - - - - - - |- - - - - - - - - - - -
+1. Tech Traps              |     1. Tekken Ball        | 1. Combos
+2. Miscellaneous           |     2. Tekken Force       | 2. Alex & Roger Chart
+                           |     3. Time Attack        |
+                           |     4. Survival Mode      |
+
+To quickly seek to the section you want, use the section code and number. For
+example, to find the Combos section, search for "[F]1.".
+
+[A]1.                                       _ _ _
+                           ___ _ __ ___  __| (_) |_ ___
+                          / __| '__/ _ \/ _` | | __/ __|
+                         | (__| | |  __/ (_| | | |_\__ \
+                          \___|_|  \___|\__,_|_|\__|___/     (and legal stuff)
+
+TERMS OF USE
+------------
+        You may reproduce or redistribute this FAQ if:
+
+1) This FAQ is COMPLETE and UNMODIFIED. This includes retaining the copyright
+   notices and terms of use.
+2) It is available free of charge.
+
+CREDITS
+-------
+> The movelist is mostly derived from the in-game Command List for Tekken 3
+  except for the CD+1+2 Shoulder Nudge which is originally from Catlord's
+  "Quick Gon Movelist" (listed as Shoulder Uppercut).
+
+> > Many valuable strategies and techniques courtesy of Daltamare. Thanks!
+
+> Newer revisions (v1.6) with the new format uses "FIGlet" for the headings.
+  (the GON writing is not, however)
+
+> > "Every effort has been made to trace and acknowledge copyright. However,
+    should any infringement have occurred, the publishers tender their
+    apologies and invite copyright owners to contact them".
+
+[A]2.              _                               _
+               ___| |__   __ _ _ __   __ _  ___   | | ___   __ _
+              / __| '_ \ / _` | '_ \ / _` |/ _ \  | |/ _ \ / _` |
+             | (__| | | | (_| | | | | (_| |  __/  | | (_) | (_| |
+              \___|_| |_|\__,_|_| |_|\__, |\___|  |_|\___/ \__, |
+                                     |___/                 |___/
+
+Version                 Release Date            File Size
+------------------------------------------------------------------------------
+> > > 2003
+
+        1.6            29th September, 2003      96,312
+
+        1.5                22nd March, 2003     126,251
+        1.4             22nd February, 2003     115,621
+        1.3               9th January, 2003     71,832
+
+> > > 2002
+
+        1.2             1st December, 2002       39,596
+        1.1             3rd November, 2002       31,433
+        1.0              8th October, 2002         8240 No versioning info is
+                                                        actually in the file.
+
+1. The FAQs are time stamped with the version number. For example, version
+  v1.6 is time stamped as 16:16:16.
+
+2. Prior to v1.6, there were monthly releases, with each release having the
+   combined size of the previous two releases.
+
+3. Change log information for versions prior to v1.6 has been removed, but is
+   available in v1.5, and also on request.
+
+ Release: | v1.6 |                   | Wednesday, 8th October 2003 | 96,312 |
+- - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - -
+        The FAQ now has a new, streamlined format to make it easier to find
+the information, with a logical section layout.
+
+        This is a minor update.
+
+[A]3.        _                                          __             ___
+   __      _| |__  _   _    __ _    __ _  ___  _ __    / _|  __ _  __ |__ \
+   \ \ /\ / / '_ \| | | |  / _` |  / _` |/ _ \| '_ \   | |_ / _` |/ _` |/ /
+    \ V  V /| | | | |_| | | (_| | | (_| | (_) | | | |  |  _| (_| | (_| |_|
+     \_/\_/ |_| |_|\__, |  \__,_|  \__, |\___/|_| |_|  |_|  \__,_|\__, (_)
+                   |___/           |___/                             |_|
+
+        A: There weren't any FAQs to assist budding Gon Tekken players.
+
+ÚÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ ³Wave & Crouch Dash      ³ Gon. + Jin, Heihachi.                           ³
+³ ³Can recover health      ³ Gon. + Lei, Yoshimitsu, Dr. B.                  ³
+³ ³High/some mid moves miss³ Gon. + Xiaoyu's Phoenix Stance.                 ³
+³ ³Moves can't be reversed ³ Gon.                                            ³
+³ ³Moves can't be parried  ³ Gon.                                            ³
+ÃÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³ ³Inescapable Throws      ³ Gon.                                            ³
+³ ³Ground Throws           ³ Gon. + King.                                    ³
+³ ³Can't be thrown         ³ Gon. + Some character stances.                  ³
+³ ³(except by another Gon) ³                                                 ³
+ÃÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³ ³Mid-air "juggle escape" ³ Gon. + True Ogre.                               ³
+³ ³Immune to True Ogre's   ³                                                 ³
+³ ³1+2 Fire - 1 damage     ³ Gon.                                            ³
+³ ³Immune to Heihachi's    ³ Gon.                                            ³
+³ ³right foot MC reversal  ³                                                 ³
+³ ³Alley Kicks - WR f+4,4,4³ Gon. + Alex & Roger (not in Tekken 3), King.    ³
+ÃÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³ ³Mostly mid/low moves    ³ Gon                                             ³
+³ ³Easy 2 button moves     ³ Gon. + Some characters.                         ³
+³ ³No stances              ³ Gon. + Some characters.                         ³
+ÀÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+[A]4.                    _   _ ___  __ _  __ _  ___
+                        | | | / __|/ _` |/ _` |/ _ \
+                        | |_| \__ \ (_| | (_| |  __/
+                         \__,_|___/\__,_|\__, |\___|
+                                        |___/                     instructions
+
+        To use this Gon FAQ (or any other Gon FAQ) you will need to:
+
+                1. Have access to the PlayStation version of Tekken 3. The
+                   arcade version does not have Gon.
+
+                2. Unlock Gon.
+
+- There are three verified ways to unlock Gon:
+
+        a) Complete Arcade Mode with the default 10 characters and then
+           defeat Gon in Ball Mode - you'll only get one chance. Gon will also
+           appear randomly in Arcade Mode.
+
+        b) Get 1st place in Time Attack or Survival Mode and enter "Gon".
+
+        c) Play 650 games in VS mode.
+
+- How not to unlock Gon:
+
+        "Set the game on easy, one round, and unlimited time. Play in arcade
+         mode and on the fourth, fifth, sixth, and seventh round, allow your
+         opponent to take all but five percent of your health before defeating
+         him. If done correctly, the announcer will say "Great". Gon or Dr.
+         Boskonovitch will be your opponent in the next round. Defeat them to
+         unlock them as playable characters."
+
+- Disco Gon does not exist.
+
+        Trivia about Gon:
+
+1. Gon's stage is the Beach, as used in Tekken Ball.
+
+2. Character Select "Costumes":
+        a) Punch: Red gloves, no shell
+        b) Kick:  Blue Gloves, shell
+
+3. The Gon ending loops.
+
+[B]1.                                        _ _     _
+                    _ __ ___   _____   _____| (_)___| |_
+                   | '_ ` _ \ / _ \ \ / / _ \ | / __| __|
+                   | | | | | | (_) \ V /  __/ | \__ \ |_
+                   |_| |_| |_|\___/ \_/ \___|_|_|___/\__|     including Throws
+
+Conventions:
+h = high                                can be blocked standing or ducked
+m = mid / true mid                      can only be blocked standing
+l = low                                 can only be blocked ducking
+SM = special mid                        can be blocked standing or ducking
+                                        generally ducking is preferable
+
+1. [100,40=120]
+        The hits individually do 100 and 40 damage respectively, but together
+only does 120 damage (the second hit only does 50% damage).
+
+2. Capital Letters
+        These indicate the hit can hit grounded opponents.
+
+ÚÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ ³Move Name             ³ Command Sequence         ³ Height / Damage / Notes³
+ÃÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³ ³ Advancing Punches    ³ 1,1,1                    ³ [hMM] [5,8,6]          ³
+³ ³ Armadillo Attack     ³ f,f+1+2                  ³ [MM] [21]              ³
+³ ³    to Deer Strike    ³      1+2                 ³ [MM] [21]           #1 ³
+³ ³ Bad Doggle           ³ d+4                      ³ [M] [22]               ³
+³ ³ Battering Ram        ³ WC d/f+3+4               ³ [L] [21]               ³
+³ ³ Butt Slam            ³ u,N,3_4                  ³ [M] [25]            #2 ³
+³ ³                      ³ u/f,N,3_4                ³ [SM] [15]           #2 ³
+³ ³ Butt Stomp           ³ d/b+3+4                  ³                        ³
+³ ³    Backwards Spin    ³      b+3_4               ³ [m] [15]               ³
+³ ³    Forward Hit       ³      f+3_4               ³ [M] [22]               ³
+³ ³ Clean Sweep          ³ f+3,3 aka Wipe The Floor ³ [LL] [12,17=25]        ³
+³ ³ Dino Drill           ³ f+3+4                    ³ [M] [40]            #3 ³
+³ ³ Dopple Daley         ³ WC d/b+3+4               ³ [M] [20]            #4 ³
+³ ³ Foot Palm            ³ f+4                      ³ [M] [15]            #5 ³
+³ ³ Forward Hopkick      ³ u/f+4                    ³ [m] [15]               ³
+³ ³ Frankensteiner       ³ d/f+3+4                  ³ [M] [15]               ³
+³ ³ Guard Break          ³ d/f+1+2                  ³                        ³
+³ ³ Head Butt            ³ f,f+3+4 or WR f+3+4      ³ [M] [25]               ³
+³ ³ Helicopter           ³ in air 3+4 (u+3+4)       ³ [MHML] [10,10,10,10]   ³
+³ ³ Lift-Off             ³ u+1                      ³ [M] [21]               ³
+³ ³ Low Blow             ³ 3+4                      ³ [M] [25]            #6 ³
+³ ³ Mid-air Recover      ³ 1 while juggled (mid-air)³                        ³
+³ ³ Nap                  ³ d+1+2                    ³     [-10 per second]   ³
+³ ³ Offensive Nap        ³ u+1+2                    ³ [M] [35]            #7 ³
+³ ³ 1-2 Crush            ³ u/f+3+4                  ³ [MM] [10,26=28]        ³
+³ ³ Roger Punch          ³ b+1                      ³ [h] [30]               ³  
+³ ³ Run Around           ³ b+3+4, hold b            ³                        ³
+³ ³ Shoulder Nudge       ³ f,N,d,d/f+1+2            ³ [M] [20]               ³
+³ ³ Somersault           ³ WR f+1+2                 ³ [M] [27]               ³
+³ ³ Spin Cycle           ³ f+2+3                    ³ [SM] [40]              ³
+³ ³ Tail Spin -> fire    ³ 4,4,4,4,4,3+4            ³ [SM,L,L,L,L,m]         ³
+³ ³                      ³                          ³ [10,10,10,10,10,21]    ³
+³ ³ 2 Foot Landing Zone  ³ u,N,1_2                  ³ same as Butt Slam   #2 ³
+³ ³ Woodpecker           ³ f+1+2, 1+2, 1+2          ³ [SM,SM,SM] [7,14,21]   ³
+³ ³ Standard WS Moves    ³ CD+1_2 or WS+1_2         ³ [m] 15              #8 ³
+³ ³                      ³ CD+3_4 or WS+3_4         ³ [M] 20              #8 ³
+ÀÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+        #1 ARMADILLO ATTACK TO DEER STRIKE
+The 21 damage is not extra damage (except for okizeme). Deer Strike will do
+equal damage to Armadillo Attack.
+If they are at close range, the effect is equal, they will be cut through, but
+for Deer Strike Gon will jump at the end.
+At longer range, Armadillo Attack will push the opponent far away. Deer Strike
+will juggle them.
+
+        #2 BUTT SLAM & 2 FOOT LANDING ZONE
+The statistics for Butt Slam are correct. The u,N,3_4 version requires you
+to be very close to connect, however, it is true mid and does 25 damage. The
+u/f,N,3_4 version is special mid, and only does 15 damage.
+
+        #3 DINO DRILL
+If Dino Drill is blocked, Gon will spin back and be grounded. If it hits,
+Gon will be grounded right next to your opponent.
+
+        #4 DOPPLE DALEY
+Does not flip them over if they are ducking.
+
+        #5 FOOT PALM
+Is a right kick, but is immune to Heihachi's right foot counter.
+
+        #6 LOW BLOW
+Full (25) damage only occurs if they are ducking. Otherwise there is only
+88% (22) damage. 
+
+        #7 OFFENSIVE NAP
+Gon will always recover grounded after this move, similar to Dino Drill.
+
+        #8 STANDARD WS MOVES
+WS+3_4 does more damage but has no juggle.
+
+ÚÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ ³ Dino Breath (fire)   ³ 1+2 [20]                                          ³
+³ ³ Gon with The Wind    ³ b+4 [10]                                          ³
+³ ³ Stomp Charge         ³ 1+4 [100] [1] #1                                  ³
+³ ³ Electric Guard       ³ 1+2~1_2~2 (press 1+2, then 1 or 2 for Electric    ³
+³ ³                      ³ [15,15=25] Guard, then 2 for the second hit.)  #1 ³
+ÀÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+        #1 STOMP CHARGE
+Hits large grounded characters. For Electric Guard, you may find it easier
+to just mash 1+2,1+2,1+2.
+
+        ## UNBLOCKABLES
+Gon has 4 unblockables. This is not as much as Ogres (8 for Ogre, 11 for
+True Ogre), or Yoshimitsu, but still plenty.
+
+ÚÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ ³ Backflip         ³ 17 ³   b+1+2                                          ³
+³ ³                  ³    ³   Interrupts moves, similar to Jun. #1           ³
+³ ³ Bite Me          ³    ³   1+2 or 3+4                                     ³
+³ ³          - Front ³ 35 ³   Gon tosses them into the air, and bites them.  ³
+³ ³          - Left  ³ 42 ³   Alex & Roger's (and King) Giant Swing throw!   ³
+³ ³          - Right ³ 50 ³   Gon grabs them, and slams them several times.  ³
+³ ³                  ³    ³   Note: Damage is in instalments of 10,15 and 25.³
+³ ³          - Back  ³ 42 ³   Gon jumps on their back.                       ³
+³ ³ From Backturned  ³    ³   Gon turns around, and executes a normal throw. ³
+³ ³ Ground Throw     ³ 30 ³   Various different throws.                      ³
+ÀÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+        #1 BACKFLIP
+This move can be ducked.
+
+        #2 ALL STANDING THROWS
+Gon's throws are inescapable, having no known escapes.
+After a front throw, a single Clean Sweep (f+3) is guaranteed, and after a
+right side throw you get a guaranteed Armadillo Attack for extra damage.
+
+        #3 GROUND THROWS
+Gon CAN ground throw ANY character, not just Gon. (However, King can't throw
+Gon!). As with King, if they are on their side you have to roll them over. Gon
+has very short throw range, so at first glance (and attempt) it seems Gon
+can't ground throw. Some good okizeme will do more damage, but Gon has some
+nice ground throw sequences, so use them for your amusement.
+
+[B]2.               _ __ ___  ___ _____   _____ _ __ _   _
+                   | '__/ _ \/ __/ _ \ \ / / _ \ '__| | | |
+                   | | |  __/ (_| (_) \ V /  __/ |  | |_| |
+                   |_|  \___|\___\___/ \_/ \___|_|   \__, |
+                                                     |___/          techniques
+
+        When Grounded, Head Up Feet Towards (HU/FT) opponent.
+ÚÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ ³ b_f                  ³ Roll Backwards or Forwards                        ³
+³ ³ d+1                  ³ Roll Down then Stand                              ³
+³ ³     D+1              ³ Roll Down into Head Down Feet Towards (HD/FT)     ³
+³ ³ 1                    ³ Roll Up                                           ³
+³ ³ u                    ³ Roll Up                                           ³
+³ ³  while rolling up 3_4³ Low Trip (3) or Mid Hit (4)                       ³
+³ ³ 3_4                  ³ Tail Hit (mid)                                    ³
+³ ³ d+3_4                ³ Ankle Tap                                         ³
+³ ³                      ³                                                   ³
+³ ³ f,f+1+2              ³ Somersault Forward #1                             ³
+³ ³ b,f+1+2              ³ Roll Back, Somersault Forward #1                  ³
+³ ³ b,b+3+4              ³ Kickup                                            ³
+ÀÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+        #1 SOMERSAULT FORWARD
+If blocked, results in a large guard stun. Most characters get a free punch
+hit, Gon gets a free Woodpecker or Lift-Off.
+
+The last recovery options are not available to some characters, such as the
+Ogres, Lei and Hwoarang.
+Recovery techniques can be "chained" together.
+
+[B]3.                                               _
+   _ __ ___   _____   _____        __ _ _ __   __ _| |_   _ ___  ___ ___
+  | '_ ` _ \ / _ \ \ / / _ \_____ / _` | '_ \ / _` | | | | / __|/ _ Y __|
+  | | | | | | (_) \ V /  __/_____| (_| | | | | (_| | | |_| \__ \  __|__ \
+  |_| |_| |_|\___/ \_/ \___|      \__,_|_| |_|\__,_|_|\__, |___/\___|___/
+                                                      |___/
+
+                        ADVANCING PUNCHES       5                                   
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ This move is not as good as the Woodpecker. It's slow, has very short range ³
+ and is [high, mid, mid]. The advantages are that it's easy to do and its    ³
+ good for a quick hit if they whiff. The first hit is high, so it CAN be     ³
+ duck-blocked by any opponent! After which an iWS (instant while standing)   ³
+ move or juggle is perhaps possible (though WS is probably too slow). Use    ³
+ with caution.                                                               ³
+ Use to hit a Gon opponent who has used Deer Strike (which you blocked).     ³
+                                                                             ³
+                        ARMADILLO ATTACK to DEER STRIKE         6            ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ This should be applied whenever the opponent is running away. It is quick  
+³ and will cover the distance in no time. The Deer Strike will do more damage
+³ if it hits, but if blocked they get a free hit (usually a juggle). At      
+³ close range the enemy will be cut through, at longer range they will be hit
+³ with a "class one launcher" (think of a Hwoarang Sky Rocket).
+³ Works beautifully against Dr. B, especially when he does Doc Mobile (d+3+4).
+³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+³
+³ Executing the Deer Strike does not do extra damage, but it has a nice
+³ launcher. Although there are no juggles are guaranteed combos it consumes a
+³ lot of time. However, the Armadillo Attack is a lot safer. If blocked, they
+³ receive a stun which leaves you at no frame disadvantage (ie no free hit).
+³ Consider the risks and advantages and choose whether Deer Strike is good
+³ value (you can do it late into the move).
+³
+³ Deer Strike forms some good okizeme when they are quite far away, though at
+³ that range a run-in shoulder barge will also work. Deer Strike will give a
+³ small launch when they are hit on the ground. It might work after they have
+³ been hit by a previous Deer Strike (the range is perfect).
+³
+³                       BAD DOGGLE      7
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ Simple, easy to do, but it still takes a while to execute. Still, after a   ³
+ whiff or blocked move you can usually get away with it. Basically the move  ³
+ you can do in BT (back turned) stance by pressing 4.                        ³
+ This move has earned 7/10 because of it's Tekken Force potential. It has the³
+ right damage to kill a Crow. Otherwise it's bad recovery makes it a less    ³
+ useful move, maybe used in okizeme.                                         ³
+ Recently the computer has successfully abused this move against another     ³
+ person. The secret is to keep back when you do it, and you should be able to³
+ get plenty of hits off them.                                                ³
+                                                                             ³
+                        BATTERING RAM   6                                    ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ A move that sweeps them off their feet, and most commonly effectively out of
+³ a cancelled crouch dash. The feet sweep leaves way for interesting okizeme,
+³ and the Battering Ram itself hits grounded opponents. The weak point is it's
+³ execution speed, and that it's highly linear.
+³ If blocked Gon will spin like a top, and fall down.
+³
+³                       BUTT SLAM       5
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ Gon rises into the air, then falls back down and hits them. There are       ³
+ better air moves around, but the recovery isn't too bad. Used for it's      ³
+ creative merits, because if you use u/f instead of u, sometimes you can jump³
+ over them, end up FT/FD (feet towards, face down) and get a backward slide. ³
+                                                                             ³
+                        BUTT STOMP      7                                    ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ Due to the "trick" d/f+3+4 ending which surprises opponents (who expect you
+³ to retreat; mid hit) Butt Stomp has earned an extra 1.5 points. It does not
+³ require WC (while crouching), so is quicker and easier to execute than
+³ Dopple Daley (but slower in execution).
+³ You can either retreat, and take them with you if they're too close, or
+³ attack forward which suprises many opponents. The d/b variant can be finished
+³ with a guaranteed 4 tail hit.
+³
+³                       CLEAN SWEEP aka WIPE THE FLOOR  10
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ This is a very quick and easy move that'll also sweep them off their feet,  ³
+ but only if the second hit hits. Use often as there is little charge up.    ³
+ It's advantage is that it hits low but you don't need to crouch to execute. ³
+ Works well out of FBT, and it tracks - if they side step the first hit they ³
+ will still most likely be hit by the second swipe.                          ³
+ It's basically Alex/Roger's Tail Tripper but BETTER, it's two hits instead  ³
+ of one!                                                                     ³                                               ³
+                                                                             ³
+ Most effective against Xiaoyu in Phoenix Stance, and if blocked does not    ³
+ leave you open to retaliation, for WS+4,4 Deck Kicks and Skyscraper Kicks,  ³
+ as used by Jin, Hwoarang, Julia and friends. It is totally safe against     ³
+ Jin's and Xiaoyu's WS+2 juggle.                                             ³
+ This move actually involves a guessing game for the opponent. If you do only³
+ one swipe, then they must do WS+4,4 immediately, or else you can [active]   ³
+ block. But if they guessed wrong and you do do both hits then they will be  ³
+ hit. Again, if you do both hits, you could be hit; but if they plan on only ³
+ one hit then you are safe. Mix up between doing only one or both swipes.    ³
+                                                                             ³
+ It's perhaps better than Alley Kicks, and Roger's SS+4, because there is no ³
+ sweep stun. ABUSE this move against Xiaoyu. It's totally safe from juggles, ³
+ and it can't be low-parried (as with all Gon moves), and will keep her out  ³
+ of her stances.                                                             ³       ³
+                                                                             ³
+                        DINO DRILL      6                                    ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ This is usually done after some Tail Spins as a mixup, but can also be done
+³ individually. Gon will spin at (and back off) them. Unfortunately, it will
+³ not knock them over even if it hits, and then can hit you while you're
+³ grounded. Use as part of a Lift-Off combo for style points.
+³
+³                       DOPPLE DALEY    6
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ The big brother of the Butt Stomp, it will only do a 180ø movement and is   ³
+ significantly faster. Perfect for a retreat, or to be amusing. It can be    ³
+ finished with a 4 tail hit. It's valuable because inexperienced players will³
+ recognise this as a Butt Stomp, and be hit by the second hit.               ³
+                                                                             ³
+                        FOOT PALM       7                                    ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ This simple move can be effective as it will knock them back very far if it
+³ hits, hence a free run-in shoulder barge. It's also fairly quick (and easy)
+³ to execute. Suprise your opponent with it.
+³ Although its a right foot move, but Heihachi can't right-foot reverse it!
+³
+³                       FORWARD HOPKICK 8   
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ Use this judiciously to juggle, for example, two hopkicks followed by a     ³
+ Lift-Off, or Offensive Nap. A good combo start, better recovery than with   ³
+ Lift-Off, but not quite as good as Shoulder Nudge. You can do a Backward    ³
+ Hopkick after a Forward Hopkick, but the timing is tight and damage minimal.³
+                                                                             ³
+                        FRANKENSTEINER  7                                    ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ Gon will execute a King-style flip. It's even done the same way. Generally 
+³ not very useful as it's too easy to be hit, and if it misses you become    
+³ okizeme target practice, but good against ducking opponents. This move hits
+³ grounded opponents. It will not "cling" to opponents and throw them, so it's
+³ not as good as King/Roger/Alex Frankensteiners. However, it has similar uses
+³ against wave dashers; I quote extensively from Daltamare's Roger FAQ:
+³ "Also, when the opponent crouchdashes, do this. If its hellsweeps, you will
+³ massacre them. If its TGF you will beat them to it. If its WGF again you
+³ will beat them to it."
+³
+³                       GUARD BREAK     8
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ This will stumble them (guard break, no guaranteed follow-ups), and do      ³
+ damage on some major counters. Use to break a complex combo or move, or to  ³
+ stall for time (be careful with this). Timed perfectly, an infinite ground  ³
+ juggle with Woodpecker can be set up.                                       ³
+ Not quite as good as Alex/Roger's, because it does not do damage. Against WC³
+ opponents it will knock them to the floor, for some free okizeme. The       ³
+ tracking is quite good, and will keep tech-rolling opponents on the ground. ³
+                                                                             ³
+                        HEAD BUTT       5                                    ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ Yet another King-style move, this may catch some players off guard. A Head 
+³ Butt, however, is not as good as a shoulder barge, so you should have a good 
+³ reason to do this instead. It's mid, but seems to work better than the                                                
+³ shoulder barge when they recover. Good recovery.
+³
+³                       HELICOPTER      8
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ This has been found to be an excellent move. It's mid, high, mid, low which ³
+ confuse your opponent, and if the last (low) hit connects, you are          ³
+ GUARANTEED a standard Lift-Off or Hopkick juggle, even WITHOUT a counter hit³
+ (although it doesn't hurt, unless they're pushed too far away), making it   ³
+ extremely powerful. At close range, you are also guaranteed your inescapable³
+ throws, and in general once one hit connects the rest will always connect as³
+ well.                                                                       ³
+ The first mid hit will only hit against large characters (and characters    ³
+ recovering standing) if you did u+3+4. The move is done "while jumping 3+4",³
+ which gives more possibilities in doing it as a mix-up. Hits side stepping  ³
+ opponents as a bonus.                                                       ³
+ Not totally abusable, because it can be interrupted while you're executing  ³
+ it. Can be done effectively out of FBT. The damage (especially off the free ³
+ juggle) is quite good: 40 damage plus juggle.                               ³
+                                                                             ³
+                        LIFT-OFF        10                                   ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ The all purpose move. Use to interrupt, juggle, start combos or just to get
+³ out of harm's way while you stall for time. It's quick, easy to do and is  
+³ the main combo starter. Can also be "tagged" out of a crouch dash.                                                   
+³ This launches very high, rivalling even Deer Strike and Hwoarang's Sky
+³ Rocket. I would probably describe it as a "class zero launcher". OK, so such
+³ a classification does not exist, but when Julia's f+1+4 Heaven Cannon counts
+³ as a "class one", it just doesn't do justice to the wonderful launching
+³ ability of this move.
+³
+³                       LOW BLOW        8
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ This is used if your opponent is blocking all your moves. It appears low,   ³
+ but it's actually a mid move. Your opponent will block low, therefore you'll³
+ get a nice free hit, with a few guaranteed choices afterwards, the Advancing³
+ Punches or Lift-Off (no juggles afterwards).                                ³
+ It also has the advantage of making Gon miss most of the opponent's moves.  ³
+ Use after some Tail Spins for variety, with perhaps a side roll to avoid the³
+ low pecks.                                                                  ³
+                                                                             ³
+ NOTE: This move is listed in the Command List as d+3+4. That is incorrect.  ³
+                                                                             ³
+                        MID-AIR RECOVER 7                                    ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ Not just limited to True Ogre, Gon has this almost unique ability to land  
+³ on his feet after a juggle. But note your opponent can take advantage of an
+³ "escape happy Gon player" by getting extra hits. Holding b should send you a                          
+³ bit further back. Timed properly it is useful, and like all moves should be
+³ used to surprise the opponent. When done so, the Mid-air Recover is a lot
+³ more effective.
+³ See the Tekken Ball section for an interesting use.
+³
+³                        NAP     6.5
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ Gon will regain his health. *This method will make Gon in HT position       ³
+ (Head Towards) so you are vulnerable to incoming charges. However, if       ³
+ Yoshimitsu gets on his sword (u+1+2), just side step twice and Nap. Napping ³
+ is the fastest way in Tekken3 to recover health, 10 points per second.      ³
+                                                                             ³
+ The Nap is particularly useful against Ogre Infinity Kicks.                 ³
+ *Nap will make Gon reverse his head direction. Therefore, if he is standing ³
+ and facing the opponent, he will nap with his head towards the opponent. If ³
+ back-turned, his feet will face the opponent. Hence it is very useful if you³
+ are back-turned (you are less vulnerable grounded than you are back-turned).³
+                                                                             ³
+                        OFFENSIVE NAP   8                                    ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ This Lei-inspired nap will launch Gon towards the opponent, and usually
+³ squash them beneath him, otherwise he will flip back. Use after a Lift-Off
+³ for a quick and easy 55-damage string (not guaranteed).                                                  
+³ If your opponent is slow to recover, uses a stand-up recovery, or stays on
+³ the ground (Lei) then this is a good okizeme move, with excellent damage.
+³ However, it's not guaranteed, and if the recover quickly you'll end up on
+³ the ground with them doing the okizeme honours.
+³
+³                       1-2 CRUSH       8
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ This will send Gon a bit into the air, and land with a sequence of 2 quick  ³
+ hits. If they are attacking a lot, then this will sometimes work. But if it ³
+ misses, they get a free low hit.                                            ³
+ This move will duck under many moves. Plus it has that okizeme touch. Use   ³
+ against Lei "Play Dead" fanatics.                                           ³
+                                                                             ³
+                        ROGER PUNCH     8                                    ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ Gon will roll his fists back, then knock them forward a lot. If blocked, it
+³ breaks their guard so a Tail Spin is guaranteed. Also, try the Double Roger
+³ Punch. Do two consecutive Roger Punches, the first will stun if blocked and
+³ the second will then hit them back unless active blocked (whereupon they   
+³ are stunned a bit - no disadvantage). The chargeup time and range leaves a 
+³ bit to be desired, but can be done out of FBT. It's a good move, but should                                                        
+³ not be done more than once in a match (twice if they're newbies :-) ). Hits
+³ mid, which makes it better than Windmill Punches :-).
+³
+³                       RUN AROUND      7
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ Looks a bit like Heihachi's shadow steps, you can't do anything while moving³
+ but it avoids a lot of moves and is great for stalling for time. Compensates³
+ for Gon's mediocre side stepping / rolling, but not perfect.                ³
+                                                                             ³
+                        SHOULDER NUDGE  7                                    ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ The one unique move out of his crouch dash, the Shoulder Nudge is also a   
+³ light launcher but hard to execute. Some combos can be started with this
+³ move. Not as powerful as WGF, but if you always crouch dash this is a useful
+³ move. It also hits tech-rollers.
+³ However, if you can crouch cancel this is not as useful because there are
+³ plenty of other good Gon moves. The advantage is that Gon stays on his feet
+³ while and after executing Shoulder Nudge.
+³
+³                       SOMERSAULT      6
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ A bit like the Head Butt. If Gon misses, he will flop on his belly so this  ³
+ is a risky move, done more to show off. Similar properties to Head Butt,    ³
+ that is, it will hit recovering opponents. Appears to be high at close      ³
+ range, and low at long range.                                               ³
+                                                                             ³
+                        SPIN CYCLE      10                                   ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ Use this after they are launched to add some extra power. Also hits tech   
+³ rolling opponents, this will teach them to stay down (whereupon standard   
+³ okizeme technique applies). Use this move often as part of your everyday   
+³ arsenal, especially from FBT, against side stepping opponents, and large
+³ grounded opponents. At 40 damage you can't afford not to use this.
+³
+³ Also used extensively in Tekken Force. However, it's special mid.
+³
+³                       TAIL SPIN -> fire       10
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ Please check section [C]3.                                                  ³
+                                                                             ³
+                        2 FOOT LANDING ZONE     6                            ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ Similar to Butt Slam. The recovery of the move is slow, as Gon goes into
+³ HT/FD (head towards face down). However, there is now a use for this move:
+³ if the u/f+1_2 variation is done while next to the opponent, you can
+³ actually jump OVER your opponent! Then since they are behind you, you can
+³ back-scoot them! :-)
+³ Or attempt a turn-around back-throw.
+³ Remember, while in HT/FD you can press d+1 to turn over, holding d to stay
+³ flipped (otherwise you will stand). This also applies to whenever Gon is on
+³ the ground - for example, after Electric Guard, or one of his Naps.
+³
+³                       WOODPECKER      10
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ This is the all purpose move that is as highly prized as Lift-Off. You can  ³
+ even do Delayed/Infinite Woodpecker for excellent combos, using this you    ³
+ can have an almost invincible attack. Use all the time, twice after meals   ³
+ three times a day. Excellent recovery, damages quickly and just right for   ³
+ Time Attack, at around 4 seconds a health bar. Has a nasty guard stun.      ³
+ Once it hits, the Infinite Woodpecker will continuing hitting them unless   ³
+ active blocked. Section s15, "Tricks of Gon", covers the Woodpecker         ³
+ extensively.                                                                ³
+                                                                             ³
+                        STANDARD WS MOVES                                    ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ After a ducked high hit, WS (while standing) moves are an obvious choice,
+³ and can also be done out of a crouch/wave dash. However, a throw could be
+³ more suitable, if less obvious, because it does more damage than the small
+³ juggle available off the WS moves.
+³ If the opponent duck blocks, a WS+1_2 will make them fall backwards, but no
+³ juggle. WS+3_4 will hit grounded opponents.
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ U N B L O C K A B L E S ³
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+³                DINO BREATH (fire)      10
+³
+³ This is a good overall unblockable, for Gon and compared to all other      
+³ characters. It charges quickly, and will knock them back if they were
+³ standing. This is a good okizeme move (see below). Does 20 damage.
+³ Also evades Julia's Twin Arrow (1+2) sometimes. Opponents can jump over it
+³ - except large characters like Gunjack, True Ogre and Kuma/Panda.
+³
+³ u/b+1 Lift-Off, then Dino Breath is a guaranteed combo. They can try to stay
+³ on the ground, tech-roll/quick recover, stand up, anything: it will still
+³ hit them because of the advantage you have, and it tracks a bit. You'll get
+³ either the Dino Breath Okizeme, or the Infinite Run-In. At 41 damage plus
+³ bonuses, this is highly useful.
+³
+³               "GON WITH THE WIND"     10
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ This will create a...cloud of dust, that has the unusual property of        ³
+ repelling trespassers (Kuma-style), like a barrier. It lingers quite a      ³
+ while, both computer and human alike will often run into one because it     ³
+ appears to have dissipated. Plus, Gon FBT stance uses this move.            ³
+                                                                             ³
+                STOMP CHARGE    6                                            ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³ This unblockable takes a long time to charge up and is only really useful  
+³ if they are attempting a long High sequence (where the hits will miss you).
+³ It does 100 damage basic, sometimes an extra 1. If it hits, Gon will nap   
+³ with Feet Towards. Bonus: When charged up (1+2+3+4), it does 150 damage!                                                        
+³ That's the entire health bar plus a bit more.
+³
+³               ELECTRIC GUARD  5
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ This move has two hits (2nd hit optional). It will electrocute anyone on    ³
+ top of Gon, however, unlike Jin's Electric Guard you can still be hit while ³
+ protected. Recovers into HT/FU, if the second part is executed.             ³
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+[B]4.            _   _            _                          _
+      __ _ _ __ | |_(_)       ___| |__   __ _ _ __ __ _  ___| |_ ___ _ __
+     / _` | '_ \| __| |_____ / __| '_ \ / _` | '__/ _` |/ __| __/ _ \ '__|
+    | (_| | | | | |_| |_____| (__| | | | (_| | | | (_| | (__| ||  __/ |
+     \__,_|_| |_|\__|_|      \___|_| |_|\__,_|_|  \__,_|\___|\__\___|_|
+
+        For each entry, there's some brief advice, and also moves of interest
+because they can be entirely duck blocked - either because they have low and
+high components, or because they're mid moves that just miss Gon!
+
+IN ORDER OF LISTING
+-------------------
+1.      Lei Wulong
+2.      Jin Kazama
+3.      Julia Chang
+4.      Gon
+5.      Ogre / True Ogre   
+6.      Mokujin
+7.      Yoshimitsu
+8.      Hwoarang
+9.      Doctor Boskonovitch (Dr. B)
+10.     Eddy Gordo / Tiger Jackson
+11.     Paul Phoenix
+12.     Forest Law
+13.     Bryan Fury
+14.     Heihachi
+15.     Anna / Nina
+16.     Kuma/Panda
+17.     King
+18.     Gunjack
+19.     Xiaoyu
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                                LEI WULONG
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        Lei has good mixups, but with one major weakness: they can almost all³    
+ be blocked ducking! His WS moves are the main mid moves that work against   ³
+ Gon.                                                                        ³
+                                                                             ³
+        MOVES YOU CAN DUCK:                                 Command Sequence ³
+                                                                             ³
+                1. Razor Rush                   f,N+1,2,1,2, end with 3 or 4 ³
+                2. Guard Melting Punches                        f,N+2,1,2,1  ³
+                3. Rush Combo Razor Kick                         f,N+4,1,2,3 ³
+                4. Razor Sweep Rave Spin                              d+4,4  ³
+                5. Snake Stance moves                                        ³
+                                                                             ³
+        Against Lei, stay low and you should be fine, as long as you watch   ³
+ out for WS moves.                                                           ³    
+                                                                             ³
+                                JIN KAZAMA                                   ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³       Jin is a favourite character of many, but he's not that good against
+³ Gon because his important moves miss.
+³
+³        MOVES YOU CAN DUCK:                                 Command Sequence
+³
+³               1. Wind Godfist                                          CD+2
+³               2. White Heron                                  1+4, 2, 4_d+4
+³               3. Flash Punches                                        1,1,2
+³               4. Spinning Demon                                 u/f+4,4,4,4
+³
+³       There are a few moves to watch out for:
+³               1. CD+4,4 hits low first and can juggle Gon.
+³               2. Stomach Rush (f,f+2) hits mid.
+³               3. WS+2 will juggle you if one of your low moves is blocked.
+³
+³       If your low move is blocked, do d+1 to try to stop his WS+2. If he
+³ tries his unblockable, do the Nap to regain health.
+³
+³                               JULIA CHANG
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        Julia has good mixups with few high moves. But no Mad Axes against   ³
+ Gon.                                                                        ³
+                                                                             ³
+        MOVES YOU CAN DUCK:                                 Command Sequence ³
+                                                                             ³
+        1.                                                             4,4,4 ³                                                                            ³
+                                                                             ³
+        Her Box & Arrow has different properties on Gon. On standard         ³
+ characters, if the first 2 hits connect, the 3rd hit will always connect,   ³
+ but this does not apply to Gon.                                             ³
+                                                                             ³
+        Due to the slow start-up time of Julia's 1+2, you can time a Dino    ³
+ Breath (also 1+2) against it.                                               ³
+                                                                             ³
+                                    GON                                      ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³       Use only fast recovery and powerful moves (those rated 8 or above).
+³ This is because even fast moves like a Lift-Off, when blocked, can lead to a
+³ counterhit!
+³
+³        MOVES YOU CAN DUCK:                                 Command Sequence
+³
+³               1. Roger Punch                                            b+1
+³
+³       You can also be thrown by another Gon, so you might want to keep out
+³ of range, or duck when you see it - they are inescapable.
+³ Gon.
+³
+³                               OGRE / TRUE OGRE
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        Playing with fire:                                                   ³
+                                                                             ³
+                1)      Hell's Flame (1+2) does only 1 damage to Gon.        ³
+                                                                             ³
+                2)      Blazing Inferno (d+1+2) usually needs to be ducked,  ³
+                        but will miss against Gon. Note: Gon is not          ³
+                        invulnerable against it - if you jump into it you    ³
+                        will be hit!                                         ³
+                                                                             ³
+                3)      Dino Breath (1+2) is very effective against True Ogre³
+                        since he is so large.                                ³
+                                                                             ³
+                4)      In Ball Mode, if True Ogre uses fire on the ball it  ³
+                        will stun normal characters who block it, but this   ³
+                        does not work on Gon.                                ³                                             ³
+                                                                             ³
+        MOVES YOU CAN DUCK:                                 Command Sequence ³
+                                                                             ³
+                1. Owl Attack                 [True Ogre] while grounded 3+4 ³                                                                           ³
+                2. Flash Punches                                       1,1,2 ³
+                                                                             ³
+        Use only fast recovery moves as the Ogre's have very good b+2 and f+2³
+ moves! Keep him blocking so that they can't use Just Frame Hunting Hawk     ³
+ High.                                                                       ³
+                                                                             ³
+        Since Gon cannot side roll effectively, Infinity Kicks               ³
+ (WS+3,3, d+3_d/f+3, 3_d+3_u+3, 3_d+3_u+3 ...) are very good against Gon. The³
+ best countermeasure is to Nap (d+1+2). You'll start recovering health, and  ³
+ the kicks will miss - even the low variant.                                 ³
+                                                                             ³
+        No Wanning Moon (d/f,d/f+2+4) throw. An effective okizeme move is    ³
+ Lunging Double Fist (f,f+1+2). It's not unblockable, but has a lot of range.³
+ If you are grounded you should quick recover and block immediately.         ³
+                                                                             ³
+                                MOKUJIN                                      ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³       Mokujin shouldn't intimidate you. You don't know who they are ... but
+³ neither do they!
+³
+³       Mokujin cannot be:
+³
+³               a) Gon
+³               b) Ogre / True Ogre
+³               c) Dr. B
+³               d) Anna
+³
+³       If Mokujin is carrying a sword then it's Yoshimitsu.
+³
+³                               YOSHIMITSU
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        Look out for Yoshi Flash (b+1+2), if you are hit they get a Pogo hit ³
+ afterwards. Pogo Stance is very good against Gon, as most moves will not    ³
+ work against it. There are two main strategies against it.                  ³
+                                                                             ³
+        1) Use Lift-Off or Spin Cycle against it. They're mid moves but work.³
+                                                                             ³
+        2) Side roll a few times and then nap. Yoshimitsu will be off-axis   ³
+ and cannot hit you.                                                         ³
+                                                                             ³
+                                   HWOARANG                                  ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³       Don't get launched by CD+4 Sky Rocket, as there are many juggle
+³ possibilities.
+³
+³        MOVES YOU CAN DUCK:                                 Command Sequence
+³
+³               1.                                                      d+4,4
+³
+³       If Hwoarang does his flamingo sidestep, use a move that hits all
+³ around you, such as Helicopter or Spin Cycle.
+³
+³                       DOCTOR BOSKONOVITCH (DR. B)
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        Dr. B has lots of low and mid moves, but if you keep him on the      ³
+ ground with moves like Dino Breath, Armadillo Attack and Clean Sweep you can³
+ win easily.                                                                 ³
+                                                                             ³
+        Dr. B cannot stand or block very well, so use small pokes.           ³
+ Alternatively, if he is staying grounded you could always Nap.              ³
+                                                                             ³
+        Gon's moves cannot be "ducked to true stance".                       ³
+                                                                             ³
+                        EDDY GORDO / TIGER JACKSON                           ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³       Block low.
+³
+³                               PAUL PHOENIX
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        Paul will most likely use his Tile Splitter (d+1) with it's low and  ³
+ mid variants. QCF+1, which is high, hits Gon, but his mid Death Fist misses.³
+                                                                             ³
+        MOVES YOU CAN DUCK:                                 Command Sequence ³
+                                                                             ³
+                1. Death Fist                                          QCF+2 ³                                                                            ³
+                                                                             ³
+        Paul's unblockable (b+1+2) misses Gon, while Law's d/b+1+2 will hit. ³
+                                                                             ³
+                                FOREST LAW                                   ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³       Watch out for the "Half Junkyard" - b+2,3,[4] and very quick recovery.
+³ It's a good poke, and it starts mid and ends low. The optional third hit can
+³ be used if you try to interrupt it, but it's still possible to do a quick
+³ poke.
+³
+³       Dragon Tail (d/b+4) will hit Gon while he is grounded. Quick Recover
+³ (u/b+2) and low block.
+³
+³       Paul's unblockable (b+1+2) misses Gon, while Law's d/b+1+2 will hit. 
+³
+³                               BRYAN FURY
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        Bryan can use d/f+3, which leads to some powerful combos, and can    ³
+ also use f,f+3 as his main mid move.                                        ³
+                                                                             ³
+        His b+1+4 and faster, weaker f+1+4 unblockables will hit Gon.        ³
+                                                                             ³
+                                HEIHACHI                                     ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³       Heihachi has a mid hitting WGF, so be careful. He also has the Tile
+³ Splitter (d+1, b+2). His Hellsweeps (start with CD+4) are good as they can
+³ have a mid component, so you can't just duck.
+³
+³       You can hit him out of his d+1+4 unblockable (which hits Gon) any way
+³ you like, as his automatic right kick counter does not apply against Gon.
+³
+³                               ANNA/NINA
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        Can't be slapped.                                                    ³
+                                                                             ³
+                                KUMA/PANDA                                   ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³       Stay close so that he can't use moves like f,f+2 and f+1+2 which are
+³ are slow, and because the Bear Cannon (f+1,1,1) starts with two high hits.
+³
+³       Lift-Off juggles don't launch very high because of Kuma's size, but
+³ you do have more okizeme opportunities.
+³
+³       The Overhead Smash (1+2), like Law's Dragon Tail, hits Gon even if
+³ he's grounded, so you should Quick Recover.
+³
+³       Kuma does not have many low moves. d/f+2,1 is good, as is Salmon
+³ Hunting (b,f+2+3) which appears mid, but is actually low and does 60 damage.
+³
+³                               KING
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        Practice against the Alley Kick mixups.                              ³
+                                                                             ³
+                                GUNJACK                                      ³
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+³       Use the strategies used against Kuma / Panda. Also, if Gunjack does
+³ the unblockable 3+4 move you should run towards and under Gunjack, and then
+³ do whatever you prefer such as Dino Breath (1+2) after the move completes.
+³ You could also side roll to avoid the move.
+³
+³                               XIAOYU
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        Xiaoyu cannot block while in stances, so attack often. Use tracking  ³
+ moves like Clean Sweep (f+3,3) and Woodpecker.                              ³
+                                                                             ³
+        If Xiaoyu is ducking and blocks a Clean Sweep, you can't be hit by a ³
+ WS+2 juggle (whereas most characters will), but a WS+4 kick will hit so     ³
+ don't use Clean Sweeps in an overly predictable way.                        ³                                                             ³
+                                                                             ³
+        Xiaoyu's 1,2, as a high move, does not work. However, X Marks The    ³
+ Spot (f,f+1+2) does, and works as okizeme.                                  ³
+                                                                             ³
+        Taunts and parries don't work against Gon.                           ³
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+[C]1.                                 _            _           _
+             ___ _ __ ___  _   _  ___| |__      __| | __ _ ___| |__
+            / __| '__/ _ \| | | |/ __| '_ \    / _` |/ _` / __| '_ \
+           | (__| | | (_) | |_| | (__| | | |  | (_| | (_| \__ \ | | |
+            \___|_|  \___/ \__,_|\___|_| |_|   \__,_|\__,_|___/_| |_|
+
+        The sequence f,N,d,d/f executes a crouch dash, just like the Mishimas.
+Unfortunately, it's not quite as useful as Gon can only do mid moves out of
+it - the Shoulder Nudge or WS moves.
+
+        However, with Crouch Dash Cancelling you can do any move! The basic
+technique is f,N,d,d/f,f + move.
+
+        For example, to do a crouch dash into Deer Strike, it's:
+                f,N,d,d/f,f, f+1+2
+
+        You could also do a very quick forward dash:
+                f,N,d,d/f,f,f
+
+        If you cancel a crouch dash into another one, you get a Wave Dash,
+though it's quite hard to do:
+                f,N,d,d/f,f, f,N,d,d/f,f
+
+        Mix up low and mid moves such as Battering Ram and Lift-Off, or use
+the inescapable throws.
+
+[C]2.                       _ _   _     _   _                   _           _
+  __ _  ___  _ __ __      _(_) |_| |__ | |_| |__   _____      _(_)_ __   __| |
+ / _` |/ _ \| '_ \\ \ /\ / / | __| '_ \| __| '_ \ / _ \ \ /\ / / | '_ \ /  _`|
+| (_| | (_) | | | \\ V  V /| | |_| | | | |_| | | |  __/\ V  V /| | | | | (_| |
+ \__, |\___/|_| |_| \_/\_/ |_|\__|_| |_|\__|_| |_|\___| \_/\_/ |_|_| |_|\__,_|
+ |___/
+
+        After Gon with The Wind is executed, Gon cannot move while he
+recovers. During this time he is very vulnerable to attack. However, you can
+cancel this recovery phase (hence making yourself safer) by executing another
+move.
+
+        This make the move more unpredictable. For example, an opponent may
+wait for the move to finish, before coming in for the attack. You can do Gon
+with The Wind, then f+3,3 afterwards, tripping the opponent as they come in.
+
+        Spin Cycle also works well. It will appear that Gon executes the move
+and then the Spin Cycle in one fluid attack. It's very effective because it
+hits side stepping characters, and does 40 damage.
+
+        You can also do a Gon with The Wind after one - because Gon does not
+need to turn around it will be faster, but not infinite - a d+4 can hit Gon
+out.
+
+        Other possible moves are Roger Punch, and Infinite Woodpecker.
+
+[C]3.        _        _ _           _           __   __ _
+            | |_ __ _(_) |___ _ __ (_)_ __      \ \ / _(_)_ __ ___
+            | __/ _` | | / __| '_ \| | '_ \ _____\ \ |_| | '__/ _ \
+            | || (_| | | \__ \ |_) | | | | |_____/ /  _| | | |  __/
+            \__\__,_|_|_|___/ .__/|_|_| |_|    /_/|_| |_|_|  \___|
+                            |_|
+
+        Also known as the Rising Gonfist.
+
+        The Tail Spin -> fire is similar to a string, because it consists of
+multiple hits, none of which are guaranteed. It does around 60 damage if all
+the hits connect, and a Spin Cycle can be done afterwards, giving a total of
+97 damage (however, since the first hit is special mid, unless they advance
+into it or are otherwise hit by it you will not do the maximum damage).
+
+        The weak part of this move is the fire launcher. Even if the previous
+hits hit the launcher will still not definitely hit - if you have been hit by
+the tail spins you can still active block it. As an air move, you are very
+vulnerable as you come back down. However, the launcher is mid so it can't be
+blocked ducking.
+
+        If the move hit on a major counter, the launcher will always miss
+(both standing and low blocking) because the Tail Spins push them too far
+away.
+
+        The move begins with a special mid hit - the move is SM,L,L,L,L,m -
+just like Heihachi's Hellsweeps (a similar move), however, the first move will
+not do block damage if blocked standing, unlike Heihachi's move which does.
+
+        If you do not execute the launcher, the move recovers quickly and if
+they are anticipating the launcher and block standing, then you can do the
+Tail Spins again because they hit low (except the first hit).
+
+        If the Tail Spins are blocked, your opponent will be twisted slightly.
+However, this is not very useful in practice, as they will active block or do
+moves that reorient them.
+
+[C]4.                                      _
+                      ___ _ __   __ _  ___(_)_ __   __ _
+                     / __| '_ \ / _` |/ __| | '_ \ / _` |
+                     \__ \ |_) | (_| | (__| | | | | (_| |
+                     |___/ .__/ \__,_|\___|_|_| |_|\__, |
+                         |_|                       |___/            and poking
+
+______________________________________________________________________________
+ 1.     S P A C I N G  \............................................ spacing |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CLOSE RANGE
+-----------
+
+        Here you can throw them and use your d+1 and f+1 moves. This is also
+the effective range of some of Gon's more powerful moves, such as Woodpecker
+and Lift-Off. With these two moves you can interrupt most poke sequences.
+
+        Close range is useful because your opponent's low pokes like d+4 are
+best done at medium range, and also because Gon's throws are inescapable.
+
+MEDIUM RANGE
+------------
+
+        This is just a dash away, and is also where lots of characters prefer
+to be. Moves like Kuma's Double Claw/Pancake Press (f+1+2) are best done from
+this range. Tactics against Gon usually rely on keeping Gon at this range.
+
+        To get close to your opponent safely, you could use Dino Breath, a
+crouch dash, or Woodpecker. At this range you could also do on with The Wind
+to keep your opponent away to try and win on time.
+
+LONG RANGE
+----------
+
+        Gon has an advantage with long range that most characters don't: Gon's
+infinite Shoulder Barge.
+
+        Long range is not used very often.
+______________________________________________________________________________
+ 2.     P O K I N G  \............................................... poking |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        Gon's moves cannot be parried.
+
+f+3,3 Clean Sweep is a safe low move that keeps you standing and on guard.
+d+3 is another low swipe move that's slower. d/b+3 "kind of" looks like
+Roger's SS+4.
+3 or b+3 Surprisingly, this move knocks down opponents with 17 damage.
+d+4 Bad Doggle is Gon's primary mid move from crouching.
+b+4 Gon with The Wind is classified as a poke because it can force people out
+    out stances, and keeps them away.
+f+4 Another poke of no particular merit.
+4,4,4,4,4 The famed Tail Spins, which can chain in a launcher.
+d+1 Peck their feet. Surprising effective.
+
+        The d+1 is a useful move from crouching. While it's special mid, it
+will push Gon forward, keeping him in range where you can do another d+1.
+Woodpecker is also very effective due to it's stun and quick recovery.
+
+[D]1.            _            _     _
+                | |_ ___  ___| |__ | |_ _ __ __ _ _ __  ___
+                | __/ _ \/ __| '_ \| __| '__/ _` | '_ \/ __|
+                | ||  __/ (__| | | | |_| | | (_| | |_) \__ \
+                 \__\___|\___|_| |_|\__|_|  \__,_| .__/|___/
+                                                 |_|
+
+
+- INFINITE WOODPECKER GROUND JUGGLE
+Countermeasure: Attack so that a major counter occurs. You'll then be pushed
+away.
+
+An infinite Guard Break and Woodpecker ground juggle is possible. First launch
+them, a Lift-Off is good. When they fall down, Guard Break (d/f+1+2) them
+which bounces them on the ground, and do all three hits of the Woodpecker, but
+timing it so that the last hit does NOT hit them. If it does they are too far
+away. Do another Guard Break which will bounce them again. Then do the
+Woodpecker, with the same timing conditions.
+You can also just keep doing Guard Break. Hit Analysis shows you as red.
+
+- INFINITE WOODPECKER ANTI-TECH
+Countermeasure: Don't try to stand up, or recover. Stay grounded.
+
+Hold f to walk towards your grounded opponent, and turn it into a f+1+2
+(single Woodpecker hit) which will hit and ground them, and push them forward.
+Keep walking, when they are about to recover repeat process. Do not do more
+than the one hit or they will be pushed too far away.
+
+- CLEAN SWEEP ANTI-TECH
+Countermeasure: Don't try to stand up. You can however tech-roll.
+
+Hold f to walk towards your grounded opponent, and turn it into a f+3 (single
+Clean Sweep hit) which will hit them back down. Keep advancing and repeat
+process. Don't do more than the first hit or they will be hit too far away. If
+they tech-roll, you are still guaranteed two hits.
+
+- INFINITE RUN-IN
+Countermeasure: A well timed d+3_4 Ankle Tap. Or stay grounded.
+
+Gon's unblockable run-in shoulder barge can be done after a Dino Breath, but
+the attraction is: once an run-in shoulder barge hits, they are pushed
+sufficiently far away for another run-in shoulder barge. This is in effect an
+infinite cycle.
+
+- DINO BREATH OKIZEME
+Countermeasure: Attack so that it will be a major counter, where you will be
+pushed far away, out of Dino Breath range (they then get a free Infinite
+Run-In).
+
+If you opponent is grounded and fairly close, use Dino Breath and watch the
+fire. Then do another. Repeat as necessary. It is not possible to side roll,
+try to stand up or simply stay there, you will continue to be hit by the fire!
+But like the Demon Uppercut into Salmon Hunting trick for Kuma/Panda, it is
+escapable.
+
+[D]2.             _              _ _
+        _ __ ___ (_)___  ___ ___| | | __ _ _ __   ___  ___  _   _ ___
+       | '_ ` _ \| / __|/ __/ _ \ | |/ _` | '_ \ / _ \/ _ \| | | / __|
+       | | | | | | \__ \ (_|  __/ | | (_| | | | |  __/ (_) | |_| \__ \
+       |_| |_| |_|_|___/\___\___|_|_|\__,_|_| |_|\___|\___/ \__,_|___/
+
+> Gon's moves cannot be parried or reversed, but "pseudo reversal" type moves
+  are still effective. Examples are Xiaoyu's b+1, Yoshimitsu's b+1+4 and Gon's
+  b+1+2 (Ogre's Ancient Guard b+1+2 has not been verified).
+
+> > In determing whether to juggle escape, look at the type of combo. If it is
+    a repeating combo where they do the same move - for example, Julia's
+    elbows - then you should not because it will only get you into range
+    again. However, if the moves are different - for example, Jin's b,f+2,1,2
+    - then you should juggle escape.
+
+> > > Infinite Woodpecker (Delayed Woodpecker)
+
+        Press f+1+2, 1+2, 1+2 but release forward after one of the hits is
+almost complete. Then restart the sequence, just like cancelling a crouch
+dash. Because the Woodpecker causes a stun when blocked, it's extremely
+difficult to interrupt this sequence.
+
+        An example of a Woodpecker sequence is:
+                f+1+2,1+2~f+1+2,1+2,1+2
+
+        The Infinite Woodpecker has extremely fast hits - in Practice Mode,
+they are considered to be part of a combo. When executed, if the first hit
+connects, the rest will hit, doing an infinite amount of damage and allowing
+you to win in around 4 seconds. You have to active block if you don't want to
+lose all of your vitality.
+
+        When an infinite Woodpecker is used, you can mix up the sequence. For
+example, after the third (and final) hit of the Woodpecker, there is a small
+opportunity to try to poke you; if, however, you did f+1+2,1+2~f+1+2 ... (the
+example above), then the first Woodpecker actually stopped at two hits, and
+the second one starts. Since the 3rd and 4th hits are part of the same
+Woodpecker sequence, they flow almost perfectly and it is not possible to hit
+you out of it - if they try you will hit them.
+
+        Woodpecker Reference:
+
+1st hit = low damage (7). Fast, and pushes you forward a lot
+2nd hit = medium damage (14). Comes straight after the 1st hit, so if you used
+          the Infinite Woodpecker you will wrong foot and out-poke them.
+3rd hit = medium/high damage (21). A slower, but still fast hit. If it hits,
+          the opponent is pushed far away. You should not do the third hit if
+          they have not been hit yet, otherwise they might poke you out
+          afterwards (not of too much concern, but you want to out-poke them).
+          You can do this hit if you want, there is no disadvantage and does
+          extra damage and stun.
+
+        Gon's Woodpecker is special mid - while it can be blocked standing,
+there is a guard stun. You should always block it ducking, where there is no
+guard stun for blocking.
+
+        The infinite Woodpecker is better than F+1+2,1+2,1+2,1+2 (where you
+hold f+1 and then keep pressing 2) because:
+
+        1) You can mix up the Woodpecker, as explained above.
+
+        2) It appears to be faster.
+
+> > Stalling for Time
+
+        At medium range, use Gon with The Wind. This will keep them away. If
+they are still at medium range, keep repeating, which is quite fast because
+Gon does not need to turn around each time.
+
+        If they do get close, cancel the Gon with The Wind recovery with the
+u/b+1 variant of Lift-Off. This will allow you to retreat, and quite possibly
+juggle them.
+
+        You can also use Run Around (b+3+4), Dopple Daley, or the Woodpecker.
+
+> Head Butt Glitch
+
+        Try in Practice Mode. Choose Gon as your character and Hwoarang as the
+second character (the second character is unimportant; it's just traditional
+for the author to use Hwoarang).
+
+        Jump back with Gon twice, then step forward one step and execute
+f,f+3+4. Gon will launch towards Hwoarang, but will be automatically parried -
+even though Gon cannot be parried!
+
+        This occurs only at the arbitary distance that you can get through
+following the instructions above. However, you might need to change the
+distance slightly because you might do f,f+3+4 slightly differently and move
+too far forward.
+
+[E]1. Tekken                 _           _ _
+                            | |__   __ _| | |
+                            | '_ \ / _` | | |
+                            | |_) | (_| | | |
+                            |_.__/ \__,_|_|_|
+
+.: BASICS .:
+There are two ways to kill your opponent in Tekken Ball: you can let the ball
+touch the ground on their side, or hit them with a charged ball. Block damage
+applies.
+
+You charge a ball by using certain moves. The individual power bars at the
+bottom of the screen indicate how much damage the ball will do. Unblockables do not add power, and
+Yoshi's sword, on contact with the ball, will actually hurt him and reset the
+ball. An unblockable will, however, make the ball powered (capable of causing
+damage) if and only if power has been accumulated in the power bar.
+
+When the ball hits, the opponent loses health, and BOTH power bars are reset.
+A basic punch will nullify the *current* power of the ball. This means the
+ball stops flashing and will not damage you, however, the accumulated power in
+the power bar stays and can be used in their next hit.
+
+The amount of damage the ball does depends on the ball setting. There are 3
+different balls, Beach Ball (60% damage), Gum Ball (80%) and Iron Ball (100%).
+At the lower settings, letting the ball make contact with the ball is often
+much more damaging. At Iron Ball setting, a flaming (fully charged) ball is a
+one-hit KO if not blocked.
+
+.: SPACING STRATEGIES .:
+There are two positions you may be in: close to (or at) the line, or far back.
+Only the former option will be discussed in depth, as it is the most
+advantageous position.
+If you are close to the line, you can keep the opponent back and have the
+ability to choose between "hitting it short" (so that it makes contact with
+the ground on their side), or hitting it back, adding power.
+If you are far away, moves that pull you forward (like Paul's Death Fist) can
+be done slightly safer. Some characters like Lei need to stay back, so that
+their Razor Rush (or equivalent) can "chase" after the ball, adding damage.
+
+You can maintain your close spacing, and make them far away, using Dino Breath
+(1+2). Be in control of the ball. But sometimes you want them close - read
+below for details.
+
+.: BATTLE .:
+Gon does not have extremely powerful moves like Paul's Scissors Kicks
+(u/f+3,4) which do over 40 damage (more than the Deathfist). Nor does Gon have
+some great moves like Kuma does - Overhead Smash (1+2) can be done again if
+you missed the ball, and f+1+2 is fast and powerful, allowing you to control
+the centre. Gon does, however, have moderate moves and advantages.
+
+To start off the round, you should do a Spin Cycle. This will do 40 damage.
+This should be the only time you use this move, unless they hit it back
+straight, and slowly. It takes a long time to start. You could also wait for
+the ball to hover at it's high point, walk under, and nap, but Tekken Ball is
+not for pacifists.
+
+Your main arsenal for Ball is by virtue a contentious issue. Some people like
+to do d+1 pokes, using the background as a guide to the timing. Gon's will do
+the 8 damage as with all characters (except for Heihachi and Paul, who do it
+d/b+1). Unfortunately, his poke pushes him forward slightly, and has bad
+recovery.
+
+Successful strategies are to use Lift-Off all the time, and then use Gon with
+The Wind occasionally, or even Dino Breath. These moves, although they don't
+actually add extra power, can make it active again (if your power bar has any)
+and hit it back extremely quickly, which can surprise your opponent.
+
+All characters can do a simple punch (1_2) which will remove the current power
+from the ball and make it hover. You can then set up a powerful attack like
+Spin Cycle. Please note that the stored power in the power bar remains the
+same, even though the current power is mitigated.
+
+.: LIFT-OFF AIR JUGGLES .:
+Sometimes your opponent and you will both contest for the centre spot. This
+can be resolved in one of two ways. One is to use Dino Breath. But perhaps a
+better one is to hit them and the ball with Lift-Off, and keep repeating for
+as many times as it allows. You can effectively JUGGLE them with the ball,
+while using Lift-Off to charge up the ball. Lift-Off pushes them up
+sufficiently high. This juggle could be ended with a Spin Cycle, however, it
+can sometimes miss the ball. Keep hitting the ball; it can hit grounded or
+flying opponents, as charged balls will seek.
+
+I was once fighting against a good human player. We were both in the centre,
+on our last amounts of health. I was Gon, and took the initiative by trying to
+hit the ball (which had reset into the centre) with a Lift-Off. It missed, and
+my opponent hit me, whereupon I mid-air recovered, which lobbed the ball right
+over my opponent's head. Hence winning the match!
+Generally Mid-air Recover will not hit anything.
+
+.: MINOR ISSUES .:
+It is not possible to recover health in this mode, using Napping or other
+means. Yoshimitsu may stab himself as many times as he likes without suffering
+loss of health or earnings. If you throw them, you will have interesting side
+effects, but they do not lose health.
+Throwing the ball has not been confirmed, to be fixed in the next revision.
+True Ogre has some minor advantages with his fires (attack with fire, while
+charging the ball) but Gon is of course better (fire-proof). The stun normally
+associated with a ball hit with True Ogre's d+1+2 fire is not as evident
+(severely reduced), and 1+2 is also reduced in power.
+The Tekken Ball arena is Gon's home/native turf. That's why he's advantaged.
+
+[E]2. Tekken               __
+                          / _| ___  _ __ ___ ___
+                         | |_ / _ \| '__/ __/ _ \
+                         |  _| (_) | | | (_|  __/
+                         |_|  \___/|_|  \___\___|
+
+MY PERSONAL ACHIEVEMENTS (with proof):
+Score: 138330
+Force: 103
+
+BOSSES:
+1. Kuma
+2. Kuma
+3. Mokujin
+4. Heihachi
+
+Tekken Force on the easy difficulty level can be completed simply by setting
+left punch onto auto-fire (applies for Law as well). However, if you want to
+master Tekken Force, and hopefully win on some higher settings than Easy, then
+some strategy is needed.
+
+The first point to remember is that there is a time counter. You have to get
+through the level quickly, or you will lose. Wave dashing is important, and
+what makes Gon one of the best characters to complete Tekken Force (as well as
+Tekken in general). You can quickly get through the level using wave dashing,
+it's the fastest way, and with crouch cancelling you can do any move you like.
+
+Other good techniques is the run-in and unblockable shoulder barge, but you
+lose momentum after the first hit. Armadillo Attack are also good options and
+will do sufficient damage on anything in it's path. Deer Charge is not
+recommended because it's riskier, and you will miss the chickens.
+
+Spin Cycle is a powerful move, hits opponents all around you (neutralising the
+flanking problem), and can hit several with good range. When back-turned, Badd
+Doggle will kill a Crow.
+Use quick, powerful moves like Woodpecker. Stay on your feet, which means no
+Lift-Off, WS moves, or juggles. The basic enemy does not have enough health to
+warrant wasting valuable time on a juggle.
+
+If you have moved through the level quickly, you can Nap to regain your
+health. This is a very useful trick, though don't recover more than 3/4 of
+your health, there may be chicken lying around the corner. Look at the
+progress indicator at the bottom of the screen. If you are near the end, there
+will be a boss and some chicken.
+
+When fighting the boss, use juggles, Spin Cycle, Woodpecker, and any other
+standard strategies. Keep them on the screen; you may need to retreat.
+
+[E]3.         _   _                         _   _             _
+             | |_(_)_ __ ___   ___     __ _| |_| |_ __ _  ___| | __
+             | __| | '_ ` _ \ / _ \   / _` | __| __/ _` |/ __| |/ /
+             | |_| | | | | | |  __/  / (_| | |_| || (_| | (__|   <
+              \__|_|_| |_| |_|\___|   \__,_|\__|\__\__,_|\___|_|\_\
+
+MY PERSONAL ACHIEVEMENTS AND DISCLAIMER:
+My Time Attack record for Gon is just under 5 minutes (but is my best time for
+Tekken3 in general). Therefore, you may appreciate konqrr's Time Attack guide
+instead. However, the technique outlined below is not at fault; it is
+theoretically capable of finishing Time Attack in 1 minute 20 seconds.
+
+The key to finishing Time Attack quickly is to use powerful moves.
+Unlockables are not powerful: a Woodpecker can do 50 damage in a few seconds,
+while a Dino Breath does 20. A Stomp Charge does 100, however, it takes
+several seconds to charge up, and much productivity is lost in the time taken
+to recover from the ground. The goal is to finish Time Attack in under a
+minute - perhaps not possible for Gon - which allows you 3 seconds each fight,
+3 seconds x 2 fights x 10 rounds = 1 minute.
+
+The quickest way to damage them is to use Infinite Woodpecker. This will work
+for at least the first 3 rounds, and will kill them in just over 4 seconds,
+which makes it an incredibly powerful move (Yoshimitsu's suicide on a major
+counter can kill them in less than 1 second, while staying alive). What you
+should not do is wait after the Woodpecker for a counter opportunity; with
+Infinite Woodpecker, this is entirely unnecessary.
+
+When the computer learns to active block the Infinite Woodpecker, alternate to
+the Tail Spin -> fire, followed with the customary Spin Cycle. This will do 97
+damage (the remaining 30 hitpoints can be removed by any method convenient).
+By switching between two "combos", you can win Time Attack.
+
+Something that people new to Time Attack don't seem to understand is that you
+can continue. Therefore, if you are losing then you should actually kill
+yourself as quickly as possibly (for Yoshi, it's easy). That way, you will not
+spend all 40 seconds of the round circling your opponent putting little pokes
+in between. Timing out is a very slow way to win. It is better to die in 10
+seconds, and then kill them in 5 - that's only 15 seconds. There is no point
+in napping, because it takes too long. You may win the battle, but you lose
+the high score. Health is refreshed each round.
+
+Juggles are not very good, as they will take too much time to damage the
+opponent (esp. Julia's elbows). You won't find a use for Gon's unblockables -
+the exception may be FBT, when a powerful move like Spin Cycle is "tagged" on
+for reasonable, but not excellent damage.
+
+[E]4.                       _            _                        _
+       ___ _   _ _ ____   _(_)_   ____ _| |   _ __ ___   ___   __| | ___
+      / __| | | | '__\ \ / / \ \ / / _` | |  | '_ ` _ \ / _ \ / _` |/ _ \
+      \__ \ |_| | |   \ V /| |\ V / (_| | |  | | | | | | (_) | (_| |  __/
+      |___/\__,_|_|    \_/ |_| \_/ \__,_|_|  |_| |_| |_|\___/ \__,_|\___|
+
+MY PERSONAL ACHIEVEMENTS: From memory, 32 wins with Gon.
+
+First, read and try the above Time Attack strategies. If you can finish Time
+Attack, then that's 20 rounds of Survival Mode under your belt (or boxing
+gloves).
+
+The difference is that time is not a consideration. You may block, stall for
+time and nap as much as needed. The goal is to preserve your health, as you
+only get a small portion back. Preferably, all your victories are perfects,
+but obviously this will not always happen.
+
+Use more moves to add variety. Use the u/b+1 Lift-Off to strategically retreat
+while hitting an aggressive opponent. Use the FBT often, suprising it with a
+variety of powerful moves, and even the occasional nap if they are too far
+back. Woodpecker is always useful, if they are blocking often, use Dino Breath
+for "wake up" games.
+
+Use every Trick of Gon; don't feel guilty, the CPU learns, and remember it
+didn't insert coins.
+
+[F]1.                                     _
+                       ___ ___  _ __ ___ | |__   ___  ___
+                      / __/ _ \| '_ ` _ \| '_ \ / _ \/ __|
+                     | (_| (_) | | | | | | |_) | (_) \__ \
+                      \___\___/|_| |_| |_|_.__/ \___/|___/
+
+This is not just a combo section, it also lists strings that may be of
+interest.
+
+The move names are not provided here, please consult the movelist. Most combos
+are original (since there are no other Gon FAQs), except the last group which
+is from the "tekken.net Gon Combo Exhibition Act 1". It is not actually an
+official transcript; I have transcribed it from the video.
+
+.: HOPKICK :.
+
+-       u/f+3_4, u/f+3_4 - Forward Hopkick into Backward Hopkick
+This combo can be very difficult to time. Works with some other characters as
+well (eg Lei, Julia).
+
+-       u/f+3_4, u/f+3_4, f+4 - 39 damage hopkick string
+This does more damage than u/f+3_4, u/f+3_4, u+1 but can be tech-rolled (it's
+not a true combo, but the u+1 variety can also be escaped by large
+characters).
+
+.: ADVANCED :.          actually simple combos and strings ...
+
+-       WS 1_2, WS 3+4 - While Standing
+Do a crouch dash instead if you don't like WS, it's the same.
+
+-       u+1. f+3+4 - a basic 55 damage Lift-Off into Dino Drill COMBO
+If not timed properly, it is a string and does less damage.
+
+-       f+1+2,1+2~f+1+2,1+2,1+2, u+1, u/f+4, f+1+2~f+1+2,1+2,1+2
+A simple 10-hit string using the Infinite/Delayed Woodpecker. The whole string
+will connect after the first hit hits (combo property) unless they
+active-block.
+
+-       u/f+4, 1, f,f,n, 1, f,f,n, 1, f,f+1+2, 1+2
+The "DALTAMARE Gon Special"!
+
+-       u+1, 1, f,f,n, 1, f,f,n, 1, f,f+1+2, 1+2
+A variant of the above one. It's much harder to do.
+
+-       u/b+1, 1+2 - 41 damage
+A guaranteed Dino breath leads to almost guaranteed okizeme and run-in
+opportunities.
+
+.: THE GON_AGAIN GON COMBO MOVIE :.             which is not available     
+
+-       u+1, f+2+3 - ~55 damage
+A basic Lift-Off/Spin Cycle combo.
+
+-       CD+1+2, u/f+4, f+1+2,1+2,1+2
+A demonstration of the Shoulder Nudge, but not guaranteed.
+
+-       CD+1+2, d/f+1+2, d/f+1+2, d/f+1+2
+Doesn't actually do much damage, but it's impressive, and guaranteed.
+
+-       d+4, 1, 1, 2, f,f,N,1, 4 - only for Julia
+Musourenka's "Bushin' Hell Chain Fist"!
+Why there's a Julia juggle in a Gon movie is beyond me...
+
+-       4,4,4,4,3+4, f+2+3 - Gon's most powerful string
+Tail Spin->fire and Spin Cycle string. See Section s14.
+
+-       u+1, [f+1+2,1+2,1+2, d/f+1+2] [repeat]
+Infinite Woodpecker/Guard Break ground juggle.
+
+-       u/f+4, 1, 2, f,f,N,1, 4
+Musourenka's "Bushin' Hell Chain Fist"!
+This time done with a hopkick. Note that both variants are strings, not
+combos.
+
+-       f+1+2,1+2,1+2~f+1+2 ...
+Infinite Woodpecker
+
+-       u+1, u+1+2 - ~55 damage.
+For a nice relaxing nap to end the movie.
+
+.: tekken.net GON COMBO EXHIBITON ACT 1 .:
+
+u+1,u+1
+WC d/b+3+4, 4
+u+1, 1+2~1_2
+3+4, 1,1,1,1
+3+4, u+1
+CD+1+2, u/f+4, 4,4,4,4
+u/f+4, u/f+4, u+1
+WS+2, f,f,N,1, 4
+CD+1+2, f,f,N,1, f+4
+WS+2, f,f,N,1, f+1+2,1+2,1+2
+
+- Damage for combos is approximate. Timing might be important for some combos.
+
+.: JUGGLING MOVES :.
+
+u+1             Lift-Off                Can be done u/b or u/f
+CD+1+2          Shoulder Nudge          Done only to show off the crouch dash.
+WS+1_2          Standard WS Moves       But sub-standard juggles.
+u/f,N,4         Kind of Strange         Not the WS+4. You can try u/f,N,f+4.
+u/f+4_3         Hopkicks                Don't bother with the left one.
+4,4,4,4,4, 3+4  Tail Spins->fire        A good launcher.
+3+4             Low Blow                Not much guaranteed afterwards.
+f+3,3           Clean Sweep             Not much guaranteed afterwards.
+f,f+1+2,1+2     A.Attack to Deer Strike Not much guaranteed afterwards. 
+WC d/b+3+4      Dopple Daley            Finished with a 4 tail hit.
+
+.: STUN MOVES :.
+
+d/f+1+2         Guard Break
+
+These stun moves (when blocked) guarantee a Lift-Off juggle, or Hopkick, or
+even a Shoulder Nudge.
+
+-       in air 3+4              Helicopter
+Due to some glitch, once they are stunned, if you immediately try to throw
+then they will actually be pulled towards you for a guaranteed, inescapable
+throw.
+
+-       b+1                     Roger Punch
+-       f,f+1+2                 Armadillo Attack
+-       while grounded f,f+1+2  Somersault Forward
+For all three, try f,f,N before the Lift-Off - if you hit them too early they
+won't juggle.
+
+[F]2.               _            ___
+               __ _| | _____  __( _ )  _ __ ___   __ _  ___ _ __
+              / _` | |/ _ \ \/ // _ \/\ '__/ _ \ / _` |/ _ \ '__|
+             | (_| | |  __/>  <| (_>  < | | (_) | (_| |  __/ |
+              \__,_|_|\___/_/\_\\___/\/_|  \___/ \__, |\___|_|
+                                                 |___/                   chart
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ d+3+4,4x4_D,D/F+4       Alley Kicks => Alley Kicks              WR f+4,4,4 ³
+³ Alex & Roger have the advantage here, Gon can only do the Alley Kicks when ³
+³ running in, while Roger can do it "on-demand". Similar damage and          ³
+³ properties, though, such as the sweep stun.                                ³
+³                                                                            ³
+³ d/f+1+2             Animal Headbutt => Guard Break                 d/f+1+2 ³
+³ Virtually identical in all aspects. Both have a guard stun with no         ³
+³ guaranteed follow-ups. Gon's does not ground ducking opponents.            ³
+³                                                                            ³
+³ CD+1+2 or F/C+1+2      Animal Smash => Shoulder Nudge               CD+1+2 ³ ³
+³ Roger has an easy way to do it, Gon hasn't. Same anti-techroll, with       ³
+³ similar properties. When playing Gon, you'll probably use it more often    ³
+³ than with Gon, because he hasn't got an AGF.                               ³
+³                                                                            ³
+³ d/f+3+4              Frankensteiner => Frankensteiner              d/f+3+4 ³
+³ Alex & Roger have an improved version, because they can throw the opponent ³
+³ over, which looks really nice.                                             ³
+³                                                                            ³
+³ f,b,HCF+1               Giant Swing => right throw                 1+3_2+4 ³
+³ This is an interesting one. Alex & Roger have a 70 damage Giant Swing,     ³
+³ which is more than Gon's 40 damage, but less if the opponent tech-rolls,   ³
+³ which is only 35 damage. So it really depends on how good your opponent is.³
+³ Gon's throw is slightly easier, but has less range.                        ³
+³                                                                            ³
+³ u/f+3+4           Jumping Knee Drop => 1-2 Crush                   u/f+3+4 ³
+³ Quite similar, I think Roger's version does more damage, but both are      ³
+³ useful okizeme. I prefer Gon's Offensive Nap though, if only for style     ³
+³ reasons.                                                                   ³
+³                                                                            ³
+³ SS+4                  Animal Sweep     while grounded, u, to roll, then 3  ³
+³ Kind of look the same, with the same effect of tripping them. Gon can only ³
+³ do it as part of his recovery, not anytime.                                ³
+³                                                                            ³
+³ d/b+3                  Tail Tripper => Clean Sweep                   f+3,3 ³
+³ Gon easily wins. Both have excellent recovery, keep you standing while     ³
+³ doing a low move, but Gon has two hits, not just one (I think).            ³
+³ Gon's d+3 looks the most like Tail Tripper, but is otherwise different.    ³
+³                                                                            ³
+³ f,N,1                Windmill Punch => Roger Punch                     b+1 ³
+³ Both are the same, except that Roger gets the guaranteed AGF, and Gon gets ³
+³ the wimpy tail spins. No guessing which is better.                         ³
+³                                                                            ³
+³ u+3+4              Animal Jumping Sweep => Helicopter                u+3+4 ³
+³ What is the point of a jumping move to a sweep... well Gon's Helicopter is ³
+³ multi-level, much better and improved, plus it has a GUARANTEED juggle if  ³
+³ the last (low) hit connects!                                               ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+------------------------------------------------------------------------------

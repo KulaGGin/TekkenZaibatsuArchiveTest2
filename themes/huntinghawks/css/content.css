@@ -1,0 +1,126 @@
+/* content styles */
+
+.moviebox {
+	margin: 0px 3px 6px 3px;
+	width: 333px;
+	padding: 4px;
+	font-family: Trebuchet MS, Verdana, Arial, Tahoma, sans-serif;
+	font-size: 12px;
+	float: left;
+}
+.movietile {
+	background-color: #2E7C41;
+	margin-right: 5px;
+	padding: 1px;
+	float: left;
+}
+
+#selectscreen {
+	margin-bottom: 10px;
+	text-align: center;
+}
+#selectscreen .tile {
+	margin: 2px;
+	padding: 2px;
+	width: 60px;
+	height: 90px;
+	background-color: #91783D;
+	background-image: url('../images/character_select.png');
+	background-repeat: no-repeat;
+	background-position: 2px 2px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	float: left;
+}
+#selectscreen .tile:hover {
+	background-color: #2F6E3E;
+}
+
+#gallery {
+	margin: 1px;
+	clear: both;
+}
+#gallery .tile {
+	margin: 0px 6px 1px 0px;
+	padding: 2px;
+	width: 56px;
+	background-color: #2F6E3E;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	float: left;
+}
+#gallery .tile:hover {
+	background-color: #91783D;
+}
+#gallery .note {
+	text-align: justify;
+	font-size: 11px;
+}
+#gallery a:link, #gallery a:visited, #gallery a:active {
+	color: #2F6E3E;
+	text-decoration: none;
+}
+#gallery a:hover {
+	color: #91783D;
+	text-decoration: none;
+}
+
+#quicklinks ul {
+	margin: 8px 0px 4px 0px; 
+	padding: 0px;
+	float: left;
+	list-style: none;
+	position: relative;
+}
+#quicklinks li {
+	margin: 0px; 
+	padding: 0px 8px 0px 15px;
+	background-image: url('../images/bullet_alt.png');
+	background-repeat: no-repeat;
+	background-position: 0px 2px;
+	float: left;
+}
+
+#releases {
+	margin: 2px 0px 7px 4px;
+	clear: both;
+}
+#releases .tile {
+	float: left; 
+	margin-right: 5px;
+}
+#releases .date {
+	padding-top: 1px;
+}
+
+.profile {
+	width: 510px;
+	margin: 0 auto;
+}
+.profile ul li {
+	margin: 5px 8px;
+}
+.profile img {
+	padding: 1px;
+	border: 1px solid #2E7C41;
+}
+.download img {
+	padding: 1px;
+	border: 1px solid #2E7C41;
+}
+
+#footnote fieldset {
+	margin-top: -10px;
+	margin-bottom: 13px;
+	padding: 2px;
+	border: 1px solid #41500E;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-size: 10px;
+	color: #41500E;
+}
+#footnote legend {
+	margin-left: 6px;
+	font-size: 10px;
+	color: #41500E;
+}

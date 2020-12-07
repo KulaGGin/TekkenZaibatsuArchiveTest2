@@ -1,0 +1,1637 @@
+|
+| Tekken 2 Project
+| ----------------
+| release 2  September 4, 1996
+| written by Galen Komatsu  gkomatsu@hawaii.edu
+|
+
+         This document and succeeding releases is a gradual transcription
+of Tekken 2 information and data drawing primarily from the two mooks
+(magazine-book) on the game released by Gamest.  (Gamest is a bi-weekly
+Japanese arcade gaming magazine published by Shinseisha)
+
+Currently this file includes these sections:
+o Special attacks for all characters
+o Throw reversals
+o Non-reversable attacks
+o Known sub-boss and boss selction commands
+o Resources
+
+Time (and personal laziness) forgiving, future updates will include
+these items:
+x Character data & backgrounds.
+x Basic attacks (this is currently half done)
+x Rising strikes
+x Time attacks
+x Air combos/juggles
+x Changes in Version.B (from the original)
+     ...anyone know? this is the only thing I have no
+        information available on.
+x Improved layout.
+x Whatever else I dig up and have time to write.
+
+
+.......... | This file is to be viewed in a monospace typeface.
+1234567890 |  (otherwise it'll look like hell =^)
+
+ ____________________________________________________________________
+|____________________________________________________________________|
+
+Special attack layout:
+command             level      damage             name
+d,df,f,2            m          35                 Ponken
+
+command key:
+ub  u  uf    1 2    wc      while crouching (tap down on stick)
+ b  N  f     3 4    ws      while standing (release stick during crouch)
+db  d  df           downed  do to downed opponent
+                    lying   lying down
+                    back    do from behind
+                    +       press buttons together
+                    |       logical OR operator
+                    [ ]     grouping operator
+                    (#      denotes guard point for 10-hit combos
+examples:
+1+2                 press 1 and 2 together
+1+3|2+4             press 1+3 or 2+4
+[1,2,1,2]|[2,1,2,1] hit 1,2,1,2 combination or 2,1,2,1 combination
+[D,DF,4]|[D,3+4],4  enter D,DF,4 or D,3+4, either one followed by 4
+1|[df,1],2,4,3      hit 1,2,4,3 or df,1,2,4,3
+tackle 1,2,1,2      during tackle, hit 1,2,1,2
+
+level:  h          high (block with stick level:  N or B)
+        m          middle (block with stick level: N or B)
+        l          low (block with stick down: D or DB)
+        X (level)  unblockable (plus level of blow, if applicable)
+        down       downed opponent (no escape!)
+        t, throw   throw (duck to avoid or counter/escape)
+
+tenhit flow pattern sample:
+ ___ ___ ___ ___                         ___
+|   |   |   |   |                       |   |
+|   |   | C |   |                ___    | C |    ___
+|   | B |---| E | means:        |   |-->|___|-->|   |   possible combos:
+| A |   | D |   |        ___    | B |    ___    | E |     ABCE
+|   |___|___|___|       |   |-->|___|-->|   |-->|___|     ABDE
+|   |           |       | A |    ___    | D |             AF
+|   |  F        |       |___|-->|   |   |___|
+|___|___________|               | F |
+                                |___|
+
+ ____________________________________________________________________
+|____________________________________________________________________|
+
+Heihachi Mishima
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         17              dash sliding
+
+Special attacks:
+1,2                 hh         10,15              One-two punch
+                               12,15 with stick
+f,f,f,3             m          30                 KuuzanKyaku
+uf,4,4              hl         25,15              RasenshuujinKyaku
+f,N,d,df,2          m          30                 FuujinKen
+f,N,d,df,1          m          38                 RaijinKen
+1,1,2               hhm        10,10,20           SenkohRekken
+                               12,10,20 with stick
+4,3                 m          30                 Hasaishuu
+df,1,2              mm         10,28              MusouRenken
+1,2,2               hhh        10,15,25           KikokuRenken
+                               12,15,25 with stick
+f,f,3               m          30                 Left Axe Kick
+f,4                 m          30                 Right Axe Kick
+ws  4,4             mm         20,25              Axe Kick
+d,df,f,2            m          33 (cleanhit 49)   Ponken
+f,N,d,df,4,4,4      lll        17,12,12           NarakuBarai
+narakubarai N,4,4   mm         20,15              NarakuBarai KakatoKiri
+f,N,d,df,3          m          35                 GekizanKyaku
+f,N,d,DF,3          l          25                 ChizanKyaku
+uf,3,4              mm         25,20              RisenkuujinKyaku
+f,f,2               m          40                 KijinKen
+b,b,N,3+4           -          -                  KageAshi
+wc 1                m          15                 KawaraWari
+wc 1,f,2            mm         15,30              KawaraWari Ponken
+downed D,4          down       25                 OniGeta
+f,F,1+2             throw      35                 Super Headbutt
+back 1+3|2+4        throw      45                 NiohKudaki
+D,1+4               X          70                 OniKawara
+
+f,F,2,1,2,2,(3,4,(4,1,2,1      hhhhmmlhmh         7,8,6,7,6,11,5,5,8,30
+df,3,2,(2,4,4,(1,4,1,(2,4      mhhllmhhlm         17,5,6,8,8,5,10,5,6,35
+                |      \1      .........m         ..,.,.,.,.,.,..,.,.,30
+                \2,1,2,1       ......hmmm         ..,.,.,.,.,.,5,8,21,25
+ _______________________________
+|                               |  possible combos:
+| f,F,2,1,2,2,(3,4,(4,1,2,1     |  f,F,2,1,2,2,(3,4,(4,1,2,1
+|_______________________________|  df,3,2,(2,4,4,(1,4,1,(2,4
+|                 |         |   |  df,3,2,(2,4,4,(1,4,1,(2,1
+|                 |         | 4 |  df,3,2,(2,4,4,(1,2,1,2,1
+|                 | 4,1,(2, |---|
+| df,3,2,(2,4,(1, |         | 1 |
+|                 |_________|___|
+|                 |             |
+|                 | 2,1,2,1     |
+|_________________|_____________|
+
+___________________________________________________________________________
+
+Paul Pheonix
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         17             dash sliding
+
+Special attacks:
+1,2                 hh         10,15              One-two punch
+                               12,15 with stick
+2,3                 hh         12,30              PK combo
+                               15,30 with stick
+2,D,3               hl         12,17              PDK combo
+                               13,15 with stick
+uf,3,4              mm         25,25              SoubitenKyaku
+wc  4,2             lm         15,25              Rakuyoh
+d,df,f,2            m          35 (cleanhit 52)   PonKen
+wc  1               m          15                 KawaraWari
+wc  1,2             mm         15,30              KawaraWari PonKen
+wc  1,4,2           mlm        15,15,25           KawaraWari Rakuyoh
+downed, wc  2       d          25                 Ganseki Kawari
+f,f,4               m          20                 AbiseKeri
+f,F,2               m          15                 Hayate
+D,DF,2              m          30                 Hazakura
+D,DF,2,1            mm         30,30              Hazakura Ponken
+D,DF,2,2            ml         30,15              Hazakura Tekki
+f,f,3,4,4           mmh        20,15,25           ShiboRyuu (high)
+f,f,3,4,f|df,2      mmm        20,15,15           ShiboRyuu (middle)
+f,f,3,4,d|db,2      mml        20,15,15           ShiboRyuu (low)
+B,1+2               X          100                BanseiRyuuOhken
+1,D,4               hl         10,22              Reverse PDK combo
+F,2,3               hh         10,20              Quick PK combo
+1+3,B               throw      35                 TomoeNage
+f,f,1+2             throw      35                 UraAte
+DF,1+2              throw      40                 Fuuga
+back 1+3|2+4        throw      40                 SeOtoshi
+
+DB,1+2              throw      5                  Ultimate Tackle
+U.Tackle 2,1,2,1,2  throw      5,5,5,5,5          Yamikumo
+U.Tackle D,2,1,1,N,4,1,1+2  throw  5,8,8,35       Yamikumo Jime
+                                                  
+1,2,3,(2,1,2,1,(4,2,1          hhmhmhhlmm         10,15,7,5,7,4,5,7,8,30
+     \(1,(4,2,1,(4,2,1         ...mlmhmlm         ..,..,.,6,7,8,5,8,10,30
+        \(2                    ....m              ..,..,.,.,30
+ ________ _____________________
+|        |                     |  possible combos:
+|        | (2,1,2,1,(4,2,1     |  1,2,3,(2,1,2,1,(4,2,1
+|        |_____________________|  1,2,3,(1,(4,2,1,(4,2,1
+| 1,2,3, |     |               |  1,2,3,(1,(2
+|        |     | (4,2,1,(4,2,1 |
+|        | (1, |---------------|
+|        |     | (2            |
+|________|_____|_______________|
+
+___________________________________________________________________________
+
+Jun Kazama
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         17             dash sliding
+
+Special attacks:
+1,1                 hm         10,15              Suirenkei
+1,3                 h,l        10,14              SuikeiShitaKeri
+1,2                 hm         10,10              Sourenkei
+1,1,4               hmlh       10,15,15,20        Suirenshiun
+1,1,3               hmm *loop  10,15,14           Suirenshoutai
+1,4,4,4             hlll       10,14,14,14        SuikeiKariashi
+1+4,2,4             lhhm       7,10,10,25         Hakuroyuubu
+1+4,2,1             lhhh       7,10,10,12         TaizanHakuro
+1+4,2,1,4,4,4       *loop      7,10,10,12,14,14,14  TaizanhakurouKiriashi
+F,2                 m          15                 OniGoroshi
+3+4                 mm|d       [25,25]|20         RyuuUntsui
+3,4,4,4             lll        14,14,14           ShinkuuKariashi
+3,4,4,4,3           lllm       14,14,14,25        KiriashiRyuuUntsui
+3,4,1+4,2,4         llhhm      14,7,10,10,25      KiriashiHakuroYuubu
+F,4                 h          35                 KasumiGeri
+D,3+4               lh         10,15              Shiun NidanKeri
+B,3                 m          20                 RyuushaGeri
+B,3,4,4,4           mlll       20,14,14,14        RyuushaGeri Kariashi
+B,3,2               mm         20,15              RyuushaGeri OniKoroshi
+F,1                 m          15                 KasumiShouKen
+F,3 (3,3..)         mmX        30,40,40           Onikubi Otoshi
+back 1+3|2+4        throw      45                 TsuriganeWari
+DF,2+3              throw      35                 Hakuzan
+
+2,1,1,(1,2,(1,4,(3,3+4         mhmhmlmlmm         15,10,8,8,6,5,7,7,25,25
+     |    \(1+4,1,3+4          .....lhhlh         ..,..,.,.,.,7,5,6,21,24
+     \(3                       ...m               ..,..,.,10
+ _______ _______ _____________
+|       |       |             |  possible combos:
+|       |       | (1,4,(3,3+4 |  2,1,1,(1,2,(1,4,(3,3+4
+|       | (1,2, |-------------|  2,1,1,(1,2,(1+4,1,3+4
+| 2,1,1 |       | (1+4,1,3+4  |  2,1,1,(3
+|       |-------'-------------|
+|       | (3                  |
+|_______|_____________________|
+
+___________________________________________________________________________
+
+Lei Wulong
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         17             dash sliding
+
+Special attacks:
+     Due to Lei's "ability" to turn around or lie down, several notations
+specific to this section are:
+standing                 sleeping
+--------                 --------   end towards opponent
+back to opponent: ba                   head(h) toe(t)
+                         face up (u)     uh      ut
+                         face down (d)   dh      dt
+     If preceeding a move is a prerequisite to do the move, succeeding
+and in parenthesis is the resulting position after the move (if not
+standing and facing opponent after).  Sleeping notation is always listed
+face direction first, opponent direction second.  An "x" means direction
+does not matter.  Examples:
+ux D,1 (dx)   Lei must be lying face up, will be face down after.
+ba D,1 (ba)   Lei must face back to opponent, will face back after move.
+
+d|D,3+4  (uh)       -          -                  Sleep
+ux D,1  (dx)        -          -                  Roll face down
+dx 1  (ux)          -          -                  Roll face up
+ut 3+4              -          -                  handspring
+uh 3+4              m          25                 ChoukyuuKyaku
+uh 3,4              lh         15,30              GyoushinkouSouenbu
+dh 4,3  (d?)        l          15                 FukushinKatsu
+dt 4,3  (u?)        m          25                 FukushinKoryuutai
+dt 3,4  (d?)        l          15                 FukushinSouai
+
+b|B,3+4  (ba)       -          -                  Turn back
+ba 1                h          12                 Haishinda
+ba 4                m          15                 Haishintai
+ba d|D,1 (ba)       l          8                  HaishinKasouda
+ba 2                m          20                 HaishinHoutsui
+ba 3+4,3+4 (ba),3+4 mmm        15,15,15           Haijinraku
+ba d|D,4,4          lh         15,30              HaishinKouSouenbu
+1+2  (ba)           hh         18,18              TenshinRenhou
+3,3  (ba)           lh         25,20              KyokanKyaku
+
+db,4,4              lh         15,30              Kousouenbu
+[3,4]|[f|F,3,4]     m          30                 SenpuuRenkyaku
+     hold stick UP to repeat up to two more times, hold stick
+     DOWN during kick to Sleep.
+f,3,4               hm         35,20              YoushinGeki
+f,3,D,4             hl         35,20              Kosonzan
+4,3                 m          25                 Koryuutai
+f,f,f,3             m          30                 RaikouChoukyaku
+f,2,1,2,1           hhhh       ?                  SousouGa
+f,4,1,2,3,4         mmmhm      25,12,12,20,20     Rouga YoushinGeki
+d,4,1,2,3,D,4       mmmhl      25,12,12,20,10     Rouga Kosonzan
+f,1,2,1,2,4         mmmmm      10,10,10,10,15     Ryuusei chuudankyaku
+f,1,2,1,2,3         mmmml      10,10,10,10,20     Ryuusei kadankyaku
+4,4,3,3  (dt)       llm        7,7,35             KenzanRenkyaku
+F,4,1,2,4           hmmm       35,12,10,15        Raikoh chudankyaku
+F,4,1,2,3           hmml       35,12,10,20        Raikoh kadankyaku
+B,1+4               -          -                  Hisuichou
+hisuichou  4        X          90                 Houou senpuukyaku
+hisuichou  3,3,3,3  mmmm       15,15,15,15        YouSou renkyaku
+         may be interrupted at any time by Houou Senpuukyaku
+f,F,1+2             throw      30                 sweeping throw
+back  1+3|2+4       throw      45                 Rakugansai
+
+1,2,(1,3+4,2,1,(4,1,(2,3       hhlmmmhmmh         10,8,7,8,6,6,10,6,6,30
+          |        \(4,4       ........lh         ..,.,.,.,.,.,..,.,7,35
+          \3+4,(3+4,1,1,2      ....mmllm          ..,.,.,.,9,10,11,12,21
+ _____________ ___________ ______
+|             |           |      |  possible combos:
+|             |           | (2,3 |  1,2,(1,3+4,2,1,(4,1,(2,3
+|             | 2,1,(4,1, |------|  1,2,(1,3+4,2,1,(4,1,(4,4
+| 1,2,(1,3+4, |           | (4,4 |  1,2,(1,3+4,3+4,(3+4,1,1,2
+|             |___________|______|
+|             |                  |
+|             | 3+4,(3+4,1,1,2   |
+|_____________|__________________|
+
+___________________________________________________________________________
+
+Nina Williams
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         20             dash sliding
+
+Special attacks:
+1,2                 hh         10,10              One-two punch
+2,3                 hh         12,20              PK combo
+2,D,3               hl         12,10              PDK combop
+2,4                 hh         12,15              Double smash
+[f,f,1+2]|1+2       m          20 (cleanhit 30)   Soushouha
+1|[df,1],2,4        hhh        10,10,25           Triple smash
+df,1,2              mh         10,15              Upper, Straight
+B,1                 h          15                 Killing blade
+B,2                 m          20                 Side step stab
+D|d,2,4             lm         10,15              Frozen kick
+D|d,4,1             lh         10|7,10            R.low kick, Backspin chop
+3,4                 hh         25,15              Left high, R.high kick
+D,3,N,4             lh         12,15              Sit spin, R.high kick
+df,3,4              mh         10,15              Left middle, R.high kick
+f,f,4               m          16 (cleanhit 24)   Kneel kick
+D|d,3,4             ll         12,7               Leg break combo
+uf,4,3,4            hlh        20,10,14           Hunting kick combo
+ws  1,4             lm         5,10               Rave kick
+1|[df,1],2,1,2,F,1+2 [h|m]hhhm 10|15,10,6,6,20    Rengeki Soushouha 1
+1|[df,1],2,F,1+2    [h|m]hhhm  10|15,10,6,6,20    Rengeki Soushouha 2
+1|[df,1],2,ub|u|uf,3 [h|m]hm   10|15,10,20|15|12  Neel edge combo 1
+1,ub|u|uf,3         [h|m]hm    10|15,10,20|15|12  Neel edge combo 2
+1|[df,1],2,D,3,4    [h|m]hlh   10|15,10,10,15     Jail crash
+1|[df,1],2,D,3,2    [h|m]hlm   10|15,10,10,10     Cemetary crash
+df,3,1,2            mhh        10,10,6            Flash combo
+df,3,2,ub|u|uf,3    mhm        10,12,20|12|12     <uinzu> edge combo
+df,3,3,3,4          mhhh       10,6,8,15          Rapid kick combo
+db,1+2              X          95                 Hunting swan (u,u to cancel)
+db,4                l          10                 Slicer
+d,db,3              m          25                 Divine cannon
+db,4,3              lm         10,25              Divine cannon combo
+df,DF,1             throw      50                 KakaeKomi HijiUchi
+1+3,F               throw      40                 Kubikarinage
+
+d,df,f,1+2          throw      15                 Shoaku
+shoaku  3,4,3,1+2              30                 Kubikari JujiGatame
+shoaku  1,3,2,1                30                 TachiGyakuWakiGatame
+tachigyaku  2,1,3,4,1+2        25                 SuteGyakuWakiGatame
+tachigyaku  3,1,4,1+2,1+2      25                 Urakanmekitakahajime
+shoaku  2,3,4,2,2              15,15              UdeHisagiHaragatame
+udehisagi  1,3+4,1,2,1+2       35                 KubihineriKaoGatame
+
+3,3,4               hlh        25,10,15           Spike combo, Rising high
+3,3,2               hlm        25,10,10           Spike combo, Rising upper
+3,3,D,4             hll        25,10,7            Spike combo, Right low
+df,3,1,2,F,1+2      mhhm       10,10,6,20         Assault combo
+ub|u|uf,D,3,2       lm         25,10              Riding kick, Right upper
+ub|u|uf,D,3,3       lm         25,15              Riding kick, Left middle
+ub|u|uf,D,3,4       lh         25,15              Riding kick, Right high
+1|[df,1],2,1,4      [h|m]hhl   10|15,10,6,22      Spark combo
+4,3,2               hlm        20,15,10           <jaming> combo, Right upper
+4,3,D,4             hll        20,15,7            <jaming> combo, Right low
+4,3,4               hlh        20,15,15           <jaming> combo, Right high
+df,3,2,1,4          mhhl       10,12,6,22         Quick attack combo
+df,3,2,D,3          mhl        10,12,10           Quick attack, left low kick
+df,3,2,3            mhh        10,12,20           Quick attack, left high 
+df,3,2,4            mhh        10,12,15           Quick attack, right high
+df,3,3,3,3          mhhl       10,6,8,10          Rapid combo, left low
+df,3,3,3,4          mhhh       10,6,8,15          Rapid combo, right high
+df,3,3,3,1,2,1+2    mhhhhm     10,6,8,10,6,20     Rapid combo, Soushoha
+f,f,f,4             m          20                 Bone cutter
+2+4,1,2,1           throw      30                 Izori hijiotoshi
+hijiotoshi  2,1,3   throw      20                 Izorihijiotoshi wakigatame
+
+f,f,f,3             throw      20                 Flying achilles gatame
+d,df,f,3+4          throw      15                 Kani hasami
+hasami  3+4,3,4,1+2            35                 Zenten udejuji gatame
+f.achilles|hasami  3+4,4,2,1+2  20                Achlles gatame
+achilles  3,1,4,2+4            35                 Hiza juji gatame
+achilles  1,3,2+4,3+4,1+2      45                 Kaiten achilles gatame
+
+  1,2,(1,(2,(3,(3,2,1,2,4      hhhhlhhhhh         10,10,6,6,7,9,6,6,6,30
+      |    |         \4,3      ........lm         ..,..,.,.,.,.,.,.,5,25
+df,1,2/    \(4,(3,4,2,(4,3     mh..hllmlm         10,15,.,.,9,9,5,6,5,25
+ _________ ________ ____________ _____
+|         |        |            |     |  possible combos:
+|         |        |            | 2,4 |  1,2,(1,(2,(3,(3,2,1,2,4
+|  1,2,   |        | (3,(3,2,1, |-----|  1,2,(1,(2,(3,(3,2,1,4,3
+|_________| (1,(2, |            | 4,3 |  1,2,(1,(2,(4,(3,4,2,(4,3
+|         |        |____________|_____|  df,1,2,(1,(2,(3,(3,2,1,2,4
+| df,1,2, |        |                  |  df,1,2,(1,(2,(3,(3,2,1,4,3
+|         |        | (4,(3,4,2,(4,3   |  df,1,2,(1,(2,(4,(3,4,2,(4,3
+|_________|________|__________________|
+
+___________________________________________________________________________
+
+Marshall Law
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         17             dash sliding
+
+Special attacks:
+1,2                 hh         10,12              One-two punch
+1,1,1,1,1           hhhhh      10,5,5,5,5         Left punch series
+wc 3                l          15                 Dragon low
+df,3                m          15                 Step-in middle kick
+3,3,3               hhh        25,10,10           Triple high kick
+triple high  f      m          15                 Feint middle kick
+F,2,2,2             hmh        12,6,6             Dragon knuckle combo
+2,2                 hh         12,10              Dragon knuckle combo
+f,F,3+4             throw      25                 Dragon knee
+D,df,DF,3           l          17                 Sliding
+f,f,f,3             m          30                 Dragon slash
+4,3,4               hhh        20,12,12           Spin kick combo
+D,UB|U|UF,4         m          40|40|30           Somersault kick (big jump)
+D,ub|u|uf,4         m          30|35|25           Somersault kick (small jump)
+D,ub|u|uf,3+4       m          30                 Somersault drop
+4,u,3               hm         20,30              Dragon somersault
+D,3,4               lm         12,30              Sit-spinkick somersault
+wc 4,3              lm         7,30               Dragon low l.somersault
+ws 3,4              lm         25,30              Sidekick r.somersault
+ws 4,3              mm         20,30              Frontkick l.somersault
+D|d,2,3             lm         8|10,30            Sit straignt l.somersalt
+3,4                 lm         25,30              Highkick somersault
+ub|u|uf,3,4         hm         25,30              Jump sidekick r.somersault
+3+4                 m          30                 Quick somersault kick
+D,4,3               m          30                 Lowkick l.somersault
+3+4,4               mm         30,30              Double somersault kick
+D,2,N,3,3,3,4       lhhhm      15,10,10,10,30     Dragon bless
+db,4                l          35                 Dragon tail
+back  1+3|2+4       throw      45                 Face crasher
+2+4,1,2,1+2         throw      35                 Dragon fall
+db,1+2              X          100                Dragon fang (u,u to cancel)
+
+df,1,2,2,(1,3,(3,3,4,3,4       mhmhhlhhhh         10,5,6,5,7,6,7,7,10,25
+    |           \|
+    |           |\ 
+    \3,2,(2,3,d,3,3,(4,4,4     .lmhmlmhlm         ..,6,6,8,6,6,6,8,15,38
+                   |  |
+                   \(3/        .......l..         ..,.,.,.,.,.,.,7,..,..
+
+combo note: hit 6 of the first string may go into string two, and
+            alternately, hit 6 of the second string may go into string one.
+ _______ _______________ ________________
+|       |               |                |   possible combos:
+|       | 2,2,(1,3,(3,  |  3,4,3,4       |   df,1,2,2,(1,3,(3,3,4,3,4
+|       |               |________________|   df,1,2,2,(1,3,(3,3,(4,4,4
+| df,1, |_______________|    |     |     |   df,1,2,2,(1,3,(3,3,(3,4,4
+|       |               |    | (4, |     |   df,1,3,2,(2,3,d3,3,4,3,4
+|       | 3,2,(2,3,d,3, | 3, |-----| 4,4 |   df,1,3,2,(2,3,d3,3,(4,4,4
+|       |               |    | (3, |     |   df,1,3,2,(2,3,d3,3,(3,4,4
+|_______|_______________|____|_____|_____|
+
+___________________________________________________________________________
+
+Michelle Chang
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         7              dash sliding
+
+Special attacks:
+1,2                 hm         10,10              Renken
+1,2,3               hml        10,10,20           Renken low kick
+1,2,4               hmh        10,10,20           Renken high kick
+1,1,1               hmm        10,8,20            TsuutenHou 1
+df,1,1              mm         12,20              TsuutenHou 2
+wc  4,1             lm         15,25              Zensou Juujiba 1
+4,4,1               llm        20,15,25           Zensou Juujiba 2
+wc  4,4             lh         15,20              Zensou Rentai 1
+4,4,4               hlh        20,15,20           Zensou Rentai 2
+wc  4,D,4           ll         15,10              Zensou Sentai 1
+4,4,D,4             hll        20,15,10           Zensou Sentai 2
+wc  3               l          15                 Zensoutai
+ws  4               m          20                 SoukuuHou
+1+2                 m          30                 TotsusouShou
+ws  2               m          18                 Zansui
+zansui  2,2         mmm        18,15,20           Zansui TsuutenHou
+3,2                 m          18                 Zangeki
+ws  2,2             mm         18,30              Zansui Houchuu
+ws  2,4,1           mlm        18,17,25           Zansui Zensou Juujiba
+ws  2,4,4           mlh        18,17,20           Zansui Zensou Rentai
+ws  2,4,D,4         mll        18,17,10           Zansui Zensou Sentai
+ws  2,1,4,3         mmlh       18,15,12,25        Zansui Soukyuutai
+df,2                m          15                 Housui
+housui hit  1       -          22                 Daiten Housui
+1,2,1               hmm        10,15,22           Renken Daiten Housui
+f,F,1               m          12                 KoshinChuu
+df,3                m          17                 Shoutai
+D,DF,4              l          12                 Kousoutai
+kousoutai  3        h          25                 Senkyuutai
+3+4,4               h          20                 Tenshintai
+2+3,1               lmm        10,10,40           Shoutai TsuutenHou
+D,DF,2              m          18                 Shippo Houchuu
+d,DF,1              m          12                 Shippo Shouken
+F,1+4               X          50                 Zesshou TsuutenSou
+big fwd jump start 3+4  m      34                 Resshintou
+f,f,1,4             mm         12,12              KoshinRenkou
+f,1                 m          25                 Tenhou
+1,1,4,3             hmlh       10,8,12,25         SoukyuuTai
+[df,1,4]|[1+4,3]    mlh        12,12,25|26        SoukyuuTai
+2 hit, b            h          12                 Rear slip
+rear slip  1+2      throw      45                 German suplex
+back  1+3|2+4       throw      45                 German suplex
+DF,1+2              throw      40                 Full Nelson suplex
+
+2,1,1,(2,3,3,(3,4,(4,1         hmmhlhmhlm         12,6,6,6,6,6,6,7,8,12
+            \(2,3,(2,1         ......mlmt         ..,.,.,.,.,.,7,5,5,30
+               \1,(4,3         .......mlh         ..,.,.,.,.,.,.,7,10,25
+ _______________ ______________
+|               |              |  possible combos:
+|               | (3,4,(4,1    |  2,1,1,(2,3,3,(3,4,(4,1
+|               |______________|  2,1,1,(2,3,3,(2,3,(2,1
+| 2,1,1,(2,3,3, |     |        |  2,1,1,(2,3,3,(2,1,(4,3
+|               |     | 3,(2,1 |
+|               | (2, |--------|
+|               |     | 1,(4,3 |
+|_______________|_____|________|
+
+___________________________________________________________________________
+
+Jack-2
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+
+Special attacks:
+1,1,1               hhm        18,20,25           Hammer combo
+2,1,2               hmm        17,25,25           Straight, Elbow, Upper
+1+2,1+2             mm         22,22              Double hammer 1
+ws 1+2,1+2          mm         25,30              Double hammer 2
+db,1,1,1,1,1,df,2   lllllm     15,20,25,30,35,40  Machine gun knuckle
+wc  1,2,1           mmm        15,12,12           Swing left knuckle
+f|F,1+2             m          25                 Power scissors
+b,db,d,df,2         m          25                 Megaton punch
+b,db,d,df,f,...,1   X          20|40|60|80|199    Gigaton punch
+   continue joystick spin to increase strength, unblockable after
+   the first spin
+d,DF,1,2,1,1        hmmh       12,15,15,30        Wild swing
+3+4                 -          -                  Sit in place
+sit  U              -          -                  Sit & jump
+sit  [1,2,1,2]|[2,1,2,1]  llll 10,10,10,10        Blood fan
+D,1+2               ml         25                 Meltdown
+f|F,1+2,1+2         ml         25,25              Scissors meltdown
+f|F,1+2,DF,2        mm         25,35              Scissors megaton
+d,1+2               m          50                 Bravo knuckle
+b,db,d,df,1         l          35                 Megaton sweep
+ws  1               m          20                 Violent upper
+wc  1,2             lm         12,35              Megaton strike
+DB,3,4,3,4,3,4      llllll     25,12,12,12,12,12  Kossak combo
+lying  D,1+2        m          12                 Spring hammer punch
+uf,3+4  (sit)       m          35                 Hip press
+sit  3,4  (sit)     m          35                 Sit & Hip press
+D,1,1,1,2,F,1       llmmh      12,12,12,12,12     A-Hammer rush high
+D,1,1,1,2,DF,1      llmmm      12,12,12,12,12     A-Hammer rush middle
+D,1,1,1,2,D,1       llmml      12,12,12,12,12     A-Hammer rush low
+d,DF,1,2,F,1        mmh        12,12,12           B-Hammer rush high
+d,DF,1,2,DF,1       mmm        12,12,12           B-Hammer rush middle
+d,DF,1,2,D,1        mml        12,12,12           B-Hammer rush low
+d,DF,2,F,1          mh         12,12              C-Hammer rush high
+d,DF,2,DF,1         mm         12,12              C-Hammer rush middle
+d,DF,2,D,1          ml         12,12              C-Hammer rush low
+db,F,1+2            throw      70                 Piledriver
+d,db,B,2            throw      55                 Backbreaker
+d,df,F,1            throw      25                 Pyramid driver
+hellpress  1+2      throw      30                 Face breaker
+back  2+4           throw      70                 Death shot
+DF,2+4              throw      30                 Catapult throw
+
+ d,2,1,1,(1,2,1,2,1,(1+2,1+2   lllmmhmmmm         10,6,5,7,7,6,6,8,21,25
+                |  |
+uf,1,1,(4,3,4,(1/  \d,(1+2,1+2 hmlllm..lm         15,8,5,5,5,8,.,.,12,35
+ ___________________ ______ ____________
+|                   |      |            |  possible combos
+| d,2,1,1,(1,2,1,   |      | (1+2,1+2   |  d,2,1,1,(1,2,1,2,1,(1+2,1+2
+|-------------------| 2,1, |------------|  d,2,1,1,(1,2,1,2,1,d,(1+2,1+2
+| uf,1,1,(4,3,4,(1, |      | d,(1+2,1+2 |  uf,1,1,(4,3,4,(1,2,1,(1+2,1+2
+|___________________|______|____________|  uf,1,1,(4,3,4,(1,2,1,d,(1+2,1+2
+
+___________________________________________________________________________
+
+Yoshimitsu
+run for less than 4 seconds   throw     5              tackle
+tackle  2                     throw     25             stab
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+
+Special attacks:
+2,3                 hh         12,30              PK combo
+2,D,3               hl         12,17              PDK combo
+3,4                 hm         35,30              Inazuma
+B,1,1,1,1,1,1       hhhhhh     10,10,10,10,10,10  Ninpo Manji kazura
+DB,2,2,2,2,2,2      mmmmmm     10,10,10,10,10     Ninpo Manji giku
+DB,3,3,3,3,3        lllll      12,7,7,5,5         Ninpo Manji sou
+manji sou  f,4      m          12                 DoubokuJuu
+f,f,3+4             m          40                 Ninpo Kageroh
+ninpo kageroh  1+2  h          40                 Ninpo Kusanagi
+f,f,3+4,1+2,3+4     mhm        40,40,30           KusanagiHou
+f,2                 h          12                 Manji uraken
+f,f,4               m          20                 Fubuki
+4,4,4               hhh        20,20,20           Sazanka
+D,DF,3              l          12                 Tsuyubarai
+uf,3+4              m          30                 Ninpo Manji guruma
+4,3                 m          30                 HyuukaHou
+D,3+4               -          -                  Manji agura
+agura  N            -          (+3)               Zengaku
+     Yoshimitsu heals each time he rocks in place.
+agura  B            -          -                  Zengaku Bukuubu
+     if near opponent, teleports behind, otherwise facing backward.
+db,1                X          15                 ZankokuKen
+db,1,N,DB           X          15                 RengokuKen
+B,3+4               -          (-8)               Karin
+     Yoshimitsu slips away in a clockwise arc at the cost of his health.
+b,b,1               X          90                 ZetsumeiKen
+zetsumei  1         X          30                 SenpuuKen
+D,db,b,1            X          30                 Kegon
+big jump start 1+2  -          -                  HikuuKen
+     Yoshimitsu displays the aerodynamics of polished steel...
+hikuuken  D         X          25|30|40           HikuuShuuKen
+d,1+4               X          60                 Ureinashi
+     Yoshimitsu runs himself through with his sword damaging himself
+     in the process.
+f,F,1+4             X          100                Madoinashi  (N to cancel)
+     Yoshimitsu turns, then runs himself through.
+back  1+3|2+4       throw      70                 Ninpo Fuujin
+d,db,B,1+2          throw      60                 Ninpo YaguraOtoshi
+
+4,(4,(2,2,1                    hhmhX              20,20,5,6,30
+         \
+1,2,1,(4,(4,(1,1,1,1,1         hmmhhllXXX         10,8,6,9,9,5,5,8,8,30
+        |       \(3+4          .......m           ..,.,.,.,.,.,.,25
+        \2,2,2,(4,1,1          ....mmmmXX         ..,.,.,.,3,3,3,7,8,30
+ ____________ __________________
+|            |                  |  possible combos:
+| 4,(4,(2,2, | 1                |  4,(4,(2,2,1
+|____________*__________________|  4,(4,(2,2,(4,(1,1,1,1,1
+|            |          |       |  4,(4,(2,2,(4,(1,1,(3+4
+|            |          | 1,1,1 |  1,2,1,(4,(4,(1,1,1,1,1
+|            | (4,(1,1, |-------|  1,2,1,(4,(4,(1,(3+4
+| 1,2,1,(4,  |          | (3+4  |  1,2,1,(4,2,2,2,(4,1,1
+|            |__________|_______|
+|            #                  |
+|            | 2,2,2,(4,1,1     | * only 4,(4,(2,2, may go into 1.
+|____________|__________________| # only 1,2,1,(4, may go into 2,2,2,(4,1,1.
+
+___________________________________________________________________________
+
+King
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+
+Special attacks:
+1,2                 hh         12,15              One-two punch
+                               15,15 with stick
+1,2,1               hhm        12,15,10           One-two upper
+                               15,15,10 with stick
+f,f,4               m          30                 Jail kick
+f,f,f,3+4           m          40                 Sattellite drop kick
+[f,f,3+4]|3+4       m          25                 Drop kick
+f,f,2               m          20                 Smash upper
+big-jump start 2+4  m          35                 Elbow drop
+uf,1+2              m          35                 Knuckle bomb
+F,DF,2              m          20                 Dynamite upper
+[D,DF,4]|[d,3+4],4,4 lll       17,7,7             Ali kick
+D,DF,4,4,4,4,4      lllll      17,7,5,4,3         Ali kick (counter)
+wc  1,2             lm         5,15               Left straight, Right upper
+2,1                 hm         12,15              Right straight, Left upper
+                               15,10 with stick
+u|uf,3+4            m          40                 Double knee drop
+f,f,1+2             h (start)  15                 Flying cross chop
+                    l (ending)
+df,3+4              m          20                 Frankensteiner
+                                                  (outside throw range)
+df,3+4              throw      45                 Frankensteiner
+                                                  (in throw range)
+df,3+4              throw      20+45              Frankensteiner
+                                                  (in throw range, no guard)
+db,F,1+2            throw      65                 Tombstone piledriver
+db,DB,1+2           throw      45                 DDT
+d,df,F,1            throw      25                 Jaguar driver
+J.driver 1+2        throw      30                 "aachirokku" face buster
+J.driver 1+2,3,4,1+2 throw     45                 Boston Crab
+f,b,db,d,df,F,1     throw      70                 Giant swing
+f,1+4               X          25                 Moonsault bodypress
+f,f,N,2             l          6                  Grand smash
+G.smash 1+2         throw      40                 Jaguar backbreaker
+G.smash 1+2,u,d,3+4 throw      60                 Jumping powerbomb
+
+F,DF,2+3            throw      30                 Standing achilles hold
+Achilles  1,2,3,1,1+2          35                 S.T.F.
+                                                  (stepover toehold facelock)
+Achilles  1+2,3,1,1+3          35                 Scorpion death lock
+Achilles  1+2,1,3,1+2+4        30                 Indian death lock
+Indian  1+2,3,4,1+2,ALL        50                 Romero Special
+
+d,1+2               m          15                 Elbow sting
+Ali kick  2         m          10                 Spinning smash
+4th ali kick 4,2,1,3  throw    80                 Octopus hold
+F,1+2               X (high)   50                 Jaguar impact
+back  1+3           throw      55                 Half Boston crab
+back  2+4           throw      55                 Cobra twist
+DB,1+2              throw      30                 Figure-4 leg lock
+
+"Wonderful Mexican Combo"
+F,DF,1+3|2+4        throw      25                 Reverse arm clutch slam
+R.Arm  2,1,1+2                 18                 Backdrop
+Backdrop  3+4,1+2              15                 German suplex
+G.Suplex  1,2,3+4              25                 Powerbomb
+Powerbomb  2,1,3,4             30                 Giant swing
+
+1,2,1,(1,2,(4,4,4,(1,3         hhmmhlllmm         12,15,10,6,6,5,5,5,7,30
+        |    /      \1         .........m         ..,..,..,.,.,.,.,.,.,23
+       *\3,(3,4,3,(2,1+2       ....hmlllt         ..,..,..,.,8,10,5,5,6,30
+
+*alternate combo: 1,2,1,1,3,3 may return to original string (then
+                 ending with 4,4,1,3) or continue with 4,3,2,1+2
+ ___________ _______ _________ ___
+|           |       |         |   |  possible combos:
+|           |       |         | 3 |  1,2,1,(1,2,(4,4,4,(1,3
+|           | 2,(4, | 4,4,(1, |---|  1,2,1,(1,2,(4,4,4,(1,1
+| 1,2,1,(1, |_______|         | 1 |  1,2,1,(1,3,(3,4,4,(1,3
+|           |       *_________|___|  1,2,1,(1,3,(3,4,4,(1,1
+|           | 3,(3, |             |  1,2,1,(1,3,(3,4,3,(2,1+2
+|           |       | 4,3,(2,1+2  |
+|___________|_______|_____________|
+* ...,2,(4 can only go to 4,4,(1,..  whereas ...,3,(3 may go either way.
+
+___________________________________________________________________________
+
+Lee Chaolan
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         17              dash sliding
+
+Special attacks:
+  same as law
+1,2                 hh         10,12              One-two punch
+1,1,1,1,1           hhhhh      10,5,5,5,5         Left jab rush
+F,2,2,2             hmh        12,6,6             Lee knuckle combo 1
+2,2                 hh         12,10              Lee knuckle combo 2
+df,3                m          15                 Step in middle kick
+4,3,4               hhh        20,12,12           Spin kick combo
+3,3,3               hhh        25,10,10           Triple high kick
+triple high  f      m          15                 Feint middle kick
+D,UB|U|UF,4         m          25|40|35           Somersault kick (big jump)
+D,ub|u|uf,4         m          25|30|35           Somersault kick (small jump)
+D,UB|U|UF,3+4       m          30                 Somersault drop
+4,u,3               hm         20,30              Lee somersault
+wc  3               l          15                 Silver low
+D,df,DF,3           l          17                 Sliding
+db,1+2              X          100                Silver fang (u,u to cancel)
+f,f,3+4             throw      40                 Knee drive
+  same as paul
+f,f,3,4,4           mmh        20,15,25           Shredder kick combo (high)
+f,f,3,4,f|df,4      mmm        20,15,15           Shredder kick combo (middle)
+f,f,3,4,d|db,4      mml        20,15,15           Shredder kick combo (low)
+
+  same as heihachi
+f,f,3               m          30                 Left Axe Kick
+
+  lee original 
+b,b,N,3+4           -          -                  Flic flac (sp?)
+d,4,N,4             lh         7,20               Lee kick combo
+ws  3,3,D,3,3...    mmhm...    10,25,15,10,...    Infinity kick combo
+infinity  D,3,...   ...lmh...  ...,10,10,10,...   Infinity kc, low
+infinity  U,3,...   ...mmh...  ...,10,15,15,...   Infinity kc, axe
+f,f,N,3+4           l          15                 Lee sliding
+D,4,4,4,4           lllm       7,5,5,21           Lazer's edge kick combo
+d,db,4              m          18                 Blazing kick
+d,3+4               X          80                 Silver cyclone
+
+df,1,2,(2,1,3,(3,3,4,3,4       mhmhhlhhhm         10,5,6,5,7,6,7,7,10,25
+___________________________________________________________________________
+
+Kuma
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         17             dash head sliding
+
+Special attacks:
+  same as jack-2
+2,1,2               hmm        17,25,25           Straight, Elbow, Upper
+1+2,1+2             mm         22,22              Double hammer 1
+ws  1+2,1+2         mm         25,30              Double hammer 2
+1,1,1               hhm        18,20,25           Bear punch combo
+[f,f]|f|F,1+2       m          25                 Bear scissors
+wc  1,2,1           mmm        15,12,12           Bear swing
+df,1,2,1,2          mmmm       15,12,12,12        Upper rush
+D,df,1,2,1,1        mmmh       12,15,15,30        Wild swing
+lying  D,1+2        m          12                 Spring hammer punch
+b,db,d,DF,2         m          45                 Megaton claw
+D,1,1,1,2,F,1       llmmh      12,12,12,12,12     A-Bear rush high
+D,1,1,1,2,DF,1      llmmm      12,12,12,12,12     A-Bear rush middle
+D,1,1,1,2,D,1       llmml      12,12,12,12,12     A-Bear rush low
+D,DF,1,2,F,1        mmh        12,12,12           B-Bear rush high
+D,DF,1,2,DF,1       mmm        12,12,12           B-Bear rush middle
+D,DF,1,2,D,1        mml        12,12,12           B-Bear rush low
+D,DF,2,F,1          mh         12,12              C-Bear rush high
+D,DF,2,DF,1         mm         12,12              C-Bear rush middle
+D,DF,2,D,1          ml         12,12              C-Bear rush low
+uf,3+4  (sit)       m          40                 Hip press
+D,3+4               -          -                  sit in place
+sit  1,2,1,2        llll       10,10,10,10        Blood claw
+
+  same as michelle
+f,1,1,1             hmm        10,8,14            Bear heaven cannon
+
+  kuma original
+b,f,2+3             l          60                 Salmon hunting
+b,1+2,f,df,d,db,b,ub,u,UF  m   40                 Rolling bear
+b,1+2               X          35                 Terrible claw
+F,2+4               throw      50                 Bear bites
+
+d,2,1,(1,(1,2,1,2,1,1+2,1+2    lllmmhmmmm         10,6,5,7,7,6,6,8,21,21
+
+___________________________________________________________________________
+
+Wang Jinrey
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         17             dash sliding
+
+Special attacks:
+  same as michelle
+ws  2               m          18                 Zansui
+df,2                m          15                 Housui
+housui hit 1        ?          30                 Daiten Housui
+ws  4               m          20                 SoukuuHou
+big jump start 3+4  m          35                 ResshinTou
+df,3                m          17                 Shoutai
+D,DF,4              l          12                 KousouTai
+kousoutai  3        h          25                 SenkyuuTai
+wc  4               l          15                 ZensouTai
+wc 4,1              lm         15,25              Zensou Juujiba 1
+4,d,4,1             hlm        20,15,25           Zensou Juujiba 2
+wc 4,4              lh         15,20              Zensou Rentai 1
+4,d,4,4             hlh        20,15,20           Zensou Rentai 2
+wc 4,D,4            ll         15,10              Zensou Sentai 1
+4,d,4,D,4           hll        20,15,10           Zensou Sentai 2
+b,B,1               X          50                 Zesshou TsuutenHou
+2 hit b             h          12                 Backslip
+backslip 1+2        throw      25                 German suplex hold
+
+  same as paul
+d,df,f,2            m          33 (cleanhit 49)   Ponken
+  same as nina
+[f,f]|f|F,1+2       m          20 (cleanhit 30)   SoushouHa
+
+  wang original
+df,1+2              m          25                 Awasezuki
+1,1,1               hmm        18,10,25           Tsuutenhou 1
+df,1,1              mm         12,20              Tsuutenhou 2
+zansui  1,1         mmm        18,12,20           Zansui Tsuutenhou
+f,2                 m          21                 MigiShouteiUchi
+b,1+2               X          100                Seiranken
+
+DF,1+3+4            throw      30                 TatsumakiNage
+df,DF,2+4           throw      30                 Zangetsu
+
+2,1,1,(2,3,3,3,(4,4,1          hmmhlhmhlm         12,6,6,6,6,6,6,7,8,25
+
+___________________________________________________________________________
+
+Bruce Irvin
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         17             dash sliding
+
+Special attacks:
+1,2,f,4             hhh        10,12,30           One-two, High kick
+1,2,d,4             hhl        10,12,10           One-two, Low kick
+1,2,4               hhm        10,12,20           Onw-two, Middle kick
+F,1,2,1             hhm        15,10,25           Triple ti-sok
+f,1+2               h          25                 Sok club
+1+2                 m          40                 Sledgehammer
+1,2,3               hhm        10,12,20           Northern-light combo
+1,4,3               hhm        10,20,25           Southern-cross combo
+d,1,2               mm         10,10              Double face breaker
+1,2,1,2             hhmm       10,12,12,15        Raging combination
+3,2,1,4             mmml       25,12,15,12        Gatling combination
+b,b,N,3+4           -          -                  backflip
+backflip 4          h          15                 Feint leg bazooka
+f,F,4               h          35                 Leg bazooka
+f,f,3               m          30 (cleanhit 45)   Slicer
+f,f,f,3             m          30                 Sniper slash
+f,4,3,4             hmh        18,10,25           Sniper sobat combo
+b,3                 h          20                 Stopping
+b,3,2               hh         20,12              Stopping feint straight
+b,3,4               hm         20,20              Stopping feint knee
+b,4,3,4             mmm        20,15,25           Triple knee combo
+b,4,3,d,4           mml        20,15,15           Double knee, Low kick
+3,3                 mh         25,25              Quick sobat
+df,3+4              m          15                 Step in middle kick
+d,3+4,3             lh         15,10              Side low, Side high kick
+df,3                l          12                 Cyclone edge
+cyclone  1          m          50                 Tornado upper
+B,2+3               X          60                 Sidewinder
+
+f,d,DF,1+2+4        throw      20                 Right knee
+right.k  1+2,1+2,1+2           35                 Neck throw
+right.k  3,1+2+3               15                 Left side knee 1
+right.k  4,1+2+3               15                 Left side knee 2
+l.side.k  1,3,1+2+4            25                 Turning right knee
+turn.rk  2,4,1,1+2+3           40                 Vaccuum knee
+
+*no 10hit*
+
+___________________________________________________________________________
+
+Anna Williams
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         17             dash sliding
+
+Special attacks:
+  same as nina
+1,2                 hh         10,10              One-two punch
+2,3                 hh         10,20              PK combo
+2,D,3               hl         10,10              PDK combo
+2,4                 hh         10,15              Double smash
+[f,f,1+2]|[F,1+2]   m          20 (cleanhit 30)   Soushouha
+[D|wc],1,4          lm         5,10               Rave kick
+df,1,2              mh         10,15              Upper, Straight
+1|[df,1],2,4        [h|m]hh    10,10|15,15        Triple smash
+df,3,1,2            mhh        10,10,6            Flash combo
+D|d,2,4             lm         10,15              Frozen kick
+uf,4,3,4            hlh        20,10,14           Hunting kick combo
+f,f,4               m          16 (cleanhit 24)   Kneel kick
+df,3,3,3,4          mhhh       10,6,8,15          Rapid kick combo
+1|[df,1],2,1,4      [h|m]hhl   10,10|15,6,22      Spark combo
+df,3,2,D,3          mhl        10,12,10           Quick attack, left low kick
+df,3,2,3            mhh        10,12,20           Quick attack, left high 
+df,3,2,4            mhh        10,12,15           Quick attack, right high
+df,3,4              mh         10,15              Left middle, R.high kick
+4,3                 hl         20,15              Right high, L.spin low kick
+3,4                 hh         25,15              Left high, R.high kick
+D|d,3,2             lm         12,10              Left spin low, Right upper
+D|d,4,1             lh         7,10               R.low kick, Backspin chop
+f,f,f,4             m          20                 Bone cutter
+db,1+2              X          95                 Hunting swan (u,u to cancel)
+df,DF,1             throw      50                 KakaeKomi HijiUchi
+1+3,F               throw      40                 Kubikarinage
+
+d,df,f,1+2          throw      15                 Shoaku
+shoaku  3,4,3,1+2              30                 Kubikari JujiGatame
+shoaku  1,3,2,1                30                 TachiGyakuWakiGatame
+tachigyaku  2,1,3,4,1+2        25                 SuteGyakuWakiGatame
+tachigyaku  3,1,4,1+2,1+2      25                 Urakanmekitakahajime
+
+  same as paul
+1,4                 hl         10,15              PDK combo
+
+  same as law
+D,ub|u|uf,4         m          25|30|35           Somersault kick (small)
+D,UB|U|UF,4         m          30|40|40           Somersault kick (big)
+
+  anna original
+B,1,1,1             hhm        10,10,13           Cross cut saw
+D,DF,1              l          15                 Cold blade
+D,f,2               m          25                 Right hand stab
+D,f,1               m          35                 Cat thrust
+d,1+2               X          50                 Bloody scissors
+
+d,df,f,1+2          throw      15                 Shoaku
+shoaku  1+3,4,1+2              30                 UdehishigiTachiJujiGatame
+udehishigi  1+2,4,3,1+2,1+2,1+2  35               UdehisshigiUraJujiGatame
+shoaku  1,3,2,1                20                 TachiGyakuWakiGatame
+tachigyaku  2,3,1+2,3+4,1+2    30                 Kan'nukiNage
+
+1,2,1,2,(3,(3,2,1,2,4          hhhhhlhhhh         10,10,6,6,7,9,6,6,6,30
+___________________________________________________________________________
+
+Baek Doo San
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         17             dash sliding
+
+Special attacks:
+ws 3,3,4            hml        35,15,20           Wave needle
+ws 3,4,4,3          hhmm       35,15,25,25        Hit destruction
+ws 3,4,4,4,3        hhmhh      35,15,25,25,15     Hurricane destruction
+4,3,4               hhl        20,12,7            Smash kick
+3,4                 hl         20,8               Break needle
+3,3,4,4,3           hhhmm      20,20,20,25,25     Black widow
+3,3,3,4             hhmh       20,20,20,25        Butterfly kick
+3,3,3,D,4           hhml       20,20,20,25        Butterfly needle
+F,4,3               mm         30,10              Heel knife
+f,F,3               m          15                 Hammer heel
+ws 4,4,3            mmm        13,21,25           Albatross 1
+df,4,4,3            mmm        15,25,10           Albatross 2
+f,N,d,DF,3          m          25                 Wing blade
+ws 4,4,4,3          mmhh       13,21,15,15        Flame hawk 1
+df,4,4,4,3          mmhh       15,25,15,15        Flame hawk 2
+D|d,4,3,3,3         lmmm       7|10,10,15,25      Baek rush
+D|d,4,3,3,D,3       lmml       7|10,10,15,15      Baek rush needle
+3,4,3               hlm        20,20,25           Break blade
+F,4,4,3             mhh        30,15,15           Triple threat
+uf,N,3,4            hh         25,20              Trick smash
+D|d,3,3,d,4         lll        12,7,7             Snake kick
+uf,N,3,d,4          hl         25,20              Trick needle
+D|d,3,3,3           llm        12,7,25            Snake blade
+b,B,3,N             -          -                  Flamingo
+flamingo  f|b       -          -                  Flamingo move
+flamingo  [b,3]|[b,B,3]  h     21                 Heel hunter
+flamingo  3              m     15                 Heel cutter
+flamingo  db|d|df,3      l     7                  Mach needle
+flamingo  3,3,4          mml   15,15,15           Flamingo wave needle
+flamingo  3,4,4,3        mlmm  15,20,25,25        Flamingo destruction
+flamingo  3,4,4,4,3      mhmhh 15,10,25,15,15     Flamingo hurricane
+3,3,4,4,4,3         hhhmhh     20,20,20,25,15,15  Silver mantis
+f,f,f,3             m          35                 Killing blade
+uf,N,3,d,4,3        hlm        25,20,25           Starlight blade
+uf,N,3,4,3          mhh        25,20,25           Hunting hawk
+db,3+4              X          40                 Heel explosion
+f,F,2               throw      40                 Cobra bite throw
+DB,1+3              throw      34                 Swordfish throw
+
+4,3,(4,3,3,3,(3,3,4,3          hhlmmmhhlm         20,12,5,6,6,6,5,5,7,25
+   \(3,4,(3,3,3,(4,3,3         ..hlmmmlmX         ..,..,8,5,6,6,6,7,21,25
+ ______ ____________________
+|      |                    |  possible combos:
+|      | (4,3,3,3,(3,3,4,3  |  4,3,(4,3,3,3,(3,3,4,3
+| 4,3, |--------------------|  4,3,(3,4,(3,3,3,(4,3,3
+|      | (3,4,(3,3,3,(4,3,3 |
+|______|____________________|
+
+___________________________________________________________________________
+
+Ganryu
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+
+Special attacks:
+  same as jack-2
+1,1,1               hhm        18,20,25           Ganryu combo
+1+2                 m          22                 Moroteburi
+wc  1,2,1           mmm        15,12,12           NodoRin combo
+ws  1+2             m          25                 Morote upper
+1+2,1+2             mm         22,22              Morote hammer 1
+ws  1+2,1+2         mm         25,30              Morote hammer 2
+lying  D,1+2        m          12                 Spring hammer punch
+D,df,1,2,1,1        mmmh       12,15,15,20        Tsukidashi
+F,2,1               hm         15,15              Punch elbow
+3+4                 m          30                 Hip press
+[f,f]|F,1+2         m          25                 Saba smash series
+D,1,1,1,2,F,1       llmmh      12,12,12,12,12     Sumo rush (high)
+D,1,1,1,2,DF,1      llmmm      12,12,12,12,13     Sumo rush (mid)
+D,1,1,1,2,D,1       llmml      12,12,12,12,14     Sumo rush (low)
+b,db,d,DF,2         m          40                 Megaton thrust
+
+  same as nina
+2+4,F               throw      35                 Izori
+
+  ganryu original
+D,4                 down       50                 Thigh quake
+d,1,1,1,...         lll...     15,15,10,...       Kabuki harite
+F,1,2,1,2,1,2,1,2   hhhhhhhh   12,10,8,5,5,5,5,5  Enmatsuppari
+df,2+3              l          12                 Kaminari hateri
+df,2,1,1,1          mhhhh      15,10,10,8         L.upper, Enmatsuppari
+D,1+2               l          25                 ChabudaiKaeshi
+b,db,d,DF,1         m          30                 KachiAge
+B,1+2               X          90                 Kyoku WaruKamashi
+f,F,2+3             throw      35                 Agokudaki
+
+*no tenhit*
+
+___________________________________________________________________________
+
+P-Jack
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         25             dash head sliding
+
+Special attacks:
+  same as jack-2
+1,1,2               hmm        17,25,25           Straight, Elbow, Upper
+[f,f]|f|F,1+2       m          25                 Power scissors
+1+2,1+2             mm         22,22              Double hammer 1
+ws  1+2,1+2         mm         25,30              Double hammer 2
+1,1,2               hhm        18,20,25           Hammer combo
+lying  D,1+2        m          12                 Spring hammer punch
+b,db,d,DF,2         m          35 (cleanhit 53)   Megaton punch
+wc 1,2,1            mmm        15,12,12           Swing knuckle
+DF,1,2,1,2          mmmm       15,12,12,12        Upper rush
+db,1,1,1,df,2       lllm       25,25,25,40        Machinegun knuckle
+D,3+4               -          -                  sit in place
+sit  1,2,1,2        llll       10,10,10,10        Blood fan
+uf,3+4  (sit)       m          35                 Hip press
+D,1,1,1,2,F,1       llmmh      12,12,12,12,12     A-Hammer rush high
+D,1,1,1,2,DF,1      llmmm      12,12,12,12,12     A-Hammer rush middle
+D,1,1,1,2,D,1       llmml      12,12,12,12,12     A-Hammer rush low
+D,DF,1,2,F,1        mmh        12,12,12           B-Hammer rush high
+D,DF,1,2,DF,1       mmm        12,12,12           B-Hammer rush middle
+D,DF,1,2,D,1        mml        12,12,12           B-Hammer rush low
+D,DF,2,F,1          mh         12,12,             C-Hammer rush high
+D,DF,2,DF,1         mm         12,12,             C-Hammer rush middle
+D,DF,2,D,1          ml         12,12,             C-Hammer rush low
+D,df,1,2,1,1        mmmh       12,15,15,30        Wild swing
+b,db,d,df,f,...,1   X          20|40|60|80|199    Gigaton punch
+     continue stick spin to increase strength, unblockable after
+     the first spin
+
+  same as paul
+d,1,2               mm         15,30              P.Jack blast
+
+  p.jack original
+F|f,3+4             m (start)  25                 Head sliding
+                    l (end)
+b,db,d,DF,1         m          30                 Exploder
+f,4,1               X          100                Darkness cutter
+3+4                 X          60                 Dive bomber
+db,2+3              throw      32                 Slapping down
+2+4,db,d,DF,2       throw      40                 Punishment megaton
+
+2,d,1,(1,(1,2,1,2,1,1+2,1+2    lllmmhmmmm         10,6,5,7,7,6,6,8,21,21
+
+___________________________________________________________________________
+
+Kunimitsu
+run for less than 4 seconds   throw     5              tackle
+tackle  2                     throw     25             stab
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+
+Special attacks:
+  same as yoshimitsu
+2,3                 hh         12,30              PK combo
+2,D,3               hl         12,17              PDK combo
+f,2                 h          12                 ManjiUraKen
+B,1,1,1,1,1,1       hhhhhh     10,10,10,10,10,10  Ninpoh ManjiKazura
+DB,3,3,3,3,3        lllll      12,7,7,5,5         Ninpoh ManjiSou
+ManjiSou f,4        m          12                 ToubokuShuu
+D,DF,3              l          12                 TsuyuBarai
+3,4                 lm         35,30              Inazuma
+f,f,4               m          20                 Fubuki
+f,f,3+4             m          40                 Ninpoh Kageroh
+Kageroh 1+2         h          40                 Ninpoh Kusanagi
+uf,3+4              m          30                 NinpohManjiGuruma
+3,3,3               hhh        20,20,20           Sazanka
+
+  kunimitsu original
+DB,1+3              throw      35                 HaraiGoshi
+db,2                X          15                 Kunai Zashi
+b,2                 X          22                 Kunai Giri
+f,f,N,2             X          25                 Kunai Kage
+                                                  
+1,2,1,(4,(4,(4,1,2,3,2         hmmhhlmhmX         10,8,6,9,9,5,5,7,12,25
+
+___________________________________________________________________________
+
+Armor King
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 3,3,3         lll       17,7,7         dash ali kick
+
+Special attacks:
+  same moves as king
+1,2                 hh         12,15              One-two punch
+                               15,15 with stick
+1,2,1               hhm        12,15,10           One-two upper
+                               15,15,10 with stick
+uf,1+2              m          35                 Knuckle bomb
+f,f,2               m          20                 Smash upper
+f,f,N,2             l          6                  Grand smash
+2,1                 hm         12,15              Right straight, Left upper
+wc  1,2             lm         5,15               Left straight, Right upper
+F,DF,2              m          20                 Dynamite upper
+big-jump start 2+4  m          35                 Elbow drop
+f,f,4               m          30                 Jail kick
+f,f,f,3+4           m          40                 Sattellite drop kick
+[D,DF,4]|[d,3+4],4,4 lll       17,7,7             Ali kick
+D,DF,4,4,4,4,4      lllll      17,7,5,4,3         Ali kick (counter)
+big-jump start 3+4  m          40                 Double knee drop
+f,f,1+2             h (start)  15                 Flying cross chop
+                    l (ending)
+df,3+4              m          20                 Frankensteiner
+                                                  (outside throw range)
+df,3+4              throw      45                 Frankensteiner
+                                                  (in throw range)
+df,3+4              throw      20+45              Frankensteiner
+                                                  (in throw range, no guard)
+d,df,F,1            throw      25                 Jaguar driver
+db,DB,1+2           throw      45                 DDT
+db,F,1+2            throw      65                 Tombstone piledriver
+f,b,db,d,df,F,1     throw      70                 Giant swing
+
+  same moves as heihachi
+f,N,d,DF,2          m          30                 Black smash
+f,N,d,DF,1          m          38 (cleanhit 57)   Dark Smash
+
+  armor king original
+[f,f,3+4]|[3+4]     h          30                 EnzuiGiri
+b,1+4               h          35                 Arrow straight
+f,1+4               m          30                 Black shoulder attack
+uf,1+2,D            X          45                 Super knuckle bomb
+u|uf,N,1+2,D        X          45                 Jumping super knuckle bomb
+u|uf,N,1+2          m          35                 Jumping knuckle bomb
+u|uf,N,3+4,4,4      lll        17,7,7             Jumping Ali kick
+u|uf,N,1+4          X          25                 Jumping moonsault drop
+2+4,d,d,D,1+2       throw      55                 Steiner screwdriver
+
+1,2,1,1,(2,4,4,(4,1,3          hhmmhlllmm         12,15,10,6,6,5,5,5,7,25
+
+___________________________________________________________________________
+
+Roger/Alex
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 3,3,3         lll       17,7,7         dash ali kick
+
+Special attacks:
+  same moves as king
+1,2                 hh         12,15              One-two punch
+                               15,15 with stick
+wc  1,2             lm         5,15               Left straight, Right upper
+2,1                 hm         12,15              Right straight, Left upper
+                               15,10 with stick
+1,2,1               hhm        12,15,10           One-two upper
+                               15,15,10 with stick
+D,df,2              m          20                 Dynamite upper
+f,f,N,2             l          6                  Grand smash
+f,f,2               m          20                 Smash upper
+big-jump start 2+4  m          35                 Elbow drop
+uf|F|f,1+2          m          35                 Knuckle bomb
+big-jump start 3+4  m          40                 Double knee drop
+f,f,1+2             h (start)  15                 Flying cross chop
+                    l (ending)
+f,f,4               m          30                 Jail kick
+f,f,f,3+4           h          40                 Satellite drop kick
+3+4                 m          25                 Drop kick
+df,3+4              m          20                 Frankensteiner
+                                                  (outside throw range)
+df,3+4              throw      45                 Frankensteiner
+                                                  (in throw range)
+df,3+4              throw      20+45              Frankensteiner
+                                                  (in throw range, no guard)
+d,df,F,1            throw      25                 Jaguar driver
+b,F,1+2             throw      65                 Tombstone driver
+f,b,db,d,df,F,1     throw      70                 Giant swing
+db,DB,1+2           throw      45                 DDT
+
+  roger/alex original
+[D,DF,4,4,4] |      lll        17,7,7             Ali kick
+        [d,3+4,4,4]
+[D,DF,4,4,4,4,4] |  lllll      17,7,5,4,3         Ali kick (counterhit)
+    [d,3+4,4,4,4,4]
+f,N,1               h          30                 Kurukuru punch
+F,f,1,2,1,2,1       hhhhm      12,15,10,15,20     Animal rush, Kurukuru
+f,N,d,df,1          m          50                 Animal uppercut
+db,3                l          17                 Tail cutter
+B,1                 X          100                Animal Megaton punch
+db,4,3,4,3,4        mmmmm      17,17,17,17,17     Animal kick rush
+Kick rush  B        -          -                  Animal backroll
+db,4,1              m          17                 Rolling animal
+b,3+4               h          30                 Animal drop kick
+                                                  
+*no 10hit*
+
+Animal Kick Rush Flowchart
+ _________________________________________
+|     Animal Kick Rush (db,4,3,4,3,4)     |
+|_(start)_______________(middle)____(end)_|
+     |                    /|\ |       |
+    \|/                    |  |_______| 
+ Rolling Animal (db,4,1)___|          |
+    /|\                    |         \|/
+     |                     |     backroll (B)
+ Animal Drop Kick (b,3+4)__|
+
+___________________________________________________________________________
+
+Kazuya Mishima
+run for less than 4 seconds   throw     5              tackle
+tackle  1,2,1,2               throw     5,5,5,5,5      tackle punch
+for for more than 3 seconds   X         30             super tackle
+run >2 seconds, 1+2           m         30             run chop
+run >3 seconds                down      15             stomp
+run >2 seconds, 4             l         17              dash sliding
+
+Special attacks:
+  same moves as heihachi
+1,2                 hh         10,15              One-two punch
+                               12,15 with stick
+uf,4,4              hl         25,15              RasenShuujinKyaku
+f,N,d,DF,1          m          33 (cleanhit 49)   RaijinKen
+f,N,d,DF,2          m          30                 FuujinKen
+f,4                 m          30                 Right axe kick
+4,3                 m          30                 Hasaishuu
+f,f,f,3             m          30                 KuuzanKyaku
+1,1,2               hhm        10,10,20           SenkohRekken
+                               12,10,20 with stick
+ws  4,4             mmm        13,21              Axe kick
+1,2,2               hhh        10,12,25           KikokuRenken
+                               12,15,25 with stick
+f,f,3               m          30                 Left axe kick
+f,f,1+2             throw      35                 Super headbutt
+
+  kazuya original
+df,1,2              mm         10,15              Double upper
+df,4,4              mm         10,15              Heel cut
+f,N,DF,4,4          ll         17,12              NarakuBarai
+d|DB,1+2            throw      5                  Ultimate Tackle
+U.Tackle 2,1,2,1,2  throw      5,5,5,5,5          Yamigumo
+uf,4,4,4,4          hllm       25,15,12,20        Rasen GenmaKyaku
+ws  2               m          25 (cleanhit 37)   MajinKen
+f                   -          -                  Kiriashi
+f,N,DF,2            m          30                 Kiriashi FuujinKen
+f,N,DF,1            m          33                 Kiriashi RaijinKen
+f,N,DF,4,4          ll         17,12              Kiriashi NarakuBarai
+f,N,d,DF,1,3        mm         33,12              RaijinKen, Mid-kick
+f,N,D,DF,1,3        ml         33,12              RaijinKen, Low-kick
+b,1+4               X          40                 KijinMetsuretsu
+B,1+4               X          80                 ShinKijinMetsuretsu
+
+F,F,2,1,2,2,(3,4,(4,1,2,1      hhhhmmlhmh         7,8,6,7,6,11,5,5,8,30
+       |           \3,(2,1     .......lmX         .,.,.,.,.,..,.,5,25,30
+       \(4,4,(2,4,(3,(2,1      ..mmlmlmX          .,.,7,10,5,7,5,25,30
+ __________ ______________ ________
+|          |              |        |  possible combos:
+|          |              | 1,2,1  |  F,F,2,1,2,2,(3,4,(4,1,2,1
+|          | 2,2,(3,4,(4, |--------|  F,F,2,1,2,2,(3,4,(4,3,(2,1
+| F,F,2,1, |              | 3,(2,1 |  F,F,2,1,(4,4,(2,4,(3,(2,1
+|          |______________|________|
+|          |                       |
+|          | (4,4,(2,4,(3,(2,1     |
+|__________|_______________________|
+
+___________________________________________________________________________
+
+Devil/Angel
+2+4                 throw      35                 Bodydrop
+1+3                 throw      40                 TsumujiKeri
+f,f,1+2             throw      35                 Super Headbutt
+1,2                 hh         10,15              One-two punch
+uf,4,4              hl         25,15              RasenShuujinKyaku
+f,N,d,DF,2          m          30                 FuujinKen
+f,f,f,3             m          30                 KuuzanKyaku
+f,4                 m          30                 Right axe kick
+ws  4,4             mm         13,21              Axe kick
+1,1,2               hhm        10,10,20           SenkouRekken
+                               12,10,20 with stick
+4,3                 m          30                 Hasaishuu
+f,N,d,DF,1          m          33 (cleanhit 49)   RaijinKen
+1,2,2               hhh        10,12,25           KikokuRenken
+                               12,15,25
+df,1,2              mm         10,15              Double upper
+f,N,d,DF,4,4        ll         17,12              NarakuBarai
+f,f,3               m          30                 Left axe kick
+back  1+3|2+4       throw      40                 SeOtoshi
+1+2                 X(high)    40                 Inferno
+3+4                 X          80                 Devil Blaster
+
+F,F,2,1,2,2,(3,4,(4,1,2,1      hhhhmmlhmh         7,8,6,7,6,11,5,5,8,30
+
+note:  The Gamest mook does not include a seperate section for Devil,
+     instead, just including it's unblockable attacks in Kazyua's section.
+While the Devil does share many attacks with the Mishima family, it does
+not have all the attacks (of Kazuya) i.e. Kiriashi.  Thus the above list
+has been pulled from the Devil article in Gamest #162 which does not
+include damage or strike levels.  Damage and levels have been taken from
+the Sony Hyper Visual Book.)
+
+ ____________________________________________________________________
+|____________________________________________________________________|
+
+Unreversable Attacks
+     Five Characters (Jun, Paul, Nina, Anna and Wang) have the ability
+to reverse oncoming attacks.  This is done by hitting B,1+3|2+4 for
+Jun, Paul and Wang, or B,2+3|1+4 for Nina and Anna when the opponent's
+attack lands.  In determining which attacks may be reversed, general
+rule of thumb is that all attacks above the waist may be reversed (mid
+and high strikes), this includes many "unblockables."  However there is
+a set of attacks for most characters which do strike "above the waist"
+but cannot be reversed by some if not all of the five mentioned.
+
+Key:                     J  Jun   (B,1+3|2+4)
+     -  unreversable     P  Paul  (B,1+3|2+4)
+     *  reversable       N  Nina  (B,2+3|1+4)
+                         A  Anna  (B,2+3|1+4)
+                         W  Wang  (B,1+3|2+4)
+
+move                level J P N A W  |  move                level J P N A W
+-----------Paul-Phoenix------------  |  ----------Kuma---------------------
+Rakuyoh              lm   - - - - -  |  Hell press           m    - - - - -
+Hazakura             m    - - - - -  |  Hip press            m    - - - - -
+Kawarawari rakuyoh   mlm  - - - - -  |  Terrible claw        X    - - - - -
+Hazakura ponken      mm   - - - - -  |  Rolling bear         m    - - - - -
+Hazakura tekki       ml   - - - - -  |  ------------Armor-King-------------
+Hayate               m    - - - - -  |  Satellite drop kick  h    - - - - -
+-----------Marshall-Law------------  |  Elbow drop           m    - - - - -
+Dragon knuckle combo hmh  - - - - -  |  Flying cross chop    h->l - - - - -
+---------------King----------------  |  Double knee drop     m    - - - - -
+Drop kick            m    - - - - -  |  L.Straight, R.Upper  lm   - - - - -
+Satellite drop kick  h    - - - - -  |  Super knuckle bomb   X    - - - - -
+Elbow drop           m    - - - - -  |  Jump.S.knuckle bomb  X    - - - - -
+Flying cross chop    h->l - - - - -  |  Jump.moonsault drop  X    - - - - -
+Double knee drop     m    - - - - -  |  Black shoulder attack m   - - - - - 
+Moonsault press      X    - - - - -  |  --------------P.Jack---------------
+Jaguar impact        X    - - * * *  |  Hell press           m    - - - - -
+Elbow sting          m    - - - - -  |  Hip press            m    - - - - -
+L.Straight, R.Upper  lm   - - - - -  |  Gigaton punch        X    - - - - -
+--------------Jack-2---------------  |  Head sliding         m->l - - - - -
+Hell press           m    - - - - -  |  Dive bomber          X    - - - - -
+Hip press            m    - - - - -  |  --------------Ganryu---------------
+Gigaton punch        X    - - - - -  |  Thigh quake          m    - - - - -
+Sit, Hip press       m    - - - - -  |  Hip press            m    - - - - -
+----------Michelle-Chang-----------  |  Kyoku WaruKamashi    X    - - - - -
+Resshintou           m    - - - - -  |  -------------Kunimitsu-------------
+Koshinchuu           m    - - - - -  |  Ninpo Kageroh        m    - - - - -
+Shippo Houchuu       m    - - - - -  |  Ninpo Kusanagi       h    - - - - -
+Zansui Houchuu       mm   - - - - -  |  Ninpo Manjiguruma    m    - - - - -
+Zangeki Houchuu      mm   - - - - -  |  Fubuki               m    - - - - -
+KoshinRenkou         mm   - - - - -  |  Kunai Zashi          X    - - - - -
+------------Yoshimitsu-------------  |  Kunai Kiri           X    - - - - -
+Ninpo Kageroh        m    - - - - -  |  Kunai Gake           X    - - - - -
+Ninpo Kusanagi       h    - - - - -  |  ------------Wang-Jinrey------------
+Ninpo Manjiguruma    m    - - - - -  |  Resshintou           m    - - - - -
+Fubuki               m    - - - - -  |  ------------Bruce-Irvin------------
+ZankokuKen           X    * - * * -  |  Sok clob             h    - - - - -
+ZetsumeiKen          X    * - * * -  |  Triple ti sok        hhm  - - - - -
+HikuuShuuKen         X    * - * * -  |  Triple knee combo    mmm  - - - - -
+SenpuuKen            X    - - - - -  |  Double knee, Low.k   mml  - - - - -
+MadoInashi           X    - - - - -  |  Stopping feint knee  hm   - - - - -
+FueriInashi          X    - - - - -  |  Double face breaker  mm   - - - - -
+HyougaHou            m    * - * * *  |  -----------Roger-&-Alex------------
+RengokuKen           X    * - * * -  |  Drop kick            m    - - - - -
+KusanagiHou          mhm  * - * * *  |  Satellite drop kick  h    - - - - -
+------------Lei-WuLong-------------  |  Elbow drop           m    - - - - -
+TenshinRenhou        hh   - - - - -  |  Flying cross chop    h->l - - - - -
+SenpuuRenkyaku       m    - - - - -  |  Double knee drop     m    - - - - -
+HououSenpuukyaku     X    - - - - -  |  L.Straight, R.Upper  lm   - - - - -
+------------Lee-Chaolan------------  |  Animal gigaton punch X    - - - - -
+Lee knuckle combo    hmh  - - - - -  |  Animal kick rush     m x5 - - - - -
+Silver cyclone       X    - - - - -  |  Rolling animal       m    - - - - -
+----------Kazuya-Mishima-----------  |  ---------------Devil---------------
+ShinKishinMetsuretsu X    * - * * -  |  Inferno              X    - - - - -
+                                     |  Devil blaster        X    - - - - - 
+
+Yes, Heihachi, Nina, Anna, Baek, and Jun are absent from the list.
+
+ ____________________________________________________________________
+|____________________________________________________________________|
+
+Throw Escapes:
+
+Move name                  command             escape       effective entry
+---------------------------------------------------------------------------
+regular throws             1+3|2+4             1+3|2+4      16th frame
+(all characters)
+---------------------------------------------------------------------------
+Ultimate Tackle            DB,1+2              2+4          12th frame
+(Paul, Kazuya)
+---------------------------------------------------------------------------
+Shoaku [a]                 d,df,f,1+2
+KubikariJujiGatame         [a] 3,4,3,1+2       1+2          9th frame
+TachigyakuwakiGatame [b]   [a] 1,3,2,1         1+3          9th frame
+UrakanNukiTakaHajime       [b] 3,1,4,1+2,1+2
+SutegyakuwakiGatame        [b] 2,1,3,4,1+2
+(Nina)
+---------------------------------------------------------------------------
+UdehishigiJujiGatame [c]   [a] 1+3,4,1+2       2+4          9th frame
+UdehishigiUraJujiGatame    [c] 1+2,4,1+2(x3)
+Kan'nukiNage               [c] 2,3,1+2,3+4,1+2
+(Anna)
+---------------------------------------------------------------------------
+Figure-4 leg lock          DB,1+2              3+4          1st frame
+                                                       (damage to King: 26)
+Standing achilles [a]      f,DF,2+3
+S.T.F.                     [a] 1,2,3,1,1+2     1+3          9th frame
+Scorpion death lock        [a] 1+2,3,1,1+3     2+4          9th frame
+Indian death lock [b]      [a] 1+2,1,3,1+2+4   1+2          9th frame
+                                          (STF,Sdl,Idl  damage to King: 10)
+Romero special             [b] 1+2,3,4,1+2,ALL
+
+Wonderful Mexican Combo:                       [a]  [a']
+Reverse arm clutch [a]     d,DF,1+3
+Reverse arm clutch [a']    d,DF,2+4
+Backdrop [b]               [a|a']2,1,1+2       1+2  2+4     9th frame
+German suplex [c]          [b] 3+4,1+2         3+4  1+3     9th frame
+Power Bomb [d]             [c] 1,2,3+4
+Giant swing                [d] 2,1,3,4         2+4  1+2     9th frame
+(King)
+---------------------------------------------------------------------------
+HizaJigoku:                                    [b]  [b']
+ShomenMigiHizaKeri [a]     f,d,DF,1+2+4
+KubiNage                   [a] 1+2,1+2,1+2
+HidariyokoHizaJigoku [b]   [a] 3,1+2+3
+HidariyokoHizaJigoku [b']  [a] 4,1+2+3
+MawashiMigiHizaKeri [c]    [b|b'] 1,3,1+2+4    3+4  2+4     3rd frame
+ShinkuuTobiHizaKeri        [c] 2,4,1,1+2+3
+(Bruce)
+---------------------------------------------------------------------------
+YamigumoShibori            tackle 1,2,1,2,1    1+2          10th frame
+<Paul>  This may only be done by Paul, to intercept any punches
+        following a tackle.
+
+ ____________________________________________________________________
+|____________________________________________________________________|
+
+Sub-boss selection codes:
+     All codes assume you have inserted your credits but not started
+yet.  "Hold" means to hold until instructed to release, or code ends.
+
+Lee:         ?
+Kuma:        hold RP, start, go to Paul, down, start, down
+Wang:        start, go to Baek/Jun (whoever is default), start,
+               down, right, up, left
+Bruce:       start, go to Lei, start, start, start, start, right
+Anna:        ?
+Baek/Jun:    ?
+Ganryu:      start, go to Michelle, start, down, up
+P.Jack:      start, go to Jack-2, down, down, start, up, up
+Kunimitsu:   hold RP, start, go to Yoshimitsu, right, start
+Armor King:  start, go to King, left, hold start, left, right,
+               release start, right
+Roger/Alex:  hold LK (RK for Alex), start, up up
+Kazuya:      start, go to Heihachi, down, hold up, start, start,
+               release up, up
+Devil:       ?
+
+ ____________________________________________________________________
+|____________________________________________________________________|
+
+Resources:
+"[PSX]" indicates the book is written with the Sony Playstation
+game in mind.
+Gamest Mook Vol.15: Tekken2 Act.1
+     GMC-15  Shinseisha  780yen
+Gamest Mook Vol.23: Tekken2 Act.2
+     GMC-23  Shinseisha  1280yen
+Gamest Mook EX Series Vol.4: Tekken2 Skill Manual                [PSX]
+     GMC-29  Shinseisha  980yen
+Sony Magazines Deluxe #173: Tekken 2 for Playstation Players     [PSX]
+     Sony Magazines  680yen
+Sony Magazines Deluxe: Tekken 2 Hyper Visual Book                [PSX]
+     ISBN: 4-7897-9024-X  Sony Magazines  1500yen
+
+Namco Sound Express Vol.26: Tekken 2
+     VICL-15050  Victor Entertainment (Japan)  1500yen
+
+If you have some electronic resource and would like to see it listed
+here, drop me a line.  (so far, no electronic resources exist other
+than this file, the Tekken 2 Project. =^)
+
+ ____________________________________________________________________
+|____________________________________________________________________|
+
+     If you _really_ liked this list, or even if you don't, I only
+require one thing from you.  Money? no, not that I'd mind the extra
+presidents in my company, rather your comment.  Go through the list,
+peruse it, use it, share it, and tell me what you think.  Send your
+e-mail to
+          gkomatsu@hawaii.edu.
+
+________________________________________
+
+Release history
+1996.4.15.0:  Errors abound!
+1996.5.20.1:  Typos corrected.  Wanted to add basic moves but time
+       didn't permit.
+1996.9.4.2    Maintenance release.  Few changes made.
+________________________________________
+
+Tekken 2 Project copyright 1996 Galen Komatsu.  This document is to
+be distributed and archived in it's entire form, and no fee is to
+be charged for it's distribution.  End users may print sections for
+personal use only.  Contact author for inclusion in media, printed,
+electronic, or otherwise.
+

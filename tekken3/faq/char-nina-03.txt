@@ -1,0 +1,966 @@
+**********************************************************************
+*              O                                                     *
+*   _   ____   _   _   ____    __                                    *
+*  | | / /| | | | | | / /| |  /  \                                   *
+*  |_|/_/ |_| |_| |_|/_/ |_| /_/\_\                                  *
+*                                                                    *
+*          _      _   O   _   _   O     _     ___ ___    ____        *
+*         \ \_/\_/ /  _  | | | |  _    /_\   |   V   |  / /__        *
+*          \      /  | | | | | | | |  /|_|\  | |\_/| | /_// /        *
+*           \_/\_/   |_| |_| |_| |_| /_/ \_\ |_|   |_| __/_/         *
+*                                                                    *
+**********************************************************************
+
+The definitive Nina Williams FAQ Version 1.05
+  
+  By:  Markus Kaufmann 
+Date:  06/03/1998
+
+
+Disclaimer:
+ This FAQ can be distributed in any form, period. However, Any organi-
+zations wishing to  distribute this  FAQ for profit should contact the
+author at: 
+		tekken@starnetinc.com.
+
+For the most recent version of this FAQ go to:
+
+		http://pwp.starnetinc.com/tekken/ 
+
+© copyright 1997/98 Markus Kaufmann.
+
+
+    I have decided  to put this  FAQ together,  since I  still haven't
+found  a truly complete  NINA FAQ  yet.  This FAQ  is based  on my own
+experiences as well  as the work of other Tekken enthusiasts  (see the
+credits section).  Changes in this version include  the removal of the
+VS characters section and the addition of a VS Human strategy section,
+as well as more  juggles and some  more info  in the  general strategy
+section.
+
+    Nina is one of the few characters in Tekken 3 who  matches up well
+against all of the other characters.  Her greatest strenght is her di-
+versity of moves, holds, combinations, and juggles.  I think that Nina
+is probably the only character that does not have any  weaknesses, but
+she is definitely not the easiest character to learn. To begin tapping
+into Nina's potential you must work on mastering two things:   the art
+of side-stepping and the half-circle/quarter-circle joystick movements
+I think that average players should be able to learn enough of Nina's
+moves to be quite effective with her ... but to become truly effective
+will take some time.
+
+BACKGROUND:
+
+    In the last tournament Nina was ordered to assassinate Kazuya, but
+an untimely quarrel with her sister Anna prevented it.  Shortly there-
+after both  sisters were captured  by Kazuya's corps  and were used as
+guinea pigs in Boskonovitch's "Cold Sleep No. 2" experiment. 
+
+    They did not wake for 15 years.   Heihachi's  private  corps,  the
+"Tekken Forces"  went to the  burial site and  excavated  the  "God of
+Fight".  This unearthing unleashed the  "God of Fight's"  spirit which
+awakened Nina's  resting soul.   Now controlled by the  "God of Fight"
+Nina acts robotically with the command to assassinate Jin Kazama. 
+
+
+Nina General Info:
+
+- Catch copy: Silent Assassin
+- Country of origin: Ireland
+- Fighting Style: Assassination Martial Arts based on 
+                  Bone Martial Arts & Aikido.
+- Age: 22
+- Height: 161cm
+- Weight: 49kg
+- Blood type: A
+- Occupation: To assassinate Jin Kazama 
+              (under the control of the "God of Fight").
+- Hobby: Retracing memories
+- Likes: Not remembered (maybe tea with milk).
+- Dislikes: Not remembered (perhaps Anna).
+
+
+
+**********************************************************************
+           _
+| |\ | |\ |_ \/
+| | \| |/ |_ /\
+
+**********************************************************************
+
+1.    Move Notation
+2.    Moves list (incl. Tenstrings)
+3.    Grapples (Multi-Parts and Timings!!)
+4.    Reversals + Reversal Counters
+5.    General Strategy
+6.    VS Human Strategy
+7.    Stuns & Juggles
+8.    EVIL NINA
+9.    Winning Stances
+10.   Credits
+
+
+
+
+**********************************************************************
+1. Move Notation
+**********************************************************************
+
+1 ----- Left Punch Button 
+2 ----- Right Punch Button 
+3 ----- Left Kick Button 
+4 ----- Right Kick Button 
+f ----- Tap Joystick Forward 
+b ----- Tap Joystick Back 
+d ----- Tap Joystick Down 
+u ----- Tap Joystick Up 
+df ---- Tap Joystick Diagonally Down/Forward 
+db ---- Tap Joystick Diagonally Down/Back 
+uf ---- Tap Joystick Diagonally Up/Forward 
+ub ---- Tap Joystick Diagonally Up/Back 
+F ----- Move + Hold Joystick Forward 
+B ----- Move + Hold Joystick Back 
+D ----- Move + Hold Joystick Down 
+U ----- Move + Hold Joystick Up 
+DF ---- Move + Hold Joystick Diagonally Down/Forward 
+DB ---- Move + Hold Joystick Diagonally Down/Back 
+UF ---- Move + Hold Joystick Diagonally Up/Forward 
+UB ---- Move + Hold Joystick Diagonally Up/Back 
+n ----- Return Joystick To Neutral Position 
+QCT --- equals d,df,f joystick movement
+QBT --- equals d,db,b joystick movement
+HCT --- equals b,db,d,df,f joystick movement
+HCB --- equals f,df,d,db,b joystick movement
+(WS) -- While Standing (Getting up from a crouch)
+$ ----- Sidestep (u,n or d,n) 
+[] ---- Optional 
++ ----- At the same time 
+~ ----- Tap immediately after 
+_ ----- Or (Alternate Method)
+: ----- 1/4 Second Pause Between Button Presses In TENstrings
+{} ---- Throw Counter In Curly Brackets
+(ls) -- Left Side Throw (Done On Opponent's Left Side)
+(rs) -- Right Side Throw (Done On Opponent's Right Side)
+(bk) -- Back Throw (Done At Opponent's Back)
+(XX) -- Do Move In Brackets Before Move Listed After Brackets
+        This Is Used Primarily For Multiparts
+
+
+
+**********************************************************************
+2. Moves List
+**********************************************************************
+
+A.   General Moves
+
+f,f                      Dash Forwards
+b,b                      Dash Backwards 
+b,b,b,n                  Backflip 
+u~ub                     Backflip
+u,n                      Axis Shifting Sidestep 
+d,n                      Axis Shifting Sidestep 
+D                        Duck Completely
+u                        Hop
+U                        Jump 
+QCT                      Crouch Dash
+QCB                      Ducking Dodge
+f,f,f                    Run(RN) 
+    (RN)B                   Stop Running 
+    (RN)1+2                 Flying Cross Chop 
+    (RN)3                   Bone Cutter (Achilles Leglock on Counter)
+    (RN)4                   Slide 
+1                        Left Punch
+2                        Right Punch
+3                        Heel Kick
+4                        Boot to the Head
+df+1                     Uppercut 
+df+2                     Lifting Uppercut 
+df+3                     Side Kick 
+df+4                     Front Kick 
+u+2_uf+2                 Quick Pounce (On Floored Opponent)
+U+2                      Hard Pounce (On Floored Opponent)
+1+2+3+4                  Powerup Charge 
+			 [Powers Up All Moves For A Few Seconds and] 
+			 [all hits scored count as counter-hits.   ]
+
+
+B.  Ground Recovery
+
+~1_~2_~3_~4              Immediate Recovery (After Knockdown)
+1                        Roll Sideways
+2                        Quick Recovery 
+3                        Low Sweep
+4                        Side Kick (hits medium)
+D+1                      Roll Over
+D+(3_4)                  Ankle Kick
+U                        Get up quickly
+F                        Roll Forwards
+F,f+1+2                  Forward Rolling Lunge
+B                        Roll Backwards
+B,b+3+4                  Roll Backwards, Handspring Up
+B,f+1+2                  Roll Backwards, Forward Lunge
+[*Note* Many of these moves can be chained together.                ]
+[       I.E: 1,B,3 = roll sideways, roll back, sweep                ]
+
+
+C. Nina's (Anna's) Moves
+
+f,f+1                    Throat Cutter
+f,f+2                    Panther Claw
+b+1                      Killing Blade
+b+2,2                    Double Slap
+db+2                     Forearm Chop (stuns on counterhit)
+F+1+2                    Delayed Blonde Bomb
+f,f+1+2                  Blonde Bomb 
+(f~f+3)_(D,df~f+3)       Bad Habit (stuns on counterhit)
+(f,f+4)_(d,df,f+4)       Flipping Heel Drop (hits Grounded Opponent)
+D,df+4                   Wipe the Floor
+db+4                     Falling Ankle Kick
+(d,db+3)_(db+3+4)        Lifting Back Kick
+db+4,3                   Divine Cannon Combo
+(u/f_u_u/b)+3            Flash Heel Kick
+uf+4,3,4                 Can Opener 
+d+3+4                    Foot Stomp (Only Hits Grounded Opponent)
+(b,db,d,df+2)_(df~2)     Backhand Swipe 
+$+1+2                    Spiral Explosion (aka Twirling Blonde Bomb)
+$+2                      Liftshot (aka. Sidestepping Palm Uppercut)
+$+b+1                    Sidestepping Killing Blade
+$+1                      Snakeshot
+$+4                      Heel Slicer
+$+db+2                   Sidestepping Forearm Chop (stuns on counter)
+f,f~f+3                  Bone Cutter (Crab Claw Waistlock On Counter)
+[*Note* See the multi-part section for the Crab Claw Multi finishes  ]
+
+[*NOTE* ALL of Nina's Combos Starting with 1 can be started with df+1]
+[      or (WS)+1 when starting the combo with df+1 or (WS)+1, the 1st]
+[      attack hits medium                                            ]
+
+1,2,f+1+2                2 Punches, Blonde Bomb                 HHH
+1,2,1,2,f+1+2            4 Punches, Blonde Bomb                 HHH
+1,(u/f_u_u/b)+3          High Punch, Flash Heel Kick            HH
+1,2,(u/f_u_u/b)+3        2 Punches, Flash Heel Kick             HHH  
+1,2,3                    2 Punches, High Kick                   HHH
+1,2,4                    2 Punches, Roundhouse                  HHH
+1,2,d+3,4                2 Punches, Low Kick, High Kick         HHLH
+1,2,d+3,2                2 Punches, Low Kick, Juggling Uppercut HHLM
+1,2,1,4                  3 Punches, Low Kick                    HHHL
+(d_D)+1,N+4              Low Punch, Mid Kick                    LM
+2,3                      Punch, High Kick                       HH
+2,d+3,2                  Punch, Low Kick, Juggling Uppercut     HLM
+2,d+3,d+4                Punch, 2 Low Kicks                     HLL
+2,d+3,4                  Punch, Low Kick, High Kick             HLH
+2,4                      Punch, High Kick                       HH
+(d_D)+2,4                Low Punch, High Kick                   HH
+3,4                      High Kick, Roundhouse                  HH
+3,3,2                    2 Kicks, Juggling Uppercut             HLM
+3,3,4                    2 Kicks, High Kick                     HLH
+3,3,D+4                  High Kick, 2 Low Kicks                 HLL
+d+3,2                    Low Kick, Juggling Uppercut            LM
+d+3,N+4                  Low Kick, High Kick                    LH
+d+3,D+4                  2 Low Kicks                            LL
+df+3,4                   Mid Kick, Roundhouse                   MH
+df+3,2,3                 Mid Kick, Punch, Mid Kick              MHM
+df+3,2,4                 Mid Kick, Punch, Roundhouse            MHH
+df+3,2,d+3,4             Mid Kick, Punch, Sweep, Mid Kick       MHLH
+df+3,2,d+3,2             Mid Kick, Punch, Sweep, Juggl Uppercut MHLM
+df+3,2,d+3,d+4           Mid Kick, Punch, Sweep, Low Kick       MHLH
+df+3,2,(u/f_u_u/b)+3     Mid Kick, Punch, Flash Heel Kick       MHH
+df+3,2,1,4               Mid Kick, 2 Punches, Low Kick          MHHL
+df+3,3,3,3               3 Rapid Mid Kicks, Low Kick            MMML
+df+3,3,3,4               3 Rapid Mid Kicks, Roundhouse          MMMH
+df+3,3,3,1,2,1+2         3 Rapid Mid Kicks, 2 Punches, B. Bomb  MMMHHM
+df+3~1~2~f+1+2           Mid Kick, 2 Punches, Blonde Bomb       MHHM
+d+4~1                    Low Kick, Spinchop                     LH
+4,3,4                    2 Kicks, High Kick                     HLH
+4,3,2                    2 Kicks, Juggling Uppercut             HLM
+4,3,D+4                  High Kick, 2 Low Kicks                 HLL
+
+
+D.  Unblockables
+
+db+1+2                   Hunting Swan (tap u,u to cancel)
+d,df,f,db+2+3            Evil Mist (stuns only, no damage)
+
+E. Tenstrings
+
+     1212:3:3:2::1:2:4   HHHHHLMHHH
+  df+1212:3:3:2::1:2:4   MHHHHLMHHH
+(WS)+1212:3:3:2::1:2:4   MHHHHLMHHH
+
+     1212:3:3:2::1:4:3   HHHHHLMHLM
+  df+1212:3:3:2::1:4:3   MHHHHLMHLM
+(WS)+1212:3:3:2::1:4:3   MHHHHLMHLM
+
+     1212::4:3::4:2:4:3  HHHHHLLMLH
+ d/f+1212::4:3::4:2:4:3  MHHHHLLMLH
+(WS)+1212::4:3::4:2:4:3  MHHHHLLMLH
+
+
+**********************************************************************
+3.    Grapples (Multi-Parts and Timings!!)
+**********************************************************************
+
+A.   Standard Throws
+
+1+3                      Arm Turn {1}
+2+4                      Lifting Toss(LT) {2}
+    (LT)1,2,1                Falling Elbowlock(FE)
+       (FE)2,1,3                  Arm Lock
+uf+1+2                   Overhead Toss {1+2}
+df,df+1                  Elbow Smash {1+2}
+(ls)1+3_2+4              Hammer Throw
+(rs)1+3_2+4              Triangle Hold
+(bk)1+3_2+4              Overhead Three Limb Break
+
+
+B.  Wrist Lock Chain Throws
+
+QCT+1+2                  Chin Bash, Wrist Lock(WL) {2}
+    (WL)3,4,3,1+2             Rolling Arm Bar {1+2}
+    (WL)2,3,4,2,2             Knee Bash, Neck Snap(NS) {2}
+       (NS)1,3+4,1,2,1+2          Falling Neck Snap {1}
+       (NS)1,2,4,3,1+2+3          Octopus Special {1+2}
+    (WL)1,3,2,1               Standing Reverse Arm Lock(SRAL) {1}
+       (SRAL)3,1,4,1+2,1+2        Rev. Double Arm Lock {1+2}
+       (SRAL)2,1,3,4,1+2          Falling Reverse Arm Lock {1}
+
+
+C. Betrayer Chain Throws
+
+QCB+1+4                  Betrayer(BE)
+    (BE)1,3,2,1               Standing Reverse Arm Lock(SRAL) {1}
+       (SRAL)3,1,4,1+2,1+2        Rev. Double Arm Lock {1+2}
+       (SRAL)2,1,3,4,1+2          Falling Reverse Arm Lock {1}
+    (BE)2,1,1+2,1+2+3         Twisting Arm Lock(TAL) {2}
+       (TAL)1,2,4,3,1+2+3         Octopus Special {1+2}
+       (TAL)1,3+4,1,2,1+2         Falling Neck Snap {1}
+
+
+D.  Crab Claw Waistlock Chain Throws
+
+QCT+3+4               Crab Claw Waistlock(CC) {1}
+    (CC)3+4,3,4,1+2          Rolling Arm Bar {1+2}  
+    (CC)3+4,4,2,1+2          Achilles Leglock(TL) {2}
+       (TL)3,1,4,2+4             Reverse Achilles Leglock {1}
+       (TL)1,3,2+4,3+4,1+2       Rolling Double Achilles Leglock {1+2}
+
+
+E.  Multi-Throw timings
+
+2+4121::213              -- Lifting Toss + Elbow + Arm lock #1
+2+41212:213              -- Lifting Toss + Elbow + Arm lock #2
+                         -> this is the way I time it :)
+
+QCT+1+23431+2            -- Wrist Lock + Rolling Arm Bar
+QCT+1+223422::13+4121+2  -- Wrist Lock + Knee Bash + Falling Neck Snap
+QCT+1+223422::12431+2+3  -- Wrist Lock + Knee Bash + Octopus Special 
+QCT+1+21321::3141+21+2   -- Wrist Lock + Rev. Arm Lock + Dbl. Arm Lock
+QCT+1+21321::21341+2     -- Wrist Lock + Rev. Arm Lock + Falling Lock
+QCB+1+4~1321::3141+21+2  -- Betrayer + Rev. Arm Lock + Dbl. Arm Lock
+QCB+1+4~1321::21341+2    -- Betrayer + Rev. Arm Lock + Falling Lock
+QCB+1+4~211+21+2+3::12431+2+3 --  "    + Arm Lock + Octopus Special
+QCT+3+4~3+4341+2              -- Crab Claw + Rolling Arm Bar
+QCT+3+4~3+4421+2::3142+4      -- Crab Claw + Leglock + Rev. Leglock
+QCT+3+4~3+4421+2::132+43+41+2 -- Crab Claw + Leglock + Double Leglock
+
+[*NOTE* When trying for Nina's Betrayer and Crab Claw Multi-Throws,  ]
+[     you basically have to assume that the initial grab will connect]
+[     and immediately code in the next button sequence.  You have to ]
+[     be VERY fast for the first string, the second is much easier   ]
+[     I only manage to pull them off about 1 of 5 tries :o(          ]
+
+
+
+**********************************************************************
+4.   Reversals + Reversal Counters
+**********************************************************************
+
+A.   Reversals & Counters
+
+b+1+3_b+2+4       High + Medium Reversal
+d+1+3_d+2+4       Low Kick Counter
+2+4               Tackle Counter (as tackle hits)
+d+1+2             Tackle Reversal (as you're going to the floor)
+d+1_d+2           Tackle Punch Counter ( before punch connects)
+
+B.  Reversal Counters
+
+F+1+3 - Rev. Counter (Start of Opponent Countering Your 1 or 3 Move)
+F+2+4 - Rev. Counter (Start of Opponent Countering Your 2 or 4 Move)
+
+C. Throw Counters
+
+         
+* General - Left Throw (1+3)                                     - 1
+            Right Throw (2+4)                                    - 2
+                                                                 
+* Eddy    - Spiraling Hip Toss (HCT,f+1+2)                       - 1+2
+
+* Hwoarang- Jawbreaker (f,F+2)                                   - 2
+            Boot to the Head (QCB+3)                             - 1
+            Trip Takedown (d,DB+1+3)                             - 1+2
+
+* Jin    -  Striking Shiho-Nage (df+2+3)                         - 2
+            Stone Head (f,f+1+2)                                 - 1+2
+                       (QCB+1+2)                                 - 1
+
+* King   - DDT (db,db+1+2)                                       - 1+2
+           Tombstone Piledriver (db,f+1+2)                       - 2
+           Coconut Crush (df+2+3)                                - 2
+           Giant Swing (f,HCT+1)                                 - 1
+           Figure 4 Leglock (db+1+2)                             - 3+4
+           Irish Whip (b+1+2)                                    - 1+2
+           Spinning Ground Smash (Irish Whip, 3+4)               - 3+4
+           Quick Slam (Irish Whip, 2+4)                          - 2
+           Spin & Let Go (Irish Whip, 1+3)                       - 1
+           Turn Around & Let Go (Irish Whip, 1+2)                - 1+2
+           Jaguar Driver (d,df,f+1)                              - 3+4
+           Jumping Powerbomb (Jag. Drvr, 1+2,u,d,n,3+4)        - d+3+4
+           Standing Achilles Hold (f,n,d,df+2+3)                 - 2
+           Scorpion Death Lock (SACH, 1+2,3,1,1+3)               - 2
+           STF (SACH, 1,2,3,1+2)                                 - 1
+           Indian Death Lock (SACH, 1+2,1,3,1+2,4)               - 1+2
+           Single Arm Hyperextension (f,n,d,df+1+4)              - 1+2
+           Double Arm Hyperextension (SAH, 1+2,1+2)              - 1
+           Reverse DDT (SAH, 1+2,4,2+4)                          - 2
+           Chicken Wing Face Lock (SAH, 2,1,1+2+3)               - 1+2
+           Dragon Sleeper (SAH, CWFL, 2,1,3,1+2+3,1+2+3)         - 1
+           Rolling Death Cradle (SAH,CWFL, 1+3,3+4,2+4,1+2,1+2+3)- 2
+           Left Reverse Arm Clutch (df~1+3)                      - 1+3
+           Right Reverse Arm Clutch (df~2+4)                     - 2+4
+           Back Drop (Left RAC, 2,2,1+2)                         - ??
+           Back Drop (Right RAC, 2,2,1+2)                        - ??
+           German Suplex (Left RAC, BD, 3+4,1+2)                 - 3+4
+           German Suplex (Right RAC, BD, 3+4,1+2)                - 1+3
+           Powerbomb (RFN, CB, 1,2,3+4)                          - 1+3
+           Manhattan Drop (3+4,1+2,ALL)                          - 2+4
+	   Giant Swing (Left RAC, BD, GX, PB, 2,1,3,4)           - 2+4
+           Giant Swing (Right RAC, BD, GX, PB, 2,1,3,4)          - 1+2
+           Giant Swing (RFN, CB, PB, 2,1,3,4)                    - 2+4
+           Giant Swing (RFN, CB, MD, SF, 2,1,3,4)                - 1+3
+           Split Powerbomb (RAC, BD, GX, PB, 3,1,2,3+4,ALL)      - 2+4
+           Split Powerbomb (RFN, CB, PB, 3,1,2,3+4,ALL)          - 1+3
+           Split Powerbomb (RFN, CB, MD, SF, 3,1,2,3+4,ALL)      - 2+4
+           
+* Law    - Chastisement Punch (df+1+2)                           - 1+2
+           Dragon Knee (f~f+3+4)                                 - 1+2
+           Body Slam (F+2+3)                                     - 1+2
+
+* Lei    - Thai Trip (f,f+1+2)                                   - 1+2
+           Trip & Elbow (uf+1+2)                                 - 1+2
+           Neck Shake Throw (Dragon Stance, 1)                   - 1
+
+* Nina   - Elbow Smash (df,df+1)                                 - 1+2
+           Chin Bash (QCT,1+2)                                   - 2
+           Standing Reverse Arm Lock (CB, 1,3,2,1)               - 1
+           Rear Gatelatch Falconwing Squeeze (SRAL, ...)         - 1+2
+           Falling Reverse Arm Lock (SRAL, ...)                  - 1
+           Knee Bash -> Neck Snap (CB, 2,3,4,2,2)                - 2
+           Octopus Special (CB, NS, ...)                         - 1+2
+           Falling Neck Snap (CB, NS, ...)                       - 1
+           Crab Claw (QCT+3+4)                                   - 1
+           Rolling Arm Bar (CC, ...)                             - 1+2
+           Achilles Tendon Lock (CC, ...)                        - 2
+           Knee Cross Lock (CC, ATL, ...)                        - 1
+           Rolling Achilles Tendon Lock (CC, ATL, ...)           - 1+2
+           Twisting Shoulder Break (2,1,1+2,1+2+3)               - 2
+
+* Paul   - Striking Shiho-Nage (df+1+2)                          - 1+2
+           Shoulder Ram (f,f+1+2)                                - 1+2
+
+* Xiaoyu - Human Hurdle (f+2~1)                                  - 1+2
+           Over-Shoulder Throw (QCB+2)                           - 2
+
+* Yoshimitsu - Skydiver (QCB+1+2)                                - 1+2
+
+
+
+**********************************************************************
+5.    General Strategy
+**********************************************************************
+
+A.  Varying Combos
+    Nina has many different 2,3,4, and 5-part combos. Learn them all, 
+and use them  without mercy.   Nina's  greatest  strength is her vast 
+arsenal of moves and her ability to mix them up.  Here are the combos
+that I find most useful:
+
+1,2,f+1+2                2 Punches, Blonde Bomb                 HHM
+1,2,1,2,f+1+2            4 Punches, Blonde Bomb                 HHHHM
+1,2,d+3,2                2 Punches, Low Kick, Juggling Uppercut HHLM
+1,2,1,4                  3 Punches, Low Kick                    HHHL
+(d_D)+1,N+4              Low Punch, Mid Kick                    LM
+2,d+3,2                  Punch, Low Kick, Juggling Uppercut     HLM
+2,d+3,d+4                Punch, 2 Low Kicks                     HLL
+(d_D)+2,4                Low Punch, High Kick                   HH
+3,3,2                    2 Kicks, Juggling Uppercut             HLM
+3,3,D+4                  High Kick, 2 Low Kicks                 HLL
+d+3,2                    Low Kick, Juggling Uppercut            LM
+d+3,D+4                  2 Low Kicks                            LL
+df+3,2,3                 Mid Kick, Punch, Mid Kick              MHM
+df+3,2,d+3,2             Mid Kick, Punch, Sweep, Juggl Uppercut MHLM
+df+3,2,d+3,d+4           Mid Kick, Punch, Sweep, Low Kick       MHLH
+df+3,2,1,4               Mid Kick, 2 Punches, Low Kick          MHHL
+df+3,3,3,3               3 Rapid Mid Kicks, Low Kick            MMML
+df+3,3,3,4               3 Rapid Mid Kicks, Roundhouse          MMMH
+df+3,3,3,1,2,1+2         3 Rapid Mid Kicks, 2 Punches, B. Bomb  MMMHHM
+df+3~1~2~f+1+2           Mid Kick, 2 Punches, Blonde Bomb       MHHM
+4,3,2                    2 Kicks, Juggling Uppercut             HLM
+4,3,D+4                  High Kick, 2 Low Kicks                 HLL
+
+As you can see all of these  combos vary  their levels.   By mixing up
+different combos you should be able to juggle  most people quite often
+, since they'll have to guess whether to block high or low.
+
+
+B.  Sidestepping (u,n)_(d,n)
+    Nina has many  side-stepping moves,  more than any other character
+in the game so far.  Side-stepping is  one of the biggest improvements
+in Tekken 3,  and it is vital that you learn how to  effectively side-
+step during the match. Use the side-step anytime your opponent is rush
+ing at you with a linear attack (i.e a combo or tenstring that doesn't
+track well - Laws punch rush, etc.).  When you  successfully side-step
+you have several options:
+    1. You can side-step, pause and go for a side or back-throw
+    2. You can side-step and use one of Nina's side-step moves - the
+       Palm Uppercut ($+2) [floats on counter], the Twirling Blond
+       Bomb ($+1+2)
+    3. You can side-step and start a combo/tenstring of your choice    
+
+
+C.  Killing Blade (b+1)
+    This move pretty much falls under the same category as Nina's side
+stepping moves.  The Killing Blade will have Nina do a small side-step
+and then deliver an open-handed strike to your opponents' mid-stection
+It stuns on a counterhit, and sets up a lot of juggling opportunities.
+Also a cool way to finish the round is with the killing blade followed
+by the foot stomp. (i.e. b+1,d+3+4)  The only drawback to this move is
+that it only hits high.   It is fairly effective  though as a  double-
+side-step move.   If you  side-step to your left and then do a Killing
+Blade, Nina will side-step twice, which will often land you behind the
+other character.
+    
+
+D.  TENstrings
+    Get into the habit of starting Nina's  Tenstrings with the df+1 or
+(WS)+1  (this makes the  1st hit connect  at medium height).   If your
+opponent knows how to counter, stay away from the 121243... tenstring.
+It is easily countered  at the first kick.   If your opponent does not
+know how to counter, use the  121243... tenstring instead of the other
+two. This tenstring is very difficult to block, since it finishes with
+a LMLM.
+
+
+E.  The Divine Cannon (db+4,3)
+   Use The Divine Cannon frequently against opponents who are prone to
+rush you with high attacks  (Law, Jin, Nina, etc.).  If the first kick
+connects as  a counter-hit,  the second  is guaranteed  to float  your
+opponent.   The Divine Cannon is also great for okizeme (see EVIL NINA
+section).
+
+
+F.  The Can Opener (uf+4,3,4)
+    The Can Opener is useful in several situations. First it should be
+used anytime your  opponent is charging towards you,  looking to score
+with a side-kick (f,f~f+3). Second, it is very useful to close the gap
+between you  and your opponent.   One thing to watch out for,  though.
+It can easily be  side-stepped and leaves you  wide open for a side or
+back-throw.  Don't always finish the whole string either.  [uf+4] will
+juggle if it hits, and can be followed up by some decent finishers.
+
+G.  The Blonde Bomb (f,f+1+2) or (f+1+2) or (WS+1+2)
+    This move is kind of like Pauls deathfist, just not as powerful :(
+It is a  great  all-around attack move and  should be used often.  The
+Blonde Bomb has decent range,  but if you miss, it also has a long re-
+covery time.  So make sure that you hit your opponent, because even if
+they block it,  they will be pushed  back far enough to not be able to
+counter-hit. This move should be done any time your opponent is caught
+after recovering from a move.  Also don't forget that you can incorpo-
+rate the Blonde Bomb into Nina's combos. Here are (I think) all of the
+ways you can do a Blonde Bomb:
+	a. (f,f+1+2)_(f+1+2)_(WS+1+2)
+	b. QCB,N+1+2
+	c. QCF,f+1+2
+	d. 2,f+1+2
+	e. (1_df+1),2,f+1+2
+	f. df+3~1~2~f+1+2
+	g. (1_df+1),2,1,2,f+1+2
+
+H.  The Spinning Sweep  (D,df+4)
+    This is a great move to  use at random during the match. Use it to
+duck  incoming high  attacks and on  grounded opponents.  One thing to
+watch out for is this moves surprisingly limited range &  its recovery
+time. Also when playing Eddy this move will sometimes miss, because he
+is always dodging from side to side.   Most people are  not aware that
+Nina has this move, which will work greatly to your advantage.  THE #1
+okizeme move.
+
+
+I. The "new" Multi-Parts
+   The biggest thing  you have to remember  about these multi-parts is
+that you have to be VERY fast in entering the first sequence after the
+initial grab.   They are very useful to go  under your opponents' high
+attacks,  and it can  grab out of many moves like  Jin's 112/122 punch
+combos. Also, Nina's sway (QCB) auto-blocks low attacks and ducks high
+attacks. I've been using this move a lot more as of late, since it not
+only starts some of her coolest multiparts, but it can also be chained
+into any of her WS moves and TENstrings.
+
+
+J.  The "old" Multi-Parts
+    The "old" Multiparts (those starting with the QCT movement) are a
+great part of Nina's arsenal, but are difficult to pull of in head-to-
+head combat (especially against expert players).  A great time to pull
+out a multi-part is after your opponent is recovering from a big move,
+such as Pauls falling-leaf combo. Don't forget that Nina now has other
+moves after the QCT motion, such as the bad habit and the falling heel
+drop and her stun-breath.   Use these in  combination with  the multi-
+parts to thoroughly confuse your opponent.
+
+
+K. Bad Habit (f~f+3)_(QCT+3)
+   This move  has surprising range  and can be used as part of the QCT
+arsenal  to confuse  your opponent.   It also looks great when you can
+connect with it as a counter-hit ;) It will stun on a counter-hit, and
+setup some great juggling opportunities.
+    
+
+L. Evil Mist  (d,df,f,DB+2+3) (unblockable)
+   Yet another great part of the QCT confusion scheme.  This move does
+no damage  in itself,  but it will stun  your opponent and set up some
+great juggles.  This is the perfect way to start a juggle.   Alternate
+between the Evil Mist, Multiparts, the Bad Habit, and simply doing the
+d,df,f motion and tapping "2" to do an uppercut.  
+
+
+M. Bone Cutter (f,f~f+3)
+    This is a good all-purpose move and should be used anytime you are
+charging  towards your opponent.   If you conter-hit  you will get the
+Crab Claw Waist Lock, which you can then follow up with the multi-part
+ending of your choice.
+    
+
+N.  Elbow Smash (df,df+1)
+    Try this move once per round.   It does tremendous damage (45-50%)
+and is not easily escaped.  Since it is a 'special throw', the grab
+animation is faster than a standard throw.  This allows you to make the
+Elbow Smash part of your attack strings.  For example if you manage to
+hit you opponent with a df+1,2 attack, buffer in the df,df+1 after the
+second punch. 9 out of 10 times you will land the throw...
+
+
+
+**********************************************************************
+6.  VS Human Strategy
+**********************************************************************
+
+A.  Custom Strings (aka Poking)
+    Nina probably has more custom strings than any other character in
+Tekken-3.  Short of Anna in the Playstation version of the game, Nina
+has the best up-close/in-your-face game in Tekken.  Combine that with
+her great juggles and it makes for a lethal combination. What's poking
+you say?  Essentially it is a way of stringing various quick moves to-
+gether to form a non-stop attack, making it difficult for any opponent
+to interrupt you.  The idea is to keep them on the defensive and to set
+them up for the big finish.  Sometimes it's as simple as mixing up two
+or three moves, other times you may want to repeat a particular string
+throughout the match, only to change it at the end of the round.  Here
+are some of the strings that I use:
+
+ - d+4~1,d+1~n+4,repeat
+ - d+4~1,df+1~2,df~df+1
+ - df+3~2~1,d+4~1,df+1~2,df~df+1
+ - df+3~2~1,d+4~1,df+1~2~f+1+2
+ - df+3~2~d+3,uf+1+2
+ - df+3~2~d+3~(FC),df+4
+ - d+4~1,d+1,uf+1+2
+ - d+4~1,d+3~d+4
+ - df+3~1,1,df+1~2~f+1+2
+ - d+4~1,QCB,N+1+2
+ - d+4~1,QCB+1+4...
+
+As you can see, most of my strings aren't designed to juggle the other
+player, rather I prefer to use a lot of mid hits, and to mix up Nina's
+two 'non-standard' throws (df+1+2 & df~df+1).  One of Nina's greatest
+assets is that if the first hit of her df+3... series hits, the next
+two hits are pretty much guaranteed.
+
+B.  The side-stepping game
+    IMO Nina probably has the best side-stepping game in Tekken-3. Her
+side-step may not  be as big as Ogre-1's,  but it is not that far off.
+If I'm playing a good match, I side-step a lot to try to either evade
+incoming attacks, or just to keep my opponent off balance.  The more
+your opponent attacks you, the more effective your side-stepping game
+will become.  Let's look at what Nina can do off her side-steps:
+
+	a.)  SS+1+2
+	b.)  SS+4
+	c.)  SS+2
+	d.)  SS+1
+	e.)  SS(left),b+1
+	f.)  SS,N+(any throw)
+	g.)  SS,N~db+3+4
+	h.)  d+4~1~SS,N~db+3+4
+	i.)  d+4~1~SS,N+(any throw)
+
+If you can get the SS,N~db+3+4 down, you'll be in great shape, since
+you'll be able to mix up SS grabs with the Heaven Cannon.
+
+C.  Vary your game
+    Don't get caught up in the same patterns  over and over again, cuz
+good opponents will learn them and figure out a way to  beat them.  If
+you notice  that a lot of your  stuff is getting blocked,  then change
+your style/method of attack.  Let's say your poke isn't really getting
+to them  (unlikely as that may  be with Nina),  start throwing in more
+grabs, or fight them straight up with lots of side-steps, etc. Nina is
+fairly versatile and makes for a extremely good turtle as well. If the
+other player is blocking everything you are throwing at them ... relax
+... take a load off ... let them do the attacking for a while. As soon
+as they leave themselves open ... stick it to'em.
+
+D.  Power-up (Chi Charge)
+    If your opponent likes to wait for you to attack  (and is a couple
+of character lenghts away), do the Chi Charge to power up. Any hit you
+manage to connect while you are charged will count as a major-counter.
+If you  manage  to charge  up you  should  probably go for  either the 
+Divine  Cannon  (db+4,3)  which will  juggle guaranteed,  or the  Bone
+Cutter (f,f~f+3), which will start her Waistlock multi-parts.  This
+will keep your opponents guessing.
+
+E.  Multi-Parts
+    By all means use Nina's  multi-parts,  but use them sparingly.  If
+you're going to use the multi-parts, make sure that you vary which one
+you are going to end the series with,  otherwise people  will start to
+break out of them, and you'll eat some damage. I have noticed that the
+better the competition is,  the more effective her QCB series becomes.
+Remember that there are several things you can do off her QCB sway:
+
+    a.) QCB~1_2_3_4     Hitting a single button while Nina is still in
+                        her sway animation will result in a 'standing'
+                        attack - ie. left jab, right jab...
+    b.) QCB,n+1_2_3_4   If you wait until the very end of Nina's sway
+           ,n+1+2       animation, she will execute a WS move, incl.
+                        her blonde bomb (WS+1+2)
+    c.) QCB+1+4	        Multi-Part starter
+
+What makes the  QCB  so effective is that it  automatically blocks any
+low attacks, and ducks high attacks. This is a great move to throw out
+after a d+4~1.  For example you could try d+4~1,QCB,n+1~2,df~df+1.
+	
+
+
+**********************************************************************
+7.  Stuns & Juggles 
+**********************************************************************
+
+A.  How To Juggle
+    Start with with one of the juggle combos. The last hit should  get
+your opponent into the air (aka: a float). Then do a juggling combo to
+keep your opponent in the air. You can also precede the juggling combo
+with a Stun move.
+
+
+B.  Stun / Stagger Moves 
+
+d,df,f,db+2+3            Evil Mist (stuns) (-UNBLOCKABLE-)
+(f~f+3)_(QCT+3)          Bad Habit (stuns on counterhit)
+b+1                      Killing Blade (stuns on counterhit)
+$+b+1                    Sidestepping Killing Blade (stuns on counter)
+db+2                     Forearm Chop (stuns on counterhit)
+$+db+2                   Sidestepping Forearm Chop (stuns on counter)
+4			 Right Kick (staggers on counter)
+d+1+3_d+2+4		 Low Kick parry (staggers) NOT low punch parry
+
+[*Note* Let me know (tekken@starnetinc.com)if I missed any Stun Moves]
+
+
+C. Juggle Combo Opener (** = full combo guaranteed after stun)
+
+ 1. b,db,d,df+2 (d,df+2 on PSX) Backhand Swipe **
+ 2. (WS)+2                   	Juggling Uppercut **
+ 3. df+2                     	Juggling Uppercut **
+ 4. QCT+2                 	Crouching in Juggling Uppercut **
+ 5. $+2                      	Sidestepping Palm Uppercut **
+ 6. (d,db+3)_(db+3+4)        	Lifting Back Kick **
+ 7. db+4,3                   	Divine Cannon Combo **
+ 8. d+3,2                    	Low Kick, Juggling Uppercut **
+ 9. 3,3,2                    	High Kick, Low Kick, Juggling Uppercut
+10. 2,d+3,2                  	Punch, Low Kick, Juggling Uppercut
+11. 1,2,d+3,2                	2 Punches, Low Kick, Juggling Uppercut
+12. 4,3,2			High Kick, Low Kick, Juggling Uppercut
+13. db+1+2			Hunting Swan (unblockable)
+14. QCT+1+2,1321,3141+21+2      Rev. Double Arm Lock multi-part
+
+[*NOTE* Tell me (tekken@starnetinc.com) of any missed Juggle Openers]
+
+
+iv.  Juggling Combos
+
+- after Divine Cannon (db+4,3):
+d+4~1,d+4~1,f~f+3 	    	
+d+4~1,b+2~2			
+d+4~1,df+3,1,2,f+1+2
+1_2,db+4~3 			
+1,1,2,1,2,f+1+2  		
+1,1,2,1,2,4  
+1,2,1,2,f+1+2              
+1,2,1,2,4                
+1,2,d+4~1,f~f+3        
+1,2,db+4,3              
+1,1,B+2~2                
+df3,2,1,4
+df3,2,1,d+3,2
+f~f+2,df+4~1,df+3~1~2~f+1+2
+f~f+2,df+4~1,f~f+3
+df+3,3,3,1,2,1+2         
+df+3,3,3,1,2,d/b+4   
+uf+3,d+4~1,d+4~1,f~f+3
+uf+3,d+4~1,f~f+3
+uf+3,d+4~1,df+3~1~2~f+1+2
+uf+3,d+4~1,d/b+4  
+uf+3,1,d+4~1,1,2,f+1+2
+uf+3,d+3,2,d/b+4  
+uf+3,d+4~1,f~f+3  
+uf+4,d+4~1,f~f+3
+uf+4,d+4~1,d+4~1
+uf+4,d+4~1,df+3~1~2~f+1+2
+uf+4,d+4~1,d+3,4,f~f+3
+uf+4,df+3~2~3
+uf+4,df+3~2~4
+uf+4,df+3~2~1~4
+uf+4,d+4~1,df+1~2~f+1+2
+uf+4,1,2,d+3,4,f~f+3
+uf+4,1,2,d+3,4          
+uf+4,db+4,3,db+4       
+
+- after any uppercut starter:
+d+4~1,d+4~1,f~f+3 	    	
+d+4~1,b+2~2
+d+4~1,df+3,1,2,f+1+2
+1_2,db+4~3 			
+1,1,2,1,2,f+1+2  		
+1,1,2,1,2,4  
+1,2,1,2,f+1+2              
+1,2,1,2,4                
+1,2,d+4~1,f~f+3        
+1,2,db+4,3              
+1,1,B+2~2                
+df+3,2,1,4
+df+3,2,1,d+3,2
+df+3,2,3
+df+3,2,4
+df+3,1,2,f+1+2
+
+- after the Backhand Swipe (b,db,d,df+2)
+d+4~1,df+3,1,2,FC~df+4
+1,d+4~1,f~f+3
+
+- after Bad Habit stun (f~f+3)
+d+4~1,df+3~1~2~f+1+2
+d+4~1,d+4~1,f~f+3
+d+4~1,f~f+3
+db+4,3
+
+- after Killing Blade stun (b+1)
+d+4~1,df+3~1~2~f+1+2
+d+4~1,f~f+3
+
+- after Forearm Chop stun (db+2)
+df~df+1
+uf+1+2
+df+3,2,3
+df+3,2,4
+f+1+2
+
+- after Evil Mist stun (QCT~db+2+3)
+f~db+3+4 ... into Divine Cannon juggles
+df+3~2~3
+df+3~2~4
+
+- after Right Kick stagger (4)
+f~f~db+3+4 ... into Divine Cannon juggles
+
+- after Low Kick parry (d+1+3_d+2+4)
+db+3+4 ... into Divine Cannon juggles
+
+- after Hunting Swan unblockable (db+1+2)
+d+4~1,f~f+3
+d+4~1,df+3~1~2~f+1+2
+
+- after Rev. Double Arm Lock multi-part (QCT+1+2,1321,3141+21+2)
+d+4~1,f~f+3
+d+4~1,df+3~1~2~f+1+2
+
+[*NOTE* Tell me(tekken@starnetinc.com)any missed Juggle Combo Openers]
+
+
+
+**********************************************************************
+8.  Evil Nina (custom combos/tactix to really piss off your opponent)
+**********************************************************************
+
+A. Custom combos
+
+d+4~1~$
+d+4~1~$,b+1
+d+4~1~$,(1+3)_(2+4)
+2,D+3,D+4,D,df+4
+4,3,d+4,D,df+4
+2,D+3,D+4,(WS)+4
+4,3,d+4,(WS)+4
+$,n,(1+3)_(2+4)
+d+3,2,d+3,2...   Infinite combo, if opponent keeps trying to get up
+db+4,3,db+4,3... Infinite combo, if opponent keeps trying to get up
+
+- If your opponent always gets up with a high kick, move in close and 
+  reverse it!
+- If your opponent does the quick recovery to get up, use your 
+  Spiral Explosion quickly to put him/her back on the ground.
+- Change your fighting style. I.e Lots of punches in one round, kicks
+  in the next, side-steps in the next, grabs in the next, etc.
+- Here's one I'm still working on:  Instead of reversing or breaking 
+  an opponents TENstring, SIDE-STEP out of it and get a free back-
+  throw.  I should have some side-step break points soon...
+
+
+B. Okizeme
+   If played right, Nina can be the queen of okizeme. Here's what you
+   do.
+     1.  Knock down your opponent (preferably w/ your fav. juggle:)
+     2.  Crouch (D)
+     3.  As soon as they show ANY movement do the Spinning Sweep
+     4a. Continue with items 2+3
+     4b. Many times your opponent will try to get up right after the
+         sweep. If they do, use the divine cannon to float them again
+
+
+
+**********************************************************************
+9.   Winning Stances
+**********************************************************************
+
+    To do the winning stance of your choice, you must *WIN* then hold
+the button  number for the desired winning stance sometime before the 
+replay ends.
+
+1 --- Sexy Walk, Backhand Swipe, Laugh
+
+2 --- Forward Cartwheel, Backhand Swipe
+
+3 --- 360 Deg. Spin, Downward Slash
+
+4 --- Backhand Swipe, Laugh
+
+
+
+**********************************************************************
+10.  Creditz
+**********************************************************************
+
+CatLord for his informative FAQ.
+SurfBard for his FAQ
+Thanx to Namco for Nina's Official Background Story & Information.
+Namco's Website:--> http://www.namco.com
+Thanx to Ben Cureton for his FAQs
+All of the people I have played and continue to play...
+

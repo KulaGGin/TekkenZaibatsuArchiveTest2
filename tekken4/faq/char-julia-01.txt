@@ -1,0 +1,1076 @@
+            =================================================
+
+              Beginner's Guide to Tekken 4 Julia Chang v2.5
+
+                           by kuni_hwoarang
+
+            =================================================
+
+
+
+This FAQ is Copyright 2002-3 by kuni_hwoarang. Please do not use on 
+another site or in written format without the express permission of 
+the author: kuni@kuni-bob.com.
+
+This FAQ can be found online at http://kuni-bob.com/juliafaq.html, 
+until May, 2003.  After, it will be at 
+http://kunibob.com/juliafaq.html.
+
+Frame data and move list courtesy of Tekken Zaibatsu (www.tekkenzaibatsu.com)
+
+
+
+
+======================
+   CONTENTS
+
+Introduction
+   -What's New in v 2.5
+   -About this FAQ
+Section I - Julia's Moves
+   -Ia: Basics
+   -Ib: Special
+   -Ic: Sidestep
+   -Id: Unblockable
+   -Ie: 10-Hit Combos
+   -If: Moves That Recover Crouching
+Section II - Throws
+   -IIa: Basic Throws
+   -IIb: Intro to Mad Axes Buffers
+Section III - Beyond the Basics
+   -IIIa: Juggles
+   -IIIb: Wall Games
+     -i: After a close wall-push
+     -ii: After a wall push
+     -iii: When your opponent is in a corner
+     -iv: After a b+2+4 into a wall
+     -v: When Julia is trapped against a wall
+   -IIIc: Crouch Games
+   -IIId: Okizeme
+     -i: opponent hesitates in getting up, or does "quick rise"
+     -ii: opponent does a get-up kick
+     -iii: opponent tech-rolls forward or backward
+     -iv: opponent does a back-handspring get-up
+     -v: opponent rolls to the right or left
+   -IIIe: Opponents
+     -i: Evasors & Turtles
+     -ii: Bulldogs
+     -iii: Throw-Happy Opponents
+     -iv: Mashers
+     -v: Jin
+     -vi: 8-frame jabbers
+     -vii: 10-frame jabbers
+   -IIIf: Things to Keep in Mind
+Section IV - Credits
+
+
+
+======================
+
+INTRODUCTION:
+
+----------------------
+WHAT'S NEW IN VERSION 2.5:
+
+V2.5 - 9.Feb.2003 - Tweaked movelist.  Added section on fighting Jin 
+and 8-frames vs. 10-frames.  Added Wall games, Crouch Games, and 
+Okizeme.
+V2.0 - 23.July.2002 - This thing was so out of date that it was 
+embarrassing me.  I changed a whack of stuff.
+v1.2 - 28.May.2002 - Added Opponents Section and made a few more tweaks.
+v1.1 - 25.May.2002 - I've tweaked little things here and there: I 
+caught a few errors, and I've since tested some of the throws I was 
+unfamiliar with. As well, I've added some beginning juggle pointers 
+in Section I.
+v1.0 - 13.May.2002 - Creation of this FAQ.
+
+----------------------
+ABOUT THIS FAQ:
+
+This guide has been created with new Julia players in mind: this FAQ 
+should contain everything you need to get a sturdy knowledge of her 
+basics. Since I created this FAQ, Tekken Zaibatsu has created a Combo 
+section where juggle lists for Julia can be found. I highly encourage 
+you to check out this section once you are comfortable with Julia's 
+basics: my Julia game has increased twofold since I began testing out 
+some of these juggles! I will not bother to list any big juggles in 
+this FAQ, so if that is what you are looking for, check out TZ.
+
+If you are new to Tekken altogether, Julia is a great player to begin 
+with. She is strong and quick (with a blistering 8-frame jab), and is 
+adaptable for offensive or defensive players. Her moves are pretty 
+straight-forward, making her quicker to learn than more complex 
+players such as Lei or Hwoarang.
+
+For disadvantages, though, Julia is very easy to avoid by 
+sidewalking, as her moves are quite linear.  As well, a lot of moves 
+leave her with an enormous disadvantage; a Julia player must be very 
+adaptable and have a precise sense of timing.
+
+Before you begin this guide, please make sure you are familiar with 
+the basics of Tekken 4; sidestepping, sidewalking and the wall 
+systems. There are plenty of FAQ's out there to get you started (try 
+www.tekkenzaibatsu.com), and most people at your local arcade will be 
+happy to give you advice if you ask.
+
+I am still learning myself, so if anything here is inaccurate, please 
+email kuni@kuni-bob.com, and I will rectify this FAQ as soon as 
+possible.
+
+
+
+SECTION I: JULIA'S MOVES
+
+-------------------------
+
+>>I) A: BASICS<<
+
+This section is for people completely new to the Tekken system. If 
+you have read any Tekken FAQ's before, chances are that you are 
+familiar with the system for describing moves. Just in case:
+
+1 = left punch (square on PS gamepad)
+2 = right punch (triangle)
+3 = left kick (x)
+4 = right kick (o)
+u = up (capitalized = hold)
+d = down (capitalized = hold)
+f = forward (capitalized = hold)
+b = back (capitalized = hold)
+qcf = quarter circle forward (d,d/f,f)
+qcb = quarter circle back (d,d/b,b)
+N = leave joystick/pad in neutral position
+SS(R/L) = sidestep (right/left)
+SW(R/L)=sidewalk (right/left)
+FC = full crouch (D/B)
+WS = while standing (from a crouch to a standing position)
+WR = while running
+~ = input the next button very quickly  (eg: f+1~2, the 2 is input 
+very quickly after the 1)
+h = high
+m = mid
+M = mid; hits grounded
+Sm = special mid (can be blocked high or low)
+L = low; hits grounded
+l  = low; doesn't hit grounded
+CH = counter hit (ie: your move interrupts the opponent's)
+BT = back turned (your back faces the opponent)
+
+Thus, d/f+1 would mean move the joystick to the diagonal position 
+between down and forward, and press 1. Commas separate different 
+movements; d/f+1, 2 would mean input d/f+1, then press 2.
+
+Like most fighting games, Tekken uses a sliding motion for 
+directional inputs.  Thus, d,d/f means press "d" and quickly slide to 
+the "d/f" position without returning to neutral.
+
+Other things you will want to become familiar with as you improve:
+   -dashing vs. walking, back dash, crouch dash
+   -tech rolls
+   -throw escapes
+   -blocking/defending/parries/reversals
+   -tackles
+   -high, mid and low hits
+   -counter vs. normal hits
+
+As well, I refer frequently to "frame data"...the amount of time a 
+move takes to execute is measured in frames (with 60 frames per 
+second). You'll quickly get the hang of how long 8 frames is as 
+opposed to 12 frames; it just takes a bit of practice.  Check out TZ 
+for more information.
+
+Enough basics...onto the real thing!
+
+----------------------------
+
+>>I) B: SPECIAL<<
+
+The moves are listed as follows:
+button combination - move name - where move hits (h, m, L) - damage 
+on a normal hit
+
+If a move can be followed by another move, the second move is listed 
+as "=" and then the move. A note that people refer to moves in 
+different ways; trust the button input more than the move name!
+
+*df+2 - Slow Power Punch - m - 10
+  =Skyscraper Cannon - 1 - m - 21 - launcher
+  =Low kick - 3 - L - 10
+  =High Kick - 4 - h - 20
+The Slow Power Punch is, as its name suggests, slow. I rarely use the 
+Low/High Kick combos, as the Machine Gun Punch high/low combos are 
+quicker -- however, d/f+2,4 does leave Julia safe if it is blocked. 
+The Skyscraper Cannon is guaranteed after a low parry, so parry often 
+and you'll get a free juggles.
+   Another good time to use the d/f+2,1 is in okizeme (please see the 
+okizeme section for details).
+
+*f+1 - Flash Uppercut - m - 15 - launcher
+Although it's a bit slow, the Flash Uppercut always juggles if it 
+connects.  As it will go under many high moves, it makes a great 
+"surprise" launcher.  Still, because of its slowness, use with 
+caution - if it's blocked, Julia will be vulnerable.
+
+*d,d/f+1 or WR+1 - Rapid Counter - m - 14
+  = 2 - Flash Elbow - m - 21
+The Rapid Counter is fast and does good damage; it can be used in 
+juggles both on its own or with the Flash Elbow, depending on the 
+setup. The WR version is great to use as a follow-up if a downed 
+opponent is slow to rise -- you can time it to catch them just as 
+they are standing, so they will be unable to block. However, the 
+complete combo can sometimes lead Julia off-axis, leaving her 
+vulnerable to side throws from an opponent. The complete Rapid 
+Counter combo is often used to finish juggles, so make sure you
+master the d,d/f version.
+     As a note, the 2 can be delayed, and it stuns on a CH - leaving 
+your opponent open to launchers such as d/f+2,1.  Try following the 
+d,d/f+1 with a mixup of her Mad Axes or the 2 finisher.  If the 
+opponent blocks in anticipation of the 2, her Mad Axes will catch 
+him.  If the opponent tries to attack, expecting a MadAxes, the 2 can 
+land as a CH.  Or, if he ducks and low jabs, you can parry after the 
+d,d/f+1 and land a launcher.
+
+*WR+2 or FC, d/f+2 - Flash Elbow - m - 20
+Julia is notorious for her elbows, and with good reason. The Flash 
+Elbow it fast, hits mid and knocks your opponent back.  On a CH, any 
+of her standard juggles or throws can be used (so long as your 
+opponent doesn't break the stun).  ...If blocked, however, Julia is 
+vulnerable for 20 frames, so be cautious if your opponent is in a 
+position to retaliate.
+
+*1~2 - Machine Gun Punch - h, m - 10, 8
+  = 1 - Skyscraper Cannon (only on a CH) - m - 21 - launcher
+  = 3 - Low Kick - L - 10
+  = 4 - High Kick - h - 20 - launcher(on a CH)
+The Machine Gun Punch is simple, yet very effective. If the opening 
+jab is a CH, then you can follow with a Skyscraper Cannon, which 
+deals lots of damage and allows juggles. The High Kick and Low Kick 
+can be thrown in randomly to keep the opponent guessing. It can also 
+be used as a Mad Axes buffer (see Mad Axes buffers section).
+   The 1,2,1 is great to use against opponents who like to start each 
+round with a slow, heavy-hitting move. The leading jab is incredibly 
+fast -- 8 frames! -- so it will knock your opponent out of their move 
+and launch them with the Skyscraper Cannon.
+
+*ff+1 - Party Crasher - m - 10
+  = 4 - Skyscraper Kick - m - 15
+This is arguably Julia's best move. The elbow launches your opponent 
+backwards. It can't be parried by most opponents.  It's fast, with 11 
+frames to hit and 2 to recover.  It can catch tech-rolling opponents, 
+duck under some high moves, takes great priority as you dash at an 
+opponent, and is great as a juggle filler.
+     An old mixup that still works well is mixing between ff+1,4 and 
+ff+1~Mad Axes (or any other quick throw).  If you perform the string 
+often enough, you can train your opponent to block after the elbow in 
+anticipation of the 4 -- and you might just catch them by surprise 
+with the throw instead. ^_~  The 4 can be delayed, too, to catch your 
+opponent off guard.
+     After a blocked elbow, Julia is at -2 frames, so she is very 
+safe.  Take note of what your opponent does after they block an 
+elbow.  If they like to low jab (d/b+1 or FC+1), you can perform a 
+low parry (hold d/f) to get a free d/f+2,1.  If they throw out a 
+normal standing jab, you can either block and work from there, or, if 
+it's a slower character, interrupt with 1,2,1 or 1,1,1 for a counter 
+hit to juggle.  Sometimes, a well-timed f+1+2 will duck under a jab 
+(even of the fast characters) and counter-hit.  If they like to keep 
+blocking, you can use a throw such as Mad Axes or d,D/B+1+3.
+     Of special note to newbies: the Party Crasher can be performed 
+differently, and each option has different recovery properties.  The 
+f,F+1 has good range, but recovers slowly.  The elbow you will want 
+to use in juggles is more like f,f~N~1.  If you set the CPU on 
+practice mode and test different execution speeds, you'll get the 
+hang of it.
+
+*f+1~2 - Palm Explosion - m - 21
+The Palm explosion is slow and easy to see coming. However, it ducks 
+under grabs and high moves, nailing Julia's opponent in the gut, and 
+leaving them stunned long enough for follow-ups (on a CH, though the 
+stun is escapable). So, if you're looking for something to disrupt a 
+throw-happy player's momentum, you may want to time this in.  Good 
+follow-ups are a 3,2,2, a d+4,1 or her standard elbow juggles.
+     As well, the Palm Explosion catches tech-rolling opponents.  As 
+your opponent rolls back and rises, there is a period of time where 
+he/she is unable to block.  This is the perfect time for a Palm 
+Explosion (though d/f+2,1 yields more damage).
+
+*f,f+2 - Lashing Arrow - h - 25
+One of Michelle's TTT moves. It's flashy, but the guard stun on this 
+is horrendous -- 19 frames, much worse than the Palm Explosion. I 
+would recommend using this *only* if you're looking to close a large 
+gap between you and an attacking opponent, as the move will cover a 
+lot of distance. Still, the opponent can easily duck under it and 
+retaliate. Use with caution!
+
+*f+1+2 - Shove It Up - m - 28 - launcher(CH)
+A wonderful against-the-wall move; it slaps a falling opponent back 
+into a standing position against the wall -- the perfect position for 
+a beating. On a CH or from the side, Shove It Up juggles. As an added 
+bonus, the Julia's recovery on a block is only 3 frames, so there is 
+only a small chance for retaliation. The only real downfall is that 
+the move takes 19 frames to hit and it's easy to anticipate. 
+However, it goes underneath many high pokes (such as Nina's 1,2 or 
+Steve's 1,2,1).
+
+*1~1 - G-Clef Cannon - h, m - 10, 5
+  = 1 - Flash Uppercut - m - 21 - launcher
+  = 2 - Palm Explosion - m - 21
+  = 4 - Bow Leg - L - 12
+     = 3 - Arrow - m - 15
+I will start by saying do not use the 1,1,1 string unless the first 
+hit is a CH. All three moves hit mid, so they are easy to block. By 
+the time your opponent has blocked the third hit, he/she will be 
+ready with an attack while Julia is vulnerable. Not recommended 
+unless you're playing against someone who has no idea how the 
+blocking system works.  ...Worse yet, Jin can parry the first hit and 
+SS around to get a free back throw!  NOT GOOD!
+     On a CH, the 1~1,1 string is excellent: it deals lots of damage 
+and is easy to juggle off of. It's especially good as a CH against 
+aggressive slower characters, such as Hwoarang or the Mishimas.
+     The Palm Explosion is a new addition to this string, and as it is 
+part of this little combo, it's more likely to hit than just the Palm 
+Explosion on its own. Experiment with this one a bit and you'll get a 
+good sense of when you can get away with it and when you can't. If 
+blocked, the Julia is at an 8-frame disadvantage - enough time for a 
+fast opponent to get a jab in. Its stun properties are the same as 
+the Palm Explosion on its own, so on a CH there are plenty of 
+follow-ups - but with plenty of risks.
+     The Bow & Arrow is a viable option against an opponent who blocks 
+the 1,1 string but does not retaliate, in anticipation of the third 
+1. If you are lucky, they will be blocking mid as you lash out with 
+the Bow Leg. The Arrow knocks back your opponent; Julia can dash in 
+for follow-ups, or take a breather.  Even at elite Tekken levels, 
+Julias sometimes use 1~1,4 as a mixup to 1~1,1 -- but beware of 
+opponents who like to low parry, as you will take a lot of damage if 
+they do.
+
+*df+1 - Mini G-Clef Cannon - m - 8
+  = 1 - Flash Uppercut - m - 21 - launcher
+  = 4 - Bow Leg - L - 12
+     = 3 - Arrow - m - 15
+The same as the full G-Clef Cannon, only without the first 1.  Slow as hell. :P
+
+*1+4- Club Fist to Bow Leg - m,L - 12,12
+   = 3 - Arrow - m -15
+I used this move a lot when I was first learning Julia, until I 
+figured out how to do her Bow & Arrow without the leading fist.  Once 
+you reach an intermediate level, though, there's really no reason to 
+use this anymore.
+
+*1+2 - Rouge Orchid Palm - h - 15
+A new move for Julia in Tekken 4, it's a lot faster than her 
+traditional Twin Arrow, although the range is shorter. It's good for 
+quick damage when your opponent is backed into a wall. If blocked 
+she'll be at an 8 frame disadvantage, not bad but not wonderful -- 
+use your judgement!
+
+*b+1+2 - Twin Arrow - m - 21
+Although slower than the Rouge Orchid Palm, the Twin Arrow covers a 
+larger distance and does more damage. It now crumple-stuns instead of 
+sending the opponent flying.  An Earthquake Stomp (u/f+3+4) is 
+guaranteed to land afterwards.
+
+*2~b or b+2 - Arm Whip - h - 12
+= 1+2 - Push - n/a - n/a
+If the 2 connects, Julia spins around to her opponent's back. The 
+regular Arm Whip
+leaves a 1-frame advantage; the Push does no damage, but stuns the 
+opponent for a 4 frame advantage.
+     Most opponents will either do a ducking low jab (FC or d/b+1) or 
+a standing jab to turn around quickly.  If they low-jab, you can low 
+parry and get a launcher.  If they use a standing jab, 1~1,1 will CH 
+for juggles.
+
+* 2+3,1 - Ultimate Cannon - Sm,m,m - 8,9,25 - launcher
+or d+2,N+3,1 - Sm,m,m - 10,9,25 - launcher
+It juggles but is very hard to pull off, as most experienced Tekken 
+players know to expect the third blow. You can use this to your 
+advantage. If your opponent seems to block all three hits before 
+retaliating, perform the 2+3 string and then try a low hit, such as 
+the Low Kick of the Spinning Razor Kicks combos (see below). You may 
+just catch 'em by
+surprise...
+     Against some opponents, the first two hits of the Ultimate Cannon 
+can be used as a juggle after a successful f+1.  But why bother, when 
+you can use a normal juggle?  Meh, screw it.  Avoid this move!
+
+*b+3 - Liquid Sweep - L - 12
+   = 4 - Bow Leg - L - 10
+The slow Liquid Sweep gets an improvement in Tekken 4! This move is 
+great against opponents who like to lay on the ground. A Liquid Sweep 
+followed by a Bow Leg will remind them that they aren't safe, and a 
+WS Skyscraper Kick can be thrown in after for added fun...just press 
+"4" after the Bow Leg connects.  You can even throw in the Liquid 
+Sweep - Bow Leg after a Skyscraper Kick for mix-up fun. ^^
+     Against standing opponents, a Liquid Sweep causes a Trip Stun -- 
+it's great to follow up with a Shove It Up, or you can try for 
+juggles. However, if the Liquid Sweep is blocked, Julia's recovery 
+time is terrible -- 33 frames! -- and she is left vulnerable on her 
+side on the ground. Use with caution.
+
+*3 - Normal Left Kick - h - 25
+Oh, the under-rated 3!  The range is deceptive, and it tracks well. 
+Good against
+opponents who charge towards you, as it hits on the 14th frame and 
+knocks down.  Julia takes 16 frames to recover from a block, and the 
+move can be ducked over, so use sparingly.
+
+*FC,d/f+4 or d/f~N~4 - Bow Leg - L - 12
+= 3 - Arrow - m - 15
+The L/m combination makes it difficult for novice opponents to block 
+or parry.  Good to
+use after ducking under an opponent's attack.  Well-timed elbows will 
+catch the opponent for juggles after this kick (and all the other Bow 
+& Arrow combinations).  ...If you catch your opponent with a get-up 
+low kick (press 3 when you are in a downed state), then a FC,d/f+4,3 
+will almost always connect.
+
+*u/f+4 - Hop Kick - m - 25 - launcher
+This launches for sturdy juggle opportunities.  It recovers very 
+poorly, however, so use only in situations against a spinning or 
+crouched opponent.
+
+*WS+4 - Skyscraper Kick - m - 15
+Very fast, and takes good priority.
+
+*b+4 - Heaven Shatter Kick - h - 17
+This will skim right over small opponents, ducking opponents, or 
+opponents who are out of range.  However, it tracks well (important 
+if your opponents like to SS), and, if it connects on a CH, your 
+opponent will be momentarily stunned.  Juggle time!
+
+*u/f+3+4 - Earthquake Stomp - M - 35
+Another move to use with caution. Easily blocked, difficult to aim, 
+and terrible to recover from. The only times it is guaranteed to land 
+are after the unblockable or b+1+2.  Don't just throw this out 
+randomly; poor Julia looks ridiculous flailing her arms to regain her 
+balance just as Hwoarang grabs her from behind...or whatever.
+
+*d/f+4,2,b,f+1 - Mountain Crusher - m,m,m - 12,15,25
+Very safe move to use.  All three can buffer in Mad Axes on block 
+(some require a deeper "f" than others).  Julia recovers well on 
+block.  And, d/f+4 can often hit grounded opponents.
+     The second hit leaves Julia close if blocked, whereas the third 
+pushes away. A blocked second hit can be followed by a Mad Axes throw 
+or Machine Gun Punch combo; a blocked third hit can be followed by 
+the 4,4 Kicks, or d,d/f+1, or other moves that bring Julia closer to 
+her opponent. Julia does suffer some stun after a block, so beware of 
+jab-happy opponents.
+     If the third hit connects, your opponent will be knocked to the 
+other end of the screen and Julia will make an annoying "yeh" sound. 
+-_-
+
+*2+3+4 - Wave Taunt - n/a - n/a
+Taunts can be cancelled into regular moves, so the taunt can be used 
+to lure an opponent towards you by making Julia appear vulnerable. As 
+well, it's a great way to irk sore losers. ^_~
+
+
+
+***Spinning Kick Combos***
+
+*4,4 - Spinning Razor Kicks - h,L - 20,12
+= 4 - High Kick -h - 23
+= d+4 - Low Kick - L - 10
+= 1 - Razor's Edge - m - 21 - launcher
+
+*d+4 - Razor Sweep - L - 10
+= 4 - High Kick -h - 23
+= d+4 - Low Kick - L - 10
+= 1 - Razor's Edge - m - 21 - launcher
+
+*3+4 - Counter-Clockwise Spin - n/a - n/a
+= Chains into any of the above combos
+
+These combos have great variety and are wonderful for confusing your 
+opponents, as well as chipping off plenty of damage. You can 
+experiment with them, but just a couple of notes:
+
+1) the Razor's Edge juggles, but leaves Julia very vulnerable if 
+blocked. Do not abuse this move!
+
+2) The Counter-Clockwise Spin leaves Julia vulnerable to attacks; use 
+with caution against aggressive opponents. It can be used while SS or 
+SW for confusion. ^_^
+
+3) the d+4,1 is the Newbie Juggler's dream. It will connect after 
+almost all launchers.
+
+4) 3+4 is a bit slow on its own, but when used with SS or SW it can 
+become dizzyingly confusing for your opponent.  After a SS, you must 
+input "b+3+4" instead of 3+4, or you will get the SS+3,4 move instead.
+
+5) on CH, a plain 4 will launch.  It is possible to juggle after it, 
+but difficult.
+
+
+***Tequila Sunrise Combos***
+
+*WS+2 or 3,2 - Tequila Sunrise - m - 15
+= 2 - Axe Elbow - m - 21
+= 2, 2 - Delayed Elbow - m - 25
+= 1 - Mini G-Clef Cannon - m - 8
+     = 1 - Flash Uppercut - m - 21 - launcher
+     = 4 - Bow Leg - L - 12
+         = 3 - Arrow - m - 15
+= 4 - Razor Sweep - L - 10
+     = 4 - High Kick -h - 23
+     = d+4 - Low Kick - L - 10
+     = 1 - Razor's Edge - m - 21 - launcher
+
+Another great confusing move: the Tequila Sunrise combos can be very 
+confusing. The initial move is quite slow, so plan it well. They are 
+often great to use on opponents who have been stunned, for example 
+after a CH b+4...or after ducking an opponent's high move.  ...For 
+the WS+2,4,1 variety, the 1 is guaranteed if the 4 connects, and you 
+can juggle off of it.  However, your opponents may be watching for 
+the 4 to block or parry it.
+
+
+
+----------------------------
+
+>>I) C: SIDESTEP MOVES<<
+
+These can be input sometime between the initial SS motion to a few 
+frames after the SS motion is complete.  Experiment to find different 
+speeds of execution. ^_~
+
+*SS+2 - Parting Fist - m - 21
+A bit slow and short-range, but it causes a short stun on a connect. 
+Julia steps towards her opponent, so make sure you aren't stepping 
+into an attack!
+
+*SS+3,4 - Twin Waking Kicks - m,h - 16,18 - launcher
+Julia has inherited one of Michelle's best moves in TTT. The kicks 
+are close-range, but they juggle on a normal hit. Although they don't 
+launch very high, there are plenty of follow-up juggles. Again, check 
+Tekken Zaibatsu's combo area for details.
+
+
+----------------------------
+
+>>I) D: UNBLOCKABLES<<
+
+*f+1+4 - Heaven Cannon - 50 - launcher
+=B - Cancel
+Like all unblockables, this is slow and SSsable.  If you're going to 
+risk it and use this move, make sure you cancel if you're in ANY 
+danger. A follow-up Earthquake Stomp (uf+3+4) is guaranteed to hit an 
+opponent that has been downed after the Heaven Cannon.
+
+
+
+----------------------------
+
+>>I) E: 10-HIT COMBOS<<
+" = interrupt points
+
+
+1) 2,1,1,2,3,3,3,4,4,1 - h"mm"hLm"hh"Lm - 8,6,6,6,6,6,6,7,8,25
+
+2) 2,1,1,2,3,3,2,3,2,1 - h"mm"hLm"mL"m! - 8,6,6,6,6,6,7,5,5,30
+
+3) 2,1,1,2,3,3,2,1,4,3 - h"mm"hLm"mm"Lm -8,6,6,6,6,6,7,7,10,25
+
+Like anyone's 10-hit combos, these work best against newbie 
+opponents. Against more experienced players, you may face 
+retaliation. Be wise. ^_~
+
+
+
+
+
+======================
+SECTION II: THROWS
+
+The format here:
+button command - name - damage - escape
+
+>>II) A: Basic Throws<<
+
+*1+3+direction - Position Change - n/a - 1
+Good when you have your butt plastered to a wall.
+
+
+*2+4 - Side Buster - 30 - 2
+*F+2+4 - Death Valley Bomb - 35 - 2
+Her standard 2+4 throws.
+
+
+*B+2+4 - Seasaw Whip - n/a - 2
+This throw will only do damage if Julia's opponent hits a wall. Her 
+opponent lands on their feet if no wall is hit. ...On a wall hit, her 
+opponent is pressed against the wall in a momentary stun; quick 
+follow-ups area Shove It Up (f+1+2), Rouge Orchid Palm (1+2), or 
+spinning kicks (4,4 series).  If you are at an angle, you can use 
+elbows to juggle. TZ has some great wall combo lists to try.
+     In some corners, repeated standing 4's can be timed as an 
+infinite juggle, since the wall stun of the throw is inescapable. 
+Just thought I'd mention it. *shrugs*
+
+*Side/Back throws: f+2+4 or 2+4 from the...
+   right = Twisted Sister - 45 - 2
+   left = Running Bulldog - 40 - 1
+   back = 2+4 = German Suplex - 50 - n/a; f+2+4 = Calf Branding - 50 - n/a
+   The side throws are pretty much the same as in TTT. These are 
+useful after an opponent misses a move that takes them off-axis, or 
+after a SS.
+
+*d,d/b+1+3 - Waist Suplex - 30 - 1
+Practice hard to master this one, as it is a 1-escape, compared to 
+the more common 2-escape.
+
+*FC,d/b,d,d/b+1+2 - Cross Arm Lock - 45 - 1+2
+A tiny bit slower than some of Julia's other throws, but look at the 
+damage! ^_~ The 1+2 escape is great for opponents who mash "2" on a 
+throw.
+     Can also be performed as qcb,d,d/b+1+2 to do it from a standing 
+position...though the best property of this throw is that it's 
+performed from a FC.  Great to punish after ducking to avoid high 
+moves.  Buffer from a jab!  FC+1 and hold the 1...then perform 
+d/b,d,d/b+2.  Test this one out to find out if it works for you. ^^
+
+*d/f+1+2 - Arm Lock Suplex - 37 - 1+2
+Lots of damage, double-button escape.  Easier to perform than the MA 
+for novices, although it's a titch slower.  Fun to use (very rarely) 
+as an opening move. ^_~
+
+*qcb,f+2 - Mad Axes - 14,14,14 - 1+2
+This is Julia's signature throw. It's difficult to see coming, as 
+it's quick (connecting 10 frames into the execution!); if it is 
+escaped, Julia can usually recover quickly without being punished.
+     The f+2 can be delayed after the qcb.  Try qcb~SS~f+2 or 
+qcb,f,f+2, for example.  Since the f+2 will connect on 10 frames, 
+it's nearly impossible to escape unless your opponent anticipates it.
+     ABUSE THIS THROW!  More in the Mad Axes buffers section...
+
+
+>>II) B: Mad Axes Buffers<<
+
+The Mad Axes throw can be buffered in after other attacks. There are 
+a whole host of MA buffers out there; a good place to check is on the 
+Tekken Zaibatsu forums or in FAQ files. Some starter buffers are:
+
+1) The Rapid Counter (WR+1 or d,df+1)
+
+2) The Machine Gun Punch (1,2)
+
+3) The first or second part of the Mountain Crusher (d/f+4,2)
+
+4) Out of a SS
+
+5) AFTER EVERY DAMN MOVE!!!
+
+Experiment and you'll find set-ups that work for you.  Keep it fresh 
+and your opponent will miss escapes.  As well, remember to mix up 
+your throws so that they'll always be on their toes.
+
+Oh, and the qcb of the Mad Axes can be buffered in before the "Fight" 
+signal is called, if you want to be a cheap bastard. ^_~
+
+
+===============================
+
+SECTION III: Beyond the Basics
+
+------------------------------
+
+>>III) a: Juggles<<
+
+A juggle is a series of moves that connect with an opponent's 
+character before they can regain control.  Most juggles are done in 
+the air, before an opponent touches the ground.
+
+I was planning to have an entire juggles section, but now Tekken 
+Zaibatsu has begun a combo compilation project: eventually, every 
+Julia combo known to man (and woman) will be listed in her section. I 
+encourage you to check it frequently for updates, and to experiment 
+with the combos listed there. The Forums on the site are a great 
+place to find combos, too.
+
+If you want to experiment on your own, I've made a note of her 
+primary launchers in the movelist. And, as I mentioned frequently in 
+this FAQ, the elbow (f,f+1) is the main juggle filler.  Check out TZ 
+to get a bit more creative.
+
+Julia's standard juggles:
+f,f~N~1, f,f~N~1, d,d/f+1,2
+f,f~N~1, f,f~N~1, f,f~N~1, d,d/f+1,2  (sometimes, the 2 whiffs)
+f,f~N~1, f,f~N~1, f,f~N~1, f,f+1,4
+with f,f~N~1 being the juggling elbow discussed in the f,f+1 section.
+
+As a note, sometimes the first f,f~N~1 will flip an opponent over 
+your head (especially against a wall, after SS+3,4 or after f+1+2 
+CH).  If this happens, you can continue the juggle in the opposite 
+direction, but this is difficult to do.  A 3 will connect for less 
+damage (but more damage than a whiffed follow-up ^_~).
+Launcher, f,f~N~1 (flip), BT3.
+-----------------------------
+
+>>III) b: Wall Games<<
+
+With the addition of walls to Tekken 4, wall combos are new to everyone, not just 
+newbies! Again, Tekken Zaibatsu is a great place to find good combos.
+
+i) After a close wall-push (f+1+3, near wall), Julia gets a free 4, 
+and, in some cases, a free 1~1.  However, there are other setups you 
+can use after a wall push.
+
+ii) After a wall push, you can try for:
+a) throw (preferably a quick one such as Mad Axes)
+b) another wall push
+c) a power move such as 1+2 or f+1+2 for a wall stun (risky)
+d) a low move such as FC,d/f+4,3
+e) pause, then, when the opponent thinks they are safe, 1~2,1 CH or 
+1~1,1 CH, or, if they low jab, low parry to d/f+2,1
+f) d/f+2,1.  Not guaranteed, so this is a bit risky, but it can get 
+you a nice juggle off of it.
+An opponent can tech-roll if they hit the wall at any angle but 
+side-on.  Tracking moves such as b+4 will connect, as will Mad Axes 
+if timed right.
+
+iii) When your opponent is in a corner:
+a) launcher to infinite 1-jabs -- this works only in certain corners, 
+and is a bit cheap, but oh so much fun! ^_~
+b) F+1+4 (very risky!)
+c) wall push to wall push games.
+
+iv) After a b+2+4 into a wall:
+a) 1~1,1 (only connects from some angles)
+b) d/f+4,2,b~f+1 (only from certain angles)
+c) 4,4,1 (only from certain angles)
+d) wall push to wall push games
+The opponent CANNOT tech-roll after the b+2+4.
+Like anything in Tekken, these must be mixed up to be effective.
+
+v) When Julia is trapped against a wall:
+a) Block.  This is the safest option, though if you are on the wall 
+thanks to a wall push, you are going to eat a few hits.
+b) Tech-roll (see TZ for the basics on this).  Rolling to the right 
+can evade some follow-up attacks and put Julia at the opponent's side 
+for a free 1~1,1.  This is risky, though, since some opponents will 
+be looking for tech-rolls to punish.
+c) Grab.  Very risky, as your opponent will be looking to take 
+advantage of your
+position.
+d) 1~1,1 CH or 1~2,1 CH.  Do not try this if you have just been 
+pushed into a wall, unless you see your opponent starting up a slow 
+move.
+e) Wall jump.  Every character has a wall jump (b,b,u/b), but they 
+are considered too slow to use in most situations; hence, this is 
+very risky, as well.
+
+---------------------------
+
+>>III) c: Crouch Games <<
+
+First thing about the crouch game is how to get into a crouched state 
+(apart from holding d/b).  Here is a list of moves that recover 
+crouching (ie: leave you in a FC state for a short while, even if she 
+appears to be standing).
+  - a small or large hop (u/f or U/F)
+  - Bow Leg - (FC,d/f+4 and variations, eg: chained from G-Clef punches)
+  - G-Clef Cannon to Low Kick - (1,2,3)
+  - Slow Power Punch to Low Kick (d/f+2,3)
+  - Razor Sweep (d+4 and variations, eg: from Tequila Sunrise combos or from 4)
+  - Razor Sweep to Low Kick (d+4,d+4 and variations, eg: 4,d+4,d+4)
+  - Liquid Sweep (b+3)
+  -d/b+3
+  -d/b+4
+  -d/b+1
+
+Options from a Crouched State
+a) mixup of FC,d/f+2 and FC,d/f+4,3.  Oldest trick in the book, but 
+it still works pretty well.  The FC,d/f+2 is very punishable on 
+block, and the FC,d/f+4,3 is parryable, so be careful with these 
+mixups.
+
+b) WS moves:
+-WS+1: fast (11 frames), and safe (only leaves Julia at a 4 frame 
+disadvantage when
+blocked).  Does very little damage, but gives an impressive +7 
+advantage to Julia on block, so it can be used as a setup tool.
+-WS+2: Slow, and punishable on block, but good for mixups.
+-WS+3: Slow and punishable, but it tracks fairly well.
+-WS+4: Punishable on block, but quick (as fast as WS+1), and it 
+knocks down for juggle damage!
+
+c) Throws:  FC,d/b,d,d/b+1+2 is the obvious choice here, but any of 
+her standard throws work nicely.
+
+d) Any standard move.
+
+e) Do nothing.  Laugh at the panic on your opponent's face as they 
+wonder what you are planning.  Watch them throw out a mid move in an 
+attempt to nail you; interrupt with d/b+1 and start the crouch games 
+over again.  Can you feel the tension?  I SAID, CAN YOU?!??! ....erm, 
+moving right along:
+
+---------------------------
+
+>>III) d: Okizeme<<
+
+Okizeme is a fancy word for mix-ups when an opponent is down (or on a 
+wall, but we'll ignore that part, since we already covered it ^_~). 
+Okizeme is especially important for Julia because her primary move 
+(elbow) knocks down.
+
+i) If your opponent hesitates in getting up, or does the "quick rise" 
+(mash 2+up):
+a) b+3, d/b+3, or another move that will contact with an opponent on 
+the ground.  Your opponent can use the "quick get up" and low parry, 
+but only if they anticipate your move.  This puts you into FC, so use 
+the FC mixups afterwards.
+b) u/f+3+4.  DON'T USE THIS MOVE unless you've just connected a b+1+2 
+or F+1+4.  You will suffer.
+c) wait until the opponent rises, then throw.  If you practice 
+enough, you can time the throw so that you grab your opponent before 
+they even appear to be fully standing.
+d) wait until the opponent rises, then throw out a mid-hitting move 
+that will connect before they can block.  d/f+2,1 is the easiest to 
+time this with, though F+1 and f+1~2 work, too, and d/f+4,2,b~f+1. 
+There is a VERY short period time as an opponent rises where he/she 
+will be *unable* to block.  Practice hard, and you'll nail them every 
+time.
+
+ii) If your opponent does a get-up kick:  (ie: 3, d+4, or 4 from a 
+downed state)
+a) parry (if it's 3 or d+4) into d/f+2,1
+b) SS and throw.  I have been told that a SS to throw will interrupt 
+a get up kick.
+c) d/f+2,1 seems to interrupt a kick if you anticipate it; again, 
+this is hard to time.
+d) block (if it's a 4) and resume play.
+e) a well-timed f,f+1 will interrupt and juggle.
+
+iii) If your opponent tech-rolls forward or backward:
+This is Julia's dream situation.  On an opponent's tech-roll she can land:
+a) d/f+4,2,b~f+1, guaranteed if you time it correctly.
+b) d/f+2,1: very easy to time.
+c) F+1+4, if you're quick and you know your opponent will hesitate. 
+This is a risky
+option.
+d) f,f+1 (will juggle if timed correctly)
+...I think you get the idea.  Basically, when an opponent tech-rolls 
+backwards, it as if they have set Julia up for a juggle.  Punish 
+accordingly. ^_~
+
+iv) If your opponent does a back-handspring get-up:
+Wait until the handspring is about to finish, then land a throw or 
+d/f+2,1 as they land.
+Or, use d/f+4,2,b~f+1.
+
+v) If your opponent rolls to the right or left:
+I'm not too sure about okizeme options here; for now, I'll say, same 
+as the hesitation or "quick rise" options.
+
+---------------------------
+
+>>III) e: Opponents<<
+
+This section is intended for people looking for basic strats against 
+different types of opponents.
+
+i) *The Evasors & Turtles:*
+
+Any opponent who enjoys side-walking and side-stepping, waiting with 
+inhuman patience for you to make a mistake.  Quite honestly, Turtlers 
+are Julia's worst enemy., since so many of her moves can be avoided 
+with SSs.
+
+Poke, poke, poke.  You know her 8-frame jab?  Use it!  Low kicks. 
+Remember, one error on their part can lead to a CH juggle for 60+ 
+damage.  Don't let them get to you; turtle back!  Makes for a boring 
+match, but you may end up victorious.
+
+For SWing opponents, Julia's best-tracking moves are the standing 3 
+and b+4 (which has horrible range).  Most of her moves track better 
+out of a SS.
+
+ii) The Bulldogs:*
+
+An opponent who attacks continually, often using string attacks: they 
+can be very
+intimidating. Again, all characters can be a bulldog, although you 
+may often see bulldog Hwoarangs, Pauls and, yes, Julias.  Two 
+letters: CH!  Timing your 1~1,1's and 1~2,1's can turn a match 
+completely in your favour.  Low parry the low moves.  Block.  Be 
+patient.
+
+As a note, Julia makes a great bulldog, especially on wide-range 
+levels such as the Airport level. Her CH WR+1,2s can drive a beginner 
+opponent insane. *insert evil laughter here*
+
+iii) *The Throw-Happy Opponents:*
+
+Often King, although I qualify Marduk's tackle as a throw of sorts. 
+There are a few things you can do to protect yourself from them:
+
+1) Learn the escapes from King's chain throws.  No-brainer here.  If 
+you can escape, you'll live.
+
+2) Practice the escape from Marduk's tackle. It's difficult to time 
+right at first, but this, too, can save your life.
+
+3) Keep them at a distance. The Mountain Crusher, Bow & Arrow, 
+Standing 3, and Spin Kicks combos are all good tools for giving 
+yourself some breathing room, as are well-timed launch and stun 
+moves. Both f+1+2 and f+1~2 duck under many of the grabs for combo 
+opportunities on CH.  As well, f+1 can sometimes punish a throw 
+attempt.  ...Or, FC under their throw, and perform Julia's FC moves 
+or FC throw.
+
+iv) *The Mashers:*
+
+Christie button-mashers and Hwoarang 3434334334443434 mashers.  They're
+everywhere.  They can be annoying for newbies like you and me, but 
+watch their play style; they get predictable very quickly. ...Enjoy 
+wiping the floor with their ass.  ...If they continue to win, suggest 
+that they mash Yoshimitsu and hope they commit suicide.
+
+v) *Jin*
+
+He gets a section all to himself because Julia has a particularly 
+tough time against him.  Jin's favourite move to abuse is the LS 
+(Laser Scraper combo), both in JF (just frame) form and regular form. 
+This move consists of three punches; the third one launchers for 
+insane juggle damage.  The JF version is fast and unblockable.
+
+The best way to get out of LS is to block the first 2 hits and SSR to 
+avoid the 3rd.  To train yourself to do this, go to the practice 
+arena (if you're using a PS2 and not learning in the arcade).  Choose 
+yourself as Julia and Jin as your opponent.  Press <start> and move 
+the menu until you reach "Defensive training."  Go through Jin's menu 
+and highlight the Laser Scraper.  Now, you can practice against him 
+to get the timing.  Block the first two, then tap so that Julia 
+sidesteps *to her right*.  You will avoid the third hit.
+
+Thus, SS+3,4 becomes a very useful tool.  Press 3,4 after you SS the 
+LS, and you will get a free juggle.  Nifty, right? ^_~
+
+The delayed versions of the LS and the JF versions are a bit trickier 
+to SS.  In fact, there's one version of the JFLS that is (debateably) 
+impossible to SS escape.  However, you don't have to worry about this 
+until you are competing at a more advanced level.  Recently, a method 
+has been found that sometimes allows all characters to sidestep to 
+Jin's left and get a free back throw; however, this is still debated 
+heavily, and very tricky to do, so don't concern yourself with it for 
+now. ^_~
+
+Another option is to counter LS before it begins.  Since 1~2 is 
+short-ranged compared with Jin's LS, you are probably better off 
+using a simple 4.  On CH, 4 will juggle, and it recovers pretty well 
+on block.
+
+To do well against a good Jin, Julia really has to turtle and throw 
+out elbows and random pokes.  His parry makes some of her key moves 
+(such as 1~1,1) almost useless; Julia has to play it safe to the 
+point where you may feel as if you are using only her elbow and 
+throws.  However, a lot of characters have problems with Jin, so 
+there are loads of anti-Jin strats out there.  Again, the Tekken 
+Zaibatsu forums are a great place to look for updated information.
+
+vi) *8-frame jabbers*
+
+Tekken characters can be broken into two categories, based on their 
+standing jab (1) speed.  The first are the "8-frame jabbers": Bryan, 
+Julia, Law, Lee, Lei, Nina, Paul, Steve, Xiaoyu, Yoshimitsu.  Julia 
+has a little bit of a tougher time against these characters, since 
+she relies so heavily on CH -- and it's difficult to CH a character 
+using fast moves.  Certain characters, such as Lee and Nina, can 
+combine their speed and evasive moves to make a real tough fight for 
+Julia. ...Just something to keep in mind. ^_~  ...Be especially wary 
+of Xiaoyu and Yoshimitsu: they have moves that are even quicker than 
+their jabs.
+
+vii) *10-frame jabbers*
+
+Christie, Heihachi, Hwoarang, Jin, Kazuya, King (9 frames), Kuma (10 
+frames with 2; 20 with 1).  Since these characters have slower lead 
+jabs, it is (theoretically) easier for Julia to CH them with her 
+8-frame strings.  ...As well, after a blocked elbow, Julia takes 2 
+frames to recover.  2 frames + an 8 frame jab = cancels a 10-frame 
+jab.  If the opponent wants to beat you, they will have to use a low 
+jab (d/b+1 or FC+1), which can both be low-parried.  Thus, many 
+10-frame characters will lock up and block after a blocked elbow: 
+this is where delayed f,f+1,4 and f,f+1 to throw mixups are very 
+handy, as they can train your opponent to try to interrupt -- and 
+you'll get a free 1~2,1 or low parry to d/f+2,1.
+
+----------------------------------------
+
+>>III) f: Things to Keep in Mind<<
+
+Some of Julia's simplest moves can be the most effective.  I don't 
+know how many matches I lost as a beginner because I tried to make 
+things too fancy. So, keep it simple!  Watch match videos of Julia in 
+action, and you'll realize that her elbow and CH strings are the key 
+to even a Julia expert's game. The best way to get better is to 
+practice...preferably against real people, since the CPU in Tekken 4, 
+quite frankly, sucks.  Tekken-playing friends can help you learn new 
+tactics and make learning fun (yayyy!). As well, friends are often 
+the scrubbiest  opponents you will ever have, as they aren't afraid 
+of being cheap! ^^ If, like me, your friends are sick of Tekken, an 
+online community such as TZ can keep you motivated and update you on 
+new strategies. As well, try to meet people at the arcade. It's fun 
+having a familiar face to compete against, especially if you want to 
+try something new and are a bit nervous about it.
+
+As well, don't be afraid to ask stupid questions, or you'll never 
+learn. If you're too shy to ask dumb questions at the arcade (I'm a 
+girl, so most men assume I'm video-game retarded, which works to my 
+advantage when I have a question)...well, an online community such as 
+TZ is great, because everyone's anonymous. And don't be afraid to 
+email me at kuni@kuni-bob.com. I love asking dumb questions, so if I 
+don't know the answer, I'll find out for you! ^^
+
+Lastly...my father used to say this to me all the time, and it drove 
+me CRAZY, but it's true (sigh): it's all a head game. How do you 
+think Tekken Tournaments are won? Everyone there has amazing skills, 
+but often it comes down to who is the most confident and comfortable 
+with their skills. (Confidence does NOT equal bravado...bragging will 
+only make you new enemies.) Be proud of what you learn, and don't be 
+afraid to try out new stuff.  Mush, mush, gush, gush, hug.  (Well, 
+it's true, damnit!)
+
+Thanks for taking the time to read this, and please email me at 
+kuni@kuni-bob.com if you have any questions or suggestions. This FAQ 
+project is ongoing, so expect updates soon. ^_^
+Good luck, and have fun!
+
+
+========================
+
+SECTION 4: CREDITS
+
+This FAQ is Copyright 2002-3, kuni_hwoarang.
+Last update 09.Feb.2003
+
+http://kuni-bob.com  - personal page
+http://kunibob.com  - Vancouver Island Tekken page
+
+kuni@kuni-bob.com - author's email
+
+First, thanks to Namco for not suing me for loving their game so much 
+that I've written an FAQ about it, as well as done smutty stories, 
+provocative artwork, and spent hour upon hour manipulating Tekken 
+action figures in all the wrong ways.  ...Did I just say that? O_o;;
+
+Thanks to Tekken Zaibatsu for the frame data, and the Canadian 
+Players Thread and Julia Strats Thread for answering my dumb 
+questions. ^_^
+
+Big thanks to the folks in Vancouver and my "kids"/team members in 
+Victoria for helping me learn the game the fun way -- by playing.
+
+Also, kudos to my AIM buddies for answering my stupid questions about 
+game basics.  You're a friendly bunch; you know who you are. ^_~
+
+And special thanks to Paddy for not questioning the amount of time 
+and money I've put into this video-game...love ya, hon!  *big squishy 
+hugs*
+
+
+
+
+~fin~

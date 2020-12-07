@@ -1,0 +1,5306 @@
+
+             Tekken Tag Tournament Hidden Moves FAQ
+                          Version 4.10
+
+
+       ---------  -------  |  /  |  /  -------  |\     |
+           |      |        | /   | /   |        | \    |
+           |      |---     |/    |/    |---     |  \   |
+           |      |        |\    |\    |        |   \  |
+           |      |        | \   | \   |        |    \ |
+           |      -------  |  \  |  \  -------  |     \|
+                         Tag Tournament
+
+
+             Written by: Kenneth Walton (Wild Man X)
+                   Written on: October 23, 2009
+                 E-mail: Tekkenomics@hotmail.com
+        Website: Tekkenomics (http://www.tekkenomics.com)
+                        PSN: Wild_Man_X
+
+
+               This FAQ version will be available at:
+                 GameFAQs (http://www.gamefaqs.com)
+                     IGN (http://faqs.ign.com)
+          Tekken Zaibatsu (http://www.tekkenzaibatsu.com)
+                Neoseeker (http://www.neoseeker.com)
+              SuperCheats (http://www.supercheats.com)
+       Games Radar / Cheat Planet (http://www.gamesradar.com)
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                          Table of Contents
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+ 1.    Version Updates
+
+ 2.    Legal Stuff
+
+ 3.    FAQ Description
+
+ 4.    Comments
+
+ 5.    Legend
+
+ 6.    Legend Examples
+
+ 7.    Fighter Specific Legend Commands (FSLC)
+
+ 8.    Hidden Moves
+
+       8A.  Anna Williams
+       8B.  Armor King
+       8C.  Baek Doo San
+       8D.  Bruce Irving
+       8E.  Bryan Fury
+       8F.  Devil / Angel
+       8G.  Eddy Gordo / Tiger Jackson
+       8H.  Forrest Law
+       8I.  Ganryu
+       8J.  Gun Jack
+       8K.  Heihachi Mishima
+       8L.  Hwoarang
+       8M.  Jack-2
+       8N.  Jin Kazama
+       8O.  Julia Chang
+       8P.  Jun Kazama
+       8Q.  Kazuya Mishima
+       8R.  King
+       8S.  Kuma / Panda
+       8T.  Kunimitsu
+       8U.  Lee Chaolan
+       8V.  Lei Wulong
+       8W.  Ling Xiaoyu
+       8X.  Michelle Chang
+       8Y.  Nina Williams
+       8Z.  Ogre
+       8AA. Paul Phoenix
+       8BB. Prototype Jack (P. Jack)
+       8CC. Roger / Alex
+       8DD. Tetsujin / Mokujin
+       8EE. True Ogre
+       8FF. Unknown
+       8GG. Wang Jinrei
+       8HH. Yoshimitsu
+       8II. Fighter Specific (FS)
+
+ 9.    Special Hidden Moves (SHM)
+
+10.    Special Tag Moves (STM)
+
+11.    Universal Tag Moves (UTM)
+
+12.    Special Tag Taunts (STT)
+
+13.    Buffered Moves
+
+14.    Sample Tag Combos / Juggles
+
+15.    Secrets
+
+16.    Tekken Bowl
+
+       16A. Legend
+       16B. Definitions
+       16C. Bowler Speeds
+       16D. Secrets
+
+17.    Questions
+
+18.    Special Thanks
+
+19.    About Tekkenomics
+
+20.    About The Author
+
+21.    Closing
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                         1. Version Updates
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+1.00 - (07-08-03)  First release, based on moves from my "Tekken 4 Hidden
+       Moves FAQ: Version 3.3"
+
+
+1.10 - (09-30-03)  Edited: "FAQ info", "About Tekkenomics", "Closing"
+       ADDED MOVES: Anna, Bryan, Eddy, Forrest, Jin, Kuma, Nina
+       CORRECTIONS: Nina
+
+
+1.20 - (05-06-04)  Edited: "FSLC", "About Tekkenomics"      
+       ADDED MOVES: Baek, Jack-2, Julia, Lei, Ling, Michelle
+       CORRECTIONS: Anna, Lee
+
+
+1.30 - (06-02-04)  Created "Special Tag Moves" and "Universal Tag Moves"
+       sections
+
+
+2.00 - (06-09-04)  Edited: "Legend", "Special Tag Moves, "Universal Tag
+       Moves", "FSLC", "Legend Examples" "Comments", "Closing"
+       CREATED: "Secrets" section
+       ADDED MOVES: Gun Jack, Jack-2, Jin, True Ogre
+       CORRECTIONS: Forrest
+
+
+2.10 - (07-09-04)  Edited: "Secrets", "Sample Tag Combos", "FAQ Description",
+       "Legend", "Special Thanks", Created: "Fighter Specific" section
+
+
+2.20 - (07-18-04) Fixed space formatting problem, Included Tiger's last name,
+       Removed some partial 10 hit strings and partial strings
+       UPDATED: "Sample Tag Combos", "Secrets", "FAQ Description", "FSLC",
+                "Legend", "Special Tag Moves", "Universal Tag Moves",
+                "Closing", "Special Thanks", "About Tekkenomics"
+       ADDED MOVES: Anna, Bruce, Bryan, Jun, Lei, Ogre, True Ogre, Wang,
+                    Yoshimitsu
+       CORRECTIONS: All except Ganryu, Ogre, True Ogre, "Fighter Specific"
+
+
+2.30 - (08-13-04)  Created: "Special Hidden Moves" section,
+       UPDATED: "Secrets", "Closing", "Special Thanks", "Legend"
+       ADDED MOVES: Anna, Jin, Kazuya, King, Lei, Nina, Yoshimitsu
+       CORRECTIONS: Anna, Bryan, Eddy, Nina, Kazuya, King, Paul
+
+
+3.00 - (08-29-04)  Removed more partial strings,
+       UPDATED: "Legend", "FSLC", "Closing", "Legend Examples", "UTM",
+                "SHM", "STM"
+       CREATED: "Unverified Moves" section
+       ADDED MOVES: Eddy, Jin, Kazuya, Kunimitsu, Lei, Wang, Yoshimitsu, "FS"
+       CORRECTIONS: All except "FS"
+
+
+3.10 - (10-24-04)  Created the <NEW> label for new additions to the FAQ,
+       Began writing comments in Hidden Moves section,
+       Added web address of "Tekkenomics 0.1"
+       UPDATED: "Special Thanks", "About Tekkenomics", "Closing", "Legend",
+                "Secrets", "Version Updates"
+       CORRECTIONS: All except Bruce, Jun, Tetsujin, Unknown
+
+
+3.20 - (02-16-04)  Created "Buffered Moves" section
+       UPDATED: "Special Thanks"
+       ADDED MOVES: Bryan, Devil, Heihachi, Kazuya, Jin, Jun
+       CORRECTIONS: Devil, Kazuya, Jin
+
+
+3.30 - (06-26-05)  Added new web address of "Tekkenomics", fixed typos,
+       Created "Special Tag Taunts" section, changed FAQ number format,
+       Removed "Unverified Moves" section, Added new move to "STM"
+       UPDATED: "About Tekkenomics", "Closing", "Special Thanks"
+
+
+3.40 - (05-02-09)  Removed AIM screen name, added PSN screen name,
+                   various minor fixes
+       ADDED: "About The Author"
+       UPDATED: "STM", "UTM", "STT", "Special Thanks", "About Tekkenomics",
+                "Closing"
+       ADDED MOVES: Anna, Armor King
+
+
+4.00 - (05-10-09)  Added a new section covering content from my unreleased
+       "Tekken Tag Tournament: Tekken Bowl FAQ" version 1.0
+       ADDED: "Questions" section
+       UPDATED: "Special Thanks"
+
+
+4.01 - (06-21-09)  (See below...)
+
+       Fighter Specific Legend Commands
+            - Changed "Testsujin / Mokujin / Unknown" to "Every fighter"
+       About Tekkenomics
+            - Re-wrote some of section
+       About the Author
+            - Re-wrote some of section
+       Other
+            - Format changes
+            - Other minor fixes/changes
+
+
+4.02 - (09-28-09)  (See below...)
+
+       Other
+            - Updated links to point to the "Tekkenomics Blog"
+            - Changed "UPDATED" to "UPDATE"
+            - Updated "Legal Stuff", "About Tekkenomics", "Closing"
+            - Other minor fixes/changes
+
+
+4.10 - (10-23-09)  (See below...)
+
+       Table of Contents
+            - Added extra spacing
+       Legend
+            - Updated section description
+            - Added new notations
+            - Various notation changes
+            - Removed a few notations
+       Hidden Moves
+            - Added a section description
+            - Updated Anna, Gun Jack, Jack-2, King, Kuma, Kunimitsu, Lei,
+              Ling, Nina, P. Jack, Yoshimitsu
+            - Removed majority of the "Any WS move" commands
+            - Removed a few other moves
+       Special Hidden Moves
+            - Updated Paul
+
+
+
+
+
+FAQ Update Legend
+-----------------
+
+<NEW>       New content that has been added.
+
+<UPDATE>    Content that has been changed, corrected, or modified in any
+            other way.
+
+NOTE: Corrections include adding any notes, changing names, correcting
+      various mistakes or typos, and removing anything.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                            2. Legal Stuff
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+You may download and print this FAQ, but under no circumstances can you
+put this FAQ on your web page without our permission.  You MAY NOT ALTER
+IT IN ANY WAY or claim it as your own.
+
+From this point on, I will only be sending FAQ updates to GameFAQs, IGN,
+and Tekken Zaibatsu.  Anyone who has recevived permission to host any of
+the Tekkenomics FAQs also has permission to host any of our future
+text-based FAQs (unless specified), and can obtain updates from any of
+the previously mentioned websites.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                         3. FAQ Description
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Ever since I first played Tekken Tag Tournament on the PS2, I noticed that
+all available moves in the Tekken games were not included in the move lists
+of each fighter.  When Tekken 4 has been released, I decided to take the
+time to put together a list of all of the moves that I have noticed that
+somehow evaded the command lists.  After I put a lot of work and time in
+finding the hidden moves in Tekken 4, I decided to go back to Tekken Tag
+Tournament and put together a FAQ of all of its hidden moves.
+
+This FAQ only covers the moves that are missing in the PS2 Tekken Tag
+Tournament (U.S. Version) command lists.  These moves should work on the
+Arcade and other PS2 Versions of Tekken Tag Tournament, but I only tested
+these moves on the U.S. Version.
+
+Because Tekken has so many moves that can be linked together, not all
+the commands for these moves were included in the move lists.  Listed
+in here are moves and button combinations not found specifically in any
+of the move lists within the Tekken Tag Tournament PS2 game.  Also
+included are commands with unique properties.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                            4. Comments
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+The purpose of this FAQ is to try to inform the Tekken Tag Tournament
+players of the commands that are available to them, aside from what
+they have been provided with in the in-game move lists.  These moves
+were obtained various ways: experimenting with button combinations while
+in practice mode, learning and trying to perform the same moves used by
+the computer, and some just by chance.
+
+If you happen to see any move(s) listed in this FAQ that are actually
+listed in the command lists within the U.S. version of the Tekken Tag
+Tournament PS2 game, please e-mail me and tell me the name of the move
+in my FAQ and/or the in-game movelist.
+
+You will receive credit for noticing commands like this whenever I
+create the next version of this FAQ.  You will also receive credit for
+noticing any typos or any other mistakes with the commands.  Thank you
+in advance.
+
+IMPORTANT: When sending an e-mail, please put something about "Tekken"
+or "FAQ" somewhere in the e-mail topic, or the e-mail will be deleted.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                              5. Legend
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+This is a list of the notations that I will be using throughout this FAQ.
+This Legend is very similar to the one used by Tekken Zaibatsu, however
+there are a few differences.
+
+
+RECENT CHANGES: FH to F#, BH to B#, UH to U#, DH to D#,
+                RUN to WR, WC to FC,
+                DRA to DGN, DRM to DRU, FLEA to FLE, HNT to HBS, HS to HSP,
+                HTM to HMS, IND to INS, LF to LFS, LS to LFF, PDF to FUFT,
+                PDH to FUFA, PHI to AOP, PHX to AOP, RF to RFS, RND to RDS,
+                RS to RFF, SWF to FDFT, SWH to FDFA, WOB to GRND,
+                WOBFT to FUFT, WOG to GRND, WOSFT to FDFT
+
+
+--------
+Buttons:
+--------
+
+
+ Notation     Meaning
+ --------     -------
+
+  1           Left Punch (Square)
+  2           Right Punch (Triangle)
+  3           Left Kick (X)
+  4           Right Kick (Circle)
+  5           Tag (R1, R2, L1, L2)
+
+
+----------
+Direction:
+----------
+
+
+ Notation     Meaning
+ --------     -------
+
+  f           Press Forward (Towards opponent)
+  F           Hold Forward (Towards opponent)
+  F#          Hold Forward until next D-Pad command <UPDATE>
+  b           Press Backward (Away from opponent)
+  B           Hold Backward (Away from opponent)
+  B#          Hold Back until next D-Pad command <UPDATE>
+  u           Press Up
+  U           Hold Up
+  U#          Hold Up until next D-Pad command <UPDATE>
+  d           Press Down
+  D           Hold Down
+  D#          Hold Down until next D-Pad command <UPDATE>
+  D/B#        Hold "Down" and "Back" until next D-Pad command <UPDATE>
+  D/F#        Hold "Down" and "Forward" until next D-Pad command <UPDATE>
+  QCB         Quarter Circle Backward; Down to Back (d,d/b,b)
+  QCF         Quarter Circle Forward; Down to Forward (d,d/f,f)
+  HCB         Half Circle Backward (f,d/f,d,d/b,b)
+  HCF         Half Circle Forward (b,d/b,d,d/f,f)
+
+
+NOTE1: D-pad represents the arrows (up, down, left, right) on the
+       PS2 controller or Arcade stick
+
+NOTE2: "F#" requires you to hold forward for a longer period of time
+       than "F".
+
+
+--------------
+FAQ Notations:
+--------------
+
+
+ Notation     Meaning
+ --------     -------
+
+  ALT         Alternative; another way to execute the same exact move
+  ALTER       Another way to perform the move, although the move is not
+                 exactly the same.
+  ( _ )       Or; Choose one of the moves within the parenthesis to do
+  ~           Press button immediately after
+  /           Press indicated directional buttons at the same time
+  +           Press buttons at same exact time
+  N           Leave joy pad neutral
+  *           Short pause between button presses
+  **          Medium pause between button presses
+  ***         Long pause between button presses
+  [ ]         Optional command(s)
+  { }         Action within these must be completed in order for the command
+                 to be executed correctly
+  :           The command following this requires "just frame" input
+  ( )...      Repeat the pattern within the brackets
+  ;           Separates different moves used within a combo <NEW>
+
+
+----------------
+Action Notation:
+----------------
+
+
+ Notation     Meaning
+ --------     -------
+
+  BLK         Attack must be blocked by opponent
+  BT          Back Towards Opponent
+  CH          During Counter Hit/Attack
+  FC          While Crouching <UPDATE>
+  GRAB        Opponent must be grabbed from the front
+  HIT         While opponent is being hit (damaged)
+  HIT*        After opponent is hit (damaged)
+  ParL        Left punch must be parried
+  ParR        Right punch must be parried
+  Parry       Move is parried
+  RevL        While opponent is reversing your left attack
+  RevR        While opponent is reversing your right attack
+  SS          Sidestep
+  TAC         During Tackle
+  WR          While your fighter is running <UPDATE>
+  WR*         While your fighter is running from far away <UPDATE>
+  WR**        While your fighter is running from very far away <UPDATE>
+  WS          While standing from a crouch; While Rising
+
+
+-------------------
+Grounded Positions: <NEW>
+-------------------
+
+
+ Notation     Meaning
+ --------     -------
+
+  FDFA        Face down & feet away
+  FDFT        Face down & feet towards
+  FUFA        Face up & feet away
+  FUFT        Face up & feet towards
+  GRND        While lying on ground
+  KNDA        Right after the opponent knocks to you the floor
+
+
+NOTE: You might see the following alternative notations used:
+  FDFA = SLD (Slide position)
+  FDFT = FCD (Face Down position)
+  FUFA = PLD (Play Dead position)
+  FUFT = KND (Knockdown position)
+
+
+------------------------
+Fighter Specific Legend:
+------------------------
+
+
+ Notation     Meaning              Fighter
+ --------     -------              -------
+
+  AOP         Art of Phoenix/      Lei Wulong, Ling Xiaoyu <UPDATE>
+                Phoenix Stance
+  BCK         During Backdrop      King
+  CAB         During Cannonball    King
+               Buster
+  CRA         Crane Stance         Lei Wulong
+  CRB         Crab Hold            Nina Williams
+  DGN         Dragon Stance        Lei Wulong <UPDATE>
+  DRU         Drunken Master       Lei Wulong <UPDATE>
+  FKS         Fake Step            Forrest Law
+  FLE         During Flea          Yoshimitsu <UPDATE>
+  FLM         During Flamingo      Baek Doo San
+  HBS         Hunting              Kuma / Panda
+  HMS         Hitman               Lee Chaolan <UPDATE>
+  HSP         Handstand            Eddy Gordo / Tiger <UPDATE>
+  INS         Indian Stance        Yoshimitsu <UPDATE>
+  LFF         Left Stance          Hwoarang <UPDATE>
+  LFS         Left Flamingo        Hwoarang <UPDATE>
+  MED         Meditation           Yoshimitsu
+  PAN         Panther Stance       Lei Wulong
+  RDS         Rain Dance           Ling Xiaoyu <UPDATE>
+  REW         During Rewinder      Eddy Gordo / Tiger
+  RFF         Right Stance         Hwoarang <UPDATE>
+  RFS         Right Flamingo       Hwoarang <UPDATE>
+  RLX         Relaxed Position     Eddy Gordo / Tiger
+  SIT         During Sit           Kuma / Panda, Gun Jack, Jack-2
+                                   Prototype Jack, Ganryu
+  SNA         Snake Stance         Lei Wulong
+  SUS         During Slap U        Kunimitsu, Yoshimitsu
+               Silly
+  TGR         Tiger Stance         Lei Wulong
+  TRP         Triple Slaps         Nina Williams
+
+
+NOTE: You might see the following alternative notations used:
+  AOP = PNX (Phoenix) - Lei Wulong or Ling Xiaoyu
+  FLE = POG (Pogo Stance) - Yoshimitsu
+  RLX = NEG (Negativa) - Eddy Gordo
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        6. Legend Examples
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+1) [ ] = Optional command
+   
+   Bryan Fury
+     Vulcan Cannon Body Blow
+         D/F#+1, 1, [1], [1], 2
+
+     Can be expanded to these moves...
+        Vulcan Cannon Body Blow 1
+             D/F#+1, 1, 2
+        Vulcan Cannon Body Blow 2
+             D/F#+1, 1, 1, 2
+        Vulcan Cannon Body Blow 3
+             D/F#+1, 1, 1, 1, 2
+
+
+2) ( _ ) = or
+
+   Lei Wulong
+     Twin Snake Strikes to Panther Stance
+          f+1+2, (U _ D)
+
+     This move can be performed by doing:
+        f+1+2, U
+     or by doing...
+        f+1+2, D
+     Only one of these commands are needed.
+
+
+3) + = and
+
+   Yoshimitsu
+     Reverse Harakiri
+          BT d+1+4
+
+     Press "d" and "1" and "4" all at the same exact time.
+
+
+4) AOP BT (Explaination)
+
+   Ling Xiaoyu
+     Reverse Phoenix Mistrust
+          AOP BT 4
+
+     "AOP BT" means that you are in the AOP stance with your back
+     towards your enemy.  This can occur when you are in "AOP"
+     and the opponent jumps over you or sidesteps around you.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                7. Fighter Specific Legend Commands
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+In this section, you will find the ways in order to perform the
+moves listed under the "Fighter Specific Legend".  Listed in here
+will just be some of the ways, not all.
+
+
+Eddy Gordo / Tiger
+     Handstand (HSP)                 f+1+2
+     Negativa/                       3~4,N <or> 1,2,4,4 <or> 1,2,4,3
+       Relaxed Position (RLX)          <or> SS+3 <UPDATE>
+     Rewinder (REW)                  (1+2 _ d+1+2 _ SS)
+
+Hwoarang
+     Left Flamingo (LFS) <UPDATE>    (f+3 _ RFF f+3)
+     Left Stance (LFF) <UPDATE>      N
+     Right Flamingo (RFS) <UPDATE>   (f+4 _ RFF f+4)
+     Right Stance (RFF) <UPDATE>     3+4
+
+King
+     Backdrop (BKD)                  f, D/F+(1+3 _ 2+4) * 2, 1, 1+2
+     Cannonball Buster (CAB)         SS+2+4
+
+Kuma / Panda
+     Hunting (HBS)                   3+4
+     Sit (SIT)                       d+3+4
+
+Lee Chaolan
+     Hitman (HMS)                    3+4
+
+Lei Wulong
+     Back Turn (BT)                  b+3+4
+     Crane (CRA)                     PAN d
+     Drunken Master (DRU)            (f+3+4 _ SS+2,2,F _ b+1,F)
+     Phoenix Illusion (AOP)          b+1+4
+     Play Dead (FUFA) <UPDATE>       d+3+4
+     Reverse Play Dead (FUFT) <NEW>  BT,d+3+4
+     Reverse Sidewind (FDFT) <NEW>   BT,d+1+2 <or> 4~3
+     Sidewind (FDFT) <UPDATE>        d+1+2
+     Snake Stance (SNA)              (SS+1+4 _ SS+2+3 _ f+2+3)
+
+Ling Xiaoyu
+     Phoenix (AOP)                   d+1+2
+     Rain Dance (RDS)                b+3+4
+
+Marshall Law
+     Fake Step (FKS)                 b+1+2
+
+Nina Williams
+     Triple Slaps (TRP)              WS+3 {HIT}, 1+2
+
+Yoshimitsu
+     Indian Stance (INS)             d+3+4
+     Meditation (MED)                SS+3+4
+
+Every Fighter
+     Sidestep (SS)                   (u _ d)
+     While Crouching (FC)            (D/B _ D/F _ D)
+     While Rising (WS)               FC, N
+     While Running (WR)              (f,f,f _ f,F#)
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                          8. Hidden Moves
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+The following is a list of moves for each fighter that is not listed
+within their in-game move lists.
+
+
+
+-------------------------------------------------------------------
+                           8A. Anna Williams
+-------------------------------------------------------------------
+
+
+Basic Kick Knockdown
+     f+3
+
+Bermuda Shorts
+     d/f+1, 2, 4
+
+Chaos Judgement Grab Auto-Counter
+     b+4 {Opponent grabs Anna}
+
+Chaos Judgment Low Attack Auto-Counter
+     b+4 {Opponent Low Attack}
+
+Crouching L & R Low Kick <UPDATE)
+     FC D+3, 4
+
+Crouching Left Spin Low Kick to Right Upper
+     FC+3, 2
+
+Crouching Right Low Kick to Back Spin Chop
+     FC+4, 1
+
+Crouching Sit Spin to High Right Kick
+     FC+3, N, 4
+
+Crouching Special Mid Kick
+     FC+4
+
+Crouching Toe Kick
+     FC+2, 4
+
+Dark Step Backhand Slap
+     f, N, d, D/F, 1+2
+
+Dark Step Rising Palm
+     f, N, d, D/F, 2
+
+Jab Combo High Kick Backhand Sidestep
+     1, 2, 1, 4, 2, (u _ d)
+
+Jab Combo High Kick Backhand Sidestep Attack
+     1, 2, 1, 4, 2, (u _ d), (2 _ 1+2)
+
+Jab Sweep Combo
+     1, 2, 3
+
+Leg Slicer High Kick Backhand Sidestep
+     d/f+3, 1, 4, 2, (u _ d)
+
+Leg Slicer High Kick Backhand Sidestep Attack
+     d/f+3, 1, 4, 2, (u _ d), (2 _ 1+2)
+
+Mist Step
+     QCF, n
+
+Mist Step Rising Palm
+     QCF 2
+
+Nibbling Snake
+     2, 1, 4
+
+Reverse 10 Hit Combo 1
+     BT (1 _ 2), 2, 1, 2, 3, 3, 2, 1, 2, 4
+
+Reverse Bermuda Triangle
+     BT (1 _ 2), 2, 4
+
+Reverse Rapid Fire Punches
+     BT (1 _ 2), 2, 1, 2
+
+Right High Low Spin Kick (Extra Damage)
+     f+4, 3
+
+Right Left Combo
+     2, 1
+
+Right Low Kick to Back Spin Chop Side Step
+     d+4, 1, (u _ d)
+
+Right Low Kick to Back Spin Chop Side Step Attack
+     d+4, 1, (u _ d), (2 _ 1+2)
+
+Rising Basic Uppercut
+     WS+1
+
+Rising Blonde Bomb
+     WS+1+2
+
+Running Blonde Bomb
+     WR* f+1+2
+
+Running Flying Jump Kick
+     WR+3
+
+Sidekick Jab Combo Sidestep
+     d/f+3, 2, (u _ d)
+
+Sidekick Jab Combo Sidestep Attack
+     d/f+3, 2, (u _ d), (2 _ 1+2)
+
+Special Mid Kick
+     d+4
+
+Spike Combo to Right High Kick
+     3, 3, 4
+
+Spike Combo to Right Uppercut
+     3, 3, 2
+
+
+-------------------------------------------------------------------
+                            8B. Armor King
+-------------------------------------------------------------------
+
+
+9 Hit Combo
+     f+2, 1, 1, 2, 4, 4, 4, 1, 3
+
+Beat Down
+     d/f+1
+
+Body Jab
+     d/f+2
+
+Burning Knuckle
+     f+1+2, D
+
+Crouching Stagger Kick
+     FC D/F+4, 4, 4
+
+Crouching Stagger Kicks (During Counter)
+     {CH} FC D/F+4, 4, 4, 4
+
+Elbow Drop (ALTER)
+     (u _ u/b)+2+4
+
+Jumping Stagger Kick (During Counter)
+     {CH} u/f, N, 3+4, 4, 4, 4
+
+Lifting Elbow Turn-Around
+     {CH} WS 1
+
+Running Exploder (ALT)
+     WR+3+4
+
+Running Stagger Kick
+     WR* 4, 4, 4
+
+While Rising Dark Step
+     f, N, d, d/f, WS (Any WS move)
+
+
+-------------------------------------------------------------------
+                          8C. Baek Doo San
+-------------------------------------------------------------------
+
+
+Parry to Flamingo
+     b+1+2 ~ B
+
+
+-------------------------------------------------------------------
+                           8D. Bryan Fury
+-------------------------------------------------------------------
+
+
+Backhand Hackout Punch
+     b+2 ~ f+1
+
+Basic Kick (Extra Damage)
+     f+3
+
+Cremation Fakeout Punch
+     1 ~ 4, 2 ~ f+1, 4
+
+Cremation Fakeout Punch Mist Step
+     1 ~ 4, 2 ~ f+1, (u _ d)
+
+Cremation Fakeout Punch Mist Step Wolf's Tail
+     1 ~ 4, 2 ~ f+1, (u _ d), 4
+
+Crouching Hammer Driver
+     FC+1+2
+
+Destructive Back Knuckle Mist Step Fakeout
+     1 ~ 4, 2, 1, (u _ d)
+
+Destructive Back Knuckle Mist Step Wolf's Tail
+     1 ~ 4, 2, 1, (u _ d), 4
+
+Double Back Knuckle Mist Step Fakeout
+     b+2, 1, (u _ d)
+
+Double Back Knuckle Mist Step Wolf's Tail
+     b+2, 1, (u _ d), 4
+
+Fisherman's Slam (ALT)
+     WS+2, B+2
+
+Furious One Two Low Kick
+     f+1, 2, 3
+
+Furious Backspin Kick
+     3+4
+
+Furious Rush to Low Kick
+     f+1, 2, 1, 4
+
+Fury-less Rush
+     1, 2, 1, 2
+
+Hands of Doom Fakeout Punch
+     b+2 ~ f+1, 2
+
+Lair's Dance Fakeout Punch
+     1 ~ 4, 2 ~ f+1, 2
+
+Mist Step
+     QCF, N
+
+Parry to Gut Punch
+     b+1+2 {ParR}, 2
+
+Parry to Mach Breaker 
+     b+1+2 {ParL}, 2
+
+Rising Mist Step
+     QCF+(Any WS move)
+
+Stomach Blow (ALT)
+     d+2
+
+Vertical Orbital Heel Kick
+     u+4
+
+Vertical Rolling Driver
+     u+3
+
+Vulcan Cannon Body Blow
+     D/F#+1, 1, [1], [1], 2
+
+Wolf Bite Fakeout Punch
+     b+2 ~ f+1, 4
+
+Wolf Bite Fakeout Punch Mist Step
+     b+2 ~ f+1, (u _ d)
+
+Wolf Bite Fakeout Punch Wolf's Tail
+     b+2 ~ f+1, (u _ d), 4
+
+
+-------------------------------------------------------------------
+                          8E. Bruce Irving
+-------------------------------------------------------------------
+
+
+Basic Kick (Extra Damage)
+     f+3
+
+Quick Knee
+     b+4
+
+
+-------------------------------------------------------------------
+                          8F. Devil / Angel
+-------------------------------------------------------------------
+
+
+Note: Devil and Angel have the same command list.
+
+
+Dark Step Dragon Uppercut
+     f, N, d, d/f, 1
+
+Dark Step Heaven's Door
+     f, N, d, d/f, 1 {HIT}, U/F
+
+Dark Tsunami Kick
+     f, N, d, d/f, 4, 4
+
+Rising Demon Scissors
+     WS+4 ~ 3
+
+While Rising Dark Step
+     f, N, d, d/f, WS (Any WS move)
+
+
+-------------------------------------------------------------------
+                    8G. Eddy Gordo / Tiger Jackson
+-------------------------------------------------------------------
+
+
+Note: Eddy Gordo and Tiger have the same command list.
+
+
+10 Hit Combo 2.1
+     4 ~ 3, 4, 2, 4, 3, 3
+
+10 Hit Combo 2.2
+     4 ~ 3, 4, 2, 4, 3, 4, 4
+
+10 Hit Combo 2.21
+     4 ~ 3, 4, 2, 4, 3, 4, [4], B
+
+10 Hit Combo 2.3
+     4 ~ 3, 4, 2, 4, 3 ** 3
+
+10 Hit Combo 2.4
+     4 ~ 3, 4, 2, 4, 3, 4, 1+2
+
+10 Hit Combo 2.5
+     4 ~ 3, 4, 2, 4, 3, 4, 1+2, (1+2 _ 1)
+
+10 Hit Combo 2.51
+     4 ~ 3, 4, 2, 4, 3, 4, 1+2, (1+2 _ 1), 2
+
+10 Hit Combo 2.6
+     4 ~ 3, 4, 2, 4, 3 * 4, 4, 3+4
+
+Back Handspring Halt
+     3+4, B
+
+Backflip to Handtand
+     u/b ~ b * f
+
+Barbed Wire Infinite
+     d/b+4, (4)...
+
+Calypso Low Variation
+     HSP 1, 3, 4, 4
+
+Circus to Handstand
+     HSP 2, 4, B
+
+Combo Jilar Firekick
+     1, 2, 4, 3
+
+Combo Jilar Scoot Kick
+     1, 2, 4, 4
+
+Dos Sol to Handstand
+     REW 4 ~ 3, B
+
+Firekick (ALTER)
+     (u _ u/b)+3+4
+
+Firekick to Relax (ALT)
+     u/f+3+4, B
+
+Forearm Attack
+     d/f+1
+
+Hammer Head (ALT)
+     FC+1+2 ~ 1
+
+Handstand Leg Whip Mars Attcak Flip
+     HSP 1, 3 * 4, 4, 3+4
+
+Handstand Low Kick
+     HSP ** 3
+
+Handstand Mid Kick
+     HSP ** 4
+
+Handstand Side Flop
+     HSP 1, 3, 4, 4
+
+Handstand Somersault
+     HSP ** 1+2
+
+Handstand Somersault Infinite
+     HSP (1+2 **)...
+
+Handstand to Hot Plate Special
+     HSP 1, 3 ** 3
+
+Handstand to Relaxed Position
+     HSP, N
+
+Helicopter Infinite
+     HSP (4 **)...
+
+Hot Plate Special Cancel
+     SS+3 ~ D
+
+Hot Plate Special to Handstand Cancel
+     SS+3 ~ B
+
+Hot Plate Special to Handstand Perch Flop Kick
+     SS+3 {(HIT* _ BLK)}, B, 3+4
+
+Jumping Jacks Drop Kick
+     REW u+3 * 3
+
+Knee Slicer Low Front Stinger Halt
+     SIT 4, 3+4, B
+
+Knee Slicer Low Front Stinger Halt Kick
+     SIT 4, 3+4, 3
+
+Leg Whip Mars Attack Hot Plate Special
+     b+4, 3 ** 3
+
+Leg Whip Mars Attack Infinite
+     b+4, 3, (* 4, 3)...
+
+Leg Whip Mars Attack Low
+     b+4, 3, 4, 4
+
+Leg Whip Mars Attack to Crying Needle
+     b+4, 3, 4, 1+2
+
+Leg Whip Mars Attack to Hammer Head
+     b+4, 3, 4, 1+2, (1+2 _ 1)
+
+Leg Whip Mars Attack to Screw Driver
+     b+4, 3, 4, 1+2, (1+2 _ 1), 2
+
+Low Front Stinger Halt
+     RLX 3+4, B
+
+Roundhouse (ALT)
+     u+4
+
+Rising Front Stinger
+     WS+3+4
+
+Rising Front Stinger to Handstand
+     WS+3+4, B
+
+Rising Front Stinger to Relaxed Position
+     WS+3+4, D
+
+Running Lunging Brushfire
+     WR+3
+
+Running Lunging Brushfire to Handstand
+     WR+3, B
+
+Running Lunging Brushfire to Negativa
+     WR+3, D
+
+Samba Slippery Kick to Crying Needle
+     f+4, 3+4, 4, 1+2
+
+Samba Slippery Kick to Hammer Head
+     f+4, 3+4, 4, 1+2, (1+2 _ 1)
+
+Samba Slippery Kick to Screw Driver
+     f+4, 3+4, 4, 1+2, (1+2 _ 1), 2
+
+Samba Slippery Kick to Handstand
+     f+4, 3+4, B
+
+Samba Slippery Kick to Side Flop
+     f+4, 3+4, 4, 4
+
+Satellite Moon Hot Plate Special
+     4~3 * 3
+
+Satellite Moon Hot Plate Special Cancel
+     4~3 * 3 ~ D
+
+Satellite Moon Hot Plate Special Cancel to Handstand
+     4~3 * 3 ~ B
+
+Satellite Moon Hot Plate Special to Handstand
+     4~3 * 3, B
+
+Screw Driver
+     FC+1+2, (1+2 _ 1), 2
+
+Sidestep to Jumping Jacks
+     SS, (u _ u/b _ u/f)+3
+
+Sidestep to Jumping Jacks Drop Kick
+     SS, (u _ u/b _ u/f)+3 * 3
+
+Sidestep to Jumping Jacks Evil Stinger
+     SS, (u _ u/b _ u/f)+3, 3+4
+
+Sidestep to Jumping Jacks Mirage
+     SS, (u _ u/b _ u/f)+3, 3
+
+Sidestep to Jumping Jacks Negativa
+     SS, (u _ u/b _ u/f)+3, D
+
+Slippery Kick Side Flop to Handstand
+     3 ~ 4, 4, [4], B
+
+Slippery Kick to Crying Needle
+     3 ~ 4, 4, 1+2
+
+Slippery Kick to Hammer Head
+     3 ~ 4, 4, 1+2, (1+2 _ 1)
+
+Slippery Kick to Screw Driver
+     3 ~ 4, 4, 1+2, (1+2 _ 1), 2
+
+Thong Bikini to Circle Hot Plate Special
+     d/b+3 * 4, 3 ** 3
+
+Thong Bikini to Circle Kick Infinite
+     d/b+3 * 4, (3 * 4)...
+
+Thong Bikini to Circle Kick Low
+     d/b+3 * 4, 3, 4, 4
+
+Thong Bikini to Circle Kick Mid
+     d/b+3 * 4, 3, 3
+
+Thong Bikini to Hammer Head
+     d/b+3~4, 1+2, (1+2 _ 1)
+
+Thong Bikini to Screw Driver
+     d/b+3~4, 1+2, (1+2 _ 1), 2
+
+Thong Bikini to Leg Whip Mars Attack Flip
+     d/b+3 * 4, 4, 3+4
+
+Twister Front Stinger to Handstand
+     SS+4, 3+4, B
+
+Twister Front Stinger to Rexlaxed Position
+     SS+4, 3+4, D
+
+Vasuuna (ALTER)
+     (u _ u/b)+1+2
+
+Wheel Kicks Sao Paulo Special to Handstand
+     SS+3+4, 3+4, 3+4, B
+
+Wheel Kicks Sao Paulo Special to Rexlaxed Position
+     SS+3+4, 3+4, 3+4, u/f+3+4, (B _ D)
+
+While Rising Rexlaxed Position
+     RLX (u _ d), WS (Any WS move)
+
+
+-------------------------------------------------------------------
+                            8H. Forrest Law
+-------------------------------------------------------------------
+
+
+Backflip (ALTER)
+     (f _ b)+3+4
+
+Backflipper (ALTER)
+     (f _ b)+3+4, 3
+
+Basic Left Kick Less Damage
+     f+3
+
+Catapult Kick (ALTER)
+     FC (U+4 _ U/B+4)
+
+Crouching Body Blow to Somersault
+     FC+2, 3
+
+Crouching Dragon Somersault Kicks
+     FC (u/f _ u _ u/b)+4, 3
+
+Crouching Somersault Kick
+     FC (u/f _ u _ u/b)+4
+
+Dragon Breath
+     QCF+1, [1], [1], [1], 2
+
+Dragon Head Kick Somersault
+     3, 3, [3], 4
+
+Dragon Low High Combo Somersault
+     d+3, 3, [3], [3], 4
+
+Dragon Low Triple Head Kick
+     d+3, 3, 3, 3
+
+Dragon Mid Kick Combo
+     d+3, 3, [3], F+3
+
+Dragon Somersault Kicks
+     U/F+4, 3
+
+Elbow Spring Kick Cancel
+     d/b+2, 4, D
+
+Fake Step Shaolin Spin Kicks
+     FKS 4, 3, 4
+
+Frogman Cancel
+     d+3+4, D
+
+Front Kick to Somersault
+     d/f+4, 3
+
+High Kick to Somersault (Extra Damage)
+     f+3, u+4
+
+Jumping Kick to Somersault (ALTER)
+     (u _ u/b)+3, 4
+
+Left Jump Kick
+     (u/f _ u _ u/b)+3
+
+Machine Gun Arrow to Rave Battle Combo
+     1, [1], [1], [1], 2, 2
+
+Machine Gun Arrow to Rave War Combo
+     1, [1], [1], [1], F+2, 2, 2
+
+PK Combo
+     QCF+1, 4
+
+Punch-Low Kick Combo
+     d/f+1, 3
+
+Rainbow Kick (ALTER)
+     FC (U+3+4 _ U/B+3+4)
+
+Reverse Frogman
+     BT d+3+4
+
+Reverse Frogman Cancel
+     BT d+3+4, D
+
+Rising Catapult Kick
+     WS (U/F _ U _ U/B)+4
+
+Rising Rainbow Kick
+     WS (u/f _ u _ u/b)+3+4
+
+Rising Somersault Kick
+     WS (u/f _ u _ u/b)+4
+
+Somersault Kick (ALTER)
+     (U _ U/B)+4
+
+
+-------------------------------------------------------------------
+                              8I. Ganryu
+-------------------------------------------------------------------
+
+
+LA-Z-Boy
+     SIT F
+
+LA-Z-Boy Mid Kick
+     SIT F, 4
+
+LA-Z-Boy Low Kick
+     SIT F, 3
+
+Recliner
+     SIT B
+
+Recliner Mid Kick
+     SIT B, 4
+
+Recliner Low Kick
+     SIT B, 3
+
+Thunder Clap Sumo Juggle
+     d/f+2, 1, 1, 1, 2, 1, 2, 1, 2
+
+
+-------------------------------------------------------------------
+                             8J. Gun Jack
+-------------------------------------------------------------------
+
+
+Crouching to Sit <UPDATE>
+     FC D+3+4
+
+LA-Z-Boy
+     SIT F
+
+LA-Z-Boy Mid Kick
+     SIT F, 4
+
+LA-Z-Boy Low Kick
+     SIT F, 3
+
+Pancake Press to High Kick
+     u/f+3+4 {HIT} ** 4
+
+Pancake Press to Low Kick
+     u/f+3+4 {HIT} ** 3
+
+Pancake Press to Sit Punches 1
+     u/f+3+4, SIT 1, 2, 1, 2
+
+Pancake Press to Sit Punches 2
+     u/f+3+4, SIT 2, 1, 2, 1
+
+Recliner
+     SIT B
+
+Recliner Mid Kick
+     SIT B, 4
+
+Recliner Low Kick
+     SIT B, 3
+
+Rushing Uppercut R High
+     D/F#+2, 1, 2, F+1
+
+Rushing Uppercut R Low
+     D/F#+2, 1, 2, D+1
+
+Sit Pancake Press Puches
+     d+3+4 ~ 3+4, (1, 2, 1, 2 _ 2, 1, 2, 1)
+
+
+-------------------------------------------------------------------
+                         8K. Heihachi Mishima
+-------------------------------------------------------------------
+
+
+Basic Right Uppercut
+     d/f+2
+
+Dark Step Dragon Uppercut
+     f, N, d, d/f, 1
+
+Dark Tsunami Kick
+     f, N, d, d/f, 4, 4
+
+Death Row
+     1, 2, 2, 1+2, (u _ d), 1+2
+
+Death Row (ALT)
+     1, 2, 2, 1, (u _ d), 1+2
+
+Demon Executioner (ALT)
+     1, 2, 2, 1
+
+Demon Shout (ALT)
+     f+2, 1
+
+Electric Wind Godfist
+     f ~ N, d ~ d/f+2
+
+Fake Executioner (ALT)
+     1, 2, 2, 1, (u _ d)
+
+Mist Step
+     QCF, N
+
+Rising Demon Scissors
+     WS+4 ~ 3
+
+Spinning Backfist
+     f+2
+
+Spinning Demon Tsunami Kick (ALTER)
+     f, N, d, D/F+4, [4], N, 4, 4
+
+Spinning Demon Uppercut (ALTER)
+     f, N, d, D/F+4, [4], N, 1
+
+While Rising Dark Step
+     f, N, d, d/f, WS (Any WS move)
+
+While Rising Mist Step
+     QCF, WS (Any WS move)
+
+
+-------------------------------------------------------------------
+                            8L. Hwoarang
+-------------------------------------------------------------------
+
+
+Note: Always begin in the Left Stance unless indicated otherwise.
+
+
+Back Turned High Kick (LFF)
+     LFF BT 3
+
+Back Turned High Kick (RFF)
+     RFF BT 4
+
+Basic Right Uppercut
+     d/f+2
+
+Dark Cheap Shot Snap Kick
+     f, N, d, d/f+3 ~ 3
+
+Dark Left Flamingo Feint
+     f, N, d, d/f+3
+
+Dishonorable Discharge
+     f+1, 2, 4
+
+Disrepect Combo
+     LFS 2, 2, 3
+
+Firecracker (RFF)
+     RFF d+4, 4
+
+Head Splitter
+     WS+3
+
+Honorable Discharge
+     f+1, 2, 3
+
+Jump Kick (ALT)
+     u/b+3
+
+Left Flamingo Cutter Left (ALT)
+     LFS (d/f _ d)+3
+
+Left Flamingo Cutter Right (ALT)
+     LFS (d/f _ d)+4
+
+Left Flamingo Left Kick
+     LFS 3
+
+Right Flamingo Cutter Left (ALT)
+     RFS (d/f _ d)+3
+
+Right Flamingo Cutter Right (ALT)
+     RFS (d/f _ d)+4
+
+Right Jab Rejector
+     2, 3
+
+Right Jab Rejection
+     2, 4
+
+Right Kick to Right Flamingo
+     RFF 4, F
+
+Roundhouse Jump Kick
+     (u/f _ u _ u/b)+4
+
+Rusty Chainsaw Kick
+     RFF 2, 4, 3
+
+Smash Low Right Mid Combo
+     (RFF _ LFF) d+3, 4, 4
+
+
+-------------------------------------------------------------------
+                              8M. Jack-2
+-------------------------------------------------------------------
+
+
+Crouching to Sit <UPDATE>
+     FC D+3+4
+
+Gigaton Debugger
+     b, d/b, d, d/f, f ~ D/F+1
+
+Gigaton Punch (ALT)
+     HCF, {follwed by Lever Spin} 1
+
+LA-Z-Boy
+     SIT F
+
+LA-Z-Boy Mid Kick
+     SIT F, 4
+
+LA-Z-Boy Low Kick
+     SIT F, 3
+
+Pancake Press to High Kick
+     u/f+3+4 {HIT} ** 4
+
+Pancake Press to Low Kick
+     u/f+3+4 {HIT} ** 3
+
+Pancake Press to Sit Punches 1
+     u/f+3+4, SIT 1, 2, 1, 2
+
+Pancake Press to Sit Punches 2
+     u/f+3+4, SIT 2, 1, 2, 1
+
+Recliner
+     SIT B
+
+Recliner Mid Kick
+     SIT B, 4
+
+Recliner Low Kick
+     SIT B, 3
+
+Rushing Uppercut R High
+     D/F#+2, 1, 2, F+1
+
+Rushing Uppercut R Low
+     D/F#+2, 1, 2, D+1
+
+
+-------------------------------------------------------------------
+                           8N. Jin Kazama
+-------------------------------------------------------------------
+
+
+5 Hit Combo
+     b+2, 4, 2, 1, 2
+
+9 Hit Combo 1
+     3, 2, 4, 3, 1+4, 2, 1, 3
+
+9 Hit Combo 2
+     3, 2, 4, 3, 1+4, 2, 1, 4
+
+11 Hit Combo 1
+     b+2, 4, 4, 4, 4, 2, 1+4, 2, 1, 3
+
+11 Hit Combo 2
+     b+2, 4, 4, 4, 4, 2, 1+4, 2, 1, 4
+
+Crouching Ultimate Tackle
+     FC+1+2
+
+Dark Step to Dragon Uppercut to Middle Kick
+     f, N, d, d/f, 1, 3
+
+Dark Step to Dragon Uppercut to Spinning Low Kick
+     f, N, d, d/f, 1, 4
+
+Dark Step Ultimate Tackle
+     f, N, d, D/F+1+2
+
+Electric Wind Godfist
+     f ~ N, d ~ d/f+2
+
+High Pounce (ALTER)
+     (u _ u/b)+2+4
+
+Laser Scraper (ALT)
+     b, f+2, 1, (d _ d/b)+2
+
+Left Jump Kick
+     (u/b _ u _ u/f)+3
+
+One Two Knee Cancel to Three Ring Circus Combo
+     1, 2, 4 ~ 1+4, 2, (4 _ d+4)
+
+Parting Wave Dragon Uppercut
+     b+1, D/F, N, 1
+
+Parting Wave Dragon Uppercut to Middle Kick
+     b+1, D/F, N, 1, 3
+
+Parting Wave Dragon Uppercut to Spinning Low Kick
+     b+1, D/F, N, 1, 4
+
+Parting Wave Rising Uppercut
+     b+1, D/F, N, 2
+
+Parting Wave Spinning Demon
+     b+1, D/F+4, 4
+
+Parting Wave Tsunami Kick
+     b+1, D/F, N, 4, 4
+
+Reverse Double Lift Kick
+     BT d+3+4
+
+Reverse Three Ring Circus
+     BT 1+4, 2, 4
+
+Reverse Three Ring Circus Combo
+     BT 1+4, 2, d+4
+
+Right Jump Kick
+     U/F * 4
+
+Rising Demon Scissors
+     WS+4 ~ 3
+
+Roundhouse to Triple Spin Kick (Vertical)
+     u+4, 4, 4, 4
+
+Sunset Kick
+     u/f * 4
+
+Twin Lancer (ALT)
+     f+1+2, 2
+
+Ultimate Punch to Arm Breaker
+     TAC 1, 2, 1, 1+2
+
+Ultimate Tackle (ALT)
+     (D/B _ D/F)+1+2
+
+While Rising Dark Step
+     f, N, d, d/f, WS (Any WS move)
+
+
+-------------------------------------------------------------------
+                            8O. Julia Chang
+-------------------------------------------------------------------
+
+
+Glorious Cannon
+     d+2, 3, 1
+
+Running Lightning Bolt
+     WR+1, 2
+
+Running Rapid Counter Attack
+     WR+1
+
+Spin and Triple Spinning Kicks
+     3+4, 4, 4, 4
+
+Spin and Triple Spinning Kicks Slash Uppercut
+     3+4, 4, 4, 1
+
+Spin and Triple Spinning Low Kick
+     3+4, 4, 4, D+4
+
+Sweep Low Kick (ALT)
+     D#+4, 4
+
+
+-------------------------------------------------------------------
+                            8P. Jun Kazama
+-------------------------------------------------------------------
+
+
+Blizzard Combo to Jab Low Kick
+     1+4, 2, 1, 3
+
+Blizzard Combo to Jab Uppercut
+     1+4, 2, 1, 2
+
+Blizzard Combo to Leg Cutter Thunder Fall Kick
+     1+4, 2, 1, 4, [4], [4], 3
+
+Blizzard Combo to Lunging Mist Thrust Double Lift Kick
+     1+4, 2, 1, 1, 4
+
+Blizzard Combo to Lunging Mist Thrust Toe Kick
+     1+4, 2, 1, 1, 3
+
+Demon Slayer Cancel
+     f+2, (d _ d/f _ d/b)
+
+Dragon Wheel Thunder Fall Kick
+     b+3, 4, [4], [4], 3
+
+Launcher
+     2
+
+Leg Cutter White Heron Dance (EXTENDED)
+     d/b+4, 4, [4], 1+4, 2, 4
+
+Leg Cutter White Heron Lower Dance
+     d/b+4, [4], [4], 1+4, 2, D+4
+
+Lunging Mist Thrust Double Lift Kick
+     F+1, 4
+
+Lunging Mist Thrust Toe Kick
+     F+1, 3
+
+Spinning Heel Drop Cancel
+     f+3, (b _ d)
+
+Swallow Mallet to Double Sweep
+     (b+2 _ SS+2), 4, 4
+
+Swallow Mallet to Double Sweep Thunder Fall Kick
+     (b+2 _ SS+2), 4, [4], 3
+
+Swallow Mallet to Lunging Mist Thrust Double Lift Kick
+     (b+2 _ SS+2), 1, 4
+
+Swallow Mallet to Lunging Mist Thrust Toe Kick
+     (b+2 _ SS+2), 1, 3
+
+Sweep Thunder Fall Kick
+     d/b+4, [4], 3
+
+Sweeps (ALT)
+     3 ~ 4, 4, 4
+
+Toe Kick
+     3
+
+Violet Grab
+     {CH} b+1
+
+While Rising Twin Cloud Kicks
+     WS+3+4, 3+4
+
+Whiplash to Leg Cutter Thunder Fall Kick
+     1, 4, [4], [4], 3
+
+Whiplash to Toe Kick Infinite
+     (1, 1, 3)...
+
+
+-------------------------------------------------------------------
+                         8Q. Kazuya Mishima
+-------------------------------------------------------------------
+
+
+Basic Left Kick (Less Damage)
+     f+3
+
+Crouching Ultimate Tackle
+     FC+1+2
+
+Dark Step to Dragon Uppercut to Middle Kick
+     f, N, [d], d/f, 1, 3
+
+Dark Step to Dragon Uppercut to Spinning Low Kick
+     f, N, [d], d/f, 1, 4
+
+Dark Step Ultimate Tackle
+     f, N, [d], D/F+1+2
+
+Dark Tsunami Kick
+     f, N, [d], d/f, 4, 4
+
+Devil Step 
+     f, N, d/f, N
+
+Lightning Uppercut to Lightning Screw Uppercut
+     b+1+4, b
+
+Rising Demon Scissors
+     WS+4 ~ 3
+
+Rising Sun (Vertical)
+     u+4, 4
+
+Roundhouse to Triple Spin Kick (Vertical)
+     u+4, 4, 4, 4
+
+Ultimate Tackle (ALT)
+     D/F+1+2
+
+While Rising Dark Step
+     f, N, d, d/f, WS (Any WS move)
+
+While Rising Devil Step
+     f, N, d/f, WS (Any WS move)
+
+
+-------------------------------------------------------------------
+                               8R. King
+-------------------------------------------------------------------
+
+
+9 Hit Combo 1
+     f+2, 1, 1, 2, 4, 4, 4, 1, 3
+
+9 Hit Combo 2
+     f+2, 1, 1, 2, 4, 4, 4, 1, 1
+
+9 Hit Combo 3
+     f+2, 1, 1, 3, 3, 4, 4, 1, 3
+
+9 Hit Combo 4
+     f+2, 1, 1, 3, 3, 4, 4, 1, 1
+
+9 Hit Combo 5
+     f+2, 1, 1, 3, 3, 4, 3, 2, 1+2
+
+Backdrop to Cannonball Buster
+     BKD 2, 2, 1+2
+
+Body Jab
+     d/f+2
+
+Cannonball Buster Sidestep Cancel
+     SS+2+4, B
+
+Cannonball Buster to Power Bomb
+     CAB 1, 2, 3+4
+
+Crouching Power Bomb <UPDATE>
+     FC D+2+4
+
+Crouching Stagger Kick
+     FC D/F+4, 4, 4
+
+Crouching Stagger Kick 2
+     FC+3+4, 4, 4
+
+Crouching Stagger Kick Spinning Uppercut
+     FC D/F+4, 2
+
+Crouching Stagger Kick Spinning Uppercut 2
+     FC+3+4, 2
+
+Crouching Stagger Kick Spinning Uppercut (During Counter)
+     {CH} FC D/F+4, [4], [4], 2
+
+Crouching Stagger Kick Spinning Uppercut (During Counter) 2
+     {CH} FC+3+4, [4], [4], 2
+
+Crouching Stagger Kicks (During Counter)
+     {CH} FC D/F+4, 4, 4, 4
+
+Crouching Stagger Kicks (During Counter) 2
+     {CH} FC+3+4, 4, 4, 4
+
+Dark Step Ultimate Tackle
+     f, N, d, D/F+1+2
+
+Dark Step Ultimate Tackle (ALT)
+     f, N, d, d/f, (D/B _ D _ D/F)+1+2
+
+High Elbow Drop (ALTER)
+     (u _ u/b)+2+4
+
+Reverse Moonsault Body Press
+     BT 1+4
+
+Reverse Special Stretch Bomb (ALT)
+     d/f+1+2
+
+Reverse Special Stretch Bomb Sidestep
+     SS+2+4 {GRAB}
+
+Rising K's Flicker
+     WS+2
+
+Running Exploder (ALT)
+     WR+3+4
+
+Running Stagger Kick
+     WR* 4, 4, 4
+
+Running Stagger Kick Spinning Uppercut
+     WR* 4, 2
+
+Shin Kick
+     d/f+4
+
+Spinning Elbow
+     1+2
+
+Stagger Kick Spinning Uppercut (During Counter)
+     {CH} d+3+4, [4], [4], 2
+
+Ultimate Punch to Arm Twist
+     TAC (1,2,1 _ 2,1,2), 1+2, 1+2
+
+Ultimate Punch to Cross Arm Lock
+     TAC (1,2,1 _ 2,1,2), 1+2
+
+Ultimate Punch to Leg Cross Hold
+     TAC (1,2,1 _ 2,1,2), 3+4
+
+Ultimate Punch to Stretch Combo
+     TAC (1,2,1 _ 2,1,2), 3+4 : 1+2
+
+While Rising Dark Step
+     f, N, d, d/f, WS (Any WS move)
+
+
+-------------------------------------------------------------------
+                            8S. Kuma / Panda
+-------------------------------------------------------------------
+
+
+Note: Kuma and Panda have the same command list.
+
+
+Crouching to Hunting <UPDATE>
+     FC D+3+4
+
+Deadly Claw to Hunting
+     b+1+2, 3+4
+
+Delayed Hunting
+     HBS N, WS (Any HBS move)
+
+Double Hammer 2 to Hunting
+     WS+1+2, 1+2, F
+
+Hunting Advance
+     HBS f
+
+Hunting Retreat
+     HBS b
+
+Hunting Roll
+     HBS f, F
+
+LA-Z-Boy
+     SIT F
+
+LA-Z-Boy Mid Kick
+     SIT F, 4
+
+LA-Z-Boy Low Kick
+     SIT F, 3
+
+Left Bear Claw
+     HBS 1
+
+Pancake Press to Sit Punches 1
+     u/f+3+4, SIT 1, 2, 1, 2
+
+Pancake Press to Sit Punches 2
+     u/f+3+4, SIT 2, 1, 2, 1
+
+Recliner
+     SIT B
+
+Recliner Mid Kick
+     SIT B, 4
+
+Recliner Low Kick
+     SIT B, 3
+
+Rushing Uppercut R High
+     D/F#+2, 1, 2, F+1
+
+Rushing Uppercut R Low
+     D/F#+2, 1, 2, D+1
+
+Straight Punch
+     f+1
+
+
+-------------------------------------------------------------------
+                            8T. Kunimitsu
+-------------------------------------------------------------------
+
+
+Avoiding the Puddle
+     (u/f _ u _ u/b)+4
+
+Crouching Fairy Wax <UPDATE>
+     FC D+3+4
+
+Jumping Oni Kick
+     (u/f _ u _ u/b)+3
+
+Running Fubuki
+     WR+4
+
+Slap U Silly to Manji Spin Kicks
+     b+1, [1], [1], D/B#+3, 3, 3
+
+Slap U Silly to Manji Spin Kicks Front Kick
+     b+1, [1], [1], D/B#+3, 3, f+4
+
+
+-------------------------------------------------------------------
+                          8U. Lee Chaolan
+-------------------------------------------------------------------
+
+
+Catapult Drop (ALTER)
+     FC (U _ U/B)+3+4
+
+Catapult Kick High (ALTER)
+     FC (U _ U/B)+4
+
+Catapult Kick Low (ALTER)
+     FC (u _ u/b)+4
+
+Double Fang to Hitman
+     b+1, 1, 3+4
+
+Freaker Jab Infinite
+     HMS (1)...
+
+Freaker Jab to Scatter Kick
+     HMS 1, 3
+
+Golden Tail
+     d, D/F+4
+
+Hitman Cancel
+     HMS (f _ b)
+
+Hitman Cancel to Shin Slicer
+     HMS b, 4
+
+Hitman Cancel to Scatter Kick
+     HMS b, 3
+
+Hitman Sidestep
+     HMS (u _ d)
+
+Hitman to Crouch
+     HMS D
+
+Laser Edge Kick Combo to Hitman
+     D#+4, 4, 4, 4, 3
+
+Laser Edge Pistol Whip Kicks
+     d+4 * 4 ~ 4
+
+Lee Cutter to Hitman
+     b, B+4, 3
+
+Lee Tsunami Kick
+     WS+3, 3
+
+Left Lee Knuckle Combo
+     1, 2, 2
+
+Left Rave War Combo
+     1, F+2, 2, 2
+
+Low Kick to Silver Cyclone
+     d+4 ~ N, 4 ~ 3
+
+Low Shaolin Spin Kicks
+     d+4, N, 4, 3, 4
+
+Mist Kick Fakeout
+     b+3 ~ 3
+
+Right Front Kick
+     d/f+4
+
+Rising Catapult Drop
+     WS (u/f _ u _ u/b)+3+4
+
+Rising Catapult Kick High
+     WS (U/F _ U _ U/B)+4
+
+Rising Catapult Kick Low
+     WS (u/f _ u _ u/b)+4
+
+Running Shredder Kick Combo High
+     WR+3, 4, 4
+
+Running Shredder Kick Combo Low
+     WR+3, 4, d+4
+
+Running Shredder Kick Combo Mid
+     WR+3, 4, f+4
+
+Shin Kick to Lee Somersault
+     d+4, 4, u+3
+
+Silver Heel to Hitman
+     b+4, 3
+
+Silver Low Triple Head Kick
+     d+3, 3, 3, 3
+
+Silver Bullet Feint Hammer
+     d+3, 3, [3], B+3
+
+Silver Bullet Mid Kick Combo
+     d+3, 3, [3], F+3
+
+While Rising Hitman
+     HMS U, WS (Any WS move)
+
+
+-------------------------------------------------------------------
+                           8V. Lei Wulong
+-------------------------------------------------------------------
+
+
+9 Hit Combo Reverse Uppercut
+     1, 2, 1, 3+4, 3+4, 3+4, 1 * 2
+
+10 Hit Combo 1 to Back Turn
+     1, 2, [1]
+
+10 Hit Combo 1 to Reverse Uppercut
+     1, 2, 1 * 2
+
+10 Hit Combo 3 to Back Turn
+     1, 2, 1, 3+4, 3+4, 3+4, 1, [1]
+
+Axis Shifting Tornado Kick to Reverse Play Dead
+     f+3 ~ 4, [u], [u], D
+
+Axis Shifting Tornado Kick Reverse Uppercut
+     f+3 ~ 4 * 2
+
+Baby Snake
+     SNA 1
+
+Basic Left Kick (Extra Damage)
+     f+3
+
+Basic Right Kick (Extra Damage)
+     f, f+4
+
+Beating Kick Mid Combo Crane
+     F+4 * 2, 1, 2, 4, (u _ d)
+
+Crane High/Mid Guard
+     CRA (u _ d) {Opponent High/Mid Attack}
+
+Crane to Panther Stance
+     CRA u
+
+Crane to Snake Stance
+     CRA d
+
+Crouching to Play Dead <UPDATE>
+     FC D+3+4
+
+Crouching to Sidewind <UPDATE>
+     FC D+1+2
+
+Crouching Low Back Spin <UPDATE>
+     BT FC D+1
+
+Crouching Low Kick to Snake <UPDATE>
+     BT FC D+4, (d _ u)
+
+Defense Breaker Crane
+     f, N, 2 {HIT}, 1 {HIT}, 2 {HIT}, 4, (u _ d)
+
+Defense Breaker Low Kick
+     f, N, 2 {HIT}, 1 {HIT}, 2 {HIT}, 3
+
+Defense Breaker Mid Kick
+     f, N, 2 {HIT}, 1 {HIT}, 2 {HIT}, 4
+
+Don't Drink and Drive
+     DGN 1 {GRAB} ** 1+2
+
+Dragon to Snake Stance
+     DGN d
+
+Dragon Roar to Tiger Stance
+     DGN 2, F
+
+Dragon Spark to Tiger Stance
+     DGN 1+2, F
+
+Drunken Master Parry
+     f+3+4 {Opponent Mid/High Punch}
+
+Drunken Master Rapid Fists to Drunken Master
+     DRU 2, 2, F
+
+Drunken Master Tiger Lash to Drunken Master
+     DRU 1, F
+
+Drunken Rapid Fists to Drunken Master Walk
+     SS+2, 2, F
+
+Drunken Tiger Lash to Drunken Master Walk
+     b+1, F
+
+High and Low Kicks (Extra Damage)
+     f+3, 3
+
+Hopping Phoenix Strike
+     AOP 3, [3], [3], [3], 4
+
+Left Jump Kick
+     (u/f _ u _ u/b)+3
+
+Low Kick to Snake Stance
+     d/b+4 ~ (u _ d)
+
+No Respect
+     1+2
+
+Out of Control Alcoholic
+     SNA 1+3 {GRAB} ** 1+2
+
+Panther Beating Mid Kick Combo Crane
+     PAN 4 * 2, 1, 2, 4, (u _ d)
+
+Panther Defense Breaker
+     PAN 2 {BLK}, 1 {BLK}, 2 {BLK}, 1
+
+Panther to Snake Stance
+     PAN u
+
+Panther Low Autoguard
+     PAN N
+
+Panther Stance Low Parry
+     PAN f {Opponent Low / Special Mid Atack}
+
+Panther's Tail to Phoenix Stance
+     PAN 3, B
+
+Phoenix Illusion Cancel
+     AOP (u _ d)
+
+Phoenix Strike Triple Tornado Kicks
+     AOP b+4, (u, u _ U#)
+
+Play Dead to Crouch Guard
+     (FUFT _ FUFA _ FDFT _ FDFA), D/B
+
+Razor Rush Mid Kick Stutter
+     f, N, 1 * 2 * 1 * 2 * 4
+
+Retreating High and Low Kicks
+     b+3, 3
+
+Retreating Leaping Double Slicer
+     (FUFA _ FDFT) b ** 3, 4
+
+Reverse Double Slicer Just Frame
+     BT d+4 : 4
+
+Reverse Low Kick to Snake Stance
+     BT d+4 ~ (u _ d)
+
+Reverse Sidewind Double Slicer
+     FDFT 3 ~ 4, 4
+
+Reverse Timber
+     BT u/b+2
+
+Rising Double Slicer
+     FUFA u, 3, 4
+
+Rolling Leaping Double Slicer
+     (FUFA _ FDFT) f * 3, 4
+
+Rushing Snake to Snake Stance
+     SNA 1, 1, [1], [1], [1], [1], F
+
+Snake Bites Lift Cannon
+     SNA 2, 2, 4, 3, 3
+
+Snake Bites to Dragon Stance
+     SNA 2, [2], F
+
+Snake Bites to Panther Stance
+     SNA 2, 2, 2, F
+
+Snake Palm Fist to Dragon Stance
+     SS+1, (U _ D)
+
+Snake Palm Fist to Tiger Stance
+     SS+1, F
+
+Snake Stance (ALT)
+     (SS+2+3 _ f+2+3)
+
+Stance Advance
+     (CRA _ DRG _ PAN _ SNA _ TGR) f
+
+Stance Cancel
+     (CRA _ DRG _ PAN _ SNA _ TGR) D
+
+Stance Mid/High Auto-guard
+     (DRG _ SNA _ TGR) n
+
+Stance Retreat
+     (CRA _ DRG _ PAN _ SNA _ TGR) b
+
+Tiger One Two Kick Low
+     TGR 3 * D+4
+
+Tiger One Two Kick Mid
+     TGR 3 * 4
+
+Tiger Razor Rush Crane
+     TGR 3, 1, 2, 1, 2, 4, (u _ d)
+
+Tiger Razor Rush Dragon
+     TGR 3, 1, 2, (u _ d)
+
+Tiger Razor Rush Panther
+     TGR 3, 1, 2, 1, (u _ d)
+
+Tiger Razor Rush Snake
+     TGR 3, 1, (u _ d)
+
+Tiger Razor Rush Tiger
+     TGR 3, 1, 2, 1, 2, (u _ d)
+
+Tiger Stance Mid/High Parry
+     TGR f {Opponent Mid/High Attack}
+
+Tiger to Dragon Stance
+     TGR d
+
+Timber
+     (u/f _ u/b)+2
+
+Tornado Kick Reverse Uppercut
+     3~4 * 2
+
+Tornado Kick to Reverse Play Dead
+     3 ~ 4 [u], [u], D 
+
+Triple Axis Shifting Tornado Kick
+     f+3 ~ 4, (u, u _ U#)
+
+Triple Tornado Kick
+     3 ~ 4, (u, u _ U#)
+
+Twin Snake Strikes to Crane Stance
+     f+1+2, F
+
+Twin Snake Strikes to Crane Stance (ALT)
+     F#+1+2
+
+Twin Snake Strikes to Panther Stance
+     f+1+2, (U _ D)
+
+
+-------------------------------------------------------------------
+                             8W. Ling Xiaoyu
+-------------------------------------------------------------------
+
+
+4 Hit Combo to Phoenix
+     u+4, 1, 2, 4
+
+6 Hit Combo to Rain Dancer
+     u+4, 1, 2, 1+2, 1, 3
+
+7 Hit Combo to Phoenix Pose
+     u+4, 1, 2, 1+2, 1, 3, 4
+
+Butterfly Wave Crest Heavy
+     AOP d, 1+2
+
+Cradle Throw Cancel
+     AOP (1+3 _ 2+4), (F _ B _ U _ D)
+
+Crazy Daisy to Phoenix
+     AOP u+4, d+1+2
+
+Crazy Daisy to Rain Dance
+     AOP u+4, U
+
+Crazy Daisy to Rain Dance (ALT)
+     AOP U#+4
+
+Crouching Back Circle Breaker <UPDATE>
+     BT FC D+3
+
+Crouching Back Circle Breaker Forward <UPDATE>
+     BT FC D+3, D
+
+Crouching to Phoenix
+     FC+1+2
+
+Cyanide (Vertical)
+     u+4
+
+Fire Extinguisher
+     FC+3, 2
+
+Firecracker Roll Low Kick
+     AOP 4 ~ 3, (f _ b), 3
+
+Firecracker Roll Mid Kick
+     AOP 4 ~ 3, (f _ b), 4
+
+Flower Garden to Phoenix
+     AOP f+4
+
+Great Wall Left to Rain Dance Cancel
+     B+1 {HIT}
+
+Great Wall Right to Rain Dance Cancel
+     B+2 {HIT}
+
+Left Jump Kick
+     (u/f _ u _ u/b)+3
+
+Lotus Twist Forward
+     FC D/F+2
+
+Phoenix Advance
+     AOP f
+
+Phoenix Cancel
+     AOP u
+
+Phoenix Jump
+     AOP (U/B _ U _ U/F)
+
+Phoenix Quick Advance
+     AOP f, f
+
+Phoenix Quick Retreat
+     AOP b, b
+
+Phoenix Retreat
+     AOP b
+
+Phoenix Twin Kick Forward
+     b+4 ~ B
+
+Quick Shady Lotus (ALT)
+     FC D/F#+2
+
+Phoenix Twin Kick Sidestep
+     SS+4
+
+Rain Dance Cancel
+     RDS b
+
+Rain Dance Crouch Advance <UPDATE>
+     RDS D/F
+
+Rain Dance False Salute
+     RDS 1+3+4
+
+Rain Dance Greetings
+     RDS 2+3+4
+
+Rain Dance Quick Advance
+     RDS f, f
+
+Rain Dance Sidekick
+     RDS 3
+
+Rain Dance Sidestep
+     RDS (u _ d)
+
+Reverse Phoenix Correction
+     AOP BT (f _ b)
+
+Reverse Phoenix Dark & Stormy
+     AOP BT 2, 1, 4
+
+Reverse Phoenix High Kick
+     AOP BT 3
+
+Reverse Phoenix High Punch
+     AOP BT 1
+
+Reverse Phoenix Mistrust
+     AOP BT 4
+
+Reverse Phoenix to Rain Dance
+     BT AOP u
+
+Rising Fire Dancer
+     WS d+3, 2, 1, 4
+
+Single Fan Forward (ALT)
+     u+1, (f _ b _ u _ d)
+
+Single Map Sweep to Phoenix
+     FC D/F+4
+
+Sprinkler
+     RDS 2
+
+Storming Flower to False Salute
+     {CH} d/b+1
+
+Sunset Fan Flapping Wings
+     d+1, D
+
+Thunder Strike Cancel
+     b+1+2, 1+2, b, b
+
+While Rising Phoenix
+     AOP u, WS (Any WS move)
+
+
+-------------------------------------------------------------------
+                          8X. Michelle Chang
+-------------------------------------------------------------------
+
+
+Glorious Cannon
+     d+2, 3, 1
+
+Spin and Triple Spinning Kicks
+     3+4, 4, 4, 4
+
+Spin and Triple Spinning Kicks Slash Uppercut
+     3+4, 4, 4, 1
+
+Spin and Triple Spinning Low Kick
+     3+4, 4, 4, D+4
+
+Sweep Low Kick (ALT)
+     D#+4, 4
+
+
+-------------------------------------------------------------------
+                          8Y. Nina Williams
+-------------------------------------------------------------------
+
+
+Arm Breaker
+     TAC 1+2
+
+Basic Kick Knockdown
+     f+3
+
+Bermuda Shorts
+     d/f+1, 2, 4
+
+Blonde Bombshell
+     2, f+1+2
+
+Blonde to Right High Kick (Extra Damage)
+     f+4, 3, 4
+
+Blonde to Right Low Kick (Extra Damage)
+     f+4, 3, D+4
+
+Blonde to Right Uppercut (Extra Damage)
+     f+4, 3, 2
+
+Creeping Snake to Low Kick Combo
+     d/f+3, 2, D+3, 4
+
+Creeping Snake to Low Kick Uppercut
+     d/f+3, 2, D+3, 2
+
+Crouching L & R Low Kick <UPDATE)
+     FC D+3, 4
+
+Crouching Left Spin Low Kick to Right Upper
+     FC+3, 2
+
+Crouching Right Low Kick to Back Spin Chop
+     FC+4, 1
+
+Crouching Sit Spin to High Right Kick
+     FC+3, N, 4
+
+Crouching Special Mid Kick
+     FC+4
+
+Crouching Toe Kick
+     FC+2, 4
+
+Dark Step Backhand Slap
+     f, N, d, D/F, 1+2
+
+Dark Step Bad Habit
+     f, N, d, D/F, 3
+
+Dark Step Crab Hold
+     f, N, d, D/F, 3+4
+
+Dark Step Kneel Kick
+     f, N, d, D/F, 4
+
+Double Explosion 3
+     d/f+1, 2, F+1+2
+
+Double Explosion 4
+     d/f+1, 2, 1, 2, F+1+2
+
+Geyser Cannon (ALT)
+     d, d/b+3
+
+Leg Cross Hold
+     TAC 3+4
+
+Low Parry (ALT)
+     d+(1+3 _ 2+4)
+
+Mist Step
+     QCF, N
+
+Mist Step 10 Hit Combo 2
+     QCF 1, 2, 1, 2, 3, 3, 2, 1, 2, 4
+
+Mist Step 10 Hit Combo 4
+     QCF 1, 2, 1, 2, 3, 3, 2, 1, 4, 3
+
+Mist Step 10 Hit Combo 6
+     QCF 1, 2, 1, 2, 4, 3, 4, 2, 4, 3
+
+Mist Step Bad Habit
+     QCF 3
+
+Mist Step Kneel Kick
+     QCF 4
+
+Mist Step to Uppercut
+     QCF 2
+
+Mist Step Uppercut Jab
+     QCF 1, 2
+
+Mopping the Floor
+     FC D/F+4
+
+Nibbling Snake
+     2, 1, 4
+
+Poisonous Snake
+     d/f+1, 2, 1, 4
+
+Reverse 10 Hit Combo 1
+     BT (1 _ 2), 2, 1, 2, 3, 3, 2, 1, 2, 4
+
+Reverse 10 Hit Combo 3
+     BT (1 _ 2), 2, 1, 2, 3, 3, 2, 1, 4, 3
+
+Reverse 10 Hit Combo 5
+     BT (1 _ 2), 2, 1, 2, 4, 3, 4, 2, 4, 3
+
+Reverse Bermuda Triangle
+     BT (1 _ 2), 2, 4
+
+Reverse Biting Snake
+     BT (1 _ 2), 2, 1, 4
+
+Reverse Double Explosion 1
+     BT (1 _ 2), 2, f+1+2
+
+Reverse Double Explosion 2
+     BT (1 _ 2), 2, 1, 2, f+1+2
+
+Reverse Mist Step
+     QCB, N
+
+Right Left Combo
+     2, 1
+
+Right Low Kick to Back Spin Chop Side Step
+     d+4, 1, (u _ d)
+
+Right Low Kick to Back Spin Chop Side Step to Lift Shot
+     d+4, 1, (u _ d), 2
+
+Rising 10 Hit Combo 2
+     WS+1, 2, 1, 2, 3, 3, 2, 1, 2, 4
+
+Rising 10 Hit Combo 4
+     WS+1, 2, 1, 2, 3, 3, 2, 1, 4, 3
+
+Rising 10 Hit Combo 6
+     WS+1, 2, 1, 2, 4, 3, 4, 2, 4, 3
+
+Rising Bermuda Shorts
+     WS+1, 2, 4
+
+Rising Blonde Bomb
+     WS+1+2
+
+Rising Double Explosion 3
+     WS+1, 2, F+1+2
+
+Rising Double Explosion 4
+     WS+1, 2, 1, 2, F+1+2
+
+Rising Poisonous Snake
+     WS+1, 2, 1, 4
+
+Rising Uppercut Jab Combo
+     WS+1, 2
+
+Running Blonde Bomb
+     WR* f+1+2
+
+Running Jump Kick Grab
+     WR+3
+
+Sidekick Jab Combo Sidestep
+     d/f+3, 2, (U _ D)
+
+Sidekick Jab Combo Sidestep Lift Shot
+     d/f+3, 2, (U _ D), 2
+
+Snakeshot Reverse Rolling Dash to Attack Reversal
+     SS+1, B, b+2+4
+
+Snakeshot Reverse Rolling Dash to Attack Reversal (ALT)
+     SS+1, B#, 2+4
+
+Snakeshot Reverse Rolling Dash to Betrayer
+     SS+1, B, 1+4
+
+Snakeshot Reverse Rolling Dash to Over the Back Toss
+     SS+1, B, 2+4
+
+Snakeshot Reverse Rolling Dash to Spider Knee
+     SS+1, B ~ 3
+
+Snakeshot Reverse Rolling Dash to Spider Knee Triple Slaps
+     SS+1, B ~ 3 {HIT}, 1+2
+
+Snakeshot Rolling Dash to 10-Hit Combo 2
+     SS+1, F, 1, 2, 1, 2, 3, 3, 2, 1, 2, 4
+
+Snakeshot Rolling Dash to 10-Hit Combo 4
+     SS+1, F, 1, 2, 1, 2, 3, 3, 2, 1, 4, 3
+
+Snakeshot Rolling Dash to 10-Hit Combo 6
+     SS+1, F, 1, 2, 1, 2, 4, 3, 4, 2, 4, 3
+
+Snakeshot Rolling Dash to Backhand Slap
+     SS+1, F, 1+2
+
+Snakeshot Rolling Dash to Bad Habit
+     SS+1, F, 3
+
+Snakeshot Rolling Dash to Crab Hold
+     SS+1, F, 3+4
+
+Snakeshot Rolling Dash to Double Explosion 3
+     SS+1, F, 1, 2, F+1+2
+
+Snakeshot Rolling Dash to Double Explosion 4
+     SS+1, F, 1, 2, 1, 2, F+1+2
+
+Snakeshot Rolling Dash to Kneel Kick
+     SS+1, F, 4
+
+Snakeshot Rolling Dash to Right Uppercut
+     SS+1, F, 2
+
+Snakeshot Rolling Dash to Uppercut Jab
+     SS+1, F, 1, 2
+
+Special Mid Kick
+     d+4
+
+Spider Knee to Triple Slaps
+     WS+3 {HIT}, 1+2
+
+Spike Combo to Right Uppercut Delay
+     3, 3, f+2
+
+Ultimate Punch to Arm Breaker
+     TAC (1,2,1 _ 2,1,2), 1+2
+
+Ultimate Punch to Leg Cross Hold
+     TAC (1,2,1 _ 2,1,2), 3+4
+
+While Rising Reverse Mist Step
+     QCB, WS (Any WS move)
+
+While Rising Snakeshot Reverse Rolling Dash
+     SS+1, B ~ (Any WS move)
+
+
+-------------------------------------------------------------------
+                               8Z. Ogre
+-------------------------------------------------------------------
+
+
+Rising Demon Scissors
+     WS+4 ~ 3
+
+
+-------------------------------------------------------------------
+                           8AA. Paul Phoenix
+-------------------------------------------------------------------
+
+
+Body Blow
+     d/f+1
+
+Crouching Ultimate Tackle
+     FC+1+2
+
+Mist Step
+     QCF, N
+
+Running Double Hop Kick High
+     WR+3, 4, 4
+
+Running Double Hop Kick Low
+     WR+3, 4, d+4
+
+Running Triple Kick Combo
+     WR+3, 4, f+4
+
+Shredder (ALTER)
+     (u _ u/b)+3, 4
+
+Ultimate Punch 2 to Arm Breaker
+     TAC 1, 2, 1, 1+2
+
+While Rising Mist Step
+     QCF, N, WS (Any WS move)
+
+
+-------------------------------------------------------------------
+                     8BB. Prototype Jack (P. Jack)
+-------------------------------------------------------------------
+
+
+Crouching to Sit <UPDATE>
+     FC D+3+4
+
+LA-Z-Boy
+     SIT F
+
+LA-Z-Boy Mid Kick
+     SIT F, 4
+
+LA-Z-Boy Low Kick
+     SIT F, 3
+
+Pancake Press to Sit Punches 1
+     u/f+3+4, SIT 1, 2, 1, 2
+
+Pancake Press to Sit Punches 2
+     u/f+3+4, SIT 2, 1, 2, 1
+
+Recliner
+     SIT B
+
+Recliner Mid Kick
+     SIT B, 4
+
+Recliner Low Kick
+     SIT B, 3
+
+Rushing Uppercut R High
+     D/F#+2, 1, 2, F+1
+
+Rushing Uppercut R Low
+     D/F#+2, 1, 2, D+1
+
+
+-------------------------------------------------------------------
+                          8CC. Roger / Alex
+-------------------------------------------------------------------
+
+
+Animal Dropkick Backflip
+     b+3+4, B
+
+Crouching Stagger Kick
+     FC D/F+4, 4, 4
+
+Crouching Stagger Kicks (During Counter)
+     {CH} FC D/F+4, 4, 4, 4
+
+Elbow Drop (ALTER)
+     (u _ u/b)+2+4
+
+Running Exploder (ALT)
+     WR+3+4
+
+Running Stagger Kick
+     WR* 4, 4, 4
+
+While Rising Dark Step
+     f, N, d, d/f, WS (Any WS move)
+
+
+-------------------------------------------------------------------
+                       8DD. Tetsujin / Mokujin
+-------------------------------------------------------------------
+
+
+Tetsujin and Mokujin have the ability to mimic the move list of any
+fighter except the following:
+
+Devil / Angel, Ogre, Roger / Alex, True Ogre
+
+
+-------------------------------------------------------------------
+                          8EE.  True Ogre
+-------------------------------------------------------------------
+
+
+Owl's Hunt Teleport Behind
+     (FUFT _ FUFA) 3+4 ~ f
+
+Owl's Hunt Teleport Left
+     (FUFT _ FUFA) 3+4 ~ u
+
+Owl's Hunt Teleport Right
+     (FUFT _ FUFA) 3+4 ~ d
+
+Rising Demon Scissors
+     WS+4 ~ 3
+
+Single Tail Spinner to Back Turn
+     d/f+3+4, D/F
+
+Sunset Kick
+     u/f, N+4
+
+
+-------------------------------------------------------------------
+                           8FF.  Unknown
+-------------------------------------------------------------------
+
+
+Unknown has ability to mimic the move list of any fighter except
+the following:
+
+Devil / Angel, Ganryu, Gun Jack, Jack-2, Kuma / Panda, Ogre,
+Prototype Jack, Roger / Alex, True Ogre
+
+
+-------------------------------------------------------------------
+                         8GG.  Wang Jinrei
+-------------------------------------------------------------------
+
+
+Heavy Uppercut Cancel
+     b, B+1, (b, b _ B#)
+
+Spin Behind to Back Suplex
+     (2~b _ b+2) {HIT} 1+2
+
+Spin Behind (ALT)
+     b+2
+
+Sweep Low Kick (ALT)
+     D#+4, 4
+
+
+-------------------------------------------------------------------
+                           8HH. Yoshimitsu
+-------------------------------------------------------------------
+
+
+Avoiding the Puddle (ALTER)
+     (u _ u/b)+4
+
+Bad Stomach Cancel
+     B+1+2, (u _ d _ f)
+
+Confused Suicide
+     f, f+1+4, (u _ d _ f _ b)
+
+Crouching to Indian Stance <UPDATE>
+     FC D+3+4
+
+Flea to Yoga Stillness
+     FLE d+3+4 ~ D
+
+Indian Stance Cancel
+     d+3+4, (u _ d _ f _ b)
+
+Indian Stance Healing Cancel
+     INS (u _ d)
+
+Indian Stance Multiple Stone Fists
+     INS 2, D/B#+2, 2, 2, 2
+
+Jumping Flea (ALTER)
+     FLE (u/f _ u/b)
+
+Jumping Oni Kick
+     (u/f _ u _ u/b)+3
+
+Manji Spin Low Kicks Front Kick (ALT)
+     D/B#+3, 3, [3], [3], [3], N, 4
+
+Meditation Cancel
+     MED b
+
+Meditation Healing (ALT)
+     MED (d _ u)
+
+Meditation High Punch
+     MED b+1
+
+Meditation Low Kick
+     MED d/b+(3 _ 4)
+
+Meditation Manji Backfist 2
+     MED (f _ b)+2
+
+Meditation Sidekick
+     MED b+(3 _ 4)
+
+Meditation Soul Possession
+     MED 2+3 ~ F
+
+Meditation Soul Siphon
+     MED 2+3
+
+Reverse Harakiri
+     BT d+1+4
+
+Reverse Harakiri to Manji Blood Dance
+     BT d+1+4, B#+1, 1, 1, 1, 1
+
+Reverse Indian Stance Vacuum Dance
+     BT INS (f _ b)
+
+Reverse Stone Fists
+     BT D/B#+2, 2, 2, 2, 2
+
+Running Fubuki
+     WR+4
+
+Samurai Cutter (ALT)
+     FC B+1
+
+Slap U Silly to Manji Spin Kicks
+     b+1, [1], [1], D/B#+3, 3, 3
+
+Slap U Silly to Manji Spin Kicks Front Kick
+     b+1, [1], [1], D/B#+3, 3, (f+4 _ N, 4)
+
+Solar Kick Harakiri
+     f, F+1+2 * d+1+4
+
+Solar Kick Harakiri Manji Blood Dance
+     f, F+1+2 * d+1+4, B#+1, 1, 1, 1, 1
+
+Solar Kick Reverse Indian Stance
+     f, F+1+2, d+3+4
+
+Solar Kick Stone Fists
+     f, F+1+2, d/b+2, 2, 2, 2, 2
+
+Solar Kick Soul Possession
+     f, F+1+2 * 2+3 ~ F
+
+Solar Kick Soul Siphon
+     f, F+1+2 * 2+3
+
+Solar Kick Sword Poke Windmill
+     f, F+1+2, u+2+3, 1
+
+Solar Kick Sword Stab
+     f, F+1+2, u+2+3
+
+Sword Smash to Yoga Meditation
+     {CH} f, F+2 * d+3+4
+
+Sword Smash to Yoga Meditation Cancel
+     {CH} f, F+2 * d+3+4, (Press Any Button)
+
+Sword Stab Combo
+     4, 4, 2, 2, 1
+
+Tackle Sword Stab
+     TAC (1 _ 2)
+
+Yoga Stillness
+     d+3+4 ~ D
+
+Yoga Stillness (ALT)
+     D#+3+4
+
+Zig Zag (Extra Damage)
+     f+3, 4
+
+
+-------------------------------------------------------------------
+                        8II. Fighter Specific
+-------------------------------------------------------------------
+
+
+In this section, you will find the names of the only fighters that
+can perform the indicated move, or the move.
+
+
+Backflip
+Eddy, Jun, Kunimitsu, Ling, Michelle, Nina, Yoshimitsu
+     u/b ~ b
+
+Dark Step Rising Uppercut
+Devil, Heihachi, Jin, Kazuya
+     f, N, d, d/f, 2
+
+Pancake Press to High Kick
+Ganryu, Gun Jack, Jack-2, Kuma, P. Jack
+     u/f+3+4 {HIT} ** 4
+
+Pancake Press to Low Kick
+Ganryu, Gun Jack, Jack-2, Kuma, P. Jack
+     u/f+3+4 {HIT} ** 3
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                 9. Special Hidden Moves (SHM)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+These are special moves for a fighter that can only be performed
+with a specific partner.
+
+
+Jin Kazama
+Lightning Force Cancel - Possession
+     {Partnered with Heihachi} b+1+2 ~ 2 ~ 2 ~ 3
+
+Kuma / Panda
+Demon's Boar
+     {Partnered with Heihachi} b+2
+
+
+Lee Chaolan
+Silver Tail of Death
+     {Partnered with Kazuya} FC d/f+4, 2 ~ 2 ~ 1
+
+
+Paul Phoenix
+Rainbow Kick <UPDATE>
+     {Partnered with Law} FC D {1 SEC}, U/F+3+4
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                   10. Special Tag Moves (STM)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+These are special tag moves that can be performed with only using
+a specific tag team.  To perform the moves in this list, begin with
+the first listed fighter and then go on to the second fighter.
+
+
+Anna - Nina
+Chin Bash to Reverse Arm Lock
+     QCF+1+2, 5
+
+Armor King - King
+Doomsday Device
+     D,d/b+2+4, 5
+
+Baek - Hwoarang
+Human Cannonball to Dead End
+     f+2+3, 5
+
+Bryan - Alex / Roger
+Left Upper to Strongman Taunt
+     WS+1~5, N
+
+Gun Jack - Jack-2
+Body Slam Toss to Backbreaker
+     2+4,5
+
+Gun Jack / Jack-2 - Bryan
+Double Axe to Fisherman's Slam
+     d+1+2~5 * 2
+
+Heihachi / Jin / Kazuya  - Jun
+Stonehead to Concussion
+     f,f+1+2, 5
+
+Hwoarang - Baek
+Human Cannonball to Bring it On
+     f+2+3, 5
+
+Julia - Michelle
+Spin Behind Push to Flying Lariat
+     2 {HIT}, b, 5
+
+Jun - Jin / Kazuya / Heihachi
+Cherry Blossom to Stonehead
+     b+1+2, 5
+
+Jack-2 - Gun Jack
+Body Slam Toss to Backbreaker
+     2+4, 5
+
+King - Armor King
+Throw Away to Body Slam
+     b+1+2, 5
+
+Law - Paul
+Poison Arrow to Thruster
+     f+2~1~5, 1
+
+Law - Paul
+Poison Arrow to Gut Buster
+     f+2~1~5, 2,1
+
+Law - Paul
+Great! (Poison Arrow to Stone Breaker to Fake Step Blow)
+     f+2~1~5, 2,2, * 1
+
+Law - Armor King / King / Alex / Roger
+Poison Arrow to Capital Punishment
+     f+2~1~5
+
+Law - Bryan / Heihachi / Hwoarang / Jin / Lee / Lei / Kuma / Panda
+Poison Arrow to Jumping Side Kick
+     f+2~1 ~ 5
+
+Law - Gun Jack / Prototype Jack
+Poison Arrow to Sliding Attack
+     f+2~1~5
+
+Law - Armor King
+Poison Arrow to Burning Knuckle
+     f+2~1~5, D
+
+Law - Bryan / Gun Jack / Heihachi / Hwoarang / Jin / Kuma / Panda /
+      Lee / Lei / Prototype Jack
+Poison Arrow to Sliding Kick
+     f+2~1~5, D
+
+Ling - Jin / Heihachi
+So Shoe Me to Stonehead
+     f+2~1, 5
+
+Ling - Panda
+So Shoe Me to Bear Hug
+     f+2~1, 5
+
+Michelle - Julia
+Spin Behind Push to Running Bulldog
+     2 {HIT}, b, 5
+
+Nina - Anna
+Chin Bash to Reverse Arm Lock
+     QCF+1+2, 5
+
+Any fighter - Prototype Jack
+Tag-Out to Mini Bomber
+     5 ~ U
+
+Any fighter - Any fighter
+Throw Tag-Out Combo
+     2+5
+
+Any Fighter - Any Fighter
+Tag-Out to Running Combo
+     5, f,f,N,(3 _ 4 _ 1+2)
+
+
+NOTE: "Any Fighter - Any Fighter" tag-outs won't work when Kazuya is
+      partnered with Devil.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  11. Universal Tag Moves (UTM)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+These are universal tag moves that can be performed with using the
+listed player along with any other fighter.  To perform the moves
+in this list, execute the move with the listed fighter and then tag
+out to the other selected fighter.  Use these moves to possibly
+create your own tag combos.
+
+
+--------------------------
+Anna Williams
+--------------------------
+
+
+Bloody Chaos
+     SS+1+2, 5
+
+Left Spin Low Kick to Right Uppercut
+     d+3, 2, 5
+
+Overhead Toss
+     U/F+1+2, 5
+
+Quick Somersault Kick
+     (U/F _ U _ U/B)+4, 5
+
+Spike Combo to Right Uppercut
+     3, 3, 2, 5
+
+
+--------------------------
+Armor King
+--------------------------
+
+
+Dynamite Uppercut
+     FC D/F+2, 5
+
+Frankensteiner
+     d/f+3+4 * 5
+
+K's Flicker
+     f, F+2, 5
+
+Palm Upper
+     f, N, d, D/F+2, 5
+
+
+--------------------------
+Baek Doo San
+--------------------------
+
+
+Launcing Rocket
+     3, 4, 3, 5
+
+One Two Butter Fly Blade
+     1, 2, 3, 4, 3, 5
+
+Rocket Lifter
+     u/f, N, 3, d+4, 3, 5
+
+Rocket Shooter
+     f, N, d, d/f+3, 5
+
+Snake Revenge
+     {Approach from Left Side}  (1+3 _ 2+4)
+
+Snake Rocket
+     d+3, 3, 3, 5
+
+
+--------------------------
+Bruce Irving
+--------------------------
+
+
+Bruce Special
+     3, 2, 1, 5
+
+Double Elbow
+     d/f+1, 2, 5
+
+Face Crushing Knee
+     1+3, 5
+
+Knee Launcher
+     b ~ F+4, 5
+
+Right Uppercut Juggler
+     d/f+2, 5
+
+
+--------------------------
+Bryan Fury
+--------------------------
+
+
+Chopping Elbow
+     b+1, 5
+
+Left Uppercut
+     WS+1, 5
+
+Neck Throw
+     {Approach enemy from Behind} (1+3 _ 2+4), 5
+
+
+--------------------------
+Devil / Angel
+--------------------------
+
+
+Devil Twister
+     SS+2, 5
+
+Rising Uppercut
+     f, N, d, D/F+2, 5
+
+Twin Pistons
+     d/f+1, 2, 5
+
+
+--------------------------
+Eddy Gordo / Tiger Jackson
+--------------------------
+
+
+Handslaps Mirage
+     REW 1+2, 3, 5
+
+Mirage
+     d/f+3+4, 5
+
+Missle Launcher
+     {Approach enemy from Left} (1+3 _ 2+4), 5
+
+Perch Flop Kick
+     HSP D+3+4, 5
+
+
+--------------------------
+Forrest Law
+--------------------------
+
+
+Backflip
+     [b _ f _ N]+3+4, 5
+
+Crouching Dragon Somersault Kick
+     FC (u/f _ u _ u/b)+4, 5
+
+Double Impact
+     FC+3, 4, 5
+
+Dragon Head Kick Somersault
+     3, 3, [3], 4, 5
+
+Dragon Low High Combo Somersault
+     d+3, 3, [3], [3], 4, 5
+
+Dragon Storm
+     b+1, 2, 1, 5
+
+Dragon Uppercut
+     WS+2, 5
+
+Fake Step Uppercut
+     FKS 2
+
+High Kick to Backflip
+     3, 4, 5
+
+Jumping Kick to Somersault
+     (u/f _ u _ u/b)+3, 4, 5
+
+Junkyard Kick
+     b+2, 3, 4, 5
+
+Knee Lift
+     f, F+3+4, 5
+
+Side Kick to Somersault
+     WS+3, 4, 5
+
+Somersault Fake
+     FC u, N, 4, 5
+
+Somersault Kick
+     (U/F _ U)+4 ~ 5
+
+
+--------------------------
+Ganryu
+--------------------------
+
+
+Crotch Slam
+     {Approach enemy from Right} (1+3 _ 2+4), 5
+
+Salt Upper
+     b+2, 5
+
+Sumo Pop
+     b, d/b, d, D/F+1, 5
+
+Upper Stream Throw
+     {Approach enemy from Left} (1+3 _ 2+4), 5
+
+
+--------------------------
+Gun Jack
+--------------------------
+
+
+Double Axe
+     d+1+2, 5
+
+Jab Elbow Smash
+     2, 1, 2, 5
+
+Killing Uppercut
+     WS+1, 5
+
+Side Left Bomb
+     {Approach enemy from Left} (1+3 _ 2+4), 5
+
+Windup Uppercut
+     HCF, D/F+1, 5
+
+
+--------------------------
+Heihachi Mishima
+--------------------------
+
+
+Demon Uppercut
+     f, F+2, 5
+
+Rising Uppercut
+     f, N, d, D/F+2, 5
+
+Twin Pistons
+     d/f+1, 2, 5
+
+
+--------------------------
+Hwoarang
+--------------------------
+
+
+Fire Cracker
+     d+4, 4, 5
+
+Left Heel Lance
+     RFS b+3, 5
+
+Machinegun Kicks
+     3, 3, 3, 3, 5
+
+Plasma Blade 1
+     LFF BT 4, 5
+
+Plasma Blade 2
+     RFF BT 3, 5
+
+Right Heel Lance
+     LFS b+4, 5
+
+Rocket Launcher
+     LFS 3, 3, 3, 5
+
+Sky Rocket
+     f, N, d, D/F+4, 5
+
+
+--------------------------
+Jack-2
+--------------------------
+
+
+Death Shot
+     {Approach enemy from Behind} 2+4, 5
+
+Discharger
+     SS+1, 5
+
+Double Ax
+     d+1+2, 5
+
+Jab Elbow Smash
+     2, 1, 2, 5
+
+Killing Uppercut
+     WS+1, 5
+
+
+--------------------------
+Jin Kazama
+--------------------------
+
+
+Laser Scraper
+     b, F+2, 1, D/F+2, 5
+
+Parting Wave Rising Uppercut
+     b+1, D/F * 2, 5
+
+Rising Uppercut
+     f, N, d, D/F+2, 5
+
+Tooth Fairy
+     SS+2, 5
+
+Twin Pistons
+     WS+1, 2, 5
+
+Uppercut
+     WS+2, 5
+
+
+--------------------------
+Julia Chang
+--------------------------
+
+
+Flash Uppercut
+     f+1, 5
+
+G-Clef Cannon
+     1 ~ 1, 1, 5
+
+Machine Gun Cannon
+     {CH} 1, 2, 1, 5
+
+Mini G-Clef Cannon
+     d/f+1, 1, 5
+
+Shove it Up
+     f+1+2, 5
+
+Slow Power Punch Combo
+     d/f+2, 1, 5
+
+Tequilla Sunrise Combo 1
+     3 ~ 2, 1, 1, 5
+
+Tequilla Sunrise Combo 2
+     WS+2, 1, 1, 5
+
+Ultimate Cannon
+     2+3, 1, 5
+
+
+--------------------------
+Jun Kazama
+--------------------------
+
+
+Demon Slayer
+     F+2, 5
+
+Dragon Wheel Kick
+     b+3, 5
+
+Dragon Wheel Kick Demon Slayer
+     b+3, 2, 5
+
+Funeral Palm
+     d/b+2, 5
+
+Moon Scent
+     WS+3
+
+
+--------------------------
+Kazuya Mishima
+--------------------------
+
+
+NOTE: These tag-outs won't work when Kazuya is partnered with Devil.
+
+
+Rising Uppercut 1
+     f, N, D/F+2, 5
+
+Rising Uppercut 2
+     f, N, d, D/F+2, 5
+
+Twin Pistons
+     WS+1, 2, 5
+
+
+--------------------------
+King
+--------------------------
+
+
+Crouching Uppercut
+     FC D/F+2, 5
+
+Frankensteiner
+     d/f+3+4 * 5
+
+K's Flicker
+     f, F+2, 5
+
+
+--------------------------
+Kuma / Panda
+--------------------------
+
+
+Bear Fling
+     HBS 1+2, 5
+
+Demon Uppercut
+     f, F+2, 5
+
+G-Clef Cannon
+     f+4 ~ 4 ~ 4, 5
+
+Jab Elbow Smash
+     2, 1, 2, 5
+
+Rock 'n' Roll Circus
+     HCB ~ F+1+2
+
+
+--------------------------
+Kunimitsu
+--------------------------
+
+
+Rising Kazura
+     f, F+2, 5
+
+Step in Upper
+     d/f+2, 5
+
+Tornado
+     {Approach enemy from Right}  (1+3 _ 2+4)
+
+
+--------------------------
+Lee Chaolan
+--------------------------
+
+
+Blazing Kick
+     d, D/B+4, 5
+
+Catapult Kick Low
+     FC (u/f _ u _ u/b)+4, 5
+
+Knee Drive
+     f, F+3+4, 5
+
+Scatter Blow
+     HMS 2, 5
+
+Silver Heel
+     b+4, 5
+
+
+--------------------------
+Lei Wulong
+--------------------------
+
+
+Double Foot Stomp
+     1+3, 5
+
+Hook Punch to Spiral Upper
+     1+2 ~ 2, 5
+
+Lift Up Cannon
+     4 ~ 4, 3, 3, 5
+
+Panther's Paw
+     PAN 2, 5
+
+Reverse Uppercut
+     BT 2, 5
+
+Snake Bites Lift Cannon
+     SNA 2, 2, 4, 3, 3, 5
+
+Spring Kick
+     FUFA 3+4, 5
+
+Tiger's Strike
+     TGR 1, 5
+
+
+--------------------------
+Ling Xiaoyu
+--------------------------
+
+
+Cross Lifting Palms
+     d/f+2 ~ 1, 5
+
+Dark & Stormy
+     RDS 2, 1, 4, 5
+
+Fire Dancer
+     FC+3, 2, 1, 4, 5
+
+Mistrust
+     RDS 4, 5
+
+Sunflower
+     WS+2, 5
+
+Wave Crest Heavy
+     AOP d+1+2, 5
+
+Wave Crest Power
+     AOP 1+2, 5
+
+Wave Crest Quick
+     d+1+2, 1+2, 5
+
+
+--------------------------
+Michelle Chang
+--------------------------
+
+
+Flash Uppercut
+     f+1, 5
+
+G-Clef Cannon
+     1 ~ 1, 1, 5
+
+Machine Gun Cannon
+     {CH} 1, 2, 1, 5
+
+Mini G-Clef Cannon
+     d/f+1, 1, 5
+
+Slow Power Punch Combo
+     d/f+2, 1, 5
+
+Tequilla Sunrise Combo 1
+     3 ~ 2, 1, 1, 5
+
+Tequilla Sunrise Combo 2
+     WS+2, 1, 1, 5
+
+Tiger's Claw
+     d/f+3+4, 5
+
+Ultimate Cannon
+     2+3, 1, 5
+
+
+--------------------------
+Nina Williams
+--------------------------
+
+
+Blonde to Right Uppecut
+     4, 3, 2, 5
+
+Creep Rush 1
+     d/f+3, 2, 3, 3, 2, 5
+
+Creeping Snake to Low Kick Uppercut
+     d/f+3, 2, D+3, 2
+
+Geyser Cannon
+     d/b+3+4, 5
+
+Geyser Cannon (ALT)
+     d, d/b+3
+
+Geyser Cannon Combo
+     d/b+4, 3, 5
+
+Hammer Throw
+     {Approach enemy from Right} (1+3 _ 2+4), 5
+
+Hopping Low Kick to Right Upper
+     u/f, N, D+3, 2, 5
+
+Jail Crusher to Uppercut
+     [1 _ d/f+1], 2, D+3, 2, 5
+
+Jumping Flip
+     U/F+1+2, 5
+
+Left Spin Low Kick to Right Uppercut
+     d+3, 2, 5
+
+One Two Spike Combo 1
+     [1 _ d/f+1], 2, 3, 3, 2, 5
+
+Shut Up
+     d, D/F+2, 5
+
+Spike Combo to Right Uppercut
+     3, 3, 2, 5
+
+
+--------------------------
+Ogre
+--------------------------
+
+
+Blazing Kick
+     d, d/b+4, 5
+
+Demented Snake
+     FC+3, 3, 3, 5
+
+Windmill Kick to Tooth Fairy
+     u/b+3, 2, 5
+
+
+--------------------------
+Paul Phoenix
+--------------------------
+
+
+God Hammer Punch
+     QCB, N, 1, 5
+
+Push Away
+     f, F+1+2, 5
+
+Rapid Fire to Stone Breaker
+     QCB, N, 3, 2, 2, 5
+
+Stone Breaker
+     FC D/F+2, 2, 5
+
+Sway
+     QCB, N, 5
+
+Thruster
+     QCF+1, 5
+
+
+--------------------------
+Prototype Jack (P. Jack)
+--------------------------
+
+
+Drill Punch
+     SS+1, 5
+
+Jab Elbow Smash
+     2, 1, 2, 5
+
+Laundry Throw
+     {Approach enemy from Left} 2+4
+
+Megaton Uppercut
+     b, d/b, d, D/F+2, 5
+
+
+--------------------------
+Roger / Alex
+--------------------------
+
+
+Crouching Uppercut
+     FC D/F+2, 5
+
+Frankensteiner
+     d/f+3+4 * 5
+
+K's Flicker
+     f, F+2, 5
+
+
+--------------------------
+True Ogre
+--------------------------
+
+
+Blazing Kick
+     d, d/b+4, 5
+
+Demented Snake
+     FC+3, 3, 3, 5
+
+Windmill Kick to Tooth Fairy
+     u/b+3, 2, 5
+
+
+--------------------------
+Wang Jinrei
+--------------------------
+
+
+False Lift
+     d/b+2, 5
+
+G-Clef Cannon 1
+     1 ~ 1, 1, 5
+
+G-Clef Cannon 2
+     d/f+1, 1, 5
+
+Hammer Throw
+     {Approach enemy from Right} (1+3 _ 2+4), 5
+
+Rising Heaven Kick
+     f+4, 5
+
+Slow Power Punch Combo
+     d/f+2 {HIT}, 1, 5
+
+Tequilla Sunrise Combo
+     WS+2, 1, 1, 5
+
+Tiger Mountain
+     d/b+4, 2, 5
+
+Waning Moon
+     d/f, D/F+2+4, 5
+
+
+--------------------------
+Yoshimitsu
+--------------------------
+
+
+Ballerina Kick to Kangaroo Kick
+     3, d+3+4, 5
+
+Basic Uppercut
+     d/f+2, 5
+
+Flea to Kangaroo Kick
+     FLE 3+4, 5
+
+Indian Stance Kangaroo Kick
+     INS 4, 5
+
+Kangaroo Kick
+     4 ~ 3, 5
+
+Poison Wind to Kangaroo Kick
+     u/f+3+4, 3+4, 5
+
+Shrine
+     SS+2, 5
+
+Solar Kick Shark Attack
+     f, F+3+4, 1+2, 3+4, 5
+
+
+--------------------------
+Any fighter
+--------------------------
+
+
+Supercharger
+     1+2+3+4 * 5
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                  12. Special Tag Taunts (STT)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Below is a list of special poses within the game that occur when
+picking a certain tag team.  Special poses can occur at the before
+a match, after winning a match, or after losing a match.
+
+NOT ALWAYS: Depicts that the pose only occurs when certain outfits
+            are chosen.
+
+
+----------------------
+Special Starting Poses
+----------------------
+
+Anna - Nina (NOT ALWAYS)
+Armor King - King (NOT ALWAYS)
+Baek - Hwoarang (NOT ALWAYS)
+Bruce - Bryan
+Bruce - Hwoarang
+Bruce - Lei
+Bryan - Hwoarang
+Bryan - Lei
+Bryan - Roger / Alex
+Bryan - Yoshimitsu
+Devil - Kazuya
+Eddy / Tiger - Hwoarang
+Eddy / Tiger - Kazuya
+Ganryu - Michelle
+Heihachi - Jin (NOT ALWAYS)
+Heihachi - Kazuya
+Heihachi - Kuma
+Heihachi - Lee (NOT ALWAYS)
+Heihachi - Ling
+Heihachi - Yoshimitsu
+Hwoarang - Jin (NOT ALWAYS)
+Hwoarang - Kazuya
+Hwoarang - Lee
+Hwoarang - Lei
+Hwoarang - Paul
+Jin - Kazuya
+Julia - Michelle (NOT ALWAYS)
+Kuma - Paul
+Kuma / Panda - Roger
+Law - Paul (NOT ALWAYS)
+Lei - Paul
+Ling - Panda
+Ling - Wang
+
+
+----------------------
+Special Winning Poses
+----------------------
+
+Baek - Hwoarang
+Bryan - Lei
+Bryan - Yoshimitsu
+Devil - Kazuya
+Ganryu - Michelle
+Heihachi - Kuma
+Kuma - Paul
+Ling - Panda
+Ling - Yoshimitsu
+
+
+----------------------
+Special Losing Poses
+----------------------
+
+Anna - Bryan
+Anna - Nina
+Armor King - King
+Baek - Hwoarang
+Bruce - Lei
+Bryan - Lei
+Bryan - Nina
+Bryan - Yoshimitsu
+Devil - Kazuya
+Eddy/Tiger - Hwoarang
+Ganryu - Julia
+Ganryu - Michelle
+Heihachi - Kuma
+Heihachi - Lee
+Heihachi - Yoshimitsu
+Hwoarang - Lei
+Kuma - Paul
+Law - Lei
+Law - Paul
+Lee - Kazuya
+Lei - Paul
+Ling - Jin
+Ling - Panda
+Ling - Wang
+Nina - Paul
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                         13. Buffered Moves
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+This section is a list of moves that can be buffered.  This may
+help you to pull of some moves, or maybe even some of the
+multi-throws.  Listed will be the the way to perform the move
+using buffered input.
+
+
+-------------
+Every Fighter
+-------------
+
+Ultimate Punch
+     TAC 1+2, 1+2, 1+2, 1+2, 1+2
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                 14. Sample Tag Combos / Juggles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Listed by the fighter's name will be the name of the partner used
+to perform the particular combo, and the amount of damage.
+Underneath the names will be the "Universal Tag Move" that is
+being used in the combo.
+
+NOTE: Damage begins from the attack that launches the opponent.
+
+
+Anna - Nina (50)
+Quick Somersault Kick
+     U/F+4,5, d/f+1,2,1,2,f+1+2
+
+
+Baek - Hwoarang (75)
+Launcing Rocket
+     3,4,3,5 * 1,2,4
+
+
+Bryan - Bruce (49)
+Chopping Elbow
+     b+1~5, d/f+3,1
+
+
+Bryan - Bruce (57)
+Chopping Elbow
+     b+1~5, b+4,3,4
+
+
+Forrest - Paul (51)
+Somersault Kick
+     U/F+4~5, qcf+2
+
+
+Heihachi - Lee (47)
+Demon Uppercut
+     f,F+2,5, f+1,1,1,2,2
+
+
+Lei - Bryan (59)
+Lift Up Cannon
+     4~4,3,3,5, f,F+2
+
+
+Wang - Julia (47)
+G-Clef Cannon 2
+     d/f+1,1,5, d+4,1
+
+
+Wang - Michelle (46)
+G-Clef Cannon 2
+     d/f+1,1,5, d+1, FC d/f+4,3
+
+
+Wang - Julia (36)
+False Lift
+     d/b+2,5, f,F+1,4
+
+
+Wang - Michelle (41)
+False Lift
+     d/b+2,5, f,F+2
+
+
+Yoshimitsu - Kunimitsu (53)
+Indian Stance Kangaroo Kick
+     INS 4,5, b+1,1,1,1,1,1
+
+
+Yoshimitsu - Kunimitsu (63)
+Kangaroo Kick
+     4~3,5, b+1,1, b+1,1,1,1,1,1
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                              15. Secrets
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+This section is for secrets within Tekken Tag that you can't find
+in the instruction manual.
+
+
+
+=============================
+         Characters
+=============================
+
+
+Time Release Characters
+-----------------------
+Characters are unlocked only by completing "Arcade" mode. The order
+in which the fighters are unlocked:
+
+ 1) Kunimitsu
+ 2) Bruce Irvin
+ 3) Jack-2
+ 4) Lee Chaolan
+ 5) Wang Jinrey
+ 6) Roger / Alex
+ 7) Kazuya Mishima
+ 8) Kuma / Panda
+ 9) Ogre
+10) True Ogre
+11) Prototype Jack
+12) Tetsujin / Mokujin
+13) Devil / Angel
+14) Unknown
+
+
+Play as Panda
+-------------
+Highlight Kuma and then press the "X" or "Circle" button.
+
+
+Play as Tiger
+-------------
+Highlight Eddy and then press the "Start" or "Tag" button.
+
+
+Play as Alex
+-------------
+Highlight Roger and then press the "X" or "Circle" button.
+
+
+Play as Angel
+-------------
+Highlight Devil and then press the "Start" button.
+
+
+Play as Mokujin
+---------------
+Highlight Tetsujin and then press the "X" or "Circle" button for a
+female Mokujin and "Triangle" for a male Mokujin.
+
+
+Select Tetsujin and Unknown
+---------------------------
+After unlocking Tetsujin and Unknown, they cannot be viewed in most
+modes as selectable fighters.  Tetsujin is in an empty space to the
+left of Wang, and Unknown is in the empty space to the right of Roger.
+
+
+
+=============================
+       Special Outfits
+=============================
+
+
+Play as Schoolgirl Ling
+-----------------------
+Highlight Ling and then press the "Start" or "Tag" button.
+
+
+Play as Schoolboy Jin
+---------------------
+Highlight Jin and then press the "Start" or "Tag" button.
+
+
+Fight in Law's Orange Outfit
+----------------------------
+Highlight Law and then press the "Start" or "Tag" button.
+
+
+Fight in Lee's Black Tuxedo
+---------------------------
+Highlight Lee and then press the "Start" or "Tag" button.
+
+
+Unlock Armor King's 3rd Outfit
+------------------------------
+Beat "Arcade" mode with Armor King.  Highlight him and then press
+the Start" or "Tag" button.
+
+
+Play as Gold Tetsujin
+---------------------
+Win 10 consecutive matches in "Versus battle" or "1 on 1 Versus"
+mode, then select Tetsujin.  Tetsujin will remain gold until the
+win streak is broken, or Versus mode is exited.
+
+Another way is to win 10 consecutive matches in "Survival Mode" with
+Tetsujin as one of the members of the tag team.  Then for the rest
+of Survival mode, Tetsujin will be gold until you are defeated.
+
+
+
+=============================
+      Other Unlockables
+=============================
+
+
+Unlock Theater Mode
+-------------------
+Beat story mode with any fighter.
+
+
+Unlock Ling's 2nd Movie
+-----------------------
+Beat "Arcade" mode when selecting Ling as the first fighter in her
+schoolgirl outfit.
+
+
+Unlock Tekken Bowl
+------------------
+When you unlock True Ogre, this mode is unlocked as well.
+
+
+Unlock Embu #2
+--------------
+Unlock Unknown and you will be able to see an embu starring the animals
+of Tekken Tag.
+
+
+Unlock Gallery Mode
+-------------------
+Unlock Unknown and you will be able to get screen captures from a
+match by pausing the game and selecting "Screen Capture".
+
+
+
+=============================
+        Cool Secrets
+=============================
+
+
+Begin Match with Second Fighter
+-------------------------------
+To start off the match with the second selected fighter, hold down
+the tag button until the player intros begin.
+
+
+Devil Kazuya
+------------
+Picking Kazuya and Devil as partners will give you a special tag
+team where Kazuya can transform into Devil and vise-versa.  The
+down side of this tag team is that they can only transform while
+they are standing up.
+
+
+Unknown’s Hidden Power
+----------------------
+If you have an Analog controller, then you have access to Unknown’s
+Hidden Power.  Unlike any other fighter, Unknown has the ability to
+change her fighting style at her own free will.  If you decide that
+you want to take on a different fighter’s fighting style, then press
+the R3 button while in a match.  Unknown will randomly choose a
+fighting style to imitate.
+
+
+Play as an Unlocked Fighter
+------------------------------
+In "Arcade", "Practice", "Versus", or "Tekken Bowl" mode, choose the
+"Random" icon until you get a fighter that is not unlocked yet.  If
+you don't get a new fighter, just press the "Select" button and try
+again. This fighter will be the next fighter that you can unlock
+during "Arcade" mode.  You can use them before you unlock them, but
+the fighter won't be listed until they are actually unlocked.
+
+
+Scrambled Circuits
+------------------
+These are fighters that will go "berserk" after being hit by one of
+Devil's laser beams:
+Gun Jack, Jack-2, P. Jack
+
+
+Fire Retardant
+--------------
+These are fighters that will barely be fazed when hit by True Ogre's
+fire blast (i.e. they still stand after being hit):
+Bryan Fury, Gun Jack, Jack-2, P. Jack
+
+
+Noise Pollution
+---------------
+If you hold the down button the on the controller before the match begins,
+then you will be able to hear Tetsujin making clanking noises whenever he
+is hit or when he blocks.  Mokujin will make claning and wood chop sounds.
+NOTE: The sound effect ends as soon as the match is over.
+
+
+
+=============================
+        Glitch / Error
+=============================
+
+
+Practice Mode Glitch
+--------------------
+In practice mode, if you select Eddy Gordo as your opponent, the
+damage meter will continue to increase until Eddy gets knocked to the
+ground.
+
+
+Error in Movelist Demo
+----------------------
+In the practice mode command list demo, you will see that Ling performs
+the "Sunflower Wake Up Call" instead of the "Sunflower".
+
+
+
+=============================
+            Other
+=============================
+
+
+In-Game Reset
+-------------
+Press "start" and "select" simultaneously to return to the Menu
+screen at any time, except while in the Options menu and at the
+load screens.
+
+
+Command Continuous Playback
+---------------------------
+In practice mode, you can have a move repeated continuously by first
+recording it with the command capture, then by playing it with
+"SELECT + SQUARE" buttons.
+
+
+Repeat Team Battle Results
+--------------------------
+The results of Team Battle can be repeated by pressing the select
+button.
+
+
+Practice Mode Stage Select
+--------------------------
+Highlight "Practice mode" while in the main menu. Hold "L2" and then
+press "R2" the indicated number of times to select the corresponding
+stage:
+
+       Number     Stage
+       ------     -----
+          1       Law (New)
+          2       Yoshimitsu (Light snow)
+          3       Ling
+          4       Hwoarang
+          5       Lei
+          6       Ogre
+          7       School stage (Evening)
+          8       Jin (Evening)
+          9       Nina (Daytime)
+         10       Eddy (Sunset)
+         11       King
+         12       Heihachi
+         13       Eddy (Daytime)
+         14       Unknown
+         15       Law (Old)
+         16       School Stage (Daytime)
+         17       Jin (Daytime)
+         18       Nina (Night time)
+         19       Yoshimitsu (Heavy snow)
+         20       Paul
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                          16. Tekken Bowl
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+The Tekken Bowl FAQ was my 3rd FAQ of the Tekken series, however it was
+never released outside of the Tekkenomics website.  My first two FAQs were
+both Hidden Moves FAQs for Tekken 4 and Tekken Tag Tournament.
+
+Since Tekken Bowl is one of the best mini-games included in the Tekken
+series, I decided to put together a FAQ of info and some things that
+might aid in enhancing someone's experience with Tekken Bowl.
+
+This section is designed for beginners to Tekken Bowl, but can be used by
+anyone.  This section will contain information about bowling in general.
+
+This section only covers the PS2 Tekken Tag Tournament (U.S. Version) and
+may be used for other PS2 Versions of Tekken Tag, but I only worked with
+the U.S. Version.
+
+What is Tekken Bowl?
+Tekken Bowl is an unlockable mini-game included in Tekken Tag Tournament
+that allows you to play the sport of bowling with your favorite Tekken
+Tag Fighters.
+
+For more info on Tekken Bowl, check out the "Tekken Tag Tournament:
+Bowling FAQ" by Wazuya on GameFAQs:
+http://www.gamefaqs.com/console/ps2/file/250631/10002
+
+
+-------------------------------------------------------------------
+                             16A. Legend
+-------------------------------------------------------------------
+
+
+----------------
+FAQ Legend
+----------------
+
+
+This legend is for the notation used within this FAQ.
+
+
+ Notation     Meaning
+ --------     -------
+
+  2           Scorecard Button (Triangle)
+  3           Bowling Button (X)
+  4           Back Button (Circle)
+  R           Right (On analog controller)
+  L           Left (On analog controller)
+  Select      Press the "Select" button
+  Start       Press the "Start" button
+  Default     The default hand for an ambidextrous bowler
+  Majority    The hand a bowler will use as its default most of the time
+
+
+Hand: The hand that the player bowls with.
+Min0: The minimum ball Speed value that I have obtained (in MPH),
+      while knocking over no pins.
+Min: The minimum ball Speed value that I have obtained (in MPH),
+     while knocking over atleast one pin.
+Max: The maximum ball Speed value that I have obtained (in MPH).
+
+
+----------------
+Scorecard Legend
+----------------
+
+
+This legend is for the notation used in the scorecard in Tekken Bowl.
+
+
+ Notation     Meaning
+ --------     -------
+
+  F           Foul (Blue in color)
+  G           Gutterball
+  -           Miss
+  /           Spare
+  X           Strike
+
+
+ Color        Meaning
+ -----        -------
+
+ Blue         Color used for a foul ball
+ White        Default color
+ Yellow       Indicates a split has occured during the first ball
+              of a frame
+
+
+-------------------------------------------------------------------
+                          16B. Definitions
+-------------------------------------------------------------------
+
+
+These are bowling definitions that are related to Tekken Bowl.
+
+
+Gutterball
+     No pins were knocked down with the first bowler in a frame.
+
+Miss
+     No pins were knocked down with the second bowler in a frame.
+
+Spare
+     All of the remaining 10 pins were knocked down with the second
+     bowler in a frame.
+
+Strike
+     All 10 pins were knocked down with the first bowler in a frame.
+
+
+
+-------------------------------------------------------------------
+                          16C. Bowlers
+-------------------------------------------------------------------
+
+
+This is a list of all the available bowlers, along with some stats.
+
+NOTE: Just in case you were wondering, Dr. B is NOT a selectable bowler.
+
+
+---------------------------------------------
+       Anna Williams
+---------------------------------------------
+
+Hand: Left
+Min0: 4.24
+Min: 10.35
+Max: 23.08
+
+---------------------------------------------
+       Armor King
+---------------------------------------------
+
+Hand: Right
+Min0: 17.94
+Min: 21.62
+Max: 45.16
+
+---------------------------------------------
+       Baek Doo San
+---------------------------------------------
+
+Hand: Left (Default)
+Min0: 11.54
+Min: 14.82
+Max: 34.29
+
+Hand: Right (Select)
+Min0: 9.45
+Min: 14.70
+Max: 34.01
+
+---------------------------------------------
+       Bruce Irving
+---------------------------------------------
+
+Hand: Right
+Min0: 15.45
+Min: 18.10
+Max: 40.41
+
+---------------------------------------------
+       Bryan Fury
+---------------------------------------------
+
+Hand: Right
+Min0: 18.97
+Min: 22.53
+Max: 48.80
+
+---------------------------------------------
+       Devil / Angel
+---------------------------------------------
+
+Hand: Right (Devil)
+Min0: 12.64
+Min: 15.41
+Max: 33.75
+
+Hand: Right (Angel)
+Min0: 10.81
+Min: 14.84
+Max: 34.53
+
+---------------------------------------------
+       Eddy Gordo / Tiger Jackson
+---------------------------------------------
+
+Hand: Left (Eddy)
+Min0: 13.38
+Min: 15.08
+Max: 33.94
+
+Hand: Left (Tiger)
+Min0: 12.63
+Min: 15.58
+Max: 34.03
+
+---------------------------------------------
+       Forrest Law
+---------------------------------------------
+
+Hand: Right
+Min0: 9.80
+Min: 14.05
+Max: 31.42
+
+---------------------------------------------
+       Ganryu
+---------------------------------------------
+
+Hand: Right
+Min0: 23.78
+Min: 24.76
+Max: 54.50
+
+---------------------------------------------
+       Gun Jack
+---------------------------------------------
+
+Hand: Right
+Min0: 29.81
+Min: 30.18
+Max: 63.31
+
+---------------------------------------------
+       Heihachi Mishima
+---------------------------------------------
+
+Hand: Right
+Min0: 15.56
+Min: 19.02
+Max: 43.04
+
+---------------------------------------------
+       Hwoarang
+---------------------------------------------
+
+Hand: Right (Default)
+Min0: 11.78
+Min: 14.63
+Max: 34.47
+
+Hand: Left (Select)
+Min0: 11.07
+Min: 15.92
+Max: 34.38
+
+---------------------------------------------
+       Jack-2
+---------------------------------------------
+
+Hand: Right
+Min0: 29.11
+Min: 30.79
+Max: 65.03
+
+---------------------------------------------
+       Jin Kazama
+---------------------------------------------
+
+Hand: Right
+Min0: 12.98
+Min: 14.17
+Max: 34.49
+
+---------------------------------------------
+       Julia Chang
+---------------------------------------------
+
+Hand: Right
+Min0: 8.46
+Min: 12.56
+Max: 29.24
+
+---------------------------------------------
+       Jun Kazama
+---------------------------------------------
+
+Hand: Right
+Min0: 4.54
+Min: 9.84
+Max: 23.30
+
+---------------------------------------------
+       Kazuya Mishima
+---------------------------------------------
+
+Hand: Right
+Min0: 11.46
+Min: 15.82
+Max: 33.86
+
+---------------------------------------------
+       King
+---------------------------------------------
+
+Hand: Right
+Min0: 13.28
+Min: 17.63
+Max: 40.47
+
+---------------------------------------------
+       Kuma / Panda
+---------------------------------------------
+
+Hand: Right (Kuma)
+Min0: 20.58
+Min: 23.39
+Max: 51.43
+
+Hand: Right (Panda)
+Min0: 21.85
+Min: 23.58
+Max: 51.41
+
+---------------------------------------------
+       Kunimitsu
+---------------------------------------------
+
+Hand: Left
+Min0: 3.94
+Min: 8.63
+Max: 20.76
+
+---------------------------------------------
+       Lee Chaolan
+---------------------------------------------
+
+Hand: Left
+Min0: 7.48
+Min: 13.95
+Max: 29.07
+
+---------------------------------------------
+       Lei Wulong
+---------------------------------------------
+
+Hand: Right
+Min0: 12.80
+Min: 14.85
+Max: 33.82
+
+---------------------------------------------
+       Ling Xiaoyu
+---------------------------------------------
+
+Hand: Right
+Min0: 4.06
+Min: 8.70
+Max: 20.87
+
+---------------------------------------------
+       Michelle Chang
+---------------------------------------------
+
+Hand: Right
+Min0: 3.96
+Min: 11.06
+Max: 26.40
+
+---------------------------------------------
+       Nina Williams
+---------------------------------------------
+
+Hand: Right
+Min0: 7.94
+Min: 11.27
+Max: 26.26
+
+---------------------------------------------
+       Ogre
+---------------------------------------------
+
+Hand: Left
+Min0: 13.70
+Min: 18.46
+Max: 40.52
+
+---------------------------------------------
+       Paul Phoenix
+---------------------------------------------
+
+Hand: Right
+Min0: 17.87
+Min: 19.86
+Max: 45.32
+
+---------------------------------------------
+       Prototype Jack (P. Jack)
+---------------------------------------------
+
+Hand: Left
+Min0: 25.14
+Min: 28.78
+Max: 59.81
+
+---------------------------------------------
+       Roger / Alex
+---------------------------------------------
+
+Hand: Right (Roger)
+Min0: 4.22
+Min: 7.64
+Max: 17.83
+
+Hand: Right (Alex)
+Min0: 1.87
+Min: 8.04
+Max: 17.88
+
+---------------------------------------------
+       Tetsujin / Mokujin
+---------------------------------------------
+
+Hand: Right (Majority)
+Min0: 7.89
+Min: 11.07
+Max: 64.53
+
+Hand: Left
+Min0: 3.10
+Min: 13.10
+Max: 57.09
+
+NOTE: Tetsujin / Mokujin will copy the style of a randomly
+      selected bowler.
+
+---------------------------------------------
+       True Ogre
+---------------------------------------------
+
+Hand: Left
+Min0: 23.62
+Min: 24.86
+Max: 50.78
+
+---------------------------------------------
+       Unknown
+---------------------------------------------
+
+Hand: Left (Majority)
+Min0: 3.16
+Min: 7.83
+Max: 48.59
+
+Hand: Right
+Min0: ?
+Min: ?
+Max: ?
+
+NOTE: Unknown will copy the style of a randomly selected bowler.
+
+---------------------------------------------
+       Wang Jinrei
+---------------------------------------------
+
+Hand: Right
+Min0: 4.07
+Min: 7.59
+Max: 17.68
+
+---------------------------------------------
+       Yoshimitsu
+---------------------------------------------
+
+Hand: Right
+Min0: 12.73
+Min: 16.15
+Max: 34.54
+
+
+
+-------------------------------------------------------------------
+                           16D. Secrets
+-------------------------------------------------------------------
+
+
+This section is for secrets within Tekken Tag Tournament that are
+related to Tekken Bowl.
+
+
+=============================
+     Unlockable Stages
+=============================
+
+
+Unlock Tekken Bowl
+------------------
+When you unlock True Ogre, Tekken Bowl is unlocked as well.
+
+
+Time Release Characters
+-----------------------
+Characters are unlocked only by completing "Arcade" mode. The order
+in which the fighters are unlocked:
+
+ 1) Kunimitsu
+ 2) Bruce Irvin
+ 3) Jack-2
+ 4) Lee Chaolan
+ 5) Wang Jinrey
+ 6) Roger / Alex
+ 7) Kazuya Mishima
+ 8) Kuma / Panda
+ 9) Ogre
+10) True Ogre
+11) Prototype Jack
+12) Tetsujin / Mokujin
+13) Devil / Angel
+14) Unknown
+
+
+Unlock Jukebox
+--------------
+To unlock the Jukebox, get at least 200 points in one bowling match.
+
+
+
+=============================
+            Other
+=============================
+
+
+In-Game Reset
+-------------
+Press "start" and "select" simultaneously to return to the Menu
+screen at any time, except during the load screen.
+
+
+Ambidextrous Bowlers
+--------------------
+Press the "Select" button to switch between right and left handed.
+This works for the following bowlers:
+Baek Doo San (Left Handed Default)
+Hwoarang (Right Handed Default)
+
+
+Over Charge
+-----------
+When you're up to bowl and you get the charge meter one level above
+its maximum level, then your bowler will throw the ball, along with
+theirself, at the pins and you will get a foul.
+
+
+Time Up
+-------
+If you're up to bowl and you do not throw the ball after 5 minutes
+have passed, then your bowler will throw the ball, along with
+theirself, at the pins and you will get a foul (similar to an Over
+Charge).
+
+
+Mokujin See, Mokujin Do
+-----------------------
+If Tetsujin / Mokujin is selected as the second bowler, they will
+copy the pose of their partner when there is a strike.  However, if
+the partner is Unknown, then the pose will be random.
+Unknown will always copy Jun's poses.
+
+
+Radar Vision
+------------
+The following bowlers have a special radar when they bowl:
+Bryan Fury, Gun Jack, Jack-2, Prototype Jack, Yoshimitsu
+
+
+Knock out Dr. B
+---------------
+You can see Dr. B on your left hand side at the bowling alley.  You
+can throw the ball at him and knock him out by moving your bowler all
+the way over to the left side of the lane, then look towards him before
+you throw the ball.  You should hear a "K.O.", acknowledging that you
+were successful.  You can also knock out other spectators.  Just move
+your bowler over to the side of the alley that they're on before you
+throw the ball.
+
+
+
+=============================
+            Hints
+=============================
+
+
+Strikes with Lei
+----------------
+A good way to get strikes with Lei Wulong, or any medium-speed
+bowler, is to move a little to the left before you throw the ball.
+Then make sure that the "Ball Spin" is in the middle, or a little
+to the right.  Then make sure that your speed is almost full.  You
+may not get a strike every time, but a good majority of the pins
+will get knocked down.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                            17. Questions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+In this section, I will try my best to answer questions that I have
+received through e-mail.
+
+
+----------
+Question 1 - TTT on PS3 issues
+----------
+
+Q: I have an 80GB PS3 and when I play TTT, it runs really slowly.  Do you
+   know anything about this?
+
+A: I also have the 80GB PS3 with PS2 backwards compatibility and I am
+   experiencing the same slowness problem.  This is a known issue and is
+   displayed at the link below under "80GB PLAYSTATION3 Model CECHE01":
+   http://www.us.playstation.com/Support/CompatibleStatus
+   TTT should work fine on the original 20GB/60GB models.  The new
+   PS3 models don't have PS2 backwards compatibility and will not be
+   able to play TTT,
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                          18. Special Thanks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Name                    Reason
+----                    ------
+
+Paulinstein             For helping me to find more Hidden Moves.
+
+Namco                   For creating another incredible game.
+
+Catlord                 For creating one of the best Tekken movelists,
+                        which I used to discover a hidden move in TTT.
+
+Tekken Zaibatsu         For creating one of the best Tekken movelists,
+                        and websites.
+
+Ryan 'jra64' Abella     For convincing me to remove partial strings
+                        that have no unique properties, and for
+                        noticing a grammatical error.
+
+Cloud                   For e-mailing me a Hidden Move for Bryan Fury.
+
+Chrysander              Explaining the Tag Sliding move
+
+MCP                     Explaining the Tag Sliding move
+
+PBeja                   Writing the "New Moves List" FAQ for TTT.
+
+Wazuya                  Writing the "Bowling FAQ" for TTT.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        19. About Tekkenomics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+The main purpose of "Tekkenomics" is to provide you with Tekken FAQs/Guides
+and to keep you updated on Tekken news and information.
+
+"Tekkenomics" was originally the name of the website created by me
+(Wild Man X), with help from Paulinstein and Drake the Demon, which first
+came online on November 6, 2004.  However, due to someone engaging in
+piracy on our hosting server the website went down in April 2007.  With
+the release of Tekken 6 approaching for consoles, I decided to bring back
+Tekkenomics, but in the form of a blog back in June 2009.
+
+"Tekkenomics" contains various Tekken related material, some of which is
+difficult to find on any other Tekken based website.  The blog will
+contain exclusive articles, original FAQ files, move lists, combos/juggles,
+combo videos, in-game matches, Tekken commercials, PC desktop wallpaper,
+PSP wallpaper, CG art, fan-based material, and other things.
+
+If you're having problems visiting the "Tekkenomics Blog" at
+http://www.tekkenomics.com, then you can also visit it at the following
+link: http://tekkenomics.wordpress.com
+
+If you were wondering how we came up with the name "Tekkenomics", back in
+my high school days in the year 2000, Paulinstein, me, and some other high
+school friends would get together to play Tekken 3 on the PlayStation 1.
+At the time, we were also enrolled in Economics. Whenever we would get
+together to play, we would say that we were going to study some
+"Tekkenomics".  So, basically: "Tekken" + "Economics" = "Tekkenomics".
+
+There are a few references on the web to the name "Tekkenomics" that
+aren't related to us or our blog.  There are some members on the Tekken
+Zaibatsu forums that go by the names "Tekkenomics", "Tekkenomics_101",
+and "TekkenNomics Jr." that aren't related to us. On Tekken Zaibatsu,
+we go by the names "Wild Man X", "Paulinstein", and "Drake the Demon".
+The things on the web that ARE related to us are at: GameFAQs, Neoseeker,
+IGN, 1UP.com, Gamerhelp, Gamespot, MySpace, AIM, MSN Messenger, Hotmail,
+GMail, YouTube, PicasaWeb, Blogger, WordPress, ImageShack, and Twitter.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                       20. About The Author
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+I have been a fan of the Tekken series since 2000.  A few of my friends
+got me into the series with Tekken 3.
+
+My first FAQ was "Hidden Moves" for Tekken 4.  Writing this FAQ, I've
+learned some new things about Tekken along the way that I probably
+wouldn't have learned otherwise.  My FAQs are a way for me to share
+what I have learned.
+
+Lei Wulong is my main fighter, and has been since Tekken 3.  When I bought
+Tekken Tag Tournament for the PS2, I decided to learn how to play with all
+of the fighters, and this has carried over to Tekken 4, Tekken 5, and
+Tekken: Dark Resurrection.  So, you can rest assured that I do atleast
+know a little bit about what I'm talking about :)
+
+I am currently residing in Southern California (in the United States),
+but have not been to any of the arcades in the area in a long time.  I
+used to play at the University of California, Riverside.
+
+I hope that you've enjoyed my FAQs!
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                             21. Closing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Feel free to e-mail me any questions or comments about this FAQ or
+the Tekkenomics Blog.  When sending e-mail, please make sure that
+"Tekken", "Soul Calibur", or "FAQ" is somewhere in the e-mail subject
+name, or it will most likely be deleted.  Also, I only speak English.
+
+
+Please let me know if you are confused about any part of this FAQ.
+I will do my best to clarify any part that may seem confusing.
+
+
+I hope you find this FAQ helpful.  Thanks for your time.
+
+
+
+                             Tekkenomics
+                      Class is now in session!!!
+
+                  Copyright 2000-2009 - Tekkenomics
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EoF

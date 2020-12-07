@@ -1,0 +1,988 @@
+TEKKEN TAG TOURNAMENT
+The Complete Guide to Paul Phoenix
+By Fred Crow
+
+
+
+DISCLAIMER:
+
+Tekken, Paul and any other character mentioned in this guide are copyrighted by 
+Namco. The author gives permission to reproduce this guide, as long as it is 
+presented in it's entirety, and to print this guide for personal use. If you wish 
+to use part of this guide please contact me at phreddkroe@tds.net.  
+
+Reading this guide will not make you good with Paul. It is only a guide and the 
+only way to become good with Paul or any other Tekken character is practice. 
+
+This FAQ is best viewed in Notepad using the Courier New font with Word Wrap on. 
+If the following does not line up then switch to this font.
+
+1 2 3 4 5 6 7 8 9 0
+a b c d e f g h i j
+
+
+
+TABLE OF CONTENTS
+
+1. Intro
+2. Button Convention
+3. Movelist
+4. In-Depth Move Analysis
+5. Juggles
+6. Okizeme
+7. Strategy
+8. Misc. (Costumes, Netsu Power Ups, Frame Data etc.)
+9. Summary
+
+
+
+1. INTRO
+
+Paul Phoenix is often considered the cheapest character in the game. This can be 
+attributed mostly to scrubs who use nothing but the Bone Breaker (AKA Falling 
+Leaf) and Phoenix Smasher (AKA Death Fist) over and over. In this guide I will 
+attempt to show you how to win with Paul without being cheap. Paul does not have 
+that many moves but most of the moves he has are good. He has a good mix up game 
+and some really good okizeme and one of the absolute best counter moves in the 
+game. I made this FAQ for a few reasons. One, there are not many Tekken Tag Paul 
+guides on the net, and the ones that exist are either incomplete or have errors 
+that need to be fixed. The other reason is to clear Paul's name. My hope is that 
+Paul scrubs will read this and start playing Paul the right way and maybe earn 
+some respect instead of scorn.   
+
+If you want to become good with Paul or any character then you should have a firm 
+grasp of the basics of Tekken Tag. For this I highly recommend everyone to read 
+the guides found on this page: 
+http://www.tekkenzaibatsu.com/tekkentag/_system.php. 
+The guides cover tagging, getting up, chickening, netsu and ki power ups, tag 
+throwing, damage formulas, and many other things that most Tekken players take 
+for granted. Trust me, youll be surprised by how much just knowing which way to 
+get up (or when not to get up) will improve your game. Lack of this knowledge is 
+what keeps most people at scrub level.
+
+
+
+PAUL PHOENIX - THE MAN, THE MYTH, THE BANE OF BEARS EVERYWHERE
+
+
+
+Origin              USA 
+Fighting Style      Combined Martial Arts based on Judo 
+Age                 46 
+Height              187 cm 
+Weight              81 kg 
+Blood Type          O 
+Occupation          None. Still trains with intention of being Number One 
+Hobby               Motorcycles 
+Likes               Pizza, Smell of Gasoline 
+
+
+
+Paul grew up in San Francisco, California. He began training in martial arts after 
+his father took him to see a martial arts tournament. The main event was a fight 
+between a 900 lb. bear named Iron Claw and Willy "The Bear Killer" Williams, a 
+martial arts master who soon became Paul's idol. Much later, Paul is involved in a 
+tournament where Heihachi is a judge. He ends up fighting Kazuya, and after a long 
+battle, it is declared a draw. Kazuya is enraged, as this is the first match he 
+hasnt won. Heihachi sees great promise in Paul and later invites him to the King 
+of Iron Fist Tournament 1. Paul blazes through the competition until he reaches 
+his final opponent, Kuma. Paul is mauled and beaten senseless and barely scrapes 
+by with victory due to the Phoenix Smasher. Paul and Law are booked on the same 
+flight home from the tournament. They hit it off and become great friends. At the 
+second King of Iron Fist Tournament, Paul utterly decimates Kuma and stops 
+Marshall Law from killing Baek. He is then scheduled to fight Kazuya, but a 
+traffic jam keeps him from getting there in time. After the tournament Paul 
+continues training with Law. Law tries to teach him a flip kick but Paul never 
+gets it down. Later on he leaves to participate in many tournaments worldwide, but 
+often visits with Law to train and tell him of the tournaments. Paul receives a 
+letter from Heihachi about the King of Iron Fist Tournament 3. He goes to find 
+Marshall Law, but he is away overseeing the construction of a new dojo. Paul finds 
+his son, Forest Law. Paul convinces Forest to come to the tournament with him 
+against his father's orders. Paul went undefeated through the entire tournament 
+and even defeated Ogre in what he thought was the last match. He went home 
+proclaiming to be the champion. Ogre morphed into True Ogre and the tournament 
+went on without Paul. Paul's friends and admirers started to disappear as they 
+grew tired of his attitude. His dojo went out of business.
+
+
+
+2. BUTTON CONVENTION
+
+1   - Left Punch
+2   - Right Punch
+3   - Left Kick
+4   - Right Kick
+5   - Tag button
+
+f   - tap forward once           
+b   - tap backwards once         
+d   - tap down once              
+u   - tap up once                
+d/f - tap down/forward once
+d/b - tap down/back once
+u/f - tap up/forward once
+u/b - tap up/back once
+F   - hold forward           
+B   - hold backwards          
+D   - hold down              
+U   - hold up                 
+D/F - hold down/forward 
+D/B - hold down/back 
+U/F - hold up/forward 
+U/B - hold up/back 
+
++   - Commands must be input simultaneously
+,   - Move to be done following the previous one
+_   - Or (either command may be input)
+~   - Command to be input immediately after the previous one 
+FC  - Full Crouch
+WS  - While Standing from a crouch
+N   - Neutral joystick i.e. no movement input
+SS  - Sidestep
+
+
+
+3. MOVELIST
+
+
+
+THROWS
+
+Command           Name                             Damage       Escape
+
+1+3               Over the Shoulder                30           1
+2+4               Shoulder Pop                     30           2
+1+3_2+4  (Left)   Dragon Screw                     45           1
+1+3_2+4  (Right)  Fall Away                        40           2
+1+3_2+4           Reverse Neck Throw               50           none
+b+1+3_2+4         Attack Reversal                  --           -- 
+b+2+3             Foot Launch                      35           2
+f,f+1+2~5         Push Away                        35           1+2
+D/F+1+2           Twist and Shout                  40           1+2
+
+d/b+1+2           Ultimate Tackle                  5
+                  From Ultimate Tackle:
+2,1,2,1,2         Ultimate Punch                   5,5,5,5,5 
+1,2,1,1+2         Punches to Armbar                5,5,5,25
+2,D+1,1:4~1~1+2   Ultimate Punishment              56
+1+2               Armbreaker                       25
+
+
+
+ARTS
+
+Command           Move Name                        Hit Level    Damage_Counter Dam.
+
+1,2               Left Right Combo                 HH           5_7,15 
+f+1,2             Quick Left Right Combo           HH           6_8,15
+d/b+1             Low Jab                          M            5_7
+2,3               Jab-Roundhouse                   HH           12_17,21
+F+2,3             Quick PK Combo                   HH           12_17,20
+2,D+3             Jab Sweep                        HL           12_17,8
+F+2,D+3           Quick PDK Combo                  HL           12_17,10
+1,4               Reverse PDK Combo                HL           5_7,8
+f+1+2             Hammer of the Gods (1)           M            27_40 
+B+1+2             Burning Fist (2)                 M            100_150 
+d/b+3             Sweep Kick                       L            12_17
+u/f+3~4           Shredder                         MM           17_25,28
+f,f+4             Neutron Bomb (1)                 M            20_30 
+f,f+2             Flash Elbow                      M            15_22
+u/f+4             Hop Kick                         M            13_18
+f,f+3~4           Double Hop Kick                  MM           20_30,15
+f,f+3~4,4         Triple Hop Kick High             MMH          20_30,15,25
+f,f+3~4,f_d/f_+4  Triple Hop Kick Medium           MMM          20_30,15,15
+f,f+3~4,d_d/b_+4  Triple Hop Kick Low              MML          20_30,15,15
+d+2               Down Strike (3)                  D            16_23 
+d+4,2             Bone Breaker                     LM           13_18,20 
+                                                          Clean 19_27,16
+d+1               Hammer Punch                     M            15_22
+d+1,2             Hammer Punch to Power Punch      MM           15_22,26
+d+1,4,2           Hangover                         MLM          15_22,15,21
+WS+2              Thunder Palm                     M            16_23
+d,d/f,f+2         Phoenix Smasher                  M            33_48 
+                                                          Clean 49_72
+d,d/f,f+1         Thruster (4)(9)                  H            20_30 
+f+1+4             Shoulder Tackle                  M            20_30
+d,d/b,b           Sway (9)                         -            --
+d,d/b,b+1         God Hammer Punch (5)(9)          M            15_22 
+d,d/b,b+2         Rubber Band Attack (1)(7)        M            18_26
+d,d/b,b+3         Sway to Low Kick                 L            12_17
+d,d/b,b+3,2       Rapid Fire                       LM           12_17,21
+d,d/b,b+3,2,1     Rapid Fire to Gut Buster         LMM          12_17,21,25 
+                                                          Delay 12_17,21,21
+d,d/b,b+3,2,2     Rapid Fire to Stone Breaker (9)  LML          12_17,21,21
+SS+3              Pump in Pedal                    L            15_22 
+                                                          Clean 22_32
+SS+1              Turn Thruster                    H            23_33
+FC,d/f+2          Jawbreaker                       M            21_31
+FC,d/f+2,1        Gut Buster                       MM           21_31,25
+FC,d/f+2,2        Stone Breaker (9)                ML           21_31,21
+D 2 sec,u+1+3+4   Incomplete Somersault (6)        M            25_37 
+FC,u/f+3+4        Somersault (8)                   M            30_45 
+
+(1) Causes stagger on block.
+(2) Unblockable.
+(3) Only usable when opponent is in the air or on the ground.
+(4) Stuns on counter.
+(5) Bounces on counter.
+(6) Paul takes 15 damage.
+(7) Stuns on hit, knocks opponent across the screen on counter.
+(8) Only when teamed with Law.
+(9) Press 5 to tag immediately after this move.
+
+
+
+STRINGS
+
+5 Hit                             Damage
+1,2,3,1,2                         5,15,7,6,30
+H H M M M
+
+10 Hit 1
+1,2,3,2,1,2,1,4,2,1               5,15,7,5,7,4,5,7,8,30
+H H M H M H H L M M
+
+10 Hit 2
+1,2,3,1,4,2,1,4,2,1               5,15,7,6,7,8,5,8,10,24
+H H M M L M H M L M
+
+
+
+4. IN-DEPTH MOVE ANALYSIS
+
+
+
+THROWS:  
+
+I have rated these throws on a star system of 1-5. These moves are only being 
+rated against the rest of Paul's throws, not against every character's throws.
+
+*     Horrible throw. Dont ever do it.
+**    Poor throw. Not recommended.
+***   Your average throw. Doesnt do great damage, 1 button escape.
+****  Good move. Good damage, 2 button escape, or good okizeme set up.
+***** Great move. Good damage, 2 button escape, taggable, inescapable, etc.
+
+
+
+OVER THE SHOULDER *** 
+
+Your basic 30 damage front throw.  
+
+SHOULDER POP ***            
+
+Your other choice for a basic 30 damage front throw.
+
+DRAGON SCREW ****       
+
+Good damage for a side throw, use it if you get the chance.
+
+FALL AWAY ***           
+
+Average side throw damage.
+
+REVERSE NECK THROW *****
+
+Not great damage for a back throw, but if you somehow get the chance to use it 
+then go for it. Its 50 damage, its inescapable and you can get a guaranteed down 
+thrust for 66 damage or set up your own okizeme.
+
+ATTACK REVERSAL ***
+
+As you should know, in high level play you will get chickened repeatedly if you 
+overuse this move. Ive found the best way to use this is to use it very sparingly 
+and only use it when your opponent would not expect it. Use it when your opponent 
+is pitbulling, after he knocks you down and you see him charging in, immediately 
+stand up and use it. Or every once in a while use it as you tag in. Now dont do 
+this every time like this or your opponent will just start to throw you. Use your 
+judgement and dont use this move too much unless youre playing scrubs. This move 
+does damage equal to half the damage your opponent's move would have done +25. 
+
+FOOT LAUNCH ***
+
+Not a bad throw but not a great throw. It does 35 damage and gets the opponent 
+away from you, which can be good or bad according to your style of play. It leaves 
+you back turned and in perfect distance to start a running ultimate tackle. Use it 
+to alternate between your two best throws, Twist and Shout and Push Away, since 
+they both have the same escape.
+
+PUSH AWAY *****
+
+This is a great throw. Decent damage, two button escape, puts your opponent almost 
+a full screen away, and is taggable. When you tag in your partner, your opponent 
+will remain on the ground long enough for you to do just about anything you wish. 
+With King or Armor King you can do a ground throw, with Julia, Michelle and Wang 
+you can do U/F+3+4, etc. etc. Ive noticed a little trick you can do with Paul and 
+Jin using this move. Do the throw and tag Jin in, as soon as Jin enters do the 
+soccer kick (b+4), Jin will kick the grounded opponent and the camera will shift 
+so that Jin is off screen. If you tag immediately after the soccer kick Paul will 
+tag in. The animation looks as smooth as if Jin's soccer kick was a tag move if 
+you get the timing down. This also works with a few other characters with certain 
+moves.  Do punch combos to buffer this throw. i.e. 1,2(hold 2),f,f+1.
+
+TWIST AND SHOUT ****
+
+Another good throw. Does 35 damage and has a two button escape. Unfortunately its 
+the same escape as your other best throw, so alternate with the Foot Launch or 
+your basic throws. Buffer this throw as well. This throw is 1 frame faster than 
+the rest of Paul's throws.
+
+ULTIMATE TACKLE ***  (***** for Ultimate Punishment)
+
+This move is very easy to reverse or escape and even easier to see coming, but, 
+not many people use it so that makes it less expected. Not very many people at all 
+expect it to come buffered off of a close range punch combo. The Ultimate Punches 
+dont do very much damage at all and are easy to be escaped. The Arm Breaker is 
+harder to escape but likewise does little damage. Your real tool here is the 
+Ultimate Punishment. A lot of people have a very hard time doing this move due to 
+its lightning quick input requirement. I think that 61 damage is worth spending a 
+little time to master it though. So heres how to do it correctly. Do the tackle, 
+hit 2 as youre falling then hold D, hit 1 right after you hit the ground, hit 1 
+again as the first punch lands, then immediately hit 4~1~1+2. The last part must 
+all be input before the last punch lands. If you want to do this right every time 
+then you must learn to buffer. Buffered, the last part would go like this: 4~1 
+(hold1)~2.  After the first punch the Ultimate Punishment is not escapable.
+
+For reversals, escapes and more information on the Ultimate Tackle and all the 
+commands that come out of it, see 
+http://www.tekkenzaibatsu.com/tekkentag/system_tackles.php  
+
+
+
+ARTS:  
+
+I have rated the arts on a star scale of 1-5. These moves are only being rated 
+against the rest of Paul's arts, not against every character's arts.
+
+*     Horrible move, never do this.
+**    Poor move. Maybe good as a surprise move once in a long while.
+***   Average move or a good move with only a few basic uses.
+****  Good move. A good, versatile move that should be used by every Paul player.
+***** Great move. Do I really need to explain?
+
+
+
+LEFT RIGHT COMBO ***
+
+Paul's basic poking move. Two quick jabs that come out at 8 frames. These are good 
+for setting up buffered throws. If the opponent blocks then Twist and Shout, if 
+they are hit then Push Away. This is just a guideline though, dont do this every 
+time or they'll catch on. Also good for putting you at the right distance for 
+Hammer Punch and Sway combos.  
+
+LOW JAB ***
+
+Most people think Paul has no low 1 jab, but he does. Its not D+1 like most 
+people's but he does have one. If you are good with diagonals then use it just 
+like youd use d+1 with everyone else. Counter high attacks and build custom 
+strings with it.
+                   
+JAB-ROUNDHOUSE *
+
+A 10 frame jab followed by a slow roundhouse. The roundhouse will almost always be 
+blocked, in which case you will be left with a -12 frame disadvantage. If you just 
+must use this move buffer a chicken for that slow kick.
+                  
+QUICK PK COMBO **
+
+Same as above except the roundhouse is no longer so slow. If the jab is blocked 
+your opponent no longer has time to reverse it.
+            
+JAB SWEEP **      
+
+Same as above but the kick is low and your frame disadvantage is greater. You can 
+go into the Thunder Palm from this move which makes it just a tad better. If you 
+ever feel like doing this move, do the Quick PDK Combo instead.
+
+QUICK PDK COMBO ***
+
+Same as above but the kick is quicker.
+             
+REVERSE PDK COMBO **
+
+The same as above but Paul uses opposite limbs. This and the last two combos can 
+all be ducked for the entirety.
+             
+HAMMER OF THE GODS ****
+
+Good damage, staggers on block, good for okizeme and even juggles. Use this move 
+but dont overuse it.  
+       
+BURNING FIST ***          
+
+Paul's unblockable. Incredible damage and incredibly slow. Only use this move when 
+anticipating a tag in and only when the character tagging in doesnt have a 
+mid/high reversal. If this move is reversed you'll wish you never learned how to 
+do it.
+  
+SWEEP KICK **
+
+The last half of the PDK combos.  
+             
+SHREDDER ****
+
+Good for starting (only use the 3) and ending juggles. Its a pretty safe move if 
+blocked, unless you only do the 3, in which case good players will throw you. Has 
+good surprise value if you dont use it all the time, which you shouldnt.
+                       
+NEUTRON BOMB ***     
+
+Staggers on block and closes the distance between you and your opponent. You can 
+use your WS Thunder Palm coming out of this move. This is good for catching pit 
+bulls who will begin attacking immediately after they block this move.
+                       
+FLASH ELBOW ***    
+
+A decent counter move. Though not near as fast as Julia's elbow, it does do a good 
+bit of damage and leaves you at a safe distance if blocked. Use this if you are 
+not good at countering with the Phoenix Smasher.
+                
+DOUBLE HOP KICK     
+
+Almost identical to the shredder except that its a little harder to do, but you 
+can add an extra kick on the end at either high, medium, or low level.
+                    
+TRIPLE HOP KICK HIGH ****      
+
+The third kick will only hit if you delay it. Very good as a juggle ender.
+            
+TRIPLE HOP KICK MEDIUM ***      
+
+Does less damage but hits ducking opponents. Use this if you think your opponent 
+expects you to go low.
+     
+TRIPLE HOP KICK LOW ***     
+
+Use this to mix it up with your other hop kicks. This usually hits as no one 
+expects it. If they begin expecting it then go medium.
+
+DOWN STRIKE ***
+
+You should use this move after a Reverse Neck Throw or as a one stop solution to 
+missed juggles and as a basic okizeme move.  
+    
+BONE BREAKER *****      
+
+Ah, the dreaded Bone Breaker AKA the Falling Leaf. It has been toned down from 
+Tekken 3. If it is blocked you become staggered so only use it when you know it 
+will hit. Its best used in close range so set it up with a quick 1,2 combo or 
+crouch dash into a turtler. If the 4 hits the 2 is guaranteed. This is one of 
+Paul's best okizeme moves and is his all purpose juggle ender. You can end any 
+juggle with this move. Keep in mind though that the timing is different for some 
+juggles. 
+                         
+HAMMER PUNCH ****     
+
+Paul's best okizeme move. Always buffer a chicken when used standing. Use this 
+move to go into the Thunder Palm and Jaw Breaker and Gutbuster mixups.
+                       
+HAMMER PUNCH TO POWER PUNCH ***
+
+Always, and I mean always buffer a chicken after the second hit. A block will 
+leave you safe. Mix this up with the hang over.
+
+HANGOVER ****
+
+This move slays scrubs. A good move to start off the fight with. Mix this up with 
+the Hammer to Power Punch. It ends with an elbow so no worry about reversals is 
+needed.
+
+THUNDER PALM ****     
+
+A WS juggle starter. When you juggle your opponent with this move he will be 
+horizontal which makes juggling more difficult and throws off the timing of your 
+Bone Breaker juggle. To hit with a Bone Breaker you must wait until your opponent 
+is almost on the ground. Can be used after a Neutron Bomb. You can use this after 
+Paul's mini-crouch dash (d,d/f,f) to confuse your opponent.
+                              
+PHOENIX SMASHER *****          
+
+The Death Fist. This move gets a lot of crap because of scrubs abusing it. This is 
+Paul's best move though and you should use it no matter what anyone says. If they 
+cant block a standing mid hit then thats their problem. Use this as your counter 
+move. It does devastating damage and sends them flying. Used in combination with 
+the sway this can be deadly. Jin crouch dashes, you sway, he whiffs a WGF, you 
+nail him, send him flying and run after him maniacally as he tumbles to the other 
+side of the screen.  
+                 
+THRUSTER *****
+
+Paul's best juggle starter. Juggles to a good level, does decent damage on its 
+own, cant be reversed, and stuns on counter hit allowing you to set up devastating 
+juggles. Reverse happy players will eat this all day long expecting a Phoenix 
+Smasher (Death Fist). Also note that the move will start a juggle regardless of a 
+counter hit if you buffer a tag.
+                 
+SHOULDER TACKLE ***        
+
+Side steps to the right then hits your opponent for 20 damage. If youre good at 
+reading your opponent then punish him with this move.
+                      
+SWAY *****
+
+Most people only use the sway as a means to go into rapid fire. Use the sway to 
+make your opponent whiff then punish him with a Phoenix Smasher. You can get away 
+from many moves with the Sway. It takes a lot of practice to use the Sway 
+defensively but its worth it in the end and further seperates you from Paul 
+scrubs.
+
+GOD HAMMER PUNCH ***      
+
+On counter this move bounces and allows you to set up some powerful and stylish 
+juggles. Not a great move without the counter hit though so Im being generous with 
+the stars here.
+                    
+RUBBER BAND ATTACK ***   
+
+A decent, safe move that will momentarily stun your opponent if he doesnt block. 
+Break this out every once in a while to avoid becoming stale.
+          
+SWAY TO LOW KICK ***
+
+The other way to Sway, read on.
+      
+RAPID FIRE ***       
+
+If youve gone this far then no need to stop now, proceed on to one of the next two 
+moves.
+           
+RAPID FIRE TO GUT BUSTER ****
+
+Its usually best to do the Gut Buster on its own without the Rapid Fire, that is 
+unless you are juggling. This is a great juggle ender even though its sometimes 
+hard to pull off quickly. You usually will have to delay the last hit when using 
+as a juggle ender. You can sometimes fake people out by delaying the last hit.
+             
+RAPID FIRE TO STONE BREAKER ****
+
+The same goes for the Stone Breaker except you dont have to delay to juggle. This 
+move can also be used to start a juggle. Rapid Fire to Stone Breaker to Rapid Fire 
+to Gut Buster is an awesome juggle if you can get all of it to hit. Against good 
+players you probably wont though. Mix up with the Rapid Fire to Gut Buster. These 
+two moves arent very fast and almost everyone knows how to block them.
+
+PUMP IN PEDAL *** 
+
+It does decent damage and gives you a +3 frame advantage on a hit, of course youll 
+be too far away to take advantage of it, but it hits low and can be a decent 
+surprise tactic.  Its real use is in okizeme.  
+
+TURN THRUSTER **         
+
+I dont see any reason to use this move. Its relatively safe to use but it hits 
+high and is so easy to see coming. If anyone has any good uses for this please 
+e-mail me.
+                    
+JAWBREAKER *** 
+
+Sets up either the Gut Buster or Stone Breaker. You can make a decent mix up game 
+with these two. Remember you can go into these after a Hammer Punch by holding the 
+D and then pressing d/f+2. Another way to go into the Jaw breaker is to go d,D/F 
+(slight pause),2. This creates even more mix up between your Thruster and Phoenix 
+Smasher.
+                   
+GUTBUSTER ***    
+
+This is the one that will hit the most. Try delaying it if it isnt hitting and 
+remember to mix it up with the Stone Breaker. 
+                             
+STONE BREAKER ****    
+
+When you can get this to hit it sets up a great juggle that ends with Rapid Fire 
+to Gut Buster. Its hard to get people to go for this though. You have to mix up 
+with the Gut Buster and use delays to get someone to eat this move. Also can be 
+useful for okizeme when youre too far away to use Hammer Punch and Bone Breaker.
+                              
+INCOMPLETE SOMERSAULT *       
+
+A useless move if ever there was one. If your opponent actually lets you take the 
+time to charge it up then you still have to hit him, which you probably wont do. 
+Way too much effort for 25 damage. Never use this move unless you are trying to 
+embarrass or impress.
+               
+SOMERSAULT **   
+
+This move can only be done when Law is your partner. It is much faster than the 
+Incomplete version, but it still not a very good move. If you want to show off 
+with Law then do their tag combo. Do the Poison Arrow with Law to a tag, then when 
+Paul comes in press 2,2. Paul will immediately do a Stone Breaker and tag out and 
+Law will flip in and super charge, then press 2 and he will backhand your falling 
+opponent. This is a crowd pleaser and the absolute best tag combo in the game.
+                            
+
+
+5. JUGGLES
+
+
+
+Paul is not a great juggler, but that doesnt mean you shouldnt try and get your 
+opponent in the air, because he can do some damage and hes got a very good okizeme 
+game.
+
+I will not list every possible juggle for each starter. I will however list a good 
+variety of Paul's most damaging juggles so you can find one that feels right to 
+you. Some of them are very hard to do so dont worry if you cant do it right away.  
+Also keep in mind, if you ever accidentally juggle someone (it happens sometimes) 
+or you just get confused while your opponent is in the air, go for a Bone Breaker. 
+Paul can end any juggle with it, its very easy to do, and it does decent damage.
+
+Starter: u/f+4 (Hopkick)
+
+1,2,d,db,b+3,2,2                       Damage: 50 (Very hard to do)
+f,f+3,4,4                              Damage: 48
+1,1,2,d,df,f+2                         Damage: 43 (Also hard to do)   
+1,2,u/f+3,4                            Damage: 43
+u/f+4,d,db,b+3,2,2                     Damage: 42  
+1,2,f,f,d+4,2                          Damage: 40 
+1,1,2,f+1+2                            Damage: 40 
+u/f+4,d+4,2                            Damage: 39
+
+Starter: d,d/f,f+1 (Thruster)         
+
+1,2,d,db,b+3,2,2                       Damage: 57 (Very hard to do)
+1,1,2,f,1+2                            Damage: 47 
+1,2,f,f,d+4,2                          Damage: 47
+u/f+4,d+4,2                            Damage: 46
+d/f+1,f,1,2,d+1                        Damage: 45
+1,u/f+3,4                              Damage: 43
+d+4,2                                  Damage: 40
+
+Starter: WS+2 (Thunder Palm)
+
+d/f+1,u/f+3,4                          Damage: 43
+d,d/f,f+2                              Damage: 42 (Hard to do)
+d+4,2                                  Damage: 41 (Somewhat difficult timing)
+u/f+3,4                                Damage: 40 
+
+Starter: d/f+2
+
+f,f,1,2,f,f,1,d,d/f,f+2                Damage: 43 (Very hard to do)
+f,f,1,f,f,d,d/b,b+3,2,2                Damage: 43
+f,f,1,2,f,f,d+4,2                      Damage: 40
+d/f+1,f,f,d+4,2                        Damage: 37
+
+Starter: d,d/b,b+1 (God Hammer Punch) on counter hit only.
+
+f,f,d,d/b,b+3,2,2                      Damage: 51
+d,d/f,f+2                              Damage: 48
+f,f,1,2,f+1+2                          Damage: 46
+f,f,1,u/f+3,4                          Damage: 45
+f,f,1,f,f,d+4,2                        Damage: 42
+f,f,d+4,2                              Damage: 40
+f,f,1,2,d+1                            Damage: 40
+
+Starter: d,d/f,f+1 (Thruster) on counter hit only.  Most of these juggles are hard 
+to do.
+
+u/f+4,1,2,f,f,d,d/b,b+3,2,2            Damage: 80 
+u/f+4,u/f+4,d,d/b,b+3,2,2              Damage: 79
+u/f+4,1,1,f,f,d,d/b,b+3,2,2            Damage: 76 
+u/f+4,1,1,2,f,f,d+4,2                  Damage: 73 
+u/f+4,1,2,u/f+3,4                      Damage: 73 
+u/f+4,1,2,d,d/f,f+2                    Damage: 70
+u/f+4,u/f+4,d+4,2                      Damage: 69  
+u/f+4,1,2,f+1+2                        Damage: 67 
+
+Starter: FC, d/f+2,2 and d,d/b,b+3,2,2 (Stone Breaker and R.F. to Stone Breaker)
+
+These juggles arent getting their own charts for two reasons. 1. Because both 
+moves have multiple hits that may or may not connect before the last hit connects, 
+thus changing the damage properties and forcing me to make 6 charts for something 
+thats not that important. 2. Because there are only two juggle enders you should 
+worry about with this juggle starter.
+
+d,d/b,b+3,2,2     This requires very good timing but is it definitely worth 
+                  mastering as it is a very damaging juggle.
+
+d+4,2             This does a little less damage but is so much easier to connect 
+                  with.
+
+
+
+6. OKIZEME
+
+
+
+Okizeme is the art of hitting your opponent while he is on the ground and keeping 
+him on the ground. The following moves are important in Paul's okizeme game.
+
+HAMMER PUNCH
+
+Very easy to do and it puts your opponent right back on the ground allowing you to 
+set up for more okizeme. Can hit from a good distance.
+
+HAMMER OF THE GODS
+
+This is slower but more damaging. Also puts your opponent back on the ground. Has 
+slightly less range than Hammer Punch.
+
+PUMP IN PEDAL
+
+This does pretty good damage but its best quality is it's range. This move hits 
+opponents on the ground.
+
+BONE BREAKER
+
+This is a great close range okizeme move.
+
+
+
+If your opponent rolls towards you, use the Bone Breaker, Hammer Punch or Hammer 
+of the Gods.
+
+If your opponent rolls away from you, use the Phoenix Smasher.
+
+If your opponent stands straight up use the Bone Breaker.
+
+If your opponent rolls towards or away from the screen, use the Bone Breaker.  
+This takes good timing.
+
+If your opponent does a standing low kick, low parry it and use the Bone Breaker.
+
+If your opponent does a standing high kick, either reverse it or Sway into a Rapid 
+Fire combo.
+
+If your opponent does nothing, use the Pump in Pedal.
+
+
+
+7. STRATEGY
+
+
+
+Paul should be played as offensively as possible. This should come as no surprise 
+to any of you. The key to winning with Paul is to stay on the offense and keep him 
+guessing as to what youll do next. That can pretty much be said of any character 
+in Tekken to some extent, but I had to say it anyway. Take advantage of Paul's 1,2 
+Punches. Use them to link into the Hangover, Bone Breaker, or the Push Away and 
+Twist and Shout throws. Make sure you know how to use all of Paul's mixups. Out of 
+Paul's pseudo crouch dash (d,d/f,f) you can do many things. First of all you can 
+do the Thruster. Its a juggle starter and if it hits on counter it stuns, allowing 
+you to set up a devastating juggle. You can of course do the Phoenix Smasher. At 
+the end of the crouch dash, when Paul starts to rise back up, you can do his WS+2 
+Thunder Palm. If you crouch dash by pressing d,D/F, you can go into the Gut Buster 
+or the Stone Breaker. Thats a mix up inside a mix up. You can also crouch dash and 
+end it by going into the Bone Breaker, adding a low hit to the crouch dash mix up. 
+Another mix up game of Paul's is the GutBuster/Stone Breaker. These can go either 
+high or low and can both be delayed. Learn how to fake your opponent out by 
+delaying. This works especially well with the Gut Buster. One of Paul's best mix 
+ups is the Hammer Strike mix up. From the Hammer Strike you can go into the Power 
+Punch or the Hangover. This is a good high/low mix up. Hold down after doing the 
+Hammer Strike and you will end the move in FC, allowing you to rise and do the 
+Thunder Palm or do the GutBuster or Stone Breaker. Paul has enough mix ups that 
+you never have to play the same way twice. This is good, the less your opponent 
+knows about what youre going to do next, the less chance he'll have to block it. 
+Paul's okizeme is some of the best in the game. Never let up when your opponent 
+hits the ground. Use reversals every once in a while, but do not over use them or 
+you will be chickened to death. Against people you know cant chicken, use them 
+more often. Remember to buffer chickens for many of Paul's moves against reversal 
+enabled characters. Moves to chicken buffer are listed in the MISC. section. Use 
+the sway to make your opponent's moves miss you, then nail him with the Phoenix 
+Smasher. Dont overuse the Phoenix Smasher and Bone Breaker. They are powerful 
+weapons but they are two edged swords. Their bad recovery time will get you 
+punished if you miss or if they are blocked. And one of the most important things, 
+learn other characters. Read through FAQs for other characters and find out what 
+moves they do, how to block them, etc. Practice with them if you have a PS2 or a 
+lot of quarters. Know your enemies weaknesses and their strong points and you 
+will be able to beat them more often. And remember, just reading this guide isnt 
+going to make you a better Paul player. It will point you in the direction you 
+need to go though. The best way to get better is to play with people who are good. 
+Learn from them. Learn what they do, what they dont do, and try to figure out why. 
+Do they always seem to catch you when you do a certain move? Do they always hit 
+you with a certain move? If you cant figure it out, ask them. Most Tekken players 
+are more than willing to help you become a better player. Its no fun playing 
+scrubs all day. 
+
+
+
+TAG PARTNERS
+
+
+
+Here I will list a few characters that I think go very well with Paul. This should 
+not be taken as a list of the people who are best to use with Paul. These are just 
+the characters I like playing with Paul. Who you use is up to you.
+
+
+
+Heihachi Mishima
+
+Hei is my favorite partner for Paul. He makes up for the areas where Paul is 
+lacking, especially in juggles. Heihachi's juggles are some of the best in the 
+game and tag juggles between Paul and Heihachi are brutal. As you should know, 
+tag juggles dont allow your opponent to regenerate any of the damage they deal 
+when he is tagged out. Heihachi also has a good mix up game. You can really 
+confuse your opponent by tagging in and out with these characters several times 
+in a match. Now I dont mean just tagging out while your opponent is standing. You 
+will be punished for this. When you juggle you should tag in the other character 
+and let the other finish it. Paul can end any of Hei's juggles with a Bone Breaker 
+and Hei can end most of Paul's with F+1,B+2,1. Off of Paul's Push Away tag throw 
+Hei can get a guaranteed D+4 stomp. Against scrubs and the computer you will some 
+times be able to hit a Demon Tile Splitter (D+1+4) unblockable that will do a 
+whole lot of damage. Hei also has a Death Fist that is faster but less damaging. 
+Stay on your opponents, do many tag juggles, and keep them confused with this 
+pair. Both Hei and Paul have very few hit points so dont get cocky. 
+
+Jin Kazama
+
+This should be played very similar to Paul and Heihachi. Jin has great juggle 
+starters and enders. Use his b,F+2,1,2 to end tag juggles and use the Soccer Kick 
+(B+4) to finish the Push Away throw. 
+
+Marshal Law
+
+This is mostly for style. Paul and Law have a tag move that is probably the best 
+looking and most impressive move in the game. Do Law's f~2~1. He touches your 
+opponent who will be stunned and crumple to the floor. This move can be tag 
+buffered, if so Paul will come in immediately. Press 2,2 and Paul will do the 
+Stone Breaker and knock them high into the air. Law comes in with a flip kick and 
+he powers up as your opponent falls. Press 1 as they fall and if timed right Law 
+will backhand them again. This is a guaranteed crowd pleaser and does a lot of 
+damage that cant be recovered. Teaming with Law lets Paul use the Incomplete 
+Somersault, or Idiot Flip Kick. Its not a great move but it is funny if it hits. 
+Paul and Law also have a special pre-fight animation together. 
+
+
+
+Try to use characters that excel where Paul does not. Characters with good 
+juggling ability, good low moves, lots of arts, etc. Paul is a good tag partner 
+for just about any character. Whatever partner you choose, you should learn him 
+just as well as you know Paul. Learn what juggle enders they can use to Paul's 
+starters and vice versa.   
+
+
+
+8. MISC.
+
+
+
+PAUL'S COSTUMES
+
+
+
+1 Black Gi
+2 Red Gi
+3 Dark Blue Leather 
+4 Black Leather
+
+
+
+PAUL's WINNING POSES
+
+After you win, hold the following button to receive the winning pose listed:
+
+1 - Paul wipes his hands together, throws his fist in the air and grunts.
+
+2 - Paul punches downward, brings his fists to his waist and grunts.
+
+3 - Paul pumps his fist in the air three times and grunts. 
+
+4 - Paul squats down and motions for you to bring it on with his hand.
+
+
+
+NETSU POWER UP
+
+
+
+When the character you are controlling is hit a certain number of times, your 
+partner may or may not receive what is called the Netsu or anger power up.  Their 
+bar will start flashing and their damage will be increased for a while. The 
+following chart shows you how many hits your partner must receive before Paul will 
+get angry.
+
+Law            4   
+Heihachi       4
+Devil          7
+Ogre           0
+True Ogre      0
+Everyone else  5  
+
+
+
+MOVES TO CHICKEN BUFFER
+
+
+
+The following moves are the most often reversed moves Paul performs.  You should 
+try to buffer a chicken after these moves when facing a reversal enabled opponent.
+
+Phoenix Smasher
+Hammer Punch
+God Hammer Punch
+Rubber Band Attack
+Gut Buster (last hit)
+
+
+
+FRAME DATA
+
+
+
+Tekken Tag runs at 60 frames per second.  This means that every second you are 
+actually seeing 60 different pictures on your screen.  Every move you do takes a 
+certain amount of these frames to execute, and after doing the move takes a 
+certain amount of frames before you can do another move.  If your opponent blocks 
+or gets hit by the move it also takes them a certain amount of frames to be able 
+to do another move.  Knowing all the frame data information isnt necessary to be a 
+good Tekken player but it can help you a lot by knowing which moves you will be 
+able to do and when and how fast they will execute.  
+
+For the frame data for all of Paul's throws, basic moves, and special arts see 
+http://www.tekkenzaibatsu.com/tekkentag/framedata.php?id=paul
+
+
+
+PAUL'S PROS AND CONS
+
+
+
+PROS
+
+Paul does a lot of damage, has a good mix up game, lots of juggle starters, lots 
+of good mid level moves, a high/mid reversal, a defensive sway, a pseudo crouch 
+dash, good okizeme, good throws, good tag moves, and a great counter attack game.
+
+CONS
+
+Paul has very few hit points, doesnt have a lot of arts, isnt a very good juggler, 
+has poor recovery time from many of his better moves, doesnt have a lot of low 
+arts, and is considered the cheapest character in the game by most people.  
+
+
+
+LOW PARRY
+
+
+
+Every character in Tekken Tag has what is called the generic low parry.  It is 
+performed by pressing D/F when your opponent performs a low move.  Your opponent's 
+limb will be thrown to the side and you will gain a little bit of frame advantage.  
+If youre going to low parry then you should know what to do after the parry.  For 
+Paul, the best post low parry move would have to be the Bone Breaker. If the move 
+you parry is a punch then your opponent will have time to block the Bone Breaker. 
+Consider using a mid hitting move when this happens, but not all the time or your 
+opponent will always block the right way.
+
+
+
+9. SUMMARY
+
+
+
+I hope this guide will help to make you a better Paul player, and a better Tekken 
+Tag player as well. I know the many FAQs on the net, especially Tekken Zaibatsu 
+have helped me become much better. Remember, Paul is seen as cheap, so earning 
+respect with him is much harder than other characters, except maybe Jin. Keep 
+practicing and show them all how wrong they are. If this guide helps you, or if 
+you want to ask me something, tell me Im wrong, etc., feel free to email me at 
+phreddkroe@tds.net 
+
+I would like to thank all the FAQ writers on the net, Tekken Zaibatsu, Namco for 
+making such a great game, and all the Tekken players around the world. If any of 
+you are ever in Gadsden, Alabama (though why the hell would you be?) you may be 
+able to find me at Aladdin's Castle in the Gadsden mall. Look for a big bald guy 
+with a goatee and glasses. Go easy on me though, just cause I wrote a guide doesnt 
+mean Im a master. :)
+
+

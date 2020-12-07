@@ -1,0 +1,815 @@
+
+**********************************************************************
+*  __     _____________  ______________  _____________  ____________ *
+* /  |   /            / /             / /            / /           / *
+*  | |  /     ____   / /   __________/ /   _______  / /   ________/  *
+*  |_| /     /   /  / /   /   ______  /   /______/ / /   /_______    *
+*     /     /___/  / /   /   /___  / /   __   ____/ /   ________/    *
+*    /            / /   /_______/ / /   /  \  \    /   /________     *
+*   /            / /             / /   /    \  \  /             \    *
+*  /____________/ /_____________/ /___/      \__\/_______________\   *
+*                                                                    *
+**********************************************************************
+
+**********************************************************************
+*                                                                    *
+* ... So much power ...                                              *
+*               ... so little time ...                               *
+*                               ... game over ... thy soul is mine!  *
+*                                                                    *
+**********************************************************************
+
+The definitive OGRE FAQ Final Version 1.00
+  
+  By:  Markus Kaufmann 
+Date:  03/18/1998
+
+
+Disclaimer:
+This FAQ can be distributed in any form, period. However, Any organi-
+zations wishing to  distribute this  FAQ for profit should contact the
+author at: 
+		tekken@starnetinc.com. 
+
+© copyright 1997 Markus Kaufmann.
+
+
+    What can I say?   Ogre is the  main man of  Tekken-3.   I have now
+played him for several months now,  and am certain that he is the most
+powerful  character in  Tekken-3.   In the past  a lot of  people have
+argued that Ogre isn't that great, since he is too slow.   Folks, I've
+got news for you ... Ogre can be as  fast as almost every  other char-
+acter in the game.   Combine that with MANY power-moves,  several 100%
+combos and a multitude of unblockables, and presto,  you have the most
+powerful guy in the game.
+
+This FAQ  is based on my own experiences as well  as the work of other
+Tekken enthusiasts  (see the credits section).  New items in this ver-
+sion include a few new entries in the Evil OGRE section.
+
+
+The God of Fighting 
+
+The legend  of the  native Americans says  the Ogre was the war weapon
+which  creatures  from outerspace  left on earth  in ancient time.  It
+understands entire structures  of all living and artifical beings, and
+absorbs them. 
+
+It wanders the earth in search of strong souls. 
+
+
+OGRE Profile:
+- Catch Copy: God of Fight
+- Nationality: Illegal alien
+- Fighting Style: All styles
+
+- Age: unknown, perhaps timeless
+- Height: varies
+- Weight: varies
+- Blood Type: cold
+- Occupation: absorbing souls, ripping off moves from other fighters
+- Hobby: absorbing souls
+- Likes: absorbing souls
+- Dislikes: being randomly manipulated by soulless button mashers,
+            not getting your soul
+
+
+
+**********************************************************************
+           _
+| |\ | |\ |_ \/
+| | \| |/ |_ /\
+
+**********************************************************************
+
+1.    Move Notation
+2.    Moves list 
+3.    Grapples 
+4.    Reversals + Reversal Counters
+5.    General Strategy
+6.    VS Human Strategy
+7.    Stuns & Juggles
+8.    EVIL OGRE
+9.    Winning Stances
+10.   Credits
+
+
+
+
+**********************************************************************
+1. Move Notation
+**********************************************************************
+
+1 ----- Left Punch Button 
+2 ----- Right Punch Button 
+3 ----- Left Kick Button 
+4 ----- Right Kick Button 
+f ----- Tap Joystick Forward 
+b ----- Tap Joystick Back 
+d ----- Tap Joystick Down 
+u ----- Tap Joystick Up 
+df ---- Tap Joystick Diagonally Down/Forward 
+db ---- Tap Joystick Diagonally Down/Back 
+uf ---- Tap Joystick Diagonally Up/Forward 
+ub ---- Tap Joystick Diagonally Up/Back 
+F ----- Move + Hold Joystick Forward 
+B ----- Move + Hold Joystick Back 
+D ----- Move + Hold Joystick Down 
+U ----- Move + Hold Joystick Up 
+DF ---- Move + Hold Joystick Diagonally Down/Forward 
+DB ---- Move + Hold Joystick Diagonally Down/Back 
+UF ---- Move + Hold Joystick Diagonally Up/Forward 
+UB ---- Move + Hold Joystick Diagonally Up/Back 
+n ----- Return Joystick To Neutral Position 
+FC ---- Press and hold down Joystick
+(WS) -- While Standing (Getting up from a crouch)
+$ ----- Sidestep (u,n or d,n) 
+MC ---- Major counter \ you hit your opponent while they are executing
+CH ---- Counter hit   /	a move ... +50% damage
+[] ---- Optional 
++ ----- At the same time 
+~ ----- Tap immediately after 
+_ ----- Or (Alternate Method)
+h ----- Move hits high
+m ----- Move hits mid
+l ----- Move hits low
+sm ---- Move hits special mid: means it can be blocked by just holding
+             joystick back.
+(g) --- Also hits grounded opponents
+{} ---- Throw Counter In Curly Brackets
+(ls) -- Left Side Throw (Done On Opponent's Left Side)
+(rs) -- Right Side Throw (Done On Opponent's Right Side)
+(bk) -- Back Throw (Done At Opponent's Back)
+(XX) -- Do Move In Brackets Before Move Listed After Brackets
+        This Is Used Primarily For Multiparts
+
+
+
+**********************************************************************
+2. Moves List
+**********************************************************************
+
+A.   General Moves
+
+f,f                      Dash Forwards
+b,b                      Dash Backwards 
+u,n                      Axis Shifting Sidestep 
+d,n                      Axis Shifting Sidestep 
+D                        Duck Completely
+u_u/f_u/b                Hop
+U_U/F_U/B                Jump 
+f,f,f                    Run(RN) 
+    (RN)B                   Stop Running 
+    (RN)1+2                 Flying Cross Chop (BS, m, 15 dmg)
+    (RN)3                   Slash Kick (m, 30 dmg)
+
+    (RN)4                   Slide 
+1                        Left Punch			h	8	
+2                        Right Punch			h	10
+3                        Lazy Side Kick			h	20
+4                        Boot to da Head *see next sec*	h	28
+df+1                     Uppercut-Elbow (non-reversbl!) m	16
+df+2                     Lifting Uppercut (Juggles) 	m	10
+df+3                     Side Kick 			m	15
+df+4                     Toe Kick 			m	12
+u+2_uf+2                 Quick Pounce (On Floored Opponent)	12
+U+2                      Hard Pounce (On Floored Opponent)	24
+1+2+3+4                  Powerup Charge 
+			[Powers Up All Moves For A Few Seconds and] 
+			[first hit is scored count as counter-hit.]
+
+
+B.  Ground Recovery
+
+~1_~2_~3_~4              Immediate Recovery (After Knockdown)
+1                        Roll Sideways
+2                        Quick Recovery 
+3                        Low Sweep
+4                        Side Kick (hits medium)
+D+1                      Roll Over
+D+(3_4)                  ** Ankle Kick (OGRE DOES NOT HAVE THIS MOVE!)
+U                        Get up quickly
+F                        Roll Forwards
+F,f+1+2                  ** Forward Rolling Lunge **
+                         (OGRE DOES NOT HAVE THIS MOVE!)
+B                        Roll Backwards
+B,b+3+4                  ** Roll Backwards, Handspring Up **
+                         (OGRE DOES NOT HAVE THIS MOVE!)
+B,f+1+2                  ** Roll Backwards, Forward Lunge **
+                         (OGRE DOES NOT HAVE THIS MOVE!)
+
+[*Note* Many of these moves can be chained together.                ]
+[       I.E: 1,B,3 = roll sideways, roll back, sweep                ]
+						
+
+C. OGRE's Moves
+						Hit-
+Input			Description		Height	Damage
+
+d+1			Low Jab		sm	5
+2,2                      Right Jab, Backhand	hh	12,21
+1,1,2                    Shining Fists Combo	hhm	5,8,15
+1,2,2                    Demon Slayer		hhh	5,8,18
+f+2                      Power Punch		m	28
+df+1,2                   Double Facebreaker	mm	16,10
+(WS)+1			Quick Uppercut		m	8
+(WS)+2                   Demon Godfist (s)	m	25
+f,f+1+2                  Clapper Attack		m(g)	40
+(u_uf),n,1+2/uf+1+2      Knuckle Bomb		m	35
+FC,df+2                  Cold Blade		l	25
+FC,f+1                   Groin Punch		m	30
+FC,f+2                   Cat Thrust		m	40
+ub+3,2                   Backflip > Tooth Fairy	mm	20,25
+FC+3,3,3                 Snake Kicks		ll(g)l	12,19,7
+FC+3,3,n,3               Demented Snake>Launch	ll(g)m	12,19,25
+f,f+3+4                  Exploder		h	40
+f,f,F,3+4                Running Exploder	h	40
+f,f,n,3+4                Hop -> Slide Kick	l(g)	15
+f,F+4                    Bazooka Leg		h	35
+uf+3,4,3                 Hunting Hawk		mhh	15,14,25
+f,f,3                    Axe Kick		m	23
+f,f,n,4                  Axe Heel Crush 	m	20
+f+4                      Standing Tsunami Kick	m	27
+d,db+4                   Blazing Kick		m	30
+(WS)+4,4                 Tsunami Kick		mm	12,21
+(WS)+3,3,d+3,3,3....     Infinity Kicks	    	mmlm  	10,25,15,10,10
+d+4,4                    Shin Kick > High Kick	lh	7,20
+d+3			Low kick		l(g)	10
+f+1+4                    Black Shoulder		m	30
+
+4~3			Demon Scissors		m(g)	25
+
+Unblockables
+
+db+1+2                   Bloody Scissors	m	50
+b,b+1+2                  Indigo Punch		m	100
+f,f+2                    Snake Bite 		m	15,20
+f,f,n,2                  Kunai Advance		m	25
+B+2                      Kunai Blow		m	22
+B+2+3                    Sidewinder		m	60
+uf,D+1+2/uf+1+2~D        Super Knuckle Bomb	m	45
+
+
+
+**********************************************************************
+3.    Grapples 
+**********************************************************************
+
+A.   Standard Throws
+
+1+3                      Gorilla Press {1}
+2+4                      Bear Hug {2} 
+df,df+2+4                Waning Moon {CAN'T BE ESCAPED!} -[from Wang]
+(ss left) 1+3_2+4        Telekinetic Spanking {1}
+(ss right) 1+3_2+4       Hanging Neck Slam {2}
+(from behind) 1+3_2+4    Telekinetic Choke Slam {NO ESCAPE}
+
+
+
+
+**********************************************************************
+4.   Reversals + Reversal Counters
+**********************************************************************
+
+Reversal:
+
+B+1+2                    Ancient Power (reversal) 
+                         ** reverses ALL high attacks only **
+
+B.  Reversal Counters (Chickens)
+
+F+1+3 - Rev. Counter (Start of Opponent Countering Your 1 or 3 Move)
+F+2+4 - Rev. Counter (Start of Opponent Countering Your 2 or 4 Move)
+
+C. Throw Counters
+
+         
+* General - Left Throw (1+3)                                     - 1
+            Right Throw (2+4)                                    - 2
+                                                                 
+* Eddy    - Spiraling Hip Toss (HCT,f+1+2)                       - 1+2
+
+* Hwoarang- Jawbreaker (f,F+2)                                   - 2
+            Boot to the Head (QCB+3)                             - 1
+            Trip Takedown (d,DB+1+3)                             - 1+2
+
+* Jin    -  Striking Shiho-Nage (df+2+3)                         - 2
+            Stone Head (f,f+1+2)                                 - 1+2
+            Complicated Wire (QCB+1+3)                           - 1
+
+* King   - DDT (db,db+1+2)                                       - 1+2
+           Tombstone Piledriver (db,f+1+2)                       - 2
+           Coconut Crush (df+2+3)                                - 2
+           Giant Swing (f,HCT+1)                                 - 1
+           Figure 4 Leglock (db+1+2)                   (reverse) - 3+4
+							(escape) - 1+2
+           Irish Whip (b+1+2)                                    - 1+2
+           Spinning Ground Smash (Irish Whip, 3+4)               - 3+4
+           Quick Slam (Irish Whip, 2+4)                          - 2
+           Spin & Let Go (Irish Whip, 1+3)                       - 1
+           Turn Around & Let Go (Irish Whip, 1+2)                - 1+2
+           Jaguar Driver (d,df,f+1)                              - 3+4
+           Jumping Powerbomb (Jag. Drvr, 1+2,u,d,n,3+4)        - d+3+4
+           Standing Achilles Hold (f,n,d,df+2+3)                 - 2
+           Scorpion Death Lock (SACH, 1+2,3,1,1+3)               - 2
+           STF (SACH, 1,2,3,1+2)                        (escape) - 1
+						       (reverse) - 1+2
+
+           Indian Death Lock (SACH, 1+2,1,3,1+2,4)      (escape) - 1+2
+						       (reverse) - 3+4
+           Single Arm Hyperextension (f,n,d,df+1+4)              - 1+2
+           Double Arm Hyperextension (SAH, 1+2,1+2)              - 1
+           Reverse DDT (SAH, 1+2,4,2+4)                          - 2
+           Chicken Wing Face Lock (SAH, 2,1,1+2+3)               - 1+2
+           Dragon Sleeper (SAH, CWFL, 2,1,3,1+2+3,1+2+3)         - 1
+           Rolling Death Cradle (SAH,CWFL, 1+3,3+4,2+4,1+2,1+2+3)- 2
+           Left Reverse Arm Clutch (df~1+3)                      - 1+3
+           Right Reverse Arm Clutch (df~2+4)                     - 2+4
+           Back Drop (Left RAC, 2,2,1+2)                         - ??
+           Back Drop (Right RAC, 2,2,1+2)                        - ??
+           German Suplex (Left RAC, BD, 3+4,1+2)                 - 3+4
+           German Suplex (Right RAC, BD, 3+4,1+2)                - 1+3
+           Powerbomb (RFN, CB, 1,2,3+4)                          - 1+3
+           Manhattan Drop (3+4,1+2,ALL)                          - 2+4
+	   Giant Swing (Left RAC, BD, GX, PB, 2,1,3,4)           - 2+4
+           Giant Swing (Right RAC, BD, GX, PB, 2,1,3,4)          - 1+2
+           Giant Swing (RFN, CB, PB, 2,1,3,4)                    - 2+4
+           Giant Swing (RFN, CB, MD, SF, 2,1,3,4)                - 1+3
+           Split Powerbomb (RAC, BD, GX, PB, 3,1,2,3+4,ALL)      - 2+4
+           Split Powerbomb (RFN, CB, PB, 3,1,2,3+4,ALL)          - 1+3
+           Split Powerbomb (RFN, CB, MD, SF, 3,1,2,3+4,ALL)      - 2+4
+           
+* Law    - Chastisement Punch (df+1+2)                           - 1+2
+           Dragon Knee (f,f+3+4)                                 - 1+2
+           Body Slam (F+2+3)                                     - 1+2
+
+* Lei    - Thai Trip (f,f+1+2)                                   - 1+2
+           Trip & Elbow (uf+1+2)                                 - 1+2
+           Neck Shake Throw (Dragon Stance, 1)                   - 1
+
+* Nina   - Elbow Smash (df,df+1)                                 - 1+2
+           Chin Bash (QCT,1+2)                                   - 2
+           Standing Reverse Arm Lock (CB, 1,3,2,1)               - 1
+           Rear Gatelatch Falconwing Squeeze (SRAL, ...)         - 1+2
+           Falling Reverse Arm Lock (SRAL, ...)                  - 1
+           Knee Bash -> Neck Snap (CB, 2,3,4,2,2)                - 2
+           Octopus Special (CB, NS, ...)                         - 1+2
+           Falling Neck Snap (CB, NS, ...)                       - 1
+           Crab Claw (QCT+3+4)                                   - 1
+           Rolling Arm Bar (CC, ...)                             - 1+2
+           Achilles Tendon Lock (CC, ...)                        - 2
+           Knee Cross Lock (CC, ATL, ...)                        - 1
+           Rolling Achilles Tendon Lock (CC, ATL, ...)           - 1+2
+           Twisting Shoulder Break (2,1,1+2,1+2+3)               - 2
+
+* Paul   - Striking Shiho-Nage (df+1+2)                          - 1+2
+           Shoulder Ram (f,f+1+2)                                - 1+2
+
+
+* Xiaoyu - Human Hurdle (f+2~1)                                  - 1+2
+           Over-Shoulder Throw (QCB+2)                           - 2
+
+* Yoshimitsu - Skydiver (QCB+1+2)                                - 1+2
+
+
+
+**********************************************************************
+5.    General Strategy
+**********************************************************************
+
+A.  Crouch Potato (from the Sauer Kraut)
+    Most of Ogre's greatest moves can only be started from a crouching
+position. Therefore, your entire strategy should revolve around SAFELY
+getting into  a full crouch.   If your opponent likes to turtle,  this
+should be no problem, but if you're facing a non-stop attack, it'll be
+fairly difficult to crouch without getting your pants beaten severely.
+To safely crouch, you'll have to develop a decent poke with Ogre.  The
+pokes  I have listed  below are  designed to do just that.   Mind you,
+these are certainly not the only pokes for Ogre (more on that later).
+Crouch pokes:
+	a.)  1~1,d+1,...
+        b.)  d/f+1,d+1
+	c.)  d+1
+So what can you do after you crouch?   Here are the  moves I find most
+useful:
+	a.)  Snake Kicks (FC+3,3,3 or FC+3,3,n,3)
+	b.)  Infinity Kicks (WS+3,3,d+3,...)
+	c.)  Demon Godfist (WS+2)
+	d.)  Hop-Kick (u_u/f+4)
+	e.)  Cold Blade (FC,d/f+2)
+	f.)  Cat Thrust (FC,f+2)
+	g.)  Left Uppercut (WS+1)
+Mixing up the  snake kicks with the infinity kicks  will be  enough to
+win against 90% of your opponents.   OGRE has the ability to turn each
+mach into a  complete guessing game  for his opponents.   Once you are
+crouched  your opponent has to commit himself to blocking high or low.
+With the snake kicks,  it actually turns into a  double guessing game,
+since not  only do they have to  guess right initially,  but they also
+have to guess the mid or low ending.
+
+B.  Sidestepping (u,n)_(d,n)  (from the Sauer Kraut)
+    Side-stepping is  one of the biggest improvements in Tekken 3, and
+it is vital  that you learn  how to  effectively  side-step during the
+match. Use the side-step anytime your opponent  is rushing at you with
+a linear attack (i.e a combo or tenstring that doesn't track well-Laws
+punch rush, etc.).   Moreover,  Ogre has the  biggest side-step in the
+game.   His side-step is so big, that I've side-stepped  out of King's
+tenstrings at times.  When you successfully side-step you have several
+options:
+    1. You can side-step, pause and go for a side or back-throw
+    2. You can side-step and start a combo/juggle of your choice    
+Remember that just about EVERY move in the game can be side-stepped,
+although against some moves you'll have to double-side-step.  It also
+makes a big difference as to which way you side-step.  Example:  Bob's
+(Hwoarang's) kicks - if he's doing his right-kick strings (4,4...) you
+will have to step to YOUR right, if Bob's doing his left-kick strings
+(3,3...),  you will have to step to YOUR left.   Moves that  you might
+think are impossible to side-step, but which I HAVE successfully side-
+stepped:
+    a.) Heihachi's hell-sweeps (actually easier than you might think)
+    b.) Paul's sweep (d+4) (very hard, but OGRE can do it at times)
+
+    c.) Nina's Can Opener (u/f+4,3,4)
+    d.) Any jump kick/slash kick (f,f,f+3)
+    e.) Law's punch combos
+    d.) Lei's punch rush
+    f.) Nina's d+4,1 (you have to go to YOUR right)
+
+C.  Snake Kicks (FC+3,3,3 or FC+3,3,n,3)  (from Baek)
+    There are two ways to do the snake kicks -  with a mid finish, or
+with a low finish.  To do the mid finish, go into a full crouch (hold
+joystick down for half a sec.) and hit 3,3,3 -  returning the joystick
+to a neutral position after the first kick is executed.   If the first
+hit hits as a counter,  the last hit will juggle,  guaranteed.   To do
+the low finish,  just keep holding the joystick down during the entire
+combo.
+    Not only  do the snake kicks  do decent damage,  but they are IMHO
+OGRE's greatest juggle starter, decent for okizeme, and utterly frust-
+trating for your opponent. If you are going for the mid finish, don't
+forget  to buffer a  chicken for the  last hit against characters that
+can reverse  (Nina, Paul, Jin).   If you're doing the low-finish, many
+people will  try to  rush in  after the last hit.   If the last hit is
+blocked, then make sure to block (hold your Joystick back) If the last
+hit connects then to keep them at bay, simply buffer in a 4,4 and Ogre
+will do the Tsunami kicks right after the  Snake Kicks.  (It's kind of
+like Heihachi's  sweeps at that point :).   If you are using the Snake
+Kicks for okizeme purposes,  only perform the first two!  The last one
+does not hit,  and due to its  recovery time will  leave you wide-open
+for a counter-attack.
+   
+D.  Punches (1_d+1_1,1_1,2_2,2_1,1,2_1,2,2) (from Kazuya/Heihachi)
+    Who said OGRE is slow?  His punches are as fast as everyone else's
+and his low poke (d+1) is faster than most.  Anytime someone tries to
+go toe-to-toe with ya, stick to the punches to fend them off.
+
+E.  Power Punch (f+2)  (from Wang)
+    At first glance this move might seem somewhat useless, but you can
+use it to  great effect.   If you're doing the  crouch poke, this is a
+great way to mix it up so that instead of doing something like 1,1,d+1
+you're doing 1,1,f+2.   If this punch connects,  your opponent will be
+grounded, setting you up for some follow-up okizeme.   It's long range
+also makes it a good move to  interrupt opponents who like  to use at-
+tacks that push you away from them.   A perfect example is Jin's Laser
+Cannon (b,f+2,1,2).   A lot of people like  to do this combo  over and
+over.  With OGRE, however, you can use the  f+2  to interrupt them and
+knock them down, again, remember to buffer in that chicken (f+2+4).
+
+F.  Clapper Attack (f,f+1+2)  (from Wang)
+    OGRE's ultimate okizeme move.   This move does 40 points of damage
+on standing AND grounded opponents  (might actually be more if you are
+grounded).  The move comes out kind of slow, however it does duck high
+attacks. If you're using this to hit grounded opponents, remember that
+if your opponent does a quick recovery, it won't hit. Even though it's
+'techable' it is still the ultimate finisher.  Also, if your opponent
+does manage to tech the Clapper, get ready to escape a side-throw at-
+tempt, since they will end up right next to you. The easiest way to do
+
+this is to hit 1,2,1,2.  
+
+G.  Right Roundhouse (4)  (from Kazuya/Heihachi)
+    This is a  'special'  move with OGRE.  OGRE's right kick comes out
+fairly  fast,  hits high,  and it  does a tremendous amount of damage.
+Most importantly,  OGRE's right kick does  not get a clean hit penalty
+Most hits get a clean hit penalty, to tone down the damage they can do
+in counter-hit situations.  OGRE's right kick does not have this limi-
+tation, making it great for juggles. 
+
+H.  Hop-Kick (u/f+4)  (from the Sauer Kraut)
+    Other than the Snake Kicks, this is OGRE's greatest juggle starter
+This move also seems to have greater range than some of the other hop-
+kicks in the game.  Throw this move in every once-in-a-while, and use
+it if your opponent gets into the habit of ducking your grab attempts
+(especially after you side-step).
+
+I.  Throws (1+3_2+4_d/f,d/f+2+4) (from Jack-2/Kuma/Wang)
+    OGRE has an incredible throw range - use it!  A LOT!   If you know
+your opponent is coming in with an attack, throw them right out of it.
+His Gorilla Press (1+3) will leave your opponent in a face-down posi-
+tion which will allow you to follow up with a Clapper Attack (f,f+1+2)
+for some serious damage.  If you can get down OGRE's Waning Moon (aka:
+Spin-behind Elbow Smash) then use it, since it also can be followed up
+with some great combos and it is inescapable.
+
+J.  Demon Godfist (WS+2)  (from Kazuya)
+    Another awesome move for OGRE.  This move will stun on a counter-
+hit, setting you up for some great combos.  If you stun your opponent,
+the easiest thing to do is to follow it up with a right kick. Here are
+my favorite follow ups:
+    a.) WS+2(s),4,u/f,n,D+1+2  - pretty easy, good damage, expert 
+                                 players won't fall for the last hit.
+    b.) WS+2(s),1+3,f,f+1+2    - little harder, better damage, and I'm
+                                not sure if the last hit is guaranteed
+    c.) WS+2(s),d/f,d/f+2+4,D,d/f+2,f,f+1+2 
+                               - The monster!  I think Jason Cole came
+                                 up with this one.  Needless to say,
+                                 it's very difficult to pull off...
+
+K.  Hop + Slide (f,f,n,3+4)  (from Lee)
+    A great medium-range move, and great for okizeme.  OGRE performs a
+short hop and then slides into his opponent.  This move will hit groun
+ded opponents.  It is however 'techable'.  When you are performing this
+move, you can pause for almost a second between your f,f input and the
+3+4 button input.  This allows you to really setup some nasty okizeme
+strategies, since you can mix this move up with the Kunai Advance un-
+blockable (f,f,n,2).  Let's say you knocked down the other guy with a
+Snake Kick - Right Kick juggle.  Immediately do the f,f motion, then
+wait to see if they are doing a quick recovery, getting up to block
+high or low, etc.  Depending on what your opponent does you can either
+do the unblockable, do the slide, or do nothing:
+
+FC+3,3,n,3,4,f,f,n \----> opponent lies there           -->,3+4(slide)
+                    \---> opponent gets up, blocks high -->,2 or 3+4
+                     \--> opponent gets up, block low   -->,2 (stab)
+
+                      \-> opponent rolls away           --> nothing
+                      /-> opponent rolls towards you    --> 3+4
+                      \-> opponent quick recovers       --> nothing
+
+L.  Snake Bite (f,f+2)  (unblockable)
+    One of OGRE's best unblockables, even though it can be escaped. It
+can be followed up with several moves for additional damage:
+    a.) f,f+2,d+4,4
+    b.) f,f+2,D,d/f+2
+    c.) f,f+2,D,3,3,n,3 (this one is still unconfirmed...)
+
+M.  Low Kick to High Kick (d+4,4)  (from Lee)
+    Such an annoying attack (kind of like Nina's d+4,1).  If the first
+hit connects as a counter, the second one is guaranteed.   A very good
+way to open the round and also good as a juggle filler and poke.   You
+can actually imitate Hwoarang by chaining this move to OGRE's 1,1 pun-
+ches.  OGRE will do 1,1,d+4,4 VS Hwoarang's 1,1,3,3.  Kinda cool, hehe
+
+
+
+**********************************************************************
+6.    VS Human Strategy
+**********************************************************************
+
+A.  Poking ... (from the Sauer Kraut - by way of CA)
+    What is poking? Essentially it is a way of stringing various quick
+moves together to form a non-stop attack, making it difficult for your
+opponent to interrupt you.  A good Law or Nina player should be fairly
+familiar with this practice.  What comes as a surprise to many is that
+OGRE actually has decent poke potential, although with OGRE, even more
+so than with other characters, the purpose of poking is to set up your
+opponent to get slammed with a high-damage move or juggle. Let's begin
+with some poke starters:
+    a.) 1,1 or 1,2	good speed-hits high -soso recovery
+    b.) 1 or 2		good speed-hits high -good recovery
+    c.) d/f+1		med. speed-hits mid-not reversible-good
+			recovery-guaranteed follow-ups
+    d.) d+1		OGRE's fastest punch-hits sp. mid-good
+			recovery
+Alright, so now you know how to get started, let's string  a few pokes
+together.  Again,  keep in mind that you are  trying to setup your op-
+ponent.  In effect you're training them to block a certain way.
+    1,1,d+1,WS+1,1,1,d+1,WS+1,...  sort of an infinite, lots of quick,
+				   small stuff.
+    1,1,d+4,4			Hwoarang imitation.
+    1,1,2_f+2_u/f+4		This will keep them honest, if they're
+				starting to anticipate the 3rd hit low
+    1,1,d+4,f+2			This will keep'em honest if they know
+				to duck for the second kick (4th hit).
+    d/f+1,d+1,WS+1,1,1...       Playing someone who like to reverse?
+				Use the d/f+1 elbow to start
+I think you get the idea by now. How about those power finishes? Ahhh,
+so many choices ... Again, if they're anticipating your low punches or
+kicks in the poke strings, then change your pattern, ie. if you're do-
+ing 1,1,d+4,4 and your opponent starts to consistently  duck after the
+first punches, then do a string like 1,1,2 or 1,1,f+2 or 1,1,u/f+4 in-
+stead. If you safely get yourself into a crouching position, as in any
+poke ending with the d+1 low jab then you've got a lot of options open
+to you:
+    a.) Snake Kicks 	       Don't overuse this against good players
+			       but definitely USE it. Make sure to mix
+
+			       up the high/low finish.
+    b.) Infinity Kicks	       Excellent way to mix up with the Snake
+			       kicks.  Remember, only do the first 3
+			       or four kicks ... otherwise you'll pay.
+    c.) Demon Godfist	       Going for a stun combo?  Cool!  This is
+			       one of the safest moves OGRE has, only
+			       Jin can reverse it and if it's blocked,
+			       you don't really lose anything.
+    d.) Cold Blade	       Hits low and juggles.  Just remember
+			       that it has limited range and fairly
+			       poor recovery time.
+    e.) Cat Thrust	       Huge damage potential in this one, but
+			       it's risky because of its poor recovery
+			       time. On counter-hit this one can be
+			       followed up with a 100% combo.
+    f.) Hop Kick	       Catches a lot of people by surprise and
+			       has good enough recovery time to not
+			       penalize you.
+    g.) Hunting Hawk	       Very stylish, and fairly safe.
+
+B.  Vary your game
+    Don't get caught up in the same patterns  over and over again, cuz
+good opponents will learn them and figure out a way to  beat them.  If
+you notice  that a lot of your  stuff is getting blocked,  then change
+your style/method of attack.  Let's say your poke isn't really getting
+to them  (unlikely as that may  be with OGRE),  start throwing in more
+grabs, or fight them straight up with lots of side-steps, etc. OGRE is
+fairly versatile and makes for a pretty  good turtle as well.   If the
+other player is blocking everything you're throwing at them ... relax
+... take a load off ... let them do the attacking for a while. As soon
+as they leave themselves open ... stick it to'em.
+
+C.  Stick to Basics
+    Don't get caught up in OGRE's power arsenal too much.  Remember,
+to be truly effective against good competition you have to set up your
+opponent.  OGRE's power moves are mostly very slow and have poor re-
+covery times.  Since I've started to get away from the power moves, I
+have started winning a lot more games with him.
+
+D.  Power-up (Chi Charge)
+    If your opponent likes to wait for you to attack  (and is a couple
+of character lenghts away), do the Chi Charge to power up. Any hit you
+manage to connect while you are charged will count as a major-counter.
+If you manage to charge up you should probably go for either the Snake
+kicks (FC+3,3,n,3)  which will juggle guaranteed,  or the Hunting Hawk
+(u/f+3,4,3).  This will keep your opponents guessing.
+
+
+**********************************************************************
+7.  Stuns & Juggles 
+**********************************************************************
+
+[*NOTE* If the last move of a combo listed below is marked with an   ]
+[       asterisk (*), then the last move is 'techable', meaning that ]
+[       your opponent can perform a quick recovery to get out if it  ]
+[       Normally I wouldn't include a 'techable' finish with a combo,]
+[       but OGRE's damage potential on that last hit is so great     ]
+[       (40-60+ points), that you can't ignore them                  ]
+
+A.  How To Juggle
+    Start with with one of the juggle combos. The last hit should  get
+your opponent into the air (aka: a float). Then do a juggling combo to
+
+keep your opponent in the air. You can also precede the juggling combo
+with a Stun move.
+
+
+B.  Stun Moves 
+
+WS+2(s)			Demon Godfist (s) = stunned opponent on CH
+f,f,f+3(bs)             Slash Kick (bs) = block stun
+f,f+3			Bazooka Leg (bs)= block stun when blocked high
+f,f+2			Snake Bite
+FC,f+2			Cat Thrust (s) = stunned opponent on CH
+F+1+4			Black Shoulder (bst) = block stun with your
+                                               back turned
+
+
+[*Note* Let me know (tekken@starnetinc.com)if I missed any Stun Moves]
+
+
+C. Juggle Combo Opener (** = full combo guaranteed after stun)
+
+d/f+2                   Juggling Uppercut **
+u/f+4                   Right Hop Kick **
+FC+3,3,n,3		Demented Snake (last hit juggles, guaranteed
+                         juggle if first hits as CH)
+d,d/b+4                 Blazing Kick (juggles on CH)
+FC,d/f+2		Cold Blade
+[*NOTE* Tell me (tekken@starnetinc.com) of any missed Juggle Openers]
+
+
+iv.  Juggling Combos
+
+[*NOTE* I don't have all of them yet, but these should be enough... ]
+
+u/f+4,4
+u/f+4,d/f+1,4
+u/f+4,1,2,d+4,4
+u/f+4,1,n,2,2
+u/f+4,u/f+4,d+4,4
+d/f+2,1,2,d+4,4
+FC+3,3,n,3,4,u/f,n,d+1+2(*)
+FC+3,3,n,3,u/f+4,1,1,2
+FC+3,3,n,3,d/f+1,4
+FC,d/f+2,FC+3,3,n,3
+FC,d/f+2,d+4,4
+$,u/f+4,1,f,f+1+2	If you sidestep far enough you will get a side
+			juggle, landing your opponent face down, this
+			way the f,f+1+2 is guaranteed.
+
+v.    Stun Combos
+
+f,f,f+3(bs),4,f,f+1+2(*)
+WS+2(s),4,u/f+1+2~D(*)
+WS+2(s),4,f,f+1+2(*)
+WS+2(s),u/f+4,1,1~1,2
+WS+2(s),u/f+4,4
+WS+2(s),u/f+4,d/f+1,4
+WS+2(s),u/f+4,d/f+1,4
+WS+2(s),d/f,d/f+2+4,f,f,FC,d/f+2,D+3,3,n,3
+WS+2(s),d/f,d/f+2+4,f,f,FC,f+2
+WS+2(s),d/f,d/f+2+4,f,f,FC,d/f+2,f,f+1+2 (JC's 100% combo!)
+WS+2(s),d/f,d/f+2+4,FC+3,3,n,3,4
+WS+2(s),1+3,d+3
+WS+2(s),2+4,d+3
+WS+2(s),1+3,f,f+1+2(*)
+FC,f+2,d+1,f,f+1+2  			(another 100% combo by JC)
+f,f+2,FC,d/f+2
+f,f+2,d+4,4		This one doesn't always connect, depends on 
+			how far they land away from you (the farther,
+			the better...)
+
+
+**********************************************************************
+8.  Evil OGRE (custom combos/tactix to really piss off your opponent)
+**********************************************************************
+
+A. Custom combos
+
+     1. Side-step to start your match (to your right). A lot of people
+        will go right by you, for an easy side/back throw
+     2. Snake Kicks, Snake Kicks, Snake Kicks ... you get the idea.
+     3. Throw, Throw, Throw ... ditto.
+     4. Any time your opponent is close, or is recovering from a move,
+        do the Snake Bite (f,f+2) followed by either an immediate 
+	d+4,4 OR FC,d/f+2
+     5. Throw in an occasional unblockable, OGRE has lots of them to
+        choose from. The Kuni Blow (b+2) works for close-up situations
+        and the Sidewinder (b+2+3) will catch a lot of people with its
+	surprising range and tracking ability.
+     6. If you stagger your opponent with a d/f+2, do an immediate
+	Kunai Advance unblockable (f,f,n,2).  It just about guaranteed
+	to hit.
+     7. When you're far away from your opponent, run up to them and do
+        either:
+	a.) side-step --> combo/side-throw
+	b.) throw
+
+	c.) hop-kick
+
+- Change your fighting style. I.e Lots of punches in one round, kicks
+  in the next, side-steps in the next, grabs in the next, etc.
+- Here's one I'm still working on:  Instead of reversing or breaking 
+  an opponents TENstring, SIDE-STEP out of it and get a free back-
+  throw.  I should have some side-step break points soon ... OGRE can
+  definitely side-step out of King's 1,2,1,1,3,3 tenstring
+
+
+B. Okizeme
+   Here's what you do:
+     1.  Knock down your opponent (preferably w/ your fav. juggle:)
+     2.  If they don't know how to get up quickly do the Clapper
+         Attack (f,f+1+2)
+   If you are not going for the Clapper,  then you should be doing the
+   following strategy:
+     a.) Tap f,f  (you should end up about 1.5 to 2 body lenghts from
+		   the grounded opponent)
+     b.) If they do not get up, or get up blocking high, you should go
+	for the slide (f,f,n,3+4)
+     c.) If they quick recover, or get up blocking high OR low, do the
+	Kunai Advance unblockable (f,f,n,2)
+     d.) Back off a step and repeat the above pattern
+     
+
+
+**********************************************************************
+9.   Winning Stances
+**********************************************************************
+
+    To do the winning stance of your choice, you must *WIN* then hold
+the button  number for the desired winning stance sometime before the 
+replay ends.
+
+1 -- 
+2 -- 
+3 -- 
+4 -- 
+
+
+**********************************************************************
+10.  Creditz
+**********************************************************************
+
+Biggest thanx to (u know who u r) for giving tons of OGRE info...
+Thanx to Ben Cureton for his FAQ(s)
+Thanx to Josh Kim for input and proof reading
+Thanx to Jason Cole (JC) for his 100% combos
+Thanx to all the local guys who've helped me to improve my OGRE by
+serving as punching bags for him ...d-:

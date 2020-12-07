@@ -1,0 +1,1570 @@
+**************************************************************
+* Tekken 4 FAQ file                                          *
+* Return of the Jaguar                                       *
+* A COMPLETE guide to King                                   *
+* Completed on 09/21/01                                      *                          
+* By Dark Man X(darkmanx@tekken.cc)                          *
+* copyright 2001-2002 Dark Man X                             * 
+**************************************************************
+               
+
+
+LEGAL STUFF
+IMPORTANT: YOU MUST READ AND AGREE TO EVERY PART AND EVERY WORD OF THIS 
+DISCLAIMER. USING THIS FAQ ACKNOWLEDGES AGREEMENT OF THE DISCLAIMER.
+
+This FAQ and everything included in it is protected by International 
+Copyright Law. Failure to comply to any of the laws above will result 
+in violation of the laws mentioned BELOW, and consequently, may be the 
+cause of legal action against all perpetrators. ANY breach of 
+copyright(not to mention plagiarism) is a CRIME. If you disagree with 
+ANY part of this disclaimer, get rid of this FAQ IMMEDIATELY. This FAQ 
+and everything included within this file CANNOT be reproduced in any 
+way, shape or form (physical, electronical, or otherwise) aside from 
+being placed on a freely-accessible, non-commercial web page in its 
+original, unedited and unaltered format. This FAQ CANNOT be used for 
+profitable purposes (even if no money would be made from selling it) or 
+promotional purposes. It CANNOT be used in any sort of commercial 
+transaction. It CANNOT be used as a bonus, gift, etc., with a purchase 
+as this creates incentive to buy, and is therefore prohibited. 
+Furthermore, this FAQ CANNOT be used by the publishers, editors, 
+employees or associates, etc. of any company, group, business, or 
+association, etc., nor can it be used by game sites and anything 
+related to it. It cannot be used in magazines, guides, books, etc. 
+or in any other form of printed or electronic media (including mediums 
+not specifically mentioned) in ANY way, shape, or form (including 
+reprinting, reference or inclusion), without the express written 
+agreement of the author, myself. It has been known to many FAQ writers 
+and FAQ readers that the following publishers/publications/companies 
+have ripped from many Tekken authors in the past, namely: the Ziff-Davis
+ Video Game Group (publishers of EGM, Expert Gamer, etc.), and Game Cave.  
+If you like reading free FAQs, and want to continue to keep it that way, 
+I URGE you NOT to read any of their damn magazines and to refrain yourself 
+from buying anything at Game Slave, oh my bad, I meant Cave. This applies 
+to every FAQ swindling company:
+
+THAT ESPECIALLY MEANS ALL OF YOU COCKSUCKERS AT GAME CAVE! YOU'VE BEEN 
+STEALING EVERYONE'S FAQS FOR BLOOD MONEY FOR TOO FUCKIN' LONG, AND IF I 
+FIND OUT YOU ARE MAKING MONEY OFF OF MY GODDAMN FAQ, I AND MANY OTHERS 
+WILL TELL YOUR PROVIDERS TO SHUT YOUR ASSES DOWN FOR GOOD AND SEND YOU 
+BACK TO THE SHITHOLE YOU CAME FROM!!! 
+
+I, Fabian Rosales(Dark Man X), created and owns this FAQ. To continue, 
+this FAQ and everything included herein is protected by the Berne 
+Copyright Convention of 1976, not to mention International Copyright 
+Law. The Tekken series, and all related events/characters are (c) of 
+Namco Hometek. All Rights Reserved. All copyrights and trademarks that 
+are not specifically mentioned are acknowledged and respected in this 
+FAQ.  
+
+
+
+IN OTHER WORDS, DON'T F*** WITH MY FAQ! ANYONE THAT MAKES MONEY OFF MY 
+FAQ WILL GET THEIR ASS SCREWED INTO THE GROUND BY LAWSUITS. IF YOU'RE 
+NOT GOING TO USE THIS TO IMPROVE YOUR KING, DAMNIT, DON'T READ ANY 
+FARTHER.   
+
+
+This FAQ is ONLY available at:
+
+Tekken Zaibatsu
+
+
+No other should have this FAQ!!! If any other website has this FAQ, 
+PLEASE E-MAIL ME!!! Send me the address as no other websites besides 
+the one mentioned before should NOT have my FAQ!!!
+
+
+
+
+
+PREFACE
+The reason I wrote this FAQ is simple: King has been one of my most 
+effective characters since the first Tekken. There are many schools of 
+King. Myself, my King is super aggresive, focusing on Oki. This FAQ is 
+create in this fashion. Sit back, read, study, and enjoy.........
+
+
+
+
+
+
+
+INDEX
+
+Version Update
+      1.0 09/27/01   Original.    
+      2.0 07/18/02   Complete overhaul of FAQ. I found my earlier version 
+to be too wordy and personal. Plus, it sucked ass.  
+
+
+About the Author
+
+I. Legend     
+
+II. Credits and thanx
+
+III. King
+      Movelist and ratings 
+      Throws and the chains
+      What throws to use
+      In-depth Strategy
+               Offense
+                  Poking strings
+                  Crouch Dash
+                  Wall Offense
+                  Wake up Games
+                  Combos
+
+IV. Vs. Strategy
+
+V.  Conclusion
+                      
+
+ 
+
+
+
+
+ABOUT THE AUTHOR
+If you're gonna read my work, you gotta know at least something about 
+the author. My real name is Fabian Rosales(just in case you didn't read 
+the disclaimer.) I've been playing Tekken since T1 came out in '94(I was 
+only 11 at the time!) Now I'm 18, oh shit!!!!! With my free time, I write 
+rhymes. I'm already out of high school and college bound. I ain't got shit 
+to say but read this FAQ right here!!!!
+
+
+I. LEGEND
+
+
+
+N-    neutral
+u-	up
+uf-   up forward
+f-    forward
+df-   down forward
+d-    down
+db-   down back
+b-    back
+ub-   up back      
+Note: If direction is capitalized, means hold direction
+
+FC-       fully crouched
+WS-       while standing
+SS(R_L)-  side step(Right_Left) 
+SSW(R_L)- side step walk(Right_Left)
+CH-       counter hit
+BK-       Your back facing the opponent  
+RN-       While Running
+OB-       Forces opponent's back to face you 
+OS-       Forces opponent's side to face you 
+OSB-      Forces opponent's side to face you when blocked 
+JG-       Jugglestarter 
+MC-       Master Counter Jugglestarter 
+RC-       Recover Crouching after a move 
+CH-       Requires a Counter-Hit  
+DS-       Double-Over Stun 
+FS-       Fall Back Stun 
+LS-       Lift Stun 
+GS-       Gut Stun 
+KS-       Kneel Stun 
+HS-       Hunch-Over Stun 
+TS-       Trip Stun 
+CS-       Crumple Stun 
+CFS-      Crumple Fall Stun 
+CF-       Crumple Fall 
+BS-       Low Block Stagger 
+SH-       Stagger Hit 
+GB-       Guard Break
+FL-       Float
+VK-       Violent Knockdown
+#-        see corresponding footnote 
+c-        CH modifier (eg. JGc is juggle starter on counter hit)
+cl-       Clean Hit modifier (eg. FScl is Fall Back stun on clean hit) 
+co-       Crouching Opponent Modifier (eg. KSco) 
+cco-      CH on Crouching Opponent Modifier (eg. FScco)
+PLD-      Play Dead Position, face up & feet away  
+KND-      Knockdown Position, face up & feet towards  
+SLD-      Slide Position, face down & feet away  
+FCD-      Face Down Position, face down & feet towards  
+1-        left punch
+2-        right punch
+3-        left kick
+4-        right kick
+5-        tag button
+
+Note: If range is capitalized, means ground hit as well
+h-	    high
+m-	    mid
+l- 	    low
+sm-	    special mid
+!-	    unblockable
+ 
+
+Game Notation   
+
+=-link                                    {}-missing hits
++-together                                ~-quickly			
+,-next                                    _-or				
+()-group together                         >-delayable
+:-Just Frame technique                    *-hold button
+
+
+
+
+II. Credits and Thanx
+
+
+-My tekken buddy, White Hair: Damn, you are one cool ass dude. This 
+last year that I've known you has been nothing short of kick-ass. 
+You Roxors!!!!!! Like to give a shout-out to Abiliene. FECAL PIRATES!!!!
+
+
+-To all scrubs
+Hey, fuck you. That is all.  
+
+
+-To all FAQ writers
+I salute you all.  
+
+
+-To all forum members in Zaibatsu
+Really enjoy the info swapping!!!! 
+
+
+-Mark Campbell for his well-placed disclaimer(adapted from Kao Megura)
+
+
+-Biggest thanx goes out to the Tekken Community:
+Y'all really make this game fun!!!!! 
+
+
+
+III. KING
+
+
+This move list was taken directly from the Tekken Zaibatsu site(with a 
+few modifications from me.) If you have any questions or corrections, 
+please e-mail me.
+
+=======================================================================
+MOVE LIST
+=======================================================================
+
+
+
+
+
+
+Command          Move Name             Damage     Range    Properties
+-------          ---------             ------     -----    ----------
+
+1,2              Palm Attack	           6,15       h,h
+ =2+4            Russian Leg Sweep        30       throw       #1
+ =d+2+4          Jumping Power Bomb       45       throw       #1
+1,2>1            Palm Attack Uppercut   6,15,10    h,h,m
+ =2+4            Stall Suplex             40       throw       #1
+ =d+2+4          Jumping Power Bomb       45       throw       #1
+f+2,1              Jab Uppercut           10,12       h,m
+ =2+4            Stall Suplex             40       throw       #1
+ =d+2+4          Jumping Power Bomb       45       throw       #1
+2,1              Jab Uppercut           10,12       h,m
+1+2,1            Head Spinner           15,21       m,m        #2
+d+1~N+2          Low Jab Uppercut        5,15      sm,m    
+WS+1+2           Lifting Elbow            15         m        JG CSc
+df+4             Knee Buster              15         l
+f,N,d,df+4       Jumping Knee             25         m        GB SH
+df+1             Elbow Sting	            15         m        SLDc
+ =2              Side Swipe               12         m
+d+1+2            People's Elbow           21         M
+(u_uf)+2+4       High Elbow Drop          35         M
+FC,df+1          Leg Breaker	            21         L         RC 
+b+1              Parting Chop             30         h         SH
+FC,df+2          Crouching Uppercut       20         m         JG
+f+1+2            Shadow Lariat            25         h         
+uf+1+2           Knuckle Bomb             35         m
+f,N,d,df,N+1+2   Delayed Knuckle Bomb     35         m
+uf+4             Hop Kick                 13         m         JG
+f,f+2            K's Flicker              20         m         JGc
+f,f,N+2          Stomach Smash             6         L         DSc #3
+f,f+1+2          Flying Cross Chop	      15        hL         #4
+3+4              Neck Cutter Kick         42         h
+f,f,N+1+2        Lay Off                  --         !         GB
+f,N,d,df+1+2     Black Bomb               28         m         MCc
+df+3+4           Frankensteiner          15,35       M	   #5
+f,f+1            Jaguar Straight          20         h         GB
+f+4              Rolling Sabat            23         m        GB SH
+f,f+4            Konvict Kick             26         m         #6
+df+3             Rib Buster               17         m         
+ =4              Mist Trap                15         h         #7
+(RN_f,f,f)+3+4   Running Exploder         40         m
+db+4             Low Dropkick             16         L        RC #8
+f+3+4            Exploder                 25         m
+b+4              Disgraceful Kick         20         h       BK VKcl
+BK+3             Blind Kick               25         m       GS CFSc 
+ :1+2            Stone Cold Stunner       20       throw       
+b+3              Toll Kick                20         h         SH
+SS+3+4           Deadly Boomerang         54         h
+b+2              Arrow Elbow              10         h         OSB
+ ~4              Cannonball Slide                         see footnote   
+B+2              Black Arrow              30         h         GS 
+ =d+2+4          Jumping Power Bomb       30       throw       #1
+(FC_d)+3+4       Stagger Kick            13_17       L         #9
+ =4,4            Stagger Kicks           7,7        L,L        #10
+  =4,4           Stagger Kicks           4,3        L,L        CH
+ =2              Spinning Uppercut        10         m
+f+2+3            Shoulder Tackle          40         m
+f,F+2+3          Diving Body Press        30         M
+SS+2             Sneak Uppercut           22         m         SH
+b+2+4            Kick Reversal           varies     h+m        #11
+ :3+4            Figure Four Leglock      33       throw       #12 
+f+1+2*           Jaguar Lariat            50         h!        
+BK+1+2           Atomic Blaster           50         h!
+uf+1+2*          Burning Double Knuckle   45         !         
+1+4              Moonsault Body Press     25         !         #13
+b,b~ub           Wall Splash              20         !
+
+#1-  see throw list
+#2-  Doing 1+2 alone will leave you in BK position 
+#3-  Links into throws(see throw list) 
+#4-  Hits high at start and low at end
+#5-  Throws on CL only. Damage is 15,35
+#6-  Becomes Konvict DDT on CH. See throw list 
+#7-  Rib Buster must make contact for this move to come out 
+#8-  If move whiffs, King recovers in FCD position 
+#9-  If no second Stagger Kick is followed, damage is 13
+#10- On CH, a Spinning Uppercut can be done up to third Stagger Kick  
+#11- Reversal is unchickenable
+#12- Can do Figure Four Leglock only after a right kick is reversed 
+#13- Can also be done in BK position. Damage is 30
+
+FOOTNOTE: This is NOT a typo. This is an actual move. It's a very fast 
+Cannonball Buster. I cannot tell you the exact porperties of this move as 
+I only use this to escape HEAVY pressure. Most of the time, it ends up as 
+a cancelled Cannball Buster. I will experiment with this move to find out 
+everything about it.  
+
+
+
+
+Ten String Chart*
+-----------------
+1,2,1,1,2,4,4,4,1,3      h,h,m,m,h,l,l,l,m,m
+       \         \
+        \         1      h,h,m,m,h,l,l,l,m,M
+         \
+	    3,3,4,3,2,1+2  h,h,m,m,h,m,l,l,l,throw
+               \
+                4,1,3    h,h,m,m,h,m,l,l,m,m
+                   \
+                    1    h,h,m,m,h,m,l,l,m,M
+
+*-can be started as 9 string by pressing f+2
+	
+
+
+
+
+MOVE ANALYSIS
+
+
+
+Palm Attack   [h,h   6,15]	
+King has one of the best 1,2's in the game. Fast, good reach 
+and MAD frame advantage after it hits. On CH, mad damage. Use 
+this shit. 
+
+
+
+Jab Uppercut   [h,m   10,12]		
+Just like 1,2, but more priority and slower. Use this string 
+when your opponent is ducking like crazy. 1,2/2,1 are common 
+ways to set up throws. 
+
+
+
+Disgraceful Kick   [h   20]
+This is your retaliation move. Violent knockdown on a clean 
+hit and a rollback on CH. Use up close, the recovery is better. 
+
+
+
+Head Spinner   [m,m   15,21]
+One of King's power moves. guaranteed combo on hit. buffer a 
+chicken at the end on reversal-happy players. Don't abuse, 
+it's recovery is worse than in TTT. 
+ 
+
+
+Hop Kick   [m   13]
+Must use. One of his best juggle staters. Use u+4 to play it safe. 
+
+
+
+Black Bomb   [m   28]
+This move is still as good as it was in TTT. But don't try this 
+too much, cuz it recovers pretty bad. But when it hits, it leaves 
+your opponents in perfect position for a Capital Punishment.
+
+
+
+Elbow Sting    [m,m   15,12]
+The best string move King has. Guaranteed combo when df+1 hits. 
+Abuse this shit, it corrects chronic duckers. It's also a nice 
+set up for your throws. Learn to delay the Elbow Sting when it's 
+blocked. Otherwise, Jin gets a free 2,4/Lee gets 1,2,4:4 if they 
+block a non-delayed Elbow Sting. You don't wanna give away free 
+damage, right???
+
+
+
+People's Elbow   [M   21]
+Use this for grounded opponents. You auto-recover after this, so you 
+don't have to worry about staying on the floor, plus it leaves a 
+nice block stagger. Use this to bait your opponents into a attack.
+
+
+
+Toll Kick   [h   20]
+This has the same uses as the Disgraceful Kick. I use this when I don't 
+wanna end up with my back turned. The only difference between this and 
+the Disgraceful Kick is the Toll Kick is more juggle-friendly. 
+
+
+
+Leg Breaker   [L   21]
+Use this. Good damage, fast recovery. It's a little slow, but if used 
+right, you'll never get hit outta it. Don't abuse this, low parry will 
+fuck you up. 
+
+
+
+Lifting Elbow   [m   15]
+His best juggle starter. Use this if you what the most damaging Shadow 
+Lariat combos. Other than that, it has the same uses as the Hop Kick.
+
+
+
+Crouching Uppercut   [m   20]
+This juggles everytime. Fast but slow recovery. Use with caution.   
+
+
+
+Capital Punishment  [m   35]
+One of your best weapons when in wake-up games. Use it when your 
+opponent back rolls too much. Has a nice block stagger in it too. 
+After block, mix it up between a throw and Hopkick/df+1,2. 
+
+
+
+Blind Kick   [m   25]
+This move sucks now. Still gives a free u+2+4 on CH, but that's 
+about the only time you receive and decent damage. It does pitiful 
+damage when used in oki. Don't even bother tryin the JF 1+2 after.  
+
+
+
+Shadow Lariat   [h   25]
+This is your long-range punisher. Most of the time, King ends up 
+in a wierd BK position when this hits. Either Shadow Step away or 
+try to hit them with a BK+3 as they are getting up. If you get lucky, 
+you can sneak in a side throw.
+
+
+
+High Elbow Drop   [M   35]
+This move is somewhat underrated by most King players. Like I mentioned 
+before, this is a good move to use in a combo. Also, you can use the 
+u+2+4 version to punish those who attack you foolishly. 
+
+
+
+Rolling Sabat   [m   23]
+Good strong mid. The space it puts between you and your opponent when 
+it hits is useful in set ups. If they hold down to counter the stagger, 
+a 1+4 is guaranteed. 
+
+
+
+Deadly Boomerang   [h   54]
+The strongest non-unblockable in the game. Safe on block. Hits high, 
+but too much damage in this move for you not to try it.
+
+
+
+Jumping Knee   [m   25]
+Only mid move he has from the crouch dash. safe on block(barely.) 
+Usually sends the opponent flying. Otherwise, it staggers the opponent. 
+A Shining Wizard is good after this.
+
+
+
+K's Flicker   [m   20]
+Another uppercut. Knockdowns on hit and juggles on CH. Use when you 
+want quick oki.
+  
+
+
+Stomach Smash   [L   6]
+Use this from a distance. You'll gets more CH's that way. You can 
+use a command throw after the stun, but it's just safer to stick 
+with the multis afterward. 
+
+
+
+Flying Cross Chop   [h   15]
+Used primarily for set-ups. Blocked at the right distance, a throw 
+is free. If blocked low, you're fucked. Other than that, it's a safe 
+way to get closer to the opponent. 
+
+
+
+Water Parting Chop   [h   30]
+Use to stop pit-bulls. Has great priority. Don't get predictable with 
+this, it'll be ducked. 
+
+
+
+Arrow Elbow   [h   10]
+A variation of the Black Arrow. Use it when your opponent is turtling 
+as it turns your opponent on block. You can sneak in a side throw. on 
+normal hit, it slightly stuns your opponent, so have a Giant Swing ready 
+for them when they recover. Useful on pitbulls. 
+
+
+
+Lay Off   [!   0] 
+Used only for mind games. Perform this over and over again to shake your 
+opponent when he see's he can't block it. Use this to your advantage. 
+
+
+
+Rib Buster   [m   17]
+Much like Yoshi's df+4. Fast and damaging. Plus, it spaces very well.
+Use to create room. 
+
+
+
+Frankensteiner   [M   15,35]
+throws on clean hit. Use after a 2,1/wall push.
+
+
+
+Low Jab Uppercut   [sm,m   5,15]
+Best counter move. 8 frames, recovers decently. Low parry will kill you 
+if abused.
+
+
+Jaguar Straight   [h   20]
+King's ONLY new move. Knockdowns on hit. Great for starting Wake-up games.  
+
+
+Sneak Uppercut   [m   22]
+Treat this as a SS Water Parting Chop/Rolling Sabat. Has exactly the 
+same uses, so you know what to do. 
+
+
+
+Neck Cutter Kick   [h   42]
+useful in stopping throw attempts. Throw it out every now and then.  
+       
+
+
+Konvict Kick   [m   26]
+King's deathfist, nuff said. On CH, chains into a throw.
+
+
+
+Low Dropkick   [L   16]
+Good move when not blocked. Block=your ass. after it hits, you can mix 
+it up between a FC,df+1 and f,f+4. FC,df+1 will usually hit them. 
+f,f+4 will hit them when they stand up to block low.
+
+
+
+Running Exploder   [m   40]
+Use this, it has a big block stagger. Best uses near a wall to force 
+a mix-up between KND 3/4. If KND 4 hits=free wall stun. 
+
+
+Exploder   [m   25]
+Read above explanation. 
+
+
+
+Shoulder Tackle   [m   40]
+Best used in oki. Can also be used as a long range counter. Don't use 
+it besides that.  
+
+
+Knockout Punch   [h   30]
+Don't use, it sucks. 
+
+
+
+Knee Buster   [l   15]
+His best low attack. Useful into training you topponent to duck for a 
+1+2,1/d+2+4.
+
+
+Diving Body Press   [M   30]
+Use this move to punish those chronic liers. You can also use for a 
+tech roll trap(uf+4, 1,2 f,f+2+3.) Although it doesn't stun like it 
+did in TTT, it's very handy for forcing people to move while on the 
+floor. Best used for those who lie to avoid rolling combos like d+3+4,2.   
+
+
+
+Stagger Kicks(to Spinning Uppercut)  [L,L,L_m   17,7,7_10]
+Primarily use for wake-up games. Hits grounded and rolling opponents. 
+You can also chip away health with this if your opponent never blocks 
+low. 
+
+
+Kick Reversal   [h+m   varies]
+Use whenever gets predictable. I'm sure a d+1+2 is guaranteed afterwards. 
+The JF 3+4 can only be done after a right kick reversal.
+
+ 
+
+Jaguar Lariat   [h!   50]
+A quick and powerful closeline to the throat. use every now and then. 
+After it hits, you can use a ground throw. 
+
+
+
+Atomic Blaster   [h!   50]
+Use as a surprise move. I use when my opponent expects me to shadowstep 
+only to run into an unblockable. 
+
+
+
+Burning Double Knuckle   [!   45]
+Surprise move. Otherwise, it has no useful purposes. 
+
+
+
+Moonsault Body Press   [!   25_30]
+Used in oki. No other useful purpose.
+
+
+
+=======================================================================
+THROWS & CHAINS
+=======================================================================
+
+
+
+
+BASICS THROWS
+
+
+Move Name                     Damage                  Command
+---------                     ------                  -------
+
+Position Change                 --                      1+3
+Suplex                          35                      2+4
+Winding Nut                     35                     f+2+4
+Tomb Drop                       35                 (2+4_f+2+4)~B     
+Shining Wizard                  30                 (RN_f,f,f)+2+4                                     
+Argetina Backbreaker            40              right side, any throw
+Knee Crusher                    42               left side, any throw
+Half Boston Crab                60                    back, 2+4	
+Cobra Twist	                    60                    back, f+2+4
+Stretch Buster                  75                    back, b,f+1+2
+
+
+
+
+
+
+FRONT THROWS
+
+
+Move Name                     Damage                  Command
+---------                     ------                  -------
+
+Punch String throws           varies                    2+4
+Figure Four Leg Lock            32                     db+1+2
+Knee Bash                       30                     df+2+3
+Muscle Buster                   50                   d,db,b+1+2
+Rock Bottom                     55                 FC,db,d,db+1+2
+Tombstone Piledriver            58	                   db,F+2
+Giant Swing	                    70                f,b,db,d,df,f+1
+Frankensteiner                  45                     df+3+4
+Pile Diver                      25                    d,df,f+1
+     =Face Buster               30                      1+2
+     =Boston Crab	              50                   1+2,3,4,1+2
+
+
+Jumping Power Bomb(1)           45                     d+2+4
+Reverse Special Bomb(1)*        28                   df,DF+2+4
+Stomach Smash(2)                 7
+     =High Jack Breaker         30                      1+2
+     =Jaguar Driver             60                  1+2,u,d,N,3+4
+
+
+Throw Away(3)                    0                      b+1+2
+     =Turn Around(3)             0                       1+2
+     =Throw Away Feint           0                       1+3
+     =Throw and Destroy         10                       3+4
+     =Throw Away Kockdown        8                       2+4
+
+
+Konvict DDT                     20                     CH f,f+4
+
+*-see multi-throw section
+(1)-works on crouching opponents only
+(2)-must be a CH for throws to connect
+(3)-leaves opponent in BK position
+
+
+
+
+
+ULTIMATE TACKLE
+
+
+Move Name                           Damage                  Command
+---------                           ------                  -------
+Ultimate Tackle                        5                f,N,d,df_FC+1+2
+     =Ultimate Punches(1,2)	     5,5,5,5,5               1,2,1,2,1
+     =Cross Arm Lock			  25                      1+2
+           =Arm Twist			  25                      1+2
+     =Leg Cross Hold			  20                      3+4
+           :Stretch Combo		  40                      1+2
+
+(1) can start either chain throw at 3rd punch
+(2) can start Ultimate Punches with 2,1,2,1,2
+
+
+
+
+
+GROUND THROWS
+(all ground throws are done by pressing db+2+4)
+
+
+ENEMY ON BACK
+
+Move Name                           Damage                  Position
+---------                           ------                  --------
+Shoulder Cracker                      28                    at head
+Swing Away                            30                    at feet
+Head Bomber**                         33                    at feet
+Figure Four Leg Lock*                 33                    at feet
+Turn Over                              0                    on side
+
+*-done by pressing DB+2+4
+**-done by pressing DF+2+4
+
+
+
+ENEMY ON FACE
+
+Move Name                           Damage                  Position
+---------                           ------                  --------
+Wing Tearer                           32                    at head
+Half Boston Crab                      30                    at feet
+Camel Clutch                          35                  on left side
+Bow & Arrow Stretch                   37                  on right side
+
+
+
+
+MULTI THROWS
+
+
+Move Name                           Damage                  Command
+---------                           ------                  -------
+Standing Heel Hold                    30                  f,N,d,df+2+3
+     =S.T.F	                          35                    1,2,3,1+2
+     =Scorpion Deathlock              40                   1+2,3,1,1+2
+     =Indian Death Lock               30                   1+2,1,3,1+2
+           =King's Bridge             50                  1,3,4,1+2,3+4
+
+				
+
+
+Arm Breaker                           20                  f,N,d,df+1+4
+     =Triple Arm Breaker              25                     1+2,1+2
+     =Chicken Wing Facelock           25                    2,1,1+2+3
+           =Dragon Sleeper            30              2,1,3,1+2+4,1+2+4
+           =Rolling Death Cradle      75          1+3,3+4,2+4,1+2,1+2+3
+     =Head Jammer                     20                    1+2,4,2+4
+           =Struggle Combination      25                  4,3,4,3+4,1+2
+
+
+
+
+Reverse Special Stretch Bomb*	        28                df+1+2_SS+2+4
+ =Cannonball Buster                   18                    2,2,1+2
+   =Manhattan Drop                    17                3+4,1+2,1+2+4
+     =Victory Bomb                    20                  1,2,3+4,1+2
+       =Giant Swing                   27                    2,1,3,4
+       =Muscle Buster                 32              3,1,2,3+4,1+2+3+4
+   =Power Bomb                        22                    1,2,3+4
+     =Giant Swing                     27                    2,1,3,4
+     =Muscle Buster                   32              3,1,2,3+4,1+2+3+4
+
+*-in SS version, if throw connects on side/back, it automatically goes 
+into the Cannonball Buster. 
+
+
+
+
+Reverse Arm Slam                      25                 f,DF+1+3_2+4
+ =Backdrop                            18                   2,1,1+2
+   =German Suplex                     18                    3+4,1+2
+     =Power Bomb                      22                    1,2,3+4
+       =Giant Swing                   27                    2,1,3,4
+       =Muscle Buster                 32              3,1,2,3+4,1+2+3+4
+   =Cannonball Buster                 18                    2,2,1+2
+     =Manhattan Drop                  17                3+4,1+2,1+2+4
+       =Victory Bomb                  20                  1,2,3+4,1+2
+         =Giant Swing                 27                    2,1,3,4
+         =Muscle Buster               32              3,1,2,3+4,1+2+3+4
+     =Power Bomb                      22                    1,2,3+4
+       =Giant Swing                   27                    2,1,3,4
+       =Muscle Buster                 32              3,1,2,3+4,1+2+3+4
+
+
+
+
+
+WHAT THROWS TO USE
+------------------
+
+
+This is by far, his best department. Not only does he have the most 
+throws, but also have the most damaging! This section is entirely 
+devoted to what throws to use when to opportunity shows itself. 
+Every throw has a purpose. While some throws may not be great 
+damage-wise, they may be a great way to play some OB/wake-up games. 
+
+
+
+
+==============
+|BASIC THROWS|
+==============
+
+
+Throw Name        Damage      Command     Escape
+----------        ------      -------     ------
+
+
+Suplex              35          2+4          2
+Just a normal suplex. Recovers decently for some wake-up games. 
+
+
+
+Winding Nut         35         f+2+4         2			
+Blah, another standard throw. Your opponent is at the perfect 
+distance for a Capital Punishment after this. If they even flinch, 
+they're slammed hard into the floor. Best used outta FC.
+
+
+Tomb Drop           35     (2+4_f+2+4)~B     2 
+Best outta the standard throws. Puts you in great position for wake-up 
+games. You can Stagger Kick for guaranteed damage. Also useful when 
+mixing it up with Shining Wizard. 
+
+
+
+Shining Wizard      30     (RN_f,f,f)+2+4    2
+King's best throw, bar none. Not only does it look cool as shit, 
+but it's great for those pesky wall techers. Tracks very well for 
+a throw. Great Oki afterwards. Best throw for the throw/mid mix up.  
+
+
+
+Argetina Backbreaker     40     right side, any throw     1
+King grabs his opponent and slams 'em into his shoulders, breaking 
+their back. They're stunned long enough afterwards to land a free 
+High Elbow Drop, but you must be quick. Even though its a one button 
+escape, these will not be escaped as often, due to the surprise 
+factor of side throws. 
+
+
+
+Knee Crusher        42	  left side, any throw     2
+King lifts his opponent and slams their knee into his. Guaranteed 
+ground throw afterward, but you have to dash in a bit. King's side 
+throws are far more useful, due to their follow-ups. 
+
+
+
+Half Boston Crab    60	    back, 2+4     none
+Back throw. What else to say???
+
+
+Cobra Twist	        60      back, f+2+4     none
+Same as above. 
+
+
+
+Stretch Buster      75	    back, b,f+1+2	     none
+you'll hardly ever use this one since a BK+3 on a BK opponent is 
+no longer guaranteed. Bust it out whenever you can. 
+
+
+
+==============
+|FRONT THROWS|
+==============
+
+
+Throw Name        Damage      Command     Escape
+----------        ------      -------     ------
+
+
+
+Punch String Throws
+Use them whenever you opponent blocks too much.
+
+
+
+Figure Four Leg Lock     32     db+1+2     1+2
+Shitty damage, great position afterwards. If they reverse, it's 
+only 26 points. Big deal.
+
+
+
+Knee Bash       30       df+2+3      2
+An even better choice for Oki options. This where you can use 
+all of King's wake-up game. 
+
+	
+
+Muscle Buster     50      d,db,b+1+2      1+2
+Easy motion, 50 pts, double-button escape. Use it. 
+
+
+
+Rock Bottom      55     FC,db,d,db+1+2    1+2
+Use it after ducking a high. The buffer makes it very easy to 
+use when standing. If your opponent like to stand up afterwards, 
+reward them with a GS/f+1+2*.   
+
+
+
+Tombstone Piledriver     58       db,F+2       2
+Another throw you must use. This throw has a tiny bit of "slop" to it, 
+meaning you can walk a tad before executing the throw. Great mix up 
+with the Muscle Bomber, as the break is different. But now, nothing is 
+guaranteed except a Stagger Kick(unlike in the previous Tekkens, a 
+Shoulder Cracker was guaranteed.) All in all, it's still a great throw.
+
+
+
+Giant Swing	       70     f,b,db,d,df,f+1	      1
+Use it. 
+
+
+
+Frankensteiner          45           df+3+4           none
+Used to break down block defense. Also help in switching sides 
+when you're back is to the wall.  
+
+
+Pile Diver              25          d,df,f+1           1
+     =Face Buster       30             1+2            3+4
+     =Boston Crab       50         1+2,3,4,1+2        3+4
+
+This would be a good throw, but any attempt to land this throw will be 
+wiped out since the Pile Driver has like a bazillion frame escape 
+window. Sometimes this comes out instead of the Giant Swing on poor 
+arcades. In the event that this accidentally comes out(it even happens 
+to me), it's wise to know what to do. Pressing 1+2 will only increase 
+the damage by 5 pts. However, the Boston Crab doubles it. Input the 
+command for the Boston Crab at the very apex of the throw(and quick, 
+too.) Like I said before, this can be escaped by pressing 3+4 during 
+the throw. So, unless it's an accident, stay clear from this.  
+
+
+
+Jumping Power Bomb        45         d+2+4         1+2
+Best used in wake-up games/mix-ups.     
+
+
+
+Reverse Special Stretch Bomb      28      df,DF+2+4     2
+Refer to multi section			
+
+
+Stomach Smash                    7
+     =High Jack Breaker         30             1+2          1+2
+     =Jaguar Driver             60        1+2,u,d,N,3+4     3+4
+
+Great throws, but the Stomach Smash needs to be a CH to work. Always go 
+for the Jaguar Driver(if you're going for the links.) Most people don't 
+know its escape. Its a cinch to do, just make sure your at neutral 
+before pressing 3+4(don't worry, there's plenty of time to input the 
+throw.)  
+
+
+Throw Away                       0             b+1+2       none
+     =Turn Around                0              1+2         1+2
+     =Throw Away Feint           0              1+3          1
+     =Throw and Destroy         10              3+4         3+4
+     =Throw Away Knockdown       8              2+4          2
+
+One of King's better links, I think. The links must be inputted at the 
+very beginning of the throw, EXCEPT for the Turn Around, which is done 
+at the very end of the throw. All of the links are useful. Turn around 
+is great for Stagger Kicks. Feint is great for setting up an multi. 
+Destroy gives a free High Elbow Drop. Knockdown gives a free People's 
+Elbow/Shoulder Cracker. Use can use the Leg Breaker to mix it up with 
+the guaranteed stuff for some fear/confussion tactics. 
+
+
+
+Ultimate Tackle              5           f,N,d,DF_FC+1+2       Varies
+     =Ultimate Punches	 5,5,5,5,5          1,2,1,2,1           1_2
+     =Cross Arm Lock         25                1+2	      1+2,2,2,2,2
+           =Arm Twist        25                1+2             none
+     =Leg Cross Hold         20                3+4		1+2,1,1,1,1
+           =Stretch Combo    40                1+2             none
+									
+Great on turtlers who just stand and block everything. This is your 
+"Icebreaker" move. This move will put the crack in your enemy's armor. 
+Other than that, it too slow for any real use. Keep the surprise level 
+high with this and it will connect often. 
+
+
+
+
+Konvict DDT     20       CH f,f+4       1+2
+You'll get this off a CH Konvict Kick. No way to set this up. 
+
+
+
+===============
+|GROUND THROWS|
+===============
+
+
+ENEMY ON BACK
+
+Move Name                 Damage          Position          Escapes
+---------                 ------          --------          -------
+Shoulder Cracker            28            at head             1+2
+Swing Away                  30            at feet              1
+Figure Four Leg Lock        33            at feet             1+2
+Turn Over                   0             on side             1_2
+
+
+The most used throws are in this position. Primarily, you will use the 
+Swing Away and the Shoulder Cracker. Swing Away just looks so damn cool, 
+and the Shoulder Cracker has SO many setups. And the best thing about 
+the Shoulder Cracker is after landing it, you have a free People's Elbow. 
+Use the Turn Over whenever you can. If you ever land a Turn Over, another 
+ground throw is guaranteed, but you must be quick. These ground throws have 
+the most set-ups, so you can land these often. One note of caution, NEVER 
+attempt Turn Overs on smaller framed people like Ling. They will NEVER connect.    
+
+
+Set up for Swing Away
+Jaguar Lariat(be quick!)
+Jaguar Driver(dash in a bit)
+Jaguar Straight(be VERY quick!)
+Jumping Power Bomb(dash in a bit) 
+Dragon Screw Leg Whip(dash in a bit)
+Capital Punishment(be VERY quick!)
+Knee Crusher(dash in a bit)
+
+
+Set up for Shoulder Cracker
+Leg Breaker(dash in a bit)    
+Dragon Sleeper(easy $$$$!!!)
+Throw and Destroy(easy $$$$!!!)
+Reverse Arm Slam(easy $$$$!!!)
+
+
+Set up for Turn Over
+Stretch Buster(precise timing)
+Reverse Heel Hold(easy $$$$!!!)
+Struggle Combination(be quick!)
+Shoulder Cracker(easy $$$$!!!)
+
+
+
+ENEMY ON FACE
+
+Move Name               Damage            Position          Escapes
+---------               ------            --------          -------
+Wing Tearer               32              at head             1+2
+Half Boston Crab          30              at feet             3+4
+Camel Clutch              35           on right side           2
+Bow & Arrow Stretch       37            on left side           1
+
+The only throw you can set up from this position is the Wing Tearer. 
+You can get it off a either a perfect Shadow Lariat or CH Elbow 
+Sting_Blind Kick. The rest you can get only if your opponent just lies there. 
+
+
+
+=========
+|MULTI'S|
+=========
+
+
+Throw Name                    Damage           Command        Escape
+----------                    ------           -------        ------
+
+
+Standing Heel Hold              30          f,N,d,df+2+3        2
+     =S.T.F	                    35            1,2,3,1+2         1
+     =Scorpion Deathlock        40           1+2,3,1,1+2        2
+     =Indian Death Lock         30           1+2,1,3,1+2       1+2
+           =King's Bridge       50          1,3,4,1+2,3+4      none
+		
+My personal favorite throw chain. Major damage anyway you go. Confuse 
+your opponents by going into a different link every time, as each link 
+has a different break. BTW, any escape will do 10 pt of damage to King. 
+Personally, I go for the Indian Death Lock. Double button escape, 'nuff 
+said. Mashers cannot break this at all. To make thing worst for your 
+opponent, it links into a unescapable throw.
+
+
+
+Throw Name                        Damage          Command        Escape
+----------                        ------          -------        ------
+
+
+Arm Breaker                         20            f,N,d,df+1+4      1
+     =Triple Arm Breaker            25               1+2,1+2        1    
+     =Chicken Wing Facelock         25              2,1,1+2+3      1+2
+           =Dragon Sleeper          30        2,1,3,1+2+4,1+2+4     1
+           =Rolling Death Cradle    75    1+3,3+4,2+4,1+2,1+2+3     2
+     =Head Jammer                   20              1+2,4,2+4       2
+           =Struggle Combination    25            4,3,4,3+4,1+2    none
+
+I use it 50/50 with the Standing Heel Hold. I always go for Chicken 
+Wing. Double button escape and the EASIST link to land. To land this 
+100% of the time, input it like this: press 2. While holding 2, press 1. 
+While holding 1+2, press 3. There you have it, guaranteed execution. 
+This leads to the most devastating link in the game, the Rolling Death 
+Cradle. That 75 pts of damage is glaring you straight in the face, but 
+I would never attempt this. Even with button buffering, it's a bitch to 
+do. Mashing it out will just give it away. Just go for Dragon Sleeper.   
+If offers better oki afterwards.  
+
+
+
+Throw Name                    Damage           Command        Escape
+----------                    ------           -------        ------
+
+Reverse Special Stretch Bomb	  28           df+1+2_SS+2+4     1+2   
+ =Cannonball Buster             18             2,2,1+2         none
+    =Manhattan Drop             17           3+4,1+2,1+2+4      2
+       =Victory Bomb            20            1,2,3+4,1+2      none
+	   =Giant Swing           27             2,1,3,4          2 
+  	   =Muscle Buster         32        3,1,2,3+4,1+2+3+4     1
+    =Power Bomb                 22             1,2,3+4          1
+       =Giant Swing             27             2,1,3,4          1
+  	 =Muscle Buster           32        3,1,2,3+4,1+2+3+4     2
+
+If you use the SS version, cancel it a lot into WS attacks. This 
+will force your opponent to stand. Then you an sneak a throw in. 
+Seriously, you'll land this multi off low parries more than from 
+the df+1+2/ss+1+2 version.
+
+
+
+Throw Name                    Damage           Command        Escape
+----------                    ------           -------        ------
+
+Reverse Arm Slam                25           f,DF+1+3_2+4      1_2
+  Backdrop                      18             2,1,1+2        varies
+    German Suplex               18             3+4,1+2          1
+	Power Bomb                22             1,2,3+4          1
+	  Giant Swing             27             2,1,3,4          1
+  	  Muscle Buster           32        3,1,2,3+4,1+2+3+4     2
+    Cannonball Buster           18             2,2,1+2         none
+    Manhattan Drop              17          3+4,1+2,1+2+4       2
+      Victory Bomb              20           1,2,3+4,1+2       none
+	  Giant Swing             27             2,1,3,4          2 
+  	  Muscle Buster           32        3,1,2,3+4,1+2+3+4     1
+    Power Bomb                  22             1,2,3+4          1
+      Giant Swing               27             2,1,3,4          1
+  	Muscle Buster             32        3,1,2,3+4,1+2+3+4     2
+
+
+DON'T EVER YOU THIS CHAIN! AVOID IT AT ALL COST!! Even though this chain 
+has King's strongest throw link(the Black Widow link=>130 pts), try this 
+on me and I'll cut it short, scrub. Sorry to burst your bubble, kido, 
+but there is a 100% escape to this. Yeah, yeah, I'm opening my big mouth 
+and letting everyone know(who doesn't know already) how to escape this. 
+Starting the chain requires either a 1+3_2+4. The escapes of the throw 
+at this point are the same as the escapes of the basic throws(i. e. 1+3 
+can be escaped with 1 and 2+4 can be escaped with 2.) If the throw is 
+successful and the Reverse Arm Slam connects, the escape is THE OTHER 
+PUNCH BUTTON! An example would be: your opponent starts the Reverse Arm 
+Slam with 1+3. The escape is 1, but you begin to press 2 as fast as 
+possible. The throw will connect and you will receive 25 pts of damage. 
+However, by reading my FAQ, you know that the next throw can be escape 
+by pressing 1. You start pressing 1 and you escape with your life. In 
+other words, if you start mashing 1 or 2 to escape but it doesn't work, 
+mash the other punch button to escape the next throw. Don't think that 
+you're smart and stop the chain after the slam, cuz I know what you will 
+try. Given the best scenario, the best damage you'll get is 35 pts. All 
+that trouble for 35 pts. You could have done a basic throw and got more 
+damage than this. This is the most obvious throw chain there is, please 
+don't use it!!!      
+
+
+
+
+
+
+
+
+
+=======================================================================
+OFFENSE
+=======================================================================
+
+I could give you all my set ups that I have created/aquired since the 
+last FAQ, but that would make this too long. Plus, checking out the King 
+thread on TZ would do a better job than I would. Anyways, I don't want 
+every who reads this to play like me..0_0
+
+
+
+THROW BUFFERS
+Learn them. If you don't use them, your King won't be anywhere. They're 
+the fastest way to execute a throw.  
+iSW=f,f,f+2+4
+GS=input f during move, finish GS after move.
+TS=d,db,b,F+2. You can walk a little forward before the 2.
+RB=d,db,b,d,DB+1+2. Crouch for a split second then BAM!!! 
+
+
+
+
+Landing those damn multi throws
+-------------------------------
+Before you attempt even trying to use multi throws, you must know how to 
+button buffer! Also, know all the escapes for ALL the links! What is 
+Button Buffering? Holding down a button to allow the next button press 
+to be easier. Sorry if I confused with that explanation, but that's what 
+it does. Let me give you an example. You jab by pressing 1. After a jab, 
+you would like to use a position change, which is done by pressing 1+3. 
+You can do the traditional method by pressing 1, 1+3. But with Button 
+Buffering, you can do the same thing, but easier by doing this: press 1 
+to jab, hold down 1 and press 3. Your throw will come out. Since you know 
+the escapes, you can trick your opponents into doing the wrong escape by 
+switching up your links. Knowing this vital information will ensure success 
+in lading the multithrows! 
+
+
+
+HOW TO BEAT THE "ESCAPERS"
+To tell you the truth, you will hardly find people you will constantly escape 
+your multi throws. Anytime you land a multithrow, they will start hitting those 
+buttons like an Cristie player!! But sometime during your playing, you'll will 
+play someone like me you watches your hands during multithrows and I'll escape 
+every time. You can do three things to counter this:
+
+1. Multi Throw Feint
+Simply put, you're confusing the opponent by inputting more than one 
+throw command. An example would be: during the Arm Breaker, you press 
+1+2,1+2,4,2+4. You can tell that I've combined the input of the Triple 
+Arm Breaker and the Head Jammer. If your opponent saw this, they would 
+be confused as to what escape to use. No matter what you do, the game 
+will land the first successful throw input. So the Triple Arm Breaker 
+would be the throw performed. If your opponent knows this too, then you 
+can confuse them even more. Another example would be: during the Cannonball 
+Buster, you want the Manhanthan Drop to connect. To make sure it connects, 
+you press {1},2,3+4,1+2,1+2+4. See the special notation? You purposely missed 
+the 1 input by faking the press(looks like you press it, but finger went off 
+of the button.) So your opponent will start the escape for the Power Bomb, 
+thinking that's what you put, but instead they get a big knee between the legs. 
+Another example would be: After a Victory Bomb, you can either link into a Giant 
+Swing or Muscle Buster. Wanting to land the Giant Swing, you can input it like 
+this: 3,1,2,1,3,4. If your opponent was watching your hands, they would have 
+started the escape for the Muscle Bomber since the first three button presses 
+belonged to the Muscle Bomber command. Instead, they get spinned for stupidity. 
+And to make your opponent red in the face, you can throw in other commands that 
+doesn't even belong in that chain!! Most likely, as soon as any link connects, 
+their eyes will automatically go to your hands, not even paying attention to 
+what chain you're starting. I love doing this to people who watch my hands all 
+the time. An example would be: I start with the Standing Heel Hold. My opponent 
+start watching my hands, not even caring what crouch dash link I started. My goal 
+is to land the Indian Death Lock. So I would put in something like this: 
+1+2,4,2+4,1+2,1+2,1,3,1+2. As soon as they see the input for the Head Jammer, 
+my opponent will start pressing 2 to escape the Head Jammer. Instead, I chain into 
+a unescapeable link and clown my opponent for being a complete jackass. The only 
+problem with this is sometimes you will feint a throw and land a throw with the same 
+escape. Taking the previous example, if I had put the command for the Chicken Wing 
+instead of the Head Jammer, my opponent would have escaped, cuz the Chickenwing and 
+Indian share the same escape. Practice this to ensure a correct feint. 
+
+2. Cut the chain short
+Keep it simple, don't go any farther in the chain where your opponent 
+can escape. This works extremely well with the Reverse Special Bomb, as 
+it has certain points in it you cannot escape. Also, you can stop the 
+chain so you can get some guaranteed hits/throws after a throw. A great 
+example would be using the Reverse Arm Slam. Since you're opponent can 
+escape 100% after the first throw, you can simply land the slam and stop there. 
+It puts you in excellent position for a Shoulder Cracker.  You get the idea. 
+Just experiment what links give the best opportunities for wake-up games. 
+    
+3. Don't let your opponent see what your doing!!!!!!!!
+By far, the most effective and dishonorable way to land a multi. I do 
+this on cheap bastards that think they're the baddest mutherfuckers on 
+Tekken. To do this subtlely, turn your shoulder that is toward your 
+opponent. Your shoulder will be in way of your opponent, clearly giving 
+you the advantage. Block off your opponent's view to land the multi throw. 
+Best way to do this is use one of your hands to cover your other hand from 
+your opponent's eyes.  
+
+
+
+
+
+The almighty crouch dash
+------------------------
+f,N,d,df. Use it. King has one of the most versatile crouch 
+dashes in the game. Kings has many moves to his calling during a crouch dash. A normal 
+crouch dash yields his multi starters, Ultimate Tackle, Black Bomb, Capital Punishment, 
+and Jumping Knee. A buffered f,f can lead into a Jaguar Straight, K's Flicker, Stomach 
+Smash, Konvict Kick, Flying Cross Chop, Lay Off, and Diving Body Press. A WS buffer 
+has no official moves, but you can execute a WS+4(which is excellent for GS.) Did I 
+mention that you can Hop Kick during a crouch dash? With all of these moves, you can 
+have you opponent shitting bricks whenever you go into a crouch dash. Even better, 
+pressing f,N,d,df,N,f returns you to standing position, allowing access to almost 
+all of King's moves. Mix it up often from a CD. 
+
+
+
+
+
+Wall Offense
+------------
+King near a wall=ownage. Of course, when King is near a wall, you can play him 
+ala Jin style. But that's not how I play. All you need is 3 moves: df+3+4, 
+df,df+2+4, and f+1+2*. Wall push into a df+3+4/f+1+2* is extremely affective. 
+When they duck, df,df+2+4 leads to multi. Whenever you get a wall stun, 
+f+1+2/f+2+3/f,f+2+3 is great. If they tech roll the f+1+2, 1+4 is guaranteed. 
+f+2+3 is great for damage, but somewhat risky if your opponent wall techs. 
+f,f+2+3 just looks nice. You can use df+1 after a wall stun to knock them 
+down for some wake-up games. Also, If your in a juggle and your opponent is 
+about to hit the wall, you can time a throw perfectly to grab them off the 
+wall(can you say GS????)  Here's what's guranteed off wall pushes:
+
+close
+  1,2/2,1
+  db+1,db+1
+
+
+far
+  uf+4
+  1+2,1
+  b+3
+
+
+Wake-up Games
+-------------
+To keep it simple, I'll divide this into four sections.   
+
+Tech rollers:
+easiest to beat. You can let them tech roll as throw them as soon as they rise. 
+f,f+2+3 beats it everytime. A well time d+2+4/df,df+2+4 will snatch them outta 
+tech roll EVERYTIME if timed correctly.
+
+Back Rollers:
+uf+1+2/d+3+4,2/f+2+3 work the best here. back roll recovers FC, so you can chase 
+them down for a d+2+4. 
+
+Attackers:
+Make them whiff for big time damage. you can reverse the mid/ankle kick. If you 
+parry any low kick, d+2+4 is guaranteed. 
+
+Side rollers:
+1+4/f,f+2+3/ground throws work the best here. 
+
+
+
+  
+
+
+
+
+IV. VS STRATEGY
+Everyone plays their character differently, so instead of strats, I'll give tips 
+to beating a certain character.
+
+
+Ling Xioyou
+-----------
+
+blocked BK+4=free b+4
+df+1,2 knocks Ling outta AOP
+Ling can be crouch thrown outta AOP
+d+4 her outta California roll. 
+blocked df+1,2=free GS. 
+
+
+
+Steve Fox
+---------
+
+blocked f,f+2 leaves you in FC.
+Can be low thrown outta ducking/sways
+df+1,2/db+4/f+2+3 knocks Steve outta stances
+Can escape Flk,2 after f,f+2 by side rolling. 
+Can tech roll db+2/df+1+2
+Blocked WS+1,2=GS
+
+
+
+Craig Marduk
+------------
+Eacape tackle by jumping
+Can reverse armbar with 1+2
+blocked FC,df+4=free FC,df+2
+
+
+
+Yoshi
+-----
+Blocked f,f+4/uf+3=free GS
+Don't wall tech, you'll eat a sword fan.
+blocked FC,df+3=hopkick
+
+
+
+Hwoarang
+---------
+d+3,4 is Sm. LFS, d+3,4 is low.
+duck under second hit of db+4,4.
+low jab after a 1,2/2 flamingo transition.
+blocked b+3=GS
+
+
+
+Kazuya Mishima
+--------------
+blocked WS+2=GS
+jab after a blocked TGF
+blocked f,N,d,df+4=hopkick
+
+
+
+Paul Phoenix
+------------
+blocked DF/d+1+2/WS+2=free f,f+4
+blocked f+1+4/missed JF d+4:2:1+2/f,f+2:1=GS
+
+
+
+Christie Montiero
+-----------------
+df+1,2 hits her outta RLX
+d+2+4,2 hits her outta HND
+f,N,d,df+4 Out prioritzes most her moves
+
+
+
+King
+----
+You should know......
+
+
+
+Forest Law
+----------
+Hop kick/df+1,2 after a block flip kick
+1,2 after a blocked DSS 1
+
+
+
+Kuma
+----
+f,f+2+3/f,f+2/df+1,2 knock Kuma outta HBS
+blocked f+1+2=f,f+4
+
+
+
+Julia Chang
+-----------
+blocked 1,1,1/1~2,1/df+2~1=GS
+Low parry second hit of 4,4
+
+
+
+Lee Chaolan
+-----------
+missed 1,2,4:4 JF=GS
+reverse 4,3,3
+Blocked F,N+3,4=hop kick 
+
+
+
+Lei Wulong
+----------
+blocked db+4=d+2+4.
+Can be hit outta stances.
+CRN auto-hops over lows, can parry while in TGR.
+can be low throw outta b+1+2.
+Can SS Razor Rush on block
+
+
+
+Jin Kazama
+----------
+reverse 1,2,3/1,2,4/1,3~3
+block after a 2,1 hits. 
+blocked d+3+4=GS
+SWR to avoid JFLS
+
+
+
+Nina Williams
+---------------
+SWR after a blocked 1+4.
+blocked f+1+2=f,f+4.
+blocked FC,df+4=d+2+4
+
+
+
+Bryan Fury
+----------
+1,2 in between WS+3,4
+blocked f,f+2=f,f+4
+duck third hit of 4,3,4 
+
+
+
+Heihachi Mishima
+----------------
+you can tech d+1's on the ground
+Blocked 1,1,2/WS+4,4=GS
+blocked df+1,2=1+2,1/f,f+4
+Missed JF f,N,d,df+4:4:4=hopkick
+
+
+
+
+
+
+
+
+
+
+V. CONCLUSION
+Well, I hope that this information is useful to you and I didn't bore 
+the shit outta you. Although I can help you play a better King, practice 
+and experience will make you a better player. 
+
+Peace out!!!!!!!!!!!!!! 
+
+
+
+=======================================================================
+END OF DOCUMENT
+=======================================================================

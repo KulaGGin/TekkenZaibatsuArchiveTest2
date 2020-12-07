@@ -1,0 +1,1179 @@
+            MANUAL AVANZADO DE TECNICAS Y DESPLAZAMIENTOS MISHIMAS
+                                 Revisión 1.3
+
+MANUAL MISHIMA TEKKENCHILE.CL Versión 1.3
+-----------------------------------------
+-----------------------------------------
+
+Idioma        : Español
+Juego         : Tekken Tag Tournament
+Plataformas   : Arcade / Playstation 2
+Autores       : PauloC, Nelsontekken, Coipo y la comunidad de TekkenChile
+Compilación   : Nelsontekken
+Revisión      : PauloC, Coipo
+
+=============================================================================
+= :::::::::::::::::::::::::: Tabla de contenidos :::::::::::::::::::::::::: =
+=============================================================================
+
+1) - Información legal
+
+2) - Historial de versiones
+
+3) - Propósito del manual
+
+4) - Nomenclatura universal
+     4.1) - Convenciones de botones
+     4.2) - Convención de movimientos
+     4.3) - Círculos
+
+5) - Notaciones
+     5.1) - Paso lateral
+     5.2) - Comandos
+
+6) - Conceptos y definiciones
+
+7) - Lista de movimientos
+     7.1) - Angel/Devil
+     7.2) - Heihachi Mishima
+     7.3) - Jin Kazama
+     7.4) - Kazuya Mishima
+
+8) - Movimientos básicos
+     8.1) - Wind god fist
+     8.2) - Electric wind god fist
+     8.3) - Dash wind god fist
+     8.4) - Dash electric wind god fist
+
+9) - Desplazamientos
+     9.1) - Croush dash
+            9.1.1) - Dash buffer
+            9.1.2) - Otras cancelaciones
+            9.1.3) - Utilidad de las cancelaciones
+            9.1.4) - Casos prácticos
+     9.2) - Wave dash
+     9.3) - Light dash
+     9.4) - Snake dash
+     9.5) - Back dash
+
+10) - Tecnicas
+      10.1) - Uso del light dash
+      10.2) - Uso de los dash
+      10.3) - Ataque y defensa usando el dash
+     
+11) - Métodos para ejecutar Light dash
+      11.1) - Técnicas de palanca
+              11.1.1) - Método para el lado 1
+              11.1.2) - Método para el lado 2
+      11.2) - Técnicas con Joypad o control de PS2
+
+12) - Juggles
+      12.1) - Angel/Devil
+      12.2) - Heihachi Mishima
+      12.3) - Jin Kazama
+      12.4) - Kazuya Mishima
+
+13) - Otros
+      13.1) - Videos relacionados
+      13.2) - Enlaces
+              13.2.1) - Enlaces relacionados con Tekken
+              13.2.2) - Enlaces realcionados con información de videojuegos
+                        en general
+      13.3) - Agradecimientos
+      13.4) - Nota final
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1) - Información legal
+----------------------
+----------------------
+
+Este documento esta hecho para uso gratuito y puede ser distribuido
+libremente, siempre y cuando se mantenga el contenido original y no se
+obtenga ganancias del mismo.
+
+La reproducción total o parcial se encuentra totalmente prohibida.
+
+Tekken y todos los caracteres relacionados son Copyright de Namco Ltd.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2) - Historial de versiones
+---------------------------
+---------------------------
+
+Versión 1.2
+
+Primera versión del FAQ.
+
+Versión 1.3
+
+Cambios generales
+
+- Añadida la sección Historial de versiones.
+- Añadida la sección Juggles.
+- Añadida la sección Enlaces.
+
+Cambios específicos
+
+Sección: Casos prácticos (9.1.4)
+
+- Añadido información.
+
+Sección: Snake Dash (9.4)
+
+- Añadido información.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+3) - Propósito del manual
+-------------------------
+-------------------------
+
+  Esta guía esta hecha por y para jugadores Mishimas o simplemente para
+personas que estén interesadas en conocer el ARTE MISHIMA. En esta guía se
+podrán encontrar tips y análisis de estrategias Mishimas para jugadores de
+cualquier nivel.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+4) - Nomenclatura universal
+---------------------------
+---------------------------
+
+4.1) - Convenciones de botones
+------------------------------
+
+1 - Puño izquierdo
+2 - Puño derecho
+3 - Patada izquierda
+4 - Patada derecha
+5 - Botón del tag
+
+              -------------------------------------------------
+              |        ARCADE         |   PLAYSTATION2   ___  |
+              |                       |       ___       | 5 | |
+              |   ___    ___    ___   |      /   \      |___| |
+              |  /   \  /   \  /   \  |      | 2 |        R1  |
+              |  | 1 |  | 2 |  | 5 |  |      \___/        R2  |
+              |  \___/  \___/  \___/  |  ___   _   ___    L1  |
+              |                       | /   \     /   \   L2  |
+              |   ___    ___          | | 1 |     | 4 |       |
+              |  /   \  /   \         | \___/     \___/       |
+              |  | 3 |  | 4 |         |   ß   ___   O         |
+              |  \___/  \___/         |      /   \            |
+              |                       |      | 3 |            |
+              |                       |      \___/            |
+              |                       |        X              |
+              -------------------------------------------------
+
+4.2) - Convenciones de movimientos
+----------------------------------
+
+f - Toque Adelante	d/f - Toque diagonal Abajo/Adelante
+b - Toque Atrás		d/b - Toque diagonal Abajo/Atrás
+u - Toque Arriba		u/f - Toque diagonal Arriba/Adelante
+d - Toque Abajo		u/b - Toque diagonal Arriba/Atrás
+
+F - Mantenido Adelante	D/F - Mantenido diagonal Abajo/Adelante
+B - Mantenido Atrás	D/B - Mantenido diagonal Abajo/Atrás
+U - Mantenido Arriba	U/F - Mantenido diagonal Arriba/Adelante
+D - Mantenido Abajo	U/B - Mantenido diagonal Arriba/Atrás
+
+GRÁFICA EN UN STICK (solo tomando en cuenta la posición y dirección de la
+                     palanca o stick)
+
+                             -------------------
+                             |    UB  U  UF    |
+                             |      O O O      |
+                             |       \|/       |
+                             |    B O-N-O F    |
+                             |       /|\       |
+                             |      O O O      |
+                             |    DB  D  DF    |
+                             |                 |
+                             -------------------
+
+4.3) - Círculos
+---------------
+
+QCF - Cuarto de círculo hacia adelante
+QCB - Cuarto de círculo hacia atrás
+HCF - Medio círculo hacia adelante
+HCB - Medio círculo hacia atrás
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5) - Notaciones
+---------------
+---------------
+
+5.1) - Paso lateral
+-------------------
+
+SS  - Paso lateral "Sidestep" (u,N_d,N)
+SSR - Paso lateral hacia la derecha
+SSL - Paso lateral hacia la izquierda
+
+5.2) - Comandos
+---------------
+
+N  - Posición neutral u original del joystick o el pad de Play Station
++  - Movimientos se deben  realizar juntos
+,  - Movimientos se han de realizar consecutivamente uno detrás del otro
+~  - Movimientos se han de realizar inmediatamente después
+_  - O (cuando se pone entre dos movimientos se puede elegir entre uno u
+     otro)
+>  - El movimiento después de > se puede demorar o retrazar
+#  - Deja el movimiento antes del # apretado hasta finalizar el combo o hasta
+     N (Neutral)
+FC - Realiza el movimiento mientras que estés totalmente agachado
+WS - Mientras te levantas (realiza el movimiento mientras te estas levantando
+RN - Mientras corres
+BK - Mientras estés de espaldas al oponente
+CH - Counter Hit (golpeas al oponente mientras él ejecuta un movimiento)
+[] - Si este corchete se encuentra entre movimientos es opcional ha realizar
+() - Paréntesis indica movimientos agrupados
+{} - Paréntesis curvadas indican como salir de un agarre
+:  - Pausa de 1/3 segundo antes del siguiente movimiento (se usa para Combos
+     de 10 golpes)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+6) - Conceptos y definiciones
+-----------------------------
+-----------------------------
+
+Juggle  : Combo inescapable.
+
+Okizeme : Técnica para golpear a un oponente que se encuentra en el suelo.
+
+Frame   : Cuadro o fotograma. Un cuadro es una imagen a pantalla completa,
+          estos al pasarlos a una gran velocidad dan la impresión que la
+          acción se encuentra en movimiento.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+7) - Lista de movimientos
+-------------------------
+-------------------------
+
+Movimientos para cada personaje:
+
+  A continuación se muestran los distintos movimientos para cada personaje
+tratado en esta guía: Angel/Devil, Heihachi Mishima, Jin Kazama, Kazuya
+Mishima.
+
+Nota: No se mencionaran los movimientos generales que tienen todos los
+personajes si desea conocerlos, por favor revise otras guías (ejemplo:
+FAQ TTT por DAVICO) que se encuentra alojada en el index de
+www.tekkenchile.cl.
+
+(Nota: Estas listas fueron tomadas del FAQ de Davico)
+
+                             --- o ---
+
+7.1) - Angel/Devil
+------------------
+
+Técnicas para agarres:
+
+(Frente)1+3                 Bitch Kicks {1}
+        2+4                 Hip Toss {2}
+        f,f+1+2             Stonehead {1+2}
+(Izq. ) (1+3)_(2+4)_(2+5)   STEEL PEDAL SMASH {1}
+(Der. ) (1+3)_(2+4)_(2+5)   SKULL SMASH {2}
+(Atrás) (1+3)_(2+4)_(2+5)   Atomic Drop
+
+Técnicas especiales:
+
+1,1>2                   Shining Fists
+[1],2>2                 Punch[es], Backfist
+d/f+1,2 [~5]            Twin Pistons [TAG]  *Juggles*
+f,N,d,d/f+1,[3_4]       Thunder Godfist, [Sidekick, Hellsweep]
+f,N,d,d/f+1,u/f         THUNDER GODFIST, HEAVEN DENIED *el inicio de TGF debe
+                        conectar*
+f,N,d,d/f+2 [~5]        Wind Godfist [Tag]  *Juggles*
+f,f+2                   DEVIL FIST
+SS+2 [~5]               DEVIL TWISTER [Tag]  *Juggles*
+4~3                     Flipstomp
+f,f+3                   Split Axe Kick
+WS_(f,N,d,d/f)+4,4      Axe Kicks
+f,N,d,D/F+4,4           Hell Sweeps
+f+4                     Axe Kick
+u_u/f+4,4               Jumping Kick, Hellsweep
+(u_u/f_u/b)+2+4         Corpse Splitter  *Cuando tu oponente se encuentre en
+                        el piso*
+
+1+2                     Ground Laser  *Inbloqueable*
+u+1+2                   DIAGONAL U/F AIR LASER  *Inbloqueable*
+3+4                     Flying Laser  *Inbloqueable*
+3+4,3+4                 FLYAROUND BACK LASER  *Inbloqueable*
+
+String:
+
+f,f,N+2122:3:4:4::1::2:1        Tenstring
+
+7.2) - Heihachi Mishima
+-----------------------
+
+Técnicas para agarres:
+
+(Frente)1+3                 Neck Breaker {1}
+        2+4                 Powerbomb {2}
+        f,f+1+2 [~5]        Stonehead [ARMBAR TAG *Necesita a jun en equipo*] 
+                            {1+2}
+        f,f+1+4             Headbutt *Esto solo trabaja en  Heihachi, Jin,
+                            Lei, Kuma, Kazuya, Paul y los jacks* {1+2}
+(Izq. ) (1+3)_(2+4)_(2+5)   One Hand Slam {1}
+(Der. ) (1+3)_(2+4)_(2+5)   Tile Splitter Guillotine {2}
+(Atrás) (1+3)_(2+4)_(2+5)   Atomic Drop
+
+Técnicas especiales:
+ 
+1,1>2                   Shining Fists
+1,2,2                   2 Punches, Backfist
+1,2,2~1[~u_d]           2 Punches, Chi Palm [,FAKEOUT]
+f+1,b+2,1_4             Punch, Gutpunch, Thunder Godfist_Slice Kick
+1+2                     Chi Palm
+d/f+1,2 [~5]            Twin Pistons [Tag]  *Juggles*
+QCF+2                   Deathfist
+f+2                     Backfist
+B+2                     Spinning Gutpunch
+WS+2                    DARK THRUST  *Stuns en CH*
+b+1                     STUN SPLITTER
+d+1,2                   Tile Splitter, Deathfist
+f,f+2 [~5]              Demon Godfist [Tag]  *Juggles*
+f,N,d,d/f+1             ELECTRIC THUNDER GODFIST
+f,N,d,D/F,1             Thunder Godfist
+f,N,d,d/f+2 [~5]        Wind Godfist [Tag]  *Juggles*
+f,N,d~D/F+2 [~5]        Electric Wind Godfist [Tag]  *Juggles*
+f,N,d,d/f+3,N           Slice Kick
+f,N,d,D/F#+3            Low Slice Kick
+f,N,d,D/F#+4,[4],[4]    Hell Sweep[s]
+  N+1                     Thunder Godfist
+  N+4,4                   Axe Kicks
+f,f+3                   Left Axe Kick
+u/f+3,4                 Screw Blade Hunting Hawk
+4                       Standing Heihachi Boot  *Aturde en CH*
+f+4                     Right Axe Kick
+u/f+4,4                 High-Low Jumping Spin Kicks
+u+4                     Vertical Boot  *Juggles*
+WS_QCF+4,4              Axe Kicks
+4~3                     Flipstomp
+d+4                     Demon Stomp  *Cuando tu oponente esta en el piso*
+b,b,N+3+4               Shadow Foot Sidestep
+
+d+1+4                   Demon Tile Splitter  *Inbloqueable*
+
+2+3+4                   Lighting Taunt
+
+Strings:
+
+d/f+3:22::4:4::1::2::1::2::1       Tenstring
+d/f+3:22::4:4::1::4::1::2::(1_4)   Tenstring
+f,F:::::2122:3:4:4::1::2:1         Tenstring
+
+7.3) - Jin Kazama
+-----------------
+
+Técnicas para agarres:
+
+(Frente) 1+3                   Bitch Kicks {1}
+         2+4                   Arm Break Shoulder Toss {2}
+         QCB+1+3               Wrist Takedown {1}
+         f,f+1+2 [~5]          Stonehead [ARMBAR TAG *Necesitas a Jun en
+                               equipo*] {1+2}
+         d/f+2+3               Striking Shiho-Nage {2}
+(Izq. )  (1+3)_(2+4)_(2+5)     Shoulder Flip {1}
+(Der. )  (1+3)_(2+4)_(2+5)     Arm Break, Shoulder Toss {2}
+(Atrás)  (1+3)_(2+4)_(2+5)     Spinning Arm Breaker
+(Tackle) [1,2,1]_[2,1,2], 1+2  [Mounted Punches], Armbar
+
+Técnicas especiales:
+ 
+1,1>2                   Shining Fists
+[1],2>2                 Punch[es], Backfist
+1,2,4                   1-2 Jab, Knee
+1,2,4~1+4,2,4_(d+4)     1-2 Punches, White Heron  *el 1+4 cancela al 4*
+b+1, [D/F]              PARTING WAVE, [CROUCHDASH  *Entra en CD y puedes
+                        continuar *]
+d/b+1                   CORPSE THRUST
+b+2,3                   BACKHAND, LEFTKICK
+2,2                     Punch, Backfist
+d+3+4                   Can-Can Kicks  *Juggles*
+d_FC+1+2                Ultimate Tackle
+f,N,d,D/F+4,4           Hell Sweep  *Hace flotar*, Roundhouse
+SS+2 [~5]               Tooth Fairy [Tag]  *Juggles*
+b,f+2,                  Gut Punch  *Aturde en  CH*
+   1>2_d+2 [~5]         Elbow, Demon Paw_Uppercut [Tag]  *Juggles*
+f,N,d,d/f+1,[3_4]       Thunder Godfist, [Sidekick, Hellsweep]
+f,N,d,d/f+2 [~5]        Wind Godfist [Tag]  *Juggles*
+f,N,d~D/F+2 [~5]        Electric Wind Godfist [Tag]  *Juggles*
+f,N,4                   Arching Roundhouse
+WS+1,2 [~5]             Twin Pistons [Tag]  *Juggles*
+WS+2 [~5]               Rising Uppercut [Tag]  *Juggles*
+1+4,2,(4_D+4)           White Heron Combo
+f,f+2                   Demon Paw
+f,f+3                   Axe Kick
+f,f,f+3                 Jumpkick
+b+4                     DEMON STEEL PEDAL
+u_u/f+4,4,4,4           Jumping Kick, 2 Hell Sweeps, Roundhouse
+(u_u/f_u/b)+2+4         Corpse Splitter  *Oponente en el piso*
+d/f_WS+4,4              Axe Kicks
+4~3                     Flipstomp
+f+2>4                   Overhead Smash, Knee
+d/f+1,2                 Low Shot, Overhead Smash
+f+3                     Screw Kick
+f+4                     Quick Knee
+1,2,3,4_(F+4)           1-2 Jab, Axe Kick, Axe Kick_Front Kick
+b+1+2                   Electric Guard
+b+1+2,2~2~3             DEVIL POSSESSION  *Debe tener a Heihachi en equipo*
+b+(1+3)_(2+4)           Mid/High Attack Reversal
+b+1+4                   Lightning Godfist  *Inbloqueable*
+B+1+4                   Lightning Hell Godfist  *Inbloqueable*
+
+Devil possession : (se debe tener a Heihachi en el equipo)
+----------------------------------------------------------+
+
+b+1+2
+ =2,2,3
+  = ~2~2~3
+f,f+1+2 		Devil Stone Head
+f,N,d,d/f+1             Devil Thunder Godfist
+f,N,d,d/f+2 [~5]        Devil Mid Wind Godfist [Tag]  *Juggles*
+f,N,d,D/F+4             Hell Sweep  *Juggles*
+  4,4                     Axe Kicks
+1+2                     Demon Gutpunch  *Aturde*
+1,2,2,3,2,4,3           Demon 7-String
+
+Strings:
+
+f,f,N+2122:3:4:4::1::2:1        Tenstring
+f,f,N+2122:3:4:4::3::2:1        Tenstring
+f,f+N+2144:2:4:3::2:1           Ninestring
+324:3:1+4:2::2:1:2              Tenstring
+324:3:1+4:2:1::3_4              Ninestring
+b+24::4:4:4:2:1+4::2:1:3_4      Elevenstring
+b+24::4:4:4:2:1+4::2:3+4        Elevenstring
+b+24:2:1:2_(d+2)                Fivestring
+
+7.4) - Kazuya Mishima
+---------------------
+
+Técnicas para agarres:
+
+(Frente)1+3                 Bitch Kicks {1}
+        2+4                 Hip Toss {2}
+        f,f+1+2 [~5]        Stonehead [TAG ARMBAR *Need Jun on Team*] {2}
+(Izq. ) (1+3)_(2+4)_(2+5)   STEEL PEDAL SMASH {1}
+(Der. ) (1+3)_(2+4)_(2+5)   SKULL SMASH {2}
+(Atrás) (1+3)_(2+4)_(2+5)   Reverse Neck Throw
+
+Técnicas especiales:
+ 
+1,1>2                   Shining Fists
+[1],2>2                 Punch[es], Backfist
+1,2,4                   1-2 PUNCHES, LOW SLIPKICK
+WS+1,2 [~5]             Twin Pistons [TAG]  *Juggles*
+f+1+2                   GLORY DEMON FIST  *Juggles*
+d_FC+1+2                Ultimate Tackle
+d/f+1                   ENTRAILS SMASH
+f,N,d,d/f+1,[3_4]       Thunder Godfist, [Sidekick, Hellsweep]
+f,N,d,d/f+2 [~5]        Wind Godfist [TAG]  *Juggles*
+WS+2                    Kazuya Gutpunch  *Aturde en CH*
+d/f+2                   DEMON GUTPUNCH  *Aturde en CH*
+f+2                     DEMON PAW
+4~3                     Flipstomp
+f,f+3                   Split Axe Kick
+d/f_WS_(f,N,d,d/f)+4,4  Axe Kicks
+f,N,d,D/F+4,4           Hell Sweeps
+f+4                     Axe Kick
+d/b+4                   LOW SLIPKICK
+u_u/f+4,4,4,4           Jumping Kick, 2 Hell Sweeps, Roundhouse
+(u_u/f_u/b)+2+4         Corpse Splitter  *Cuando el oponente se encuentre en
+                        el piso*
+f,N                     Kazuya MIST STEP
+  d/f+1_(4,4)             Thunder Godfist_(Hell Sweeps)
+  d/f+2                   Wind Godfist  *Juggles*
+
+b+1+4                   Lightning Godfist  *Inbloqueable*
+B+1+4                   Lightning Hell Godfist  *Inbloqueable*
+
+Strings:
+						 
+f,f,N+2122:3:4:4::1::2:1        Tenstring
+f,f,N+2122:3:4:4::3::2:1        Tenstring
+f,f+N+2144:2:4:3::2:1           Ninestring
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+8) - Movimientos básicos
+------------------------
+------------------------
+
+  ----
+  NOTA:
+  ---- 
+
+  Los siguientes contenidos son el manual en sí, puesto que en él se explican
+algunos conceptos que a muchas personas no acostumbradas a la nomenclatura
+entienden, en las siguientes líneas se habla de forma muy general y
+simplificada.
+
+  Para las personas que quieran saber los Data frame de cada personaje
+tendrán que dirigirse a www.tekkenzaibatsu.com, pero para aquellas personas
+que no entiendan su significado o la leyenda que en ese sitio ofrecen en este
+manual se dará una muy clara explicación en que consisten y como funciona la
+leyenda para entenderlos.
+
+                             --- o ---
+
+8.1) - Wind god fist
+--------------------
+
+Abreviación : WGF
+Nombre	    : Wind god fist
+Comando     : f,N,d,d/f+2
+
+Explicación : Uppercut estándar de los Mishimas.
+
+8.2) - Electric wind god fist
+-----------------------------
+
+Abreviación : EWGF
+Nombre	    : Electric wind god fist
+Comando     : f,N,d~d/f+2
+
+Explicación : Este movimiento se puede decir que es el mejor movimiento del
+TTT, ya todos lo conocen, lo poseen solo los personajes Heihachi y Jin, en
+el caso de Jin el EWGF conecta en high pero presionando ~5 inmediatamente lo
+convierte en mid, no se le puede hacer parry ni tampoco hacer reversal en
+este caso.
+
+  Es necesario dominarlo, sin duda, pues es "multifuncional" con el puedes
+interrumpir, tiene buenos tiempos, buen daño, se puede jugglear etc, un buen
+jugador Mishima tendrá que darle versatilidad al movimiento para hacerlo
+letal, osea tendrá que saber como usarlo (ejemplo: después de un SS, cuando
+se esta moviendo, después del Back dash y lo mas importante en el desde el
+WD o LD).
+
+8.3) - Dash wind god fist
+-------------------------
+
+Abreviación : DWGF
+Nombre      : Dash wind god fist
+Comando     : f, f,N,d,d/f+2
+
+Explicación : Este es un Uppercut con avance puesto que el "f" le da mucho
+mas alcance, especial contra sidestepers, además el DASH-WGF sirve para
+terminar juggles que con el WGF normal no se puede como por ejemplo:
+"WGF, 1,2, 1,2, DWGF" seria el mas común.
+
+8.4) - Dash electric wind god fist
+----------------------------------
+
+Abreviación : DEWGF
+Nombre      : Dash electric wind god fist
+Comando     : f,f,N,d~d/f+2
+
+Explicación : Es el bien llamado "eléctrico con avance" puesto que el "f" le
+da mucho mas alcance, especial para empujar y contra sidestepers, además el
+DASH-EWGF sirve para terminar juggles que con el EWGF normal no se puede como
+por ejemplo el: "EWGF, EWGF, f,f, 1+4,2, DEWGF" seria el mas común.
+  
+  Aplicando el mismo concepto del avance antes del CD, al igual que un DWGF o
+un DEWGF se pueden hacer DASH-Hellsweep .. funcionan al igual que los
+mencionados, dando mucho mas alcance en ocasiones donde se necesitan okizemes
+seguros puesto que no siempre el simple Hellsweep conecta y menos de la forma
+"arrastrada" o cuando se está a cierta distancia alejado del oponente.
+
+  Con este truco se conseguirá derribar para conectar okizeme al oponente
+.... es harto peligroso no conectarlo puesto que te pueden levantar.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+9) - Desplazamientos
+--------------------
+--------------------
+
+9.1) - Crouch dash
+------------------
+
+Abreviación : CD
+Nombre      : Crouch dash
+Comando     : f,N,d,d/f
+
+Explicación : Este movimiento no es exclusivo para los Mishimas, otros
+personajes lo tienen, por ejemplo Team Korea (Baek & Hwoarang), King,
+Alex/Roger, etc. pero no viene al caso nombrarlos o referirse a ellos. Kazuya
+tiene una variante del CD, el MIST STEP "f,N,d/f".
+
+  Es la mejor arma Mishima de aquí pueden nacer una gran cantidad de
+movimientos por ejemplo: TGF (f,N,d,d/f+1), WGF, EWGF, Hellsweep (f,N,d,D/F+4
+o f,N,d~D/F+4), Tsunami kicks (CD~WS+4,4), etc. Todos estos movimientos tienen
+en común que empiezan con CD "f,N,d,d/f", pero también pueden ejecutarse otros
+movimientos desde él, además el CD se puede cancelar (lo que en nomenclatura
+aparece como "cc") en cualquier instante de la animación (f_b_u/b_d/b), la
+gracia de esto es dar versatilidad a tu juego.
+
+  Los Mishimas no serian nada sin este comando, para bien de algunos y mal
+para otros. A partir de este comando se pueden ejecutar desplazamientos WD y
+LD con los cuales se puede atacar, intimidar, cerrar espacios, perseguir,
+usar como finta para manejar distancias, son los mas claros ejemplos.
+
+9.1.1) - Dash buffer
+
+Otras de las propiedades del CD es que se puede "bufferear" otros movimientos
+solo ejecutando "f" después de la ejecución del mismo ... osea como un "f,f".
+
+  Al cancelar CD (f,N,d,d/f) con f de esta forma f,N,d,d/f,f el CD pasa a ser
+un simple f es decir que se pueden ejecutar movimientos de la forma f,f+...
+de la cancelación del CD hacia adelante f,N,d,d/f, f+... Los movimientos
+útiles que se pueden ejecutar son:
+
+f,f+1+2 como f,N,d,d/f, f+1+2
+
+El agarre cabezazo Stonhead de todos los Mishimas con mucho mas alcance.
+
+f,f+3 como f,N,d,d/f, f+3
+
+La patada media Axe kick de todos los Mishimas con mucho mas alcance.
+
+f,f+2 como f,N,d,d/f, f+2
+
+El iniciador de juggles Demon god fist de Heihachi Mishima con mayor rango.
+
+f,f+2 como f,N,d,d/f, f+2
+
+El golpe medio Demon paw de Jin con mayor alcance.
+
+9.1.2) - Otras cancelaciones
+
+  También luego de la ejecución del CD se puede ejecutar b o d/b (+ botón) lo
+que convierte al CD en un movimiento del tipo iWS. Los comandos son:
+
+  f,N,d,d/f, b+boton
+
+  f,N,d,d/f, d/b, N, boton
+
+9.1.3) - Utilidad de las cancelaciones
+
+El CD se puede cancelar de 3 formas:
+
+1.- CD,N,f
+2.- CD,N,b
+3.- CD,N,d/b,N
+
+1.- El CD,N,f sirve para:
+
+1.1.- Ganar un paso de distancia.
+1.2.- Lanzar automáticamente un ataque que comience con f ya que el f queda
+      en buffer.
+1.3.- Para realizar el LD.
+
+2.- El CD,N,b sirve para:
+
+2.1.- Realizar una finta, incitar al adversario a lanzar su ataque.
+2.2.- Para molestar y confundir al adversario al hacer rápida y continuamente
+      durante un pequeño intervalo de tiempo.
+
+3.- CD,N,d/b,N sirve para sacar ataques del tipo WS, de usos múltiples según
+    la ocasión.
+
+9.1.4) - Casos prácticos
+
+A.- Para ejecutar los Twin pistons de Angel/Devil y Heihachi después del CD:
+
+    CD,N,f,d/f+1,2 
+
+B.- Para ejecutar los Twin pistons de Jin y Kazuya después del CD:
+    
+    CD,N,d/b,N+1,2 
+
+C.- Para sacar la patada f+4 de Angel/Devil, Heihachi y Kazuya después del
+    CD:
+
+    CD,N,b,f+4
+
+    o bien con un SS antes de la patada por ejemplo:
+
+    WD_SN_LD,SS,f+4
+
+D.- Para sacar el WS+2 de Heihachi:
+
+    CD,N,d,b,N+2
+
+E.- Para sacar el WS+2 de Jin:
+
+    CD,N,d/b,N+2
+
+NOTA: Ejecutar los Twin pistons de Angel/Devil y Heihachi (d/f+1,2) después de
+      un CD no requiere del neutro solo, solo basta con marcar CD,N,f,d/f+1,2.
+
+9.2) - Wave dash
+----------------
+
+Abreviación : WD
+Nombre      : Wave dash
+Comando     : f,N,d,d/f,N,f,N,d,d/f,N,f,N,d,d/f,N, f.... repetir 
+
+Explicación : Básicamente son crouch dashes encadenados, el f acá sirve para
+"encadenar" ya que sirve para cancelar y comenzar, que lindo xD se debe tener
+cuidado, también puede ser peligroso .. se puede detener con d+1_4, esta es
+una de las mas famosas y efectivas técnicas para detener este desplazamiento,
+la idea es controlar la distancia y así dominar el juego. La mas usada a buen
+nivel seria f,N,d,d/f,f,d~d/f+2 (terminar el WD con EWGF) igual requiere
+practica el dominarla al igual que con los iWS+boton.
+
+9.3) - Light dash
+-----------------
+
+Abreviación : LD
+Nombre      : Light Dash
+Comando     : f,N,d,d/f,N~f,N,d,d/f,N~f,N,d,d/f  .....repetir
+
+Explicación : La diferencia entre un LD y un WD es básicamente que el light
+dash es mucho mas rápido.
+
+9.4) - Snake dash
+-----------------
+
+Abreviación  : SD
+Nombre       : Snake dash
+Comandos     : f,N,d,d/f~f, SS, f,N,d,d/f~f, SS, f,N,d,d/f~f, SS o
+               f,N,d,d/f,f_b, SS, f,N,d,d/f,f_b, SS repetir o
+               f,N,d,d/f,-ub,u_db,d-
+
+Explicación  : Básicamente es la forma de cancelar el CD con SS, su nombre se
+debe a que la animación que da es como una especie de "culebreo" lo que lo
+hace muy difícil al oponente saber como atacar y cubrirse ante este
+espectacular movimiento, ya que cualquier intento de ataque será evadido y
+contraatacado con un eléctrico.
+
+  En medio de este desplazamiento, junto con la ejecución del SS pueden
+ejecutarse tecnicas que requieran este comando. En el caso de Angel/Devil la
+tecnica Devil twister (SS+2) y en el caso de Jin el Tooth fairy (SS+2). 
+
+  Este movimiento es muy difícil dominar, verdaderos Dash master lo pueden
+controlar a voluntad, se pueden apreciar  en los videos de torneos koreanos
+(buscar videos del Tekken player Doheekim  "Match on tv" o de Arondite en el
+"Busan Salomon Special" o en los "Mishima's Skill" de www.tekkenchile.cl).
+
+9.5) - Back dash
+----------------
+
+Abreviación  : BD
+Nombre       : Back dash
+Comandos     : Se señalarán en la explicación
+
+Explicación  : El simple b,b que todos conocemos es muy lento, si se quiere
+lograr resultados parecidos a un "ha-ha step" de Lei se debe hacer
+cancelándolo ... igual hay que prestar importancia a este paso por que se
+puede usar para diferentes casos, hasta el mas extremo de ratonear :D ..,
+hay mejores como abrir espacios (no es lo mismo :D) esquivar e incluso para
+ejecutar ~5 sin ser agredido si quieres.
+
+Comandos:
+
+1) b,b,d/b,b,b,d/b,b,b,d/b, (repetir) o
+
+2) b,b,d/b,n,b,d/b,n,b, (repetir)
+
+  En el 1er y 2do caso la animación del b,b se cancela con la del d/b este
+comando sirve para ganar distancia si se quiere ya que es continuo y menos
+peligroso que el b,b,f~b,b,f~b,b (repetir) en este caso la animación del
+b,b se cancela con la del f lo que implica que también sirve para el ataque.
+Otra manera es ejecutando b,b~f~b,b~f~b,b.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+10) - Técnicas
+--------------
+--------------
+
+10.1) - Uso del light dash
+--------------------------
+
+  El uso del LD es solo para controlar las distancias de ataque, para lograr
+ataques desde lejos y confundir. En distancias cerradas el LD no sirve porque
+puede ser interrumpido por un simple d+1 o d+4 que en la nomenclatura debería
+escribirse d+1_4.
+
+  Un buen LD no depende de la velocidad que se ejecute, sino mas bien del
+alcance y efectividad del ataque que se pueda lograr haciendo uso de esta
+técnica. Un LD demasiado rápido no confunde al adversario solo sirve para
+impresionar a los espectadores.
+
+  La idea de un LD efectivo es confundir al oponente, es como una hipnosis.
+Es necesario sentir el momento de lanzar el ataque en LD, el oponente
+quedara quieto sin ninguna posibilidad de defenderse al ver una posibilidad
+de ataque alta, media o baja a gran velocidad, esto no le da tiempo para
+pensar donde cubrirse a medida que ve la ola acercarse solo reacciona cuando
+el golpe haya llegado.
+
+  Hay oponentes mas expertos que ya saben reaccionar frente al LD de Jin,
+cubriéndose abajo, de esta manera evitan el SWEEP (barrido) o el eléctrico,
+pero para un LD Master esto no presenta problemas porque si ve que el
+oponente se agacha frente al LD, entonces debe recurrir a cancelar el LD y
+sacar inmediatamente un iWS+2 con db,n+2.
+
+  El uso mas efectivo del LD es realizar como máximo 3.
+
+  Por lo general la distancia entre los players es aproximadamente de 2
+cuerpos, con 2 LD es mas que suficiente para atacarlo y confundirlo.
+
+  Frente a un oponente demasiado defensivo que acostumbra a mantener la
+palanca hacia atrás cubriéndose todo el rato y retrocediendo, la mejor manera
+de golpearlo es hacer un LD y luego un barrido f,N,d,d/f,N,f,d,D/F+4.
+
+  Frente a un oponente que desesperadamente hace tag para tratar de arrancar
+de un brutal castigo, simplemente con 3 LD terminado en eléctrico basta para
+recibir a su nuevo personaje con un certero eléctrico, la ventaja de esta
+técnica es que el oponente recibe el eléctrico de entrada sin opción a Tag
+Cancel.
+
+  Frente a oponentes que lanzan ataques compuestos (mas de 1 golpe), lo mejor
+es dominar la distancia retrocediendo con un backdash y luego que se evadió
+el primer ataque entrar con un EWGF, DEWGF o un LD, EWGF, todo dependerá de
+la distancia.
+
+  El LD es producto de una intensa practica y dominio del Crouch dash cancel.
+
+  Lo primero que debe dominarse antes de pensar en ser un LD master es
+aprender a cancelar un CD hacia adelante (f,N,d,d/f,N,f). Este movimiento es
+el pilar fundamental para lograr sacar un LD a voluntad, osea a la primera.
+
+  Luego que se domina el CD cancelado con f, debe procederse a dominar el CD
+cancelado con b (f,N,d,d/f,N,b).
+
+  Al cancelar con b inmediatamente se puede ejecutar cualquier comando que
+comience con b.
+
+  El objetivo del CD cancelado con b es realizar una finta, lograr que tu
+adversario lanze un ataque para interrumpir pero será el quien sea
+interrumpido porque reacciono frente a un falso ataque.
+
+10.2) - Uso de los dash
+-----------------------
+
+1.-  Sin duda que el dash es la mejor herramienta para combatir, porque
+     gracias a esta técnica se puede posicionar al personaje en el lugar
+     indicado para atacar, o para evadir.
+
+2.-  Es la mejor herramienta para desplazarse a través de todo el campo de
+     batalla, quien logre un mejor dominio del desplazamiento sin duda que
+     tiene mayores posibilidades de salir victorioso ya que será el quien
+     lleve el ritmo del combate.
+
+3.-  Un Dash master realiza desplazamientos rápidos y suaves como si no
+     hubiese tensión en sus manos, el personaje puede desplazarse hacia
+     adelante y hacia atrás evadiendo y castigando a voluntad sin la
+     necesidad de mantenerse hacia atrás lejos del alcance ni la necesidad de
+     mantenerse estático solo esperando.
+
+4.-  Un Dash master es el que realmente le pone vida al juego, con
+     movimientos lujosos escapes de ataques dominando el backdash o atacando
+     usando el LD.
+
+5.-  Un buen Dash debe ser mezclado con side steps para lograr un mejor
+     efecto visual y no solo visual sino que es muy efectivo, al estar en
+     constante movimiento resulta ser un blanco difícil de alcanzar para el
+     oponente y esto le llevara a fallar la mayoría de sus ataques, dándole
+     la ventaja al Dash master de conectar y conectar ataques, conectar en
+     evasión o conectar en Counter.
+
+6.-  Con la mezcla de Dash, CD y SS se logra una gran cantidad de variantes a
+     la hora de atacar y defender. Con solo estos 3 ingredientes son posibles
+     generar cualquier combinación de desplazamientos ya sean Light dash,
+     Snake dash, Back dash, Dash EWGF etc....
+
+Solo nos basta decir.....MANOS A LA OBRA ;)
+
+10.3) - Ataque y defensa usando el dash
+---------------------------------------
+
+  Como ya estaba escrito el dash es el motor fundamental de todo
+desplazamiento Mishima, es una técnica muy compleja de dominar y esto es lo
+que hace atractivo a los Mishima players, el desafío de lograr dominar a la
+perfección el desplazamiento, cosa que otros personajes del juego no lo
+pueden hacer.
+
+  Un Mishima player no significa lanzar eléctricos ni hacer olas, es mucho
+mas complejo que eso, es algo que solo jugadores Mishimas saben comprender,
+un NO-Mishima player no sabe ni se da cuenta cuando un Mishima hace un CD
+Cancel, un Snake dash, un back dash, LD+EWGF, etc.., por la sencilla razón que
+los otros personajes son limitados en cuanto a movilidad.
+
+  Por ejemplo, un No-Mishima (y con esto no quiero polemizar solo quiero la
+comprensión) no se da cuenta cuando le hacen por ejemplo:
+f,N,d,d/f,N,f,d,D/F+4, solo saben que le hicieron un barrido pero no fue un
+simple barrido.
+
+  Retomando el tema del ataque y defensa, una de las mejores maneras de
+controlar distancias es dominando el Dash y el SS, con esto se mantiene la
+distancia exacta para evadir, atacar y contraatacar.
+
+  Una técnica para mantenerse en movimiento es hacer rápida y repetidamente
+SSL, N, f, N, b,N,b
+
+  Cuando se genere un espacio para conectar un gancho (dependiendo del
+mishima que se este usando) debe de reemplazarse los b,b por un eléctrico
+(si se usa a Heihachi o Jin) y esto seria SSL, N, f,N,d~d/f+2
+
+  Si la evasión se produjo a una distancia de 2 cuerpos entonces después de
+la evasión puede entrarse con un DEWGF o con LD+EWGF.
+
+  La evasión pudo haber sido precedida de un SSL, SSR o Back dash. Lo
+importante es siempre tener listos los ataques para ser lanzados en el
+momento preciso y en la distancia correcta, pero esto no es una mecánica sino
+que es algo que se siente, como se menciono anteriormente, al dominar los 3
+ingredientes fundamentales de un Mishima, se pueden realizar todas las
+combinaciones posibles de maniobras ya que los casos de ataque y defensa son
+muchos.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+11) - Métodos para ejecutar Light dash
+--------------------------------------
+--------------------------------------
+
+11.1) - Técnicas de palanca
+---------------------------
+
+  Uno de los aspectos mas importantes y complejos del juego es dominar la
+movilidad del stick (palanca arcade). No existe una ley para esto, toda
+persona debe maniobrarla de acuerdo a sus cualidades físicas, lo importante
+es saber controlar los tiempos y que el éxito de los movimientos va a
+depender exclusivamente del correcto ingreso de los comandos.
+
+  El control del neutro es un aspecto muy importante a la hora de jugar con
+palanca, porque la palanca solo debe moverse desde el neutro hacia los
+lados, y dejarla volver sola al neutro, el error de muchos es que hacen 
+volver la palanca al neutro con las manos o dedos y eso genera error. Los
+mishimas utilizan mucho el neutro para sus veloces desplazamientos, los Dash,
+CD, EWGF, Back dash, etc... todos ellos pasan por el neutro y el neutro es el
+punto de unión entre comandos. Poner especial cuidado en el manejo y control
+del Neutro. No golpear la palanca con los bordes del tablero, solo moverla lo
+justo y necesario para que el comando reaccione. Todos comenzamos siendo
+torpes al jugar con palanca Arcade, pero solo la constante practica y ganas
+de superarse te convertirán en un maestro del desplazamiento.
+
+11.1.1) - Método para el lado 1
+
+  Se debe colocar la palanca en la parte interna de los nudillos de los 2
+primeros dedos, con esto se marca el f y luego hay que dejarla volver, con
+los 2 dedos de abajo (anular o meñique) se debe marcar d,d/f y dejarla volver
+al neutro. Para dejarla volver a neutro solo basta con abrir los dedos
+rápidamente para dejar que la palanca vuelva libremente al neutro.
+
+La sincronización entre abrir y cerrar es la clave, por eso es necesario
+practicar o ejercitar los músculos de la mano para abrir y cerrar.
+
+11.1.2) - Método para el lado 2
+
+  Se debe apoyar la mano en la base del tablero que soporta la palanca:
+
+(A) Con el dedo pulgar se marca f y se suelta rápidamente dejando que la
+palanca vuelva sola.
+
+(B) Apenas la palanca quedo en neutro con los 4 dedos restantes o con los 2
+primeros dedos, el índice y el cordial se debe marcar d,d/f y soltar
+rápidamente para que la palanca vuelva al neutro, apenas se posiciona en
+neutro volver al paso A.
+
+(C) Lograr una perfecta sincronización entre la apertura y cierre de los
+dedos, se puede ejercitar abriendo y cerrando la mano sin necesidad de una
+palanca. Esto ejercita los músculos y el torque se hace mas fuerte pasar de
+la mano cerrada a mano abierta es el obstáculo porque no se tiene mucha
+fuerza en ese sentido, para apretar no hay problema, la velocidad falla al
+momento de abrir los dedos. 
+
+  DE NADA SIRVE SER MUY RAPIDO PARA MOVERSE SINO SE TIENE EL TIMING ADECUADO,
+SE DEBE PREFECCIONAR LANZAR EL GOLPE EN EL TIEMPO PRECISO Y EN EL LUGAR
+INDICADO.
+
+  CONSEJO: SI SE DESEA DOMINAR EL USO DEL STICK (PALANCA), ES NECESARIO
+EJERCITAR CONSTANTEMENTE PARA LOGRAR UN PERFECTO CONTROL EN EL
+DESPLAZAMIENTO.
+
+11.2) - Técnicas con Joypad o control de PS2
+--------------------------------------------
+
+ Si lo tuyo no son las palancas Arcade.....con el control de PS2 también es
+posible hacer de manera rápida (obviamente va a depender de tu habilidad con
+el control y de nada mas) las técnicas nombradas anteriormente, quizás es muy
+difícil dar algún consejo de como se debe tomar el control para lograrlo,
+pero puede resultar conveniente no pulsar las direcciones con el extremo del
+pulgar, resulta muy difícil, mejor dicho "lento" enganchar los neutros como
+punto de unión entre comandos, intenta colocar la parte anterior del extremo
+de tu dedo en el centro del direccionario, el resto seria practica.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+12) - Juggles
+-------------
+-------------
+
+12.1) - Angel/Devil
+-------------------
+
+f+4 CH, f,N,d,D/F+4,4
+
+d/f+1,2, 1, 1, 1, CD~WS+4,4
+d/f+1,2, 1, 1,2, CD~WS+4,4
+d/f+1,2, 1,2, 1, CD~WS+4,4
+d/f+1,2, d/f+1, 1, 1, CD~WS+4,4
+d/f+1,2, d/f+1, 1,2, CD~WS+4,4
+d/f+1,2, d/f+1,2, 1, DWGF
+d/f+1,2, d/f+1,2, CD~WS+4,4
+
+WGF, 1,2, 1,2, DWGF
+WGF, WGF, 1, DWGF
+WGF, WGF, DWGF
+
+SS+2, f,N,d,d/f+1, 1, DWGF
+SS+2, u+1+2, 1, 1, DWGF
+SS+2, U/F, 4, 1, 1, DWGF
+
+12.2) - Heihachi Mishima
+------------------------
+
+f+4 CH, f,N,d,D/F#+4,4,N+4, DEWGF
+f+4 CH, f,N,d,D/F#+4,4,N+4,4
+
+WS+2 CH, 1, f,N,d,D/F#+4,N+4,4
+WS+2 CH, SS, d/f+1, 1, 1, DEWGF
+
+f,N,d,D/F+4 CH, d/f+2, 1, 1, DEWGF
+f,N,d,D/F+4 CH, d/f+2, 1, f,N,d,D/F#+4,4,N+1
+
+d/f+1,2, 1, 1, 1, 1, DEWGF
+d/f+1,2, 1, 1, 1,2, DEWGF
+d/f+1,2, 1, 1, f,N,d,D/F#+4,4,N+1
+d/f+1,2, 1, d/f+1, 1, DEWGF
+d/f+1,2, 1, f,N,d,d/f+1
+d/f+1,2, d/f+2, f,N,d,d/F#+4,4,N+1
+d/f+1,2, d/f+2, DEWGF
+d/f+1,2, f,N,d,D/F#+4,4,N+4, DEWGF
+
+EWGF, 1, 1, f,N,d,d/f+1
+EWGF, 1,2, f,N,d,D/F#+4,4,N+1
+EWGF, 1, EWGF, f,N,d,D/F#+4,4,N+1
+EWGF, d/f+1, 1, 1, 1, DEWGF
+EWGF, d/f+1, 1, 1,2, DEWGF
+EWGF, d/f+1, 1, f,N,d,D/F#+4,4,N+1
+EWGF, EWGF, 1, 1, 1, EWGF
+EWGF, EWGF, 1, CD~WS+4,4
+
+f,f+2, 1+2, 1, 1, DEWGF
+
+12.3) - Jin Kazama
+------------------
+
+f,f+3, 1+4,2, CD~WS+4,4
+f,f+3, 1+4,2, DEWGF
+
+f,N,d,D/F+4, 1+4,2, CD~WS+4,4
+f,N,d,D/F+4, 1+4,2, DEWGF
+
+SS+2, 1+4, 1, DEWGF
+SS+2, 1, 1, 1, DEWGF
+
+EWGF, 1, 1, 1, 1, DEWGF
+EWGF, f,N,d,d/f+1,3
+EWGF, b,f+2,1,d+2, DEWGF
+EWGF, b,f+2,1,d+2, CD~WS+4,4
+EWGF, EWGF, CD~WS+4, DEWGF
+
+WS+2, 1,2, 1,2, DEWGF
+WS+2, 1,2,4, CD~WS+4,4
+WS+2, 1,2,4, DEWGF
+WS+2~iWS+2, 1, 1, DEWGF
+WS+2~IWS+2, 1+4,2, DEWGF
+
+12.4) - Kazuya Mishima
+----------------------
+
+f+4 CH, f,N,d,D/F+4,4
+
+WS+1,2, 1, 1, 1, CD~WS+4,4
+WS+1,2, 1, 1,2, CD~WS+4,4
+WS+1,2, 1,2, 1, CD~WS+4,4
+
+WGF~IWS+1,2, 1, DWGF
+WGF, WGF, 1, DWGF
+WGF, WGF, DWGF
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+13) - Otros
+-----------
+-----------
+
+13.1) - Videos relacionados
+---------------------------
+
+  Como los links siempre cambian lo mejor seria poner cuales son los videos
+que no deben faltar en el hogar, en el bolsillo del varón, en la cartera de
+la dama, en la mochila del estudiante ;) JEJEJE
+
+  Videos a bajar:
+
+OnTVGameNet (los que salen en la televisión y gana Jang Iksu)
+Iksu vs ParkSuYong
+The Mishima Skill (Volúmenes 1 al 5) de www.tekkenchile.cl
+Tributo a Jin de Dohee Kim
+The Last Solomon Arcade
+Tributo a IS Team de Jin Kazama
+Las ultimas batallas mishimas entre Kim Bong Ming y Ryan Hart
+
+13.2) - Enlaces
+---------------
+
+13.2.1 - Enlaces relacionados con Tekken
+
+http://www.arcadepimp.com/
+
+Sitio con información, videos y foros de discución relacionados con
+videojuegos de la saga de Tekken, Virtua Fighter, Soul Calibur entre otros.
+
+http://www.tekkenzaibatsu.com/
+
+Sitio bastante completo con información, F.A.Qs, imágenes, videos y foros
+de discución de la saga de Tekken.
+
+http://www.tekkenchile.cl/
+
+Sitio chileno bastante completo con información, F.A.Qs, imágenes, videos y
+foros de discución de la saga de Tekken.
+
+13.2.2 - Enlaces relacionados con información de videojuegos en general
+
+http://faqs.ign.com/
+
+Sitio con información y múltiples F.A.Qs de videojuegos ordenados por
+plataforma.
+
+http://www.gamerhelp.com/
+
+Sitio con información y múltiples F.A.Qs de videojuegos ordenados por
+plataforma.
+
+13.3) - Agradecimientos
+-----------------------
+
+A la comunidad de www.tekkenchile.cl
+A la comunidad de www.tekkenzaibatsu.com
+A Davico por tomar prestado partes de su guía de movimientos de Tekken Tag
+.. (ahhh! y a Catlord por dejar que Davico le copie textual su guía xD!!) y
+todos los que nos apoyaron en la construcción de este manual.
+
+13.4) - Nota final
+------------------
+  
+  Este documento solo pretende ayudar a dominar las técnicas avanzadas en el
+arte Mishima, para jugadores de nivel intermedio que saben jugar y que
+necesitan progresar su juego.
+
+                                    Fin.-

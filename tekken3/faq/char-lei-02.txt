@@ -1,0 +1,1947 @@
+
+-MG-'s TEKKEN 3 LEI WULONG FAQ
+------------------------------
+
+Revision 4.1
+------------
+
+*NOTE* This is designed to be viewed in a monospace font, otherwise it's
+going to look really stoopid ... you have been warned =)
+
+
+
+Revision history:
+-----------------
+
+Revision 1: written for the 60% test version, many Tekken 2 moves
+missing.
+
+Revision 2: written for the 95% test version, corrected all moves
+that changed since the 60%, added all Tekken 2 moves, added new
+moves added since the 60% version, added and changed strategy
+sections, reorganised the FAQ into sections.
+
+Revision 3: written for the 100% version, corrected animal stance
+names (tiger->dragon, mantis->panther, ???->tiger), added moves for
+trip & elbow throw, guard melting punches from panther stance,
+confirmed usage for drunken surprise exchange, added other changes
+since 95% version (changes to floating behaviour of some moves,
+renamed 'hopping low kick' from snake stance for new animation, also
+snake stance change possible during rave spin performed with back
+turned), added more strategy stuff (plus Lei Vs Lei guide), and info
+on auto-blocking in animal stances.
+
+Revision 4: totally reformatted, reorganized, REWRITTEN, loads of
+corrections (oops!), hit levels for all moves, strategy for EVERY
+single move, more juggles, more strategy, just LOADS more!
+
+Revision 4.1: added damage levels.  Some are missing for basic moves, such as
+basic rising kicks, WS+4, u/f+4 liftkick, etc.  Also corrected some hit
+levels: PNS:2~1 hits lh.  CRS:3,4,2,3 hits mlmM.
+
+Still to come: more juggles (and more juggle confirmations), plus Vs guide
+for Lei Vs the time-release characters.
+
+
+
+Contents:
+---------
+
+The contents of this guide is:
+
+(0) Conventions
+(1) Basic move list
+(2) Strategy for all moves
+    (i)   special attacks
+    (ii)  stance switching
+    (iii) using the 4 liedown positions
+    (iv)  using the back-turn
+(3) Juggles
+(4) Ground cheese / okizeme
+(5) Lei Vs other characters
+(6) Anti-Lei guide: other characters Vs Lei
+(7) Credits
+
+
+----------------------------------------------------------------------
+(0) Conventions:
+----------------------------------------------------------------------
+
+
+-Command-
+
+f -  tap forward      F -  hold forward
+b -  tab back         B -  hold back
+u -  tap up           U -  hold up
+d -  tap down         D -  hold down
+
+d/f - tap down and forward       D/F - hold down and forward
+d/b - tap down and back          D/B - hold down and back
+u/f - tap up and forward         U/F - hold up and forward
+u/b - tap down and back          U/B - hold up and back
+
+ left punch = 1  (O) (O)  2 = right punch
+
+  left kick = 3  (O) (O)  4 = right kick
+
+FC     - full crouch (must be in full crouching animation)
+N      - neutral (no direction pressed on the joystick)
+WS     - while standing/rising from a crouch
+SS     - side step
++      - do moves on either side(s) of + together
+~      - immediately followed by...
+[XX]   - optional command
+#      - hold joystick position
+=      - next part of sequence
+@      - signifies a pause point in a string
+(%XX%) - signifies a throw escape
+
+f-throw  - will only throw standing opponents from the front
+b-throw  - will only throw standing opponents from behind
+g-throw  - will only throw opponents on the ground
+d-throw  - will only throw ducking opponents
+rs-throw - will only throw opponents from the right side
+ls-throw - will only throw opponents from the left side
+link     - a continuation of a multi-part throw
+
+-Level-
+
+l - move hits low range                        (D/B to block)
+m - move hits mid range                        (B to block)
+h - move hits high range                       (B to block)
+L - move hits low range and downed opponents   (D/B to block)
+M - move hits mid range and downed opponents   (B to block)
+H - move hits high range and downed opponents  (B to block)
+! - move is unblockable
+{!} - move is unblockable and hits downed opponents
+
+
+-Special abbreviations-
+
+SSL      - sidestep left:  u,N when facing right
+			   d,N when facing left
+SSR      - sidestep right: d,N when facing right
+			   u,N when facing left
+
+*XX      - stance/position change only when hit is blocked
+	   e.g. -,*BK means 2nd hit recovers to BK position if
+	   it's blocked
+
+XX:      - start from stance/position XX.
+	   e.g. stabbing punches from snake stance could be listed
+	   as SNS:2,2,2
+
+
+
+----------------------------------------------------------------------
+(1) Basic move list:
+----------------------------------------------------------------------
+
+The moves are listed twice, the first list gives a name/description for each
+move, the second list replaces this with a column giving the damage levels.
+
+
+
+In the first list, moves are given in the following format:
+
+command                 height  pos/stance      description
+
+
+The command is the joystick/button sequence required for the move.
+The height is the hit position of each attack.
+The position/stance is the position that you are left in after
+performing each hit of the combo.
+
+
+Position/stance names:
+
+BK   - Back-turned position (standing with back to opponent)
+PLD  - Play Dead (on ground, face up, head towards opponent)
+SLD  - Slide (on ground, face down, head towards opponent)
+FCD  - Face Down (on ground, face down, head away from opponent)
+KND  - Knockdown (on ground, face up, head away from opponent)
+CRS  - Crane Stance
+TGS  - Tiger Stance
+PNS  - Panther Stance
+DRG  - Dragon Stance
+DRS  - Drunken Stance
+SNS  - Snake Stance
+SQB  - Sleeping Queen of Birds stance
+
+
+
+e.g.
+4~4,3,3                 LLm     KND,KND,FCD     rolling kicks
+
+This is interpreted as follows:
+command: 4~4,3,3: tap right kick twice quickly, then left kick twice
+height: 1st 2 hits are low (& hit a downed opponent), 3rd hit is mid
+position/stance: stop after 1st or 2nd hit for KND position, stop
+after 3rd hit for FCD position.
+
+If the pos/stance is listed as '-' it means a regular forward-facing
+stance.
+
+
+In the second list, moves are given in the following format:
+
+command                 height  pos/stance      damage
+
+The damage column gives the basic damage level for each hit in the combo.
+These damage levels will probably be affected by other factors such as
+whether the hit is a major counter, minor counter, or is used in a float.
+For example, f,N,4,1,2,3 does a total or about 50% if the first hit is a MC,
+but does barely half that in a juggle.
+
+
+
+
+
+
+Here's the movelists:
+
+
+
+
+
+-------------------------------------------------------------------------
+
+
+---------------------------------
+MOVELIST WITH NAMES/DESCRIPTIONS:
+---------------------------------
+
+
+
+command                 height  pos/stance      description
+
+
+::Special Arts::
+
+
+------------------------------
+[Normal forward-facing stance]
+------------------------------
+
+d+3+4                   -       PLD             (change position)
+d+1+2                   -       SLD             (change position)
+b+3+4                   -       BK              (change position)
+f+3+4                   -       DRS             (change stance)
+f+2+3                   -       SNS             (change stance)
+SS,(1+4_2+3)            -       SNS             (change stance)
+b+1+4                   -       SQB             (change stance)
+1+2                     h       BK              turning punch
+    = ~1                h       BK              2nd turning punch
+    = ~2                m       -               back uppercut
+3,3                     hL      -,BK            crescent, lowkick
+3~4,[U#]                m[m][m] BK,[BK],[BK]    jumping crescent[s]
+    = D                 M       KND             falldown, change position
+4~3                     m       FCD             cartwheel kick
+4~4,3,3                 LLm     KND,KND,FCD     rolling kicks
+F+4,2,1,2               hmmm    -,-,-,-         crescent, 3 punches
+    = 3                 l       -               low kick
+    = 4                 m       -               mid kick
+        = SS            -       CRS             (change stance)
+f,N,1,SS                m-      -,SNS           punch rush, change stance
+f,N,1,2,SS              mm-     -,-,DRG         punch rush, change stance
+f,N,1,2,1,SS            mmm-    -,-,-,PNS       punch rush, change stance
+f,N,1,2,1,2             mmmm    -,-,-,-         punch rush
+    = SS                -       TGS             (change stance)
+    = 3                 l       -               low kick
+    = 4                 m       -               mid kick
+        = SS            -       CRS             (change stance)
+f,N,2,1,2,1             hmmm    -,-,-,*BK       guard melting punches
+						(if 1st hit blocked)
+f,N,3                   h       -               high crescent
+    = 4                 m       -               mid kick
+    = d+4               L       -               low kick
+f,N,4,1,2,3             hmmh    -,-,-,-         rush combo
+    = 4                 m       -               mid kick
+    = d+4               L       -               low kick
+f,f,f+3                 m       -               flying hawk kick
+b+1+2                   m       -               drunken headbutt
+d/b+4                   L       -               sweep
+    = D                 -       SNS             (change stance)
+    = 4                 h       -               rave spin
+(u/b_u/f)+2             M       PLD             elbow drop
+(u/b_u_u/f+4)           m       -               liftkick
+(WS)4                   m       -               rising front kick
+
+--------------------------
+[BK: back-turned position]
+--------------------------
+Blocking: cannot block mid or low attacks, can duck high attacks
+
+1                       h       BK              high backfist
+d+1                     l       BK              low backfist
+2                       m       -               back uppercut
+4                       m       -               back midkick
+d+4                     L       -               sweep
+    = D                 -       SNS             (change stance)
+    = 4                 h       -               rave spin
+3+4,3+4,3+4             MMM     BK,BK,BK        backflips
+(u/b_u/f)+2             M       PLD             elbow drop
+
+-------------------
+[SNS: snake stance]
+-------------------
+Blocking: cannot block low attacks
+	  auto-blocking on mid or high attacks
+
+1+3                     -       DRG             change stance and instant
+						spin & throw attempt
+						(see throws)
+1,1,1,1,1,1             hhhhhh  -,-,-,-,-,-     hopping punches
+    = F (on any hit)    -       SNS             (change stance)
+2,2                     mm      -,-             stabbing punches
+    = F (on any hit)    -       DRG             (change stance)
+    = 2                 l       -               low stab
+        = F             -       PNS             (change stance)
+3                       m       FCD             falldown kick
+4                       l       SNS             low jab kick
+SSR                     -       PNS             (change stance)
+SSL                     -       DRG             (change stance)
+
+--------------------
+[DRG: dragon stance]
+--------------------
+Blocking: cannot block low attacks
+	  auto-blocking on mid or high attacks
+
+1                       -       -               spin & throw attempt
+                                                (see throws)
+1+2,[F]                 m       [TGS]           double arm strike
+2,[F]                   m       [TGS]           uppercut
+3,3                     hL      -,BK            crescent, lowkick
+4,1,2,3                 hmmh    -,-,-,-         rush combo
+    = 4                 m       -               mid kick
+    = d+4               L       -               low kick
+SSL                     -       TGS             (change stance)
+SSR                     -       SNS             (change stance)
+
+---------------------
+[PNS: panther stance]
+---------------------
+Blocking: cannot block mid attacks
+	  auto-blocking on low attacks
+	  high attacks are ducked
+
+1~2                     lm      -,-             double lowpunch combo
+2                       m       -               uppercut
+    = 1,2,1             mmm     -,-,*BK         guard melting punches
+                                                (if uppercut blocked)
+3,[B]                   L       [SQB]           sweep [change stance]
+4,2,1,2                 hmmm    -,-,-,-         crescent, 3 punches
+    = 3                 l       -               low kick
+    = 4                 m       -               mid kick
+        = SS            -       CRS             (change stance)
+SSR                     -       CRS             (change stance)
+SSL                     -       SNS             (change stance)
+
+--------------------
+[TGS: tiger stance]
+--------------------
+Blocking: cannot block low attacks
+	  auto-blocking on mid or high attacks
+
+1_2                     m       -               overhead swipe
+3                       h       -               high crescent
+    = 1,SS              m-      -,SNS           punch rush, change stance
+    = 1,2,SS            mm-     -,-,DRG         punch rush, change stance
+    = 1,2,1,SS          mmm-    -,-,-,PNS       punch rush, change stance
+    = 1,2,1,2           mmmm    -,-,-,-         punch rush
+        = SS            -       TGS             (change stance)
+        = 3             l       -               low kick
+        = 4             m       -               mid kick
+            = SS        -       CRS             (change stance)
+4                       L       -               fast low sweep
+SSL                     -       SNS             (change stance)
+SSR                     -       DRG             (change stance)
+
+-------------------
+[CRS: crane stance]
+-------------------
+Blocking: cannot block low attacks
+	  auto-blocking on mid or high attacks
+
+1                       m       *BK             guard melting punch
+2                       h       BK              hard backfist (turns
+                                                opponent around if it hits)
+3,4,2,3                 mlhM    -,-,-,-         crane dance
+4                       L       -               jumping low kick
+SSR                     -       SNS             (change stance)
+SSL                     -       PNS             (change stance)
+
+---------------------
+[DRS: drunken stance]
+---------------------
+Blocking: cannot block any attacks
+	  can sometimes get automatic combo break & surprise exchange
+	  against mid/high punches (intermittent)
+
+1                       m       -               drunk punch
+3+4                     L       FCD             falling low kicks
+
+-------------------------------------
+[SQB: sleeping queen of birds stance]
+-------------------------------------
+Blocking: cannot block any attacks
+
+3,3,3,3                 mmmm    SQB,SQB,SQB,-   hawk's claw kick combo
+    =4 (on any hit)     {!}     -               phoenix kick
+4                       {!}     -               phoenix kick
+
+-------------------------
+[PLD: play dead position]
+-------------------------
+3,4                     Lh      -,-             rave spin
+3+4                     m       -               double kick
+4                       m       -               rising midkick
+D#+1                    -       SLD             (change position)
+(f_b),3,4               Lh      -,-             roll, rave spin
+(f_b),4                 m       -               roll, midkick
+u                       -       -               stand up
+
+---------------------
+[SLD: slide position]
+---------------------
+3_4                     L       -               sweep
+4~3                     L       blocked: KND    slide
+                                hits far: KND
+                                hits near: PLD
+1                       -       PLD             (change position)
+(f_b),3                 L       -               roll, sweep
+(f_b),4                 m       -               roll, midkick
+u                       -       -               stand up
+
+------------------------
+[FCD: facedown position]
+------------------------
+3                       L       -               sweep
+3~4                     L       PLD             sweep
+    = 4                 h       -               rave spin
+4                       m       -               midkick
+4~3                     m       -               cartwheel kick
+1                       -       KND             (change position)
+(f_b),3,4               Lh      -               roll, rave spin
+(f_b),4                 m       -               roll, midkick
+u                       -       -               stand up
+
+-------------------------
+[KND: knockdown position]
+-------------------------
+3                       L       -               sweep
+3+4                     m       -               spring up
+4                       m       -               midkick
+d+4                     L       -               lightning kick
+D#+1                    -       FCD             (change position)
+(f_b),3                 L       -               roll, sweep
+(f_b),4                 m       -               roll, midkick
+u                       -       -               stand up
+
+
+
+--------------------
+[Throws & reversals]
+--------------------
+
+command         type                    pos     description
+
+
+1+3             f-throw                 -       flying sky kick
+2+4             f-throw                 -       neck wringer
+DRG: 1          f-throw {%1%}           -       neck shaker
+    = 1+2       link                    DRS     drink, life gain
+f,f+1+2         f-throw {%1+2%}         -       trip
+u/f+1+2         f-throw {%1+2%}         KND     trip & elbow
+1+3_2+4         b-throw                 -       drop down & back push
+1+3_2+4         rs-throw                -       triple kicks
+1+3_2+4         ls-throw                -       fall down & face kick
+(d_d/b_FC)+1+3  low combo break         -       push away
+(d_d/b_FC)+2+4  "                       -       "
+f+3+4           mid/high punch reversal -       drunken surprise exchange
+
+
+Special info on throws & reversals:
+
+* All 1+3 or 2+4 throws (forward, back or side) can be performed from
+the BK position.  A missed throw returns you to BK.
+
+* The DRG:1 command only gives the neck-shaker if the opponent is
+facing Lei, it can give the b-throw, rs-throw or ls-throw in other
+circumstances.
+
+* The life gain drink during the neck shaker throw will cause the
+throw to do only half the normal damage - the other half is added to
+Lei's lifebar.
+
+* The low combo break does no damage, and gives Lei a 26 frame
+advantage.
+
+* The mid/high punch reversal does no damage, and leaves Lei facing his
+opponent's side.  The advantage time (if any) is currently unknown.
+
+
+
+
+::Strings::
+ _______________________________
+|       |     |         |       |
+|       |     @ 3+4,3+4 @ 1,1,2 |
+|       |     |_________|_______|
+|       |     |     |     |     |
+| 1,2,1 @ 3+4 |     |     @ 4,4 |
+|       |     @ 2,1 @ 4,1 |_____|
+|       |     |     |     |     |
+|       |     |     |     @ 2,3 |
+|_______|_____|_____|_____|_____|
+
+
+command: 1   2   1   3+4 3+4 3+4 1   1   2
+height:  h   h   l   M   M   M   l   l   m
+stance:  -   BK  BK  -   -   -   BK  BK  -
+
+command: 1   2   1   3+4 2   1   4   1   4   4
+height:  h   h   l   M   m   m   h   m   L   h
+stance:  -   BK  BK  -   -   -   -   -   -   -
+
+command: 1   2   1   3+4 2   1   4   1   2   3
+height:  h   h   l   M   m   m   h   m   m   h
+stance:  -   BK  BK  -   -   -   -   -   -   -
+
+
+
+
+
+
+-------------------------------------------------------------------------
+
+
+----------------------------
+MOVELIST WITH DAMAGE LEVELS:
+----------------------------
+
+
+command                 height  pos/stance      damage
+
+
+::Special Arts::
+
+
+------------------------------
+[Normal forward-facing stance]
+------------------------------
+
+d+3+4                   -       PLD             -
+d+1+2                   -       SLD             -
+b+3+4                   -       BK              -
+f+3+4                   -       DRS             -
+f+2+3                   -       SNS             -
+SS,(1+4_2+3)            -       SNS             -
+b+1+4                   -       SQB             -
+1+2                     h       BK              18
+    = ~1                h       BK              18
+    = ~2                m       -               20
+3,3                     hL      -,BK            35,10
+3~4,[U#]                m[m][m] BK,[BK],[BK]    30,[30],[30]
+    = D                 M       KND             30
+4~3                     m       FCD             25
+4~4,3,3                 LLm     KND,KND,FCD     7,7,35
+F+4,2,1,2               hmmm    -,-,-,-         35,12,12,8
+    = 3                 l       -               15
+    = 4                 m       -               15
+        = SS            -       CRS             -
+f,N,1,SS                m-      -,SNS           10,-
+f,N,1,2,SS              mm-     -,-,DRG         10,8,-
+f,N,1,2,1,SS            mmm-    -,-,-,PNS       10,8,8,-
+f,N,1,2,1,2             mmmm    -,-,-,-         10,8,8,8
+    = SS                -       TGS             -
+    = 3                 l       -               15
+    = 4                 m       -               15
+        = SS            -       CRS             -
+f,N,2,1,2,1             hmmm    -,-,-,*BK       -,?,25,30
+						(if 1st hit blocked)
+f,N,3                   h       -               35
+    = 4                 m       -               20
+    = d+4               L       -               10
+f,N,4,1,2,3             hmmh    -,-,-,-         15,12,5,17
+    = 4                 m       -               20
+    = d+4               L       -               10
+f,f,f+3                 m       -               30
+b+1+2                   m       -               30
+d/b+4                   L       -               10
+    = D                 -       SNS             -
+    = 4                 h       -               25
+(u/b_u/f)+2             M       PLD             15
+(u/b_u_u/f+4)           m       -               ?
+(WS)4                   m       -               ?
+
+--------------------------
+[BK: back-turned position]
+--------------------------
+Blocking: cannot block mid or low attacks, can duck high attacks
+
+1                       h       BK              12
+d+1                     l       BK              8
+2                       m       -               20
+4                       m       -               15
+d+4                     L       -               10
+    = D                 -       SNS             -
+    = 4                 h       -               35
+3+4,3+4,3+4             MMM     BK,BK,BK        15,15,15
+(u/b_u/f)+2             M       PLD             15
+
+-------------------
+[SNS: snake stance]
+-------------------
+Blocking: cannot block low attacks
+	  auto-blocking on mid or high attacks
+
+1+3                     -       DRG             -
+1,1,1,1,1,1             hhhhhh  -,-,-,-,-,-     13,10,8,6,5,5
+    = F (on any hit)    -       SNS             -
+2,2                     mm      -,-             15,10
+    = F (on any hit)    -       DRG             -
+    = 2                 l       -               15
+        = F             -       PNS             -
+3                       m       FCD             21
+4                       l       SNS             11
+SSR                     -       PNS             -
+SSL                     -       DRG             -
+
+--------------------
+[DRG: dragon stance]
+--------------------
+Blocking: cannot block low attacks
+	  auto-blocking on mid or high attacks
+
+1                       -       -               -
+1+2,[F]                 m       [TGS]           25
+2,[F]                   m       [TGS]           20
+3,3                     hL      -,BK            28,?
+4,1,2,3                 hmmh    -,-,-,-         15,12,5,17
+    = 4                 m       -               20
+    = d+4               L       -               10
+SSL                     -       TGS             -
+SSR                     -       SNS             -
+
+---------------------
+[PNS: panther stance]
+---------------------
+Blocking: cannot block mid attacks
+	  auto-blocking on low attacks
+	  high attacks are ducked
+
+1~2                     lh      -,-             16,20
+2                       m       -               25
+    = 1,2,1             mmm     -,-,*BK         ?,25,30
+                                                (if uppercut blocked)
+3,[B]                   L       [SQB]           18
+4,2,1,2                 hmmm    -,-,-,-         26,12,12,8
+    = 3                 l       -               15
+    = 4                 m       -               15
+        = SS            -       CRS             -
+SSR                     -       CRS             -
+SSL                     -       SNS             -
+
+--------------------
+[TGS: tiger stance]
+--------------------
+Blocking: cannot block low attacks
+	  auto-blocking on mid or high attacks
+
+1_2                     m       -               25_26
+3                       h       -               32
+    = 1,SS              m-      -,SNS           10,-
+    = 1,2,SS            mm-     -,-,DRG         10,8,-
+    = 1,2,1,SS          mmm-    -,-,-,PNS       10,8,8,-
+    = 1,2,1,2           mmmm    -,-,-,-         10,8,8,8
+        = SS            -       TGS             -
+        = 3             l       -               15
+        = 4             m       -               15
+            = SS        -       CRS             -
+4                       L       -               20
+SSL                     -       SNS             -
+SSR                     -       DRG             -
+
+-------------------
+[CRS: crane stance]
+-------------------
+Blocking: cannot block low attacks
+	  auto-blocking on mid or high attacks
+
+1                       m       *BK             27
+2                       h       BK              30
+3,4,2,3                 mlmM    -,-,-,-         21,10,10,15
+4                       L       -               20
+SSR                     -       SNS             -
+SSL                     -       PNS             -
+
+---------------------
+[DRS: drunken stance]
+---------------------
+Blocking: cannot block any attacks
+	  can sometimes get automatic combo break & surprise exchange
+	  against mid/high punches (intermittent)
+
+1                       m       -               25
+3+4                     L       FCD             15
+
+-------------------------------------
+[SQB: sleeping queen of birds stance]
+-------------------------------------
+Blocking: cannot block any attacks
+
+3,3,3,3                 mmmm    SQB,SQB,SQB,-   15,15,15,15
+    =4 (on any hit)     {!}     -               90
+4                       {!}     -               90
+
+-------------------------
+[PLD: play dead position]
+-------------------------
+3,4                     Lh      -,-             7,21 (damage of 1st hit
+						is 15 if delayed from
+						play dead)
+3+4                     m       -               20
+4                       m       -               ?
+D#+1                    -       SLD             -
+(f_b),3,4               Lh      -,-             7,21
+(f_b),4                 m       -               ?
+u                       -       -               -
+
+---------------------
+[SLD: slide position]
+---------------------
+3_4                     L       -               ?
+4~3                     L       blocked: KND    15
+                                hits far: KND
+                                hits near: PLD
+1                       -       PLD             -
+(f_b),3                 L       -               ?
+(f_b),4                 m       -               ?
+u                       -       -               -
+
+------------------------
+[FCD: facedown position]
+------------------------
+3                       L       -               ?
+3~4                     L       PLD             10
+    = 4                 h       -               25
+4                       m       -               ?
+4~3                     m       -               18
+1                       -       KND             -
+(f_b),3,4               Lh      -               7,21
+(f_b),4                 m       -               ?
+u                       -       -               -
+
+-------------------------
+[KND: knockdown position]
+-------------------------
+3                       L       -               ?
+3+4                     m       -               20
+4                       m       -               ?
+d+4                     L       -               ?
+D#+1                    -       FCD             -
+(f_b),3                 L       -               ?
+(f_b),4                 m       -               ?
+u                       -       -               -
+
+
+
+--------------------
+[Throws & reversals]
+--------------------
+
+command         type                    pos     damage
+
+
+1+3             f-throw                 -       30
+2+4             f-throw                 -       30
+DRG: 1          f-throw {%1%}           -       33
+    = 1+2       link                    DRS     ?
+f,f+1+2         f-throw {%1+2%}         -       33
+u/f+1+2         f-throw {%1+2%}         KND     35
+1+3_2+4         b-throw                 -       50
+1+3_2+4         rs-throw                -       5,10,25
+1+3_2+4         ls-throw                -       40
+(d_d/b_FC)+1+3  low combo break         -       -
+(d_d/b_FC)+2+4  "                       -       -
+f+3+4           mid/high punch reversal -       -
+
+
+
+----------------------------------------------------------------------
+(2) Strategy for all moves
+----------------------------------------------------------------------
+
+
+
+----------------------------------------------------------------------
+    (i)   special attacks
+----------------------------------------------------------------------
+
+------------------------------
+[Normal forward-facing stance]
+------------------------------
+
+1+2: The single turning punch is useful for faking one of the two-hit
+variations to get close to your opponent with your back turned, where you can
+surprise them with a rave spin, low backfist juggle, or throw attempt, all of
+which will work against an opponent who stands in a mid/high block.
+
+1+2~1: The 2 turning punches both hit high (making them fairly risky), and
+have no real advantage over the uppercut variant, but can be useful in a
+juggle.
+
+1+2~2: Turning punch and back uppercut is a very useful attack, the uppercut
+can start a juggle and is guaranteed(?) if the first hit MC's.  Be careful
+with over-using this because the first hit is high and can leave you wide
+open to counters (especially against Jin players who use a lot of crouch
+dashing attacks).
+
+3,3: A fairly under-used combo, this is always a great attack option against
+a lot of Xiaoyu, Eddy and Lei players who mix up mid attacks with very low
+stances.  For example, against a Lei player who mixes up punch rushes and
+play-dead techniques, if you know he's going to do one of these attacks, go
+for 3,3 and you should get him with the 1st hit if he punch rushes, or the
+2nd hit if he plays dead, for some fairly high damage either way.
+
+3~4,[U#],[D]: The jumping crescents are fairly risky (high execution time, so
+it's easily countered), but have the advantage that they have a long
+block-stun time, so if they are blocked, you are left at an advantage with
+your back turned.  From here, your opponent has to guess your next move, you
+can go for a back uppercut juggle, a throw, rave spin, or low backfist
+juggle.  Use the falldown (pull D during the combo) to hit a downed opponent
+for some big damage.
+
+4~3: The cartwheel kick has a long range, it's useful against turtling
+opponents who stay out of your way, and leaves a good choice of followup
+attacks from the facedown position.
+
+4~4,3,3: The rolling kicks are quite irritating (for your opponent), and are
+a good way to finish off a nearly-dead opponent, as you always stand a good
+chance of landing the first one or two hits, although the damage is minimal.
+The last hit does very good damage, so this makes a useful juggle ender, and
+it's often possible to connect the whole thing on a back-rolling opponent.
+
+F+4,2,1,2,3_(4,[SS]): A fairly risky combo as the 1st hit is high and fairly
+slow.  Only follow through to the crane stance if you are sure that your
+opponent is slow to respond to stance changes.  Good against
+scrubs/intermediates, but risky against experts.
+
+f,N,1,2,1,2,3_4: The punch rush, staple diet of most Lei players. New Lei
+players need to get into this combo first, it's main advantages are its good
+damage potential if you counter with it, a guessing game at the end (low kick
+or midkick), and stance changing possible at any point during the combo.
+
+f,N,2,1,2,1: The guard melting punches are good for surprising an opponent,
+but only work if they are blocking high.  The punches are easily reversed, so
+don't use them against players who know how to take advantage of them.  Like
+the jumping crescents, this combo (if the whole thing is blocked) will leave
+you at an advantage with your back turned, so follow up with your favourite
+back-turn technique.  Note that the 3rd punch floats if it connects
+(which only happens if your opponent tries to counter or dash out of
+range after the 2nd punch is blocked).
+
+f,N 3,4_(d+4): The high crescent is a fairly risky attack (fairly slow and
+hits high), but does good damage if it counters.  If it's blocked, you can
+follow up with either a mid or low kick, your opponent has to guess which.
+The main advantage of this combo is that it's very rarely used, so you can
+often perform this from way outside hit range and surprise your opponent with
+the low kick as they run in to counter you.
+
+f,N,4,1,2,3,4_(d+4): Lei's rush combo is a very useful attack.  If you MC
+with the first hit (you can tell if this happens because you get a 'spark'
+effect), it is safe to follow through to the 4th hit - all 4 hits are
+guaranteed and the damage is massive (around 50%).  If you don't MC with the
+first hit, then it's usually safest to stop after either the first or second
+punch (anyone who knows what they're doing will duck the high crescent and
+then you are DEAD!).  You can often surprise your opponent with f,N,4,1 then
+going straight into a u/f+4 liftkick float as your opponent 'wakes up' and
+tries to retaliate.
+
+f,f,f+3: A bog-standard running jumpkick, has fairly high priority, leaves
+you at a slight advantage when blocked, and is useful for putting pressure
+onto a turtling opponent.
+
+b+1+2: The headbutt is a fairly risky attack, but can be very useful in some
+situations and can do very high damage.  Its main use is as a counter attack,
+it effectively ducks unerneath high strikes, so use it against anything that
+could normally be ducked (such as Jin's white heron combos, Eddy and
+Yoshimitsu's spinning high kicks, etc.)
+
+d/b+4,4: The rave spin is a classic Lei technique, but it is always risky to
+follow through with the 2nd hit in case the 1st is blocked and the 2nd is
+ducked.  The 1st hit on its own gives a special 'float' and your opponent
+can't QR (quick recover) on the landing, so it is often better to perform
+just the 1st hit, and if it connects, follow up with a ground juggle (such as
+4~4,3,3).
+
+d/b+4,D: Performing the 1st hit of a rave spin allows a change to the snake
+stance by holding D, and if the sweep connects, you can juggle with SNS
+techniques before the opponent lands.  For more on this, see the juggles
+section.
+
+(u/b_u/f)+2: The elbow drop is a fairly high-risk but reasonably powerful
+ground attack, and also works against a standing opponent.  Note that it
+leaves you in the PLD position, so it's often good to deliberately miss an
+elbow drop from way outside hit range, and follow up with a technique from
+PLD as your opponent runs in to retaliate.
+
+(u_u/f_u/b)+4: Lei's liftkick, when performed as u/f+4, is one of his most
+useful techniques, and is his easiest juggle starter (all others, apart from
+a basic d/f+2 right uppercut, require a different position or stance to
+initiate).  It has a very fast execution time, and is great for situations
+where your opponent gets close to you and tries to rush you with endless
+combos - as soon as you see an opening in his offense (as he recovers from
+one combo before the next can start), u/f+4 will take him out and set up a
+nice high-damage float combo.
+
+(WS)4: The rising front kick works as a reasonably damaging low-risk counter
+attack after you block a low attack from your opponent, and also acts as a
+simple d/b+4 followup (as the sweep recovers in a crouch, you can get a WS
+attack as soon as you recover).
+
+--------------------------
+[BK: back-turned position]
+--------------------------
+
+BK:1: The high backfist isn't a particularly useful attack.  It is okay if
+you counter with it, as you can follow up with another back-turn attack and
+your opponent will probably be too surprised to block low, so a rave spin,
+throw attempt, or low backfist juggle often makes a good followup.  The other
+primary use for this attack is simply to use it as a way of moving closer to
+your opponent while your back is turned, often tempting them to go for an
+attack that you can counter with your next back-turn technique, as it's easy
+for them to underestimate the fast recovery time of your high backfist.
+
+BK:d+1: The low backfist is one of Lei's most devastatingly effective moves,
+although it does very little damage on its own, it is very quick, hits low,
+gives numerous guaranteed followup attacks if it hits, and doesn't leave you
+at much of a disadvantage if it's blocked.  See the juggle section for more
+info on following up this attack.
+
+BK:2: The back uppercut is a very useful juggle starter, although its main
+disadvantage is that it has a noticably long execution time and is more
+easily countered than many of the other BK techniques.  It also has a very
+short range, so it's usually best to use this in situations where you have
+your back turned after certain blocked attacks, such as the guard melting
+punches, or jumping crescents.  See the juggle section for more info.
+
+BK:4: The back midkick, although fairly weak, is the fastest mid-height
+attack from the BK position and has fairly good range.  It is a useful
+followup to a blocked low backfist, as many opponents stay blocking low,
+expecting another low backfist.  If you try to mix up low attacks with the
+back uppercut or backflips, your opponent will often counter in time, but the
+back midkick is usually quick enough to get you out of danger.
+
+BK:3+4,3+4,3+4: Lei's triple backflips can make useful okizeme, but are very
+risky against a standing opponent - use at your own risk!  Note that in
+Tekken 3 they leave you in the BK position, so they can be mixed up with high
+and low backfists for some confusing chain combos that keep you in the BK
+position.
+
+BK:(u/b_u/f)+2: The elbow drop from BK is identical to the forward-facing
+equivalent.  It can make a damaging (non-guaranteed) end to a low backfist
+juggle, or, like the forward-facing version, can just be used as a sneaky way
+to get into the PLD position and follow up with a rave spin or double kick
+float.
+
+* Remember that 1+3 and 2+4 throws can be attempted from the BK position!
+
+-------------------
+[SNS: snake stance]
+-------------------
+
+SNS:1+3: The dragon stance change and throw attempt is not exactly a useful
+move, it is usually better to perform this the 'long' way, ie, sidestep to
+the dragon stance and tap 1 for the throw.  This way, you don't have to
+commit yourself to the throw until the last minute, you can react to your
+opponent and perform a different dragon stance technique if necessary.
+
+SNS:1,1,1,1,1,1,[F]: The 6 hopping punches all hit high, so they are easily
+ducked and countered.  They have the advantage of being extremely quick to
+start, and do reasonable damage if you MC with the first hit, so they can be
+useful against an over-aggressive opponent.  Holding F to return to the snake
+stance is virtually suicidal if the punches are blocked, so use that
+carefully.
+
+SNS:2,2,2,[F]: The 3 stabbing punches are a much more useful attack.  If you
+MC with the first hit, your opponent can say goodbye to about 50% energy.
+The disadvantage is that there is a very long recovery time for the last hit,
+so even if it hits, you have to be ready to block your opponent's counter
+attack.  A stance change to the dragon stance after the 1st or 2nd hit is
+usually quite safe, but don't do the panther stance change on the 3rd hit
+unless you are sure that your opponent is slow to retaliate.
+
+SNS:3: The falldown kick is a great move for those situations where you're
+trying to confuse your opponent with a series of unpredictable attacks.  It's
+nice to initiate this after sidestepping out of a punch rush on the first
+hit, ie, f,N,1,SS,3 - to leave your opponent in a permanent state of 'what
+the hell ...?'.  If you don't hit with it, remember it leaves you in the FCD
+position, so there is a good range of followup attacks (cartwheel, rave spin,
+etc.).
+
+SNS:4: The low jab kick is rarely blocked, so it is a nice technique to fall
+back on when you need a quick hit to finish your opponent (again, a punch
+rush is a good way to get this: f,N,1,SS,4).  Note that it returns you to the
+snake stance, so you can often use this hit to annoy your opponent into
+retaliation, then get a MC with the SNS:2,2,2 stabbing punches.  This move
+also has a useful effect in juggle combos, see the juggle section for more on
+this.
+
+--------------------
+[DRG: dragon stance]
+--------------------
+
+DRG:1: The spin & throw attempt is a fairly useful technique if it
+isn't over-used.  The spin 'execution time' is long enough for the throw to
+be ducked on reflex, but it can still take people by surprise if you don't
+use it too much.  It is also nice to use this if you get to the dragon stance
+by carefully sidestepping your opponent's attacks, you can often get a
+sidethrow from it.  See the throw descriptions for more info.
+
+DRG:1+2,[F]: The double arm strike is a very quick attack and does good
+damage.  Holding F for a change to the tiger stance is useful if it's
+blocked, because TGS:4 will take most people by surprise.  If the double arm
+strike hits, the opponent is knocked quite far, and the tiger stance change
+will virtually kill any okizeme options you may have had, so only change
+stance if you think it's likely to be blocked.
+
+DRG:2,[F]: The uppercut is fairly powerful and floats on MC, so it's a
+reasonably useful juggle starter.  As with the double arm strike, a tiger
+stance change is also useful if it's likely to be blocked.
+
+DRG:3,3: This is identical to 3,3 from a normal forward-facing stance and
+really has the same use.
+
+DRG:4,1,2,3,4_(d+4): This is the same as the rush combo from a normal
+forward-facing stance, and is a nice counter-attack option to keep in mind if
+your opponent makes the mistake of thinking that you're vulnerable in this
+stance - as in a normal stance, the MC damage is around 50%.
+
+---------------------
+[PNS: panther stance]
+---------------------
+
+PNS:1~2: The double lowpunch combo is one of Lei's most useful attacks.  It
+makes great okizeme on a rising opponent, and the MC damage can be nearly
+50%.  The ability to mix this up with the PNS:2 uppercut makes the panther
+stance one of the most useful.
+
+PNS:2,[1,2,1]: The uppercut is one of Lei's most useful floating tools.  If
+you get into the panther stance by sidestepping your opponent's attack, the
+uppercut is often 'free', and this is always the best attack option from
+here.  If you initiate it as 2,1, the guard melting punches combo will start
+if the uppercut is blocked, so tap 2,1 to continue it.  This is risky against
+opponents who use a lot of reversals, so against someone like this it is
+better to do 2,f+2+4 to buffer in a reversal break after the uppercut
+instead.
+
+PNS:3,[B]: The sweep is a fairly weak attack, but often takes people by
+surprise.  Hold B to get to the SQB stance where you can usually surprise
+your opponent with SQB:3 and maybe risk the unblockable phoenix kick as
+okizeme.  The other use for the sweep is in situations where you are about to
+attmempt okizeme from the panther stance (going for 1~2 as they rise) and you
+realise that your opponent is staying down so that your 1~2 will whiff
+completely - in this situation, use the sweep to make sure you at least get 1
+hit, and are returned to a normal stance.
+
+PNS:4,2,1,2,3_(4,[SS]): This is basically the same as the regular
+forward-facing stance combo starting with F+4, with the same crane stance
+change possible on the last hit.  Although risky, it is useful against
+opponents who don't have a deep understanding of Lei's moves, and you can use
+it to chain together some big 'combos', such as:
+f,N,1,SS(SNS),4(SNS),2,2,2,F(PNS),4,2,1,2,4,SS(CRS),4,3,2,3
+... which can completely overwhelm your opponent if they don't know the
+interruptable parts (ie, the stance changes).
+
+-------------------
+[TGS: tiger stance]
+-------------------
+
+TGS:1_2: The overhead swipes are very powerful attacks.  The MC damage is
+huge.  The basic damage is not very high on a crouching opponent, but it can
+cause a 'stagger', dropping them to one knee.  If it's blocked, it leaves you
+at a slight advantage, and a u/f+4 liftkick floater very often connects after
+a blocked TGS:1_2 if your opponent attempts to retaliate.
+
+TGS:3: The high crescent is initially identical to f,N,3 from a normal
+forward-facing stance, has the same risky-but-powerful attributes.  The
+difference between the f,N,3 version is that this one doesn't extend into a
+mid/lowkick guessing game, but can have a punch rush tagged straight onto it
+with no f,N required, ie: TGS:3,1,2,1,2,3_4 is a high crescent and punch
+rush.  The usual sidestep stance changing is possible during the punch rush.
+
+TGS:4: The fast low sweep is another very useful technique.  It's rarely
+blocked (because of its speed) and has a similar effect to the first hit of a
+rave spin, floating the opponent slightly in such a way that they can't QR
+on the landing, meaning a 4~4,3,3 bounce juggle is guaranteed after
+connecting TGS:4.  See the juggles section for more info on this.
+
+-------------------
+[CRS: crane stance]
+-------------------
+
+CRS:1: The guard melting punch is a brilliant attack option, it does massive
+damage as a MC, and gives you a back-turned advantage (and a confused
+opponent) if it's blocked.
+
+CRS:2: This is another great attack option from the crane stance, and is
+useful as okizeme if you sidestep to the crane stance after a punch rush
+juggle.  Connecting this leaves you and your opponent back-to-back, with you
+at the advantage, and a guaranteed low backfist followup.  A rave spin is
+also guaranteed from that situation, but the opponent is treated as 'already
+floating' and the high crescent doesn't connect.  You can also attempt a back
+throw from this situation, but this is quite risky and your opponent is often
+knocked out of throwing range.
+
+CRS:3,4,2,3: The crane dance is useful if it's not over-used.  The 2nd hit is
+low and is rarely blocked, which guarantees the 3rd hit.  The last hit floats
+if it connects, although it is quite risky.  This combo can be delayed at any
+point, so you can really confuse your opponent by bringing it out slowly to
+trick them into attempting to counter you, increasing the chance of landing
+the floating kick at the end.  It makes great okizeme, with even the last hit
+connecting if your opponent stays down without moving.
+
+CRS:4: This move has a pretty long execution time so it is slightly risky,
+but often takes people by surprise and looks great when it hits.  It is also
+a nice okizeme tactic, and can hit a floored opponent if you initiate it from
+the correct distance.
+
+---------------------
+[DRS: drunken stance]
+---------------------
+
+DRS:1: The drunk punch is very powerful and a lot of people just seem to walk
+straight into it.  Watch Lei closely as he sways and staggers in the drunken
+stance, there is one point where he moves significantly closer to his
+opponent, so if they are just outside the range of the drunk punch when you
+first go into DRS, wait a little while and you may be able to surprise them
+when you get close enough.
+
+DRS:3+4: The falling low kicks can be seen coming a mile away, the buildup is
+so long.  It can be useful to use this as okizeme (a quick f+3+4,3+4 on a
+rising opponent).  It can also be used like the elbow drop as a sneaky way to
+get into a liedown position, in this case FCD, which has a good range of
+followup attacks.
+
+* Remember you can get an automatic mid/high punch reversal from here by just
+standing in the drunken stance - and that the f+3+4 motion from a normal
+stance can be used to break out of your opponent's combos too.  The drunken
+surprise exchange does no damage, but leaves you at your opponent's side
+where you should be able to surprise them with a few hits or even a
+sidethrow, although nothing appears to be guaranteed in these situations.
+
+-------------------------------------
+[SQB: sleeping queen of birds stance]
+-------------------------------------
+
+SQB:3,3,3,3: As in Tekken 2, the hopping kicks are reasonably effective,
+knock the opponent down if they hit, and can have the unblockable chained
+on at any point.
+
+SQB:4: Like all unblockables, Lei's phoenix kick is extremely risky against
+people who know what they're doing.  It can sometimes surprise a
+floored/rising opponent, and is a good scrub-destroyer, for situations like
+Eddy starting a sweep combo from about half a mile away.
+
+-------------------------
+[PLD: play dead position]
+-------------------------
+
+PLD:3,4: As with most versions of the rave spin, it's safest to perform only
+the first hit in case it is blocked - connecting the first hit does allow
+guaranteed juggles that will allow you to do about as much damage as the full
+rave spin anyway.
+
+PLD:3+4: Lei's most common juggle starter, this is one of his main
+techniques, and should be frequently mixed up with PLD:3 in order for you to
+stand a chance of connecting it.
+
+PLD:4: The rising midkick comes out quicker than the double kick (which can
+often be blocked on reflex), and is useful for situations where you just need
+to finish off a nearly-dead opponent - just do d+3+4,4 and if you've been
+mixing up enough low attacks, you have a 90% guaranteed hit against most
+players.
+
+PLD:D#+1: To roll over into the SLD position, hold D on the joystick, tap 1,
+and keep D held down until Lei stops rolling and is left in the SLD position.
+
+---------------------
+[SLD: slide position]
+---------------------
+
+SLD:4~3: The slide can take a lot of people by surprise (and has a resonably
+long range) as long as you don't always do it by just going d+1+2,4~3,
+because most people will recognize the way you drop straight into the slide
+position and will know what's coming next.  If you get here from rolling over
+from PLD, or are left in this position after getting thrown or knocked down,
+then you stand a much higher chance of surprising your opponent with the
+slide.
+
+* Note that there is no basic rising midkick from this position - pressing 4
+gives a low kick, so all instant attacks from the SLD position hit low.  The
+only way to get a mid attack is to either put a rising midkick onto the end
+of a forward or back roll, or roll over to PLD and do a different attack from
+there.
+
+------------------------
+[FCD: facedown position]
+------------------------
+
+FCD:3~4,[4]: This is the only rave spin starter that doesn't give a
+decent guaranteed followup attack if you don't follow through with the full
+rave spin.  It's often best to perform just the 3~4 and watch closely to see
+if it is worth following through with the 2nd hit - don't commit yourself
+until the last minute.  Note that 3~4 leaves you in PLD position, so it
+allows you to link techniques between different liedown positions.
+
+FCD:4~3: The FCD cartwheel kick can be performed as many times as you like,
+as it always returns you to FCD.  This can take a lot of people by surprise
+as it hits mid and has a fairly good range to it.  Also, like the BK:1 high
+backfist, you can use it as a way to move closer to your opponent whilst
+staying in your current position.
+
+-------------------------
+[KND: knockdown position]
+-------------------------
+
+KND:3+4: You are likely to get the 'spring up' move if you go for the
+floating double kick from PLD but your opponent gets to the other side of
+your head, effectively putting you into KND instead.  This move is not as
+useless as it was in TK2 as is now treated as a mid attack and does damage.
+
+KND:D#+1: As with rolling from PLD to SLD, you can roll from KND to FCD by
+holding D, tapping 1, and keeping D held until you stop rolling and are left
+in the FCD position.  This is a _very_ useful technique to learn, as you are
+usually left in KND when your opponent knocks you down, and a good way to get
+up can be to roll to FCD (your opponent will probably think you are just
+siderolling to get up) and throw a cartwheel or rave spin at them.
+
+* Note that KND is the only liedown position that allows you to perform the
+basic 'lightning kick' rising attack (d+4).
+
+----------------------
+[Throws and reversals]
+----------------------
+
+1+3: Lei's flying sky kick is always a better choice than the 2+4 neck
+wringer throw because it leaves you standing far away, with the chance for
+some okizeme.  Run towards your opponent for a stamp or barge if they stay
+down or roll back.  If they sideroll, go for a running slide or tap 1+2 while
+running for a body dive, most people don't expect this.
+
+2+4: Not as effective as 1+3, the neck wringer's main advantage (apart from
+that lovely neck-snapping sound effect) is the fact that it is the only one
+that needs {%2%} as a throw escape, so obviously it is good to mix up your
+throws against someone who consistently escapes them.
+
+DRG:1,[1+2]: The neck shaker is a great looking throw if you can get it out,
+and also has the advantage of being able to be linked to the life gain drink.
+Note that the life gain reduces the damage caused by the throw, so only use
+it if your energy is low.  If you use the throw without the life gain, it
+appears to knock your opponent quite far away, but they are actually in range
+for a u/f+2 elbow drop, that appears to be guaranteed (I've never seen it
+escaped) for some pretty good damage.  If you do the life gain, you are left
+in the drunken stance, it's usually best to hit 1 just to get yourself out of
+it as soon as possible because you are too far away to use the DRS anyway.
+
+f,f+1+2: The trip is my personal favourite, hardly anyone ever breaks out of
+it, and you can extend its range by holding the F position for a short while
+on both 'f' taps, which can help when punishing a blocked attack that pushes
+you back slightly outside of throwing range.
+
+u/f+1+2: The trip & elbow is also quite useful (as with the trip, it requires
+{%1+2%} to break out) and leaves both players lying side-by-side, with a
+guaranteed rising sweep for Lei.
+
+(d_d/b_FC)+(1+3_2+4): The low combo break leaves you at a slight advantage
+when successfully pulled off, and is useful for breaking out of 10-strings.
+It is also useful in any situation where you expect a low attack, such as
+breaking Eddy's sweep combos, or even as a nasty (but risky) okizeme trick
+against rising low kicks/sweeps.
+
+f+3+4: The drunken stance move can also be used as a mid/high punch reversal
+(does no damage but breaks their combo and leaves Lei at their side, with a
+slight advantage).  Again, this is useful for breaking out of 10-strings, or
+for predictable combos where you know a mid/high punch is coming.
+
+
+
+
+
+
+----------------------------------------------------------------------
+    (ii)  stance switching
+----------------------------------------------------------------------
+
+
+Lei's ability to change stance in the middle of a combo is one of his most
+powerful techniques, if it is used intelligently.  If it's abused, it can
+leave Lei in real trouble.  If you change stance after a combo hit that is
+blocked, your opponent can _always_ hit you before you can do _anything_ in
+your new stance.  You have to rely on the fact that a lot of people panic
+when they see you change stance and don't really see how vulnerable you are.
+This is why it is important to mix up your stance-changing techniques as much
+as possible (although there are some fairly reliable ones that can be used
+quite often against a lot of people).
+
+The following stance changes are possible during combos:
+
+command                 stance
+
+F+4,2,1,2,4,SS          CRS
+f,N,1,SS                SNS
+f,N,1,2,SS              DRG
+f,N,1,2,1,SS            PNS
+f,N,1,2,1,2,SS          TGS
+f,N,1,2,1,2,4,SS        CRS
+d/b+4,D                 SNS
+BK:d+4,D                SNS
+SNS:1,[1,1,1,1,1],F     SNS
+SNS:2,[2],F             DRG
+SNS:2,2,2,F             PNS
+SNS:4                   SNS
+DRG:1+2,F               TGS
+DRG:2,F                 TGS
+PNS:3,B                 SQB
+PNS:4,2,1,2,4,SS        CRS
+TGS:3,1,SS              SNS
+TGS:3,1,2,SS            DRG
+TGS:3,1,2,1,SS          PNS
+TGS:3,1,2,1,2,SS        TGS
+TGS:3,1,2,1,2,4,SS      CRS
+
+Note that some commands do not end with SS - these are the only stance
+changes where you don't sidestep into your new stance.  All other stance
+changes (to the SNS/DRG/PNS/TGS/CRS stance 'ring') involve a sidestep,
+including the basic (f+2+3)_(SS+1+4)_(SS+2+3) to get into the snake stance,
+and subsequent sidestepping to move between stances.
+
+It is useful to know this, because stance changing can be particularly
+effective if you use it to sidestep your opponent's attacks, and this often
+means that you have a guaranteed counter attack from your new stance.
+
+Once you get into an animal stance, you can perform basic sidesteps to get to
+another one.  There are effectively two 'branches' to the stance 'ring': the
+snake->dragon->tiger branch and the snake->panther->crane branch.  The
+commands for advancing forwards or backwards along each branch are
+effectively swapped around when you change the direction you are facing
+(1P/2P side).  I personally find the most useful sidestep changes to learn
+are snake->panther and panther->crane, partly because there is a useful and
+powerful range of attack options from the panther and crane stances, and also
+because there seems to be a bit of a 'recovery' time on stepping to/from the
+dragon stance, which makes the dragon/tiger branch more awkward to work with
+when it comes to sidestep stance changing for countering purposes.
+
+The sidestep directions for each branch are:
+
+snake--->dragon--->tiger--->snake    SSL to advance: 1P side=u,N
+						     2P side=d,N
+snake--->panther--->crane--->snake   SSR to advance: 1P side=d,N
+						     2P side=u,N
+
+When you sidestep out of a combo (e.g. punch rush), you can sidestep in
+either direction, but sometimes it makes sense to choose the direction
+carefully if you want to go straight into another stance change, because 2
+sidesteps in the same direction are more useful than 2 sidesteps in opposite
+directions, ie, they are more likely to get you further around to your
+opponent's side, or even their back.  Here are a few examples of how this can
+be used:
+
+f,N,1,SSR,SSR, attack from PNS
+f,N,1,SSR,SSR,SSR, attack from CRS
+f,N,1,2,1,SSR,SSR, attack from CRS
+
+Note that stepping out of the punch rush is done in the same direction as the
+subsequent stance changes, this is _the_ most important thing to remember
+when doing something like this, and if you do it right, you should get around
+to your opponent's side or back for a 'free' attack.
+
+Here are a few chain-combos done with stance switching, none of this is
+guaranteed as there are plenty of 'interruptable' points, but a lot of these
+can still be useful:
+
+f,N,1,SS,SNS:2,2,2
+f,N,1,SS,SNS:4,SNS:2,2,F,DRG:1+2,F,TGS:4
+f,N,1,SS,SNS:2,2,2,F,PNS:2(float)
+f,N,1,SS,SNS:2,2,2,F,PNS:1~2
+f,N,1,2,SS,DRG:1
+f,N,1,2,SS,DRG:4,1,N,u/f+4(float)
+f,N,1,2,1,SS,PNS:2(float)
+f,N,1,2,1,SS,PNS:1~2
+f,N,1,2,1,SS,PNS:4,2,1,2,4,SS,CRS:4
+f,N,1,2,1,SS,PNS:3,B,SQB:3,3,4
+f,N,1,2,1,2,SS,TGS:4
+f,N,1,2,1,2,SS,TGS:2,N,u/f+4(float)
+f,N,1,2,1,2,4,SS,4
+f,N,1,2,1,2,4,SS,3,4,2,3
+f,N,1,SSL,SNS:SSL,DRG:1(side/back throw)
+f,N,1,2,SSL,DRG:SSL,TGS:2
+f,N,1,SSR,SNS:SSR,PNS:2(float)
+f,N,1,SSR,SNS:SSR,PNS:1~2
+f,N,1,SSR,SNS:SSR,PNS:SSR,CRS:2(stun),BK:d+1(float)
+f,N,1,2,1,SSR,PNS:SSR,CRS:4
+
+etc...
+
+
+
+----------------------------------------------------------------------
+    (iii) using the 4 liedown positions
+----------------------------------------------------------------------
+
+
+It's good to practice the moves from all 4 liedown positions and try to
+recognize which position you're in at any time, as you often get left lying
+in strange positions after getting thrown, reversed, or knocked down.
+
+You can get straight into PLD with d+3+4 and SLD with d+1+2.  The easiest
+way to get into KND is to tap 4~4 to start the rolling kicks, and the easiest
+way to get into FCD is to perform a 4~3 cartwheel kick.
+
+Note that if your opponent jumps over you while you are lying down, this
+effectively changes your current liedown position.  For example, if you do
+d+1+2 to get into SLD and your opponent runs at you with a jumping kick of
+some kind, if they land on the other side of you, you are actually now in
+FCD, so you can cartwheel or rave spin straight away.
+
+You can move between a face-up or face-down position by using the 1 button.
+to go from face-down to face-up (FCD->KND or SLD->PLD), simply tap 1.  To go
+from face-up to face-down (KND->FCD or PLD->SLD) hold the joystick in the D
+position, tap 1, and don't release the joystick until Lei stops rolling in
+his new face-down position.  Note that D+1 will autoselect 1 when lying face
+down, so you can stay rolling about by holding D and constantly hitting 1,
+for a very nasty/cheap way to stay out of your opponent's way :)
+
+Getting knocked down generally leaves you in the KND position (although there
+are many exceptions).  A good way to get up is to hold D and tap 1 to roll
+over into FCD (it looks like you're just siderolling to get up) and go
+straight into a cartwheel or rave spin.  Rolling from KND to FCD is a handy
+way to increase your range of rising attacks.
+
+Also, rolling between positions can be used simply to confuse your opponent,
+for example, instead of doing d+3+4,3+4 to get a float, try d+1+2,1,3+4
+instead - seeing your drop into SLD and then flip over is likely to make your
+opponent panic and block low.
+
+If you roll towards your opponent from a liedown position, note that it must
+be initiated from PLD or FCD to allow you to put a rave spin on the end of
+the roll.  It's always better to do a single sweep (3) on the end of the roll
+than a full 3~4 rave spin, as it doesn't leave you so vulnerable when
+blocked, and you can still do just as much damage as a rave spin by doing
+(WS)4, 4~4,3,3 if you do connect the sweep.
+
+
+
+----------------------------------------------------------------------
+    (iv)  using the back-turn
+----------------------------------------------------------------------
+
+
+There are usually 2 ways to get into a back-turned position: either by doing
+b+3+4 from a normal stance, or by performing any combo that recovers into a
+back-turned position (see the pos/stance column in the movelist to see which
+ones recover into BK).
+
+
+It's good to make use of b+3+4 (although very few people seem to bother with
+it).  Note that performing b+3+4 actually makes Lei take a step backwards,
+significantly increasing the distance between him and his opponent.  This is
+one of the most important things to remember with Lei, it is a very powerful
+countering tool.  It's very effective when you trick your opponent into
+attacking you when they are just about within hit range, and you b+3+4 to
+move yourself just out of his reach.  Your opponent will usually then recover
+inside _your_ hit range, so you can go for a rave spin or low backfist
+juggle.  A back uppercut juggle gives the best damage potential, but they
+have to be very close for you to connect it, so use this one carefully.
+
+Here's an example for how you can use this: against a Paul player who lives
+entirely off death fists (and don't they all ...), hang around just outside
+the hit range of his death fist, and deliberately whiff something like a
+u/f+4 liftkick.  As soon as you land, if Paul is already moving in for the
+death fist, hit b+3+4 straight away, and if you timed it right (and got your
+distance right) you should move just out of reach, and he should recover
+right next to you with your back turned.  As mentioned above, go for a back
+uppercut if he's close enough, otherwise a rave spin will do the job nicely.
+
+
+Also, it can be useful to pull out b+3+4 in situations where both players are
+very close up and are throwing out quick attacks to try and get the
+advantage.  Instead of the usual high or low punching, try something like:
+d+1,b+3+4,BK:4,d+1,u/f+4.
+
+The first d+1 is just a quick low punch to annoy your opponent into a quick
+retaliation.  Pulling out a back-turn straight after means their attack is
+likely to miss completely, letting your back midkick counter them for a small
+but useful amount of damage.  The 2nd lowpunch is an attempt to annoy
+them into trying to unleash something more powerful this time, and hopefully
+they'll walk right into your u/f+4 liftkick, so you get a juggle out of it
+too.  Obviously none of this is guaranteed, it's just useful to have b+3+4 to
+move yourself out of reach and frustrate your opponent into taking an
+unneccessary risk.
+
+
+Note that you can perform your basic 1+3 or 2+4 throws while your back is
+turned.  If you get a 'missed throw' animation, you return to a back-turned
+position (only Lei and Xiaoyu will return to BK, all other characters face
+forward after a BK:throw misses).
+
+There are ways in which Lei can get himself very close to his opponent, with
+his back turned, and with a slight time advantage.  He gets into this
+situation after his 3~4,[U#] triple jumping crescents or f,N,2,1,2,1 guard
+melting punches (or panther stance variant) is blocked.  In these situations,
+a low backfist juggle, rave spin, or throw attempt will all work if your
+opponent doesn't duck.  Try these a few times until your opponent starts to
+duck, then mix up with a back uppercut juggle instead.  Note that against the
+CPU, a back uppercut juggle always seems to work 100% in this situation.
+
+Another useful technique to know is CRS:2, which leaves both players
+back-to-back with Lei at the advantage (if it hits), giving the possibility
+of getting a back throw while _your_ back is turned - see the strategy
+section on the crane stance for more info on that.
+
+
+Also, here's another thing to bear in mind: if you get hit by a combo from
+behind, you automatically 'slide' out of range after every 2 or 3 hits, but
+stay with your back turned.  When this happens, watch closely for the 'slide'
+to start and you can usually get a low backfist juggle or rave spin for free,
+and sometimes a back uppercut juggle, but it's a little risky.  If you're
+feeling nasty, you can deliberately turn your back and let your opponent
+start to hit you (if they are predictable enough and you know a combo of
+about 4+ hits is coming) and get a guaranteed counter attack.
+
+This is one I sometimes use against other Lei players: deliberately whiff
+a 3,3 high crescent/lowkick combo from outside hit range.  You are left with
+your back turned, and your opponent (if he's predictable enough) is likely
+to come at you with a punch rush.  He'll connect the first 2 punches (for
+barely any damage), you automatically 'slide' out of range, smack 2 for a
+MC back uppercut and then you get to juggle a load more off his lifebar - so
+you end up having done way more damage.  This is completely EVIL (although
+almost suicidal), which is why it's so cool :)
+
+
+
+----------------------------------------------------------------------
+(3) Juggles:
+----------------------------------------------------------------------
+
+Juggle starters can be divided into different types, as different juggles are
+possible from different floating hits.
+
+Type 1: high floats
+-------------------
+* PLD:3+4 (double kick)
+* Last hit of 9-string: 1,2,1,3+4,3+4,3+4,1,1,2 (high floating back uppercut)
+
+Type 2: low floats, fast recovery
+---------------------------------
+* u/f+4 (liftkick)
+* PNS:2 (panther uppercut)
+* d/f+2 (basic right uppercut, only floats if opponent is not crouching, but
+shouldn't require a major counter)
+
+Type 3: low floats, long recovery
+---------------------------------
+* BK:2
+* 3rd hit of f,N,2,1,2,1 or PNS:2,1,2,1 if first and second hits are blocked
+(3rd guard melting punch)
+* last hit of CRS:3,4,2,3 (crane dance)
+* 2nd hit of 1+2~2 (turning punch & uppercut: also 2nd hit guaranteed if 1st
+hit MC's(?))
+* DRG:2 (dragonstance uppercut: must MC to float)
+
+Type 4: low backfist starter
+----------------------------
+* BK:d+1 (low backfist)
+* CRS:2,BK:d+1 (if crane stance backfist connects, BK:d+1 low backfist is
+usually guaranteed)
+
+Type 5: 1/2 rave spin/sweep starter
+-----------------------------------
+* d/b+4
+* BK:d+4
+* PLD:3
+* PLD:(f_b),3
+* FCD:(f_b),3
+* TGS:4 (tiger stance low sweep)
+* 9th hit of 10-string: 1,2,1,3+4,2,1,4,1,4,4
+
+Type 6: 1/2 rave spin & snake stance change
+-------------------------------------------
+* d/b+4,D
+* BK:d+4,D
+
+Type 7: bounce-off-the-floor starter
+------------------------------------
+* TGS:1_2 (overhead swipe: must MC to get bounce/float)
+
+
+
+This is the juggle table, giving a list of all juggles that are possible, and
+the 1234567 columns denote which juggle starters will allow that juggle.
+The symbols in the 1234567 columns have the following meanings:
+- = not possible
+* = possible
+@ = sometimes possible (may require close/far range)
+? = unconfirmed
+
+In the juggle column, a space is used to separate canned combos
+e.g.: 1+2~1, BK:d+1, BK:d+4
+or:   1, f,N,1,2,1,2,4
+... have spaces to show where a slight pause may be necessary.
+
+
+				  (possible juggle starters)
+Juggle                                   1234567
+------------------------------------------------
+f,N,1,2,1,2,4                            **-----
+f,N,1,2,1,2,SS, TGS:4                    **-----
+f,N,4,1,2,3                              **-----
+1+2~1, BK:d+1, BK:d+4                    **?---?
+1, f,N,1,2,1,2,4                         ***---?
+1, f,N,1,2,1,2,SS, TGS:4                 ***---?
+4, f,N,1,2,1,2,4                         @@?---?
+4, f,N,1,2,1,2,SS, TGS:4                 @@?---?
+1, f,N,4,1,2,3                           ***---?
+1, 1+2~1, BK:d+1, BK:d+4                 @@@---?
+1, 1+2~1, BK:d+4                         ***---?
+1+2~2                                    **?---?
+1, 1+2~2                                 ***---?
+4~4,3,3                                  ***-*-*
+(WS)4, 4~4,3,3                           ***-*-?
+BK:d+1, BK:d+1, BK:d+1, BK:d+1, BK:d+4   ---*---
+BK:1, BK:d+1, BK:d+1, BK:d+1, BK:d+4     ---@---
+BK:2                                     ---*---
+BK:4                                     ---*---
+BK:3+4,3+4                               ---?---
+SNS:2,2                                  -----*-
+SNS:4, SNS:2,2                           -----*-
+SNS:1,1,1,1,1,1                          -----@-
+SNS:4, SNS:1,1,1,1,1,1                   -----@-
+
+
+
+*TIP: if you go for a punch rush in a juggle, and it misses, don't stop!
+Follow through right up to the midkick, as this keeps you moving forwards,
+and can get you out of the range of your opponent's rising attacks, leaving
+you with your back turned.  You can often use this to your advantage to get
+your opponent's rising attack to miss, leaving you with the chance to
+retaliate with a back-turned rave spin or other BK technique.
+
+
+
+
+----------------------------------------------------------------------
+(4) Ground cheese / okizeme:
+----------------------------------------------------------------------
+
+
+Learn the rising habits of your opponent, and adapt your okizeme strategy
+according to what you expect your opponent to do.
+
+Here are some general techniques:
+
+
+If your opponent stays still without moving:
+--------------------------------------------
+
+3~4,D - jumping crescent and falldown does some nasty damage (you have to
+pull D to make it connect on a floored opponent) although it does get a bit
+boring/annoying if you keep using it.
+
+u/f+2 - the elbow drop is slow to start, giving your opponent time to
+recover or sideroll, but does fairly good damage and lets you follow up with
+at least a sweep from PLD.  Also you can use it from a back turned position
+after connecting something like 5 low backfists, instead of finishing with a
+sweep, a more damaging (although not guaranteed) finish is the back-turned
+elbow drop.
+
+d/b+4 - the sweep doesn't do much damage, but it's probably the quickest
+attack option on a downed opponent.
+
+
+If your opponent rolls back:
+----------------------------
+
+4~4,3,3 - the rolling kicks are usually all guaranteed if the first hit
+connects on a backrolling opponent.
+
+3~4,[U#] - the jumping crescent doesn't require a falldown to connect on a
+backrolling opponent.  Do all 3 if your opponent doesn't get the message and
+tries to get up after the 1st one hits, you should catch them with the 3rd
+one too.
+
+u/f+2 - the elbow drop usually catches a back-roller as well.
+
+4~3 - the cartwheel kick is great against back rollers and does pretty good
+damage.
+
+b+1+2 - run right up to them and headbutt if you want to have some fun, it's
+not guaranteed but you'd be surprised at how effective it is.
+
+
+If your opponent siderolls:
+---------------------------
+
+3~4,D - jumping crescent and falldown should catch a sideroller, unless you
+leave it too late.
+
+d/b+4 - the sweep should hit a side-rolling opponent pretty easily, although
+the damage isn't very good.
+
+
+If your opponent quick-recovers to a low block:
+-----------------------------------------------
+
+Anything that hits mid is useful here, a punch rush & midkick, or a u/f+4
+liftkick is usually good in this situation.
+
+
+If your opponent quick-recovers to a mid/high block:
+----------------------------------------------------
+
+A rave spin is the best option here, although as always, it's safer to only
+perform the 1st hit (in case it's blocked) and follow up with a 4~4,3,3 type
+juggle if it does hit.
+
+
+
+Here are some more techniques that can be useful in certain common
+situations:
+
+
+After juggling with a punch rush & midkick:
+-------------------------------------------
+
+Sidestep on the last hit to change to the crane stance.  Walk towards your
+opponent and try one of the following:
+
+CRS:4 - will miss if your opponent siderolls, otherwise you stand a good
+chance of connecting it.  If they stay down without moving, aim for their
+head, or you could easily miss it.
+
+CRS:3,4,2,3 - the crane dance is very useful, if they make _any_ attempt to
+get up or roll, they will almost certainly take at least 1 hit, and possibly
+get floated on the last one (in which case, you can juggle and repeat the
+whole thing again).  If they stay down without moving, you'll connect the
+last hit too.
+
+Stand close, then back out of range at the last minute, to trick them into
+missing a rising kick, then counter with CRS:2 (and low backfist juggle if it
+connects) or CRS:1 for some massive damage (and a back-turned guessing game
+if it's blocked).
+
+
+After juggling with a punch rush with no kick:
+----------------------------------------------
+
+Sidestep on the last punch to change to the tiger stance.  Walk towards your
+opponent and go for TGS:4 if it looks like they're going to stay down without
+moving, or TGS:1_2 if they try anything else.  If they get up in time to
+block the overhead swipe, follow up with u/f+4, as you will often catch them
+with this if they try to hit you with anything, due to the long block stun
+caused by the overhead swipe.
+
+
+After a rave spin juggle with SNS:2,2:
+--------------------------------------
+
+Perform it as SNS:2,2,2,F so by the time your opponent lands, you're in the
+panther stance.  If they stay down, hit them with PNS:3, otherwise PNS:1~2
+will do decent damage.
+
+
+After any knock-down that leaves you close to your opponent:
+------------------------------------------------------------
+
+Standing close to them, try f+2+3 to get into SNS, then sidestep to PNS when
+you think they will go for a rising kick - if you time it correctly, you'll
+sidestep their rising attack and get a free uppercut or double lowpunch combo
+from the side.
+
+If they tend to use the lightning kick (or a basic rising lowkick/sweep) when
+getting up, stand right by their feet and use your low combo break when they
+try it.  This is very risky (in fact, it's blatantly showing off) but it will
+really annoy your opponent if you can do it >:)
+
+
+
+
+----------------------------------------------------------------------
+(5) Lei Vs other characters:
+----------------------------------------------------------------------
+
+
+Vs Xiaoyu:
+----------
+Xiaoyu can give Lei real hassle, you have to be damn careful against her.
+Don't lie down too much if she uses a lot of jumping backflips.  If she goes
+into the phoenix stance, knock her out of it with a rave spin if she's close,
+or 3~4,U jumping crescents if she's further away.  If she goes for the 3-hit
+combo that ends in her power punch, use your punch reversal on the last hit.
+Your 3,3 high crescent, lowkick combo is useful when you're up close, as the
+2nd hit will connect if she goes into the phoenix stance.
+
+
+Vs Law:
+-------
+Playing dead is usually pretty effective against Law, a lot of Law players
+will usually try to knock you out of it with a dragon tail or
+lowkick,flipkick combo that will miss if you stay still.  If they do this,
+you can always punish them with a powerful liedown technique.  Watch out for
+his 3 hit combo that has a low kick in the middle, this will hit you while
+you're down, and so will his backward flipkick.  Use your low combo break
+against his dragon tail if you see it coming, and punch reversal against his
+rave war combo or his 3-hit uppercut combo.
+
+Vs Nina:
+--------
+Nina is a real pain in the ass.  If your opponent over-uses the divine cannon
+combo (lowkick, floating midkick) then use your low combo break to get the
+advantage.  You can usually expect Nina to use this a lot, because your
+opponent will probably be expecting you to lie down a lot.  Use your punch
+reversal against her double palm or stun chop.  If she uses a lot of
+reversals, then hit her with rave spins, or throw from the dragon stance.
+Don't turn your back too much, it's very hard to back-turn & counter when
+she's doing divine cannon combos all the time.
+
+Vs King:
+--------
+King is another character that can really punish you if you play dead, with
+his damn ali-kick combos.  If he likes to use ground throws, do something
+like 4~3 to get into the facedown position and rave spin his ass as soon as
+he gets close.  A lot of King players like to show off with throws, so it's
+often good to fight him close to lure him into trying it, then go for a u/f+4
+liftkick juggle.  You can use your low combo break to get out of his
+10-strings on the first ali-kick, or if your reactions are fast enough, go
+for a punch reversal on the 3rd hit.  Be careful with using u/f+4 too much or
+he'll use his kick reversal, and AFAIK it cannot be broken out of.
+
+Vs Hwoarang:
+------------
+Hwoarang generally has real trouble hitting you while you're lying down, his
+only quick attack being his short trip.  He does have some more powerful
+attacks that will connect while you're down, but they are usually part of a
+string that starts with a move that misses completely (such as his WS
+crushing axe kicks or his chainsaw kicks).  If he does his 1,1,3,3 (2 quick
+left punches, lowkick, high kick), use a combo break on the low kick, or
+block it and headbutt to counter the last kick (it's high, so a headbutt
+will always beat it).  Same goes for his low kick, floating high kick combo,
+if you can see it coming.
+
+Vs Paul:
+--------
+Lei's punch reversal really comes into its own against Paul, and is the
+perfect antidote to his death fist, tile splitter and 10-hitters.  It's
+usually best not to over-use it or he'll start using double jumpkicks
+instead.  If he's predictable enough with the sweep & elbow, use your low
+combo break on it.  Also if he death fists all the time (and most Pauls do),
+make good use of b+3+4 to get yourself out of range, or use stance changes to
+sidestep it.  Note that if he tries to sweep & elbow you while you're lying
+down, he'll miss completely and you can get a free liedown attack on him.
+Don't lie down too much if he makes good use of his forward somersault or
+floor punch.
+
+Vs Eddy:
+--------
+Keep your distance against Eddy, if you get too close to him then you're
+going to be in real trouble.  It's not usually good to lie down too much
+against him because he has so many moves that hit you while you're down.
+Make good use of your low combo break against Eddy, whenever you know that a
+low hit is coming (ie, most of the time), but it's not worth bothering with
+your punch reversal unless your opponent consistently uses his quick 1,2
+punches or d/f+2 elbow at the start of a round just to get a quick hit.
+Turning your back and countering is usually pretty effective against Eddy,
+but use it carefully or you could stand to take some ridiculous damage.  Use
+your headbutt against his multiple spinning high kicks.
+
+Vs Jin:
+-------
+Jin is a very strong character, and if he's played well, he can cause Lei
+real problems.  You can usually expect him to throw out his u/f+4,4,4,4
+jumping spin kicks (which will do nasty damage if you're lying down), so use
+your low combo break against the first low sweep.  As with Nina, it's always
+good to use plenty of low hits like rave spins and PNS:1~2 double lowpunch
+combo, if he gets into the habit of reversing your punch rushes.  If you use
+the u/f+4 liftkick, it's often a good idea to smack f+2+4 to buffer in a
+reversal break just in case.  Watch out for his thunder god fist (and his
+unblockable), the buildup is so low that it ducks underneath certain
+mid-hitting moves, including your punch rush, so u/f+4 is always a better
+countering option in these situations.  If he is always trying to float you
+with punches/uppercuts of some kind, use your punch reversal, but be careful
+with this against a Jin player who uses lots of double axe kicks and jumping
+spin kicks.  Also: use your headbutt against his white heron combos (low
+kick, 2 high punches, low or mid kick to end), you can usually counter the
+high punches with it.
+
+Vs Yoshimitsu:
+--------------
+Watch out for his d/b+1 sword swipe, it hits you while you're playing dead,
+and so do quite a lot of his other unblockables.  Use your low combo break
+against his multiple spinning lowkicks, and headbutt when he goes for his
+high spin kicks.  If he sits down, and/or starts teleporting, you can usually
+connect 4~4,3,3 rolling kicks on him, and if you get the first one, you'll
+probably get all of them.  Forget your punch reversal unless he uses a lot of
+spinning backhands or elbows.  His pogo sword is quite effective if you lie
+down, but if he tries it while you're standing, go for 1+2~2 to make him give
+up on that.
+
+Vs Lei:
+-------
+I HATE playing Lei vs Lei matches!  As with Xiaoyu, use 3,3 when you're up
+close and you'll often hit your opponent if they lie down.  Also, if your
+opponent constantly plays dead then hit him with jumping crescents, elbow
+drops, or sweeps.  If he goes for a punch rush, you can use your punch
+reversal on him.  If he starts a 10-string (usually the result of stuffing up
+a punch rush), use your low combo break on the 3rd hit.
+
+
+----------------------------------------------------------------------
+(6) Anti-Lei guide: other characters Vs Lei:
+----------------------------------------------------------------------
+
+This section _was_ going to be a huge in-depth guide for how to kick Lei's
+ass, but I've decided to censor it at the last minute.  Track down an older
+version of this FAQ to get the basics - or figure it out for yourself :)
+
+
+----------------------------------------------------------------------
+(7) Credits:
+----------------------------------------------------------------------
+
+This FAQ is written by me, -MG- (matthew@bitscorp.com).  Feel free to
+stick this on websites, steal the moves for your FAQs or movelists, etc.,
+as long as you credit me for it.  EGM, on the other hand, can just go and
+fuck right off.  EGM, perhaps you'd like to read that last sentance again
+very slowly, and ask an adult if you have trouble with any of the long words.
+
+Any comments, corrections, additions, suggestions, email me :)
+
+
+Special thanks to:
+
+Ben Cureton (aka Tragic) - for letting me use/rehash a load of the
+layout and the whole abbreviation section, 9/10 string grid, and
+loads of bits & pieces from the 'Original Tekken 3 movelist' - thanks!
+
+Mario Xavier - for finding the elbow drop and trip & elbow throw, and
+helping to waste money on practice rounds when we were finding all the
+moves =)
+
+Hatim - for the original 'crane dance' combo (now sod off back to VF3,
+heheh)
+
+Richard 'Dick' and Julia 'Chang' Luk (heheh), Slikatel, Tadarich, &
+all the other webmasters for all that lovely info =)
+
+Also extra thanks to Tadarich for the SNS:4 hit in the d/b+4,D juggles, and
+for being just about the only person in Japan to keep the rest of the world
+up-to-date with the latest TK3 news from Japan in English :)
+
+Catlord, Surfbard, Justin Pierce, & all the other FAQ writers for
+even more of that lovely info ...
+
+Derrick - for making rec.games.video.arcade a more entertaining read
+ever

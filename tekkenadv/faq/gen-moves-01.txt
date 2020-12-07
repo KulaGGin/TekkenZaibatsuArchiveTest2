@@ -1,0 +1,889 @@
+                             __     _ __     _        
+             ________ ______/  |  /  |  |  /  \______ ____   ___
+            \__    __/ _____/  |/   /|  |/   /| _____/    \ |   |
+               |  |  | ____/|   __  \|   __  \| ____/|   |\     |
+               \__/  \______/__/  \__/__/  \__/______/___/ \____/
+          _______   __/   \__    __ _______ ____   ___ _______ ______
+         |   _   |/   _   |  \  /  /   _   |    \ |   |   ____/ _____/
+         |   _   |  ( _/  |\  \/  /|   _   |   |\     |  \____/ ____/
+         \__/ \__/\ ______/ \ __ / \__/ \__/___/ \____/_______/______/
+       _    _     _____   __    __ ______ ___     _______ _______ ________
+      / \  / \  /   _   \\  \  /  / _____/   |   \__   __/     __/__    __/
+     /   \/   \|   (_)   |\  \/  /| ____/|   \___ __/ \__/__     |  |  |
+    /___/\/\___\\_______/  \ __ / \______/_______/_______/_______/  \__/
+          
+                            Version 1.01 (3/31/02)
+                      --------------------------------
+                      by Catlord (catlord@catlord.com)
+              Latest movelist available at- http://catlord.com
+
+
+      This movelist was made to provide concise moves and a compact printout.
+If I messed up, just E-Mail catlord@tekken.net with your corrections and/or
+wisdom.  You also might be able to catch me at the #tekken IRC channel on
+EFNet.  Thanks!
+
+Note: This FAQ must be printed in monospace format, otherwise it will come
+      out ugly as hell and not lined up..    1234567890
+                                             ..........
+
+===========Disclaimer Mumbo-Jumbo So EGM Don't Steal My Crap Again===========
+|                                                                           |
+| This guide is intended for free circulation through all internet related  |
+| resources including web pages, newsgroups, email, IRC, FTP and any other  |
+| forums that exist.  You may distribute or print this guide at your own    |
+| leisure providing you do not alter the content in any way or receive      |
+| monetary compensation for it.  The Tekken series, and their characters    |
+| are a registered trademark and copyright of Namco.  The strategies and    |
+| other non-official information regarding Tekken and/or your mama are      |
+| copyright Hans Poorvin.  Do not steal the information contained in this   |
+| guide or attempt to reword it or I'll bust y0 ass with a 9-Iron.          |
+|                                                                           |
+===========We Now Continue to Your Regularly Scheduled Movelist==============
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+==================================
+| WHAT'S NEW IN REVISION UPDATES |
+==================================
+
+  v1.01 - Xiaoyu Updated.
+  ----- 
+
+  v1.00 - First Movelist Revision!
+  ----- 
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+                      *-*-*-BUTTON CONVENTIONS-*-*-*
+                                          __________________
+                                          | BUTTON  LAYOUT |
+                              -------------------------------------------
+                              |                                         |
+                              |    _________________________________    |
+                              |   / Tag /                     \Throw\   |
+                              |  |------    _______________    ------|  |
+       Left -  TAG            |  |    _    |               |      _  |  |
+       Right - THROW (T)      |  |  _| |_  |               |  _  /P\ |  |
+                              |  | |_   _| |               | /K\ \_/ |  |
+       B - KICK (K)           |  |   |_|   |               | \_/     |  |
+       A - PUNCH (P)          |  |       o |               |         |  |
+                              |  |       o |_______________|         |  |
+                              |  \_______                     _______/  |
+                              |          \___________________/          |
+                              |                                         |
+                              -------------------------------------------
+
+
+                     *-*-*-MOVEMENT CONVENTIONS-*-*-*
+
+f - tap forward once           d/f - tap down/forward once
+b - tap backwards once         d/b - tap down/back once
+d - tap down once              u/f - tap up/forward once
+u - tap up once                u/b - tap up/back once
+
+F - Hold stick forward         D/F - Hold stick down/forward
+B - Hold stick back            D/B - Hold stick down/back
+D - Hold stick down            U/F - Hold stick up/forward
+U - Hold stick up              U/B - Hold stick up/back
+
+N - Neutral joystick position (Joystick is not touched)
+SS - Sidestep (u,N or d,N)
+QCF - Quarter circle forward (Circle stick from down to forward)
+QCB - Quarter circle back (Circle stick from down to back)
+HCF - Half circle forward (Circle stick from back to down to forward)
+HCB - Half circle back (Circle stick from forward to down to back)
+
+		*-*-*-LINKING & SPECIAL CONVENTIONS-*-*-*
+
++ - Moves must be done together
+, - Moves must be done right after the other
+~ - Moves must be done IMMEDIATELY after the other
+_ - Or (When used between two moves, they are interchangeable)
+> - Move following the > has the option of being slightly delayed  
+# - Hold movement before the '#' until the end of string or until N (Neutral)
+FC - Do move during full crouched position
+WS - While standing up (Returning the stick to neutral from a crouch)
+RN - While running (f,F#)
+BK - Back facing the opponent
+FD/FT - Lying on the ground Face Down / Feet Towards opponent
+FD/FA -   "           "     Face Down / Feet Away from opponent
+FU/FT -   "           "     Face Up / Feet Towards opponent
+FU/FA -   "           "     Face Up / Feet Away from opponent
+CH - Major Counterhit (Hitting your opponent during their move execution)
+[] - Brackets surrounding an item indicate an optional output
+() - Parenthesis indicates moves grouped together
+. - Pause 1/3 a second between button presses (Tenstring timings only)
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+  PLAYING AS HEIHACHI MISHIMA
+  ---------------------------
+
+  Hidden character, Heihachi Mishima, becomes playable after you beat
+  Arcade mode with all of the 9 default characters.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+General Moves for Everyone
+=-=-=-=-=-=-=-=-=-=-=-=-=-
+N                       Stand Still  *Neutral Standing Guard*
+f_(F#)                  Step Forward_(Walk Forward)
+b_(B#)                  Step Backward_(Walk Backward)
+f,f                     Dash Forwards
+b,b                     Dash Backwards
+D                       Crouch Down
+d/f                     Low Parry  *When Attacked by a Low/Special-Mid Hit*
+(u,N)_(d,N)             Axis Shifting Sidestep (SS)
+
+u/f                     Low Hop
+U/F                     High Jump
+  K                       Leaping Mid Kick
+  N,K                     Landing Low Kick
+
+(f,f,f)_(f,F)           Run
+  B                       Stop Running
+  P+K                     Flying Cross Chop
+  K                       Flying Side Kick 
+                            *All but Paul, Yoshimitsu, and King*
+  d+K                     Sliding Leg Sweep  *All but Yoshimitsu and King*
+  N                       Shoulder Ram or Stomp                              
+
+
+Knockdown Recovery Moves (When On Ground FU/FT)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+(P_K)                   Tech Roll  *Hit as SOON as you hit the ground*
+f                       Roll Forwards
+  K                       Rising Mid Kick
+  d+K                     Rising Low Kick
+  P+K                     Flying Cross Chop
+b                       Roll Backwards
+  K                       Rising Mid Kick
+  d+K                     Rising Low Kick
+  f+P+K                   Flying Cross Chop
+P_(d+P)                 Roll Out_(Roll In)
+  N                       Stand Up
+  K                       Rising Mid Kick
+  d+k                     Rising Low Kick
+  f                       Roll Forwards
+    K                       Rising Mid Kick
+    d+K                     Rising Low Kick
+    P+K                     Flying Cross Chop  
+  b                       Roll Backwards
+    K                       Rising Mid Kick
+    d+K                     Rising Low Kick
+    P+K                     Flying Cross Chop
+K                       Rising Mid Kick
+d+K                     Rising Low Kick
+B                       Tumble Knockback Recovery
+                           *After getting hit by a heavy tumbling attack*
+
+      Recovery moves are chained together as such:
+      P,b,K - Roll out, roll backwards, rising mid kick
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+The Characters
+=-=-=-=-=-=-=-
+
+============
+| GUN JACK |
+============
+
+GRAPPLING TECHNIQUES
+T                           Embracing Megaton Uppercut  *Juggles*
+
+SPECIAL TECHNIQUES
+P, P, P                     Hammer Combo
+f+P, P, P                   Punch, Elbow, Uppercut  *Juggles*
+f,f+P, P, P, P              Wild Swing, Backfist
+b+P                         Gun Blaster
+WS+P                        Violent Uppercut  *Juggles*
+D/F+P, P, P, P              Uppercut Rush
+D/B+P, P, P, P, P, d/f+P    Machine Gun Punches, Megaton Punch
+b,d/b,d,D/F+P               Megaton Punch
+P+K, P+K                    Hammer Knuckle, Double Uppercut
+WS+P+K, P+K                 Double Uppercut, Hammer Knuckle
+d+P+K                       Bravo Knuckle
+f+P+K, P                    Scissors, Megaton Punch
+f+P+K, P+K                  Scissors, Low Scissors
+f,f+P+K                     Digital Hans Head Slide
+d/f+P+K                     Low Ankle Swipe  *Juggles*
+HCF+P+K                     Megaton Uppercut  *Juggles*
+FC d/b+P, d/f+P             Low Punch, Megaton Punch
+FC d/b+P, P, P, P, d+P      Low Hammer Rush, Low Punch
+FC d/b+P, P, P, P, P        Low Hammer Rush, Mid Punch
+FC d/b+P, P, P, P, f+P      Low Hammer Rush, High Punch
+FC D/F+P, P, d+P            Hammer Rush, Low Punch
+FC D/F+P, P, P              Hammer Rush, Mid Punch
+FC D/F+P, P, f+P            Hammer Rush, High Punch
+FC P+K                      Low Palm Lift
+FC d/f+P+K                  Low Scissors
+FC D/F+K, d+P               Mid Swipe, Low Punch
+FC D/F+K, P, P              Mid Swipes  *Juggles*
+FC D/F+K, f+P               Mid Swipe, High Punch
+d/f+K                       Ganny Stomp
+D/B+K, K, K, K, K           Cossack Kicks
+
+u+P+K, [P+K], [P+K]         Dive Bomber [2nd & 3rd Thrusts]  *Unblockable*
+f,N+K~P                     Dark Greeting  *Unblockable - Juggles*
+
+d+P.P.P.P..P.P..PP..P+K.P+K   Tenstring
+
+SAMPLE COMBOS
+d/f+P+K, P+K,P+K            -=- 3 hits -=- 33 pts.
+[FC d/f+K,P,]P, f+P,P,P     -=- 4 hits -=- 41 pts.
+WS+P, f+P,P,P               -=- 4 hits -=- 46 pts.
+[f+P,P,]P, D/F+P,P,P,P      -=- 5 hits -=- 46 pts.
+HCF+P+K, P,P,P              -=- 4 hits -=- 52 pts.
+
+
+
+
+====================
+| HEIHACHI MISHIMA |
+====================
+
+GRAPPLING TECHNIQUES
+T                           Electric Tile Splitter
+
+SPECIAL TECHNIQUES
+f+P                         High Backfist
+b+P                         Spinning Backfist
+WS+P                        Dark Thrust
+P, P, P                     Shining Fists
+P, P, f+P                   2 Punches, High Backfist
+P, P, f+P~P                 2 Punches, Chi Palm
+P, P, f+P, (u_d)+P          2 Punches, Chi Palm Cancel, Sidestep
+P, P, K                     2 Punches, Roundhouse
+P, b+P, P                   Punch, Backfist, Thunder Godfist
+P, b+P, K                   Punch, Backfist, Leaping Mid Thrust Kick
+f+P, P                      Backfist Cancel, Chi Palm
+d+P, P                      Tile Splitter, Deathfist
+d/f+P, P                    Twin Pistons  *Juggles*
+f,f+P                       Demon Godfist  *Juggles*
+QCF+P                       Deathfist
+P+K                         Chi Palm
+f,N,d,d/f+P                 Wind Godfist
+f,N,d~d/f+P                 Electric Wind Godfist
+f,N,d,d/f,N,P               Thunder Godfist
+f,N,d,d/f+P+K               Leaping Low Thrust Kick
+f,N,d,d/f,N,P+K             Leaping Mid Thrust Kick
+f,N,d,D/F+K, [K], [K]       Hell Sweeps
+  N+P                         Thunder Godfist
+  N+K, K                      Axe Kicks
+K~P                         Demon Scissors Flipstomp
+f+K                         Axe Kick
+f,f,f+K                     Jumping Kick
+u/f+K, K                    Hunting Hawk
+WS+K, K                     Axe Kicks
+
+d+P+K                       Demon Tile Splitter  *Unblockable*
+
+d/f+K.PP..K.K..P..K..P..P..P   Tenstring
+
+SAMPLE COMBOS
+d/f+P,P, P,P, d/f+P,P       -=- 6 hits -=- 50 pts.
+f,N,d,d/f+P, P, P,b+P,P     -=- 5 hits -=- 52 pts.
+
+
+
+
+============
+| HWOARANG |
+============
+
+GRAPPLING TECHNIQUES
+T                           5-Kick Massacre
+
+SPECIAL TECHNIQUES
+Left Foot Forward - (LFF)
+-------------------------
+P+K                         Switch to (RFF)
+f,N,K                       Switch to (LFL)
+b+P+K                       Switch to (BK)
+f+P                         Backfist, (RFF)
+F+P                         Backfist
+(WS_d/f)+P                  Kidney Punch
+P, K                        Jab, Roundhouse
+P~K                         Flying Eagle
+P, P, K                     Double Jab, Roundhouse
+P, P, f+K                   Double Jab, Midkick
+P, P, d+K, K                Double Jab, Lowkick, Highkick
+f+P+K                       Highkick, (RFL)
+f+P+K, K                    Highkick, Mid Thrustkick, (RFF)
+f,f+P+K                     Breakthrough Kick, (BK)
+b+K                         Facekick, (RFF)
+d/f+K, K                    Thighkick, Highkick, (RFL)
+d/b+K                       Low Ankle Sweep
+d/b+K~K                     Mid Axe Snap
+u/f+K, K, K                 Hunting Hawk
+u/b+K                       Hopping Sidekick, (LFL)
+d+K, K                      Lowkick, Lifting Leg Kick  *Juggles*
+WS+K, K                     Axekicks, (RFF)
+f,N,K~K                     Sliding Midkick
+f,N,d,d/f+K                 Wing Blade  *Juggles*
+f,f+K                       Overhead Crescent, (RFF)
+K, f+K                      2 Highkicks, (RFF)
+K, P+K                      Highkick, Mid Sidekick, (RFF)
+K, f+P+K                    Highkick, Mid Sidekick
+K, K, b+K                   Triple Highkicks, (RFL)
+K, K, K                     Hot Kicks, (RFL)
+K, K, K, K                  Hot Feet, (RFF)
+f+K, K, K, K                Machine Gun Kicks  *Juggles*
+f+K, K, f+K                 High, Mid, High Kicks, (RFL)
+f+K, K, f+K, K              High, Mid, High, Mid Kicks, (RFF)
+f+K, K, d+K                 High, Mid, Low Kicks
+f+K, K, d+K, K              High, Mid, Low, High Kicks, (RFL)
+f+K, K, d+K, K, K           High, Mid, Low, High, Mid Kicks, (RFF)
+d+P+K                       Heel Explosion  *Unblockable*
+
+Right Foot Forward - (RFF)
+--------------------------
+P+K                         Switch to (LFF)
+f,N,K                       Switch to (RFL)
+P                           Jab, (RFF)
+P~K                         Power Roundhouse
+P, K                        Jab, Highkick, (RFF)
+P, b+K                      Jab, Roundhouse
+P, f+P                      Jab, Midpunch
+P, P, f+P                   2 Jabs, Midpunch
+P, K, K                     Jab, Highkick, Crescent
+b+P+K                       Spinning Low Sweep, (RFF)
+b+P+K, K                    Spinning Low Sweep, Roundhouse
+f,f+P+K                     Jumping Roundhouse, (RFF)
+b+K                         Spinkick, (RFF)
+f+K                         Facekick, (RFL)
+f+K, B                      Facekick, (BK)
+f+K, d/b+K                  Facekick, Spinning Roundhouse
+f,N,K~K                     Lifting Leg Kick  *Juggles*
+f,f+K, K                    Stepping Sidekick, Jumping Roundhouse
+K, K                        Highkick, Crescent
+K, f+K                      Highkick, Windmill Kick
+
+Left Flamingo - (LFL)
+---------------------
+f_b                         Flamingo Forward_Back Step
+u_d                         Flamingo Sidestep
+P                           Jab
+f+P                         Backfist, (RFF)
+d+K                         Low Trip Sweep
+u+K                         Hopping Kick, (RFL)
+f+K                         Axekick, (RFF)
+d/f+K                       Low Shinkick
+b+K                         Spinning Roundhouse
+K, K, K                     Machine Gun Kicks  *Juggles*
+K, K, f+K                   Triple Highkicks, (RFL)
+K, K, f+K, K                Triple Highkicks, Midkick, (RFF)
+P+K                         Power Blast  *Unblockable*
+P.P.K..K.K.K.KK..KK         Tenstring
+
+Right Flamingo - (RFL)
+----------------------
+f_b                         Flamingo Forward_Back Step
+u_d                         Flamingo Sidestep
+P                           Jab, (RFF)
+u+K                         Hopkick, (LFL)
+d+K                         Low Trip Sweep
+d/f+K                       Shinkick, (RFF)
+f+K                         Axekick
+b+K                         Spinning Roundhouse
+
+SAMPLE COMBOS
+LFF f,N,d,d/f+K, u/f+K,K,K  -=- 4 hits -=- 53 pts.
+CH d+K,K, K,K,{K},K         -=- 5 hits -=- 81 pts.
+
+
+
+
+==============
+| JIN KAZAMA |
+==============
+
+GRAPPLING TECHNIQUES
+T                           Dual Roundhouse Kicks
+
+SPECIAL TECHNIQUES
+P, b+P                      Punch, High Backfist
+P, P, P                     Shining Fists
+P, P, f+P                   2 Punches, High Backfist
+P, P, f+K                   2 Punches, Knee
+P, P, K, K                  2 Punches, Axe Kicks
+P, P, K, f+K                2 Punches, Axe Kick, Front Kick
+WS+P                        Rising Uppercut  *Juggles*
+f+P, K                      Overhand Punch, Knee
+f,f+P                       Demon Paw
+d/f+P, P                    Mid Straight, Overhand Punch
+b,f+P, P, P                 Laser Scraper
+b,f+P, P, d/f+P             Laser Cannon  *Juggles*
+f,N,d,d/f+P                 Wind Godfist  *Juggles*
+f,N,d~d/f+P                 Electric Wind Godfist  *Juggles*
+f,N,d,d/f,N,P               Thunder Godfist
+  K_(d+K)                     Mid Kick_(Low Kick)
+P+K, P                      White Heron
+  K_(d+K)                     Mid Kick_(Low Kick)
+P+K, P, d+K                 White Heron, Low Kick
+d+P+K                       Can-Can Kicks  *Juggles*
+K                           Spinning Roundhouse
+K~P                         Demon Scissors Flipstomp
+b+K                         Demon Steel Pedal  *Stuns on CH*
+f+K                         Knee
+f,f+K                       Snapping Axekick  *Juggles*
+f,f,f+K                     Jumping Kick
+(WS_d/f)+K, K               Axe Kicks
+u/f+K, K, K, K              Jumping Kick, 2 Hellsweeps, Roundhouse
+f,N,d,d/f+K, K              Hell Sweep  *Juggles*, Mid Roundhouse
+
+b+P+K                       Lightning Godfist  *Unblockable*
+B+P+K                       Lightning Hell Godfist  *Unblockable*
+
+f,f,N+PPPP.K.K.K..K..P.P    Tenstring
+b+PK..K.K.K.P.P+K..KK       Tenstring
+
+SAMPLE COMBOS
+WS+P, b,f+P,P,P             -=- 4 hits -=- 51 pts.
+f,N,d,d/f+P, P, P,P,K       -=- 5 hits -=- 48 pts.
+f,N,d,d/f+K, P+K,P,K        -=- 5 hits -=- 45 pts.
+
+
+
+
+========
+| KING |
+========
+
+GRAPPLING TECHNIQUES
+T                           Uppercut, Axe Handle
+d+T                         Ducking Grab  *Catches Crouching Opponents*
+QCB+T                       Wishbone Powerbomb
+FC,d/b,d,d/b+T              DDT
+f,HCF+T                     Giant Swing
+f,N,d,d/f,N,T               Standing Achilles Hold
+  T, P, P, P                  Scorpion Death Lock
+  P, K, P, T                  S.T.F.
+  T, P, P, T                  Indian Death Lock
+    P, P, K, T, P+K             Romero's Special
+f,N,d,D/F+T                 Reverse Arm Hyperextension
+  T, T                        Double Arm Snap
+  T, K, K                     Russian Leg Sweep
+    K, P, L, P+K, T             Arm Crucifix
+  K, P, P+T                   Chicken Wing Facelock
+    K, P, P, K+T, K+T           Reverse Guillotine Choke
+    P, P+K, K, T, P+T           Rolling Death Cradle
+
+Multithrow Link Table
+---------------------
+
+A--B--C--D--E
+   |     |
+   |     `--J
+    \
+F-----G--D--E
+      |  |
+      |  `--J
+      |
+      `--H--I--E
+            |
+            `--J
+
+A. f,D/F+T                  Reverse Arm Clutch Multistarter
+B. K, P, T                  Backdrop 
+C. P+K, T                   German Suplex 
+D. P, K, T                  Powerbomb 
+E. K, P, P, K               Giant Swing 
+F. d/f+T                    Double Elbow Lock Multistarter
+G. K, K, T                  Cannonball
+H. P+K, T, K+T              Manhattan Drop
+I. P, K, P+K, T             Superfreak
+J. P, P, K, P+K, T, K, P    Wishbone Powerbomb
+
+SPECIAL TECHNIQUES
+P, P, P                     High Palm Punches, Mid Upper
+b+P, P                      High Palm Punch, Mid Upper
+d+P, P                      Crouch Jab, Mid Upper
+d/f+P, P                    Elbow Strike, Gutpunch
+FC,d/f+P                    Low Ankle Swipe  *Juggles*
+f,f+P                       Lunge Uppercut  *Juggles on CH*
+f,f,N+P                     Low Crotch Punch  *Stuns on CH*
+  *stun* P                    DDT
+  *stun* d+P+K                Powerbomb
+u/f+P                       Hopping Axe Handle  *Juggles*
+WS+P                        Rising Uppercut *Juggles*
+f,N,d,d/f,N,P               Double Axe Handle  *Juggles on CH*
+P+K                         Uppercut, (BK)
+  P                           Backhand
+d/f+P+K                     Elbow Drop
+u/f+P+K                     Jumping Elbow Drop
+f,f+P+K                     Running Shoulder Charge
+(d+P+K)_(FC,d/f+K)_(RN d+K) Ali Kick
+  P                           Middle Smash
+  K, K                        Ali Kicks
+  K, K, K, K                  CH Ali Kicks  *First Ali Kick Must be CH*
+f+K                         Twisting Roundhouse Kick
+b+K                         Turnaround Kick, (BK)
+BK K                        Dust Kick
+u/f+K                       Hopkick  *Juggles*
+f,f+K                       Convict Kick
+(f,f,f)_(RN)+K              Dropkick
+
+b+P+K                       Moon Press  *Unblockable*
+(f+P+K)_(BK P+K)            Jaguar Lariat  *Unblockable*
+
+PPP.f+P..PK.K.K..P.K        Tenstring
+PPP.f+P..PK.K.K..P.P        Tenstring
+PPP.f+P..K.K.K.d+K.P.P+K    Tenstring
+
+SAMPLE COMBOS
+u/f+K, P,P,P, b+K           -=- 5 hits -=- 39 pts.
+WS+P, P,P,P, d+P+K,P        -=- 6 hits -=- 47 pts.
+
+
+
+
+================
+| LAW (Forest) |
+================
+
+GRAPPLING TECHNIQUES
+T                           Stomach Punch, 1-Inch Punch
+                                                        
+SPECIAL TECHNIQUES
+P, P, P, P, P               5-Punch Combo
+P, [P], [P], [P]            Punch Rush
+  P, f+P > P                  Rush Fists
+F+P > P > P                 Dragon Knuckle Combo
+b+P, P, P                   Dragon Storm  *Juggles*
+d+P, K                      Ducking Jab, Flipkick  *Juggles*
+d/b+P, K, K                 Junkyard Combo  *Juggles*
+WS+P                        Rising Uppercut  *Juggles*
+QCF+1                       Power Jab  *Knocks Down on CH*
+f+P+K                       Overhead Smash
+b+P+K                       Taunting Stance
+  P                           Killer Backhand
+  d/f+P                       Dragon Upper  *Juggles*
+  K                           Low Fake Step
+K, K, K                     Triple Highkicks
+f+K, [K], [K]               Advancing Sidekick[s]
+  u+K                         Flipkick  *Juggles*
+f+K~P                       1-Inch Punch
+d+K, K, [K], [K]            Lowkick, Advancing Sidekick[s]
+  u+K                         Flipkick  *Juggles*
+d+K, u+K                    Lowkick, Flipkick  *Juggles*
+b+K, K                      Roundhouse, Flipkick  *Juggles*
+FC+K, u+K                   Low Sweep, Flipkick  *Juggles*
+FC,(u/b_u_u/f)+K            High Flipkick
+FC,(u/b_u_u/f)+P+K          Super Flipkick
+FC,d/f,d,d/f+K              Dragon Slide
+d/b+K                       Dragon Tail
+(u/b)_u+K, K                Hopkick, Flipkick  *Juggles*
+u/f+K                       Hopkick  *Juggles*
+(U/B_U_U/F)+K, K            Double Flipkicks  *Juggles*
+d/f+K, K, K, K              Midkick, Lowkick, 2 Highkicks
+f,f,f+K                     Jumping Kick
+
+d/b+P+K                     Dragon Fang  *Unblockable - u,u to Cancel*
+
+d/f+P.K.P.P.K.K.K.K.K.K     Tenstring
+d/f+P.K.P.P.K.K.K.d+K.K.K   Tenstring
+
+SAMPLE COMBOS
+CH b+P,P,P, f+K~P           -=- 4 hits -=- 76 pts.
+U/F+K, U/F+K,K              -=- 3 hits -=- 56 pts.
+CH d+P,K, P,P,P,{P},f+P,P   -=- 7 hits -=- 70 pts.
+
+
+
+
+=================
+| NINA WILLIAMS |
+=================
+
+GRAPPLING TECHNIQUES
+T                           Quad Punches, Lifting Backhand
+QCF+T                       Palm Grab
+  P, K, P, T                  Neck Cutter Arm Bar
+  K, P, K, K, K               Knee Bash, Neck Snap
+    P, P+K, P, K, T             Falling Neck Snap
+    P, K, K, P, P+T             Turtleshell Flip
+  P, P, K, P                  Standing Reverse Arm Lock
+    P, P, K, T, T               Rear Gatelatch Falconwing Squeeze
+    K, P, P, K, T               Falling Reverse Arm Lock
+QCF+P+K                     Crab Claw
+  P+K, P, K, T                Rolling Arm Bar
+  P+K, K, K, T                Achilles Tendon Lock
+    P, P, K, K                  Knee Cross Lock
+    P, P, K, P+K, T             Rolling Achilles Tendon Lock
+
+SPECIAL TECHNIQUES
+f+P, K                      Jab, Roundhouse
+f+P, f+K                    Jab, Facekick
+f+P, d+K, K                 Jab, Lowkick, Highkick
+f+P, d+K, P                 Jab, Lowkick, Uppercut  *Juggles*
+P, P, K                     2 Jabs, Roundhouse
+P, P, K, K                  2 Jabs, Double Highkicks
+P, P, d+K, K                2 Jabs, Lowkick, Highkick
+P, P, d+K, P                2 Jabs, Lowkick, Uppercut  *Juggles*
+P, P, f+P+K                 2 Jabs, Double Palm
+P, P, P, K                  3 Jabs, Lowkick
+P, P, P, P, f+P+K           4 Jabs, Double Palm
+d,d/f+P                     Lifting Backhand  *Juggles*
+(FC_d)+P~K                  Ducking Jab, Rising Kick
+(SS_f_WS)+P+K               Double Palm
+d+P+K                       Ground Stomp  *Opponent Must be Grounded*
+K, K, K                     Highkick, Lowkick, Highkick
+u/f+K, K, K                 Jumping Highkick, Lowkick, Highkick
+K, d+K, P                   Highkick, Lowkick, Uppercut  *Juggles*
+K, d+K, d+K                 Highkick, Double Lowkicks
+f+K, K                      Double Highkicks
+(QCF_f,f)+K                 Roshambo Kick  *Stuns on CH*
+(QCF,N)_(f,f,N)+K           Flipstomp
+b+K                         Spinning Roundhouse
+d+K, d+K                    Double Lowkicks
+d+K, P                      Lowkick, Uppercut  *Juggles*
+d+K, K                      Lowkick, Highkick
+d/b+K                       Falling Ankle Kick, FU/FT
+  K                           Divine Cannon  *Juggles*
+d/b+P+K                     Divine Cannon  *Juggles*
+d/b+K~P                     Shinkick, Backhand
+d/f+K, P, P, f+P+K          Sidekick, Backhand, Jab, Double Palm
+d/f+K, f+P, K               Sidekick, Jab, Highkick
+d/f+K, f+P, f+K             Sidekick, Jab, Roundhouse
+d/f+K, f+P, d+K             Sidekick, Jab, Lowkick
+d/f+K, f+P, P, K            Sidekick, 2 Jabs, Lowkick
+d/f+K, K                    Sidekick, Highkick
+d/f+K, f+K, K, K            4 Sidekicks
+d/f+K, f+K, K, d+K          3 Sidekicks, Lowkick
+d/f+K, f+K, K, P, P, f+P+K  3 Sidekicks, 2 Jabs, Double Palm
+FC,d/f+K                    Dragon's Tail
+f,f,f+K                     Bone Cutter Jumpkick
+
+b+P+K                       Hunting Swan  *Unblockable - u,u to Cancel*
+
+PPPP.K.K.P..P.P.K           Tenstring
+
+SAMPLE COMBOS
+d,d/f+P, P,P,P, b+K         -=- 5 hits -=- 38 pts.
+d,d/f+P, P,P,P, P,P,P       -=- 7 hits -=- 41 pts.
+
+
+
+
+================
+| PAUL PHOENIX |
+================
+
+GRAPPLING TECHNIQUES
+T                           Grabbing Elbow Smash
+
+SPECIAL TECHNIQUES
+P, P                        Double Jabs
+P, K                        Jab/Highkick Combo
+f+P, K                      Power Jab/Highkick Combo
+P, d+K                      Jab/Lowkick Combo
+f+P, d+K                    Power Jab/Lowkick Combo
+f,f+P                       Elbow Smash
+d+P                         Tile Splitter
+  P                           Deathfist
+  K, P                        Falling Leaf
+WS+P                        Thunder Liftpalm  *Juggles*
+FC,d/f+P, P                 Elbow, Stonefist
+FC,d/f+P > K                Elbow, Lifting Leg Punch  *Juggles*
+SS+P                        Sidestepping Shoulder Ram
+QCF+P                       Deathfist
+QCB                         Backsway
+  P                           Palm Strike
+  P+K                         Tile Splitter  *Juggles on CH*
+  K, P, P                     Lowkick, Elbow, Lifting Leg Punch  *Juggles*
+  K, P > K                    Lowkick, Elbow, Stonefist
+f+P+K                       Overhand Smash
+d+K, P                      Falling Leaf
+u/f+K                       Hopkick  *Juggles*
+u/f+K, K                    Double Hopkicks  *Juggles*
+f,f+K, K                    Dual Jumping Kicks  *Juggles*
+  K                           Highkick
+  f+K                         Midkick
+  d+K                         Lowkick
+f,f,N+K                     Somersault Kick
+QCF+K                       Elbow Rush  *Juggles - Stuns on CH*
+
+b+P+K                       Burning Deathfist  *Unblockable*
+
+PPKP..P.P..P.K.P.P          Tenstring
+
+SAMPLE COMBOS
+u/f+K,K, d+P                -=- 3 hits -=- 35 pts.
+u/f+K, P,P, QCF+P           -=- 4 hits -=- 43 pts.
+
+
+
+
+=================
+| XIAOYU (Ling) |
+=================
+
+GRAPPLING TECHNIQUES
+T                           Wildmill Slaps
+
+SPECIAL TECHNIQUES
+P, P                        Double Jabs
+P, d+P                      Jab, Uppercut Slap
+U+P                         Left Fanblade
+u+P                         Left Fanblade, (BK)
+D/F+P                       Mid Palm Strike
+d/f+P                       Mid Palm Strike, (BK)
+f+P, d/f+P                  Jab, Mid Palm Strike
+f+P, P                      Jab, Mid Palm Strike, (BK)
+f,f+P, P                    Wing Strikes  *2nd Strike Juggles on CH*
+WS+P, F                     Rising Slap  *Juggles on CH*
+WS+P                        Rising Slap, (BK)  *Juggles on CH*
+FC,d/f+P, d/f               Lotus Twist, (BK)
+FC,d/f+P, P                 Dual Lotus Twists
+FC K, P, P, K               4-Hit Flurry  *Juggles*
+FC d/f+K                    Phoenix Spinsweep, (Phoenix)
+FC d/f+K, K                 Dual Phoenix Spinsweeps
+FC d/b+P+K                  Crouching Spinaround, (BK)
+b+P                         Storming Flower
+d+P                         Windmill Slaps
+D+P                         Windmill Slaps, (Phoenix)
+P+K                         Bird's Flock  *Juggles*
+b+P+K                       (BK)
+d+P+K                       (Phoenix)
+u+P+K, P > P                Overhead Slaps, Midpunch, Storming Flower
+u+P+K, K                    Overhead Slaps, Sidestep
+f,f+P+K                     Overhead Flip
+b+K                         Double Face Kicks, (BK)
+f+K                         Strong Roundhouse
+WS+K                        Skyscraper Kick
+f,f+K                       Raccoon Kick, (BK)
+d/f+K                       Ankle Kick  *Juggles on CH*
+d/b+K                       Offensive Shove
+u/f+K                       Leaping Overhead Kick
+d/f+P+K                     Power Spinstrike  *Unblockable*
+u+KP:P:(P+K):P:K:K:K::K:P   Tenstring  *Stopping after 6th hit - (BK)*
+
+(BK) Backturned Position - b+P+K
+--------------------------------
+P, P, K                     3-hit Flurry  *Juggles*
+P+K                         Sidestep Spin
+f+P+K                       Reverse Somersault, (BK)
+f+P+K, P+K                  Reverse Somersault Kangaroo Kick, (BK)  *Juggles*
+d+P+K                       (Phoenix)
+K                           Reverse Hook Kick  *Juggles*
+D+K                         Reverse Ankle Kick
+d+K                         Reverse Ankle Kick, (BK)
+f,f+K                       Mid Thigh Kick, (BK)
+
+(Phoenix) Stance - d+P+K
+------------------------
+U                           Cancel Phoenix to Stand Up
+D                           Phoenix Crouch
+P                           Mid Stomach Chop
+P+K                         Phoenix Uppercut  *Juggles*
+d+P+K                       Power Phoenix Uppercut  *Juggles*
+b+P+K                       (BK)
+f+P+K                       Forward Roll
+K                           Rising Mid Kick
+K, B                        Rising Mid Kick, (BK)
+K~P                         Scissor Sweep Takedown
+d+K                         Lowkick, (Phoenix)
+f+K                         Phoenix Spinsweep, (Phoenix)
+f+K, K                      Dual Phoenix Spinsweeps
+u+K, D                      Twirling Kick, (BK)
+u+K, K                      Double Twirling Kicks
+u/f+K, K                    Phoenix Hopkicks  *Juggles*
+
+SAMPLE COMBOS
+(BK) K, P,P, P,P, b+P       -=- 6 hits -=- 39 pts.
+(Phoenix) u/f+K,K, b+P      -=- 3 hits -=- 45 pts.
+(Phoenix) d+P+K, u+P+K,P,P  -=- 5 hits -=- 50 pts.
+P+K, f+P,P, (BK) P,P,K      -=- 6 hits -=- 52 pts.
+
+
+
+
+==============
+| YOSHIMITSU |
+==============
+
+GRAPPLING TECHNIQUES
+T                           Uppercut, Sword Slice
+
+SPECIAL TECHNIQUES
+P, P, P                     Advancing Punches
+b+P, P, P, P, P, P          High Spin Strikes  *Yoshi Dizzy after 6x*
+FC,D/B+P, P, P, P, P, P     Mid Spinning Fists  *Yoshi Dizzy after 6x*
+f+P                         Backfist  *Turns Opponent Around*
+  P, P, P, P, P, P            Mid Spinning Fists  *Yoshi Dizzy after 6x*
+f,f+P                       Elbow Smash  *Sword Runthrough on CH*
+d/f+P                       Advancing Uppercut  *Juggles*
+WS+P                        Rising Pommel Strike
+  > P > P > P                 Pommel Strikes
+  f+P                         Backfist  *Turns Opponent Around*
+    P, P, P, P, P, P            Mid Spinning Fists  *Yoshi Dizzy after 6x*
+P+K                         Pogo Stance
+  d                           Pogo Cancel
+  (f,f)_(b,b)                 Forward Sword Slide  *Unblockable*
+  u/b_u_u/f                   Pogo Hop  *Unblockable*    
+  K                           Kangaroo Kick  *Juggles*
+(d_FC)+P+K                  Sitdown Position
+  N                           Rejuvenation  *Yoshi Regains Life*
+  b_f                         Yoshi Teleport
+  P, P, P, P, P, P            Mid Spinning Fists  *Yoshi Dizzy after 6x*
+  K                           Kangaroo Kick  *Juggles*
+u/f+P+K                     Poison Wind Flipstomp
+  b+P                         Spinning Backfist
+    P+K                         Poison Wind Flipstomp
+    K                           Backflip
+      P                           Sword Slice  *Unblockable*
+  P+K                         Kangaroo Kick  *Juggles*
+f,f+P+K, P+K, P+K           Shark Attack
+K, K                        Roundhouse Kick, Mid Kick
+K, d+K                      Roundhouse Kick, Kangaroo Kick  *Juggles*
+K~P                         Kangaroo Kick  *Juggles*
+WS+K                        Savior Boot
+FC,d/f+K                    Lunging Leg Sweep
+D/B+K, K, [K], [K]          Spinning Leg Sweeps
+  K_(f+K)                     Spinning Leg Sweep_(Front Kick)
+(f,f+K)_(RN f+K)            Leaping Flash Knee
+
+b,b+P                       Power Sword Stab  *Unblockable*
+b,b+P~P                     Sword Sawblade  *Unblockable*
+d/b+P                       Sword Slice  *Unblockable*
+  D/B#,N                      Slice Delay  *Increases Damage*
+QCF+P                       Leaping Sword Somersault  *Unblockable*
+FC,d/b,b+P                  Samurai Cutter  *Unblockable*
+b+K+P                       Bad Breath Stance
+  P_K                         Bad Breath  *Unblockable*
+f+P+K                       Sword Reversal  *Unblockable*
+f,f,N+K, P                  Lunging Mid Kick, Sword Slice  *Unblockable*
+
+PPP:K::P::PPK:P::P          Tenstring
+
+SAMPLE COMBOS
+d/f+P, P, b+P,P, b+P,P, K   -=- 7 hits -=- 51 pts.
+d/f+P, P, b+P, d+P, WS+P,P  -=- 6 hits -=- 36 pts.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+Thanks go out to:
+-----------------
+Castel- The most creative mind in Tekken who taught me a lot of things.
+        Check out his site at http://tekkenzaibatsu.com.
+Mazroth- Getting me hooked onto Tekken in the first place.
+Prizim & Geddy- For playing Tekken with me all these years.
+LukeJedi- Borrowed the format from his Tekken2 FAQ.
+Crizl & ShadowIvy- For their continuing faith that Tekken kicks ass.
+ALL them at EFNet IRC channel #Tekken- You guys rule, plain n' simple.
+
+
+Contributors:
+-------------
+Major Contributors- 
+
+Other Contributors- Tom Ho
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+

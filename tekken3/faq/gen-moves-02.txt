@@ -1,0 +1,2859 @@
+                          ----------------------
+                                 Tekken 3
+                                   FAQ
+                          ----------------------
+                                   in
+                               1234 Notation
+		   
+                                by SurfBard
+                          surfbard@nycap.rr.com
+                          with special thanks to
+                              Graeme Norval
+                        for the notation switching
+                          ----------------------
+                           Last Update - 2/8/98
+                               Version 4.85b
+
+	New versions of this FAQ are available at my web site, which is
+located at http://pw2.netcom.com/~surfbard/ . Please stop by and tell me
+what you think of the site.
+
+	If this is the first revision you've seen (or have seen in a while),
+I HIGHLY recommend reading the Notations section... you'll be in the dark
+without it!
+	This is best printed in edit.com and best viewed in monospace format,
+meaning use a font like Courier New.... or view from Notepad or edit.com!
+
+	Rumors are flying, and no one knows how many characters will be in
+Tekken 3. So far, 18 characters have been released in my arcade. I will only
+post moves for characters that are absolutely CONFIRMED.
+
+	If you have any moves or fixes for this FAQ, PLEASE e-mail me. Your
+help is needed to complete the moves list!
+
+	No part of this FAQ may be reproduced and sold for profit. After 
+all, if I'm not making money off of this.... It may be redistributed ONLY 
+in its entirety by electronic format for personal and/or recreational 
+purposes. Please do not alter it in any way, shape, or form. 
+
+----------------------------------------------------------------------------
+--------- Dedicated to the memory of Amy Diane Evernham (1975-1997) --------
+----------------------------------------------------------------------------
+
+*Notation*
+
+Here are the notations I will be using in this FAQ -
+
+1 - left punch
+3 - left kick
+2 - right punch
+4 - right kick
+
+ss - sidestep
+
+f  -  tap forward
+b  -  tap back
+u  -  tap up
+d  -  tap down
+
+F  -  hold forward until otherwise noted
+B  -  hold back until otherwise noted
+U  -  hold up until otherwise noted
+D  -  hold down until otherwise noted
+
+B,360degCnterC - hold back, twist the joystick in a counter-clockwise motion
+F,360degC3wse - hold forward, twist the joystick in a clockwise motion                 
+
+(WC) - while crouching
+(WS) - while getting up from a crouch
+n    - neutral joystick position
+~    - immediately following
+^    - indicates the move links after the preceeding move
+
+(NJ)  - juggles
+(HJ)  - juggles high
+(J*)  - juggles on counterhit
+(BJ)  - bounce juggles
+(BL)  - juggles low or bounces low
+(!)   - unblockable
+(*)   - stuns
+(*C)  - stuns on counterhit
+(*B)  - stuns if blocked
+
+(ru)  - in juggle combos, run up and execute the hits after the notation
+B     - in juggle combos, begginer level
+I     - in juggle combos, intermediate level
+E     - in juggle combos, expert level
+
+---------------------------------------------------------------------------
+
+*General Maneuvers*
+
+f,f                  - Dash Forwards or Offensive Push if Next to Opponent
+b,b                  - Dash Backwards
+D,df,ub              - Backflip (at a distance)
+u,n                  - Axis Shifting Sidestep
+d,n                  - Axis Shifting Sidestep
+1                    - Throw Escape
+2                    - Throw Escape
+df+1                 - Uppercut
+df+2                 - Uppercut (NJ)
+df+3                 - Side Kick
+df+4                 - Front Kick
+u                    - Low Jump
+U                    - High Jump
+u+2                  - Quick Pounce
+uf+2                 - Quick Pounce
+U+2                  - Hard Pounce
+f,f,f                - Run
+^B                    - Stop Running
+^1+2                  - Flying Cross Chop
+^3                    - Flying Side Kick
+^4                    - Sliding Leg Sweep
+1+2+3+4              - Agression Charge
+f+1+3                - Left Limb Reversal Counter
+f+2+4                - Right Limb Reversal Counter
+2+4                  - Ultimate Tackle Dodge
+d+1+2                - Ultimate Tackle Reversal
+d+1                  - Ultimate Tackle Punch Counter
+d+2                  - Ultimate Tackle Punch Counter
+
++Ground Moves+
+~1                   - Immediate Recovery Roll
+~2                   - Immediate Recovery
+~3                   - Immediate Recovery
+~4                   - Immediate Recovery
+D+1                  - Roll Over
+1                    - Roll Sideways
+3                    - Get Up With Sweep
+4                    - Get Up With Side Kick
+D+4                  - Ankle Kick
+B                    - Roll Backwards
+^b+3+4                - Get Up
+^f+1+2                - Forward Pounce
+F                    - Roll Forwards
+^f+1+2                - Forward Pounce
+
+---------------------------------------------------------------------------
+
+*Tekken 3 Basics - Explanations for the New General Maneuvers*
+
+# Axis Shifting Sidestep (u,n -or- d,n)
+The sidestep was a gift to a character in Tekken 2. In Tekken 3, every
+character can now perform a sidestep. Mind you, sidestepping won't get you
+out of many moves due to the fact that attacks automatically track (that is,
+if you sidestep too early, your opponent will hit you anyway), but when
+you use the correct timing, sidestepping is a great asset. Using sidesteps
+to dodge the opponent's attack and then countering or initiating a juggle
+is a major addition to Tekken 3's gameplay.
+
+# Agression Charge (1+2+3+4)
+The Agression Charge is another new addition to Tekken 3. Once the move is
+used, your character will charge up for a moment (like the charge before
+an unblockable attack), and their fists will begin to sparkle. Agression
+Charges usually last about five seconds. During a charge, your character's
+attacks will all be counted as counterattacks, so moves that do special things
+when they hit on counterattack are most effective! Also, if your character's
+attacks are blocked, they will still take off a small amount of damage (as
+if the "Guard Damage" game option were turned on). Use the charge to your
+advantage... do moves that normally take off alot of damage but are
+frequently blocked.
+
+# Reversal Counter (f+1+3 -or- f+2+4)
+Now even more characters have reversal moves. What was once a minor threat
+has grown. Using the reversal counter is a tricky affair... it wo4s best
+when you KNOW that you are about to be reversed. Some reversal counters even 
+do a small amount of damage! It is rumored that not all characters have 
+reversal counters. The actual button combination for the Reversal Counter
+depends on the limb that your opponent is grabbing... if you punch with your
+right hand and your opponent reverses, the correct counter would be
+f+2+4.
+
+# Immediate Recovery (~1 or ~2 or ~3 or ~4 - after being knocked down)
+One of the best (in my opinion) additions to Tekken 3 was the immediate
+recovery. No more lying on the ground (unless you want to) after your
+opponent pummels you! The only time immediate recovery doesn't wo4 is after
+being thrown or stunned. Be warned, though... immediate recovery isn't
+always a good thing, especially when you bounce right back to take another
+hit. Be careful!
+
+# Ankle Kick (d+4 - after being knocked down)
+Another addition to the list of options that you have after your opponent
+knocks you down. This move gives a quick low shot to the enemy. Useful
+for getting out of tight jams!
+
+----------------------------------------------------------------------------
+
+*Arcade Secrets and Tricks*
+
+# Special Outfits
+As of this writing, there are three characters that can use additional
+outfits by pressing "START" to select them instead of a punch or kick
+button. These are:
+
+  Jin Kazama   -- school uniform with pinstripe pants and a purple shirt (*)
+  Forest Law   -- the classic yellow and black Tekken uniform
+  Ling Xiaoyu  -- school uniform with miniskirt and white shirt (*)
+  
+  (*)  -- these can only be selected after Mokujin becomes fightable
+	  
+Also, additional characters can be used by pressing "START" on certain
+basic characters:
+
+  Nina Williams -- Anna Williams (*)
+  Eddy Gordo    -- Tiger (**)
+
+  (*)  -- these can only be selected after Bryan Fury becomes fightable
+  (**) -- these can only be selected two weeks after Ogre II becomes playable
+
+# Special Stages
+As of this writing, there is one special stage that can be accessed.
+
+  High School -- you can fight here when either Jin or Xiaoyu is selected
+		with the start button as the challenger.
+
+----------------------------------------------------------------------------
+
+*What's New*
+
+- Key
+      (+) Added Move
+      (-) Deleted Move
+      (*) Fixed Move
+      (N) No change, moves after it were added, fixed, or deleted.
+
+* Added a section for Gon.
+
+----------------------------------------------------------------------------
+
+*Bryan Fury*
+
+1+3+4             - Taunt
+
+1+3               - DDT
+2+4               - Leverage Thrust
+D,df,d,DF+1+2     - Messanger of Death
+(ss left) 1+3     - Grabbing Swing Toss
+(ss right) 1+3    - Suplex
+(from behind) 1+3 - Throw
+d+1+3             - Low Combo Break
+d+2+4             - Low Combo Break
+
+1+2               - Sledgehammer
+F+1+2             - Spinning Elbow
+1,2               - One Two
+1,2,3             - One Two -> Kick
+1,2,1,2           - Triple Jab -> Hard Swipe
+1,2,1,4           - Triple Jab -> Kick
+f+4,3,4           - Triple Kicker
+df+1,2            - Elbow Pistons (NJ)
+df+1,1,1,1,2      - Fury Rush
+df+3              - Low Spinkick (BL)
+d+3               - Kickboxer's Low
+d+4               - Kickboxer's Low
+d+3+4             - Sideattack Low
+qcb,n             - Backwards Dodge
+qcb,n,2           - Dodge -> Thrusting Palm
+b+2,4             - Spinning Punch -> Kick
+b+2,1,2           - Spinning Punches
+b+2,1,4           - Spinning Punches -> Spinkick
+b+3,2,1,2         - Fury Thrust -> Triple Punch
+b+3,2,1,4         - Freezer Burn
+b+4               - Knee
+b,b+4             - Flying Somersault Kick
+f,F+2             - Straight Fist
+f,F+3             - Lunging Spinkick
+uf+4              - Hopkick
+qcf+1             - Uppercut (NJ)
+qcf+2             - Gutpunch
+^b+2               - Double Punishment (Gutpunch must connect) (BJ)
+qcf+3,4           - Knee Combo
+(WS)1             - Uppercut (NJ)
+(WS)2             - Gutpunch
+^b+2               - Double Punishment (Gutpunch must connect) (BJ)
+(WS)3,4           - Knee Combo
+ss,1              - Devil's Claw
+ss,2              - Devil's Talon
+ss,1~2            - Phantom's Claw
+1,4,2,4           - Entering Pentagon
+1,4,2,1,4         - Pentagon Attack #1
+1,4,2,1,2         - Pentagon Attack #2
+1,4,3,3           - Southern Cross
+3,3               - Quick Kicks
+3,2,1,4           - Gatling Attack Combo
+3,2,1,2           - Quad Attack
+b+1+4             - Sidewinder (!)
+f+1+4             - King Cobra (!)
+
+b+3,4,1,2,1,4,2,1,4,2       - Tenstring   - MMMMHHHHM?
+b+3,4,1,2,1,4,3,3           - Eightstring - MMMMHHMH
+b+3,4,1,2,1,4,2,4           - Eightstring - MMMMHHHM
+
++Juggles+
+
+(NJ)
+B - 1,2,d+3
+I - (WS)3,1,f,f+2
+I - 1,2,f,f+2
+I - b+2,1,2
+I - b+2,1,4
+
+(BJ)
+B - (ru)1,2,d+3
+B - (ru)1,4,3,3
+I - (ru)1,4,f,f+2
+I - b+2,1,4
+
+(BL)
+
+E - (WS)4,f,f+2
+
++Profile+
+
+catch copy - snake-eye
+nationality - USA
+fighting style - Kickboxing
+age - 29
+height - 186cm
+weight - 80kg
+blood type - ???
+occupation - collecting brain data (prior to death, international police)
+hobby - collecting lighters
+likes - being alone, hair-cutting
+dislikes - sunshine
+stage - Punk Alley
+
+----------------------------------------------------------------------------
+
+*Eddy Gordo / Tiger*
+
++Special Notation+
+(HP) - Handstand Position by holding B after the move
+(GP) - Grounded Position by holding D after the move
+
+1+3                  - 180-Scoot Leg Toss
+2+4                  - Handstand Leg Toss
+hcf+1+2              - Spiraling Hip Toss
+(ss right) 1+4       - Spinning Neck Kick
+(ss left) 1+3        - Side Pop Flip
+(from behind)1+3     - Over-The-Top Leg Toss
+
+1,2                  - One-Two
+db+4                 - Barbed Wire (HP)
+f,f+3+4              - Boomerang Kick
+f,f+4,4              - Leaping High Kick
+f,f+4,3              - Leaping Low Kick
+uf+3+4               - Jumping Toe-Touch Kick (GP)
+uf+4                 - Jumping Roundkick
+4~3                  - Satellite Moon
+^4                    - Bazooka Kick
+^3                    - Sattelite Ground Kick (HP)(GP)
+3~4                  - Vault Sweep (HP)(GP)
+^1                    - Rollout Punch
+^2                    - Rollout Punch
+^1+2                  - Crying Needle
+  ^1+2                   - Double Crying Needle
+^4                    - Ground Kick (HP)
+^4,1+2,1+2            - Ground Kick -> Double Crying Needle
+^4,4                  - Ground Kicks Combo (HP)(GP)
+df+3+4               - Cartwheel Kick (HJ)
+db+3,4               - Bushwacker
+f+4                  - Monkey Trick
+^3~4                  - Vault Sweep (HP)
+f,f+3                - Lunging Front Kick (HP)(GP)
+b+4                  - Arching Crescent
+^4                    - Flapjack Kick
+  ^3+4                   - Reverse Somersault
+^3                    - Chain Kick
+  ^3                     - Roll Kick
+  ^4,4                   - Roll Kick Combo (HP)
+f+1+2                - Handstand Position Starter
+f+3                  - Handstand Position -> Handstand Kick
+df+3                 - Handstand Position Starter (HP)(GP)
+d+1+2                - Crying Needle
+b+3                  - Knee
+df+2                 - Stunning Elbow
+df+1                 - Stunning Elbow
+df+4                 - Shin Kick
+(WS)4                - Outside Crescent Kick
+(WS)3+4              - Flapjack Technical (HP)(GP)
+3+4                  - Flapjack Kick (HP)
+1+2                  - Rewinder
+^d+4                  - Twister
+^u+3                  - Jumping Jacks
+  ^df+3+4                - Cartwheel Kick
+ss,2                  - Ground Slam
+ss,3+4,3+4,3+4       - Triple Flip Combo
+ss,3                 - Sattelite Ground Kick -> Grounded Position
+ss,u+3,4             - Flyin' Eddy (GP)
+ss,1+2,3             - Spinning Elbows -> Cartwheel Kick
+ss,4,4               - Double Sweep
+ss,4,3+4             - Sweep -> Somersault (*)
+ss,4~3               - Entering Heaven (HP)(GP)
+ss,3+4               - Forward Flip Kick
+ss,3+4,u+3           - Forward Flip Kick -> Cartwheel Kick
+ss,3+4,U+3,4         - Forward Flip Kick -> Cartwheel Kick -> Roundhouse
+ss,3+4,d+3+4         - Forward Flip Kick -> Sweep (GP)
+ss,3+4,3+4           - Double Flipkick Combo
+ss,3+4,3+4,d+3+4     - Double Flipkick Combo -> Sweep (GP)
+f+2,1,4              - Triple Attack Combo
+db+3,4,4,3+4         - Sweep -> Arching Crescent -> Flapjack Combo
+db+3,3,4,4           - Low Blows Combo
+db+3+4               - Ground Screw Kick (!)
+
+-Grounded Position-
+4                    - High Sweep
+^3+4                  - Whirlijig Kick -> Handstand Position
+3                    - Bottoms-Up Sweep
+^4                    - Top Kick
+3~4                  - Helicopter Sweep
+4~3                  - Whirlwind Kick (HP)
+1+2                  - Crying Needle
+1+2,1+2              - Double Crying Needle
+
+-Handstand Position-
+F                    - Walk Forwards
+B                    - Walk Backwards
+D                    - Handstand Crouch
+ss                   - Dodge
+1                    - Rollout Punch
+2                    - Rollout Punch
+1~3,3,1+2            - Rollout Punch Combo
+1~3,b+4,4,3+4        - Rollout Punch Combo
+1~3,4,4,4            - Rollout Punch Combo (HP)
+1~3,3                - Rollout Punch Combo (HP)
+2~4,3                - Rollout Punch Combo  
+u+3+4                - Inferno Kick (HP)(GP)
+d+3+4                - Stakedriver (HP)(GP)
+3                    - Low Split Kick (HP)(GP)
+4                    - Handstand Kick
+3~4                  - Vault Sweep
+(Wait)               - Grounded Position
+
+4~3,4,2,4,3,3               - Sixstring
+4~3,4,2,4,3,4,4,4           - Eightstring
+4~3,4,2,4,4,3+4,3+4,3+4     - Eightstring
+4~3,4,2,4,3,4,3,4,3+4       - Ninestring
+
++Juggles+
+
+(HJ)
+B - 3~4,4~4
+B - df+3,4~4~4
+B - uf+4 
+B - df+3+4
+
++Profile+
+
+catch copy - revenger from prison
+nationality - Brazil
+fighting style - Capoeira
+age - 27
+height - 188cm
+weight - 75kg
+blood type - B
+occupation - none
+hobby - monarchism
+likes - power
+dislikes - powerlessness
+stage - Mountain Temple Paradise
+
+----------------------------------------------------------------------------
+
+*Gon* - PSX Version Only
+
++Profile+
+
+catch copy - animal of mystery
+nationality - ???
+fighting style - ???
+age - ???
+height - ???
+weight - ???
+blood type - ???
+occupation - ???
+hobby - ???
+likes - ???
+dislikes - ???
+stage - Mountain Temple Paradise
+
+----------------------------------------------------------------------------
+
+*Gun Jack*
+
+1+3                 - Hip Toss
+2+4                 - Lift and Toss
+uf+1+2              - Lifting Choke and Toss
+^b,db,d,DF+2         - Megaton Punch
+db+2+3              - Face in the Dirt
+df+1+3              - Hell Press
+^1+2                 - Super Hammer Strike
+df+2+4              - Death Heave (HJ)
+df,DF+2+4           - Modified Death Heave
+qcb+2               - Stone Knee
+qcf+1               - Pyramid Driver
+f,f+1+4             - Choke Slam
+f,f+2+3             - Jaw Breaker
+db,F+1              - Piledriver
+(ss left)1+3        - Side Lift Throw
+(ss right)1+3       - Hanging Neck Throw
+(from behind)1+3    - Spinal Crush
+(from behind)2+4    - Death Shot
+
+1,1,1               - Jackhammer
+2~1,2               - Punch -> Elbow -> Uppercut
+b,db,d,DF+1         - Megaton Sweep
+b,db,d,DF+2         - Megaton Punch
+1+2,1+2             - Double Hammer Strike
+(WS)1+2             - Reverse Hammer Strike (BL)
+(WS)1+2,1+2         - Reverse Double Hammer Strike
+(WS)1               - Violent Uppercut (NJ)
+f,f+1+2             - Cross Cut Saw
+^1+2                 - Low Cross Cut Saw
+^df+2                - Megaton Punch
+D,1+2               - Forklift Launch
+d+1+2               - Reverse Mega Hammer Strike (NJ)
+D,df+1,2,1,1        - Windmill Punches -> Left Power Swipe (*B)
+df+1,2,1,2          - Uppercut Rush
+df+2+3              - Downward Palm Strike
+d+4                 - Earthquake Kick
+db+1,1,1,1,1,2      - Machine Gun Punches -> Megaton Punch
+db+3,4,3,4,3,4      - Cossack Kicks
+uf+3+4              - Pancake Press
+^1,2,1,2             - Sitting Punches
+f+3+4               - Missile Slide
+3+4                 - Liftoff Thrust (!)
+^3+4                 - Second Thrust (!)
+  ^3+4                  - Third Thrust (!)
+ss,3+4              - Sidestep -> Liftoff Thrust (!)
+f+4~1               - Dark Greeting (!)
+B,360degCnterCx5,1  - Gigaton Windup Punch (!)
+
+d+2,1,1,1,2,1,2,1,1+2,1+2    - Tenstring - LLLMMHHHMH
+d+2,1,1,1,2,1,2,1,d+1+2,1+2  - Tenstring - LLLMMHHHLM
+uf+1,1,4,3,4,1,2,1,1+2,1+2   - Tenstring - MHLLLHHHHH
+uf+1,1,4,3,4,1,2,1,d+1+2,1+2 - Tenstring - MHLLLHHHLM
+
++Juggles+
+
+(NJ)
+B - d+1,D+1,2
+I - 2~1,uf+3+4
+I - df+1,2,1,uf+3+4
+
+(HJ)
+B - b,db,d,DF+1
+
+(BL)
+
+I - d+1,D+1,2
+
+(*B)
+
+I - f,f+1+2,1+2
+
++Profile+
+
+catch copy - disordered killing machine
+nationality - ???
+fighting style - power fighting, guns are installed in both arms
+		(though defected)
+age - 7
+height - 220cm
+weight - 170kg
+blood type - plutonium
+occupation - purpose unknown
+hobby - weapon training
+likes - self-analysis
+dislikes - scrap factories
+stage - Laboratory Courtyard
+
+----------------------------------------------------------------------------
+
+*Heihachi Mishima*
+
+2+3+4                        - Taunt
+
+1+3                          - Lightning Neck Snap
+2+4                          - Mishima Powerbomb
+f,f+1+2                      - Headbutt
+f,f+1+4                      - Super Headbutt
+(ss left) 1+3                - Atomic Drop
+(ss right) 1+3               - Guillotine Hammer
+(from behind) 1+3            - Lightning Knee
+(on opponent's countering 4) - Lightning Siphon Reversal
+
+1+2                      - Chi Fists
+f+2~1+2                  - Delayed Chi Fists
+1,1,2                    - Shining Fists Combo
+1,2,2                    - Demon Slayer
+1,2,1+2                  - Chi Attack Combo
+1,2,2~1+2                - Delayed Chi Attack Combo
+df+1,2                   - Twin Pistons (BL)
+b+2                      - Stabbing Gutpunch
+f+1,b+2,n~1              - Jab -> Gutpunch -> Dragon Punch
+f+1,b+2,n~4              - Jab -> Gutpunch -> Thrust Kick
+f,f+2                    - Rushing Uppercut (NJ)
+f,f+3                    - Left Splits Kick (*C)
+f+4                      - Right Splits Kick
+f,n,d,df+2               - Wind Godfist (NJ)
+f,n,d,df+1               - Dragon Punch
+f,n,d,df,n,3             - Hop -> Thrust Kick
+f,n,d,DF+3               - Hop -> Low Thrust Kick
+f,n,d,df,n,4,4           - Tsunami Kick
+f,n,d,DF+4,n,4,4         - Hell Sweep -> Tsunami Kick
+f,n,d,DF+4,n,1           - Hell Sweep -> Dragon Punch
+f,n,d,DF+4,n,2           - Hell Sweep -> Rushing Uppercut (NJ)
+f,n,d,DF+4,4,n,4,4       - Hell Sweeps -> Tsunami Kick
+f,n,d,DF+4,4,n,1         - Hell Sweeps -> Dragon Punch
+f,n,d,DF+4,4,n,2         - Hell Sweeps -> Rushing Uppercut (NJ)
+f,n,d,DF+4,4,4,n,4,4     - Hell Sweeps -> Tsunami Kick
+f,n,d,DF+4,4,4,1         - Hell Sweeps -> Dragon Punch
+f,n,d,DF+4,4,4,n,2       - Hell Sweeps -> Rushing Uppercut (NJ)
+(WS)4,4                  - Tsunami Kick
+uf+4,4                   - Rising Sun
+4~3                      - Demon Scissors
+d+4 (if opponent down)   - Lighting Stomp
+qcf+2                    - Death Fist
+d+1,2                    - Tile Splitter -> Death Fist
+uf+3,4                   - Hell Axle
+U+2+4                    - Leaping Chi Punch
+UF+2+4                   - Leaping Chi Punch
+b,b,n,3+4                - Shadow Step
+d+1+4                    - Thor's Fury (!)
+
+df+3,2,2,4,4,1,4,1,2,1      - Tenstring - MMMLLMHMMM
+df+3,2,2,4,4,1,4,1,2,4      - Tenstring - MMMLLMHMMM
+df+3,2,2,4,4,1,2,1,2,1      - Tenstring - MMMLLMMMMM
+f,f,n,2,1,2,2,3,4,4,1,2,1   - Tenstring - HHHHMMLHMH
+
++Juggles+
+
+(NJ)
+B - 1,1+2
+B - 1,1,2
+B - 1,2,2
+B - 1,2,1+2
+B - 1,qcf+2
+B - 1,f,n,d,df+2
+I - 1,2,1+2
+I - 1,f,n,d,DF+4,4,n,1
+I - f,n,d,df,n,4,4
+I - 1,f+1,b+2,n~1
+I - 1,2,1,f,n,d,DF+4,1
+E - 1,f+1,b+2,f+1,f,n,d,DF+4,n,4~4
+
+(BL)
+B - df+1,2
+
++Profile+
+
+catch copy - king of the iron fist
+nationality - Japanese (though the Japanese government denies it)
+fighting style - mishima style fighting karate
+age - 73
+height - 179cm
+weight - 80kg
+blood type - B
+occupation - leader of mishima financial empire
+hobby - bathing, meditation
+likes - ruling the world
+dislikes - none
+stage - Temple Entry Room
+
+----------------------------------------------------------------------------
+
+*Hwoarang*
+
+1+3                - Windmill Neck Kick
+2+4                - Reverse Neck Kick
+f+1+3              - Run Up Back
+f,F+2              - Jawbreaker
+qcb+3              - Boot to the Head
+d,DB+1+3           - Trip Takedown
+(ss left) 1+3      - 5 Strike Combo
+(ss right) 1+3     - Foot in Face
+(from behind) 1+3  - Reverse Jumping Death
+d+1+3              - Low Combo Break
+d+2+4              - Low Combo Break
+	       
+1+2                - Switch Face Away/Face Towards
+3+4                - Switch Left/Right Foot Forward
+f,n,d,df           - Crouch Dash
+f,n,d,df,2         - Lifting Uppercut (NJ)
+f,n,d,df,3         - Left Flamingo Stance
+f,n,d,df,3~3       - Stabbing Sidekick
+f,n,d,df,4         - Sky Blast Kick (HJ)
+d+3                - Shin Kick
+d+4,4              - Bird Hunter (NJ)
+df+1+2             - Body Blow
+df+3,4             - Double Sidekicks
+df+4               - Toe Kick
+db+4               - Trip Kick
+db+4,4             - Crushing Axe Kick
+u+3                - Hopping Sidekick -> Left Flamingo Stance
+uf+3,4,3           - Hunting Hawk
+(WS)3              - Rising Crescent
+(WS)4              - Toe Kick
+(WS)4~4            - Crushing Axe Kick -> Right Foot Forward
+db+3+4             - Heel Explosion (!)
+^B                  - Cancel -> Left Flamingo Stance
+
+-Left Leg Forward-
+1,2               - One-Two Punches
+2,4               - Punch -> Jumping Back Wheel Kick
+f+2               - Backfist -> Right Foot Forward
+b+2               - Backfist
+f+2~F             - Backfist
+f+3               - Left Flamingo Stance
+f+3~3             - Stabbing Sidekick
+f,f+3             - Crescent Kick -> Right Foot Forward
+f+4               - Face Kick -> Right Flamingo Stance
+f+4,4             - Face Kick Combo -> Right Foot Forward
+b+4               - High Kick -> Right Foot Forward
+3,3,3,3           - Machine Gun Kicks
+3,3,d+3,4         - Assailant Combo -> Right Flamingo Stance
+3,3,d+3,4,4       - Insane Assailant Combo
+3,3,3,4           - Butterfly Attack -> Right Flamingo Stance
+3,3,3,4,4         - Butterfly Combo
+3,3,4             - Knife Foot Combo -> Right Flamingo Stance
+3,3,4,4           - Changeup Combo -> Right Foot Forward
+3,3,4,4,B+4       - Wind Kick Combo
+4,4,4,4           - Hot Feet
+4,4,4,3           - Fourfooter
+4,4,4             - Triple Right Kick -> Right Flamingo Stance
+4,4,4~B           - Triple Right Kick
+4,4~F             - Right Hook Kicks -> Right Foot Forward
+4,3               - Double High Kick Combo
+u+3,3,3,3         - Sky Reacher Combo
+u+4               - Right Sky Kick
+1,1,3,3           - 2x Punches -> 2x Kicks Combo
+1,2,3             - 2x Punches -> Kick Combo
+1,2,4             - 2x Punches -> Kick Combo
+3~4               - Flying Eagle
+(WS)+4            - Reverse Roundhouse
+
+-Right Leg Forward-
+2,1,1             - Triple Punch
+f+4               - Right Flamingo Stance
+b+3               - High Kick -> Left Foot Forward
+b+4               - Sidestepping Roundhouse
+f+4~4             - Lifting Leg (NJ)
+4~3               - High Roundhouse -> Right Foot Forward
+4,3               - Chainsaw Kick
+f+3               - Hook Kick -> Left Flamingo Stance
+f+3,3             - Hook Kick -> Axe Kick -> Left Foot Forward
+f+3,n,3,3,3       - Hook Kick -> Machine Gun Kicks -> Left Foot Forward
+f+3,n,3,3,4       - Hook Kick -> Triple Kick -> Right Flamingo Stance
+f+3,n,3,3,4,4     - Hook Kick -> Changeup Combo -> Right Foot Forward
+f+3,b+3           - Hook Kick -> Sidestepping Roundhouse -> Left Foot Forward
+f+3,d+3           - Hook Kick -> Shin Kick -> Left Foot Forward
+f+3,4             - Bad Dancer
+f,f+4,3           - Screw Kick
+3,3               - Teaser Combo
+4,4               - Double Hook Kicks
+
+-Left Flamingo Stance-
+1                 - Left Jab
+4                 - Spin Kick -> Right Flamingo Stance
+f+3               - Axe Kick -> Right Foot Forward
+b+3               - Left Sidestep Roundhouse
+d+3               - Shin Kick
+d+4               - Right Leg Sweep
+2,2               - Spinfist -> Right Jab
+3,3,3             - Machine Gun Kicks
+3,3,4             - Left Kicks -> Spin Kick -> Right Flamingo Stance
+3,3,4,4           - Changeup Combo -> Right Foot Forward
+1+4               - Power Blast (!) -> Left Foot Forward
+^b,b               - Cancel -> Left Foot Forward
+
+2,2,3,4,3,4,4,4,4,3 - Tenstring
+
+-Right Flamingo Stance-
+1                 - Left Spinfist -> Left Foot Forward
+2                 - Jab -> Right Foot Forward
+3                 - Spin Kick -> Left Flamingo Stance
+4                 - Side Kick -> Right Foot Forward
+f+4               - Axe Kick -> Right Foot Forward
+d+3               - Left Leg Sweep -> Left Foot Forward
+d+4               - Low Kick
+
+1,2,3,4,3,4,4,4,4,3 - Tenstring
+
++Juggles+
+
+(NJ)
+B - 4,4,4,4
+B - 3,3,3,3
+B - 3,3,3,4~3
+I - 1,1,1,2,4
+I - 1~2~4
+
+(HJ)
+B - 3~4,db+3+4
+B - 3~4,d+4,4
+B - uf+3,4,3
+I - db+3+4
+E - 1,uf+3,4,3
+E - 3+4,f+3,n,3,3,3
+E - 3+4,f+3,n,3,3,4,4
+
++Profile+
+
+catch copy - blood talon
+nationality - Korea
+fighting style - Taekwondo
+age - 19
+height - 181cm
+weight - 68kg
+blood type - O
+occupation - leader of street swindler gang
+hobby - sailing (his athletic ability is exellent)
+likes - rock 'n roll and fighting (he is also good at arguing)
+dislikes - Mishima style Fighting Karate, Jin Kazama
+stage - Mountain Dojo
+
+--------------------------------------------------------------------------
+
+*Jin Kazama*
+
+1+3               - Cyclone Kicks
+2+4               - Hip Toss
+df+2+3            - Striking Fist
+f,f+1+2           - Headbutt
+qcb+1+3           - Tower Breaker
+(ss right) 1+4    - Arm Break -> Toss
+(ss left) 1+3     - Side Throw
+(from behind) 1+3 - Spinning Arm Breaker
+b+1+3             - Reversal
+b+2+4             - Reversal
+
+b+1+2             - Offensive Block
+U+2+4             - Leaping Chi Punch
+UF+2+4            - Leaping Chi Punch
+1,2,2             - Demon Slayer
+1,1,2             - Shining Fists Combo
+(WS)1,2           - Twin Pistons (NJ)
+(WS)4,4           - Tsunami Kick
+df+4,4            - Tsunami Kick
+4~3               - Demon Scissors
+f,f+2             - Rush Punch
+f+2               - Overhead Smash
+df+1              - Quick Low Shot
+df+1,2            - Low Shot -> Overhead Smash Combo
+b,F+2             - Demon Godfist (S*)
+b,F+2,1,d+2       - Demon Godfist -> Elbow -> Uppercut Combo (NJ)
+b,F+2,1,2         - Rushing Demon Combo
+f,n,d,df+2        - Wind Godfist (J*)
+f,n,d,df+1        - Dragon Punch
+^3                 - Landing Gear Sidekick
+^4                 - Landing Gear Sweep
+ss+2              - Tooth Fairy (NJ)
+f,f+3             - Axe Kick
+f,n,d,df,4,4      - Hell Sweep -> Roundhouse
+uf,4,4,4,4        - Rising Sun -> Hell Sweep -> Roundhouse
+f+3               - Side Spin -> Screw Kick
+f+4               - Knee
+1,2,4             - 2x Punches -> Knee Combo
+1,2,3,4           - 2x Punches -> Axe Kicks Combo (BJ)
+1,2,3,f+4         - 2x Punches -> Axe Kicks Combo
+d+3+4             - Can-Can Kicks (NJ)
+d+1+2             - Ultimate Tackle
+^1+2               - Arm Bar
+^1,2,1,2,1         - Mounted Punches
+^1,2,1,1+2         - Mounted Punches -> Arm Bar Combo
+1+4,2,4           - White Heron Combo
+1+4,2,d+4         - White Heron Combo
+b+1+4             - Lightning Screw Uppercut (!)
+B+1+4             - Tempest Lightning Screw Uppercut (!)
+
+b+2,4,4,4,4,2,1+4,2,1,4     - Elevenstring - HHMLMMLHHMM
+b+2,4,4,4,4,2,1+4,2,1,3     - Elevenstring - HHMLMMLHHML
+b+2,4,4,4,4,2,1+4,2,3+4     - Elevenstring - HHMLMMLHHMM
+f,f,n,2,1,2,2,3,4,4,1,2,1   - Tenstring    - HHHHHMLHMH
+f,f,n,2,1,2,2,3,4,4,3,2,1   - Tenstring    - HHHHHMLLM!
+3,2,4,3,1+4,2,2,1,2         - Tenstring    - HHMHLHHMMM
+f,f,n+2,1,4,4,2,4,3,2,1     - Ninestring   - HHMMMMLM!
+3,2,4,3,1+4,2,1,3           - Ninestring   - HHMHLHHMM
+3,2,4,3,1+4,2,1,4           - Ninestring   - HHMHLHHML
+3,2,4,3,1+4,1,3             - Eightstring  - HHMHLHMM
+3,2,4,3,1+4,1,4             - Eightstring  - HHMHLHML
+1,2,1+4,2,4                 - Sixstring    - HHLHHM
+1,2,1+4,2,d+4               - Sixstring    - HHLHHL
+b+2,4,2,1,2                 - Fivestring   - HHMMM
+b+2,4,2,1,d+2               - Fivestring   - HHMMM
+
++Juggles+
+
+(NJ)
+B - 1,2,2
+B - 1+4,2,4
+B - 1,2,4
+B - 1,df+4,4
+I - 1,2,4,f,n,d,df+4,4
+I - b,f+2,1,d+2
+I - 1+4,1,1,2
+I - b,F+2,1,d+2,f,f,2
+E - 1,2,b,f+2,1,d+2,f,F+2
+E - 1,2,4,(ru)1+4,2,4
+E - f,n,d,df+1,3
+
+(BJ)
+B - 1,2,2
+B - 1,1,2
+I - f,n,d,df+2
+
++Profile+
+
+catch copy - fatal lightning
+nationality - Japan
+fighting style - advanced Mishima style Fighting Karate and Kazama style 
+		of self-defense (It is the mixture of learning from his 
+		mother and also his own style)
+age - 19
+height - 180cm
+weight - 75kg
+blood type - AB
+occupation - martial artist
+hobby - forest bathing
+likes - mother's precepts
+dislikes - deceiving others
+stage - Tiger Dojo
+
+---------------------------------------------------------------------------
+
+*Julia Chang*
+
+2+3+4            - Taunt
+
+1+3              - Sideways Body Drop
+2+4              - Fisherman's Suplex
+df+1+2           - Full Nelson Suplex
+d,db+1+3         - Front Suplex
+qcb,F+2          - Triple Strike Grapple
+D,db,d,DB+1+2    - Cyclone Suplex
+(ss left)1+3     - Running DDT
+(ss right)1+3    - Modified 69 Slam
+(from behind)1+3 - Spinning Air Neckbreaker
+db+1+3           - Low Combo Break
+db+2+4           - Low Combo Break
+
+1~2,1            - One-Two -> Cannon Lift (if second hit connects)
+1~2,3            - One-Two -> Low Kick
+1~2,4            - One-Two -> Kick
+1~1~1            - Treble Clef Cannon (NJ)
+df+1,1           - Bass Clef Cannon (NJ)
+B+2              - Punch -> Spin Behind
+^1+2              - Suplex
+D,df+1,2         - Dashing Punch -> Elbow Rush
+f,f,F+1,2        - Dashing Punch -> Elbow Rush
+F+1              - Dashing Uppercut (BL)
+f,F+1            - Elbow
+F+1~2            - Palm Strike
+1+2              - Twin Arrows
+4,4,4            - Triple Kick Combo
+4,4,d+4          - High Kick -> Low Kick -> Low Kick
+4,4,1            - High Kick -> Low Kick -> Uppercut
+3+4              - Spinning Axis Shift
+^4,4,4            - Triple Kick Combo
+^4,4,D+4          - High Kick -> Low Kick -> Low Kick
+^4,4,1            - High Kick -> Low Kick -> Uppercut
+df+3             - Face Kick
+(WS)4            - Skyscraper Kick
+(WS)2            - Cannon Blast
+(WS)2,1,1        - Cannon Blast -> Treble Clef Finisher (NJ)
+(WS)2,4,4        - Cannon Blast -> Twin Kicks
+(WS)2,4,d+4      - Cannon Blast -> Kick -> Low Kick
+(WS)2,4,1        - Cannon Blast -> Kick -> Uppercut
+(WS)2,1,4,3      - Cannon Blast -> Buffalo Arrow Combo
+3~2              - Cannon Blast
+3~2,1,1          - Cannon Blast -> Treble Clef Finisher (NJ)
+3~2,4,4          - Cannon Blast -> Twin Kicks
+3~2,4,d+4        - Cannon Blast -> Kick -> Low Kick
+3~2,4,1          - Cannon Blast -> Kick -> Uppercut
+3~2,1,4,3        - Cannon Blast -> Buffalo Arrow Combo
+db+3             - Low Sweep
+D,df+4,3         - Full Sweep -> Bow Leg
+1+4,3            - Buffalo Arrow Combo
+1~1,4,3          - Punch -> Buffalo Arrow Combo
+df+2,1           - Lead-In Punch -> Cannon Lift (only if Lead-In connects)
+df+2,3           - Lead-In Punch -> Low Kick
+df+2,4           - Lead-In Punch -> High Kick
+d+4,N,4          - Front Sweep -> High Kick
+d+4,D+4          - Front Sweep -> Fan Kick
+d+4,1            - Front Sweep -> Cannon Blast (NJ)
+2~3,1            - Anchors Away
+d+2,3,1          - Anchors Away
+UF+3+4           - Earthquake Stomp
+f+1+4            - Heaven's Cannon (!)
+
+2,1,1,2,3,3,3,4,4,1    - Tenstring - HHMHHLHHLM
+2,1,1,2,3,3,2,3,2,1    - Tenstring - HHMHHLMLMH
+2,1,1,2,3,3,2,1,4,3    - Tenstring - HHMHHLMMLH
+
++Juggles+
+
+(NJ)
+B - 1,(ru),d+4,1
+B - 1,2,b+1
+B - 1,(ru),df+1
+I - 1,1~1~1
+I - d+2,D,df+4,3
+I - 1~1~1,d+4,1
+
+(BL)
+B - d+4,1
+
+
++Profile+
+
+catch copy - wandering woman fistfighter
+nationality - USA
+fighting style - chinese kenpo
+age - 18
+0height - 165cm
+weight - 54kg
+blood type - B
+occupation - archaeology research
+hobby - hunting
+likes - buffalo
+dislikes - mishima zaibatsu
+stage - Temple Entry Room
+
+----------------------------------------------------------------------------
+
+*King*
+			     
+1+3                             - Swinging DDT
+2+4                             - Suplex                 
+D,db,d,DB+1+2                   - DDT
+db,f+1+2                        - Tombstone Piledriver
+df+2+3                          - Coconut Crush  
+f,hcf+1                         - Giant Swing                    
+db+1+2                          - Figure 4 Leglock
+qcf+1                           - Jaguar Driver                  
+qcf+1~1+2                       - Flying Press           
+df+3+4                          - Frankensteiner
+qcb+1+2                         - Split Powerbomb
+(from the left)1+3              - Atomic Knee Buster
+(from the left)2+4              - Atomic Knee Buster
+(from the right)1+3             - Argentine Backbreaker
+(from the right)2+4             - Argentine Backbreaker
+(from behind)2+4                - Cobra Twist
+(from behind)1+3                - Half Boston Crab
+(from behind)b,f+1+2            - Shoulder Powerbomb
+ss,2+4                          - Reverse Full Nelson (see multipart tree)
+ss,2+4 (from sides or back)     - Cannonball (see multipart tree)
+b+1+3                           - Kick Reversal
+b+2+4                           - Kick Reversal
+d+1+3                           - Low Powerbomb (opponent crouching)
+d+2+4                           - Low Powerbomb (opponent crouching)
+df,df+2+4                       - Reverse Full Nelson (see multipart tree)
+							(opponent crouching)
+
+-when opponent is on the ground-
+db+1+3                          - Mini Swing (face up, feet towards)
+db+2+4                          - Crotch Headbutt (face up, feet towards)
+DB+2+4                          - Figure Four (face up, feet towards)
+db+1+3                          - Camel Clutch (face down, feet towards)
+db+2+4                          - Camel Clutch (face down, feet towards)
+db+1+3                          - Crucifixion (face up, feet away)
+db+2+4                          - Crucifixion (face up, feet away)
+db+1+3                          - Chicken Wing (face down, feet away)
+db+2+4                          - Chicken Wing (face down, feet away)
+
+-multipart throws-
+f,n,d,DF+1+2                    - Ultimate Tackle
+^1,2,1,2,1                       - Mounted Punches
+^3+4,d,n,1+2,1+2                 - Ultimate Bonesplitter
+^1+2                             - Arm Break
+  ^1+2                              - Double Arm Break
+^3+4                             - Leg Break
+^1,2,1,1+2                       - Mounted Punches -> Arm Break
+^1,2,1,3+4                       - Mounted Punches -> Leg Break
+b+1+2                           - Irish Whip
+^3+4                             - Spinning Ground Smash
+^2+4                             - Quick Slam
+^1+3                             - Spin & Let Go
+^1+2                             - Turn Around & Let Go
+qcf+1                           - Jaguar Driver                  
+  ^1+2,3,4,1+2                    - Boston Crab   
+f,n,df+2+3                      - Standing Achilles Hold
+^1+2,3,1,1+3                     - Scorpion Death Lock
+^1,2,3,1+2                       - STF
+^1+2,1,3,1+2,4                   - Indian Death Lock
+  ^1,3,4,1+2,3+4                    - Romero's Special
+f,n,d,df+1+4                    - Single Arm Hyperextension
+^1+2,1+2                         - Double Arm Hyperextension
+^1+2,4,2+4                       - Russian Leg Sweep
+  ^4,3,4,3+4,1+2                    - Arm Crucifixion
+^2,1,1+2+3                       - Chicken Wing Face Lock
+  ^2,1,3,1+2+4,1+2+4                - Dragon Sleeper
+  ^1+3,3+4,2+4,1+2,1+2+3            - Rolling Death Cradle
+	
+			   #-multipart tree-#
+
+			A---> C---> D--> E--> F
+			       |          | 
+			       |           --> J
+			       |
+			B---------> G--> E--> F
+				     |    | 
+				     |     --> J
+				     |
+				      --> H--> I--> F
+					       |
+						--> J
+
+A) df~1+3                       - Reverse Arm Clutch
+A) df~2+4                       - Reverse Arm Clutch
+B) df~1+2                       - Reverse Full Nelson
+B) ss,2+4                       - Reverse Full Nelson
+C) 2,1,1+2                      - Backdrop
+D) 3+4,1+2                      - German Suplex
+E) 1,2,3+4                      - Powerbomb
+F) 2,1,3,4                      - Giant Swing
+G) 2,2,1+2                      - Cannonball
+H) 3+4,1+2,1+2+4                - Manhattan Drop
+I) 1,2,3+4,1+2                  - Super Freak
+J) 3,1,2,3+4,1+2+3+4            - Split Powerbomb
+
+df+3                            - Medium Savate Kick
+df+4                            - Low Savate Kick
+DF+3,4                          - Savate Kick Combo
+b+4                             - Turnaround Kick -> Back Turned
+1+2                             - Turning Hand Knife -> Back Turned
+^1+4                             - Moonsault Press (!)
+^1+2                             - Clothesline (!)     
+^1                               - Backhand
+ss+3+4                          - Jumping Side Swipe
+d+1+2                           - Elbow Drop
+(WS)+2                          - Lifting Uppercut
+f,n,d,df,n~1+2                  - Bouncing Knucklebomb
+f,f,n,2                         - Middle Smash (*C)
+^1+2                             - Jaguar Backbreaker
+^1+2,u,d,n,3+4                   - Jumping Powerbomb
+uf+1+2                          - Knuckle Bomb
+u+2+4                           - Jumping Elbow Drop
+f,n,df+2                        - Crouchdash -> Jumpback
+f,f+1+2                         - Flying Cross Chop    
+d+1~n+2                         - Low Punch -> Uppercut
+f,f+4                           - Convict Kick
+f,f+3+4                         - Drop Kick
+f+2+3                           - Black Shoulder
+ss+2                            - Dark Arrow
+D,df+1                          - Ankle Smash
+d+3+4,4,4                       - Ali Kicks
+d+3+4,2                         - Ali Kick, Middle Smash
+f+1+4                           - Moonsault Press (!)
+f+1+2                           - Jaguar Lariat (!)
+
+1,2,1,1,2,4,4,4,1,3       - Tenstring  - HHMMMLLLMH
+1,2,1,1,2,4,4,4,1,1       - Tenstring  - HHMMMLLLMM
+1,2,1,1,3,3,4,4,1,1       - Tenstring  - HHMMHMLLMM
+1,2,1,1,3,3,4,4,1,3       - Tenstring  - HHMMHMLLMH
+1,2,1,1,3,3,4,3,2,1+2     - Tenstring  - HHMMHMLLL!
+f+2,1,1,2,4,4,4,1,3       - Ninestring - HMMMLLLMH
+f+2,1,1,2,4,4,4,1,1       - Ninestring - HMMMLLLMM
+f+2,1,1,3,3,4,4,1,1       - Ninestring - HMMHMLLMM
+f+2,1,1,3,3,4,4,1,3       - Ninestring - HMMHMLLMH
+f+2,1,1,3,3,4,3,2,1+2     - Ninestring - HMMHMLLL!
+
++Juggles+
+
+(NJ)
+B - 1,(ru),d+3+4,2
+B - 1,2,d+3+4
+B - 1~2,d+4+3,2
+I - 2,1,1+2,1
+
++Profile+
+
+catch copy - anger of beast
+nationality - Mexico
+fighting style - wrestling
+age - 28
+height - 200cm
+weight - 90kg
+blood type - A
+occupation - professional wrestler, management of an orphanage
+hobby - pleasing children
+likes - drinking beer in victory with Armor King
+dislikes - tears of children
+stage - Wrestling Ring in the Sky
+
+---------------------------------------------------------------------------
+
+*Kuma / Panda*
+
+d+4                        - Dancing Bear Taunt
+1+3+4                      - Bear Moonwalk Taunt
+
+1+3                        - Rabid Bear
+2+4                        - Bear Hug
+f,f+1+4                    - Stone Head
+hcb,f+1+2                  - Circus Roll
+(ss right) 1+3             - Big Bear Drop
+(ss left) 1+3              - Pounding Rag Doll Toss
+(from behind) 1+3          - Biting Rag Doll Toss
+
+1,1,1                      - Bear Hammer
+F+1~1~1                    - Treble Clef Cannon
+
+f,f+1+2                    - Cross Cut Saw
+1+2,1+2                    - Double Hammer Strike
+(WS)1+2,1+2                - Reverse Double Hammer Strike
+(while down)D+1+2          - Springing Hammer
+D,df+1,2,1,2               - Windmill Punches
+D,df+1,2,1,1               - Windmill Punches -> Bear Slash
+2,1,2                      - Double Elbow -> Uppercut (NJ)
+(WS)1,2                    - Uppercut -> Claw Strike
+b,db,d,df+2                - Megaton Punch
+f,f+2                      - Rushing Uppercut (NJ)
+df+1,2,1,2                 - Uppercut Rush
+df+2,1,2,f+1               - Uppercut Rush -> High Attack
+df+2,1,2,df+1              - Uppercut Rush -> Mid Attack
+df+2,1,2,d+1               - Uppercut Rush -> Low Attack
+D,df+2,f+1                 - Uppercut -> High Attack
+D,df+2,df+1                - Uppercut -> Mid Attack
+D,df+2,d+1                 - Uppercut -> Low Attack
+D,1,1,1,2,f+1              - Low Bear Hammer Rush -> High Attack
+D,1,1,1,2,df+1             - Low Bear Hammer Rush -> Mid Attack
+D,1,1,1,2,d+1              - Low Bear Hammer Rush -> Low Attack
+uf+3+4                     - Pancake Press
+^F                          - Roll Forward
+^D                          - Roll Backward
+^1,2,1,2                    - Sitting Claw Attack
+3+4                        - Sit Down
+^F                          - Roll Forward
+^D                          - Roll Backward
+^1,2,1,2                    - Sitting Claw Attack
+f,f,f+3                    - Lunging Side Kick
+b,f+2+3                    - Salmon Hunter
+b,b+2+3+4                  - Bear Fart (!)
+B+1+2                      - Claw Slash (!)
+B+1+2,f,360degC3wse        - Rolling Bear
+
++Juggles+
+
+(NJ)
+B - b,f+2+3
+B - 1+2,1+2
+B - F+1~1~1
+I - f,f+2,1+2
+I - f,f+2,(while back is turned)3,1+2
+E - uf+4,F+1~1~1,f,f+2
+
++Profile+
+
+catch copy - mad bear
+nationality - none
+fighting style - Heihachi's style plus animal style
+age - 18-20(Kuma) and 16-17(Panda)
+height - 280cm(Kuma) and 277cm(Panda)
+weight - 210kg(Kuma) and 200kg(Panda)
+blood type - ???
+occupation - Heihachi's bodyguard(Kuma) and Xiaoyu's bodyguard(Panda)
+hobby - asceticism, cooking salmon(Kuma) and flowerbed maintenance(Panda)
+likes - TV, Heihachi, Panda(Kuma) and Xiaoyu(Panda)
+dislikes - 14 inch B&W TV(Kuma) and Kuma(Panda)
+stage - Marshall's Hilltop Dojo
+
+---------------------------------------------------------------------------
+
+*Forest Law*
+
+1+3               - Quick Punch -> Dragon Toss
+2+4               - Leg Grab Takedown
+f+2+3             - Dragon Dive
+df+1+2            - Chastisement Punch
+^1,2,1+2           - Bulldog
+f,f+3+4           - Dragon Knee
+(ss right) 1+3    - Crotch Punch
+(ss left) 1+3     - Headlock -> Kick
+(from behind) 1+3 - Throat Punch
+b+1+2             - Punch Counter
+^1                 - Dragon Fist Strike
+^2                 - Turning Backfist
+b+1+3             - High/Mid Combo Break
+b+2+4             - High/Mid Combo Break
+
+1,2               - One-Two Punches
+b+2               - Dragon Elbow Stab
+F+2~1             - One Inch Power Punch
+1,1,1,1,1         - Dragon Lightning Jabs
+F+2,2,2           - Rave War Combo
+2,2               - Double Knuckle
+(WC)3             - Dragon Low Kick
+df+3              - Step-In Kick
+3,3,3             - Triple High Kick Combo
+3,3,f+3           - Double High Kick -> Middle Stab Combo
+4,3,4             - Shaolin Spin Kick
+D,df,d,df+3       - Dragon Slide
+3+4,3             - Double Flipkick Combo
+d+3+4             - Backflip Rush
+db+4              - Dragon Tail
+b+2,3,4           - Junkyard Combo
+db+1+2            - Charging Power Punch (!)
+^u,u               - Cancel
+db+2,4,4          - Acrobat Combo
+ss+3+4            - Bicycle Kick
+D,u+4             - Catapult Kick
+D,u,n,4           - Punt Kick
+db+2,4            - Low Elbow -> Reverse Flip Kick (NJ)
+d+2,3             - Low Punch -> Flip Kick (NJ)
+d+3,3,4           - Dragon Low Kick -> Left Kick -> Flip Kick (NJ)
+d+3,3,3,4         - Dragon Low Kick -> Double Left -> Flip Kick (NJ)
+d+3,3,3,3,4       - Dragon Low Kick -> Triple Left -> Flip Kick (NJ)
+df+4,3            - Toe Kick -> Flip Kick (NJ)
+d+4,3             - Low Twist Kick -> Flip Kick (NJ)
+D+3,4             - Low Sweep -> Flip Kick (NJ)
+4,u+3             - Roundhouse -> Flip Kick (NJ)
+b+1,2,1           - Triple Fist Strike Combo (NJ)
+
+df+1,2,2,1,3,3,3,4,3,4       - Tenstring - MHHHMLMHHM
+df+1,2,2,1,3,3,3,3,4,4       - Tenstring - MHHHMLMHLM
+df+1,2,2,1,3,3,3,4,4,4       - Tenstring - MHHHMLMHLM
+df+1,3,2,2,3,d+3,3,3,4,4     - Tenstring - MHHHMLMHLM
+df+1,3,2,2,3,d+3,3,4,3,4     - Tenstring - MLMHMLMHHM
+df+1,3,2,2,3,d+3,3,4,4,4     - Tenstring - MLMHMLMHLM
+
++Juggles+
+
+(NJ)
+B - db+2,4
+B - b+1,2,1
+B - f+2~1
+B - b+2,3,4
+B - 3,4
+B - 3,3,4
+B - df+4,3
+B - d+2,3
+B - 1,db+4
+B - 1,db+2,4
+B - 1,b+2,3,4
+B - 1,d+2,3
+I - 1,4,u+3
+I - 1,2,db+2,4
+I - 1,2,b+2,3,4
+I - 1,2,b+2,d+2,3
+
++Profile+
+
+catch copy - flaming dragon has come back
+nationality - USA
+fighting style - Chinese martial arts
+age - 25
+height - 177cm
+weight - 66kg
+blood type - B
+occupation - the second master of Marshall's dojo (maybe)
+hobby - shopping
+likes - credit cards (he was made to shoulder Paul's participation fee of 
+	the tournament as well as all the gasoline expenses)
+dislikes - riding on the bike with Paul (he is afraid of Paul's driving)
+stage - Marshall's Hilltop Dojo
+
+---------------------------------------------------------------------------
+
+*Lei Wulong*
+
+1+3                    - Flying Sky Kick
+2+4                    - Neck Wringer
+f,f+1+2                - Trip
+uf+1+2                 - Trip & Elbow
+(ss right) 1+3         - Crescent Punishment
+(ss left) 1+3          - Side Throw
+(from behind) 1+3      - Alley-Oop Back Punch
+db+1+3                 - Low Combo Break
+db+2+4                 - Low Combo Break
+
+b+1+2                  - Headbutt
+f,n,4                  - Spinning Forward Kick
+f,n,3                  - Spinning Rush Kick
+^4                      - High Roundhouse
+^d+4                    - Foot Sweep
+uf+4                   - Hopping Kick (NJ)
+db+4,4                 - Rave Spin
+db+4~D                 - Rave Sweep -> Snake Stance
+uf+2                   - Elbow Drop (hits floored opponent) -> Play Dead
+1+2~B                  - Turning Punch -> Back Turned Position
+1+2                    - Turning Punches -> Back Turned Position 
+1+2~1+2                - Turning Punches -> Uppercut
+4~4,3,3                - Rolling Kicks -> Face Down Position
+f,n,2,1,2,1            - Guard Melting Punches
+f,n,1                  - Rush Punch
+^~D                     - Snake Stance
+^~U                     - Snake Stance
+f,n,1,2                - Two Rush Punches
+^~D                     - Dragon Stance
+^~U                     - Dragon Stance
+f,n,1,2,1              - Three Rush Punches
+^~D                     - Panther Stance
+^~U                     - Panther Stance
+f,n,1,2,1,2            - Rush Punch Combo
+^~D                     - Tiger Stance
+^~U                     - Tiger Stance
+f,n,1,2,1,2,4          - 4x Punches, Mid Kick
+f,n,1,2,1,2,3          - 4x Punches, Low Kick
+^~D                     - Crane Stance
+^~U                     - Crane Stance
+f+4,1,2,3              - Crescent Kick -> 2x Punches -> Low Kick
+f+4,1,2,4              - Crescent Kick -> 2x Punches -> Mid Kick
+f+4,1,2,1,3            - Crescent Kick -> 3x Punches -> Low Kick
+f+4,1,2,1,4            - Crescent Kick -> 3x Punches -> Mid Kick
+db+4,(WS)4,4,4,3,3     - Six-Legged Fury
+b+3+4                  - Back Turned Position
+^1                      - High Backfist -> Back Turned Position
+^d+1                    - Low Backfist -> Back Turned Position
+^2                      - Backwards Uppercut (NJ)
+^d+4,4                  - Rave Spin
+^4                      - Backwards Mid Kick
+^3+4,3+4,3+4            - Triple Backflip
+d+1+2                  - Slide Position
+^4,3                    - Slide
+^3                      - Rising Low-Kick
+^4                      - Rising Low-Kick
+^1                      - Roll to Play Dead Position
+d+3+4                  - Play Dead Position
+^3+4                    - Kangaroo Thrust (NJ)
+^3                      - Sweep
+^3~4                    - Rave Spin
+^4                      - Rising Mid Kick
+^d+1                    - Roll to Slide Position
+4~3                    - Low Cartwheel -> Face Down Position
+^4~3                    - Low Cartwheel -> Face Down Position
+^3~4                    - Sweep -> Play Dead Position
+^3~4,4                  - Rave Spin
+^3                      - Rising Low Kick
+^4                      - Rising Mid Kick
+f+3+4                  - Drunken Stance (Reversal on counter)
+f+2+3                  - Snake Stance
+b+1+4                  - Phoenix Stance
+
+1,2,1,3+4,1,2,4,1,4,4    - Tenstring  - HHLMMMHMLH
+1,2,1,3+4,1,2,4,1,2,3    - Tenstring  - HHLMMMHMMH
+1,2,1,3+4,3+4,3+4,1,1,2  - Ninestring - HHLMMMLLM
+
+-Phoenix Stance-
+4                      - Crescent Smash (!)
+3,3,3,3                - Hawk's Claw Kicks
+
+-Drunken Stance-
+1                      - Drunken Punch
+3+4                    - Double Back-Kick -> Face Down Position
+
+-Snake Stance-
+1,1,1,1,1              - Hopping Punches 
+2,2,2                  - Three Punch Combo 
+1,1,1,1,1,F            - Hopping Punches -> Snake Stance
+2~F                    - Snake Jab -> Dragon Stance
+2,2~F                  - Double Snake Jab -> Dragon Stance
+2,2,2~F                - Triple Snake Jab -> Panther Stance
+4                      - Hopping Kick -> Snake Stance
+3                      - Cannon Kick -> Face Down Position
+1+3                    - Dragon Stance -> Neck Shake Throw
+(ss left)              - Dragon Stance
+(ss right)             - Panther Stance
+
+-Dragon Stance-
+2                      - Double Arm Strike (NJ)
+2~F                    - Double Arm Strike -> Tiger Stance
+4                      - Spinning Forward Kick
+1                      - Neck Shake Throw
+^1+2                    - Drink -> Drunken Stance
+3                      - High Crescent Kick
+^3                      - Low Sweep
+4,1,2,3,4              - Rushing Dragon Combo
+4,1,2,3,d+4            - Rushing Dragon Combo
+2+4                    - Throw
+2,d~d                  - Double Arm Strike -> Tiger Stance
+(ss left)              - Tiger Stance
+(ss right)             - Snake Stance
+
+-Tiger Stance-
+1                      - Overhead Swipe
+3                      - Spinning Rush Kick
+2                      - Overhead Swipe
+4                      - Fast Sweep
+(ss left)              - Snake Stance
+(ss right)             - Dragon Stance
+
+-Panther Stance-
+1                      - Two-Handed Low Punch
+1,2                    - Double Low Punch Combo
+2,1,2                  - Guard Melting Punches
+3                      - Low Sweep
+B+3                    - Low Sweep -> Phoenix Stance
+2                      - Uppercut (NJ)
+4                      - Right Kick - same as F+4 from normal stance
+4,1,2,3                - Lunging Panther Combo
+4,1,2,4                - Lunging Panther Combo
+3,2,1,2,3              - Stalking Panther Combo
+3,2,1,2,4              - Stalking Panther Combo
+(ss left)              - Snake Stance
+(ss right)             - Crane Stance
+
+-Crane Stance-
+2                      - Backfist -> Back Turned Position
+1                      - Rush Punch (Back Turned Postition on Block)
+4                      - Hop Forward -> Low Kick
+3                      - Hop Forward -> Mid Kick
+3,4,2,3                - 4 Hit Combo (NJ)
+(ss left)              - Panther Stance
+(ss right)             - Snake Stance
+
++Juggles+
+
+(NJ)
+B - uf+4
+I - 1,f,n,1,2,1,2,4
+I - 4~4,3,3
+I - uf+4,uf+2,3
+I - 4,4~4,3,3
+
++Profile+
+
+catch copy - super police
+nationality - China
+fighting style - various martial arts (cored Wu Xing Fist)
+age - 45
+height - 175cm
+weight - 65kg
+blood type - A
+occupation - policeman
+hobby - movies, naps
+likes - SONY products (he has appeared on a SONY commercial film)
+dislikes - crimes, villains
+stage - Quiet Street
+
+---------------------------------------------------------------------------
+
+*Mokujin*
+
+Mokujin randomly imitates one character per round. Moves lists are
+respective to the character that Mokujin is imitating. Pay attention to
+the taunt Mokujin does at the start of the round. The taunt and his
+fighting stance will indicate which character Mokujin is imitating.
+Execute moves and techniques accordingly.
+
+  Here is a guide of character warm-up stances to help you  -
+
+   Bryan Fury    - Walks up to you with his hands behind his back.
+		   Thrusts his fists around like a boxer.
+   Eddy Gordo    - Walks up and points at you... "you're next!"
+		   Flips and dances a bit before starting his standard dance. 
+   Gun Jack      - Swings his arms left and right on the outside.
+		   Arms pop in and out of his sockets rapidly.
+   Hwoarang      - Warms up using some extremely high kicks.
+		   Tilts his head over, and scratches his hair.
+   Heihachi      - Stands there stiffly, then is surrounded by sparks.
+		   Starts sitting indian style, stands up, and turns around.
+   Jin Kazama    - Dons his gloves and gets into his stance.
+		   Puts his hand on his hip, then tilts his head back in
+		   a "Let's Go" gesture.
+   Julia Chang   - Puts on her headband, then pats her cheeks.
+		   Prays briefly before the fight.
+   King          - Starts kneeling with his back turned, stands up and turns.
+		   Tilts his head back and holds his arms out a little to
+		   his sides as if roaring.
+   Kuma / Panda  - Starts sitting indian style, then rolls into place.
+		   Lifts his hands above his head as if he was roaring.
+   Forest Law    - Squares off in concentration, hands in front of his face.
+		   Jumps around, keeping his body moving.
+   Lei Wulong    - Stretches within panther stance.
+		   Crosses his arms and nods his head, "Let's go!"
+   Nina Williams - Gestures with her hand, pretending to slice her throat.
+		   Shakes her head with her hand in her face.
+   Paul Phoenix  - Mashes his fists together, rolls his neck into place.
+		   Moves his hands around his head, as if he is using a comb.
+   Ling Xiaoyu   - Hops up and down happily.
+		   Puts her hands together and bows politely to her opponent.
+   Yoshimitsu    - Teleports all over the place.
+		   Starts facing away, then does a slow flip into place.
+
+  Here is a guide of character fighting stances to help you -
+
+   Bryan Fury    - Almost nondescript, but one hand is at a right angle above
+		   the other.
+   Eddy Gordo    - Ginga dance, very noticeable.
+   Gun Jack      - Low set, knees bent more than Jin or Paul.
+   Hwoarang      - Hops up and down, starts with his left foot forward.
+   Heihachi      - Nondescript.
+   Jin Kazama    - Nondescript.
+   Julia Chang   - Low set, arms guarding farther out than Jin or Paul.
+   King          - Hops forward and back, leaning in and out.
+   Kuma / Panda  - Arms bent down in front of him, hunched over.
+   Forest Law    - Keeps on moving, hopping around all over the place.
+   Lei Wulong    - Sidesteps left and right constantly.
+   Nina Williams - Almost nondescript, but hands bob up and down.
+   Paul Phoenix  - Nondescript.
+   Ling Xiaoyu   - Higher set, arms farther out than Jin or Paul.
+   Yoshimitsu    - He has a sword! Geez!
+
+   To determine between nondescript characters : Dash back, then tap f,f+2.
+						Straight Punch - Jin
+						Rushing Uppercut - Heihachi
+						Dashing Elbow - Paul
+
++Profile+
+
+catch copy - wooden person
+nationality - ???
+fighting style - mimicry
+age - ???
+height - 178cm
+weight - 95kg
+blood type - sap
+occupation - training dummy
+hobby - mimicry
+likes - mimicry
+dislikes - mimicry
+stage - Serene Forest
+
+---------------------------------------------------------------------------
+
+*Nina Williams / Anna Williams*
+
+2+4                       - Lifting Toss
+^2,1,1+2                 - Falling Elbow
+^2,1,3                   - Arm Lock
+1+3                       - Throw
+df,df+1                   - Embracing Elbow Strike
+uf+1+2                    - Overhead Neck Throw
+qcf,1+2                   - Chin Bash
+^3,4,3,1+2                 - Neck Cutter -> Arm Bar
+^1,3,2,1                   - Standing Reverse Arm Lock
+  ^3,1,4,1+2,1+2              - Rear Gatelatch Falconwing Squeeze
+  ^2,1,3,4,1+2                - Falling Reverse Arm Lock
+^2,3,4,2,2                 - Knee Bash -> Neck Snap
+  ^1,2,4,3,1+2+3              - Octopus Special
+  ^1,3+4,1,2,1+2              - Falling Neck Snap
+qcf,3+4                   - Crab Claw
+^3+4,3,4,1+2               - Rolling Arm Bar
+^3+4,4,2,1+2               - Achilles Tendon Lock
+  ^3,1,4,2+4                  - Knee Cross Lock
+  ^1,3,2+4,3+4,1+2            - Rolling Achilles Tendon Lock
+qcb+1+4                   - Shin Smash
+^1,3,2,1                   - Standing Reverse Arm Lock
+  ^3,1,4,1+2,1+2              - Rear Gatelatch Falconwing Squeeze
+  ^2,1,3,4,1+2                - Falling Reverse Arm Lock
+  ^1,3+4,1,2,1+2              - Falling Neck Snap
+^2,1,1+2,1+2+3             - Twisting Shoulder Break
+  ^1,2,4,3,1+2+3              - Octopus Special
+(ss right) 2+4            - Coconut Crush
+(ss left) 1+3             - Super Backbreaker
+(from behind) 1+3         - Three Limb Break
+b+1+3                     - Reversal
+b+2+4                     - Reversal
+d+1+3                     - Low Kick Counter
+d+2+4                     - Low Kick Counter
+
+b+2,2                     - Double Slap
+f,f+2                     - Throat Stabber
+f,f+1                     - Throat Cutter
+f,f+3                     - Bad Habit
+^f,f+2                     - Panther Claw
+^df+2                      - Slap-U-Silly
+d,df+4                    - Wipe the Floor
+qcf,db+2+3                - Venomous Breath
+uf+4,3,4                  - Can Opener
+df+3,1,2,f+1+2            - Low Kick -> 2x Punches -> Blonde Bomb
+db+2                      - Side Stab (*C)
+db+1                      - Upward Slap (NJ)
+df,df+2                   - Upward Slap
+d+3+4                     - Ground Stomp
+f,f,1+2                   - Blonde Bomb
+F+1+2                     - Blonde Bomb
+f,f+4                     - Leg Grenade
+f,f,f+3                   - Bone Cutter (Achilles Tendon Lock on counter)
+^3,1,4,2+4                 - Knee Cross Lock
+^1,3,2+4,3+4,1+2           - Rolling Achilles Tendon Lock
+d,db+3                    - Divine Cannon (NJ)
+db+4                      - Slice Kick
+db+4,3                    - Divine Cannon Combo (NJ)
+1,2,4                     - Bermuda Triangle
+1,2,D+3,4                 - Jail Crash
+1,2,D+3,2                 - Cemetery Crash
+1,2,1,2,f+1+2             - Quadruple Punch Combo -> Blonde Bomb
+1,2,1,4                   - Spark Attack
+d+3,4                     - Leg Break Combo
+3,4                       - Double High Kick
+df+3,3,3,4                - Machine Midkicks
+df+3,3,3,1,2,f+1+2        - Machine Midkicks -> 2x Punches -> Blonde Bomb
+df+3,3,3,3                - Machine Midkicks -> Low Kick
+df+3,1,2                  - Flush Combo
+df+3,1,2,f+1+2            - Assault Combo
+df+3,2,d+3,4              - Lunging Assassin Combo
+df+3,2,4                  - Lurking Assassin Combo
+4,3,2                     - 2x Kicks -> Uppercut Combo (NJ)
+d+3,2                     - Low Kick -> Uppercut Combo (NJ)
+df~2                      - Step In -> Upward Slap (NJ)
+ss,b+1                    - Killing Blade
+ss,2                      - Palm Uppercut
+ss,1                      - Quick Slap
+ss,1+2                    - Quick Blonde Bomb
+ss,4                      - Low Kick
+db+1+2                    - Hunting Swan (!)
+
+1,2,1,2,3,3,2,1,2,4       - Tenstring - HHHHMLHHHM
+df+1,2,1,2,3,3,2,1,2,4    - Tenstring - MHHHMLHHHM
+(WS)1,2,1,2,3,3,2,1,2,4   - Tenstring - MHHHMLHHHM
+1,2,1,2,3,3,2,1,4,3       - Tenstring - HHHHMLHHLM
+df+1,2,1,2,3,3,2,1,4,3    - Tenstring - MHHHMLHHLM
+(WS)1,2,1,2,3,3,2,1,4,3   - Tenstring - MHHHMLHHLM
+1,2,1,2,4,3,4,2,4,3       - Tenstring - HHHHHLLMLM
+df+1,2,1,2,4,3,4,2,4,3    - Tenstring - MHHHHLLMLM
+(WS)1,2,1,2,4,3,4,2,4,3   - Tenstring - MHHHHLLMLM
+
++Juggles+
+
+(NJ)
+B - 1,df+3,2,3
+B - 1,df+3,2,4
+B - 1,db+4,3
+B - db+4,3
+B - d+4~1,4
+B - 1,2,1,2,1+2
+I - 1,1,B+2,2 
+I - db+4,3,1,db+4,3
+I - db+4,3,uf+3,db+4,3
+I - db+4,3,db+4,pause,3
+E - b+2,2,d+4,1,f,f+3
+E - 1,2,d+4,1,d+4,1,f,f+3
+E - uf+3,d+4,n,1,f,f+3,f,f+1+2,f,f+4
+
++Profile+
+
+catch copy - silent assassin
+nationality - Ireland
+fighting style - assassinating martial arts based on Bone Martial Arts and 
+		Aikido
+age - 22
+height - 161cm
+weight - 49kg
+blood type - A (but changed while cold sleeping)
+occupation - assassinating Kazama (under control)
+hobby - retracing memories
+likes - not remebered (maybe tea with mi3)
+dislikes - not remebered (maybe Anna)
+stage - Laboratory Courtyard
+
+----------------------------------------------------------------------------
+
+*Ogre I*
+
+1+3                    - Lift and Toss
+2+4                    - Olympus Leg Break
+df,df+2+4              - Waning Moon
+(ss left) 1+3          - Multiple Thrashing
+(ss right) 1+3         - Divine Smasher
+(from behind) 1+3      - Telekinetic Slam
+b+1+2                  - Shield Power Surge (on counter)
+
+1,1,2                  - Shining Fists Combo
+1,2,2                  - Demon Slayer
+df+1,2                 - Twin Pistons
+f+2                    - Step-In Punch
+4~3                    - Demon Scissors
+ub+3,2                 - Backflip -> Tooth Fairy
+3+4                    - Exploder
+f,f,F,3+4              - Running Exploder
+f,f,n,3+4              - Hop -> Slide Kick
+f,f,n,4                - Bazooka Leg
+uf+4                   - Hopkick (NJ)
+uf+3,4,3               - Hunting Hawk
+d,db+4                 - Thrust Kick
+D,3,3,3                - Triple Low Kicks
+D,3,3,n,3              - Double Low Kicks -> Rocket Kick (NJ)
+f,f+3                  - Axe Kick
+f,f+4                  - Axe Heel Crush
+f+4                    - Standing Tsunami Kick
+(WS)4,4                - Tsunami Kick
+(WS)3,3,d+3,3,3....    - Infinity Kicks
+(WS)2                  - Demon Godfist (*C)
+(WS)f+1                - Crotch Chop
+uf+1+2                 - Knuckle Bomb
+df+1+2                 - Clapper Attack
+D,df+2                 - Backwards Slap Sweep
+D,f+2                  - Downward Arm Strike
+d+4,4                  - Shin Kick -> High Kick
+f+1+4                  - Black Shoulder
+u~D+1+2                - Flaming Knuckle Bomb (!)
+b,b+1+2                - Indigo Punch (!)
+DB+1+2                 - Bloody Scissors (!)
+f,f+2                  - Serpent Thrust (!)
+f,f,n,2                - Kunai Advance (!)
+B+2                    - Kunai Blow (!)
+B+2+3                  - Sidewinder (!)
+
++Juggles+
+
+(NJ)
+1,f+2
+
+----------------------------------------------------------------------------
+
+*Ogre II*
+
+2 (after being juggled) - Wing Flapper Juggle Recovery
+
+1+3                    - Lift and Toss
+2+4                    - Monstrous Vice
+df,df+2+4              - Waning Moon
+(ss left) 1+3          - Pounding Rag Doll Toss
+(ss right) 1+3         - Ogre Drop
+(from behind) 1+3      - Biting Rag Doll Toss
+D,DF                   - Low Attack AutoReversal
+
+2,2                    - Punch -> Backfist
+1,1,2                  - Shining Fists Combo
+1,2,2                  - Demon Slayer
+df+1,2                 - Twin Pistons
+df+1+2                 - Horn Gore (HJ)
+f+2                    - Step-In Punch
+4~3                    - Demon Scissors
+ub+3,2                 - Backflip -> Tooth Fairy
+f,f,F,3+4              - Running Exploder
+f,f,n,3+4              - Hop -> Slide Kick
+f,f,n,4                - Bazooka Leg
+uf+4                   - Hopkick (NJ)
+uf+3,4,3               - Hunting Hawk
+d,db+4                 - Thrust Kick
+d+3,3,3                - Triple Low Kicks
+d+3,3,n,3              - Double Low Kicks -> Rocket Kick (NJ)
+f,f+3                  - Axe Kick
+f,f+4                  - Axe Heel Crush
+f+4                    - Standing Tsunami Kick
+(WS)4,4                - Tsunami Kick
+(WS)3,3,d+3,3,3....    - Infinity Kicks
+(WS)2                  - Demon Godfist (*C)
+(WS)f+1                - Crotch Chop
+uf+1+2                 - Knuckle Bomb
+D,df+2                 - Backwards Slap Sweep
+D,f+2                  - Downward Arm Strike
+d+4,4                  - Shin Kick -> High Kick
+f+1+4                  - Black Shoulder
+(while down)3+4        - Dive Bomber
+U+3+4                  - Jump Kick
+d+3+4                  - Low Tail Attack
+df+3+4                 - Mid Tail Attack
+df+3+4,3+4             - Tail Cyclone
+u~D+1+2                - Flaming Knuckle Bomb (!)
+DB+1+2                 - Bloody Scissors (!)
+b,b+1+2                - Indigo Punch (!)
+f,f+2                  - Serpent Thrust (!)
+f,f,n,2                - Kunai Advance (!)
+B+2                    - Kunai Blow (!)
+B+2+3                  - Sidewinder (!)
+d+1+2                  - Dragon Flame (!)
+1+2                    - Flying Dragon Flame (!)
+
++Juggles+
+
+(NJ)
+B - 1,f+2
+B - 1,1,1,2
+B - 1,1,2,2
+B - d+3,3,n,3
+
+(HJ)
+I - uf+3,4,3
+
+----------------------------------------------------------------------------
+
+*Paul Phoenix*
+
+1+3                     - Arm Toss
+2+4                     - Shoulder Popper
+df+1+2                  - Striking Shiho-Nage
+b+2+3                   - Kick Toss
+f,f+1+2                 - Shoulder Ram
+(ss right) 1+3          - Trip -> Shoulder Toss
+(ss left) 1+3           - Throw
+(from behind) 1+3       - Hip Toss
+b+1+3                   - Reversal
+b+2+4                   - Reversal
+
+D (until Paul stands)   - Taunt
+^u+2+3+4               - Amateur Flipkick
+1,2                     - One-Two
+2,3                     - Jab -> Kick Combo
+2~3                     - Flash Attack Combo
+2,d+3                   - Jab -> Low Kick Combo
+1,4                     - Jab -> Low Kick Combo
+uf+3,4                  - Can-Can Kicks
+f,f+3,4,3               - Can-Can Kicks -> High Roundhouse
+f,f+3,4,f+3             - Can-Can Kicks -> Mid Kick
+f,f+3,4,d+3             - Can-Can Kicks -> Low Kick
+d+4,2                   - Falling Leaf Combo
+f,f+4                   - Neutron Bomb
+d+2                     - Stone Splitter
+d+1                     - Tile Splitter
+d+1,4,2                 - Tile Splitter -> Falling Leaf Combo
+d+1,2                   - Tile Splitter -> Phoenix Smasher
+D,df+2,2                - Undercut Elbow -> Uprooter (BL)
+D,df+2,1                - Undercut Elbow -> Phoenix Smasher
+f,f+2                   - Elbow Smash
+f+1+4                   - Sidestep -> Shoulder Ram
+f+1+2                   - Overhead Smash
+db+1+2                  - Ultimate Tackle
+^1,2,1,2,1               - Mounted Punches
+^1+2                     - Arm Bar
+^1,2,1,1+2               - Punches -> Arm Bar
+^d+2,1,1~n~4~1~1+2       - Ultimate Punishment
+hcb+3,2,2               - Sweep -> Undercut Punch -> Uprooter (BL)
+hcb+3,2,1               - Sweep -> Undercut Punch -> Phoenix Smash
+qcf+2                   - Phoenix Smasher
+qcf+1                   - Elbow Lift (NJ)
+hcb+1                   - Dash Back Power Punch
+qcb,n                   - Backwards Dodge
+^3,2,2                   - Sweep -> Undercut Elbow -> Uprooter
+^3,2,1                   - Sweep -> Undercut Elbow -> Phoenix Smash
+^1                       - Tile Splitter
+^2                       - Palm Strike
+b+1+2                   - Ultimate Phoenix Smasher (!)
+
+1,2,3,2,1,2,1,4,2,1   - Tenstring  - HHMHMHHLMM
+1,2,3,1,4,2,1,4,2,1   - Tenstring  - HHMMLMHMLM
+1,2,3,1,2             - Fivestring - HHMMM
+
++Juggles+
+
+(NJ)
+B - d+4,2
+B - 1,2,d+2
+B - 1,2~3
+B - 1,uf+3~4     
+B - 2,uf+3~4
+I - 1,2,qcf+2
+I - 1,1,1,qcf+2
+I - uf+4,1,2,uf+3,4,f+3
+E - 1,f,f+3,4,f,f+4
+
+(BL)
+I - d+4,2,d+2
+E - qcb,n,3,2,1
+
++Profile+
+
+catch copy - hot-blooded martial artist
+nationality - USA
+fighting style - combined martial arts based on Judo
+age - 46
+height - 187cm
+weight - 81kg
+blood type - O
+occupation - none (still training with the intention to be No.1 in the 
+	     universe)
+hobby - riding on a motorbike
+likes - pizza, smell of gasoline
+dislikes - freeways in Japan (he was caught in a traffic jam at the previous 
+	   tournament)
+stage - Punk Alley
+
+---------------------------------------------------------------------------
+
+*Ling Xiaoyu*
+
+1+3+4                  - Taunt
+2+3+4                  - Taunt
+		     
+1+3                    - Slap, Forearm Chop
+2+4                    - 360 Degree Flip
+qcb+2                  - Over-Shoulder Throw
+f+2~1                  - Human Hurdle
+(ss right) 1+3         - Takedown Punishment
+(ss left) 1+3          - Cartwheel Throw
+(from behind) 1+3      - Super Arm Takedown
+b+1                    - Left Knifehand Reversal
+b+2                    - Right Knifehand Reversal
+1+4                    - High/Medium Combo Break
+d+1+4                  - Low Combo Break
+db+3                   - Body Push Combo Break
+
+1,d+2                  - Jab -> Uppercut
+1,2,db+1               - Two Quick Punches -> Power Punch
+2,1                    - Two Quick Punches -> Back Turned Position
+db+1                   - Power Palm Strike                     
+df+3                   - Face Kick
+f+3                    - Left Roundhouse
+f,f+3                  - Raccoon Kick -> Back Turned Position
+db+4                   - Stomp Kick
+df+4                   - Toe Kick
+3+4                    - Spinning Dodge
+d+3+4                  - Spinning Dodge
+f+3+4                  - Dive Roll
+f,f+3+4                - High Overhead Flip
+u+1                    - Upward Slap
+f,f+1+2                - Upward Spin Strike
+f,f+1+2~1+2            - Upward Spin Strike -> Downward Spin Strike
+(WS)2                  - Rising Uppercut (NJ)
+(WS)4                  - Skyscraper Kick
+f+1+2                  - Cartwheel
+df+1                   - Spinning Punch -> Back Turned Position
+b+3+4                  - Back Turned Position
+^1                      - Turn Towards Punch
+^2                      - Reverse Slap
+^3                      - Turn Toward Kick
+^d+3                    - Reverse Ankle Kick
+^4                      - Vertical Hook Kick (NJ)
+^2,1,4                  - Reverse Three Hit Flurry (NJ)
+^f,f+3                  - Reverse Jumpkick
+^f,f+1+3                - Hop and Throw
+^f,f+2+4                - Hop and Throw
+^f+3+4                  - Reverse Roll
+  ^~3+4                    - Kangaroo Kick
+^3+4                    - Spinning Dodge
+^f,f+3+4                - Reverse High Overhead Flip (Throw on Counterhit)
+d+1                    - Windmill Slaps
+d+1,D                  - Windmill Slaps -> Phoenix Stance
+d+1+2                  - Phoenix Stance
+^d                      - Crouch
+^1                      - Left Stomach Strike
+^2                      - Right Stomach Strike                           
+^1+2                    - Phoenix Uppercut (NJ)
+^d,1+2                  - High Forearm Bash
+^1+3,n                  - Evasive Roll -> Throw
+  ^D                       - Throw Cancel -> Phoenix Stance
+^2+4,n                  - Evasive Roll -> Throw
+  ^D                       - Throw Cancel -> Phoenix Stance
+^3                      - Low Kick
+^4                      - Skyscraper Kick
+^df+4,4,4               - Sweep Kicks -> Skyscraper Kick Combo
+^f+1+2                  - Back Turned Position
+^f+3+4                  - Forward Roll
+^4~3                    - Strong Sweep
+^u+3+4                  - Hop Kick
+^u+4,4                  - Twirling Kick                         
+^u+3,3                  - Double Jump Kick
+uf+4                   - Jumping Overhead Kick
+b+1+2,2                - Circle Stance -> Power Punch
+b+1+2,1+2              - Circle Stance -> Phoenix Strike (!)
+d+1+4                  - Spinning Axis Shift
+D,3,2,1,4              - Four Hit Flurry (NJ)
+D,df,4,4,4             - Spinning Sweeps -> Skyscraper Kick Combo
+D,df+2,1               - Low Spin Punch Combo
+u+1+2,2,1              - Rising Phoenix Combo
+
+u+4,1,2,1+2,1,3,4,4,4,1   - Tenstring - MHHMMLLLMM
+u+4,1,2,4,4,2,1+2,1,4,2   - Tenstring - MHHLLMHMLM
+
++Juggles+
+
+(NJ)
+B - D,3,2,1,4
+B - D,3,2,4
+B - 1,2,db+1     
+I - 1,D+1,f+4,4
+E - 1,1,db+1,D,df+4,4
+E - 1,1,db+1,d+1+2,f+4,4
+E - 1,u+1+2,2,D,df+4,4
+	     
++Profile+
+
+catch copy - High-Spirited
+nationality - China
+fighting style - various Chinese martial arts based on Bagua Fist
+age - 16
+height - 157cm
+weight - 42kg
+blood type - A
+occupation - 10th grade student, looking after a panda
+hobby - visiting amusement parks and theme 
+parks all over the world, sight seeing
+likes - po4 siubao, sweet siubao (sweatened small red beans inside), 
+shrimp siumai, Beijin duck, takoyaki (grilled octopus), etc...
+dislikes - math teacher
+stage - Namco's Wonder Egg
+
+----------------------------------------------------------------------------
+
+*Yoshimitsu*
+
+1+3                         - Flying 69 Slam
+2+4                         - Trip
+qcb+1+2                     - Skydiver
+(ss right) 2+4              - Clonimitsu
+(ss left) 1+3               - Bouncing Cartwheel Slam
+(from behind) 1+3           - Spinning Rainbow Drop
+b+1+4                       - Sword Reversal
+d+1+3                       - Low Combo Break
+d+2+4                       - Low Combo Break
+
+f+2                         - Backfist
+f,f+2                       - Elbow Smash (Sword Slice on counterhit)
+2~3                         - Flash Attack Combo
+2~d+3                       - Flash Punch -> Low Kick
+4~3                         - Kangaroo Kick (HJ)
+3,4                         - Zigzag
+4,4,4                       - Triple Roundhouse Combo
+B+1,1,1,1,1                 - Spinning Fists
+DB+2,2,2,2,2                - Low Spinning Fists
+B+1,1,1,DB+3,3,F+4          - Topspinner Attack
+db+3,3,3,3,3,F+4            - Spinning Sweeps -> Front Kick
+D,df+3                      - Full Sweep
+f,f+3+4,1+2,3+4             - Shark Attack
+f,f+1+2                     - Reverse Cartwheel -> Back Turned
+^2                           - Backfist
+^db+2,2,2,2,2                - Low Spinning Fists
+^1+4                         - Life Siphon
+df+1,f+2,db+2,2,2,2,2       - Downward Spiral Attack
+f+2,db+2,2,2,2,2            - Downward Spiral Attack
+df+2,db+2,2,2,2,4           - Downward Spiral Attack
+qcf+1                       - Spinning Sword Flip (!)
+B+1+2,1                     - Bad Breath Stance -> Bad Breath (!)
+uf+3+4                      - Poison Wind
+uf+3+4,b+1,b+1,b+4          - Poison Wind Combo
+uf+3+4,b+1,b+1,b+4,db+1     - Poison Wind Combo -> Sword Slice
+df+1,1,1,1,1                - Quick Elbows
+df+1,b+2,db+2,2,2           - Elbow -> Backhand -> Low Spinning Fists
+d+3+4                       - Sit Down
+^4                           - Kangaroo Kick
+^2,2,2,2                     - Low Spinning Hands
+f,f+3,1                     - Front Kick -> Sword Slice (!)
+f,f+4                       - Knee Hop
+ss,3+4                      - Sword Debate Position
+^F                           - Rejuvenation
+^1+4                         - Life Siphon
+^2+3                         - Life Siphon
+b+3+4                       - Backwards Teleport
+d+1+4                       - Suicide (!)
+^B+1,1,1,1                   - Suicide Top (!)
+f,F+1+4                     - Dashing Suicide (!)
+^f,f                         - Second Stab (Kills Yoshimitsu)
+db+1                        - Sword Slice (!)
+db+1~DB                     - Sword Slice Hop (!)(Release DB to Strike)
+D,db+1                      - Sweeping Slice (!)
+b,b+1                       - Sword Stab (!)
+b,b+1~1                     - Sword Spin (!)
+u+1+2,f,f                   - Pogo Stick -> Slide Forward (!)
+u+1+2,u                     - Pogo Stick -> Hop Up        (!)
+u+1+2,4~3                   - Pogo Stick -> Kangaroo Kick
+uf+1+2                      - Copter Blade (!)
+uf+1+2,B                    - Extended Copter Blade (!)
+
+1,2,1,4,4,4,1,1,1,1  - Tenstring   - HMMHHLM!!!
+1,2,1,4,2,2,2,4,1,1  - Tenstring   - HMMHMMMM!!
+4,4,2,2,4,4,1,1,1,1  - Tenstring   - HHMHHLM!!!
+1,2,1,4,4,4,1,3+4    - Eightstring - HMMHHLMM
+4,4,2,2,4,4,1,3+4    - Eightstring - HHHHHLMM
+4,4,2,2,1            - Fivestring  - HHMH!
+
++Juggles+
+
+(NJ)
+B - b+1,f+1,db+1
+B - b+1,f+1,uf+3+4
+I - 1,1,1,f,f+4,db+1
+I - b+1,f+1,u+1+2,uf
+I - df+1,d+2,(ru),u+1+2,f,f
+E - df+1,d+2,uf+3+4,b+1,uf+3+4
+E - 1,B+1,1,1,n,1,B+1,1,1,d,n,4
+E - df+2,1,f,f+4,DB+3,3,3,3,3,f+4,db+1
+
+(HJ)
+I - b+1+2,1,1,f,f+3,1
+I - b+1+2,1,1,B+1,1,n~f,f+4
+
++Profile+
+
+catch copy - mechanized space ninja
+nationality - none (ex-Japan)
+fighting style - "Manji" ninja arts
+age - ???
+height - 178cm
+weight - 63kg
+blood type - O
+occupation - leader of "Manji" party
+hobby - watching Sumo games, net surfing
+likes - arcades (especially in Shinjuku)
+dislikes - villains, game players with bad manners
+stage - Serene Forest
+
+-----------------------------------------------------------------------------
+
+*Throw & Reversal Counters*
+
+Tekken 3 sees a new era in 3D Fighting Games... an era in which you can
+easily counter your opponent's attacks. This is a big step towards more
+realistic fighting, obviously... and an interesting twist to classic
+gameplay. While reversals and counters are tricky to learn and pull off
+sometimes, this section will give you some ways in which to escape the most
+damaging attacks in Tekken... throw and grapple techniques.
+
+E - Escape
+R - Reversal
+
+Throw Counters
+--------------
+
+* General - Left Throw (1+3)                                    E 1
+	    Right Throw (2+4)                                   E 2
+
+* Bryan   - Messanger of Death                                  E 1+2
+								
+* Eddy    - Spiraling Hip Toss (hcf+1+2)                        E 1+2
+
+* G-Jack  - Lifting Choke and Toss (uf+1+2)                     E 1+2
+	    Face in the Dirt (db+2+3)                           E 2
+	    Death Heave (df+2+4)                                E 2
+	    Modified Death Heave (df,DF+2+4)                    E 2
+	    Stone Knee (qcb+2)                                  E 2
+	    Pyramid Driver (qcf+1)                              E 1
+	    Choke Slam (f,f+1+4)                                E 2
+	    Piledriver (db,F+1+2)                               E 1+2
+
+* Hwoarang- Jawbreaker (f,F+2)                                  E 2
+	    Boot to the Head (qcb+3)                            E 1
+	    Trip Takedown (d,DB+1+3)                            E 1+2
+
+* Jin     - Striking Fist (df+2+3)                              E 2
+	    Stone Head (f,f+1+2)                                E 1+2
+	    Tower Breaker (qcb+1+3)                             E 1
+
+* Julia   - Full Nelson Suplex (df+1+2)                         E 2
+	    Front Suplex (d,db+1+3)                             E 1
+	    Triple Strike Grapple (qcb,F+2)                     E 2
+	    Cyclone Suplex (D,db,d,DB+1+2)                      E 1+2
+
+* King   - DDT (D,db,d,DB+1+2)                                  E 1+2
+	   Tombstone Piledriver (db,f+2)                        E 2
+	   Coconut Crush (df+2+3)                               E 2
+	   Giant Swing (f,hcf+1)                                E 1
+	   Figure 4 Leglock (db+1+2)                            E 1+2
+	   Split Powerbomb (qcb+1+2)                            E 1+2
+								R 3+4
+	   Low Powerbomb (d+1+3)                                E 1+2
+	   Low Powerbomb (d+2+4)                                E 1+2
+	   Spinning Ground Smash (Irish Whip, 3+4)              E 3+4
+	   Quick Slam (Irish Whip, 2+4)                         E 2
+	   Spin & Let Go (Irish Whip, 1+3)                      E 1
+	   Turn Around & Let Go (Irish Whip, 1+2)               E 1+2
+	   Jaguar Backbreaker (Middle Smash, 1+2)               E 1+2
+	   Jumping Powerbomb (Middle Smash, 1+2,u,d,n,3+4)      E 3+4
+	   Standing Achilles Hold (f,n,d,df+2+3)                E 2
+	   Scorpion Death Lock (SACH, 1+2,3,1,1+3)              E 2
+	   STF (SACH, 1,2,3,1+2)                                E 1
+	   Indian Death Lock (SACH, 1+2,1,3,1+2,4)              E 1+2
+	   Single Arm Hyperextension (f,n,d,df+1+4)             E 1
+	   Double Arm Hyperextension (SAH, 1+2,1+2)             E 1
+	   Russian Leg Sweep (SAH, 1+2,4,2+4)                   E 2
+	   Chicken Wing Face Lock (SAH, 2,1,1+2+3)              E 1+2
+	   Dragon Sleeper (SAH, CWFL, 2,1,3,1+2+4,1+2+4)        E 1
+	   Rolling Death Cradle (SAH, CWFL, 1+3,3+4,2+4,..)     E 2
+	   Left Reverse Arm Clutch (df~1+3)                     E 1
+	   Right Reverse Arm Clutch (df~2+4)                    E 2
+	   German Suplex (Left RAC, BD, 3+4,1+2)                E 3
+	   German Suplex (Right RAC, BD, 3+2,1+2)               E 1
+	   Giant Swing (Left RAC, BD, GX, PB, 2,1,3,4)          E 2
+	   Giant Swing (Right RAC, BD, GX, PB, 2,1,3,4)         E 1
+	   Giant Swing (RFN, CB, PB, 2,1,3,4)                   E 2
+	   Giant Swing (RFN, CB, MD, SF, 2,1,3,4)               E 1
+	   Split Powerbomb (RAC, BD, GX, PB, 3,1,2,3+4...)      E 2
+	   Split Powerbomb (RFN, CB, PB, 3,1,2,3+4...)          E 1
+	   Split Powerbomb (RFN, CB, MD, SF, 3,1,2,3+4...)      E 2
+	   Powerbomb (RFN, CB, 1,2,3+4)                         E 1
+	   Manhattan Drop (3+4,1+2,1+2+4)                       E 2
+
+* Kuma   - Stone Head (f,f+1+4)                                 E 1+2
+	   Circus Roll (hcb,f+1+2)                              E 1+2
+
+* Law    - Chastisement Punch (df+1+2)                          E 1+2
+	   Dragon Knee (f,f+3+4)                                E 1+2
+
+* Lei    - Trip (f,f+1+2)                                       E 1+2
+	   Trip & Elbow (uf+1+2)                                E 1+2
+	   Neck Shake Throw (Dragon Stance, 1)                  E 1
+
+* Nina   - Embracing Elbow Strike (df,df+1)                     E 1+2
+	   Chin Bash (qcf,1+2)                                  E 2
+	   Standing Reverse Arm Lock (CB, 1,3,2,1)              E 1
+	   Rear Gatelatch Falconwing Squeeze (SRAL, 3,1,4...)   E 1+2
+	   Falling Reverse Arm Lock (SRAL, 2,1,3,4,1+2)         E 1
+	   Knee Bash -> Neck Snap (CB, 2,3,4,2,2)               E 2
+	   Octopus Special (1,2,4,3,1+2+3)                      E 1+2
+	   Falling Neck Snap (CB, KB, 1,3+4,1,2,1+2)            E 1
+	   Crab Claw (qcf+3+4)                                  E 1
+	   Rolling Arm Bar (CC, 3+4,3,4,1+2)                    E 1+2
+	   Achilles Tendon Lock (CC, 3+4,4,2,1+2)               E 2
+	   Knee Cross Lock (CC, ATL, 3,1,4,2+4)                 E 1
+	   Rolling Achilles Tendon Lock (CC, ATL, 1,3,2+4...)   E 1+2
+	   Twisting Shoulder Break (2,1,1+2,1+2+3)              E 2
+
+* Paul   - Striking Shiho-Nage (df+1+2)                         E 1+2
+	   Shoulder Ram (f,f+1+2)                               E 1+2
+
+* Xiaoyu - Human Hurdle (f+2~1)                                 E 1+2
+	   Over-Shoulder Throw (qcb+2)                          E 2
+
+* Yoshimitsu - Skydiver (qcb+1+2)                               E 1+2
+
+Reversal Counters
+-----------------
+						    
+* General - Left Limb Reversal                                  R f+1+3
+	    Right Limb Reversal                                 R f+2+4
+
+-----------------------------------------------------------------------------
+
+*Tekken 3 Strategy*
+
+What use is there to knowing the moves if you don't know when and how to
+use them? The single most important thing in any fighting game, without a
+doubt, is the strategy that you use to win. In this section, I will try to
+touch upon the basic aspects of gameplay and strategy in Tekken 3, and then
+move on to some basic character strategy.
+
+-GENERAL-
+  # Blocking
+To say the least, blocking is rather important. Your opponent's attacks will
+be rendered useless, you won't sustain damage, and you'll get a small
+opening for a counterattack. Remember that attacks in three basic levels,
+High, Middle, and Low. High attacks are generally the easiest to see coming.
+They are easily blocked standing up, and can even be ducked under. Middle
+attacks cannot be ducked under, but can also be blocked while standing up.
+Low attacks can be blocked low or hopped over. Keep in mind that there are
+unblockable attacks in the game, and that throws cannot be blocked!
+
+  # Throwing
+A valuable move in any character's arsenal. Once you have a hold on your
+opponent, your character will perform some type of damaging close attack.
+Throws can only be initiated while you are very close to your opponent,
+otherwise your character will appear to be "grabbing air". Keep in mind
+that throws can be countered, reversed, ducked, and dodged.
+
+  # Juggling
+Another aspect of Tekken 3's complex gameplay is the juggle system. Once
+you get your character in the air (many moves do this, in my FAQ moves that
+juggle your opponent are denoted by (NJ) after the move's name), you
+can hit them using punches, kicks, and strings. A chain of moves that hits
+your opponent once they are in the air is known as a "juggle combo". Juggle
+Combos are very valuable because every single hit that connects while your
+opponent is airborne is effectively unblockabe. My advice : try to get your
+opponent in the air as much as you can, and learn a few different juggle
+combos. Know your arsenal!
+
+  # Countering
+Countering, to make a long story short, is the act of attacking your
+opponent while he/she is attacking you. This may be difficult at first, but
+is essential to winning in Tekken 3. Attacks that connect on counterhit
+even do more damage than normal! Try axis shifting before countering,
+especially when you know that your opponent is performing a long, drawn
+out combo that is difficult to break out of once started! Once you become
+more comfortable with countering, you can start to use more of your
+character's arsenal (some moves do certain things on counterhit, such as
+juggle or stun). Add countering to reversing tactics, and you have a very
+good way to play defensively.
+
+  # Reversing
+Reversing is similar to countering. When your opponent attacks, you can
+perform a move that catches your opponent's arm or leg and gives a shattering
+counterattack. Mind you, not all characters have reversals, but some
+characters that don't have reversal moves have "combo breaking" moves
+instead. Combo Breaks are moves that reverse an opponent's attack, but
+don't do any damage. Reversals and Combo Breaks are very difficult to time
+correctly at first. Don't get discouraged though... reversing is a VERY
+important skill to learn.
+
+-BRYAN FURY-
+
+  # General
+Bryan's greatest asset is the mix of numerous small strings (all composed of
+three or four hits, ranging in attack levels) and powerful one-hitters.
+Dazzle the opponent with quick, varied strings for a while and then blast
+them with the power moves!
+
+  # Quad Attack (3,2,1,2) - M,M,M,M
+One of Bryan's many small strings, this string is a variation on Bruce's
+old Gatling Attack (3,2,1,4) combo, which hit M,M,M,L. I suggest, if
+you liked the Gatling Attack combo, do it a few times during the match,
+and then use the Quad Attack... the hard swipe at the end is almost a sure
+hit (unless the opponent never blocked the low hit at the end of the Gatling
+Attack combo, which you should be wary of).
+
+  # Straight Fist (f,F+2) - H
+One of Bryan's power move arsenal, the Straight Fist blasts the opponent
+away quickly and efficiently. It is very powerful for what it is, and is
+best executed after a small string (like the Quad Attack or Southern Cross).
+
+  # Double Punishment (qcf+2,B+2) - M,!
+This can only be completed if the Gutpunch (qcf+2) connects... but the
+results on completion are monstrous. Not only does it look cool (Bryan
+laughs like a madman during the second hit as well), but it does a ton of
+damage and can be followed up with a juggle! The best thing to do here is
+the Spinning Punches -> Spinkick (B+2,1,4) combo... all it takes is the
+Gutpunch to connect and the opponent suffers a good 80+% damage!
+
+  # Phantom's Claw (ss,1~2) - M
+Another powerful addition to Bryan's arsenal, the Phantom's Claw is a rapid
+fake-out version of the Straight Fist... and it comes off of a sidestep!
+Think of the look on your opponent's face when he/she is pummeled out of
+a string from the side... savor that...
+
+-EDDY GORDO-
+
+  # Vault Sweep (3~4) - L
+The Vault Sweep is one of Eddy's most important moves. It hits low twice,
+can be linked to the Hanstand Position, Rolling Kicks Combo, Crying Needle,
+Grounded Position... possibilities are endless. Keep in mind that the Vault
+Sweep takes some time to get off, and should be used from about two steps
+away.
+
+  # Flapjack Kick (3+4) - M
+The Flapjack Kick is a good move to follow up the Aggression Charge with.
+It does good damage, and hits from above. However, the best part about this
+move is that it can be used to fake out the opponent for a quick trip to
+Hanstand Position! Holding back after initiating the move will start Eddy
+into the move, and just before he hits the opponent, his legs split and
+he breaks into the Handstand Position. This should be used in moderation,
+though... and don't overuse either the kick itself or the fakeout.
+
+  # Arching Crescent (b+4) - H
+Although the Arching Crescent can be easily ducked or avoided, its main
+value lies in its chaining ability. It can be chained to two flip kicks or
+a long, low sweep combo. Try mixing it up a little... it's easy to forget
+one move when you only do the other!
+
+  # Handstand Position (f+3) - M
+One of Eddy's secondary attack modes. From here, Eddy has a whole slew
+of moves in his arsenal, from the Vault Sweep (this can be used for infinite
+strings... Vault Sweep, Rolling Kick Combo, Handstand Position, Handstand
+Kick, Vault Sweep, etc...), the Rollout Punch (and all the combos that go
+with it), Grounded Position, Inferno Kick... Also, don't forget that Eddy
+can move and dodge while in Handstand Position.
+
+  # Grounded Position (ss,3) - L
+Grounded Position is accessible after some moves by holding down, and is
+signified by Eddy holding his head up before lying down. This only lasts
+a second or two, so use one of his sweeps fast, then link to a spinning kick
+to get back into Handstand Position.
+
+-GUN JACK-
+
+  # General
+Gun Jack's biggest advantage is in the sheer power of his moves. One of the
+slowest characters in the game (if not the slowest), Gun Jack absolutely
+needs this power to survive. Use his stronger moves as much as possible
+without leaving yourself open!
+
+  # Reverse Mega Hammer Strike (d+1+2) - H
+This is one of Gun Jack's strongest blockable hits... and puts the opponent
+up for a low juggle. Follow it up with a Double Hammer Strike (1+2,1+2)
+for a quick, easy, insanely damaging combo. Note the time that it takes
+for Jack to wind up for the move, though... take into account that the
+opponent can easily duck and counter.
+
+  # Jack Hammer (1,1,1) - H,H,M
+Just what the opponent needs to get ahead... two slow-as-mud swipes that
+hit high. Be wary of the ducking opponent, and steer clear of using this
+string at all!
+
+  # Windmill Punches -> Left Power Swipe (D,df+1,2,1,1) - M,M,M,H
+These come off quick, provided you can get away with the crouch first.
+The swipe at the end does alot of damage and stuns if blocked, but has a
+nasty recovery time and can be ducked. My advice is to abort the swipe (1)
+at the end and go for a Double Hammer Strike (1+2,1+2) if possible!
+
+  # Cross Cut Saw (f,f+1+2) - M
+Quick, powerful, and comes off a dash (try buffering...)! One of the nicer
+parts of this move is that it can be followed up with a Low Cross Cut Saw
+(1+2) or a Megaton Punch (df+2) to make a string... one hits M,L and the
+other M,M... try mixing it up. The Megaton Punch takes longer to execute,
+so the experienced player (knowing this) will block the first hit, then
+crouch. The Low Cross Cut Saw would be blocked, but you go for a Megaton
+Punch... and the opponent realizes that the Low Cross Cut Saw won't come out
+because of the delay. The opponent then blocks high. Be wary of this...
+if it happens once, don't use the Cross Cut Saw again.
+
+-HEIHACHI MISHIMA-
+
+  # General
+Heihachi, without a doubt, is the most powerful character in the game
+because of his unfair blend of speed, power, and juggle combos. However,
+it is still very easy to lose with him due to the balanced nature of the
+game. Keep this in mind, and don't lower your defense for a second!
+
+  # Wind Godfist (f,n,d,df+2) - M
+Yes, friends, the Wind Godfist is back (sorry Jin players)! Heihachi's
+hits middle level, and juggles every time. It can be delayed incredibly
+long, because it can be executed any time during the crouch dash (I suggest
+reading Slikatel's articles on dash buffering and delays at TWP). Look at
+Heihachi's juggle selection under (NJ) for a list of the crushing follow-up
+possibilities!
+
+  # Chi Fists (1+2) - M
+The only thing that could possibly make Heihachi more formidable than
+he was in Tekken 2 would be the addition of a quick, almost invisible attack.
+He got it. Also try the Delayed Chi Fists (f+2~1+2) for added enjoyment.
+Sidestepping during a tenstring or other non-tracking string and then using
+the lightning-fast attack is another highlight. As always, don't overuse ;
+there are plenty more crushing attacks in Heihachi's arsenal!
+
+  # Twin Pistons (df+1,2) - M,M
+As dangerous as ever, the Twin Pistons remain high on Heihachi's priority
+list because of the time it takes to execute the first hit... virtually
+none. Both uppercuts hit middle level, and the second uppercut floats the
+opponent for a (BL) juggle... just Twin Piston again for some easy damage.
+This is an ideal minor counter move (or major counter for that matter, but
+it is riskier).
+
+  # Hell Sweeps (f,n,d,DF+4,4,4) - L,L,L
+The most sickening thing to the opponent about the Hell Sweeps as that
+they can branch off into five different attack routes after any of the
+three sweeps. You can use a Dragon Punch (1), a Rushing Uppercut (2),
+Tsunami Kicks (n,4~4), another Hell Sweep (4) or juggle (n,4 usually).
+All five hit middle level, which is extremely dangerous for the blocker.
+Mix your attacks up... never use a mid-level move after the same number
+of Hell Sweeps twice!
+
+-HWOARANG-
+
+  # General
+As always, and now more than ever, my advice to you... mix it up. Know
+everything in Hwoarang's arsenal, and don't let up for a second. Use
+all of his stances. Use tenstrings (or fragments of them) frequently.
+Don't let up for a second.
+
+  # Leg Switch (3+4) - N/A
+In my opinion, the Leg Switch is useless unless you know which leg is 
+forward (DON'T LOOK! It takes too long, leaving you open.). Hwoarang's
+best combos can be done regardless of what stance he's in (or with his
+left leg forward, which is the default usually).
+
+  # Bird Hunter (d+4,4) - L,H
+This is one of Hwoarang's easiest jugglers. It changes attack levels, too...
+for some reason, some find it difficult to block! Knock the opponent up
+in the air for a good four- or five-kick volley.
+
+  # Hunting Hawk (uf+3,4,3) - H,J,J
+Provided you can get the first hit off, this is a damaging and fun-to-watch
+combo. Provided you can get the first hit off. If the first hit is blocked,
+only the second hit comes out, not the third... two hits, easy to reverse.
+Only use once or twice a round... at the most.
+
+-JIN KAZAMA-
+
+  # General
+Jin, keeping in the Mishima juggle tradition, can hold his own, without a
+doubt. Alot of his moves have been toned down or are harder to use (?) than
+Kazuya's, but let's keep this in perspective.... Kazuya was a boss in Tekken
+2. The key here is still in the juggles and unorthodox stun punch combos.
+Keep going at the opponent, and don't forget that Jin has reversals.
+
+  # Tsunami Kick ([WS]4,4) - M,M
+Nothing is more annoying than knowing that Jin can pop up for a double hit
+after a crouch. Effective after going down with a d+1 to counter, Jin's
+Tsunami Kick is a great weapon. Nonetheless, this one should only be used
+while close, since it leaves Jin quite open.
+
+  # Demon Scissors (4~3) - M
+The one good use for this move is as a follow-up for juggle combos.
+Otherwise, it's useless because of the time it takes to execute.
+
+  # Demon Godfist (b,f+2) - M
+This one only stuns on counterhit... risky business for some. It is,
+however, a vital move if you want to start a good, damaging combo. It
+can be followed up with almost anything, so keep a few combos in mind before
+you start... split-seconds count.
+
+  # Wind Godfist (f,n,d,df+2) - H
+Contrary to popular belief, the WGF is still one of the best, most efficient
+ways to start a juggle combo. It only juggles on counterhit, though...
+otherwise, it knocks your opponent too far away for you to do anything
+useful.
+
+  # Rising Sun -> Hell Sweep -> Roundhouse (uf,n,4,4,4,4) - H,L,L,H
+Annoying at best. Remember that this pre-canned combo tracks, so don't
+abandon it if your opponent steps (or rolls) out of the way. Be wary,
+though, about using this move against a character that has reversals.
+A skilled opponent will put you down in no time. To be safe, get ready
+with the right limb reversal counter (f+2+4).
+
+-JULIA CHANG-
+
+  # General
+Julia's greatest strength lies in the variety of her strings. The key here
+is to keep at it, and never use the same combo more than twice! Her
+best throw, in my opinion, is the Cyclone Suplex (D,db,D,db+1+2) because
+it is difficult to escape. The only bad point to it is that it is sometimes
+difficult to pull off (especially for new players). Try sidestepping before
+starting some of her strings... that should increase your chances of hitting.
+
+  # Cannon Blast ((WS)2 or 3~2) - M
+This move is very important for starting Julia's multiple strings. Some
+strings to try are (WS)2,1,1 (which juggles... tack on a d+4,1 for
+quick damage), and (WS)2,1,4,3 (the Cannon Blast linked to the Buffalo
+Arrow Combo). There are many other possibilities as well... some come
+of quicker than others (check the moveslist!). The only down side to the
+Cannon Blast is the time it takes to come out and the recovery time, one
+of the worst in her arsenal.
+
+  # Buffalo Arrow Combo (df+1,4,3) - M,L,H
+This one is slow, but varies in attack level. I suggest using it every so
+often, but don't make it a habit. It can come off of a Cannon Blast, making 
+it a little less predictable.
+
+  # Cyclone Suplex (D,db,d,DB+1+2) - Throw
+This throw is superior to all of Julia's other throws because it is simply
+the most difficult to escape. As opposed to the easier throws (which are
+broken by tapping 1 or 2 at the right time, see the Throw Escapes section
+for details), this throw is broken with 1+2. The animation is pretty cool,
+too.
+
+-----------------------------------------------------------------------------
+
+*Winning Stances*
+
+To initiate a specific winning stance, hold down the indicated button after
+you win a round. Credit goes to WLSociety for writing this section.
+
+* Anna Williams
+  -1 Shakes her hands over her chest, turns, and poses with her hands out.
+  -2 Shakes her hands over her chest, turns, and poses with her hands out.
+  -3 Shakes her hands over her chest, turns, and poses with her hands out.
+  -4 Shakes her hands over her chest, turns, and poses with her hands out.
+
+* Bryan Fury
+  -1 Gives two spinkicks, then goes into a flamingo-type stance.
+  -2 One of Bruce's old sequences. Here Bryan throws two jabs, executes
+      a spinkick, and then ends in a winning stance.
+  -3 ???
+  -4 Bends backwards, laughs, and motions to his opponent, "bring it on!"
+
+* Eddy Gordo 
+  -1 Here Eddy starts out by doing his normal dancing fighting stance, 
+      does a spin as he then goes back to his stance and is laughing. 
+  -2 For this one he starts with a head spin, goes into a break dancing 
+      backspin move, and ends up in his normal dancing stance again. 
+  -3 Eddy does his 2 footed arial assault into some type of taunting laugh. 
+  -4 For his final win stance, he goes from a cartwheel directly into a 
+      flip, then back to his fighting stance.
+
+* Gun Jack
+  -1 In this sequence, Gun Jack bends his arms as if he is shooting an
+      arrow, and then turns and does it on the other side.
+  -2 Here Gun Jack puts out his arms and lifts off into the sky.
+  -3 In this classic sequence, Gun Jack rapidly beats his stomach with his
+      fists, subsequentially falling down due to lack of AI. Honestly, you'd
+      think that this problem would have been corrected after 19 years of
+      technological advancement! :)
+  -4 In this sequence, Gun Jack poses with his right arm bent, and then
+      steps forward and flails his arms toward the sky.
+
+* Heihachi Mishima
+  -1 Heihachi does a double pose with two long blocking stances.
+  -2 Here, Heihachi stomps on the ground, squaring off with lightning
+      engulfing him.
+  -3 He thrusts his arm down below his knees, lightning sparking from his
+      lowered hand.
+  -4 He bends down into a crouch, with his legs bent under him, then crosses
+      his arms.
+
+* Hwoarang 
+  -1 In this stance, it starts with him doing an upward kick and then 
+      into 2 powerful spinning round houses. 
+  -2 He starts this out by doing some type of fighting stance where his 
+      arms almost in a circular shape by his head. Then he goes into a low 
+      kick and a spin and ends it off with that same stance again. 
+  -3 This one is done very quickly. He first turns his back toward the 
+      camera, crosses his arms and will eventually end up in a totem pole 
+      like stance with his hands in the air. 
+  -4 Here Hwoarang does 3 jabs, goes into the same stance as the first 
+      one, crosses his arms and then raises and extends his right arm 
+      forward. 
+
+* Jin Kazama 
+  -1 Jin does a quick 4 punch combo into a defensive fighting stance. 
+  -2 Jin displays his skills by doing a 3 hit 1,1,2 combo if front of the 
+      camera. 
+  -3 Jin shows his true Mishima roots by imitating the Devil Kazuya stance 
+      from Tekken 2 where he stands straight up with his arms folded and as 
+      the camera zooms in he looks away. 
+  -4 Here Jin does a small uppercut and then comes back with a leaping one 
+      directly toward the camera.
+
+* Julia Chang
+  -1 Here Julia does a forward flip and puts her hands on her hips.
+  -2 Here Julia jumps off to the side, gets down on one knee, and puts
+      her hands together as if she was in prayer.
+  -3 In this sequence, Julia does a backflip and puts her hands on her hips.
+  -4 Jumps up in action, then stands and goes into prayer.
+
+* King
+  -1 Here King leaps forward at you and raises his right arm a la 
+      Tekken 2. 
+  -2 King simply does a left backfist into a downward slash as he growls. 
+  -3 For this one, King raises his fist 3 times kind of like "Three cheers 
+      for King!!" 
+  -4 King drops his arms as he looks up and growls at the moon.
+
+* Kuma / Panda
+  -1 Here the bear mocks her nemesis Paul Phoenix by imitating Paul's
+      "Cop a squat" win stance.
+  -2 Classic Tekken 2 Kuma where she walks around waving her hands in
+      the air.
+  -3 The bear continues her theiving ways by stealing Marshall Law's old
+      school pose from Tekken 1. Here she rises up and leans back throwing
+      her hands above her head.
+  -4 This one is by far the funiest one of them all. After finishing
+      off her opponent, Kuma does her newer dancing bear routine.
+
+* Forest Law 
+  -1 Here Forest square's off his body as he brings his arms in and 
+      concentrates his chi energy. 
+  -2 He starts this one by going into a chi concentration and now that he 
+      is ready for combat he then moves into his fighting stance. 
+  -3 This is one of his more active win stances where it starts by him 
+      doing 2 spinning round houses and then going into 2 jabs. 
+  -4 For this pose, Law does 2 jabs then rises his right leg slowly from 
+      forward to back and then holds it there showing off his balance and 
+      skills as a fighter. 
+
+* Lei Wulong 
+  -1 Here Lei starts out by doing his own rendition of his of a Can-Can 
+      kicks, does 5 punches and then ends up in his Lion stance (I think...). 
+  -2 Lei does a simple pose with both his arms extended in the air. 
+  -3 Lei shifts back and does his drunken dance a la Tekken 2. 
+  -4 Lei completes 4 stance changes as he displays his versatility as a 
+      fighter. 
+
+* Nina Williams 
+  -1 Nina uses her slutty walk to move toward you, do a backhand swipe, 
+      and then laugh. 
+  -2 In this one, she does a forward cartwheel into her trademark backhand 
+      swipe. 
+  -3 Nina does spins in a circle and instead of a backhand swipe, we see a 
+      downward slash. 
+  -4 This stance starts out with her now trademarked backhand swipe into 
+      her deviant laugh.
+
+* Ogre I
+  -1 Flies toward the camera, chanting.
+  -2 Raises his hand in the air, chanting.
+  -3 ???
+  -4 ???
+
+* Ogre II
+  -1 Flies toward the camera, chanting.
+  -2 Raises his hand in the air, chanting.
+  -3 ???
+  -4 ???
+
+* Paul Phoenix 
+  -1 For this one, Paul brushes his hands off 3 times like he just took 
+      out the trash and then raises his right arm in the air as a symbol of 
+      victory. 
+  -2 Paul starts off by dropping a devastating hammer punch into some form 
+      of deep concentration. 
+  -3 Paul simply does 3 salutes to show off his patronage. 
+  -4 Here Paul squats down while looking at his opponent and starts 
+      taunting them. 
+
+* Ling Xiaoyu 
+  -1 This is the one that I see all the time. It is her handstand into 
+      the splits (reminds me of Chun Li) then she falls back down onto her 
+      knees. 
+  -2 Here she calmly folds her hands together and bows to her opponent 
+      similar to a Chinese greeting. 
+  -3 Ling apparently has the happy feet in this win stance as she very 
+      enthusiastically hops around flailing her arms showing off her 
+      fighting skills. 
+  -4 Ling waves her arms in a circular motions and then gets into a 
+      defensive stance ready to take out her next victim. 
+
+* Yoshimitsu 
+  -1 Here Yoshimitsu draws his sword and waves it back and forth as he 
+      then pulls it back and is ready to strike. 
+  -2 Yoshimitsu does a back flip into his sit down stance as he then 
+      draws his draws his sword and holds it in front of him. 
+  -3 This Stance begins by him doing his forward double somersault then 
+      ends with him drawing his sword and is ready to strike. 
+  -4 Ahh...the classic Tekken 1 win stance where bends his knee and hops 
+      on one leg, then wiggles his head back and forth and goes into a stiff 
+      arm motion. 
+
+-----------------------------------------------------------------------------     
+
+			    Mirrors of this FAQ
+			    -------------------
+
+   - http://members.tripod.com/~bardarchive/tek3faq.txt
+
+-----------------------------------------------------------------------------     
+
+			     Special Thanks To
+			     -----------------
+
+   - Catlord, for keeping me posted and constantly on guard.
+   - Slikatel, for helping me start out as a FAQ writer.
+   - Ben Cureton, because he has a bigger ego and a great moveslist.
+   - Richard "Dick" Luk, for providing my FAQ's first mirror.
+   - Justin Pierce, for keeping me in line.
+   - Douglas Rosengard, for cracking the update whip and scouting out moves
+     in odd places.
+   - MG, for releasing most of Lei's moves and scouting out the fixes for the
+     95% version of Tekken 3.
+   - WLSociety for writing up part of the win stance guide.
+   - Yuji Higaki for releasing some Xiaoyu moves and Paul moves.
+   - Dan Mueller for releasing Lei's 9-string and other combos.
+   - J.J. Sevilla for supplying some of Jin's throws and juggles, fixes for 
+     Jin, and Xiaoyu's juggle combos and other various moves.
+   - Nogard for supplying moves for Eddy and Hwoarang.
+   - Mario Xavier for supplying Nina's moves.
+   - Davide Pasca for supplying Law's Triple Fist Strike Combo.
+   - Beamer for supplying fixes for King.
+   - Bishop for sending in fixes and moves for Xiaoyu.
+   - jizz-monkey@usa.net for sending in throw techniques for Eddy.
+   - Jon DeCausemaker for contributing moves and fixes for Eddy, Hwoarang,
+     Xiaoyu, Yoshimitsu, and King.
+   - Wangel for contributing some of King and Julia's moves.
+   - Dharmesh Topiwala for contributing some of King's throws, and strings
+     for Hwoarang and Jin.
+   - Marcel Michaud for contributing some of King's throws.
+   - Tim Simstad for contributing some of Xiaoyu's moves.
+   - Brett de Jesus for contributing some of Eddy's moves.
+   - Mike Unger and Jay Brewer for contributing some of Eddy's moves, Law's
+     moves, Hwoarang's moves, and Yoshimitsu's moves.
+   - Brady Prigge for contributing some various moves.
+   - Nozedive, for providing a mirror of this FAQ and contributing some of
+     Paul's moves.
+   - William Knight for contributing various moves and fixes.
+   - Chris Caniano for contributing some of Yoshimitsu's moves.
+   - tomess1@aol.com for contributing some of Nina's moves.
+   - Davey Schmitt for contributing some of Eddy's juggles.
+   - Steve Valenzuela for contributing some of Nina and Kuma's moves.
+   - David "Ryoga" Barney for contributing moves for King, Paul, and Xiaoyu.
+   - Bixby141@aol.com for contributing moves for Xiaoyu, Jin, and Yoshimitsu
+   - Samslara for contributing moves for Yoshimitsu and Lei.
+   - Uncauzi for contributing moves for Eddy.
+   - Han Joon-kyu for contributing juggles for Hwoarang.
+   - Gamemaster Ian for contributing one of Eddy's tenstrings.
+   - Mike "K.O.F." Mallari for contributing various juggles and moves.
+   - Tanner Owen for contributing moves for Yoshimitsu.
+   - Ploof for contributing various moves and fixes.
+   - Paul Gullas for contributing some fixes.
+   - Bruce Tsu-Lieh Chen for contributing various moves and fixes.
+   - Erol22 for contributing fixes for King.
+   - Sung-Nyung Lee for contributing moves for Xiaoyu.
+   - John Apenbrink for contributing fixes for Law.
+   - DirkSJ for contributing moves for Eddy.
+   - Farl for contributing moves for Eddy.
+   - Tadarich for contributing moves for Julia.
+   - UrbnKnite for contributing moves for Eddy.
+   - James Cook for contributing moves for Julia.
+   - Captain M for contributing moves for Julia.
+   - The Hoang Le for contributing various moves.
+   - Cryadis for contributing moves for Gun Jack.
+   - Jeremy970 for contributing moves for Julia.
+   - Jeong Jae Lee for contributing moves for Julia.
+   - Blacktimms for contributing moves for Bryan, Heihachi, and Ogre I.
+   - Song Dae-kyu for contributing moves for Bryan.
+   - Sentares for contributing fixes for Jin.
+   - Eternam for contributing juggles for Lei.
+   - Zebra711 for contributing juggles for Heihachi.
+   - Richard Jordan for contributing moves for Ogre II.
+   - jalper01@fiu.edu for contributing various moves and fixes.
+   - Nathan Ryan and The Ozman for contributing various fixes.
+   - phazedoubt@hotmail.com for contributing various moves and fixes.
+   - ZenFox for contributing various moves and fixes. 

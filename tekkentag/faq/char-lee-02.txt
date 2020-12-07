@@ -1,0 +1,921 @@
+
+                                    _ _ _
+                                   /    / _ _ _ _    _ _ _ _
+                                  /    / /    _ _ //    _ _ /
+                                 /    / /   /_ _  /   /_ _
+                                /    / /   _ _ _//   _ _ _/   
+                               /    / /   /_ _  /   /_ _
+                              /    / /_ _ _ _ //_ _ _ _ /
+                             /    /
+                            /    / _ _ _ _ _ _ _
+                           /                    /
+                          / _ _ _ _ _ _ _ _ _ _/
+         _ _ _ _ _ _ _ 
+        /             /
+       /     _ _ _ _ /
+      /    /     _ _     _ _   _ _ _ _    _ _ _ _ _   _ _     _ _ _ _      _ _ _     _ _
+     /    /     /   /   /   //        \  /         \ /   /   /        \   /    /   /   /
+    /    /     /   /   /   //   _      |/   __     //   /   /   _      | /     |  /   /
+   /    /     /   /_ _/   //   /  \   //   /  /   //   /   /   /  \    //      | /   /
+  /    /     /   _ _     //   /__ /  //   /  /   //   /   /   /__ /   //   _   |/   /
+ /    /_ _ _/_ _/   /   //   _ _    //   /__/   //   /_ _/   _ _     //   / |      /
+/               /  /   //   /  /   //          //         / /   /   //   /  |     /
+|_ _ _ _ _ _ _ /  /_ _//_ _/  /_ _// _ _ _ _ _//_ _ _ _ _/ /   /_ _//_ _/   |_  _/
+
+********************************************************************************
+			Lee Chaolan, the Silver Haired Devil v1.0
+				by Devil Lee
+		              (ChrisG0000@aol.com)
+				 
+Legal Info
+Introduction
+Movelist
+Movelist In-Depth
+Throws
+Strategies
+Juggles
+Okizeme
+Sidestep
+Special
+Netsu
+Tag Partners
+About Lee Chaolan
+History
+
+********************************************************************************
+ Legal Info
+********************************************************************************
+
+I wrote this guide, but if you want to distribute it or print it, please leave
+it in its original form.  If you need to change something, please e-mail me so
+I will know and I can see what you are doing with it. Tekken and all the 
+characters in Tekken are copyrighted by Namco.
+
+********************************************************************************
+ Introduction
+********************************************************************************
+A B C D E
+1 2 3 4 5
+
+Thank you for reading my guide on Lee Chaolan!  It's best viewed in a monospace
+type editor, like Notepad.  Make sure the numbers and letters match up.  This
+guide is designed for people who already know the basics about Lee.  If you're
+willing to come this far, are you willing to come a little further?
+
+The latest version of this FAQ can always be found at: 
+http://members.aol.com/ChrisG0000/lee.htm
+
+********************************************************************************
+ Movelist 
+********************************************************************************
+Please use the conventions found at www.tekken.net.
+                   
+Command           Place           Name                 Damage      Escape
+1+3               front        Neck Fracture            30            1
+2+4               front        Chastisement Punch       30            2
+f,f+3+4 [~5]      front        Knee Drive [tag]         28            1
+(1+3_2+4_2+5)     left         Harassment               40            1                         
+(1+3_2+4_2+5)     right        Stunner                  38            2
+(1+3_2+4_2+5)     back         Bulldog                  45           n/a                   
+                 
+Command             Name                                Damage     Range  Prprt.
+1,2                 Double Punch                        5,12       hh
+1,1,1,1,1           Machine Gun Rush                    5,5,5,5,5  hhhhh  SH
+ = 2,2               = Lee Knuckle                      12,10      hh     #1
+ = F+2,2<2           = Lee Knuckle Combo                12,5,10    hmh    #1
+b+1,1               Fang Rush                           8,8        hm
+ = 2                 = Triple Fang                      15         h
+ = 3+4               = Hit Man Stance                   n/a        n/a
+2,2                 Rave War                            6,10       hh
+F+2<2<2             Rave War Combo                      6,5,10     hmh
+SS+2                Rear Cross Punch                    17         h      GB
+(SSR+3_SSL+4)       Lee Screw                           (30_24)    h
+d/b+3               Slice Kick                          16         L      HSc
+u/f+3               Quick Silver Sting                  20         h      GB
+d/f+3               Step In Kick                        18         m                         
+f,f+3               Split Axe Kick                      23         m      GB
+FC,d/f,d,d/f+3      Dragon Slide                        17         L
+3                   Head Kick                           18         h
+ = f+3               = Step In Kick                     15         m
+ = b+3               = Feint Hammer                     19         m      KS GB
+ = 3,f+3             = Dbl. Head Kick - Step In Kick    10,15      hm
+ = 3,b+3             = Dbl. Head Kick - Feint Hammer    10,19      hm     KS GB
+ = 3,3,b+3           = Trpl. Head Kick - Feint Hammer   10,10,19   hhm    KS GB
+b+3~3 [~4]          Feint Mist Wolf [Mist Trap]         33         h      #4
+b+3<3               Mist Wolf Combo                     18,18      mh
+d+3,3               Silver Low - Head Kick              8,18       lh
+ = f+3               = Step In Kick                     15         m
+ = b+3               = Feint Hammer                     19         m      KS GB
+ = 3,f+3             = Double Head Kick - Step In Kick  10,15      hm
+ = 3,b+3             = Double Head Kick - Feint Hammer  10,19      hm     KS GB
+ = 3,3,b+3           = Triple Head Kick - Feint Hammer  10,10,19   hhm    KS GB
+WS+3,3              Tsunami Kick                        10,17      mm                          
+ = d/f+3             = Step In Kick Infinite Starter    18         m      #2
+ = D+3               = Silver Low Infinite Starter      15         l      #2
+  = 3,3,3,3...        = Rave Kicks                      10,15,10,15 mhmh  #3
+   = u+3,3,3...        = Feint Hammer - Rave Kicks      15,10,15... mh    #3
+   = d+3,3,3...        = Silver Low - Rave Kicks        15,10,15... lmh   #3
+(f,f,N+3,4_WR+3+4,4)Shredder                            20,15      mm
+ = 4                 = Shredder Combo                   25         h      GB
+ = (f_d/f)+4         = Mid Shredder                     15         m
+ = (d_d/b)+4         = Low Shredder                     15         L
+f+3+4               Silver Sting                        30         h
+f,f,N+3+4           Delayed Dragon Slide                15         L
+b,b,N+3+4           Handspring Backflip                 n/a        n/a
+4,3,4               Shaolin Spin Kicks                  16,12,12   hhh
+FC,(u/b_u_u/f)+4 [~5] Quick Catapult [tag]              22         m      JG
+FC,(U/B_U_U/F)+4    High Catapult Kick                  28         m
+FC,(U/B_U_U/F)+3+4  Rainbow Kick                        30         M
+FC,(u/b_u_u/f)      Fake Somersault                     n/a        n/a
+d,d/f+4             Silver Tail                         18         L      OSc
+ = 2,2,1              = Silver Demon Fist               27         !      #6
+f+4                 Snap Kick                           7          h
+b+4 [~3] [~5]       Silver Heel [Hit Man Stance] [tag]  22         m      BNc #5
+b,b+4 [~3]          Cutter [Hit Man Stance]             19         h                  
+d,d/b+4 [~5]        Blazing Kick [tag]                  22         m      JG
+4,u+3               Roundhouse - Somersault             16,30      hm
+4,4,4               Machine Gun Kicks                   16,8,10    hhh
+d+4                 Laser Edge                          7          l
+ = <N+4,4,4          = Machine Gun Kicks                20,8,10    hhh
+ = ~N+4~3            = Silver Cyclone                   20,80      <!>
+ = <N+4,3,4          = Shaolin Spin Kicks               20,12,12   hhh
+ = <N+4,u+3 [~5]     = Roundhouse - Somersault [tag]    20,30      hm
+D+4<4<4<4 [~3]      Laser Edge Rush [Hit Man Stance]    7,5,5,21   lllm
+3+4                 Hit Man Stance                      n/a        n/a
+f,N                 Mist Step                           n/a        n/a
+                                                                                       
+#1 Chain after the 1st, 2nd, 3rd or 4th hit of the Machine Gun Rush.
+#2 The Infinite Kicks have to be started with 1 Silver Low or 1 Step In Kick 
+   after the WS+3,3.
+#3 Sequence of the Infinite is 2 Rave Kicks, Feint Hammer or Low Silver, 
+   2 Rave Kicks, Feint    Hammer or Silver Low...
+#4 If the High Kick is blocked, tapping 4 at the exact frame will cause the 
+   opponent to grab    Lee's foot. Lee will auto reverse.
+#5 No hit is required to buffer a tag after this move.
+#6 This move only works with Kazuya Mishima on your team.
+
+
+Command          Name                             Damage      Range   Properties
+1,1...           Freaker Jabs - Hit Man Stance    15,12...    h
+2 [~5]           Scatter Blow [tag]               23          m       JG GB
+3                Scatter Kick                     21,13       h
+4                Ship Slicer                      22          L       JG GB
+(u_d)            Predator Step                    n/a         n/a
+                  
+Command          Name                             Damage      Range      
+d+3+4            Silver Cyclone                   80          <!>
+d/b+1+2          Silver Fang                      100         !
+ = u,u            = Cancel                        n/a         n/a
+                
+Command                    Hits           Damage                   Range
+d/f+1,2,2,1,3,3,3,4,3,4    10 	      10,5,6,5,7,6,7,7,10,25   mhm"hh"Lhhhm
+
+********************************************************************************
+ In-Depth Movelist 
+********************************************************************************
+
+1,2                 Double Punch                          5,12       hh
+
+Rating:**
+
+Two punches.  Not extremely useful.  These two punches come out very, 
+very, VERY slow. Slower than a Mishima Shining Fist.
+
+
+1,1,1,1,1           Machine Gun Rush         5,5,5,5,5  hhhhh        SH
+ = 2,2               = Lee Knuckle           12,10      hh           
+ = F+2,2<2           = Lee Knuckle Combo     12,5,10    hmh          
+
+Rating:***
+
+Five consecutive left punches, an old move of Law's.  Good players will 
+duck under this, so don't use all five hits, link into one of the Rave 
+War...err, "Lee Knuckle" combos.
+
+
+b+1,1               Fang Rush                8,8        hm
+ = 2                 = Triple Fang           15         h
+ = 3+4               = Hitman Stance         n/a        n/a
+
+Rating:****
+
+One of Lee's new moves, he backhands high, punches again mid, and then 
+another high punch.  Instead of doing the last punch, you can go into 
+Hitman stance.  This interrupts very nicely, and I think on counter hit 
+all three will hit, I'm not sure.  There is an 'Electric' version of the
+Triple Fang Rush.  Lee shouts his Silver Cry(Waaanggyaah!);
+The notation I think is b+1,N+1,2.  Look below in the 'Special' section
+for more information.
+
+2,2                 Rave War                  6,10       hh
+F+2<2<2             Rave War Combo            6,5,10     hmh
+
+Rating: ***
+
+Just a short string of punches.  The Rave War Combo works nicely on 
+interrupting opponents who start their strings out far.  I believe on 
+a counter hit, you will connect all three hits of the Rave War Combo and 
+the last hit will knock them down.  Be wary of Reversal happy people, 
+you may want to buffer a Chicken.
+
+
+SS+2                Rear Cross Punch          7         h            GB
+
+Rating: ***
+
+Lee sidesteps and throws a right cross.  Other than the guard break, this is a
+useful move; it stuns.  Decent range, not a lot of damage.  Use this side
+stepping move when up close.
+
+(SSR+3_SSL+4)       Lee Screw                (30_24)    h
+
+Rating: ***
+
+Lee sidesteps and swings a high roundhouse, causing good damage.  This move is 
+not all that bad, it comes out reasonably fast.  The only difficult thing about 
+this is knowing which direction you are sidestepping and pressing the correct 
+kick.  More of an annoyance, but a good move none the less.  This move is better 
+used away from your opponent, it requires a little wind up.
+
+d/b+3               Slice Kick              16         L            HSc
+
+Rating: ***
+
+Lee spins and swings his foot around your ankle.  It's deceptively slow, 
+although I consistently fake people out with this move.  Use this for chipping 
+at your enemy's life.
+
+
+u/f+3               Quick Silver Sting      20         h            GB
+
+Rating: ***
+
+A hopkick version of the Silver Sting(which doesn't juggle).  
+This attack hops over most attacks.  It doesn't knock them as far away when 
+blocked compared to the Silver Sting, but you still get the guard break so you 
+are safe while this move recovers.  Great range, good priority.
+
+d/f+3               Step In Kick            18         m                         
+
+Rating: ***
+
+Lee hops in and kicks you.  Not much to say here.  Stick to the Split Axe Kick 
+if you must.
+
+f,f+3               Split Axe Kick          23         m            GB
+
+Rating: ***
+
+A Mishima classic.  Lee hits the opponent with a strong left axe kick.  It 
+hits mid, causes guard break if blocked, does decent damage if connected with.  
+Altogether not a bad move, but comes out a little on the slow side.
+
+
+FC,d/f,d,d/f+3      Dragon Slide            17         L
+
+Rating: ***
+
+Law's Dragon Slide.  Pretty quick, usually catches the opponent off guard.  
+Good for okizeme. From the FC position,  the only other decent move is a WS 
+Tsunami Kick to mix up with.  If you duck a throw, you'd probably want to 
+start this or the Infinite Kicks to mix up.
+
+3                   Head Kick               18         h
+ = f+3               = Step In Kick         15         m
+ = b+3               = Feint Hammer         19         m            KS GB
+ = 3,f+3             = Dbl. Head Kick - Step In Kick   10,15      hm
+ = 3,b+3             = Dbl. Head Kick - Feint Hammer   10,19      hm      KS GB
+ = 3,3,b+3           = Trpl. Head Kick - Feint Hammer  10,10,19   hhm     KS GB
+
+Rating: ***
+
+Look below to the 'Silver Low - Head Kick' description.  I don't like to start 
+off with the high kick because it can be ducked, duh!
+
+b+3~3 [~4]          Feint Mist Wolf [Mist Trap]       33         h            #4
+
+Rating: ****
+ 
+Lee feints a quick mid kick, then kicks your face in for real.  The '4' option 
+after the second kick is a kind of throw.  Useful against turtlers. If your 
+opponent blocks, and you press 4 as the block animation starts, your opponent 
+will grab Lee's left foot, only for Lee to swing his right leg around and beat 
+them down!   Use when close only.  The timing of the '4' must be perfect, it is 
+very difficult to get off a lot of the time.  
+
+
+b+3<3               Mist Wolf Combo                       18,18      mh
+
+Rating: ***
+
+Lee kicks the opponent mid then high.  Fairly decent move, but try to only use 
+this up close.  Pull it out every once in a while, people will block the first 
+kick and eat the second trying to attack you.
+
+d+3,3               Silver Low - Head Kick                8,18       lh
+ = f+3               = Step In Kick                       15         m
+ = b+3               = Feint Hammer                       19         m     KS GB
+ = 3,f+3             = Double Head Kick - Step In Kick    10,15      hm
+ = 3,b+3             = Double Head Kick - Feint Hammer    10,19      hm    KS GB
+ = 3,3,b+3           = Triple Head Kick - Feint Hammer    10,10,19   hhm   KS GB
+
+Rating: ***
+
+Lee hops in with a low kick, and then a high kick.  From there you can end the 
+string with a mid Step In Kick or Feint Hammer, or another high kick and end it.  
+Fairly useful, I wouldn't recommend doing the Triple Head Kick as you will get 
+ducked and punished.  Good recovery off this move.  I don't see this move as 
+being used a lot by people, but you can bait your opponent into trying to 
+reverse you, and buffer a Chicken.  Stick to the Silver Low to Head Kick, and 
+end with the Step In Kick.
+
+
+WS+3,3              Tsunami Kick                          10,17      mm                          
+ = d/f+3             = Step In Kick Infinite Starter      18         m        #2
+ = D+3               = Silver Low Infinite Starter        15         l        #2
+  = 3,3,3,3...        = Rave Kicks                        10,15,10,15... mhmh #3
+   = u+3,3,3...        = Feint Hammer - Rave Kicks        15,10,15... mh      #3
+   = d+3,3,3...        = Silver Low - Rave Kicks          15,10,15... lmh     #3
+
+Rating: *****
+
+The Tsunami Kicks are another Mishima classic.  From there you can go into a 
+Step In Kick, or Silver Low, and go into the Infinite Kicks.  Once the Infinite 
+Kicks are started, you can hold up for Feint Hammer and two Rave Kicks, or hold 
+down for a Silver Low and two Rave Kicks.  The Infinite Kicks were Lee's most 
+potent weapon in Tekken 1, but they've been toned down in each game.  The 
+Infinite Kicks are almost useless now.  If blocked, the Infinite Kicks will 
+knock them far away after several hits. If you do the Infinite Kicks too long, 
+you will start to change axis from your opponent(provided they don't reverse you 
+or sidestep before that).  Still a great move though, just don't use it for 
+longer than a few seconds.  The Kicks are fast enough that it's difficult to 
+interrupt, and if they are blocked you recover fast enough so you won't be left 
+open.
+
+(f,f,N+3,4_WR+3+4,4) Shredder                         20,15      mm
+ = 4                  = Shredder Combo                25         h            GB
+ = (f_d/f)+4          = Mid Shredder                  15         m
+ = (d_d/b)+4          = Low Shredder                  15         L
+
+Rating: ****
+
+This move is great because you can fake them out while running or dashing toward 
+them.  Two quick jump kicks, and you can follow up with a high, mid, or low kick.
+The high kick if blocked breaks their guard, allowing you good recovery.  Mix the
+endings up with High, Mid, Low kicks(or don't complete it and throw them).
+Overall, a decent move that you should throw in every once in a while.
+
+f+3+4               Silver Sting                          30         h
+
+Rating: ****
+
+Lee hops, screams 'Waangyah!' and lets loose with a brutal kick to the face.  
+This move comes out faster than you would think, this is great to use if you're 
+farther than three or four character widths away.  If this move is blocked, the 
+opponent is knocked away far enough so you can recover.  All in all, a safe move 
+that you should use.
+
+f,f,N+3+4           Delayed Dragon Slide                  15         L
+
+Rating: ****
+
+A great move for okizeme and just overall confusion.  Mix this up with the Silver
+Sting, and you've got a dangerous combination.  Please use this. Please.
+
+b,b,N+3+4           Handspring Backflip                   n/a        n/a
+
+Rating: ***
+
+Use this for backing out of unblockables, and getting some breathing room. Don't
+do this move up close, you'll eat whatever they throw at you.  Ironic, isn't
+it?  Go into Hitman from this if you have more life than your opponent and want
+to bait them to attack you.  What can I say...more useful than the Fake 
+Somersault!
+
+4,3,4               Shaolin Spin Kicks                    16,12,12   hhh
+
+Rating: ***
+
+Three spinning roundhouses, all high.  Good for filling juggles.  Good players
+will duck under this attack. Stick to the first two kicks.
+
+FC,(u/b_u_u/f)+4 [~5] Quick Catapult [tag]            22         m            JG
+
+Rating: ***
+
+The flipkick.  I'm surprised Namco did not give him the easy motion that Anna 
+has, you have to be in the FC position to get this off.  I used to not like this 
+move, but it is Lee's most damaging juggle starter.  You can tag off this move 
+as well.  The recovery of this move is lacking though, it is difficult to 
+perform high moves afterward and connect.  The awkward joystick motion is the 
+only bad thing on this move.
+
+FC,(U/B_U_U/F)+4    High Catapult Kick                    28         m
+FC,(U/B_U_U/F)+3+4  Rainbow Kick                          30         M
+FC,(u/b_u_u/f)      Fake Somersault                       n/a        n/a
+
+Rating: **
+
+The more useless flipkick variants.  The High Catapult Kick leaves Lee soaring 
+through the air.  If you land behind the opponent, you're gonna hurt.  If you 
+try to do this move up close, you're gonna hurt(unless you're lucky and they 
+don't hit you out of it). The Rainbow Kick looks the same, does about the same 
+damage, but it will leave you on the ground and hits grounded opponents.  Fake 
+Somersault...why? Don't use that move ever. Other than a taunt, you're asking 
+for it if you use these moves.  Maybe you can
+bruise the opponent's ego...
+
+d,d/f+4             Silver Tail                      18         L            OSc
+ = 2,2,1              = Silver Demon Fist            27         !            #6
+
+Rating: ****
+
+Lee gets down way low and sweeps.  Good move to put into your mix up of mid 
+and low. If Kazuya is on your team, you can link into the Silver Demon Fist.  
+About half a sec after the sweep, Lee rises and silver sparks surround his fist 
+as he punches the opponent.  The qualities of this punch are very unique, to my 
+understanding it does not work as a standard unblockable.  If your opponent 
+eats this move, they'll fly a short distance away, unable to tech roll.  If 
+they do block, they'll be stunned just as Kazuya's Glorious Demon Fist stuns.  
+Speedy for an unblockable, most people will eat this move if they try to hit 
+you out of it.
+
+f+4                 Snap Kick                             7          h
+
+Rating: *****
+
+I love this kick.  Fast, will interrupt most anything.  Follow up with several 
+more Snap Kicks when they try to attack you.  Use this a lot.
+
+b+4 [~3] [~5]       Silver Heel [Hit Man Stance] [tag]    22         m    BNc #5
+
+Rating: ***
+
+This move has animation similar to the Slice Kick.  If they eat this move, they 
+bounce juggle on counter. After the bounce juggle, you can do Silver Sting or a 
+combo. If they block this move, the enemy will be pushed far away.  Linking into 
+Hitman seems to improves the recovery.  This is the only move in the game 
+you can tag out of without having to hit with.  Useful for safely tagging out.
+
+b,b+4 [~3]          Cutter [Hit Man Stance]               19         h                  
+
+Rating: ***
+
+Imagine the Silver Heel, slower, hitting high, without the tag function.  If 
+your opponent eats this, they'll get knocked away.  Blocking it pushes them away 
+just as the Silver Heel does.  Link to Hitman; auto-blocks mid and high attacks.
+
+d,d/b+4 [~5]        Blazing Kick [tag]                    22         m        JG
+
+Rating: ****
+
+Lee's best juggle starter.  Lee steps forward and knocks you sky high.  Useful
+for setting up great tag juggles.
+
+
+4,u+3               Roundhouse - Somersault               16,30      hm
+
+Rating: ***
+
+Uh....roundhouse to flip kick....enough said.  Most people will eat the flipkick
+trying to hit you after the roundhouse.  Sometimes you pull out a hopkick, so be 
+careful.
+
+4,4,4               Machine Gun Kicks                     16,8,10    hhh
+
+Rating: ****
+
+Three fast high kicks, this is a very fast move, nice damage, useful.  
+
+D+4<4<4<4 [~3]      Laser Edge Rush [Hit Man Stance]      7,5,5,21   lllm
+d+4                 Laser Edge                            7          l
+ = <N+4,4,4          = Machine Gun Kicks                  20,8,10    hhh
+ = ~N+4~3            = Silver Cyclone                     20,80      <!>
+ = <N+4,3,4          = Shaolin Spin Kicks                 20,12,12   hhh
+ = <N+4,u+3 [~5]     = Roundhouse - Somersault [tag]      20,30      hm
+
+
+Rating: *****
+
+Ah, Lee's last resort attack that everyone falls back on.  The Laser Edge Rush
+does three low left kicks and a mid kick that knocks your opponent down. Scrubs 
+will eat this attack all day long.  If your opponent knows how to block this, watch 
+out. You can get hit and still block the third hit(which means you can block the 
+fourth hit).  If they don't block the third hit, the last hit is guaranteed.  The 
+recovery off the last hit is bad, try linking into the Hitman after this.  You can 
+complete the Laser Edge Rush and Chicken the last hit.  If they don't reverse you 
+will be left open, so safer to stop if they block the third hit.
+
+Instead of doing the Laser Edge Rush, you can return the stick to neutral and do 
+Machine Gun Kicks, Shaolin Spin Kicks, the Roundhouse to Flipkick.  Mix these up 
+for best results.  He can now do his unblockable from the Laser Edge kick, a glitch 
+from Tekken 2 that would come out rarely.  Sometimes you can catch them off guard 
+with this.  This link up is probably Lee's signature move, use them wisely.
+
+f,N                 Mist Step                             n/a        n/a
+
+Lee lunges forward and steps low.  This is a useful method of crossing distance, 
+you can interrupt this animation with any standing move, even though it looks like 
+you are semi-ducking.
+
+
+3+4                 Hit Man Stance                        n/a        n/a
+
+Drops you into Hitman Stance.  Lee taunts the opponent, beckoning him.  It 
+automatically blocks mid and high hits.  He can sidestep and stay in this stance, 
+unlike most people's stances.
+
+
+1,1...              Freaker Jabs - Hit Man Stance    15,12...          h
+2 [~5]              Scatter Blow [tag]               23                m     JG GB
+3                   Scatter Kick                     21,13             h
+4                   Ship Slicer                      22                L     JG GB
+(u_d)               Predator Step                    n/a               n/a
+
+Freaker Jabs always return you to Hitman Stance.  Poke only.  Not good for much 
+else.
+**
+
+Scatter Blow juggles high, you can tag out of this.  It knocks them too far away 
+for anything except a Silver Sting(f+3+4).
+***
+
+Scatter Kick deal nice damage, it pushes them far away if blocked. On counter, 
+it acts like a throw, where Lee kneels on your head(Cool!) Pull this one out if 
+they get close.
+***
+
+Ship Slicer is similar to Lee's d,d/f+4 sweep.  If it connects you can follow 
+up with Tsunami Kick(and into Infinite if you want).   
+***
+
+NOTE: The Predator Step is a sidestep move.  Lee remains in Hitman after the 
+sidestep, and it moves you slightly closer toward your opponent.
+
+The key to the Hitman is baiting your opponent to attack.  Make them come to 
+you.  Mix up your attacks.
+                    
+
+d+3+4               Silver Cyclone                   80                !
+
+Rating: ***
+
+Lee ducks down and sparks encircle him.  He rises and lets loose with a 
+ferocious kick that sends your opponent to the ground.  This is probably his best 
+unblockable, it's shorter than the other one.  It ducks down under high attacks.  
+
+d/b+1+2             Silver Fang                      100               !
+ = u,u               = Cancel                        n/a               n/a
+
+Rating: **
+
+This one does more damage than the Cyclone, but it takes longer to charge up.   
+Luckily, you can cancel it to fake out opponents.  Range is deceptively long...  
+If you want to be evil, mix this move up with his Kiai Charge Up.  The animations 
+are similar and fake people out.
+
+                
+Command                    Hits     Damage                   Range
+d/f+1,2,2,1,3,3,3,4,3,4    10       10,5,6,5,7,6,7,7,10,25   mhm"hh"Lhhhm
+
+Rating: ***
+
+One of Law's tenstrings.  Fairly easy to pull out, but it can easily be blocked
+by standing.
+
+********************************************************************************
+ Throws 
+********************************************************************************
+
+Lee is not much of a throwing character.  His throws do not deal much damage on 
+their own.  His Neck Fracture ensures a guaranteed sweep afterwards.  Use his 
+throws sparingly,the last thing you need is for your opponent to duck and juggle 
+you.  Try to set up his throws by using incomplete strings and throwing.  That 
+works for everyone in general.  Use his Knee Drive throw to tag in particular, 
+it's probably one of the safest ways to tag out.  The f,f motion helps when you 
+need to gain a few steps on your opponent.  If they duck, go for the Shredder 
+or Delayed Dragon Slide.
+
+
+1+3               front        Neck Fracture            30            1
+
+Rating: ****
+
+Lee grabs your opponent's head and falls on it.  Easy to escape, but it 
+deals decent damage.  If you recover from the ground with 3, the rising sweep
+is guaranteed for an extra 10-15 damage.
+
+2+4               front        Chastisement Punch       30            2
+
+Rating: ***
+
+Law's old throw where he takes your enemy, puts them in a headlock, and 
+punches them. Yawn.  Same damage as his other throw, but no guaranteed 
+attack afterwards I think.  One button escape.  What I wouldn't give for
+the Bulldog link up....sigh...
+
+
+f,f+3+4 [~5]      front        Knee Drive [tag]         28            1
+
+Rating: ***
+
+Yawn. Another old Law throw, he smashes your opponent's face on his knee. 
+One button escape.  You can tag out of this throw though.  Use this 
+throw if you need to cover some distance to get to your opponent.
+
+
+(1+3_2+4_2+5)     left         Harassment               40            1                         
+
+Rating: ***
+Lee locks their arm behind their back, and steps on their head, all 
+while doing his laugh from Tekken 1.  Bad-ass side throw, nice damage, 
+one button escape.
+
+
+(1+3_2+4_2+5)     right        Stunner                  38            2
+
+Rating: ***
+
+Lee does something....it's hard to describe, kind of a tumbling throw.
+Lee steps around your side and puts them in a head lock, then does a flip
+and lands on their head.
+
+
+(1+3_2+4_2+5)     back         Bulldog                  45           n/a
+
+Rating: ***
+
+Inescapable.  Law's Bulldog throw.  Laughable damage.  Argh....I must
+bitch more about this throw! COME ON! It's a BACK THROW! This isn't Paul,
+Lee doesn't deserve this shit!  Oh well. 45 freakin' points of damage.
+
+********************************************************************************
+ Strategies 
+********************************************************************************
+
+Offense:
+
+Lee has a variety of attacks now in TTT.  Imagine Lee as Law, without juggles 
+but more moves.  Almost everyone of Lee's moves has an application;  make sure 
+you use the correct move for your situation.  Lee's Mist Step(f, N) has certain 
+applications.  Lee ducks forward, but he can interrupt the Mist Step at any time 
+with a standing move.  I've never used this move to duck under attacks, but try 
+to confuse your opponent what your move will be from a distance by closing in 
+with this move.  Try to keep your opponent on his toes, mixing strings with high 
+attacks, low attacks, and throws.  
+
+Defense:
+
+Lee's best defense is through offense.  Interrupt and counter your opponent if 
+it is possible. Unless you are very confident, it is unwise to try and interrupt 
+a juggle starter. Lee is the lowest tier character; he will take heaps of damage 
+from juggles.
+
+Pokes:
+
+Lee has a great d+1 crouching punch.  Lee has a lack of WS moves, but you can
+use his d+1 and d+4 to set up your Tsunami Kicks into Infinite, or press d/f+4
+for the Silver Tail.  f+4 Snap Kick is a great poke, work this into your game.
+d/f+3 is a great, quick low attack.  
+
+********************************************************************************
+ Juggles 
+********************************************************************************
+
+Lee's juggling ability is limited.  His starters are sub-par, in my opinion.  
+His d/f+2 uppercut steps slightly forward and comes out with average speed.  
+His u/f+4 hopkick comes out quicker and does not push them as far away as the 
+d/f+2 uppercut, but the recovery on the hopkick is risky. His flipkick starter,
+the best one being FC,u/f+3, is his most damaging starter.  Lee has bad recovery 
+off the flipkick, so it is difficult to juggle off it.  This section I have just 
+started, I plan to discover some more juggles when I get more time to do so.
+
+d/f+2 Standing Uppercut:
+------------------------
+1, b+1, b+1,1,2
+1, F+2,2,2
+d+4,N+4,3,4
+
+4,u+3
+Note that getting both hits to connect off the standing uppercut is rare,
+I've only done this a few times, you must be early to get it to work.
+
+u/f+4 Hopkick :
+--------------
+4,u+3          
+Very good damage if you pull this off, it does around 60 pts of damage!  The 
+timing can be difficult, but if you start early it should come out.  If you 
+start it late, the kick will push them too far away for the Flipkick.
+
+d+4,N+4,3,4
+This one is easier to pull off because of the timing and where you have to hit 
+them It does just a little less damage, around 50 pts of damage.
+
+FC,(u/b_u_u/f)+4 Quick Catapult(Flipkick):
+-----------------------------------------
+d+4,N+4,3,4
+This is a bitch to pull off, just because of the recovery on the Flipkick.  
+Very damaging though, but there are easier combos.  Style points for this one! 
+
+b+4 Silver Heel(CH):
+--------------------
+On counter hit, this move will bounce juggle your opponent up for short juggles.
+b+1,1,f,d+4,N+4,3,4
+f+3+4(Silver Sting)  
+Can someone confirm this?  I'm not sure if it was the f+3+4 Silver Sting or the 
+u/f+3 Quick Silver Sting.  Easy, damaging.
+
+1,2, f,n~d+4,n+4,u+3
+f,n, d+1, ws+4~FC,u/f+3
+These combos use the Mist Step.
+
+b+1,1,f,d+4,N+4,3,4
+
+d,d/b+4 Blazing Kick:
+---------------------
+You can get almost any of the combos above to work with a Blazing Kick, spacing 
+is the only concern. Lee's Blazing Kick is a bonified Class 4 Juggle Starter. 
+When you tag out after Lee's Blazing Kick, you can get almost anything to 
+connect afterwards.  I don't have many up yet, but look to further updates for 
+some.  The sky is the limit.
+
+With Kazuya: d,d/b+4~5, TGF,3
+
+SS+2 Rear Cross Punch:
+----------------------
+After an opponent blocks the Rear Cross Punch, they will be stunned for a short
+period of time, just long enough to get a d/f+2 in or a u/f+4.  Follow with
+a combo of your choice.
+
+
+********************************************************************************
+ Okizeme 
+********************************************************************************
+
+Okizeme is a strategy that involves you keeping your opponent on the ground.  
+
+Opponent is: Lying on the ground, not moving
+Use:         Silver Tail(d,d/f+4).  The Silver Tail will encourage them to get 
+             moving, and it will let you recover nicely afterwards.  You could 
+             try the Dragon Slide, but you'll end up on the ground as well.
+
+Opponent is: Rolling to the side or toward you
+Use:         Dragon Slide(FC,d/f,d,d/f+3).  The tracking on this move is 
+             strange, sometimes it will hit, but others it won't.  Probably 
+             safer to go with a d+3 Low Kick.  If they roll again, go into the
+             Head Kick to Step In Kick.
+
+Opponent is: Rolling away
+Use:         Run up and d+4 or into Laser Edge Rush.
+
+
+********************************************************************************
+ Sidestep 
+********************************************************************************
+
+Lee has an average sidestep, not as large as Ogre's.  Most of the time
+you can get to the side of an opponent with Lee, so performing side throws 
+is not a problem. You can even sidestep into Mist Step(f,N) for a follow 
+up of your choice. Lee's sidestepping game is nowhere near as good as 
+Bryan's, but is better than others.  Use his sidestepping attacks 
+carefully, knowing which kick to use on his Lee Screw. The Lee Screw has 
+good range, try not to use it in close because you can get knocked out of 
+it. The Cross Punch(SS+2) is a short range sidestepping attack, useful 
+for interrupting high.
+
+********************************************************************************
+ Special 
+********************************************************************************
+
+Stun Fang Rush:  This is a version of the Fang Rush, imagine it as an 
+'Electric Fang Rush' if you will.  b+1,N+1,2 is the notification.  The last hit
+of this string will push the opponent far away if it is blocked.  When it 
+connects it will deal more damage than the regular Fang Rush, of course. 
+This is a very useful tool for Lee, learn it well. 
+
+Silver Demon Fist:  If your opponent blocks this, they will be punished with
+the longest stun, equivalent to Kaz's Glorious Demon Fist.  I'm not a major Kaz
+player, but I know that a standing RK is simple and does nice damage after a
+stun.  A throw would be more risky because your opponent could escape the throw.
+More to come in later updates...
+
+Feint Mist Wolf to Mist Trap:  After you input the second 3, the mid kick is 
+cancelled into a high kick(hence, he feints the mid kick.)  If the opponent
+blocks the high kick, you can press 4 to cancel into a throw.  The throw is 
+very hard to time, you only have 1 frame, or 1/60th of a second to input the
+command.  To pull it off, you should first consider your opponent; will he
+block it, or will he duck it?  If you anticipate your opponent blocking, you 
+must press 4 the exact second the blue cloud comes out.  
+
+********************************************************************************
+ Netsu 
+********************************************************************************
+
+According to Midge's TTT FAQ, Lee gets Netsu power up after his tag partner 
+takes 5 hits from the opponent.  When Lee is partnered with Jin, Lee will 
+never get the Netsu power up.  I'm not sure why Lee doesn't care for Jin.   
+Kazuya and Heihachi will never get Netsu power up when paired with Lee.  
+They just don't seem to care for Lee at all!  Well, Lee cares about them, 
+as he still gets Netsu power up.  The following do not power up with anyone 
+unless they are with Gold Tetsujin: Devil, Jack-2, P.Jack, Ogre, and True Ogre.
+
+********************************************************************************
+ Tag Partners 
+********************************************************************************
+
+Quick:    Law, Jun, or Xiaoyu.
+Pro:      Fast moves and good recovery leave you with the initiative.
+Con:      Both fighters are in the weakest tier and are weak to juggles.
+
+Heavy:    Ogre, Ganryu,  Jack,  Kuma, T. Ogre.
+Pro:      A balanced team in all areas that is equipped to take on most anything.  
+          Another pro is that you have a heavy person; they are a pain to juggle.
+Con:      Your only as strong as your weakest fighter.
+          When you do get juggled you can get hit by anything.
+
+Juggler:  Kazuya, Heihachi, Devil, Jin.  
+Pro:      Lee's can set up great Tag juggles, and his juggling disability is not 
+          such a big problem.
+Con:      Devil, Kazuya, and Heihachi will never get Netsu with Lee, Lee will 
+          never get Netsu with Jin.
+ 
+Powerful: Bruce, Bryan, Paul, King, Armor King.
+Pro:      Another well balanced team, gives you the power you need without any 
+          of the sloth that a big character provides.
+Con:      Well....getting called 'cheap' when you select Bruce can be annoying.
+          :)
+
+********************************************************************************
+ About Lee Chaolan 
+********************************************************************************
+
+Bio
+---
+
+Name:             Lee Chaolan
+Catch Copy:       Silver Haired Devil
+Age:              27
+Weight:           65 Kg
+Height:           178 cm
+Blood Type:       A
+Fighting Syle:    Mishima-Style Karate and Martial Arts
+
+Lee is the adopted son of Heihachi Mishima.  As for a definite storyline, I'm 
+not sure, Namco has not put very much out on Lee.
+
+Costumes
+--------
+
+Lee has three costumes and three winning poses.
+
+Punch:  purple sleeveless shirt with black jeans, black fist guards, brown boots.
+Kick:   black vest with a unicorn on the back, blue jeans, black fist guards  
+        black boots, and a silver necklace.
+Start:  black tuxedo with a red carnation, black fist guards.
+
+Victory Poses
+-------------
+
+1:  Lee does a Handspring Backflip and taunts.
+2:  Lee goes into Hitman stance and beckons on his opponent.
+3:  Lee does a Handspring Backflip, jumps up and laughs.
+
+Lee only has three victory poses.
+
+********************************************************************************
+ History
+********************************************************************************
+
+v1.0	(2/20/2000)	Initial release version.
+
+********************************************************************************
+ Credits 
+********************************************************************************
+
+The Tekken  Zaibatsu, http://www.tekken.net		      
+
+For Lee's movelist and framedata.  Their wonderful forums helped me to gather 
+info and entertainus all.
+
+"Grenun", Grenun@aol.com               
+
+Thanks for help on the juggles for Lee.
+
+"Silver Haired Devil", Silver_Haired_Devil@hotmail.com
+
+Big thanks for help writing my FAQ.  You're my 'go to' guy when I start 
+working on my next one!
+
+"Ug the Caveman", bzcharkl@hotmail.com
+
+Thanks for clearing up that Stun Fang Rush.....ya big Jack fan... :)
+
+Hershey's Chocolate
+			
+Thanks for providing me the nourishment to get me through long hours.  
+No thanks for the gas it gives me.
+
+Shante, Brandon's little brother
+
+If you had never cheesed me with the Laser Edge Rush that day, would I 
+have ever picked Lee? Thanks.

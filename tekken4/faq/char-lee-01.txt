@@ -1,0 +1,1652 @@
+Arvin Yabut Copyright 2002-2004.  All rights reserved.
+
+±°Ad Majorem Dei Gloriam°±
+
+Alias : Acidrain
+Date : 05.06.04
+Version : 1.9
+User Level : All Levels
+e-mail : lee_chaolan@tekken.cc
+Sites Accessed : www.tekkenzaibatsu.com
+                 www.gamefaqs.com
+
+««Disclaimer»»
+May this statement serve as a warning that this FAQ should not be reproduced by any means other 
+than recognizing it for personal use only.  Also, it should not be utilized for profitable 
+intentions.  If you want to reproduce this FAQ, please consider the copyright above this 
+statement.
+
+««Why I Made This FAQ»»
+I wrote this FAQ because I would like to share to Tekken players specifically to Lee players 
+what I have observed and studied for my past few years in playing Tekken 4.  I cannot 
+guarantee that the information which I have placed on this FAQ is true and reliable.  I wish I 
+would be able to give some helpful information that will improve your Lee strategies.  I'll be 
+updating this FAQ from time to time as I get your feedback again by mailing me at 
+lee_chaolan@tekken.cc.  Thank you and happy reading!
+
+««Version History»»
+
+1.0 : Jan. 1, 2002   -  first FAQ I have ever made
+
+1.1 : Jan. 4, 2002   -  added combo list section
+                     -  updated move list section
+
+1.2 : Jan. 20, 2002  -  added bridging the gap section
+                     -  updated move list section
+                     -  updated frame database section
+                     -  updated move analysis section
+                     -  updated combo list section
+
+1.3 : Feb. 18, 2002  -  reconciled information
+                     -  updated move list
+                     -  updated differentiating similarities
+                     -  updated move analysis
+                     -  updated combo list
+
+1.4 : Apr. 1, 2002   -  added okizeme section
+                     -  updated bridging the gap section
+                     -  updated move list section
+                     -  updated frame database section
+                     -  updated combo list section
+                     -  updated credits & shouts section
+
+1.5 : Apr. 10, 2002  -  added poking & defense section
+                     -  renamed combo list to juggle summary
+                     -  updated bridging the gap section
+                     -  updated move list section
+                     -  updated frame database section
+                     -  updated move analysis section
+                     -  updated okizeme section
+                     -  updated credits & shouts
+
+1.6 : Apr. 20, 2002  -  reconciled information
+                     -  updated move list
+                     -  updated poking & defense section
+
+1.7 : May 21, 2002   -  added custom strings & analysis section
+                     -  reconciled information
+                     -  updated bridging the gap section
+                     -  updated juggle summary section
+                     -  updated okizeme section
+                     -  updated poking & defense section
+                     -  updated credits & shouts section
+
+1.8 : Oct. 15, 2002  -  added versus mode section
+                     -	added jin kazama in versus mode section
+                     -  updated bridging the gap section
+                     -  updated custom strings & analysis section
+
+1.9 : May 6, 2004    -	added steve fox in versus mode section
+                     -	updated versus mode section
+
+2.0 : Jun. 20, 2004  -  added ling xiaoyu in versus mode section
+		     -  updated custom strings & analysis section
+
+««Contents»»
+SECTION 1 : Biographies
+   1.1 Lee Chaolan
+   1.2 Violet
+SECTION 2 : Bridging the Gap
+   2.1 Introduction
+   2.2 Some Command Notations
+   2.3 Extra Definitions
+   2.4 Some Acronyms
+   2.5 Frame Database Terms & Symbols
+   2.6 Sets of Chains
+   2.7 Classifications of a SS & SW
+SECTION 3 : Move List
+   3.1 Grappling Arts
+   3.2 Special Arts
+   3.3 Hitman Arts
+   3.4 Unblockable Arts
+   3.5 String Hit Arts
+SECTION 4 : Frame Database
+   4.1 Grappling Arts
+   4.2 Basic Standing Arts
+   4.3 Special Arts
+   4.4 Hitman Arts
+SECTION 5 : Move Analysis
+   5.1 Knee Driver
+   5.2 Double Punch - Mist Step
+   5.3 Double Punch - Violet Kick
+   5.4 Jab - Acid Rain Combo
+   5.5 Left & Right Violet Screw
+   5.6 Schwartz Rose Hook
+   5.7 Side Kick
+   5.8 Split Axe Kick
+   5.9 Dragon Slide
+   5.10 Mist Wolf Kick
+   5.11 Mist Trap
+   5.12 Silver Low - Head Kick - Violet Hammer
+   5.13 Tsunami Kick & Infinite Starters
+   5.14 Shredder
+   5.15 Delayed Dragon Slide
+   5.16 Machine Gun Kicks
+   5.17 Laser Edge - Violet Spin Hammer
+   5.18 Soviet Kick Combo
+SECTION 6 : Differentiating Similarities
+   6.1 Soviet Kick Combo vs Shredder
+   6.2 Violet Knee vs Hop Kick
+   6.3 Silver Low - Head Kick - Violet Hammer vs Laser Edge - Violet Spin Hammer
+   6.4 Left Violet Screw vs Right Violet Screw
+   6.5 Quick Catapult vs High Catapult
+   6.6 Rising Kick vs Extended Rising Kick
+SECTION 7 : Juggle Summary
+   7.1 Violet Knee
+   7.2 Hop Kick
+   7.3 Uppercut
+   7.4 Extended Uppercut
+   7.5 Extended Hop Kick
+   7.6 Standing Kick
+   7.7 Soviet Kick Combo
+   7.8 Scatter Blow
+   7.9 Blazing Kick
+   7.10 Silver Heel
+   7.11 Ship Slicer
+   7.12 Quick Catapult
+   7.13 Split Axe Kick
+   7.14 Acid Rain Combo
+   7.15 Jab - Acid Rain Combo
+   7.16 Wall Combo
+   7.17 Forward Push
+   7.18 Side Push
+   7.19 Switch Sides
+SECTION 8 : Custom Strings & Analysis
+   8.1 Sidestep Chain
+   8.2 Low Poke Chain
+   8.3 Double Punch Chain
+   8.4 Violet Knuckle Chain
+   8.5 Mid Poke Chain
+   8.6 Hitman Chain
+SECTION 9 : Poking & Defense
+SECTION 10 : Okizeme
+   10.1 Sleeper
+   10.2 Roll Backwards
+   10.3 Basic Get Up
+   10.4 Ground Tech
+   10.5 Wall Tech
+   10.6 Jump Over Trick
+   10.7 Counterhit
+...
+SECTION 12 : Versus Mode
+   12.1 Jin Kazama
+   12.2 Steve Fox
+...
+SECTION 16 : Credits & Shouts
+
+                                     -=¤§Biographies§¤=-
+
+««Lee Chaolan»»
+
+After he betrayed Heihachi and sided with Kazuya at The King of Iron Fist Tournament 2, Lee was 
+expelled from the Mishima Zaibatsu.
+
+For quite sometime, thoughts of revenge consumed Lee.  Eventually, he realized that it was 
+pointless to kill an old man who probably had only a few years left in his life at best.  With 
+that realization, Lee distanced himself from fighting and moved to a mansion in the Bahamas to 
+lead a solitary life.
+
+One day, he discovered a huge sell-off of G Corporation’s stock online.  Lee’s intuition told 
+him that something happened within the company.  His intuition was correct.  He hacked into 
+their classified computer network and accessed their internal corporate communications.  Lee 
+learned that the Mishima Zaibatsu attacked G Corporation and caused significant damage to their 
+research facilities.
+
+He also came across information that a new life form under development by the Mishima Zaibatsu 
+would be completed by next year. In order to complete the life form, however, it appeared that 
+they were missing a critical component...
+
+Oddly enough, an announcement was made for The King of Iron Fist Tournament 4 around the same 
+time.  Lee’s fading passion for fighting was rekindled - along with his resentment towards the 
+Mishima clan.
+
+In order to prevent the Mishima Zaibatsu from discovering his true identity, Lee signed up for 
+the Tournament online under a false name.  As an additional measure to mask his identity, he 
+dyed his gleaming silver hair purple.
+
+««Violet»»
+
+Violet is a majority shareholder and the de facto leader of a manufacturer of humanoid robots.  
+Apparently a fighter in his past, he lived a quiet life in a mansion in the Bahamas.  Bored by 
+his career lifestyle, Violet decided to enter The King of the Iron Fist Tournament 4.
+
+The senior executives in his company wrote this off as the mere diversions of a rich man.  In 
+any event, there were no weaknesses in Violet's physique, forged by state of the art training 
+equipment.
+
+There was another significant reason for his entrance in the tournament.
+
+Violet believed that he could complete the ultimate fighting weapon based on his pursuit of 
+developing advanced humanoids.  He believed in a utopian world where inorganic humanoids would 
+carry out the will of their human masters.
+
+But the tide of technology in the world favored biotechnology.  The Mishima Zaibatsu and 
+Heihachi Mishima were part of this movement, seekers of unfathomable power through genetic 
+engineering.
+
+Violet accelerated the development of a prototype humanoid for the tournament.  If the 
+prototype could be completed in time, he could leverage this tournament as an excellent 
+PR tool.  Violet's mind was filled with visions of him and his prototype dominating The King 
+of the Iron Fist Tournament 4.
+
+
+                                  -=¤§Bridging the Gap§¤=-
+
+««Introduction»»
+
+As Tekken Tag had gained enough notoriety, predictable clues show that Tekken 4 have been 
+uncovered.  News arise about Dean Earwicker's name change, Marduk's debut, and Monteiro's 
+unending search for Eddy.  The main plot announces Kazuya's resurrection but no sign of Lee.  
+Hoping for Lee's return might have been too optimistic and I felt like giving up.  Weeks have 
+passed and there came Violet.  His moves resembles Lee's and he's not bad so I decided to go 
+on playing Tekken 4.  Combot became the next release character and Lee really showed up.  
+And there came back my passion for Tekken.
+
+Well what can I say? If Lee is not the most improved character in Tekken 4, he maybe one of 
+the most well-developed character in this installment.  A lot of his moves could now be 
+linked to Hitman Stance and his Mist Step became more functional for both offense and 
+defense.  He's got a sidestep command that hits mid and there rose my personal 
+favorite -- the Acid Rain Combo.  Another interesting move of Lee is the versatility of the 
+Mist Trap which will connect even if it hits the opponent; moreover, it could now be utilized 
+in spicing up your combos to maximize Lee's fighting style with finesse.
+
+In this section, you will find the basics of Tekken and of this FAQ.  It will help you 
+understand the terms, symbols, acronyms, etc. that you will encounter throughout the course 
+of this FAQ.
+
+««Some Command Notations»»
+
+_   -   normally used inside a parenthesis; referred to as "or"
+~   -   must be executed immediately after
++   -   done simultaneously
+:   -   requires a just frame timing to perform
+[]  -   optional move
+<   -   can be delayed
+{}  -   will not connect but required to complete the juggle
+
+««Extra Definitions»»
+
+Active Window - the number of allowed frames for your character to make inputs
+
+Anticipate - to predict the opponent's next move
+
+Axis - a basis of a determining successfulness or failure of a move involving an imaginary 
+       straight line usually directing to the opponent
+
+Buffer - the act of pressing a single or a number of buttons
+
+Close Distance - a length modifier which indicates that you are right beside your opponent
+
+Combo - a succession of commands
+
+Connect - synonymous to a guaranteed hit
+
+Counterhit - a state wherein one's attack dominates over his opponent's
+
+Crouch - the effect of holding a relatively downward direction as a single move
+
+Delay - the act of postponing a complete move
+
+Duck - any form of crouching which usually avoids a relatively high move executed
+
+Frame - Tekken's main unit of measurement in terms of time
+
+Juggle - one or more combos that are absolutely inescapable
+
+Jump Over Trick - a tactical approach to attack the opponent wherein the common goal 
+                  with this technique is to make your opponent's back face you
+
+Just Frame - a move that requires the exact timing of tapping of buttons in order to 
+             perform the entire command completely
+
+Length - the relative distance between you and your opponent
+
+Link - a possible connection of a move after a given command
+
+Midsection - elongated word for 'mid'
+
+Misfire - another term for whiff or a missed hit
+
+Okizeme - art of attacking your opponent to disallow his full recovery from the ground
+          and from walls
+
+Orbit Distance - a length modifier wherein you are more than two steps away from your opponent
+
+Parry - to deflect or ward off an opponent's attack
+
+Poke - any quick move which deals only a small amount of damage
+
+Range - the area where a move will tend to hit
+
+Reach - the extent to which a move will most likely to hit with respect to its distance
+
+Retaliate - to manipulate your opponent's unsuccessful move
+
+Riser - another term for launcher or juggle starter
+
+Sleeper - a technique wherein a grounded player would rather choose to get hit by a 
+          ground-ranged attack than to anticipate an opponent's next move hoping that 
+          he would get less damage by just lying down
+
+Slide Low - taken from Law's advance technique in misleading the opponent which is 
+            done by d/f,d,d/f...
+
+Stagger - a low block or a hit wherein one suffers great recovery time in an 
+          agitating animation
+
+Stun - to stupefy the opponent after an attack
+
+
+Sweep Distance - a length modifier which takes a step or two away from your opponent
+
+Turtle - a fighting technique which generally waits for the opponent to commit a mistake or 
+         a move in which the opponent would suffer obtainable amount of recovery time
+
+««Some Acronyms»»
+
+HS - hunch over stun
+        ex. Jin's completed Kazama Fury (1,3,2,1,4)
+CFS - crumple fall stun
+        ex. Kazuya's Glorious Demon Fist (f+1+2)
+GB - guard break
+        ex. most characters' Leaping Slash Kick (f,f,f+3)
+KND - knockdown position
+        ex. Lei's Ankle Kick (4~4)
+FCD - face down position
+        ex. Lei's Clean Sweep (4~3)
+GS - gut stun
+        ex. Kazuya's Gut Punch (d/f+2)
+KS - kneel stun
+        ex. Steve's Rising Upper - Eagle Claw (WS+1,2)
+RC - recovers crouching
+        ex. King's Ali Kick (d+3+4)
+JG - juggle starter
+        ex. Julia's Heaven Cannon (f+1+4)
+OS - forces opponent's side to face you
+        ex. Hwoarang's Nose Bleeder (LFF b+4)
+BN - bounce juggle starter
+        ex. Bryan's Snake Slam (b,b+1)
+c - counterhit modifier
+        desc. BNc means the opponent will bounce and could be juggled only on counterhit
+cc - crouch cancel
+        desc. tapping f,f or u will nullify your crouching motion
+co - crouching opponent modifier
+        desc. KSco means the opponent will endure a kneel stun while crouching
+
+««Frame Database Terms & Symbols»»
+
+"F Hit" column denotes the number of frames of a command after fully executing it
+"B Adv" column refers to the number of frame advantage or disadvantage when a move is blocked
+"H Adv" column refers to the number of frame advantage or disadvantage when a move connects 
+        while the opponent is in a standing position
+"Hc Adv" column refers to the number of frame advantage or disadvantage when a move connects 
+         while the opponent is in a crouched position
+"CH Adv" column refers to the number of frame advantage or disadvantage when a move connects 
+         as a counterhit
+"Esc F" column refers to the number of frames alloted to escape during a position change 
+        animation
+"x" is symbolized as a not applicable attack
+"KD" means that opponent will get knocked down
+
+««Sets of Chains»»
+
+SSC - Sidestep Chain
+LPC - Low Poke Chain
+DPC - Double Punch Chain
+VKC - Violet Knuckle Chain
+MPC - Mid Poke Chain
+HMC - Hitman Chain
+
+««Classifications of SS & SW»»
+
+according to position
+SSR/SWR - to the right
+SSL/SWL - to the left
+
+according to surface
+SSB/SWB - to the background
+SSF/SWF - to the foreground
+
+according to direction
+SST/SWT - towards the wall
+SSA/SWA - away from the wall
+
+
+                                     -=¤§Move List§¤=-
+
+««Grappling Arts»»
+
+Command         Place         Name                      Damage                  Escape
+-------         -----         ----                      ------                  ------
+1+3~(u_d_b_f)   any           Position Change           N/A                     1
+2+4             front         Wu Tip                    30                      2
+F+2+4           front         Neck Fracture             30                      2
+f,f+3+4         front         Knee Driver               28                      1+2
+F+2+4_2+4       left          Harassment                40                      1
+F+2+4_2+4       right         Stunner                   38                      2
+F+2+4_2+4       back          Bulldog                   45                      N/A
+
+««Special Arts»»
+
+Command            Name                              Damage         Range       Properties
+-------            ----                              ------         -----       ----------
+1,2                Double Punch                      5,10           hh
+= ~f,N             = Mist Step                       N/A            N/A
+= 2                = Violet Knuckle                  10             h
+= <4[~3]           = Violet Kick [HMS]               10             m           HSc
+1,2,4:4[~3]        Double Punch - Silver Rain [HMS]  5,10,20        hhm         HS
+1,3:3:3            Jab - Acid Rain Combo             5,14,8,5       hhmh        CFS
+1,F+2,2<2          Violet Knuckle Combo              5,12,5,10      hhmh
+b+1,1              Fang Rush                         8,8            hm
+= ~f,N             = Mist Step                       N/A            N/A         #1
+= 2                = Triple Fang                     15             h
+= 3+4              = Hitman Stance                   N/A            N/A
+b+1:1              Alternate Fang Rush               8,8            hh
+= ~f,N             = Mist Step                       N/A            N/A         #1
+= 2                = Alternate Triple Fang           15             h           GB; KND
+= 3+4              = Hitman Stance                   N/A            N/A
+SS+1+2             Schwartz Rose Hook                21             m           HS; FCDc
+2,2                Rave War                          10,10          hh
+F+2<2<2            Rave War Combo                    12,5,10        hmh
+SS+2               Rear Cross Punch                  17             h           GB
+= ~f,N             = Mist Step                       N/A            N/A
+SSR+3[~4]          Left Violet Screw [HMS]           30             h
+d/b+3              Slice Kick                        16             L           HSc
+u/f+3              Quick Silver Sting                20             h           GB
+d/f+3              Side Kick                         18             m           GS
+f,f+3              Split Axe Kick                    23             m           GB; JG
+FC,d/f,d,d/f+3     Dragon Slide                      17             L		 
+3<3                Head Kick - Violet Hammer         18,19          hm          KSco; GB
+3,(f_d/f)+3        Head Kick - Step In Kick          18,15          hm
+f+3:3:3            Acid Rain Combo                   14,8,5         hmh         CFS
+b+3[~4]            Mist Wolf Kick [HMS]              18             m
+b+3<3              Mist Wolf Combo                   18,18          mh
+b+3~3              Feint Mist Wolf                   18             h
+b+3~3:4            Mist Trap                         30             h           #2 #6
+d+3,3              Silver Low - Head Kick            8,18           lh
+= (f_d/f)+3        = Step In Kick                    15             m
+= <3               = Violet Hammer                   19             m           KSco; GB
+WS+3,3             Tsunami Kick                      10,17          mm
+= d/f+3            = Step In Kick Infinite Starter   15             m           #3
+= D+3              = Silver Low Infinite Starter     15             l           #3
+ = 3,3,3           = Rave Kicks                      10,15,10       mhmh        #4
+  = u+3,3,3        = Violet Hammer - Rave Kicks      15,10,15       mmh         #4
+  = d+3,3,3        = Silver Low - Rave Kicks         15,10,15       lmh         #4
+f,f,N+3,4          Shredder                          20,15          mm
+= <4               = Shredder Combo                  25             h           GB
+= <(f_d/f)+4       = Mid Shredder                    15             m
+= <(d_d/b)+4       = Low Shredder                    15             L           RC
+u/f+3+4            Silver Sting                      30             h
+f,f,N+3+4          Delayed Dragon Slide              15             L
+b,b,N+3+4          Handspring Backflip - HMS         N/A            N/A
+4,3,4              Shaolin Spin Kicks                16,12,12       hhh
+4,3,3              Violet Spin Hammer                16,12,19       hhm         KSco; GB
+FC,(u/b_u_u/f)     Feint Catapult                    N/A            N/A
+FC,u/f+4[~3]       Quick Catapult [HMS]              25             m           JG; RC
+FC,U/F+4           High Catapult Kick                30             m
+FC,U/F+3+4         Rainbow Kick                      30             M           #5
+SSL+4[~3]          Right Violet Screw [HMS]          24             h
+d,d/f+4            Silver Tail                       18             L           OSc; RC
+U/F+4              Hop Kick                          13             m           JG
+u/f+4              Violet Knee                       15             m           JG; GB
+u/f,N+4            Extended Hop Kick                 25             m           JG
+f+4                Silver Whip                       7              h
+d/f+4[~3]          Extended Rising Kick [HMS]        10             m
+b+4[~3]            Silver Heel [HMS]                 22             m           BNc
+WS+4[~3]           Rising Kick [HMS]                 20             m
+b,b+4[~3]          Violet Cutter [HMS]               19             h
+d,d/b+4            Blazing Kick                      22             m           JG
+4,(u_u/f)+3        Standing Kick - Somersault        16,30          hm
+4,4,4              Machine Gun Kicks                 16,8,10        hhh
+d+4                Laser Edge                        7              l
+= <N+4,4,4         = Machine Gun Kicks               20,8,10        hhh
+= ~N+4~3           = Silver Cyclone                  80             <!>
+= <N+4,3,3         = Violet Spin Hammer              16,12,19       hhm         KSco; GB
+= <N+4,3,4         = Shaolin Spin Kicks              20,12,12       hhh
+= <N+4,(u_u/f)+3   = Standing Kick - Somersault      20,30          hm
+D+4<4<4<4[~3]      Laser Edge Rush [HMS]             7,5,5,21       lllm
+3+4                Hitman Stance                     N/A            N/A
+f+3+4              Hitman Stance - Hitman Step       N/A            N/A
+FC,d/b+3+4         Full Crouch - Hitman Stance       N/A            N/A
+f,N                Mist Step                         N/A            N/A
+= b+3+4            = Cancel - HMS                    N/A            N/A
+= 3,4              = Soviet Kick Combo               10,16          mM		  JG
+= b,N              = Violet Sway                     N/A            N/A
+ = 4               = Code Red Low                    15             l
+b,b,u/b            Wall Jump                         11             m
+#1 Last punch is cancelled.
+#2 If the High Kick is blocked, tapping 4 at the Just Frame will cause the opponent to grab    
+   Lee's foot. Lee will auto reverse.
+#3 The Infinite Kicks have to be started with 1 Silver Low or 1 Step In Kick after the WS+3,3.
+#4 Sequence of the Infinite is 2 Rave Kicks, Violet Hammer or Low Silver, 2 Rave Kicks, Violet 
+   Hammer or Silver Low
+#5 Damage on grounded opponents is 20.
+#6 Mist Trap will still connect even if opponent has blocked Lee's foot.
+
+««Hitman Arts»»
+
+Command     Name                             Damage      Range        Properties
+-------     ----                             ------      -----        ----------
+1,1         Freaker Jabs - HMS               15,15       hh
+1~f,N       Fake Freaker - Mist Step         N/A         N/A
+1~3         Fake Freaker - Scatter Kick      21,13       h
+1~4[~3]     Fake Freaker - Violet Kick [HMS] 10          hm           HSc
+1~4:4[~3]   Fake Freaker - Silver Rain [HMS] 20          hm           HS
+2           Scatter Blow                     23          m            JG; GB
+3           Scatter Kick                     21,13       h
+4           Ship Slicer                      22          L            JG; GB; RC
+f           Hitman Step                      N/A         N/A
+b           Hitman Cancel - Stand            N/A         N/A          #1
+U           Hitman Cancel - Sidestep Walk    N/A         N/A          #2
+D           Hitman Cancel - Full Crouch      N/A         N/A          RC; #2
+= d/b+3+4   = HMS                            N/A         N/A
+(u_d)       Predator Step                    N/A         N/A
+#1 During the cancel animation from Hitman to regular stance you can still execute Hitman kick 
+   attacks.
+#2 During the cancel animation from Hitman to regular stance you can still execute all Hitman 
+   attacks.
+
+««Unblockable Arts»»
+
+Command                    Name                               Damage           Range
+-------                    ----                               ------           -----
+d+3+4                      Silver Cyclone                     80               <!>
+d+4,N+4~3                  Low Cancel Silver Cyclone          7,80             l,<!>
+d/b+1+2                    Silver Demon Fist                  10,70            !
+= u,u                      = Cancel                           N/A              N/A
+
+««String Hit Arts»»
+
+Command                       Hits        Damage                        Range
+-------                       ----        ------                        -----
+d/f+1,2,2,1,3,3,3,4,3,4        10         10,5,6,5,7,6,7,7,10,25        mhm"hh"Lhhhm
+
+
+                                   -=¤§Frame Database§¤=-
+
+««Grappling Arts»»
+
+Command         F Hit       B Adv       H Adv       Hc Adv       CH Adv       Esc F       
+-------         -----       -----       -----       ------       ------       -----
+1+3~(u_d_b_f)    11           x          +1           x            x            5
+(2+4_F+2+4)      12           x           0           x            x            5
+f,f+3+4          12           x          -6           x            x            5
+
+««Basic Standing Arts»»
+
+Input  Range  Dmg  F Hit   B   H  Hc   CH   Input  Range  Dmg  F Hit   B   H   Hc   CH
+-----  -----  ---  -----   -   -  --   --   -----  -----  ---  -----   -   -   --   --
+  1      h     5     8    +1  +7  x    +7     2      h    10    10     +1  x   +7   +7
+  3      h    18    12   -14  -3  x    -3     4      h    16    11     -4  +5  x    KD
+ f+1     h     6    10    +1  +7  x    +7    f+2     h    12    12     +1  +7  x   +10
+ f+3     m    14    16   -10  +1  x    +4    f+4     h     7    10     -7  +4  x    +1
+d/b+1   Sm     5     8    -2  +7  +7   +7   d/b+2   Sm    10    10     -2  +9  +9   +9
+d/b+3    L    16    16   -14  -3  -3   -3   d/b+4    l     7    12    -11 -12  -8    0
+FC+1    Sm     3     8    -2  +7  +7   +7   FC+2    Sm     8    10     -2  +9  +9   +9
+FC+3     l    12    13   -17  -3  -3   -3   FC+4     l    12    13    -17  -3  -3   -3
+WS+1     m    12    12    -2  +9  +9   +9   WS+2     m    15    15     -8  +4  +3   KD
+WS+3     m    11    10   -21 -10 -10  -10   WS+4     m    20    11     -6  +5  +5   +5
+d/f+1    m    10    13    +1  +7  +7   +7   d/f+2    m    12    15     -7  +4  +3   KD
+d/f+3    m    18    15    -6  +1  +1   +1   d/f+4    m    10    13     -9  +2  +2   +2
+
+««Special Arts»»
+
+Command           F Hit   B Adv             H Adv             Hc Adv          CH Adv
+-------           -----   -----             -----             ------          ------
+1,2~f,N             8     0 0 +1            +6 +6 +7          x x x           +6 +6 +7
+1,2,4~3             8     0 0 -14 -14       +6 +6 -3 -3       x x -3 -3       +6 +6 -1 -1
+1,2,4:4[~3]         8     0 0 -2 -8         +6 +6 +5 -1       x x +5 -1       +6 +6 +5 -1
+1,3:3:3             8     0 -10 -8 -17      +6 +1 +3 KD       x x +3 x        +6 +1 +3 KD
+1,F+2,2<2           8     0 +1 -7 -9        +6 +7 +4 +7       x x +4 x        +6 +10 -1 +7
+b+1,1,2            15     0 -5 -15          +6 +6 +1          x +6 x          +6 +6 +1
+b+1:1,2            15     0 -5 -6           +6 +6 KD          x +6 x          +6 +6 KD
+SS+1+2             20     -2                +2                +2              KD
+2,2                10     +1 -7             +7 +7             x x             +7 +7
+F+2,2<2            12     +1 -7 -9          +7 +4 +7          x +4 x          +10 -1 +7
+SS+2~f,N           14     -5 +2             +1 +8             x x             +1 +8
+SSR+3~4            21     -10 -12           KD KD             x x             KD KD
+u/f+3              22     +1                KD                x               KD
+f,f+3              21     +7                KD                +13             KD
+FC,d/f,d,d/f+3     16     x                 KD                KD              KD
+f+3:3:3            16     -10 -8 -17        +1 +3 KD          x +3 x          +1 +3 KD
+b+3<3              14     -8 -10            +3 +1             +3 x            +3 +1
+b+3~3              30     -10               +1                x               +1
+b+3~3:4            30     KD                KD                x               KD
+d+3,3,3            16     -14 -14 -13       -3 -3 -8          -3 x +16        -3 -3 KD
+WS+3,3             11     -20 -19           -10 -8            -10 -7          -10 -8
+= d/f+3                   -19               -8                -8              -8
+= D+3                     -19               -8                -8              -8
+ = N+3,3                  -16 -16           -5 -5             x x             -5 -5
+ = (D_D/F)+3,3            -16 -19           -5 -8             x -8            -5 -8
+ = U+4,4                  -16 -18           -5 -8             x -8            -5 -8
+f,f,N+3,4          15     -17 -13           KD KD             KD KD           KD KD
+= 4                       -5                KD                x               KD
+= (f_d/f)+4               -14               -3                -3              -3
+= (d_d/b)+4               -22               -11               -11             -11
+f,N+3,4            15     -6 -16            +5 KD             +5 KD           +5 KD
+u/f+3+4            25     -2                KD                x               KD
+f,f,N+3+4          29     x                 KD                KD              KD
+4,3,4              11     -4 -14 -6         +5 -17 -1         x x x           KD -17 KD
+4,3,3              11     -4 -14 -13        +5 -17 -8         x x +16         KD -17 KD
+FC,u/f+4           19     -16               KD                KD              KD
+FC,U/F+4           13     -31               KD                KD              KD
+FC,U/F+3+4         48     x                 KD                KD              KD
+SSL+4~3            17     -3 -6             KD KD             x x             KD KD
+d,d/f+4            17     -18               -7                -7              +8
+U/F+4              14     -12               KD                KD              KD
+u/f+4              14     -8                KD                +2              KD
+u/f,N+4            23     -11               KD                KD              KD
+b+4~3              20     -3 -1             +7 +8             +8 +9           KD KD
+b,b+4~3            19     -9 -7             KD KD             x x             KD KD
+d,d/b+4            22     -17               KD                KD              KD
+4,(u_u/f)+3        11     -4 -1             +5 KD             x KD            KD KD
+4,4,4              11     -4 -5 -5          +5 +6 +4          x x x           KD KD KD
+d+4                12     -11               -12               -8              0
+= N+4,4,4                 -9 -5 -5          0 +4 +4           x x x           KD KD KD
+= N+4,3,3                 -9 -14 -13        0 -17 -8          x x +16         KD -17 KD
+= N+4,3,4                 -9 -14 -6         0 -17 -1          x x x           KD -17 KD
+= N+4,u+3                 -9 -1             0 KD              x KD            KD KD
+D+4,4,4,4~3        12     -(11 20 25 20 10) -(12 21 14) KD KD -(8 9 14) KD KD 0 -(9 14) KD KD
+f,N,b,N+4          18     -14               +2                +2              +12
+b,b,u/b            15     0                 KD                KD              KD
+
+««Hitman Arts»»
+
+Command         F Hit     B Adv           H Adv           Hc Adv           CH Adv
+-------         -----     -----           -----           ------           ------
+1,1              12       0 -1            +9 +8           x x              +9 +8
+1,4~3            15       -10 -11         +1 +1           +1 0             +3 +3
+1,4:4~3          15       -10 -4          +1 +3           +1 +3            +3 +3
+2                19       -6              KD              KD               KD
+3                17       -10             KD              x                KD
+4                31       -22             KD              KD               KD
+
+
+                                   -=¤§Move Analysis§¤=-
+
+The moves that were only included in this section were the ones that I believe will be 
+significant in the gameplay and/or may need some clarifications about the properties etc.
+
+««Knee Driver»»
+f,f+3+4
+It's all right even if Lee's Knee Driver isn't a launcher like Law's.  What's important is 
+that you could execute your throws unexpectedly.  You could fake your opponent by delaying the 
+Knee Driver in such a manner that you buffer as f,N,f+3+4.  It's like performing a Mist Step 
+immediately followed by a throw - the remaining f+3+4.
+
+««Double Punch - Mist Step»»
+1,2~f,N
+This move is obviously effective in juggles preferrably keeping your opponent in mid air.  I 
+don't usually advice people to use this move when your opponent's feet is on the ground because 
+it could easily be ducked.  I guess there's a better option.
+
+««Double Punch - Violet Kick»»
+1,2<4[~3]
+In Tekken Tag, I used to do 1,F+2,2,2 after a blocked hit which only gives me a few frames of 
+advantage.  But there a problem exists.  Sometimes, my opponents could block the last 
+right punch and retaliate with a FC or WS move.  It definitely bugs me a lot.  With the 
+Violet Kick appearing in Tekken 4, I changed my comeback move.  It's definitely less dangerous 
+than my old move because Violet Knuckle Combo ends in a high range and the Violet Kick deals a 
+greater amount of damage.  Another property of the Violet Kick is that it could be linked to 
+Hitman Stance and guaranteed after a bump on the wall by a 1+3~f.  In addition, this kick could 
+be upgraded to the Silver Rain.  Though it requires just frame timing, it decreases 
+opponent's lifebar by 10 points more.  And still, it can be chained with a Hitman Stance.  
+Lastly, they all connect on a counterhit including the last hit which ends in the midsection.
+
+««Jab - Acid Rain Combo»»
+1,3:3:3
+I consider this more of the real Acid Rain Combo than the f+3:3:3 because the former is 
+definitely more useful and more efficient.  This one's my personal favorite.  It's 8-frame 
+fast and you could have full control of this flashy move once you have practiced it well.  
+Once you have seen that the jab and the first kick was blocked, you could stop at the second 
+kick which only has a -8 which implies a much safer kick than the first and the last kick.  
+Opponent will be smacked by a crumple fall stun on hit.  And above all else, this menacing 
+move is perfect on counterhit.
+
+««Left & Right Violet Screw»»
+SSR+3~4_SSL+4~3
+It's a good news to Lee that he could link his various moves with the Hitman Stance.  His 
+Violet Screws could now be considered a safer one.  I use this when Hwoarang does his Flamingo 
+Stance and keeps on sidestepping until I lose my axis on him.  If he sidesteps right, I face 
+him my left screw and vice versa.  Now it could be linked with Hitman Stance, you could more 
+or less be safer and block a retaliating move in case your opponent has anticipated your move, 
+ducks and do a WS move.
+
+««Schwartz Rose Hook»»
+SS+1+2
+Like I have mentioned earlier, as he sees you sidestep, he could assume that you'll do a 
+Violet Screw so he might just duck or whatsoever.  My point is quite simple Violet Screws hit 
+high and this slamming move hits mid.  I feel like doing Marduk's b+1 while doing this.  The 
+stun looks cool.
+
+««Side Kick»»
+d/f+3
+This is another move which I have underestimated.  Maybe I just don't give enough attention to 
+this until it became a special move.  Lee lifts up his left foot up to the midsection in a 
+more sideward manner compared to the d/f+3 in TTT.  Therefore, it serves as an anti-sidestep 
+in its littlest fashion and a good interruptor too.  It keeps the attacking opponent distant 
+to you with a simple gut stun specially on counterhit.  This becomes handy after a sidestep 
+or a sway.
+
+««Split Axe Kick»»
+f,f+3
+I included this move in this list because of its beauty in guard break.  He will be hit with a 
+Blazing Kick as he dashes backwards, tripped by the Delayed Dragon Slide as he turtles, and be 
+striken by some aggressive move like Shredder, Soviet Kick Combo, or like f,N,u/f+4.
+
+««Dragon Slide»»
+FC,d/f,d,d/f+3
+This is another of Law's components that is useful to Lee.  Link the Dragon Slide after tech 
+roll (any button for tech roll~D, d/f,d,d/f+3) or after the Hitman Stance (3+4~D,d/f,d,d/f+3).  
+You could also slide low (d,d/f,d,d/f...) as you go near the opponent and mix him up with 
+either Tsunami Kick or the Dragon Slide.
+
+««Mist Wolf Kick»»
+b+3(~4_<3)
+This move itself is a some sort of preconstructed custom string in itself.  Here are some of 
+your options which I believe that would enhance your tricky & poking gameplay.  You could just 
+buffer b+3 and delay the 2nd which makes up the combo (<3).  Your opponent might think that 
+nothing follows your 1st Mist Wolf attack.  It's quite deluding if you exaggerate the delay.  
+When your opponent anticipates that you would delay the 2nd kick, you position Lee into Hitman 
+Stance in a surprising act, or you could even just do the b+3 and follow it with another move 
+or none at all.  It's all about doing the ones that your opponent doesn't expect.  I don't 
+consider it a guessing game, it's more of a psychological concept.
+
+««Mist Trap»»
+b+3~3:4
+Here maybe the 3rd or 4th option to your Mist Wolf strings.  Well, at least this is less 
+difficult than Acid Rain Combo.  This move is best for the turtles especially when they don't 
+know how to duck.  For the experts, again, execute it at the most unexpected time.  Mist Trap 
+could now connect even though your opponent has not blocked the move; in fact, it could be 
+already performed in juggles.
+
+««Silver Low - Head Kick - Violet Hammer»»
+d+3,3,3
+This is the improved version of Silver Low - Head Kick - Feint Hammer back in Tekken Tag.  
+A problem that I encounter before is that when I do this Feint Hammer, I sometimes miss b+3 so 
+I end up another Head Kick so I easily get juggled.  This time, you don't have to buffer the 
+joystick to get a hammer.
+
+««Tsunami Kick & Infinite Starters»»
+WS+3,3,(D+3_d/f+3)
+I usually use this move right after a tech roll and maybe successfully blocking a low hit.  
+In what I have observed, all of those 3 hits will connect on a counterhit.  I paired the 
+Tsunami Kick with an Infinite Starter off to indicate the efficiency when a counterhit comes 
+along or just letting your opponent block the Tsunami Kick and make him guess with a mid or 
+low hit with an Infinite Starter.
+
+««Shredder»»
+f,f,N+3,4
+If you think there's no much use for Shredder now because of the presence of the 
+Soviet Kick Combo, think again.  This one's got better damage, less recovery time, and Lee 
+leaps higher.  The Shredder's damage is 20,15 while the Soviet's is just 10,16.  Your opponent 
+could at least poke you after blocking Lee's Shredder while moves such as Jin's 1+2 will 
+connect after a blocked Soviet Kick Combo.  In juggles, it depends on the kinds of risers and 
+combos prior to the finale - either the Shredder or the Soviet Kicks.  When your opponent is 
+on mid-air, it's preferrable to use the Shredder when your opponent is near and at a relatively 
+high range.  Use the latter for distanced opponents and located at a low mid-air range 
+specially for moves that could be linked to a Mist Step.
+
+««Delayed Dragon Slide»»
+f,f,N+3+4
+One of Lee's stealth attacks, plus the fact that he's got a Dragon Slide, this one's a silent 
+bomber.  Unlike the Dragon Slide, you don't have to duck before execution.  Slow but slick, 
+passive but polished.  Could be linked with moves requiring a guard break when blocked and 
+moves with quick recoveries.  Moreover, it could even increase its delay when you buffer it as 
+f,N,f,N+3+4 similar to the Knee Driver.
+
+««Machine Gun Kicks»»
+4,4,4
+This is one of the fastest kicks in Tekken - an 11-frame triple high kick.  I usually utilize 
+this move as a finale for juggles when the opponent gets hit on walls specially when I perform 
+that 1,2~f,N several times as my opponent approaches the wall.  If you notice, the 
+Machine Gun Kicks doesn't always work when you bring your opponent to the wall because there 
+has to be a certain timing in such a manner that your opponent will not make a wall tech be 
+available for him.  When the distance gap between you and the wall might be too far to do the 
+4,4,4 and maybe too near right after you Mist Step and he will be able to wall tech, I buffer 4 
+for the Violet Kick or the Silver Rain Kick to take effect.  Put Lee in Hitman Stance if 
+desired.  A well-developed Lee necessitates the skill of timing.
+
+««Laser Edge - Violet Spin Hammer»»
+d+4,N+4,3,3
+I've been wishing for a move like this and it was a blessing when it came true.  One of 
+Lee's arsenal which I apply is his Laser Edge - Shaolin Spin Kicks because it does give some 
+damage when it counterhits.  I believe that the point for including the Violet Spin Hammer is 
+to Lee's safety.  Perhaps Namco have realized that Lee has too many moves ending up in a high 
+move and/or ending up with an irritating recovery time.  Adopted from d+3,3,b+3 in Tekken Tag, 
+a mid-ranged hammer requiring a guard break when blocked was developed with the joystick 
+unnecessary to buffer it backwards.  I advise you not to use 4,3,3 without a Laser Edge as 
+your primary attack.  The reason for this is to make your opponent to consume at least your 
+d+4,N+4,3 on counterhit and in case he blocks your hammer, the remaining left kick to be 
+buffered, you'll be more or less unharmed with a retaliating assault due to its special 
+property; in fact, you might even be able to dizzy him up by follwing some quick moves up.
+
+««Soviet Kick Combo»»
+f,N+3,4
+Like what I have mentioned earlier, the Shredder and the Soviet Kick Combo has its own 
+distinct functions.  Mixing your opponent up as you Mist Step will give you the option to 
+proceed with either a f,N,f+3+4 ("delayed" Knee Driver) or a 3,4 (Soviet Kick Combo).  On the 
+other hand, the Shredder will help you encounter with quick and distanced attacks which will 
+most likely to misfire your opponent's move.  Yes, its possible to link Shredder right after 
+the Mist Step (f,N,f~N+3,4) but even the slightest frame gap would be to your disadvantage.  
+I guess this comparison would be a clearer example.
+
+
+                           -=¤§Differentiating Similarities§¤=-
+
+««Soviet Kick Combo vs Shredder»»
+
+                                               Soviet Kick Combo           Shredder
+                                               -----------------           --------
+Damage                                              10,16                   20,15
+Block Advantage                                      -16                     -13
+Range                                                mM                       mm
+Mist Step Linking                                 excellent              satisfactory
+As a Juggle Launcher (Difficulty)                  easier                    easy
+As Final Input in Juggle Combos (Difficulty)        easy                   moderate
+
+««Violet Knee vs Hop Kick»»
+
+                                                 Violet Knee               Hop Kick
+                                                 -----------               --------
+Damage                                               15                       13
+Guard Break                                         yes                       no
+Hit on Crouching Opponent Advantage                  +2                       KD
+Reach                                               fair                     good
+
+««Silver Low - Head Kick - Violet Hammer vs Laser Edge - Violet Spin Hammer»»
+
+                        Silver Low - Head Kick - Violet Hammer  Laser Edge - Violet Spin Hammer
+                        --------------------------------------  -------------------------------
+Total Damage                           8,18,19                             7,16,12,19
+Property to Delay                     last hit                              2nd hit
+F Hit                                    16                                   12
+Range                                   lhm                                  lhhm
+# of Duckable Hits                       1                                    2
+Reach                                   fair                                 good
+
+««Left Violet Screw vs Right Violet Screw»»
+
+                                        Left Violet Screw              Right Violet Screw
+                                        -----------------              ------------------
+Damage                                         30                              24
+F Hit                                          21                              17
+B Adv                                       -10 -12                          -3 -6
+
+««Quick Catapult vs High Catapult»»
+
+                                             Quick Catapult               High Catapult
+                                             --------------               -------------
+Damage                                             25                          30
+Juggle                                            yes                          no
+F Hit                                              19                          13
+B Adv                                             -16                         -31
+
+««Rising Kick vs Extended Rising Kick»»
+
+                                               Rising Kick            Extended Rising Kick
+                                               -----------            --------------------
+Damage                                             20                          10
+F Hit                                              11                          13
+B Adv                                              -6                          -9
+H Adv                                              +5                          +2
+Hc Adv                                             +5                          +2
+CH Adv                                             +5                          +2
+Input from Standing Position                 unsatisfactory                   good
+
+
+                                      -=¤§Juggle Summary§¤=-
+
+I have included the possible combos which I think that a player will most likely use in his 
+gameplay.  The column '# of hits' refers to the total number of hits in a combo inclusive of 
+the riser.  Calculating for the damage was based on how Tekken Tag was computed.  I believe 
+that this will relatively measure the intensity of one combo with another.  The computation for 
+this column also includes the damage of the riser; therefore, this column shows the total 
+damage dealt to the opponent.  The 'Difficulty' column was based on a beginner to intermediate 
+Lee player.  Results may vary.  Also, please take note of some footnotes indicated within this 
+section.
+
+Riser        Combo                                          # of hits    Damage    Difficulty
+-----        -----                                          ---------    ------    ----------
+=============================================================================================
+««Violet Knee»»
+u/f+4        b+1,1~f,N, 1,2~f,N, 1,2~f,N+3,4                    8         49.4       v.easy
+             u/f+4, 1,2~f,N, 1,2~f,N+3,4                        8         55         v.easy
+             1,2~f,N, 1, d,d/b+4                                5         37.5        easy
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4          9         47.4        easy
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4              9         53          easy
+             1,2~f,N, 1,2<4:4                                   6         41.5       medium
+             1, b+1,1~f,N, 1, b+1,1~f,N+3,4                     7         42.5       medium
+             b+1,1~f,N, 1,2~f,N, b+3,3                          6         46.9       medium
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4        9         51.4       medium
+             u/f+4, 1,2~f,N, b+3,3                              6         52.5       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4            9         57         medium
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, d+3,3,3               9         64.3       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, d+3,3,3                   9         69.9       medium
+             d/f+1, f,f,N+3,4,4                                 5         53          hard
+---------------------------------------------------------------------------------------------
+««Hop Kick»»
+U/F+4        b+1,1~f,N, 1,2~f,N, 1,2~f,N+3,4                    8         47.4       v.easy
+             u/f+4, 1,2~f,N, 1,2~f,N+3,4                        8         53         v.easy
+             1,2~f,N, 1, d,d/b+4                                5         35.5        easy
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4          9         45.4        easy
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4              9         51          easy
+             1,2~f,N, 1,2<4:4                                   6         39.5       medium
+             1, b+1,1~f,N, 1, b+1,1~f,N+3,4                     7         40.5       medium
+             b+1,1~f,N, 1,2~f,N, b+3,3                          6         44.9       medium
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4        9         49.4       medium
+             u/f+4, 1,2~f,N, b+3,3                              6         50.5       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4            9         55         medium
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, d+3,3,3               9         62.3       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, d+3,3,3                   9         67.9       medium
+             d/f+1, f,f,N+3,4,4                                 5         51          hard
+---------------------------------------------------------------------------------------------
+««Uppercut»»
+d/f+2 (CH)¹  b+1,1~f,N, 1,2~f,N, 1,2~f,N+3,4                    8         46.4       v.easy
+             u/f+4, 1,2~f,N, 1,2~f,N+3,4                        8         52         v.easy
+             1,2~f,N, 1, d,d/b+4                                5         34.5        easy
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4          9         44.4        easy
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4              9         50          easy
+             1,2~f,N, 1,2<4:4                                   6         38.5       medium
+             1, b+1,1~f,N, 1, b+1,1~f,N+3,4                     7         39.5       medium
+             b+1,1~f,N, 1,2~f,N, b+3,3                          6         43.9       medium
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4        9         48.4       medium
+             u/f+4, 1,2~f,N, b+3,3                              6         49.5       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4            9         54         medium
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, d+3,3,3               9         61.3       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, d+3,3,3                   9         66.9       medium
+             d/f+1, f,f,N+3,4,4                                 5         50          hard
+---------------------------------------------------------------------------------------------
+««Extended Uppercut»»
+WS+2 (CH)¹   b+1,1~f,N, 1,2~f,N, 1,2~f,N+3,4                    8         49.4       v.easy
+             u/f+4, 1,2~f,N, 1,2~f,N+3,4                        8         55         v.easy
+             1,2~f,N, 1, d,d/b+4                                5         37.5        easy
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4          9         47.4        easy
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4              9         53          easy
+             1,2~f,N, 1,2<4:4                                   6         41.5       medium
+             1, b+1,1~f,N, 1, b+1,1~f,N+3,4                     7         42.5       medium
+             b+1,1~f,N, 1,2~f,N, b+3,3                          6         46.9       medium
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4        9         51.4       medium
+             u/f+4, 1,2~f,N, b+3,3                              6         52.5       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4            9         57         medium
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, d+3,3,3               9         64.3       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, d+3,3,3                   9         69.9       medium
+             d/f+1, f,f,N+3,4,4                                 5         53          hard
+---------------------------------------------------------------------------------------------
+««Extended Hop Kick»»
+u/f,N+4      b+1,1~f,N, 1,2~f,N, 1,2~f,N+3,4                    8         59.4       v.easy
+             u/f+4, 1,2~f,N, 1,2~f,N+3,4                        8         65         v.easy
+             1,2~f,N, 1, d,d/b+4                                5         47.5        easy
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4          9         57.4        easy
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4              9         63          easy
+             1,2~f,N, 1,2<4:4                                   6         51.5       medium
+             1, b+1,1~f,N, 1, b+1,1~f,N+3,4                     7         52.5       medium
+             b+1,1~f,N, 1,2~f,N, b+3,3                          6         56.9       medium
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4        9         61.4       medium
+             u/f+4, 1,2~f,N, b+3,3                              6         62.5       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4            9         67         medium
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, d+3,3,3               9         74.3       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, d+3,3,3                   9         79.9       medium
+             d/f+1, f,f,N+3,4,4                                 5         63          hard
+---------------------------------------------------------------------------------------------
+««Standing Kick»»
+4 (CH)¹      b+1,1~f,N, 1,2~f,N, 1,2~f,N+3,4                    8         50.4       v.easy
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4          9         48.4        easy
+             b+1,1~f,N, 1,2~f,N, b+3,3                          6         47.9       medium
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4        9         52.4       medium
+             b+1,1~f,N, 1,2~f,N, 1,2~f,N, d+3,3,3               9         65.3       medium
+---------------------------------------------------------------------------------------------
+««Soviet Kick Combo»»
+f,N+3,4      1,2~f,N, 1,2~f,N, 1,2~f,N+3,4                      10        63          easy
+             1, b+1,1~f,N, 1,2~f,N, 1,2~f,N+3,4                 10        62         medium
+             1, f,f,N+3,4,4                                     6         60          hard
+             1,2~f,N, 1, b+1,1~f,N, 1,2~f,N+3,4                 10        62          hard
+---------------------------------------------------------------------------------------------
+««Scatter Blow»»
+HMS 2        u/f+3+4                                            2         47         v.easy
+             f,f, 1,2~f,N, 1,2~f,N+3,4                          7         52.5       v.easy
+             f,f, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4                8         50.5        easy
+             f,f, 1,2~f,N, b+3,3                                5         50         medium
+             f,f, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4              8         54.5       medium
+             f,f, 1,2~f,N, 4,u+3                                5         55         medium
+             f,f, 1,2~f,N, 1,2~f,N, 1,2~f,N+3,4                 9         60         medium
+             f,f, 1,2~f,N, 1,2~f,N, d+3,3,3                     8         67.4       medium
+             f,f,N+3,4,4                                        4         59          hard
+---------------------------------------------------------------------------------------------
+««Blazing Kick»»
+d,d/b+4      SS, u/f+4, 1,2~f,N, 1,2~f,N+3,4                    8         62         v.easy
+             SS, u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4          9         60          easy
+             SS+2~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4           9         61.6        easy
+             SS, u/f+4, 1,2~f,N, b+3,3                          6         59.5       medium
+             SS+2~f,N, 1,2~f,N, b+3,3                           6         61.1       medium
+             SS, u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4        9         64         medium
+             SS+2~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4         9         65.6       medium
+             SS, u/f+4, 1,2~f,N, 1,2~f,N, d+3,3,3               9         76.9       medium
+             SS+2~f,N, 1,2~f,N, 1,2~f,N, d+3,3,3                9         78.5       medium
+             b,b+4~3, 2                                         3         48.7        hard
+             f,f,N+3,4,4                                        4         58          hard
+             U/F,N+4, 1,2~f,N, 1,2~f,N+3,4                      8         70          hard
+             b+3~3:4                                            2         51.4       v.hard
+---------------------------------------------------------------------------------------------
+««Silver Heel»»
+b+4 (CH)¹    ~3, 4                                              2         39.6       v.easy
+             ~3, 2                                              2         40.4       v.easy
+             ~3, 1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4          8         49.5        easy
+             ~3, 1~f,N, 1,2~f,N, 1,2~f,N+3,4                    7         51.5        easy
+             SS+2~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4           9         61.6        easy
+             SS+2~f,N, 1,2~f,N, 1,2~f,N+3,4                     8         63.6        easy
+             ~3, 1~f,N, 1,2~f,N, b+3,3                          5         49         medium
+             4,u+3                                              3         49.8       medium
+             ~3, 1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4        8         53.5       medium
+             SS+2~f,N, 1,2~f,N, b+3,3                           6         61.1       medium
+             SS+2~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4         9         65.6       medium
+             ~3, 1~f,N, 1,2~f,N, 1,2~f,N, d+3,3,3               8         66.4       medium
+             SS+2~f,N, 1,2~f,N, 1,2~f,N, d+3,3,3                9         73.4       medium
+             u/f+3+4                                            2         46          hard
+             f,f,N+3,4,4                                        4         58          hard
+             b+3~3:4                                            2         51.4       v.hard
+---------------------------------------------------------------------------------------------
+««Ship Slicer»»
+HMS 4        FC,u/f+4                                           2         42         v.easy
+             d/b+1, cc, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4          9         52          easy
+             d/b+1, cc, 1,2~f,N, 1,2~f,N+3,4                    8         54          easy
+             d/b+1, cc, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4        9         56         medium
+             d/b+1, cc, 1,2~f,N, 1,2~f,N, d+3,3,3               9         68.9       medium
+---------------------------------------------------------------------------------------------
+««Quick Catapult»»
+FC,u/f+4     u/f+4, 1,2~f,N, 1,2~f,N+3,4                        8         65         v.easy
+             1,2~f,N, 1,2~f,N, 1,2~f,N, f+4                     8         45          easy
+             1,2~f,N, 1,2~f,N+3,4                               7         53          easy
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4              9         63          easy
+             1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4                   8         56.5       medium
+             u/f+4, 1,2~f,N, b+3,3                              6         62.5       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4            9         67         medium
+             1,2~f,N, 1,2~f,N, d+3,3,3                          8         69.4       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, d+3,3,3                   9         79.9       medium
+---------------------------------------------------------------------------------------------
+««Split Axe Kick»»
+f,f+3 (CH)¹  SS+2~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4           9         62.6        easy
+             SS+2~f,N, 1,2~f,N, 1,2~f,N+3,4                     8         64.6        easy
+             SS+2~f,N, 1,2~f,N, b+3,3                           6         62.1       medium
+             SS+2~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4         9         66.6       medium
+             SS+2~f,N, 1,2~f,N, 1,2~f,N, d+3,3,3                9         79.5       medium
+---------------------------------------------------------------------------------------------
+««Acid Rain Combo»»
+f+3:3:3²     d+3,3,3                                            6         41.2       v.easy
+             d/f+1, 1,2~f,N, 1,2~f,N+3,4                        10        63         v.easy
+             u/f+4, 1,2~f,N, 1,2~f,N+3,4                        10        67         v.easy
+             d/f+1, b+1,1~f,N, 1,2~f,N, 1,2~f,N+3,4             11        67         v.easy
+             d/f+1, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4              11        61          easy
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4              11        65          easy
+             d/f+1, b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4   12        65          easy
+             d/f+1, 1,2~f,N, b+3,3                              8         60.5       medium
+             u/f+4, 1,2~f,N, b+3,3                              8         64.5       medium
+             d/f+1, b+1,1~f,N, 1,2~f,N, b+3,3                   9         64.5       medium
+             d/f+1, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4            11        65         medium
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4            11        69         medium
+             d/f+1, b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4 12        69         medium
+             d/f+1, 1,2~f,N, 1,2~f,N, d+3,3,3                   12        77.9       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, d+3,3,3                   11        81.9       medium
+             d/f+1, b+1,1~f,N, 1,2~f,N, 1,2~f,N, d+3,3,3        12        81.9       medium
+             f,f,N+3,4,4                                        6         57          hard
+---------------------------------------------------------------------------------------------
+««Jab - Acid Rain Combo»»
+1,3:3:3²     d+3,3,3                                            7         46.2       v.easy
+             d/f+1, 1,2~f,N, 1,2~f,N+3,4                        11        68         v.easy
+             u/f+4, 1,2~f,N, 1,2~f,N+3,4                        11        72         v.easy
+             d/f+1, b+1,1~f,N, 1,2~f,N, 1,2~f,N+3,4             12        72         v.easy
+             d/f+1, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4              12        66          easy
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4              12        70          easy
+             d/f+1, b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, f+4   13        70          easy
+             d/f+1, 1,2~f,N, b+3,3                              9         65.5       medium
+             u/f+4, 1,2~f,N, b+3,3                              9         69.5       medium
+             d/f+1, b+1,1~f,N, 1,2~f,N, b+3,3                   10        69.5       medium
+             d/f+1, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4            12        70         medium
+             u/f+4, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4            12        74         medium
+             d/f+1, b+1,1~f,N, 1,2~f,N, 1,2~f,N, 1,2~f,N, u/f+4 13        74         medium
+             d/f+1, 1,2~f,N, 1,2~f,N, d+3,3,3                   12        82.9       medium
+             u/f+4, 1,2~f,N, 1,2~f,N, d+3,3,3                   12        86.9       medium
+             d/f+1, b+1,1~f,N, 1,2~f,N, 1,2~f,N, d+3,3,3        13        86.9       medium
+             f,f,N+3,4,4                                        7         62          hard
+---------------------------------------------------------------------------------------------
+««Wall Combo»»
+opponent     4,4,4                                              7         +50        medium
+hits the
+wall³
+---------------------------------------------------------------------------------------------
+««Forward Push»»
+1+3~f        (wall) 1,2,4                                       5         32         v.easy
+             (wall) 1,2,4:4                                     5         42         medium
+---------------------------------------------------------------------------------------------
+««Side Push»»
+1+3~(u_d)    (wall) 4,4,4                                       7         49         v.easy
+---------------------------------------------------------------------------------------------
+««Switch Sides»»
+1+3~b        (wall) b+1:1,2, d+4, d/b+3                         7         57         medium
+=============================================================================================
+¹Because the damage on a counterhit varies, I computed the least total damage possible that 
+ would be dealt to an opponent.
+²Since the launcher itself is undeniably arduous, I just based the difficulty as far as the 
+ combos are concerned.
+³Since the number of hits vary, I summed up the number of Machine Gun Kicks and the number of 
+ times the opponent would hit the wall because damage would also be dealt to an opponent 
+ when one gets hit after a basic juggle hit.
+
+
+
+                                -=¤§Custom Strings & Analysis§¤=-
+
+These are some of the strings that I find effective in beating most characters.  I consider 
+these strings for long-run purposes because they're relatively cumbersome to counter 
+because they actually induce mind games for your opponent as a player.  I am not 
+generalizing that all of these strings are effective for all characters.  Nevertheless, I 
+have placed in another section regarding the adjustments that will involve in tailoring 
+your offense and defense in fighting against different characters.  Please do not limit 
+yoursevles with these strings because there might be efficient custom strings left 
+undiscovered.
+
+=============================================================================================
+««Sidestep Chain (SSC)»»
+SSR
+        ~f~N~SSR~f~N...
+        +2~f,N
+                1,2,4:4 [b+3<3]
+                1,2~f,N
+                        f,f+3+4
+                        f,f,N+3+4
+                        [f,f] b+3[<3]
+        +1+2 [d,d/f+4]
+        ~f,N+3
+                d/f+3
+                3<3
+
+This would be your main string.  It's advisable to specifically sidestep to the right to 
+evade most of your opponent's moves specially when counterattacking.  Your main footwork 
+would be a snake wave to intimidate your opponent at the same time misdirecting his axis.  
+There are 2 options: ending your snake wave by sidestepping or with a Mist Step.  If you 
+end with a SSR, you could do either a Rear Cross Punch or a Schwartz Rose Hook.  If you end 
+with a Mist Step, you'd go for a Soviet Kick.
+
+If you did a Rear Cross punch, it should more or less hit and continue with a guaranteed 
+1,2,4:4.  If the Rear Cross punch did not hit, you could either do a Knee Driver when he 
+turtles, do a Delayed Dragon Slide if he's good at escaping throws 
+(but it's really quite rare to escape a throw right after getting hit), or fake him by 
+dashing forwards and doing a Mist Wolf Kick or two.
+
+You only perform the Schwartz Rose Hook when your opponent attempts to crouch during your 
+snake wave.  If it connects as a counterhit, a Silver Tail is guaranteed.
+
+A Soviet Kick works better not finishing it (omitting the 4 in f,N~3,4) because you could 
+make him fall for a better trap.  If he usually attempts to retaliate right after that move, 
+a Side Kick would be a good option.  If he usually turtles, it's advisable to continue with 
+a Head Kick and delay your Violet Hammer.  Again, a counterhit would make your opponent 
+open again for another Silver Tail.
+
+---------------------------------------------------------------------------------------------
+««Low Poke Chain (LPC)»»
+d/b+1
+        WS+3,3,(D+3_d/f+3)
+        FC,d/f+4
+
+This interrupt is one of the most important moves in all of the Tekken installments.  Good 
+thing Lee can make a mixup out of this simple attack.  Deciding whether to use Tsunami Kicks 
+or Silver Tail depends on how your opponent reacts after your d/b+1.  If your opponent 
+turtles, Silver Tail will gradually damage him somehow.  If he interrupts, right after your 
+d/b+1, do the Tsunami Kicks plus the mixup of either Step In Kick Infinite Starter or a 
+Silver Low Infinite Starter.  If your Tsunami Kicks connect, do a Silver Low and a Rave 
+Kick, if I'm not mistakened, they're guaranteed.  By the way, if you have low poked your 
+opponent and he blocks it while he's crouching, I suggest you don't do any string because 
+more often than not, he'll do a WS move.  Well, Tsunami Kicks could still be an option but 
+it's a little more risky this time.
+
+---------------------------------------------------------------------------------------------
+««Double Punch Chain (DPC)»»
+1,2~f,N
+        d/f+1 - MPC
+        ~B [u/f+4]
+	1+3~(f_u_b_d), 4,4,4
+
+I could consider this as the next starter after the Rear Cross Punch.  Perhaps d/f+1 would 
+be the most practical move after this one.  The purpose of immediately halting Lee's Mist Step 
+is to fake your opponent making him think that you're done with your strings but you suddenly 
+counterattack with a Violet Knee.  There is the element of surprise with this string.  Don't 
+abuse it too much because your opponent will be able to anticipate it better.  If he is near a wall, it would be great to punish him with banging him to one side and pulverize his head with Machine Gun Kicks.
+
+---------------------------------------------------------------------------------------------
+««Violet Knuckle Chain (VKC)»»
+1,F+2,2
+        d/f+1 - MPC (when hit)
+        d/b+1 - LPC (when blocked)
+
+Since some people usually wait for Lee's 1,2 and then interrupt with a d/b+1 assuming that 
+Lee would do a Mist Step, this would make them think twice.  When 1,F+2,2 connects, d/f+1 
+is safe to barge in and then link it with the MPC.  If 1,F+2,2 gets blocked, d/b+1 would be 
+the safest move though it's still quite a risk because a blocked 1,F+2,2 would give you a -6.  
+But only a few players react to that.
+
+---------------------------------------------------------------------------------------------
+««Mid Poke Chain (MPC)»»
+d/f+1
+        (d+4,N+4,3,3_U/F+4)
+        1,2~f,N
+                        f,f+3+4
+                        f,f,N+3+4
+                        [f,f] b+3[<3]
+        1,F+2,2 - VKC
+
+This is another essential move quite reasonable to abuse.  After d/f+1 was blocked, check 
+whether you're in a sweep distance or close distance with your opponent.  If you think 
+that when your opponent tries to interrupt with a d/b+1 will whiff, consider it sweep 
+distance; otherwise, it's close and you'll be needing more pokes to damage him.  At sweep 
+distance, perform the Laser Edge, Violet Spin Hammer more often because it's really 
+burdensome to make your opponent to crouch.  On close distance, I'd suggest you use the 
+1,2~f,N more often because it is more probable that your opponent will attempt to retaliate 
+after your d/f+1.  The purpose of the 1,F+2,2 is just as the same as the 1,F+2,2 in the VKC.
+
+---------------------------------------------------------------------------------------------
+««Hitman Chain (HMC)»»
+HMS
+        [~D] N+2
+        ~D,d/f,d,d/f+3
+        ~D,d/f,d,u/f+4[~3]
+
+Among the other strings, you might notice that none of the strings were linked to a Hitman 
+Stance.  But in any case, I just put this one to indicate some advisable strings that could 
+be linked during HMS.  There are two common ways in which how your opponent reacts when a 
+Lee opponent goes to HMS.  One is to interrupt right away hoping that his attack would get 
+in first.  Another is to turtle and may even dash backwards.  If you think your opponent 
+tends to counterattack, do a Scatter Blow for a possible juggle.  You can even crouch first 
+before doing it for further deception.  If otherwise, you intimidate your opponent by 
+sliding low and doing either a mid/low mixup with a Dragon Slide or a Quick Catapult.  
+If you have decided to execute the latter, bring it back to HMS when blocked and you can 
+repeat the whole process.
+=============================================================================================
+
+
+                                  -=¤§Poking & Defense§¤=-
+
+I think this is where Lee's subtance is -- poking.  His poking may not be as annoying as 
+Nina's but Lee's poking will lead to turpitude.  Those little mid and low quick kicks will 
+surely demoralize your opponent.  I consider this as his intensive offense.  Since Lee has 
+a poor stamina, it is a must to also concentrate on his defense arsenal.  There must be proper 
+anticipation and presence of mind.  I call his defense as his stealth offense.  This section 
+gathers, selects, and delineates the moves that could help in Lee's poking and defense game 
+in order to immensely develop his offense.
+
+Let's start off with my most basic poke.  I like to do the Laser Edge most of the time because 
+it's 12 frames fast, relatively safe, and could be linked with various kick combos.  One of 
+which is the Violet Spin Hammer.  Input that move when the opponent would probably attack 
+you.  Besides, it's not that dangerous because of the guard break that the last kick gives.  
+On the other hand, you could also use d/b+4 as another option for d+4.  This overlooked move 
+has better reach and it recovers in crouched position so you could follow it up with WS+4~3.  
+It a little bit dangerous to follow it up with FC+4 though because opponents tend to 
+dash backwards and the Rising Kick is defenitely more useful because it's relatively fast 
+and you could end it with the Hitman Stance.
+
+The Mist Wolf kick is an excellent mid poker because it deals on players who usually crouch 
+thinking you would give him a low hit.  This also works for executing it at an unexpected 
+time.  I don't advice this to link it with a Hitman Stance nor complete it with the Mist Wolf 
+Combo because it would add a little danger from your recovery time.  This avoidance of the 
+continuation with the Mist Wolf Kick only applies with Lee's poking game.  Lee's one of his 
+most cunning moves is his 3<3.  Your opponent will probably think that you have committed a 
+mistake by buffering the Head Kick but he then realizes that you did that on purpose when you 
+delay that Hammer Kick again which causes your opponent's face splat on the floor.  This is 
+also useful when you actually made a mistake in performing a move involving the left kick.  
+More often than not, your mistake will end up with a Head Kick so you might as well be 
+productive out of your unforced error.
+
+There would be two moves that could be used when opponent tries to attack you from sweep 
+distance -- The Extended Rising Kick and the Standing Kick.  The former would be more 
+effective if you use this when your opponent is trying to attack you from orbit to sweep 
+distance.  This time you follow it up with a Hitman Stance because it's safer in that case.  
+The uppercut is a classical move specially when your opponent tries to attack you at a fairly 
+close distance.  Your opponent gets a special aching animtaion and gets knocked down on 
+counterhit.  In short, use d/f+4~3 when your opponent about to attack you and use d/f+2 
+if your opponent is bombarding you with short-ranged attacks.
+
+I don't think I have the right words to express the importance of this move because this could 
+be Lee's most important move.  Any move that Lee had blocked which gives the opponent beyond 
+8 frames of disadvantage will give you the prestige to retaliate with that glorious 1,2,4.  
+Don't delay it and don't link it with Hitman Stance.  My objective for this is to attempt 
+for a Silver Rain Kick.  It's quite safe if you fail performing the Silver Rain Kick so long 
+as there's an assurance that you have blocked a move beyond 8 frames of disadvantage and you 
+have buffered 1,2,4 with enough speed.  In addition, I sometimes do a Laser Edge after a 
+successful 1,2,4.  This combo is also applicable for interrupting your opponent to get a 
+counterhit but another move is more recommendable.  There may be times where you get more than 
+8 frames of advantage on an attack you have blocked but you can't retaliate with a 1,2,4 nor 
+1,2,4:4 because the reach of its jabs are short.  This is how the Mist Trap becomes so 
+flexible that you'll surprise your opponent.  This move might be relatively slow but we should 
+also consider the fact of its element of stupefaction.  Since it's a norm in Tekken that you 
+won't get hit when blocked as far as no unblockable is concerned, Mist Trap culminates as a 
+threat factor thinking that you have blocked this move and then the next thing you know is 
+that your face meets the ground.
+
+The Acid Rain Combo suits its job to threaten pitbull players to simmer them down a little 
+bit. They can't just complacently attack you.  Shove them some Acid Rain Combo as Lee's one 
+of his special interrupts to maximize your counterhit attacks.  Analogous to the Mist Trap's 
+function, the Rear Cross Punch also serves as a substitute for 1,3:3:3 because of poor 
+reaching property.  Also, it's a good escape to opponents that bomabrd you with simple jabs 
+which give them +1 advantage and as you try to interrupt, you get thrashed.  Performing a 
+sidestep redirects your opponent's axis plus the input of 2 would redirect the axis a little 
+bit more as you give your opponent some shot.
+
+Here's a very essential function of the Violet Cutter: Lee drives his right foot in a 
+centrifugal manner.  Lee ducks as he performs this so there's a capability to avoid high 
+attacks in a more strategic way.  Moreover, there's a guaranteed Ship Slicer when you hit 
+your opponent and end up in Hitman Stance.  This 15-frame Side Kick would be better described 
+as relatively strong move which could be considered a second best after b+3 in mid poking.  
+Despite its ability to refrain your opponent to sidestep particularly to the right as 
+mentioned in the 'Move Analysis' section, it deregulates too much movement from your 
+opponent.  You could follow up a low hit specially on counterhit because it causes your 
+opponent to throb due to the hit making it appear like the Silver Rain Kick using the 
+left foot.  Allow me to draw the line between the two anti-sidestep moves - b,b+4 is for 
+those who attack you as they sidestep big time and d/f+3 is for those who try to redirect 
+your axis.
+
+The best poker for any player would be the Basic Low Poke.  For Lee's case, it's d/b+1 because 
+some characters have a special move executed when d/b+1 is buffered.  You might probably ask, 
+"Why not d+1?"  In Tekken, the less risky the moves would be, the better.  There will always 
+be a room for errors and there will always be a chance, no matter how rare would it occur, 
+that you buffered a d+1 and you would see your character do a sidewalk.  you wouldn't want 
+that to happen.  What we're just trying to do is lessen your probability to get stumped.  
+Remember, any expert would even commit the silliest mistakes.  As I was saying, you could 
+almost interrupt almost every move that you encounter.  It halts wave dashes, WS moves after 
+the Basic Low Poke, some quick strings, setups, and many more overlooked chances.  Well, if 
+there's anything that Lee's d/b+1 cannot reach, the Silver Whip will accomplish.  This move 
+is one of the most rapid kicks in Tekken installments.  I consider this as Lee's d/b+1 in 
+sweep distance.
+
+When you defend against a low attack.  The two most common responses that you would do is to 
+block low or parry.  These two have distinct functions for each.  You basically block low 
+when you know that that move will stagger and you parry when it will not stagger when blocked 
+low.  After blocking a staggered opponent's low attack, you could do either a WS+4~3 or 
+u/f,N+4 depending on the B Adv your opponent had suffered.  When you parry, you either do an 
+U/F+4 or a throw depending on the reach.  [Come on!  It's not cheap to throw sometimes.  You 
+deserve it somehow after you parry.  It's not that easy to parry you know.]  If you have 
+parried or have low blocked at nothing, you could either do FC pokes such as FC,D/B+4 or 
+FC,d/b,N+4~3.
+
+To put Lee's poking & defense moves in a nutshell, we have the following:
+
+Low Pokers
+d+4[N+4,3,3]
+d/b+4 [WS+4~3]
+
+Mid & High Pokers
+b+3
+3<3
+
+Anti-attackers
+d/f+4~3
+d/f+2
+
+Short B Adv Retaliator
+1,2,4[:4]
+b+3~3:4
+
+Anti-Pitbull
+1,3:3:3
+SS+2
+
+Anti-sidestep
+b,b+4~3
+d/f+3
+
+Best Pokers
+d/b+1
+f+4
+
+Defense on Low Attacks
+D/B
+d/f
+
+Options After a Successful Low Block
+WS+4~3
+u/f,N+4
+
+Options After a Successful Parry
+U/F+4
+f,f+3+4
+
+These are some of the tips in getting efficient with Lee's moves.  It is really important to 
+be aware what move to execute at any given situation.  Remember that a well-developed Lee 
+needs a well-developed offense and that this offense relies on his poking abilities and 
+defensive skills.
+
+
+                                        -=¤§Okizeme§¤=-
+
+Okizeme may be referred before as keeping your opponent on the ground.  But since Tekken 4 
+featured walls in this gameplay, I consider this more of an art of attacking your opponent 
+to disallow his full recovery from the ground and from walls.  Only the most common Get Up 
+Techniques are displayed.  You use the appropriate moves depending on the range and distance.
+You could check Section 2 for the differentation of the three different distances under the 
+'Extra Definitions' segment.  Please take note on the 'Properties' column for additional 
+information.
+
+Get Up Techniques           Moves            F Hit      Range     Distance (max)   Properties
+-----------------           -----            -----      -----     --------------   ----------
+=============================================================================================
+Sleeper                     d/b+3             16          L           close
+                            f,N+3,4           15          mM          orbit
+                            f,f,N+3+4         29          L           orbit
+---------------------------------------------------------------------------------------------
+Roll Backwards              d/b+3             16          L           close
+                            b+3[<3]           14          m           sweep             #1
+                            f,N+3,4           15          mM          orbit
+                            f,f,N+3+4         29          L           orbit
+---------------------------------------------------------------------------------------------
+Basic Get Up                f,N+3,4           15          mM          orbit             #2
+(Stand Up or                f,f,N+3+4         29          L           orbit             #2
+Recover Crouching)
+---------------------------------------------------------------------------------------------
+Ground Tech                 b+3~3:4           30          h           close
+                            SS, d,d/b+4       22          m           sweep
+---------------------------------------------------------------------------------------------
+Wall Tech                   1+3~(u_d_b_f)     11          h           close
+                            d/f+3             15          m           close
+                            SS+1+2            20          m           sweep             #3
+---------------------------------------------------------------------------------------------
+Jump Over Trick             u/f+3, d/b+1      22          hSm         close             #4
+---------------------------------------------------------------------------------------------
+Counterhit                  b+4~3             20          m           sweep             #5
+=============================================================================================
+#1 Input only the last Mist Wolf Kick if the first connects.
+#2 If the opponent tries to stand up or to recover from crouch, you should use f,N+3,4 or 
+   f,f,N+3+4 respectively with great anticipation.  You could delay the move by displaying 
+   the Mist Step for a more strategic execution.
+#3 The execution of the Schwartz Rose Hook must be fast enough in such a manner that it 
+   should be performed right after the opponent has bumped into the wall, assuming he will 
+   do a wall tech.
+#4 The d/b+1 will cause the opponent to turn his back on you on a successful trick.
+#5 The Silver Heel is considered effective for okizeme since it could be executed for 
+   unpredictable retaliations from your opponent on the ground.  If your opponent tries to 
+   retaliate, you might get a bounce juggle from your opponent.  If your opponent stays on
+   the ground, a Hitman Stance will be very versatile for your preparation in your okizeme.
+
+
+                                      -=¤§Versus Mode§¤=-
+
+This section is a relative tailoring of how to defend against a specific character by using 
+Lee.  I would consider this section a little bit more generalized because some tactics could 
+also be used by other characters such as techniques as when to poke, when to sidewalk, etc.  
+This includes all of the techniques I know because some may be unaware of one technique and 
+some may know another.  It is not conclusive that the techniques mentioned in this section 
+to be the most effective for all but it is based upon my common experience in challenging 
+the good players I have encountered.
+
+««Jin Kazama»»
+
+As Jin was announced to be the first-release character, I became eager to venture on his new 
+moves with the knowledge of his move list.  It was quite convincing that Jin was more 
+difficult to to duel with back in Tekken Tag.  His Electric Wind Hook Fist (f,N,d,d/f+2) 
+doesn't juggle anymore regardless the kind of hit his opponent will face and his Lingering 
+Soul Omen won't do much.  He's still a threat though, but all he could possibly do was 
+those mid and low mixups.  Soon, I finally realized that his revitalized Traditional Karate 
+was not a regret for unlearning Mishima-ryu Style after all.  That Laser Scraper Just Frame 
+was something to quiver.  It eventually became the Jin users' favorite and winning factor 
+that it removes almost half of the opponent's life with just a simple juggle.  Not only 
+that, Jin's parries almost every move [including Marduk's head butt] that it's a sure 2,4 
+when he parries the opponent's last move in a combo.  In other words, Jin turned out to 
+have the safest, easiest, and strongest moves in this installment.
+
+a) Twin Thrusts - Inner Axe (1,2,3)
+     --> Double Punch - Silver Rain Kick (1,2,4:4)
+
+Jin pulls off good mixups right after this move.  This combo ends with an annoying guard break 
+that allows a +3 for Jin.  Sidestepping would be an option but you might eat some Roundhouse 
+if Jin does a 1,2,4 instead.  Since the last moves animates Jin to raise his left foot first 
+before it reaches you, it is interruptable.  As soon as you see Jin performing his first 
+punches, counterattack with your 1,2,4:4.  It may be difficult at first, but you'd get used 
+to it as you practice.
+
+Other applicable move(s):
+• Axe Kick - Lead Thrust - Vertical Kick (f,f+3, 1,3~3)
+
+b) Final Upper Thrust (WS+2)
+     --> Double Punch - Silver Rain Kick (1,2,4:4)
+
+This is his most effective blockable juggle riser.  Well, allow me to cite the obvious.  It 
+takes 12 frames to recover when blocked and your 1,2,4:4 is guaranteed.
+
+Other applicable move(s):
+• Needle Shrine Scraper (b,f+2,1,d+2)
+
+c) Needle Shrine Gates (b,f+2,1:D+2)
+     --> SWR
+
+Like most people, this might be the reason why most people find it cumbersome to defeat Jin.  
+The last move of this three-hit-combo hurts a lot.  It only takes at least two of these to 
+take a round away from you.  Some players come up with different solutions but may not be 
+applicable for certain situations.  For example, a Quick Silver Sting would be a very 
+effective counterattack but what if your opponent decides not to do the just frame one and 
+does not delay either?  A sidestep would be nice but what are the odds that you would 
+sidestep again believing that would be able to escape that trap again?  Concerning all of 
+those kinds of situations, there must be only one move that would be applicable enough to 
+escape all of those.  Sidewalking to the right is a very good tactic in avoiding Jin's 
+last hit.  Allow me to prove to you that it would be applicable in all cases.  Let us 
+determine first the possible cases that evolve around this cunning move: (1) He could go 
+for the unblockable, just frame move.  (2) He'd go all the way doing the b,f+2,1,d+2 
+without any just frame nor any delay.  (3) You take a normal hit with Jin's first two 
+gut punches.  (4) You take a counterhit with Jin's first two gut punches.  With 
+sidewalking to the right, the easiest to escape is the first case but the second would 
+be tougher.  Once you see Jin doing the Needle Shrine, pull the joystick right away in such a 
+manner that Lee will sidewalk to the right.  It's safe to pull the joystick in advance even 
+before the second punch succeeds because of the freeze window that Lee experiences.  It's 
+advisable to do the sidewalking at that estimated time in order to register the move as a 
+sidewalk.  There would be a lesser chance to pull off a successful sidewalk after Jin's second 
+attack.  Same thing goes for the second case.  It would add a little difficulty compared to 
+the first case because there's no delay doing the last punch.  Nevertheless, sidewalking to the 
+right would be a consistent solution.  This also applies to the third case.  Regardless whether 
+you get hit with the first two punches, the exact instructions for the first two cases would 
+be applicable.  The last case would be a little more complicated because you have to tap 
+forward as soon as you see Jin's b,f+2 hit as counterhit, then you do the sidewalking.  I know 
+it's easier said than done but if you practice with a friend like requesting him to do Needle 
+Shrine Gates throughout the entire match, you'll really get the hang of it.  They really sound 
+difficult to execute but it will be a lot easier if you practice.  You've really got to spend 
+time to master escaping these cases to bring you to a more certain position.  Phew!
+
+Other applicable move(s):
+• Needle Shrine Scraper (b,f+2,1,d+2)
+
+d) Other Guidelines:
+Be the pitbull.  Don't let Jin make you anticipate his moves.  Be ready with your mixups 
+and be careful with his parries.  If he likes to parry, perform incomplete or safe 
+moves.  Low poking is a key in duelling against Jin specially when he crouch dashes.  
+Jin's mixups such as d/f+1,(4_4~4) would be fairly attainable to anticipate.
+
+««Steve Fox»»
+
+I consider this boxer as the most cumbersome to battle against among the other characters.  It's really tough to poke a little because he can recover from his punches quickly.  He's got a set of combinations that will force you to consume your time blocking his shots.  A typical Steve Fox would normally start with 1,2,1s and then follow with those d/f+1 variations.  At sweep distance, he'd do something like f,f+2 or worse, the f+3,2 riser.  When he's out of your axis, he could regain target by 3+4,(2_d+2).  At defense, he could easily do some really slick punches and follow-up with combinations.  A dock on your high attacks could be a whining WS+1,2 at you.
+
+a) Upper Feint Hook (d/f+1,2,1)
+	--> D/B
+
+I reckon that this is the best custom string starter of Steve Fox that one must focus to outsmart.  What I meant with D/B was to dock the last punch which has a high hit range.  After docking that string starter, execute WS+3,3,(d+3_d/f+3) to hurt this uncanny boxer or FC,u/f+4 for optimal damage.  But I recommend FC,U/F+4 for higher probability of being able to punish him enough.
+
+Other applicable move(s):
+• Upper Feint Twin Jabs (d/f+1,2,1+2)
+
+b) Albatross Spin - Spin Gut Punch (3+4~2)
+	--> B
+
+This is the only move to watch out a little bit when he does the Albatross Spin.  It's nice if you could counter him such as d/f+3 or a Violet Screw.  But I wrote this part to advise that it's safer to block and stay at his axis as much as possible.  Consider this as some sort of a weaker Hayashida Step (D~D/B~B~U/B~U_d,d/b,d~SS).  Too many of those Albatross Spins and Steve could deceive you enough.
+
+c) Other Guidelines:
+You have no choice but to turtle a little bit.  That is the only way to beat an active Steve big time!  Dock high attacks and pulverize with your tsunami kicks and an extra mixup kick.  The best time to put in your mixups is when your opponent is currently attempting to reduce your damage on him.  If he had already established a very close distance on you, a low poke or the Jab - Acid Rain Combo.  I recommend you to do the latter in order to demoralize his momentum.  One you do that crumple fall stun (CFS), follow it with d/f+1 combo starter and pound him as you direct him to a wall.  At orbit distance, do the f,N+3,(d/f+3_3<3) custom string unless you're sure that you'll successfully hit the first Soviet Kick, then connect it with the second for a juggle.  If worse comes to worst, turtle, SWR, and when he loses axis, strike with 1,2,4:4.
+
+««Ling Xiaoyu»»
+
+She's quick.  She's devious.  She can lose your axis anytime.  She suddenly changes from Art of Phoenix to Rain Dance Stance and vice versa.  Some Xiaoyu players also make use of the Hypnotist Walk to keep you out of focus.
+
+a) Art of Phoenix (d+1+2)
+	--> Silver Tail (d,d/f+4)
+
+The Soviet Kicks may work at any given distance by making the second kick hit, but it would not be worth the risk due to the length of time of the second kick to connect.  A Silver Tail at sweep distance would be a better idea.  At close distance, the Silver Tail may not be that effective.  An option would be just a simple d+4 just to cancel the AOP stance.
+
+b) Rain Dance Stance (b+3+4)
+	--> SWL
+
+You have to be keen enough to see Xiaoyu turning back and side walk immediately.  Why to the left?  Since it would be more often than not that Xiaoyu will do a Juggle Mistrust (RDS 4).  If she does a Rain Elbow (RDS 1), it's 4 frames slower to get you.  If you got out of her axis, beat her up like crazy!
+
+c) Cross Lifting Palms (d/f+2,1)
+	--> 1,2,4:4
+
+After she juggles you enough, she will most likely be discontented enough to hit you on the ground.  A typical Xiaoyu would either do a Scissor Kick (4~3), a Guard Breaker (d/b+3), or the Cross Lifting Palms.  A good get-up move when against Xiaoyu would simply be standing up (U+2), and when she does those Cross Lifting Palms, it's an almost guaranteed 1,2,4:4 depending on how close you are to her.
+
+d) Other Guidelines:
+As much as possible, make her play your game so maximize the time to be a bullfighter and do your SS+2~f,N custom strings while she's not on any stance.  When you've lost your axis on her, try counterattacking with a d/f+3 but when in doubt, just safely recover your axis on her.
+
+
+[Still to Come......]
+   Just Frame Review
+   Key Strategies (Anticipation, Adjustment, & Execution)
+   Stage Analysis
+   Building the Chemistry (Pitbull & Turtle)
+
+
+                                   -=¤§Credits & Shouts§¤=-
+
+you : Thanks for reading this FAQ.  I hope that you'll be able to improve your gameplay and 
+      enhance your strategies.
+
+Namco : Thank you for creating another installment of Tekken.  I consider this classic game as 
+        one of your masterpieces.
+
+'Castel' & TekkenZaibatsu : Thank you very much for giving us a relatively reliable source and 
+                            for the move lists, combo lists, frame data, forums, galleries, 
+                            movies, etc.  I've been your avid surfer since Tekken Tag was 
+                            released.  I owe to you and your site my interest and skill for 
+                            playing Tekken.  I hope to support your site soon.
+
+Raijin Aoki : Thank you for enlivening me with your awesome juggle combos in your Silver Mist 
+              Tribute.  I sure gave time to practice them.
+
+'Catlord' : Thanks for pursuing with your "Catlord's Just Frame Project".  You helped me 
+            increase my probability of executing the Mist Trap and Acid Rain Combo 
+            successfully.
+
+'Ertai' : Thanks for encouraging me to play Tekken 3 and influencing me to play Tekken Tag.  
+          God, this game's so addictive!  I even cut class to practice Lee & Devil back in 
+          Tekken Tag.  Also, thanks for being my "kakulitan" friend.
+
+'qcb,f+2' : Thanks for calling me up just to curse on the Mishimas telling me how biased they 
+            are.  Thank you also for sharing your latest discoveries on glitches or hidden 
+            techniques, etc from Tekken Tag and Tekken 4.  You really are a bored person (lol).
+
+'kilbaine' : Thank you for your efforts in teaching me how to play Tekken.  I'll never forget 
+             you as my best mentor.
+
+Andrea : Thank you for inspiring me to become a better person and helping me achieve my goals 
+         in life.  My warmest thanks and my most caring love to you!
+
+to the Lee players : Thank you for your unending support by posting on the forums and sharing 
+                     your thoughts with what you have learned.  I do hope you keep on playing 
+                     Tekken.  This is the only video game in the past few years I got hooked on.  
+                     I wish to get to play with you in the coming weeks or onths.  To the Lee 
+                     players in the Philippines, I'll be dropping by your places soon.
+
+shouts : 'TeT-E', 'ZAP_HWOARANG', 'HAPPYMAN_09', 'stnx', 'Vhans', 'Kamui', 
+         'EcofighterJunKazama', 'Nathaniel Louie', 'Mentos', 'Ryokimitsu', 'jjt', 'KOFTEKKEN', 
+         'Cybermitsu', 'ultimateLee', 'Noitulive', 'evil_flower', the Cabanatuan team, and to 
+         all those who have helped me in one way or another... Thanks!

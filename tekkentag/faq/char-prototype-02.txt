@@ -1,0 +1,504 @@
+The Prototype Jack Beginners FAQ ver. 1.0
+
+By: David Strout and Mitch Rhodes, aka Trekk and Brahma, respectively
+
+________________________________________________________________________
+Table of Contents:
+
+1. Disclaimer- This is the best part if you're a bored lawyer
+
+2. Introduction- Why we wrote this
+
+3. Short Version History- Updates listed here
+
+4. Legend- Get familiar with conventions
+
+5. The Movelist- The basics on starting out with Prototype
+
+6. Contacts- Insert feedback here
+
+7. Credits- Us thanking people
+
+***********************************************************************
+
+Disclaimer:  
+
+PLEASE NOTE:  Both Mitch Rhodes and myself wish it to be known that we do not 
+accept credit in any way, shape or form for this disclaimer, which was 
+originally created by Kao Megura and later modified by Mark Kim, who soley 
+retain its authorship.
+
+Unpublished Work Trademarked (tm) and copyrighted (c) Mitch Rhodes and David 
+Strout  2000, 2001. All Rights Reserved.
+
+IMPORTANT: YOU MUST READ AND AGREE TO EVERY PART AND EVERY WORD TO THIS 
+DISCLAIMER. USE OF THIS FILE CONSTITUTES ACCEPTANCE TO THIS DISCLAIMER.
+
+In no event shall this document be reproduced or retransmitted in any way, 
+shape, or form (including but not limited to physical, natural, or electronic). 
+In no event shall this document be used for HTML, Perl, C++, HTMLScript, Active 
+Server Page Files, JavaScript, Java, or any other forms of webmastering that 
+exist without e-mailed permission from Mitch Rhodes or David Strout.  In no 
+event shall this document be used at a password-protected site where either user 
+accounts are utilized and/or money is made through user accounts. Anyone who 
+wishes to mirror this document MUST make this document freely accessible 
+(meaning no access moderation exist at your site), FREE OF CHARGE (whether if it 
+is through FTP, HTTP, Gopher, Finger, LDAP, Mailto, or any other Internet 
+Standards that are approved by the World Wide Web Consortium), and in its 100% 
+entirety, bugs included. Mitch Rhodes and David Strout GRANT NO PERMISSION IF 
+FOR ANY REASON THIS FILE WILL BE USED for any profitable (even if you fail to 
+make any money out of it), promotional, and/or commercial transactional purposes 
+(including but not limited to giving this file as some sort of bonus, gift, or 
+otherwise which constitutes making money out of this file which is illegal) 
+whether the content of this document is good or bad.  No permission will EVER be 
+granted to any publisher, editor, employees and/or associates of any 
+publishing/editing corporation, group, and/or business nor can it be used by any 
+gaming guides, game sites, magazines, guides, books, or any other profitable 
+and/or promotional media that exists IN ANY WAY, shape, form (including 
+reprinting, republishing, OCR'ing, etc.), and the like.  Permission is 
+recommended if he/she wants to mirror this document on his/her site.
+
+Currently, this document is being maintained and is the sole property of Mitch 
+Rhodes (MegaManBrahma@aol.com) and David Strout (Trekk@tekken.cc). This document 
+is protected by ALL APPLICABLE copyright and trademark laws, patent laws, and 
+international treaties.  YOU MUST TREAT THIS DOCUMENT LIKE YOU WOULD WITH ANY 
+OTHER COPYRIGHT MATERIAL SUCH AS ADOBE GOLIVE AND ADOBE PHOTOSHOP FROM ADOBE 
+SYSTEMS, INC.  Remember any breach of copyright, trademark, and/or patents 
+(which includes but not limited to plagiarism, stealing, laming, pirating, or 
+otherwise) and failure to adhere to the aforementioned URL and ALL PARTS of this 
+disclaimer counts as unauthorized reproduction and/or distribution (partial or 
+full), resulting in severe civil and criminal penalties, which is punishable 
+through prosecution under the maximum extent possible under the law.
+
+Mitch Rhodes and David Strout acknowledges and respects all copyrights, patents 
+(pending or not), and trademarks whether if it's mentioned or not somewhere in 
+this document as no copyright infringement was intended.  Mitch Rhodes and David 
+Strout also acknowledge and respects all copyrights, patents (pending or not), 
+and trademarks of ALL OTHER FAQ AUTHORS (whether if it's Kao Megura, John 
+Culbert, Henry LaPierre, Josh Harring, Mark Kim, or otherwise) and if for any 
+reason I MUST USE any or all of the document, it will be mentioned somewhere in 
+this document, commonly in the Acknowledgements section of this document.
+
+If for any reason you must use any or all of this document for your own FAQ, 
+please properly give credit where credit is due.
+
+IF FOR ANY REASON YOU DO NOT AGREE TO ALL OF THE TERMS LISTED AT THE URL 
+AFOREMENTIONED ABOVE AND/OR IF YOU DO NOT AGREE TO THIS DISCLAIMER, then you 
+must destroy this document at all costs.  Tekken, Tekken 3, Tekken Tag 
+Tournament, Kazuya Mishima, Heihachi Mishima, Jin Kazama, devil and all other 
+related events and objects are registered trademarks and copyrighted (c) Namco.  
+All Rights Reserved.  This document was carefully prepared and created by Mitch 
+Rhodes and David Strout in respect to all Namco Properties, as no copyright 
+infringement was intended.
+
+I'll make this clear: This document is OURS and there is NO UNAUTHORIZED USE of 
+this document at any cost!!!  You are free to mirror this document at your web 
+site, but IT MUST BE SHOWN IN ITS ENTIRETY AND IT MUST REMAIN 100% ORIGINAL AND 
+UNTOUCHED.  Feel free to distribute this document BUT IT MUST BE DISTRIBUTED 
+ELECTRONICALLY AND FREE OF CHARGE.  I didn't create this document so that some 
+lamer will come around and steal this work and/or have a Gaming Mag Company 
+(namely EGM, who's been making blood money from some Tekken 3 FAQs back in 1997) 
+print this document into a magazine.  NO MONETARY COMPENSATION CAN BE MADE FROM 
+THIS DOCUMENT AND THAT'S THE BOTTOM LINE.  ONE FINAL FOOD FOR THOUGHT: THE 
+DOCUMENT MUST BE FREELY ACCESSIBLE WHICH MEANS NO PASSWORDS, NO USER ACCOUNTS, 
+NO CHACHI CAN BLOCK ACCESS TO THIS DOCUMENT!!!
+
+Game Cave: KEEP YOUR HANDS OFF THIS FILE AT ALL COSTS!!!  WE'VE HEARD THAT 
+YOU'VE BEEN MAKING BLOOD MONEY OUT OF SOME PEOPLE AND WE ARE GETTING SICK AND 
+TIRED OF YOUR MISCHIEF.  THIS WORK IS OURS AND IF YOU EVEN DARE USE THIS WORK TO 
+MAKE MONEY OUT OF IT, WE WILL TELL YOUR PROVIDERS TO SHUT YOU DOWN FOR GOOD.
+
+Note: This copyright is shared with Kao Megura's and Mark Kim's well-placed 
+copyright except that Mark decided to make the copyright a little more severe. 
+Notice that Mark Kim as well as Mitch Rhodes and David Strout acknowledges ALL 
+of Kao Megura's works and admire his work and we wanted to imitate his 
+copyright. This copyright that you see is similar to Mark Kim's copyright on his 
+LA Machine Guns Anti-Terrorist Manual.
+
+***********************************************************************
+
+Introduction:
+
+	Hi. This is the first FAQ that either Brahma or I've done (well, that's 
+been hosted so far, we currently are considering more in the future) and we hope 
+it helps some of the learning Jack players out there. The concept originally 
+began as a response to the lack of overall Prototype information out there 
+(which was largely due to the lack of serious Prototype players to begin with). 
+This FAQ was worked on, compiled, and edited by both Brahma and myself, and we 
+want it to be a foundation for all the Prototype players out there who want any 
+tips on basic strategy. It does not have a juggle section and there are no 
+character specific strategies, at least for now. This is instead intended to get 
+people started with Prototype and learn to expand their strategy, rather than be 
+an entire breakdown of him (though we may be adding sections in the future). 
+Anyway, it's intended to be used as a reference for people who want to learn 
+Prototype and to start picking up some strategy while learning some things for 
+themselves, so it's not combo intensive but rather covers basic playing tactics 
+based on Prototype's arsenal, and includes some simple followups and juggles. We 
+welcome any feedback, ideas, complaints, suggestions or compliments you'd like 
+to send in, and you can find our addresses in the contacts section.
+
+When we had first decided to make the FAQ, Prototype didn't have a single one 
+out there. Now were happy to bring you the second one out, and with any luck 
+it'll help some people to improve their game a bit. We don't really know why, 
+but he's not the most used character yet...
+
+************************************************************************
+
+Version History:
+
+Date of the FAQ's creation along with any updates will be listed here.
+
+Version 1.0- Jan 13, 2001. FAQ created. Well... That's it so far.
+
+************************************************************************
+
+Legend:
+
+This is a complete breakdown of all the move notation used in this FAQ. If 
+you're not already familiar with the standard move notation please read this 
+first.
+
+f = forward	     u = up 	            u/f = up+forward     d/b = down+back
+b= back	d = down     d/f = down+forward     u/f = up+forward
+
+Capital letters signify holding down the direction indicated for a longer amount 
+of time.
+
+1 = left punch      (square on PSX/PS2 controller)
+2 = right punch     (triangle on PSX/PS2 controller)
+3 = left kick       (x on PSX/PS2 controller)
+4 = right kick      (circle PSX/PS2 controller)
+
+HCF = Half Circle Forward
+FC  = Full Crouch (hold D)
+* * = titles in stars signify moves that have been named by either Brahma or 
+myself. Why? Well... It's more fun than not doing it... This trend was started 
+by Brahma, who began probably the most widely used move fan name for Prototype- 
+the Megaton God Fist (MGF), also known as b,d/b,d,d/f+1 in his movelist. 
+
+************************************************************************
+
+The Movelist:
+
+Throws:
+
+Though one of the smallest throw lists (you could argue that it is the smallest 
+at 1 basic and 1 special if you don't count the 1+3, along with the standard 2 
+side and 1 back throw) Prototypes guessing game in the half second following a 
+grab is the difference between a boot in the face or a punch in the chest, but 
+this simple mixup can be very effective in conjunction with his poking strings 
+and basic launchers.
+
+-1+3:  A unique throw that used to be common to the big guys. Now it's Jacks 
+only. This can be useful when its guaranteed, but theres little to gain by just 
+tossing this out, its entirely too slow. This should only be used for style 
+points/juggles, as a mixup trick in fighting against turtles (except you have to 
+be right in their face to connect it), and when you can guarantee it (it's 
+possible for example to do this move to interrupt Eddy's slippery kicks after 
+the second kick). 
+
+-2+4 (d,d/f+2) :  Prototype's standard throw. This move does fairly good damage 
+and its only drawback is not in the move itself but for lack of a mixup- all of 
+Prototypes throws are either a 2 or 1+2 escape, this being of course the 2. Its 
+best use is against defensive players. Try to  follow up with the d,d/f+2 punch 
+in the throw (more damage, and isnt really that easy to block).  If you stick 
+with the 2+4 alone, follow up with a 1+2 if they always get up right away or a 
+d/f+1+2 if they like to lay on the ground.
+
+*Meet my foot* d/b+2+3:  A very useful throw, it leaves the opponent ducking. 
+Nothing is guaranteed after this but people will usually stand up right into a 
+second throw. This can set up some mean guessing games (for example, 1+2,1+2, 
+and on people waiting to escape another d/b+2+3 a 2+4 works pretty well). This 
+throw also can be mixed with a d/f+2, 2, f+1+2 in the event they try to 
+interrupt you, or they wait on hitting 1+2 to try to escape another d/b+2+3 
+(which will give you a CH when you use d/f+2 instead). DO NOT abuse this throw 
+or it will no longer be a useful tool in your arsenal. When your opponent starts 
+to anticipate (and duck) these you're left hanging with a slow throw that didn't 
+connect.
+
+Left side throw: This just looks cool, and it tags. Tag off of it whenever 
+possible for a guaranteed tag slide at least, or you can try using it as a setup 
+for an unblockable charge.
+
+*The spank* Right side throw: The spank. This is THE throw to land! Whenever you 
+hit this throw, point at your opponent and laugh like a jackass. For the follow 
+up try u/f+3+4 and MGF.
+
+Back throw: At 45 points of damage, this is a hella weak back throw for such a 
+powerful character. Essentially GunJacks body slam to the side. At least it's 
+inescapable, so can't complain there. Also, you can follow up with a guaranteed 
+u/f+3+4 or a MGF.
+
+Strike Moves:
+
+Basic Strike:
+
+The 4 main strike moves, given to every character in Tekken, and how they apply 
+to Prototype.
+
+1: The first strike in the Jack hammer, not very useful stand alone.
+
+2: A standing 10 frame poke. Useful for keeping space between you and your 
+opponent
+
+3: A kick. For more damage better used as F+3
+
+4. A kick, but its not very fast. After a good round of poking could be a decent 
+time to try this, but it's certainly not an interrupt. Can be used every once in 
+a while when you want to use a kick but aren't sure the F+3 will hit. On a CH 
+you can f+1+2 to juggle. Overall its not very useful.
+
+Prototypes Arsenal:
+
+These moves are what give Prototype his entire personality, and you'll find all 
+of his remaining moves listed here..
+
+-d/f+4: Not too slow and above average range. Even better, it does decent damage 
+for a poke and it's a kick (for all those punch parry happy Fury players). This 
+is a good part of Prototypes poking game.
+
+-d/f+2: Simple, can be used for a poke, quick juggle starter. Simple followups 
+like 2, f+1+2 would be one of these. To stop tekrollers, a d/f+2, 2, SS+1_MGF 
+(delayed) can be pretty useful.
+
+-F+3: Also a little slow, but good damage (and it's a kick), as well as a nice 
+CH stun for some wicked followups, like a clean f+1+2 to combo. Adding this to 
+your arsenal (added around some poking games) will help get you some space too.
+
+-1,1,1: Slow startup and you're not in a good spot at the finish. Use only when 
+you are sure the first hit will connect as a CH as they will all connect for 
+some heavy damage. Can also be used against slower recovery to try to set up CH 
+(but cancel after the second swing if they block).
+
+-d/b+1,1,1,2: Use the first part for a quick poke. It connects low and leaves 
+P.Jack in a FC. DO NOT get predictable with this poke as it isnt terribly quick 
+(and its slower than GunJack or Jack2's d/b+1) and people will start to block 
+it. Throw out the full string every once in a while for people who like to try 
+and rush in on it, but be careful, it can be parried.
+
+*The Megaton God Fist (MGF)* b,d/b,d,d/f+1: Fairly fast, ducks under high 
+attacks, hits grounded people, causes a short block stun, and it's even a class 
+1 launcher. Obviously this makes it quite useful.  It's good to use for 
+okiezieme, and its fairly fast (when done w/o the windup). Timed right this move 
+can be used against tekrollers.
+
+-d/f+1,2,1,2: this is a great poking string. A d/f+1,2,1,2 (CH) will launch for 
+a guaranteed D/F+1, u/f+3+4, or an anti-tek D/F+1,2,u/f+3+4 (the latter can be 
+instant recovery escaped). Also possible is the d/f+1,2,1,2 (CH), 2, f+1+2. This 
+is also actually possible without a crouch cancel but can be done with or 
+without.
+
+*Windmill* FC,d/f+1,2,1,1: This move is decent to use provided the first swing 
+isnt interrupted. It can't be interrupted after the first swing connects. The 
+windmill can be good okezieme as well, as if the first hit connects as someone 
+is getting up, it will bounce them back up into the next 2.Using the 1 at the 
+end should, if used at all, be used sparingly. It comes out slow, but if it 
+connects the opponent is BK. If it is blocked, a f+1+2 is a guaranteed stun 
+combo. If your opponent ducks it however, you're asking to be WS launched, so be 
+careful. 
+
+-D/F+1,2,d/f+1: This string isn't as useful for poking as its d/f counterpart, 
+but is a decent FC launcher setup that has a bit more juggling potential. The u 
+cancel rule applies here as well for the additional crosscut combo addition. It 
+can also end high, medium or low. While low is less expected, and if it hits 
+puts you at less risk, if it gets parried it leaves you with some trouble. The 
+mid pushes your opponent back a little and is probably the safest. While using 
+the high ender may seem to be useful to establish more of a guessing game it has 
+no advantage and is asking to be WS launched, so its really not useful.
+  =d+1: Replace for low finish
+  =f+1: Replace for high finish
+
+-FC+1,1,1,2: A useful add on to Prototypes FC low hit pressure game. Well. Maybe 
+once. If at all, use this move very, very sparingly, it begs to be parried and 
+if you're lucky enough to get the string off once expect decent level players to 
+be waiting on it for the parry from then on.
+  =d+1: low ender, good for a quick low poke.
+  =d/f+1: mid ender, change up with the low hit.
+  =f+1: high ender, almost no use.
+
+-f+1: An elbow with decent speed. It can be reversed, for some reason. Can be 
+used as a poke or an interrupt to slower moves but is easily replaced for poking 
+by a 2, 2,1, or a d+1. It can be used faked from the ff dash however as a poke 
+alternative to the crosscut as well.
+
+-SS+1: This is a very useful launcher. If you don't buffer a tag it causes a 
+block stun and leaves you safe, and it can be used as okiezieme off axis. If 
+anything it's just a bit slow. Prototype can also tag out of it and you can 
+follow up with many of the same tag combos off of Devils SS launcher, but P.Jack 
+tags out a bit slower, so some Devil SS+2 combos won't work here. The well known 
+style combo is SS+1,SS+2 (with the spin at the end), also interesting is the 
+b+1+2, f+3+4, though you can get hit by a LOT of stuff if this doesn't kill your 
+opponent. For damage an u/f,N,4, 1+2 finish works much better. Also this can set 
+up an interesting tag game with two SS+1s right after the other, as this very 
+often will cause your opponent to tag out, and with good timing they will tag 
+into another SS+1.
+
+-SS+1+2: Useful SS mixup (Prototypes two other SS attacks are more useful for 
+stun and punishment purposes than interrupts). Good for when opponent expects 
+the slower SS+1 and rushe you. The SS+1+2 comes out quicker, and causes a block 
+stun. Follow up with a guaranteed u/f+3+4 or MGF on CH. If you connect this on 
+the opponents back or side they will be knocked towards you guaranteeing a 
+d/f+1+2. This also causes a brief stun and provided you don't whiff it (or at 
+least you can surprize your opponent with it) this move isn't too risky to use 
+now and then..
+
+-1+2<1+2: Trademark Jack move, both hits guaranteed if the first connects, and 
+can now *finally* be delayed. This is a great mixup now with the delay against 
+rushing opponents or opponents who think they can punish you after a blocked 
+initial hit. Try not to abuse the delay because if that's blocked, you will be 
+punished for it. The first part is great to use against chops, get up kicks, 
+large chars that are KD, and as a juggle finisher and in other okiezieme.
+
+-WS+1+2<1+2: Same as above only in reverse. It does a bit less damage and 
+recovers faster. A good reaction juggle to high whiffs. If at all possible 
+however try to instead of using the second part to the string, try a 
+WS+1+2,N,1+2- it does more damage and is still guaranteed. Also, the WS+1+2 
+alone also launches for simple juggles.
+
+-f+1+2: This is an all purpose move, and another of the trademark Jack (well, 
+big char) moves. Hits mid, decent speed, good recovery. A d/f+1+2 is guaranteed 
+afterward with no risk as well as is a MGF. Also guaranteed, but only if the 
+crosscut didn't hit as close to the opp as possible, is the u/f+3+4. For some 
+reason if you hit right next to your opponent the u/f+3+4 can be blocked.
+
+-d/f+1+2: DO NOT whiff this move. At a 70 frame disadvantage you will be subject 
+to half the unblockables in the game. Use if you are right next to the opponent 
+for a surprise attack then follow up with another one guaranteed. Great 
+okiezieme. While it can be useful as a close quarters mixup strategy the fact 
+that its so slow against a standing, poke-ready opponent means you don't 
+generally want to be throwing this out in instances outside of your wake up 
+strats.
+
+-d+1,2: Another great move. Use as a quick CH for nice damage or just the first 
+part as a poke. The tile splitter is also useful in okiezieme and is quicker 
+than the 1+2. Interesting though not quite as useful variation on the SS+1 
+juggle finishers (like SS+1,d+1,2, and the d+1 shouldn't hit).
+
+*Buick breaker* f,f+2: A very slow heavy damage move, that's useful to scare the 
+opponent and gives a nice long stun. The crosscut is NOT guaranteed afterwards, 
+however basic pokes are (2, d/f+4) or provided the opponent tries to interrupt 
+you, a crosscut will hit. This move can actually be used in okiezieme and vs. 
+chops/rolls as well, but due to its slow speed you'd better be quick to start it 
+and use its range to your advantage.
+
+-D/F+2,1,2: A triple rush, same as the above triple upper rush except it doesn't 
+juggle. Stick to the D/F+1,2,1.
+
+-2,1,2: Very useful poke using the first two, which are quick and do decent 
+damage. The last hit however could be slower provided Prototype was tied up and 
+gagged. Though it does take the last hit such a long time to come out (and isn't 
+guaranteed on CH either), sometimes people don't expect it since most Jack 
+players won't often use it. But, we still don't recommend trying much...
+
+-D/F+2: Start of uppercut rushes, but can cancel high_low_mid after the first 
+hit. One of the better pokes. Learn to buffer off the FC and use the followups 
+the same as off the D/F+1,2_d+1_f+1_d/f+1.
+
+-b,d/b,d,d/f+2: Ouch. A bit on the slow side, but packs quite a wallop. This is 
+a useful alternative to the MGF against whiffs primarily. Would be better if it 
+was a bit faster but does pretty nice damage.
+
+-SS+2: Not hard to use, pushes the opponent back and isn't too slow (but could 
+be a bit faster). This has more risk than conventional poking however (or the 
+crosscut) which makes it a bit less useful.
+
+*The Flying Ass Press* u/f+3+4: Great for okezeime but that's about it. Useful 
+as a last hit because, well, it looks cool. The punch string at the end (which 
+works only if you don't hit with the u/f+3+4) is practically useless unless you 
+*gasp* whiff and panic trying to get out of it, but even afterwards youre asking 
+to get hit on the roll. For example, if your opponent blocks the string, yes, 
+that EWGF will hit you and no, theres nothing you can do about it. And finally, 
+its also parry bait, so be careful with that string. Use the u/f+3+4 for 
+okiezieme and try to use it when its guaranteed or as a last hit. This also (due 
+to Jacks size) can be made anti-tek but is punishable if your opponent instant 
+recovers.
+
+-d+3+4:
+  *Ass Scoot Punches* =1,2,1,2_2,1,2,1 Not too useful. Evades high attacks, can 
+be followed up with sitting punches or a roll back_forward with a getup kick. 
+Really you're asking for an EWGF. Funny as a taunt.
+
+-KND,d+1+2: P.Jack sits up swinging and ends up in the sit position. Useful to 
+throw out every once in a while but you will get punished bad if you get 
+predictable. This is a nice change up for when you get elbowed everywhere you 
+roll and also to avoid standing up into a tackle.
+
+*Torpedo Jack* f+3+4: Damn this move is cool. For one, it has insane reach, and 
+it's the best anti tag move provided you use it to deliver the last hit. The 
+range and the fact that it also hits mid at the start and low at the end makes 
+it even more useful to finish off an opponent trying to run away or just coming 
+in (hopefully with low health). DO NOT whiff or have this move blocked.  If you 
+whiff or block (well, even if you hit, if your opp is still there) you are going 
+to get hurt. Unblockables, launchers, whatever, this move is the worst 
+recovering one in the game.
+
+-b+1+2: Like Jin's force block. Repels all attacks. Can be cancelled as f or b,b 
+for Drunken Jack, hehe... unfortunately the window that it repels attacks is 
+just a bit too small, and basically leaves you standing there flashing, open to 
+most attacks. Can be used in style juggles however (but they won't be doing much 
+damage).
+
+-5~U: Hold up when tagging in P.Jack and he comes in from above to land on the 
+opponents head. If only this tracked a little better it would be much more 
+useful (you can get backthrown a bit too easily from this, and you can also be 
+hit out of the air or on recovery). Also if you miss, you're in for a big hit. 
+If you use this too much, you can bet you're gonna get back throw a whole lot. 
+Safe to use provided you can get it to connect however, and good on those 
+opponents who just can't wait for you to tag to your big, float friendly Jack.
+
+-3+4 (3+4, 3+4): Not extremely useful. If your opponent is not retarded you will 
+most likely be back thrown or eat a big hit. Good for shits and giggles and can 
+combo with the delay from the second burst (if you could pull it off it would be 
+a cool style combo).
+
+-HCF (360x4)+1: The Gigaton. You can hit 1 for a punch after every windup, and 
+you can wind up 5 times. It becomes unblockable after the 2nd windup. After 5 
+windups if you didn't punch P.Jack swings him arm around a few more times and 
+you can't punch. Damage increases after each windup, and at 5 windups the punch 
+instantly kills. After one windup the punch causes a block stun which guarantees 
+a throw if close enough. If you hit someone with anything above 3 windups make 
+sure you let them know how much of a dumbass they are. This is about the 
+aptitude required to eat a bear fart.
+
+-f+4~1: The greatest unblockable in the game, period. Jack laughs at his hapless 
+victim, walks forward with his hand in the air, a bell rings (I happen to like 
+Prototypes death chime better than GunJacks) and PING! he taps them on the 
+shoulder for 101 points of damage. Also can be comboed into MGFs, u/f+3+4s and 
+1+2s for insane damage juggles.
+
+d+2,1,1,1,2,1,2,1,1+2,1+2: P.Jack's tenstring. Not too useful, if you don't get 
+interrupted you are safe if the last hit gets blocked. Not too easy to interrupt 
+after the 4th hit. If you use this, you can get low parried or punch parried 
+pretty easy. The first 2 hits are quite useful as a poke though.
+
+
+Contacts:
+
+Feel free to report any bugs or errors here. You can also send any info you 
+might think was missing and if we decide to add it you will be listed in the 
+credits along with the version update. Any praise or flaming can go here too, 
+hehe. 
+
+Trekk:  Trekk@tekken.cc
+Brahma: MegaManBrahma@aol.com
+
+************************************************************************
+
+Credits:
+
+We would like to thank the following people in the completion of this FAQ:
+
+Castel, the first to compile the movelist in general, which turns out to save a 
+lot of FAQ writers some time putting their own together. He runs a huge Tekken 
+site at www.tekkenzaibatsu.com (great forum too).
+
+Ihira: fellow Jack player, first to catch d/b+1+2, a previously unlisted move.
+
+And once again we would like to thank Mark Kim and Kao Megura for our disclaimer 
+in its entirety.
+
+Last but not least of course, thanks to Namco for making Tekken and the reason 
+for this FAQ in the first place.
+
+************************************************************************
+

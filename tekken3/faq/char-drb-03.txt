@@ -1,0 +1,503 @@
+Doctor Boskonovitch True Stance Guide
+version 0.9, Jan 13th 2003
+
+by Entomostracan (juho_gebhard@hotmail.com)
+
+
+
+
+Table of Contents
+
+- Introduction
+- What is True Stance?
+- Duck to True Stance
+  - Entering
+  - Attacks
+  - Duckable moves
+- Turn to True Stance
+- Credits
+
+
+
+INTRODUCTION
+============
+
+If there's one thing in Tekken 3 that is still rather unexplored, it has to Doctor Boskonovitch.
+Especially his True Stance ability, being one of the most extraordinary techniques in Tekken, 
+lacks any kind of in-depth documentation. No wonder, since True Stance is unpractical, hard to 
+perform and usually Dr.B isn't even considered as a real character. None the less I've always 
+found him interesting and as I know the character and True Stance quite well, I thought I'd 
+correct the situation. A few years too late, I know, but better late than never.
+
+
+
+
+WHAT IS TRUE STANCE?
+====================
+
+Although Dr.B already has quite a few moves in his arsenal, True Stance gives him a handful more
+by making him able to mimicrise Heihachi. In True Stance Dr.B stands up properly instead of 
+crouching, and he is able to perform almost any Heihachi's move. He can also walk, jump and throw
+with the basic 1+3 and 2+4 inputs. Usuallly True Stance last only a split second and after an
+attack Dr.B always suffers a fall back animation which leads to his normal stance. This means
+that juggling with True Stance moves is extremely limited.
+
+Getting out of Doctor's normal crouching stance is the key requirement in entering True Stance.
+He does that only on two occasions: (1)  Dr.B gets hits by a move or blocks one or (2) Dr.B turns
+around from back turned position. This also means that there are two different methods to enter
+True Stance:  The harder and more versatile method called 'Duck to True Stance' and the easier
+method known as 'Turn to True Stance'. Both will be explained separately.
+
+
+
+
+DUCK TO TRUE STANCE
+===================
+
+This is the better method to enter True Stance. It allows Dr.B to walk in True Stance and
+perform Heihachi's crouch dash moves. This method also requires good timing which makes it much
+harder compared to the 'Turn to True Stance' method. All sources I've come up with state that
+Dr.B has to get hit by a low move to enter True Stance. This is a common misbelief, although
+entering True Stance may become easier that way.
+
+
+Entering
+ииииииии
+One of Doctor B's properties is that after blocking or taking a hit he starts to fall back. If,
+and only if, the opponent performs a high attack while Dr.B is still recovering from the previous
+hit, you can cancel the fall back by tapping d. You can also hold D for a split second but
+holding D too long makes him side step after the high move has whiffed. Tapping d too early or
+not holding it long enough makes Dr.B take the high hit. Correct timing results in a successful
+duck and Dr.B is in True Stance.
+
+
+Attacks
+иииииии
+With perfect timing 'duck to True Stance' leaves Dr.B in Heihachi's normal standing position.
+However if D is held even a little too long he will be left in 'while standing' position and a
+button input results one of Heihachi's WS-moves. WS-position can be canceled back to standing
+position  by tapping f. Various other cancels are also possible, a complete list can be seen
+below. It is essential that all commands after a successful duck are inputted immediately.
+
+Command:        Movement:
+f               standing position (Heihachi's normal stance)
+f,n,d,df        crouch dash
+f,n,d,df,uf     Mishima hop
+UF_U_UB         jump (lands to WS like all jumps and hops)
+F#              walk forward
+ = n             = standing position
+ = UF_U_UB       = jump
+ = uf            = hop
+ = hcb#          = walk back (keep holding B, hard to perform)
+B#              walk back (equals standing position but directional inputs are not possible)
+ = UF_U_UB       = jump
+ = uf            = hop
+
+
+As mentioned before, in True Stance Dr.B can perform most of Heihachi's moves but not all of them.
+The greatest limitation is Dr.B's unability to perform any moves that require an f,f motion.
+QCF-motion, taunt (2+3+4) and all moves starting with b are also impossible to perform. A list of
+all exeptions regarding True Stance moves can be found below.
+
+Command:                Move:                   Note:
+f,f+1+2                 Stone Head              Not possible
+f,f+1+4                 Headbutt Carnival       Not possible
+f,f+3                   Split Axe Kick          Not possible
+f,f,N+3                 Delayed Split Axe Kick  Not possible
+f,f+2                   Demon Godfist           Not possible
+b,b,N+3+4               Shadow Step             Not possible
+b+2                     Demon Boar              Not possible
+qcf+2                   Deathfist               Not possible
+2+3+4                   Anger Taunt             Not possible
+d+1+4                   Demon Tile Splitter     Not possbile (equals d+4)
+1+2                     Demon Breath            Must be done 2~1
+d+4                     Geta Stomp              Must be done df+4.
+                                                d+4 results a Tile Splitter (d+1)
+                                                which knocks Dr.B down.
+4~3                     Demon Scissors          No damage to Dr.B when whiffed
+uf+3,4                  Hell Axe                Comes out as Heihachi's uf+3+4
+f,F,2,1,2,2,3,4,4,1,2,1 Tenstring               Not possible
+
+
+Duckable moves
+ииииииииииииии
+Whether a high move can be ducked to True Stance or not depends on the frame advantage given by
+the previous move. If an attack gives frame advantage to the attacker the next high move can be
+usually ducked to True Stance. This is often the case in pre-canned attack strings. It's a fact
+that all moves have different properties on hit and on block and majority of attack strings
+require Dr.B to get hit by certain moves.
+
+Notice that attack strings that have multiple high attacks in a row allow Dr.B to stay ducked by
+holding D. Normally holding D would result in a side step but in this case Dr.B stays ducked
+until the last high attack in the string has whiffed. There are exceptions to this rule,
+especially delayable high moves tend to end the crouch.
+
+Below I have listed all attack strings in the game that can be ducked to True Stance. Common
+property in all of them is that they contain at least one high hit and the initial attack leaves
+the attacker in frame advantage. Note that in order to block or get hit or by some high moves you
+need to tap b or f respectively. 
+
+How to read the tables:
+- Moves that can be ducked to True Stance are in square brackets [ ]. 
+- Duckable custom strings can be created by joining any 
+  of the starters and any of the enders together.
+- At least the last attack before a duckable attack must connect.
+  For example Law's second kick in 4,3,[4] string
+  must hit in order to be able to duck the last kick.
+
+
+Anna Williams
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| 1,2,[1,2,3]   #1      |       | STARTERS      | ENDERS                |
+| 1,2,[1,4]     #1      |       |               |                       |
+| 1,2,[4]       #1      |       | 1,2     #1    | [1,2,1,2,3]           |
+| 2,[1]                 |       | 1,2,1   #1    | [1,2,1,4]             |
+| 2,[3]                 |       | f+2,1         | [1,2,4]               |
+| f+2,[1,4]             |       |               | [b+1,1]               |
+| f+2,[1,2,3]           |       |               | [2,1]                 |
+| d+3,[4]               |       |               | [2,3]                 |
+| df+3,1,[4]            |       |               | [2,4]                 |
+| df+3,1,[2]            |       |               | [f+2,1,2,3]           |
+| df+3,2,[1]            |       |               | [f+2,1,4]             |
+| df+3,2,[3]            |       |               | [f,f+2]               |
+| df+3,2,[4]            |       |               | [b+2,2]               |
+| df+3,3,3,[2,1]        |       |               | [3,4]                 |
+| df+3,3,3,[4]          |       |               | [uf+4]                |
+| d+4,[1]               |       |               |                       |
+| d+4,[1~U_D]   #2      |       |               |                       |
+|_______________________|       |_______________|_______________________|
+
+#1 can be started with df+1,2
+#2 can be ducked even though no high move comes out
+
+
+Bryan Fury
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| 1,4,[2]               |       | STARTERS      | ENDERS                |
+| 1,4,[2,f+1]           |       |               |                       |
+| 1,4,[2,f+1~u_d] #1    |       | 1,2           | [1,2]                 |
+| b+2,[1]               |       | b+3           | [1,4]                 |
+| b+2,[1~u_d]           |       | b+3,2         | [f,f+2]               |
+| b+3,[2]               |       |               | [b+2]                 |
+|                       |       |               | [b+2,f+1]             |
+|                       |       |               | [b+2,f+1~u_d]   #1    |
+|                       |       |               | [b+3]                 |
+|                       |       |               | [b,b+4]               |
+|_______________________|       |_______________|_______________________|
+
+#1 can be ducked even though no high move comes out
+
+
+Doctor Boskonovitch
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| 3+4,uf+1,3,3,F+3,3,[3]|       | STARTERS      | ENDERS                |
+|                       |       | none          |                       |
+|_______________________|       |_______________|_______________________|
+
+
+Eddy Gordo
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| none                  |       | STARTERS      | ENDERS                |
+|                       |       |               |                       |
+|                       |       | f+2,1         | [1,2]                 |
+|                       |       | b+3           | [db+4,4,4,...]        |
+|_______________________|       |_______________|_______________________|
+
+
+Forest Law
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| df+1,2,2,[1]          |       | STARTERS      | ENDERS                |
+| df+1,3,2,[2]          |       | none          |                       |
+| F+2,2,2               |       |               |                       |
+| 3,3,[3]               |       |               |                       |
+| d+3,3,3,[3]           |       |               |                       |
+| 4,3,[4]               |       |               |                       |
+|_______________________|       |_______________|_______________________|
+
+
+Gon
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| none                  |       | STARTERS      | ENDERS                |
+|                       |       | none          |                       |
+|_______________________|       |_______________|_______________________|
+
+
+Gun Jack
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| 1,[1]                 |       | STARTERS      | ENDERS                |
+| DF+1,2,[f+1]          |       | none          |                       |
+| FC+1,1,1,2,[f+1]      |       |               |                       |
+|_______________________|       |_______________|_______________________|
+
+
+Heihachi Mishima
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| f,F,2,1,[2,2]         |       | STARTERS      | ENDERS                |
+| df+3,2,[2]            |       | none          |                       |
+|_______________________|       |_______________|_______________________|
+
+
+Hwoarang
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| d+4,[4]               |       | STARTERS      | ENDERS                |
+| LFF 1,2,[4]           |       | LFF 1,2       | [uf+4]                |
+| LFF 2,[4]             |       | LFF f+4       | [LFF 1,1]             |
+| LFF 3,3,d+3,[4]       |       | LFF b+4       | [LFF 1,2,4]           |
+| LFF 3,3,3,[4]         |       | RFF f+3       | [LFF 2,4]             |
+| LFF 3,3,3,[3]         |       | RFF b+3       | [LFF b+2]             |
+| LFF 3,3,[4]           |       |               | [LFF 4,4,4]           |
+| RFF f+3,b+3           |       |               | [LFF f+4]             |
+|                       |       |               | [LFF f,f+4]           |
+|                       |       |               | [RFF 2,1]             |
+|                       |       |               | [RFF 3~4]             |
+|                       |       |               | [RFF f+3]             |
+|                       |       |               | [RFF f,f+3]           |
+|                       |       |               | [RFF b+3]             |
+|                       |       |               | [RFF 4,4]             |
+|                       |       |               | [RFS 2]               |
+|                       |       |               | [RFS 3]               |
+|                       |       |               | [RFS b+4]             |
+|                       |       |               | [LFS 1]               |
+|                       |       |               | [LFS 4]               |
+|_______________________|       |_______________|_______________________|
+ _______________________
+|                       |
+| Pre-canned strings    |
+| Block required:       |
+|-----------------------|
+| LFF 4,[4,4]           |
+| RFF f,f+3,[4]         |
+|_______________________|
+
+
+Jin Kazama
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| 4+[1,2]               |       | STARTERS      | ENDERS                |
+| f,f,2,1,[2,2]         |       | none          |                       |
+|_______________________|       |_______________________________________|
+
+
+Julia Chang
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| 1,2,[4]               |       | STARTERS      | ENDERS                |
+| 4,4,[4]               |       | 1,2           | [1]                   |
+|                       |       |               | [2]                   |
+|                       |       |               | [4]                   |
+|_______________________|       |_______________|_______________________|
+
+
+King
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| none                  |       | STARTERS      | ENDERS                |
+|                       |       | 1,2           | [1,2]                 |
+|                       |       |               | [b+4]                 |
+|_______________________|       |_______________|_______________________|
+
+
+Kuma & Panda
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| 1,[1]                 |       | STARTERS      | ENDERS                |
+| FC+1,1,1,2,[f+1]      |       | none          |                       |
+| DF+1,2,[f+1]          |       |               |                       |
+|_______________________|       |_______________|_______________________|
+
+
+Lei Wulong
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| SNA 1,1,(1),1,[1,1]   |       | STARTERS      | ENDERS                |
+|                       |       | none          |                       |
+|_______________________|       |_______________|_______________________|
+
+
+Ling Xiaoyu
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| FC+3,[2,1]            |       | STARTERS      | ENDERS                |
+| u+4,[1,2]             |       | 1,2           | [1,2]                 |
+| RDS 2,[1]             |       | df+1          | [RDS 1]               |
+|                       |       | DF+1          | [RDS 2,1]             |
+|                       |       | 2,1           |                       |
+|                       |       | 2,DF+1        |                       |
+|                       |       | d+3,2,1       |                       |
+|                       |       | RDS 2         |                       |
+|_______________________|       |_______________|_______________________|
+
+
+Nina Williams
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| 1,2,[1,2,3]   #1      |       | STARTERS      | ENDERS                |
+| 1,2,[1,2,4]   #1      |       | 1,2     #1    | [1,2,1,2,3]           |
+| 1,2,[3]       #1      |       | 1,2,1   #1    | [1,2,1,2,4]           |
+| 1,2,[4]       #1      |       | 2             | [1,2,3]               |
+| 1,2,d+3[4]    #1      |       | 2,1           | [1,2,4]               |
+| 2,[1]                 |       | df+3,2,1      | [f,f+1]               |
+| 2,[3]                 |       |               | [b+1]                 |
+| 2,[4]                 |       |               | [2,1]                 |
+| 2,d+3,[4]             |       |               | [2,3]                 |
+| 3,3,[4]               |       |               | [2,4]                 |
+| d+3,3,3,[4]           |       |               | [b+2]                 |
+| d+3,[4]               |       |               | [3,4]                 |
+| df+3,2,d+3,[4]        |       |               |                       |
+| df+3,3,3,[1,2]        |       |               |                       |
+| 4,3,[4]               |       |               |                       |
+| d+4,[1]               |       |               |                       |
+| d+4,[1~U_D]   #2      |       |               |                       |
+|_______________________|       |_______________|_______________________|
+
+#1 can be started with df+1,2
+#2 can be ducked even though no high move comes out
+
+
+Ogre & True Ogre
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| none                  |       | STARTERS      | ENDERS                |
+|                       |       | df+1          | [1,2]                 |
+|                       |       | df+1,2        | [4]                   |
+|                       |       |               | [f,f+4]               |
+|_______________________|       |_______________|_______________________|
+
+
+Paul Phoenix
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| 1,2,3,[2]             |       | STARTERS      | ENDERS                |
+|                       |       | 2             | [1,2]                 |
+|                       |       |               | [2,3]                 |
+|                       |       |               | [f+2,3]               |
+|_______________________|       |_______________|_______________________|
+
+
+Yoshimitsu
+ _______________________         _______________________________________
+|                       |       |                                       |
+| Pre-canned strings    |       | Custom strings                        |
+| Hit required:         |       | Hit required:                         |
+|-----------------------|       |---------------------------------------|
+| 1,2,1,[4,4]           |       | STARTERS      | ENDERS                |
+| df+1,1,[1]            |       | 2             | [f+2]                 |
+| 2,[3]                 |       |               | [3]                   |
+| 4,4,[4]               |       |               | [4,4,4]               |
+|_______________________|       |_______________|_______________________|
+ _______________________
+|                       |
+| Pre-canned strings    |
+| Block required:       |
+|-----------------------|
+| b+1,[1,1,1,1,1]       |
+|_______________________|
+
+
+
+
+TURN TO TRUE STANCE
+===================
+
+Turning to True Stance differs from the other method a lot. Timing isn't anywhere near as strict
+and Dr.B can enter True Stance on his own since he is not dependant on the other characters
+actions. Easiness comes with a price which in this case is Dr.B's unability to walk in True
+Stan and perform certain moves that are possible using the other method.
+
+Entering True Stance using this method starts by moving Doctor B to back turned position. The
+easiest way to do this is using his Reverse Panik Charge move (b+3+4) which turns him around. Now
+that Dr.B's back is facing the opponent you should start moving Doctor towards the opponent by
+holding F. Doctor rises up a little, takes two steps and turns around. Right after the second
+step has ended and while Dr.B is turning around, he is in True Stance and is able to perform
+almost any Heihachi's move that requires a single direction input or no direction at all. The
+only movement option he has is a jump which can be performed by pressing UF, U or UB. Timing for
+the jump towards the opponent is very slack as UF can be held from the end of the first step.
+List of exceptions exclusive to 'Turn to True Stance' method can be found below. Refer to the
+'Duck to True Stance' section to find out all the exceptions.
+
+Command:        Move:                   Note:
+1+3             Neck Breaker            Not possible
+2+4             Power Bomb              Not possible
+uf+3,4          Hell Axe                Not possible
+u_ub+4          Hop Kick                Not possible
+uf+4,4          Rising Sun              Not possible
+f+4             Demon Axe Kick          Not possible
+
+
+
+
+CREDITS
+=======
+
+Thanks to SinisterSamurai for helping me with True Stance a long time ago and Castel for making
+excellent Dr.B combo exhibion videos and keeping up Tekken Zaibatsu.
+
+Noticing me on missing or false information on this guide is greatly appreciated. Questions,
+comments etc. are also welcome. I can be contacted via email, juho_gebhard@hotmail.com, and IRC,
+EFnet #tekken and #eurotekken. My IRC nickname is entomo. A True Stance video is also under
+development and will be hopefully available sooner or later at my site: www.hut.fi/~jgebhard.
+
+(c) Copyright Juho Gebhard 2003

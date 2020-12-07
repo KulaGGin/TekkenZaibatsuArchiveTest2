@@ -1,0 +1,535 @@
+Tekken 5 Basics FAQ
+Copyright 2005 Scott Jackson
+Authorized Reproduction: www.GameFAQs.com, www.Neoseeker.com
+Version 1.0: March 14, 2005
+Current Version: Version 1.2
+
+
+
+***Updates***
+
+-----------
+Version 1.2
+-----------
+
+Fixed more typos and errors. Added more to various sections.
+
+-----------
+Version 1.1
+-----------
+
+Fixed some typos, added more terms to "Key" section and added "Random
+Information" section. Also added minor details to a few various sections.
+
+
+Table of Contents
+--------------------
+
+   I.    Key
+   II.   Movement
+   III.  Frames and Buffering
+   IV.   General Move Properties and the Crush System
+   V.    Grabs, Parries, Reversals, etc.
+   VI.   Walls and Techrolling
+   VII.  Random Information
+   VIII. Tier Rankings and Misconceptions
+   IX.   Thanks, Credits, Contact
+
+
+
+I. Key
+----------------------
+
+First thing is first, you gotta know how to read this FAQ as well as any
+notation or terms that people may throw at you.
+
+1 - Left Punch
+2 - Right Punch
+3 - Left Kick
+4 - Right Kick
+F or f - Forward, the direction your character is facing.
+B or b - Back, the direction your character is not facing.
+U or u - Up.
+D or d - Down.
+D/F or d/f - Down-forward, the diagonal between D and F.
+D/B or d/b - Down-back, the diagonal between D and B.
+U/F or u/f - Up-forward, the diagonal between U and F.
+U/B or u/b - Up-back, the diagonal between U and B.
+N - Neutral. No direction inputs are being pressed.
+QCF - Quarter-circle forward. (d,d/f,f)
+QCB - Quarter-circle back. (d,d/b,b)
+HCF - Half-circle forward. (b,d/b,d,d/f,f)
+HCB - Half-circle back. (f,d/f,d,d/b,b)
+Capital letter difference - If a directional notation is in capital letters,
+     you must HOLD the direction instead of tapping it.
+SS - Sidestep(s). Tap U~n or D~n.
+SSR - Sidestep to your character's right.
+SSL - Sidestep to your character's left.
+SW - Sidewalk(s). Tap U~n or D~n and then press and hold the respective
+     direction after the character SS. (For example, after pressing U~n,
+     press and hold U when your character SS) 
+FC - Full crouch. Press and hold D or D/B.
+WS - While standing. Usually includes a button input of some kind that should
+     be pressed while your character rises from a crouch.
+WR - While running. Self-explanatory.
+BD - Backdash(s). (b,b)
+FD - Forwarddash(s). (f,f)
+CD/WD - Crouchdash/Wavedash. Explained in next section.
+cc - Crouch-cancel. Usually tapping f or u will take you out of crouch.
+, - Seperates inputs. It does not imply any timing for the input.
+~ - Command following must be inputted immediately after the previous
+     command.
+: - Just-frame input. The input following the ":" must be pressed during a
+     certain window or frame (which will be explained).
++ - Press simultaneously.
+< - You may delay the following input.
+[] - Inputs are optional.
+( _ ) - Or. For example, (A_B). You may press either A or B.
+() - Move is suppose to miss. Used in juggles.
+low - A move that hits low.
+mid - A move that hits middle.
+high - A move that hits high.
+CH - Counterhits(s). When a move interrupts another move.
+JS - Juggle starter(s).
+BT - Back turned towards opponent.
+TC/TJ - Technically crouching/Technically jumping.
+iWS - Instant WS. Performed d~(d/b_d/f)~n+desired input. Takes practice.
+Whiff - A move that misses the opponent entirely.
+Okizeme/Oki or Wake-up Game - Most Soul-Calibur-turned-Tekken players refer
+     to oki as wake-up. This term simply refers to the ground game. Whenever
+     someone says oki they mean a situation where one of the characters will
+     hit the ground at some point. The majority of the time it will be used
+     when a character is stationary on the ground and cannot techroll, but it
+     is not exclusive to that situation.
+Poke or poking - This is what's usually called chip damage. A poke is when
+     you do one or a couple moves that take minor damage off of your
+     opponent's lifebar. Poking is a big part of Tekken because most JS are
+     too slow to be considered the only source of damage you get. You can't
+     expect to hit JS all the time.
+Turtle - A playstyle in which a player mostly blocks and does evasive moves.
+     Not a lot of aggressive tactics.
+Pitbull - A playstyle in which a player use quick strikes to keep you off-
+     balance while always attacking. This playstyle still uses evasive moves
+     but in a very aggressive manner.
+
+
+
+
+II. Movement
+--------------------
+
+This section is short because there's only a couple of movements that you
+should know.
+
+WD. This motion is only important for characters who have a CD. The CD motion
+is performed f,n,d,d/f. Sort of like a Street Fighter uppercut. Characters
+that have this motion are characters like Kazuya, Heihachi, Jin, King, etc.
+A WD is simply a very fast repetition of CD. It's simple in theory but takes
+a lot of practice to get down. It's performed by doing a CD, cancelling
+with f and then performing another CD. So the notation would look something
+this: f,n,d,d/f~f~f,n,d,d/f. The reason that this is important is because
+you have to learn to see this motion from characters like Mishimas in order
+to know what you should try to block, parry, etc. Learn to see this motion!
+
+Backdash cancel. This is extremely important to all characters. A
+BDC is when you perform a BD, cancel with d/b and then perform another one.
+In order for this to be useful it HAS TO BE FAST. It was more valuable in
+Tekken Tag Tournament because the BD in TTT went further and the cancel
+happened faster. It's still incredibly useful in T5 but it's much more common
+to be hit out of it than in TTT. The correct notation for a BDC would
+be b~b~d/b~b~b~d/b... but I used to be a Mishima player and you can perform
+this by doing a backwards WD which is easier for me. HOWEVER, that method
+will NOT work with characters who have sways (i.e. Paul, Bryan, etc.) because
+you will get a sway instead of a BD, thus it must be done with the correct
+notation.
+
+Sidestep cancel. This can be done a variety of ways, but the most common is
+simply holding B. The idea is to stop yourself mid-SS. It's usually not
+useful because if you cancel with B the cancel is usually too slow and you
+will get hit anyway. It's still important to keep in mind because you can do
+moves to cancel your SS.
+
+Miscellaneous steps - There's a few characters who have their own little
+unique steps that no one else can do. The first two that pop in my head are
+Lei and Nina. Lei has what's called a Ha-Ha step and Nina what's called a
+hayashida step. You'll encounter these from time to time.
+
+
+III. Frames and Buffering
+----------------------------
+
+This is incredibly important to know. First thing, Tekken runs on 60 frames
+per second. In other words, 60 frames (or screenshots, pictures, whatever)
+are displayed in one second on your TV screen. You will need to know this for
+two reasons. One, I will use it frequently to tell how fast a move comes out.
+It's obvious to anyone who has played the game that when you press a button,
+your move does not come out instantaneously. This is where frames come in.
+Second, you will hear people refer to how many + or - frames you receive
+after a move is blocked or you block a move. This is INCREDIBLY important
+because this means that someone has an extra 1/60 (or more) of a second over
+their opponent to execute a move. Tekken is not near as slow-paced as some
+claim.
+
+After a move is blocked, there is a recovery time. It's sort of a commonsense
+type of thing, but it's still important. When a move is blocked,
+both you and the opponent must wait for either the move or block animation,
+respectively, to finish before you can input another command and expect a 
+move to come out.
+
+However, there IS something called buffering. This isn't important to a lot
+of characters, but with characters such as King, it's a vital part to their
+game and you should familiarize yourself so you know what to expect. There's
+three different types of buffering. One you input directional commands and
+those commands stay in a "queue" of sorts and you can use those commands long
+after they've first been inputted. A good example of this is Julia's Mad Axes
+throw. Press QCB, wait a moment, SS and then press f+2. The throw should
+still come out even though you not only waited to finish the final input but
+you also SSed. The second type of buffering is when you input directional
+commands during a move recovery and those inputs still go towards any inputs
+that are pressed after the move has recovered. A prime example is King's
+Giant Swing throw. If you perform u/f+1+2 and it is blocked, during the
+recovery animation you can press f,b,d/b,d,d/f and then press f+1 when
+King recovers and he will immediately come out with Giant Swing. It takes
+timing, but it's very useful. Buffering, however, is MOVE SPECIFIC to both
+the move you're trying to buffer and the move during which the buffer is
+taking place. It's more a matter of the former than it is the latter, but
+there are still moves that will not allow buffering while you recover. The
+final type of buffer is input buffering. This is where you press and hold one
+button and then press another and it registers as a combination of the two.
+For example, press 1 with any character and do their normal jab. Continue to
+hold 1 and then press 3. A 1+3 grab should come out.
+
+When people say that something is "safe" they mean, depending on the context,
+that either the move on block does not yield free hits. The same is true for
+punishing but reverse. If someone says something is "punishable" it means
+that the move garuntees free hits on block. Both of these terms do not have
+to be used only when you are talking about moves being blocked. It can also
+refer to situations where moves are whiffed or hit.
+
+Back to frames though. If you still have not grasped the concept of frames
+and how important they are, I'll end with an example. If you press 1 (which
+is just a normal 8-frame jab) and it gets blocked, you are at a +1 frame
+advantage. Thus, if you press 1 again immediately when you recover and the
+opponent ALSO presses 1 (assuming they have a standard 8-frame jab), your
+jab will beat theirs out because it will come out 1 frame faster. So when
+someone says that you are left in positive or negative frames, they mean
+that you are recovering faster or slower than your opponent, respectively.
+
+This sort of scenerio does not apply when crushes are involved, but that will
+be explained later.
+
+
+IV. General Move Properties and the Crush System
+------------------------------------------------------
+
+When a move hits or is blocked, a number of different things can occur. I
+will try to hit as many of them as possible. First are stuns. 
+
+******
+
+Hit stuns are when a move hits you and your character is thrown into a stun
+animation in which you cannot do anything like move, throw moves out or even
+block. Grouping this into general categories, there are seven different
+types of stuns (Just a note, I did take these groupings from
+tekkenzaibatsu.com, credited at the bottom of this FAQ):
+
+Double-over or fall-back stun - An example of these two stuns would be
+     Kazuya's CH WS+2 or WS+2, respectively. You are stunned for quite a long
+     time and there is usually enough time for a JS to hit. However, you can
+     press and hold F or tap f twice to break the stun.
+
+Minor stun - Using Kazuya again, his d/f+1 is a minor stun. It does not lead
+     to extra hits and most do not. You are always in negative frames if hit.
+
+Kneel stun - Again, Kazuya's f+4 on a crouching opponent is an example. Does
+     not always lead to extra hits, but can.
+
+Crumple stun - Bryan's b+2,1. Usually a follow-up jab will start a juggle.
+
+Crumple fall - Yoshi's b+1+4. On hit, you slowly sink to a Face-up/Feet-
+     towards position.
+
+Crumple fall stun - Law's CH f+2~1. On CH, you slowly sink to a Face-down/
+     Feet-away position. Usually extra hits are possible.
+
+
+Block stuns are also possible. A block stun occurs when you block a move and
+their character goes into a stun animation that does not occur when the move
+hits or misses. Law's d/b+4 on block is a good example. Extra hits are almost
+always possible.
+
+****** 
+
+Moves that are blocked can also give something called a guard break. This is
+when a character blocks a move and their recovery time seems incredibly long.
+Usually one or both of their hands will fling into the air. Usually extra
+hits are not possible but the majority of the time, the blocking character is
+in negative frames. Law's DSS 3+4 is a good example. (See Law FAQ if you are
+unaware of what "DSS" is)
+
+******
+
+Stagger hits are also possible when a move hits. Usually your character will
+grab a part of their body and take a couple steps back. Extra hits are
+sometimes possible.
+
+******
+
+TC and TJ are things that occur often in Tekken 5. TC is when you perform a
+move and your character is considered in a crouching position. The list of
+moves which you can duck during a TC move varies but usually depends on the
+how far along in the animation the move is when the opponent throws a high or
+mid. Some moves can crouch only highs, some moves can only crouch highs
+during a certain point in the move, some moves may even go under some mids.
+TJ is the same idea except it usually does not go to the point that TC moves
+do. Rarely will you see a TJ move jump a mid. Sometimes it will CRUSH the mid
+but I cannot think of a case when a move can jump a mid. It's purpose is to
+jump lows.
+
+******
+
+There are other blocking scenerios where a move may throw the blocker into a
+crouching position or something like that, but they are too numerous and too
+easy to miss because they're so subtle that it would be hard to cover them
+all.
+
+******
+
+As stated earlier, the crush system affects whether or not certain move will
+beat out others. If you are familiar with Soul Calibur 2, it had the same
+sort of system. During my example of frames, I gave an example of only jabs.
+Well, if we take that example and twist it a little, it will turn into an
+example of crushes. Let's assume that the character who was at -1 is Law.
+Let's also say that he predicted the opponent would do a low and the opponent
+does do a low instead of a high jab. If the Law player does U/F+4, no matter
+HOW fast the low is, it will ALWAYS be crushed by the flipkick. This is
+because U/F+4 CRUSHES some highs and lows. The crush system works so that
+some moves will always have priority over others. To make it more realistic,
+I suppose. Generally speaking, most lows crush highs and most mids crush 
+lows, but most mids do not crush highs and vice versa. It all balances out in
+the end. Ever gotten pissed off at previous Tekkens when you did a jumping
+move and some stupid low jab hit you out of it? That's the purpose of the
+crush system; to stop that.
+
+Moves still have priority like they did in other Tekkens in that if moves hit
+at the same time or within a couple frames of each other, one will have
+priority and negate the other even though it might have been a few frames
+slower.
+
+
+V. Grabs, Parries, Reversals, etc.
+---------------------------------------
+
+Grabs - There are 4 types of grabs in this game. A regular high, a crouch
+     grab, a ground grab and an air grab. Everyone has at least three
+     different regular high grabs. A select few have the other three types.
+     With the rare exception, the majority of those three types can't be
+     broken. 
+
+     All high grabs have 3 breaks. 1, 2 or 1+2. The break depends on the
+     animation of the grab. In general, whatever side the input for the grab
+     is will be the break. For example, everyone's generic 2+4 grab is a 2
+     break. However, to be more specific, whatever arm leads during the
+     animation of the grab is what side you should break. So, if the right
+     arm leads, the break is 2. If the left arm leads, the break is 1. If
+     neither arm leads, the break is 1+2. 
+
+     Side grabs are a little different. They can still be broken, but you
+     have to break whatever side they are throwing you. So, if they grab your
+     right side, break 2 and vice versa. Back grabs cannot be broken.
+
+     There is a new feature in Tekken 5 called "Advancing Grabs." This only
+     applies to normal 1+3 or 2+4 grabs. It does not change any properties of
+     the grab, but if you press f simultaneously with the grab, your
+     character will take an extra step forward while grabbing. This increases
+     the range of basic grabs considerable. Rarely will you see anyone doing
+     a normal grab that is not advancing.
+
+     It's a pure guessing game, but if you have troubles breaking throws,
+     learn to mash something, ANYTHING, when you see a throw. It's better
+     than nothing and definately a good place to start. You'll eventually see
+     set-ups for certain grabs and break accordingly, but all in good time.
+     The breaking system also applies to chain-grabs, though some parts of
+     some chains cannot be broken.
+
+Ultimate Tackle - The ultimate tackle is when character tackles the other to
+     the ground and begins pummeling them with jabs. There's a few different
+     things that a character can do when on top.
+
+     Jabs - You can do up to six jabs, stopping at whichever one you'd like.
+          You can start with 1 or 2 and simply alternate between the two.
+          When you hit jab number four, you can switch the order and do the
+          same side twice.
+
+     Arm break - Press 1+2 before any jabs or after three and you will do a
+          cross arm lock. Not all characters can do this.
+
+     Getting out of the tackle - Pressing the opposite punch of the attacker
+          during a certain time will counter the tacklers punch and your
+          character will shove the tackler off. If they do a cross arm lock,
+          press 1+2,2,2,2,2,2 and you'll reverse the arm lock and you will be
+          left standing while your would-be tackler is now on the ground.
+
+     Character exceptions - There are a few exceptions to the rule. The first
+          is Yoshimitsu. He CANNOT do anything but a sword stab. That's it.
+          Second is Marduk. He has his own special tackle, so if you want to
+          know what he can do, look in the movelist. Third is Nina and King.
+          Both have special leg breaks they can do which can still be broken
+          but instead of 1+2,2,2,2,2,2, the break is 1+2,1,1,1,1,1. Lastly is
+          Paul. He has his own special mounted tackle grab that cannot be
+          broken. The only way to get out of it is to reverse the first jab,
+          which is why you'll see any good player mash 1 if they get tackled
+          by Paul.
+
+Parries and Reversals - This is extremely character specific, but most have
+          one or the other.
+    
+      Reversals - There's a few characters that when you press b+(1+3_2+4),
+          they will make a little counter motion with their arms. If it's
+          timed with a mid or high attack, they will reverse the attack and
+          inflict good damage on the opponent.
+
+      Special reversals - Some characters, such as Marduk, have unique
+          reversal that only they have. Using Marduk, he has two seperate
+          reversals. One for highs and one for mids.
+
+      Chickens - A chicken is a reverse of a reverse. You do a chicken by
+          pressing f+(1+3_2+4) during a reverse of your move. You must press
+          f+ the grab of whatever side the limb being reversed is on. So, if
+          you throw out a 1 jab and it gets reversed, you press f+1+3 during
+          the reverse. For multiple button presses, it corresponds to the
+          limb. So, Law's f+1+2 is both a 1+2 input but he uses his right arm
+          and that's the one that gets reversed, so you must chicken with
+          f+2+4. Some characters cannot be chickened, such as King. His
+          reversals are for kicks and right punches and cannot be chickened.
+
+      Parries - Some characters, like Law or Ling, do not do reversals but
+          instead do parries. Parries cannot be chickened or broken. Some
+          lead to extra, free hits, like Law's. Others simply toss the limb
+          aside, giving the character an edge in momentum.
+
+      Low parries - Pressing d/f during an opponent's low attack will result
+          in your character throwing their limb aside. Every character gets
+          some free hit off of a low parry. Most characters get juggles.
+          Depending on what kind of move you parry determines how fast they
+          recover. Generally speaking, low left kicks give the slowest
+          recovery. Some lows cannot be low parried.
+
+Juggles - Pretty simple. If you hit your opponent and they float in the air,
+       it's possible to get extra hits in that they can do nothing about but
+       take. A move that launches the opponent is called a juggle starter or
+       launcher.
+
+
+
+VI. Walls and Techrolling
+_____________________________________________________________________________
+
+Techrolling - Simple concept. When you hit the ground, albeit from a
+juggle or off of a wall, if you press any button, you will roll into the
+foreground or background. If you press a punch, you will tech roll into the
+background; if you press a kick, you'll roll into the foreground. You can
+also hit f or b when you hit the ground. B will send you rolling backwards, f
+will make you do a spring-up kick or a pop-up if you land on your stomach.
+
+There are such things as slamdowns and air-stuns, however. A slowdown does
+just that... slams you to the ground. If this happens, you cannot techroll or
+do any of the options listed above. Air-stuns act in the same manner, however
+you are not slammed down but stunned in the air and unable to techroll once
+you hit the ground. Important to know in some situations because sometimes
+these will lead to extra hits.
+
+If you sit on the ground for a moment, you have some more options. One is
+simply press U and you will stand straight up. If you press a punch, you will
+roll right or left, depending on which punch you press. If you press 3 or 4,
+you will do either a low or mid knockdown kick, respectively. You can also
+do a spring-up by pressing b,b+3+4. Some characters have special spring-ups
+where they spin as well and are left BT. If you press f or b and allow your
+character to do a roll, then press f+1+2, they will dive at the opponent.
+The dives can only be done if you land Face-up/Feet-towards. There are
+exceptions where a character cannot do one and does the other or can't do
+anything, whatever.
+
+*************
+
+Walls - First, and most importantly for any of you Tekken 4 players out
+there, there's no wall-tech. If you hit the wall, you are staying there until
+you hit the ground. Once you hit the ground, though, you can techroll or do
+anything discussed in the above section, depending on how you land.
+
+There are three types of wall splats. The first two are high and low. 
+Obviously, if you get a high wall splat, more damage is garunteed. The third
+type is a side wall splat where the opponent is left in a standing stun that
+looks almost like they were nailed in the side and are about to faint.
+Usually, just jabbing someone in this position will start a juggle.
+
+
+VII. Random Information
+_____________________________________________________________________________
+
+Ki Charge - This is when you press all four buttons at the same time and you
+     do a power-up and your hands glow red. When this happens everything you
+     throw out will register as a CH, whether it is or not. However, you
+     cannot block and if they hit YOU it's registered as a CH.
+
+Running attacks - Everyone has the same basic running moves: f,f,f (which
+     starts a run)+(3_4_1+2). f,f,f+3 is a jumping kick that gives +10 on
+     block. f,f,f+4 is a slide that trips the opponent. And f,f,f+1+2 is a
+     running head dive. This is just generally speaking. Some characters will
+     do their own little thing, like King does a stronger version of his
+     d+3+4 instead of the generic f,f,f+4 slide. 
+
+Arcade Mode, Customizables, etc. - This FAQ is intended to improve your
+     gameplay, not beat the computer or look pretty. If you want all that
+     info, go to tekkenzaibatsu.com.
+
+
+
+VIII. Tier Rankings and Misconceptions
+_____________________________________________________________________________
+
+Tekken is divided into tiers. The best characters being at the top, worst at
+the bottom. It's generally excepted that the top four in Tekken 5 are Steve,
+Nine, Bryan and Feng, Steve being the only agreed upon as the best. The
+order of the other three are debatable. Law probably heads the middle-tier
+and then it gets muddled from there. It's also generally accepted that Lei is
+the bottom of the barrel, but Tekken 5 is still fairly new so things could
+change.
+
+And note on tiers: Tiers are based on "theory-fighting." In other words, the
+tiers are created by looking at character match-ups on paper as well as 
+tourny results. Tiers usually shift a lot throughout the lifetime of a game,
+especially in the middle. All things considered, though, every character in
+the game can win. It's that simple. If you're good enough at the game, you
+can beat anyone WITH anyone. There have been great players in the past that
+have taken low-tier characters to the top before. The only reason tiers
+exist are to show who has the easiest time winning.
+
+
+
+
+IX. Thanks, Credits, Contact
+_____________________________________________________________________________
+
+Pretty much the only thing that helped me write this FAQ was
+www.tekkenzaibatsu.com. In my opinion, it's the most comprehensive site for
+anything Tekken. It got me started on the game and has gotten me better
+beyond anything I thought I could be. I have yet to find a site that can
+give you more information than that site can.
+
+If you would like to contact me, hit me up at yadamnskippy502@excite.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      

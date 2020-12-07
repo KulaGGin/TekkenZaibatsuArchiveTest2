@@ -1,0 +1,812 @@
+Title - Christie Monteiro FAQ
+Author - VTDragon
+e-mail - gamestan@aol.com
+
+**************************************************************
+                                           Christie Monteiro FAQ
+
+     This FAQ is a nonprofit document to help people learn how to use Christie 
+right. Nothing is more irritating to me than some snot nose little brat coming into 
+the arcade and picking Christie, and then mashing his way to victory, and then 
+gloat about it, thinking that he actually has skill.  In an atempt to eliminate all 
+button mashers, I am writing this FAQ, hopefully, some of them will read it and 
+actually learn how to play with Christie.  I loved playing with Eddy on T3 and 
+TTT, so Im pretty skilled with the way these two charactera play.  Id just like to 
+get a few things out of the way before we get to the actualy meat of the FAQ.
+
+     This FAQ should not be reproduced for profit.  Feel free to use anything from 
+this FAQ on your web page, or your own FAQ, as long as credit is given to me, 
+VTDragon or Gamestan for the information you have copied.
+
+     Also I'd like to tell you a little about myself.  I live in the great state of 
+Oklahoma.  Im 15 years of age and I wrestle for my high school.  Im not like most
+guys though, becuase while I love physical activity, I spend way to much time in
+the local arcade.  My favorite character is Christie, and its not just becuase she is
+hot, but becuase I love the Capoira style of fighting and dancing...
+
+**************************************************************
+                                                      Table of Contents
+
+I. Move List
+II. Pros and Cons of Christie
+III. The Art of Capoira
+IV. Association of Strategies
+V. The Rewinder
+VI. In Game Strats
+VII. Custom Strings
+VIII. Juggles
+IX. Credits
+
+***************************************************************
+I. Move List
+
+Grappling Arts
+command ----------place ----name -----------------damage --escape
+
+2+4 ------------------front ----Caranguejo ---------30 ---------2
+F+2+4 ---------------front ----Rotacao -------------30 ---------2
+(2+4_F+2+4)~b ---front ----Rio Special ---------30 ---------2
+d/f+1+2 -------------front ----Cabra Macaco -----38 --------1+2
+hcf+1+2 -------------front ----Rodeo Spin --------55 --------1+2
+1+3+(u_d_b_f) ----any -----Postion Change ---0 ----------none
+(F+2+4_2+4) -------front ----Role -----------------40 --------1
+(F+2+4_2+4) -------front ----Garganta -----------42 --------2
+(F+2+4_2+4)~b ---front ----Rodeo Back Spin -60 ---------none
+(F+2+4_2+4) -------front ----Air Mail ------------60 ---------none
+
+Special Arts
+command --------------------name ----------------------------- stance    notes
+
+1,2 ---------------------------- Double Punch
+ = 4 ---------------------------- = Back Summy                                          RC
+  = 3 ---------------------------   = Fire Kick -------------------- RLX
+  = 4 ---------------------------   = High Thrust --------------- RLX
+1,3 [~D] --------------------- Jab - Island Mirage [RLX] -- HSP
+b+1+2 ----------------------- Straight Jab
+d/f+1------------------------- Elbow Sting
+(WS_qcf)+1 --------------- Cotovelo
+ = 3 --------------------------- Heran Bago ------------------- RLX           JG
+d/b+1+2 --------------------- Double Arm Stinger
+1+2 --------------------------- Spin Slaps
+ = ~3 ------------------------- = Freak Show                                            JG #9 RCj
+ = 3 --------------------------- = Delayed Island Mirage --- HSP
+FC+1+2 ---------------------- Crying Needle                                          #6 RCj
+ = ~1 -------------------------- = Needle Cancel                                      RC
+  = <2 -------------------------  = Hammer Head
+(f_FC,d/f)1+2 [~b] -------- Handstand Position [Fake] - HSP
+(u/b_u_u/f)+1+2 ---------- Vasuuna                                                    GC RCj
+b+2 --------------------------- Asfixiante
+(WS_qcf)+2 ---------------- Rising Batida                                            SH JGc
+d/f+2 ------------------------- Elbow Upper                                             SH
+f+2,1,4 ----------------------- Carnival Rush                                           #7
+WS+3 ------------------------ Face Jammer
+f+3 ---------------------------- Brush Fire ---------------------- HSP
+ff+3 [~B] [~D] -------------- Lunging Brush Fire [HSP] [RLX]
+d/f+3 [~D] ------------------- Island Mirage [RLX] -------- HSP
+(qcf_FC,f)+3 ---------------- Martelo                                                     JG
+b+3<f ------------------------- Knee Thruster - Kick Out
+u/f+3 [~D] ------------------- Skull Kick [RLX]                                     GC
+ = ~3 -------------------------- = Freak Show                                           JG
+ = 3 ---------------------------- = Carnival Sweep                                    RCj
+ = 3+4 ------------------------- = Kick Out ------------------- RLX
+d/b+3 [~B] ------------------ Weed whacker [HSP]                              RC
+ = 3 ---------------------------- = Hot Plate ------------------- RLX
+  = ~D -------------------------  = Hot Plate Cancel --------- RLX           #5
+  = ~B -------------------------  = Hot Plate Cancel ---------- HSP          #5
+  = B ---------------------------  = Handstand Position ----- HSP           #5
+ = 4 ---------------------------- = Cutting Leg Whip                                #1 CSc JG
+ = ~3 -------------------------- = Bush Whacker
+ = ~4 [~B] ------------------- = Shin Cutter [HSP]                                 RC
+  = 4 [~B] --------------------  = Cross Cutter [HSP]
+  = 1+2 -----------------------  = Crying Needle                                       #6 RCj
+   = ~1 ------------------------   = Needle Cancel                                      RC
+    = <2 -----------------------     = Hammer Head
+(u_u/f)+3+4 [~D_~B] ------ Fire Kick [RLX]
+3+4 [~B] ----------------------- Back Handspring [HSP]                        #4
+(FC_WS)+3+4 [~B] [~D] -- Front Stinger [HSP] [RLX]                  SHco PLDc
+f,f+3+4 ------------------------- Boomerang                                            GB BN #7
+d/f+3+4 ------------------------ Freak Show                                           JG #8 RCj
+b+3+4 -------------------------- Queixada                                               KS FCDc
+d+3~4 -------------------------- Religio
+3~4 [~B] ----------------------- Slippery Kick Series [HSP] -- RLX  JG
+ = 4 [~B] ----------------------- = Slider [HSP]                                     RC
+ = 4,4 [~B] --------------------- = Slide Flop [HSP]
+ =4,1+2 ------------------------- = Slider - Crying Needle                   #6 RCj
+  = ~1 ---------------------------   = Needle Cancel                              RC
+   = <2 --------------------------     = Hammer Head
+3~3 ------------------------------ Heran Bago ---------------------- RLX  JG
+(WS_qcf)+4 ------------------ Circle Kick
+f+4 [~B] ------------------------ Samba [HSP]                                      #2
+ = ~3 [~B]----------------------- = Slippery Kick Series [HSP] - RLX
+f,F+4 ---------------------------- Back Summy                                      RC
+f,f+4~3 ------------------------- Fire Kick -------------------------- RLX
+f,f+4 ---------------------------- High Thrust ---------------------- RLX
+d/f+4 --------------------------- Knee Cap Crusher
+b+4 ----------------------------- Leg Whip Series                                CSc
+ = 3 [~B] ----------------------- = Weed Whacker [HSP]                   RC
+  = 3 -----------------------------  = Hot Plate ---------------------- RLX
+   = ~D -------------------------    = Hot Plate Cancel ----------- RLX  #5
+   = ~B -------------------------    = Hot Plate Cancel ----------- HSP  #5
+   = B ---------------------------    = Handstand Position ------ HSP  #5
+  = 4  ----------------------------  = Cutting Leg Whip                        #1 CSc
+  = ~3 ---------------------------  = Bush Whacker                             RC
+  = ~4 [~B] --------------------- = Shin Cutter [HSP]                        RC
+   = 1+2 -------------------------  = Crying Needle                             #6 RCj
+    = ~1 --------------------------   = Needle Cancel                            RC
+     = <2 -------------------------    = Hammer Head
+   = 4 [~B] ----------------------   = Cross Cutter [HSP]
+ = 4 [~D] ----------------------- = Mars Attacks [RLX]
+ = 4,3+4 ------------------------ = Full Mars Attack 
+d/b+4,4,4...[b+4] ------------- Barbed Wire [HSP]                        #3
+(u_u/f)+4 ---------------------- Roundhouse
+4~3 ------------------------------ Satellite Moon
+ = 3 [~B] ------------------------ = Hot Plate ------------------- RLX
+ = 4 ------------------------------ = Roundhouse
+(D,d/b+4_D/B,4) -------------- Haule                                             RC
+d+3+4 -------------------------- Relaxed Position/RLX ------ RLX
+
+#1 Continue with the Leg Whip Strings.
+#2 Links into the Slippery Kick series with ~3
+#3 Can be continued infinitely.
+#4 The Handstand Position will cancel the hit. 
+#5 Fast B or D inputs will cancel the Hot Plate hit. Input the B after the hit 
+   to go into HSP.
+#6 Holding down or Side Stepping after the move will cancel recovery frames.
+#7 Side Stepping right away after the move will cancel recovery frames.
+#8 Inputting d/f+3+4~D will cause RC and also push out a blocking 
+   opponent further.
+#9 Second hit of the Spin Slaps is cancelled.
+
+Handstand Postition Arts ( HSP = f+1+2 )
+command ---------name ------------------------stance     notes
+
+(u_d) -------------- Handstand Sidestep ---- HSP
+D ------------------- Handstand Perch ------- HSP
+ = 3+4 ------------- Delayed Perch Flop ---- HSP          JG
+b ------------------- Stand Up
+N ------------------- Roll Out ------------------- RLX
+1+2 ---------------- Tuck & Roll -------------- HSP
+1 ------------------- Left Flop Punch                                #1 RC
+2 ------------------- Right Flop Punch                             RC
+ = 4 [~B] --------- = Swirl Kick [HSP]
+  = 3 ---------------  = Carnival Sweep                            RC
+3 ------------------- Scoot Kick ----------------- RLX
+b+3 ------------------- Hot Plate ---------------- RLX
+ = ~D ----------------- = Hot Plate Cancel ---- RLX       #3
+ = ~B ----------------- = Hot Plate Cancel ------ HSP     #3
+ = B ------------------- = Handstand Postition --HSP    #3
+(u_d)~(3_4) --------Carnival Sweep                             RC
+(u_d)+(3_4) [~D] -- Slice Kick [HSP] --------- HSP
+3~4 [~B] ------------- Slippery Kick [HSP] -----RLX    #2 JG
+d+3+4 ---------------- Perch Flop Kick --------- HSP     JG
+4 ----------------------- Helicopter ---------------- HSP
+
+#1 Continue with the Leg Whip Strings.
+#2 Continue with the Slippery Kick Series
+#3 Fast B or D inputs will cancel the Hot Plate hit. Input the B after the hit 
+   to go into HSP.
+
+Rewinder Arts ( Rewinder = SS )
+command ---------------name --------------------------stance    notes
+
+1+2 ---------------------- Spin Slaps
+ = ~3 -------------------- Freak Show                                           JG RCj
+ = 3 ---------------------- Island Mirage -------------- HSP
+1+4 ---------------------- Banda
+2 ------------------------- Cruncher                                               BNc GC
+3 ------------------------- Hot Plate -------------------- RLX
+ = ~D ------------------- = Hot Plate Cancel -------- RLX          #1
+ = ~B ------------------- = Hot Plate Cancel -------- HSP           #1
+ = B --------------------- = Handstand Position --- HSP           #1
+  = 3+4 ------------------  = Instand Perch Flop --- HSP          JG #2
+3+4 ----------------------- Wheel Kick                                        RCj
+ = 3+4 -------------------- Skull Kick                                           BN GC
+  = 3+4 ------------------- Sao Paulo Special
+   = u/f+3+4 [~B_~D] - Fire Kick [RLX] 
+(u_u/f)+3 [~D] --------- Skull Kick                                          GC
+ = ~3 ---------------------- Freak Show
+ = 3 ------------------------ Carnival Sweep                                RC
+ = 3+4 --------------------- Kick Out ------------------ RLX
+4~3 [~B] ------------------ Leaping Face Jam [HSP]                GB
+4 [~B] --------------------- Swirl Kick
+ = 3 ------------------------ Carnival Sweep                                RC
+ = 3+4 [~B] [~D] -------- Front Stinger [HSP] [RLX]            PLDc SHco
+
+#1 Fast B or D inputs will cancel the Hot Plate hit. Input the B after the hit 
+   to go into HSP.
+#2 Only possible if the SS+3 hits or is blocked.
+
+Relaxed Position Arts ( RLX = d+3+4 )
+command ----------- name --------------------------------------- stance    notes
+
+f ------------------------ Cancel - Roll Forward
+b ----------------------- Cancel - Roll Backward
+(u_d) ----------------- Relax Side Roll Out
+(u/f_u/b_d/f_d/b) - Relax Cancel
+1 ----------------------- Negativa Left
+ = 3 -------------------- Brush Fire ------------------------------- HSP
+ = 4 -------------------- Leg whip                                                              CSc #1
+f+1+2 ----------------- Crying Needle                                                     #3
+ = ~1 ------------------ = Needle Cancel                                                  RC
+  = <2 ------------------  = Hammer Head
+f,f+1+2 ---------------- Headlong Dive
+2 ------------------------ Negativa Right
+ = 3 --------------------- Brush Fire ------------------------------ HSP
+ = 4 [~B] -------------- Samba [HSP]
+3,4 --------------------- Rio Delight
+3~4 -------------------- Scoop Up Kick                                                   JG
+3+4 [~B_~3] --------- Back Handspring [HSP]                                   #2
+b,b+3+4 -------------- Rising Feet Lunge                                             BT
+4~3 -------------------- Flare ------------------------------------- HSP
+4,3+4 [~B_~3] ------ Mid Kick - Back Handspring [HSP]                #3
+
+#1 Continue with the Leg Whi Strings.
+#2 Holding back will cancel the Handspring, tapping 3 will cause the Handspring 
+to hit before going into HSP.
+#3 Hold down or Side Step right away after the move to cancel recovery frames.
+
+Unblockable Arts
+command ---name ------------damage
+
+d/b+3+4 ----- Fruit Picker ---- 40,40
+ = b,b --------- = cancel -------- 0
+
+String Arts
+command ------------------------------------------hits -- levels
+
+4~3,4,2,4,4,3+4,3+4,3+4,d/b+3+4,u/f+3+4 - 12 --- mm"mhhmmmhmmm
+4~3,4,2,4,3 ---------------------------------------- 6 ----- mm"mhhL
+ = Leg Whip Strings --------------------------- infinite
+
+*************************************************************
+II. Pros and Cons of Christie
+
+     Well, obviously, Christie is easily the most unpredictable character on T4 if 
+used properly.  She can chain moves together in infinite chains by using 
+mixups of her RLX (relaxed) and HSP (handstand) stances.  The RLX can be
+used to evade certain moves, more on that later, and provides you a few other 
+tricks to keep in your game.  The HSP is one of the most unorthodox stances in 
+all of Tekken-dom and therefore many people will be confused as to how to 
+work around it.  The handstand also provides you with a few mind game tools 
+that you can work with if you feel like it.  To break it down, Christie is a 
+character that confuses the opponent and then takes off sometimes massive 
+amounts of energy with multilevel mixups, and strong low sweeping attacks.  
+The amount of low attacks that Christie has gives you a huge edge, as blocking 
+low in T4 is considerably more complicated than in the other Tekken games, so 
+being able to mix up how you attack this vulnerable attack height is a major 
+asset if you can take advantage of it.....
+
+     There are two main cons that are pretty big ones about Christie.  First, many 
+of her attacks are slow, or rather, she spends too much time dancing before the 
+attack comes out.  This is very noticable on certain moves.  For example, the 
+Slippery kick is stopped many times becuase she is spins too much between 
+attacks.  I suppose the best way to describe this con is that many of her chains 
+can be easily interupted if used at incorrect times.  The other con is that since 
+many of Christie's moves depend on how fast you input certain commands, she 
+is very hard to learn completely.  Getting the timings in chains can mean the 
+difference between you starting a juggle and you performing one of Christie's 
+many, many sweeping attacks.  Another con that goes along with this is that if 
+you hold back or down when attacking with her, she may go into an unwanted 
+handstand or relaxed position, this could be lethal in close competition fights.  
+So really, the best way to sum up her second con is that accurate inputs of 
+commands mean alot to Christie, as does no random joystick movement.
+
+    The pros and cons of Christie in my opinion equal each other out.  Seeing as 
+how her vast assortment of moves makes up for the inability to time some of 
+them right, and her mind games make up for very precise stick control, I call it 
+even.  Learning all of her attacks takes time, but in the end, all the practicing 
+is well worth it.  Just keep in mind that even if you are losing your match, 
+whatever you do, don't mash the buttons.  If you do that, thats like taking one 
+step forward and then two steps back.  As with all things, learning her takes 
+time, and can be frustrating, but never lose your self-control.  You will find that 
+over time, as you progress with Christie, if you see someone playing, and they 
+are button mashing, that you will be slightly irratated at that person, and you 
+may not even know why.  Well, the reason is that since you have taken the time 
+to begin mastering Christie, you feel that that person could at least respect the 
+game enough to try to learn how to actually play her too.  I know you may not 
+believe it, but after I learned Eddy and kids a few years younger than me picked 
+him to mash buttons, I got a little angry at them for disgracing his good 
+name, and his incredible style.
+
+*************************************************************
+III. The Art of Capoira
+
+     Capoira is a dance, and therefore an art.  Try to play like it was important 
+how you are moving.  Tekken for the most part is all about a lack of rhythm, 
+and keeping people off balance.  Well, this can be done in an inverted sort of 
+way.  If you play with a kind of beat, you will seemingly never stop moving, 
+and will overcome many opponents.  Remember that Tekken is a very precise 
+game in that all of the motions, and movements of the characters are very 
+precise to the style of martial arts he or she represents.  Seeing as how Capoira 
+is a dance, you should try to make it seem like a dance when you play, 
+occasionally this means whiffing moves to keep your rhythm going.  Of course, 
+playing with rhythm doesn't always work for everyone, I could probably play 
+with or without a rhythm equally good, but it is fun to make it seem so 
+effortless to win, that you are seemingly not even fighting the opponent, but just 
+dancing to the beat!
+
+     Also, you should try to keep attacking at all times.  She is much faster when 
+using her chain attacks than she is just randomly attacking.  Using transitions
+between the RLX and HSP are vital to do this consistently.  Over time you will 
+begin to develop chains that you use to move into and out of these postions. I 
+will list some of mine in a later section of the FAQ, but always try to look for 
+opportunities to try new attacks and combo strings.  Freestyle people, Freestyle!
+
+*************************************************************
+IV.  Association of Strategies
+
+     Seeing as most of Christie's best strategies and moves are from one of her 
+two stances.  It is sometimes necessary to think differently to use Christie to her 
+fullest.  For example, you must look for quick, effective ways to enter her 
+stances, as well as develope fighting strategies from both the HSP and the 
+RLX! This really isn't as hard as it seems, becuase this section is to help you 
+associate HSP and RLX strategies to standing strategies, like juggling, 
+or Okizeme.
+
+A. Standing Strategies
+   
+    Everyone has strategies that he or she prefers to use, but there are a few 
+general strategies that almost everone uses from time to time, these are...
+
+1. Juggling - Obviously!  Learning how and when to use juggles can be a major 
+feather in your cap if you play people that seem to never make misstakes.  By 
+catching them with certain moves, you get free follow ups for free damage on a 
+defensless opponent!
+
+2. Turtling - Basicly consistently blocking.  Sidestepping, reversing, and 
+parrying all fall into this category as well.  Looking for counter attack 
+opportunities however is what turtling is used for.  Sitting back, blocking and 
+blocking, then unleashing a powerful counter.
+
+3. Bulldoging - The polar opposite of Turtling.  Constant attacks, throws, 
+multilevel hits and unblockables  thrown together as fast as possible.  Also, 
+getting counter hits can play into this, but not as greatly as Turtling.  Using 
+slower moves while bulldoging will sometimes catch opponents with a counter 
+as they are trying to interupt your chain.
+
+4. Okizeme - Attacking the enemy when he is on the ground.  Perhaps a 
+dishonourable method of attacking, but what the heck.....
+
+Now I will transfer these four basic strategies into moves from the HSP...
+
+B. HSP
+
+1. Juggling - There are really only two ways to juggle from the HSP.  Either 
+you use the Perch Flop Kick (d+3+4), delayed Perch Flop Kick (D,3+4) or you 
+can use the Slippery Kick (3~4).  The first, a Perch Flop Kick can be used to 
+juggle them high into the air, and from a greater distance than the Slippery 
+Kick.  Followups to both methods of juggling from the HSP are very limited, 
+but they are still juggles.  Followups from the Perch Flop Kicks, are basicly any 
+move you could do from the HSP that would connect and allow you to either 
+return to the standing position, or continue with the HSP.  Juggle follow ups 
+from the Slippery Kicks aren't as limited as you may think.  If you use the 
+Slippery Kick and then perform the Slider (whole attack: 3~4,4) you may use 
+"While Standing" (WS) attacks in your juggle.  Your best followup off of 3~4,4 
+is WS+1,3.  That is a Slippery kick to Slider, followed by the Cotovelo to 
+Heran Bago combo.  This is your best option, not only becuase of power, and 
+simplicity, but becuase it leaves you in RLX afterward for more follow ups, or 
+the RLX can be used to keep you safe from being countered if the 3~4,4 is blocked!
+
+2. Turtling - Turtling from the HSP isn't the best idea in the world.  You only 
+have three evasion moves from the HSP.  The HSP sidestep (u_d), the Perch (D), 
+and the Tuck & Roll (1+2).  The (u_d) shifts her weight to one hand and one 
+foot, almost like she is on her side, for just about a second.  This is your best 
+evasion  from the HSP as it is the fastest, and you can avoid moves of all 
+attack heights, unlike the Perch and Tuck & Roll moves.  As I just mentioned, 
+the Perch and Tuck & Roll have one major set back, you can be hit by all low 
+moves.  Heihachi and Paul's Tile Splitter moves will still hit you if you try 
+either of this moves.  The Perch, you basicly collapse your body onto itself.  
+You are resting on your back, with your knees at about where your elbows are.  
+You will stay in this for about a second, like the sidestep.  This avoids all high 
+attacks, and I believe mid if timed very precisely, but you must remember that 
+mid attacks are closer to your body, so the lowest point of the perch is the only 
+part that will still let mid moves go over your body.  The Tuck & Roll allows 
+you to go under all high, and just about all mid moves as long as your timing is 
+accurate.  Christie, while in the handstand is already doing the splits as some of 
+you may have noticed.  Basicly, she rolls forward to the point she is laying on 
+her back, still with her legs spread, and then reaches between her legs and does 
+a push up to return to the HSP.  This animation is very fast, and has a lower 
+clearence than the Perch does, and allows you to advance while going under an 
+attack!  Really a great move if you can get it off, as it gives you the advantage 
+in your HSP to counter almost any high attack....
+
+3.  Bulldoging - Bulldoging in the HSP is basicly all about your Slippery Kick 
+and the Helicopter.  Using the variations that chain from the Slippery Kick to 
+get back into the HSP and then breaking the pattern of low attacks with the 
+high-hitting Helicopter is the most effective way to bulldog when you are in 
+your HSP stance. Also, the Right Flop Punch to Swirl Kick (2,4) back into the 
+HSP (~B) can be a useful way to get a free Helicopter becuase most people will 
+expect your carnival sweep out of the 2,4, they will still be blocking low, so slap 
+them stupid with your feet as a nice mix up to keep your chains going.  The last 
+move I use when bulldoging is the Slice Kicks (u_d)+(3_4).  I mainly use 
+these attacks as "transition" attacks, as they can either go back to HSP fairly 
+quickly, or can put me directly into RLX by holding down on the stick...
+
+4.  Okizeme - The Slippery Kick series once againg returns to the top of the list,
+with its incredible multiple low attack chains, its easily your best bet for 
+Okizeme.  The Slice Kick (u_d)+(3_4) is also a great move for Okizeme.  The 
+Slice Kick is basicly Christie's version of a stomp move like Kaz's and Hei's.  
+For massive damage in Okizeme though, your pony is the Carnival Sweep (u_d)
+~(3_4).  While this is your slowest Okizeme, its powerful, and has a large attack
+radius, as well as a fairly impressive reach for a sweep!
+
+Now to make some associations for your RLX position...
+
+C. RLX
+
+1. Juggling - This is the weakest category of abilities from the RLX.  Your only
+juggling option from the RLX is the Scoop Up Kick (3~4).  While this is a great 
+juggler, having only one greatly reduces your mixup abilities for trying to throw
+in a juggle.  But as I said, this is one of Christie's best juggle starters IMO as
+it in-motion juggles while putting you back on your feet.  Try this juggle out,
+RLX 3~4, 1,2,4,4.  This is a great juggle as its easy to perform, has decent 
+damage, and puts you into one of Christie's special stances at the end!
+
+2. Turtling - Turtling from the RLX is somewhat of a question, as "How do I do 
+that?" Well, there are basicly three moves that can be used to Turtle from the
+RLX.  There is a Cancel -Roll Back (b), a Cancel -Roll Forward (f ), and a RLX
+Side Roll Out (u_d).  These can be used to keep you from recieving damage 
+while in the RLX, but unfortunatly you lose the stance, but fortunatly, its easy
+to get back by inputing d+3+4 from the standing position...
+
+3. Bulldoging - This is somewhat different than Bulldoging from the HSP.  You
+must start in RLX and almost always go through the HSP to get back into the 
+RLX.  While this really isn't a bad thing, its kind hard to get used to.  Due to the
+fact that Christie has the Negativa Left and Right moves (1_2), she has a much
+more dangerous RLX position than Eddy did!  Your Negativa moves are
+your most valuable asset to keeping pressure on when Relaxed.  Its almost a 
+sure thing that its best not to just simply use the Negativa by itself, but to 
+always follup with one of your Negativa chains.  From the Negative Left, your
+best follup in the chain is your Leg whip.  This is becuase it can chain right into
+your standing Leg Whip Series arsenal.  Try 1,4,3,4,4,4+3, that is somewhat of 
+an advanced combo becuase you switch stances and chain attacks in the mid - 
+combo.  That was the Negativa Left to Leg Whip, then the Weed Whacker to
+another Leg Whip Series, from this Leg Whip you do your Full Mars Attack!
+Probably one of the most impressive combos Christie has just becuase of how
+fast this one comes out, and its surprising attack power!  Do not forget that 
+you  could also have used 4~D at the end of that to enter your RLX position
+again and start all over.  From Negativa Right your best followup is the Samba.
+The Samba is an all-around great move becuase of its reach, nice damage, and
+followup ability. You can go straight into HSP, or you can press ~3 to execute
+a Slippery Kick Series.  2,4~3,4,1,3,1 is a great combo from the Negativa Right!
+Negativa Right to Samba, which then chains to the Slippery Kick Series Slider,
+which if you remember is one of the juggle starters from the HSP.  Follow the 
+Slider with the 1,3 Cotovelo to Heran Bago then a Negativa Left that can begin
+your favorite Negativa Left chain.  See what I mean when I say that she has a 
+much more dangerous RLX position than Eddy did?
+
+4. Okizeme - There are only a handful of maneuvers from RLX that can be used
+for Okizeme purposes, but the ones that Christie has are rather effective, and
+can of course chain her attacks and stances.  3+4, the Back Handspring is your
+strongest Okizeme move from RLX, the move has good reach, and comes out at
+a somewhat quick speed.  Also, by pressing either B or 3 right after the 3+4, 
+you can cancel out the Handspring if you see that they are out of reach and 
+the Back Handspring wouldn't connect, and immediatly enter the HSP to keep
+pressure on, Capoira style!  The Flare (4~3) is the fastest, and the weakest 
+Okizeme that you have, but it does put you into the HSP, and thats nothing to
+complain about.  Once again, the Scoop Up Kick rears its head, but this time as
+Okizeme.  This is probably your best Okizeme if you want to just get off an
+Okizeme move and return to fighting becuase it returns you to the standing 
+position.  Also, if you are in close, and you use this move late, there is an off
+chance that you may connect with the kick as they are standing up, meaning
+its juggle time for you to take advantage of!
+
+I hope that this section was helpful to you. I know that when I was first playing
+with Eddy, that I would only use the same move over and over again when I 
+was in one of my stances, meaning I lost alot of matches.  But then, after lots of
+practice, and patience mind you, I discovered some of the more hidden uses for
+some of the moves out of the Capoira Special Stances that Eddy and Christie 
+both use in combat....
+
+*************************************************************
+V. The Rewinder
+
+    This is basicly the simple sidestep that every character has, no special input 
+or anything like on Tekken 3 or TTT.  Just SS like regular and then use one of
+the many Rewinder Arts that there are to have a huge SS advantage over just
+about every other character, infact, I believe that no other character has as many
+SS moves as Christie does on T4.  For countering moves, the Cruncher ( 2 ) or
+Wheel Kick (3+4) and its followups are your best choices as that they are very
+fast, and give you followup options.  The Cruncher bounce juggles on counter
+and the Wheel Kick has a gaurunteed followup if it connects, so both are great
+choices.  The Rewinder also provides you a fast way to execute moves that you
+would have to be in a special stance to execute otherwise.  The Carnival Sweep
+is a prime example, SS+4,3 is a quick and easy way to get two almost identical
+sweep moves off for  a nice way to take someone off of their feet!  Also, try the 
+SS+4, then press 3+4~D for a great mixup, now  let me tell you why.  Instead of 
+doing two leg sweeps, you will do one, move out of counter range, and then 
+do the front stinger to the RLX position.  This is one of my favorite tricks to get 
+a free RLX attack becuase almost always people would rather eat the Front
+Stinger than get leg sweeped, and thats only if they know that you could do 
+the front stinger out of that move, otherwise, they will eat the 3+4~D and take
+whatever RLX move I throw at them!
+
+*************************************************************
+VI. In Game Strats
+
+     As you have probably figured out by personal experience or by reading this
+FAQ, its very important that Christie never stops attacking, mainly becuase it 
+takes her too long to get started again.  So really, its important to know how to
+get into her HSP and RLX without stopping your attacks, so the first part of 
+this section is going to show you just how to do that!
+
+Standing moves for going into HSP
+
+1,3 - Jab, Island Mirage
+
+     Great attack to get into HSP.  Its quick, can be mixed with a series of jabs, and
+it puts you into the HSP at a distance from your opponent to give you time to 
+get some of her slower HSP attacks off...
+
+f+3 - Brush Fire
+
+     If I know this will connect I will gladly use it.  The only problem with this 
+attack is that there is a longer period you can't attack in than other attacks.  But,
+this is great if it connects becuase there is a very slight stun on the opponent,
+long enough for you to do a Helicopter or start the Slippery Kicks...
+
+d/f+3 - Island Mirage
+
+     This is the same Island Mirage as in the 1,3 but it doesn't have the jab infront
+of it.  While this is still a good move becuase it puts a little distance between 
+you and the opponent, the 1,3 is better becuase it can be mixed into jab strings,
+and is much easier to execute than the d/f+3 version, also slightly faster!
+
+4~3,3~B - Satellite Moon, Hot Plate to HSP
+
+     This is a good move to mixup with 4~3,4 and its another way to get into the
+HSP!  Doing either the Hot Plate ( 3 ) or the Roundhouse ( 4 ) after the Satellite
+Moon is almost a  given becuase the Satellite Moon has horrible recovery time.
+Mixing up which follow up you do is important to the success of the Satellite
+Moon as a good offensive move...
+
+3~4~B - Slippery Kick to HSP
+
+     This is a great move to get into the HSP becuase many people will expect 
+followups from the Slippery Kick rather than you canceling it out...try to get 
+a Helicopter ( 4 ) from the HSP on crouching opponents!
+
+f+1+2 - HSP
+
+     This is your basic way to get into the HSP.  While it has no attack property,
+it is very fast, and it gets the job done, especially if you have lots of space 
+between you and your opponent.  Use this if you do, seeing has how its not
+a move, it can't whiff and therefore can't be countered....
+
+f+4~B - Samba to HSP
+
+     My favorite way of entering the HSP, mainly just becuase I love the Samba!
+It has good reach, power, and can by inputing ~3 chain into the Slippery Kick
+Series, giving me mixup options.  I can either do the Samba to a Slippery Kick
+chain, or I can fake the enemy out and enter the HSP for some more attacking
+opportunities!
+
+Those are in my opinion the best ways to enter the HSP from the standing 
+position whle keeping your offense going and keeping you safe from counters.
+The HSP is a great stance, a little more on why in a later section of the FAQ, but
+don't forget about your RLX.  Remember that it has some major offensive ability.
+
+Standing moves for going into RLX.
+
+1,3~D - Jab, Island Mirage Drop
+
+     This is the same move you can use to get into the HSP, but by holding down
+it changes the Island Mirage animation so that you will enter the RLX.  This is
+great that you can go into both stances from the same move because you can mix
+your stance switching to really keep the opponent guessing as to where you will
+attack from next!
+
+d/f+3 - Island Mirage Drop
+
+     The same move as in the above combination, and it still allows you to enter the 
+RLX by holding down.  Using it for entering the RLX is actually a better idea than
+using it to enter the HSP becuase many people will just think that you have fallen 
+over like that is part of the moves properties while in reality you have entered the
+RLX.  You should use this alot if you have no problems with the diagonal input.
+Its always a good idea to get some sort of attack off before entering a stance, 
+than just doing your automatic stance commands.
+
+3~4 - Slippery Kick
+
+     This is another great choice for entering the RLX position.  Since many people
+always see the Slider of Slide Flop moves being chained into the Slippery Kick, 
+they wont expect a juggle attack like the Scoop Up Kick from the RLX!
+
+1,2,4,4 - Double Jab, High Thrust
+
+     This is a much better move than the 1,2,4,3 move for entering the RLX.  Mainly
+becuase you can't be attacked while doing the last hit like you can in the other.
+however mixing up the high and low versions of this move are just one more strat
+to keep them guessing where you are going next.  Remember though that you can
+also do 1,2,4 and just do a backflip rather than attack.  Many people will  know
+what you are doing when they see you go into the air, but rather than attacking
+high you continue to flip.  This tells quick thinking people to block low to avoid
+the low hit.  Thats when you would just use the 4 by itself to make them guess
+where you are going, but make them guess wrong.  However when you do the 
+4 by itself remember to hold down to recover crouching and avoid any high
+counter hits or throws.  I would also then do a FC or WS move.  The Crying 
+Needle (FC+1+2) would be a good mixup, as would the Front Stinger (FC+3+4)!
+
+u/f+3(~D_3+4) - Skull Kick (to RLX_to Kick Out)
+
+     The Skull Kick can by itself enter the RLX by holding down during the move.
+You can also mixup the Skull Kick to RLX with the Skull Kick to Kick Out, as both
+of them leave you in RLX and they look the same until the last minute when the
+attack of the Kick Out occurs.  Really the reason why this move works so well is
+many people think that you are doing the Boomerang and they are expecting a 
+long recovery time after you do the move to attack you in.
+
+4~3,3 - Satellite Moon, Hot Plate
+
+     This is the mixup of the Satellite Moon that leaves you in the RLX position.
+Again this is a good move for stance entering becuase you can go into either of
+Christie's stances from this move, allowing you stance switching mixups like the
+Island Mirage does.
+
+d+3+4 - RLX
+
+     This is almost an evasion move, like a parry in my opinion. When you see a 
+powerful attack coming and you have enough time to execute the move, you will
+learn that you can actually go under alot of stuff.  For quick countering the Flare
+(4~3) or the Scoop Up Kick (3~4) are great options from the RLX.
+
+Those are once again in my opinion the best ways to get into the RLX.  You really
+should use as many different moves as you can to get into your stances and for
+attacking and defending, but these are the ones that stand out in my mind as 
+great options for doing specific things like entering the HSP while attacking and
+keeping you safe from counters for example!
+
+     I'd now like to talk a little bit about an RLX move called the Flare (4~3) and its
+very special attributes.  I don't know how many of you reading this are familiar
+with frame data or some of the more technical aspects of the game, but the Flare
+is one of your best moves if both hits connect.  Why you ask is simple, it gives
+you a +36 frame advantage and it puts you into your HSP.  Some of you may be
+saying "so what?" Well, what a +36 frame advantage means is that you can do 
+virtually all of your HSP moves garunteed!  All of the HSP moves are 35 frames or
+less except for the Slippery Kick.   So basicly what Im saying is immediatly after a
+Flare where both attacks hit,  there is about a half of a second that the opponent
+can't defend himself!  You should either do a Helicopter ( 4 ) to get a free knock
+down,  or the Perch Flop Kick (d+3+4) to start a juggle.
+
+     Next lets talk about the Freak Show (d/f+3+4).  This is a great juggle and a 
+great all-around offensive move.  Its important though to always input d/f+3+4~D
+to execute this move though.  Holding down allows you to recover crouching, 
+and if the Freak Show is blocked it pushes the opponent away from you farther
+than it would otherwise.  So lets go over the two situations that may arise from 
+using the Freak Show, first it connects.  If it connects and you held down, do a 
+WS move like WS+1,3 as your juggle as you can then get some RLX juggle or 
+Okizeme in.  If the Freak Show was blocked and you held down, that puts you in
+the Full Crouch (FC) so you can either go with a Front Stinger (FC+3+4) or a
+Crying Needle (FC+1+2) and its cancels and mixups with the Hammer Head
+(FC+1+2~1<2).  I would use the Crying Needle and the Hammer Head becuase 
+they are much faster and reliable than the Front Stinger for a good hit.  Remember
+to always press down, or sidestep after a Crying Needle though to cancel some
+of the recovery frames!
+
+*************************************************************
+VII. Custom Strings
+
+     Custom strings are your personal favorite strings of moves and stances that
+you use to attack your opponent.  While making some really good strings and
+chains takes time, I'm going to help you out a little by listing some of my favorite
+strings from standing, HSP, and RLX positions!
+
+Standing
+
+b+4,3,4,3~3
+Leg Whip, Weed Whacker, Leg Whip, Bush Whacker
+
+b+4,3~4,1+2
+Leg Whip, Weed Whacker to Shin Cutter, Crying Needle
+
+SS+3+4~D, FC+3+4~D, 3+4
+Wheel Kick to FC, Front Stinger to RLX, Back Handspring
+
+3~4,4,1+2~1,WS+1,3,1,4,4,3+4
+Slippery Kick, Slider, Crying Needle, Needle Cancel Cotovelo, Heran Bago,
+     Negativa Left, Leg Whip, Full Mars Attack
+
+(1,3_d/f+3), (u_d)~(3_4)
+(Jab, Island Mirage_Island Mirage), Carnival Sweep
+
+4~3,3,3,4
+Satellite Moon to Hot Plate, Rio Delight
+
+SS+4,3+4~D,3+4~3,3~4,4,4
+Swirl Kick, Front Stinger to RLX, Back Handspring Splits Kick, Slippery Kick, 
+     Slide Flop
+
+4~3,4,2,4,3,4,3,4,4,4+3,d+3
+Satellite Moon to Roundhouse, Spin Slap, Leg Whip, Weed Whacker, Leg Whip,
+     Weed Whacker, Leg Whip, Full Mars Attack, Low Leg Whip
+
+HSP
+
+1,3,4,3~4,WS+1,3,1
+Left Flop Punch, Weed Whacker, Leg Whip, Weed Whacker to Shin Cutter,
+     Cotovelo, Heran Bago, Negativa Left
+
+1,3~B,2,4~B,d+3+4
+Left Flop Punch, Weed Whacker to HSP, Right Flop Punch, Swirl Kick to HSP,
+     Perch Flop Kick
+
+RLX
+
+1,4,3~4, WS+1,3,1
+Negativa Left, Leg Whip, Cotovelo, Heran Bago, Negativa Left
+
+1,4,4~D,1,4,4+3
+Negativa Left, Leg Whip, Mars Attack to RLX, Negativa Left, Leg Whip, Full
+     Mars Attack
+
+2,4~3,4, FC,f+3, b+1+2, b+4,4,4+3,d+3
+Negativa Right, Samba, Slippery Kick, Slider, Martelo, Straight Punch, Leg Whip,
+     Full Mars Attack, Low Leg Whip
+
+*************************************************************
+VIII. Juggles
+
+     While Christie is one of the most powerful offensive characters Tekken 4 has
+to offer, she somewhat lacks the same ability in Juggling as the other characters.
+She has only a handful of jugglers and her followup options aren't as good as 
+many of the other characters.  Here I will list some of my favorite juggles and 
+some of the juggles from Castel's Christie combo arts act.1 movie at the Tekken
+Zaibatsu....
+
+SS+2 (CH), ff+4~3, (RLX) f+1+2
+Cruncher, Back Summy to Fire Kick, Crying Needle
+
+SS+2 (CH), ff+4~3, (RLX) f+1+2~1, f+3, ff+4~3
+Cruncher, Back Summy to Fire Kick, Crying Needle, Needle Cancel, Martelo,
+     Back Summy to Fire Kick
+
+SS+2,b+4,4,4+3
+Cruncher, Leg Whip, Full Mars Attack
+
+(1+2~3_d/f+3+4)~D, f+3, b+1+2, b+4,4,4+3, d+3
+Freak Show to FC, Martelo, Straight Punch, Leg Whip, Full Mars Attack, Low Leg
+     Whip
+
+(1+2~3_d/f+3+4) 1,1,2,4,4
+Freak Show, Jab, Double Punches to High Thrust
+
+(HSP)d+3+4,1,cc,1,ff,1,2,4,4
+Perch Flop Kick, Left Flop Punch, crouch cancel, Jab, dash, Double Punches to
+     High Thrust
+
+3~4,4,f+3,1,2,4,4
+Slippery Kick, Slider, Martelo, Double Punches to High Thrust
+
+3~4,4,WS+3+4,3+4
+Slippery Kick Slider, Front Stinger, Back Handspring
+
+3~4,4,WS+1,3,1
+Slippery Kick, Slider, Cotovelo, Heran Bago, Negativa Left
+
+     While there are other juggles out there these are the only ones that I can really
+share with you (can't give up all my secrets you know!).  I'd like to say that I came
+up with all of these combos but everyones friend Castle actually came up with 
+some of them and probably spawned out into the ideas that formed the other
+juggles listed here.   This is probably the last you will really need to read to learn
+anything about Christie as the rest of this FAQ is the Credits part and will 
+probably be pretty boring!
+
+*************************************************************
+IX. Credits
+
+Me (VTDragon) - for writing this great Christie Monteiro FAQ...
+Tekken Zaibatsu and Castel - for giving me some ideas to try out with Christie,
+     as well as for being the best place on the web for Tekken related info....
+My friends at the arcade - for being annoyed the crud out of while I perfected my
+     Christie game on you....my army of guinea pigs!
+
+Well, thats it, if you have any questions about Christie, questions on fighting
+specific characters, or any other tips you would like me to add to the FAQ, just
+email me at gamestan@aol.com or IM me when im online at gamestan....cya!
+
+
+
+
+
+
+

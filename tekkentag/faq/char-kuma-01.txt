@@ -1,0 +1,2501 @@
+
+
+Kuma: Call of the Wild - a Strategy guide for Tekken Tag Tournament  
+Version 1.5
+	
+By abrar (e-mail- abrarz@yahoo.com)
+INSIDE TEKKEN - http://www.geocities.com/TimesSquare/Bridge/2700  
+
+Revamped and Updated by Grim Walker
+www.forbidden_crypt@www.com
+......................................................................
+
+
+-Contents-
+
+1) Legal Matters
+2) Author's note
+3) Conventions
+4) Essence of Kuma
+5) Movelist
+6) Move Analysis 
+7) Combos and Juggles
+8) General Strategies
+    - Offense
+    - Defense
+    - Spacing
+    - Recovery
+    - Tagging (Character switch)
+9) Advanced Strategies
+    - Poking
+    - Custom strings
+    - Keep-out gameplay
+    - Dominating the game
+    - Vs Character Strategy
+    - Okizeme
+10)Tricks of the Bear
+11)Ideal tag-team partner?
+12)Summary
+13)Tekken resources
+14)Credits
+
+................................................................................
+
+=================
+1) LEGAL MATTERS
+=================
+
+This strategy guide is meant to be a free for all the Tekken players
+worldwide and you may freely distribute this document without any
+changes so long as it is for personal use.  Basically this whole
+text document is (C) 1999, 2000 abrar. And please, if you are going
+to use any information in this guide (in any form) for making a FAQ
+of your own, please credit me appropriately.  Plagiarism is a
+serious issue when it comes to online game faqs (take note Fighters.Net),
+not to mention ethically wrong. If I ever get to know of any wrong
+doing concerning my guide, I will take legal action accordingly
+(Yeah Right !!!!).  Well, atleast I'll make sure that the culprits and
+all their publications will be boycotted by INSIDE TEKKEN and all other
+associated websites.  The facts expressed in this guide belong to
+everybody, the opinions belong to me, the distinction is yours to
+draw.....
+
+
+................................................................................
+
+
+=================
+2) AUTHOR'S NOTE
+=================
+
+A word from Abrar:
+
+Finally I have set out on my quest, to illuminate Tekken players worldwide
+on the character that is KUMA.  If you were around during the Tekken 3
+days, you might remember that my Tekken 3 FAQ on Kuma (Honey to da bear)
+was the only legitimate FAQ on this ultimate beast of the Tekken series.
+Granted that it was small (just 9K), but still it gave you all the tools
+to be a good player of kuma.  And over the months after its release, I
+received countless (OK, OK just hundreds) of e-mails requesting me to
+further deepen my FAQ.  But as the release of Tekken Tag Tournament (TTT)
+was nearing, I was not interested in doing any updates for my Tekken 3 FAQ
+and frankly, I was not expecting Kuma/Panda to be in TTT at all (after
+seeing Panda in a cage in Ling's stage). But lo and behold NAMCO did it
+again and Kuma/Panda got to be in TTT after all.
+
+In the online Tekken community, players will know me as the webmaster
+of INSIDE TEKKEN, a site that started slow and has now gained a pretty
+good status online as a good source of TTT info and of course the Forum
+which simply exploded with visitors as soon as it opened.  I'm thankful
+to all the members who frequent my site and also contribute articles and
+strategy columns on TTT, I could not have made my site without you all.  
+
+My site, INSIDE TEKKEN will always host this guide among other exclusive
+Tekken FAQS, so the latest version can always be found at my site.
+Lastly, all the info provided in this guide applies to Panda as well.
+
+A word from Grim Walker:
+Good eve to you all. You must be wondering by now, what I am doing here in
+revamping this faq, and updating it. Well it is almost abandoned by my good
+friend and tekken rival Abrar. Whom I might add is still one of the BEST kuma
+players around. Alas this is due for a good working update. I feel that the
+thing however that made this faq so great is how it was written. So to be
+honest I am just going to modify, and add a few things that Abrar didnt
+actually know about when first writting this faq. And perhaps fix up some
+errors that have occured. So if you think this is blatant breakage of
+the copy write laws listed in this faq. I have full permision from Abrar,
+the writter of this faq, to modify and update it. Before releasing it.
+
+...............................................................................
+
+
+
+===============
+3) CONVENTIONS
+===============
+
+These are the conventions used throughout this FAQ and these are
+recognised as the general commands used in discussions regarding
+TTT between online Tekken players.  I think this convention was
+first formulated by Tragic, webmaster of Tekken.net and I have
+also added a couple of my own commands that I use.
+
+
+-commands-
+
+f -  tap forward        F -  hold forward
+b -  tap back           B -  hold back
+u -  tap up             U -  hold up
+d -  tap down           D -  hold down
+
+d/f - tap down+forward  D/F - hold down+forward
+d/b - tap down+back     D/B - hold down+back
+u/f - tap up+forward    U/F - hold up+forward
+u/b - tap up+back       U/B - hold up+back
+
+QCF - quarter circle forward (d,d/f,f)
+QCB - quarter circle back    (d,d/b,b)
+HCF - half circle forward    (b,d/b,d,d/f,f)
+HCB - half circle back       (f,d/f,d,d/b,b)
+
+
+
+Button Layout--> (1)  (2)  (5)
+         
+                 (3)  (4)                            
+
+
+
+1 = left punch                        
+2 = right punch     
+3 = left kick                         
+4 = right kick                       
+5 = tag button                       
+
+
+
+Con: * -Hold the movement shown before the asterisk till the end of the              
+string.
+
+Con: 315deg - f,d/f,d,d/b,b,u/b,u,u/f
+
+Con: ~ -commands after this sign is done immediately before/after each other.
+
+Con: n -Neutral position.  There should be no joystick motion for about 1/2 
+second.
+
+Con: + -When commands on either side have to pressed together.
+
+
+-Abbreviations-
+
+GS - Guard Stun
+Tag- Can tag if last hit connects
+TTT- Tekken tag tournament
+FC - Full crouch
+SS - Sidestep 
+SSL- Sidestep left
+SSR- Sidestep right
+WS - While standing (rising from crouch)
+var- variable
+BT - Kuma has his back to opponent
+CH - Counter hit
+
+
+
+-Hit ranges-
+
+L - Low hit
+m - Mid hit
+h - High hit
+SM- Special mid hit
+! - unblockable
+G - ground hit
+
+
+
+...............................................................................
+
+
+===================
+4) ESSENCE OF KUMA
+===================
+
+Kuma is a beast (obviously) and should be played like one.  From that I
+mean, being aggressive no matter who you are playing and which character
+you are facing.  Aggressiveness can be done both ways- on offense and
+defense.  This is very important to playing as Kuma because if you
+simply constantly block, opponents will take advantage of their superior
+speed to make your Kuma a punching bag in no time at all.  NAMCO has
+now made Kuma more unique and beast- like by the addition of the
+Hunting Bear stance which will be discussed later.
+
+Let us not forget the main element that most of us play this game for
+which is FUN. If you are looking for fun and at the same time a challenge,
+then playing Kuma is definitely for you.  
+
+However, kuma has become a respected powerful and deadly character in
+tourneys, and competition. And amongst better players, none laugh when
+a kuma comes to the stand to show its skills. This was not the case once,
+infact he was laughed at and ranked as bottom tier. And most likely still
+is. However, this is soon to change more I am sure.
+ 
+Another aspect to this fun element of Kuma is his winning  stances and
+the massive variety of his tag team opening sequences. The opening
+sequences are VERY funny and get any match off to a good relaxed start
+with you as the competitor in the best frame of mind. That is, if you
+opponent doesnt flick through the scenes.
+
+Kuma is the least chosen player in any arcade and thats a fact.
+"Why??" you ask me.  Firstly, Kuma is a large character, lacking of
+powerful sidestep like Ogre or Ling brings his mobility down, and
+drains his momement making him very linear.
+
+Secondly, beginner players chose Kuma and do all the common moves like 
+1,1 or 1,2 which are different in characteristics to Kuma.  Like for
+example, with Jin, his 1,1 is a fast two-jab straight string but in Kuma,
+the 1,1 is actually a slow wide-arc swipe.  And due to this discrepancy
+in moves, people who may have felt like playing Kuma instead revert back
+to their old characters like law and Paul. Whom in turn are easy scub
+characters to use.
+
+I personally believe that Kuma can be played at very high level to
+perfection, by using Kuma in a way that I will try to outline in this guide.
+No matter where you are on the Tekken player hierarchy - whether it be
+advanced or beginner- i'm sure by applying the techniques and advice here,
+you will certainly enjoy your kuma playing experience.
+
+.......................................................................
+
+=============
+5) MOVELIST
+=============
+
+Here is the complete official movelist for Kuma/Panda with commands,
+damage and hit levels in TTT, adapted from TTT online.  If something
+is incorrect or if I have missed out something, please e-mail me about it.
+
+
+Move name              Command           Level     Damage         Note   
+
+Bear Hammer            1,1,1             hhm       18,15,18       #1
+G-Clef cannon          f+1,1,1~5         hmm       10,8,14        tag
+Rushing uppercut low   d/f+1,2,1,2       mmmm      10,15,10,15
+Hammer rush 1 high     FC+1,1,1,2,F+1    LLmmh     12,8,12,12,12
+Hammer rush 1 mid      FC+1,1,1,2,D/F+1  LLmmm     12,8,12,12,15
+Hammer rush 1 low      FC+1,1,1,2,D+1    LLmmL     12,8,12,12,8
+Hammer rush 2 high     FC,D/F+1,2,F+1    mmh       15,12,12
+Hammer rush 2 low      FC,D/F+1,2,D+1    mmL       15,12,8
+Hammer rush 3 high     FC,D/F+2,F+1      mh        15,12
+Hammer rush 3 mid      FC,D/F+2,F+2      mm        15,15
+Hammer rush 3 low      FC,D/F+2,D+1      mL        15,8
+Triple uppercut        FC,D/F*+1,2,1     mmm       15,12,15
+Windmill punches       FC,D/F+1,2,1,2    mmmh      12,15,15,30
+Uppercut,Grizzly claw  WS+1,2            mm        12,27          #2
+Jab elbow smash        2,1,2             hmm       12,21,20       #3
+Demon uppercut         f,f+2~5           m         22             tag
+Rushing uppercut R     D/F*+2,1,2,1      mmmm      10,15,12,15
+Grizzly Claw           b,d/b,d,D/F+2     m         40
+Double hammer          1+2,1+2           mm        21,17
+Overhead smash hunting 1+2,F             m         21,stance      #4
+Double Claw            ff or F+1+2       m         25
+Bear Headbutt          d/f+1+2           m         20             GS
+Big bear attack        u/f+1+2           m         28
+Deadly Claw            B+1+2             !         43    
+ -hunting              ,3+4              _         _
+ -Rolling bear         315deg+hold U/F   m         40
+Rising double hammer   WS+1+2,1+2        mm        21,17          #5
+Pan-cake press         u/f+3+4           m         26             #6
+Salmon hunter          b,f+2+3           L         60
+Dance with me          d+4               GG        20,60          #7
+You're Welcome         1+3+4             _         _              taunt
+Sit (Stance)           d+3+4             _         _             
+Demon back-hand        b+2               m         ?              #8
+Super-charger          1+2+3+4           _         _              #9
+Hunting bear(Stance)   3+4               _         _              
+Bear fart              b,b+2+3+4         !         ?              
+Standing right-kick    4                 h         ?              #10
+
+
+#1 = 2nd hit staggers when blocked.
+#2 = The grizzly claw after the uppercut is delayable.
+#3 = 2nd hit staggers when blocked and Kuma can tag after 3rd hit connects.
+#4 = Holding forward after the smash will end Kuma in Hunting stance.
+#5 = You can hold forward to end in Hunting stance after the 2nd hit.
+#6 = Ends in the Sit stance.
+#7 = Can only be done when the opponent is downed (grounded). 
+#8 = This move can only be done with Heihachi on Kuma's team.
+#9 = Makes the first subsequent attack a counterhit and Kuma is unable to 
+     guard during charge up.
+#10= This kick juggles on counter-hit.
+
+
+-Throws-
+
+Throw name             Command           Throw-type  Damage  Escape 
+
+Bear's bite            1+3               front       40      1
+Bear hug               2+4               front       35      2
+Choke slam             1+3 or 2+4        left        50      1
+Bear slam              1+3 or 2+4        right       40      2
+Reverse throw          1+3 or 2+4        BT          var     var
+Swing swung            1+3 or 2+4        back        70      none
+Rock 'n' roll circus   HCB,F+1+2         front       60      1+2
+Head butt              f,F+1+4           front       60      1+2
+
+NOTE: 
+- The reverse throw is done when Kuma has his back to the opponent and
+he turns around after throw attempt.  The damage and escape depends on
+the type of throw i.e. on the part with which you catch the opponent.
+- The Rock 'n' roll circus throw enables you to tag after its execution.
+
+
+
+-Hunting Bear Stance moves-
+
+Kuma can go into hunting stance by 3+4 (in standing, while crouching or
+lying on face).
+
+
+Move name             Command            Level       Damage  Note
+
+Bear Claw left        1                  L           10      #11
+Double bear claw      1,2                LL          10,10
+Bear Claw right       2                  L           16
+Bear Fling            1+2                m           24      #12,tag
+Mauling bear throw    f+1+2              _           40      #13
+Bear tackle           3+4                SM          21     
+Hunting lunge         F or B             _           _       movement
+
+#11 = Kuma remains in hunting after a Left bear claw.
+#12 = Can tag after bear fling and the damage increases to 28 pts.
+#13 = In order for this throw to connect, it must be a very close hit.
+
+
+-Sit Stance moves-
+
+Kuma enters Sit stance by d+3+4 or by a pancake press (u/f+3+4).
+Kuma can roll forward and backward from Sit stance. There are only two move 
+strings from here:
+- 1,2,1,2
+- 2,1,2,1
+All the above hits are low and each hit does 10pts damage.
+
+.......................................................................
+
+=================
+6) MOVE ANALYSIS
+=================
+
+In this section, I will analyse only those moves that I deem worthy and 
+effective and ofcourse all his new moves that he has acquired in TTT.
+Hence, not all the moves from the movelist above will be analysed.
+Some unconventional moves like CH 4 will also be discussed.  I think
+it's best to use a visual analogue scale (VAS) to rate the moves on
+the basis of their usefulness and strength.  The rating used in a VAS
+is from 1 to 10, where 1 is least useful and 10 is most useful (or main
+attack) in the arsenal.
+
+
+VAS  = 1-2-3-4-5-6-7-8-9-10
+
+
+-----------------------------------------------------------------------
+G-Clef cannon (f+1,1,1)                                 VAS rating = 8
+
+This is arguably the best move in Kuma's arsenal.  The main reason
+for that is the high speed of its first part- the f+1 and good recovery
+of the whole string.  This move has become more significant in TTT due
+to the tag feature as after the last hit connects, Kuma can tag. This
+allows for Kuma's tag partner to come in and finish the combo.  This
+depletes your opponent's red bar which is a great advantage in TTT.
+This string juggles even on normal hit although its best to use it on
+counter-hit (CH). For getting the best use out of this string,
+watch for what your opponent does generally when fighting.  Does he/she
+attack as soon as the round starts? OR do they attack after your poke
+is blocked. If the answer is "Yes" to both the questions, then f+1,1,1
+is the string for you.  If the opponent has a habit of attacking you as
+soon as the announcer yells "Fight", then you should stick in a f+1,1,1
+which will guarantee a CH juggle everytime. 
+
+It is also advisable sometimes to stop the string after f+1 if you are
+facing a character with punch parry. Stopping at f+1 also
+yields other benifits such as guaranteed hits. In close, f+1 on CH
+guarantees a f+2 or a d+1 for two hit combos.  A single f+1 is also the
+best hit to prolong a juggle for Kuma.  The best analogy that I can give
+is- think of Kuma's f+1 as a standard left punch done differently. Use it
+often as your main poking start string, and learn to use it often instead
+of his 2 or anything else like that.
+
+Against characters like Mishima's, you might like to stop the string on
+a f+1,1 as this will leave you safer than that of the full f+1,1,1 string, 
+wich leaves you open for a guaranteed 1,1,2 Shining Fists. After a while,
+you should learn on reflex when to finish the string cause the second hit
+did not miss.
+
+Lastly, this f+1,1,1 string is one of the easiest ones to do when Kuma
+tags in after his partner launches an opponent. Thou this does not do
+much damage, it still has its uses. Like doing a mean juggle. Then again,
+with a quick Tag Run Cancel (Explained Later) you can use this to its
+almost full advantage.
+
+This can also be used as somewhat of a "Panic" button. I think we all
+have tagged, panicked when we tagged in again, and saw pauls "Super
+Death Fist" charged up and ready to launch. This is Kumas best move
+to use as a panic last hope of survival. 
+
+So overall, I think this move deserves it's 8/10 VAS rating.
+
+-----------------------------------------------------------------------
+Uppercut to Grizzly Claw (WS+1,2)                        VAS rating = 7
+
+In Tekken 3, I would have given this move a VAS score of 10 as back
+then, the two hits still comboed when you delayed the grizzly claw and
+you could wait to see if the opponent was launched and only then input
+the 2.  But now in TTT, it has been toned down.  The WS+1,2 only combos
+when you do it without the delay after WS+1.  This is a big set-back
+for Kuma, as now you have to take the risk of executing the whole move
+for big damage OR just do the WS+1 and continue with other weaker juggle
+options. Then again, a more skilled Kuma will manage more damage with
+the juggle. Some examples perhaps in the next update.
+
+But it is still a good launcher due to it's explosive speed.  When
+setting up this string, remember that on some occasions even when Kuma
+is VERY close to the opponent, your WS+1 may miss entirely.  
+
+However, the best times to use this none the less, is if there is a HIGH
+string going over your head. Example BOB. Or if you have blocked something
+that has left the opponent with a sweep stun. This is an excelent move
+on Mishimas when you block a Hell Sweep, or if they are poking
+constantly with the 1,1 string.
+
+This move leaves your opponent at quite a distance for retaliation. But
+then again, you have to run up to follow up with okizeme.
+
+Setting up this strings will be discussed in more detail in the Strategy
+section.
+ 
+----------------------------------------------------------------------
+Double Claw (ff or F+1+2)                               VAS rating = 10 
+
+Yes, I know I gave it the highest rating and I'll explain why in a moment.  
+Firstly a new change to this move. It now hits high instead of mid.
+But that really does not change it's usefulness at all.  Because this
+move is used generally only when the opponent is not expecting it and so
+it hits anyway- high or mid doesn't matter.  Even though the Double claw
+WAS a mid hit in Tekken 3, it still whiffed on ocassion especially during
+the final frames of an opponents recovering 3 kick.  So a change to a high
+hit won't alter anything in your gameplay, as long as it's used wisely.
+In most cases, when your opponent whiffs a move (whether fast or slow
+recovery), Kuma's best strike option is his double claw.  An added
+advantage of this move is that it can also be done after a short
+dash and hence it's very hard for opponents to guess its range.
+It acts like a forward dash buffer and gives you a little more versatility
+which is essential to any character in the game and something which Kuma
+definitely deserves to have. 
+
+Some special aspects of this move however, is it hits MID on T. Ogre for
+some strange reason. And leaves for some dangerouse damage. Also if anyone
+is doing a d+1 while you do this move, you will hit your opponent, as it
+lifts them high enough to count them as standing.
+
+This is an EXCELENT tracking move for picking people out of there SS and
+doing good damage and Okizeme to them.
+
+It can also be used very well as a juggle ender.  It increases the 
+damage of a juggle significantly and is the best option after a f+1 in
+juggles. The Double claw also gives Kuma a psychological edge over the
+opponent and it's the ultimate intimidatory move in Tekken in my opinion.
+It also gives some guaranteed hits when it connects even on a normal hit
+which will be discussed in the "Tricks of the Bear" section.
+
+-----------------------------------------------------------------------   
+Jab Elbow Smash (2,1,2)                                  VAS rating = 9
+
+This is a good string which you will come to rely on very much when
+playing TTT at high level.  The first hit is high but incredibly fast,
+and in fact faster than the same left jab which most characters have.
+This is, what I call an "alternate" poke string.  Because most characters
+have  1,2 jab strings BUT both hits are high even though fast.  BUT with
+Kuma, his 2,1 part of the above move is just as fast with the added
+advantage of the second punch being a mid hit.
+
+So the opponent is forced to block the whole string or take damage at
+some point.  In otherwords, the whole string cannot be ducked at all.
+Another thing to keep in mind is that the first 2 jab can also be done
+by f+2, which increases the damage by atleast 6pts and moves Kuma forward
+making it a good forward momentum poke.  And Oh yeah, did you read the
+little note beside this move in the movelist above???  It says that the
+second hit staggers when blocked and you can tag juggle on the 3rd hit.
+That's true and in my opinion one of the biggest advantages that Kuma has.  
+However the 3rd hit CAN be interupted, and is not something you should
+use often. Posing as a seriouse danger. Especially if someone can do
+an 11 frame WGF with kazy, no never use the last part, unless you feel
+riskey.
+
+
+Block stagger puts the opponent under pressure and is a great offensive
+tactic against any player - be it masher or expert. As unfortunate as it
+sounds, there are no Guaranteed follow ups to the block stagger to my
+knowledge. However, it does leave you completely safe after this move is
+blocked.
+
+A quick note however, the elbow mid hit "1" is short ranged, and may wiff
+if you initiated the string from a distance. However it is safe even then.
+The last 2 of this string is slow, and mostly unusable. It is great for
+chicken bait however, if you buffer the chicken on it. You can esily get
+some free damage on a reverse.
+
+This string definitely gives your Kuma the upper-hand for a short while
+and you can make the opponent guess as to which move you will pull next.
+Alternating between a throw and a mid hit is a good option.  Also to not
+forget the opportunity the stagger may give you to into Kuma's animal
+stance uncontested. At any rate, this move is fairly safe when done right
+and very useful, so it thoroughly deserves its VAS rating of 9 out of 10.
+
+-----------------------------------------------------------------------
+Demon Uppercut (f,f+2)                                   VAS rating = 9
+
+Most people will agree with me when I say that this move is Kuma's
+trademark move.  It is a very high launcher which makes it perfect
+for big damage tag juggles.  It seems that this move has gained some
+form of priority in TTT.  It still whiffs for no reason like it did
+in Tekken 3.  BUT I guess the slight improvement in the overall gameplay
+speed of TTT makes this move more worthwhile to use.  Many people
+especially beginner Kuma players will ask , "How do I set this move up
+so it'll hit everytime??"
+
+Well there is no definite answer to that question but some tactics
+regarding set-ups for this move will be discussed in detail in the
+Advanced Strategy section below.  One other factor about this move
+is that it can be done from a crouching position as well and it comes
+out just as fast.  So as soon as you enter crouch you can quickly tap
+forward twice to pull out the Demon uppercut.
+This comes in handy quite a lot and makes the move connect more often
+and more unexpectedly for the opponent (well I guess I just answered
+the question from the last paragraph).  The Demon uppercut is also
+guaranteed after particular moves like Kuma's F+1+2 Double Claw
+(SEE "Tricks of the Bear" section).
+
+This move also hits as a powerful Okizeme move, doing good damage,
+and having the ability to tag even off that. The okizeme hit. There
+are many juggles that are doable out of this move. And its range is
+definatly very good. Thrown in with its high prority, its good block
+stun. And the fact that is is completely safe if blocked makes this
+one of his best moves.
+
+However if it is sidestepped, the forward momentum of the move often
+leaves your opponent at your side. Leaving big damage on kuma.
+
+-----------------------------------------------------------------------
+Overhead Smash (1+2)                                     VAS rating = 7     
+
+Overhead smash has various extensions as you would have seen from the
+movelist. The most recent addition is the ability to go into kuma's
+Hunting Bear stance by holding forward after its execution.  It also
+makes a very good okizeme tool as it also hits grounded opponents.
+The Overhead Smash is guaranteed after a Double Claw (F+1+2) connects.  
+
+This move is excelent against opponents that like to attack from a distance,
+as the range on this move is quite large, and if this hits, the bear tackle
+from the 1+2~f (3+4) is guaranteed. That attached with all the useful stuff
+from above makes this again a very useful move for kuma to pull out at the
+right times. Use this sparingly as a wiffed move punishment or on taggers,
+or to get into the hunting bear stance, in wich case it has NO lag to it
+whatsoever. Althou you can not block in the HBS. There are MANY uses.
+So all in all it deserves its VAS of 7.
+
+-----------------------------------------------------------------------
+Grizzly Claw (b,d/b,d,D/F+2)                             VAS rating = 8
+
+I like this move quite a bit mainly because of the ease of it's execution
+on the arcade stick.  It's one of the few power hits that Kuma has and
+does big damage at 40pts.  This move comes out fast and one of it's
+best uses so far is to hit your opponent's character that tags in.  And
+as in Tekken 3, it still hits a forward-backward and tech rolling opponent.
+It's a great move to use when you have lured the opponent to attack you
+and as they rush towards you, it'll slam the opponent bad.  Kuma ducks
+downward and back a little when performing this move, an added bonus to
+hopefully evade some attacks.
+
+The range on this is absolutely huge, and can be used much like pauls
+deathfist. It should not be overused or abused. Simply a sneak attack.
+This is excelent from Kumas 1+3+4 Dancing Bear taunt, as that can often
+cause an opponent to come at you with a nasty move. Resulting in you
+hitting your opponent with a CH to boot.
+
+This tumbles your opponent backwards in turn, your opponent can hold ~B
+to "slide recover" putting them in a crouch possition. In this case, you
+can charge them down with Kuma, and do a shoulder barge. And hope it works.
+
+-----------------------------------------------------------------------
+Hammer Rush 1 - first two hits (FC+1,1)                  VAS rating = 8
+
+As any experienced tekken player will tell you,  mixing up your attacks
+between high, mid and low is very important to the over-all effectiveness
+of all your strategies.  And this move, the first two hits of Hammer Rush
+1 hit low and give you this alternative.  They are of high priority once
+Kuma assumes the Full-Crouch position.  I like to use them anywhere I can
+in poke patterns and it also helps to set up while standing attacks.  They
+account for the little tick damage which really adds up by the end of the
+match.  A good feature of this move is that it renders the opponent
+incapable of attacking you for a short time when it hits kinda like a stun.
+A safe way to do this string is by entering full-crouch via the universal
+d+1 poke.  It's great to use when at close to medium range from the
+opponent.  DO NOT under any circumstances continue beyond the two low
+hits, because additional hits are mid-hitting and slow, making them
+susceptible to reversal or punch parry. On reversal, chicken.
+
+-----------------------------------------------------------------------
+Bear Headbutt (d/f+1+2)                                  VAS rating = 9
+
+This is one of several new moves for Kuma in TTT.  When it connects,
+it knocks down the opponent to their knees kinda like Jin's f+2.
+Otherwise when blocked by opponent, it causes guard stun and gives you
+the advantage for the next move. The speed and ease of execution and
+its relative safety when blocked gets a VAS rating of 9 from me.
+This headbutt is also handy as Okizeme and Juggle ender.
+
+However its range is not extremely long, and there are no followups on the
+huge guard stun it causes.
+
+-----------------------------------------------------------------------
+Big Bear Attack (u/f+1+2)                                VAS rating = 6
+
+Another stand alone new move for Kuma.  The animation looks kinda but
+not quite like a belly flop, but let's stick with the official names,
+shall we.  This in my opinion is the most useless addition to kuma's
+arsenal.  The reason being it's slow recovery time which leaves you
+totally helpless if your opponents block it.  So far, the proven use for
+it, is in juggles, which start off by his Demon uppercut (f,f+2) So if
+you want to risk it, it's best used after immaculate multi-level set-ups
+invloving his f+1 and d+1.  This move is definitely not one to be pulled
+out at random. This can sort of be used as an anti air as well, but whats
+the use in tekken? Keep this to juggles, or use it to insult your opponent.
+
+It actually comes out sort of fast also, and is a good move for a "killing
+blow" to finish your opponent off. This is one of the moves that gives Kuma
+the killing blow touch with wangs waning moon.
+
+Wangs Waning Moon d/f,d/f+2+4~5 Kuma ~u/f+1+2, 1+3_2+4
+
+The belly flop will fly right over your opponent, and the 1+3_2+4 is a back
+throw. I have heard this is escapable, but who knows. I will look into it.
+
+-----------------------------------------------------------------------
+Demon Back-hand (b+2)- only with Heihachi                VAS rating = 7
+
+This is a team specific move for Kuma, only done with Heihachi as tag team 
+partner.  The animation is similar to Heihachi's b+2 back-hand but this Kuma 
+version is faster and knocks the opponent far away.
+
+This leaves big block stun also, leaving kuma safe after it is blocked. Quite
+happily to rummage the opponent. There is nothing guaranteed after the block
+stun to my knowledge.
+
+It can be easily chickened, something to keep in mind when facing a reversal
+happy player. The exact damage for the back-hand is unknown at this stage
+but judging by what you see on the screen, it's big enough to be classed
+as a power move.  Beauty of this move is that you can set it up with Kuma's
+f+1 "and I believe the back-hand may be guaranteed after a f+1 on counter-hit
+BUT I cannot be 100% sure at this early stage of the game.  Look for future
+updates to this guide for more info regarding this move."
+
+EDITORS NOTE: Still not sure, as this is abrars info and I just saw it now,
+I will look into it, and ask him, wait for it in the next update.
+
+-----------------------------------------------------------------------
+Salmon Hunter (b,f+2+3)                                  VAS rating = 7
+
+The Salmon hunter is another of Kuma's power moves.  If you perform it 
+immediately after a succesful Demon uppercut launch, it is guaranteed
+to hit but it's not a true combo (I dunno why).  Although some may claim
+that it can be blocked by tech-rolling into crouch, but that's not true.
+There is a possibility of the opponent escaping by tagging out but if you
+time it to the exact frame when they touch the ground, it will surely hit.
+This move also hits grounded opponents and so very effective as okizeme.
+At 60pts damage, it's worth pulling it out whenever you get the chance but
+beware of the NEW universal low parry.
+
+This is also guaranteed after a few tag throws. One for example is
+
+Paul f,f+1+2~5 Kuma b,f+2+3
+
+Doing HUGE damage, and guaranteed. Half life or so I believe. There are
+more throws it is guaranteed after I am sure, but I know not of wich ones.
+
+EDITORS NOTE: The combo f,f+2, b,f+2+3 may be escaped via doing an u+2 stand,
+explained later. This is however, not proven. Just a side note.
+
+-----------------------------------------------------------------------
+Pancake Press (u/f+3+4)                                  VAS rating = 7           
+ 
+This move is the safest move to enter the Sit stance (when it misses).
+Also it's a ground hit which it has to be if a 210Kg bear smashing his
+butt on top of you (hehe).  
+
+It's best use is in Okizeme, if it connects Kuma's rolls out of safety
+otherwise I suggest you immediately go into his sitting punches
+(1,2,1,2 or 2,1,2,1), or roll back, as the 1,2,1,2 is esily parry'd.
+
+-
+
+The move itself should NEVER be used as an attack, and the sitting stance
+is useless, the only reason it has a VAS of 7 is because of its okizeme
+abilitys, and even that is byast. IMHO (Grim Walker)
+
+-----------------------------------------------------------------------
+Bear Fart (b,b+2+3+4)                                    VAS rating = 8
+
+For a die hard fan of Kuma like me, this move is worshipped more than
+anything. It causes instant death if the opponent tries to attack you
+once it's initiated. Also what can be more humiliating than getting
+beaten by a fart.  I suggest that you never try this against good
+players though, as they will simply wait you out and then continue
+as if nothing happened.If you have a round or two to spare, then
+it's your moral obligation to perform this bear ritual, heh.
+
+Actual uses of this move, is on a quick recovery forward dive, backroll
+to a forward dive or the "kick up" b,b+3+4 (Thats it right?) You can
+initiate the fart, and anyone not having enough wits to move out of the
+way REALLY fast will die, a horrible death I might add.
+
+The REAL downfall of this move, is you get hit on a MAJOR counter, I would
+go as far to say its a special counter if you get hit while preforming it.
+Damage against kuma SKYROCKETS and I have lost more than %80 life to a
+Netsu Hei and his 3 Hellsweeps to a Thunder God Fist, d+1.
+
+Use this with caution in any real match, or do the dancing bear into this
+for style.
+
+-----------------------------------------------------------------------
+You're Welcome (1+3+4)                                   VAS rating = 9
+
+This is the ultimate taunt in Tekken.  It's very funny from your point
+of view and VERY annoying from your opponent's point of view.  Kuma
+dances on tip toes backwards away from the opponent.  Hence, it keeps
+you safe from any retaliation from the opponent.  You can do this after
+almost any juggle.  During the whole time of it's animation, Kuma has
+the ability to perform any move instantly if need be.  So good players
+will never rush you when Kuma is in this taunt animation.  But if you
+get rushed, pull out the Double Claw (F+1+2) which breaks the taunt
+animation instantly and it will hit, because the opponent is unable
+to guard during a forward dash.  
+
+You should do this taunt atleast once a match to obtain some psychological 
+advantage.
+
+EDITORS USELESS NOTE: Grim Walker (ME! ^.-.^) was playing Josh, a good
+sound yoshi player once. On a last ditch attemt of a round win, the
+turning suicide was attemted. In wich Grim Walker "Danced Backwards"
+out of, with this taunt, alowing yoshi to die his slow painful death.
+Very legenday ender. ;)
+
+
+-----------------------------------------------------------------------
+Supercharger (1+2+3+4)                                   VAS rating = 8
+
+This a common move for all characters.  When charged, the first hit
+that your opponent fails to block will be treated as a counter hit (CH)
+and the charge will wear off instantly.  When Kuma is charged, if your
+opponent manages to guard your attack, opponent will incur guard
+damage.  BUT Kuma is unable to guard during charge up and also if
+the opponent hits Kuma, the first hit is treated as a CH.  Best way
+to safely supercharge is immediately after a juggle that leaves the
+opponent far away.
+
+-----------------------------------------------------------------------
+Standing right kick (4 or f+4)                          VAS rating = 10 
+
+This is the standard move that most characters have but only a few have the 
+advantage of getting juggles of a CH 4 like Law, King and Kuma, Bryan,
+Bruce, A.King, Ling ok ok, so its more than a few. Sorry Abrar. ;)
+Kuma's CH 4 lets you do small juggles, the simplest one being CH 4,F+1+2.
+This small juggle is all you need to do to get decent damage off a CH 4
+with Kuma. The range of Kuma's standing right kick is the smallest among
+all the characters and hence it's not any good to stick in a standing 4
+kick after pushing the opponent away with moves like f+1 and d+1 as it
+will miss entirely.  It's best used when you anticipate an attack from
+the opponent, in which case you will be assured of a CH.  
+
+-----------------------------------------------------------------------
+Right uppercut (d/f+2)                                   VAS rating = 9  
+
+This is an unconventional move in Kuma's arsenal.  The right uppercut
+is a good move to use when you need to juggle the opponent in a hurry
+and when in close. It comes out fast and actually allows decent damage
+juggles.  It serves it's purpose well when used in a sound poking
+pattern with a good custom string. The only true downfall to this move
+is its short range compared to Kumas other juggle starters, and the
+minute damage it does in comparisin. Then again, compare it to any
+normal juggle starter and it does very well. This is an important
+move to make sure your opponent doesnt find openings by ducking most
+of your attacks.
+
+-----------------------------------------------------------------------
+Hopkick (u/f+4)                                          VAS rating = 8
+
+Many players ignore Kuma's hopkick, I don't know why.
+
+EDITORS NOTE
+Because its short, really short.
+
+It has the same priority as all good hopkicks in TTT like with Law and King.
+The only area in which it lacks something is range.  But when used
+unexpectedly, it works the same as any hopkick.  It can also be done
+instantly out of full-crouch.  Also I feel that in TTT, this move somehow
+has more priority and range and seems to hit more often now.  It is
+especially good to do when your opponent tech-rolls crouching. Mixing it
+up with a throw ocassionally yields good results.  Check the juggles
+section for some juggles off Kuma's hopkick.
+
+EDITORS NOTE
+Or you could go for a safer WS+1 and do the same juggles, and what not.
+In my opinion this is best used against reversal masters who dont use
+king a great deal. Easy to "Chicken Bait" with this. ;) Bonus. Other
+than that, IMHO VAS = 6 at best. But abrars the Kuma man, I learned of this
+faq, so hehe.
+
+-----------------------------------------------------------------------
+Hunting Bear stance moves (done after 3+4)
+
+(a) Bear Claw left  ( 1 )                                VAS rating = 9
+
+    This move is the fastest one out of the Hunting Bear Stance and
+    it leaves Kuma in the stance afterwards as well.  So this is the
+    one to use if you want to quick damage and stay in Hunting Stance.
+
+    This is a VERY important move, it is his ONLY line of true defence
+    in the hunting bear stance. True to its name, it swipes very quickly,
+    and can be followed up with the Bear Claw Right for a guaranteed hit.
+    Its damage is fair, and leaves Kuma rather well off if this is
+    blocked, mixing up the "Bear Fling" with the 1,2 HBS. ;) and the
+    f+1+2 throw. This is the move that you will use often to keep your
+    opponent out of your face. Else you will eat something nasty. None
+    the less, you want to do this often. If it hits, it leaves your
+    opponent almost, staggering, sort of, and leaves them with NO
+    INITIATIVE what so ever. Good for a fling afterwards. ;) Not
+    guaranteed, nothing is to my knowledge other than the 2. :)
+
+(b) Bear Claw right ( 2 )                                VAS rating = 6
+
+    This right version of the Bear claw does more damage but is
+    significantly slower than the Left Bear Claw.  Also it takes
+    you out of the Hunting Bear stance once you execute the move.
+    Don't use it when you have better options like the ones below.
+
+    This should really never be used. I mean, not even as Okizeme,
+    because the 1,2 does more damage and looks cooler and both hits
+    connect for Okizeme. So dont even use this. Its silly.. Unless
+    you want a fast easy way out of HBS. Then again, press U or 1,2
+    and you have two better options already.
+
+(c) Double Bear Claw (1,2)                               VAS rating = 8 
+
+    This move is simply both the above moves combined into one,
+    which makes it handy if you want a quick 20 pts damage while
+    in the stance.  Kuma comes out of the stance after this move
+    as well.
+
+    This is the move that I have been raving about. People will
+    often eat this in fear of the 1+2 bear fling, and damn they
+    should as well. Its good stable damaging fast poke, that deserves
+    a higher rating than that of up there.. but I believe I am byast.
+    None the less, this is an EXCELLENT poke, and should be used often
+    for almost any general purpouse.
+
+(d) Bear Fling (1+2)                                    VAS rating = 10
+
+    This one is a juggle starter from the Hunting Bear Stance.
+    It leads to big damage tag juggles and the damage actually
+    increases by 4pts if you tag with Fling.  So it is advisable
+    to tag with it any chance you get esppecially of you
+    are in a tough match.  Sometimes doing an extra 4pts of damage
+    can mean the difference between winning and loosing. This leaves
+    massive guard stun.
+
+    The only TRUE juggle from this to my knowledge is a tagdive.
+
+    HBS, 1+2~5, f,f,n+1+2
+
+(e) Mauling Bear throw (f+1+2)                           VAS rating = 7
+
+    In order for this throw to connect, the hit must be very deep or
+    in other words your Kuma and your opponent's character needs to
+    be very close together. The damage is very decent (40pts) indeed
+    for a front throw, so it's worth the risk once in a while. It is
+    indeed a good mixup for the "Bear Fling" because of people fearing
+    it. This is definately useful.
+
+(f) Bear Tackle (3+4)                                    VAS rating = 7
+
+    A big disadvantage of this move is that it hits special-mid which
+    makes it easy for the opponent to block either standing or crouching.
+    Hence it's very hard to set up in poke patterns.  It's best used in
+    some juggles after the f,f+2 or after the B+1+2 unblockable for some
+    guaranteed damage.  It also is very useful as okizeme after you knock
+    down the opponent.  Stay clear of this tackle other than that, as it
+    leaves Kuma vulnerable if crouch blocked.
+
+    EDITORS NOTE: Abrars opinion I believe hasnt changed much on this
+    move, however my opinion on this move is much higher. If it is
+    blocked standing, then it leaves a good "side turned" stun on your
+    opponent, Guaranteeing I believe a f+1, and a f+1,1,1 on a CH wich
+    leads to some cool side juggles. Kinda cool if you ask me. But again
+    this move is DEFINATELY good for Okizeme and wake up games, its
+    fast too, and has good range for tagers.
+
+(g) Hunting lunge (F or B)                               VAS rating = 8
+
+    This is simply a special movement done from the Hunting Bear stance.
+    It is very good to get in and out of attacking range of your opponent
+    as it is practically a lunge and NOT a crawl like some other movelists
+    describe it.  This is what makes Kuma more versatile when in the stance.
+
+-----------------------------------------------------------------------
+Bear Hug (2+4) and Bear's bite (1+3) Throws              VAS rating = 9
+
+These are Kuma's standard front throws.  Alternating both these throws
+when playing will make it hard for the opponent to escape it on reaction.
+I prefer the Bear Hug throw as it leaves your opponent close after the
+throw and is helful if you want to go for enhanced Okizeme options.
+Kuma's throw range is bigger than what most characters have and that is
+something to think about when playing.  Usually when opponents are in
+the d+1 jab range, they are ready to counter or escape throws at any
+time BUT Kuma's bigger throw range will make it harder to guess what
+range is "safe" for them.  For style points, go for the Rock'n'Roll
+Circus throw (HCB,F+1+2), it looks cool and also has the advantage
+of a two button escape i.e. harder for the opponent to escape.
+
+-----------------------------------------------------------------------
+
+So far from experience, I can say that the moves analysed above are
+the only ones that are worthy to use against high-level competition.
+All other moves are either too slow or too risky in terms of reversal
+and parrys.  That does not mean that you cannot use the other moves
+in the movelist.  I'll just leave that to you and you will understand
+soon what I mean.
+
+EDITORS NOTE: Stay this way too, it hasnt changed that much at all.
+No new moves I believe were added, and I know no new ones were removed,
+Abrars origional faq is still all there pretty much so far, I have
+just made some adittions, and recomendations and what not to be honest. :)
+
+.............................................................................
+
+
+======================
+7) COMBOS AND JUGGLES
+======================
+
+Here I shall try my best to list as many combos as possible for the
+popular juggle starters.  It's best to practise and stick with one
+basic high damaging juggle from each juggle-starter.  I have every
+intention to keep adding to this section as soon as I get some more
+imformation.  If you have a combo or juggle that you would like to
+share, please e-mail it to me at abrarz@yahoo.com or
+Forbidden_Crypt@www.com and i'll include it in future revisions
+of this guide.
+
+
+Demon uppercut Juggles
+
+- f,f+2,U/F,n,4,f+1,F+1+2
+- f,f+2,U/F,n,4,f+1,1+2
+- f,f+2,u/f+1+2,f+1,1,1
+- f,f+2,b,d/b,d,D/F+2
+- f,f+2,f,f+2,f+1,1,1
+- f,f+2,f,f+2,f+1,f,f+2
+- f,f+2,2,1,2
+- f,f+2,f+1,1,1
+- f,f+2,f+2,f+2,F+1+2
+- b,F+2+3 (not a true combo)
+
+WS+1 uppercut Juggles
+
+- WS+1,2
+- WS+1,f+1,f+2
+- WS+1,f+1,F+1+2
+- WS+1,f+2,F+1+2
+
+
+Hopkick Juggles
+
+- u/f+4,f+1,f+1,F+1+2
+- u/f+4,4,f+1,F+1+2
+- u/f+4,f+1,1,1
+- (BT)u/f+4,f+1,f+1,f,f+2
+
+
+Right uppercut Juggles
+
+- d/f+2,f+2,f+2
+- d/f+2,f+1,F+1+2
+
+
+WS Hammer Juggles
+
+- WS+1+2,f+1,F+1+2
+- WS+1+2,f+1,f+1,F+1+2
+
+
+WS+2(CH) Juggles
+
+- WS+2(CH),f+1,F+1+2
+
+
+CH 4 Juggles
+
+- CH 4,F+1+2
+- CH 4,f+1,F+1+2(hard)
+
+
+Bear Fling Juggles (done from Hunting Bear Stance)-  
+~5, f,f,n+1+2
+
+
+
+
+............................................................................
+
+
+======================
+8) GENERAL STRATEGIES
+======================
+
+:::::::::::
+: OFFENSE :
+:::::::::::
+
+In this section, i'll try to outline the basics of offense with Kuma to
+lay the groundwork for the Advanced Strategy section.  
+
+Kuma in my opinion should be played as an offensive character.  That is
+not to say that you can't play defensively with him.
+
+EDITORS NOTE: In my opinion he is more of a hit and run character than
+anything really else, I think he can do more damage with good setups
+and defencive interupting.. but again, only my opinion.
+
+If you can duck a large amount of your opponent's high attacks, escape
+all throws on reaction and be able to block multi-level attacks, then
+there is no reason why you should not play defensive. But from
+experience I can tell you that it's harder for Kuma to do all that I
+described just before, mainly due to his big size and limited arsenal
+of close range moves.  Also Kuma does not have a reversal, only the
+universal low parry. Good players using other characters like Law and
+King will force Kuma to block in close-range combat and will then
+easily go on to throw you or perform a high damage juggle.
+This is also standard presumption with the Mishimas, whom because of
+kuma's size, do not lift him as high as any other character, however
+because of there juggle ability, they will unleash a larger combo,
+resulting in about the same amount of damage as a normal combo on
+an average sized player.
+
+
+To avoid this go on the offense early in the match and NEVER let the
+opponent inside throw range.  Use Kuma's unconventional stand-alone
+moves to attack the opponent repeatedly. Everything in your offense
+should revolve around Kuma's f+1, f+2 and d+1 moves especially when
+doing all out offense. These are the key to set up Kuma's high power
+moves like his Demon uppercut launcher and Double Claw (F+1+2).
+In doing this however, you MUST mix the mid\low attacks in as much
+as possible, a few stand alone f+1's can leave you in seriouse trouble
+when a mishima crouchdashes under the move and launches you for good
+damage.
+
+
+Another important element of offense is throwing.  Some players consider 
+throwing as a cheap tactic, but it's not cheap at all as almost all of
+them can be escaped or even countered in some way.  Kuma has an added
+advantage of superior throw range as I had described earlier.  In some
+instances if your opponent attacks at the beginning of a round, Kuma
+doesn't even have to move forward to throw them, all you do is tap either
+1+3 or 2+4 to throw as soon as the round starts.  But this only works when
+the opponent tries to attack as a round starts.  Kuma's Bear Hug throw
+has another rare opportunity to deal some okizeme (hitting a grounded
+opponent) to the opponent.  Offense is also done by Poking and the use
+of Custom Strings which will be discussed in the Advanced Strategy section.
+
+
+
+:::::::::::
+: DEFENSE :     
+:::::::::::
+
+When it comes to defense, your gameplay must be multi-faceted.  That means 
+employ everything and anything you can, to defend yourself.  And also be 
+methodical.  Never block something that you can counter, interrupt or Low
+parry. Other ways to defend are by sidestepping, chicken buffers and good
+spacing between you and the opponent.  Let us now examine each of the
+mentioned defensive methods in relation to Kuma in TTT.
+
+
+|Interrupting (Countering)| 
+ 
+ In the earlier games of the Tekken series like Tekken 2, the most common way of 
+countering something used to a reversal.  But since Kuma has never had a 
+reversal in Tekken, he will have to rely on more simple but effective methods to 
+counter something.  Which leads us to Interrupting.  Almost every character has 
+a few moves that serve as good interrupters which basically put an end to the 
+opponent's offense at the moment that they are performed.  Interrupts are based 
+on the concept of "fighting fire with fire" or in other words, "the best form of 
+defense is offense".  Luckily Kuma has all the basic interrupts or anti-pokes in 
+his arsenal like d+1, d+4, d/f+4 and f+1.  Below i'll try to set a few common 
+scenarios of what is best to do for specific attacks.
+
+At mid to long range, opponents using characters like Jin or Law may run up and 
+do poke mix-ups like 1,2,throw or 1,2,juggle starter.  Now there are several 
+options with Kuma to interrupt them. Before they come within 1,2 range, you can 
+d+4 them.  Otherwise hopkick (u/f+4) them if you see a significant opening in 
+their attack.  When the opponent comes within that 1,2 range best option is to 
+f+1 them or do the Standing right kick which will catch them on counter-hit if 
+they start to 1,2 you.  As it may happen, the opponent may hit you with his 1,2s 
+or you may have to block them, in that case f+1 them right back or try a d+1 
+which is the safest option after blocking anything as it'll duck subsequent high 
+attacks and stop mid attacks from the opponent.
+
+There are other things that opponents do sometimes like run-up and 4s in the 
+hope of catching Kuma with a CH 4.  Characters that lure Kuma with this trick 
+are mainly Law and King, who can perform small juggles off CH 4s. Kuma's most 
+lucrative counter for them is to try to pull off his WS+1, juggle, or 2.  You
+can do this either by tapping d,d/b, then 1,2 OR by D,WS+1,2.  Timing for
+this is precise and they are risky.  Another defensive manoever for Kuma is
+to back dash a bit to make the opponent's 4 miss and then throw them
+immediately. Or stop out of range, and hit with the f+1+2 wich has superior
+range on most attacks.
+
+Another tactic that opponents using Jin and Bryan do, is to get in closerange
+for a d+1 attempt to get off some of their powerful WS launchers for big damage 
+juggles.  This is the most dangerous form of attack for your Kuma to deal with.  
+The most important counter that you can do is to not let them into close range 
+by using kuma's d/f+4 ,4 or f+1.  But by chance if they manage to get close 
+enough to d+1 your Kuma, try to block the d+1 and d+1 them right back if you 
+block it standing OR WS+4 them if you block their d+1 ducking.
+
+Against a character like "Bryan Fury" this is not a wise idea to try anything
+after they have blocked a d+1. Bryan has an almost INSTANT knee when your
+d+1 is blocked by him, and it is best just to stand there and await it to
+come out, for a well placed block.
+
+Lastly there is the scenario of an opponent playing Keep-away by using moves 
+like d/f+4 (with Yoshi) or d/f+1 (with Jin).  You would think that this would be 
+more of an easy situation for Kuma, and that you can just stay back and wait for 
+the opponent to make a mistake.  But it doesn't work that way, as your Kuma 
+cannot attack and will be kept in a specific range by your opponent's small 
+moves.  This is where, you have to somehow counter those keep-out moves.  You 
+can fake a movement by dasing forward and stopping early to make their move 
+whiff and then throw. Take advantage of the recovery time between moves by 
+dashing close to opponent to attack inbetween two keep-out pokes.  Countering 
+this form of fighting style is based mostly on which character your Kuma is 
+facing and what moves are being used to keep Kuma out.
+
+I would like to give one last piece of advice regarding Interrupting.  When 
+tempted to "fight fire with fire", remember that the Fire Department usually 
+uses water.  By that I mean, do NOT go overboard with interrupting as a mistimed 
+interrupt does more damage to you than to the opponent.  The trick in TTT is to 
+know when to utilise the other basic defensive options like standard blocking, 
+parrying and sidestepping.  And that only comes from experience.
+
+
+|Sidestepping|
+
+Sidestepping was introduced in a big way in Tekken 3 with all characters being 
+able to sidestep(SS).  Sidestepping is all the more important in TTT as the 
+stages are smaller and the action is focussed much more closely.  From personal 
+experience, I can say that almost every move in the game can be sidestepped 
+depending on when you start the sidestepping animation.  Sidestepping is a way 
+of completely avoiding the opponent's attacks which gives you temporary 
+advantage for the next move.  Sidestep is performed by tapping up or down on the 
+joystick to move into the background or foreground respectively.  The main 
+attack to strive for after a successful sidestep is the sidethrow.  The 
+sidethrows are more damaging generally than standard front throws in most 
+characters especially Kuma.  Sidestepping can be of two kinds - random and 
+purposeful.
+
+Random sidestepping is just what the name suggests.  You sidestep anytime you 
+want in any direction, the main aim being to confuse your opponent.  The 
+opponent will be a little hesitant to attack as there is a high probability of 
+their attack missing entirely.  On the other hand, purposeful sidestepping uses 
+the concept of perfectly timed sidesteps to avoid the opponent's attack and go 
+for a specific move like kuma's F+1+2 Double Claw.  This is largely based on 
+anticipation that your opponent will attack at that given time.  
+
+Sidestepping is an art that most kuma players should master as it comes in handy 
+from time to time.  There are some other different methods to perform a sidestep 
+other than the ones mentioned above.  One very effective way is by tapping up or 
+down, then tap backwards and tap up or down again.  This way Kuma avoids all 
+incoming attacks (doing an almost 180 degree movement) and also has the option 
+of stopping at the second joystick motion to maybe attack if you wish.  Another 
+useful sidestepping tactic is by going into kuma's WS+1,2 after a sidestep.  It 
+avoids any mid or low incoming attacks by the sidestep and then ducks high 
+attacks by the WS+1,2.  This is effective as many characters use their standard 
+1,1 or 1,2 high jabs to stop you from sidestepping BUT they will all miss in 
+this case.
+
+
+|Chicken Buffering|
+
+I hope you are familiar with the concept of buffering a chicken.  No, i'm not 
+talking about leaving some room for the roast chicken someone is making you.  
+Buffering a chicken means inputting a command after a specific move so that if 
+it gets reversed, the chicken will counter that reversal and leave you safe.  So 
+it's kinda like a reversal for a reversal.  Players are always ready to play a 
+reversal game against Kuma when using characters like Jin and Paul.  They know 
+that kuma is all arms in all his main attacks and they know what to expect.  So 
+buffering a chicken after some of Kuma's main moves will leave you safe, not to 
+mention the peace of mind it gives.
+
+To buffer a chicken, you do a f+1+3 after a left limb attack OR a f+2+4 after a 
+right limb attack.  Below are some of Kuma's main moves that can be chickened 
+effectively -
+
+f+1
+d/f+2
+f+2
+F+1+2 (chicken with f+2+4)
+1+2 (chicken with f+1+3)
+d/f+4
+WS+1
+WS+1+2 (chicken with f+2+4)
+f,f+2
+WS+4
+
+There is no need to chicken-buffer when facing characters that have no 
+reversals.  Basically use the chicken buffer when you feel that your attack 
+might be reversed somehow.
+
+
+
+:::::::::::
+: Spacing :
+:::::::::::
+
+Spacing or zoning is another concept which was touched slightly when I was 
+talking about Interrupting and Sidestepping in previous sections.  The basic 
+meaning is positioning.  There are three main spacing zones when talking about 
+Kuma - close, medium and long range zones.
+
+Close range is the range which is most threatening to Kuma and you should never 
+be in this range unless you are on full-blown offense.  It is in this range that 
+your opponent is able to get d+1 attempts and throws.  Use all your interrupts 
+and sidestep tactics to stay at the border of this range most of the time.
+
+Medium range is the zone where Kuma is the most effective whether it be offense 
+or defense.  Many of his moves like F+1+2 or f,f+2 require a bit of room to 
+initiate properly and staying at medium range is good for that purpose.  Think 
+of medium range as a forward dash (f,f) away from the opponent.  Many of Kuma's 
+attacks like f+1, f+2 and d+1 can be used to keep opponent at medium range. It 
+is also at this range that Kuma's FC+1,1 arre effective as low attacks.
+
+Long range is self-explanatory.  It is simply that range where the normal pokes 
+would not connect and running is made possible by f,f,f.
+At this range Kuma is safe from most attacks but it also gives rise to the 
+problem of what to do if the opponent decides to attack suddenly.  At this range 
+Kuma has the option to attack with a running slash kick (f,f,f+3) which does 
+guard-stun when blocked and brings your Kuma into the Medium range.
+
+Spacing is all about finding your own "comfort zone" when fighting.  It utilises 
+sidesteps as well depending on what your scenario and strategy is.  As for 
+example, if your opponent is Paul and he likes to do a lot of linear attacks, 
+then your most preferable comfort zone as Kuma would be Medium range with 
+sidestepping.  That will always leave you at an angle in relation to Paul and 
+most of his linear moves will inevitably miss leaving you to do some damage 
+after the miss. Experiment a lot with spacing when fighting, and find out what 
+works best for you in different situations.
+
+
+
+::::::::::::
+: Recovery :
+::::::::::::
+
+Recovery is one of the most fundamental aspects of any fighting game.  There are 
+different methods to recover from different situations like off the ground or 
+from a stun or parry animation.  Recovery is important to Kuma due to his large 
+size which makes him susceptible to big juggles and attacks when knocked down or 
+stunned.  Let us go through all the common situations that Kuma may have to 
+recover out of.
+
+||Knock Down Position||
+
+This is where you have been knocked down with your back on the ground and feet 
+towards the opponent.  Your recovery options are as follows :
+
+  - 5 = Tag out.  This is a risky option as many players have come to expect 
+this tag option especially if your Kuma is already low on energy.  They will 
+wait for Kuma's partner to come in and juggle or throw him.
+
+  - U = Stand up.  This is one of the quickest ways to recover and you can then 
+quickly crouch to avoid low attacks as well.  Beware of throws though.
+
+  - d+1~D = Roll sideways into face down position.  This is very effective when 
+the opponent is hell bent on punishing you while on the ground (Okizeme) as 
+it'll roll you clear of all attacks.  An added bonus is that a rising 3 kick 
+from face-down position acts as a juggle-starter.
+
+  - 3 = Rising low kick.  This one is quick and stops some general attacks 
+knocking the opponent off their feet when close.
+
+  - 4 = Rising mid kick.  It comes in very handy to stop opponents that like to 
+do their WS attacks like Jin's WS+2.  Mix this one up with the Rising low kick 
+for optimum results.
+
+  - f = Roll forward.  You can do the above mentioned rising kicks after a 
+forward roll as well as a f+1+2 Head dive that guard-stuns when blocked.  You 
+can also recover crouching by holding down after the roll but I would not 
+recommend it for Kuma.
+
+  - b = Roll backward.  Apart from the rising kicks, crouch recover and Head 
+dive, Kuma can also do a Feet first lunge by b,b+3+4.  This is a very good 
+option for Kuma when knocked away from the opponent.  When it connects it'll 
+stop any further attacks from the opponent.  But if blocked it leaves Kuma open 
+for attacks, so be careful.
+
+
+||Face down position||
+
+There are many juggles which cause Kuma to flip-over and land on the ground face 
+down feet towards opponent.  One of the best options for Kuma is to press 3 for 
+a face down sweep, which juggles the opponent.
+I usually go straight into FC+1,1 or Hunting Stance attacks.
+
+There are other options too from Face-down, like rolling sideways, backwards or 
+forwards followed by the moves discussed above.  Try to get a feel for your 
+opponent's spacing and attack patterns and use each option when best suitable.  
+There is also the option of tech-rolling by a hop-up which is done by inputting 
+f as soon as you touch the ground.
+
+EDITORS NOTE:
+Kuma can also go into a hunting bear stance while lying face down, I believe
+this is by inputing d+4, but I am not %100 sure on this.. if anyone knows
+how this is done, please fill me in.
+
+
+||Tech-Roll||
+
+Tech-roll was also a new innovation started in Tekken 3.  It's a form of quick-
+rise by inputting commands the moment you touch the ground.  Inputting 1 or 2 
+tech-rolls you into the background and 3 or 4 tech-rolls you into the 
+foreground.  There are also now more tech-recovery options in TTT.  For instance 
+you can now tag out as soon as you hit the ground by pressing 5 (tag button) and 
+Kuma will roll off the screen replaced by his partner.  Also there is the option 
+of the Back-spring from Knock-down position by tapping forward as you touch the 
+ground.  If this back-spring is blocked by the opponent, they will experience 
+guard-stun.
+
+
+
+:::::::::::
+: TAGGING :
+:::::::::::
+
+The Tag feature is the latest addition to Tekken.  As you read ealier, there are 
+a few different ways to tag during match in TTT.  So far you know that you can 
+tag out when lying on the ground or as soon as you touch the ground after a 
+knock down.  There are some other interesting aspects of the tag feature that 
+have special relevance to Kuma which will be discussed next.
+
+Other ways to tag for Kuma are:
+
+- Basic Tag throw (2+5).  This throw is available to all characters and Kuma's 
+animation is the u/f+3+4 pancakke press, when he comes in to finish the throw.  
+But the basic starting animation of the throw is the same Over the Shoulder 
+Toss.  
+
+- Double Over or Fall Over stun Tag (5).  This is very useful as you can tag out 
+of certain damage stuns like kazuya's WS+2(CH).  But sometimes the opponent 
+simply waits for you to tag and then juggles your incoming partner, so use it 
+with caution.
+
+- Tag launcher (juggle-starter~5).  Here you can launch the opponent with a move 
+like f,f+2 and press 5 for an immediate tag.  You partner will come in to finish 
+off the juggle.
+
+- Tag Team Throw (throw~5).  This a team specific tag throw of which Kuma takes 
+part only in one special throw with Ling.  Ling will do her f+2~1 throw and then 
+Kuma comes in for the Bear Hug throw to finish it off.  The exact command for it 
+is with Ling, f+2~1~5 and the escape is 1+2 during the Ling part of the throw.
+
+- Special Tag Attack.  This is done with Law.  Law does his f+2~1~5 which will 
+stun the opponent and then Kuma will automatically come in with a Running Slash 
+Kick.  Kuma also has the option of a tag-slide if you hold down on the joystick 
+durin the tag.  This throw is escapable by tagging during the stun.
+
+
+Well, initially players of TTT got the impression that the character that's 
+tagging in, is totally vulnerable to all attacks.  While that is true to some 
+extent, there are some options that let you manipulate the tagging-in process.  
+Kuma can do three basic attacks during the tag run-in animation.  They are the 
+Head Dive (f,f,n+1+2), Running Slash Kick (f,f,n+3) and the Tag Slide 
+(f,f,n+4).  To manipulate the tag movement, Kuma can do a u/b,b to stop the run 
+at the edge of the screen.  You can also tag out as soon as you tag in by doing 
+u/b,b~5.
+
+Tagging is important to any player during a match,  as a tag juggle depletes the 
+Red life-recovery bar.  There by reducing the chance of your opponent regaining 
+that amount of lost energy.  Kuma can do significant damage in this area due to 
+his high launchers.  One very important fact that you should be aware of is that 
+KUMA cannot tag out during the Hunting Bear Stance animation (3+4).  Only after 
+one of the moves out of the stance can he tag out OR you could wait to start 
+rising out of the Hunting Stance and then tag.
+
+
+
+................................................................................
+
+
+=======================
+9) ADVANCED STRATEGIES
+=======================
+
+Now that you have looked at Kuma's move analysis and his general strategies, you 
+will be beginning to get some idea of his general  play-style.  So now in this 
+section, I shall try to introduce some strategies that are used at Advanced 
+level of TTT play.
+
+
+::::::::::
+: POKING :
+::::::::::
+
+Pokes are generally quick attacks with good recovery but the damage is very 
+small.  Poking is the most Advanced form of Tekken gameplay and is absolutely 
+essential at high level of play.  Nowadays even the average players easily block 
+the standard moves/strings or duck throws.  So poking is a way to penetrate such 
+a defense.  In this concept, we are actually taking advantage of the excellent 
+recovery time of stand alone pokes to set-up other high damage moves and 
+juggles.
+
+Fortunately Kuma has all the basic pokes which are fast to execute and recover.  
+His main pokes are - f+1, f+2, 2,1, d+1, WS+4 and d/f+4.
+With these you can slowly do small damage during round, all the time looking for 
+the opportunity to deal some big damage.  These pokes can be followed up by a 
+number of moves like F+1+2, f,f+2, f+1,1,1 or front throws.  The key to a 
+successful poke set-up is mixing things up.  Make the opponent guess as to what 
+your next move with Kuma will be.  Poke follow-ups are more effective when there 
+is a clear possibility of multi-level change-ups.  Throws and f,f+2 will take 
+care of Kuma's high-mid mix-ups BUT he does not have a clear advantage in any 
+low move.  The addition of his Hunting Bear stance however gives us some hope to 
+play a multi-level attacking game.
+
+There are some other moves that act as unconventional pokes in Kuma's arsenal 
+like FC+1,1 , Hunting Stance low attacks, d/f+1 and d/f+2.  I call them 
+unconventional because they do not necessarily have good recovery but are fast 
+to come out and have good follow-ups.  For example, you can hold down after the 
+FC+1,1 to recover crouching and follow up with the WS+1,2.  The Hunting Bear 
+Stance attacks give some very good advantages like avoidance of high attacks and 
+larger flexibility of movement by the Hunting Lunge (F or B).  Poking is also 
+done by combining pokes into a string - this concept is called Custom Stringing 
+which I'll examine in the next section.  
+
+Now you might ask "What happens if Pokes are blocked????"  Well, the bad news is 
+that if your pokes are blocked they will not always give you any advantage.  The 
+good news is that you are forcing your opponent into the most primitive defense 
+mechanism.  In other words, they are simply blocking and not interrupting you in 
+any way.  You should exploit this by starting to use throws and low attacks more 
+often.  On the other hand, if your opponent is countering you often, you might 
+want to use sidesteps and backdashes more often when poking to avoid any 
+retaliation attempts.  
+
+When researching for this section, I referred a lot to the article "Poking? Why 
+Poking?" by mIrAge which can be found in the articles section of INSIDE TEKKEN.  
+It's a very thought provoking article for any tekken player and you should 
+definitely check it out.    
+
+
+
+::::::::::::::::::
+: CUSTOM STRINGS :
+::::::::::::::::::
+
+Custom stringing is Poking taken to a more advanced level.  It's called Custom 
+because it's your own unique attack string designed for a specific purpose for 
+you.  A good Custom String is a combination of low risk pokes that leave very 
+little room for the opponent to interrupt you.  Also a Custom string 
+individualizes your gameplay from the other players.  Custom strings should have 
+a purpose when used.  The main use of a Custom string in my opinion is the 
+ability to force the opponent to keep blocking.  And when you force someone to 
+defend themselves, they will inevitably try to counter you at some point and 
+that is your time to exploit them.  Apart from forcing them to block, you can 
+also set-up stuns, juggles or throws.  A nice Custom string flows along smoothly 
+just like a pre-canned string with many breaks where you can stop or continue as 
+you wish.  Below I shall familiarize you with the most useful moves that kuma 
+has for a good custom string.
+
+f+2 = moves KUMA forward.
+
+f+1 = very fast poke, used for spacing.
+
+WS+4= standard manoever, jams incoming attacks.
+
+d+1 = best interrupt to get into the crouching position.
+
+d/f+4 = safest to do after pushing opponent away.
+
+d/f+2 = a poke that juggles.
+
+WS+2 = Staggers on normal hit.
+
+FC+1,1 = A medium range move to add low attacks to your game
+
+3+4 = A neutral move that gets you into the Hunting Bear stance    
+      avoiding high attacks.
+
+
+There are obviously quite a few more moves that you can effectively use with 
+Kuma for custom stringing, but i'll let you experiment and find out for 
+yourselves.  Now let us look at a few basic custom strings that I use a lot, so 
+you get the idea of constructing more strings by yourself.
+
+Here is a string that I use against aggressive opponents to space out and create 
+room for Kuma to attack:
+
+f+2,f+1,d+1,WS+4
+
+The f+2 does more damage than a standard right punch and has the same animation.  
+It also moves Kuma forward quite a bit.  So if the opponent blocks it, they get 
+pushed a little but the change in distance is eliminated by Kuma moving forward 
+during the f+2.  A f+1 is the fastest move after any poke and it'll keep the 
+opponent from ducking easily.  When a f+1 connects, a d+1 is guaranteed.  And so 
+the combination of a f+1,d+1 will push the opponent away, putting Kuma in his 
+"Comfort zone" (see spacing section). The last move is logical as Kuma is 
+already in full-crouch and WS+4 is a smooth return to standing.  And in case the 
+opponent decides to attack you while Kuma is in crouch, the WS+4 will jam their 
+attacks.  If they don't rush you after a d+1, the WS+4 will whiff but atleast 
+Kuma will be safe and you continue with another string.  Not all the moves in 
+the string will hit.  As long as it spaces you out, it will have served it's 
+purpose.
+
+Now if you want to change into offensive mode after the spacing, here is how the 
+new string might look:
+
+f+2,d+1,WS+4,f+1,F+1+2,d+1,WS+2,.......
+
+This time after the f+2, we go straight into a d+1 to keep Kuma close to the 
+opponent but also to interrupt any retaliation after the f+2.  Following with a 
+WS+4 after a d+1 makes sure that the opponent does not close in too fast. After 
+a WS+4, a f+1 is the best option simply due to it's speed.  Now we come to the 
+interesting part, as the f+1 puts the opponent at the border of your comfort 
+zone, an immediate F+1+2 may catch the opponent on a CH.  In which case, you 
+will have to either use one of the guaranteed follow-ups or go straight into 
+FC+1,1.  If the  F+1+2 (Double Claw) is blocked, you go straight back into 
+continuing the string by a d+1.  You may have noticed this time, that after the  
+d+1 I used a WS+2.  That's because a WS+2 is fast and it will either stagger or 
+juggle the opponent depending on whhat kind of hit they take.  Now this string 
+has a little more of a break than normal at the f+1,F+1+2 point, that's to lure 
+the opponent to attack and eat the    F+1+2 in the process.
+
+One last example using the new moves in TTT, this string is a good example of 
+multi-level mix-ups between high,mid and low levels.
+
+f+2,d+1,3+4,1,1,2,WS+2
+
+Here the f+2 brings Kuma close to the opponent, followed immediately by the d+1 
+to get Kuma into full-crouch.  Now from full-crouch, Kuma can immediately enter 
+his new Hunting Bear stance by 3+4.  From the stance, a single Bear Claw left 
+will most probably connect with the opponent if they don't block low 
+immediately.  Kuma is still in Hunting Bear stance and so we use the 1,2 to poke 
+some more to force the opponent to block low and also to let Kuma come out of 
+the stance.  While rising out of the stance you can perform his WS+2, to either 
+stagger or juggle the opponent. 
+
+Note that in the above string, Kuma had a variety of options.  You could have 
+gone for his Bear Fling (1+2) while in the stance instead of the 1,2.  Also you 
+could have done the Mauling Bear throw (f+1+2), if you are left fairly close to 
+the opponent after the 3+4,1.  Lastly instead of the WS+2 at the end, if the 
+opponent was still standing, you could have gone for a front throw which comes 
+out instantly from crouch.  So now you see, what a good custom string does for 
+you.  It gives you flexibility to do what you want depending on the situation at 
+hand.
+
+Remember if you always do what you've always done, you'll always get what you've 
+always gotten.  Doing a same custom string everytime will either yield the same 
+purpose (like a juggle) OR the opponent will simply wisen up and block it, 
+leaving you with nothing.  So change them up often and go for different purposes 
+each time.
+
+Below are a few examples of my custom strings for Kuma which you can use to 
+develop your own:
+
+f+1,f+2,d+1,FC+1,1,hold down,WS+2
+f+2,d+1,WS+2,f+2,1
+f+2,1,d+1,WS+4,F+1+2,d+1,...
+f+1,d/f+1+2,d+1,WS+1,2
+f+2,d+1,f,f+2
+f+2,f+4,f+1,d+1,3+4,1,2,....
+
+etc ,etc.
+
+While researching for this section, I referred to the article "Custom Strings" 
+by ETP which can be found at INSIDE TEKKEN.  Other sources referred to were the 
+Custom String section in Slikatel's Jin guide and an anonymous poking faq in the 
+Tekken 3 section of Gamefaqs.
+
+
+
+:::::::::::::::::::::
+: KEEP-OUT GAMEPLAY :
+:::::::::::::::::::::
+
+In this advanced form of fighting, you basically try to keep the opponent away 
+from you by small pokes and power moves like F+1+2.  Basically you make them 
+rush you, and during that time they cannot block and moves like F+1+2, f+1,1,1 
+and f+2,1 are good ones to throw at them.  There are other moves too like d/f+4, 
+standing 4 and f+2 that you use to keep the opponent in medium range.  Kuma is 
+very adept at keeping opponents out, and I usually play this game against very 
+ultra aggressive poking players.  Playing in this style requires very good 
+spacing and sidestepping skills and until you learn that, I suggest that you 
+stay away from this style.
+
+The new additions to Kuma's arsenal like the Hunting Bear stance moves are very 
+good for this purpose too.  For example, if the opponent rushes you with high 
+attacks, you go into hunting immediately and then do his Bear Fling.  That way 
+you are avoiding the high attacks and immediately retaliating with a mid-attack 
+of your own.  Yes, that sounds risky and sometimes you have to take risks.  Only 
+dead fish go with flow. 
+
+Following is a list of moves that are effective keep-out measures:
+d/f+4
+4
+f+2
+f+1,1,1
+F+1+2
+b+2 (when teaming with Heihachi)
+3+4 (Hunting Bear stance)
+ - 1
+ - 1,2
+2,1
+u/f+4
+
+Try to experiment a bit when playing using Kuma, to see which moves that you 
+like to use for keeping out purposes.
+
+
+
+:::::::::::::::::::::::
+: DOMINATING THE GAME :
+:::::::::::::::::::::::
+
+This is easier said than done.  Against some good players, no matter how much 
+you try to dominate them, it does not work.  They don't give a damn about your 
+set-ups.  They will interrupt you efficiently and they know when to back off and 
+sidestep.  So by the time you set something up like a throw, the opponent is 
+already half a screen away.  Usually when two expert players fight, the match is 
+literally a poke-war with both players trying to get the upper-hand.  But still 
+there are certain things that you can do to prevail over your opponent.
+
+Try to look for a pattern in your opponent's gameplay.  I think almost every 
+player has a pattern and if you can spot it the first time you play them, you 
+can exploit it to your advantage. With some players, the patterns are good and 
+you cannot spot them until after they beat you several matches.  That's because 
+they are disguising their patterns very well.  But once you know their style, 
+it's easy to beat them.
+
+For example, if a player always tries to throw you after you whiff a f,f+2
+attempt with Kuma, then may try to set them up to deliberately whiff the f,f+2 
+and then juggle them with a CH 4 as they come in to throw.  So basically, you 
+should take advantage any such opportunities and frustrate your opponent to the 
+point where the opponent is afraid to attack.  As in mIrAge's words,"This is 
+where you have the victory in your hand when your opponents are too defensive to 
+retaliate".  At that point your opponent feels that they can do nothing to stop 
+you.  Another way to put pressure on your opponent is by using moves that cause 
+guard-stun when blocked like d/f+1+2 and 2,1.  
+    
+Well what if your Kuma faces such a situation, where you feel everything you do 
+is totally useless.  Not to worry, mate.  It's important to stay cool, but be 
+sure to not get frostbite.  By that I mean, stay calm, don't panic, and try 
+something flashy but practical.  I'll tell you of a situation I once got my Kuma 
+into and how I got out of it.  I was facing a Paul player who would basically 
+close in and try to overwhelm me with his quick attacks.  At that time, I was a 
+beginner Kuma player and didn't know what to do with Kuma to counter that.  I 
+felt totally helpless and nervous.  And when it came to the final 5 seconds of 
+the final round, I thought to myself "what the hell.  If i'm gonna be beaten by 
+this Paul player, why not go out in style??" and I did Kuma's U/F,n,4 move.  
+That Paul player tried the sweep elbow at that instant completely missing the 
+sweep part and got hit by my delayed hopkick.  And to cut a long story short, I 
+won that match.  That is sometimes the key to experience.  I learned the good 
+properties of Kuma's U/F,n,4 that day.  Even if I had lost that match, I would 
+have learned something about the U/F,n,4.
+
+
+
+:::::::::::::::::::::::::
+: Vs CHARACTER STRATEGY :     
+:::::::::::::::::::::::::
+
+In this section, I will only be dealing with character specific strategy when 
+facing a human opponent.  So these strategies will not help you beat the CPU 
+faster or anything.  There are also no concrete strategies when it comes to 
+fighting a human opponent.  All the advice in this section comes from my 
+personal playing experience and the basic facts in TTT.
+
+
+|Anna|
+
+In general this is a tough battle, all in all you have quite an advantage however,
+as Anna's QCF+1 will not send Kuma miles away to be landed in one of her huge
+damage juggles. To be honest, I believe if she DOES go for another QCF+1 you can
+interupt her with f+1,1,1 to add some suprise to your opponents face. If you are
+facing someone that is QCF+1 happy, use the HBS a lot. This should in general 
+replace your FC for an assault mechanism. On the whole, the QCF+1 will never hit
+while in HBS and leave Anna open for a free 3+4, or 1+2~5 f,f,n+1+2.
+
+Another main reason Anna is rated very highly is because of her poking ability.
+She loves to use a frantic mixup of pokes and assault to confuse and capture an
+opponent into being hit repeatedly for her high damage juggles. This is the Anna
+you should fear most. She now posseses a u/f+1,3 for nasty damage, of wich the
+F+1+2 Scarlett Bomb is a TRUE COMBO when hit on counter. This is not something you
+want to happen, as you will loose a good chunk of your lifebar.
+
+A big thing against Anna is not to be caught in the HBS. As she is a largly poking
+character your best defence is the offence of catching her on CH. Check out her
+frame rates some time, that will help tell you when to use the G-Clef, or her
+hit levels, that will tell you when to drop to the HBS and nail her.
+
+|Alex\Roger|
+
+This is a really mean fight. You can NOT let Alex\Roger hit you with the GD ss+4,
+cause you WILL loose a huge portion of your life to the AGF. This match is best
+played mostly offencive, and low. Watch out for the f,n+2 Dizzy Punch that they
+posess, do NOT block it, DUCK! You will gain a huge amount of block stun, and 
+Alex\Roger gain free hits on your sorry ass, and the ability to whipe you all
+over the floor. It does have a little lag time before it comes out, but BEWARE
+its faster than most opponents think. 
+
+Basically all in all you want to play a sort of Low Block game against Roger,
+most scrub characters will want to abuse the SS+4, a master however will use
+it only when a move is sidestepped, and mix it up with his "Hop Kick" to make
+some nasty confusion games. Just interupt whatever you feel nessesary, and keep
+low on the most part, the hopkick isnt too scary from Alex\Roger, its mostly
+a small juggle to an AGF and on Kuma thats not scary damage at all.
+
+|Armor King|
+
+I personally believe, you must treat A.King as a fast version of a Mishima.
+He posesses a WGF and damaging juggles, as well as a Low Dropkick d\b+4 wich
+is looked at much the same as a Mishima Hell Sweep. All in all however, he is
+much more leathal than the mishima's as he is a mix of King also. He posseses
+the powerful Tombstone Piledrive, Giant Swing, and DDT that have made the
+Kings and Roger\Alex so famous. All in all, you must always be careful to
+break the throw, thou it may not be easy to decide what break, you must be
+ready to break it, and land a decent assault on A. King in return.
+
+A. King also posseses one of the quickest and best ranged IMHO moves in the
+game. His "Black Clothsline" or "The Clothsline To Hell" as I call it. It
+is VERY fast, has EXCELLENT range, and massive blockstagger. To top it all
+off, it hits high, wich isnt good, but still, its speed and range more than
+make up for this move being nasty and abusive.
+
+All in all, you must always remember NOT to use pokes out of range, and not
+to turtle a great deal. You have to have the right mix of multi level pokes,
+not just f+1, you MUST put d+1, ws+1, ws+4 etc into the mixup. The Black Upper,
+or A.Kings WGF will go right under any high level pokes with great ease and 
+do some seriouse damage in addition.
+
+All in all, try to play a very evasive poke game, keep him away, and make sure
+you are using moves you know will connect, or be blocked at best. Otherwise
+you will feel the sharp end of the king.
+
+|Baek|
+
+Baek is multilevel MISERY. His main ability is to interupt ANYTHING into ANYTHING.
+Its scary at first, you dont know when to interupt or when to defend, you really
+have to watch your opponents strings. My advice is to not be afrade to use the
+f+1,1,1 to interupt whenever you feel nessesary. Because Baek at best can punish 
+with a small juggle on Kuma, or a few kicks, its not really that harmful. Unless
+you are against a master Baek\Team Korea player. 
+
+Watch out for Baeks flamingo stance, make sure you dont get in too close, you want
+to poke and stay back, stay out of his range and make him come to you if he goes
+into this, or even better, simply go into a HBS and land a free 1,2 swipe or a 
+bear tackle. This takes nerves I might add, but once you realise he cant actually
+do much other than cancel from his flamingo, or SS, you will find it a grave
+opportunity to land some free damage, and juggles also. Or atleast you can hope.
+All in all, I have not had a great experience with Baek, nor has Abrar I believe,
+but I hope this may help somewhat in the defeat of this EVIL character.
+
+|Bryan|
+
+Top Tier. No arguments here, Bryan deserves his place as one of the best characters
+in the game at any level of play. He posseses many moves, far beond nessesary to list,
+that will make Kuma have a bad day to remember. He has a "Punch Parry" with guaranteed
+good damage follow up, to add to that monstrosity of damage he has fast pokes,
+fast kicks, strong combos, deadly juggles, a ranged B+1 juggle starter, and
+high range attacks. All this adds up to a deadly character in the hands of the
+skilled. 
+
+When doing a d+1, NEVER retaliate if it is blocked crouching by Bryan. Bryans
+WS+4 "stunning knee" IS guaranteed on anything you do, WITH the CH as an adition
+if you try to do anything but block. So as a rule, if Bryan blocks your D+1 with
+a crouch block, DEFEND.
+
+Never finish a F+1,1,1 string if its blocked, and NEVER follow a single F+1 with
+another f+1. This is a deathtrap. His punch parry will tear you appart. Instead
+try to use and abuse the HBS as much as you can. A lot of Bryans moves are high
+interupts. Give or take a few mid hitting wonders. The b+1 for instance, but none
+the less, your best bet is to scare him backwards. All in all I would prefer let
+my partner so far deal with this one.
+
+WATCH his f,f+4 "Lightning Killer" as it has been so APTLY named. It can kill the
+EWGF with a single kick, and be damned if it cant SS your moves too when doing them
+predictably. Chances are he will bulldog you down, and he can do it too. So when 
+you try to poke your way back out of this match, hold back a little, dont get
+over zealous.. not wise..
+
+All in all, hold back, and let your partner deal with him. Bryan is Kumas 
+worst NIGHTMARE.
+
+|Bruce|
+
+Bruce is very baited. He enjoys waiting for a CH and nailing you with it. He has
+a very safe punch reversal move f,f+2 that counters punches, knocks head over heels,
+leaves a DAMAGING guard stun, but hits High. This is your most threatening move to
+watch out for on the most part, give or take his B+1 wich can be very punished if
+Kuma blocks it, and also hits high. However if the B+1 hits, watch the rest of your
+life dwindle into nothingness from the powerful 7 knees.
+
+All in all bruce is a machine who loves his CH attacks. He often uses a mid\high
+combination to keep you blocking, and on the most part your best bet is to wait
+out his assault and lay in the G-Clef Cannon f+1,1,1.
+
+On the whole, Kuma can beat Bruce down if played defencively, dont let yourself
+get caught inbetween the strings that can be interupted. Dont try the HBS often,
+his mas assault of mid moves will put a very harsh stop to that. 
+
+|Ganryu|
+
+All hail the flying fat guy. This guy can move, and is NOT classed as a big
+character at all IMHO. To me Ogre and Ganryu are classed as heavy weight mid
+fighters, with the "hard to lift" but the "average\large" scale character size.
+This poses a potential pain in the ass. Ganny loves to use his d+1 constantly 
+as an interupt, and it is for that reason, that you must also utalise your own
+d+1 to great extent. Just like Bryan and Bruce, Ganny will use ANY opportunity
+to land his nice punch parry reversal, for some free damage. And this will 
+happen often if you are the "Pokey" Kuma type. On the whole there isnt really
+much you can do about this, the easyest way to kill a Ganny of this type is
+to actually fake him out. Do a d+1 instead of that f+1, go into a crouch and
+do a FC+1 instead of that WS+1. Just go multi leveled. That is the only REAL
+way to put the seriouse pain to Ganny.. Its not easy. 
+
+He also posseses many tricks that must be watched. His WS+1+2, 1+2 is the best
+by far "double hammer" in the game. Its use goes way beond that of Kumas and
+the jacks, in the way that it has a very unique "Stun" on CH. The two hits are
+Guaranteed on CH, and the stun it leaves adds a guaranteed throw, or a d/f+2
+juggle starter, I believe, not sure on that one.. But none the less, it leaves
+for more follow ups than you really want to be caught by. To add insult to
+injury, Ganny posseses the fast and powerful FC+1+2. This move has more than
+enough bost to throw kuma far backwards.. and slow momentum. Thou a pain, this
+is why on a d+1 ganny you must learn to d+1 back, and wait for a good moment
+to land something quick and deadly, short strings and high damage is what you
+are after on this character.
+
+|Heihachi|
+
+The one TRUE King Of Iron Fist, this is the man that has everything each one of
+the mishimas poses, and at a better version too. His hellsweep mixup is the most
+powerful of all the mishimas, creating mean juggles on a CH and making his hell
+sweeps the best juggle ender in the game, next to a few others. Because of his
+imense juggling ability, wavedash capability, EWGF that hits special mid and the
+fact that he is an alround killing machine, you have to play very defencively against
+him, his 1+2 demons breah can come out any time at all, and acts much like an 
+non-chickenable reversal. On the whole, interupt his shining fists with f+1,1,1 for
+the counter and the juggle and an insane damamge percentile to his lower\average
+stamina. This is what you want to play on mostly.
+
+Hei is very dangerouse at CD range, your f+1+2 is your best weapon againts this, as
+his only real damaging counter attack from WS is WS+2, wich can do its damage and is
+safe when blocked, hit or even tracking the SS. On the whole you too want to keep him
+at a good distance so he is forced to use his wavedash skills to get near you.
+
+A lot of well placed pokes, and a healthy amount of d+1 will leave heihachi rather
+lost as to what to do. Kuma has a very long reach, and a wavedashing opponent will go
+right under your f+1 so do NOT use it against the wavedash, as said earlier a well timed
+d+1 will stop him cold, and hold him a good distance away. 
+
+You may also want to stay crouching against the WD hei, blocking the hellsweeps for a
+free ws+1,2 or the EWGF for a free f+1. Wich is guaranteed I might add, but NOT the rest
+of the combo. Cause the rest of the combo only connects on CH.
+
+On the whole, you will want to do large okizeme games on Hei, when down hit him and keep
+him down, mainly because of his low stamina you wont want to let him get up, and just
+keep using 1+2~f 3+4 to keep him running, mix up the HBS 3+4 with the HBS 1+2 to scare
+your opponents into standblocking the 3+4 wich creates a side stun.
+
+Other than that, its a basic mishima massacre. 
+
+
+|Jin|
+
+The generic mishima fanatic will be obsessed with this underpowered mishima. IMHO he
+is all too much underpowered, his EWGF hitting high, or SM with a tag buffered means
+that a lot of the time you can simply CROUCH to his WD, and d+1. It is on the whole 
+very safe, but I do advise discouraging the opponent to crouch as his WS+2 has excellent
+priority, juggles and is easy to do large damage to Kuma and the like with Jin.
+
+This poses the ever lasting problem, wich is however fixed by the fact that even thou
+people like to delay the laser scraper one hit at a time, kuma can interupt it with a
+f+1,1,1 for a counter hit and juggle. On the whole this works great in theory, but in
+practice it takes great timing and skill.
+
+After a blocked f+1,1,1 go for the low parry. It doesnt matter if your opponent does 
+shinning fists and hits you with them, they were guaranteed anyway, the main reason for
+this however is to discourage jins hellsweep wich can NOT be blocked after a wiffed 
+f+1,1,1. The lowparry however comes out very quickly, and on the slower opponents will
+force them to go for the less damaging shinning fists.
+
+On the whole you will want to be on the move to hold F on any stuns and go back to 
+blocking, it should be second instinct by now to break most stuns, if not all, to a
+masterful player, if you are mediocre\master you will break a few stuns, but either way
+there is no excuse of not getting out of jins b,f+2,1,2 stun, the b,f+2,1 is the point 
+were you should hold forward before blocking the last attack. There is no reason why
+this easy stun recovery should lead to you loosing a good portion of your life.
+
+On the whole, turtle, watch the hellsweep and do a lot of f+1, d+1, and even HBS if
+you can afford it against the EWGF. :)
+
+|Julia|
+
+This pain in the ass isnt really that much trouble, either you counter her or she
+counters you. If you get lifted by the hopkick wait for the "wonder combo" to finish,
+and then get up and try again. There is no real solid strats against julia, a lot of
+standing and not much HBS is definatly a go because of her knockdown elbow, and her
+huge arsenal of mid hitting moves. She poses a seriouse problem only really with her
+mixups and her moves. She is by far the best in the game for these two, mixed with her
+juggles, meaning you have to interupt her and abuse her slow recovery time with good
+pokes and hard hits. 
+
+On the whole, you will want any easy hits with a 1+2~f, 3+4 for good damage, and then
+perhaps go into a demon paw f,f+2 for more okizeme, lift opponent up for juggle, or
+even hit the tagging partner (hopefully). 
+
+In general it will be a mixup of multi level attacks on both parts, and you will want to
+do the big juggles on Julia because she will be doing the same, if not worse, to you.
+Over all, watch her interupt 1~1,1 and try to use your own to interupt.
+
+If she does the d,d/f+1 block, if a throw is initiated tap 1+2 and you should break the
+Mad Axes. However, if you feel cunning, you can try a SS to counter this problem, and
+even the following elbow. NEVER try the f+1,1,1 as her following elbow, the 2, will land
+you on a CH and stun into a hopkick "wonder combo" for too much damage.
+
+|Jun|
+
+Jun is a very slow and string based character. She primarily relies on her quicker strings,
+and confusing mixups game. Althou you can low parry most of her moves, and can predict a lot
+if not all of what she is most likely going to do. Jun can be used effectively, to a point
+were she can be quite deadly at tournament level. We have no-one around here that can play
+jun this well, and my only advice is to use your f+1,1,1 to kill her outright. It iterupts
+most anything. So kuma should have no problems with this fight I believe.
+
+|Kazuya|
+
+Kazuya on a whole is much like any other mishima, he will turtle and wait for an opening.
+His hits are very hard, and his juggles, damaging but short, wich makes him one of the
+most feared opponents in the game. His 3wgf is one of the hardest, and does far too much
+damage for anyone really. 
+
+On a whole, he is much like devil, watch his twin pistons, his hellsweeps arent much of a
+threat accept for there "sweep off feet" animation when you are hit, that leaves you for
+Okizeme. You will want to initiate a gand poking game against Kazy, in were you will keep
+him at a good distance, watch for the WS+2 gutpunch stun.. its very slow so you should be
+able to backdash or dodge it in general. However this is easier said than done.
+
+Keep him at range, and play him much like any other mishima, just poke like crazy and
+interupt what you can when you can. No real solid strategie, as any of the mishimas.
+
+|Kunimitsu|
+
+Kunimitsu is much like yoshi, she well rely on her evasive tactics, and mass side step 
+arsenal to gain the upper hand. However, having no good Kuni players around here at all,
+bar myself, this poses a real problem on a "how to beat" piece. Next update, sorry folks.
+
+|Kuma\Panda|
+
+Read this FAQ geeze. :)
+
+|King|
+
+King, thou a master of throws, will rely moreso on his highspeed pokes, and a lot
+on his SS, 1+2, 2. This can be very damaging for Kuma, and may force Kuma to turtle
+or assault respectfully depending on what sort of King you are facing.
+
+There are those kings who still believe that doing the High Damage Throws is the most
+effective way to play King. I agree that is effective, but must be mixed with a good
+mixup of his powermoves and pokes to be the most useful possible.
+
+On that note, you will find yourself using the HBS a lot on reaction. If you believe
+a throw, or a b+4 or anything of the likes is coming, go straight into the HBS and dont
+hesitate to throw the move out. This is generally easier said than done, and you may
+want to just turtle king untill he does a d+1,n+2 to get the free f+1 after its blocked.
+On the whole you will find a hard time interupting king with the f+1,1,1 and I believe
+that you most likely will find more use for the f+1+2 and the f,f+2.
+
+On general against a poking king, the idea is really to outpoke King with Kumas larger
+and distancing range. This is a pain in the ass for all but the most experienced kings.
+Who in turn will SS and do a 1+2,2 into your side for good damage and better okizeme.
+
+One point is never finish the G-Cleff Cannon f+1,1,1 if king is blocking. He can rush in
+and grab a free throw on you, and that does NOT help your turtling\guessing game options.
+
+|Law|
+
+The most important thing to watch out for against Law is his punch parry and 
+general jab strings.  From experience I can tell you that law players are ready 
+to punch parry Kuma's attacks at any time.  Even Law's normal high and low 
+parries are dangerous.  The best technique against them is to fake them to parry 
+and then attack during the parry animation.  Kuma will have to make the most of 
+all keep-out moves especially his standing right kick, d/f+4 and u/f+4.  Try to 
+use a lot of f+1,1,1 on CH as all hits are guaranteed and it'll will tag juggle 
+too.  I would stay away from using Kuma's f,f+2 against a Law. It's too easily 
+parried.  Remember your hopkick is just as fast as Law's hopkick at close range, 
+so use it to out-prioritise Law in that department.  Another of law's main 
+strengths is the ability to interrupt by moves like b+1,2 and b+2,3.  Kuma's f+2 
+and d+1 are enough to counter that.  Spacing is twice as important for Kuma when 
+facing a Law.  Read the Spacing section once more for effectively using it.  
+Good news is that Law's 3,4 now only juggles on CH.  If your Kuma plays a nice 
+spacing and counterhitting game, then beating Law would not be all that hard.
+
+|Lee|
+
+Lee is a very fast and kick orientated character. His speed and combos are second
+only to his arsenal of some of the most powerful juggles in the game. Posing a seriouse
+threat. However, again there are no good Lee players around here, so I can not add
+this section as of yet. Next update, if players will email me strats.
+
+
+|Lei|
+
+Against the almighty Haha, Hehe, Turnstep lei, as always like most characters you
+have a problem. Not suprisisng, run, slide, dive, whatever it takes to catch up to 
+lei. But if your on a better health, simply do your taunt and wait for the lei to 
+come running back to you.
+
+I find the best way to kill Lei is not to attack the SOB, instead if you wait it out,
+and watch as there "possom" play falls predator to the Deamon Paw f,f+2, and the 
+satesfying *CRUNCH* as Kuma shoves his huge ass paw into lei's head, well, there isnt
+much more satesfying than that.
+
+Some lei's in there Razor Rush delay one of the punches. This is a GRAVE mistake, and
+it is your opportunity to fully lay in the F+1,1,1. Dont be affraid to use it whenever
+you feel the need, lei will either block it, CH by it, or sweep you. And all in all,
+other than a few Razor Rush juggles he doesnt exactly have much.
+
+Just hang back and turtle, there is no point running into a lions cage if its hungry. 
+Simply set the bait and wait for it to come to you.
+
+|Ling|
+
+She is the most mobile character in the game with all the different ways that 
+she can sidestep.  Ling players like to use her Art of Phoenix(AoP) stance a 
+lot. However when she is in AOP, she can not block, the advantage of this, is
+thou any good player will not stay in this stance long, and proberbly feel the
+need to do a d+1+2 while in that stance to lift kuma to a small juggle, you will
+most likely land the Demon Paw (f,f+2) and send ling for your own little ride.  
+When at medium range, Kuma can also use his 1+2 hammer to hit her when in AoP stance.  
+Generally try to play a more of a conservative game against Ling - a good mix of 
+defense and offense.  Wait her out sometimes before rushing in to attack.  
+Ling players also like to throw a lot so be ready to break throws at any time.  
+Ling has the fastest moves especially when in back-turned.   
+
+While she is backturned, she has a very dangerouse side step that can be used to
+SS a lot of Kuma's larger moves. I advise going into a poking game, as her range
+is not as good as yours in the long run while she is BT. A hit F+1 guarantees the
+rest of the combo even if its not on CH as its hit on the BT Ling.
+
+Her main ability is her manouverability, if you can keep her away, or grounded, and
+off her feet, in general you will be able to fend off a lot of her attacks. She is
+a very close range fighter.
+
+|Michelle|
+
+Michelle is much like julia, however michelle can juggle of most anything. She enjoys
+using the 1,2,1, and I believe it will even beat Kuma out of a tag dive, f+1,1,1 combo,
+leaving kuma for the CH and the seriouse damage from repeated elbows.
+
+Michelle will most likely rely on a bulldogging constant assault, so moreso I would play
+a turtle game, poking and getting any free hits I can land, and keeping my combo's as small
+as possible, when finishing a string, delaying the next string as not to gain a CH from an
+unsaspecting elbow into a juggle.
+
+Michelle is much more sidestep orientated than julia, so you will tend to have to do a lot of
+f+1+2 at a distance to catch the tracking, and watch the GD tripple sidestep, as that will 
+land some seriouse damamge, and a CH 4,3,4 combo if your not careful
+
+|Nina|
+
+Nina again is a very string, assault orientated character, she will outpoke you on most any
+assault there is, and against her there isnt really much you can do but turtle. However,
+again there are no true Nina players around here, so this one stays open to sugestions.
+
+|Ogre|
+
+Ogre, the most deadly character in tekken, bar one. This is the most terrifying sort of
+turtle match, watch out for the infanite kicks ws+3,3,d_d/f+3,3~ wich takes off about as
+much as a good jin combo. This is devistating, as Ogre will use a lot of short strings, and
+most likely turtle beond recognition.
+
+His huge sidestep posses as your next problem, as he will have no problem stepping aside a
+wiffed f+1,1,1 with 2 sidesteps into a deadly backthrow, or even a simple 4, leaving you with
+a good portion of your life exitting your system rather rappidly.
+
+Keep ogre away with a lot of pokes, at mid range scare him a bit with f+1+2 and f,f+2 if you
+need to get in close, otherwise keep back, and ready the f+1,1,1 for unblockables.
+
+If you have to get up, simply wait a moment, before doing d+1~d, #B. This should siderole, and
+then roll backwards, leaving you hopefully safe. All in all, turtle and dont attack a
+turtling ogre if you can help it. On the whole its generally not wise.
+
+|T.Ogre|
+
+Perhaps the best character in the game, Kuma has the upper hand against this one. His f+1+2
+becomes a mid hitting move, and your most powerful against this machines WS arsenal.
+
+T.Ogre's guessing game is far more powerful than any normal players, his WS+2 reaches well
+over half the screen for a stun, and wanning moon\u/f+4\4 so you on the whole have to watch
+it, and be ready to hold forward. Attack generally with the f+1+2 if you can, as it is fast
+enough and hits mid, forcing T.Ogre to stay standing. 
+
+In general, you get a free f+1 after his blocked 1,1,2 and 1,2,2. 2,2 is a favourite for 
+punishment, but its not that fast, and if you wiff a f+1,1,1 or get it blocked, be ready
+to see this happening. Otherwise, if you are face to face you may want to initiate a ws
+challenge, seeing who beats who out. As Kuma has a fast and strong WS game indeed.
+
+Try not to use the HBS, or atleast use it at a distance, as the WS+2 hits the HBS and worse,
+T.Ogre's d/f+1+2 lifts kuma out of the HBS to get juggled.
+
+
+|Wang|
+
+Wang is SLOW. Very SLOW. I dont really know what to say to beat this guy, I mean you should
+be able to interupt most anything against this guy, only real thing to watch for is the 
+d/b+4,2 wich is one of his few powerful combo's. But no less, he is still very very slow.
+
+Watch the wanning moon setups, they can be a real pain in the ass, they can land you in some
+seriouse trouble if you are not watching what you are doing, and who your opponent is.
+
+|Yoshimitsu|
+
+WATCH THE b+1+4!! The flash is the bane of the big characters, it counters most anything they
+do or try, posing seriouse anoyances and mean damage to kuma. Another few things to watch out
+for is his setups, his d/f+2 is used mostly like a WGF with less damage. 
+
+Otherwise, I need some help here too for anyone that wants to add strats?
+
+:::::::::::
+: OKIZEME :
+:::::::::::
+
+Okizeme is a japanese term loosely meaning "attacking the opponent even when 
+they are knocked down".  The objectiive is to either keep the opponent grounded 
+or to deal more damage as they try to get up.  Very realistic, if you ask me.  
+When it comes to okizeme, Kuma is undoubtedly the king.  He has a variety of 
+moves that are mid-hitting but are classed as ground hits.
+
+The first part of his Bear Hammer, the 1+2 alone is the best move to use after 
+your opponent is knocked down to a medium distance.  Novice players get killed 
+when they try to roll after being juggled and if you run up and do the 1+2, 
+it'll keep hitting them until they are beaten.  You should go for this 1+2 after 
+both of kuma's front throws, it's not guaranteed but has a good chance of 
+hitting them unless they stand straight up.
+
+The pancake press (u/f+3+4) is a popular move and it catches opponents that like 
+to roll either backwards or forwards.  It has the added advantage of getting you 
+into the Sit stance if it misses, so you can continue into the sitting punches.  
+This way of okizeme is definitely not favoured by experts.  So only use it when 
+you are sure it'll hit.
+
+The Demon Uppercut is also a ground hit and if you time it right you can launch 
+your opponent for a juggle as they recover.  It is guaranteed after some 
+situations which will be discussed later.  Go for this move whenever the 
+opponent simply lies on the ground waiting for you to make a move.  
+
+The FC+1,1 is best used when the opponent is left close to Kuma after a move 
+like his Bear Hug throw, I believe that atleast one hit of the  FC+1,1 is always 
+guaranteed after the Bear Hug throw.  
+
+The Hunting Bear stance moves like 1 or 1,2 and 3+4 tackle are the newest 
+additions to Kuma's okizeme.  I favour the single left Bear Claw (1) done in 
+this stance, as you you can keep doing it by lunging forward after the opponent 
+gets knocked down.  The Hunting stance tackle is great to hit opponents that are 
+rolling back to standing.   
+
+  
+
+
+
+.................................................................................
+
+
+=======================
+10) TRICKS OF THE BEAR
+=======================
+
+There is a basic rule in fighting games which states that you should take 
+advantage of every opportunity when fighting if you want to win.  So in this 
+section, i'll include some tricks that you may or may not know.  These tactics 
+should be used whenever you can, to gain maximum advantage to beat an opponent.
+
+
+||Double Claw guaranteed follow-ups||
+
+The F+1+2 guarantees two major attacks - the f,f+2 demon upercut and also the 
+1+2 hammer.  Every time Kuma's F+1+2 connects, you should go for either of the 
+two attacks immdiately afterwards.  Which one you use depends on what else you 
+wanna do later.  For example if you want to try something from the Hunting Bear 
+Stance, you should do the 1+2 and hold forward to go straight to Hunting.  
+Otherwise, if your aim is to simply enda round or go for a launcher, then do the 
+f,f+2.  As mentioned earlier, when it's done at a specific moment, it launches 
+the opponent just like it usually does with the opponent in standing.  You have 
+totime it to the exact moment the opponent tries to get up.  But if you are 
+simply after some damage, then go fo the f,f+2 without thinking as it's 
+guaranteed and does more damage than the 1+2 hammer.
+
+||Demon uppercut into Salmon Hunter||
+
+This trick was widely known in Tekken 3, where after the f,f+2 a Salmon Hunter 
+(b,f+2+3) would always connect.  But in TTT, it's totally escapable by tagging 
+but seldom does anyone utilise that fact.  Hence it's still a very good idea to 
+do a Salmon Hunter anyway to try to do atleast 80+pts damage in TTT.  Another 
+trick to use here is that if you know that your opponent is good enough to tag 
+out as soon as they land, you should delay the initiation of your Salmon Hunter.  
+That way it'll hit the character that tags in.  
+
+||Two Hit Combos||
+
+Not many players know that a f+1 on CH with Kuma guarantees a d+1.  In fact, I 
+believe that this trick works with all the characters' standing left jabs.  Also 
+a f+1 on CH guarantees a f+2 as well.  These should be utilised whenever 
+possible.  The damage is estimated at about 18-20pts from what I have observed 
+in TTT so far and that's not bad for two such weak hits.  These combos are 
+better as most of the time, you wouldn't know whether or not a f+1,1,1 will all 
+connect, so try a f+1,f+2 instead sometimes.  
+
+||Counterhit 4||
+
+Kuma's standing right kick juggles on CH, as I had mentioned ealier.  The 
+easiest juggle that you can perform is CH 4,F+1+2.  So setting up a CH 4 is 
+important.  Stick it in everytime the opponent tries to rush you or does an 
+attack in close range.  The hardest juggle that you can do here is a CH 
+4,f+1,F+1+2.  But for damage and ease of execution, stuck with the F+1+2 follow 
+up.
+
+||Unblockable to Tackle||
+
+I did not discuss Kuma's B+1+2 unblockable in the move analysis section because 
+I did not think that it's worth doing at all.  But if you like the move and 
+maybe wanna try it someday.  This trick is for you.  After the unblockable hits, 
+press 3+4 to go into Hunting Bear stance immediately and then do Kuma's tackle 
+(3+4).  It is guaranteed to hit from what I have seen so far at the arcade.  
+Maybe a good use for this trick would be to initiate the unblockable after a 
+juggle so the opponent has little time to interrupt you.
+
+||Guaranteed Bear Tackle||
+
+After Kumas 1+2~f, Kuma will be left in HBS, and his bear tackle, 3+4 is guaranteed.
+This is really impotant for okizeme purposes and what not, because of the damage that
+it does, and also the fact that it leaves you in a HBS. This is ONLY guaranteed if 
+you hit it on a standing opponent. You should always do the HBS because of the
+free damage that comes with the tackle.
+
+
+.................................................................................
+
+
+===========================
+11) IDEAL TAG TEAM PARTNER
+===========================
+
+Well this is a difficult call to make.  Since Kuma has very good high launchers 
+and Okizeme, you would want a tag team partner who can take advantage of the tag 
+juggles and also play a very good defensive game to back up Kuma's poking 
+ability.  
+
+For this purpose, Abrar feels that Jin is a very good choice.  He has the 
+attack reversal, the high juggling potential via his Electric Wind God fist 
+(EWGF) and also quite a few multi-level attacks like the White Heron combo plus 
+the good old Stun punch rush and Hell-sweeps.  
+
+In my opinion (Grim Walker) I think Hei makes an excellent tag team partner,
+his high power, EWGF, and potential disatster juggles are an excellent adition
+to Kuma's arsenal, add that to the quick netsu, and you have a combonation of
+a really dangerouse team.
+
+The choice of the best tag team partner depends on your own general playstyle 
+and ofcourse your favouritism.  For instance if you like to use King or Paul, 
+then ofcourse you should choose one of them for Kuma's back-up.  Also if you 
+like to play a total defensive and countering game, then there's no one better 
+than Law with all his parries and pokes.  
+
+
+
+
+.................................................................................
+
+
+
+============
+12) SUMMARY
+============
+
+Well, now here you are nearing the end of this guide.  I hope I made the guide 
+easy to comprehend, otherwise you are welcome to e-mail me any concerns.  I 
+tried my best to provide you with a good guide to playing Kuma, something that 
+you can refer to again and again.  If you are a beginning Kuma player, I would 
+say the best thing to do would be to focus on each section of this guide at one 
+time and master it before moving on to the next part.  Please do not get 
+frustrated if your Kuma gets beaten many times, treat every defeat as a learning 
+experience.  Remember defeat isn't bitter if you don't swallow it.  Time is the 
+best teacher, unfortunately it kills all it's students.  Never let that happen 
+to you.  Stick with Kuma and in the end, you will enjoy the road to learning 
+Kuma.  
+
+If you are already a pro-Kuma player when you read this guide, I hope I made 
+atleast some interesting points to ponder for you.  Isn't it weird that 
+experience is something that you don't get until just after you need  it.  I 
+don't pretend to have all the answers, I don't even pretend to know all the 
+questions........Hey, where am I? Hehehe.
+No doubt there is still heaps to find out about this Call of the Wild called 
+Kuma.  Rest assured that I will be adding to this guide in time.
+
+
+
+................................................................................
+
+
+
+=====================
+13) TEKKEN RESOURCES  
+=====================
+
+-INSIDE TEKKEN-
+
+http://www.geocities.com/TimesSquare/Bridge/2700
+
+This is my website which has eventually turned out to be pretty good.  It has an 
+Articles section, Multimedia, FAQS and the Forum.  It's pretty cool place to 
+hang out and get some good info on TTT by written by the experts.  In the Forum, 
+you can find expert players from different countries across the world like New 
+Zealand, Australia, USA, Phillipines, England, Italy, Holland and many more.
+
+-TTT online-
+
+http://www.tekkentagtournament.com
+
+If you are after some pretty basic TTT info like the damages and hit levels of 
+moves, then this is the place for you.  There is also some pretty good info here 
+regarding the World TTT Championships.  This site also has the official Forum.
+
+-TEKKEN SALUTE-
+
+http://salute.consolenation.com
+
+This site founded by drumdude was the only site that supported us Tekken players 
+when Tekken.Net ditched us over a silly dispute with some scrubs.  Salute has 
+the best Tekken Forum (message board) on the net and has now over 3000 posts - 
+almost all by true tekken experts.  Salute is also the place to go for info 
+regarding any of the Tekken games like Tekken, Tekken 2, Tekken 3 and ofcourse 
+TTT.  The Salute legacy will live on forever.
+
+-TEKKEN ZAIBATSU-
+
+http://www.tekken.net/zaibatsu
+
+This is the site to go for some very cool TTT movies and News.  They have the 
+luxury of owning a TTT arcade machine themselves and so this site is best for 
+gameplay info and movies.
+
+-TEKKEN MANIA MANILA-
+
+This is a site being made by Emannuel from the Phillipines.  It will cover the 
+Phillipines Tekken scene exclusively with a lot of cool movies to come as well.  
+As soon as the site is open, i'll add it's URL here.
+
+-GAMEFAQS-
+
+http://www.gamefaqs.com
+
+No dispute about it, this site is the best one to go for Tekken faqs be it 
+Tekken 2, Tekken 3 or TTT.  Gamefaqs rocks.  The quality and quantity of faqs is 
+very high here and gamefaqs does not host plagiarised faqs which is great.
+
+
+
+.................................................................................
+
+
+
+============
+14) CREDITS   
+============
+
+|mIrAge|
+
+He is a very good friend and tekken sparring partner.  I owe all my growth in 
+Tekken knowledge to him.  We started playing together since the Tekken 2 days.  
+He usually is the one that proof-reads my guides and gives me helpful tips, 
+which I have used in this guide as well.  Check out his article on Poking at my 
+site, Inside Tekken.
+
+|Drumdude|
+
+He was the first one to accept my Tekken 3 Kuma faq when everyone else but 
+gamefaqs, would rather not host it.  He kept Salute alive at a time when there 
+was nowhere for us to turn.  His Forum rocks and it was first here that Jorkie 
+(from Germany) discovered and shared the famous Anna multi-escape reversal in 
+Tekken 3.
+
+|GOOD FRIENDS|
+
+Here I would like to thank all the members of my Forum and all the other players 
+that I have had any fruitful association with, over the years.  Specifically 
+they are : The Chief, Redking, Emannuel, Renick, ETP, Kinetik, Notti, 7th Pixel, 
+Shauno, Joshic, Claka, MC, KOFTEKKEN, Mungo, Majestic, Chojin, Gargoyle Sox, 
+ThunderFist, IronFist, SuperT, MIC and Dufaus.  If I have forgotten to mention 
+anyone, please forgive me dearly.  The Chief and Emannuel have helped me a lot 
+with spreading the goodwill among the tekken community.  We have exchanged video 
+tapes of fights as well to enhance everyone's learning everywhere.  I wish 
+Emannuel best of luck with his site, Tekken Mania Manila.
+
+|Slikatel|
+
+What can I say.  He was the pioneer of online Tekken.  His Jin strategy guide 
+set the standard for many to follow.  I myself have adopted his easy to read and 
+simple format.  He was webmaster of the Tekken Web Project, I wish I was around 
+to see it back then.  But his legacy still lives on in his personal Jin page, at 
+http://www.toxic.net/jin/ where he is hosting his Tekken 3 Jin guide as well as 
+some Jin combo movies.
+
+
+
+..................................................................................
+
+
+If you have comments, criticisms or questions please write them down on the back 
+of a $20 bill and send them to me.  On second thought, you may just wanna e-mail 
+me at abrarz@yahoo.com
+
+
+'Veni, Vidi, Velcro'- I came, I saw, I stuck around.
+
+
+..................................................................................
+                               THE END
+..................................................................................
+ 
+   
+  
+
+
+  
+
+
+
+
+
+ 
+
+  
+
+ 
+
+
+  
+       
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+

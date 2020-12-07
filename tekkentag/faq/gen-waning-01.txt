@@ -1,0 +1,542 @@
+
+
+                 Tekken Tag Tournament: Waning Moon Mini-FAQ
+
+                               revision 1.0
+                                 1-25-00
+
+                              By: Pete Hahn
+                                  "HAN"
+                             PHahn123@aol.com
+
+
+Disclaimer:  This document may be reproduced electronically, as long as
+             it remains unaltered in any way.  Please give proper credit
+             where it is due.  This document Copyright 1999 Pete Hahn.
+
+
+                Document created and best viewed in edit.com
+
+                        spacing check:   1234567890
+                                         ..........
+ 
+Table Of Contents:
+
+  1)  Introduction
+  2)  Conventions Used
+  3)  Move Execution Tips
+        A)Wang
+        B)Ogre and True Ogre
+  4)  Move Set Ups
+        A)Wang
+        B)Ogre and True Ogre
+  5)  Move Follow Ups
+        A)Wang
+        B)Ogre and True Ogre
+  6)  Credits/Thanks
+
+
+{ 1 } I n t r o d u c t i o n
+
+      This mini-faq is designed to share my knowledge of one of the most
+      potent moves in all of Tekken Tag Tournament (and probably in any
+      Tekken game, period); The Waning Moon throw.  Only 3 characters have
+      this move: Wang, Ogre and True Ogre.  This throw has a complex motion,
+      but it is the same motion for all three characters ALMOST.  Please
+      read the Move Execution Tips to see differences between the three as
+      far as execution is concerned.  The motion for this throw is: tap the
+      down forward diagonal twice in succession (and you've got to be
+      accurate), then hit both the right punch and right kick buttons at the
+      same time.  The character with the Waning Moon will then procede to
+      grab the opponent, spin behind their back, and hit them with both
+      elbows in the back.  The opponent will then stagger away from the
+      Waning Moon character, stunned and dropped to their knees.  During
+      this time where the opponent still has their back turned and is
+      recovering, you have initiative to attack their unguarded back for a
+      slight moment. If you did the throw with Wang, he can immediately
+      tag to his partner, and they can execute a follow up instead of
+      Wang.  Wang's partner will come in to the stunned character's front
+      side, and will have the initiative to attack.
+
+      As you can probably tell, this FAQ is an in-depth FAQ on only ONE MOVE
+      for these characters.  This FAQ is only meant for intermediate
+      to high level play.  Please don't waste your time reading this FAQ if
+      you aren't serious about learning this move;  Someone could literally
+      spend a week mastering the execution ALONE.
+
+      The Waning Moon is a difficult move to use, but that doesn't come
+      without it's strong points:  The Waning Moon throw can lead to the
+      most potent combos in the game, hands down.  Imagine being able to do
+      nearly 100 points of damage in one combo, completely turning a losing
+      round in your favor...seems unfair doesn't it?  Like I said before, the
+      move is extremely hard to execute, and this is how I can justify using
+      the Waning Moon to it's full potential.  To put it bluntly:  If a Paul
+      scrub can get lucky and hit me with a counter hit deathfist, I am
+      losing 60+ points of life with that one move...and Paul's deathfist
+      is only a quarter circle motion and one button.  If he can get 60+
+      points with that much ease, what's wrong with doing a motion easily 
+      more than twice as difficult to get 100 points of damage?  Trust me,
+      once you get the motion down and are able to set it up properly,
+      you'll be just dying to take advantage of the damage you can inflict;
+      and you'll be doing it without mercy or remorse because you spent the
+      time to learn this most difficult move.  (Evil laugh...)
+
+
+{ 2 } C o n v e n t i o n s
+
+        Note: You'll find my conventions very close to those of
+        Tekken.Net...I'm already used to them, and they are pretty
+        much accepted to be a standard in the Tekken community.
+
+        Moves Conventions
+
+        Special "HAN" convention used later in the FAQ: WM = Waning Moon
+
+                                 -   -   -
+        1   = left Punch       | 1 | 2 | 5 |
+        2   = right Punch        -   -   -     button layout
+        3   = left Kick        | 3 | 4 |
+        4   = right Kick         -   -
+        5   = tag
+        u   = tap u  (d=down, b=back, f=forward, ect...)
+        U   = hold up (D=hold down, B=hold back, F=hold forward, ect..)
+        d/f = tap down and forward diagonal
+        D/F = hold the down and forward diagonal
+        qcf = quarter circle forward (qcb=quarter circle back, ect...)
+        hcf = half circle forward (hcb=half circle back, ect..)
+         n  = nuetral (no joystick input)
+       WGF  = Wind God Fist (f,n,d,D/F+2)
+       EWGF = Electric Wind Godfist (f,n,d,d/f+2) hit 2 right after d/f
+         ~  = immediately follwed by...
+         ,  = followed by... (i.e. "3,4" = left kick followed by right kick
+         _  = or (i.e. "3_4" = left kick or right kick
+        ss  = side step
+         +  = and (i.e. "3+4" = left kick and right kick simultaneously)
+        ws  = while standing from crouch
+        bk  = move leaves back turned towards opponent
+        bt  = back turned towards opponent
+        jg  = juggle starter
+        fc  = from crouch (i.e. character in full crouch animation)
+        rc  = move recovers in a crouching position
+        ch  = counter hit
+        ob  = opponent shows back when hit with a move with this property
+        gb  = opponent's guard is slighty broken, giving you the advantage
+
+                               Hit Levels
+
+             l  = hits low (must block low)
+             L  = hits low and grounded opponents
+             sm = special mid, can be blocked high or low
+             SM = special mid, hits grounded oppponents
+             m  = hits mid, must block standing up
+             M  = hits mid and grounded opponents
+             h  = hits high (can be crouched under)
+             H  = his high and grouded opponents
+             !  = unblockable attack
+             !m = mid unblockable (cannot be crouched under)
+             !M = mid unblockable that hits grounded opponents
+             !h = high unblockable (can be crouched under)
+             !H = high unblockable that hits grounded oppponents
+
+
+{ 3 } M o v e   E x e c u t i o n   T i p s
+
+      General: This is the Golden Rule of an aspiring (or already a master)
+      "Waning Mooner":  Know thy joysticks.  Unless the competition comes
+      home to you (ahem, Sauer...), you're going to have to adjust to the
+      diagonals and feel (looseness/tightness) of the sticks everywhere
+      you play.  This might mean buying 2 games worth of tokens and playing
+      Wang/Ogre on both sides of the machine so you can get used to the
+      sticks' feel and practice the motion...it might mean doing this 10
+      times a day for the next week.  Just don't get discouraged.  And for
+      Pete's sake (sorry, I had to say it), don't go into a tournament
+      expecting to pull a Waning Moon comeback if you haven't scoped out
+      the sticks and fully adjusted to them beforehand.  Back in the good Ol'
+      days of Tekken1, the Waning Moon was simple 2+4 throw - I would love to
+      have that back!
+
+      I personally find the double d/f tap easiest to execute on Happ's
+      "Ultimate Joystick," since the stick's shaft is thinner than others.
+      It allows for more precise diagonal movement.  The downside that many
+      compain about is that the joystcks seem "jumpy" and will oftentimes
+      hop in the middle of movement or crouch dash.  I remedy this by sitting
+      in a stool in front of the game.  This accomplishes several things:
+      First, it rests my legs.  Secondly, I more easily can align
+      myself with the center of the stick so I don't get "jumpy" unless I
+      start to loose my concentration and so I feel the d/f (and other)
+      diagonals much easier.  If only American arcades would install the
+      Japanese style "ball" sticks...they are super accurate with precision
+      diagaonl movements, and it is also easier to tap directionals faster,
+      which is useful in performing "Crazy Legs" and other fancy footwork.
+      I guess we Americans are too rough on the sticks; even the Happ sticks
+      tend to bend at the shaft under rough play.  There have been times
+      where I have replaced a joystick on our TTT machine where
+      I work after as little as 4 days, because the mashers decided to
+      have a competition or something and the shaft is bent.  Don't even
+      think about getting the Japanese style sticks for a long time; they are
+      even more fragile than the Happ sticks.
+            
+      A) For Wang:  Wang's execution of the Waning Moon is actually harder
+         than Ogre's (slightly).  It seems that Wang must be more accurate
+         with his taps, and also slightly faster.  You can try button
+         buffering the 2+4 part (hold 2 or 4, do the d/f, d/f taps, then hit
+         the other button while still holding the first), but I would
+         recommend against it because you will get either a ss+4, d/f+2
+         or d/f+4 if you aren't 100% accurate.  Wang's Waning Moon is going
+         to take more time than Ogre's to learn; I would recommend learning
+         Wang's first -- Ogre's will come out that much easier.  To be
+         consistent is the goal; when you are, you will be feared because of
+         it.  The escape for the throw is a dual button escape: 1+2.
+         However, the escape must be input within 12 frames (about 1/10 of a
+         second) from the time the opponent was grabbed.  That means that not
+         many except "Crazy Fingers" himself should be escaping your Waning
+         Moon on reaction... it would have to be anicipated.  That leads me
+         to the next point on landing a Waning Moon...DON'T BECOME
+         PREDICTABLE WITH IT'S USE.  You'll be doing other Wang users and
+         myself a great disservice by conditioning the opposition to be
+         ready for it.  After a f+1 counter hit, go for a hopkick or a f+4
+         if you landed a Waning Moon the previous round with the same set up.
+         Don't make the Waning Moon your only counter for a missed move;
+         if the opponent escapes your Waning Moon, you've overused that
+         set up that preceded the escape.
+
+         If you can't get it at first, you might try doing why do every now
+         and then...find a time at the arcade where you won't be challenged,
+         then set up a stool and bring some rubber bands.  What I usually do
+         is play on the second player side (my d/f taps are less accurate on
+         this side), and take a rubber band and force the player one stick
+         into a back (left) position.  Make sure that it is all the way in
+         the left position, then pick your team (Wang and any character whose
+         follow ups you want to verify/practice), and then pick Nina and Anna
+         for the opposite player side.  Round 1...Nina/Anna will start
+         walking back.  Dash up in their face and throw a basic jab (1).
+         Now quickly go for a Waning Moon Throw.  If you messed it up, (and
+         didn't button buffer the button presses), Wang will try to grab with
+         a normal 2+4 throw.  How can you tell the difference?  Wang's hands
+         grab out the same length when you nail a Waning Moon, but if you
+         miss, his right arm will grab farther, and you (Wang) will end up
+         missing Nina/Anna with the normal 2+4 throw.  If you did get the
+         Waning Moon, the slight range increase (due to both arms being
+         extended) will have enough range to grab them, even with the 1p
+         joystick walking back for you automatically.  Nina/Anna walk back
+         at the right pace for this to work, so I always use this to practice
+         my Waning Moon.  Another thing that you can use my little training
+         set up for is to practice tag follow ups; since the joystick will
+         be held in a blocking position (left) if you tag, you can verify if
+         your follow up would be blockable had you pulled the Waning Moon in
+         match play, since Wang's teammate will come out from the right
+         side.
+         
+      B) For Ogre and True Ogre:  As long as you take my advice and learn
+         to use Wang's Waning Moon first, I shouldn't even need to put in
+         this section.  The Ogre's can be slightly slower and less accurate
+         than Wang and still get the Waning Moon to come out.  I feel this
+         was done on purpose;  you can't tag Ogre's Waning Moon to another
+         character, and his follow ups tend to be less damaging than Wang's.
+         There is one more difference between Wang's and the Ogre's Waning
+         Moon throws:  The Ogre's Waning Moon CANNOT BE ESCAPED!  That means
+         as soon as you make contact with the throw, it's bedtime for the
+         opponent.
+
+
+{ 4 } M o v e   S e t   U p s
+
+      General:  Ok, if you've got this far in my FAQ, you've already got the
+      motion down (or you're planning on having it down), so now the
+      move needs to be set up properly.  There are several instances where
+      Wang and the Ogre's can (and should) pull out a Waning Moon that are
+      shared:
+
+      1) The most common:  After a basic jab (1_f+1) counterhit. The opponent
+         has very little time to duck, and most likely won't be able to throw
+         out a counter to the Waning Moon before it comes out.
+
+      2) Another (uncommon against good competition):  After a missed,
+         slow recovering move.  You just blocked the elbow portion of Paul's
+         d+4,2 falling leaf?  Great, punish him for it!
+
+      3) As the opponent quick recovers:  If you can anticipate a quick
+         recover get up from the opponent, a Waning Moon is usually a safe
+         bet.  I like this set up combo for Wang:  u/f+4 (or any other juggle
+         starter), D+2, d/f+3,4...then: if they quick recover, Waning Moon...
+         if they don't quick recover a d/b+4,2 will hit them as the hit the
+         ground.
+
+      4) After a d/f low parry: This set up is pretty effective; I smiled to
+         myself when I realized the potential of this setup.  The opponent
+         doesn't have much time to react unless you get predictable in this
+         set up, so keep it fresh please.  Wang will have to take a half step
+         in to Waning Moon after a d/f low parry, since his arms aren't as
+         long as the Ogre's, but the Ogre's (True Ogre's especially) has some
+         range to it.  You might want to stick in the the half step forward
+         even if you are Ogre, just to make sure you are in range.  This is
+         your ultimate revenge against people that constantly assault your
+         legs to annoy you: Heihachi hell sweepers, Laws that use the
+         Junkyard kick, Jun's annoying sweeps, Lee's infernal D+4,4,4,4 combo,
+         Jack's d/b+1 and all the others you can think of...now imagine that
+         anticipated low attack = 70+ points of damage to your opponent.
+         (Evil laugh...)
+
+      A) For Wang:  
+
+         1) Wang's Specialty: Crouch dash into Waning Moon throw.  This is
+            really hard to get consistently, but it's also very effective.
+            Don't use the Waning Moon all the time out of a crouch dash, mix
+            it up with a delayed deathfist or a f+4 to keep them honest.
+
+         2) After you've forced the opponent to block a move that induces
+            guard stun such as ss+1+2 (you'll need to step in to hit it, but
+            if you cround dash in it'll be more effective) or flying cross
+            chop (while running f+1+2 or tagging in to Wang, then f,f,n+1+2).
+
+      B) For Ogre and True Ogre:
+
+         1) After the 1,1 chain attack:  This is fairly effective, even more
+            so if the 1,1 chain hits the opponent.  For some reason even
+            good players fall asleep after being hit witht he 1,1 chain.  I
+            am sure this is due to the monotinous 1,1,2 attack that lots of
+            Jin and Hei players love to use for a quick, easy counter and
+            knockdown.  Test your opponent on this once; if he evades the
+            Waning Moon the first time, chances are he'll be more than ready
+            with a counter the second time.
+
+         2) After the d/f+1 elbow:  This is the "HAN special" that I devised
+            a couple of years ago with Ogre in Tekken 3 that still works like
+            a charm in TTT, especially if the d/f+1 counterhits.  Please,
+            keep this set-up fresh and only call it out in desperate need;
+            if you use more than 2 or 3 times in one game against someone,
+            they'll eventually wise up.  That means using the d/f+1,2 string
+            a good amount before you want to hit the Waning Moon, and
+            switch it it to a hop kick after a d/f+1 to keep them honest
+            every now and then.
+
+         3) After a ws+2 stun:  Unless they Tag escape the ws+2 stun, the
+            Waning Moon will hit, since the throw itself is inescapable.
+
+         4) After a blocked slash kick (while running 3, or f,f,f+3 a couple
+            steps away from the opponent).
+
+         5) After a blocked u/f+3,4 (2/3 hunting hawk) or f,f+4 (bazooka leg).
+
+      Feel free to devise your own set ups, and send them this way
+      (PHahn123@aol.com) if they are particularly useful.  Of course I'll
+      give you credit!
+
+
+{ 5 } M o v e   F o l l o w   U p s
+
+      I will include follow ups that are both guaranteed and not.  I will
+      denote follow ups that are definitely escapable with a "*".  The
+      others, to the best of my knowledge, cannot be escaped, but I could
+      be wrong.  Please let me know if you can verify 100% that
+      someone has escaped a follow up that I have listed.  Remember,
+      "WM" is my shorthand for Waning Moon in this section.
+
+      A) Wang
+
+         WM, f,f,f (run in), qcf+2 (deathfist)
+
+         WM, f,f,f+3 (run in slash kick)
+
+         WM, f,f,f (run in), 1~1,1, d+4,1, d/f+1+2  (no big characters!)
+         (approx 80% damage)
+
+         WM, f,f,f (run in), d/b+4,2, 1, d/b+4,2, d/f+1+2 (approx 85% damage)
+
+         WM, f,f,f (run in), d/b+2,4, 1, 1+2 (www.tekken.net)
+
+         WM, f,f,f (run in), d/b+4,2, d+4,1, d/f+1+2
+                  
+         WM, tag to Beak, f,f,n+1+2 (blocked), 1,2,3(f), 1,2,3(f), 1,2,
+
+         WM, tag to Beak, f,f (run in), 3+4 (hops over opponent) back throw
+
+         WM, tag to Beak, f,f,n+1+2 (blocked), 1,2, 3+4(F), d+3
+
+         WM, tag to Michelle, f,f,n+1+2 (blocked), 1, f,f+1, f,f+1,
+         f,f+1, f,f+1,4
+
+         WM, tag to Armor King, f,f,n+1+2 (blocked), 1, 1, 1, 1, b+3
+
+         WM, tag to Gun Jack, f,f,n+1+2 (blocked), 2, 2, F+1+2
+
+         WM, tag to Anna, f,f,n+1+2 (blocked), 1, u/f+1,3, f+1+2
+
+         WM, tag to Bryan, f,f,n+1+2 (blocked), 1, d+2, 1, f,f+2
+
+         WM, tag to Heihachi, WGF, any follow up (my favorite: 1, 1, 1, b+1)
+
+         WM, tag to Ganryu, f,f,n+1+2 (blocked), 2,1,2, d+1+2
+
+         WM, tag to Ganryu, f,f,n+1+2 (blocked), 2,1,2, d/f+2, 1+2
+
+         WM, tag to Julia, f,f,n+1+2 (blocked), D+1, d/f+3+4, d/f+4,2,b,f+1
+
+         WM, tag to Jun, f,f,n+1+2 (blocked), D+1, ws+3~5, (tag to Wang),
+         f,f,n+4
+
+         WM, tag to Jun, f,f,N+1+2 (blocked), 1+4, 1+4,2,d+4
+
+  (*)    WM, tag to Xiaoyu, f+3+4, side throw
+
+         WM, tag to Xiaoyu, f,f,n+1+2 (blocked), 1,2, f,f+1+2,1+2
+
+         WM, tag to Yoshi, f,f+1+4 (approx 90% damage)
+
+         WM, tag to Yoshi, b,b+1,n+1
+
+         WM, tag to Yoshi, u/f+1+2,d
+
+         WM, tag to Nina, f,f,n+1+2 (blocked), 1, 1,2, d/f+3,1,2,f+1+2
+
+         WM, tag to Nina, f,f+3
+
+   (*)   WM, tag to Nina, hcf,d/b+2+3, d/b+3+4, any follow up
+
+         WM, tag to Law, f,f,n+1+2 (blocked), 1, b+2,3,4
+
+   (*)   WM, tag to Hwoarang, f,n,d,d/f+4, any follow up
+
+         WM, tag to Hwoarang, f,f,n+1+2 (blocked), 1, d/f+1+2, d+4,4
+
+         WM, tag to Eddy, f,f,n+1+2 (blocked), 1, 1,2,4~4
+
+         WM, tag to Paul, f,f,n+1+2 (blocked), 1, qcf+2 or f+1+4 or f+1+2 or
+         qcb+3,2,1
+
+         WM, tag to King, f,f,n+1+2 (blocked), 2,1, 1+2, 1
+
+         WM, tag to King, f,f+2+3   (looks nice!)  :)
+
+         WM, tag to Lei, f,f,n+1+2 (blocked), 1, f,n+1,2,(1),2,4
+
+         WM, tag to Jin, f,f,n+1+2 (blocked), 1, 1, 1, d/b+1
+
+         WM, tag to Jin, b+1+4
+
+         WM, tag to Jin, EWGF, any follow up 
+
+         WM, tag to Kuni, f,f,n+1+2 (blocked), 1, b+1,1,(1),1, f+3+4
+
+         WM, tag to Kuni, d+3+4 (hard to time, both hits connect!)
+
+         WM, tag to Kuni, b+1+2 (delayed, only 2nd hit connects), D+1,
+         d/f+3
+
+         WM, tag to Kazuya, b+1+4
+
+         WM, tag to Bruce, f,f,n+1+2 (blocked), 1, b+4,3,4
+
+         WM, tag to Bruce, f,f,n+1+2 (blocked), 1, f+1,2,1
+
+         WM, tag to Kuma/Panda, u/f+1+2 (hops over opponent) back throw
+                    (thanks to Douzono "Stone Cold" Takeshi)
+
+         WM, tag to Kuma/Panda, f,f,n+1+2 (blocked), f+1,1,1, tag to Wang,
+         f,f,n+4 slide in  (thanks to Douzono "Stone Cold" Takeshi)
+
+         WM, tag to Jack 2, f,f,n+1+2 (blocked), 2, 2, F+1+2
+
+         WM, tag to Lee, f,f,n+1+2 (blocked), 1, step in, D+4,4,4,4
+
+         WM, tag to P.Jack, f,f,n+1+2 (blocked), 2, 2, F+1+2
+
+         WM, tag to Devil, WGF, any follow up
+
+         WM, tag to True Ogre, f,f,n+1+2 (blocked), D+1, ws+4,4
+
+         WM, tag to Ogre, f,f,n+1+2 (blocked), D+1, D+3,3,n+3~5, (tag to
+         Wang), f,f,n+4
+
+   (*)   WM, tag to Ogre, d/f+1 (misses), d/f,d/f+2+4, any Ogre Waning Moon
+         follow up
+
+         WM, tag to Alex/Roger, f,f,n+1+2 (blocked), 1, f,n,d,d/f+1
+
+      B) Ogre and True Ogre
+
+         WM, f,f,f (run in), f+2
+
+         WM, f,f,f+3 (slash kick)
+
+         WM, f,f,f (run in,) d,d/b+4 (tag, then do f,f,n+1+2 against larger
+         characters) -- (thanks to Douzono "Stone Cold" Takeshi)
+                         (approx 90% if started with ws+2 stun)
+
+         WM, f,f,f (run in), u/f+3,4,3
+
+     
+{ 6 }  T h a n k s / C r e d i t s
+
+        The author would like to thank, in no particular order:
+
+        Name:                    For:                       Enter Initials:
+        -------------------------------------------------------------------
+        Udey K.          Cool guy + Got me hooked on Tekken!      UKK
+                         The creator of an awesome Beak
+                         illustration.
+                                      
+        Chi-Fu (Jeff)    Helping me understand Gamest stuff,      ???
+        and Chi-Yuan     for all the times we played at your
+        (sorry if I      place, and for treating us (UKK and
+        spelled it       me) to great food.
+        wrong!)
+
+        SauerKraut       Playing at his place, GREAT competition, ???
+                         nice new web site about to be put up,
+                         helping test various tidbits, as well.
+
+        Ed               Competition, turtling like MAD with      ELP
+                         the animals! :)     
+
+        Mike E.          Playing every Friday, competition        JZA
+
+        Hass R.          Brian and Bruce forever!!!               HJR
+
+        Chris M.         Starting to play again and proofreading  C M
+                         this Mini-FAQ. 
+
+        Pete H.          Being the video game addict that         HAN
+                         made this guide!  :)
+
+        Kristen E.       Everything!  ;)                          KAE
+
+        "Crazy Fingers"  ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?  C.F
+
+        Paul Scrubz      Being a punching bag for my Wang/Ogre,  SCRUB
+                         and inspiring me to find the quickest
+                         ways to dispatch of their kind
+
+
+        The sites that have helped me in writing this FAQ:
+
+
+        www.fighters.net  great site for all you fighting game fanatics
+                          like myself.
+
+        www.gamefaqs.com  for all of my FAQ needs.
+
+        www.tekken.net   great site for many reasons, (forum, frame data,
+                         combos, ect)...but I must admit, those combo
+                         exhibtions rock.  Thanks guys!
+
+        www.tekkentagtournament.com   nice forum set-up and some move
+                                      information was taken from this
+                                      site for official move names and
+                                      damages.
+
+        I would also like to thank all those at Namco that made the TTT
+        tournies run so well.  While the midwest regionals could have been
+        better with more machines, I think that Namco did the best they
+        could, given the circumstances.  Namco also deserves another round
+        of applause for creating one of the most fun, addictive, and
+        strategy-oriented games ever made!
+
+
+               Extra Bonus for those of you that read this far:
+-----------------------------------------------------------------------------
+       Special Tekken 2 Wang 100% Waning Moon combo vs big characters only:
+
+         WM, f,f,f (run in), 2,1,1,2,3,3,3,4,4,1 (ten string),
+         D+4, d/f+3,4, d/f+1+2
+-----------------------------------------------------------------------------

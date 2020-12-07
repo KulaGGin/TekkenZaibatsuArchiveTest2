@@ -1,0 +1,4696 @@
+* Updated to include Tekken: Dark Resurrection on the PSP!
+
+                      _____    _    _              ____
+                     |_   _|__| | _| | _____ _ __ | ___|
+                       | |/ _ \ |/ / |/ / _ \ '_ \|___ \
+                       | |  __/   <|   <  __/ | | |___) |
+                       |_|\___|_|\_\_|\_\___|_| |_|____/
+
+
+
+==============================================================================
+                  TEKKEN 5: Story Battle Dialogues (US ver.)
+==============================================================================
+
+                             v. 3.00  |  2007.03.20
+            by Triple Lei <justin.sison -- @ -- gmail -- . -- com>
+                           formats: PlayStation2, PSP
+
+
+
+This document / FAQ _may_ be reproduced electronically, as long as it remains 
+in its unaltered form.  You may also print it, but, of course, you _may not_ 
+make money off of this - even if you _do_ give credit!  That doesn't make it 
+any more moral (or legal), folks!
+
+      I want to take this time to humiliate EGM and Game Cave once more:
+                               "This means you!"
+
+This document Copyright 2007 by Justin Sison. This is dedicated to Kao Megura.
+
+
+
+Current versions of this FAQ can be found at:
+
+- www.gamefaqs.com
+- www.tekkenzaibatsu.com
+
+
+
+=================
+TABLE OF CONTENTS
+=================
+
+ 1.  INTRODUCTION  . . . . . . . . . . . . . . . . . . . . . . . . . . . 892e5
+      - 1.1   Story Chart (T5) . . . . . . . . . . . . . . . . . . . . . 1b556
+      - 1.2   Story Chart (TDR)  . . . . . . . . . . . . . . . . . . . . 53f69
+      - 1.3   Jinpachi Mishima . . . . . . . . . . . . . . . . . . . . . 4850d
+ 2.  CHARACTERS (T5) . . . . . . . . . . . . . . . . . . . . . . . . . . 1dd06
+      - 2.1   Anna Williams  . . . . . . . . . . . . . . . . . . . . . . 8c6d0
+      - 2.2   Asuka Kazama . . . . . . . . . . . . . . . . . . . . . . . 454fe
+      - 2.3   Baek Doo San . . . . . . . . . . . . . . . . . . . . . . . 6fdf4
+      - 2.4   Bruce Irvin  . . . . . . . . . . . . . . . . . . . . . . . 3101c
+      - 2.5   Bryan Fury . . . . . . . . . . . . . . . . . . . . . . . . 2d44b
+      - 2.6   Christie Monteiro  . . . . . . . . . . . . . . . . . . . . 2df16
+      - 2.7   Devil Jin  . . . . . . . . . . . . . . . . . . . . . . . . ca717
+      - 2.8   Eddy Gordo . . . . . . . . . . . . . . . . . . . . . . . . 58e2f
+      - 2.9   Feng Wei . . . . . . . . . . . . . . . . . . . . . . . . . 2db62
+      - 2.10  Ganryu . . . . . . . . . . . . . . . . . . . . . . . . . . 70511
+      - 2.11  Heihachi Mishima . . . . . . . . . . . . . . . . . . . . . 9404d
+      - 2.12  Hwoarang . . . . . . . . . . . . . . . . . . . . . . . . . bdbc1
+      - 2.13  Jack-5 . . . . . . . . . . . . . . . . . . . . . . . . . . afe7b
+      - 2.14  Jin Kazama . . . . . . . . . . . . . . . . . . . . . . . . eedfb
+      - 2.15  Julia Chang  . . . . . . . . . . . . . . . . . . . . . . . 03f1b
+      - 2.16  Kazuya Mishima . . . . . . . . . . . . . . . . . . . . . . 2631e
+      - 2.17  King . . . . . . . . . . . . . . . . . . . . . . . . . . . 9a4ed
+      - 2.18  Kuma . . . . . . . . . . . . . . . . . . . . . . . . . . . af660
+      - 2.19  Marshall Law . . . . . . . . . . . . . . . . . . . . . . . cf4c6
+      - 2.20  Lee Chaolan  . . . . . . . . . . . . . . . . . . . . . . . 836d6
+      - 2.21  Lei Wulong . . . . . . . . . . . . . . . . . . . . . . . . 4467a
+      - 2.22  Craig Marduk . . . . . . . . . . . . . . . . . . . . . . . 4137a
+      - 2.23  Mokujin  . . . . . . . . . . . . . . . . . . . . . . . . . 6cfb4
+      - 2.24  Nina Williams  . . . . . . . . . . . . . . . . . . . . . . 76bfd
+      - 2.25  Panda  . . . . . . . . . . . . . . . . . . . . . . . . . . 506a4
+      - 2.26  Paul Phoenix . . . . . . . . . . . . . . . . . . . . . . . f884a
+      - 2.27  Raven  . . . . . . . . . . . . . . . . . . . . . . . . . . 57d3c
+      - 2.28  Roger Jr.  . . . . . . . . . . . . . . . . . . . . . . . . cafe7
+      - 2.29  Steve Fox  . . . . . . . . . . . . . . . . . . . . . . . . 33231
+      - 2.30  Wang Jinrei  . . . . . . . . . . . . . . . . . . . . . . . c1352
+      - 2.31  Ling Xiaoyu  . . . . . . . . . . . . . . . . . . . . . . . 94135
+      - 2.32  Yoshimitsu . . . . . . . . . . . . . . . . . . . . . . . . f0bef
+ 3.  CHARACTERS (TDR)  . . . . . . . . . . . . . . . . . . . . . . . . . 6bc59
+      - 3.1   Armor King . . . . . . . . . . . . . . . . . . . . . . . . 0603c
+      - 3.2   Sergei Dragunov  . . . . . . . . . . . . . . . . . . . . . a9c4f
+      - 3.3   Lili Rochefort . . . . . . . . . . . . . . . . . . . . . . 6ac93
+ 4.  MISCELLANEOUS . . . . . . . . . . . . . . . . . . . . . . . . . . . 3c388
+      - 4.1   Things To Do . . . . . . . . . . . . . . . . . . . . . . . 0adea
+      - 4.2   Rantings . . . . . . . . . . . . . . . . . . . . . . . . . ae0b2
+ 5.  LINKS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . decc5
+ 6.  THANKS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . d77fa
+ 7.  VERSION HISTORY . . . . . . . . . . . . . . . . . . . . . . . . . . 70433
+
+
+As of v. 3.00, this FAQ comes with a handy search function.  Simply copy the 
+5-digit code of the section you want to go to and use your browser's search
+function!  More info in the Links section (decc5). 
+
+
+
+==============================================================================
+ 1.  I N T R O D U C T I O N                                            892e5
+==============================================================================
+
+I have a Japanese PS2, which means I was "stuck" waiting for the Japanese
+version of Tekken 5!  That's certainly unfair... I had the Japanese Tekken 2
+a good 9 (nine) months before the rest of you suckers in the US, and I
+enjoyed similar early release dates for Tekken 3, Tekken Tag, and Tekken 4.
+
+The Japanese version, as you all know, was released not just "a little" later,
+but a whole MONTH later, with improved ghost AI being the only enhancement.
+As I played, I realized I wouldn't be able to fully enjoy the Story Battle, 
+since I only had a rather limited command of Japanese.
+
+Luckily, my cousin got Tekken 5 as well, so on the weekends I would transcribe
+about a dozen of the characters' dialogues.  The slightly annoying part was
+losing on purpose just for the sake of not missing any "losing" dialogues. 
+The VERY annoying part was trying to beat Jinpachi with characters I don't 
+even use, because most of the time there wasn't a point in going on past the
+2nd rival!
+
+Still, it wasn't as bad as Devil Within!  I'm not sure I'll ever get around
+to finishing that last stage... bleh...
+
+
+I'm also planning on doing this entire thing for the Japanese version too.
+I've already noticed a few small differences.  For example, in the US
+version, Baek says "Why don't you join in on one of my sessions?", while he
+says something like "You'll become strong" in the Japanese version.  Of
+course, I don't know Korean, so I can't say which is the more correct
+translation.  Ultimately, this is to improve my Japanese, and what better
+way than with phrases like "isoidahoo ga ii... shinitaku nakereba na" ("You
+should hurry, if you don't want to die...") and "ano toki no bakudan robotto
+no nakama da na" ("You're one of those exploding robots from before, huh?")
+
+
+
+----------------------------------------------------------------------------
+ :: 1.1  Story Chart (T5) ::::::::::::::::::::::::::::::::::::::::::: 1b556
+----------------------------------------------------------------------------
+
+Not all characters have a 4th or 7th rival.  Some do not fight Devil Jin on
+the 8th stage, and sometimes the dialogues with Jinpachi are different.  And 
+only some have "losing" dialogues (and not as many as I would have hoped).  
+This chart lets you see it all at a glance:
+
+
+.--------------------------------------------------------------------------.
+|            | 4th stage | 7th stage | 8th stage | Other Jinpachi | Hidden |
+|            |   rival   |   rival   |   rival   |    dialogue    |  loss  |
+|------------+-----------+-----------+-----------+----------------+--------|
+| Anna       |    Lee    |   Nina    |         no|              no|  Lee   |
+|------------+-----------+-----------+-----------+----------------+--------|
+| Asuka      |   Feng    |         no|         no|       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Baek       |    Law    | Hwoarang  |         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Bruce      |   Steve   |  Kazuya   |         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Bryan      |    Lei    |   Yoshi   |         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Christie   |   Bruce   |   Eddy    |         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Devil Jin  |         no|         no|   Asuka   |       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Eddy       | Christie  |  Kazuya   |         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Feng       |    Lei    |   Asuka   |         no|       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Ganryu     |   Julia   |         no|         no|       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Heihachi   |  Jack-5   |         no|  Kazuya   |       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Hwoarang   |   Baek    |         no|        Jin|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Jack-5     | Heihachi  |         no|         no|       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Jin        | Hwoarang  |         no|         no|       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Julia      |  Ganryu   |         no|         no|       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Kazuya     |   Raven   |         no| Heihachi  |       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| King       |   Julia   |  Marduk   |         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Kuma       |  Xiaoyu   |   Paul    |         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Law        |   Paul    |         no|         no|       yes      |  Paul  |
+|------------+-----------+-----------+-----------+----------------+--------|
+| Lee        |  Kazuya   | Heihachi  |         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Lei        |   Wang    |   Feng    |         no|       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Marduk     |   Anna    |   King    |         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Mokujin    | Roger Jr. |         no|         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Nina       |   Raven   |   Anna    |         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Panda      |   Kuma    |         no|         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Paul       |   Kuma    |         no|         no|       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Raven      |         no|         no| Heihachi  |       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Roger Jr.  |  Mokujin  |         no|         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Steve      |    Lei    |  Heihachi |         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Wang       |  Xiaoyu   |   Feng    | Heihachi  |       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Xiaoyu     |    Jin    |         no|         no|       yes      |      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+| Yoshimitsu |   Raven   |   Bryan   |         no|              no| Raven  |
+ `-------------------------------------------------------------------------'
+
+
+
+----------------------------------------------------------------------------
+ :: 1.2  Story Chart (TDR) :::::::::::::::::::::::::::::::::::::::::: 53f69
+----------------------------------------------------------------------------
+
+I've been assured that all the text, dialogue, and endings for the T5
+characters are the same in the PSP Tekken: Dark Resurrection.  Even if 
+they're slightly different, though, I wouldn't feel like typing them down
+again, and I'm sure you wouldn't bother to read them just to check anyway.
+
+
+.--------------------------------------------------------------------------.
+|            | 4th stage | 7th stage | 8th stage | Other Jinpachi | Hidden |
+|            |   rival   |   rival   |   rival   |    dialogue    |  loss  |
+|------------+-----------+-----------+-----------+----------------+--------|
+| Armor King |  Marduk   |         no|         no|              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+|  Dragunov  |   Raven   |         no| Devil Jin |              no|      no|
+|------------+-----------+-----------+-----------+----------------+--------|
+|    Lili    |  Ganryu   |         no|         no|       yes      |      no|
+ `-------------------------------------------------------------------------'
+
+
+
+----------------------------------------------------------------------------
+ :: 1.3  Jinpachi Mishima ::::::::::::::::::::::::::::::::::::::::::: 4850d
+----------------------------------------------------------------------------
+
+The arcade mode (I mean the actual arcade version of Tekken 5, if you can
+find it) had the same Jinpachi dialogue for all characters... I think.  I
+only played Hwoarang back then, and that was when I was exclusively playing 
+shooters like Strikers 1945 III.  
+
+Also notice that the girls... well, TURN AROUND DIFFERENTLY from the guys!
+Fire up that VCR and get to Jinpachi with both Eddy and Christie - it'll
+blow your mind!!!!1  
+
+(UPDATE: You can also see the standard Jinpachi dialogue for all characters 
+by just playing through the Time Attack mode.  Shows how much I paid 
+attention to that...)
+
+About the CG Ending: You can see this ending by losing to Jinpachi in
+Story Battle and NOT continuing, though apparently if you beat the game
+with Jinpachi (who is ONLY playable with some cheat device), you can get
+it that way as well.
+
+When I borrowed my friend's PSP to update this FAQ, I forgot to check for
+any Time Attack differences.  Oh well... maybe next time.
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi
+-------------------------------------------------------------------------
+
+[Jinpachi]
+I'm impressed that you've made it this far. 
+
+I am Jinpachi Mishima. My goal...
+
+My goal is to destroy all existence!
+
+
+___________________________________win___________________________________
+
+[Jinpachi]
+This...
+
+This was meant to be...
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                    Jinpachi
+-------------------------------------------------------------------------
+
+[Jinpachi]
+It looks like nobody was able to stop me.
+
+
+[text]
+Jinpachi's mind is consumed by the devil
+as he reaches his final transformation.
+The world will never be the same.
+
+
+
+==============================================================================
+ 2.  C H A R A C T E R S  ( T 5 )                                       1dd06
+==============================================================================
+
+----------------------------------------------------------------------------
+::: 2.1  Anna Williams :::::::::::::::::::::::::::::::::::::::::::::: 8c6d0
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                         Anna
+-------------------------------------------------------------------------
+
+Anna Williams.
+A woman who always fought with her sister, Nina.
+
+Nina vanished a few years ago
+and Anna felt something was missing in her life.
+
+Then she got a call - from Nina.
+
+-
+
+Anna met Nina a few days later
+and the moment Nina saw her sister, shots were fired.
+
+The ensuing fight lasted for days.
+
+-
+
+In the end, the agreed to settle things
+in The King of the Iron Fist Tournament 5.
+
+Anna screams, "That bitch! This time, she's dead!"
+
+
+-------------------------------------------------------------------------
+   Stage 4: Lee                                                     Anna
+-------------------------------------------------------------------------
+
+[Anna]
+Well...it's certainly an honor
+to meet you, Mr. Lee Chaolan.
+
+
+[Lee]
+The pleasure is all mine,
+lovely lady Williams.
+
+
+[Anna]
+Oh...when I imagine your beautiful face
+straining in pain, I just get chills.
+
+
+___________________________________lose__________________________________
+
+[Lee]
+What's the matter princess?
+Where's that attitude of yours now?
+
+
+___________________________________win___________________________________
+
+[Anna]
+Squeal like the little piggy
+you are! Come on!
+
+
+-------------------------------------------------------------------------
+   Stage 7: Nina                                                    Anna
+-------------------------------------------------------------------------
+
+[Nina]
+It's really a shame. This is the last time
+I'm going to see your face.
+
+
+[Anna]
+So you've finally decided to show up.
+This time, I will kill you!
+
+
+___________________________________win___________________________________
+
+[Nina]
+What are you waiting for, kill me.
+
+
+[Anna]
+Nina, you're pathetic. That didn't
+satisfy me at all. I refuse to kill you.
+
+
+[Nina]
+You bitch!
+
+
+[Anna]
+That look is priceless.
+
+
+-------------------------------------------------------------------------
+   Epilogue                                                         Anna
+-------------------------------------------------------------------------
+
+After being inspired by their sibling rivalry, a movie director
+insists on casting them in an upcoming film.
+
+-
+
+"With that witch?"
+
+Despite her deep hatred for her sister, she knows that this
+is a chance she can't pass up.
+
+
+
+----------------------------------------------------------------------------
+:: 2.2  Asuka Kazama :::::::::::::::::::::::::::::::::::::::::::::::: 454fe
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                        Asuka
+-------------------------------------------------------------------------
+
+Asuka Kazama.
+She was taught Kazama-style Martial
+Arts by her father. She was known as a
+nosy kid who liked to fix other people's
+problems, usually by knockout.
+
+-
+
+Asuka came home one day to find that an
+unknown man had destroyed the dojo and
+put her father in the hospital.
+
+-
+
+A detective from Hong Kong tells her the
+man will be in The King of Iron Fist
+Tournament 5. This one's personal...
+
+
+-------------------------------------------------------------------------
+   Stage 4: Feng                                                   Asuka
+-------------------------------------------------------------------------
+
+[Asuka]
+Hey, you haven't seen a strange Chinese
+Kenpo fighter around here, have you?
+
+He's muscular...and looks like a...
+
+Hey! It's you!
+
+
+[Feng]
+Yes. My name is Feng Wei.
+
+
+[Asuka]
+You're my father's 
+sworn enemy! You're mine!
+
+
+___________________________________win___________________________________
+
+[Asuka]
+You're pretty strong! Now I see why my
+father had such a hard time with you.
+
+But you are still no match for me.
+
+Well, now that I've avenged my father,
+it's time to have some fun!
+
+
+-------------------------------------------------------------------------
+   Before the Final Stage...                                       Asuka
+-------------------------------------------------------------------------
+
+[Devil Jin]
+I will...
+
+I'll take everything!
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                           Asuka
+-------------------------------------------------------------------------
+
+[Asuka]
+Who is that? Whoever it is,
+things don't look too promising.
+
+
+[Jinpachi]
+You won't escape!
+
+
+[Asuka]
+Well, I guess running won't
+do me any good.
+
+Let's go, you monster!
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                       Asuka
+-------------------------------------------------------------------------
+
+[Asuka]
+Hey you, what happened?
+
+Come on!
+Snap out of it!
+
+Isn't anyone around?
+
+I can't even get reception here...
+
+But the again, I forgot my cell.
+
+And...I don't see any buses or cars.
+
+What should I do?!
+
+
+[Jin]
+This place!
+
+
+[Asuka]
+What do you think you're doing?!
+
+
+[Jin]
+What's going on?
+What am I doing?...
+
+
+[Asuka]
+Don't play dumb with me!
+
+You pervert!
+
+I give up!
+
+
+[Jin]
+What was that about?...
+
+
+
+----------------------------------------------------------------------------
+:: 2.3  Baek Doo San :::::::::::::::::::::::::::::::::::::::::::::::: 6fdf4
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                         Baek
+-------------------------------------------------------------------------
+
+Baek Doo San.
+A master of Tae Kwon Do.
+On his way home from training,
+Baek was attacked and knocked unconscious.
+
+-
+
+He woke up in a military hospital.
+According to the Defense Minister,
+he had been in a coma for over a year.
+
+The minister asked Baek to help train
+soldiers, and he hesitantly accepted.
+
+-
+
+A year later, Baek writes to Hwoarang
+asking him to return to the military.
+
+Hwoarang goes with his mentor.
+
+Now, the two enter The King of Iron Fist
+Tournament 5 as master and pupil.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Law                                                     Baek
+-------------------------------------------------------------------------
+
+[Baek]
+Would you mind letting me
+test out my Tae Kwon Do skills?
+
+
+___________________________________win___________________________________
+
+[Baek]
+I hold instructional sessions on Sundays
+at my dojo.
+
+Why don't you join in on one
+of my sessions?
+
+
+-------------------------------------------------------------------------
+   Stage 7: Hwoarang                                                Baek
+-------------------------------------------------------------------------
+
+[Hwoarang]
+Master! Please
+take it easy! I'll...
+
+
+[Baek]
+I'm fine. We haven't
+sparred in a while. Come!
+
+
+___________________________________win___________________________________
+
+[Baek]
+You still have a lot to learn.
+Go train some more.
+
+Now to take care of the real business.
+
+I have to see what's going on here
+with my own eyes.
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                        Baek
+-------------------------------------------------------------------------
+
+[Baek]
+Stop!
+
+Still up to no good.
+
+
+[punks]
+Who the hell are you?
+
+Get out of here!
+
+
+[Hwoarang]
+Stop, you bastard!
+
+
+
+----------------------------------------------------------------------------
+:: 2.4  Bruce Irvin ::::::::::::::::::::::::::::::::::::::::::::::::: 3101c
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                        Bruce
+-------------------------------------------------------------------------
+
+Bruce Irvin.
+Once a mercenary for Kazuya.
+Bruce left Kazuya's militia 21 years ago
+and wound up at a survival school.
+A few years later, he heard Kazuya died.
+
+-
+
+Then one day, he heard Kazuya fought in
+The King of Iron Fist Tournament 4.
+
+He also learned that the Zaibatsu would soon
+hold The King of Iron Fist Tournament 5.
+
+-
+
+The seasoned veteran sensed something
+was going on behind the scenes.
+He wondered who or what it could be.
+
+"I need some action. Maybe I'll go
+have some fun with the Mishima Zaibatsu." says Bruce.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Steve                                                  Bruce
+-------------------------------------------------------------------------
+
+[Steve]
+Go home, pops.
+I have no time for old-timers.
+
+
+[Bruce]
+Don't judge me by my age,
+you little twit.
+
+And show some respect for your elders,
+pretty boy.
+
+
+[Steve]
+You're a kickboxer, right?
+
+Wanna see how long your kicks
+stand up to my punches?
+
+
+___________________________________win___________________________________
+
+[Steve]
+This guy...is strong!
+
+
+[Bruce]
+You're lucky I didn't
+break your arm, kid!
+
+Kazuya still hasn't shown his face.
+Where is he?
+
+
+-------------------------------------------------------------------------
+   Stage 7: Kazuya                                                 Bruce
+-------------------------------------------------------------------------
+
+[Kazuya]
+It's you, Bruce.
+It's been a while.
+
+
+[Bruce]
+Unlike 20 years ago, there's no
+difference between us now.
+
+You're a challenger just like me.
+
+
+[Kazuya]
+You won't be
+saying that for long.
+
+
+___________________________________win___________________________________
+
+[Bruce]
+I was gonna go along with Zaibatsu's
+charade, but this is pathetic.
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                       Bruce
+-------------------------------------------------------------------------
+
+[punks]
+Hey kid! Who said you could be here?
+
+Yo, this place ain't free. You'd better pay up.
+
+
+[kid]
+This place don't belong to nobody.
+
+
+[punks]
+Hey...
+
+
+[kid]
+What are you doing? Stop!
+
+
+[punks]
+This is how you throw a punch...
+
+Hey, these gloves look pretty good.
+
+They're mine now, kid.
+
+Who the hell are you?
+
+
+[Bruce]
+Keep it up, kid.
+
+
+
+----------------------------------------------------------------------------
+:: 2.5  Bryan Fury :::::::::::::::::::::::::::::::::::::::::::::::::: 2d44b
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                        Bryan
+-------------------------------------------------------------------------
+
+Bryan Fury.
+A cyborg made by Dr. Abel.
+
+Bryan entrusted Dr. Boskonovich with
+giving him a perfect body. However...
+
+-
+
+Bryan's body was too complex.
+He installed a perpetual generator instead.
+
+Bryan yells, "Endless power? This is perfect!"
+
+Bryan attacked the doctor and Manji
+Clan members and left the lab in ruins.
+
+-
+
+Bryan learns of the King of Iron Fist
+Tournament 5. He feels it's time for a
+real test of his new abilities.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Lei                                                    Bryan
+-------------------------------------------------------------------------
+
+[Lei]
+Bryan Fury.
+
+
+[Bryan]
+Who the hell are you?
+
+
+[Lei]
+Lei Wulong of the Hong Kong Police.
+
+I'm placing you under arrest for
+the murder of Manji Clan members.
+
+
+___________________________________win___________________________________
+
+[Bryan]
+Some super cop you are!
+
+
+-------------------------------------------------------------------------
+   Stage 7: Yoshimitsu                                             Bryan
+-------------------------------------------------------------------------
+
+[Yoshimitsu]
+You'll not get away now
+that I've finally found you!
+
+
+[Bryan]
+I'll have to thank you
+for giving me power!
+
+
+[Yoshimitsu]
+My blade shall teach you the errors of
+your way. Prepare yourself!
+
+
+___________________________________win___________________________________
+
+[Yoshimitsu]
+Fate is decided by the heavens.
+Do as you will.
+
+
+[Bryan]
+Don't worry, I won't kill you here...
+
+I'm going to take my time
+and let you savor your death.
+
+
+[Yoshimitsu]
+You heinous scoundrel!
+
+
+[Bryan]
+You lost to me once! Now try and
+squirm your way out of here!
+
+Let the hunt begin...
+
+
+
+----------------------------------------------------------------------------
+:: 2.6  Christie Monteiro ::::::::::::::::::::::::::::::::::::::::::: 2df16
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                     Christie
+-------------------------------------------------------------------------
+
+Christie Monteiro.
+The granddaughter of a legendary Capoeira master.
+
+Her grandfather was finally released
+from prison, but he had become very weak.
+This was not the grandfather she knew.
+
+-
+
+She rushed him to a hospital.
+She was told that he was terminally ill,
+but a cure might be possible with technology
+from the Mishima Zaibatsu.
+
+-
+
+A week later, Christie enters The King
+of Iron Fist Tournament 5 to find a
+cure for her grandfather.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Bruce                                               Christie
+-------------------------------------------------------------------------
+
+[Bruce]
+Well! The competition certainly
+has gotten easier on the eyes.
+
+
+[Christie]
+I doubt you'll think of me that way
+after I'm through with you.
+
+
+[Bruce]
+You wanna see how long your
+Capoeira stands up to my kicks?
+
+
+[Christie]
+Absolutely.
+
+
+___________________________________win___________________________________
+
+[Bruce]
+Pretty tough!
+
+
+[Christie]
+You have no rhythm.
+You'll never be able to beat me.
+
+
+-------------------------------------------------------------------------
+   Stage 7: Eddy                                                Christie
+-------------------------------------------------------------------------
+
+[Eddy]
+Christie, it's too dangerous.
+I want you to go home!
+
+
+[Christie]
+No! How do you expect me to not do
+anything after I've seen what happened
+
+to my grandpa!
+
+
+[Eddy]
+Then I don't have a choice.
+
+
+___________________________________win___________________________________
+
+[Christie]
+Wait for me Eddy.
+I promise I'll come back.
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                    Christie
+-------------------------------------------------------------------------
+
+[Christie]
+Grandpa!
+
+
+----------------------------------------------------------------------------
+:: 2.7  Devil Jin ::::::::::::::::::::::::::::::::::::::::::::::::::: ca717
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                    Devil Jin
+-------------------------------------------------------------------------
+
+When the devil gene takes over Jin Kazama...
+
+-
+
+Jinpachi was able to escape captivity as Honmaru fell.
+
+This triggered the evil that had been
+building up inside Jin.
+
+-
+
+Two months later...
+
+Evil has utterly consumed Jin's mind
+and a deadly force has awakened...
+
+
+-------------------------------------------------------------------------
+   Before Stage 8...                                           Devil Jin
+-------------------------------------------------------------------------
+
+[Devil Jin]
+...give it to me...
+
+
+[Jinpachi]
+Such bad manners...
+you deserve to die!
+
+
+-------------------------------------------------------------------------
+   Stage 8: Jinpachi                                           Devil Jin
+-------------------------------------------------------------------------
+
+[Asuka]
+Hold on a sec!
+What are you guys doing?
+
+Hey hey!
+Don't ignore me.
+
+Hey buddy, listen to what I have to say,
+would ya?
+
+
+[Devil Jin]
+Shut up you insignificant girl!
+Do you think you can stop me?
+
+
+[Asuka]
+I don't know what's going on
+but you're a bit too cocky.
+
+I hate cocky people!
+I'll put you back in your place!
+
+
+[Devil Jin]
+Very well, you'll be
+the first to feel my wrath!
+
+
+___________________________________win___________________________________
+
+[Devil Jin]
+You have no right to interfere
+with our plans!
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                       Devil Jin
+-------------------------------------------------------------------------
+
+[Jinpachi]
+You fool...You cannot defeat me
+after giving in to the Devil.
+
+
+[Devil Jin]
+Give in? You don't understand.
+I have taken full control of the Devil!
+
+
+[Jinpachi]
+If that is the case,
+that power must become part of me.
+
+Prepare to be assimilated!
+
+
+
+----------------------------------------------------------------------------
+:: 2.8  Eddy Gordo :::::::::::::::::::::::::::::::::::::::::::::::::: 58e2f
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                         Eddy
+-------------------------------------------------------------------------
+
+Eddy Gordo.
+A legendary Capoeira prodigy.
+Eddy's master was set to be free after
+a long prison sentence. However,
+his master had become a frail old man.
+This was not the master he once knew.
+
+-
+
+Eddy had his master hospitalized.
+He was told that his master was terminally ill,
+but a cure might be possible with
+technology from the Mishima Zaibatsu.
+
+-
+
+A week later, Eddy enters The King of
+Iron Fist Tournament 5 to find a cure
+for his master.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Christie                                                Eddy
+-------------------------------------------------------------------------
+
+[Christie]
+Eddy, leave this to me.
+
+
+[Eddy]
+No. Let me handle this.
+I need you to stay out of this.
+
+
+[Christie]
+Eddy, why won't
+you understand?!
+
+
+___________________________________win___________________________________
+
+[Eddy]
+Wait for me, Christie.
+I will come back.
+
+
+-------------------------------------------------------------------------
+   Stage 7: Kazuya                                                  Eddy
+-------------------------------------------------------------------------
+
+[Eddy]
+Hey, I remember your face!
+
+
+[Kazuya]
+I don't know what
+you're talking about.
+
+
+[Eddy]
+Figures. You framed me for the
+murder of my parents.
+
+Does that ring a bell?
+
+
+[Kazuya]
+I see. You're the son of
+those rich Brazilians.
+
+
+[Eddy]
+I'm gonna kill you
+for what you've done!
+
+
+___________________________________win___________________________________
+
+[Eddy]
+I did it father...
+I've avenged you.
+
+All right, now I just need to get
+the money for the master's medical bills.
+
+
+
+----------------------------------------------------------------------------
+:: 2.9  Feng Wei :::::::::::::::::::::::::::::::::::::::::::::::::::: 2db62
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                         Feng
+-------------------------------------------------------------------------
+
+Feng Wei.
+A Chinese Kenpo master.
+As a disciple of the "God Fist" style,
+by 20, he was the top student in his dojo.
+
+-
+
+When his master scolded him for fighting
+outside the school, Feng killed him.
+
+-
+
+To retrieve the "Secrets of God Fist"
+scrolls stolen by the Mishimas,
+he joins The King of Iron Fist Tournament 5.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Lei                                                     Feng
+-------------------------------------------------------------------------
+
+[Lei]
+I finally found you.
+
+
+[Feng]
+Who are you?
+
+
+[Lei]
+Detective Lei Wulong of the Hong Kong
+Police. I'm placing you under arrest.
+
+
+[Feng]
+Lei Wulong? The master
+of the 5 Form Kung Fu...Interesting.
+
+Come and fight me!
+
+
+___________________________________win___________________________________
+
+[Feng]
+Your 5 Form Kung Fu
+is no match against me!
+
+
+-------------------------------------------------------------------------
+   Stage 7: Asuka                                                   Feng
+-------------------------------------------------------------------------
+
+[Asuka]
+I finally found you! You're the Chinese
+guy that took out my dad, aren't you?
+
+
+[Feng]
+The weak don't deserve to live!
+
+
+[Asuka]
+Then that means you're going to die
+after I'm through with you, you jerk!
+
+
+___________________________________win___________________________________
+
+[Asuka]
+Hey, don't you know
+how to treat a girl?
+
+
+[Feng]
+Not fighting seriously
+would be disrespectful.
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                            Feng
+-------------------------------------------------------------------------
+
+[Jinpachi]
+Die.
+
+
+[Feng]
+Are you a Mishima?
+
+
+[Jinpachi]
+Of course.
+
+
+[Feng]
+Then are you the one that stole
+the Shinken scrolls?
+
+
+[Jinpachi]
+That wasn't me.
+I don't know anything about that.
+
+
+[Feng]
+Don't play dumb.
+I'll make you talk.
+
+Come on!
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                        Feng
+-------------------------------------------------------------------------
+
+[Feng]
+This is?!...
+
+
+[text]
+(Secret Principles of the Dragon Fist)
+
+
+
+----------------------------------------------------------------------------
+:: 2.10  Ganryu ::::::::::::::::::::::::::::::::::::::::::::::::::::: 70511
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                       Ganryu
+-------------------------------------------------------------------------
+
+Ganryu.
+The youngest sumo wrestler ever.
+Once Ganryu retired, he opened his own
+sumo stable to forget about his love, Michelle Chang.
+
+-
+
+One day, while Ganryu was watching the
+previous tournament, he saw a girl just
+like his old love, Julia Chang.
+
+Julia was trying to reclaim her research
+on forests from the Mishima Zaibatsu.
+
+-
+
+Then Ganryu learned The King of Iron
+Fist Tournament 5.
+
+Ganryu filled with hope says, "What a coincidence!
+Someone must like me up there. If I get the
+research files, I'll win the lovely Julia's heart!"
+Ganryu, now 55, enters the tournament.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Julia                                                 Ganryu
+-------------------------------------------------------------------------
+
+[Ganryu]
+Uh-oh! So, in order to get the Forest
+Rejuvenation Data I will need to defeat
+
+my dear Julia...oh, but if I lose to
+Julia here and if she wins the tournament,
+
+that's good as well...but there's no
+guarantee that Julia will win...Ohhhh...
+
+What should I do?
+
+
+[Julia]
+Sir, could you stop babbling
+so we can get this over with?
+
+
+[Ganryu]
+My dear Julia,
+your wish is my command.
+
+
+[Julia]
+O...kay.
+
+
+___________________________________win___________________________________
+
+[Ganryu]
+I'm sorry, my dear Julia, but this is the
+only way to save you, my love.
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                          Ganryu
+-------------------------------------------------------------------------
+
+[Ganryu]
+Are you the one that has
+the Forest Rejuvenation Data?
+
+
+[Jinpachi]
+What are you talking about?
+Go away!
+
+
+[Ganryu]
+Not so fast. I'll make you understand why
+in the 300 years of sumo history,
+
+there's been only 68 Rikishi's
+that achieved the Yokozuna rank!
+
+*Not like Ganryu is a Yokozuna Rank.
+
+
+___________________________________win___________________________________
+
+[Ganryu]
+42 years of being a Rikishi,
+finally my first championship!
+
+Oh, how sweet it is!
+
+Wow, I didn't know it felt so good to be
+victorious.
+
+Wait a minute, I have
+a strange feeling that I forgot something.
+
+Oh, oh no!
+I forgot the Forest Rejuvenation Data.
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                      Ganryu
+-------------------------------------------------------------------------
+
+[text]
+Ganryu wins and is successful in
+retrieving the Forest Rejuvenation Data.
+He will now give Julia the data and confess his love.
+
+
+[Ganryu]
+Here, take this...
+
+
+[Julia]
+I...I can't thank you enough.
+
+With this, I'll be able to bring back the forest.
+
+
+[Ganryu]
+That aside, I have something to tell you...
+
+I...I really like...
+
+I'm in love with you!
+
+Julia?...
+
+
+
+----------------------------------------------------------------------------
+:: 2.11  Heihachi Mishima ::::::::::::::::::::::::::::::::::::::::::: 9404d
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                     Heihachi
+-------------------------------------------------------------------------
+
+Heihachi Mishima.
+The head of the Mishima Zaibatsu
+and the sponsor of The King of Iron Fist Tournament 4.
+
+A squadron of JACKs cornered Heihachi after
+his loss to Jin Kazama in Honmaru.
+
+-
+
+At first, Heihachi and Kazuya fought the
+JACKs together. But Kazuya fled, leaving
+Heihachi to battle the JACKs alone.
+
+The fight would have killed an ordinary
+human. But Heihachi, no ordinary man, held
+off the JACKs and survived the ambush.
+
+-
+
+One month later, he learns someone has
+taken control of Mishima Zaibatsu and
+opened The King of Iron Fist Tournament 5.
+Heihachi prepares to fight again.
+
+"I don't know who's behind this, but the
+Mishima Zaibatsu is mine!" says Heihachi.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Jack-5                                              Heihachi
+-------------------------------------------------------------------------
+
+[Heihachi]
+You! You're one of those
+things that tried to kill me!
+
+So you do not have the ability to speak...
+
+No matter. I will send you back to
+the scrap heap from which you came!
+
+
+___________________________________win___________________________________
+
+[Heihachi]
+I'll show you what it means
+to battle with me!
+
+I feel much better now!
+
+Next!
+
+
+-------------------------------------------------------------------------
+   Stage 8: Kazuya                                              Heihachi
+-------------------------------------------------------------------------
+
+[Heihachi]
+Kazuya!
+How dare you double cross me!
+
+
+[Kazuya]
+You don't think I would send those stupid
+robot bombs to eliminate you, do you?
+
+
+[Heihachi]
+It appears you've been
+betrayed by your own minions as well.
+
+
+[Kazuya]
+I didn't join this tournament to hear your ramblings...
+do you even know who is really behind all of this?
+
+
+[Heihachi]
+What are you implying?
+
+
+[Kazuya]
+You just don't get it. This from
+the bastard who's been tricking me all this time...
+
+Don't you realize what came from beneath
+the rubble of the Honmaru after that explosion?
+
+
+[Heihachi]
+Beneath...the Honmaru?!
+I see...
+
+
+___________________________________win___________________________________
+
+[Heihachi]
+I suppose he...will be
+waiting for me now.
+
+I am going to crush those who
+stand before me, just as I did before.
+
+
+-------------------------------------------------------------------------
+   Before the Final Stage...                                    Heihachi
+-------------------------------------------------------------------------
+
+[Heihachi]
+It's been a long time, Father.
+
+
+[Jinpachi]
+So, you finally decided
+to show yourself.
+
+
+[Heihachi]
+Looks like time
+hasn't been too good to you.
+
+
+[Jinpachi]
+We'll see if you could repeat the same
+words after seeing this!
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                        Heihachi
+-------------------------------------------------------------------------
+
+___________________________________win___________________________________
+
+[Heihachi]
+Devil's blood or no Devil's blood,
+you cannot defeat me...
+
+
+[Jinpachi]
+So the Mishima bloodline ends here...
+Do with me as you wish.
+
+
+[Heihachi]
+Not so fast.
+
+Now, get up!
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                    Heihachi
+-------------------------------------------------------------------------
+
+[Jinpachi]
+This place...
+
+
+[Kazuya]
+Grandpa!
+
+
+[Jinpachi]
+Kazuya! Jin!
+
+
+
+----------------------------------------------------------------------------
+:: 2.12  Hwoarang ::::::::::::::::::::::::::::::::::::::::::::::::::: bdbc1
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                     Hwoarang
+-------------------------------------------------------------------------
+
+Hwoarang.
+Jin Kazama's rival.
+
+Near the end of the previous touranment,
+the Korean Military arrested Hwoarang.
+
+-
+
+At the Korean embassy, a man claiming to
+be the ambassador passed him a letter.
+
+"I've received this letter for you from the military.
+Take a look."
+
+Hwoarang couldn't believe his eyes.
+
+-
+
+"Get me out of here now," says Hwoarang.
+
+Next day, Hwoarang flew to Korea to complete his training.
+
+Now done with his military service,
+Hwoarang is ready to finish Jin Kazama!
+
+
+-------------------------------------------------------------------------
+   Stage 4: Baek                                                Hwoarang
+-------------------------------------------------------------------------
+
+[Baek] 
+Hwoarang, you went out by 
+yourself again without my permission...
+
+
+[Hwoarang] 
+Master! There is someone 
+who I must defeat!
+
+
+[Baek]
+Before you can worry about defeating 
+others, you must be able to defeat me!
+
+
+___________________________________win___________________________________
+
+[Hwoarang]
+I am sorry Master but I must go. 
+
+I promise you that I will continue 
+my training upon my return.
+
+
+-------------------------------------------------------------------------
+   Stage 8: Jin                                                 Hwoarang
+-------------------------------------------------------------------------
+
+[Hwoarang]
+Hey Kazama, looks like this is it.
+
+
+[Jin]
+There are other things that I must do... 
+but I will deal with you first.
+
+
+[Hwoarang]
+That's what I like to hear! 
+Let's go!
+
+
+___________________________________win___________________________________
+
+[Jin]
+Fine...you win...
+
+
+[Hwoarang]
+That's right, I'm strong! 
+Much stronger than you!
+
+
+[Jin]
+That's enough. 
+I have to get going.
+
+
+[Hwoarang]
+Hey, wait up! 
+Why are you giving up so easily? 
+
+Aren't you ashamed of losing to me?
+
+
+[Jin]
+I don't have time to be swayed by 
+emotions. 
+
+I must go to fulfill the destiny of my 
+cursed blood.
+
+
+[Hwoarang]
+What...this is so boring! 
+This sucks! 
+
+
+-------------------------------------------------------------------------
+   Epilogue                                                     Hwoarang
+-------------------------------------------------------------------------
+
+Hwoarang finally defeats his rival, Jin Kazama.
+
+What is up next for Hwoarang?
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                    Hwoarang
+-------------------------------------------------------------------------
+
+[Hwoarang]
+This sucks!
+
+You stupid...Come on!
+
+
+
+----------------------------------------------------------------------------
+:: 2.13  Jack-5 ::::::::::::::::::::::::::::::::::::::::::::::::::::: afe7b
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                       Jack-5
+-------------------------------------------------------------------------
+
+JACK-5.
+A beloved weapon.
+GUNJACK protected the physicist Jane
+when Tekken fighters attacked her inside
+Mishima Zaibatsu Heavy Industries.
+
+-
+
+The next day, Jane was saved by a
+G Corporation freighter. She became an
+engineer for G Corporation, developing
+JACK-4 and it's successor, JACK-5.
+
+-
+
+They decided to use The King of Iron
+Fist Tournament 5 for field testing.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Heihachi                                              Jack-5
+-------------------------------------------------------------------------
+
+[Heihachi]
+You! You're one of those
+things that tried to kill me!
+
+
+[Jack-5]
+[BATTLE LOG CAPTURE START.]
+
+
+[Heihachi]
+So you do not have the ability to speak...
+
+No matter. I will send you back to
+the scrap heap from which you came!
+
+
+___________________________________win___________________________________
+
+[Jack-5]
+[DATA ANALYSIS COMPLETE.]
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                          Jack-5
+-------------------------------------------------------------------------
+
+[Jinpachi]
+Die!
+
+
+[Jack-5]
+[PRIMARY TARGET IN SIGHT.
+PREPARE FOR FINAL BATTLE.]
+
+
+___________________________________win___________________________________
+
+[Jack-5]
+[ALL LONG ANALYSIS COMPLETE.
+PREPARE TO INSTALL EMOTION ENGINE BINARY.]
+
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                      Jack-5
+-------------------------------------------------------------------------
+
+[text]
+JACK-5 wins while Jane successfully
+retrieves JACK-5's memories and data
+from Mishima Heavy Industries.
+
+
+[Jane]
+This should do it...
+and my dear Jack will awaken again...
+
+Jack!
+
+Jack...
+
+
+
+----------------------------------------------------------------------------
+:: 2.14  Jin Kazama ::::::::::::::::::::::::::::::::::::::::::::::::: eedfb
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                          Jin
+-------------------------------------------------------------------------
+
+Jin Kazama.
+A child of destiny.
+After fighting Kazuya and Heihachi,
+an evil spirit welled up within Jin.
+
+-
+
+Awakened by an unknown voice, Jin looked
+around at a forest completely destroyed.
+
+And he knew he was the one who did it.
+
+-
+
+Returning to Yakushima, Jin was plagued by
+nightmares triggering the devil gene.
+
+"If this keeps eating away at me,
+I don't know how long I can hold on," says Jin.
+
+Jin sets out on a journey to end this
+evil, with destiny as his only guide.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Hwoarang                                                 Jin
+-------------------------------------------------------------------------
+
+[Jin]
+I'm sorry, I can't keep our promise.
+Things are a bit different now.
+
+
+[Hwoarang]
+What?! Are you saying there's somebody
+out there stronger than me?
+
+
+[Jin]
+That's not what I'm saying. I have
+family problems I have to deal with.
+
+
+[Hwoarang]
+Deal with that later!
+Let's go!
+
+
+[Jin]
+You give me no choice.
+
+
+___________________________________win___________________________________
+
+[Jin]
+I apologize. I have a duty to complete
+this Tournament. No matter what the cost.
+
+
+[Hwoarang]
+I will not accept defeat!
+
+
+[Jin]
+Don't worry.
+I'll be back...
+
+
+[Hwoarang]
+Kazama...
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                             Jin
+-------------------------------------------------------------------------
+
+[Jinpachi]
+And who might you be?
+
+
+[Jin]
+I am Jin Kazama.
+Heir of the Cursed Blood!
+
+
+[Jinpachi]
+I see. This might explain why my blood is
+screaming...to destroy you!
+
+
+[Jin]
+I will deal with this evil presence
+once and for all!
+
+
+[Jinpachi]
+You honestly think you can fight me?
+Let alone defeat me?
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                         Jin
+-------------------------------------------------------------------------
+
+[text]
+(Mishima Zaibatsu Throne Room)
+
+
+
+----------------------------------------------------------------------------
+:: 2.15  Julia Chang :::::::::::::::::::::::::::::::::::::::::::::::: 03f1b
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                        Julia
+-------------------------------------------------------------------------
+
+Julia Chang.
+A researcher trying to save the world's forests.
+
+She failed to retrieve her lost data in
+the previous tournament. As hard as she
+tried to continue her research,
+she still needed her old data.
+
+-
+
+Then, Julia received a mysterious letter
+with an invitation to The King of Iron
+Fist Tournament 5.
+
+-
+
+Julia joins the fight with her dreams on the line.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Ganryu                                                 Julia
+-------------------------------------------------------------------------
+
+[Ganryu]
+Uh-oh! So, in order to get the Forest
+Rejuvenation Data I will need to defeat
+
+my dear Julia...oh, but if I lose to
+Julia here and if she wins the tournament,
+
+that's good as well...but there's no
+guarantee that Julia will win...Ohhhh...
+
+What should I do?
+
+
+[Julia]
+Sir, could you stop babbling
+so we can get this over with?
+
+
+[Ganryu]
+My dear Julia,
+your wish is my command.
+
+
+[Julia]
+O...kay.
+
+
+___________________________________win___________________________________
+
+[Ganryu]
+Ju...Julia! I'm sorry!
+I was too weak...
+
+
+[Julia]
+I've gotta go.
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                           Julia
+-------------------------------------------------------------------------
+
+[Julia]
+You! Hand over the Forest
+Rejuvenation data right now!
+
+
+[Jinpachi]
+What are you talking about?
+Get lost!
+
+
+[Julia]
+Not a chance. I'll just
+take it from you by force!
+
+
+-------------------------------------------------------------------------
+   Epilogue                                                        Julia
+-------------------------------------------------------------------------
+
+After she successfully retrieved the "Forest Rejuvenation
+Data," Julia built a lab in Arizona so she could devote
+herself to her research.
+
+-
+
+The Arizona desert was not the ideal place for her
+research. Her research was a failure.
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                       Julia
+-------------------------------------------------------------------------
+
+[Julia]
+It was... It was all just a dream...
+
+
+
+----------------------------------------------------------------------------
+:: 2.16  Kazuya Mishima ::::::::::::::::::::::::::::::::::::::::::::: 2631e
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                       Kazuya
+-------------------------------------------------------------------------
+
+Kazuya Mishima.
+Knocked unconscious by Jin in the battle of Honmaru.
+
+As he came to, he was attacked by JACKs.
+
+-
+
+"Damn! Are they after me too?!" says Kazuya.
+
+For a while, Kazuya and Heihachi fought
+as father and son. But Devil Kazuya flew
+away, leaving Heihachi to die alone.
+
+-
+
+Kazuya enters The King of Iron Fist
+Tournament 5 to make the traitors pay.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Raven                                                 Kazuya
+-------------------------------------------------------------------------
+
+[Raven]
+You're the coward that
+ran away from danger.
+
+
+[Kazuya]
+How do you know about that?!
+Who are you?
+
+
+[Raven]
+I have no need to explain
+anything to you.
+
+
+[Kazuya]
+You'll be talking soon enough.
+
+
+___________________________________win___________________________________
+
+[Raven]
+There's nothing you 
+could do even if I told you.
+
+
+[Kazuya]
+Start talking!
+
+
+[Raven]
+We were just...we were just observing.
+You were betrayed by G Corporation.
+
+That's all.
+
+
+[Kazuya]
+I already know that!
+
+There has got to be
+something else that's kept you around!
+
+
+[Raven]
+We don't know yet, we're still
+investigating...but you must know.
+
+What was under the temple?
+
+
+[Kazuya]
+Under the temple?
+So that's it. That damn Heihachi!
+
+
+-------------------------------------------------------------------------
+   Stage 8: Heihachi                                              Kazuya
+-------------------------------------------------------------------------
+
+[Heihachi]
+Kazuya!
+How could you betray me?!
+
+
+[Kazuya]
+As usual, you don't know anything.
+
+Do you really think I would
+use such crude tactics?
+
+
+[Heihachi]
+What? I guess that
+means you were tricked as well.
+
+
+[Kazuya]
+Shut up!
+Those bastards are not the problem.
+
+The real question is, who is the one
+running this tournament.
+
+
+[Heihachi]
+What are you implying?
+
+
+[Kazuya]
+You just don't get it, do you?
+
+This...coming from the bastard
+whose been tricking me all this time....
+
+Don't you realize what
+came up from beneath
+
+the rubble of Honmaru
+after that explosion?
+
+
+[Heihachi]
+Beneath...Honmaru?
+
+I see...
+
+
+___________________________________win___________________________________
+
+[Kazuya]
+How many years has it been?...
+
+At least the level of competition
+will be better than what I got from him.
+
+I can't wait.
+
+
+-------------------------------------------------------------------------
+   Before the Final Stage...                                      Kazuya
+-------------------------------------------------------------------------
+
+[Kazuya]
+Are you...Jinpachi?
+
+
+[Jinpachi]
+You're...Kazuya?...
+
+
+[Kazuya]
+Yes. I am honored
+to meet you again.
+
+
+[Jinpachi]
+Kazuya...fight...me!
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                      Kazuya
+-------------------------------------------------------------------------
+
+[Kazuya]
+Grandpa... Grandpa!
+
+
+[Kazuya]
+Grandpa!
+
+
+[Jinpachi]
+Kazuya!
+
+
+
+----------------------------------------------------------------------------
+:: 2.17  King ::::::::::::::::::::::::::::::::::::::::::::::::::::::: 9a4ed
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                         King
+-------------------------------------------------------------------------
+
+King.
+A wrestler with the spirit of two champions.
+
+After beating Craig Marduk, he followed
+Marduk to the hospital to kill him.
+Then he realized revenge was not the answer.
+
+-
+
+Later, King heard Marduk challenged him
+to a rematch wearing the black jaguar's mask.
+
+-
+
+"I won't let him disgrace my master!" says King.
+
+They will settle their score in The King
+of Iron Fist Tournament 5.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Julia                                                   King
+-------------------------------------------------------------------------
+
+[Julia]
+King, please stop!
+It's pointless to fight!
+
+You're strong enough.
+Don't let Marduk's words get to you!
+
+You leave me with no choice. Okay.
+I won't let you go on.
+
+
+___________________________________win___________________________________
+
+[King]
+Hold on, Marduk!
+After I'm through here, you're next!
+
+
+-------------------------------------------------------------------------
+   Stage 7: Marduk                                                  King
+-------------------------------------------------------------------------
+
+[Marduk]
+So, you showed up.
+
+I've changed my ways.
+I'll take you down fair and square!
+
+
+___________________________________win___________________________________
+
+[Marduk]
+You win...
+
+
+
+----------------------------------------------------------------------------
+:: 2.18  Kuma ::::::::::::::::::::::::::::::::::::::::::::::::::::::: af660
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                         Kuma
+-------------------------------------------------------------------------
+
+Kuma.
+Heihachi Mishima's ever-loyal pet.
+
+Kuma finally defeated Paul in The King
+of Iron Fist Tournament 4. However...
+
+Heihachi was dead.
+
+-
+
+Kuma was lost without Heihachi.
+Then he learned that the Mishima Zaibatsu
+was in chaos. He knew what he had to do.
+
+"Grr grr! (I'll save the Zaibatsu!)"
+
+-
+
+By the time Kuma reached headquarters,
+someone had already taken control.
+
+"Grr?"
+
+Kuma was forced back to the mountains.
+For Heihachi and the Zaibatsu,
+he enters The King of Iron Fist Tournament 5. Grr!
+
+
+-------------------------------------------------------------------------
+   Stage 4: Xiaoyu                                                  Kuma
+-------------------------------------------------------------------------
+
+[Xiaoyu]
+You never stop, do you?
+You need to move on, Bear.
+
+
+[Kuma]
+(I'll follow her to
+the end of the world!)
+
+
+[Xiaoyu]
+Well, it looks like I'll just have to
+make you move on!
+
+
+___________________________________win___________________________________
+
+[Kuma]
+(The power of love
+led me to victory!)
+
+(But for now, I have to
+save the Mishima Zaibatsu.)
+
+
+-------------------------------------------------------------------------
+   Stage 7: Paul                                                    Kuma
+-------------------------------------------------------------------------
+
+[Paul]
+Let's settle this once and for all!
+
+
+[Kuma]
+(But I always win anyway.)
+
+
+[Paul]
+Shut it! My goal is to become
+the toughest in the universe!
+
+
+[Kuma]
+(This tournament isn't as it seems.
+Go home while you can.)
+
+
+[Paul]
+Shut your bear trap! I gotta be
+the toughest in the universe!
+
+
+[Kuma]
+(You're the dumbest
+in the universe.)
+
+
+___________________________________win___________________________________
+
+[Kuma]
+(Man, you really are weak.)
+
+
+[Paul]
+Dammit...Dammit...Daaammmit!
+I can't believe I lost again! Why?!
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                        Kuma
+-------------------------------------------------------------------------
+
+[Lee]
+Master!!
+
+Heihachi Mishima wishes to see you,
+how would you like to proceed?
+
+
+[Kuma]
+(Bring him here.)
+
+
+[Lee]
+Right away.
+
+
+[Heihachi]
+Kuma!!
+
+You protected the Zaibatsu for me!
+You've done well.
+
+
+[Heihachi]
+Damn Kuma and his worthless hide...
+
+As long as there's a breath left in my
+body, I won't let you do as you please!
+
+
+
+----------------------------------------------------------------------------
+:: 2.19  Marshall Law ::::::::::::::::::::::::::::::::::::::::::::::: cf4c6
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                          Law
+-------------------------------------------------------------------------
+
+Marshall Law.
+The Fighting Chef.
+After his restaurant failed, Law tried
+to revive his career in the previous
+tournament. He failed at that, too.
+
+-
+
+Law, now penniless, stayed in Japan to
+work as a dishwasher.
+
+A month later, his wife called him.
+Their runaway son was in an accident
+riding around on Paul Phoenix's bike.
+
+-
+
+Faced with his son's mountain of medical
+bills, Law prepares to enter The King
+of Iron Fist Tournament 5.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Paul                                                     Law
+-------------------------------------------------------------------------
+
+[Law]
+Paul, Forrest was in an accident.
+I really need that prize money.
+
+You gotta let me win.
+
+
+[Paul]
+Marshall, I'm sorry buddy,
+
+but I gotta be the
+toughest in the Universe.
+
+
+[Law]
+You know Forrest!
+I'm begging you.
+
+
+[Paul]
+Shut it!
+
+I'm gonna be number 1
+and that's final!
+
+
+[Law]
+Damn you!
+
+You'll be eating fried rice through
+a straw when I'm done with you!
+
+
+___________________________________lose__________________________________
+
+[Paul]
+Sorry buddy.
+
+I hope you'll still make me
+your famous fried rice.
+
+
+[Law]
+Money...
+
+
+[Paul]
+Don't sweat it.
+When I win, the prize money is yours.
+
+I'm gonna prove I'm the
+toughest in the universe!
+
+That's all I care about!
+
+
+___________________________________win___________________________________
+
+[Paul]
+Number...1...
+
+
+[Law]
+Sorry Paul.
+
+I'll make it up to you with some
+dim sum after I win the tournament.
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                             Law
+-------------------------------------------------------------------------
+
+[Jinpachi]
+Die!
+
+
+[Law]
+Are you a Mishima?
+
+
+[Jinpachi]
+Yes.
+
+
+[Law]
+Then I'll get the prize money
+after I defeat you, right?
+
+
+[Jinpachi]
+Yes. That is correct.
+
+
+[Law]
+...All right.
+
+Come on!
+
+
+-------------------------------------------------------------------------
+   Epilogue                                                          Law
+-------------------------------------------------------------------------
+
+Marshall returns to America after his success at the
+tournament. He meets with a lawyer to discuss how to
+repay his debt.
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                         Law
+-------------------------------------------------------------------------
+
+[Law]
+Broke again.
+
+
+[Paul]
+Here...
+
+Come on man... pay the bill already...
+
+
+[announcer]
+Round 1! Fight!
+
+
+
+----------------------------------------------------------------------------
+:: 2.20  Lee Chaolan :::::::::::::::::::::::::::::::::::::::::::::::: 836d6
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                          Lee
+-------------------------------------------------------------------------
+
+Lee Chaolan.
+Heihachi's adopted son and Kazuya's rival.
+
+Lee faced Kazuya in the previous
+tournament. Surprised by Kazuya's existence,
+Lee lost his focus and the fight.
+
+-
+
+With Heihachi's death, Lee planned to
+take the Zaibatsu. But he was too late.
+
+Lee mutters, "Kazuya's always getting in the way..."
+
+-
+
+One month later, The King of Iron Fist
+Tournament 5 is announced.
+
+Lee says, "Kazuya, this time I'll finish you.
+The Mishima Zaibatsu is mine!"
+
+
+-------------------------------------------------------------------------
+   Stage 4: Kazuya                                                   Lee
+-------------------------------------------------------------------------
+
+[Lee]
+Kazuya!
+Why do you always get in my way?
+
+
+[Kazuya]
+You're the one who won't
+stay put, you maggot.
+
+
+[Lee]
+You stole the position in
+the Mishima Zaibatsu from me!
+
+Now, it's time to take back
+what's rightfully mine.
+
+
+[Kazuya]
+You have no idea what's going on.
+It's a shame how stupid you are.
+
+
+[Lee]
+Shut up! Quit your
+rambling and fight.
+
+Come on.
+
+
+___________________________________win___________________________________
+
+[Lee]
+I did it. I finally did it.
+I took out Kazuya!
+
+How could I be so clumsy...
+
+
+-------------------------------------------------------------------------
+   Stage 7: Heihachi                                                 Lee
+-------------------------------------------------------------------------
+
+[Lee]
+It's not possible.
+You're supposed to be dead!
+
+
+[Heihachi]
+You thought that little explosion was
+enough to do me in?
+
+You're pathetic!
+
+
+___________________________________win___________________________________
+
+[Lee]
+Well, well. How cocky are you now, father?
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                         Lee
+-------------------------------------------------------------------------
+
+[Heihachi]
+May I be of service, Master Lee?
+
+
+[Lee]
+Two fingers!
+
+
+[Heihachi]
+Yes Sir!
+
+Damn that bastard...
+
+
+[Lee]
+You should hurry,
+If you don't want to die...
+
+
+[Heihachi]
+Right away Sir.
+
+
+[Lee]
+Excellent.
+
+
+
+----------------------------------------------------------------------------
+:: 2.21  Lei Wulong ::::::::::::::::::::::::::::::::::::::::::::::::: 4467a
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                          Lei
+-------------------------------------------------------------------------
+
+Lei Wulong.
+A Hong Kong police detective.
+Lei became famous after breaking up the
+Syndicate in the previous tournament.
+
+Once home, Lei begins looking into who
+is destroying dojos throughout China.
+
+-
+
+Many of Lei's close friends had been
+attacked, so he had to do something.
+
+He devoted himself to finding the person
+responsible, but the suspect disappeared.
+
+-
+
+Lei hears of similar crimes in Japan.
+The next likely target: The King of Iron
+Fist Tournament 5. Now's his chance...
+
+
+-------------------------------------------------------------------------
+   Stage 4: Wang                                                     Lei
+-------------------------------------------------------------------------
+
+[Lei]
+Let me apologize in advance,
+Master Wang.
+
+
+[Wang]
+For what?
+
+
+[Lei]
+Please, forgive me for defeating you.
+
+
+[Wang]
+I'll be the one to apologize for that.
+
+
+___________________________________win___________________________________
+
+[Lei]
+Master Wang, you must be familiar
+with the incident in China.
+
+I've received information that
+he is here and came to investigate.
+
+
+[Wang]
+There is a reason why I came here as well.
+I want to know what is happening here...
+
+
+[Lei]
+Please, tell me about it.
+
+
+-------------------------------------------------------------------------
+   Stage 7: Feng                                                     Lei
+-------------------------------------------------------------------------
+
+[Lei]
+So, you're the one
+causing all the trouble.
+
+
+[Feng]
+And just who the hell are you?
+
+
+[Lei]
+Detective Lei Wulong of the Hong Kong
+Police. I'm placing you under arrest.
+
+
+[Feng]
+Lei Wulong, the master of the
+5 Form Kung Fu...interesting.
+
+Come and fight me!
+
+
+___________________________________win___________________________________
+
+[Lei]
+What are you trying to accomplish?
+
+Now, talk!
+
+
+[Feng]
+I'm sure you've heard about
+the stolen scroll...
+
+
+[Lei]
+So that's why you are after the
+Mishima Zaibatsu...
+
+(Is it releated to what the
+Master talked about?)
+
+I guess Jinpachi Mishima
+holds the answers...
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                             Lei
+-------------------------------------------------------------------------
+
+[Lei]
+Jinpachi, I'm placing you under arrest!
+
+
+[Jinpachi]
+I will destroy all...
+
+
+[Lei]
+This is Jinpachi, Master Wang
+talked about?
+
+Why did you send a letter to
+Master Wang?
+
+Answer me!
+
+
+[Jinpachi]
+Fight me and you'll
+find out the truth!
+
+
+___________________________________win___________________________________
+
+[Lei]
+Now talk!
+What are your true intentions?!
+
+
+[Jinpachi]
+It was 40 years ago...
+I was confined in the basement of
+
+the Mishima estate after
+I was betrayed by my son.
+
+I survived for a while but I eventually
+...died.
+
+But...even though I died, this "thing"
+took over my body and revived me
+
+to my present state. It has denied
+me of my right to die on my own terms.
+
+This "thing" tells me to destroy the world
+and eliminate anyone who gets in the way.
+
+I have no choice
+but to follow its orders.
+
+With my last act of human consciousness,
+I sent the letter to Wang.
+
+
+[Lei]
+Then you stole the scroll
+from China as well?
+
+
+[Jinpachi]
+That was my son, Heihachi.
+I will return it now.
+
+My time has come to an end....
+
+
+-------------------------------------------------------------------------
+   Epilogue                                                          Lei
+-------------------------------------------------------------------------
+
+Before Lei is able to enjoy his victory at the tournament, he
+returns to Hong Kong for a new investigation.
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                         Lei
+-------------------------------------------------------------------------
+
+[Lei]
+Dispatch, this is Detective Lei Wulong.
+I have the suspect in custody.
+I'm on my WOOOOOOOOOOAH...
+
+That's gonna leave a mark...
+
+
+
+----------------------------------------------------------------------------
+:: 2.22  Craig Marduk ::::::::::::::::::::::::::::::::::::::::::::::: 4137a
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                       Marduk
+-------------------------------------------------------------------------
+
+Craig Marduk.
+The once-undefeated Vale Tudo fighter.
+
+Unable to accept his loss to King in the
+previous tournament, Marduk transformed
+himself into the ultimate weapon.
+
+-
+
+One day, Marduk, in a black jaguar mask,
+beat everyone in a Vale Tudo tournament
+to a bloody pulp. "King! You're next!"
+
+-
+
+The stage is set for a rematch at
+The King of Iron Fist Tournament 5!
+
+
+-------------------------------------------------------------------------
+   Stage 4: Anna                                                  Marduk
+-------------------------------------------------------------------------
+
+[Marduk]
+Oooh, yeah baby, that's what I'm talking
+about. You need to get with me girl.
+
+
+[Anna]
+I am not into Neanderthals.
+Go back to your cage.
+
+
+___________________________________win___________________________________
+
+[Marduk]
+I ALWAYS get what I want.
+
+
+-------------------------------------------------------------------------
+   Stage 7: King                                                  Marduk
+-------------------------------------------------------------------------
+
+[Marduk]
+It's been a while, King.
+
+I've changed my ways.
+I'll take you down fair and square!
+
+
+___________________________________win___________________________________
+
+See that?! I AM the true king!
+Numero uno, baby!
+
+
+-------------------------------------------------------------------------
+   Epilogue                                                       Marduk
+-------------------------------------------------------------------------
+
+Marduk wins the Tournament and is crowned the new
+champion.
+
+For Marduk, being champion was not enough. He attacked
+various martial art champions to show his superiority.
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                      Marduk
+-------------------------------------------------------------------------
+
+[text]
+And today's target is...
+
+
+[Marduk]
+Come and get some!
+
+Come on! I'll take you both on.
+Get out of my face!
+
+Put that camera on me!
+No one can stop me!
+
+No one!
+
+
+
+----------------------------------------------------------------------------
+:: 2.23  Mokujin :::::::::::::::::::::::::::::::::::::::::::::::::::: 6cfb4
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                      Mokujin
+-------------------------------------------------------------------------
+
+Mokujin - cut from a 2000-year-old oak.
+
+-
+
+Mokujin sprang to life two years ago
+when Jin fought Ogre.
+
+With Jin's win, Mokujin ceased to move,
+but he had a smile on his wooden face.
+
+-
+
+Now, a powerful entity forces Mokujin to
+take action once again.
+
+Will Mokujin ever be free?
+
+
+-------------------------------------------------------------------------
+   Stage 4: Roger Jr.                                            Mokujin
+-------------------------------------------------------------------------
+
+[Mokujin]
+(Do you know
+where my children are?)
+
+
+[Roger Jr.]
+(I don't know. But if you beat me,
+I'll help you find them.)
+
+
+[Mokujin]
+(You can't even talk!
+How can you be of any help?)
+
+
+[Roger Jr.]
+(I'm the one that wears
+the pants in my family!)
+
+
+___________________________________win___________________________________
+
+[Mokujin]
+(I had no choice. A sad and painful result
+awaits at the end of this tournament.)
+
+(A future much worse than
+you could ever imagine. I can tell.)
+
+
+
+----------------------------------------------------------------------------
+:: 2.24  Nina Williams :::::::::::::::::::::::::::::::::::::::::::::: 76bfd
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                         Nina
+-------------------------------------------------------------------------
+
+Nina Williams.
+An assassin with no memory of her past.
+
+The Syndicate told Nina that Steve Fox
+was her own son, but Nina felt nothing.
+
+-
+
+Later, the Syndicate fell and left Nina
+with no purpose. She decided to meet her
+sister, Anna, to try to recover her past.
+
+-
+
+But the moment she saw Anna,
+everything came rushing back. Now it's on!
+
+-
+
+They fought for days. In the end,
+the sisters agreed to settle their rivalry
+in The King of Iron Fist Tournament 5.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Raven                                                   Nina
+-------------------------------------------------------------------------
+
+[Raven]
+So, who do you work for?
+
+
+[Nina]
+I have no client at the moment.
+Who are you?
+
+
+[Raven]
+I have no name. Some call me Raven,
+the dark talon of death.
+
+
+[Nina]
+I'm Nina.
+No one who finds out my name lives.
+
+
+___________________________________win___________________________________
+
+[Nina]
+I told you.
+No one who finds out my name lives.
+
+No one.
+
+
+-------------------------------------------------------------------------
+   Stage 7: Anna                                                    Nina
+-------------------------------------------------------------------------
+
+[Anna]
+This time...this time
+I will kill you!
+
+
+[Nina]
+You don't learn, do you?
+Well, come on then.
+
+
+___________________________________win___________________________________
+
+[Anna]
+Do as you wish.
+
+
+[Nina]
+Anna, you're pathetic.
+
+That didn't satisfy me at all.
+I refuse to kill you.
+
+
+[Anna]
+You bitch!
+
+
+[Nina]
+That look is priceless.
+
+
+-------------------------------------------------------------------------
+   Epilogue                                                         Nina
+-------------------------------------------------------------------------
+
+After being inspired by the sibling battle, a movie director
+insists on starring them in an upcoming film.
+
+-
+
+"A movie? I don't think so."
+
+At first, Nina turned down the offer. However, after she
+finds out Anna has accepted, she has no choice but to
+accept as well.
+
+
+
+----------------------------------------------------------------------------
+:: 2.25  Panda :::::::::::::::::::::::::::::::::::::::::::::::::::::: 506a4
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                        Panda
+-------------------------------------------------------------------------
+
+Panda.
+Ling Xiaoyu's pet bodyguard.
+Xiaoyu was very depressed after The King
+of Iron Fist Tournament 4.
+Panda thought long and hard about
+how she could make her happy again.
+
+-
+
+Panda figured that if she could find Jin
+Kazama, Xiaoyu would be happy again.
+She searched high and low for Jin...
+
+But to no avail.
+
+-
+
+One day, Xiaoyu came to her excited.
+"I'm entering The King of Iron Fist
+Tournament 5. Will you help me again?"
+Panda doesn't have a clue why,
+but she would do anything for Xiaoyu.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Kuma                                                   Panda
+-------------------------------------------------------------------------
+
+[Kuma]
+(Please understand how I feel
+and take these flowers.)
+
+
+[Panda]
+(I already told you, I'm too old
+for you and I don't feel that way.)
+
+
+[Kuma]
+(If you won't be my wife,
+then at least accept this!)
+
+
+___________________________________win___________________________________
+
+[Kuma]
+(Please save
+the Mishima Zaibatsu...)
+
+
+[Panda]
+(If I win, come see me
+in the Master's Office.)
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                       Panda
+-------------------------------------------------------------------------
+
+[Lee]
+Master!!
+
+Kuma wishes to see you,
+how would you like to proceed?
+
+
+[Panda]
+(Bring him here.)
+
+
+[Lee]
+Right away.
+
+
+[Kuma]
+(My lovely honey!)
+
+(My feelings for you
+finally got through you!)
+
+
+[Xiaoyu]
+Hiya, Panda!
+
+How ya been?
+
+What's this button do?
+
+We'll find out!
+
+Panda?...
+
+
+
+----------------------------------------------------------------------------
+:: 2.26  Paul Phoenix ::::::::::::::::::::::::::::::::::::::::::::::: f884a
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                         Paul
+-------------------------------------------------------------------------
+
+Paul Phoenix.
+The self-proclaimed toughest fighter in the Universe.
+
+Paul entered the previous tournament to
+go head-to-head with Kazuya Mishima,
+someone he hadn't fought in 20 years.
+
+-
+
+But he had to get through someone first.
+
+"Not Kuma again!"
+
+Kuma was tough. Paul got careless for
+one instant and Kuma floored him.
+
+-
+
+"It's time to start all over again," says Paul.
+
+Two months later, Paul is ready for The
+King of Iron First Tournament 5.
+
+"I am the toughest fighter in the Universe!" screams Paul.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Kuma                                                    Paul
+-------------------------------------------------------------------------
+
+[Paul]
+What the!...
+
+You again?
+
+
+[Kuma]
+(This tournament isn't as it seems.)
+
+(Go home while you can!)
+
+
+[Paul]
+I'm gonna prove
+I'm the toughest in the universe.
+
+I don't give a crap
+about anything else!
+
+
+[Kuma]
+(They're not concerned about you.)
+
+(You're going to get yourself killed
+if you stay in this tournament.)
+
+
+[Paul]
+Shut your bear trap!
+
+I'm gonna be the toughest
+in the universe!
+
+
+[Kuma]
+(Toughest in the universe, huh?
+Well you're certainly not the brightest.)
+
+
+___________________________________win___________________________________
+
+[Kuma]
+(I'm begging you,
+please save the Zaibatsu.)
+
+
+[Paul]
+Yeah baby! Yeah!
+
+I finally mopped the floor
+with your bear hide!
+
+No one can stop me from becoming
+the toughest in the universe!
+
+
+[Kuma]
+(There's no way this idiot would be
+able to save Mishima Zaibatsu.)
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                            Paul
+-------------------------------------------------------------------------
+
+[Jinpachi]
+My main objective is to destroy all.
+
+While you mortals enjoyed your peaceful,
+prosperous existence, I sat imprisoned,
+
+waiting...
+waiting for the day when I would be freed.
+
+For what felt like an eternity, I endured.
+I endured all this time,
+
+letting my hatred for humanity fester
+inside, growing stronger each day.
+
+
+[Paul]
+I got your freakin' point.
+
+Either way, I'll be the toughest guy on
+Earth as soon as I kick your ass, right?
+
+Ten seconds. Ten seconds
+and I'll be number one.
+
+
+___________________________________win___________________________________
+
+[Paul]
+I'm the best there is on Earth!
+...Watch out universe, 'cause here I come!
+
+...Now how the hell am I supposed
+to get to outer space?
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                        Paul
+-------------------------------------------------------------------------
+
+[Paul]
+Any time!  Any place!
+
+Bring it on ya aliens!
+
+
+
+----------------------------------------------------------------------------
+:: 2.27  Raven :::::::::::::::::::::::::::::::::::::::::::::::::::::: 57d3c
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                        Raven
+-------------------------------------------------------------------------
+
+Codename: Raven.
+A ruthless member of an international spy
+agency.
+Little is known about him other than the
+X on his face.
+
+-
+
+On a mission to look into the Mishima
+Zaibatsu and G Corporation,
+he witnessed Heihachi Mishima swarmed by JACKs.
+
+-
+
+Later, he hears that someone would hold
+The King of Iron Fist Tournament 5.
+
+Raven infiltrates the tournament to find out more.
+
+
+-------------------------------------------------------------------------
+   Stage 8: Heihachi                                               Raven
+-------------------------------------------------------------------------
+
+[Heihachi]
+So you're my opponent.
+
+
+[Raven]
+What?! You died in that explosion!
+
+
+[Heihachi]
+Me, die? The Mishimas are invincible!
+
+That explosion blew me several miles...
+
+and I found myself in a base
+in the middle of the forest.
+
+I must have been on the verge of death
+for several weeks...
+
+but I don't have any recollection
+of anything that happened.
+
+After I recovered,
+I came here...
+
+to...
+
+..to break the neck of the fool that
+started this ridiculous tournament!
+
+
+[Raven]
+This is Raven. An unexpected situation
+has arisen. What are my orders?
+
+
+[???]
+Remain calm. We've confirmed the
+situation. Eliminated him. Over.
+
+
+[Raven]
+Understood.
+
+
+___________________________________win___________________________________
+
+[???]
+I have new orders. Your target is the
+tournament sponsor, Jinpachi Mishima.
+
+Eliminate him. Over.
+
+
+[Raven]
+Jinpachi? What should
+I do with Heihachi?
+
+
+[???]
+Let him go.
+
+
+[Raven]
+Understood.
+
+There's been a change of plans.
+Lucky you.
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                           Raven
+-------------------------------------------------------------------------
+
+[Jinpachi]
+So you're the one trying
+to prevent my resurrection.
+
+
+[Raven]
+Raven here.
+Who is this guy?
+
+
+[???]
+Jinpachi Mishima. Mankind will be
+exterminated if he is fully awakened.
+
+Kill him.
+
+
+[Raven]
+You're kidding!
+He's not even human!
+
+
+[???]
+We'll debrief you later.
+We're counting on you.
+
+
+[Raven]
+Now what?
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                       Raven
+-------------------------------------------------------------------------
+
+[Raven]
+Mission complete.  Returning to HQ.
+
+
+
+----------------------------------------------------------------------------
+:: 2.28  Roger Jr. :::::::::::::::::::::::::::::::::::::::::::::::::: cafe7
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                    Roger Jr.
+-------------------------------------------------------------------------
+
+Roger Jr.
+A transgenic military kangaroo.
+Kazuya and the Mishima Zaibatsu labs
+created the first military animal, Roger.
+
+-
+
+Roger (Daddy) lived in peace after
+The King of Iron Fist Tournament 2.
+
+But he was abducted one day,
+leaving behind his beloved wife and son.
+
+-
+
+Roger Jr. enters The King of Iron Fist
+Tournament 5 to save his Daddy. Tucked in
+Mama's pouch, he gets ready for a fight.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Mokujin                                            Roger Jr.
+-------------------------------------------------------------------------
+
+[Roger Jr.]
+(Hey you, do you know
+where my husband is?)
+
+
+[Mokujin]
+(I don't know. But if you beat me,
+I'll help you find him.)
+
+
+[Roger Jr.]
+(You can't even talk!
+How can you be of any help?)
+
+
+[Mokujin]
+(Look who's talking,
+Mrs. Kangaroo!)
+
+
+___________________________________win___________________________________
+
+[Roger Jr.]
+(I apologize. I have a duty to complete
+this tournament. No matter what the cost.)
+
+
+[Mokujin]
+(I will not accept defeat!)
+
+
+[Roger Jr.]
+(Don't worry. I'll be back.)
+
+
+[Mokujin]
+(Roger Jr....)
+
+
+
+----------------------------------------------------------------------------
+:: 2.29  Steve Fox :::::::::::::::::::::::::::::::::::::::::::::::::: 33231
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                        Steve
+-------------------------------------------------------------------------
+
+Steve Fox.
+A boxing prodigy striving to be the world champion.
+
+Steve entered the previous tournament to
+look into the mystery of his birth.
+
+-
+
+Lei Wulong helped Steve discover that he
+was actually a creation of the Mishima
+Zaibatsu. Steve vowed revenge.
+
+-
+
+Just then, Steve learned of The King of
+Iron Fist Tournament 5.
+The world champion enters without a
+second thought.
+
+A determined Steve says, "The Mishima Zaibatsu
+will never make another monster like me!"
+
+
+-------------------------------------------------------------------------
+   Stage 4: Lei                                                    Steve
+-------------------------------------------------------------------------
+
+[Lei]
+Steve! You're in the tournament?
+
+
+[Steve]
+Yeah. You here about the guy
+who trashed that dojo?
+
+
+[Lei]
+Yes. He's a very dangerous fighter.
+I need to warm up.
+
+You up for some sparring?
+
+
+[Steve]
+You're on.
+
+
+___________________________________win___________________________________
+
+[Lei]
+You sure are strong.
+
+
+[Steve]
+I'll take care of that guy
+if I run into him.
+
+
+[Lei]
+Thanks. I'll be counting on you.
+
+
+-------------------------------------------------------------------------
+   Stage 7: Heihachi                                               Steve
+-------------------------------------------------------------------------
+
+[Steve]
+So you're the one
+behind all of this!
+
+
+[Heihachi]
+You're grossly mistaken.
+
+
+[Steve]
+Quit playing dumb!
+You're gonna tell me everything!
+
+
+___________________________________win___________________________________
+
+[Steve]
+Looks like your research
+is a complete failure.
+
+
+[Heihachi]
+You think this
+tournament ends with me?
+
+
+[Steve]
+What do you mean?
+Who else is behind this?
+
+
+[Heihachi]
+Go to ground zero.
+That is the last stage of the tournament.
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                       Steve
+-------------------------------------------------------------------------
+
+[text]
+After gaining control of the Mishima
+Zaibatsu, Steve heads to a certain location.
+
+
+
+----------------------------------------------------------------------------
+:: 2.30  Wang Jinrei :::::::::::::::::::::::::::::::::::::::::::::::: c1352
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                         Wang
+-------------------------------------------------------------------------
+
+Wang Jinrei.
+A relentless merchant.
+Jinpachi, his childhood friend, once
+told Wang, "To preserve peace, I must
+put an end to the Mishima bloodline."
+These were Jinpachi's last words to him.
+
+-
+
+30 years after Wang heard of Jinpachi's death,
+he received an invitation to The King of Iron Fist
+Tournament 5.
+
+"I need your help. Come see me, Jinrei."
+
+The letter was signed "Jinpachi Mishima".
+
+-
+
+A confused Jinrei says, "What? Jinpachi is alive?"
+
+Wang enters the tournament to see if his
+long lost friend still lives.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Xiaoyu                                                  Wang
+-------------------------------------------------------------------------
+
+[Xiaoyu]
+Here we go!
+
+What?! Grandpa?!
+What are you doing here?
+
+
+[Wang]
+Oh, Xiaoyu. I'm sorry but I'm a bit busy
+at the moment. I can't discuss specifics.
+
+
+[Xiaoyu]
+Hey! I have reasons too.
+I have to win!
+
+
+[Wang]
+Go away! I don't have
+time to explain.
+
+
+[Xiaoyu]
+I hate you Grandpa!
+
+
+___________________________________win___________________________________
+
+[Wang]
+I had no choice. A sad and painful result
+awaits the end of this tournament.
+
+A future much worse than you
+could ever imagine. I can tell.
+
+
+-------------------------------------------------------------------------
+   Stage 7: Feng                                                    Wang
+-------------------------------------------------------------------------
+
+[Wang]
+I don't know what your intentions are,
+but get out of here.
+
+I have my own
+troubles to worry about.
+
+Young people nowadays...
+Come on...
+
+
+___________________________________win___________________________________
+
+[Wang]
+You see? This is as far as you can go.
+What do you have to say for yourself?
+
+
+[Feng]
+...
+
+
+[Wang]
+Well, at least you accept defeat.
+
+Practice, young one, practice. That is all
+you need to do. I wish you the best.
+
+
+-------------------------------------------------------------------------
+   Stage 8: Heihachi                                                Wang
+-------------------------------------------------------------------------
+
+[Wang]
+Heihachi?! How did you
+survive the explosion?
+
+
+[Heihachi]
+Wang, Jinpachi was in charge of
+this tournament, was he not?
+
+
+[Wang]
+I can't say for certain...
+but it is very likely.
+
+
+[Heihachi]
+I'll be the one to stop him.
+Once and for all!
+
+
+[Wang]
+Not so fast. I won't
+let you fool me again!
+
+
+___________________________________win___________________________________
+
+[Heihachi]
+Wang Jinrei,
+how can you?...
+
+
+[Wang]
+Power is not the same as strength.
+
+Until you understand this, you will
+not be able to defeat me.
+
+Will things ever change?
+
+Why do I have to hurt my
+friends to do the right thing?...
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                            Wang
+-------------------------------------------------------------------------
+
+[Jinpachi]
+My friend...
+I'm surprised you made it...
+
+
+[Wang]
+What...happened to you?
+What caused you to turn into this?
+
+
+[Jinpachi]
+Please!
+Kill...me...
+
+
+[Wang]
+I will not harm
+my friend ever again!
+
+
+[Jinpachi]
+My consciousness is almost gone...
+
+Don't let this monster take full
+control. It will be the end of humanity...
+
+
+[Wang]
+There must be another way!
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                        Wang
+-------------------------------------------------------------------------
+
+[Wang]
+Jinpachi, are you ok?
+
+
+[Jinpachi]
+I'm sorry I caused you so much trouble...
+
+
+[Wang]
+Don't say such things!
+
+We've been through so much
+and have always been like brothers.
+
+
+[Jinpachi]
+Jinrei...
+
+
+[Wang]
+Jinpachi!
+
+
+[Jinpachi]
+I wish we could have
+had one last drink together...
+
+but I'm afraid my time has come...
+
+Good bye, my dear friend...
+
+It was fun...
+
+
+[Wang]
+Jinpachi...
+
+Jinpachi!...
+
+It's the curse of the Mishima bloodline!...
+
+Jinpachi...
+it appears that my time has yet to come!
+
+
+
+----------------------------------------------------------------------------
+:: 2.31  Ling Xiaoyu :::::::::::::::::::::::::::::::::::::::::::::::: 94135
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                       Xiaoyu
+-------------------------------------------------------------------------
+
+Ling Xiaoyu.
+Out to save the Mishima Zaibatsu.
+She learned the Zaibatsu's troubled
+history after Yoshimitsu rescued her.
+
+-
+
+Xiaoyu felt it all began when Heihachi
+threw Kazuya into a ravine.
+
+She cried when she heard of Heihachi's death.
+"If only I could turn back time..." says Xiaoyu.
+
+-
+
+Around then, a scientist told her he
+could create a time machine...for a price.
+
+She opens her invitation to The King of
+Iron Fist Tournament 5. With the prize
+money, she could make everything right.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Jin                                                   Xiaoyu
+-------------------------------------------------------------------------
+
+[Xiaoyu]
+Jin!
+
+
+[Jin]
+Xiao,
+this tournament is dangerous!
+
+Leave at once!
+
+
+[Xiaoyu]
+No! If certain things in the past didn't
+happen, then Grandpa Heihachi
+
+wouldn't have had to die like he did.
+I'm going to turn back the hands of time!
+
+
+[Jin]
+Time can't be reversed.
+Heihachi is dead.
+
+Whatever is in charge of the Zaibatsu is
+something far more dangerous than him!
+
+
+[Xiaoyu]
+I'll make everything like it was!
+All of it!
+
+
+___________________________________win___________________________________
+
+[Xiaoyu]
+I'm sorry, Jin. I had to...
+
+But wait...
+If I win the tournament,
+
+we can go back to the good times,
+the way things used to be...
+
+I know it!
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                          Xiaoyu
+-------------------------------------------------------------------------
+
+[Jinpachi]
+Die!
+
+
+[Xiaoyu]
+If I can take this guy down, the prize
+money and time machine will be mine.
+
+I have to win!
+
+
+___________________________________win___________________________________
+
+[Jinpachi]
+Thank you, and goodbye...
+
+
+[Xiaoyu]
+What do you mean "Thank you?" Who am I
+supposed to get the prize money from?!
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                      Xiaoyu
+-------------------------------------------------------------------------
+
+[Xiaoyu]
+If I'm successful,
+maybe everybody will be happy...
+
+3...2...1...
+There!
+
+
+[Heihachi]
+So, are you scared?
+
+
+
+[Kazuya]
+Dammit, you old fart!
+
+Let me go!
+
+
+[Heihachi]
+(Well, if he's going to have a chance as
+my successor, he must have no fear.)
+
+
+[Xiaoyu]
+Looks like it didn't work...
+I guess you just can't change the past...
+
+
+[scientist]
+No matter what happened in the past,
+it's impossible to rewrite history.
+
+The best you can hope for
+are minor improvements!
+
+
+
+----------------------------------------------------------------------------
+:: 2.32  Yoshimitsu ::::::::::::::::::::::::::::::::::::::::::::::::: f0bef
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                   Yoshimitsu
+-------------------------------------------------------------------------
+
+Yoshimitsu.
+A ninja helping the poor.
+While breaking into the Mishima
+Zaibatsu's vault, he found an injured
+Bryan Fury and helped him escape.
+
+-
+
+A month later, when Yoshimitsu visited
+Dr. Boskonovich's lab, he found his
+comrades dead. This was Bryan's thanks.
+
+-
+
+"He'll pay for what he's done," says Yoshimitsu.
+
+Learning Bryan will fight in The King of
+Iron Fist Tournament 5, Yoshimitsu
+sharpens his sword and enters the fray.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Raven                                             Yoshimitsu
+-------------------------------------------------------------------------
+
+[Yoshimitsu]
+Fight with all you have!
+
+
+[Raven]
+You...a ninja?
+There's no way!
+
+
+[Yoshimitsu]
+This...coming from
+a wannabe ninja.
+
+
+[Raven]
+This isn't part of my main objective,
+but I will not lose this fight!
+
+
+___________________________________lose__________________________________
+
+[Raven]
+Rin Pyoh Toh Sha...
+
+You've got it all wrong!
+
+Sha like this! Sha, Sha.
+There! Now, ready?
+
+Kai Jin Retsu Zai Zen!
+
+No, you're hopeless!
+
+
+-------------------------------------------------------------------------
+   Stage 7: Bryan                                             Yoshimitsu
+-------------------------------------------------------------------------
+
+[Yoshimitsu]
+Scoundrel!
+I've found you at last!
+
+
+[Bryan]
+You're gonna wish you
+never found me!
+
+
+[Yoshimitsu]
+Mortal enemy...
+Prepare for your death!
+
+
+___________________________________win___________________________________
+
+[Yoshimitsu]
+It's over. Sit down.
+I will deliver the final blow.
+
+Insolent bastard! Stop!
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                  Yoshimitsu
+-------------------------------------------------------------------------
+
+[Yoshimitsu]
+Retribution.
+
+
+
+==============================================================================
+ 3.  C H A R A C T E R S  ( T D R )                                     6bc59
+==============================================================================
+
+----------------------------------------------------------------------------
+::: 3.1  Armor King ::::::::::::::::::::::::::::::::::::::::::::::::: 0603c
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                   Armor King
+-------------------------------------------------------------------------
+
+The mysterious masked wrestler, Armor King...
+
+-
+
+Just who is behind the steel armor and black jaguar mask
+and what do they seek?
+
+The answer is veiled in mystery.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Marduk                                            Armor King
+-------------------------------------------------------------------------
+
+[Marduk]
+What?
+
+I don't know who you are
+but you'll pay for messing with me!
+
+
+___________________________________win___________________________________
+
+[Marduk]
+Who...who the hell are you?
+
+
+
+----------------------------------------------------------------------------
+:: 3.2  Sergei Dragunov ::::::::::::::::::::::::::::::::::::::::::::: a9c4f
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                     Dragunov
+-------------------------------------------------------------------------
+
+A frozen land buried in dense sub arctic forests.
+While undergoing geological research in preparation
+for the development of natural resources, an anomalous
+object is discovered below the permafrost.
+
+The military quickly calls special forces into action
+and the entire area is completely sealed off.
+The mysterious object is then transferred under absolute
+secrecy to a research facility for further study.
+
+-
+
+A month later, military headquarters receive
+an investigative report regarding the mysterious
+object and decides to order one of the men working
+at the dig on a clandestine mission.
+
+That man is Dragunov, a member of an elite special
+forces team who is feared in battlefronts throughout
+the world as the White Angel of Death.
+
+He acknowledges the mission with a silent nod
+and leaves for Japan.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Raven                                               Dragunov
+-------------------------------------------------------------------------
+
+[Raven]
+So, you're...
+
+I'm on to you and your organization.
+Give up and go back to Russia.
+
+Prepare to die.
+
+
+___________________________________win___________________________________
+
+(no dialogue)
+
+
+-------------------------------------------------------------------------
+   Stage 8: Devil Jin                                           Dragunov
+-------------------------------------------------------------------------
+
+[Devil Jin]
+You insolent fool...
+
+Leave now!
+
+
+___________________________________win___________________________________
+
+(no dialogue)
+
+
+
+----------------------------------------------------------------------------
+::: 3.3  Lili Rochefort ::::::::::::::::::::::::::::::::::::::::::::: 6ac93
+----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+   Prologue                                                         Lili
+-------------------------------------------------------------------------
+
+Lili, the only daughter of a wealthy oil magnate in Monaco.
+Four years ago, she was captured and held ransom for that
+very reason.
+While in captivity, she struggled violently to
+free herself, taking out one of her captors.
+That fight triggered her hunger for battle.
+
+-
+
+However, Lili's father was a good hearted man
+who hated conflict.
+
+"I don't want father to be upset with me...
+but I also want to fight."
+
+Lili could no longer control her urge to fight.
+Under the guise of a simple vacation, she used
+the family's private jet to take part
+in street fighting tournaments around the world.
+
+-
+
+One day, she receives an invitation to a certain
+fighting tournament from an opponent she defeated
+in San Francisco.
+
+Lili soon realizes that the host of this tournament
+was none other than the Mishima Zaibatsu, the main
+sources of her father's problems.
+
+She decides to enter the tournament and put an end
+to her father's troubles.
+
+
+-------------------------------------------------------------------------
+   Stage 4: Ganryu                                                  Lili
+-------------------------------------------------------------------------
+
+[Lili]
+This place is breathtaking.
+
+I really like it here.
+
+
+[Ganryu]
+I can never find my way around
+this place. Heh heh.
+
+Miss, can you take a look at this?
+
+Do you know this place?
+
+
+[Lili]
+Wow, such robust eyebrows!
+
+Just like my father's!
+
+No, I can't...
+
+I must remain focused until 
+I've defeated Mishima!
+
+
+___________________________________win___________________________________
+
+[Lili]
+You have a strapping face
+
+but you're not very good, are you?
+
+Ha ha ha.
+
+
+-------------------------------------------------------------------------
+   Final Stage: Jinpachi                                            Lili
+-------------------------------------------------------------------------
+
+[Lili]
+So you're Mishima!
+
+
+[Jinpachi]
+Indeed.
+
+My name is Jinpachi Mishima!
+
+
+[Lili]
+I must eliminate you....
+for my father's sake!
+
+
+-------------------------------------------------------------------------
+   CG Ending                                                        Lili
+-------------------------------------------------------------------------
+
+[Lili]
+Now that I have taken care of the Mishima
+Zaibatsu for my father, I'm sure he would
+be thrilled.
+
+
+[Sebastian]
+Truly splendid, miss Lili...
+
+
+[Lili]
+Sebastian, you're too much!
+I only did what any daughter would do.
+Ha ha ha...
+
+
+[TV news reporter]
+"Rochefort enterprises, a world-famous
+oil company, has filed for bankruptcy.
+Industry analysts speculate it is due
+to the split-up of the Mishima Zaibatsu,
+a major business partner.
+
+
+[Lili]
+Ha ha ha...
+
+
+
+==============================================================================
+ 4.  M I S C E L L A N E O U S                                          3c388
+==============================================================================
+
+----------------------------------------------------------------------------
+ :: 4.1  Things To Do ::::::::::::::::::::::::::::::::::::::::::::::: 0adea
+----------------------------------------------------------------------------
+
+1) Devil Within?
+
+2) finish the FAQ for the Japanese version
+
+3) Upload my video captures of the Story Battle to Maxi's FTP
+
+
+
+----------------------------------------------------------------------------
+ :: 4.2  Rantings ::::::::::::::::::::::::::::::::::::::::::::::::::: ae0b2
+----------------------------------------------------------------------------
+
+- Anyone who thinks Tekken 5 needs wall tech is an idiot!
+
+- I can't believe people are complaining about the "no language barriers" in
+  the Story Battle!  Would you rather have all the "Asians" speak Japanese 
+  and "non-Asians" speak English (like Soul Blade), or have EVERYONE speak 
+  Japanese (like Soul Calibur), or listen to forced and unintentionally
+  hilarious English (like Tekken 4)?  If you can't appreciate the Baek, 
+  Hwoarang, Feng, and Wang voiceovers (among others), you're an idiot!  
+  Spoken Korean is absolutely beautiful (if spoken by a pretty girl), and 
+  Chinese is (last time I checked) still exotic in video games.  Exotic
+  means "cool."
+
+- Baek IS better than Hwoarang!  I'm absolutely convinced that a well played
+  Baek is better AND flashier than Hwoarang ever could be!  And stop calling
+  Hwoarang "Bob"!  Look how many damn "Who is Bob?" threads there are in the
+  TZ forums!  And where the hell did "Boy On Bike" come from?  That's the
+  stupidest thing I've ever heard... and I've heard A LOT of stupid things!
+
+- Hurry up and put Tekken online, Namco!  I don't care if you have to create
+  the technology yourself, just DO IT!  And what's with the people saying
+  "I'd rather have no online play than bad online play"?  IF YOU DON'T WANT
+  TO PLAY ONLINE, JUST DON'T FRIGGIN' PLAY ONLINE!!!
+
+
+
+==============================================================================
+ 5.  L I N K S                                                          decc5
+==============================================================================
+
+http://www.tekkenzaibatsu.com
+http://www.tekken.net
+http://www.arcadepimp.com
+http://www.tekken.vg/
+http://www.tekken-official.jp/
+
+
+
+The FAQ's search function was made possible by using MD5.  I just copied each
+line of the table of contents and pasted it into an online JavaScript MDS
+converter.  I then used the first five digits as the code for the search
+function.  Pretty clever, eh!?
+
+http://pajhome.org.uk/crypt/md5/
+
+
+
+==============================================================================
+ 6.  T H A N K S                                                        d77fa
+==============================================================================
+
+Thanks to my cousin and his "questionably obtained" Tekken 5...  but I have to
+thank the makers of the Swap Magic even more!  That thing is simply INSPIRED.
+It works great and tells everyone both "I'm too cool for my PS2 front cover"
+and "I can play imports and 'backups'".  Also, thanks to Leadtek, the makers
+of WinFast TV 2000, the best video capture card out there (second to whatever
+the heck Castel uses).  You don't think I recorded all these dialogues on a
+videotape and pressed the Pause button like an animal, do you?
+
+Oh, and thanks to everyone who e-mailed about the FAQ!  Glad to know I wasn't
+just amusing myself by writing this.
+
+
+More people to thank (as of v. 3.00)...
+
+- Boris17
+- Tony2Times
+- Sean Bailey
+- Andrew Skoric
+
+
+
+==============================================================================
+ 7.  V E R S I O N  H I S T O R Y                                       70433
+==============================================================================
+
+- v. 3.00 [2007.03.20]
+  Added the stories for the DR characters, fixed more errors, and added an
+  even better search function. 
+
+- v. 2.00 [2005.07.15]
+  Added the story prologues, epilogues and CG endings, and fixed a few small 
+  errors here and there.
+
+- v. 1.00 [2005.05.01]
+  First release.
+
+
+[eof]

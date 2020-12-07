@@ -1,0 +1,4010 @@
+1.10
+                    _____    _    _                ____
+                   |_   _|__| | _| | _____ _ __   | ___|
+                     | |/ _ \ |/ / |/ / _ \ '_ \  |___ \
+                     | |  __/   <|   <  __/ | | |  ___) |
+                     |_|\___|_|\_\_|\_\___|_| |_| |____/
+                     |  \/  | _____   _____| (_)___| |_
+                     | |\/| |/ _ \ \ / / _ \ | / __| __|
+                     | |  | | (_) \ V /  __/ | \__ \ |_
+                     |_|  |_|\___/ \_/ \___|_|_|___/\__|
+ 
+                      Arcade and Playstation2 Versions
+                          Version 1.10 (02/25/05)
+                      --------------------------------
+                      by Catlord (catlord@catlord.com)
+              Latest movelist available at- http://catlord.com
+
+
+      This movelist was made to provide concise moves and a compact printout.
+If I messed up, just E-Mail catlord@catlord.com with your corrections and/or
+wisdom.  You also might be able to catch me at the #tekken IRC channel on
+EFNet.  Thanks!
+
+Note: This FAQ must be printed in monospace format, otherwise it will come
+      out ugly as hell and not lined up..    1234567890
+                                             ..........
+
+========================Disclaimer Mumbo-Jumbo==============================
+|                                                                          |
+| This guide is intended for free circulation through all Internet related |
+| resources including web pages, newsgroups, email, IRC, FTP and any other |
+| forums that exist.  You many distribute or print this guide at your own  |
+| leisure providing you do not alter the content in any way or receive     |
+| monetary compensation for it.  Tekken5, the Tekken series, and their     |
+| characters are copyright Namco.  The strategies and other non-official   |
+| info regarding Tekken and/or your mama are copyright Hans Poorvin.       |
+| Do not steal the information contained in this guide or attempt to       |
+| reword it or I'll bust y0 ass with a 9-Iron.                             |
+|                                                                          |
+===========We Now Continue to Your Regularly Scheduled Movelist=============
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+==================================
+| WHAT'S NEW IN REVISION UPDATES |
+==================================
+
+  v1.10 Added/Fixed Moves for Christie, Devil Jin, Ganryu, Heihachi and King.
+  ----- Added Sample Combos for Steve.
+        Added Heihachi.
+
+  v1.09 Added/Fixed Moves for Christie, Devil Jin, and Ganryu.
+  ----- Added Sample Combos for Devil Jin and Ganryu.
+        Added Mokujin.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+                     *-*-*-BUTTON CONVENTIONS-*-*-*                        
+
+ 			     ------------------------------------
+                             |                |   PLAYSTATION2  |
+			     |     ARCADE     |       ___       |
+	 1 - Left Punch      |   ___    ___   |      /   \      |
+	 2 - Right Punch     |  /   \  /   \  |      | 2 |      |
+	 3 - Left Kick       |  | 1 |  | 2 |  |      \___/      |
+	 4 - Right Kick      |  \___/  \___/  |  ___   /\  ___  |
+			     |                | /   \     /   \ |
+			     |   ___    ___   | | 1 |     | 4 | |
+			     |  /   \  /   \  | \___/     \___/ |
+   It's very important to    |  | 3 |  | 4 |  |  []   ___   O   |
+ become familiar with the    |  \___/  \___/  |      /   \      |
+ numeric conventions of the  |                |      | 3 |      |
+ buttons.                    |                |      \___/      |
+			     |                |        X        |
+			     ------------------------------------
+
+                    *-*-*-MOVEMENT CONVENTIONS-*-*-*                        
+
+f - tap forward once           d/f - tap down/forward once
+b - tap backwards once         d/b - tap down/back once
+d - tap down once              u/f - tap up/forward once
+u - tap up once                u/b - tap up/back once
+
+F - Hold stick forward         D/F - Hold stick down/forward
+B - Hold stick back            D/B - Hold stick down/back
+D - Hold stick down            U/F - Hold stick up/forward
+U - Hold stick up              U/B - Hold stick up/back
+
+N - Neutral joystick position (Joystick is not touched)
+SS - Short Sidestep (u,N or d,N)
+QCF - Quarter circle forward (Circle stick from down to forward)
+QCB - Quarter circle back (Circle stick from down to back)
+HCF - Half circle forward (Circle stick from back to down to forward)
+HCB - Half circle back (Circle stick from forward to down to back)
+
+		*-*-*-LINKING & SPECIAL CONVENTIONS-*-*-*
+
++ - Moves must be done together
+, - Moves must be done right after the other
+~ - Moves must be done IMMEDIATELY after the other
+_ - Or (When used between two moves, they are interchangeable)
+> - Move following the > has the option of being slightly delayed  
+: - Move Following the : has to be precision timed to execute (Just Frame)
+# - Hold movement before the '#' until the end of string or until N (Neutral)
+FC - Do move during full crouched position
+WS - While standing up (Returning the stick to neutral from a crouch)
+RN - While running (f,F#)
+BT - Back turned toward opponent
+FD/FT - Lying on the ground Face Down / Feet Towards opponent
+FD/FA -   "           "     Face Down / Feet Away from opponent
+FU/FT -   "           "     Face Up / Feet Towards opponent
+FU/FA -   "           "     Face Up / Feet Away from opponent
+CH - Major Counterhit (Hitting your opponent during their move execution)
+Clean - Clean Hit (Hitting your opponent from very close range)
+[] - Brackets surrounding an item indicate an optional output
+() - Parenthesis indicates moves grouped together
+{} - Curved brackets indicate buttons needed to break a throw
+. - Pause 1/3 a second between button presses (Tenstring timings only)
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+  NEW TEKKEN5 MOVES
+  -----------------
+
+    If an old character has a new move that they did not have in Tekken4
+    or Tekken Tag, or if the command for that move has changed, I wrote 
+    that move in CAPITAL LETTERS!
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+ TIME RELEASE CHARACTERS
+  -----------------------
+    When a Tekken5 is turned on for the first time, only the 10 default    
+    characters are selectable.  The arcade version has an internal clock
+    built in, and after a certain number of days that the machine has
+    been active, a new character becomes time released and playable.
+  
+Character               Days Machine Has Been Running   
+---------               -----------------------------
+Anna Williams                        17
+Baek Do San                          17
+Roger Jr.                            17
+Bruce Irvin                          32
+Kuma / Panda                         32
+Wang Jinrei                          32
+Devil Jin                            50
+Ganryu                               50
+Mokujin                              50
+Heihachi                             98
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+General Moves for Everyone
+=-=-=-=-=-=-=-=-=-=-=-=-=-                      
+N                       Stand (Neutral Guard)
+B                       High/Mid Guard, Walk Backward
+D                       Low Guard, Crouch
+F                       Walk Forward
+f,f                     Dash Forward
+b,b                     Dash Backward
+(u,N)_(d,N)             Axis Shifting Sidestep (SS)
+(u,U#)_(d,D#)           AXIS SHIFTING SIDEWALK (SW)
+d/f                     Low Parry  *When Attacked by a Low/Special-Mid Hit*
+1+2+3+4                 KIAI TAME POWERUP  *Block Damage & Auto CH on hit*
+f+2+4                   Right Strike Reversal Escape  *When Being Reversed*
+f+1+3                   Left Strike Reversal Escape  *When Being Reversed*
+
+(u/b)_(u)_(u/f)         Low Jump
+(U/B)_(U)_(U/F)         High Jump
+  N+3                     Landing Mid Gutkick  *Stuns*
+<jump>+(1_3_4)          Jumping Attack
+(u_u/f)+2               Quick Pounce
+(f,f,f)_(f,F)           Run
+  B                       Stop Running
+  1+2                     Flying Cross Chop
+  3                       Flying Side Kick 
+  4                       Sliding Leg Sweep
+  N                       Shoulder, Stomp or Tackle depending on run distance
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+The Characters
+=-=-=-=-=-=-=-
+
+=================
+| ANNA WILLIAMS |
+=================
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                       ASS KICKING {1}
+	2+4                       HOE SLAPS {2}
+        u/f+1+2                   Overhead Neck Throw {1+2}
+	d/f,d/f+1                 Embracing Elbow Strike {1+2}
+        QCF+1+2                   Palm Grab {1}
+	  3,4,3,1+2                 Reaping Arm Bar {1+2}
+	  1,3,2,1                   Standing Reverse Arm Lock {1}
+	    2,1,3,4,1+2               Falling Reverse Arm Lock {2}
+	    3,1,4,1+2,1+2             Rear Gatelatch Falconwing Squeeze {1+2}
+	    2,3,1+2,3+4,1+2           Gatelatch Throw {1}
+	  1+3,4,1+2                 Arm Sprain, Standing Cross Lock {2}
+	    4,3,4,3+4,1+2             Inverted Crucifix {1+2}
+	    1+2,4,3,1+2,1+2,1+2       Arm Break, Rear Cross Lock {1}
+(Left)  (1+3)_(2+4)               Embracing Throat Strike {1}
+(Right) (1+3)_(2+4)               Snake Necksnap {2}
+(Back)  (1+3)_(2+4)               Jumping Overhead Three Limb Break
+
+SPECIAL TECHNIQUES
+1,4                      Highpunch, Lowkick
+1,2,1                    Triple Stabs
+  4                        UPPER KICK  *Juggles*
+  d+4                      Lowkick
+d/f+1,2                  Uppercut Stabs
+  3                        BLAZE FOOT  *Juggles*
+  4                        INSIDE CRESCENT
+(d+1~N+4)_(FC+2,4)       Midpunch, Frontkick
+b+1,2,2                  TURNING SLAP, WINGSTRIKE, ELBOW
+d/b+1                    Scarlet Rain
+  1                        FOOT CUTTER
+  4                        DUST FLICKER  *Juggles*
+FC,f+1                   Cat Thrust  *Crumples*
+QCF+1                    Dashing Elbow  *Juggles on CH*
+u/f+1>3                  Thrust, Snapkick  *Crumples on CH*
+  3+4                      ROLLING KNEES
+WS_f+1+2                 ORCHID PALM
+SS+1+2                   Spinning Slap, Uppercut *Juggles*
+2,1,4                    Double Stabs, Lowkick
+f+2,1,4                  HARD STABS, UPPER KICK  *Juggles*
+b+2,2                    Bitchslaps  {Females can Reverse with 2}
+d+2                      DESCENDING DAGGER PALM
+(d/f_WS_QCF)+2           PALM UPPERCUT  *Juggles*
+SS+2                     Leg Blade  *Floats on CH*
+SS+3                     Inside Crescent
+f,F+2                    Spinning Layout Slap
+FC,d/f+2                 Cold Blade
+FC,f+2                   Right Hand Stab  *Auto Mid Cancels*
+2,3_(d+3)_4              Highpunch, Highkick_Lowkick_Roundhouse
+3,4                      2 Highkicks
+b+3                      [Cat Stance]
+d+3+4                    Groundstomp
+d+3,4_2                  Lowkick, Highkick_Uppercut *Juggles*
+FC+3,(d+4)_4_2           Lowkick, (Lowkick)_Highkick_Uppercut  *Juggles*
+d/f+3                    Sidekick 
+  >1,2                     Twin Punches
+  >1,4>2                   Sidekick[s], Punch, Kick, Backhand
+    U_D                      Sidestep Cancel
+    1+2                      ORCHID PALM
+    3                        HIGH ROUNDHOUSE
+    u/f+3                    FLYING DAGGER KICK
+    4                        Spinsweep
+  >2                       Stab
+    ~U_D                     Sidestep
+    1,4                      Stab, Lowkick
+    3                        Sidekick
+    d+3                      Lowkick
+    4                        Highkick
+  >3,3                     Sidekicks  
+    1                        FLICKER SNAP  *Juggles*
+    4                        Highkick               
+d/b+3                    SHIN CUTTER  *Juggles*
+u/f+3                    FLYING DAGGER KICK
+4,3                      Highkick, Lowkick
+f,f+3                    BLAZE FOOT  *Juggles*
+  4                        STAIR KICK
+    3                        SNAP FOOT
+    b+3                      SNAP FOOT, [CAT STANCE]
+d/f+4                    Spinning Ankle Kick
+f+4                      HOPPING THRUSTKICK
+FC,(u_u/f_u/b)+4         Low Flipkick  *Juggles*
+U/B_U_U/F+4              Low Flipkick  *Juggles*
+FC,(U/U/F_U/B)+4         High Flipkick
+u/f+4                    Jumpkick  *Juggles on CH*
+  3,4_(d_u+4)              Lowkick, Highkick_(Sidestep Cancel)
+d/b+4,3                  SPIDER SWEEPS  *Juggles*
+f,f+4                    Kneeling Flipkick
+  ~B                       [CAT STANCE]
+d+4>1,[U_D]              Midkick, Spinchop, [Sidestep Cancel]
+FC+4,1,[U_D]             Midkick, Spinchop, [Sidestep Cancel]
+(u~u/b)_(u/b+3+4)        Backflip
+b+(1+3)_(2+4)            Attack Reversal
+d+1+2                    Bloody Scissors  *Unblockable*
+d/b+1+2 [u,u]            Hunting Swan [Cancel]  *Unblockable*
+1_(BT 1)_(BT 2),212:3:3:2::1:2:4       Tenstring
+1_(BT 1)_(BT 2),2,1,2,4,1,2,2,3+4,2    TENSTRING
+1_(BT 1)_(BT 2),2,1,2,4,1,2,2,3+4,3    TENSTRING
+212:3:3:2::1:2:4         NINESTRING
+2,1,2,4,1,2,2,3+4,2      NINESTRING
+2,1,2,4,1,2,2,3+4,3      NINESTRING
+
+Cat Stance - b+3 : Auto Low Reverse & Auto Reverses Command and Multithrows
+----------------
+f,3                      ROLLING PROWL, THRUSTING KICK
+1                        FLICKER SLAP  *Juggles*
+3                        FORWARD STAB KICK
+4                        SLIPPERY SWEEP
+
+SAMPLE COMBOS
+CH QCF+1, QCF+1, 1, u/f+1,3,3+4
+d/f+2, d/f+1, d/f+1, d/f+1, d/f+1,{2},4
+f,f+3, 1, QCF+1, 1, d/f+3,1,4
+d/b+3, d+4,1, d/f+1,2>3
+CH d/b+4,3, d+1, f,f+1, QCF+1, d+4,1
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+================
+| ASUKA KAZAMA |
+================
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 ARM TRAP {1}
+        2+4                 Serpent Twist {2}
+        d/f+2+3             Striking Oshi Taoshi
+        b+1+2               Spinning Arm Whip
+        d/b+1+2             SNARE GRAB  *Draws Opponent Closer - Can't Duck*
+        FC,d/f,d,d/f+1+2    DIRT EATER AIRTOSS  *Juggles*
+(Left)  (1+3)_(2+4)         Cloud Taste {1}
+(Right) (1+3)_(2+4)         Wind Wheel {2}
+(Back)  (1+3)_(2+4)         Angler Drop
+
+SPECIAL TECHNIQUES
+1                           Highpunch
+  1                           Screw Punch
+    3                          Front Kick  *Front Kick Strings*
+    4                          Can-Can Kicks  *Juggles*
+1,2,4                       1-2 PUNCHES, SNAPKICK
+1,3                         Highpunch, Shin Lowkick
+1,4                         Highpunch, Leg Cutter  *Leg Cutter Strings*
+b+1                         Sparrow Trap  *Throws on CH*
+WS+1                        Sparrow Gut Punch  *Stuns on CH*
+f+1,4                       Screw Punch, Can-Can Kicks  *Juggles*
+d/f+1,2                     UPPERCUT, HUNTER'S TRAP *Throw*
+d/f+1+2                     DODGING STRIKES  *Auto Low Parry*
+1+2                         Double Palm  *Juggles*
+f+1+2                       BLADE ELBOW
+2_(SS+2)                    Uppercut  *Juggles*
+d/f+2                       Sparrow Uppercut  *Juggles*
+FC,d/f+2                    Sweeping Sparrow
+d/b+2                       Rock Shooter  *Juggles*
+f+2                         Dashing Uppercut  *Juggles*
+  d_d/b                       Uppercut Cancel
+f,f+2                       Mist Palm
+b+2                         Driving Arrow
+  4                           Leg Cutter  *Leg Cutter Strings*
+  1                           Screw Punch
+    3                           Front Kick  *Front Kick strings*
+    4                           Can-Can Kicks  *Juggles*  
+    d+4                         POWER TAILSWEEP
+2+3                         Sparrow Piroette  *Parries High Punches*
+d/f+3                       LONG THRUSTKICK
+b+3                         Backflip 
+  2                           Dashing Uppercut
+    d_d/b                       UPPERCUT CANCEL
+  4                           Leg Cutter  *Leg Cutter Strings*
+3~4                         POWER TAILSWEEP
+WS+3                        Cartwheel Kickup  *Juggles*
+u/f+3                       LEAPING JUMPKICK
+d/b+3                       BACKSPINNING SWEEP
+3+4                         Cartwheel Kick
+d+3+4                       Can-Can Kicks  *Juggles*
+(FC_WS)+3+4,3+4             Cartwheel Helicopter
+f+4                         Hard Roundhouse
+f,f+4                       LEAPING ROUNDHOUSE
+b+4                         KNEE CRUSH  *Stuns on CH*
+d/f+4                       MID FRONTKICK
+SS+4                        Boomerang Stomp
+u/f+4                       RIGHT HOPKICK  *Juggles*
+u~u/b                       Backflip
+b,b~u/b                     LEAPING DOWNWARDS PUNCH  *Against Wall*
+
+f+1,3                       Front Kick String
+  1                           High Punch
+    2                           Uppercut
+    1,3                         Screw Punch, Front Kick  *Front Kick strings*
+    1,4                         Screw Punch, Can-Can Kicks  *Juggles*
+    3                           Shin Lowkick
+    4                           Leg Cutter  *Leg Cutter strings*
+
+1+4,2                       White Heron String
+  4                           Lightning Crescent
+  d+4                         Sweep Kick
+  1                           Punch
+    1,3                         Screw Punch, Front Kick  *Front Kick strings*
+    1,4                         Screw Punch, Can-Can Kicks  *Juggles*
+    2,4                         PUNCH, SNAPKICK
+    3                           Shin Lowkick
+    4                           Leg Cutter  *Leg Cutter strings*
+
+d/b+4                       Leg Cutter String
+  [4],[4]                     [Double/Triple Leg Cutters]
+    3                           Cartwheel Kick
+    1+4                         White Heron  *White Heron strings*
+
+b+1+3                       High/Mid Attack Reversal
+
+(F+3)# [D_B to cancel]      Spinning Heel Drop  *Unblockable after 3rd Spin*
+
+(WS)+2:1:1:1::2:1::4:3::3+4   Tenstring
+(WS)+2:1:1:1::2::1+4::1:3+4   Tenstring
+(WS)+2:1:1:3                  Fourstring
+
+SAMPLE COMBOS
+1+2, 1+4, b+2,1,3
+f+2, u/f+3, 1+4,2,4
+CH FC,d/f+2, WS+3, b+2,1,3, f+2
+d/f+2, b+2,1,3, f+1+2
+d+3+4, b+2,1+2, 1+4,2
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+================
+| BAEK DOO SAN |
+================
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Hammer Head {1}
+        2+4                 Blue Shark Claw {2}
+        d/b+1+3             Swordfish Catch {1+2}
+        f,f+2               Cobra Bite {2}
+        f+2+3               Cannonball {1+2}
+(Left)  (1+3)_(2+4)         Snake Revenge {1}
+(Right) (1+3)_(2+4)         Hunting Serpent {2}
+(Back)  (1+3)_(2+4)         TRIPLE PAIN
+
+SPECIAL TECHNIQUES
+1,1                         Double Punches
+[1,2,]3,3,3,4               [1-2 Punches,] Butterfly Kicks
+[1,2,]3,3,3,d+4             [1-2 Punches,] Butterfly Needle
+[1,2,]3,4>3                 [1-2 Punches,] Break Blade  *Juggles*
+[1,2,]3,3,4>4>3             [1-2 Punches,] Black Widow, 
+  f_b                         Widow Cancel, [Flamingo]
+[1,2,]3,3,4>4>4             [1-2 PUNCHES,] PYTHON HUNTER
+1,2,3~f                     1-2 Punches, [Flamingo]
+b+1                         Stealth Needle
+SS+1                        Raise Hammer
+1+2                         SKULL CRUSH  *Juggles*
+  4                           HEEL AXE
+2,2                         Mantis Backhand Spin
+b+2                         Bolt Cut
+b,b+2                       BACKHAND SPIN
+f+2                         HAMMER SLUG
+d/f+2                       Uppercut  *Juggles*
+u/f+2                       Bone Stagger
+f+3,3,2                     TRIDENT RUSH
+f,f,N+3                     SPINNING LIFT  *Juggles*
+d/f+3                       BELT KICK
+  f                           BELT CANCEL, [FLAMINGO]
+d/b+3                       KNEE CRACKER
+WS+3,4>4>3                  Heat Destruction
+  f_b                         Heat Cancel, [Flamingo]
+WS+3,4>4>4                  PYTHON SLIDER
+WS+3,3>4                    Wave Needle
+[u/f+]3+4,[f_b]             [Quick] Flashing Halbred, [Flamingo Stance]
+b,b+3                       Heel Hunter
+u+4                         CONCUSSION KICK  *Stuns*
+  3                           TWISTING FACE KICK
+u/f,N                       Baek Hop
+  3,4                         Trick Smash
+  3,d+4>3                     Starlight Blade  *Juggles*
+  3,3,3,4_(d+4)               Butterfly Kicks_(Butterfly Needle)
+  3,3,4>4>3                   Black Widow
+    f_b                         Widow Cancel, [Flamingo]
+  3,3,4>4>4                   PYTHON HUNTER
+f,N,d,d/f+3                 Wing Blade  *Juggles*
+FC_d+3,3,d+3                Snake Creep
+FC_d+3,3,N+3                Snake Blade  *Juggles*
+4,4                         FACEKICK, AXE SNAP
+f+4                         Heel Snap
+  >3                          Heel Knife
+    f_b                         Knife Cancel, [Flamingo]
+  >4                          PYTHON KICK
+WS+4>4>3,[f_b]              Albatross
+  f_b                         Albatross Cancel, [Flamingo]
+WS+4>4>4                    Axekicks, PYTHON BITE
+b+4                         Heel Lance  *Juggles*
+u/f+4                       HOPKICK  *Juggles*
+d/b+4                       COBRA SWEEP
+f,f+4                       Hammer Heel
+u/f+3,4,3                   Hunting Hawk
+FC_d+4,3,3>3                Peck Rash
+  f_b                         Peck Cancel, [Flamingo]
+FC_d+4,3,3,D+3              Peck Needle
+b+1+2,[B]                   Mid/High Punch Parry, [Flamingo]
+d/b+3+4 [b,b]               Heel Explosion  *Unblockable*
+  b,b                         Explosion Cancel, [Flamingo]  *Unblockable*
+b,b+3+4                     HURRICANE EXPLOSION  *Unblockable*
+434:3:33:3:3:4:3            Tenstring
+4:33:4:3:33:4:3:3           Tenstring
+
+Flamingo Stance - b+3
+---------------------
+f_b                         Flamingo Step
+u_d                         Flamingo Sidestep
+1,2,3,3,3,4                 1-2 Punches, Butterfly Kicks
+1,2,3,3,3,d+4               1-2 Punches, Butterfly Needle
+1,2,3,4>3                   1-2 Punches, Break Blade  *Juggles*
+1,2,3,3,4>4>3               1-2 Punches, Black Widow
+  f_b                         Widow Cancel, [Flamingo]
+1,2,3,3,4>4>4               1-2 PUNCHES, PYTHON HUNTER
+1,2,3~f                     1-2 Punches, [Flamingo Stance]
+1+2                         SKULL CRUSH  *Juggles*
+  4                           HEEL AXE
+(d_d/b_d/f)+3               Maha Needle
+3,3,4                       Flamingo Wave Needle
+3,4>4,3                     Flamingo Destruction, 
+  f_b                         Destruction Cancel, [Flamingo]
+3,4>4>4                     FLAMINGO PYTHON
+b+3                         Heel Hunter
+f+3                         GUTBUSTER KICK
+d+3                         Knee Capper
+b+4                         Heel Lance  *Juggles*
+4>4                         Axe Kicks
+f+4                         SPINNING HIGH ROUNDHOUSE
+d/b+4                       COBRA SWEEP
+434:3:33:3:3:4:3            Tenstring
+4:33:4:3:33:4:3:3           Tenstring
+
+SAMPLE COMBOS
+d/f+2, 3+4~f, 1,2,3(Hold)~F, N+4
+f,f,N+3, 1, f,N,d,d/f+3
+f,N,d,d/f+3, u/f,N+3,3,3,4
+CH d+3,3,N+3, 1, d+3,3,N+3
+u/f+4, 1,2,3~f, 1,2,3~f, 1,2,3(Hold)~F, N+4
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+===============
+| BRUCE IRVIN |
+===============
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Knee Bash {1}          
+        2+4                 Rib Crusher {2} 
+        f,N,d,d/f+1+2+4     Embracing Knee {1+2}
+          1+2,1+2,1+2         Tumbleweed
+          (3_4),1+2+3         Left Knee Strike {2}
+            1,3,1+2+4           Turning Knee
+              2,4,1,1+2+3         Rising Knee
+        f,N,d,d/f+2+3       POSITION CHANGER
+          3+4,3+4             TURNING KNEE
+          4,3,4,1+2+3         FURY KNEES
+(Left)  (1+3)_(2+4)         Head Breaker {1}
+(Right) (1+3)_(2+4)         Face Breaker {2}
+(Back)  (1+3)_(2+4)         Reverse Neck Toss
+
+SPECIAL TECHNIQUES
+1,2,1,2                     Bruce Rush
+[1],2,                      [Jab], Punch
+  3                           Midkick
+  4                           Frontkick
+  f+4                         Highkick
+  d+4>3                       Sweepkick, Highkick
+1,4,3                       Southern Cross
+f+1,2,1                     Triple Elbows
+f,f+1                       SILENCER  *Stuns*
+b+1                         Black Back Knuckle  *Stuns on CH*
+d/f+1,2                     Double Face Buster  *Juggles*
+u/f+1                       ELBOW BOMB
+SS+1                        Nightmare Elbow
+FC,d/f,d,d/f+1              Tornado Uppercut
+1+2                         Bomb Drop
+f+1+2                       Spinning Slice Elbow
+d/f+2                       Elbow Uppercut  *Juggles*
+f,N,d,d/f+2                 CROUCHING BOMBER
+f,f+2                       Nightmare Mach Punch  *Reverses Punches*
+WS+2,1                      RISING ELBOW, LEFT HOOK
+3,2,1                       Gatling Combo
+  2                           MID HOOK
+  4                           Lowkick
+3,3                         STEP-IN KICK, FACEKICK
+f+3                         THRUSTER KNEE  *Stuns on CH*
+f,f+3                       Slice Kick
+d+3                         Thai Shinkick
+  4                           HAMMER KNEE
+b+3,4_2                     Frontkick, Knee_Right Punch
+d/f+3,1                     Spinsweep, Tornado Uppercut
+d/b+3                       SWAY LOWKICK
+u/f+3                       KNEE EATER
+f,N,d,d/f+3                 DASHING HARD LOWKICK
+SS+3                        HAYMAKER KICK
+d/f+3+4,3,3,3,3             MACHINE KNEES
+b,b,N+3+4,4                 Handspring Backflip, Bazooka Leg
+f,N,d,d/f,u/f+3+4           HYPER KNEE
+4~f                         HAMMER KNEE
+f+4,3,4                     PROMINANCE RUSH
+b+4,3                       Cheese Knees
+  4                           Lunge Knee
+  d+4                         Low Kicker
+b,f+4                       Rising Knee  *Juggles*
+b,b+4                       Nightmare Sweep  *Juggles on CH*
+f,f+4                       Bazooka Leg
+d/f+4                       TRIDENT KICK
+d/b+4                       Sway Highkick
+SS+4                        Bull Kick
+  1                           Left Hook
+  4                           Double Bull
+1,1,2,1,4,3,4,3,2,1         TENSTRING
+1,1,2,1,4,3,4,3,4,3         TENSTRING
+
+b+2+3                       Sidewinder  *Unblockable*
+
+SAMPLE COMBOS
+f,f+1, 3,3, b+4,3,4
+CH d/f+1,2, 2,3, 2,f+4
+d/f+2, 1, f+1,2,1
+b,f+4, u/f+4, f+4,3,4
+CH b,b+4, b+4,3,4
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+==============
+| BRYAN FURY |
+==============
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Dropping Throat Breaker {1}
+        2+4                 Falling Brain Blaster {2}
+        f,f+1+2             SNAKE MIXER
+        FC,d/f,d/f+1+2      Chains of Misery {1+2}
+(Left)  (1+3)_(2+4)         Free Fall {1}
+(Right) (1+3)_(2+4)         Knee Blast {2}
+(Back)  (1+3)_(2+4)         Hummer Throw
+
+SPECIAL TECHNIQUES
+f+1,2                       1-2 PUNCH
+  1                           MID BLOW
+  3                           LOW KICK
+  4                           HIGH ARC KICK
+b+1                         DOWNWARD SMASH  *Juggles*
+b+1>2>1,2,1,2,1,2,1,2,4     Momentum Death                        
+D/F#+1[>1][>1][>1]~2        Piston Punch[es], Straightpunch
+SS+1                        Devil's Claw
+SS+1~2                      Phantom's Claw  *Stuns on CH*
+QCF_WS+1                    Lifting Uppercut  *Juggles*
+1,4,3,3                     Southern Cross
+1,4>2                       Atomic Combo
+  (>1)_(~f+1)                 (Backhand)_(Fakeout Punch)
+    ~u_d                        Sidestep Feint
+    >2                          Mach Punch
+    >4                          Spinkick
+  4                           Sidekick
+(FC_d_N)+1+2                Double Snake Fang
+f+1+2                       Spinning Elbow
+QCF_WS+1+2                  Small Uppercut
+b+2                         Backhand  *Stuns on CH*
+  (>1)_(~f+1)                 (Backhand)_(Fakeout Punch)
+    ~u_d                        Sidestep Feint
+    >2                          Mach Punch
+    >4                          Spinkick
+  >4                          Sidekick
+d/f+2                       Straightpunch
+d+2                         DOWNWARDS BOMB
+f,b+2                       JET UPPERCUT  *Juggles*
+d/b+2                       Stomach Hook
+QCB,2                       Backdash Smash  *Juggles*
+QCF_WS+2                    Gutpunch 
+  b_f+2                       Slam Throw  *If Gutpunch Connects - Juggles*
+SS+2                        Side Hummer
+f+2,1,4                     Stomach Combo
+f,f+2                       Mach Punch
+3,3                         Midkick, Highkick
+  2                           JET UPPERCUT  *Juggles*
+  4                           FACEKICK
+d+3,2                       CROUCHED ANKLE KICK, STOMACH HOOK
+b+3                         Stopping Kick
+  1+2                         OVERHEAD BOMB
+  4                           Knee
+  2,1                         2 Punches
+    2                           Mid Hook
+    4                           Low Kick
+f+3                         Lifting Left Knee
+f,f+3                       Slash Kick
+f,f+3 *Hold Down 3*         Delayed Power Slash Kick
+3,2,1                       Gatling Combo
+  2                           Mid Hook
+  4                           Low Kick
+QCF_WS+3                    Rising Knee  *Stuns On CH*
+  4                           Crushing Knee
+d/f+3                       Snake Edge  *Juggles*
+(u_u/f)+3                   Rolling Driver
+d/f+4                       Spinkick
+d+3+4                       Side Low Kick
+  2,3                         HOOKER, LOWKICK
+QCF_WS+3+4                  Quick Spinkick
+4,3,4                       Triple Kicks
+b+4                         LIFTING RIGHT KNEE
+(u_u/f)+4                   Overhead Boot  *Juggles*
+u/f~N+4                     Hopkick  *Juggles*
+f,f+4                       Downward Arc Kick
+b,b+4                       Flipping Ankle Drop
+b,b~u/b                     Twisting Jumpkick *Against Wall*
+
+1+3+4                       Knee Taunt
+  1+4#, Release               Fury Taunt
+    f+2,1,4                      Stomach Combo
+      2,1,4,2                      Fury Combo
+
+b+1+2~2                     High/Mid Punch Parry, Retaliation Punch
+
+b+1+4                       Super Backfist  *Unblockable*
+f+1+4                       Fast Super Backfist  *Unblockable*
+
+b+34.1.2.1.4.2.1.4.2        Tenstring
+b+34.1.2.1.4.3.3            Eightstring
+b+34.1.2.1.4.2.4            Eightstring
+
+SAMPLE COMBOS
+b+1, d+3,2, 1, f,f+2
+WS+1, b+2,1,4
+b,f+2, f+1+2, 3,3,4
+d/f+3, WS+3, d+3,2, f+1,4
+u/f+4, 1,2, 3,3,4
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+=====================
+| CHRISTIE MONTEIRO |
+=====================
+
+Note: Eddy Gordo palatte swap is available by buying the "????" Head item
+----  for 400,000 gold in Christie's character shopping mode.
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Leg Twist Takedown {1}
+        2+4                 Neck Spinning DDT {2}
+        d+2+4               SWINGING SPLASHDOWN  *Opponent must be Crouching* 
+        d/f+1+2             Swinging Pendulum Flip
+        HCF+1+2             Rodeo Spin {1+2}
+(Left)  (1+3)_(2+4)         Winding Twistflip {1}
+(Right) (1+3)_(2+4)         Saddlemount Frankensteiner {2}
+(Back)  (1+3)_(2+4)         Over The Top Legtoss
+
+SPECIAL TECHNIQUES
+1,2                         1-2 Punches
+  4,3                         Backflip Kickout, (RLX)
+  4~4                         Leaping Boot, (RLX)
+1,3                         Jab, Toetap, (HND)
+  D                           (RLX)
+d/f+1                       Elbow Sting
+  F                           (HND)
+  ~1                          FACE STAB                   
+WS+1,3                      Rising Fist, Heran Bago  *Juggles*
+1+2                         Rewinder
+  ~3                          Kickup  *Juggles*
+  ~3~d                        MODIFIED KICKUP
+  3                           Toetap, (HND) 
+b+1+2                       Straight Jab
+(f+1+2)_(FC,d/f+1+2)        (HND) Position
+d/b+1+2                     Double Armstrike
+FC+1+2                      Cabecada
+  ~1                          Cancel
+  1+2                         Cabecada Needle
+(u/b_u_u/f)+1+2             Vasuuna Jump
+SS+1+4                      Low Banda Sweep
+SS+2                        Cruncher  *Bounces on CH*
+(WS+2)_(QCF+2)              Sliding Uppercut *Juggles on CH*
+d/f+2                       Elbow Uppercut  *Juggles on CH*
+f+2,1,4                     Triple Flurry
+b+2                         Asfixiante
+3                           HIGH CRESCENT  *Stuns on CH*
+  4                           CIRCLE WHIPKICK
+3~4                         Thomas Flare, (RLX)
+  B                           (HND)
+  4,1+2                       Low Flairsweep, Cabecada
+    ~1                          Cancel
+    ~1+2                        Cabecada Needle
+  4,[4]                       Low Flairsweep[s] 
+    B                           (HND)
+f+3                         Arrow Kick, (HND)
+b+3                         Quick Knee
+  >f                          Snapkick Extension
+  ~3                          HERAN BAGO  *Juggles*
+d+3~3                       HERAN BAGO  *Juggles*
+u+3                         SPLASH BACKFLIP
+u/f+3                       Armada de Costes
+  ~3                          Kickup  *Juggles*
+  ~3~d                        MODIFIED KICKUP
+  3                           Lowsweep
+  3+4                         Low Kickout, (RLX)
+QCF+3                       Crescent Cannon  *Juggles*
+SS+3                        Heran Bago, (RLX)
+  ~B_~D                       Heran Bago Cancel, (HND)_(RLX)
+  B                           (HND)
+    3+4                         Boot Up  *Juggles - Heran Bago Must Contact*
+SS+u+3                      Armada de Costes
+  ~3                          Kickup  *Juggles*
+  ~3~d                        MODIFIED KICKUP
+  3                           Lowsweep
+  3+4                         Low Kickout, (RLX)
+d/f+3                       Toetap, (HND)
+  D                           (RLX)
+d/b+3                       Rasteria
+  B                           (HND)
+  3                           Midkick, (RLX)
+  4                           Leg Whip
+  ~3                          Bush Whacker
+  ~4                          Shin Cutter
+    ~B                          (HND)
+    4                           Cross Cutter
+      ~B                          (HND)
+    1+2                         Cabecada
+      ~1                          Cancel
+      ~1+2                        Cabecada Needle
+RN_(f,f)+3                  Lungekick
+  B_D                         (HND)_(RLX)
+3+4                         Macaco
+  B                           (HND) Cancel
+  3                           Half-Spring, (HND)
+f+3+4                       HORIZON FLIP  *Juggles*
+b+3+4                       Inside Crescent
+d/f+3+4                     Mirage  *Juggles*
+(u_u/f)+3+4                 Jumping Jack
+  ~D_~B                       (RLX)
+FC+3+4                      Flapjack
+  B_D                         (HDN)_(RLX)
+SS+3+4,3+4,3+4,u/f+3+4      Aerial Kicks, Jumping Jack
+  B_D                         (RLX)
+d+3+4                       (RLX) Position
+BT 3+4                      MOONLIGHT FLIP
+d+3~4                       Quicksweep
+d/b+4,4,4,4...              M. L. de Compasso  *b+4 After Any Kick for (HND)*
+FC,d/b+4                    Haule
+WS+4                        Circle Kick
+4~3                         Satellite Moon
+  3~b                         (HND)
+  3                           Mid Slipkick, (RLX)
+  4,2,4                       Moon Combo, Armada  *Can Chain Armada Moves*
+b+4                         Armada
+  3                           Rasteria
+    Pause,4..                     Armada..  *Infinite Chain*
+    B                           (HND)
+    ~3                          Chibata
+    3                           Heran Bago, (RLX)
+      ~B_~D                       Heran Bago Cancel, (HND)_(RLX)
+      B                           (HND)
+    4                           Low Kick
+      B                           (HND)
+      1+2                         Cabecada
+        ~1                          Cancel
+        ~1+2                        Cabecada Needle
+      4                           Low Kick
+        B                           (HND)
+  4                           Backflip
+    D                           (RLX)
+    3+4                         Backflip
+f+4                         Monkey Trick
+  B                           (HND)
+  3+4                         Thomas Flare  *Can Chain Thomas Flare Moves*
+(u_u/f)+4                   Roundhouse
+f,f+4                       Backflip
+  3                         Foot Kickout, (RLX)
+  ~4                          Dropkick, (RLX)
+SS+4                        Lowsweep
+  B                           (HND)
+  3                           Tripping Sweep
+  3+4                         Flapjack
+    B_D                         (HND)_(RLX)
+SS+4~3                      Leaping Massacre
+  B                           (HND)
+u~u/b                       BACKFLIP, (HND)
+b,b~u/b                     RUNUP BACKFLIP, (BT)  *Against Wall*
+d/b+3+4                     Spinning Cyclone  *Unblockable - b,b to Cancel*
+4~3..4.2.44.3+4.(3+4)(3+4).d/b+3+4.u/f+3+4    Tenstring
+
+Handstand Position - (HND) - (f+1+2)_(FC,d/f+1+2)
+-------------------------------------------------
+N                           (RLX)
+b                           Stand Up
+(u,N)_(d,N)                 Handstand Lean
+f+1,2                       1-2 PUNCHES
+  4,3                         BACKFLIP KICKOUT, (RLX)
+  4~4                         LEAPING BOOT, (RLX)
+1,3                         Spin-In Punch, Rasteria
+  Pause,4..                     Armada..  *Infinite Chain*
+  B                           (HND)
+  ~3                          Chibata
+  3                           Heran Bago, (RLX)
+    ~B_~D                       Heran Bago Cancel, (HND)_(RLX)
+    B                           (HND)
+  4                           Low Kick
+    B                           (HND)
+    1+2                         Cabecada
+      ~1                          Cancel
+      ~1+2                        Cabecada Needle
+    4                           Low Kick
+      B                           (HND)
+f+1                         JAB
+  2                           Fist
+    4,3                         Backflip Kickout, (RLX)
+    4~4                         Leaping Boot, (RLX)
+  3                           Toetap, (HND)
+    D                           (RLX)
+2,4                         Spin In Punch, Low Sweep
+  B                           (HND)
+  3                           Low Sweep
+  3+4                         Flapjack
+    B_D                         (HND)_(RLX)                       
+F+1+2                       Roll Forward, (HND)
+3                           Scoot Kick, (RLX)
+3~4                         Thomas Flare, (RLX)
+  B                           (HND)
+  4,1+2                       Low Flairsweep, Cabecada
+    ~1                          Cancel
+    ~1+2                        Cabecada Needle
+  4,[4]                       Low Flairsweep[s] 
+    B                           (HND)
+b+3                         Heran Bago, (RLX)
+  ~B_~D                       Heran Bago Cancel, (HND)_(RLX)
+  B                           (HND)
+(d_u)~(3_4),N               Drop In Kick, (HND)
+(D_U)+(3_4)                 Drop In Kick, (RLX)
+f+3+4                       SPRINGING KICKUP
+d>3+4                       Low Rider, Boot Up  *Juggles*, (HND)
+4                           Helicopter, (HND)
+  3+4                         Thomas Flare  *Can Chain Thomas Flare Moves*
+
+Relaxed Position - (RLX) - d+3+4
+--------------------------------
+f_b                         Forward_Backward Roll
+  1+2                         Flying Cross Chop
+1                           Left Punch
+  3                           Arrow Kick, (HND)
+  4                           Armada  *Can Chain Armada Moves*
+2                           Right Punch
+  3                           CRESCENT CANNON  *Juggles*
+  4                           Monkey Trick
+    B                           (HND)
+    3+4                         Thomas Flare  *Can Chain Thomas Flare Moves*
+f+1+2                       Forward Roll, Flying Cross Chop
+3,4                         Lowsweep, Midkick
+3~4                         Kickup  *Juggles*
+3+4                         Macaco
+  B                           (HND) Cancel
+  3                           Half-Spring, (HND)
+b+3+4                       Rising Kickup, BK
+4,3+4                       Stinger, Haule
+  ~B_~3                       Haule Cancel, (HND)
+4~3                         Low Flair Kickup, (HND)
+  3+4                         Thomas Flare  *Can Chain Thomas Flare Moves*
+
+SAMPLE COMBOS
+QCF+3, 1, f+2,1,4
+f+3+4, b+3~3, RLX 2,3
+d/f+3+4, 1, d/f+1,1, 1,2,4~4
+HND d+3+4, HND 2, WS+1,3
+RLX 4~3, HND 2, 1,2,4~4
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+=============
+| DEVIL JIN |
+=============
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Bitch Kicks {1}
+        2+4                 Arm Takedown {2}
+        f,f+1+2             Stonehead {1+2}
+        QCB+1+3             Wrist Takedown {1}
+        d/f+2+3             Striking Oshi Taoshi {2}
+(Left)  (1+3)_(2+4)         Shoulder Flip {1}
+(Right) (1+3)_(2+4)         Arm Break, Shoulder Toss {2}
+(Back)  (1+3)_(2+4)         BACK TOSS
+
+SPECIAL TECHNIQUES
+1,1>2                   Shining Fists                    
+1>2                     1-2 Jab
+  2                       Backfist
+  3,4_(F+4)               Axe Kick, Axe Kick_Front Kick
+  4                       Knee
+  4~1+4,2,4_(d+4)         White Heron  *1+4 cancels the 4*
+b+1                     Parting Wave
+  >D/F                    Crouchdash  *Chains into CD Moves*
+d+1                     CORPSE THRUST
+d/f+1>2                 Stomach Shot, Overhead Smash
+f,N,d,d/f+1             Thunder Godfist
+  U/F                     HEAVEN DENIED  *TGF must Hit Standing Opponent*
+  3                       Sidekick
+  4                       Hellsweep
+WS+1,2                  Twin Pistons  *Juggles*
+d_FC+1+2                Ultimate Tackle
+b+1+2                   LEANBACK FIST FEINT
+B+1+2                   LEANBACK FIST
+  *Hold b+1+2*            DAEMON CHARGE FIST
+1+4,2,(4_d+4)           White Heron Combo
+2,2                     Jab, Backfist
+b+2,3                   Backhand, Leftkick
+f+2>4                   Overhead Smash, Knee
+d/f+2                   DEVIL HAMMER
+  1                       UPPERCUT  *Juggles*
+  2                       LOW DEVIL CLAW
+f,f+2                   Demon Paw
+SS+2                    FACE SLASHER
+b,f+2                   Stun Fist  *Stuns on CH*
+  >1>2                    Laser Rush
+  >1>d+2                  Laser Scraper  *Juggles*
+WS+2                    Rising Uppercut  *Juggles*
+f,N,d,d/f+2             Wind Godfist  *Juggles*
+f,N,d~d/f+2             Electric Wind Godfist  *Juggles*
+(u/b_u_u/f)+2+4         Corpse Splitter  *On Fallen Opponents*
+f+3                     Screw Kick
+f,f+3,1                 TWISTED DARKNESS
+  3                       SPINNING SWEEP
+  4                       BACKWARDS THRUST KICK
+f,N,d,d/f+3             LEAPING THRUSTKICK  *Juggles*
+f,N,d,D/F+3             LEAPING LOW THRUSTKICK
+d+3+4                   Can-Can Kicks  *Juggles*
+f+4                     Quick Knee
+b+4                     Demon Steel Pedal  *Floats on CH*
+u_u/f+4,4,4,4           Jumping Kick, 2 Hell Sweeps, Roundhouse
+[u/f+]4~3               Flipstomp
+d/f+4>4                 Delayable Axe Kicks
+f,N,d,D/F+4,4           Hell Sweep  *Floats on Clean Hit*, Roundhouse
+WS_(f,N,d,d/f)+4,4      Axe Kicks
+
+b+(1+3)_(2+4)           Mid/High Attack Reversal
+
+3+4                     DAEMON'S FLIGHT
+  1+2                     FLYING LASER  *Unblockable*
+  f+1+2                   FLY AROUND, FLYING LASER  *Unblockable*
+(u/b_u_u/f)+1+2         DIAGONAL AIR LASER  *Unblockable* 
+1+2                     SWEEPING HIGH LASER  *Unblockable*
+d/f+1+2                 LEG SHOT LASER  *Unblockable*
+b+1+4                   Lightning Godfist  *Unblockable*
+B+1+4                   Lightning Hell Godfist  *Unblockable*
+
+f,f,N+2122:3:4:4::1::2:1        Tenstring
+f,f,N+2122:3:4:4::3::2:1        Tenstring
+f,f+N+2144:2:4:3::2:1           Ninestring
+324:3:1+4:2::2:1:2              Tenstring
+324:3:1+4:2:1::3_4              Ninestring
+b+24::4:4:4:2:1+4::2:1:3_4      Elevenstring
+b+24::4:4:4:2:1+4::2:3+4        Elevenstring
+b+24:2:1:2_(d+2)                Fivestring
+
+SAMPLE COMBOS
+CH WS+1,2, 1, 1, 1, f,N,d,d/f+2
+WS+2, b+2,4,2,1,2
+f,N,d~d/f+2, b,f+2,1,d+2, f,f+2
+d+3+4, 1, f,f+3,1,4
+f,N,d,d/f+4, 1+4,2, f,f+2
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+============
+| FENG WEI |
+============
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Embracing Toss {1}
+        2+4                 Arm Trap Snap {2}
+        d/f+1+2             Avalanche
+(Left)  (1+3)_(2+4)         Forced Bend Fist {1}
+(Right) (1+3)_(2+4)         Wrist Twister {2}
+(Back)  (1+3)_(2+4)         Blindside Toss 
+
+SPECIAL TECHNIQUES
+1,1                         Jab, Stomach Slug
+1,2,2                       Advancing Fists
+  ~B                         (BT)
+b+1                         Palm Thrust
+d/f+1                       Server Fist
+d/b+1,2                     Swaying Fist, Blue Egg Fist
+u/f+1                       Hopping Downpalm
+b,f+1                       Falcon Beak  *Stuns on CH*
+d/b+1                       Ankle Backfist  *Stuns on CH*
+  2                           Mid Palm
+QCF+1                       Sliding Low Shoulder
+SS+1                        Knock Down Punch
+WS+1,2>1                    Torso Hammers
+1+2                         Elbow Arrow
+b+1+2                       Power Iron Shoulder
+d/b+1+2,2                   Mid Punch, Low Pound  *Stuns on CH*
+f+1+2                       Shoulder Check, (BT)
+f,f+1+2                     Sakaraba Chop
+SS+1+2                      Steel Flower
+BT 1+2                      Elbow Thruster, (BT)
+2~1                         Flurry
+2,2                         Dual 
+f+2                         Body Punch  *Stuns on CH*
+  >1>2                        Punch, Flyback Fist
+b+2>3,4,2                   Iron Series
+SS+2                        High Punch, (BT)
+d/f+2,2                     Mid Palm, Advancing Palm
+d/b+2,2,2                   Windmill Lowfists, Mid Overhead
+u/f+2                       Leaping Elbow
+WS+2                        Combat Uppercut  *Juggles*
+f,f+2                       Advancing Palm
+3~4,3                       Spinning Aerial, Backsweep
+d+3                         Crouching Ankle Stompout
+d/b+3                       Low Sweep
+d/f+3                       Hop Snapkick  *Juggles*
+(u/b_u_u/f)+3               Leaping Side Roundhouse
+f+3,2                       Turnaway Highkick, 
+f,f+3                       Overhead Axe Stomp
+b+3,1                       Spinning Roundhouse, Stomach Smash 
+(WS_QCF)+3                  Chang Sliding Kickup  *Juggles*
+BT 3                        Overhead Axe Stomp
+BT d+3                      Spinsweep
+(f_b)+3+4                   Kenpo Step  *Auto-Guards*
+  1                           Palm Press
+  2                           Kenpo Backfist  *Stuns on CH*
+  3                           Over Shoulder Backlash
+  4                           Launching Kick  *Juggles*
+4                           Stomp  *Opponent Must Be Grounded*
+f+4                         Snapkick
+  ~B                          (BT)
+  3                           Midkick
+  4                           Power Low Sweep
+f,f+4                       Diagonal Kick  *Juggles*
+  3                           Leaping Foot  
+b+4                         Waist Sidekick
+d/b+4                       Power Low Sweep
+u/f+4                       Jumping Hopkick  *Juggles*
+WS+4                        Rising Facekick
+SS+4                        Spinsweep
+b,b~u/b                     Wall Leaping Fist  *Against Wall*
+
+u/b+1+2                     Omen Palm  *Unblockable*
+
+f+1,1,2,1,3,4,2,2,2,2       Tenstring
+f+1,1,2,1,3,4,2,4,3,1+2     Tenstring
+
+SAMPLE COMBOS
+WS+2, f+2,1,2
+QCF+3, 1,2, d/f+1, b+1+2
+f,f+4, b+2,3,4,2
+u/f+4, 1, f+4,3
+SS+4, d/f+1, 1, d/f+2,2
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+==========
+| GANRYU |
+==========
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Body Drop {1}
+        2+4                 Hip Roll {2}
+        f,f+1+4             JIZO HUG {1+2}
+        f,f+2+3             Face Slam {1+2}
+(Left)  (1+3)_(2+4)         Upper Stream {1}
+(Right) (1+3)_(2+4)         Crotch Toss {2}
+(Back)  (1+3)_(2+4)         Neckchoke Slam
+        (f+1+3)_(f+2+4)     PANCAKE PRESS
+        d+1+2               Pedal Press
+
+SPECIAL TECHNIQUES
+1,2,1,2,1,2,1,2             DEVIL THRUSTS
+d+1                         AXE CHOP
+b+1,1,1                     CROSS CUT SAW
+  ~d                          SIT DOWN
+FC+1,1,1,2,(D_D/F_F)+1      Sumo Rush  (L_M_H ending)
+d/f+1>4>1                   SHORT UPPER, GANNY GRINDER
+d,D/F+1,2,1                 Nodowa Mid Combo
+b,d/b,d,D/F+1               Megaton Float  *Juggles*
+(u/b_u_u/f)+1               LEAPING PALM SHIELD
+SS+1                        Falling Hammer
+f+1+2                       Quick Sumo Rush
+FC+1+2                      Palm Lift
+1+2                         Hammer
+  >1+2                        Double Uppercut  *Juggles*
+  b+1+2                       GIANT TACKLE  *Unblockable*
+    ~2                          STUNNING UPPERCUT  *Stuns*
+    ~d                          SPLIT
+b+1+2                       HEADKNOT HEADBUTT
+SS_d+1+2                    Stunning Push  *Throws on BT connect*
+d/f+1+2,1                   REVERSE WINDMILL STRIKES
+u/f+1+2                     SUMO SPLASH
+WS+1+2                      Double Uppercut  *Juggles*
+  >1+2                        Hammer
+FU/FT D+1+2                 Spring Hammer Punch
+  (B_F)                       (Roll Backward_Roll Forward)
+  2                           Low Hitting Swipe  *Floats*
+  ~d                          Split
+    u_d                         Sidestep
+BT 1+2                      BOARD DROP, (FU/FA)
+b+(1+3)_(2+4), 1+2          High/Mid Punch Reversal, Rushing Back Grab
+2,1,2,1,2,1,2,1             Devil Thrusts
+f+2                         LUNGING CROTCH PALM
+  >1                          PALM CANCEL, EAR BOXING
+f,f+2                       EMBRACING CLAW
+  1                           BOTTOM LIFT
+  1+2                         AIR LIFT  *Juggles*
+  2                           SPIN LIFT
+  3                           POWER PRESS
+  3+4                         CARRY PRESS
+  4                           RACK DROP
+b+2                         Lifting Palm  *Juggles*
+d+2,2,2,2...                Kabuki Low Palm
+d/f+2                       Lunging Upperpalm  *Juggles*
+  1,2,1,2,1,2,1,2,1           Devil Thrusts
+d/b+2                       ANKLE SMASHER
+WS+2                        WIND PALM  *Juggles*
+FC,D/F+2,1,2                Nodowa Mid Combo
+b,d/b,d,D/F+2               Megaton Palm
+d/f+2+3                     Thunder Palm  *Floats*
+3,4,3,4,3...                GIANT HIGHKICK CHAIN
+  4>4                         MUD STOMP
+f+3                         SOLE SMUSH
+d/f+3                       Low Leg Swipe
+f,f+3+4                     THUNDER DROP
+RN 3+4                      Sumo Dive
+u/f+3+4                     Hip Press, Roll Back  *Sit Down if misses*
+3+4                         Sit Down
+  (B_F)                       (Roll Backward_Roll Forward)
+  1                           Megaton Palm
+  2                           Low Hitting Swipe  *Floats*
+  ~d                          Split
+    u_d                         Sidestep
+4,3,4,3...                  GIANT HIGHKICK CHAIN
+  4>4                         MUD STOMP
+4>4                         MUD STOMP
+d+4                         Ganny Stomp
+d/f+4,1                     GANNY GRINDER
+
+FC+1,1,1,1,2,2,3,4,4,1+2    TENSTRING
+
+d/b+1+2                     GIANT TACKLE  *Unblockable*
+  ~2                          Stunning Uppercut  *Stuns*
+  ~d                          Split
+
+SAMPLE COMBOS
+SS+1, u/f+3+4,2
+b+2, d/f+1, d/f+1,4,1, d+1+2
+f,f+2,1+2, u/f+3+4,2
+d/b+2, d/f+1+2,1
+WS+2, 2,1, d/f+1,4>1
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+====================
+| HEIHACHI MISHIMA |
+====================
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Neck Breaker {1}
+        2+4                 Powerbomb {2}
+        QCF+1               BROKEN TOY {1}
+        f,f+1+2             Stonehead {1+2}
+        f,f+1+4             Headbutt *Works on Male Characters* {1+2}
+(Left)  (1+3)_(2+4)         One Hand Slam {1}
+(Right) (1+3)_(2+4)         Tile Splitter Guillotine {2}
+(Back)  (1+3)_(2+4)         Atomic Drop
+
+SPECIAL TECHNIQUES
+1,1>2                       Shining Fists
+1>2                         2 Punches
+  2                           Backfist
+  (1+2)_(2~1)                 Chi Palm
+    ~(u_d)                      Fakeout
+      (1+2)_(2~1)                 Delayed Chi Palm
+  4                           Midkick
+f+1>b+2                     Punch, Gutpunch
+  1                           Thunder Godfist
+  4                           Slice Kick
+b+1                         Stun Splitter
+d+1                         Tile Splitter
+  2                           DEATHPALM
+d/f+1,2                     Twin Pistons  *Juggles*
+d/f+1,1                     PALM STRIKES
+f,N,d,d/f+1                 Thunder Godfist
+f,N,d/f+1                   Omen Thunder Godfist  *Blue Spark*
+(1+2)_(2~1)                 Chi Palm
+f+1+2                       HIBACHI HEAD
+b+1+2                       Double Tiger Fists
+b,b+1+2                     DEITY SLAYER
+b+1+2  *Hold Down 1+2*      Power Tiger Fists
+d/f+1+2                     DEMON WINGS
+2,2                         Punch, Backfist
+f+2                         Backfist
+  ~1+2                        Chi Palm Cancel
+f,f+2                       Demon Godfist  *Juggles*
+b+2                         Spinning Gutpunch
+b,f+2,2,1                   SEIRYU MON
+d/b+2                       EISHO MON
+QCF+2                       Deathpalm
+WS+2                        Dark Thrust  *Stuns on CH*
+SS+2                        KIDNEY SMASHER
+f,N,d,d/f+2                 Wind Godfist  *Juggles on CH*
+f,N,d~d/f+2                 Electric Wind Godfist  *Juggles on CH*
+f,N,d,d/f,N+3               Slice Kick
+f,N,d,D/F#+3                Low Slice Kick
+f,N,d,d/f,f,u/f+3           Hop, Delayed Slice Kick
+f,N,d,d/f,f,u/f,d+3         Hop, Low Slice Kick
+f+3                         Thrust Frontkick
+f,f+3                       Left Axe Kick  *Floats*
+b+3,3                       CRESCENT HOOK STOMP
+u/f+3,4                     Screw Blade Hunting Hawk
+d+3+4                       RAIJIN CHARGE
+  f_b                         CANCEL
+  1                           PULVERIZER
+    2                           RAIJIN's WRATH
+b,b,N+3+4                   Shadow Foot Sidestep
+4                           Standing Heihachi Boot  *Stuns on CH*
+f+4                         Right Axe Kick
+u+4                         Hopkick  *Juggles*
+u/f+4                       WIND SLICER
+WS_QCF_(f,N,d,d/f)+4>4      Axe Kicks
+[u/f+]4~3                   Flipstomp
+d+4                         Demon Stomp  *Hits Grounded Opponent*
+f,N,d,D/F#+4,[4],[4]        Hell Sweep[s]
+  N+1                         Thunder Godfist
+  N+4,4                       Axe Kicks
+
+b+2+4                       Evil Chi  *Causes Block Damage*
+                                      *Auto-Reversal - Hurts Heihachi*
+
+d+1+4                       Demon Tile Splitter  *Unblockable*
+d+3+4,2                     RAIJIN CHARGE, LIGHTNING BOLT  *Unblockable*
+
+2+3+4                       Lighting Taunt
+
+d/f+3:22..4.4..1..2..1..2..1       Tenstring
+d/f+3:22..4.4..1..4..1..2..(1_4)   Tenstring
+f,F.....2122.3.4.4..1..2.1         Tenstring
+
+SAMPLE COMBOS
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+============
+| HWOARANG |
+============
+
+GRAPPLING TECHNIQUES
+(Front) LFF 1+3             Windmill Neck Kick {1}
+        LFF 2+4             Falcon Dive Kick {2}
+        RFF (1+3)_(2+4)     Rainbow Kick
+        f,f+2               Rolldown Jawbreaker {2}
+        f+2+3               Cannonball {1+2}
+        QCB+3               Trapped Heel Explosion {1}
+        d,d/b+1+3           Hip Toss {1+2}
+(Left)  (1+3)_(2+4)         5-Kick Massacre {1}
+(Right) (1+3)_(2+4)         Holding Neck Snap {2}
+(Back)  (1+3)_(2+4)         Jumping Leg Press
+(Air)   d/f+3+4             SOCCER SNAPKICK
+
+SPECIAL TECHNIQUES
+Both Right Foot Forward-(RFF) and Left Foot Forward-(LFF)
+---------------------------------------------------------
+1+2                         Switch BT / Face Forward
+3+4                         Switch (RFF) / (LFF)
+f,N,d,d/f                   Crouch Dash
+  2                           Psuedo-Wind Godfist  *Juggles on CH*
+  3                           (LFL)
+  3~3                         Thrust Sidekick
+  4                           Wing Blade  *Juggles*
+f,N,d~d/f+4                 Electric Wing Blade  *Juggles*
+d/f+1+2                     Body Blow
+d/f+2                       Uppercut  *Juggles on CH*
+WS+2                        Rising Uppercut  *Juggles on CH*
+u+3                         Flamingo Kick, (LFL)
+WS+3                        Windmill Kick
+SS+3,3[,F]                  BACK THRUST KICKS, (LFL)
+d/f+3                       Midkick
+  >3                          LIFTKICK  *Juggles*
+  >4                          Twin Midkick
+d+3,4                       Kneekick, Highkick, (RFL)
+b,b+3,3                     DUAL KICKS, (RFF)
+u/f+3,4,3                   Hunting Hawk
+u/f+3+4                     LEAPING HIGHKICK
+QCF+3+4                     JUMPING ROUNDHOUSE
+d/f+3+4                     SOCCER SNAPKICK  *Throws airborne opponent*
+WS+4,[~4]                   Toe Kick, [Axe Kick, (RFF)]
+d+4,4                       Low Kick, Lifting Leg Kick  *Juggles*
+u+4                         FLAMINGO KICK, (RFL)
+b,b+4                       LEAPING ROUNDHOUSE SPIN
+  3                           BACK THRUST
+  4,4                         LEAPING ROUNDHOUSES
+u/f+4                       JUMPING HIGHKICK, (RFF)
+  F                           (RLF)
+  4                           MIDKICK, (RFF)
+    F                           (RLF)
+    4                           LOWKICK, (RFF)
+      F                           (RLF)  
+SS+4                        SPINNING SWEEP, (RFF)
+b,b~u/b                     Twisting Jumping Roundhouse  *Against Wall*
+
+Left Foot Forward-(LFF) Only
+----------------------------
+1,1,3>3                     Twin Jabs, Lowkick, Highkick
+1,2,f+(3_4)                 Jab, Right Punch, (Sidekick_Jumping Roundhouse)
+2,f+(3_4)                   Right Punch, (Sidekick_Jumping Roundhouse)
+[1,]2,3                     High Punch[es], (LFL)
+[1,]2,4                     High Punch[es], (RFL)
+f+1+2                       Short Axe Handle  *Stuns on CH*
+b+2                         Bolt Cutter
+f+2                         Backfist, (RFF)
+  ~F                          (LFF)
+u/f+2                       Leaping Headshot
+3,3,[d+3]                   High, Mid, [Low] Kicks
+  4                           Highkick, (RFL)
+    ~F                          (LFF)
+    4                           Midkick, (RFF)
+3,3,3                       Machine Gun Kicks
+  >3                          Liftkick  *Juggles*
+  >4                          Highkick, (RFL)
+    ~F                          (LFF)
+    4                           Midkick, (RFF)
+3~4                         Flying Eagle
+f+3                         (LFL)
+f+3~3                       Thrust Sidekick
+f,f+3                       Spiral Kick, (RFF)
+b+3                         Lifting Leg Kick *Juggles*
+d/b+3                       BACK LOWKICK
+4,3                         Axe Murderer, (RFF)
+  ~F                          (LFF)
+4,4                         Hot Feet
+  4                           Toe Jam (RFL)
+    3                           Blizzard Kick
+    4                           Hot Feet, (RFF)
+BK 4                        Lifting Leg Kick  *Juggles*
+d/b+4,4                     Foot Sweep, High Crescent Kick
+u/b+4                       Chicken Kick
+f+4                         Face Kick, (RFL)
+  >4                          Sidekick, (RFF)
+f,N+4                       Right Flamingo Feint
+f,f+4                       Running Sidekick  *Turns Opponent BK When Hit*
+b+4                         High Facekick  *Turns Side on CH*, (RFF)
+
+Right Foot Forward-(RFF) Only
+-----------------------------
+F_B_(u/b,N)                 (LFF)
+(d/f,N)_(d/b,N)             (LFF)  *Recovers Crouching*
+1,1                         Face Punches, (LFF)
+2,1,1                       Triple Punches, (LFF)
+2,3                         Punch-Kick Combo, (LFF)
+2,b+4                       Jab, Spinkick, (RFL)
+2,4                         Jab, Chainsaw, (LFF)
+  F                           (RFL)
+  3                           Chainsaw Kick
+  >4                          High Hook, (LFF)
+3                           Teaser Trip
+  3                           Wild Roundhouse, (LFF)
+  4                           HIGHKICK, (RFF)
+BK 3                        Lifting Leg Kick  *Juggles*
+3~4                         Power Roundhouse
+  b                           (RFL)
+f+3 [~B]                    Hook Kick, (LFL)
+  B                           BK Position
+  4                           Teaser Trip, (LFF)
+f,f+3                       Leaping Left Roundhouse
+b+3                         Lifting Leg Kick  *Juggles*, (LFF)
+4                           Chainsaw Kick
+  ~F                          (RFL)
+  3                           Overhead Axekick
+  >4                          High Hook, (LFF)  
+f+4                         (RFL)
+  ~4                          Lifting Leg Kick  *Juggles*
+f,f+4                       Piroette Kick, (LFF)
+  ~3                          Screw Kick
+d/f+4                       Side Kick
+b+4                         Right Sidestep Roundhouse
+
+Left Flamingo Stance - (LFL)
+----------------------------
+N                           (LFF)
+f_b                         Flamingo Shuffle
+u_d                         Flamingo Sidestep
+1                           Left Jab, (LFF)
+1+4                         Power Blast  *Unblockable - b,b to Cancel*
+2                           Backfist, (RFF)
+3,3                         Machine Gun Kicks (LFF)
+  >3                          Machine Gun Lift  *Juggles*, (LFF)
+  4 [,F]                      Changeup Combo, (RFL)
+    F                           (LFF)
+    >4                          Changeup Mid (RFF)
+3,3,4>4                     Changeup Combo #2, (RFF)
+f+3                         Dual Flash Kicks, (LFL)
+b+3                         Left Sidestep Roundhouse, (LFF)
+(d_d/b)+3,4                 Foot Sweep, High Crescent Kick, (LFF)
+u/f+3,4,3                   HUNTING HAWK
+3+4                         (RFL)
+4                           Spin Kick, (RFL)
+b+4                         Right Heel Lance  *Juggles*, (RFF)
+(d_d/b)+4                   Teaser Trip, (LFF)
+2.2.3..4.3.4.44..43         Tenstring
+
+Right Flamingo Stance - (RFL)
+-----------------------------
+N                           (RFF)
+f_b                         Flamingo Shuffle
+u_d                         Flamingo Sidestep
+1                           Backfist, (LFF)
+2                           Right Jab, (RFF)
+3                           Spin Kick, (LFL)
+b+3                         Left Heel Lance  *Juggles*, (LFF)
+(d_d/b)+3                   Teaser Trip, (LFF)
+3+4                         (LFL)
+4                           Side Kick  *Stuns on CH*, (RFF)
+f+4                         Dual Flash Kicks, (RFL)
+b+4                         Right Sidestep Roundhouse, (LFF)
+d+4                         Ankle Kick
+1.2.3..4.3.4.44..43         Tenstring
+
+SAMPLE COMBOS
+d/f+2, 3,3,3,3
+b+3, 2,4,2, f+3, u/f+4,3,4
+b+3, 3~4, d/f+3+4
+RFL d/f+3, d+3,4, f+2,3
+f,N,d,d/f+4, b,b+4,3
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+==========
+| JACK-5 |
+==========
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 BACK CYCLONE {1} 
+        2+4                 SPINE GUNNER  {2}
+        QCB,f+1+2           PILEDRIVER {1+2}
+        QCF+1               Pyramid Driver {1}
+        u/f+1+2             Punishment Drop {1}
+          d,d/f+2           Gigaton Punishment {B}
+        QCB+2               Backbreaker {2}
+        d/b+2+3             Face In The Dirt {2}
+        d/f+2+4             Catapult {2}
+        d/f,d/f+2+4         Modified Catapult  *Juggles* {2}
+        d+(1+3)_(2+4)       Gun Bomb  *Opponent must Duck* {1_2}
+(Left)  (1+3)_(2+4)         Hanging Neck Throw {1}
+(Right) (1+3)_(2+4)         Flipping Choke Slam {2}
+(Back)  1+3                 Spinal Crush
+        2+4                 Death Shot
+
+SPECIAL TECHNIQUES
+1                           LEFT JAB
+  1                           SURGE ELBOW HAMMER
+  2                           ROBOT HOOK
+2                           RANGE JAB
+b+1                         INDUSTRIAL CHOP
+d/b+1,1,1,[1],[1],2         Machine Gun Punches, Megaton Punch
+b,d/b,d,d/f+1               Debugger
+HCF                         Wind-Up
+  ~d/f+1                      Megaton Uppercut  *Juggles*
+  1                           Debugger
+  2                           Megaton Punch
+SS+1                        Spinning Uppercut  *Juggles*
+WS+1                        Violent Uppercut  *Juggles*
+f,f+1                       SURGE ELBOW HAMMER
+D/F#+1,2,1,2                Uppercut Rush #2  *Juggles on CH*
+FC+1,1,1,2,(d_d/f_f)+1      Low Hammer Rush, (L_M_H ending)
+FC+1~2                      Low Punch, Megaton Punch
+FC,d/f+1,2,1,1              Wild Swing, Backfist  
+FC,D/F#,1,2,(d_d/f_f)+1     Hammer Rush #2  *Juggles on CH*
+FC,d/b+1,1,1,2              Low Piston Punches, Megaton Punch
+FC,d/f+1+2                  Low Scissors
+1+2>1+2                     Hammer Knuckle, Double Uppercut
+d+1+2                       Bravo Knuckle
+b+1+2                       Machine Gun Blaster
+f+1+2                       Scissors
+  1+2                         Low Scissors
+  d/f+2                       Megaton Punch
+d/f+1+2                     Gravestone  *Hands Stuck - 2nd Hit Miss/Blocked*
+SS+1+2                      Spinning Layout
+WS+1+2>1+2                  Double Uppercut, Hammer Knuckle
+b+2                         Small Gun Blaster
+b,f+2                       ATOMIC HOOK
+b,d/b,d,d/f+2               Megaton Punch
+(u/b_u/f)+2                 REACTOR ERUPT
+d/b+2                       LOW GUN BLASTER
+WR+2                        CEMAHO CHOP
+D/F#+2,1,2,1                Uppercut Rush  *Juggles*
+SS+2                        Megaton Gun Breaker
+f,f+2                       PIVOT GUN UPPER  *Juggles*
+FC,d/f+2,(d_d/f_f)+1        Short Hammer Rush, (L_M_H ending)
+FC,D/F#+2,1,2               Hammer Rush  *Juggles on CH*
+f,f+3                       Granite Stomp
+f+3+4                       Giga Shoulder Ram
+f,f+3+4                     DIGITAL HANS HEADSLIDE
+d/f+3+4                     TITAN DUMP SHOULDER
+u/f+3+4                     Hip Press  *If Misses, Turns into Sit Down*
+d+3+4                       Sit Down
+  ~3+4                        Hop Forward, Hip Press
+  B_F                         Roll Back_Forward
+  (1,2,1,2)_(2,1,2,1)         Sitting Punches
+d/b+4                       LOW BOOT
+b,b~u/b                     JUMP-OFF WALL PUNCH  *Against Wall*
+ 
+f+4~1                         Dark Greeting   *Unblockable*
+  2                             GREETING CANCEL, CLEAVER CHOP
+3+4,[3+4],[3+4],[3+4],[3+4]   DIVE BOMBER, [2ND-5TH THRUSTS]  *Unblockable*
+HCF,u/f,u,u/b [x5],1          Gigaton Punch  *Unblockable After x2*
+
+D+2:1:1:1::2:1::21::1+2:1+2        Tenstring
+D+2:1:1:1::2:1::21::d+1+2:1+2      Tenstring
+u/f+11:4::3::4::1::2::1:1+2:1+2    Tenstring
+u/f+11:4::3::4::1::2::1:d+1+2:1+2  Tenstring
+
+SAMPLE COMBOS
+WS+1, d/f+1,2,1,2
+SS+1, f+1, 1,2
+HCF~d/f+1, U/F,4, f+1, d/f+3+4
+d/f+2, f+2, f+1+2,d/f+2
+f,f+2, d+1+2
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+==============
+| JIN KAZAMA |
+==============
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Bitch Kicks {1}
+        2+4                 Arm Break Shoulder Toss {2}
+        u/f+1+2             Shoulderlock Whiptoss {1+2}
+        QCB+1+3             Wrist Takedown {1}
+(Left)  (1+3)_(2+4)         Shoulder Flip {1}
+(Right) (1+3)_(2+4)         Arm Break, Shoulder Toss {2}
+(Back)  (1+3)_(2+4)         Bear Hug Slam
+
+SPECIAL TECHNIQUES
+1,2                         1-2 Punches
+  3                           Axekick
+  >4                          Roundhouse Kick
+d+1                         Corpse Thrust
+b+1                         CROUCHING DEMON STEP
+d/f+1                       Side Punch
+  >4                          Sidekick
+  4~4                         HELL TRIP
+1,3,2,1,4                   Kazama Fury
+  d+1+2                       Daemon Soul
+1,3~3,3                     Puch, Snapkick, Back Roundhouse
+  d+1+2                       Daemon Soul
+f,N,d,d/f+1                 TWILIGHT GODFIST *Juggles*
+f,N,d~d/f+1                 ELECTRIC TWILIGHT GODFIST  *Juggles*
+WS+1,2                      Rising Punch, Overhand Left
+1+2                         STRAIGHT PUNCHES, DEMON PAW
+  d+1+2                       Daemon Soul
+2,1                         Punch, Gutpunch
+  4                           Sidekick
+  4~4                         HELL TRIP
+2,4                         Punch, Roundhouse Kick
+WS+2                        Rising Uppercut  *Juggles*
+d/f+2                       Short Uppercut  *Juggles on CH*
+f,N,d,d/f+2                 Wind Hookfist
+f,N,d~d/f+2                 Electric Wind Hookfist
+b+2,3                       Backhand, Sidekick
+  d+1+2                       Daemon Soul
+f+2                         Right Elbow
+b,f+2>1>2                   LASER RUSH
+d/b+2>2>3                   RIGHT HOOK, BACKHAND, RISING KNEE
+f,f+2                       Demon Paw
+d+3,3                       Lowkick, Midkick
+(WS)_(f,N,d,d/f)+3          High Rising Roundhouse
+b+3,4                       Outside Face Crescent, Lowkick
+d/b+3                       REVERSE ROUNDHOUSE
+f+3                         Snap Midkick
+   3~3                         Midkick, Sidekick
+    d+1+2                         Daemon Soul
+   4                           Spinning Heel Kick
+f,f+3                       Axekick
+  1,3,2,1,4                   Kazama Fury
+    d+1+2                       Daemon Soul
+  1,3~3,3                     Punch, Snapkick, Back Roundhouse
+    d+1+2                       Daemon Soul
+d/f+3,4                     Heaven Gate Sidekick, Spinning Heel Kick
+f,N,d,d/f,f,u/f+3           Crouch Dash Slash Kick
+d+3+4                       Can-Can Kicks  *Juggles*
+d+4                         Long Sweep
+f+4                         Mid Snapkick
+  d+1+2                       Daemon Soul
+b+4                         Spinning Heel Kick
+d/f+4                       Power Side Roundhouse
+  d+1+2                       Daemon Soul
+d/b+4                       Shin Kick
+u/f+4                       HOPKICK  *Juggles*
+f,f+4                       Slow Axekick
+(WS+4)_(f,N,d,d/f,f+4)      Axekick
+f,N,d,d/f+4                 Hell Trip  *Juggles*
+  ~3                          Twisting Demon Scissors
+(u_u/f)+4                   Hopping Snapkick
+u/f,N+4                     Jumping Spinkick
+[u/f]+4~3                   Twisting Demon Scissors
+b,b~u/b                     Twisting Jumpkick  *Against Wall*
+u/b+1+2                     Power Bodyhook  *Unblockable - b,b to Cancel*
+1+3+4                       Daemon Soul Taunt
+b+1+2                       Daemon Soul  *Causes Block Damage*
+  ~f,f,b+2+4                  Daemon Step High/Mid Reversal
+b+1+2 *Hold 1+2*, d,u,b,f   Soul Omen
+  f,N,d,d/f+2                 Devil Wind Hookfist
+  f,N,d,D/F+4                 Devil Hell Trip
+  1,2,3                       1-2 Punches, Axekick
+    1,3,2,1,4                   Kazama Fury
+  f+1,3~3,3                   Punch, Snapkick, Back Roundhouse
+    d+1+2                       Daemon Soul
+b+2+4                       Mid/High Parry
+f+2,3,3,3,2,1,2,3,4,2       TENSTRING
+
+Crouching Demon Step - b+1
+--------------------------
+d/f                         DEMON CROUCHDASH
+f,f                         DEMON DASH
+1                           THUNDER HOOKFIST
+d/f+1                       DEMON HOOK  *Juggles*
+2                           STUN HOOK  *Stuns on Mid/High Punch Parry*
+d/f+2                       WIND HOOKFIST
+3                           LEAPING ROUNDHOUSE
+4                           LOW KICK
+d/f+4                       HELLSWEEP
+  ~d+1+2                      LINGERING SOUL
+  ~3_(3+4)                    TWISTING DEMON SCISSORS
+
+SAMPLE COMBOS
+f,N,d,d/f+1, b,f+2,1, d/b+2,2,3
+WS+2, 1, 1, 1, 1, f,N,d,d/f+2
+d+3+4, 1,2, 1,2,4
+u/f+4, b,f+2,1, f+1,3~3
+f,N,d,d/f+4, d/b+2,2,3
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+===============
+| JULIA CHANG |
+===============
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Death Valley Bomb {1}
+        2+4                 Fisherman's Suplex {2}
+        FC,d/b,d,d/b+1+2    Cross Arm Suplex {1+2}
+        d/f+1+2             Armlock Suplex {2}
+        d,D/B+1+3           Front Suplex {1}
+        QCB,f+2             Mad Axes {1+2}
+        d+(1+3)_(2+4)       KNEE PENDULUM  *Catches Ducking Opponents*
+(Left)  (1+3)_(2+4)         Running Bulldog {1}
+(Right) (1+3)_(2+4)         Spinning Frankensteiner {2}
+(Back)  (1+3)_(2_4)         Back Suplex
+
+SPECIAL TECHNIQUES
+1~1                         Catapult Starter
+  1                           Catapult  *Juggles*
+  2                           Lunging Palm Attack  *Stuns on CH*
+  4,3                         Low Sweep, Bowleg
+1,2                         1-2 Punches
+  3                           Lowkick
+  4                           Highkick
+CH 1,2,1                    Punch, Death Push, Sky Uppercut  *Juggles*
+d,d/f+1>2                   Lightning Bolt  *Stuns on CH*
+f+1                         Rushing Uppercut  *Juggles*
+f+1~2                       Lunging Palm Attack  *Stuns on CH*
+d/f+1                       ARROW PALM
+d,d/f+1                     Lightning Bolt
+  >2                          Stun Elbow  *Stuns on CH*
+  3                           CLOCKWISE (SPIN)
+  4                           COUNTER-CLOCKWISE (SPIN)
+1+2                         DOUBLE PALM STRIKE
+  >4                          ROUNDHOUSE  *Stuns on CH*
+    b,f+1+2                     SHOVE PALMS
+f+1+2                       Double Palm Lift  *Juggles on CH*
+f,f+1+2                     POWER PALM LIFT  *Juggles on CH*
+b+1+2                       Twin Arrow  *Stuns*
+f,f+1>4                     Dashing Left Elbow, Delayable Skyscraper Kick
+f,f,N+1,4                   Quick Recover Elbow, Skyscraper Kick
+1+4,3                       Club Fist, Sweep, Bowleg
+f+2,1                       1-2 PUNCHES
+SS+2                        Parting Fist
+d/f+2                       Death Push
+  1                           Sky Uppercut  *Juggles*
+  3                           Lowkick
+  4                           Highkick
+(b+2)_(2~b)                 Punch, Spin Behind  *Spin if Punch Connects*
+  1+2                         Back Push
+WS+2                        Slice Uppercut
+  >2                          Hammer Elbow
+  1,1                         Catapult Combo
+  1,4,3                       Club Fist, Low Sweep, Bow Leg
+  4                           Sweep
+    N+4                         Highkick
+    d+4                         Lowkick
+    1                           Uppercut  *Juggles*
+d+2,3                       DUCKING JAB, RISING KNEE
+FC,d/f+2                    Dashing Elbow  *Stuns on CH*
+b+3                         Liquid Sweep  *Juggles on CH*
+  4                           BOWLEG SWEEP
+d+3                         WANG SHINKICK
+f+3                         HAWK STEP
+  ~1                          ARROW SKIP
+  2                           MID SMASH
+  4                           TALON LOWKICK  *Juggles on CH*
+f,f+3                       LIFTING SKYSCRAPER KICK  *Juggles*
+u/f+3+4                     Earthquake Stomp
+SS+3+4                      SLIDING DOUBLEKICK ROLLBACK  *Juggles*
+4,4                         Kick, Spinsweep
+  N+4                         Highkick
+  d+4                         Lowkick
+  1                           Uppercut  *Juggles*
+b+4                         Heaven Shatter Kick  *Stuns on CH*
+d+4                         Spinsweep
+  N+4                         Highkick
+  d+4                         Lowkick
+  1                           Uppercut  *Juggles*
+CH 4                        Knockdown Highkick  *Juggles*
+WS+4                        Skyscraper Kick
+u/f+4,3                     TWIN HOPKICKS  *Juggles*
+FC,d/f+4,3                  Low Sweep, Bow Leg
+d/f+4>2>(b,f+1)             Mountain Crusher
+b,b~u/b                     Jumping Overhead Bomb  *Against Wall*
+2+3+4                       Wave Taunt
+f+1+4                       Heaven Cannon  *Unblockable - Juggles*
+  B                           Cannon Cancel
+211.2.33.3.4.4.1            Tenstring
+211.2.33.2.3.2.1            Tenstring
+211.2.33.2.1.4.3            Tenstring
+
+Circle (SPIN) - 3+4 or u+3+4 or d,d/f+1,3_4
+-----------------------------------------
+1                           SPINSTRIKE BACKFIST  *Stuns on CH*
+2                           SPINNING PALM
+3,1                         FLAMINGO SNAP, SHOULDER CHECK
+4,4                         Highkick, Sweepkick
+  N+4                         Highkick
+  d+4                         Lowkick
+  1                           Uppercut  *Juggles*
+
+SAMPLE COMBOS
+CH 1,1,1, f,f,N+1, f,f,N+1, f,f,N+1, f,f+1,4
+f+1, 1,2,4, f+3~1
+d/f+2,1, f+3~1, d/f+4,2,b,f+1
+u/f+4, d+2,3, f,f+1, d,d/f+1,2
+CH b+4, f,f, b+4, d/f+4,2,b,f+1
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+==================
+| KAZUYA MISHIMA |
+==================
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Bitch Kicks {1}
+        2+4                 Hip Toss {2}
+        f,f+1+2             Stonehead {1+2}
+        FC,d/f,d,d/f+1+2    GATES OF HELL
+(Left)  (1+3)_(2+4)         Steel Pedal Drop {1}
+(Right) (1+3)_(2+4)         Skull Smash {2}
+(Back)  (1+3)_(2+4)         Reverse Neck Throw
+
+SPECIAL TECHNIQUES
+1,1>2                       SHINING ASSAULT
+[1],2,2                     Demon Slayer
+1,2>4                       1-2 Punches, Low Slipkick
+b+1                         Short Overhead Elbow
+d/f+1                       Gut Slugger
+  f+2                         Demon Thrust
+  b+2                         DONKEY PUNCH
+  b+4                         FACEKICK  *Juggles*
+WS+1,2                      Twin Pistons  *Juggles*
+f,N                         Kazuya Mist Step
+  d/f+1                       Thunder Godfist
+    3                           Midkick
+    4                           Hellsweep
+  d/f+2                       Wind Godfist  *Juggles on CH*
+  d~d/f+2                     Electric Wind Godfist  *Juggles on CH*
+  d/f+3                       Leaping Slash Kick
+  d/f+4,4                     Hell Sweeps
+f,N,d,d/f+1                 Thunder Godfist
+  3                           Midkick
+  4                           Hellsweep
+f+1+2                       Glory Demon Fist  *Stuns*
+  f+2                         Demon Thrust
+d_FC+1+2                    Ultimate Tackle
+SS+1+2                      Corpse Slash Punch
+f,N,d,d/f+2                 Wind Godfist  *Juggles*
+f,N,d~d/f+2                 Electric Wind Godfist  *Juggles*
+WS+2                        Kazuya Gutpunch  *Stuns on Clean Hit*
+b+2,4,1                     BLACK DEVIL STRING
+b,b+2                       Spinning Backfist  *Stuns on CH*
+f,f+2                       DEMON CUTTER KNIFE
+d/f+2                       Demon Gutpunch  *Stuns on CH*
+3,1                         Advancing Kick, Lead Jab
+b+3,1,4,1                   Blazing Demon  *Stuns*
+f,f+3                       Split Axe Kick
+f,N,d,d/f+3                 Leaping Slash Kick
+f,N,d,d/f+4                 Hell Sweep
+  1                           SPINNING GUTPUNCH
+  4                           2nd Hell Sweep
+d/f+3                       CHAOTIC KNEE
+d/b+3                       DEVIL'S TAIL
+4~3                         Demon Flipstomp
+d/b+4                       Low Slipkick
+f+4                         Axe Kick
+b+4                         High Facekick  *Stuns on CH*
+d+4                         Thunder Grind Foot  *Opponent Must be Grounded*
+WS+4,4                      Axe Kicks
+d/f+4>4                     Delayable Axe Kicks
+u_u/f+4,4,4,4               Jumping Kick, 2 Hell Sweeps, Roundhouse
+u/f,N+4                     Delayed Hopkick  *Juggles*
+WS_(f,N,d,d/f)+4,4          Axe Kicks
+b,b~u/b                     Twisting Jumpkick  *Against Wall*
+
+b+1+4                       Lightning Godfist  *Unblockable*
+B+1+4                       Lightning Hell Godfist  *Unblockable*
+
+f,f,N+2122.3.4.4..1..2.1    Tenstring
+f,f,N+2122.3.4.4..3..2.1    Tenstring
+f,f+N+2144.2.4.3..2.1       Ninestring
+
+SAMPLE COMBOS
+WS+1,2, 1,2, 1,2,2
+d/f+1,4, d/f+4,4
+f+1+2, {u/f+4},4,4,4
+f,N,d~d/f+2, f,N,d~d/f+2, f,N,d~d/f+2
+u/f,4, 1, b+4,2,1
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+========
+| KING |
+========
+
+GRAPPLING TECHNIQUES
+(Front)  1+3                 Swinging DDT {1}
+         2+4                 Brainbuster Suplex {2}
+         RN+2+4              Shining Wizard
+         d/b,f+2             Tombstone Piledriver {2}
+         QCF+1               Jaguar Driver {1 Break, 3+4 Escape}
+           1+2                 Flying Press {3+4}
+           1+2,3,4,1+2         Boston Crab  *At Apex of Driver*
+         QCB+1+2             Wishbone Powerbomb {1+2}
+         b+1+2               Irish Whip {2}
+           3+4                 Whip Down {3+4}
+           2+4                 Quickslam {2}
+           1+3                 Spin and Let Go {1}
+         f,HCF+1             Giant Swing {1}  *Quick Recover - 1/2 damage*
+         d+1+3               Low Throw Powerbomb {1} *Opponent Must Duck*
+         d+2+4               SPIN-UP POWERSLAM {2}
+         d/f,d/f+2+4         Elbow Lock Multistarter-(F) {2} *Opponent Duck*
+         f,N,D/F+2+3         Standing Achilles Hold {2}
+           1+2,3,1,1+3         Scorpion Death Lock {2}
+           1,2,3,1+2           STF {1 Escape, 1+2 Reversal}
+           1+2,1,3,1+2         Indian Death Lock {1+2 Escape, 3+4 Reversal}
+             1,3,4,1+2,3+4       Romero's Special
+         f,N,D/F+1+4         Reverse Arm Hyperextension {1}
+           1+2,1+2             Double Arm Snap {1}
+           1+2,4,2+4           Russian Leg Sweep {2}
+             4,3,4,3+4,1+2       Arm Crucifix
+           2,1,1+2+3           Chicken Wing Face Lock {1+2}
+	     2,1,3,1+2+4,1+2+4       Reverse Guillotine Choke {1}
+	     1+3,3+4,2+4,1+2,1+2+3   Rolling Death Cradle {2}
+(Left)   (1+3)_(2+4)        Argentine Backbreaker {1}
+         SS+2+4             Cannonball Multistarter-(G) {1}
+(Right)  (1+3)_(2+4)        Knee Crusher {2}
+         SS+2+4             Cannonball Multistarter-(G) {2}
+(Back)   2+4                Cobra Twist Abdominal Stretch
+         F+2+4              Half Boston Crab
+         b,f+1+2            Octopus Slam
+         SS+2+4             Cannonball Multistarter-(G)
+(Tackle) (1,2,1)_(2,1,2)    Mounted Punches
+           1+2,1+2            Armbar, Wristlock
+           3+4                Knee Cross Lock
+             :1+2               Elbow Lock, Necksnap
+         1+2,1+2            Armbar, Wristlock
+         3+4                Knee Cross Lock
+           :1+2               Elbow Lock, Necksnap
+
+(Air)    1+3                        INVERTED LEG LACE
+         d+(1+3)_(2+4)              CATCHING ANKLE BREAKER
+           1+2,1+2                    SLINGSHOT
+           2,1,3,4                    GIANT SWING
+         (f,HCF+1)_(f,f,F+2+4)      RUNNING POWERBOMB
+
+Ground Throws
+-------------
+Face Up/Feet Towards
+  d/b+2+4                   Mini Swing {2}
+  D/B+2+4                   Figure-4 Leglock {1+2}
+  D/F+2+4                   CROTCH DIVE {2}
+Face Down/Feet Towards
+  d/b+2+4                   Half Boston Crab {1}
+Face Up/Feet Away
+  d/b+2+4                   Crucifixion {1+2}
+Face Down/Feet Away
+  d/b+2+4                   Chicken Wing {1+2}
+Face Up/Side
+  d/b+2+4                   Flip Over (Left) {1}
+  d/b+2+4                   Flip Over (Right) {2}
+Face Down/Side
+  d/b+2+4                   Bow Break (Left) {1}
+  d/b+2+4                   Camel Clutch (Right) {2}
+
+Multithrow Link Table
+---------------------
+
+  A--B
+  |\
+  | `C--D        U--V--W--K--L
+  |  |              |     |
+  |  `--E           |     `--M
+  |              T  |
+  `--F--G--H      \ |
+        |          \|
+        `--I-->-->--J--K--L
+           |        |  |
+           P--Q     |  `--M
+           |        |
+           `--R--S  `--N--O--L
+                          |
+                          `--M
+
+A. 3+4,(1+4)_(2+3)            JAGUAR STEP, CHOKE SLEEPER MULTISTARTER {1_2}
+B. 2+4,1+2,1+2                FUNERAL SUPLEX {1}
+C. 3+4,3+4,1+2                PICKPOCKET SLEEPER {2}
+D. 1,1,1+2                    TRIPLE MOUNTED PUNCHES {1}
+E. 3,4,1+2,3+4                STRETCH MUFFLER {2}
+F. 1,4,2,3                    COBRA TWIST ABDOMINAL STRETCH
+G. 2,1,(1+3)_(2+4)            FALLBACK SUPLEX {1_2}
+H. 3,1,1+2                    DIAGONAL TURTLESHELL SNAP {1+2}
+I. 1+2,1,2,1+2+(3_4)          TWISTING ARMLOCK SUPLEX {1_2}
+J. 2,2,1+2                    Cannonball {2}
+K. 1,2,3+4                    Powerbomb {1}
+L. 3,1,2,3+4,1+2+3+4          Wishbone Powerbomb {1_2}
+M. 2,1,3,4                    Giant Swing {1_2}
+N. 3+4,1+2,1+2+4              Manhattan Drop {2}
+O. 1,2,3+4,1+2                Superfreak
+P. 3+4,1+2                    BACKDROP
+Q. 1+2,4,1+2,1+2+3            RISING SUN {1+2}
+R. 1+2,3,4,(1+3)_(2+4)        SHOULDER RACK DROP {1_2}
+S. 2+4,3+4,1+3,1+2,1+2+(3_4)  SCREWDRIVER {1_2}
+T. d/f+1+2                    Double Elbow Lock Multistarter
+U. f,d/f+(1+3)_(2+4)          Reverse Arm Clutch Multistarter {1_2}
+V. 2,1,1+2                    Backdrop {1}
+W. 3+4,1+2                    German Suplex {1}
+
+
+SPECIAL TECHNIQUES
+1,2                         Double Punch String
+  2+4                         Reverse DDT
+  d+2+4                       Low Powerbomb  *Catches Crouching Opponents*
+1,2,1                       Triple Punch String
+  2+4                         Fallback Ankle Trip Throw
+  d+2+4                       Low Powerbomb  *Catches Crouching Opponents*
+d+1~N+2                     Mid Punch, Uppercut
+b+1                         SPRINT HOOK
+f,f+1                       Dirty Sanchez
+d/f+1>2                     Elbow Smash, Side Swipe
+FC,d/f+1                    Ankle Swipe  *Juggles*
+1+2                         Uppercut, (BK)
+  1                           Backhand
+d+1+2                       Elbow Drop
+f+1+2                       Quick Jaguar Lariat
+f,f,N+1+2                   Offensive Push
+f,N,d,d/f+1+2               CHIN SHATTER UPPERCUT  *Juggles*
+WS+1+2                      Chin Shatter Uppercut  *Juggles*
+f+1+4                       MID CHEST THRUST
+b+2                         BLACK ARROW
+  d+2+4                       JUMPING POWER BOMB {1+2}
+f+2>2,2                     ROARING ELBOW RUSH
+  ~b                          SPINNING ELBOW CANCEL
+f,f+2>1                     ELBOW SCRATCH ATTACK
+f,f,N+2                     Low Smash  *Stuns on CH*
+  *stun* 1+2                  Jaguar Backbreaker  {1+2}
+  *stun* 1+2,u,d,N+3+4        Jumping Powerbomb {3+4}
+d/f+2                       Side Swipe
+SS+2                        Sneak Uppercut
+WS+2                        Uppercut
+FC,d/f+2                    Dynamite Uppercut  *Juggles*
+f+2+3                       Black Shoulder
+f,f+2+3                     Flying Body Splash
+f+3                         BAD ATTITUDE  *Stuns on CH*
+  1+2                         COUGAR DDT  *Only on non-CH Hit*
+b+3                         Back Thrust Kick
+d/f+3                       Mid Side Kick
+d/f+3~4                     High Mist Trap  *If Kick is Blocked*
+d/b+3                       LOW KICKOUT  *Juggles on CH*
+u/f+3                       ROLLING WHEEL KICK
+BK 3                        Dust Kick
+  :1+2                        Stunner Throw
+3+4                         JAGUAR STEP STANCE
+(d+3+4)_(FC,d/f+4)          Ali Kick
+  2                           Middle Smash
+  4,4                         Ali Kicks 
+CH (d+3+4)_(FC,d/f+4)       Counterhit Ali Kick
+  2                           Middle Smash
+  4,4                         Ali Kicks 
+    4,4                         Ali Kicks
+    2                           Middle Smash
+f+3+4                       Delayed Drop Kick 
+f,f+3+4                     Drop Kick
+RN+3+4                      Satellite Drop Kick
+d/f+3+4                     Frankensteiner  *Throws Close Standing Opponent*
+u/f+3+4                     MINI SPINNING HEADBOOT
+SS+3+4                      Spinning Headboot
+CH 4                        Knockdown Highkick  *Juggles*
+f+4                         Jumping Roundhouse Kick
+b+4                         Turnaround Kick, (BK)
+f,f+4                       Convict Kick
+d/f+4                       Ankle Kick
+d/b+4                       Dropping Shin Kick  *If Misses, FD/FT*
+u/f+4                       Hopkick  *Juggles*
+b+1+3                       MID/HIGH RIGHT PUNCH REVERSAL
+b+2+4                       Mid/High Kick Reversal
+  :3+4                        Figure-4 Leglock  *Right Kick Reversal Only*
+F+1+2  *Hold down 1+2*      Jaguar Lariat  *Unblockable, Can be Ducked*
+BK 1+2                      Jaguar Lariat  *Unblockable, Can be Ducked*
+U/F+1+2  *Hold down 1+2*    Burning Knuckle Bomb  *Unblockable*
+1+4                         Twisting Moonsault Press  *Unblockable*
+121.1..24.4.4..1.(1_3)      Tenstring
+121.1..3.3.4.4.1.(1_3)      Tenstring
+121.1..3.3.4.3.2.1+2        Tenstring
+
+Jaguar Step - 3+4
+-----------------
+(1+4)_(2+3)                 CHOKE SLEEPER MULTISTARTER  *See Thows Above*
+2                           OVERHEAD SMASH
+3+4#                        ADDITIONAL JAGUAR STEP SPINS
+4                           HIGH SPINKICK
+*3-5 Spins*,4               MOMENTUM HIGH SPINKICK  *Unblockable*
+d/f+4                       MID SPINKICK
+
+SAMPLE COMBOS
+CH b+1, f+2,2,2
+WS+1+2, b+1, 1, 1+2,1
+CH d/b+3, WS+4, d+3+4,2
+u/f+4, f+2,2, 1, f+2+4
+u/f+4, 2, f+2,2, 1, b+3
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+================
+| KUMA / PANDA |
+================
+
+Note:  Kuma can be selected by hitting 1 or 2 during the Character Select.
+----  Panda can be selected by hitting 3 or 4 during the Character Select.
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Bear Bite {1}  
+        2+4                 Bear Hug {2} 
+        f,f+1+4             Stone Head {1+2}
+        HCB,f+1+2           Circus Roll {1+2}
+(Left)  (1+3)_(2+4)         Choke Slam {1}     
+(Right) (1+3)_(2+4)         Rag Doll {2}    
+(Back)  (1+3)_(2+4)         Chew Toy    
+
+SPECIAL TECHNIQUES
+1,1,1                       Bear Hammer
+f+1~1,1                     Bear Cannon  *Juggles*
+b+1                         DOWNSWIPE
+WS+1                        Grizzly Uppercut  *Juggles*
+  >2                          Megaton Claw
+D/F#+1,2,1,2                Uppercut Rush  *Juggles on CH*
+FC,d/f+1,2,1,1              Wild Claw Windmill, Backpaw
+1+2                         Bear Knuckle
+  >1+2                        Double Uppercut
+    1+2                         BEAR HAMMER
+  3+4                         (Prowling Bear)  
+WS+1+2>1+2                  Double Uppercut
+  3+4                         (Prowling Bear)
+f+1+2                       Claw Scissors
+u/f+1+2                     Belly Flop
+d/f+1+2                     Grizzly Headbutt
+FU/(FT_FA) d+1+2            Spring Hammerpunch, (Sit Down)
+FU/(FT_FA) 1+2              BEAR BACKSTROKE
+2,1,2                       Jab, Elbow, Uppercut  *Juggles*
+d/f+2                       Uppercut  *Juggles*
+D/F#+2,1,2,1                Uppercut Rush 2
+d/b+2                       LOW FISH CATCH
+f,f+2                       Demon Bearfist  *Juggles*
+b,d/b,d,d/f+2               Megaton Claw
+FC,D/F#+2,1,2               Uppercut Rush 3  *Juggles*  
+FC,d/f+2                    Short Bear Rush
+  (D_D/F_F)+1                 (L_M_H Ending)
+FC,D/F#,1,2                 Bear Rush
+  (D_D/F_F)+1                 (L_M_H Ending)
+FC,d/f+1+2                  REVOLUTION
+  1                           DEATHPAW
+  1+2                         ROLLING BEAR
+  2                           UPPERSWIPE  *Juggles*
+  3                           BUTT SCOOT
+  3+4                         (PROWLING BEAR)
+  4                           FLIPPER BEAR
+b,f+2+3                     Salmon Hunter
+d/b+3                       STUBBY KICK
+u/f+3,4,1+2                 GRIZZLY RUSH
+b+3+4                       Double Mule Kick
+d+3+4                       (Sit Down)
+u/f+3+4                     Hip Press, (Sit Down)
+CH 4                        Knockdown Highkick  *Juggles*
+d+4                         Forward Dancing Bear  *Opponent Must be Grounded*
+u/f+4                       Jumping Boot  *Juggles*
+1+3+4                       Backwards Dancing Bear
+3+4                         (Prowling Bear)
+(FD/FA)_(FD/FT) 3+4         (Prowling Bear)
+b,f+2+3  *Hold Down 2+3*    Power Salmon Hunter  *Unblockable*
+b,b+2+3+4                   Terrible Ghastly Fart  *Death Unblockable*
+b+1+2                       Terrible Claw  *Unblockable*
+  f,d/f,d,d/b,b,u/b,u,U/F      Rolling Bear
+  3+4                          (Prowling Bear)
+FC,d/f+2,N+1,1+2,3,1+2,1+2,1+2,1,2,1+2     TENSTRING  *Stop at 8th or 9th
+                                                      hit for (Prowling)*
+FC,d/f+2,N+1,1+2,3,1+2,3+4,1+2,2,3,1       TENSTRING
+
+Prowling Bear Stance - 3+4
+--------------------------
+F_B                         Crawl Forwards_Backwards
+f,f                         REVOLUTION
+(u/f)_(u)_(u/b)             Bear Low Parry
+1                           Low Hunting Claw, (Prowling Bear)
+1,2                         Low Hunting Claw, Bear Scratch, (Prowling Bear)
+2                           Bear Scratch, (Prowling Bear)
+1+2                         Paw Lift
+f+1+2                       Chew Toy Throw {1+2}  *Must be Very Close Hit*
+d+1+2                       BEAR RUSH
+3_4                         SIDEROLL, (FU/FA)
+3+4                         Bear Tackle
+b+3+4                       Hunting Hip, Sit Down
+d+3+4                       Resting Bear
+  1                           SIDEROLL
+    D                           (FU/FA)
+    B                           BACKROLL
+    F                           REVOLUTION
+  3                           Rising Lowkick
+  3+4                         (Prowling Bear)
+  4                           Rising Midkick
+
+Sit Down - d+3+4
+----------------
+B                           Roll Backwards
+  3+4                         (Prowling Bear)
+F                           REVOLUTION
+1                           SWEEP SWIPE
+2                           UPPERSWIPE  *Juggles*
+
+SAMPLE COMBOS
+WS+1, u/f+3,4,1+2
+FC,d/f+1+2,2, u/f+4, f+1, 1+2
+CH D/F#+1,2,1,2, u/f+3,4,1+2
+f,f+2, b,f+2+3
+u/f+4, f+1, u/f+3,4,1+2
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+==================
+| LAW (Marshall) |
+==================
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Twin Dragonstrike {1}
+        2+4                 Leg Grab Takedown {2}
+        d/f+1+2             Chastisement Punch {1+2}
+          1,2,1+2             Bulldog
+        f+2+3               Dragon Dive {1}
+        f,f+3+4             Dragon Knee  *Juggles* {1}
+(Left)  (1+3)_(2+4)         Headlock Kick {1}
+(Right) (1+3)_(2+4)         Dragon Jewel Punch {2}
+(Back)  (1+3)_(2+4)         Throat Punch
+
+SPECIAL TECHNIQUES
+1~[1],[1],[1]               Punch Rush
+  1                           Punch
+  2                           Rush Fist
+    ~b,f                        Dragon Stance
+    3                           Rush Knee
+    u/f+3                       Fake Somersault, Skyscraper Kick  *Juggles*
+      ~b,f                        Fake Step Stance
+  2,2                         Rush Fists
+  2,F+2>2                     Rush Fists
+    ~b,f                        Dragon Stance
+d+1,3                       DUCKING STRIKE, TWIST KICK
+b+1>2>1                      Dragon Storm  *Juggles*
+QCF+1,2,1                   FLURRY FISTS
+  2                           WHACK UPPERCUT  *Juggles*
+d+1+2                       (Dragon) Stance  *High/Mid Punch Parry*
+f+1+2                       Overhead Smash
+2,2,1,2                     DRAGON FIST RAGE
+F+2>2>2                     Dragon Knuckle Combo
+  ~b,f                        (Dragon) Stance
+(FC_d)+2,3                  Ducking Jab, Flipkick  *Juggles*
+f+2~1                       1-Inch Punch
+b+2,3                       Junkyard Combo
+  4                           Junkyard Kick  *Juggles*
+    ~b,f                        (Fake Step) Stance
+  d+4                         DRAGON'S TAIL
+(FC_d)+2,3                  Ducking Jab, Flipkick  *Juggles*
+d/b+2                       Elbow, (BT)
+  4                           Frogman
+    ~D                          Lie Down FU/FA
+F+2>2                       Dragon Knuckle
+  1+2                         SPREAD BACKFIST
+  >2                          Knuckle Combo
+    ~b,f                        (Dragon) Stance
+f,f+2,1,3                   DRAGON STRIKE
+d/f+2                       Lifting Uppercut  *Juggles*
+WS+2                        Power Uppercut  *Juggles*
+SS+2                        Gut Punch
+  ~b,f                        (Dragon) Stance
+  1                           Gut Strike
+    ~b,f                        (Dragon) Stance
+    2                           Third Strike
+      ~b,f                        (Dragon) Stance
+      >1                           Backfist
+BT 2,2                      ELBOW, POWER BACKFIST
+3>4                         Headkick, Flipkick  *Juggles*
+d+3,4                       Low Kick, Flipkick  *Juggles*
+b+3                         ROLLING RIGHT KICK
+d/b+3                       LEG HUNTER KICK
+d/f+3                       Lunge Kick
+f,f+3                       Fierce Lunge Kick
+  ~b,f                        (Fake Step) Stance
+d+3,3,4                     Lowkick, Highkick, Flipkick  *Juggles*
+(u/f_u_u/b)+3,4             Hopkick, Flipkick  *Juggles*
+(U/F_U_U/B)+3,4             Fake Somersault, Skyscraper Kick  *Juggles*
+  ~b,f                        (Fake Step) Stance
+FC,d/f,d,d/f+3              Dragon Slide
+FC+3,4                      Crouchkick, Flipkick  *Juggles*
+WS+3                        Twist Kick
+  N                           (Fake Step) Stance
+  4                           Flipkick  *Juggles*
+(3+4)_(U/F+4)               Flip Kick  *Juggles*
+  3                           Double Flipkick  *Juggles*
+d+3+4                       Frogman
+  ~D                          Lie Down FU/FT
+SS+3+4                      Bicycle Kick
+CH 4                        Knockdown Highkick  *Juggles*
+FC,u/b_u_u/f+4              Low Flipkick  *Juggles*
+  3                           Double Flipkick  *Juggles*
+FC,U/B_U_U/F+4              High Flipkick
+FC,U/B_U_U/F+3+4            Super Flipkick  *Falls FU/FT*
+FC,(u/f_u_u/b),N,4          Backflip, Skyscraper Kick  *Juggles*
+4,(u_u/f)+3                 Roundhouse, Flipkick  *Juggles*
+  ~b,f                        (Fake Step) Stance
+4,3,                        High Kick, Spin Kick
+  ~b,f                        (Fake Step) Stance
+  4                            High Kick
+    ~b,f                        (Fake Step) Stance
+WS+4,3                      Rising Kick, Flipkick  *Juggles*
+d/b+4                       Dragon's Tail
+  4                           FLIPKICK  *Juggles*
+d/f+4,3                     Thrust Kick, Flipkick  *Juggles*
+BK d+4                      MULE SWEEP  *Juggles*
+b,b~u/b                     Twisting Jumpkick  *Against Wall*
+d/b+1+2                     Dragon Fang  *Unblockable*
+  u,u                         Cancel, (Dragon) Stance
+b+1+2                       High/Medium Punch Parry  *If Punch is Caught*
+  1                           Tricky Trap  *Turns Opponent Around*
+  2                           Tricky Fist  *Stuns*
+  3                           Tricky Step-In Kick
+  4                           Tricky Lowkick
+b+2+4                       High/Mid Parry
+  ~b,f                        (Dragon) Stance  *Only if Parry Connects*
+d+2+4                       Low Parry
+d/f+122.13.3.3.4.3.4             Tenstring
+d/f+122.13.3.D+3.D+3.(3_4).4.4   Tenstring
+d/f+1.3.2.2.3.3.3.4.3.4          Tenstring
+d/f+1.3.2.2.3.D+3.D+3.(3_4).4.4  Tenstring
+
+Dragon Stance - d+1+2 - *High/Mid Punch Parry*
+----------------------------------------------
+[1],f+1                     Killer Backfist[s]
+2,2>1>2                     Dragon Judgement
+2~1                         One-Inch Punch
+2+4                         3x Facekick Throw
+3                           Fierce Lunge Kick
+  ~b,f                        Fake Step Stance
+3+4                         THE KICK
+4,3                         Junkyard Kicks  *Juggles*
+
+Fake Step Stance
+----------------
+[1],f+1                     Killer Backfist[s]
+2~1                         One-Inch Punch
+2,2>1>2                     Dragon Judgement
+2+4                         3x Facekick Throw
+3                           Fake Step Cannon
+3+4                         THE KICK
+4,3                         Junkyard Kicks  *Juggles*
+
+Taunting Stance - b+1+2 (Missed)
+--------------------------------
+[1],f+1                     Killer Backfist[s]
+2                           Gut Punch
+  ~b,f                        (Dragon) Stance
+  1                           Gut Strike
+    ~b,f                        (Dragon) Stance
+    2                           Third Strike
+      ~b,f                        (Dragon) Stance
+      >1                           Backfist
+3                           Fake Step Cannon
+4,3                         Junkyard Kicks  *Juggles*
+
+SAMPLE COMBOS
+CH b+1,2,1, 4, b+2,3,4
+QCF+1,2,1,2, 4,u+3, b~f+1
+WS+2, 4,3,4, b~f~b~f+3+4
+CH d+2,3, 1, b+2, 1,2, b+2
+CH 4, b+2,3,4
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+===============
+| LEE CHAOLAN |
+===============
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Neck Fracture {1}
+        2+4                 Neck Twister Toss {2}
+        f,f+3+4             Knee Bash {1+2}
+(Left)  (1+3)_(2+4)         Harassment {1}
+(Right) (1+3)_(2+4)         Stunner {2}
+(Back)  (1+3)_(2+4)         Bulldog
+
+SPECIAL TECHNIQUES
+f,N                         Mist Step
+  b,N                         Reverse Mist
+    4                           Code Red Lowkick
+  3,4                         SHREDDER
+    >4                          High Shredder
+    >d/f+4                      Mid Shredder
+    >d+4                        Low Shredder
+  b+3+4                       (Hitman) Cancel
+(b+1,1)_(b+1:1)             (Fang Rush)_(Precision Fang Rush)
+  ~f,N                        Mist Step
+  2                           Triple Fang
+  3+4                         (Hitman)
+1,2                         1-2 Punches
+  ~f,N                        Mist Step
+  2                           Violet Knuckle
+  4                           Violet Kick  *Stuns on CH*
+    ~3                          (HITMAN)
+  *Hold 4*                    POWER VIOLET KICK  *Stuns on CH*
+    ~3                          (HITMAN)
+1+2                         Schwartz Rose Hook
+2,2                         Rave War
+f+2,3                       LEE SCREW
+SS+2                        Rear Cross Punch
+  ~f,N                        Mist Step
+3                           Head Kick
+  >3                          Violet Hammer
+  (f_d/f)+3                   Step-In Kick
+b+3                         Mist Wolf
+  >3                          Mist Wolf Combo
+  ~3                          Mist Feint
+    =4                          Mist Trap  *If Kick is Blocked*
+  ~4                          (Hitman)
+d+3                         SPINNING LOW SLIP KICK
+f+3,3,3,3,3,4               ACID STORM
+f,f+3                       SPINNING MID ROUNDHOUSE
+(f,f,N+3,4)_(RN+3,4)        Shredder
+  >4                          High Shredder
+  >d/f+4                      Mid Shredder
+  >d+4                        Low Shredder
+u/f+3                       Silver Sting
+d/b+3                       Low Slice Kick
+d/f+3                       Step-In Kick
+WS+3,3                      Axe Kicks
+  (d/f+3)_(D+3)               Mid_Low Infinite Starter
+    3,3,3,3...                  Infinite Kicks
+    u+3,3,3...                  Infinte Kicks Mid
+    d+3,3,3...                  Infinite Kicks Low
+SS Right+3                  Lee Screw
+  ~4                          (Hitman)
+FC,d/f,d,d/f+3              Dragon Slide
+3+4                         (Hitman) Stance
+u/f+3+4                     Silver Sting
+f,f,N+3+4                   Falling Dragon Slide
+b,b,N+3+4                   Handspring Backflip, (Hitman)
+4,3,3                       Violet Spin Hammer
+4,3,4                       SHAOLIN SPINKICKS, FLIPKICK
+4,4,4                       Machine Gun Kicks
+4,u+3                       Roundhouse, Somersault
+f+4                         Snap Kick
+f,f+4                       VIOLET KICK  *Stuns on CH*
+b+4                         Silver Heel  *Juggles on CH*
+  ~3                          (Hitman)
+b,b+4                       Cutter
+  ~3                          (Hitman)
+u/f+4                       Violet Knee  *Juggles*
+U/F+4                       Hopkick  *Juggles*
+WS+4                        Rising Kick
+  ~3                          (Hitman)
+SS Left+4                   Lee Screw
+  ~3                          (Hitman)
+FC,(u/b_u_u/f)              Somersault Fakeout
+FC,(u/b_u_u/f)+4            Low Flipkick  *Juggles*
+  ~3                          (Hitman)
+FC,(U/B_U_U/F)+4            High Flipkick
+FC,(U/B_U_U/F)+3+4          Rainbow Flipkick
+d,d/b+4                     Blazing Kick  *Juggles*
+D#+4>4>4>4                  Low Turdkicks, Midkick
+  ~3                          (Hitman)
+d+4                         Lowkick
+  >N+4,3,3                    Violet Spin Hammer
+  >N+4,3,4                    Shaolin Spin Kicks
+  >N+4,4,4                    Machine Gun Kicks
+  ~N+4~3                      SILVER CYCLONE  *Unblockable*
+  >N+4,u+3                    Roundhouse, Flipkick  *Juggles*
+FC,d/f+4                    Silver Tail
+b,b~u/b                     Runup Backflip, (BK)  *Against Wall*
+d+3+4                       Silver Cyclone  *Unblockable*
+d/b+1+2, [u,u]              Silver Fang, [Cancel]  *Unblockable*
+b+1+2                       TAUNT PUNCH PARRY
+d/f+122.13.3.3.4.3.4        Tenstring
+
+Hitman Stance - 3+4
+-------------------
+u_d                         Sidestep
+F#                          Forward Advance
+b                           Hitman Cancel
+1,1,1,1..                   Jabbing Fists, [Hitman]
+1~3                         Trapping Kick Feint
+1,4                         Jab, Violet Kick
+  ~3                          (Hitman)
+1+2                         TAUNT PUNCH PARRY
+2                           Spinning Uppercut  *Juggles*
+d/f+2                       DASH UPPERCUT  *Cancellable*
+3                           Trapping Kick
+4                           Shin Slicer
+
+SAMPLE COMBOS
+d/f+2, 4,3,4
+CH b+4, f,f+4, 1,2~f, 1,2~f, 3,4
+u/f+4, 1,2~f, 1,2~f, f+2,3
+d,d/b+4, U/F,4, 1,2~f, 1,2~f, 1,2~f
+Hitman 2, u/f+3+4
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+==============
+| LEI WULONG |
+==============
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Sleeper Hold {1}
+        2+4                 Flying Sky Kick {2}
+        f,f+1+2             Thai Trip {1+2}
+        u/f+1+2             Falling Elbow Trip {1+2}
+(Left)  (1+3)_(2+4)         Sailboat Stretch {1}
+(Right) (1+3)_(2+4)         Closing Fan {2}
+(Back)  (1+3)_(2+4)         Helicopter Kickup
+
+SPECIAL TECHNIQUES
+1,1                         Double Snake Jabs
+  F                           (Snake) Stance
+1,2                         1-2 Punches
+b+1                         Swaying Drunken Punch
+  f                           (Drunken) Stance
+SS+1                        Snake Punch
+  f                           (Tiger) Stance
+  u_d                         (Dragon) Stance
+f,N+1                       1 Rushing Punch
+  u_d                         (Snake) Stance
+f,N+1>2                     2 Rushing Punches
+  u_d                         (Dragon) Stance
+f,N+1>2>1                   3 Rushing Punches
+  u_d                         (Panther) Stance
+f,N+1>2>1>2                 4 Rushing Punches
+  u_d                         (Tiger) Stance
+  3                           Sweeping Kick
+  >4                          Midkick
+    u_d                         (Crane) Stance
+1+2                         Turning Punch, (BT)
+  2                           Spiral Uppercut  *Juggles*
+b+1+2                       Headbutt
+f+1+2                       Double Snake Punch
+  f                           (Crane) Stance
+  u_d                         (Panther) Stance
+d/f+1+2                     CHINA SPLITTER
+d/f+2                       Lifting Uppercut  *Juggles*
+(u/f_u/b)+2                 Elbow Drop, (FU/FA)
+f,F+2                       TIGER CLAW  *Juggles*
+SS+2,2                      Drunken Punches
+  f                           (Drunken Stance)
+f,N+2,1,2                   Guard Melting Punches *Must Block 1st Punch*
+  1                           Guard Melting Punch, (BT)
+f,N+2>1>2                   Break Punches  *Must Whiff or Hit 1st Punch*
+  3_4                         Low Kick, Mid Kick
+    u_d                         (Crane) Stance
+3,3                         Crescent, Low Sweepkick, (BT)
+3~4,[U#]                    Jumping Crescent Kick[s], (BT)
+  d                           (FU/FT)
+f+3~4,[U#]                  Axis Shift Jumping Crescent Kick[s], (BT)
+  d                           (FU/FT)
+f,N+3                       Lightning Crescent
+  4                           Stunkick  *Stuns*
+  d+4                         Lowkick
+f,f+3                       LAUNCHING CYCLONE  *Juggles*
+u/f+3                       Crane Hopkick, (Crane) Stance  *Juggles*
+u/f+3+4                     Leaping Twistkick, (BT)
+4                           2nd Twistkick
+SS+3+4,[3+4],[3+4]          Turning Backflip[s], (BT)
+b+4                         Backflip
+  f                           (Crane) Stance
+4~4,3                       Rolling Kicks, (FU/FT)
+  3                           Lifting Kick  *Juggles*, (FD/FT)
+4~3                         Cartwheel Kick, (FD/FT)
+f,f+4                       STANDING SPINNING RIGHT KICK
+  3                           JUMPING SPINNING DROPKICK
+d/b+4                       Rave Sweep  *Floats*
+  4                           Rave Spin
+  d_u                         (Snake) Stance
+u/f+4                       Jumping Boot  *Juggles*
+CH 4                        Knockdown Highkick  *Juggles*
+f+4,2,1>2,3                 Crescent Kick, 3 Punches, Low Kick
+f+4,2,1>2>4                 Crescent Kick, 3 Punches, Mid Kick
+  u_d                         (Crane) Stance
+f,N+4~1,2                   Rush Combo
+  2                           Snake Midpunch
+    F                           (Dragon) Stance
+    2                           Snake Lowpunch
+      F                           (Panther) Stance
+    4~4,3                       Rolling Kicks, (FU/FT)
+      3                           Lifting Kick  *Juggles*, (FD/FT)
+  3                           Lightning Crescent
+    4                           Stunkick  *Stuns*
+    d+4                         Lowkick
+b,b~u/b                     Runup Backflip, (BT)  *Against Wall*
+b+3+4                       (BT)
+d+1+2                       (FD/FA)
+d+3+4                       (FU/FA)
+b+1+4                       (Eagle) Stance
+f+3+4                       (Drunken) Stance
+f+2+3                       (Snake) Stance
+(SS+1+4)_(SS+2+3)           (Snake) Stance
+f+3+4                       Mid/High Punch Drunken Parry
+b+121.3+4..2..1.4.1.4.4     Tenstring
+b+121.3+4..2..1.4.1.2.3     Tenstring
+b+121.3+4.3+4.3+4..1..1..2  Ninestring
+
+Backturned Position - (BT) - (b+3+4)
+------------------------------------
+1                           High Backfist (BT)
+FC_d+1                      Low Backfist, (BT)
+2                           Turning Uppercut  *Juggles*
+(u/b_u/f)+2                 Elbow Drop, (FU/FA)
+3+4,[3+4],[3+4]             Backflip[s], (BT)
+FC_d+4                      Rave Sweep  *Floats*
+  4                           Rave Spin
+  d_u                         (Snake) Stance
+u/f+4                       Turn Around Liftkick  *Juggles*
+
+Face Down/Feet Away Position - (FD/FA) - (d+1+2)
+------------------------------------------------
+u                           Stand Up
+1                           (FU/FA)
+3_4                         Sweep
+(f_b),(3_4)                 Roll Forward_Back, Sweep_Rising Midkick
+3+4                         SCORPION KICK
+4~3                         Slide
+
+Face Up/Feet Away Position - (FU/FA) - (d+3+4)
+----------------------------------------------
+u                           Stand Up
+f_b                         Roll Forwards_Backwards
+  3                           Rave Sweep  *Juggles*
+    ~4                          Rave Spin
+d+1                         (FD/FA)
+3                           Rave Sweep  *Juggles*
+  ~4                          Rave Spin
+3+4                         Kangaroo Kick  *Juggles*
+4                           Rising Midkick
+
+Face Down/Feet Towards Position - (FD/FT) - (4~3)
+-------------------------------------------------
+u                           Stand Up
+f_b                         Roll Forwards_Backwards
+  3                           Rave Sweep  *Juggles*
+    4                           Rave Spin
+  4                           Rising Midkick
+1                           (FU/FT)
+3                           Sweep
+3~4                         Sweep, (FU/FA)
+3~4,4                       Rave Spin
+4                           Rising Mid Kick
+4~3                         Mid Cartwheel
+
+Face Up/Feet Towards Position - (FU/FT) - (Get Knocked Down)
+------------------------------------------------------------
+u                           Stand Up
+D+1                         (FD/FT)
+f_b                         Roll Forward_Backwards
+  3                           Low Sweep
+  4                           Rising Midkick
+3_4                         Sweep_Rising Midkick
+3+4                         Spring Up  *Damages on Counter*
+
+Eagle Stance - (b+1+4)
+----------------------
+3>3>3>3...                  Hawk Claw Kicks, [Eagle Stance]
+4                           Phoenix Kick  *Unblockable*
+b+4,[U#]                    Jumping Crescent Kick[s]
+  d                           (FU/FT)
+
+Drunken Stance - (f+3+4)
+------------------------
+1                           Drunken Fist
+  F                           (Drunken) Stance
+1+2                         Drunken Swill *Recovers Health*, (Drunken) Stance 
+2,2                         Drunken Punches
+  F                           (Drunken) Stance
+3+4                         Falling Anklekick
+3                           SHIN PUNTING
+  F                           (DRUNKEN) STANCE
+4                           DRUNKEN MULE KICK  *Juggles*
+  F                           (DRUNKEN) STANCE
+
+Snake Stance - (f+2+3)_(f,N+1~d)
+--------------------------------
+1,1,1,1,1,1                 Stabbing Punches
+1+2                         SNAKE BITE
+1+3                         Dragon Stance to Drunken Throw {1}
+  1+2                         Drunken Swill  *Recovers Health*
+  F                           (Snake) Stance
+2                           Snake Midpunch *Stuns on CH*
+  F                           (Dragon) Stance
+  2                           Snake Midpunch
+    F                           (Dragon) Stance
+    2                           Snake Lowpunch
+      F                           (Panther) Stance
+    4~4,3                       Rolling Kicks, (FU/FT)
+      3                            Lifting Kick  *Juggles*, (FD/FT)
+4                           Low Jab Kick, (Snake) Stance
+3                           Lifting Kick, (FD/FT)
+SS Right                    (Panther) Stance
+SS Left                     (Dragon) Stance
+
+Dragon Stance - (f+2+3,u)_(f,N+1,2~d)
+-------------------------------------
+1                           Drunken Throw {1}
+  1+2                         Drunken Swill, (Drunken) Stance
+1+2                         Double Arm Strike
+  F                           (Tiger) Stance
+2                           Uppercut  *Juggles on CH*
+  F                           (Tiger) Stance
+3,3                         High Crescent, Low Sweepkick
+4,1,2,3,4_d+4               5-Hit Combo
+SS Right                    (Snake) Stance
+SS Left                     (Tiger) Stance
+
+Panther Stance - (f+2+3,d)_(f,N+1,2,1~d)
+----------------------------------------
+1~2                         Low/High Punch Combo
+2                           Uppercut  *Juggles/GMP if Blocked*
+2,1,2                       GuardMelt Punches *Must Block 1st Punch, Juggles*
+  1                           Guard Melting Punch, (BT)
+3                           Low Sweep
+  b                           (Eagle) Stance
+4,2,1>2                     Crescent Kick, 3 Punches
+ COOLEST  3                           Lowkick
+  >4                          Midkick
+F                           Low Parry
+SS Right                    (Crane) Stance
+SS Left                     (Snake) Stance
+
+Crane Stance - (f+2+3,d,d)_(f,N+1,2,1,2,4~d)
+--------------------------------------------
+N                           CRANE DEFENSE  *Auto-Hops Over Low Kick Attacks*
+1                           Crane Bill  *Lei turns (BT) if Blocked*
+2                           Backfist, BK  *Connected Hit Turns Opponent (BT)*
+4                           Hop Forward Low Kick
+3>4>2>3                     2 Kicks, Punch, Kick  *Juggles*
+SS Right                    (Snake) Stance
+SS Left                     (Panther) Stance
+
+Tiger Stance - (f+2+3,u,u)_(f,N+1,2,1,2~d)
+------------------------------------------
+1                           Overhead Swipe  *Bounces On CH*
+2                           Tiger Claw
+3,1>2>1>2                   Kick, Punch Combo
+  >3                          Lowkick
+  >4                          Highkick
+4                           Fast Sweep  *Juggles*
+F                           High/Mid Parry
+SS Right                    (Dragon) Stance
+SS Left                     (Snake) Stance
+
+SAMPLE COMBOS
+d/f+2, 1, f,N+4,1,2,3
+f,f+3, f,N+3
+FU/FA 3+4, U/F+4, 4~4,3,3
+u/f+4, 1,2, f,N+1,2,{1},2,4
+d/b+4, d/f+1, f,N+4,{1},2,3
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+==================
+| MARDUK (Craig) |
+==================
+
+GRAPPLING TECHNIQUES
+(Front)  1+3                  Coat Roll {1}
+         2+4                  Leg Compressor {2}
+         QCF+1                Belly-to-Belly Suplex
+           1+2                  (Mount) Position
+         QCF+2                Powerslam
+           1+2                  (Mount) Position
+         f,f+1+2              Windmill Toss, Rubber Bounce  *Juggles*
+         QCB+1+2              Back Breaker {1+2}
+         f,HCF+1+2            JACKHAMMER {1+2}
+         d+1+3                PICKUP BACKSLAM  *Catches Ducking Opponents*
+         d+2+4                SILVA KNEE  *Catches Ducking Opponents*
+(Left)   (1+3)_(2+4)          Waist Drop {1}
+(Right)  (1+3)_(2+4)          Gorilla Press {2}
+(Back)   1+3                  Back Suplex
+         2+4                  PANCAKE FLIPPER
+(Air)    1+3                  WHIP SLAM
+         2+4                  WHIPAROUND TOSS
+         f,f+1+2              SCOOP SUPLEX
+(Ground) d/b+2+4              ELEVATOR TOSS  *Juggles*
+         FD/(FA/FT) d/b+2+4   NHB KNEE
+
+SPECIAL TECHNIQUES
+1,2                         1-2 Punches
+  >f+1                        Crossing Elbow
+  3,1+2                       Midkick, Delayed Headbutt
+  3+4                         (Vale Tudo) Stance
+1,d+2                       Jab, Gutpunch
+f,f+1                       BLISTER FIST  *Juggles*
+  2                           KNUCKLE DUSTER
+b+1                         Earthquake Fist
+d+1                         ELBOW BASHER
+d/f+1                       Uppercut Lift  *Juggles*
+WS+1                        Quick Face Hit
+1+2                         FACE LIFT
+f+1+2                       Cyclone Knuckles
+d/f+1+2                     Headbutt
+d/b+1+2                     Spinning Exploder Axe  *Juggles*
+u/f+1+2                     FACE SMUSH
+FC+1+2                      Rising Headbutt
+[2],d+1+2                   [Punch], Lifting Tackle  *Juggles*
+b+2                         Whirlwind Fist
+d+2                         Ranged Low Jab
+f+2                         HOOK SMASH  *Stuns*
+  1                           MEAT HOOK  *Stuns*
+  d+1                         DOWNWARD HOOK
+SS+2                        Windmill Backhand
+d+2,4                       Alligator
+f+2,1,2,1                   Beserker
+d/f+2                       Gutpunch
+d/b+2                       FOREARM BASH
+f,f+2                       Elbow Sting
+WS+2                        Tornado Chop
+(FD/FA)_(FD/FT)+2           GROUNDED ANKLE CUT
+(FD/FA)_(FD/FT)+d+2         GROUNDED ANKLE TRIP
+(d_d/b)+3                   Shin Kick
+f,f+3                       LUNGING KNEE
+RN+3                        Power Dropkick
+d/f+3                       Left Knee
+  1,2                         1-2 PUNCHES
+    >f+1                        CROSSING ELBOW
+    3,1+2                       MIDKICK, DELAYED HEADBUTT
+    3+4                         (VALE TUDO) STANCE
+  d+1,2                       UPPERCHOP, OVERCHOP
+  1+2                         Headbutt
+WS+3                        MASSIVE LAUNCH  *Juggles*
+3+4                         (Vale Tudo) Stance
+f+3+4                       ADVANCING HEADBUTT
+d/b+3+4                     BACKUP, TAUNT, (VALE TUDO) STANCE
+d+3+4                       Sidestep, Vale Tudo Stance
+u/f+3+4                     Leaping Stomp
+b+4                         Long Boot
+d+4                         Ali Kick
+d/f+4                       Mid Boot
+d/b+4                       GROUND STOMP  *Opponent Must be Grounded*
+u/f+4                       Diagonal Kick
+(FC,d/f+4)_(D/F,4)          Ogre Sweep
+d/b+4                       FALLING ANKLE SWEEP  *Trip Takedown on CH*
+WS+4                        RISING KNEE
+b,b~u/b                     Jumping Diagonal Kick  *Against Wall*
+b+1+2                       High Reversal, (Mount) Position
+b+3+4                       Mid Reversal, (Mount) Position
+b+2+3                       Craig Cannon  *Unblockable - b to Cancel*
+2,1,3,1,2,1,2,2,3,1         TENSTRING
+2,1,3,1,2,1,4,3,1,4         TENSTRING
+
+Vale Tudo Stance - 3+4
+----------------------
+u_d                         Sidestep
+d/f_d/b                     Full Crouch Position
+1                           Quick Face Hit (WS+1)
+1+2                         (Mount) Takedown  *Spear From Far Distance*
+(u_d)+1+2                   Sidestep, (Mount)  *Spear From Far Distance*
+2                           Tornado Chop (WS+2)
+f+2                         Power Straight
+2+4                         Bodyslam Throw
+3                           MASSIVE LAUNCH (WS+3)  *Juggles*
+3+4                         Stance Cancel
+4                           RISING KNEE (WS+4)  *Juggles on CH*
+
+Mount Position
+--------------
+1                           FACE PUNCH, TWIN GUTPUNCH, FACEPUNCH  {2}
+1~2                         FAKE PUNCH, TRIPLE GUTPUNCHES, FACEPUNCH  {1}
+1+2                         FACE PUNCH, SAKARABA CHOP  {N}
+1+3                         FACE PUNCH, TWIN GUTPUNCH, NECK CRANK  {2}
+2                           FACE PUNCH, QUAD GUTPUNCHES  {1}
+2~1                         FAKE PUNCH, TWIN GUTPUNCH, FACEPUNCH  {2}
+2+4                         FACE PUNCH, TWIN GUTPUNCH, LEGLOCK  {1}
+3+4                         Dismount
+
+SAMPLE COMBOS
+f,f+1, 1, f,f+1,2
+d/f+1, 1, d/f+3,d+1,2
+d+1+2, 1, d/f+3,1, f,f+1+2
+d/b+1+2, U/F,4, 1, f+2,1
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+===========
+| MOKUJIN |
+===========
+
+SPECIAL NOTES
+     Mokujin randomly takes on the complete moveset of any one fighter
+for an entire round.  After each round, Mokujin will randomly take on a 
+different character's moveset.  You can discover the identity of the 
+fighter by watching the stance and posture of Mokujin.
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+=================
+| NINA WILLIAMS |
+=================
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Wrist Flip {1}
+        2+4                 Lifting Toss {2}
+          1,2,1               Falling Elbow
+            2,1,3               Arm Lock
+        1+3~b               STOMACH ELBOW, WRIST FLIP {1}
+        2+4~b               HAMMER LOCK, GUILLOTINE SNAP {2}
+        d/f,d/f+1           Embracing Elbow Strike {1+2}
+        u/f+1+2             Overhead Toss {1+2}
+        QCF>1+2             Palm Grab {2}
+          3,4,3,1+2           Neck Cutter Arm Bar {1+2}
+          2,3,4,2,2           Enbracing Knee/Neck Snap {2}
+            1,3+4,1,2,1+2       Falling Neck Snap {1}
+            1,2,4,3,1+2+3       Turtleshell Flip {1+2}
+          1,3,2,1             Standing Reverse Arm Lock {1}
+            3,1,4,1+2,1+2       Rear Gatelatch Falconwing Squeeze {1+2}
+            2,1,3,4,1+2         Falling Reverse Arm Lock {1}
+        QCB,1+4             Knee Bash
+          1,3,2,1             Standing Reverse Arm Lock {1}
+            3,1,4,1+2,1+2       Rear Gatelatch Falconwing Squeeze {1+2}
+            2,1,3,4,1+2         Falling Reverse Arm Lock {1}
+          2,1,1+2,1+2+3       Octopus Special {2}
+            1,3+4,1,2,1+2       Falling Neck Snap {1}
+            1,2,4,3,1+2+3       Turtleshell Flip {1+2}
+        QCF>3+4             Crab Claw {1}
+          3,4,1+2             Rolling Arm Bar {1+2}  
+          4,2,1+2             Achilles Tendon Lock {2}
+            3,1,4,2+4           Knee Cross Lock {1}
+            1,3,2+4,3+4,1+2     Rolling Achilles Tendon Lock {1+2}
+
+Note: The throws after the Achilles Tendon Lock can also be done after
+        the Bone Cutter (RN+3) or (u/f+3+4) connects on a Clean Hit.
+      The throws after the Embracing Knee/Neck Snap can also be done after
+        a sucessful 1+2 after a Spider Knee.
+      The throws after the Palm Grab can also be done after Nina b+2+4
+        Attack Reverses an opponent's Left Punch (1).
+
+(Left)   (1+3)_(2+4)              Rolling Groin Hyperextension {1}
+(Right)  (1+3)_(2+4)              Whipping Toss {2}
+(Back)   (1+3)_(2+4)              Jumping Overhead 3-Limb Break
+(Tackle) [1,2,1,]_[2,1,2,] 1+2    [Mounted Punches,] Armbar
+         [1,2,1,]_[2,1,2,] 3+4    [Mounted Punches,] Knee Cross Lock  
+
+SPECIAL TECHNIQUES
+1_(d/f+1)_(WS+1) \       
+(BK 1)_(BK 2)>2  /          1-2 Punches
+  >f+1+2                      Double Palm
+  1>2>f+1+2                   2 Punches, Double Palm
+  >1>4                        Punch, Lowkick
+  >3                          Spider Knee  *Juggles on CH*
+    :1+2                        Embracing Knee/Neck Snap Multithrow Starter
+  >4                          Roundhouse
+1,4                         JAB, HIGHKICK
+  1                           SPINNING KNIFEHAND
+  3                           LOW SWEEP
+b+1                         Killing Blade  *stuns*
+b,f+1                       JUMPING SPINSLAP  *Juggles on CH*
+f,f+1                       Turning Slap  *Opponent Shows Side When Hit*
+u/f+1                       BLAZE STINGER
+SS+1                        Snake Shot
+  ~F                          Forward Crouchdash
+    1+2                         Palm Grab Multithrow Starter
+    d/b,d/b+2+3                 Sleeping Breath  *Unblockable*
+    3                           Roshambo Kick  *Stuns on CH*
+    3+4                         Craw Claw Multithrow Starter
+    4                           Flipstomp  *Techroll to Avoid Damage to Nina*
+  ~B                          Backward Crouchdash
+    1+4                         Knee Bash Multithrow Starter
+  2                           Double Shot
+1+4                         Ivory Cutter
+(d+1~N+4)_(FC_d+2,4)        S-Mid Jab, Frontkick
+d_FC+1,2,4                  Twin S-Mid Jabs, Frontkick
+FC,d/b+1                    Helping Hand
+f_WS+1+2                    Double Palm
+b+1+2                       LUNGING DOUBLE PALM PRESS
+d/f+1+2                     Cross Blade  *Stuns on CH*
+SS+1+2                      Spinning Double Palm
+2                           Jab
+  >1>4                        Twin Jab, Lowkick
+  f+1+2                       Double Palm
+  >3                          Spider Knee *Juggles on CH*
+    :1+2                        Embracing Knee/Neck Snap Multithrow Starter
+  >4                          Roundhouse
+b+2,2                       Bitchslaps  {Females can Reverse with 2}
+f,f+2                       HEART CRUSHER  *Stuns on CH*
+d,d/f+2                     Step In, Upward Slap  *Juggles*
+d/b+2                       Forearm Chop  *Stuns On Clean Hit*
+d/f+2                       Lifting Uppercut  *Juggles*
+WS+2                        LIFTING UPPERCUT  *Juggles*
+SS+2                        Palm Uppercut  *Juggles*
+3                           Left Standing Kick
+  SS Left                     EVASIVE ROLL
+3,3                         Highkick, Lowkick
+  2                           Uppercut  *Juggles*
+  f+2                         DELAYED UPPERCUT  *Juggles*
+  4                           Highkick
+  d+4                         Lowkick
+3>4                         Twin Highkick
+f+3                         TWIN FLICKER FACE KICKS  *Stuns on CH*
+FC_d+3                      Low Kick
+  2                           Uppercut  *Juggles*
+  N+4                         Highkick
+  d+4                         Lowkick
+b+3,4                       MID/HIGH CUTTER
+  3+4                         CARTWHEEL KICK
+  4                           LOW CUTTER
+WS+3                        Spider Knee  *Juggles on CH*
+  :1+2                        Embracing Knee/Neck Snap Multithrow Starter
+b,f+3                       Spider Knee  *Stuns on CH*
+  :1+2                        Embracing Knee/Neck Snap Multithrow Starter
+RN+3                        Bone Cutter  *Clean Hit - Achilles Tendon Lock*
+(f,f)_QCF+3                 Roeshambo Kick  *Stuns on CH*
+d/f+3                       Sidekick
+  >1                          Jab
+    ~U_D                        Sidestep
+      ~2                          Palm Uppercut  *Juggles on CH*
+    >2>f+1+2                    Punch, Double Palm
+  >2                          Jab
+    ~U_D                        Sidestep
+      ~2                          Palm Uppercut  *Juggles on CH*
+    >1>4                        Jab,Lowkick
+    >3                          Divine Cannon  *Juggles*
+    D+3                         Lowkick
+      2                           Uppercut  *Juggles*
+      4                           Highkick
+    4                           Roundhouse
+  >3>3>4                      Sidekicks, Highkick
+  4                           Roundhouse
+(u/f)_u_(u/b)+3             Cat Hopkick
+u/f,N,d+3                   Hopping Lowkick
+  2                           Uppercut  *Juggles*
+  3                           Sidekick
+  d+3                         Lowkick
+  4                           Roundhouse
+(d/b+3+4)_(d,d/b+3)         Divine Cannon  *Juggles*
+d+3+4                       Foot Stomp  *Opponent Must Be Grounded*
+u/f+3+4                     Bone Cutter  *CH Links to Achilles Tendon Lock*
+4                           Right Standing Kick
+  SS Right                    EVASIVE ROLL
+4,3                         Highkick, Lowkick
+  2                           Uppercut  *Juggles*
+  4                           Highkick
+  d+4                         Lowkick
+f+4                         HIGH HEEL LANCE
+  3+4,4                       FLYING KICK, FLIP
+  4                           HIGHKICK
+SS+4                        Sidestep Sweep
+FC,d/f+4                    Dragon's Tail
+(u_u/b)+4                   TSUNAMI AXE KICK
+u/f+4,3,4                   Leaping Hunting Kicks
+d/b+4                       Falling Ankle Kick (FD/FA)
+  3                           Divine Cannon  *Juggles*
+CH f+4                      Knockdown Highkick  *Juggles*
+(d+4>1)_(FC+4,1)            S-Mid Kick, Spinchop
+  ~U_D                        Sidestep Cancel
+    ~2                          Palm Uppercut  *Juggles on CH*
+b+4                         Stinger Frontkick
+(f,f)_QCF+4                 Flipstomp  *Techroll to Avoid Damage to Nina*
+u~u/b                       Backflip
+b,b~u/b                     Runup Backflip, (BK)  *Against Wall*
+
+b+2+4                       Mid/High Reversal
+  *Reversing a Left Punch Chains into the Palm Grab Multithrow Starter*
+
+d/b+1+2                     Hunting Swan  *Unblockable - u,u to Cancel*
+HCF,D/B+2+3                 Sleeping Breath  *Unblockable*
+
+1_(d/f+1)_(BK 1)_(BK 2)_(WS+1)>2>1>2.3.3.2..1.2.4  Tenstring
+1_(d/f+1)_(BK 1)_(BK 2)_(WS+1)>2>1>2.3.3.2..1.4.3  Tenstring
+1_(d/f+1)_(BK 1)_(BK 2)_(WS+1)>2>1>2..4.3..4.2.4.3 Tenstring
+
+SAMPLE COMBOS
+d/f+2, d/f+1, u/f+4, 1,4,1
+SS+2, f+3, d/f+3,1,2,f+1+2
+CH d+3,2, 1, 1, 1, 1, u/f+1
+d/b+3+4, b+3,4,3+4
+CH d/b+4,3, u/f+4, d+4,1, f,f+3
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+================
+| PAUL PHOENIX |
+================
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                      Shoulder Toss {1}
+        2+4                      Shoulder Popper {2}
+        2+4~b                    Bloody Palm {2}
+        d/f+1+2                  Striking Shiho-Nage {1+2}
+        f,f+1+2                  Shoulder Ram {1+2}
+        b+1+4                    Stomach Throw {2}    
+(Left)  (2+4)_(F+2+4)            Dragon Screw {1}
+(Right) (2+4)_(F+2+4)            Tripping Hip Toss {2}
+(Back)  (2+4)_(F+2+4)            Reverse Neck Throw {2}
+(Tackle) [1,2,1,]_[2,1,2,] 1+2   [Mounted Punches,] Armbar
+	 (2,D+1,1),(N+4~1~1+2)   Ultimate Punishment {1}
+
+SPECIAL TECHNIQUES
+1,2                         1-2 Jabs
+1,4                         Punch, Lowkick
+d+1                         Tile Splitter
+  2                           Deathfist
+  *Hold 2*                    CHAOS FIST  *Throws on Hit*
+  4,2                         Falling Leaf
+b,f+1                       T-Elbow
+d/f+1                       Quick Body Hook
+  ~b                          BACKSWAY
+QCF+1                       Elbow Rush  *Juggles on CH*
+SS+1                        Hammer Smash
+f+1+2                       Overhead Smash
+d+1+2                       Iron Mountain
+FC,d/f+1+2                  LIFTING LEG PUNCH  *Juggles*
+  D/B                         LEG PUNCH CANCEL
+(FC_d/b)+1+2                Ultimate Tackle
+f+1+4                       Sidestepping Shoulder Ram
+2,3_(d+3)                   Punch, Kick_(Lowkick)
+f+2,3                       Quick P-K Combo
+d+2                         Stone Splitter  *Opponent Must be Grounded*
+b+2                         STUNSTRIKE  *Stuns on CH*
+d/f+2                       Uppercut  *Juggles*
+f,f+2                       Dashing Elbow
+  1                           Lungefist
+  :1                          Holy Dragon Claw
+  2                           Lifting Leg Punch  *Floats*
+WS+2                        Thunder Liftpalm  *Juggles*
+QCF+2                       Deathfist
+QCB                         Backdash
+  1                           Bounce Tile Splitter  *Bounces on CH*
+  2                           Smoking Palm Strike
+  3,2>1                       Low Sweep, Elbow, Deathfist
+  3,2>2                       Lifting Leg Punch  *Juggles*
+    D/B                         LEG PUNCH CANCEL
+(FC,d/f+2)_(D/F,2)          Elbow
+  >1                          Lungefist
+  >2                          Lifting Leg Punch  *Juggles*
+    D/B                         LEG PUNCH CANCEL
+SS+3                        Ankle Kickout
+b+3                         KNEE HEADSTRIKE
+u/f+3,4                     2 Jumping Kicks
+f,f+3,4                     2 Jumping Kicks  *Juggles*
+  >4                          Highkick
+  >(f+4)_(d+4)                Midkick_Lowkick
+d/f+4                       Mid Stomach Kick  *Stuns on CH*
+u/f+4                       Jumping Boot  *Juggles*
+SS+4                        Low Anklekick
+f,f+4                       Somersault Flip
+SS+3                        Ankle Kickout
+d+4,2                       Falling Leaf
+d+4:2                       Precision Falling Leaf
+  :1+2                        Spread Backhand
+D#(2 second)                Restless Taunt  *Auto-Powerup*
+  u+2+3+4                     Idiot Flip Kick (FD/FA)  *Paul Takes Damage*
+b,b~u/b                     Jumping Kick  *Against Wall*
+
+b+(1+3)_(2+4)               Reversal
+
+b+1+2                       Burning Fist  *Unblockable*
+
+1232..1.2..1.4.2.1          Tenstring
+1231..4.2.1.4.2.1           Tenstring
+1231..2                     Fivestring
+
+SAMPLE COMBOS
+QCF+1, 1, 1, 1, 1, QCF+2
+FC,d/f+1+2, d+4:2:1+2
+WS+2, 1,2, u/f+3,4
+d/f+2, 4, f,f+2:1
+u/f+4, 1, b+3, d/f+1~B, 1
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+=========
+| RAVEN |
+=========
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Grave Digger {1}
+        2+4                 Salamander {2}
+        d/f+1+4             Curse Shoot {1}
+        HCB,f+1+2           Shadow Kidnapping
+(Left)  (1+3)_(2+4)         Head Rider Toss {1}
+(Right) (1+3)_(2+4)         Necksnapper Bomb {2}
+(Back)  (1+3)_(2+4)         Falling Axeblade
+
+SPECIAL TECHNIQUES
+1,2                         1-2 Punches
+f+1,2                       Left Chop, Spinning Overhead Chop
+b+1                         Smash Hammer
+d/f+1                       Dagger Blow
+WS_(d,d/f,N)+1              Rising Upper  *Juggles*
+QCF+1                       Mortal Elbow
+1+2                         Crusader
+b+1+2                       Labyrinth
+  2                           Slide Hammer
+  3                           Slide Fencer  *(BT) on Hit*
+b,b+1+2                     Spinning Backfists
+d/b+1+2                     Ultimate Tackle
+QCF+1+2                     Double Slugs
+2,3                         Punch, Spin Lowkick
+2,4                         Punch, Highkick
+f+2                         Salt Stab
+d/f+2                       Uppercut
+D/F+2                       Power Uppercut  *Juggles*, (BT)
+  3                           Shadow Kick
+d/b+2,1                     Assassin Stinger
+D/B+2                       Assassin Sting, (BT)
+b+2,2                       Dual Fists
+  1+2                         Low Sweep Fists
+  3                           Unicorn Tail  *Juggles*
+QCF+2                       Low Sweep Fists
+WS_(d,d/f,N)+2              Jackknife Elbow  *Juggles on CH*
+3,3,4                       Twin Leftkicks, Backkick
+3~4                         Chariot, (BT)  *Juggles*
+f+3                         Stepping Roundhouse  *Juggles*
+f,f+3                       Vampire Knee  *Juggles*
+f,f,N+3                     Poison Needle  *Juggles*
+d+3                         Low Shinstrike
+FC+3                        Low Slipper
+b+3                         Hades Heel
+d/f+3                       Face Snapper *Juggles on CH*
+d/b+3                       Jumping Lowkick
+(u_u/b)+3                   Death Bringer, (BT)
+  d+3                         Low Death
+  3                           Mid Death
+  4                           High Death
+u/f+3                       Splitkicks  *Juggles*
+SS+3                        Sideboot
+WS_(d,d/f,N)+3              Trident Kick
+3+4                         Aerial
+*While Getting Hit* 3+4     Kage Ghost Kick
+f+3+4                       Cartwheel Kick, (BT)
+  N+4,2                       Raver
+  f+4,2                       Heavy Raver
+  3+4                         Tornado Disaster
+f,f+3+4                     Spinning Splash
+b+3+4                       (BT) Position
+d/f+3+4                     Kage Ghost Kick
+QCF+3+4                     Tornado Disaster
+4~3                         Hydra  *Juggles*
+  >1                          Low Sweep Punch
+  >3                          Blind High
+  >4                          Leg Bind
+f+4                         Lance Kick
+f,f+4                       Wind Spinkick
+f,f,N+4                     Vampire Knee
+b+4                         Crusher Knee
+  4                           Kicker, (BT)
+  B+4                         Force Kicker, (BT)
+    3                           Kicker Fake, Lowkick
+d+4                         Turning Sweep
+d/f+4,4                     Cutting Axekick
+(u/b_u_u/f)+4,4             Storm Bringer
+d/b+4                       Sweeper
+FC,f+4                      Backwards Thrust Kick
+WS_(d,d/f,N)+4              Rising Snapkick
+QCF+4                       Cartwheel Strike  *Juggles*, (BT)
+QCF [~u_~d]                 Sprint Mirage [Cancel]
+FC,d,d/f,d,d/f              Mirage Step
+u~u/b                       Backflip
+b,b~u/b                     Wallrun Jumpkick,   *Against Wall*, (BT)
+d+1+2                       Summon Force  *Powerup*
+  d,d/b,b,u/b,u,u/f,f+1+2     Dead End  *Unblockable*
+d/f+1+2                     Kage Ghost Strike  *Unblockable*
+*While Getting Hit* 1+2     Kage Ghost Strike  *Unblockable*
+f+1,2,2,2,4,2,3,4,2,1+2     Tenstring
+
+Backturned (BT) Position - b+3+4
+--------------------------------
+f,f,f                       Kagero Teleport
+1                           Switch Fist  *Position Changes on Block*
+f+1                         Stolen Life
+1+2                         Power Punch
+f+1+2                       Back Bared  *Reverses Mid/High Attacks*
+  ~b                          (BT)
+2,2                         Back Knuckles
+f+2,4                       Cold Massacre
+f+3                         Demon Knee, (BT)
+f,f+3                       Gremlin Kick
+d_d/b+3                     Sweep
+3+4                         Gremlin Kickup  *Juggles*
+f+3+4                       Backwards Flipkick, (BT)
+b+3+4                       Face-Forward
+f+4,3                       Lowkick, Highkick
+2,2,1,2,4,2,3,4,2,1+2       Tenstring
+
+SAMPLE COMBOS
+WS+1, f,f+3, d/f+1, d/f+4,4
+D/F+2, (BT) 2,2,1,2,4
+f,f+3, 1, d/f+4,4
+f,f,N+3, 4~3,4
+4~3, 1,2, b+2,2,3
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+=============
+| ROGER JR. |
+=============
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 COCKED HAMMER FOOT {1}
+        2+4                 GATLING FEET {2}
+(Left)  (1+3)_(2+4)         RUNNING BULLDOG {1}
+(Right) (1+3)_(2+4)         NECK SWINGER {2}
+(Back)  (1+3)_(2+4)         Neck Toss
+
+SPECIAL TECHNIQUES
+1,2                         Double Punch
+  1                           Uppercut
+  3                           KICKER
+d/f+1                       Elbow Smash
+  >2                          SIDESWIPE
+f,N,d,d/f+1                 Animal Godfist
+(f,N,d,d/f+1+2)_(FC+1+2)    Animal Smash
+d+1~N+2                     Low Jab, Uppercut
+f,N+1                       Windmill Punch
+f+1,2,1,2,1                 ANIMAL RUSH, WIND-UP PUNCH
+1+2                         DOUBLE SPIN
+  3+4                         CASTANET KICK
+  u+3+4                       JUMPING ANIMAL SWEEP  *Juggles*
+f+1+2                       POWER STRAIGHT
+f,f+1+2                     Flying Cross Chop
+u/f+1+2                     Knuckle Bomb  *Juggles*
+b+1+2                       ROCKET STANCE
+d/f+1+2                     Roo Headbutt
+d/b+1+2                     KANGAROO DASHER
+2,1                         Jab, Uppercut
+d+2                         DIVING LOW PUNCH
+d/f+2                       SIDESWIPE
+f,f+2                       DYNAMIC SMASH
+FC,d/f+2                    Crouching Uppercut  *Juggles*
+(u/b_u_u/f)+2+4             Elbow Drop
+3~4                         FLIPPER ROO  *Juggles*
+f+3                         PROMENADE KICK
+d/b+3                       Tail Cutter  *Juggles*
+(u/b_u_u/f)+3,3             HELICOPTER KICKS
+WS+3                        RISING FOOT
+  3                           STOMPER
+  3#                          POWER STOMP
+(u/b_u_u/f)+3+4             BOMB STOMP
+SS+3                        SHRIMP KICK
+3+4                         CASTANET KICK
+f,f+3+4                     DROP KICKOFF
+RN_(f,f,f)+3+4              Satellite Dropkick
+d/f+3+4                     ROGERSTEINER  *Throw on Close Standing Opponent*
+(d+3+4)_(FC,d/f+4)          Ali Kick
+  2                           MID SMASH
+  4,4                         Ali Kicks
+CH d+3+4                    Counterhit Ali Kick
+  4,4                         Ali Kicks
+    2                           MID SMASH
+    4,4                         Ali Kicks
+b+3+4,[1]_B                 Lunge Animal Kick, [Side Roll]_Roll Back
+  3>4>[1]_B                   Kick Rushes [Side Roll]_Roll Back
+    3>4,B                       Kick Rushes, Roll Back
+f+4,3,2                     ROO RAGE
+f,f+4                       Jail Kick
+b+4                         LOW SNAP SHOT
+b,b+4                       ROLLING TORPEDO
+d/f+4                       LUNGE MIDKICK
+SS+4                        Animal Sweep  *Juggles*
+d/b+4,[1]_B                   Animal Kick, [Side Roll]_Roll Back
+  3>4>[1]_B                     Kick Rushes [Side Roll]_Roll Back
+    3>4,B                         Kick Rushes, Roll Back
+u~u/b                       LEAPING BODY SPLASH  *Against Wall*
+1,2,1,4,3,3,3,4,3,2         TENSTRING
+1,2,1,4,3,3,3+4,2,1+2       TENSTRING
+
+Rocket Stance - b+1+2
+---------------------
+f                           ROAD RUNNER
+2                           FLYING UPPERCUT
+3                           FLYING LOWKICK
+3+4                         FLYING HIP ATTACK
+4                           FLYING MIDKICK
+
+SAMPLE COMBOS
+f,N+1 (Blocked), f,N,d,d/f+1
+FC,d/f+2, 1, 1,2, f,f+2
+3~4, 1, 1+2,3+4
+u/f+4, 1, f+4,3,2
+SS+4, d/b+3, d/f+1
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+=============
+| STEVE FOX |
+=============
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 STOMACH GUTTER, TOSSAWAY {1}
+        2+4                 RABBIT PUNCH {2}
+        f,f+1+2             Lifting Arm Snap, Arm Suplex {1+2}
+        Flicker b+1+2       Gryphon Throw {1+2}
+        QCB+2+4             Hip Toss, Falling Elbow
+(Left)  (1+3)_(2+4)         GUT SLUGGER TOSS {1}
+(Right) (1+3)_(2+4)         NECK TAKEDOWN, NECK SNAP {2}
+(Back)  (1+3)_(2+4)         HUGGING SLAM
+
+SPECIAL TECHNIQUES
+1,[1],f+1                   Jab[s], Stomach Shot
+1,1                         Snap Jabs                  
+  3_4_(f+3+4)_(b+3+4)         Sway Stance Transition
+  2                           Shining Fist
+f,f+1                       Power Body Blow
+f,f,f+1                     JUMPING BOMB
+  ~B                          (FLI)
+[1],2,1                     British Rush
+  ~B                          (FLI)
+  2                           British Edge  *Juggles*
+    3_4_(f+3_4)_(b+3_4)         Sway Stance Transition
+  d+2                         British Sweep
+  3_4_(f+3_4)_(b+3_4)         Sway Stance Transition
+d+1                         ANKLE CHASER
+d+1                         Crouching Turd Punch  *When Opponent is Grounded*
+b+1                         Rushing Punch
+  ~B                          (FLI)
+  2                           BRITISH SWEEP
+u/f+1                       DASHING FIST
+d/f+1,2                     Uppercut, Straight Punch  *Stuns on CH*
+  1+2                         Straight Punch Feint, 1-2 Punches
+  1                           Straight Punch Feint, Left Hook
+    ~B                          (FLI)
+  2                           Straight Punch Feint, Body Hook
+  3_4_(f+3+4)_(b+3+4)         Straight Punch Feint, Sway Stance Transition
+RN+1                        RUNNING ANKLE PUNCHOUT
+(1+2)_(b+1+2)               Step Back, Flicker Stance - (FLI)
+d/f+1+2                     Overhead Punch, Uppercut
+WS+1,2                      Uppercut, Overhead Punch           
+f+1+2                       Lunging Straight  *Stuns*
+2~1                         Quick Straight, 1-2 Punches
+2,2                         Straight Left, Body Hook
+f+2,1                       DASHING MIDPUNCH, BODY HOOK
+  ~B                          (FLICKER)
+  2                           HOOK FEINT, DELAYED BLOW
+f+2~1                       FORWARD DASH, 1-2 PUNCHES
+f,f+2                       STRAIGHT PUNCH
+f,f,N+2                     OVERHEAD PUNCH
+b+2                         POWER STRAIGHT
+b,b+2                       HIGH COUNTERPUNCH  *Reverses Punches*
+d+2,1,f+2                   Low Punch, Uppercut, Right Hook
+d+2~1,2_(f+2)               Low Punch Feint, Uppercut, Overhead Punch
+(RN_u/f)+2                  JUMPING UPPERCUT
+WS+2                        Quick Uppercut  *Juggles on CH*
+d/f+2                       Sonic Fang Uppercut
+f,f+2                       Overhead Punch
+[FC,]d/b+2                  Low Sweep Punch
+3                           Left Sway Stance
+d/b+3                       Low Knee Check
+  2                           LEFT HOOK
+u/f+3                       HOPPING STOMP
+f+(3_4_3+4)                 Ducking Stance
+b+(3_4_3+4)                 Back Sway Stance
+3+4                         Spin Stance
+4                           Right Sway Stance
+u/f+4                       HOPPING SNAPKICK  *Juggles*
+b,b                         Backsway
+b,b~u/b                     Jumping Overhead Bomb  *Against Wall*
+2~f                         High/Mid Punch Parry
+ 1                            Lightning Uppercut
+ f+1                          LEFT STRAIGHT
+ d+1                          LEFT HOOK
+f+2~1,1,1,2,1,1,2,1,2       TENSTRING
+f+2~1,1,1,2,1,1,2,1,f+2     TENSTRING
+f+2~1,1,1,2,1,1,3,2,3+4     TENSTRING
+QCB,f+2                     Mach Wick  *Unblockable*
+
+Flicker Stance - (1+2)_(b+1+2)
+------------------------------
+1,[1],[1],2                 LEFT PUNCH[ES], Overhead Punch
+1,[1],f+1                   LEFT PUNCH[ES], Overhead Left
+1,[1],(u_d)+1               LEFT PUNCH[ES], Left Body Hook
+2                           Overhead Punch
+b+2                         Lunging Power Left
+3                           Left Sway Stance
+4                           Right Sway Stance
+3+4                         Forward Spin
+f+3_4_(3+4)                 Ducking Stance
+b+3_4_(3+4)                 Back Sway Stance
+
+Left Sway Stance- 3
+-------------------
+1,1                         Left Shot, Uppercut
+1~B                         Left Shot, (FLI)
+2                           Short Shoulder
+b+3                         Back Sway Stance
+f+3                         Ducking Stance
+4                           Weave Sidestep
+  F#                          Ducking Weave Dash
+    1_2                         Weave Midpunches  *Stun on CH*
+
+Right Sway Stance - 4
+---------------------
+1                           Short Shoulder
+2                           Right Body Hook
+b+4                         Back Sway Stance
+f+4                         Ducking Stance
+3                           Weave Sidestep
+  F#                          Ducking Weave Dash
+    1_2                         Weave Midpunches  *Stun on CH*
+
+Back Sway Stance - b+3_4_(3+4)
+------------------------------
+1                           Overhead Bomb
+2                           Limbo Uppercut  *Stuns*
+3                           Left Sway Stance
+4                           Right Sway Stance
+f+(3_4_3+4)                 Ducking Stance
+
+Ducking Stance - f+3_4_(3+4)
+----------------------------
+~f                          Ducking Step  *Can Chain Ducking Stance Attacks*
+hbhuj1                           Stomach Uppercut
+2                           Power Uppercut  *Juggles*
+f+2                         Right Hook
+3                           Left Sway Stance
+4                           Right Sway Stance
+b+(3_4_3+4)                 Back Sway Stance
+1+2~1~2~1~2~1~2~1~2~1       Tenstring
+
+Forward Spin - 3+4
+------------------
+~[U_D]                      Sidestep Spin
+  1                           Spinning Gutpunch
+  d+1                         Spinning Low Punch
+2                           Spinaround Left  *Stuns on CH*
+d+2                         Low Punch
+
+SAMPLE COMBOS
+d/f+2, 3,1,1, f+2,1
+u/f+2, 1,2,1~b, Flicker 1,2
+CH 2,1,2, d/f+1,2,1~b, Flicker 1,1,1,2
+f+(3_4),2, d/f+1,2, d/f+1,2,1~b, Flicker b+2
+b+(3_4),2, d/f+1, 1,2,1,d+2
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+===============
+| WANG JINREI |
+===============
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Headlock Toss {1}          
+        2+4                 Throwdown Slam {2} 
+        d/f,d/f+2+4         Waning Moon {1+2}
+        d/f+1+3+4           Whirlwind Toss
+(Left)  (1+3)_(2+4)         Crushing Dragon {1}
+(Right) (1+3)_(2+4)         Golden Mountain {2}
+(Back)  (1+3)_(2+4)         Reverse Neck Toss
+
+SPECIAL TECHNIQUES
+1~1,1                       G-Clef Clubfist Cannon  *Juggles*
+1~4                         JAB, HIGHKICK
+b+1                         PUNCH PARRY STANCE
+  ~1                          SWEEPING FIST  *After Successful Parry*
+  ~2                          NOODLE FIST  *After Successful Parry*
+  ~3                          CODGER KICK  *After Success Parry - Juggles*
+  ~4                          SNAPPER LOW  *After Successful Parry*
+d/f+1,1                     Clubfist Cannon  *Juggles*
+f+1+2                       Double Palm
+b+1+2                       CYCLE PALM
+d/f+1+2                     Bowling Ball Fist
+1+2                         Headbutt
+d+1+2                       DOUBLE DUKES  *Juggles*
+d/b+1+2                     OLD FIST
+SS+1+2                      Wang Headbutt  *Stuns on CH*
+2~b                         Jab, Whiparound
+2~3                         JAB, HIGHKICK
+f+2                         Front Strike
+f,f+2                       KNIFE REACH
+b+2,1                       FISTING RUSH
+d+2,1+2                     ANCIENT ROLLER
+WS+2,2,2                    STAIRWAY KICK
+d/f+2,1                     Push, Sky Uppercut  *Juggles*
+d/b+2                       False Lift  *Juggles*
+QCF+2                       Deathfist
+d+3,4                       LOAFER KICK, ROUNDHOUSE
+d/f+3                       Punt Kick
+d/b+3                       SPINSWEEP
+d+3+4                       MAD STOMP
+u/f+3+4                     Earthquake Stomp
+FC,d/f+4,3                  LOWSWEEP, ARC SLICER
+d/b+4>2                     Midkick, False Lift  *Juggles*
+4,4                         Kick, Spin Sweep
+  1                           Uppercut  *Juggles*
+  4                           Highkick
+  d+4                         Lowkick
+d+4                         Spin Sweep
+  1                           Uppercut  *Juggles*
+  4                           Highkick
+  d+4                         Lowkick
+f+4                         Force Kick  *Juggles*
+f,f+4                       ROUNDABOUT BOOT
+b+4                         SIDESTEPPING KICK
+(u/b_u_u/f)+4               Hopkick  *Juggles*
+WS+4                        Skyscraper Kick
+SS+4                        Parting Sweep
+b~u/b                       LEAPING PUNCH  *Against Wall* 
+
+b+(1+3)_(2+4)               Reversal
+
+f+1+4                       HEAVEN CANNON  *Unblockable - Juggles*
+  ~B                           Cannon Cancel
+b,b+1+2                     INDIGO PUNCH   *Unblockable*
+
+2,1,1,4,4,1,1+2,3,4,2       TENSTRING
+2,1,1,4,4,1,2,1,4,2         TENSTRING
+
+SAMPLE COMBOS
+b+1 <Parry> ~3,
+d+1+2, U/F,4, b+2,1, d+2,1+2
+d/f+2,1, f,f, 1, b+2,1, QCF+2
+f+4,
+CH d/b+4,2, 1, b+2,1, d/b+4,2
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+=================
+| XIAOYU (Ling) |
+=================
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Slap, Forearm Chop {1}
+        2+4                 360 Degree Flip {2}
+        F+2+4               Slap, Forearm Chop {2}
+        QCB+2               Wristlock Flip {2}
+        f+2~1               Human Hurdle {1+2}
+        FC,d/f+2+4          Shoulder Flip  {2}
+(Left)  (1+3)_(2+4)         Arm Hook Toss {1}
+(Right) (1+3)_(2+4)         Reverse Flip {2}
+(Back)  (1+3)_(2+4)         Spinning Leg Trip
+
+SPECIAL TECHNIQUES
+1,2,1                       Double Jabs, Storming Flower
+1,d+2                       Jab, Uppercut, (BT)
+  ~f                          Face Forward
+  1+2                         Bird Flock
+b+1_2                       Knifehand Reversal, (BT)
+  ~f                          Face Forward
+d+1                         Windmill Slaps
+  D                           (Phoenix)
+d/b+1                       Storming Flower  *Horizon Taunt on CH*
+u+1                         Upward Slap, (BT)
+  ~f                          Face Forward
+d/f+1                       Turning Palm, (BT)
+  ~d/f                        Face Forward
+1+2                         Bird Flock
+f,f+1+2,1+2                 Wing Strikes  *2nd Hit Bounces on CH*
+u+1+2~3+4                   Overhead Slaps, Spin Cancel, (BT)
+u+1+2,2>1                   Overhead Slaps, Midpunch, Storming Flower
+1+4                         High/Mid Parry
+d_FC+1+4                    Low Parry
+2,1                         Jab, Palmslap, (BT)
+  ~f                          Face Forward
+d/f+2~1                     Twin Lifting Palms  *Juggles*
+WS+2                        Rising Slap, (BT)  *Juggles on CH*
+  ~f                          Face Forward
+WS+2 *Hold Down 2*          Slow Rising Slap, (BT)  *Juggles*
+  ~f                          Face Forward
+FC,d/f+2                    Lotus Twist
+  ~d/f                        (BT)
+  1                           Lotus Slap
+    ~d/f                        (BT)
+f,f+2>1                     Midpunch, Storming Flower
+3                           Power Crescent
+b+3                         OVERHEAD FOOTSTRIKE, (BT)
+(u/b_u_u/f)+3               Piroette Kick
+  d+1+2                       (Phoenix)
+d+3,4                       Low Sweep, High Roundhouse
+f,f+3                       Raccoon Kick, (BT)
+d/f+3                       Mid Punt Kick
+FC,3,2                      Sweep, Backhand (BT)
+  1>4                         Lifting Flurry  *Juggles*
+d/b+3                       Offensive Shove
+SS+3                        POWER SWEEP  *Juggles*
+b+3+4                       (BT) Position
+u/f+3+4                     DESCENDING STOMPS  *(BT) if Misses*
+u/b+3+4                     LAYOUT FLIPKICK  *Juggles*
+4                           Skyscraper Foot
+4~3                         Flipstomp
+  d+1+2                       (Phoenix)
+SS+4                        Wang Sweep
+f,f+4                       Lunging Kick
+  ~4                          Blocked Kickoff  *If Opponent Blocks Kick*
+    d+1+2                       (Phoenix)
+d/b+4                       Kneecap Kick  *Floats on CH*
+u_u/f+4                     Overhead Kick  *Floats on CH*
+u+4,d+1+2                   Overhead Kick, (Phoenix)
+b+4                         Flamingo Highkicks, (BT)
+  ~B                          Face Forward
+FC,d/f+4                    Spin Sweep, (Phoenix)
+  4                           2nd Spin Sweep
+WS+4                        Skyscraper Kick  *Floats*
+u~u/b                       Backflip
+b,b~u/b                     Runup Backflip, (BT)  *Against Wall*
+u+41.2.(1+2).1.3.4.4..4.1   Tenstring  *Stopping after 6th hit - (BT)*
+u+41.244..2.1+2.1.4..2      Tenstring  *Stopping after 4th hit - (Phoenix)*
+
+d+1+2                       (Phoenix) Stance
+f+1+2                       Clockwise Cartwheel
+b+1+2                       Clockwise Circle Walk
+  ~1+2~b,b                    Immediate Power Spinstrike, Cancel, (BT)
+  >2                          Spinstrike
+  >1+2                        Power Spinstrike  *Unblockable*
+3+4                         Axis Spin In
+d+3+4                       Axis Spin Out
+f+3+4                       Counter-Clockwise Dive 
+b+3+4                       (BT) Position, Small Step Counter-Clockwise
+f,f+3+4                     Overhead Flip
+FC,d/b+3+4                  Crouching Backturn, (BT)
+1+3+4                       Horizon Taunt
+2+3+4                       Waving Taunt
+
+Backturned (BT) Position - b+3+4
+--------------------------------
+1                           Reverse Elbow
+d+1_2                       Low Punch
+f,f+(1+3)_(2+4)             Reverse Dash Grab
+2                           Backhand (BT)
+  1>4                         Lifting Flurry  *Juggles*
+3                           Horse Kickout, Forward Tumble
+f+3                         Turning Midkick
+d+3                         Reverse Ankle Kick, (BT)
+  ~D                          Face Forward
+f,f+3                       Skip Midkick, (BT)
+4                           Reverse Hook Kick  *Juggles*
+d+4                         Offensive Shove
+d/b+4                       Turning Low Kick
+
+d+1+2                       (Phoenix) Stance
+3+4                         Backturned Axis Spin In
+d+3+4                       Backturned Axis Spin Out
+u+3+4                       EVASIVE SPIN AWAY
+f+3+4                       Roll Towards Opponent
+  ~3+4                        Kangaroo Kick  *Juggles*
+f,f+3+4                     Reverse Overhead Flip  *Throw on Clean Hit*
+
+Phoenix Stance - d+1+2
+----------------------
+d_u                         Phoenix Duck_Stand Up
+1                           Stomach Strike                       
+2                           Hard Stomach Strike
+  >1                          Storming Flower
+1+2                         Phoenix Uppercut  *Juggles*
+d+1+2                       Power Uppercut  *Juggles*
+3                           Low Kick, (Phoenix)
+u/f+3                       Jumpkick  *Juggles*
+  3_4                         Thrustkick_Hopkick
+(u/b_u_u/f),3               Piroette Kick  *Turns Opponent BK when Hit*
+  d+1+2                       (Phoenix)
+U/F#,3                      Phoenix Hopsweep  *Floats*
+3+4                         CHANG CANNON
+4                           Roundhouse
+  B                           (BT)
+f+4                         Spin Sweep, (Phoenix Stance)
+  4                           2nd Spin Sweep
+u+4                         Twirling Kick
+  U                           (BT)
+  d+1+2                       (Phoenix)
+  4                           2nd Twirling Kick
+4~3                         Scissorleg Sweep [FU/FT]
+
+1+3 [~U_D_F_B]              Clockwise Axis Roll, Throw [Cancel]
+2+4 [~U_D_F_B]              Counter-Clockwise Axis Roll, Throw [Cancel]
+f+3+4                       Forward Roll
+  ~D                          (Phoenix)
+b+3+4                       (BT) Position
+
+SAMPLE COMBOS
+d/f+2~1, 1,d+2, (BT) 2, (BT) 1
+WS+2#, (BT) 2,2,2,2,2,4
+SS+3, b+3, (BT) 2,1, f,f+1+2,1+2
+(BT) f+3+4~3+4, U/F,4, 1,d+2,1+2
+(BT) 4, d/f+1, (BT) 2,1, u/f+3+4
+
+
+-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-..-
+
+==============
+| YOSHIMITSU |
+==============
+
+GRAPPLING TECHNIQUES
+(Front) 1+3                 Flip Slam, Gut Sword Impale {1}
+        2+4                 Hilt Smashdown {2}
+        QCB+1+2             Rainbow Drop {1+2}
+        QCF+2               Life Siphon  *Yoshi Drains Energy*
+        QCB,F+2             Reverse Siphon  *Yoshi Gives Energy*
+(Left)  (1+3)_(2+4)         Spin-Around Bulldog {1}
+(Right) (1+3)_(2+4)         Cartwheel Roll {2}
+(Back)  (1+3)_(2+4)         Spinning Missle Press
+(Tackle) 1_2                Chest Stab  *Unblockable*
+
+SPECIAL TECHNIQUES
+b+1,[1],[1],[1],[1],[1]     Spinning Hilt Strikes  *Dizzy after x6*
+  d+3+4                       Spinning Sidestep  *Yoshi takes Damage*
+b+1,[1],[1]                 Spinning Hilt Strikes
+  D/B#+3,3                    Leg Sweeps
+     3_(f+4)                    Leg Sweep_(Front Kick)
+d/f+1                       Elbow
+  1>1>1                       Sword Pommel Strikes
+  2                           Backhand  *Turns Opponent Around*
+    D/B#+2,[2],[2],[2]          Crouching Fist Spin[s]
+      2_(f+4)                     Crouching Fist Spin_(Front Kick)
+SS+1                        Hilt Smash Uppercut  *Juggles on CH*
+(1+2)_(u+1+2)               Flea Stance  *Low Unblockable*
+WS+1+2                      Quick Uppercut
+f+1+2                       IRON YOSHI STRIKE
+f,f+1+2                     Shark Attack
+  N                           (BT) Position
+  d+1+4                       Standing Suicide  *Unblockable*
+  d/b+2,[2],[2],[2],[2]       Evasive Crouching Fist Spins
+  u+2+3                       Samurai Stab  *Unblockable*
+  u+2+3~1                     Saw Blade  *Unblockable- b,b to Cancel*
+  u+2+4~1+2                   Dashing Sword Snap  *Unblockable*
+b+1+2                       MANJI STUNPUNCH
+u+1+2                       (HELICOPTER) STANCE
+1+2+3                       Spinning Sword Shielf
+f,f+1+4,N                   Suicide Feint, BK
+2,(2_1)                     1-2 PUNCHES
+2>3                         Punch, Highkick  *Stuns on CH*
+2,d+3                       Punch, Lowkick
+d/f+2                       Yoshi Uppercut  *Juggles*
+D/B#+2,[2],[2],[2],[2]      Crouching Fist Spins  *Yoshi Dizzy after 6x*
+  2_(f+4)                     Crouching Fist Spin_(Front Kick)
+f+2                         Backhand  *Turns Opponent Around*
+  D/B#+2,[2],[2],[2],[2]      Crouching Fist Spins  *Yoshi Dizzy after 6x*
+    2_(f+4)                     Crouching Fist Spin_(Front Kick)
+f,f+2                       Elbow Smash  *Sword Run Through On CH*
+  d+3+4                       Immediate Sit  *Only After CH Hit*
+WS+2                        GUTPUNCH
+SS+2                        Dodging Uppercut  *Juggles*
+3,3                         High Spinkick, Lunging Sweep  *Floats*
+  d+3+4                        (Sit) Stance
+3,4                         High Spinkick, Mid Boot
+3,d/f+3+4                   High Spinkick, Kangaroo Kick  *Juggles*
+FC,d/f+3                    Lunging Sweep  *Floats*
+u/f+3                       Dark Samurai Knee  *Juggles*
+D/B#+3,3,[3],[3]            Spinning Leg Sweeps  *Dizzy after 5x*
+  3_(f+4)                     Spinning Leg Sweep_(Front Kick)
+FU/FT 3+4                   (Sit) Stance
+d+3+4                       (Sit) Stance
+u+3+4                       KUNI FLIPSTOMP
+f+3+4                       BULL RUSH
+  3+4                         (SIT) STANCE
+  b                           MANJI RETREAT
+f,f+3+4,1+2                 Shark Attack, Shark Dive
+ 3+4                          Kangaroo Kick  *Juggles*
+3+4_(SS+3+4)                (Meditate) Position
+u/f+3+4                     Poison Wind Flipstomp
+  b+1,3+4                     Spinning Hilt Strike, Flipstomp
+  b+1,4,d/b+1                 Spinning Hilt Strike, Backflip, Sword Slash
+  1+2                         (HELICOPTER) STANCE CANCEL
+  3+4                         Kangaroo Kick  *Juggles*                 
+  d+3+4                       (Sit) Stance
+4,4,4                       3 High Kicks
+4~3                         Kangaroo Kick  *Juggles*
+d/f+4                       Savior Boot
+SS+4                        Whirlwind  *Stuns on CH*
+  3+4                         Meditate Position
+(u/b_u_u/f)+4               Twisted Foot
+f,f+4                       Jumping Knee
+u~u/b                       Backflip
+b,b~u/b                     Twisting Poison Wind, (BK)  *Against Wall*
+121.4..4.4..1..1.1.1        Tenstring      
+121.4..4.4..1..3+4          Eightstring
+121.4..2..224.1..1          Tenstring
+44.2..2..4..4..1..1.1.1     Tenstring
+44.2..2..4..4..1..3+4       Eightstring
+44.2..2.1                   Fivestring
+44.2..2.11                  Fivestring
+
+Unblockable Arts - (Cannot Be Blocked)
+--------------------------------------
+d+1                         Sword Slice
+  ~N,D#                       Delayed Slice
+QCF+1                       Sword Somersault
+b,b+1                       Samurai Stab 
+  N+1                         Sawblade Shield
+  N+1+2                       Dashing Sword Snap
+(FC,b+1)_(D/F,1)            Samurai Cutter
+d+1+2                       Cyclone Lift
+1+4                         SWORD FLASH
+b,b+1+2                     DECAPITATOR SLICE
+u/f+1+2                     Copter Blade
+  N                           Flying Coast, Falling Cut
+  D                           Immediate Falling Cut
+  B                           Mid-Air Turn Around, Falling Cut
+  1+2                         (HELICOPTER) STANCE
+d/b+1+2                     Bad Breath Stance  *D/B# to Hold Stance*
+  1_2                         BAD BREATH
+  3_4                         EVASIVE FLIP  *Blockable*
+d+1+4                       Standing Suicide  *Hurts Yoshi*
+  b+1,1,1,1,1                 Blood Dance  *Hurts Yoshi*
+f,F+1+4,[f,f]               Turning Suicide, [Second Stab]  *Hurts Yoshi*
+d/f+3,1                     Lunging Step, Sword Slice
+
+Flea Stance - 1+2
+-----------------
+f,f                         Forward Flea Slide  *Unblockable*
+u/f_u_u/b                   Flea Hop  *Unblockable*
+d                           Sword Sinking Crouch
+1+2                         Flea Headbutt  *Juggles on CH*
+f+1+2                       FORWARD ROLL
+3_4                         Side Spin Left_Right
+3+4                         Kangaroo Kick  *Juggles*
+f+3+4                       MANJI MOLE SLIDE
+d+3+4                       Sit Down
+
+Helicopter Stance - u+1+2
+-------------------------
+1                           SHORT SWORD SLICE  *Unblockable*
+2                           COPTER PUNCH  *Juggles*, (HELICOPTER) STANCE
+3                           LOW COPTER SWEEP
+4                           SPINNING MIDKICK
+
+Sit Stance - d+3+4
+--------------------
+u                           Stand Up
+~D                          Yoga Stillness                    
+f_b                         Teleport
+N                           Rejuvenation  *Regains Life*
+1                           Teleport Sword Flip  *Unblockable*
+2,[D/B#+2],[2],[2]            Crouching Fist Spin[s]
+  2_(f+4)                       Crouching Fist Spin_(Front Kick)
+3,3+4                       Dive Attack, Kangaroo Kick  *Juggles*
+3+4                         Hover Mode
+  Release 3, Hold 4, 1_2      Yoshi Taunt
+  F_B_D_U                     Manji Hovercraft
+  N                           (Sit) Stance
+4                           Kangaroo Kick  *Juggles*
+
+Meditate Position - (3+4)_(SS+3+4)
+----------------------------------
+1+2                         Rejuvination  *Unblockable, Regains Life*
+f_b+2                       Backhand  *Turns Opponent Around*                           
+1+4                         Standing Suicide  *Unblockable*
+2+4                         Hilt Smashdown Throw
+3                           NINJAFLIP, (BT) *Juggles*
+3+4                         Backflip, (BT)  *Juggles*
+U/F+4                       Twisting Hopkick  *Juggles*
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+Thanks go out to:
+-----------------
+Castel- The most creative mind in Tekken who hooks me up with tons of moves
+        moves and information.  Check out his internet mecca of Tekken
+        at http://tekkenzaibatsu.com.
+LukeJedi- Borrowed the format from his Tekken2 FAQ.
+Crizl & ShadowIvy- For their continuing faith that Tekken kicks much ass.
+ALL them at EFNet IRC channel #Tekken- You guys rule, plain n' simple.
+
+
+Contributors:
+-------------
+Major Contributors- Castel, duk2000 and MarkMan.
+
+Other Contributors- Vindicator, Jinpazuya, tensaikun, Emily P., shauno,
+                    UNCONKABLE!, Tony-T, OGSamson, alkanphel, tragic, Hatman,
+                    Argonaut, aviax, keela, dpg200, Ace R., Q-Dogg, Tomek,
+                    Empty H4nd, SPMAN, n8nmonster, Ninja, Solus, Brahma,
+                    DayFul, slicedbreadno2, -LandoSystem-, USMCOgre,
+                    JannaKazama, The Realyst, MrWizard, Censei, Jae, Toshin,
+                    XCTU, maddogjin, Lil Majin, Dishes, D.H., Uncauzi,
+                    and beamer.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-

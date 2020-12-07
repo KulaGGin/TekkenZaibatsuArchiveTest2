@@ -1,0 +1,1621 @@
+-----------------------------------------------------------------------------
+
+Gun Jack FAQ for Tekken 3 (Arcade) 
+	
+	- by Mark Landry <jglandry@stfx.ca>
+
+Version 1.1 - August 30, 1997
+
+
+-----------------------------------------------------------------------------
+Table of Contents
+-----------------
+
+- Introduction
+- Revisions
+- Conventions     
+- General Moves
+- Recovery Moves
+- Special Moves
+	- Throws: Front
+	- Throws: Side, Back
+	- Special Techniques
+	- Unblockables
+	- Tenstrings
+	- Note on Damage
+- Move Analysis 
+	- Throws: General
+	- Throws: Specific
+	- Moves: General
+	- Moves: Specific
+	- Unblockables
+	- Tenstrings
+- Combos: Juggles, Misc.
+	- Juggle Starters
+	- Juggle Enders
+	- Juggle Combos: Simple
+	- Juggle Combos: Difficult
+	- Misc. Combos
+- Strategies
+	- General
+	- The Basics
+		- Throws
+		- Special Techniques
+		- Tenstrings
+		- Basic Tactics
+	- Intermediate Play
+		- Throws
+		- Special Techniques
+		- Unblockables
+		- Tenstrings
+		- Intermediate Tactics
+	- More Strategies:
+		- Keep 'em Guessing
+		- Okizeme
+		- Interrupting
+		- Machi or Turtling
+- Weakness
+- Versus CPU Characters
+- Versus Human Characters
+- *From All Over The Internet* Special Section
+- Misc. Info
+	- Bio/Storyline
+	- Stance Descriptions
+- Where To Find This FAQ
+- Conclusion
+- Credits (and Thanks)
+
+
+-----------------------------------------------------------------------------
+Introduction
+------------
+
+As this is my first attempt to write a FAQ I hope that it will prove to be  
+useful to some of you.  I feel that G.Jack has not been given the attention
+he deserves so this is my way of showing *some* of his capabilities.  Be
+that as it may if I made any mistakes please let me know.. I would hate to 
+confuse anyone out there.   
+
+Why should you play (or try out) G.Jack?  Well, he's big, slow, ugly, shaped 
+like a gorilla, and he makes funny noises (*gwark*, *gwark*).  Not the kind 
+of character one immediately falls "head-over-heels" for... But! ...He has 
+range and power.  Devastating power!  As it turns out he can be an 
+interesting character to play with too... but you'll have to keep reading. :)
+
+It should be noted that my experience with G.Jack is casual at best.  I am
+not a "professional" G.Jack player (or a professional Tekken 3 player by any 
+stretch of the imagination) and this FAQ will reflect that.  Thus it will 
+primarily stick to the basics and beginner strategies.  The bulk of my "Jack" 
+knowledge is derived mainly from Tekken 2.  Fortunately, Gun Jack embodies 
+all that is "Jack-2" with a little bit of "P.Jack" and "Ganryu" thrown in for 
+good measure (which I noted).  I'm certain those of you who played Jack-2 
+extensively will have no trouble adapting to G.Jack.
+
+This FAQ was written using "edit.com" (i.e. best viewed/printed in monospace 
+format). 
+
+
+-----------------------------------------------------------------------------
+Revisions
+---------
+
+Version 1.0 - preliminary version of FAQ
+Version 1.1 - fixed up some grammer, punctuation, etc.
+            - added Russell Reynolds' comments to *From All Over The
+              Internet* section 
+            - made some clarifications to moves (thanks Russell)
+
+
+-----------------------------------------------------------------------------
+Conventions
+-----------						
+
+G.Jack - Gun Jack (duuuh... )
+d - down
+u - up
+f - forward
+b - back
+lowercase letters - tap stick 
+uppercase letters - hold stick 
+QCF - quarter circle forwards; circle stick from down to forward
+QCB - quarter circle backwards; circle stick from down to back
+HCF - half circle forwards; circle stick from back to forward
+<HJ> - high jump (hold up)
+"/" - diagonal motion
+"+" - at the same time
+"~" - input second command immediately after first
+"," - one after the other
+"_" - or
+"() and []" - optional input (or follow-up)
+"#" - hold position before button is pressed
+":" - slight pause (in tenstrings only)
+N - neutral position
+(WS) - while standing; return stick to standing position from crouch
+
+1 - left punch         1   2
+2 - right punch         O O
+3 - left kick           O O
+4 - right kick         3   4
+
+
+-----------------------------------------------------------------------------
+General Moves
+-------------
+
+d/f+1 - uppercut  
+d/f+2 - uppercut (juggles)
+d/f+3 - side kick
+d/f+4 - front kick
+(WS)+2 - uppercut (juggles)
+(WS)+3 - rising spin kick 
+(WS)+4 - rising front kick
+
+f,f - dash forward
+b,b - dash backwards
+(u,N)_(d,N) - sidestep
+1+2+3+4 - charge gives block damage and major counters
+f+2+4 - right reversal escape
+f+1+3 - left reversal escape 
+(u/b_u_u/f) - low jump
+(U/B_U_U/F) - high jump
+<jump>,(1_3_4) - jumping attack
+<HJ>+(1_3_4) - high jumping attacks
+<HJ-before landing> 3 - landing sweep
+<HJ-before landing> 4 - landing sidekick
+(u_uf)+2 - quick pounce
+U+2 - hard pounce
+f,f,f - run
+  shoulder ram - more than half a screen away and opponent standing
+  stomp - more than half a screen away and opponent lying
+  tackle - less than half a screen away and opponent standing
+      2,1,2,1,2,1 - after mounted tackle
+      2+4 - tackle dodge during impact
+      d+1+2 - tackle reversal during fall
+      d+1_2 - tackle punch counter and kickoff (during mounted punch)
+  B - stop running
+  1+2 - flying cross chop
+  3+4 - head first dive
+
+
+-----------------------------------------------------------------------------
+Recovery Moves
+--------------
+
+any button (as soon as you hit ground) - quick-recover              
+D+1 - roll over
+D+1+2 - "Get Up Punch"
+1 - roll sideways
+u - stand up
+3 - rising sweep
+4 - rising high kick
+f - roll forwards
+b - roll backwards
+
+Recovery moves can also be chained together such as:
+1,b,3 - roll sideways, then backwards, then get up with a sweep
+
+
+-----------------------------------------------------------------------------
+Special Moves
+-------------
+
+Throws: Front
+
+Name{Escape}            Motion         Damage     Comments 
+
+Body Slam{1}            1+3              35      from Ganryu 
+Lift Up Slam{2}         2+4              30         
+Piledriver{1+2}         d/b,F+1+2        58
+Backbreaker{2}          QCB+2            45
+Pyramid Driver{1}       QCF+1            40
+Catapult{2}             D/F+2+4          30      juggles
+Modified Catapult{2}    d/f,D/F+2+4      30      juggles
+Punishment Drop{1},     U/F+1+2,         33      from P.Jack
+(Megaton Blast)         (d,D/F+2)        60      from P.Jack
+Slap Down{2}            D/B+2+3          32      from P.Jack
+Jaw Breaker{2}          f,F+2+3          35      from Ganryu
+Hell Press,             D/F+1+3,         25      stuns if blocked
+(Hammer) or             (1+2) or         10
+(Megaton Sweep)         (b,d/b,d,D/F+1)  29?
+
+Throws: Side, Back
+
+Modified Death Shot{1}  1+3 or 2+4       40      left-side
+Flipping Choke Slam{2}  1+3 or 2+4       40      right-side
+Spinal Crush            1+3              30,40   back-side
+Death Shot              2+4              70      back-side
+
+Special Techniques:
+
+Name             Motion        Hit Level    Damage         Comments
+
+Hell Press       d/f+1+3         M          20          missed throw attempt
+Get Up Punch     D+1+2           M          12             while lying
+Hammer Combo     1,1,1           H,H,M      18,15,18
+Punch Combo      2,1,2           H,M,M      12,21,20        juggles
+Double Hammer1   1+2,1+2         M,M        21,22
+Double Hammer2   (WS)+1+2,1+2    M,M        21,17
+Fast Uppercut    (WS)+1          M          20
+Scissors,        f,f+1+2,        M          22
+(Low Scissors)   (1+2) or        L          15
+(Megaton Hit)    (d/f+2)         M          25
+Palm Lift        D#+1+2          L          21             from Ganryu
+Low Scissors     D#,d/f+1+2      L          21
+Wild Swing       D#,d/f+1,2,1,1  H,M,M,H    12,15,15,30     
+Hammer Rush 1,   D#,d/f+2,       M,         10,
+(L_M_H ending)   (D_D/F_F)+1     L_M_H      8_10_12
+Hammer Rush 2    D#,d/f+2,1,2    M,M,M      15,10,15
+Hammer Rush 3,   D#,d/f+1,2,     M,M,       15,12,
+(L_M_H ending)   (D_D/F_F)+1     L_M_H      8_15_12
+Hammer Rush 4,   D#+1,1,1,2,     L,L,M,M,   10,8,12,
+(L_M_H ending)   (D_D/F_F)+1     L_M_H      8_15_12                 
+Megaton Strike   D#+1,2          L,M        10,25
+Upper Rush 1     D/F+2,1,2,      M,M,M,     15,10,15,        juggles
+(L_M_H ending)   (D_D/F_F)+1     L_M_H      8_15_12
+Upper Rush 2     D/F+1,2,1,2     M,M,M,M    15,12,15,12
+Bravo Knuckle    d+1+2           M          45               juggles
+Megaton Sweep    b,d/b,d,D/F+1   L          29
+Megaton Blast    b,d/b,d,D/F+2   M          40
+Megaton Upper    HCF,D/F+1       M          22          from P.Jack (juggles)
+Palm Strike      d/f+2+3         L          12           from Ganryu(juggles)
+Sumo Stomp       d+4             M?          ?               from Ganryu
+Revolver         D,d/b+1,1,1,2   L,L,L,M    18,25,25,40 P.Jack's "Machinegun"
+Machinegun       d/b+1,1,1,      L,L,L,     15,15,15,
+		     1,1,2       L,L,M      15,15,40
+Cossack Dance    D/B+3,4,3,      L,L,L,     18,12,10,      
+		     4,3,4       L,L,L      12,12,12
+Hip Press        u/f+3+4         M          26
+Head Slide       f+3+4           M or L     25           from P.Jack (depends  
+							    on distance)
+Sit Down,        d+3+4,          --         --               evasion move
+(Hip Press)      (3+4)           M          26              
+(Roll B_F)       (B_F)           --         --               evasion move
+(Sit Punches)    (1,2,1,2) or    L,L,L,L    10,10,10,10 
+		 (2,1,2,1)       L,L,L,L    10,10,10,10
+				
+Unblockables:
+
+Dark Cutter        f+4~1         H       101          from P.Jack
+Dive Bomber,       3+4,          --              
+(Hopping Delay)    (3+4),(3+4)   --      60           from P.Jack
+Gigaton Punch (5x) HCF(5x)+1     M       20,          unblockable
+				    (40,60,80,199)      after 3x  
+
+Tenstrings:
+
+Motions                            Hit Level             Damage
+
+D+2:1:1:1::2:1::21::1+2:1+2        L,L,L,M,M,H,M,M,M,M     ?
+D+2:1:1:1::2:1::21::d+1+2:1+2      L,L,L,M,M,H,M,M,L,M     ?
+u/f+11:4::3::4::1::2::1:1+2:1+2    M,M,L,L,L,M,M,M,M,M     ?
+u/f+11:4::3::4::1::2::1:d+1+2:1+2  M,M,L,L,L,M,M,M,L,M     ?
+
+Note on Damage: 
+
+(from a post by -MG- <matthew@bitscorp.com> on rgva)
+"AFAIK the 'normal' damage settings are:
+/100 in 1-player
+/140 in 2-player
+
+e.g. King's multi that ends in the rolling death cradle does 120
+damage points total, which is why it will kill the CPU before it's
+even finished, but a human opponent is left with a tiny amount of
+energy."
+
+
+-----------------------------------------------------------------------------
+Move Analysis
+-------------
+
+Throws: General
+
+Although you might have some trouble getting close enough to perform many of
+his throws he seems to have better range than most characters (long arms) so
+that helps.  If you want to win, stick with the most damaging throws that 
+allow good follow-ups and require more than one button press to escape (i.e.
+the Piledriver (d/b,f+1+2)).  Don't use the same throw over and over again or 
+your opponent will catch on.  However, if you're playing for fun (or against 
+the CPU), for the sake of variety, mix them up.  He's got some of the most 
+painful and funniest throws in the game... not to mention a large abundance.
+
+Throws: Specific
+
+Hell Press (d/f+1+3) - G.Jack spreads himself out and falls right on top of 
+the opponent.  Must be done up close.. if not G.Jack does not land on top of 
+the opponent and only does a little damage.  Not a terribly good move because 
+it's slow (you'll probably get knocked out of it) and leaves you wide open if 
+you miss.  But there are three good things about it.  It stuns if blocked 
+thus retaliation by the attacker is not easy.  Many times I would perform the 
+Hell Press, they would block it and be stunned, miss their window to counter, 
+which gave me enough time to get up and block (or even interrupt!) their 
+follow-up.  The other good thing about it is that it is inescapable... his 
+only throw that cannot be escaped by a mere press of a button.  Finally it's 
+good because of the follow-ups after a successful Hell Press (you landed 
+right on your opponent).  You can press 1+2 (repeatedly as soon as you land 
+on top of them) for a painful double-handed face bash or b,d/b,d,D/F+1
+after getting up to swipe their prone body.  Both of these follow-ups do 
+great damage and make the Hell Press a worthwhile move to attempt every
+once in a while.  [Note: The Sumo Stomp and Dive Bomber after a successful 
+Hell Press are not guaranteed.]
+
+Body Slam (1+3) and Lift Up Slam (2+4) - G.Jack picks 'em up and slams them 
+down.  Your standard garden variety throws, not a lot of damage (30pts each), 
+not a lot of opportunity for a follow-up (the opponent can get up quickly) 
+but as easy to implement as it gets (press two buttons).  Use wisely against 
+opponents that possess more than just a passing knowledge of throw escapes, 
+they only require one button press to get out.  Their ease of use makes them 
+handy.
+
+Backbreaker (QCB+2) and Pyramid Driver (QCF+1) - Painful throws that are 
+self-explanatory by their name.  The opposite case of the two mentioned 
+above.  These throws do nice damage, give a little opportunity for a follow-
+up (depending on how "brain-dead" your opponent is, maybe a long time) and 
+are fairly easy to implement (one button press) with the exception of a 
+"slightly" complex stick motion (quarter-circle).  I say "slightly" because 
+in the "heat of battle" these stick motions tend to get troublesome.  This 
+is where your "Ryu" experience comes in handy.  Watch out for those one 
+button escapes... mix up these throws for maximum effectiveness. 
+
+Catapult (D/F+2+4) and Modified Catapult (d/f,D/F+2+4) - G.Jack grabs the 
+opponent by the neck and launches them high into the sky.  Spectacular to 
+watch but not terribly effective without a follow-up due to low damage and 
+one button escape.  The Mod. Catapult is a true "juggle starter" so you can 
+add just about anything to it (see juggle section) but if you are having 
+serious troubles with diagonals, forget this one.  Keep in mind for both 
+throws... the opponent is damaged (30pts) when he HITS the ground, not 
+before.  Thus if you want to follow up the Mod. Catapult with 1+2,1+2 (Double 
+Hammer), wait for him to hit the ground.  Otherwise you'll only get the 
+damage from the Double Hammer (approx. 40pts) and miss out on a possible 
+damage rating of approx. 70pts!  This does require a little bit of timing to 
+pull off but once you get it down it'll be imprinted in your brain forever.  
+The Catapult is generally considered the "un-combo-able" one because the 
+opponent drifts too far away (in the air) for a follow-up but that's not 
+entirely true.  For one thing you can add the Hip Press (u/f+3+4) to bring 
+damage up to 60 pts!  Same damage as G.Jack's best throw, the Piledriver, but 
+much easier to implement (practice your diagonals, D/F and u/f).  Beginners 
+take notice... this throw (plus follow-up) is a key basic move (see Basics 
+section).  
+
+Punishment Drop (U/F+1+2) plus follow-up, Megaton Blast (d,D/F+2) - G.Jack 
+picks up the squirming opponent by the neck and slams 'em into the ground.  
+Pretty much a useless throw on its own... mediocre damage, one button press 
+escape.  But with the Megaton Blast follow-up it becomes a different story.  
+After G.Jack picks them up he doesn't throw 'em away, he nails them with his 
+version of Paul's "Deathfist" for a whopping 60pts of damage!  I think that 
+the Catapult-Hip Press combo is better (easier to implement) but this one 
+still gets high regards for its damage.  Another bonus is that the follow-up 
+is inescapable.  If your opponent didn't escape the Punishment Drop then 
+you're all set to deliver serious pain.  
+
+Slap Down (D/B+2+3) - G.Jack grabs the opponent by the shoulders, pulls them 
+toward his chest and slams their face into the ground.  Ouch!  Nothing 
+particularly useful about this throw (low damage, one button press escape) 
+except that the opponent recovers slowly from this one.  But not too slow.  I 
+have yet to come up with a really good follow-up for this one but experience 
+has showed me that the average player tends to frantically mash buttons and 
+jerk the stick in a vain attempt to recover faster.  By doing so they screw 
+up their timing and usually give me the opportunity to interrupt them.  I'm 
+sure this tactic would not work ALL the time (depending on the player) so be 
+cautious with it.  Unless you know your competition sucks.
+
+Jaw Breaker (f,F+2+3) - G.Jack pushes upwards on the opponent's chin and 
+slams them backwards (and hard!) into the ground.  Much like the Slap Down 
+(above), nothing to get really excited about but it has one *very* handy 
+facet.  The initial motion of this throw is f,F which means that this throw 
+can be dash-buffered.  You can dash in (f,f) and by pressing F+2+3 
+immediately throw (if within range).  A very important throw for this reason 
+thus another key basic move. 
+
+Piledriver (d/b,f+1+2) - Pretty self-explanatory in description, I think it 
+should be called the Skull Cracker.  His best throw IMO.  Excellent damage 
+from one move (60pts), rarely escaped (requires two button presses), and 
+G.Jack's recovery is pretty good (for a possible follow-up).  It's biggest 
+problem is the stick motion (d/b,f).  This is not as easy a motion as it 
+looks to implement especially when the clock is ticking and you're low on 
+energy.  Strictly a move for intermediates, beginners should stay away for 
+now.  There are easier methods (see above) to take off 60pts of damage. 
+
+Both Side throws and Back throws - if you get the opportunity to use them... 
+go right ahead.  You'll be glad you did.  They are very damaging and painful 
+looking.  Don't throw caution to the wind... make sure you're close enough to 
+perform these throws or you will eat an attack while you are grabbing air.  
+Don't forget that the side-throws are escapable and the back-throws aren't.  
+The Death Shot (2+4 from behind) is nice because it can set up the opponent 
+for a Shoulder Ram (if the throw doesn't kill them outright).  If you are 
+attempting to side-throw your opponent by side-stepping be careful.  You can 
+be left in a very vulnerable position.  Side-stepping is dangerous, requires
+timing, and is not recommended.  For someone like Jin who can Tooth Fairy off 
+the sidestep you'd be a fool not to use it... but for G.Jack, don't bother. 
+
+Moves: General
+
+In general you will find that his moves have range, power (duuuh), and some 
+are actually quite quick.  Try to stick with these.  Quite often the 
+execution of a move or string changes position (from standing to crouch) that 
+may allow the use of another move or string.  It's good to be aware of this 
+as well.  Also keep in mind which moves have poor recovery, slow execution, 
+complex stick/button motions, etc. and use them with caution or if you really 
+know what you're doing.
+
+Moves: Specific
+
+Get Up Punch (while lying press D+1+2) - While lying on his back G.Jack will 
+sit-up, swing his arms forward, and hit you (if you're close enough... range 
+of this move is short).  Other than the fact that it is unique to G.Jack and 
+Kuma (I think) it is pretty forgettable.  Not essential to your game-plan but 
+nice to mix up a fight with and handy if someone is trying to okizeme you to
+death.  
+
+Hammer Combo (1,1,1) - G.Jack swipes high twice and then once at medium 
+level.  If you want to lose matches, use this move.  It can be ducked, 
+interrupted, blocked, reversed, and broken quite easily by just about anyone.  
+WAY too many people abuse this move when his best punch combo (called the 
+Punch Combo) is right under their noses.  It's only redeeming factor is the 
+nice damage it causes (if all hits connect... not likely).  Strictly a move 
+to use against complete idiots (or the CPU).    
+
+Punch Combo (2,1,2) - G.Jack shoots out a quick (high) jab with his right, an 
+unreverseable elbow (mid) with his left, and an uppercut (mid) that juggles 
+the opponent.  Folks, they don't get much better than this.  It does great 
+damage on its own, is a great juggle starter, the elbow is guaranteed to hit 
+if the jab connects, and it's totally under-used.  It's only problems are:  
+The first hit is high (but it's quicker than the Hammer Combo) and the 
+uppercut comes out a bit slow after the elbow so it can be blocked even if 
+the elbow connects (not certain about this though).  Otherwise this is a key 
+basic move.  Something else that proves useful about this move is if you hold 
+"down" while performing this move you will end up in a crouched position 
+after the upper which allows you to use various moves from a crouch position 
+(Wild Swing, Megaton Strike, Hammer Rush, ten-strings, etc.).  There are 
+other moves that do this as well (they are noted... more on this in 
+Intermediate section).   
+
+Double Hammer1 and 2 (1+2,1+2 and WS+1+2,1+2) - G.Jack clasps his fists 
+together and swings them twice in separate vertical motions depending on 
+which position you're in.  Another bread and butter move.  Nice damage, good 
+speed, easy to do... recovery is not too nice though.  Still, these are key 
+basic moves.  Don't abuse them though, your opponent will catch on and 
+reverse you (or at the very least block them and counter-attack).  (1+2,1+2) 
+represent your basic juggle attacks (if you don't feel like using anything 
+more complicated) and (WS+1+2,1+2), when used in combination with other moves 
+(that hit low or mid), are really effective to keep your opponent guessing 
+what you will do from a crouched position (more on this in Intermediate 
+section).  A single Hammer (1+2) is useful to: knock down an opponent that 
+starts his moves from too far away (set up a little okizeme) and to keep an 
+opponent down (if they flinch while on the ground in front of you this will 
+hit them back down).  
+
+Fast Uppercut (WS+1) - While standing G.Jack hits the opponent (mid) with his 
+left arm for a juggle.  As far as juggles go this one is great because it 
+allows many follow-ups (as most juggle starters do).  Unfortunately, G.Jack 
+seems to recover a bit slow from this move.  Also, this move is effective for 
+its quick execution and the crouched "guessing game" it creates (see above).
+
+Scissors (f,f+1+2) with follow-ups: Low Scissors (1+2) and Megaton Hit 
+(d/f+2) - Pretty self-explanatory move in description.  Another key basic 
+move that's got it all.  Great damage, changes levels (depending on 
+follow-up), quick, and can be dash-buffered.  With the Scissors alone the 
+opponent is knocked down in front of you so you can set up a little okizeme.  
+Adding a Low Scissors or a Megaton Hit can confuse opponents because of the 
+level change (low/mid) and throw off their timing (the Megaton Hit is a bit 
+slower than the Low Scissors).  Mix up these two to really frustrate your 
+opponent but don't overuse them or your opponent will block them and counter-
+attack.  It's easy for your opponent to counter-attack after you use the Low 
+Scissors (if blocked) but the Megaton Hit seems to push them back a bit so 
+retaliation is not as easy (unless they reverse the Megaton Hit).  That's why 
+mixing up these moves is essential to an opponent with a fair degree of 
+skill.
+
+Palm Lift (D#+1+2) - While crouching G.Jack will swipe with both arms in an 
+upward motion.  Another key basic move.  This one hits low, nice damage, easy 
+to implement, fairly quick, knocks the opponent far away (if it's not 
+blocked... this sets up a Shoulder Ram), and creates that "guessing game" I 
+was talking about earlier.  Use this in combination with other low and mid 
+hitting moves for maximum effect.  Recovery is pretty ugly though (if 
+blocked) so use in moderation.     
+
+Low Scissors (D#,d/f+1+2) - Same as Low Scissors above except this is a "move 
+on its own".  Not much need to bother with this one.  Stick with the Palm 
+Lift because the Low Scissors is not easier to implement, not quicker, does 
+not knock a blocked opponent far away, and tends to miss where most low 
+attacks don't.  Do you need any more reasons to forego this move?
+
+Bravo Knuckle (d+1+2) - G.Jack clasps his fists together, hunkers down, and 
+jumps up a little swinging his arms in a powerful upward motion.  This is 
+G.Jack's most powerful non-counterhit attack and it is a juggle starter.  As 
+far as juggle starters go this is one of his best because it is so easy to do 
+and the damage is rather huge.  Its problems lie in its recovery... slow.  If 
+you whiff this hit or are blocked prepare to be hurt.  The slow recovery also
+affects the number of follow-ups you can do after it.  Use this move 
+carefully.  As an added bonus, the initial motion of the move has G.Jack 
+"hunkering down".  This ducks under many high attacks which is quite good.  
+Another key basic move but not to be overused. 
+
+Megaton Sweep (b/d/b,d,D/F+1) - G.Jack swipes low with one fist in a powerful 
+motion.  His momentum spins him right around and back to his original 
+position while the opponent (if hit) goes flailing off like a leaf on a 
+breezy day.  This is a nice move but not one beginners should attempt to 
+undertake at all times.  First off, it's stick motion is complex.  You really 
+have to have a good "feel" for the sticks to nail this move 100%.  Second, 
+although it comes out fairly quick it is hampered by long recovery.  If you 
+whiff this move you're in big trouble.  If it's blocked, you'll eat less 
+damage then a whiff if you're lucky.  Third, it doesn't have the greatest 
+reach (not like Law's Dragon Sweep... a move that is much easier to 
+implement).  It does catch many opponents off-guard who mis-judge the reach 
+of it however.  So what's good about this move?  It's great as a follow-up... 
+throws, juggles, after a knockdown... even I was surprised by the many ways I 
+could implement this move.  A simple dash back into an immediate Megaton 
+Sweep does wonders.  If you don't abuse this move too often most people will 
+not block low when the motion of the move initiates... they will use a 
+standing block to protect themselves from, what they think is, a Megaton 
+Blast (b,d/b,d,D/F+2) which hits mid.  Mix these up.  This move is also an 
+example of "hold down during move, end up in crouched position" which allows 
+you to use crouch moves (G.Jack has many) right away and to avoid high 
+retaliations from an opponent that has blocked or evaded your attack.
+
+Megaton Blast (b,d/b,d,D/F+2) - G.Jack crouches slightly (like the Megaton 
+Sweep), leans forward and shoots out a straight right (mid) that pummels the 
+opponent for awesome damage.  As a counter-hit I believe this is his most 
+powerful move.  As a regular move however the Bravo Knuckle inches ahead of 
+it.  This move compliments the Megaton Sweep as it hits low and the Blast 
+hits mid.  Careful use of both of these moves can seriously damage your 
+opponent.  However, the Blast suffers from the same problems as the Sweep.  
+Complex stick motion (same as Sweep), not the greatest reach (it should be 
+noted that the reach is better than the Sweep.  However when I say "bad" 
+reach I mean compared to other characters that have a similar move (i.e. the 
+Deathfist).  G.Jack can not crouch-dash for reach like the Deathfist can.), 
+and a long recovery (although a blocking opponent is pushed back a fair 
+distance).  This move also has the good aspect of the Sweep... "hold down for 
+immediate crouch".  As I mentioned for the Sweep, mix these up.    
+
+Megaton Upper (HCF,D/F+1) - I only discovered this move a short while ago (on 
+a moves list) and even then, I'm not sure if G.Jack has it in his arsenal 
+(haven't tried it yet myself).  Assuming he does have it I'll say this about 
+it (with reference to P.Jack from TK2).  The good: it's a juggle starter, it 
+launches the opponent high into the air (allow more follow-ups).  The bad:  
+Long execution time (your opponent will see this coming).  The ugly:  
+G.Jack's most complex and longest stick motion (ignoring unblockables for a 
+moment).  I can't imagine how anyone can regularly get this move off 100% 
+when they want it in the "heat of battle" and on joysticks that are possibly 
+screwy due to mashers.  You'd have a hard time to convince me to use this 
+one regularly.
+
+Palm Strike (d/f+2+3) - G.Jack pulls back his right hand and hits their 
+ankles?  feet?... with the palm of his hand (low).  Although this move is a 
+tad slow to execute you save time with the simple motion (assuming you can 
+hit your diagonals... easier said than done, I know).  It hits low to knock 
+the opponent down (right in front of you) for minimal damage but nice follow-
+up possibilities.  I like this move alot to keep opponents on their toes (or 
+blocking low) but I can't recommend it to beginners because its range is not 
+the greatest and it is not a move done from a crouch.  You must be standing 
+up.  Standing up in front of your opponent with a weak, slightly slow, low 
+range move is not a good thing for beginners.  Stick to the Palm Lift for 
+now.  This move also encompasses the "hold down for immediate crouch".  
+
+Sumo Stomp (d+4) - Pretty self-explanatory in description.  Don't use this 
+move... it's the slowest move in his arsenal with pathetic range.  The fact 
+that the damage is nice makes no difference.  Any brain-dead, cracked-up, 
+half-assed dork can still back-out from this move.  The only way this move 
+will hit anyone is in a juggle... and it has to be a HIGH juggle (like Mod. 
+Catapult or Megaton Upper).     
+
+Machinegun (d/b+1,1,1,1,1,2) - G.Jack pulls back his right hand, jabs a few 
+times with his left and then unleashes the right.  Another useless move, 
+overused by beginners, and easily destroyed.  The range on the left jab(s) 
+is really bad.  You might get the first one to connect but forget about the 
+rest.  Anyone that sees this coming gets out of the way and prepares to 
+retaliate unless you're playing against a total newbie to the game in which 
+case the right hand hits them.  After that you'll be hard pressed to hit him 
+again with the same move.  You don't have to unleash all five jabs to get the 
+blast though.  Only three.  Whoopty-doo... this does little to help this 
+pathetic move.  The only redeeming factor about this one is the first jab.  
+It's quick, does more damage than a regular jab, so I use it in juggles every 
+so often.  That's it. 
+
+Cossack Dance (D/B+3,4,3,4,3,4) - G.Jack assumes a "Russian Dance" as he 
+kicks out six times.  Same as above.  No range, overused, easily destroyed, 
+first hit comes out quick and does surprisingly good damage (therefore use in 
+a juggle or on a fallen opponent close to you every once in a while).  Need I 
+say more?  Well, I'll say this much.  It moves forward and I've played 
+against plenty of newbies that ate the whole thing (it's quite damaging) so I 
+guess it serves some purpose.       
+
+Punch Rush's from a crouched or standing position - He's got nine altogether, 
+seventeen if you count different endings (low/mid/high).  Many of them are 
+the same and aren't terribly useful due to slowness and low damage.  Let's 
+look them over quickly:     
+
+Revolver (D,d/b+1,1,1,2) - This is P.Jack's version of the Machinegun.  He
+stands more upright, the range is shorter, and his hand wobbles a bit.
+Although this is G.Jack's most damaging string it is hampered by poor range 
+and a more complicated stick motion (than the regular Machinegun).  Even
+more useless than Machinegun.
+
+Wild Swing (D#,d/f+1,2,1,1) - G.Jack swings his arms forward in an awkward 
+motion (three times).  The final hit is a high backfist.  I like this one for 
+its forward motion and speed.  What I don't like about it is that it starts 
+high and that the backfist is usually blocked, ducked, or reversed.  Stick 
+with the three windmill punches and remember that they stun if blocked.  Can 
+be useful.
+
+Hammer Rush 1,(L_M_H ending) (D#,d/f+2,(D_D/F_F)+1) and Hammer Rush 2 
+(D#,d/f+2,1,2) and Hammer Rush 3,(L_M_H ending) (D#,d/f+1,2,(D_D/F_F)+1) - 
+All three of these are pretty much identical looking and pretty much useless.  
+They're slow, they don't stun if blocked, they don't juggle, they don't 
+damage much, they are reversed easily (but not easy to reversal-break because 
+it's hard to tell which punch was reversed since they all look the same).  
+Their only redeeming quality is the level change at the end... but this 
+exists on better Rush's like Hammer Rush 4 and Upper Rush 1.  
+
+Hammer Rush 4,(L_M_H ending) (D#+1,1,1,2,(D_D/F_F)+1) and Megaton Strike 
+(D#+1,2) - Here are two key basic moves.  Hammer Rush 4 hits low twice than 
+mid twice followed by your choice of high/mid/low.  In Tekken 2 it was good 
+to use on its own and it still is in Tekken 3.  But with the existence of 
+low-breaks in Tekken 3 its effectiveness has been reduced.  That is why it 
+is best to use this Rush in juggles and in combination with the Megaton 
+Strike.  The Megaton Strike hits low once and follows up with a right hand 
+Megaton Blast that hits mid.  Two very useful moves that compliment each 
+other well.  The Megaton Strike is an excellent little two-hitter in juggles 
+as well.
+
+Upper Rush 1,(L_M_H ending) (D/F+2,1,2,(D_D/F_F)+1) and Upper Rush 2 
+(D/F+1,2,1,2) - Although these Rush's look the same at first glance there is 
+an important difference.  Rush 1 juggles (first hit), hits mid three times 
+with your choice of low/mid/high for the final hit (not all hits connect if 
+the juggle connects though).  Rush 2 hits four times mid, no juggle.  Guess 
+which one is a key basic move?  Rush 1!!  As a bonus Rush 1 (and 2) are good 
+because they are the only of all the Rush's (includes Hammer Rush's) to be 
+initiated from a standing position.  As a matter of fact I use the first move 
+(or two) of Rush 1 as a juggle starter and add various follow-ups to increase 
+damage (among other things).   
+		
+Hip Press (u/f+3+4) - G.Jack hops forward, landing on his butt, and somehow 
+hitting his opponent (mid).  A useful follow-up move for knock-downs and 
+juggles but easy to get hit out of and very dangerous if whiffed.  A key 
+basic move that you have to know when to use it and when not to.  If you hold 
+back or forward you will roll (slowly) in that direction.  If you press 
+(1,2,1,2) or (2,1,2,1) when he lands you will scoot your butt along the 
+ground and punch the kneecaps of the opponent (if within range).  You can 
+follow the sitting punches up with a roll back or roll forward as well.
+
+Sit Down (d+3+4) - G.Jack drops to his butt.  As a means of evasion this will 
+"duck" high attacks... but there are better ways to do this (simply press d+2 
+or d+1).  If (3+4) is pressed again G.Jack will hop into the Hip Press (same 
+as above).  If you hold down after the Sit Down you will stay down, if you 
+don't you will get up.  Once seated you can roll back or forward and/or use 
+Sit Punches (same as above).  It's not likely you'll find too much use for 
+these moves but they do contribute to confusing your opponent.  In higher 
+levels of play, moves like these would be suicide.  If all four Sitting 
+Punches connect that's 40pts of damage, a nice chunk of a lifebar, but they 
+are easily blocked or evaded and then punished.  Don't abuse this.          
+
+Head Slide (f+3+4) - G.Jack dives forward knocking down his unblocked 
+opponent (low at far range and mid at shorter range).  I want to like this 
+move but it's awfully dangerous.  After the dive, G.Jack simply takes forever 
+to get back up.  Damage is not too bad but it's not worth it to use this move 
+unless your opponent has little energy (end the round with this move).  It's 
+execution is fast though.  It's not likely that many people will be able to 
+see this one coming.  I have found the correct distance to use this move if 
+you are not using it to end the match with.  It's at a "middle" distance 
+(hard to describe).  At this distance the opponent is knocked down and AWAY 
+from you.  From long and short range the opponent falls too closely to you 
+and can retaliate.  If you own a Sony PlayStation with Tekken 2, pick P.Jack 
+and find this distance I'm talking about (in practice mode) and you'll see 
+what I mean.  
+
+Unblockables:
+
+Dark Cutter (f+4~1) - Sparks fly around G.Jack's upper body as he takes a few 
+steps forward and seemingly makes a weak tap down with the palm of his hand.  
+Seemingly weak... in actuality this move takes off about 90% of a lifebar.  
+Pretty easy to see coming so don't expect to hit with this often. 
+
+Dive Bomber (3+4,[3+4],[3+4]) - G.Jack takes off into the air and then lands 
+with tremendous force.  Pressing (3+4) a couple more times extends your 
+flight (he "hops" in the air) for a bit more distance.  Good luck trying to 
+get this one to connect.  It's only guaranteed (one press of 3+4) after a 
+Hell Press as far as I can tell.  If you miss the opponent two things can 
+happen: 1) you'll land in front of the opponent without time to recover so 
+you'll get destroyed and 2) you'll land behind the opponent and get destroyed 
+even worse (by a throw, ten-string you can't break out of, etc.).  Just don't 
+use this move (except after a Hell Press).    
+
+Gigaton Punch (HCF+1) - G.Jack "winds up" his arm and lets it loose.  You can 
+wind up this move 5 times if you don't press the punch button and continue 
+rotating the stick.  After 3 times the punch is unblockable with the fifth 
+wind up meaning instant death.  This move is useless to say the least.  It 
+wouldn't be so bad if the initial punch (after one wind up) did more damage.  
+As it stands this move is completely useless to use and shouldn't be 
+attempted unless you're completely bored out of your mind.
+
+Tenstrings:
+
+(D+2:1:1:1::2:1::21::1+2:1+2) and (D+2:1:1:1::2:1::21::d+1+2:1+2) -  Not bad 
+as far as ten-strings go.  The first three hits are low so be aware that your 
+opponent may use a low counter.  After that all the opponent has to do is 
+stand still and block the rest (all mid with one high attack).  That's why 
+it's good to mix these up because the second last hit of the second ten-
+string hits low and usually surprises your opponent.  If they're blocked 
+you're in trouble.  The first ten-string ends with a Double Hammer and the 
+second ten-string ends with a Bravo Knuckle.  Both of these endings leave you 
+open to counter-attack.  I've used these strings after a juggle with some 
+success.
+
+(u/f+11:4::3::4::1::2::1:1+2:1+2) and (u/f+11:4::3::4::1::2::1:d+1+2:1+2) - 
+Forget these two and use the first two.  Why?  To start these strings you 
+have to hop forward.  To start the first two strings you just have to hold 
+down (which gets you under high attacks and sets you up for all the low moves 
+that G.Jack has).  I always get knocked out of the hop (by good players, bad 
+players, CPU, whatever...).  As with the first two, they can be mixed up (one 
+has a low hit the other hits mid) and end the same way (Double Hammer for 
+one, Bravo Knuckle for the other).   
+
+
+-----------------------------------------------------------------------------
+Combos: Juggles, Misc.
+----------------------
+
+This is one of my favorite aspects of the Tekken series and G.Jack is no 
+slouch when it comes to juggling.  He may not be able hit you 5 or 6 times in
+the air like Nina can but his power and simplistic moves make up for it.  
+Many of his juggle combos require 2-3 moves (4 at most!) and do excellent 
+damage.  Did I mention variety.. yep, he has some, so you won't get bored too 
+quickly experimenting with his juggles.  Keep in mind that some of his 
+juggles (listed below) are not guaranteed and not all hits connect.  
+
+Juggle Starters:
+
+The obvious place to begin.  His juggle starters are the most interesting of   
+Tekken 3 because of their variety IMO.  They are:
+
+Catapult (throw) (D/F+2+4) - juggles high and away from you (does no damage 
+			     on its own until opponent hits ground).
+Modified Catapult (throw) (d/f,D/F+2+4) - juggles high and closer to you 
+					  (does no damage on its own until 
+					  opponent hits ground).
+Megaton Upper (HCF,D/F+1) - juggles high.
+Bravo Knuckle (d+1+2) - juggles mid height, most damaging and close.
+Fast Uppercut (WS+1) - juggles mid and away from you.
+Reverse Hammer (WS+1+2) - juggles low and close. 
+"While-Standing" Uppercut (WS+2) - juggles low and away.
+Punch Combo (2,1,2) - last hit juggles low and close.
+Upper Rush 1 (L_M_H ending) (D/F+2,1,2,(D_D/F_F)+1) - first hit juggles low 
+						      and away.      
+Palm Strike (d/f+2+3) - not a juggle in the strictest sense of the word, but 
+			this move knocks the opponent down in front of you 
+			where you can follow-up a bit before (or while) they 
+			hit the ground. 
+
+Juggle Enders:
+
+Almost every juggle can be ended with a Hip Press (u/f+3+4) or a Head Slide
+(f+3+4) with the Hip Press doing more damage, quicker recovery, but having 
+less range.  At close range an effective ender is one Cossack Kick (D/B+3) 
+and at mid range the Megaton Sweep (b,d/b,d,D/F+1) is quite good.  Both deal 
+a great amount of damage if they connect.  However, these enders are not 
+always guaranteed and should be used with caution (especially the Head 
+Slide because of its poor recovery).  Experiment with them.
+
+Juggle Combos: Simple:
+
+These combos are a "must" for beginners.  They are easy to do (relatively) 
+and range from fair to excellent damage.  
+
+D/F+2+4,
+(Note: time these moves to hit upon opponent's impact to ground)
+   u/f+3+4                                                  
+   f+3+4
+ 
+d+1+2,
+   U+2(pounce)
+   u/f+3+4
+   1+2,1+2                
+   1+2, u/f+3+4
+   D#+1, D+1,2
+   D#+2, D+1,2      
+     
+(WS)+1,
+   1+2,1+2                
+   1+2, u/f+3+4
+   f+2, 1+2,1+2
+   D#+1,1,1,2,D+1
+   D#+1,2
+   D#+1, D+1,2
+   D#+2, D+1,2      
+		 
+(WS)+1+2,
+   u/f+3+4
+   D#+1, D+1,2
+   D#+2, D+1,2      
+
+2,1,2,  
+   1+2,1+2
+   D#+1,1,1,2,D+1 
+   D#+1,2          
+   
+(WS)+2
+D/F+2,[1],[2],
+   D#+1,2          
+   u/f+3+4
+   1+2,1+2
+   D#+1,1,1,2,D+1
+   f+2, D#+1,2
+   
+d/f+2+3,
+   D#+1,1,1,2,D+1
+   D#+1,2
+
+Juggle Combos: Difficult:
+
+These combos are a bit more complex than the ones above because they usually
+require a little bit of timing and/or more complex motions.  Practice makes 
+perfect, right? 
+
+d/f,D/F+2+4, 
+(Note: Use any moves you wish... but you have to time moves (below) to hit 
+upon opponent's impact to ground if you want to get the damage from the 
+Catapult (30pts))   
+   d+4     
+   d+1+2           
+   u/f+3+4         
+   f+3+4        
+   D#+1,2
+   b,d/b,d,D/F+1   
+   b,d/b,d,D/F+2   
+   D+1+2
+   D,d/f+1+2       
+
+HCF,D/F+1,
+   1,1, u/f+3+4
+   d+1+2
+   f+2, d/f+1+3
+   1+2,1+2
+   (WS)+1+2,1+2
+   u/f+3+4
+   b,d/b,d,D/F+1
+   b,d/b,d,D/F+2,
+   d+4
+   f+2, 1+2,1+2
+   D#+1,1,1,2,D+1
+   D#,d/f+1,2,1
+   D#,D/F+(1,2,1)_(2,1,2)
+   3, u/f+3+4
+   f+2, f+2, f+3+4
+   D+2,1,1,1,2,1,2,1,1+2,1+2 (tenstring)       
+
+d+1+2 
+   b,d/b,d,D/F+1
+   D#+4, D#+1,2     
+   d/b+1, D#+1,2
+   f+2, d/f+1+3
+   D#+2, (WS)+1
+   D#+1, (WS)+3
+   1+2, b,d/b,d,D/F+1
+   1+2,1+2, b,d/b,d,D/F+1            
+   D/B+3,4,3          
+   D/B+3, b,d/b,d,D/F+1
+
+(WS)+1,
+   f+2, f+2, u/f+3+4
+   f+2, f,f+1+2,1+2
+   2, b,d/b,d,D/F+1
+   D#+1, D+1,2
+   D#+4, D#+1,2     
+   d/b+1, D#+1,2
+   
+2,1,2,  
+   D#+2, (WS)+1
+   D#+2, 1+2,1+2
+   d/f+1+3         
+   D#+4, D#+1,2     
+   D#+1, D#+1,2
+   D#+2, D#+1,2      
+   
+(WS)+2
+D/F+2,[1],[2],
+   f+2, f,f+1+2,1+2
+   f+2, 1+2,1+2
+   2, b,d/b,d,D/F+1
+   d/b+1, D#+1,2
+
+d/f+2+3,
+   D#+1,2, u/f+3+4            
+   D#+1, D+1,2
+
+Misc. Combos:
+
+These combos are sometimes not even combos at all (i.e. they can be escaped) 
+but they tend to work from time to time.  This list also includes combos that 
+aren't derived from juggles.  
+
+b,d/b,d,D/F+2,
+   U+2(pounce)
+   b,d/b,d,D/F+1
+   u/f+3+4
+   f+3+4
+D/B+2+3(throw), D/B+3,[4],[3] ...
+f,f+1+2,
+   f+3+4  
+   u/f+3+4  
+   b,d/b,d,D/F+1                  
+U/F+1+2,d,D/F+2(throw), f+3+4                
+QCB+2(throw), d/f+1+3(throw),
+   1+2
+   3+4
+   b,d/b,d,D/F+1
+   d+4? 
+
+
+-----------------------------------------------------------------------------
+Strategies
+----------
+
+General:
+
+First off, remember one thing:  G.Jack moves slowly.  If you think that you 
+will win all your matches by evasion (dodging, dashing back, dashing in, 
+etc.) then you are dog-meat (or scrap-metal in G.Jack's case).  It's very 
+important that you learn *how* to block and *when* to counter.  This is 
+G.Jack's best defense since he has no reversals and no combo-breakers (low or 
+high).  The best way to do this is to learn everyone.. but this is not 
+practical for many of you so just keep practicing and stick to what works 
+(the basics).   
+
+The Basics:
+
+You must capitalize at every opportunity!  I can't stress this enough.  It's 
+so easy to just stand there and block but you have to open up your guard and 
+throw out a move or you'll never win.  Here are moves you should be using as 
+a beginner (which I outlined in the Move Analysis section):
+
+	Throws:
+
+Name{Escape}            Motion        Damage     Comments 
+
+Body Slam{1}            1+3             35       
+Lift Up Slam{2}         2+4             30         
+Backbreaker{2}          QCB+2           45
+Pyramid Driver{1}       QCF+1           40
+Catapult{2}             D/F+2+4         30      juggles
+Jaw Breaker{2}          f,F+2+3         35      
+
+	Special Techniques:
+
+Name             Motion        Hit Level    Damage         Comments
+
+
+Punch Combo      2,1,2           H,M,M      12,21,20        juggles
+Double Hammer1   1+2,1+2         M,M        21,22
+Double Hammer2   (WS)+1+2,1+2    M,M        21,17
+Fast Uppercut    (WS)+1          M          20
+Scissors,        f,f+1+2,        M          22
+(Low Scissors)   (1+2) or        L          15
+(Megaton Hit)    (d/f+2)         M          25
+Palm Lift        D#+1+2          L          21             
+Hammer Rush 4,   D#+1,1,1,2,     L,L,M,M,   10,8,12,
+(L_M_H ending)   (D_D/F_F)+1     L_M_H      8_15_12                 
+Megaton Strike   D#+1,2          L,M        10,25
+Upper Rush 1     D/F+2,1,2,      M,M,M,     15,10,15,        juggles
+(L_M_H ending)   (D_D/F_F)+1     L_M_H      8_15_12
+Bravo Knuckle    d+1+2           M          45               juggles
+Hip Press        u/f+3+4         M          26
+Head Slide       f+3+4           M or L     25           hit level depends on 
+							     distance
+
+	Tenstrings:
+
+Motions                           Hit Level             Damage
+
+D+2:1:1:1::2:1::21::1+2:1+2       L,L,L,M,M,H,M,M,M,M   ?     
+D+2:1:1:1::2:1::21::d+1+2:1+2     L,L,L,M,M,H,M,M,L,M   ?     
+
+Knowing when to use these moves and their limitations is essential to 
+winning for those of you who are starting off.
+
+	Basic Tactics:
+
+- Mix up your attacks or choose attacks that vary up-and-down to wear down 
+  the defenses of your opponent.
+- When you see an opening attack hard and fast but keep it simple (if your 
+  opponent whiffs a big move, juggle him with a quick juggle starter, 
+  implement your most damaging combo but don't get too fancy because you 
+  could screw it up... keep it simple and damaging (i.e. Bravo Knuckle, 
+  Double Hammer)).
+- Never start a string (or a singular move) from far away (all the opponent 
+  has to do is back off and punish you).
+- Remember how slow you are.  You can't get out of the way of everything so 
+  you'll have to block and wait for an opening.
+- If you can get out of the way (i.e. dash back) then do it.  Your opponent 
+  may whiff a move trying to reach you.
+- Practice.  Get a good feel for your joysticks, buttons, opponents, and 
+  moves (or strings) they repetitively use.
+- If you try one way to get by an attack and it doesn't work, try again with 
+  something else, quite often a successful move by your opponent is used over 
+  and over again until you figure out a way to stop it (or the round ends).
+
+Intermediate Play:
+
+Assuming you have mastered the use of the Basic moves (above) it may be wise 
+to move on to more difficult moves (below) that offer superior damage but 
+higher risk and complexity.  They are:
+
+	Throws:
+
+Name{Escape}            Motion        Damage     Comments 
+
+Piledriver{1+2}         d/b,F+1+2       58
+Punishment Drop{1},     U/F+1+2,        33      from P.Jack
+(Megaton Blast)         (d,D/F+2)       60      from P.Jack
+Hell Press,             D/F+1+3,        25      stuns if blocked
+(Hammer) or             (1+2) or        10
+(Megaton Sweep)         (b,d/b,d,D/F+1) 29?
+
+	Special Techniques:
+
+Name             Motion        Hit Level    Damage         Comments
+
+Wild Swing       D#,d/f+1,2,1,1  H,M,M,H    12,15,15,30     
+Megaton Sweep    b,d/b,d,D/F+1   L          29
+Megaton Blast    b,d/b,d,D/F+2   M          40
+Megaton Upper    HCF,D/F+1       M          22             juggles
+Cossack Dance    D/B+3,4,3,      L,L,L,     18,12,10,      
+		     4,3,4       L,L,L      12,12,12
+Sit Down,        d+3+4,          --         --             evasion move
+(Hip Press)      (3+4)           M          26              
+(Roll B_F)       (B_F)           --         --             evasion move
+(Sit Punches)    (1,2,1,2) or    L,L,L,L    10,10,10,10 
+		 (2,1,2,1)       L,L,L,L    10,10,10,10
+				
+Unblockables:
+
+Dark Cutter        f+4~1         H       101          from P.Jack
+
+Tenstrings:
+
+Motions                           Hit Level             Damage
+
+u/f+11:4::3::4::1::2::1:1+2:1+2   M,M,L,L,L,M,M,M,M,M     ?
+u/f+11:4::3::4::1::2::1:d+1+2:1+2 M,M,L,L,L,M,M,M,L,M     ?
+
+	Intermediate Tactics:
+ 
+- If you hold "down" while performing certain moves you will end up in a 
+  crouched position after completion.  They are:  
+
+Punch Combo (2,1,2) - last hit is mid
+Megaton Sweep (b/d/b,d,D/F+1) - hit is low
+Megaton Blast (b,d/b,d,D/F+2) - hit is mid
+Palm Strike (d/f+2+3) - hit is low
+
+This allows certain advantages:
+
+1. You can immediately use various moves from a crouch position (Wild Swing, 
+   Megaton Strike, Hammer Rush, Palm Lift, ten-strings, etc. G.Jack has many 
+   so this is good).    
+2. A high retaliation by your opponent is likely after a blocked Punch Combo 
+   or Megaton Blast (since they hit mid and must be blocked high).  They will 
+   whiff if you hold down after these moves.  Note:  This won't work with the 
+   Megaton Sweep and the Palm Strike, if they block low, chances are they 
+   will retaliate with a rising or low attack.
+
+More Strategies:
+
+Everyone is unique thus everyone plays uniquely, but here are some general 
+strategies to get you started on the road to success with G.Jack:
+
+	Keep 'em Guessing:
+
+By now you are probably well aware that G.Jack can vary the hit levels of his 
+moves.  This is a good way to wear down the defenses of a blocking opponent 
+and to open up something more damaging.  Listed below are moves that variate 
+between each other well (when crouching, dashing in, etc.).  They tend to 
+have similar stick/button motions and G.Jack's initial animations look 
+similar between them.  
+
+Double Hammer2   (WS)+1+2,1+2    M,M 
+Fast Uppercut    (WS)+1          M         
+Rising Spin Kick (WS)+3          H (careful: can be ducked)
+Palm Lift        D#+1+2          L          
+Low Scissors     D#,d/f+1+2      L         
+(Note: Use these when crouching)
+
+Scissors,        f,f+1+2,        M         
+(Low Scissors)   (1+2) or        L                                   
+(Megaton Hit)    (d/f+2)         M          
+(Note: Use these when dashing in)
+
+Hammer Rush 4,   D#+1,1,1,2,     L,L,M,M,  
+(L_M_H ending)   (D_D/F_F)+1     L_M_H                       
+Megaton Strike   D#+1,2          L,M        
+
+Upper Rush 1     D/F+2,1,2,      M,M,M,     
+(L_M_H ending)   (D_D/F_F)+1     L_M_H     
+
+Megaton Sweep    b,d/b,d,D/F+1   L          
+Megaton Blast    b,d/b,d,D/F+2   M         
+(Note: When retreating I tag 'em with these)
+ 
+D+2:1:1:1::2:1::21::1+2:1+2       L,L,L,M,M,H,M,M,M,M        
+D+2:1:1:1::2:1::21::d+1+2:1+2     L,L,L,M,M,H,M,M,L,M      
+(Note: If they like to block, mix these up)
+
+	Okizeme:
+
+I first heard of this Japanese term back in my VF2 days.  I don't know what 
+the literal translation is but it basically means to "keep down" (on the 
+ground).  IMO Nina is the "Queen of Okizeme" but G.Jack can do it too with a 
+variety of moves.  
+
+Basically any move that hits low can be used for okizeme (as well as many mid 
+and some high attacks).  To keep your opponent on the ground first you have 
+to knock them there.  Subsequently they will attempt to rise.  At this point 
+you get right on their heels and knock them back down again (in their rising 
+animation) before they can stand and block (or retaliate).  Use poking "jab" 
+moves like d+2, d+1 or damaging ones like the Megaton Sweep or Palm Lift.  In 
+doing so you must chase their body around the ring getting as close to them 
+as you can because knock-down moves tend to knock-down "away" from you.  If 
+you don't get close enough after a knock-down then hope for a rising attack 
+of some sort (usually a sweep kick or a high one).  Stay just out of range of 
+it (so that it whiffs) and knock them down again.
+
+Sometimes your opponent will make okizeme easier for you by continually 
+"quick-rising" into your attacks.  Continue punishing them if they continue 
+to quick-rise.  You are trying to teach them a lesson they won't soon forget.  
+However, realize that you will have to get much closer to them if they are 
+going to quick-rise alot.  
+
+One way (that's effective) for your opponent to break out of okizeme is by 
+using an ankle kick (d+4) while lying on back with feet towards.  This is a 
+new move to Tekken 3 so most people (I've come up against) neglect to use it.
+
+Just as a warning... you know how pissed off you get when Nina okizeme's you 
+to death.  If you successfully do this to your human opponent then heed this 
+warning, they will want to physically hurt you in some way.  Don't expect to 
+get a pat on the back when you've just killed someone using okizeme... it's a 
+very frustrating way to lose.  You've been warned (so bring along your 6'2" 
+friends).
+
+Some G.Jack moves that you can use to okizeme are:
+
+To initiate okizeme:
+
+Any move that knocks down
+Any juggle
+Palm strike (d/f+2+3) - one of my favorites
+
+If they are rising (quick-rise, side roll, back roll, rise-in-place, etc.):
+
+Low Jab (d+1) or (d+2) 
+Low Swipe (D#+1)
+Hammer (1+2) 
+Scissors (f,f+1+2) 
+Palm Lift (D#+1+2) 
+Hammer Rush 4  (D#+1,1,1,2,D+1) - not all hits will connect
+Megaton Strike (D#+1,2)
+D+2:1:1:1::2... - only the first few hits of tenstring
+Hip Press (u/f+3+4) - don't expect to get any hits in after this one
+Head Slide (f+3+4) - careful, watch your recovery
+Cossack Dance (D/B+3,4,3) - first three hits (or even one) is enough 
+Megaton Sweep (b,d/b,d,D/F+1)
+Megaton Blast (b,d/b,d,D/F+2)
+etc.
+
+If they have risen with an attack (high kick, sweep) and whiffed it:
+
+Use same moves as above 
+Bravo Knuckle (d+1+2) - ducks under high attacks
+Jab (f+2)
+Double Hammer2 (WS+1+2,1+2) 
+Fast Uppercut (WS+1)
+etc.
+
+	Interrupting:
+
+Interrupting is an important part of gameplay in Tekken 3 because of the 
+large number of stringed moves (not combos).  You can't just stand there all 
+day and expect to block everything they throw at you.  Not only is 
+interrupting useful because it puts a stop to your opponent's attack but it 
+tends to throw off their timing as well which gives you the opportunity to 
+follow up.  
+
+They say that the best defense is a strong offense.  For G.Jack this is quite 
+true.  The best way to avoid getting hit is to hit them first.  The easiest 
+way to do this is to play against mediocre opponents.  They tend to start 
+moves (and strings) from way off leaving you ample opportunity to give them a 
+piece of their ass. :)   Key moves to use in these situations are the 
+Scissors (f,f+1+2), a single Hammer (1+2), Bravo Knuckle (d+1+2), Megaton 
+Sweep and Blast (b,d/b,d,D/F+1_2), etc.  But for those of you having trouble, 
+read on...
+
+Law, Nina, and Hwo are probably most adept when it comes to interrupting.  
+The common thread here is the priority of their moves (speed helps).  G.Jack 
+on the other hand does not have a lot of priority and has to work a little 
+harder with his moves.  The simplest method (and most effective IMO) I use to 
+interrupt an opponent's barrage is a jab.  I use (d+2), (d+1) and (f+2).  All 
+of these attacks shoot out a quick jab with excellent range (G.Jack's long 
+arms).  Why (f+2) you may ask?  Well, the (f) tap moves me ahead just a tad 
+(noticeable) which extends the reach of the jab.  Why (d+1) you may ask?  
+Because it ducks under high attacks and allows me to follow-up with any 
+number of crouching or rising attacks that G.Jack has (as you know he has 
+many).  Why (d+2) you say?  Same as (d+1), except now if you hold down and 
+right punch (D+2) you can go right into two tenstrings.  Where can I use 
+these jabs you say?  Anywhere.  It requires a little bit of balls though 
+because you have to get up close and personal with your opponent.  It's 
+easier if your opponent starts a move with a long wind-up (i.e. unblockables, 
+etc.) that you recognize easily (as always practicing is the best way to 
+learn the game so that you can become familiar with strings, moves, 
+opponents, etc.).  Why not (f+1) you say?  Simple.  (f+1) is a swipe... it's 
+slow, doesn't have alot of range.  Just don't hit left punch.  For those of 
+you having trouble with escaping tenstrings these jabs are lifesavers 
+(especially the ducking jabs).     
+ 
+Two other good moves for interrupting are the side-kick (d/f+3) and the front 
+kick (d/f+4).  I find the front kick to be most effective.  It's faster than 
+the sidekick but has less range.  I can usually hit my opponents a couple of 
+times with the front kick before they block or get out of the way.  The 
+reason for this is because most people don't expect to see the front kick and 
+the interruption of their string throws off their timing.  Try it and see!
+
+	Machi or Turtling:
+
+Another Japanese term that I first heard from VF2 and don't know the literal 
+translation for.  Basically you block and evade everything, wait for an 
+opening, strike, repeat.  I think the SF players call this "turtling" but it 
+doesn't matter what it's called.  Just as long as you understand how to do it 
+with G.Jack.
+
+It's pretty easy to explain but not to implement... basically you have to 
+spend quality time with all the characters.  Learn how to play as 'em and 
+against 'em.  Now you should have a handle on how to block everyone and where 
+they leave an opening.  At this point you pick the appropriate move to 
+counter-attack with.  For example, let's say that you know Eddy's strings, so 
+you're blocking 'em.  High, low, low, low, mid, low, etc. along comes a high 
+attack that you were ready for.  You duck it and counter with a Fast Uppercut 
+(WS+1) plus follow-up.  Bye-bye to 50% of that poor shmuck's lifebar.  I 
+think you all understand what I'm talking about now.     
+
+
+-----------------------------------------------------------------------------
+Weakness
+--------
+
+I've spent so much time analyzing G.Jack's moves and pointing out his 
+strength's that I thought I should include this section to mention what I 
+thought his major weaknesses were.  In my opinion there are many little 
+reasons why G.Jack is weak... but that applies to all the characters.  The 
+"major" reasons why *I* think G.Jack is weak are mentioned below:  
+
+Slow - He is quite possibly the slowest character in the game (with Kuma 
+being the other).  This alone greatly affects how to play with him.  If 
+you're used to dashing around with the other characters then G.Jack will be a 
+painful lesson for you.  Keeping in mind that he does have some quick moves, 
+the bulk of them are not, with recovery ranging from fair to atrocious.  
+
+Size - In the Tekken series, size (or more accurately... weight) does not 
+matter.  By that I mean Nina can juggle a small person like Ling and with the 
+same juggle, use on G.Jack.  In the Virtua Fighter series (I don't want to 
+start a flame war... just a comparison) weight does matter.  In general large 
+people are slower, more damaging, and don't float much while smaller people 
+are faster, weaker, and float more.  I was hoping by now that Namco would 
+implement the aspect of "weight" in Tekken.  Because of the weight issue I 
+feel that G.Jack is at a serious disadvantage which is probably one of the 
+reasons why he doesn't rank highly and is rarely seen at higher-level play.  
+Oddly enough, while Namco did not implement the aspect of weight into the 
+Tekken series, they did implement the aspect of size.  In so doing G.Jack (a 
+big guy) and Kuma (the biggest) are susceptible to a whole host of attacks 
+that do not impact on anyone else.  This is especially apparent when G.Jack 
+(or Kuma) are lying down (easy to okizeme).    
+
+Missing doo-hickey's and doo-dad's - With the release of Tekken 3 came new 
+additions to gameplay.  IMO G.Jack was left with the short end of the stick.  
+For example, almost every character has at their disposal some type of 
+counter (low/high), reversal, or combo-breaker (low/high).  G.Jack acquired 
+none of these.  Therefore he must rely solely on his ability to block to 
+defend himself from incoming attacks.  Unfortunately, blocking (and evasion) 
+with G.Jack often becomes a lesson in frustration and futility due to his 
+size, speed, etc.  A low counter would have been a nice addition to his 
+repertoire.  There are other obvious examples of the "lack of extras" for 
+G.Jack (i.e. no crouch-dashes, no stun moves, no special side-step moves, 
+etc.) so I won't go into them.  
+
+
+-----------------------------------------------------------------------------
+Versus CPU Characters
+---------------------
+
+In later revisions I hope to include somewhat detailed methods (of mine) to 
+beat each character (as CPU) either quickly or with "flash" (for those of you 
+who just can't beat character "X" and feel like you're wasting money).   I 
+don't feel I have enough experience to divulge this kind of information right 
+now (I live far away from the nearest arcade so my play-time is limited 
+somewhat) and I suspect that I may not until Tekken 3 is released for the 
+Sony PlayStation.  I may drop this section altogether.  Be that as it may, I 
+would like to add a couple of points about beating the CPU that are not 
+character specific but incorporate the game as a whole (for now).   
+
+The CPU can be defeated by two simple methods (for the most part).  
+They are:
+
+Repetition - The endlessly repetitive input of certain moves over and over 
+again will take you pretty far.  You just have to find the right move that 
+the CPU falls for.  Quite often it's the Scissors (plus follow-up).  You may 
+have to alter this gameplan slightly in favor of defense when you reach 
+higher levels but it seems to work regardless of how stupid it seems.  Of 
+course, spectators beware, this is the most mind-numbingly dull way to play 
+the CPU such that you sometimes feel like strangling the player.  Let's be 
+civil, OK?    
+
+"Dash-in-dash-out-strike" - Although this style is less of a bore than above 
+it doesn't win the award for the "Most Entertaining Style of the Year".  
+Basically you knock down the opponent (I'll leave that up to you), dash in, 
+dash out when the opponent tries to hit you with its rising attack, CPU 
+whiffs attack giving you opportunity to dash in again and knock them down 
+(i.e. with a Scissors (has built-in dash buffer)), repeat.  At least you can 
+mix up the attacks that you use against the CPU (i.e. a juggle, a throw, 
+etc.).  Try to put on a show for the spectators, eh?   
+
+
+-----------------------------------------------------------------------------
+Versus Human Characters
+-----------------------
+
+As is the section on "Versus CPU" I would like to explain the ways (or 
+methods) in which I defeat specific characters for those of you having 
+trouble.  Yet again I do not feel I have enough experience to do this because 
+of the caliber of "play" I am subjected to around here.  They don't block 
+because they either don't know how or they figure that "mashing buttons" is a 
+viable way to win against anyone.  Hardly the kind of opposition that forces 
+me to work very hard.  The only thing that requires some degree of difficulty 
+that I can use on them are the juggles.  Right now the only tough opposition 
+I face is from the CPU... that's pretty pathetic (and boring to say the 
+least).  As such I may drop this section from future revisions if my 
+situation does not change.  For now, read my sections on Move Analysis, 
+Juggles, Strategy, and practice alot.  If you lose to a human opponent, try 
+something different next time and think about the mistakes you made (and how 
+to correct them).  
+
+
+-----------------------------------------------------------------------------
+From All Over The Internet *Special Section*
+--------------------------------------------
+
+G.Jack is not easy to find info on (other than moves)... so with this 
+section I will try to compile strategies, bits of info, etc. from all over 
+the internet (message boards, usenet, etc.) so that you can get a more well-
+rounded look at G.Jack (instead of being solely limited by what I say).  If 
+anyone would care to submit info to me please e-mail me (see address at top 
+of FAQ) and I'll put it in as soon as possible.  All submissions will be 
+credited by name and e-mail address or however you desire.
+
+	-MG- <matthew@bitscorp.com> wrote:
+"You really have to play against someone who knows what they're doing 
+with G.Jack to appreciate this.  I don't play him myself but I know 
+someone who is LETHAL with him.  The most annoying thing is the cheap 
+Ganryu move done from FC, it's VERY fast and hits low and sends you 
+flying further than Paul's death fist.  You have to KNOW that move is 
+coming, because blocking low when Jack is crouching is virtually
+suicide, with the damage potential he gets from his mid WS attacks.  
+The fact that G.Jack is slow is irrelevant when he has that ultra 
+fast scissors punch (f,f+1+2?) that guarantees the overhead hammer 
+thing (1+2?) if it hits ... you so much as flinch after he blocks 
+one of your attacks, and you just lost something like 40-50%.  Stand 
+and block and you lose 50%+ on a throw + guaranteed follow-up.  And 
+then there's the P.Jack head-first dive that hits low or mid 
+depending on the distance ... and the low spinning power punch ..." 
+
+	Armor Khan <wggunde@wtaccess.com> wrote:
+"Because of Jack's speed and size.. many people, including veterans, tend
+to put Jack in to the "Zangief-T.Hawk/Loser" range... BAD idea... A Jack
+expert can take you in TWO well placed hits...A smart player will recognize 
+Jack's strength and learn to use them accordingly... 
+
+This is how we kick the ass in Russia....(simple, easy to pick up combo).. 
+d+1+2, u/f 3+4 @ 1,2,1,2...Stupid damage..."
+
+	Kaiser wrote:
+"Well I'm no GunJack freak or anything but here we go.. the d+1,2 and the 
+d+1,1,2,2,(d+1,df+1) will confuse your opponents.. mix the f+1+2,(1+2 or 
+df+2) the b,db,d,df +2 has a delay before it which makes it perfect to use a 
+decoy start the move when the opponent is closing in and it will hit them if 
+they attack ,there is no way to tell when he is starting it and it pushes 
+the opponent away...the b,db,df+1 has to be used sparingly for recovery 
+purposes yet it is very fast....the db+1,1,1,1,df+2 is vital to his defense 
+since it his fastest move and has awesome priority so this stops most 
+attacks...the d,df+1,2,(d+1 or df+1) also must be implemented in his 
+offense... and his throws are very powerful so those are important as well.. 
+
+	CHaith <chaith1@netpath.net> wrote:
+"Use his d/f,d/f+2+4 to throw them in the air.  Add the u/f+3+4 on 
+their way down.  Use f+1+2, 2 it is hard to counter if blocked. The f+1+2, 
+1+2 if blocked they will kill you so use it sparingly. After his throw where 
+he simply slams you, you can always get a Cossack kick in adding good damage.  
+Use his slide in Okizeme tactics. As Armor Khan said use the d+1+2 to sneak 
+under attacks.  Gun Jack is definitely a wait and kill character.  It takes 
+massive skill to master him since in my opinion your defense must be top 
+notch to run with the Paul's, Jin's and Nina's. Use his low combos and 
+uppercut rushes. Watch for reverses and low guard cancels."
+
+	Pippen wrote:
+"Easiest way to beat the game with Gun Jack is to use left jabs the whole 
+time, trust me it works, just hold forward and left punch the whole time, I 
+beat the game in under 4 minutes doing that!"
+  
+	alienmiller@geocities.com wrote:
+"Juggle to beat the game with Gun Jack: 
+
+WS+1  (violent uppercut)
+f+2 (quick jab)
+1+2 Hammer
+3+4,3+4 (lift up stomp, second thrust)
+
+This WILL work every time* as long as you connect with the violent uppercut.
+
+*except Xiaoyu, you only don't do the second thrust, she is too small and you 
+will miss half the time leaving you open for a counter hit."
+  
+	Hannible Lector wrote: 
+"GJ's best move is the Bravo Knuckle, D+1+2.  It sets up juggles and does 
+major damage and comes out on the fly."
+
+	Noze Dive <nozedive@nozedive.com> wrote:
+"Well good luck on finding anyone that plays Gun-Jack seriously.
+Basically some good strategy is learn his ten hits because no one
+knows them very well. Use the Cossack kicks when someone is trying to 
+get up, roll backwards, or roll forwards. Also use the 1+2,1+2 move
+when people are trying to get up. Some good moves to just use are
+that low uppercut and the spin punch that hits low."
+
+	<gazman@cyberspace.net.au> wrote:
+"In my opinion G.Jack is a power-house, he's not as slow as Jack-2, and has 
+the powerful moves of P.Jack.  He's definitely a character to use and to 
+beware of when fighting against!!"
+
+	Mark Landry (FAQ Author) <jglandry@stfx.ca> wrote:
+"I don't care much for how he looks... his warm-up is cool and all but I 
+thought Jack-2 looked best in Tekken 2 in both uniforms (I liked P.Jack's as 
+well).  He is more detailed in Tekken 3 though... that I like."
+
+	Russell Reynolds <T-wRecks1@classic.msn.com> wrote:
+"A couple of uses for the machine gun punch.  It can be a lifesaver at the
+start of a round to hold your opponent off if they like to start with a 
+quick-starting ten-string.  Then this is a really dirty trick: several of 
+Gun Jack's throws, including both of his basic ones, leave the opponent 
+facing the wrong way on the ground.  So, when they try to get up, throw 
+three machine gun punches and a power punch into their back!  They'll all 
+hit, and basically all that's left to do is pick your victory pose:)  It 
+makes a really nice replay, too (the power punch hits the back of their 
+head)."
+
+
+-----------------------------------------------------------------------------
+Misc. Info
+----------
+
+Bio/Storyline:
+
+Gun Jack - "Disordered Killing Machine"
+Nationality: Unknown
+Fighting Style:  Power fighting, guns are installed in both arms (though 
+		 defected)
+Age:  7
+Height:  220cm
+Weight:  170kg
+Blood Type:  Plutonium
+Occupation:  Purpose unknown
+Hobby:  Weapon training
+Likes:  Self-analysis
+Dislikes:  Scrap factories
+
+When Jane, now a physicist, was eight years old, she was rescued from a 
+bacteriological war by the Russian military robot Jack-2. However, Jack-2 was
+later destroyed by a satellite weapon as Jane, still a young girl, watched in 
+horror.
+
+Jane, now 27, could not forget the nightmare of Jack-2's having collapsed 
+beside her. She spent ten years restoring Jack-2 to 90% functionality, but it 
+seemed to have lost the humane characteristics that set it apart from Jack-1.
+
+Jane worked hard analyzing the program in order to return to Jack-2 the 
+gentle soul which had saved her life. Through detailed analysis, she found 
+that most of Jack-2's programming was created by Mishima Heavy Industry, one 
+of the subsidiaries of the Mishima Financial Empire. Moreover, she discovered 
+a hidden program...Project Gun Jack. It laid the groundwork for a new weapon, 
+a pivot gun.
+
+In order to restore Jack-2 completely, Jane had to approach Mishima Financial 
+Empire and solve the mystery of the project. She quickly installed the hidden 
+program and brought to Mishima Financial Empire the newly dubbed Gun Jack.
+
+Stance Descriptions:
+
+To initiate a specific winning stance, hold down the indicated button after
+you win a round.
+
+1 - In a tight pose, G.Jack points skyward to his left, then shifts sides to 
+    the right.
+2 - G.Jack flies upwards off the screen (same as Dive Bomber (3+4)).
+3 - G.Jack pounds on his chest (while laughing?) and falls on his back... 
+    still pounding.
+4 - G.Jack assumes a forward fighting stance, steps forward, and raises his 
+    arms in victory.
+
+
+-----------------------------------------------------------------------------
+Conclusion
+----------
+
+It would be a good idea for you to check out Slikatel's Tekken Web Project 3 
+(http://metro.net/slikatel/tekken3/) to read his Gameplay Primer (Basics and 
+Advanced sections).  They will help you immensely and are very informative.  
+As well, playing Tekken 2 (either console or arcade version) are recommended 
+as a *partial* substitute to learning G.Jack.  The reason being that G.Jack 
+is virtually identical to his Tekken 2 counterpart (Jack-2) and Tekken 3 is 
+so similar to Tekken 2 (IMO).  Where he does differ is primarily in moves 
+that other characters in TK2 have (P.Jack and Ganryu).  You should have ample 
+opportunity to practice ten-strings, juggles, and the like to hone some of 
+your skills.  However, be aware that Tekken 3 contains many additions over 
+the original that could affect your gameplay in a negative way.  It is quite 
+possible to pick up some habits in Tekken 2 that could affect you in an 
+adverse way when the time comes to play Tekken 3 (for example, if your game-
+plan centers around crouch attacks that you picked up in Tekken 2, you may be 
+decimated by any number of characters that have picked up low-counters in 
+Tekken 3).  Tekken 2 is NOT a wholly, complete substitute to playing 
+Tekken 3.  Remember that.   
+
+Well, I guess that's it.  Initially the intention of this FAQ was to be 
+small... I guess I got carried away! :P  I hope that I have helped some of 
+you get acquainted with  G.Jack.  I honestly don't know how he would fare 
+against players "above average" in ability but you shouldn't have too much 
+trouble "taking out the trash" as I do. :)  
+
+E-mail me if I made any mistakes.  I tried to make sure that everything was 
+accurate but this may not be the case.  Anything that is unconfirmed or has
+question marks (?) will probably be resolved when Tekken 3 gets released 
+to the PSX (including juggle damages).  
+
+Don't forget to have fun!
+
+
+-----------------------------------------------------------------------------
+Where To Find This FAQ
+----------------------
+
+The latest version will be located at my site... the Tekken 3 FAQ Archive:  
+
+http://juliet.stfx.ca/~jglandry/tekfaq.htm
+
+As well, I will send it out to a bunch of web sites and to the newsgroups:
+rec.games.video.arcade and rec.games.video.sony
+
+This FAQ may be distributed freely (but only in its full form) in the hopes 
+that it will entice players to give G.Jack a try.  Please credit me too.
+
+
+-----------------------------------------------------------------------------
+Credits (and Thanks)
+--------------------
+
+In no particular order:
+
+- Russell Reynolds for clarifications on the Hell Press follow-ups and
+  Revolver.
+- Catlord, Surfbard, and Namco's Tekken Online for the moves, conventions, 
+  misc. info, etc.
+- Everyone on rgva, and various TK3 message-boards for the info and 
+  "stimulating" conversation. :)
+- Alex Linde for his Tekken 2 Jack-2 FAQ/Strategy Guide.
+- Roger Wong, author of the Unofficial Command & Conquer FAQ, for the format 
+  (or giving me the idea) of the "From All Over The Internet" section.
+- Everyone in the "From All Over The Internet" section for sending me their 
+  info.
+- All the FAQ Author's on the Tekken 3 FAQ Archive for their efforts.
+- All the people who sent me nice comments regarding my Tekken 3 web-site. 
+- Sega for pulling me away from SF2 and getting me interested in polygonized,
+  pseudo-3D brawlers.
+- numerous VF2, TK2, TK3 FAQ authors for ideas, theories, etc.
+
+and finally... Namco for all the great games.
+
+Hope I didn't miss anyone. ;)
+
+
+-----------------------------------------------------------------------------

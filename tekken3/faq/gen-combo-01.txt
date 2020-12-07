@@ -1,0 +1,690 @@
+******************************************************************
+******************************************************************
+                        THE JUGGLER'S BIBLE
+                            Version 1.01
+                          Compiled by AL X
+******************************************************************
+******************************************************************
+Hundreds Of Celestial Juggle Combos.
+The first, and most extensive, juggle combo FAQ for Tekken 3.
+First Release: 12th June 1997
+Last Updated : 15th June 1997
+It is recommended that this text is viewed with the Courier New
+font. Or any other where the following numbers and periods are
+vertically aligned:
+1234567890
+..........
+This FAQ is a compilation of the hard work and dedicated efforts
+of Tekken players around the world, including the members of the
+Twisted Tekken Fighters Network (T.T.F.N.), and the contributors
+to the Tekken Web Project 3. It is also the result of days of hard
+work on my part. So... This FAQ may be distributed freely AS
+LONG AS it is kept in its complete form, uncut and unedited. This
+FAQ may not be sold for profit. Any magazines, organizations, or
+people, wishing to distribute this FAQ for profit, must contact
+AL X (Alex Ambroziak) at the following e-mail address (that
+includes you EGM!!):
+twistedt@hotmail.com
+© copyright 1997 AL X (Alex Ambroziak)
+This FAQ is updated almost daily. To download the latest version,
+to join the T.T.F.N., or to contribute to this FAQ (in the Member
+Information section) go to the following URL:
+http://www.geocities.com/~twistedtekken/
+A large contribution was made to this FAQ by the ever-impressive
+Slikatel. The latest version of this FAQ can also be found on his
+site; The Tekken Web Project:
+http://205.138.228.126/slikatel/
+Tekken 3 and all characters are ©1996-1997 Namco¨ Ltd. All rights
+reserved.
+
+********
+CONTENTS
+********
+A. Notes
+B. Move Legend
+C. Player Key
+D. Juggle Combos
+	- Jin Kazama
+	- Eddy Gordo
+	- King
+	- Ling Xaioyu
+	- Hwoarang
+	- Lei Wulong
+	- Yoshimitsu
+	- Paul Phoenix
+	- Forest Law
+	- Nina Willams
+	- Kuma/Panda
+	- Julia Chang
+	- Gun-Jack
+	- Brian Fury
+	- Heihachi Mishima
+E. How to create a juggle combo.
+F. Updates
+G. Credits/Thanks
+
+    *****
+A.  NOTES
+    *****
+Please note that some combos contained within this text list pre-
+hits before the actual juggling hit itself. These pre-hits are 
+counted within the combo's hit total. An example of the would 
+be Nina's Divine Cannon combo (d/b+4,3). The left kick causes the 
+float, but it is possible to connect both hits. The right kick 
+being the pre-hit. Her Divine Cannon (d/b+3+4) could be used to
+open the same juggle. Pre-hits are contained within line brackets.
+An example for Nina would be:
+<d/b+4>,3,u/f+3,1,2,f+1+2
+Some moves contained with the pre-hit brackets do not ACTUALLY
+hit, but are necessary for the juggling move to connect. An
+example would be Ling Xaioyu's movement into the Phoenix stance
+before the floating hit is possible:
+<d+1+2>,1+2,1,1,d/b+1,d+1+2,f+4,4
+Some combos can be found completely contained within pre-hit
+brackets. These are combos that have no float value but are
+guaranteed to hit in their entirety. An example is:
+<d,d/f,F+1(s),d+4,2>
+There are also some combos that will only work effectively if they
+counterhit (must hit at the same time as opponent makes an 
+offensive move). In a later version, these combos will be marked.
+This is an updated test version of this FAQ. It is very possible
+that there are combos contained within this text that do not work
+effectively. We have not had a chance to test every combo,
+although we test more every day. If you find a combo that simply
+will not work, please try different timing and distancing etc. If
+this fails, or you find a typing error, please report the bug to
+me at:
+twistedt@hotmail.com
+There is also the chance that some combos are repeated. As
+previously mentioned, this is the test version of this FAQ.
+It was debated as to whether the spaces should be included between
+parts of the combos. We (the Twisted Tekken team) found that
+everybody interprets the spaces differently; so it was decided to
+list the movements without spacing.
+This FAQ will soon be released in the lp,rp,lk,rk convention.
+There is a Slight problem with the alignment in some parts of
+this text. If anybody can help us in fixing this, it would be greatly appreciated.
+There really are SO many more combos to come, and bugs to fix.
+Enjoy...
+
+    ***********
+B.  MOVE LEGEND
+    ***********
+1 ----> Left Punch
+2 ----> Right Punch
+3 ----> Left Kick
+4 ----> Right Kick
+f ----> Tap Joystick Forward
+F ----> Hold Joystick Forward
+b ----> Tap Joystick Back
+B ----> Hold Joystick Back
+d ----> Tap Joystick Down
+D ----> Hold Joystick Down
+u ----> Tap Joystick Up
+U ----> Hold Joystick Up
+d/f --> Tap Joystick Diagonally Down/Forward
+D/F --> Hold Joystick Diagonally Down/Forward
+d/b --> Tap Joystick Diagonally Down/Back
+D/B --> Hold Joystick Diagonally Down/Back
+u/f --> Tap Joystick Diagonally Up/Forward
+U/F --> Hold Joystick Diagonally Up/Forward
+u/b --> Tap Joystick Diagonally Up/Back
+U/B --> Hold Joystick Diagonally Up/Back
+N ----> Let Joystick Return To The Neutral Position
+WS ---> While Standing
+WC ---> While Crouching
+SS ---> Sidestep (u,N or d,N)
++ ----> At The Same Time AS
+~ ----> Immediately After
+(s) --> Move Causes Stun
+< > --> Hits Contained In Brackets Are Pre-Float Hits
+[_]--> Either/Or, Choice Of Hits
+?? ---> Very Questionable Combo
+
+    **********
+C.  PLAYER KEY
+    **********
+As this FAQ is the result of the combined efforts of many players,
+a key has been made to give credit to each player that has created
+the combo. When you see a three letter code next to a combo, it is
+the abbreviation of the player, or group who created it.
+ALA --> Alex Aleman
+ALX --> AL X
+AOI --> Aoi
+BIG --> Big Cat (Jon)
+CRI --> Crimson
+COM --> Comkeen123
+CYR --> Cyrus
+DJK --> Deok-Jin Kang
+ELV --> Elvis/The Energizer
+FAC --> The Faceless Master
+JAY --> JayDee
+JUN --> Jung
+JUS --> Justice
+M_3 --> M3
+SHU --> Shuckey
+SOL --> Solarch
+TBO --> T-Bone
+TG3 --> TG3
+TIM --> TimB
+TWP --> Combo Courtesy of those who contribute to the Tekken Web
+        Project 3*     
+YO4 --> YO4
+*Slikatel, Ben Cureton, Steve Stonce, Dan Wilson, Catlord, Wangel,
+Beamer, SurfBard, Pete, Justin Pierce, Dee, Dakine, Chayo.
+
+    *************
+D.  JUGGLE COMBOS
+    *************
+
+**JIN KAZAMA**
+Combo	                                            Hits Player
+<b,f+2,1>,D+2,1,1+4,D/F+4,4                         8    ALX
+SS+2,1+4,2,1,4                                      6    ALX
+f,N,d,d/f+2,1,1,1,2                                 5    ALX
+f,N,d,d/f+2,1,1,2,2                                 5    ALX
+SS+2,1+4,1,1,2                                      6    BIG
+SS+2,1+4,1,2,2                                      6    BIG
+f,N,d,d/f+2,b,f+2,1,d+2,1+4,2,f,f+2                 8    AOI
+<b,f+2,1(s)>,f,N,d,d/f+2,1+4,1+4,d/f+4              8    AOI
+<b,f+2,1>,d+2,b,f,2,1,d+2,f,f,2                     7    ALA
+<b,f+2,1>,d+2,1,b,f,2,1,d+2                         7    ALA
+SS+2,1,d/f+4,4                                      4    SHU
+<b,f+2,1>,d+2,1,b,f+2,1,d+2,d/f+4,4                 9    CYR
+<b,f+2,1(s)>,f,N,d,d/f+2,b+2,4,2,1,f,N,d,d/f+4,4    9    M_3
+<b,f+2,1>,d+2,1,d/f+1,2,                            6    SOL
+<b,f+2,1(s)>,f,N,d,d/f+2,1,b,f+2,1,D+2,d/f+4        8    M_3
+<b,f+2,1(s)>,f,N,d,d/f+1,3                          4    TBO 
+[f,N,d,d/f+2_SS+2],1,1,2,3                          5    TWP
+[f,N,d,d/f+2_SS+2],1,2,d/f+4,4                      5    TWP
+[f,N,d,d/f+2_SS+2],1,1+4,2,4                        6    TWP
+[f,N,d,d/f+2_SS+2],1,2,f,N,d,d/f+2                  4    TWP
+[f,N,d,d/f+2_SS+2],1,2,f,f+2                        4    TWP
+[f,N,d,d/f+2_SS+2],1,d/f+1,2                        4    TWP
+[f,N,d,d/f+2_SS+2],1,2,4                            4    TWP
+[f,N,d,d/f+2_SS+2],1,2,3                            4    TWP
+[f,N,d,d/f+2_SS+2],1,2,4,f+2                        4    TWP
+[f,N,d,d/f+2_SS+2],1,2,4,f,f+2                      4    TWP
+[f,N,d,d/f+2_SS+2],1,2,4,1+4                        6    TWP
+[f,N,d,d/f+2_SS+2],1,2,4,(run up)d/f+4,4            6    TWP
+[f,N,d,d/f+2_SS+2],1,2,4,f,N,d,D/F+4,4              6    TWP
+[f,N,d,d/f+2_SS+2],1+4,2,4                          5    TWP
+[f,N,d,d/f+2_SS+2],1+4,2,d/f+4,4                    6    TWP
+[f,N,d,d/f+2_SS+2],1+4,2,f,N,D,D/F+4,4              6    TWP
+[f,N,d,d/f+2_SS+2],1+4,2,f,f+2                      5    TWP
+[f,N,d,d/f+2_SS+2],1+4,1,1,2                        6    TWP
+[f,N,d,d/f+2_SS+2],1+4,1,1,1,2                      7    TWP
+[f,N,d,d/f+2_SS+2],1+4,2,f,f+2                      5    TWP
+[f,N,d,d/f+2_SS+2],1,1+4,2,f,f+2                    6    TWP
+[f,N,d,d/f+2_SS+2],1,1+4,2,d/f+4,4                  7    TWP
+[f,N,d,d/f+2_SS+2],1,1+4,2,f,N,D,D/F+4,4            7    TWP
+[f,N,d,d/f+2_SS+2],b+2,4,4                          4    TWP
+[f,N,d,d/f+2_SS+2],b+2,4,2,1,2                      6    TWP
+[f,N,d,d/f+2_SS+2],1,b+2,4,2                        5    TWP
+[f,N,d,d/f+2_SS+2],1,b,f+2,1,2                      5    TWP
+[f,N,d,d/f+2_SS+2],b,f+2,1,2,f,f+2                  5    TWP
+[f,N,d,d/f+2_SS+2],b,f+2,1,2,f,N,d,d/f+2            5    TWP
+[f,N,d,d/f+2_SS+2],b,f+2,1,2,1+4                    6    TWP
+[f,N,d,d/f+2_SS+2],1,2,b,f+2,1,[2_d+2]              6    TWP
+WS+2,f,N,d,d/f+2,f,f+2                              3    TWP
+WS+2,f,N,d,d/f+2,d/f+4,4                            4    TWP
+WS+2,f,N,d,d/f+2,f,N,d,d/f+2                        3    TWP
+WS+2,f,N,d,d/f+2,f,N,d,D/F+4,4                      4    TWP
+WS+2,f,N,d,d/f+1,3,4~3                              4    TWP 
+d+3+4,1+4,d/f+4,4                                   6    TWP
+d+3+4,1+4,2,f,f+2                                   6    TWP
+d+3+4,1+4,2,d/f+4,4                                 7    TWP
+d+3+4,1+4,2,b,f+2                                   6    TWP
+d+3+4,1+4,2,f,N,d,d/f+2                             6    TWP
+d+3+4,1+4,2,f,N,d,D/F+4,4                           7    TWP
+d+3+4,1+4,2,1,1,2                                   8    TWP
+b,f+2(s),f,f+3,d/f+4,4                              4    TWP
+b,f+2(s),f,N,d,d/f+1,3,4~3                          4    TWP
+b,f+2(s),d+3+4,d/f+4,4                              5    TWP
+b,f+2(s),d+3+4,d+1,WS+4,4                           6    TWP
+b,f+2(s),d+3+4,1+4,d/f+4,4                          7    TWP
+b,f+2(s),d+3+4,1+4,2,d/f+4,4                        8    TWP
+b,f+2(s),d+3+4,1+4,2,f,N,D,D/F+4,4                  8    TWP
+b,f+2(s),d+3+4,1+4,1,b,f+2                          7    TWP
+b,f+2(s),d+3+4,1+4,1,1,2                            8    TWP
+b,f+2(s),d+3+4,1+4,1,1,1,2                          9    TWP
+[f,N,d,D/F+4_f,f+3(close)],d/f+4,4                  3    TWP
+[f,N,d,D/F+4_f,f+3(close)],1+4,2,4                  5    TWP
+[f,N,d,D/F+4_f,f+3(close)],1+4,1+4,d/f+4            6    TWP
+[f,N,d,D/F+4_f,f+3(close)],1+4,d/f+4,4              5    TWP
+[f,N,d,D/F+4_f,f+3(close)],1+4,2,d/f+4,4            6    TWP
+[f,N,d,D/F+4_f,f+3(close)],1+4,2,f,f+2              5    TWP
+[f,N,d,D/F+4_f,f+3(close)],1+4,2,b,f+2              5    TWP
+[f,N,d,D/F+4_f,f+3(close)],1+4,2,f,N,d,d/f+2        5    TWP
+
+
+**EDDY GORDO**
+Combo	                                            Hits Player
+(Rewinder)1+2~3+4,d/b+4,3+4,3+4                     4    AOI
+(Hand Stand)D+3+4,4,f+3                             3    JUN
+
+**King**
+Combo	                                            Hits Player
+u/f+4,1,2,b+4,1+4                                   5    AOI
+u/f+4,1,2,d+3+4,2                                   5    AOI
+u/f+4,2,1,1,1                                       5    DJK
+u/f+4,1,2,B+1+4                                     4    SHU
+<1,2,2,1,3,4,4,3,2>,u/f+4,B+4,1+4                   11   SHU
+u/f+4,1,2,d+3+4,2,D+3,d/f+1                         7    FAC
+f,N,d/f,1+2(Bounce),B+4                             2    JUN 
+u/f+4,1,1+2,1                                       4    TWP
+f,N,d,d/f+1+2,u/f+4,D+3+4,2                         4    TWP
+f,N,d,d/f+1+2,1,2,b+4,1+4                           5    TWP
+f,N,d,d/f+1+2,1,2,D+3+4,2                           5    TWP
+D,d/f+1,D+3+4,2                                     3    TWP
+D,d/f+1,WS+4,D+3+4,2                                4    TWP
+D,d/f+1,WS+4,D+3+4,2,D+3+4,2                        6    TWP
+
+**LING XAIOYU**
+Combo                                               Hits Player
+WS+2,2,2,2,2,1,f,f+1+2                              8    ALA
+<D+3,2,1>,4,d/f+1,2,2,2,b+3+4~3+4,d+3               10   JAY
+WS+2,2,1,1,2,f,f+3,4(while turned)                  8    M_3
+<d+1+2>,1+2,1,2,d/b+1                               4    TWP
+<d+1+2>,1+2,1,D+1,f+4,4                             6    TWP
+<d+1+2>,1+2,1,D+1,4~3                               5    TWP
+<d+1+2>,1+2,2,D+1,f+4,4                             6    TWP
+<d+1+2>,1+2,2,D+1,4~3                               5    TWP
+<d+1+2>,1+2,d/f+1,2,1,4                             5    TWP
+<d+1+2>,1+2,1,1,d/b+1,d+1+2,f+4,4                   6    TWP
+<d+1+2>,1+2,2,2,d/b+1,d+1+2,f+4,4                   6    TWP
+<d+1+2>,1+2,1,2,d/b+1,d+1+2,f+4,4                   6    TWP
+<d+1+2>,1+2,1,1,d/b+1,D,d/f+4,4                     6    TWP
+<d+1+2>,1+2,2,2,d/b+1,D,d/f+4,4                     6    TWP
+<d+1+2>,1+2,1,2,d/b+1,D,d/f+4,4                     6    TWP
+<d+1+2>,1+2,1,u+1+2,2,D,d/f+4,4                     6    TWP
+<d+1+2>,1+2,2,u+1+2,2,D,d/f+4,4                     6    TWP
+<d+1+2>,1+2,1,u+1+2,2,d+1+2,4~3                     5    TWP
+<d+1+2>,1+2,2,u+1+2,2,d+1+2,4~3                     5    TWP
+<d+1+2>,1+2,1,1,d/b+1,d+1+2,4~3                     5    TWP
+<d+1+2>,1+2,d+1+2,1+2                               2    TWP
+<d+1+2>,1+2,1,2,d/b+1,d+1+2,4~3                     5    TWP
+WS+2,2,2,2,1,4                                      6    TWP
+WS+2,2,1,d/b+1,d+1+2,f+4,4                          6    TWP
+WS+2,2,1,d/b+1,D,d/f+4,4                            6    TWP
+WS+2,2,1,d/b+1,d+1+2,4~3                            5    TWP
+
+**HWOARANG**
+Combo	                                            Hits Player
+f,N,d,d/f+4,u/f+3,4,3                               4    ALX
+d+4,4,1,1,2,4                                       6    AOI
+f,N,d,d/f+4,3~4,d+4,4                               5    AOI
+(Non-Flamingo)f,N,d,d/f+2,1,2,[u_u/b+3,4]           5    AOI
+f,N,d,d/f+4,u/f+3,4,3,F+4                           5    SHU
+f,N,d,d/f+4,d/b+3+4                                 2    JUN
+<d+4>,4,1,2,1,2,d+4,4                               8    M_3
+f,N,d,d/f+4,3~4,1,d+4,4                             6    M_3
+[d/f+2_WS+2_f,N,d,d/f+2],1,1,2,4                    5    TWP
+[d/f+2_WS+2_f,N,d,d/f+2],1,3,3,3,3                  6    TWP
+[d/f+2_WS+2_f,N,d,d/f+2],4,4,4,4                    5    TWP
+[d/f+2_WS+2_f,N,d,d/f+2],1,3,3,4                    5    TWP
+[d/f+2_WS+2_f,N,d,d/f+2],1,d/f+3,4                  4    TWP
+[d/f+2_WS+2_f,N,d,d/f+2],1,1,d+4,4                  5    TWP
+[d/f+2_WS+2_f,N,d,d/f+2],1,2,d+4,4                  5    TWP
+[d/f+2_WS+2_f,N,d,d/f+2],f,f+3                      2    TWP
+<3,3,3>,3,4,4,4                                     7    TWP
+<d+4>,4,1,f,f+3                                     4    TWP
+<d+4>,4,d+1,WS+4~4                                  5    TWP
+<d+4>,4,3~4                                         3    TWP
+f,N,d,d/f+4,3~4,d+4,4                               4    TWP
+f,N,d,d/f+4,u+3,4                                   3    TWP
+f,N,d,d/f+4,f+3,4,3                                 4    TWP
+f,N,d,d/f+4,f+3,3,3,3                               4    TWP
+f,N,d,d/f+4,f+3,3,3,4                               4    TWP
+f,N,d,d/f+4,f+3,2,2,3                               5    TWP
+f,N,d,d/f+4,3+4,2,1,1                               4    TWP
+f,N,d,d/f+4,3+4,1,4,3                               4    TWP
+f,N,d,d/f+4,3+4,1,F+3,3                             5    TWP
+f,N,d,d/f+4,3+4,1,1,d+4,4                           5    TWP
+f,N,d,d/f+4,3+4,2,1,d+4,4                           5    TWP
+f,N,d,d/f+4,3+4,1,b+3                               3    TWP
+f,N,d,d/f+4,3+4,f+3,b+3                             2    TWP
+f,N,d,d/f+4,3+4,f+3,N,3,3,3                         4    TWP
+f,N,d,d/f+4,3+4,f+3,N,3,3,4,4                       5    TWP
+(Right Foot Forward)F+4~4,2,1,1                     4    TWP
+(Right Foot Forward)F+4~4,1,4,3                     4    TWP
+(Right Foot Forward)F+4~4,1,F+3,3                   4    TWP
+(Right Foot Forward)F+4~4,1,1,d+4,4                 5    TWP
+(Right Foot Forward)F+4~4,2,1,d+4,4                 5    TWP
+(Right Foot Forward)F+4~4,1,b+3                     3    TWP
+(Right Foot Forward)F+4~4,f+3,b+3                   3    TWP
+(Right Foot Forward)F+4~4,f+3,N,3,3,3               5    TWP
+(Right Foot Forward)F+4~4,f+3,N,3,3,4,4             6    TWP
+
+**LEI WU LONG**
+Combo	                                            Hits Player
+[d/f+2_u/f+4],1,f,N,1,2,1,2,4,d(Crane Stance),d+4   8    ALX
+<d+3+4>,3+4,u/f+4,4~4,3,3                           5    CRI
+<d+3+4>,3+4,1,f,N,1,2,1,2,d,4,d+4,[u_d]             8    AOI
+<d+3+4>,3+4,b+1+2,4,4,3,3                           6    AOI
+u/f+4,1,2,1(Turning Punches),4,4,3,3                8    AOI
+(Panther Stance)Counterhit With 2,3,2,1,2,[3_4]     6    AOI
+<b+3+4>,d+4,(pause)4,4,4,3,3,3~4                    6    ALA
+(Tiger Stance)1,1,f,N,1,2,1,2,4                     7    ALA
+<f,N,1,2,1,2,4,d,3,4,2,3>                           9    TG3
+u/f+4,1,f,N+4,1,2,3                                 6    M_3
+<f,N,1,2,1,2,4,d,3,4,2,3>,4~4,3,3                   12   TBO
+[d/f+2_u/f+4],1+2~1,d+4                             4    TWP
+[d/f+2_u/f+4],1+2~2                                 3    TWP
+[d/f+2_u/f+4],1,4~4,3,3                             4    TWP
+[d/f+2_u/f+4],1,f,N,1,2,1,2,4                       7    TWP
+[d/f+2_u/f+4],1,f,N,1,2,1,2~D,4                     7    TWP
+[d/f+2_u/f+4],d/b+4,4                               3    TWP
+[d/f+2_u/f+4],1,2,d+4,4                             5    TWP
+[d/f+2_u/f+4],f,N,4,1,2,3                           5    TWP
+<d+3+4>,3+4,b+1+2                                   2    TWP
+<d+3+4>,3+4,f,N,3                                   2    TWP
+<d+3+4>,3+4,2+1~2,d/b+4                             4    TWP
+<d+3+4>,3+4,2+1~1,d+4                               4    TWP
+<d+3+4>,3+4,u/f+4,f,N,4,1,2,3                       6    TWP
+<d+3+4>,3+4,u/f+4,f,N,1,2,1,2,4                     7    TWP
+<d+3+4>,3+4,u/f+4,f,N,1,2,1,2~D,4                   7    TWP
+<d+3+4>,3+4,u/f+4,4~4,3,3                           5    TWP
+<d+3+4>,3+4,u/f+4,d/b+4,4                           4    TWP
+<d+3+4>,3+4,f+2+3(Snake Stance),2,2,2               4    TWP
+d/b+4,4~4,3,3                                       4    TWP
+d/b+4,WS+4,4~4,3,3                                  5    TWP
+d/b+4,WS+4,f,N,1,2,1,2,4                            7    TWP
+d/b+4~D(Snake Stance),2,2,2                         4    TWP
+
+**YOSHIMITSU**
+Combo                                               Hits Player
+<d/f+1,2(Turns Opponent)>,d/f+2,1,f,f+4,d/b+1       6    ALX
+4~3,(Pause)d+1+4(Damages Both Players)              2    CRI
+4~3,b+1+2,N,1+2,1,u/f+4                             4    AOI
+4~3,b+1+2,N,1+2,f,f+4,1,f,f+3,u+1+2,f,f,f           8    AOI
+d/f+2,1,b+1,1,1,1,u/f+4                             7    AOI
+d/f+2,d/f+2,f,f+3,d+2,d/b+3                         5    ALA
+d/f+2,1,b+1,u/f+3+4,b+1,u/f+3+4                     6    ALA
+<f+2>,d/f+2,b+1,1,f,f+4                             5    ALA
+d/f+2,1,b+1,1,3                                     5    ALA
+<f+2>,d/f+2,1,f,f+4,d/b+1                           5    SOL
+<f+2>,d/f+2,1,f,d/b+2,2,2,2(One Misses),2           6    FAC
+<f+2>,d/f+2,1,1,f,f+4,d/b+1                         6    FAC
+d/f+2,b+1,1,f,f+4                                   4    TWP
+d/f+2,b+1,1,d/f+1,1                                 5    TWP
+d/f+2,b+1,1,u/f+3+4                                 4    TWP
+d/f+2,b+1,1,d/b+1                                   4    TWP
+d/f+2,b+1,1,u+1+2                                   4    TWP
+d/f+2,b+1,1,u+1+2[f_u/f]                            4    TWP
+d/f+2,b+1,1,1,f,f+4                                 5    TWP
+d/f+2,b+1,u/f+3+4~b+1                               4    TWP
+d/f+2,b+1,u/f+3+4~b+1~u/f+3+4                       5    TWP
+d/f+2,b+1,1,u/f+3+4~b+1                             5    TWP
+d/f+2,b+1,1,u/f+3+4~b+1~u/f+3+4                     6    TWP
+d/f+2,b+1,d/f+1,2,d/b+2,2,2,2,WS+4                  9    TWP
+d/f+2,d/f+2,f,f+3,d+1,D,d/f+3                       5    TWP
+d/f+2,1,b+1,1,1,1,3                                 7    TWP
+4~3,b,b+1,N+1                                       3    TWP
+4~3,b+1+2,(any button)f,f+3,1                       4    TWP
+4~3,b+1+2,(any button)1,f,f+3,1                     5    TWP
+4~3,b+1+2,(any button)1,f,f+4                       4    TWP
+4~3,b+1+2,(any button)1,b+1,1,f,f+4                 6    TWP
+4~3,b+1+4,f,f+4                                     3    TWP
+4~3,b+1+4,1,f,f+4                                   4    TWP
+D,d/f+3,WS+4,u/f+3+4,b+1                            4    TWP
+D,d/f+3,WS+4,f,f+4,d/b+1                            4    TWP
+D,d/f+3,WS+4,u/f+3+4~b+1~u/f+3+4                    5    TWP
+b+1+2,(any button),3                                2    TWP
+b+1+2,(any button),4,4                              3    TWP
+b+1+2,(any button),1,f,f+4                          3    TWP
+b+1+2,(any button),d/b+3,3,3,3,3,f+4                7    TWP
+b+1+4,d+1,f,f+4                                     3    TWP
+b+1+4,d+1,D,d/f+3                                   3    TWP
+b+1+4,d+1,WS+4,d/b+1                                4    TWP
+b+1+4,u/f+3+4,b+1                                   3    TWP
+b+1+4,u/f+3+4,b+1,3+4                               4    TWP
+
+
+**PAUL PHOENIX**
+Combo                                               Hits Player
+[d/f+2_u/f+4],1,1,2,d,d/f,f+2                       5    ALX
+[d/f+2_u/f+4],1,D+4,2                               4    ALX
+[d/f+2_u/f+4],1,f,2,3                               4    ALX
+[d/f+2_u/f+4],1,f,f+3,4                             4    ALX
+<d,d/f,f+1(s),d+4,2>                                3    ALX
+[d/f+2_u/f+4],1,1,d/f+2                             4    CRI
+<f,f+4(counterhit),d,d/b,b,N+3,2>,2                 4    AOI
+<d,d/f,f+1(s),D,d/f+2>,2,D+4,2                      5    AOI
+<d,d/f,f+1(s),D,d/f+2>,2,d,d/b,b,N+3,2,1            6    AOI
+<d,d/f,f+1(s)>,u/f+4,1,2,u/f+4,d,d/b,b,N+3,2,2,
+D+4,2                                               10   AOI
+<d,d/f,f+1(s)>,u/f+4,1,d,d/b,b+3,2,2                6    ALA
+<d,d/f,f+1(s)>,d/f+2,F+1+2,f,F+4                    4    SHU
+<d,d/f,f+1(s)>,d/f+2,d,d/f,F+2                      3    SHU
+<d,d/f,f+1(s)>,d/f+2,u/f+4,D+1,4                    5    SHU
+<d,d/f,f+1(s)>,d/f+2,1,d,d/f,F+2                    4    COM
+<d,d/f,f+1(s)>,u/f+4,D(Crouching)+1,D/F+2~1         5    M_3
+[d/f+2_u/f+4],1,d,d/f,f+2                           3    TWP        
+[d/f+2_u/f+4],1,2,D+1                               4    TWP
+[d/f+2_u/f+4],1,2,F+1+2                             4    TWP
+[d/f+2_u/f+4],1,u/f+3,4                             4    TWP
+[d/f+2_u/f+4],1,d,d/b,b+2                           3    TWP
+[d/f+2_u/f+4],1,d,d/b,b+1                           3    TWP
+[d/f+2_u/f+4],d,d/b,b+3,2,1                         4    TWP
+[d/f+2_u/f+4],d,d/b,b+3,2,2                         4    TWP
+[d/f+2_u/f+4],1,d,d/b,b+3,2,1                       5    TWP
+[d/f+2_u/f+4],1,d,d/b,b+3,2,2                       5    TWP
+[d/f+2_u/f+4],1,2,D+4,2                             5    TWP
+<d,d/f,f+1,d,d/f,f+2>                               2    TWP          
+<d,d/f,f+1>,u/f+3,4                                 3    TWP
+<d,d/f,f+1,d/f+1+2>                                 2    TWP
+<d,d/f,f+1>,u/f+4,1,D+4,2                           5    TWP
+<d,d/f,f+1>,u/f+4,1,d,d/f,f+2                       4    TWP
+<d,d/f,f+1>,u/f+4,1,2,d,d/f,f+2                     5    TWP
+<d,d/f,f+1>,u/f+4,1,2,D+1                           5    TWP
+<d,d/f,f+1>,u/f+4,1,2,F+1+2                         5    TWP
+
+**FOREST LAW**
+Combo                                               Hits Player
+[<b+1,2>,1_<b+2,3>,4],1,b+1,2,1                     7    ALX
+[<b+1,2>,1_<b+2,3>,4],1,b+2,3,4                     7    ALX
+[<b+1,2>,1_<b+2,3>,4],D,U+4                         4    ALX
+[d/f+2_u/f+4],1,b+2,2,2                             5    ALX
+[<b+1,2>,1_<b+2,3>,4],3+4,3+4                       5    CRI
+[<b+1,2>,1_<b+2,3>,4],1,b+2,3,d/b+2,4               8    AOI
+[<b+1,2>,1_<b+2,3>,4],1,2,d/b+2,4                   7    AOI
+<3,3>,4,1,2,d/b+2,1                                 7    AOI
+[<b+1,2>,1_<b+2,3>,4],WC+1,WS+1,d/b+4               6    AOI
+[<b+1,2>,1_<b+2,3>,4],1,1,b+2,3,4                   8    DJK
+[<b+1,2>,1_<b+2,3>,4],1,2,b+2,3,4,f,f,d/b+2         9    ALA
+[<b+1,2>,1_<b+2,3>,4],u/f+4,3+4,3+4                 6    ALA
+[<b+1,2>,1_<b+2,3>,4],f+2~1                         4    JUN
+[<b+1,2>,1_<b+2,3>,4],1,1,2,d/b+4                   7    M_3
+<2,3>,1,b+2,3,4                                     6    JUN
+[<b+1,2>,1_<b+2,3>,4],d/b+2,4                       5    TWP
+[<b+1,2>,1_<b+2,3>,4],b+1,2,1                       6    TWP
+[<b+1,2>,1_<b+2,3>,4],b+2,3,4                       6    TWP
+[<b+1,2>,1_<b+2,3>,4],3,4                           5    TWP
+[<b+1,2>,1_<b+2,3>,4],3,3,4                         6    TWP
+[<b+1,2>,1_<b+2,3>,4],d/f+4,3                       5    TWP
+[<b+1,2>,1_<b+2,3>,4],d+2,3                         5    TWP
+[<b+1,2>,1_<b+2,3>,4],1,d/b+4                       5    TWP
+[<b+1,2>,1_<b+2,3>,4],1,d/b+2,4                     6    TWP
+[<b+1,2>,1_<b+2,3>,4],1,d+2,3                       6    TWP
+[<b+1,2>,1_<b+2,3>,4],1,2,b+2,3,4                   8    TWP
+[<b+1,2>,1_<b+2,3>,4],1,2,b+2,d+2,3                 8    TWP
+
+**NINA WILLIAMS**
+Combo	                                            Hits Player
+<d/b+4>,3,1,d/b+4~3                                 5    ALX
+<d/b+4>,3,1,1,2,1,2,f+1+2                           8    ALX
+<d/b+4>,3,1,1,2,1,2,4                               8    ALX
+<d/b+4>,3,1,d/b+3+4                                 4    ALX
+d/b+3+4,1,d/b+3+4                                   3    ALX
+d/b+3+4,1,1,2,1,2,4                                 7    ALX
+d/b+3+4,1,1,2,1,2,f+1+2                             7    ALX
+SS+2,1,1,2,1,2,f+1+2                                7    ALX
+SS+2,1,1,2,1,2,4                                    7    ALX
+<d/b+4>,3,u/f+3,d+4,1,d/b+4                         6    CRI
+d/b+3+4,u/f+3,1,d+4,1,1,2,f+1+2                     8    AOI
+<b+1(s)>,d/b+3+4,d,d/f,f,d/b+2+3,d/f+3,3,3,1,2,
+f+1+2                                               9    AOI
+<b+1(s)>,d/b+3+4,d,d/f,f,d/f+2+3,1,d+3,2,d/b+3+4    7    AOI
+<b+1(s)>,d/b+3+4,d,d/f,f,d/f+2+3,1,d+4,1,f,f+3      7    AOI
+<d/b+4>,3,b+2,2,d+4,1,f,f+4                         7    DJK
+SS+2,1,b+2,2,d/b,4                                  5    ALA
+<d/f+1,2,1,2,4,3,4,2,4,3,d/b+4>,3                   12   SHU
+<b+1(s)>,d,d/b+3,u/f+3,1,d+4,1,f,f+3,f,f+1+2,
+f,f+4                                               9    YO4
+<d/b+2(s)>,u/f+4,d+4,1,1,2,f,f+4                    7    M_3
+<1,2,d+3>,2,d/f+3,3,3,1,2,d/b+4                     10   TIM
+[<1_WS+1_d/f+1],2,1,2,3,3,2,1,4,3,d/b+4>,3          12   FAC
+<d/f+1,2,1,2,4,3,4,2,4>,3,d+4,1,1,2,d/b+4,3         16   ELV
+<d/b+4>,3,u/f+3,1,2,f+1+2                           6    TWP
+<d/b+4>,3,u/f+3,d/b+3+4                             4    TWP
+<d/b+4>,3,u/f+3,d/b+4,3                             5    TWP
+<d/b+4>,3,u/f+3,d+3,2,d/b+4                         6    TWP
+<d/b+4>,3,u/f+3,d/f+3,2,d+3,2,d/b+4                 8    TWP
+<d/b+4>,3,u/f+3,d/f+3,3,3,1,2,f+1+2                 8    TWP
+<d/b+4>,3,u/f+3,d+4,1,d/b+4,3                       7    TWP
+<d/b+4>,3,u/f+3,d+4,1,1,2,d+3,2                     9    TWP
+<d/b+4>,3,u/f+3,d+4,1,f,f+3                         6    TWP
+<d/b+4>,3,u/f+4,d+4,1,f,f+3                         6    TWP
+<b+1(s),d+3>,2,d/b+4                                4    TWP
+<b+1(s),d/b+4>,3                                    3    TWP
+<b+1(s),d+4,1,d/b+4>,3                              5    TWP
+
+**KUMA/PANDA**
+Combo                                               Hits Player
+f,f+2,d/f+1+2                                       2    ALX
+f,f+2,f,f+2                                         2    ALX
+f,f+2,f+1,1,1                                       4    ALX
+<f,f+1+2,f,f+2,d/f+1+2>                             3    BIG
+u/f+4,f,f+1+2,f,f+2                                 3    BIG
+f,f+2,d,d/f,2,1                                     3    CRI
+f,f+2,2,1,2                                         4    AOI
+f,f+2,b,d/b,d,d/f+2,u/f+3+4                         3    M_3
+
+**JULIA CHANG**
+Combo	                                            Hits Player
+f+1+4(Unblockable),d+4,D,d/f+4,3                    4    CRI
+<f+1,d+4>,1,d+4,1,d+4,1,d+4                      ?? 5-8  CRI
+<2,1,1,2,3,3,3,4,4,1,1>,2+3,1                       14   AOI
+u/f+4,1,2+3,1                                       5    AOI
+<d/f+2>,1,f,f,f+2,1,1,f,f,f+2,1                     7    DJK
+<d+4>,1,1,2,d+4,1,u/f+3+4                           7    ALA
+f+1+4(Unblockable),D/F~1,2,d+4,1                    5    M_3
+[<f+1~2_D,d/f+2(s)],d/f~1,1,d/f~1,2>                5    M_3
+f+1,1,2+3,1                                         5    FAC
+3+2,4,1,d+4,1,d+4,1,d+4,1,d+4                    ?? 7-10 TBO
+
+**GUN-JACK**
+Combo	                                            Hits Player
+d+1+2,1+2~1+2,b,d/b,d,D/F+1                         4    AOI
+d/f+2,3,D+1,2,u/f+3+4                               4    M_3
+
+**BRIAN FURY**
+Combo	                                            Hits Player
+d,d/f,f+2,b+2,1,4,3,3                               6    DJK
+d,d/f,f+1_WS+1,1,b+2,1,2_4                          5    DJK
+d,d/f,f+2,b+2,1,4,f,f+2                             5    DJK
+u_u/f+4,1,2,f,f+2                                   4    DJK
+d/f+3,WS+3,1,f,f+2                                  4    DJK
+d,d/f,f+2,b+2,1,4,f,f+2                             5    DJK
+<3,2,1>,d/f+1,b+4,3,4                               7    TBO
+
+**HEIHACHI MISHIMA**
+Combo                                               Hits Player
+f,N,d,d/f+2,1,2,f+1,b+2,1                           6    DJK
+f,N,d,d/f+2,1,2,f,N,d,d/f+4,4,1                     6    DJK
+f,N,d,d/f+2,1,1,2,2                                 5    TBO
+
+    ****************************
+E.  HOW TO CREATE A JUGGLE COMBO
+    ****************************
+Special thanks to AOI.
+A juggle combo is a combination of hits following a floating move.
+A juggle is only true, if the hits that follow the floating move
+continue to hit the character without the player ever getting a
+chance to escape the combo.
+To create your own juggle combos, you MUST know your character's
+juggle openers/floating moves. These are moves that knock your
+opponent into the air, making them prone to extra hits. Many
+characters share similar juggle openers. These are d/f+2 and u/f+4
+(uppercut and jumpkick). Some characters are not able to float
+opponents in this way. Every character also has floating moves
+specific to the individual. An example would be Nina's d/b+3+4.
+After an opponent has been knocked into the air, you have a choice
+of what to do next. Commonly, a regular combo (that would hit
+whilst opponent is standing), or part of a regular combo, is used
+as the juggled character falls. As you become more advanced, you
+realize that it is possible to add one or two extra, quick hits in
+before the regular combo (such as jabs, or 1,2 punches). Another
+option is to finish the juggle combo with a hard knock-away hit
+such as Paul's Deathfist (d,d/f,f+2). Take a look at the following
+example, for Jin Kazama, which encompasses all of the above.
+f,N,d,d/f+2,1,1+4,D/F+4,4
+The first hit (f,N,d,d/f+2) is a juggle opener, and floats the
+opponent. That move is specific to Jin, although the same combo
+could be started with d/f+2 (common to almost all character). The
+second hit (1) is simply a single jab. It is not completely
+necessary, but spaces the combo out, gives it more hits, and looks
+good. The next hits (1+4) are part of a regular combo (White
+Heron). The combo is finished with a move that knocks the opponent
+away (D/F+4,4). In all, the juggle combo hits 6 times, does
+substantial damage and makes far more sense than just letting the
+character fall to the floor after the first hit.
+When creating and performing juggle combos, it is essential to
+understand the ideas of distancing and timing. In the previous
+example, you must step in about half a step before applying the
+second hit. On third part (The White Heron Combo), you must wait
+until the falling character has almost hit the ground before
+pressing 1+4 to perform the move. If the distance and/or timing is
+off on any combo, it will appear to be impossible. Both distance
+and timing come with practice, patience and experience.
+
+    *******
+F.  UPDATES
+    *******
+< > included to show pre-float hits. If there are moves contained
+within these brackets, the hits do not juggle or cause a float.
+They are pre-float hits, and are sometimes optional.
+[ ] included to show option parameters.
+Non-guaranteed ground hits have been removed (King's Moonsault for
+example).
+New combos have been added to every character.
+Some bugs have been removed, but many still remain.
+FAQ renamed.
+
+    **************
+G.  CREDITS/THANKS
+    **************
+Special credits and/or thanks to......
+Namco, for making such an amazing game.
+Rachel, for being the MOST understanding girlfriend to EVER live.
+I love you Rachel.
+Slikatel, for his advice and allowing me to use the combos on his
+site.
+Aoi, for help with HOW TO MAKE A JUGGLE COMBO.
+The Faceless Master for layout, ideas.
+Everyone who helps out in the Twisted Tekken team (especially
+Crimson, Aoi, TekGod, Jim and Kent), and contributes to the News
+and Rumors section.
+All the T.T.F.N. Players, because without you; not only would this
+FAQ not exist, but Twisted Tekken would be no different to any
+other Tekken site.
+Everyone who contributes to The Tekken Web Project 3, for their
+combos and hard work.
+Everyone who visits Twisted Tekken, thank you for making it the
+unexpected, runaway success that it is.
+Jon, A.K.A. Big Cat, for teaching me, putting me in my place, and
+astonishing me, on a daily basis; and for helping with this FAQ.
+Aram the Mighty for ALWAYS being willing to visit the arcade.
+Jayce, Scott, Q and Martin, for BEING Jayce, Scott, Q and Martin.
+Mateo A.K.A. Toshin, for NOTHING hehehe.
+All the Pinocchio's Amusement staff (Tony and Aziz especially) for
+being so cool.
+Lateef, for his art contributions.
+All the Webmasters, for providing all the information that they
+do, and being so friendly (especially Dinoza, Nogard, Faceless
+Master, Vic, Mario, Richard, GraveDigga, Slikatel and those I have
+inevitably forgotten).
+St. Ides, Labatt and Molson for getting me drunk and causing me to
+restart this ENTIRE FAQ from scratch (more than once!!).
+All the obsessed Tekken junkies out there, you are not alone!!! ;)

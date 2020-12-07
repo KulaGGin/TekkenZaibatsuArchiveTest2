@@ -1,0 +1,823 @@
+---------------------------------------
+Tekken 5: Dark Resurrection Raven FAQ
+Version 1.0
+8/30/06
+---------------------------------------
+By Starwinderbeta
+starwinderbeta@yahoo.com
+Copyright 2006 - Starwinderbeta
+
+Submitted to http://www.tekkenzaibatsu.com
+
+If this FAQ is located ANYWHERE ELSE, please contact me.
+---------------------------------------------------------
+
+Everything you need to know about Raven, compiled into one FAQ.
+
+Thanks to the Tekken Zaibatsu Raven Community for all their 
+contributions to the Raven forums. This guide wouldn't have been 
+possible if it weren't for those guys.
+
+Credit goes to Tekken Zaibatsu for the Legend and Move List.
+
+----------------------------------------------------------------
+| LEGEND                                                       |
+----------------------------------------------------------------
+|			   Commands                            |
+----------------------------------------------------------------
+| 1   | Left Punch             | 2   | Right Punch             |
+| 3   | Left Kick              | 4   | Right Kick              |
+| f   | Tap Forward            | F   | Hold Forward            |
+| d   | Tap Down               | D   | Hold Down               |
+| b   | Tap Back               | B   | Hold Back               |
+| u   | Tap Up                 | U   | Hold Up                 |
+| d/f | Tap Down Forward       | D/F | Hold Down Forward       |
+| d/b | Tap Down Back          | D/B | Hold Down Forward       |
+| u/f | Tap Up Forward         | U/F | Hold Up Forward         |
+| u/b | Tap Up Back            | U/B | Hold Up Back            |
+| qcf | Quarter Circle Forward | qcb | Quarter Circle Back     |
+| hcf | Half Circle Forward    | hcb | Half Circle Back        |
+----------------------------------------------------------------
+|                          Notations                           |
+----------------------------------------------------------------
+| FC  | Full Crouch Animation  | WS  | While Standing Up       |
+| N   | Joystick In Neutral    | WR  | While Running           |
+| SS  | Sidestep Either Way    | SSL | Sidestep To The Left    |
+| SSR | Sidestep To The Right  | [ ] | Optional Command        |
+| ,   | Followed By            | ~   | Immediately After       |
+| +   | At The Same Time       |( _ )| Or                      |
+| <   | Delayed Input          | =   | Next In Sequence        |
+| °   | Push And Hold Button   | :   | Just Frame Input        |
+----------------------------------------------------------------
+|                      Grounded Positions                      |
+----------------------------------------------------------------
+| PLD | Play Dead Position     | Face Up & Feet Away           |
+| KND | Knockdown Position     | Face Up & Feet Towards        |
+| SLD | Slide Position         | Face Down & Feet Away         |
+| FCD | Face Down Position     | Face Down & Feet Towards      |
+----------------------------------------------------------------
+|                       Move Properties                        |
+----------------------------------------------------------------
+| BT  | Your Back Turned To The Opponent                       |
+| FF  | Face Forward Towards Opponent                          |
+| OB  | Forces Opponent Back To face You                       |
+| OC  | Forces Opponent Into Crouch                            |
+| OS  | Forces Opponent's Side To Face You                     |
+| JG  | Juggle Starter                                         |
+| BN  | Bounce Juggle Starter                                  |
+| RC  | Recover Crouching After A Move                         |
+| RCj | Joystick Modifier, Need To Hold D During Move To RC    |
+| CH  | Requires A Counter Hit                                 |
+| DS  | Double Over Stun (ex. Kazuya WS+2 Counter Hit)         |
+|     | (Tap f to escape in most cases, you can usually launch |
+|     | opponent)                                              |
+| FS  | Fall Back Stun (ex. Kazuya WS+2)                       |
+|     | (Tap f to escape in most cases, you can usually launch |
+|     | opponent)                                              |
+| MS  | Minor Stun (ex. Kazuya d/f+1, Paul SS+3)               |
+|     | (In most cases doesn't lead to guaranteed hits)        |
+| KS  | Kneel Stun (ex. Kuma d/f+1+2, Kazuya f+4)              |
+|     | (In some cases you get a free launcher)                |
+| CS  | Crumple Stun (ex. Bryan b+2,1, Kazuya b+4)             |
+|     | (Animations vary, a jab will usually start a combo     |
+| CF  | Crumple Fall (ex. Craig u/f+1+2, Yoshimitsu b+1+4)     |
+|     | (Opponent slowly falls to KND position)                |
+| CFS | Crumple Fall Stun (ex. Kazuya f+1+2, Law f+2~1)        |
+|     | (Slow crumple stun to the ground, combo possible at    |
+|     | time)                                                  |
+| BS  | Block Stun (To attacking character, ex. Law d/b+4)     |
+| SH  | Stagger Hit (ex. Devil d/f+2)                          |
+| GB  | Guard Break (Usually one or two hands go up in the air)|
+| TS  | Throw Shift (Moves to throw animation on hit)          |
+| TC  | Technically Crouching During The Move                  |
+| TJ  | Technically Jumping  During The Move                   |
+| #   | See Corresponding Move                                 |
+| [2] | Hit Modifier (eg. RC[2] property applies to 2nd hit)   |
+| b   | Block Modifier (eg. OCb opponent crouch on block)      |
+| c   | CH Modifier (eg. JGc is a juggle starter on counterhit)|
+| co  | Crouching Opponent Modifier (eg. KSco)                 |
+| cco | CH On Crouching Opponent Modifier (eg. KScco)          |
+----------------------------------------------------------------
+| l   | Hits Low (block d/b)                                   |
+| m   | Hits Mid (block b)                                     |
+| h   | Hits High (Block b or duck)                            |
+| L   | Hits Low And Grounded Opponents (block d/b)            |
+| M   | Hits Mid And Grounded Opponents (block b)              |
+| H   | Hits High And Grounded Opponents (block b or duck)     |
+| Sm  | Hits Special Mid (block d/b or b)                      |
+| !   | Unblockable Hit                                        |
+| (!) | Unblockable Hit Which Can Be Ducked                    |
+| [!] | Unblockable Hit Grounded Opponents                     |
+| T   | Throw                                                  |
+| "   | Indicates Block Point In String Hits                   |
+----------------------------------------------------------------
+
+
+
+
+
+*****MOVE LIST
+
+GRAPPLING ARTS
+-----------------------------------------------------------------------------------------------------------
+|      Command        |              Throw Name               |  Type  |   Damage   | Escape | Properties |
+-----------------------------------------------------------------------------------------------------------
+| (1+3_F+1+3)         | Grave Digger                          | Front  | 15,20      | 1      |            |
+| (2+4_F+2+4)         | Salamander                            | Front  | 7,7,21     | 2      |            |
+| d/f+1+4             | Curse Shoot                           | Front  | 26, 12     | 1      |            |
+| (d/b_FC)+1+2        | Ultimate Tackle                       | Front  | 5          | System |            |
+|   = 1,2,1,(2,1_1,2) |  = Ultimate Punches                   |        | 5,5,5,5,5  | System |            |
+|   = 2,1,2,(1,2_2,1) |  = Ultimate Punches                   |        | 5,5,5,5,5  | System |            |
+| hcb,f+1+2           | Vampire Touch                         | Front  | 20,28      | 1+2    |            |
+| [F+] (1+3_2+4)      | Neck Ringer                           | Left   | 40         | 1      |            |
+| [F+] (1+3_2+4)      | Swift Assassin                        | Right  | 40         | 2      |            |
+| [F+] (1+3_2+4)      | Dark Matter                           | Back   | 50         | None   |            |
+-----------------------------------------------------------------------------------------------------------
+
+BASIC ARTS
+--------------------------------------------------------------------------------------------------------------
+|      Command        |               Move Name               | Stance |   Damage   | Hit Range | Properties |
+--------------------------------------------------------------------------------------------------------------
+| 1                   | Jab                                   |        | 5          | h         |            |
+| f+1                 | Forward Jab                           |        | 5          | h         |            |
+| d+1                 | Down Jab                              | RC     | 5          | Sm        |            |
+| FC+1                | Crouch Jab                            | RC     | 5          | Sm        |            |
+| 2                   | Straight                              |        | 12         | h         |            |
+| d+2                 | Down Straight                         | RC     | 8          | Sm        |            |
+| FC+2                | Crouch Straight                       | RC     | 8          | Sm        |            |
+| 3                   | Head Kick                             |        | 14         | h         |            |
+| FC+3                | Spin Low Kick                         | RC     | 12         | L         |            |
+| 4                   | Roundhouse                            |        | 20         | h         | JGc        |
+| FC+4                | Crouch Spin Kick                      | RC     | 10         | l         |            |
+--------------------------------------------------------------------------------------------------------------
+
+SPECIAL ARTS
+--------------------------------------------------------------------------------------------------------------
+|      Command        |               Move Name               | Stance |   Damage   | Hit Range | Properties |
+--------------------------------------------------------------------------------------------------------------
+| 1,2                 | Twin Jabs                             |        | 5,12       | hh        |            |
+| d/f+1               | Dagger Blow                           |        | 15         | m         | MS         |
+| b+1                 | Smash Hammer                          |        | 18         | h         | OC OCb KSc |
+| u/b+1,2             | Gate Keeper                           |        | 12,19      | hm        | OC         |
+| (WS_d,d/f,N)+1      | Body Slash                            |        | 14         | m         | #1 JG      |
+| qcf+1               | Mortal Elbow                          |        | 24         | m         | GB KND FSc |
+| 1+2                 | Crusader                              |        | 33         | m         | CF KNDc    |
+| b+1+2,2             | Slide Hammer                          |        | 28,12      | mm        | OC OCb MSc |
+| b+1+2,3             | Slide Fencer                          | SDW    | 28,17      | mL        | #2 KND     |
+| qcf+1+2             | Hellhound                             |        | 8,15       | mm        | KND        |
+| 2,3                 | PDK Combo                             |        | 12,10      | hl        |            |
+| 2,4                 | PK Combo                              |        | 12,16      | hh        | PLD        |
+| f+2                 | Salt Stab                             |        | 30         | m         | GB KND     |
+| d/f+2               | Assassin Lift                         | SDW    | 21         | m         | JG         |
+|  =3                 |  = Shadow Kick                        |        | 25         | h         | KND        |
+| d/b+2,1             | Assassin Stinger                      |        | 16,6       | mh        | MSc[1]     |
+| D/B+2               | Assassin Sting                        | SDW    | 16         | m         |            |
+| b+2,2               | Unicorn Combo                         |        | 15,12      | hm        |            |
+|  = ~B               |  = Shadow Stance                      |        | -          | -         |            |
+|  = 1+2              |  = Missing Ring                       |        | 15         | L         | SLD        |
+|  = 3                |  = Unicorn Tail                       |        | 20         | m         | SLD JGc    |
+| b,b+2               | War Hand                              |        | 15,25      | mh        | PLD        |
+| (WS_d,d/f,N)+2      | Jackknife Elbow                       |        | 16         | m         | #1 JGc     |
+| qcf+2               | Bloody Buzzsaw                        |        | 13         | l         | JG         |
+| 3,3<4               | Valkyrie Lance                        |        | 14,12,18   | hhh       | KND        |
+| 3~4                 | Chariot                               |        | 13,15      | mM        | JG         |
+| f+3                 | Reflect Mirror                        |        | 22         | h         | JG         |
+| f,f+3               | Vampire Knee                          |        | 24         | m         | JC         |
+| f,f,N+3             | Poison Needle                         |        | 15         | h         | JG         |
+| (f,f,f_WR)+3        | Leaping Slash Kick                    |        | 30         | m         | GB         |
+| d/f+3               | Metal Boot                            |        | 21         | h         | JGc        |
+| d+3                 | Shin Sting                            |        | 9          | L         |            |
+| d/b+3               | Killer Bee                            |        | 17         | L         | SLDc       |
+| b+3                 | Hades Heel                            |        | 19         | m         | OC OCb     |
+|                     |                                       |        |            |           | SLDco SLDc |
+| (u_u/b)+3           | Death Bringer                         | SDW    | 25         | h         | KND        |
+|  = 3                |  = Death Middle                       |        | 20         | m         | KND        |
+|  = d+3              |  = Death Low                          |        | 18         | l         | PLD        |
+|    = ~D             |    = Summon Charge                    |        | -          | -         | #3         |
+|  = 4                |  = Death High                         |        | 37         | h         | KND        |
+| u/f+3               | Death Heel                            |        | 20         | M         | KND        |
+| (WS_d,d/f,N)+3      | Trident Kick                          |        | 24         | m         | KND        |
+| SS+3                | Shadow Kick                           |        | 17         | m         | MS KNDc    |
+| 3+4                 | Slave Kneel                           |        | 21         | M         | KND        |
+| 3+4                 | Blind Ghost                           |        | 28         | m         | #4         |
+| f+3+4               | Berserker                             |        | 22         | m         | KND        |
+|  = N+4,2            |  = Skull Rave                         |        | 7,25       | Lm        | CF KNDc    |
+|  = f+4,2            |  = Delayed Skull Rave                 |        | 12,25      | Lm        | CF KNDc    |
+|  = 3+4              |  = Rave Spin                          |        | 17         | M         | KND        |
+| d/f+3+4             | Blind Ghost                           | SDW    | 28         | m         | KND        |
+| b+3+4               | Shadow Stance                         | SDW    | -          | -         |            |
+| u/b,b+3+4           | Pandora Spin                          |        | 15,15,21   | mmM       | KND OCb    |
+| qcf+3+4             | Storm Kick                            |        |            | m         | PLD        |
+| FC,d/f,d,d/f+3+4    | Tornado Disaster                      |        | 16         | L         | PLD        |
+| 4~3                 | Hydra                                 |        | 10,12      | mm        | JG         |
+|  = <1               |  = Gargoyle Claw                      | RC     | 10         | l         |            |
+|  = <3               |  = Blind High                         |        | 23         | h         | GB KND     |
+|  = <4               |  = Blind Middle                       |        | 12         | m         | KND        |
+| f+4                 | Lance Kick                            |        | 24         | h         | KND        |
+| f,f+4               | Wind Spin Kick                        |        | 30         | h         | KND CSc    |
+| f,f,N+4             | Vampire Knee                          |        | 21         | m         | CSc        |
+| d/f+4<4             | Guillotine Cracker                    |        | 13,15      | mM        | JGco[1] OC |
+|                     |                                       |        |            |           | KSco SLDc  |
+| d+4                 | Basilisk Fang                         | RC     | 13         | L         |            |
+| d/b+4               | Vampire Sweep                         |        | 15         | L         | KND        |
+| b+4                 | Crusher Knee                          |        | 12         | m         |            |
+|  = b+4              |  = Skull Crusher                      | SDW    | 15         | M         | OC SLDco   |
+|                     |                                       |        |            |           | SLDc       |
+|    = 3              |    = Crusher Low                      |        | 15         | L         |            |
+|      = 3+4          |      = Rave Spin                      |        | 17         | M         | KND        |
+|      = 4,2          |      = Skull Rave                     |        | 7,25       | Lm        | CF KNDc    |
+|      = f+4,2        |      = Delayed Skull Rave             |        | 12,25      | Lm        | CF KNDc    |
+|  = N+4              |  = Skull Crusher Fake                 | SDW    | 17         | m         | OC KSco    |
+|                     |                                       |        |            |           | SLDc       |
+| (u/b_u_u/f)+4,4     | Storm Bringer                         |        | 16,20      | mm        | KND        |
+| (FC,f+4_qcf+3+4)    | Hell Hook                             |        | 25         | m         | KND        |
+| (WS_d,d/f,N)+4      | Shadow Snap Kick                      |        | 18         | m         | #1         |
+| qcf+4               | Wheel Edge                            | SDW    | 15         | m         | JG         |
+| d+1+2               | Summon Force                          |        | -          | -         | #3         |
+| qcf [~u_~d]         | Sprint Mirage [Cancel]                |        | -          | -         |            |
+| u,u/b               | Evasive Backflip                      |        | -          | -         |            |
+| FC,d/f,d,d/f        | Mirage Step                           |        | -          | -         | #5         |
+| b,b,u/b             | Wall Jump                             | SDW    | 15         | m         | KND        |
+--------------------------------------------------------------------------------------------------------------
+#1 - Raven can do this move from crouch dash with the d,d/f,N command.
+#2 - Raven is in Shadow Stance only if the move is not blocked.
+#3 - Raven gets Ki Power after this move.
+#4 - Only works if you input the command while you are getting hit.
+#5 - Raven can execute WS moves from this step.
+
+
+SHADOW STANCE
+--------------------------------------------------------------------------------------------------------------
+|      Command        |               Move Name               | Stance |   Damage   | Hit Range | Properties |
+--------------------------------------------------------------------------------------------------------------
+| 1                   | Knuckle Axe                           |        | 15         | h         |            |
+| f+1                 | Life Stole                            | SDW    | 18         | m         | #1 OB      |
+| 1+2                 | Black Crusader                        |        | 30         | m         | CF KNDc    |
+| f+1+2 [~b]          | Back Bared Punch Reversal [SDW]       |        | -          | -         | #2         |
+| 2,2                 | Back Knuckles                         |        | 13,15      | hm        |            |
+| f+2,4               | Cold Massacre                         |        | 15,15      | mm        | KND        |
+| 3<4                 | Blind Berserker                       |        | 10,10      | hm        | OCb OC KSc |
+|  = 4                |  = Labyrinth                          |        | 21         | M         | KND        |
+|    = ~F             |    = Phantom Roll                     |        | -          | -         | #3 OB      |
+| f+3                 | Demon Knee                            | SDW    | 25         | m         | CSc        |
+| f,f+3               | Gremlin                               |        | 25         | m         | KND        |
+| (d_d/b)+3           | Reverse Hook                          |        | 15         | L         |            |
+| 3+4                 | Gremlin's Cannon                      |        | 5,15       | mm        | JG         |
+| f+3+4               | Labyrinth                             | SDW    | 24         | M         | KND        |
+| f,f+3+4             | Vermillion                            | SDW    |            | L         | #5 KND     |
+| b+3+4               | Bat Roll                              |        | -          | -         |            |
+| f+4,3               | Trick Kick                            |        | 13,18      | lh        | #4 KND     |
+| f,f,F               | Phanton Roll                          |        | -          | -         | #3 OB      |
+--------------------------------------------------------------------------------------------------------------
+#1 - On hit this move shifts to a throw and leaves opponent back turned and Raven in SDW.
+#2 - You can only go back to SDW when the punch reversal was not succesfull.
+#3 - Teleports through the opponent.
+#4 - After only f+4 Raven remains in SDW.
+#5 - Raven only ends up in SDW if the move hits.
+
+
+UNBLOCKABLE ARTS
+----------------------------------------------------------------------------------------------------------------
+|          Command           |            Move Name           |  Stance  |   Damage   | Hit Range | Properties |
+----------------------------------------------------------------------------------------------------------------
+| 1+2                        | Blind Vampire                  |          | 35         | [!]       |            |
+| d/f+1+2                    | Blind Vampire                  |          | 35         | [!]       |            |
+| d+1+2                      | Summon Force                   |          | -          | -         |            |
+|  = d,d/b,b,u/b,u,u/f,f+1+2 |  = Dead End                    |          | 60         | [!]       |            |
+|  = ~b,f,u,d+3+4            |  = Summon Mirage               |          | -          | -         |            |
+----------------------------------------------------------------------------------------------------------------
+
+STRING HIT ARTS
+--------------------------------------------------------------------------
+|         Command           | Hits |         Damage         | Hit Range  |
+--------------------------------------------------------------------------
+| u/b+1,2,2,2,4,2,3,4,2,1+2 | 10   | 12,19,5,5,8,8,9,5,6,35 | hmmhhmmLm! |
+| BT 2,2,1,2,4,2,3,4,2,1+2  | 10   | 13,15,7,7,8,8,9,5,6,35 | hmmhhmmLm! |
+--------------------------------------------------------------------------
+
+
+
+
+
+*****MOVE DESCRIPTIONS
+
+SPECIAL ARTS
+
+1,2 - Two jabs.
+High, High. 
+Standard 8-frame jabs. Safe. Natural combo (NC). Can be used for a variety of things, from changing momentum to punishing. Excellent poking tool.
+
+d/f+1 - Left hook to opponent's side.
+Mid. 
+Solid poking tool. Used for interrupting and disrupting the opponent's momentum. Even frames on block.
+
+b+1 - Overhead left elbow.
+High. 
+Force-crouches the opponent on counter hit and gives frame advantage on block. Not much else to say about this move. It was much better in 5.0.
+
+u/b+1,2 - Stretches arm to strike, then turns around into an overhead right chop.
+High, Mid. 
+Natural Combo. Jab-punishable on block.
+
+(WS_d,d/f,N)+1 - Left Uppercut.
+Mid. 
+Raven's main launcher. Jab-punishable on block. It can be done out of his crouch dash by inputting the command as d,d/f,N+1.
+
+qcf+1 - Crouch dash into a thrusting left elbow.
+Mid. 
+Safe on block, because it pushes far back. Causes a Double Over Stun (DS) on counter hit. Seeing as DSes are breakable, Raven is left at a disadvantage on counter hit.
+
+1+2 - Short range strike.
+Mid. 
+A powerful short range move that knocks down on hit and counter hit. Jab-punishable on block.
+
+b+1+2,2 - Evading body strike to turnaround overhead elbow.
+Mid, Mid. 
+The first strike has decent evasive properties. Frame advantage on hit. The second hit gives both frame advantage and force-crouches on block.
+
+b+1+2,3 - Evading body strike to slide.
+Mid, Low. 
+The first strike has decent evasive properties. Frame advantage on hit. The second hit is a low slide that leaves Raven on the other side of his opponent, with his back turned to them (BT). The opponent falls into the play dead position (PLD. Face up and head towards) The slide can be low parried. The slide is also punishable on block. SDW d+3 is guaranteed if the slide connects. Hits grounded (2nd hit).
+
+qcf+1+2 - Crouch dash to double punches.
+Mid, Mid. 
+Knocks down on hit and counter hit. Pushes back on block, making it safe.
+
+2,3 - Right jab to low left kick.
+High, Low. 
+2nd hit unsafe on block. Hits grounded (2nd hit). Can be low parried (2nd hit).
+
+2,4 - Right jab to right spin kick.
+High, High. 
+Jab-punishable on block. Natural combo on counter (NCC).
+
+f+2 - Spear-like thrust with right arm.
+Mid. 
+Safe. It's liner, though, so it can be sidestepped easily.
+
+d/f+2 - Right twisting uppercut.
+Mid. 
+Another of Raven's juggle starters. Leaves Raven in BT. Very unsafe on block due to being left in SDW.
+  = 3 - BT kick.
+  Mid. 
+  Jab-punishable on block. Knocks down on hit.
+
+d/b+2,1 - Twisting BT right elbow to left backhand strike.
+Mid, High. 
+Excellent poking and pressure tool. NCC. A second d/b+2,1 is uninterruptable if the first is a counter hit. The first hit causes minor stun on counter (MSc[1]). Auto-sidesteps and Low Crushes during the first few frames of the move. Safe on block.
+
+D/B+2 - Twisting BT elbow into SDW.
+Mid. 
+Very unsafe on block. Ends in SDW. Causes minor stun on counter.
+
+b+2,2 - Right swing to right elbow.
+High, Mid. 
+Jab-punishable on block.
+  = ~B - SDW.
+  = 1+2 - Low sweep with hands.
+  Low.
+  Unsafe on block. Hits grounded.
+  = 3 - Upper-swinging left kick.
+  Mid. 
+  Juggle starter on CH. Unsafe on block.
+
+b,b+2 - Flurry of hits into a right backfist.
+Mid, High. 
+Auto-parries after the first couple of frames. The 2nd hit stuns on counter. Unsafe on block.
+
+(WS_d,d/f,N)+2 - Rising right elbow.
+Mid. 
+Juggle starter on counter. Unsafe on block.
+
+qcf+2 - Crouch dash to a low spinning fist.
+Low. 
+Unsafe on block. High Crush. Juggle starter. Hits grounded. Can be low parried.
+
+3,3<4 - Two left kicks, then a right kick.
+High, High, High. 
+Delayable. NCC. Unsafe on block.
+
+3~4 - Cartwheel that ends with Raven's back turned.
+Mid, Mid. 
+Hits grounded (2nd Hit). Ends in SDW. Juggle starter. Unsafe on block. Low Crushes during some frames in the middle of the move.
+
+f+3 - Winding left kick.
+High. 
+Juggle starter. Unsafe on block.
+
+f,f+3 - Flying left knee.
+Mid. 
+Juggle starter. Unsafe on block. Pretty fast. Low Crush.
+
+f,f,N+3 - Very high left side kick.
+High. 
+Juggle starter. Unsafe on block.
+
+(f,f,f_WR)+3 - Hopping left side kick.
+Mid.
+The standard running 3. Safe. Low Crush.
+
+d/f+3 - Snapping left kick.
+High.
+Juggle starter on counter. 8-framers can punish on block.
+
+d+3 - Light stomp.
+Low.
+Poking tool. Hits grounded. Can be low parried.
+
+d/b+3 - A hop to a low left kick.
+Low.
+Very misleading. Low Crush. On counter, it leaves the opponent in SLD position. Hits grounded. Can be low parried.
+
+b+3 - Overhead heel kick.
+Mid.
+Safe on block. On counter and on crouching opponents, it leaves the opponent in SLD position. Force-crounches on hit and block. Hits grounded.
+
+(u_u/b)+3 - Hopping spinning kick.
+High.
+Knocks down on hit. Unsafe on block. Low Crush.
+  = 3 - Mid kick.
+  Mid.
+  Knocks down on hit. Unsafe on block.
+  = d+3 - Low sweep.
+  Low.
+  Knocks down on hit. High Crush.
+    = ~D - Ki Power.
+    Gains Ki Power.
+  = 4 - Hopping spinning kick.
+  High.
+  Knocks down on hit. Gives frame advantage on block. Low Crush.
+
+u/f+3 - Hopping heel.
+Mid. 
+Knocks down on hit. Hits grounded. Juggle starter on bigs. Unsafe on block. Low Crush.
+
+(WS_d,D/F,N)+3 - Side kick.
+Mid.
+Knocks down on hit. Unsafe on block.
+
+SS+3 - Side kick.
+Mid. 
+Knocks down on counter. Unsafe on block.
+
+3+4 - Armless cartwheel (Sideways).
+Mid.
+Knocks down on hit. Hits grounded. Unsafe on block.
+
+3+4 - Teleport to falling kick.
+Mid.
+JF move that must be inputted right when Raven gets hit. Knocks down on hit. Unsafe on block, but it's fast enough to hit an opponent before they recover from most moves. Ends in SDW.
+
+f+3+4 - Armless Cartwheel (Forward).
+Mid.
+Knocks down on hit. Unsafe on block. Low Crush.
+  = N+4,2 - Low spin kick to short range fist.
+  Low, Mid.
+  Unsafe on block (2nd hit). Crumple Falls (CF) on hit (2nd hit). Knocks down on counter (2nd hit). Hits grounded (1st hit)
+  = f+4,2 - Roll on the ground to low spin kick to short range fist.
+  Low, Mid.
+  Unsafe on block (2nd hit). Crumple Falls on hit (2nd hit). Knocks down on counter (2nd hit). Hits grounded (1st hit)
+  = 3+4 - Sideways spinning kicks.
+  Mid.
+  Unsafe on block. Knocks down on hit. Hits grounded.
+
+d/f+3+4 - Teleport to falling kick.
+Mid.
+Very unsafe on block. Knocks down on hit. Ends in SDW.
+
+b+3+4 - Turns around.
+Enters Shadow Stance (SDW).
+
+u/b,b+3+4 - Backflip to massive body spin attack.
+Mid, Mid, Mid.
+Extremely unsafe. Hits grounded (3rd hit). Force crouches on block. Knocks down on hit.
+
+qcf+3+4 - Crouch dash into spinning right kick.
+Mid.
+Unsafe on block. Leaves the opponent in PLD position.
+
+FC,d/f,d,d/f+3+4 - Double crouch dash into spin kicks.
+Low.
+Unsafe on block. Leaves the opponent in PLD position. Can be low parried.
+
+4~3 - Swinging right kick to swinging left kick.
+Mid, Mid.
+Unsafe on block. Juggle starter.
+  = <1 - Crouching punch.
+  Low.
+  High Crush. Recovers crouching (RC). Unsafe on block. Can be low parried.
+  = <3 - High kick.
+  High.
+  Unsafe on block. Knocks down on hit.
+  = <4 - Spinning kick.
+  Mid.
+  Unsafe on block. Knocks down on hit.
+
+f+4 - Straight kick.
+High.
+Unsafe on block. Knocks down on hit.
+
+f,f+4 - String spinning kick.
+High.
+Unsafe on block. Knocks down on hit. Crumple Stuns on counter hit.
+
+f,f,N+4 - Right knee.
+Mid.
+Unsafe on block. Crumple Stuns on counter hit.
+
+d/f+4<4 - Rising axe kick.
+Mid, Mid.
+Unsafe on block (Both hits). Juggle starter on crouching opponents (1st hit). Force crouches (2nd hit). Kneel stuns on crouching opponents (2nd hit). Leaves opponent in SLD on counter hit (2nd hit). Hits grounded (Both hits).
+
+d+4 - Ground spin to kick.
+Low.
+Unsafe on block. Hits grounded.
+
+d/b+4 - Low spin kick.
+Low.
+Unsafe on block. Hits grounded. Knocks down on hit.
+
+b+4 - Knee.
+Mid.
+Unsafe on block.
+  = b+4 - Heavy overhead knee.
+  Mid.
+  Very unsafe. Force crouches. Hits grounded. Leaves crouching opponents in SLD position. Leaves opponent in SLD position on counter. Ends in SDW.
+    = 3 - Spin to low kick.
+    Low.
+    Unsafe on block.
+      = 3+4 - Sideways spinning kicks.
+      Mid.
+      Unsafe on block. Knocks down on hit. Hits grounded.
+      = 4,2 - Low spin kick to short range fist.
+      Low, Mid.
+      Unsafe on block (2nd hit). Crumple Falls on hit (2nd hit). Knocks down on counter (2nd hit). Hits grounded (1st hit)
+      = f+4,2 - Roll on the ground to low spin kick to short range fist.
+      Low, Mid.
+      Unsafe on block (2nd hit). Crumple Falls on hit (2nd hit). Knocks down on counter (2nd hit). Hits grounded (1st hit)
+  =N+4 - Overhead kick.
+  Mid.
+  Very unsafe on block. Force crouches. Kneel stuns on crouching opponents. Leaves opponent in SLD position on counter. Ends in SDW.
+
+(u/b_u_u/f)+4,4 - Jumping spinning kick to another spinning kick.
+Mid, Mid.
+Unsafe on block (Both hits). Knocks down on hit (Both hits). 
+
+(FC,f+4_qcf+3+4) - Spinning right kick.
+Mid.
+Unsafe on block. Leaves opponent in PLD position.
+
+qcf+4 - Crouch dash into reverse cartwheel kick.
+Mid.
+Very unsafe on block. Has retreating properties. Juggle starter. Ends in SDW.
+
+d+1+2 - Ki Power.
+Gains Ki Power.
+
+qcf [~u_~d] - Crouch dash to sidestep.
+
+u,u/b - Backflip. Evasive Maneuver.
+
+FC,d/f,d,d/f - Double crouch dash.
+
+b,b,u/b - Rebounds off of wall to spinning kick.
+Mid.
+Knocks down on hit.
+
+
+SHADOW STANCE (SDW)
+
+1 - Light overhead backhand.
+High.
+Basic poke.
+
+f+1 - Reaches out with left hand and srikes opponent.
+Mid.
+Safe on block. On hit this move shifts to a throw and leaves opponent back turned and Raven in SDW.
+
+1+2 - Turns around into a short range strike.
+Mid.
+Knocks down on hit and CH.
+
+f+1+2 [~B] - Turns around halfway in anticipation of an attack. It the reversal connects, Raven flips over the opponent and strikes from behind.
+If it misses, Raven stays in SDW.
+
+2,2 - A right BT punch, turns around, then a right fist swipe.
+High, mid.
+Jab-punishable on block.
+
+f+2,4 - Turn-around fist to downward kick.
+Mid, mid.
+Punishable on block. 2nd hit hits grounded. 2nd hit knocks down on hit.
+
+3<4 - BT kick to downward BT kick.
+High, mid.
+2nd hit force-crouches on hit and block. 2nd hit kneel-stuns on CH.
+  = 4 - Backflip onto the opponent.
+  Mid.
+  Punishable on block. Raven stays in SDW. Knocks down on hit. Hits grounded. Low crushes during some frames.
+    = ~F - Evasive backflip.
+    Evasive maneuver. Raven teleports through the opponent if the opponent is close enough.
+
+f+3 - Turn around to strong knee.
+Mid.
+Crumple stuns on CH. Unsafe on block. Raven stays in SDW.
+
+f,f+3 - Low turn-around to swinging left kick.
+Mid.
+Knocks down on hit. Punishable on block.
+
+d_d/b+3 - Low BT sweep.
+Low.
+Hits grounded.
+
+3+4 - Hopping BT kick to a spin to a high-angle BT kick.
+Mid, mid.
+Juggle starter. Punishable on block.
+
+f+3+4 - Backflip onto the opponent.
+Mid.
+Punishable on block. Raven stays in SDW. Knocks down on hit. Hits grounded. Low crushes during some frames.
+
+f,f+3+4 - Spinning hop to low slide.
+Low.
+Punishable on block. Hits grounded. Raven ends in SDW if the move hits at close to medium range. Low crushes during some frames.
+
+b+3+4 - Turns around.
+Switches from SDW to normal stance.
+
+f+4,3 - Low kick to high kick.
+Low, high.
+2nd hit is duckable if the 1st is blocked. Only after the 1st hit will Raven stay in SDW. Punishable on block.
+
+f,f,F - Evasive backflip.
+Evasive maneuver. Raven teleports through the opponent if the opponent is close enough.
+
+
+UNBLOCKABLE ARTS
+
+1+2 - Raven teleports above the opponent and comes down with an unblockable fist.
+Just frame maneuver that only activates when 1+2 is pressed on the frame Raven is hit by an opponent.
+
+d/f+1+2 - Raven teleports above the opponent and comes down with an unblockable fist.
+
+d+1+2 - Ki Power.
+  = d,d/b,b,u/b,u,u/f,f+1+2 - Unblockable downward palm strike.
+  = b,f,u,d+3+4 - Raven makes a shadow clone of himself. Raven can back flip out of this state [~B]. When Raven gets hit in this state, he auto-counters with     d/f+3+4
+
+
+
+
+
+*****TOP TEN MOVES
+
+1,2 - Raven's basic 8-frame jabs are excellent poking tools. Can be used for a variety of things, from changing momentum to punishing. His Undertaker throw (f,d/f,d,d/b,b,f+1+2) can be buffered out of 1,2 as well.
+
+d/f+1 - A little faster than his 5.0 d/f+1, this is primarily used for interrupting, but it can (should) also be used for tracking opponents who sidestep to the right (Usually after throwing out their standard jabs). To maximize it's usage after it connects, mix it up with another d/f+1, a throw, a sidestep, 1,2, d/b+2,1, or a low move (d/b+4). His Undertaker throw (f,d/f,d,d/b,b,f+1+2) can be buffered out of d/f+1 as well.
+
+d/b+2,1 - His most improved move from 5.0. This move is extremely versatile, and can be spammed until desired affects are achieved. On a counter hit, if the opponent attempts to retaliate, another d/b+2,1 is guaranteed. Sidestepping before using this is very effective. The first hit (d/b+2) auto-sidesteps and goes under high jabs for a few frames. AND it's safe on block. To maximize it's usage after it connects, mix it up with another d/b+2,1, (Only if the first d/b+2,1 was a counter hit) a throw, a sidestep, 1,2, d/f+1 or a low move (d/b+4). His Undertaker throw (f,d/f,d,d/b,b,f+1+2) can be buffered out of d/b+2,1 as well.
+
+d/b+4 - Yes, this move is unsafe, but it is Raven's best low. At max range, it trips the opponent only on counter hit. At close or medium range, it trips on hit. This move is usually best to use sparringly, and in conjuction with the 3 above-stated moves.
+
+d/f+2 - Much improved over 5.0. It's 16 frames now, and is Raven's primary punisher against close-range whiffs. It should only be used as a punisher, because it leaves him in Shadow Stance, so he will get punished if it is blocked. You can get an almost 50% health combo from this launcher, plus wake up games after the combo. All that for a punisher is too good.
+
+f+4 - It's actually worse than its 5.0 iteration because it hits high, but it is Raven's only long-range whiff punisher. It can punish a blocked deathfist, and even a blocked f+1+2 (Nina and Anna). When d/f+2 cannot do the job, f+4 will, so long as the opponent doesn't recover crouching. It's safe on block, too.
+
+1+2 - Another short range whiff punisher. It's best used after sidestepping an opponent's move. It is unsafe on block, so be sure to use it only when you have confirmed the opponent's whiff.
+
+SDW f+1 - It puts the opponent in a really vulnerable position on hit (Back turned to Raven in Shadow Stance), so take advantage of it. The best part is that it is safe on block. This move is very vital to Raven's Shadow Stance wake up games.
+
+f,d/f,d,d/b,b,f+1+2 - The Undertaker throw is Raven's best throw, and one of the best throws in Dark Resurrection because of the damage. This throw is very versatile, as it can be buffered out of a lot of Raven's key moves (1,2, d/f+1, d/b+2,1, d/b+3). It being a double break makes it a bit harder to break, which is always good.
+
+qcf - Raven's crouch dash goes under highs, and the selection of moves that can come out of it provide a very simple, but effective mix up game if used correctly. All of Raven's diagonal input moves (u/f, u/b, d/b, d,f) can be executed during qcf, including his d/f+1+4 throw (Execution: d,D/F+1+4), and his while-standing moves can be executed out of it too, by inputting the qcf as d,D/F,n. This makes his ws and diagonal launchers much more dangerous, because of the distance he can cover with qcf.
+
+
+
+
+
+*****STAPLE COMBOS/JUGGLES FROM EACH LAUNCHER
+
+Note: I am not listing any more juggles aside from the staples, because quite frankly, all the other juggles/combos are inferior to the staples. I am also listing practical combos that are used often in high-level play. No fancy-schmancy stuff that never gets used in actual play.
+
+Beginner/Intermediate Juggles and Combos
+1. ws+1, f,f+3, 1, b+2,2~B, SDW 1+2
+2. 4~3, f,f+3, 1, b+2,2,3 (b+2,2~B, SDW 1+2 is not a good ender for this, because the opponent is off-axis after 4~3, and Raven must be almost perfectly aligned with the opponent for that ender to connect)
+3. d/f+4 (On crouching opponents or opponents that have been low parried), f,f+3, 1, b+2,2~B, SDW 1+2
+4. d/b+4, b+3
+5. CH ws+2, f,f+3, 1, b+2,2~B, SDW 1+2
+6. qcf+2, b+2,2
+7. f,f+3, 1, b+2,2~B, SDW 1+2
+8. While facing an opponent that has his/her back turned to you: 4~3, u/b+1,2.
+9. qcf+4, 2,2,1,2,4
+10. d/f+2, b+2, b+2, 3~4,4
+11. CH 2,4, u/f+3
+
+Expert Juggles and Combos
+1. ws+1, f,f+3, 1, ssl, 1, f,f+3, B+4,4 or 2,4
+2. 4~3, f,f+3, 1, ssl, 1, f,f+3, B+4,4 or 2,4
+3. d/f+4 (On crouching opponents or opponents that have been low parried), f,f+3, 1, ssl, 1, f,f+3, B+4,4 or 2,4
+4. d/b+4, d+3, d/f+4,4
+5. CH ws+2, u/f,n+4, 1, f,f+3, B+4,4 or 2,4
+6. qcf+2, B+4, B+4,4
+7. f,f+3, 1, f,f+3, 1, f,f+3, d/f+4,4 or 2,4 (Must be perfectly on-axis with opponent. If not on axis, use the following: f,f+3, 1, f,f+3, d/f+4,4 or 2,4)
+8. While facing an opponent that has his/her back turned to you: 4~3, u/b+1,2.
+9. CH d/f+3, f,f+3, f,f+3, 1, f,f+3, B+4,4 or 2,4
+10. FCD 3, ws+2, 1, f,f+3, B+4,4 or 2,4
+11. SDW 3+4, f+3 (If the opponent got launched while BT), 1, f,f+3, B+4,4 or 2,4
+12. SDW 3+4, U/F,n+4, f,f+3, B+4,4 or 2,4
+13. SDW f,f+3+4 (at close or medium range), SDW f+4,3 or SDW 1+2 or SDW f,f+3+4
+14. qcf+4, SDW 2, 1, f,f+3, B+4,4 or 2,4
+15. d/f+2, b+2, b+2, 3~4,4
+16. CH 2,4, u/f+3
+
+Wall Combos
+
+Note: [!W] means Wall Splat, or rather, when the opponent hits the wall. Combos #1, 2, 3, 5, and 7 on the beginner/intermediate juggle/combo list can be augmented by replacing the ender (Usually B+4,4 or 2,4) with 1 or 1,2, to make the wall combo easier to execute. The augmentable combos for the expert list are: #1, 2, 3, 5, 7, 9, 10, 11, 12, and 14. #15 is a special case. If the wall is nearby, only do the 3 from the 3~4,4 string.
+
+Standard Wall Combo
+[!W] f+3+4,4,2
+
+Wall Combo when opponent is BT
+[!W] 1+2 or f+4 or f+3+4,4 or f+2, depending on the height of the wall splat and the distance between Raven and the opponent at the time of the wall splat.
+
+
+
+
+
+*****STRATEGY
+
+Raven Overview:
+
+Dark Resurrection's Raven is a definite improvement over 5.0, even though he lost quite a few of his better moves (5.0 f+4, 5.0 b+1). Even though DR's Raven is an improvement, he is almost virtually the same character, as in, he's played the exact same way as his 5.0 iteration. He is one of the most unsafe characters in Tekken 5 and DR, so his suggested playstyle is a more strict and defensive one. He has a handful of safe pokes to rely on at close quarters, one reliable close range whiff punisher, one reliable long range whiff punisher, one reliable post-sidestep punisher, and a handful of useful tricks in Shadow Stance (Which has had been much improved over 5.0's Shadow Stance). High-level Raven play usually consists of the use of these few moves in as safe a manner as the Raven player can manage. Every once in a while, this staple playstyle is varied a bit with the use of his more riskier moves to keep the opponent guessing.
+
+How To Play Raven (On the Offensive):
+1. At close quarters...
+- The tools you have are 1,2, d/f+1, d/b+2,1, qcf~d/f+4, d,D/F,n+ws+1, qcf+2, d,D/F+1+4 throw, and other throws.
+- When 1,2 connects, the best options to choose from there are...
+  - Another 1,2: Because 1,2 gives Raven a slight frame advantage on hit, another 1,2 is great to use for interrupting.
+  - d/f+1: If you anticipate the opponent retaliating with an attack of his/her own, crouching, or sidestepping to Raven's left, this will connect and interrupt that advance. If they block it, Raven has a slight advantage on block. Undertaker can be buffered out of this move.
+  - d/b+2,1: The best option after 1,2. You get nice frame advantage on hit, counter hit, and a slight disadvantage on block (Jab-punishable). This move is ridiculously versatile, and can be used in a variety of ways from interrupting, to conditioning, to Undertaker buffering.
+  - d/f+4: The worst option after 1,2. Only use this if you are very sure the opponent will crouch after 1,2. If the opponent doesn't crouch and blocks d/f+4, you can delay and press 4 for the 2nd hit of d/f+4,4. If it catches the opponent on a counter hit, they will be in SLD position, and you get a guaranteed d/b+4 afterwards.
+  - d/b+4: For opponents that like to retaliate with a 1,2 of their own after yours, d/b+4 will high crush their advance and sweep them, usually netting you the combo followup (Review the combos section). It will clip the opponent's front-most leg and take a bit of damage if they try to backdash after 1,2 (At a very close range). This followup is very effective if a sidestep to the right is done prior.
+  - d/b+3: If used sparringly, this misleading attack can be very useful. It gives a nice frame advantage on hit, and on CH, leaves the opponent in SLD position (But you don't get a free d/b+4 after this; Raven doesn't recover fast enough). Undertaker can be buffered out of this move, too.
+  - 2,4: If you think the opponent is going to retaliate with an attack of their own, throw this out to catch them on a counter hit, which will give you afree u/f+3. It's best to wait for a quick moment before using 2,4. This increases the chance of it landing as a counter hit. Use this move sparringly, though, as seasoned players will just block the 2 and duck the 4, leaving Raven VERY vulnerable.
+  - Throws: In DR, long range throws track 100%. Backdashers will have a harder time retreating after Raven's 1,2 because of this. The best throw option after 1,2, however, is a buffered Undertaker.
+  - Sidestep/Sidewalk: If you anticipate a fairly linear attack from the opponent, sidestep and punish with a well placed 1+2.
+- When d/f+1 connects, the best options to choose from there are...
+  - Another d/f+1 (Refer to the above strategy for d/f+1). This is the second best followup after d/f+1.
+  - d/b+4 (Refer to the above strategy for d/b+4)
+  - 2,4 (Refer to the above strategy for 2,4)
+  - Throws (Refer to the above strategy for throws). Note: If you're fast enough with your execution, the throw can catch them on their side or even from behind, causing more damage. This is also the best followup to d/f+1.
+  - Sidestep/Sidewalk (Refer to the above strategy for sidestepping)
+- When d/b+2,1 connects, the best options to choose from there are...
+  - Another d/b+2,1 (Refer to the above strategy for d/b+2,1). This is the best followup to d/b+2,1 IF the first d/b+2,1 was a counter hit.
+  - d/f+1 (Refer to the above strategy for d/f+1)
+  - 1,2 (Refer to the above strategy for 1,2)
+  - d/b+4 (Refer to the above strategy for d/b+4)
+  - Throws (Refer to the above strategy for throws)
+- When qcf~d/f+4 connects on a non-crouching opponent, vulnerable or blocking, refer to the d/f+4 followup above.
+- When qcf~d/f+4 connects on a crouching opponent, refer to the followup juggle combo above.
+- When d,D/F,n+ws+1 connects, refer to the followup juggle combo above.
+- When qcf+2 connects, refer to the followup juggle combo above.
+- When the d,D/F+1+4 throw connects, you get no options. Wait for the opponent to get up, and continue your offensive, or switch to defensive if need be.
+- Throw followups...
+  - After 1+3: You can get a d/b+4 in after the throw most of the time.
+
+2. After a combo that ends in Shadow Stance...
+- The opponent is on the ground and you are standing right next to them, in SDW. You have the strategic advantage.
+- The tools you have are SDW f+1, SDW f,f+3+4, SDW f+3+4, SDW f,F+2,4, SDW f,F+4,3, and SDW f,F+2+4_1+3.
+- Usually, you will not have the time to see how the opponent reacts before you can do something, so make an educated guess as to how they are going to stand up, or condition them to stand up a certain way by doing the same followup over and over, then mix it up with something else to throw them off.
+  - If the opponent stands straight up, follow up with f,f+3+4 or f+1 or f,F+2+4_1+3.
+    - If SDW f,f+3+4 catches the opponent, you get the followup juggle combo (Refer to the juggle/combo list above)
+    - If SDW f+1 catches the opponent, both of you will have your backs turned to each other. From this point, you can do:
+      - Another SDW f+1. This will revert your positions to normal.
+      - SDW 3+4. This will launch the opponent only if the opponent doesn't move or moves. If the opponent attacks, you will get interrupted. Followup the launcher with a juggle combo (Refer to the juggle/combo list above).
+    - If SDW f+1 is blocked, you are completely safe, so no worries.
+    - If f,F+2+4_1+3 catches the opponent, and if the opponent doesn't break the throw, they take the damage.
+  - If the opponent stands up and crouches, follow up with SDW f+1 or SDW f+3+4.
+    - If SDW f+1 hits, it will take damage, but the character positions will not change.
+    - If SDW f+3+4 hits, it will knock the opponent down. Raven will be left in SDW and the opponent will be able to tech roll. In this case, throw out 3~4,4. This string tracks both ways, so it will catch the opponent right after they tech roll.
+  - If the opponent rolls back, follow up with SDW f+3+4, SDW f+1, SDW f,f+3+4 or SDW f,F+4,3.
+    - SDW f+3+4 takes a decent amount of damage, that's all. And you can try to get the 3~4,4 followup if the opponent tech rolls.
+    - SDW f+1 is takes the least damage, but it's the safest choice to use in this situation.
+    - SDW f,f+3+4 takes a bit more damage than f+1, but it's a little less safer.
+    - SDW f,F+4,3 takes the most damage, but you have to wait to confirm the opponent's backroll before using it, because it's extremely unsafe.
+  - If the opponent side rolls, it's best to just hold B and get out of SDW. If you really need the damage, you could go for a SDW f,F+4.
+
+How To Play Raven (On the Defensive):
+1. At close/mid quarters...
+- At close quarters, offensive and defensive playstyle aren't very different. You can use all the offensive tools listed above defensively.
+- Extra tools: d/f+2, 1+2, f+4, and long range throws.
+  - Use d/f+2 only when the opponent whiffs right in front of you. From there, followup with a juggle combo (Refer to the juggle/combo list above).
+  - Use 1+2 when you think d/f+2 won't do the job, or after sidestepping the opponent's attack.
+  - Use f+4 when the opponent whiffs at a distance that d/f+2 or 1+2 won't reach, or when you block a move the pushes back just enough for f+4 to still hit (Example: Paul's deathfist or Nina/Anna's f+1+2).
+  - Mix up long range throws with d/f+2 and 1+2 for a more well-rounded playstyle and to keep opponents guessing.
+
+2. At far quarters...
+- At far quarters, Raven has no tools, so just maneuver back and forth to force the opponent into charging at you, or you can charge at them and do whatever, be it offensive or defensive.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+End Guide.
+Thanks for reading.

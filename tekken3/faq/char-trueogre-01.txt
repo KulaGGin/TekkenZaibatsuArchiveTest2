@@ -1,0 +1,1413 @@
+
+Orge2 FAQ for Tekken 3 
+
+	Hi there, and welcome to the world's first fully functional Ogre2 FAQ.
+This FAQ is only about the big demonic Ogre since the little one isn't nearly 
+as interesting or fun to play(in my opinion).  This FAQ is free to distribute 
+or use by anyone except commercial publications (EGM).  Thank you and on with 
+the FAQ!
+
+Table of Contents
+1 Introduction
+2 Conventions
+3 Attacks
+	Special attacks
+	Throws
+	Descriptions
+4 Juggles/Combos
+5 Basic Strategy
+6 Advanced Strategy
+	Introduction to Advanced Strategy
+	Zoning
+	Okizeme
+	Unblockables
+	Unpredictability
+	Specific Character Strategies
+	Odds and Ends
+	Summary
+7 Epilogue
+
+Introduction
+
+	This is a Frequently Asked Questions compilation about Ogre2, the 
+final boss character of Tekken 3 and the last playable from time release.  I 
+wrote this FAQ because there aren't any good Ogre2 FAQs out there and he is 
+one of my favorite characters.  I like him for many of the same reasons I like
+Yoshimitsu.  He is strange in appearance, has a large array of bizarre and 
+effective attacks, is fun to play, and is a crowd-pleaser (I love to 
+showboat).  He has his downsides, of course, but with skillful play these can 
+be compensated for.  He packs a hell of a punch, has the best range in the 
+game, and has so many different attacks that you can keep opponents guessing 
+until their life bar is empty.  A lot of people don't respect Ogre because of 
+his size and his fire attacks, well I love to show them that he is a real 
+character.  I almost never use the fire attacks myself, only occasionally on 
+scrubs, in desperate situations, or if I am trying to impress/intimidate 
+someone.  I am not saying he is the best character or anything but if you play
+well enough you should be able to hold your own against anyone.  This FAQ is 
+written for intermediate to high level players although quick-witted novices 
+should be able to pick it up fairly quickly as well.    
+	Anyway, as you can see from the table of contents above I have tried 
+to make this FAQ as complete as possible.  Following the dry form of the 
+movelist I discuss each move in depth which is an important part of this FAQ.  
+Next there is a modest section on juggles.  Although juggling isn't one of my 
+own strong points it is still something which comes up and you need to do the 
+most damage when it does come up.  Following that there is a section on basic 
+strategy if you are new to Ogre, and finally an advanced strategy section 
+which along with the special move descriptions is the heart of this FAQ.  I 
+tried to be as thorough as possible though obviously one can only get so much 
+from reading a FAQ.
+
+
+
+Conventions
+
+1-Left Punch	2-Right Punch
+3-Left Kick	4-Right Kick
+f-tap forward	F-hold forward
+b-tap back	B-hold back
+u-tap up        U-hold up
+d-tap down	D-hold down
+u/f-tap up and forward simultaneously	U/F-hold up and forward simultaneously
+d/f-tap down and forward simultaneously	D/F-hold down and forward simultaneously
+u/b-tap up and back simultaneously	U/B-hold up and back simultaneously
+d/b-tap down and back simultaneously	D/B-hold down and back simultaneously
+N-neutral(let stick return to neutral)
+
++-perform these buttons/motions simultaneously
+~-perform this command immediately after the previous one
+_-any commands connected by this are interchangeable and separated by brackets
+(WS)-perform while you are rising from a crouch
+(WG)-perform while your character is on the ground
+l-move hits low
+m-move hits mid
+h-move hits high
+u-move is standard unblockable(cannot be crouched under, knocks down)
+L-move hits low and grounded opponents
+M-move hits mid and grounded opponents
+H-move hits high and grounded opponents
+U-move is unblockable and hits grounded opponents
+s-move is unblockable but may be ducked under
+RS-this throw must grab the opponent's right side
+LS-this throw must grab the opponent's left side
+BS-this throw must grab the opponent's back
+
+
+Attacks
+
+Basic Listing
+
+Move Name		Command 	Attack Level	Damage
+
+Medium Power Punch	f, f+1+2	    m		 40
+
+Power Punch		 f+2		    m          	 28
+
+Dragon Power Punch	b, b+1+2	    u		100
+
+Double Elbow		d/f+1, 2	   m,m		16,10
+
+Foot Bazooka		f, F+4	            h	 	 35
+
+Killing Blow		B+2+3		    u		 60
+
+Spinning Slide Kick	f, f, N+3+4	    L 		 15
+
+Shin to Head Kick	d+4, N, 4 	   l,h		7,20
+
+Blazing Kick		d, d/b+4	    m		 30
+
+Infinite Kick Combo  (WS)3, 3, d+3, 3...  m,m,h,m     10,25,15,10
+
+Infinite Kick Continuation(low)	...d+3	  l,m,h		 10
+
+Infinite Kick Continuation(high)...u+3	  m,m,h		 15
+
+Crouching Jab		D, d/f+2 	    l		 25
+
+Slap			D, f+2		    M		 40
+
+Groin Punch		D, f+1		    m		 30
+
+Bloody Scissors		d/b+1+2		    u		 50
+
+Hammer Heel		f, F, N+4	    m		 20
+
+Demented Snake	    D, 3, 3, N, 3      	  l,l,m	      12,19,25
+
+Snake Kick		D, 3, 3, 3	  l,l,l	      12,19,7
+
+Exploder		f, f+3+4	    h		 40
+
+Shoulder Tackle		f+1+4		    m		 30
+
+Jump to Double Knuckle	[u_u/f], N, 1+2     m		 35
+
+Burning Double Knuckle	[u_u/f]+1+2~D	    U		 45
+
+Deadly Slice		b+2		    u		 22
+
+Deadly Slash		f, f, N+2	    u		 25
+
+Heavy Body Blow		(WS)2		    m		 25
+
+Windmill Kick		u/b+3		    m		 20
+
+Windmill Kick, Tooth Fairy  u/b+3, 2	   m,m		20,25
+
+Hunting Hawk		u/f+3, 4, 3	  m,h,h	      15,14,25
+
+Hell's Flame		1+2		    U		 30
+
+Blazing Inferno		d+1+2		    s		 40
+
+Buffalo's Horn		d/f+1+2		    m		 25
+
+Low Tail Spinner	d+3+4	            l		 25
+
+Mid Tail Spinner	d/f+3+4		    m		 25
+
+Double Tail Spinner	d/f+3+4, 3+4       m,m		25,25
+
+Evil Wheel		u+3+4		    m		 25
+
+Owl's Hunt		(WG)3+4		    s		 40
+
+Serpent's Venom		f, F+2		   m,u		15,20
+
+Flash Punch Combo	1, 1, 2		  h,h,m	       5,8,18
+
+Demon Slayer		1, 2, 2		  h,h,h	       5,8,18
+
+Demon Scissors		4~3		    m		 25
+
+Axe Kick	   [f+4_f, f+3]		    m		  ?
+
+Demon's Feast	        (FC), f		    -	     Reversal
+
+Juggle Escape			Any button while being juggled			
+
+Throws
+
+Name			Command			Escape		Damage
+
+Body Slam		1+3			1		30
+
+Bear Hug		2+4			2		10,25
+
+Choke Slam		LS[1+3_2+4]		1		10,15,25
+
+Hanging  Neck Throw	RS[1+3_2+4]		2		40
+
+Swing Swung		BS[1+3_2+4]		-		70
+
+Spin Behind Elbow Smash	d/f, D/F+2+4		-		30
+
+
+Move Descriptions
+
+	In this section obviously I'll be describing each move individually.  
+There will be a visual description followed by any special notes(such as 
+juggles, stuns, etc.), then I'll discuss the best times to use the move, what 
+it weaknesses are, and so on.  As you may know, most of Ogre's moves are 
+stolen from various Tekken 2 characters, and I also listed who had them 
+originally which may help you out.  I have tried to test each move 
+extensively, though I admit some I have not used enough.  Still, there should 
+be enough info here to get you started.  By the way, the move names 
+came from Namco's Tekken Online site, so if you don't like them don't blame 
+me.  I got the damages from them as well, and most of the commands.  Some of 
+the commands there I had a problem with and therefore changed.  Some of the 
+commands are not completely explanatory and in those cases I'll follow up in 
+the description.  I also included an "E rating" with each one as a general 
+yardstick of how effective I think the move is overall, ranging from one to 
+five, although most moves have some possible use.  
+Anyway, enough of this, on with the show.
+
+Medium Power Punch		f, f+1+2			E:4
+
+Steps forward, then does a double hand strike.  Knocks down.  This is a pretty
+good long range move.  It is a bit slow, but has good priority once it starts 
+the hit animation.  Pushes opponent away if blocked so there isn't much chance
+of retaliation during the recovery.  Also does a good 40 points of damage and 
+gives you plenty of room for whatever you want to do next.  Solid.  Wang Jinrei.
+
+
+Power Punch			f+2			E:5
+
+Quick step, then a extended right punch that looks almost low.  Knocks down.  
+One of his best moves, hands down.  Hits mid, fairly fast, and great range.  
+Excellent both as keep out move or pressure move.  Although it hits mid, it is
+really low placed, so it is excellent to use on rising opponents who think you
+are too far away to hit them, or large grounded opponents(Kuma/Gunjack/Ogre2).
+It is also great to use if the opponent misses an attack completely, though 
+you have to anticipate the miss if you want to be fast enough to hit before 
+they recover enough to block.  Mastering the nuances of this move should be a 
+top priority when starting to learn Ogre since you should be using it often.  
+Wang Jinrei.
+
+
+
+Dragon Power Punch		b, b+1+2		E:1
+
+Leans back and low for a long moment, then punches short and a little low.  
+Unblockable.  Knocks down.  I don't recommend this attack due to its long 
+startup time and short range, though it is his most damaging attack by far.  
+Only do it if you are trying to show off by killing your opponent in one blow.
+Wang Jinrei.  
+
+
+Double Elbow			d/f+1, 2			E:3
+
+Quick double elbow, though it resembles punches.  A pretty quick inside attack
+with a good recovery which makes it fairly safe.  Best used in close range.  
+Not a terrible move to throw out at the beginning of a match, and if you're 
+close enough the first hit combos into the second.  Doesn't knock down, 
+though, so have a plan for after it connects.  Bruce Irvin.
+
+
+Foot Bazooka			f, F+4			E:2
+
+Takes a long step forward with the right foot arching up in a high kick.  
+Knocks Down.  The main problem with this attack is that it hits high, although
+its slow recovery doesn't help either.  If it hit mid I would recommend it 
+since it has great range hits hard and comes out pretty fast.  Only use it if 
+the opponent is wide open for a high attack or for variety.  Bruce Irvin.
+
+
+Killing Blow			B+2+3			E:3
+
+Steps back and crosses his arms, then slides forward on his feet with his arms
+somewhat forward.  Unblockable.  Knocks down, far knockdown if a major 
+counter.  Good mid to long range attack.  Fairly quick windup with devastating
+results.  Killer range and damage, use at long range if opponent is 
+approaching, or after knockdown to catch them as they are rising if you feel 
+lucky.  Bad recovery if you miss, it is probably his best big unblockable.  
+Bruce Irvin.
+
+
+Spinning Slide Kick		f, f, N+3+4		E:2
+
+Dashes forward, then slides feet first towards opponent.  Knocks down.  This 
+is a perfect example of a move being made less effective due to Ogre's size.  
+For the small Ogre, this move is pretty solid, but for our bad boy, he can be 
+hit pretty easily during the jumping animation, which makes this move pretty 
+dangerous.  It is occasionally useful, but generally is to be avoided since 
+the damage isn't so great.  Lee Chaolan.
+
+
+Infinite Kick Combo		(WS)3, 3, d+3...		E:2
+
+Axe kick followed by a high kick then a mid kick, then it depends on which 
+continuation you use whether the next is a low or mid kick.  This move and its
+continuations are a danger to you and your opponent.  To people who don't know
+the move too well, which is to say mostly novices, it can be rather murderous 
+and seem cheap.  However, expert players generally know how to evade or 
+interrupt it.  As far as the continuations go, I recommend the low one for 
+obvious reasons.  Lee Chaolan.
+
+
+
+Shin to Head Kick		d+4, N+4		E:4
+
+Quick low kick followed by a head kick.  Not bad close range move, since it 
+hits low then high, though its best use is okizeme on rising opponents since 
+if the first hit connects then it combos into the second.  It can be done 
+infinitely if they let you. 
+
+Sometimes best just to do the first kick on standing opponents, since if the 
+first hit is blocked then you are asking for it if the second whiffs.  More on
+this move's uses in the okizeme section.  Lee Chaolan.
+
+
+Blazing Kick			d, D/B+4		E:3
+
+Goes from couch to a high arching kick.  Knocks down on standard hit, juggles 
+on counter.  I admit I haven't used this move too much.  The listed command 
+isn't totally explanatory.  It is kind of like tap down, roll to down back, 
+pause a brief second, then tap right kick.  The timing is a bit tricky, so 
+you'll probably have to experiment a little to perfect it.  Anyway, it is a 
+nice damage attack that is a bit slow due to the command but worth it if you 
+connects since it either causes a good knockdown or, in the best case 
+scenario, a juggle which of course opens up a lot of possibilities.  Test it 
+out and let me know.  Lee Chaolan.
+
+
+Crouching Jab			D, d/f+2			E:4
+
+Goes from full crouch to a low sweeping right punch.  Causes an extremely 
+short juggle.  This move is like a low punch with a windup that does good 
+damage and causes possibilities for some short juggle combos.  Its range is 
+also nice and longer than an opponent would expect you to have from the 
+crouched position.  This is one of those attacks that breaks games due to its 
+unpredictability and juggling capability.  A nice thing is that if you mess up
+the command you end up with either a low punch, the Slap (see below), or the 
+Power Punch (see above), all of which are pretty acceptable.  Anna Williams.
+
+
+Slap				D, f+2			E:5
+
+Goes from full crouch to a standing overhead swipe which starts above head 
+level and swings to the feet.  Knocks down.  Also has some sort of stun 
+property though I haven't tested the specifics yet so feel free to find out 
+and tell me.  This attack is excellent all-around due to its awesome reach, 
+good angle of attack (hits in a big arc like an axe kick), great damage and 
+relatively quick startup time.  Most of the time people don't see it coming, 
+plus it hits grounded opponents!  I don't really have much bad to say about 
+this move.  If they block it pushes them back so you aren't too open to 
+retaliation.  Though the recovery isn't the best its not the worst either.  
+Practice this move a lot since it should be a major part of your arsenal.  
+This move, in contrast to the Spinning Slide Kick, is a perfect example of a 
+move being made more effective(vastly so) by Ogre's size.  Anna Williams.
+
+
+Groin Punch			D, f+1			E:3
+
+Goes from full crouch to a standing side punch.  Knocks down.  Truthfully, the
+properties of this move seem a bit strange to me when compared with its sister
+move, Slap.  They have identical motions(only the button is different), yet 
+this move is slightly slower, has less range, does less damage, and does 
+not hit grounded opponents.  If this move has some real use, I'd love to hear 
+about it, but for the time being, I can't see any reason I wouldn't use this 
+move instead of Slap in all(or nearly all) situations.  It really isn't that 
+bad a move, but it pales in comparison to the alternatives.  Anna Williams.
+
+
+Bloody Scissors			d/b+1+2			E:1
+
+Crouches down while gathering power with arms outstretched, then brings them 
+together.  Another big windup unblockable similar to Dragon Power Punch, 
+though this one doesn't even have obscene damage to justify its downfalls.  It
+has terrible range, telegraphs horribly, and does less damage than the vastly 
+superior Killing Blow.  Maybe you can surprise someone who doesn't know 
+better, but I seriously doubt it.  Anna Williams.
+
+
+
+Hammer Heel			f, f, N+4			E:2
+
+Dashes forward, then does a very high starting axe kick(does not hit on the 
+way up).  Knocks down.  The motion for this move is another f, f, N which is 
+really a hassle if you ask me (and I guess you are).  It is slow to activate 
+and doesn't even do good damage.  It does hit grounded opponents, which is 
+nice, but I would almost always use another move for okizeme.  Better damage 
+might have justified this move but as it is I can't recommend it.  Baek Doo 
+San.
+
+
+Demented Snake			D, 3, 3, N+3		E:4
+
+From full crouch does two low kicks, then a mid kick.  Third hit juggles.  
+Fairly good move for in close since it has multiple hits and switches attack 
+levels from low to mid, and of course since it juggles if the third hit 
+connects.  In fact it is identical to the Snake Kick (see below) except for 
+the third kick, so alternate between the two to throw your opponent off.  The 
+trick to the motion is to let Ogre get into a full crouch before you hit left 
+kick, which is why the motion is D, 3 instead of D+3.  Baek Doo San.
+
+
+Snake Kick			D, 3, 3, 3		E:4
+
+From full crouch does three low kicks.  As above, only finishing with a low 
+kick instead of a mid juggler.  Just read the previous for relevant info.  
+Baek Doo San.
+
+
+Hunting Hawk			u/f+3, 4, 3		E:4
+
+Hops forward then executes two jumpkicks, a third if the second connects.  If 
+first or second hits, juggles and combos into the third.  A flashy move that 
+does good damage if all the hits connect, its best use is after an opponent 
+misses an attack, especially a kick from getting up.  Demoralizing at the 
+least.  Baek Doo San.  
+
+
+Exploder			f, f+3+4			E:3
+
+Does a feet forward leap at opponent which angles sideways a bit.  Knocks 
+down.  A big damage, medium windup high attack.  It is useful if they give you
+a good opening for it, but then again so are half of ogre's move so there 
+isn't much special to recommend this one other than variety.  The sideways 
+angling (especially prominent if blocked) is an oddity which can cause some odd 
+situations, which can be either good or bad, depending on the circumstances.  
+Armor King.
+
+
+Shoulder Tackle			f+1+4			E:3
+
+Dashes forward(slower than a normal dash) with his left shoulder forward.  
+Knocks down.  This move is a bit of an oddity for a few reasons.  It is 
+somewhat difficult to tell which part of the animation is damaging since he 
+just sort of ambles forward head first.  It is good for interrupting an 
+opponents attack if they stick out a limb or during a string, but if they are 
+just standing there it may not do anything at all.  It doesn't cause block 
+stun unless you are right on them when you do it, in which case you are wide 
+open for the smack down of their choice.  Ouch.  I wouldn't advise using this 
+move unless you think it will hit, which is to say, do not just throw it out.  
+Armor King.
+
+
+Jump to Double Knuckle		[u_uf], N+1+2		E:4
+
+Leaps forward then brings both fists down in an overhead smash as he lands.  
+Knocks down.  An interesting move with a few uses.  It is pretty good for 
+hitting grounded opponents who are too far away to hit with Shin Kick (see 
+above) or Low Tail Spinner (see below).  Although it doesn't actually hit 
+grounded opponents it is excellent for hitting those on the way up.  It is 
+fairly fast so it is generally useful in mid range combat since it can confuse
+the opponent and does good damage.  The recovery is not a happy thing, though.
+Just don't go hog wild with it and it will be very useful.  Armor King.
+
+
+Burning Double Knuckle		[u_u/f]+1+2~D		E:4
+
+Leaps high into the air, then slams fist down in an overhead smash.  
+Unblockable.  Basically a slower, long-range version of the previous, it 
+reminds me of Yoshi's QCF+1 Moonsault Slayer in that it is a medium speed 
+unblockable aerial approach attack (alliteration!).  Of course it can be 
+interrupted though a moment's hesitation on your opponents part will spell 
+their doom (as with most unblockables).  The only real trick to this move (and
+the above) is being the proper distance from your opponent.  On the plus side 
+if the leap takes you over the opponent sometimes he will turn around right as
+he hits the ground so he can hit them!  This does not always happen though, 
+and until I know the specifics on that I can't say you should plan on that 
+aspect functioning.  Anyway, it is a relatively efficient and definitely showy
+attack which I would recommend you use from time to time, if not more.  Armor 
+King.
+
+
+Deadly Slice			b+2			E:4
+
+Steps forward then brings the snake hand in a chest to front motion.  
+Unblockable.  Relatively fast short range unblockable.  The damage is about 
+right for its speed, range and difficulty of execution.  Should be a regular 
+part of your inside game since it comes somewhat out of nowhere and is 
+difficult to defend against.  However, if farther than a couple of steps away,
+I would almost always recommend Serpent's Venom(see below) instead.  Recovery 
+is the move's only problem, since it is worse than I like to see on moves with
+this kind of range.  Kunimitsu.
+
+
+Deadly Slash			f, f, N+2			E:2
+
+Dashes forward then swipes them with the snake arm.  Unblockable.  Like some 
+of Ogre's other moves, this one pales in comparison to a similar move.  In 
+this case, Serpent's Venom outclasses this move in almost every possible way. 
+Feel free to experiment with it but master the alternative first.  Kunimitsu.
+
+
+Heavy Body Blow		(WS)2			E:5
+
+Goes from full crouch to a standing right sideswipe.  Causes opponent to turn 
+to their right if blocked, causes double-over stun on counterhit(!).  This is 
+an extremely solid move.  It has good range, excellent speed, acceptable (if 
+not great) damage, and has some nice properties, especially the double-over 
+stun which combos into a lot of things.  More on that in the combos section.  
+When choosing between this move and Slap, keep in mind that this one is faster
+but Slap hits in a bigger arc and does more damage.  Another move I advise you
+use a lot to get a good feel for its uses an capabilities.  Kazuya Mishima.
+
+
+Flash Punch Combo		1, 1, 2			E:5
+
+Two quick left punches then a hard right punch.  Third hit knocks down.  If 
+first hits anywhere except the edge of its range it combos into the last two 
+hits.  If the second hits it combos into the third.  An extremely solid inside
+move, The only downfall is the fact that the first two hits are high but if 
+they weren't this combo would be too good due to its speed and knockdown 
+power.  The fact that the last hit is mid saves this move from mediocrity.  A 
+fairly good move to start a round with, though if you do so too regularly you 
+will suffer for it.  Also, the last hit can be delayed.  You can tap 1, 1 then
+wait to see if they hit.  If so, finish up with 2(though don't wait too long).
+If the second hit doesn't connect(due to their blocking) then don't finish up,
+though if the first two miss because they were crouching and they haven't hit 
+you yet (an unlikely but possible event), then follow-up with the third since 
+obviously it hits crouching opponents.  This combo is also good in juggles.  
+Kazuya Mishima.
+
+
+Demon Slayer			1, 2, 2			E:3
+
+Quick left punch followed by a right and then a right backhand.  This move has
+two things going for it.  First, it is a very fast short range move.  Second, 
+it does good damage if all the hits connect (especially the third).  However, 
+on the downside, all the hits are high, it doesn't knock down (which is 
+sometimes a good thing) and the recovery isn't the greatest.  In most 
+circumstances when you could use this move I would recommend the Flash Punch 
+combo instead, although this move is also useful in juggles and sometimes 
+people do leave themselves open and this does do more damage than its brother 
+attack.  Kazuya Mishima.
+
+
+Demon Scissors			4~3			E:3
+
+Flips forward feet first landing on his back.  Knocks down.  This move is used
+mainly for okizeme since as a normal attack there are a lot of better 
+alternatives that don't leave you on the ground.  The damage is decent for 
+this type of attack and it can hit opponents that the Low Tail Spinner (see 
+below) cannot.  As long as you're careful with how you use it this move can be 
+very helpful.  Kazuya Mishima.
+
+
+Axe Kick			[f+4_f, f+3]		E:3
+
+Quick step forward followed by a kick that sweeps from high to low.  Knocks 
+down on counterhit.  Standard axe kicks which are more useful with other 
+characters such as Jin and Heihachi.  Most of the time you are in range for 
+these I would recommend an attack that was either faster, more damaging or 
+unblockable, but there are a few useful times for them.  At the edge of close 
+range is probably where they're at their best since punches are too short 
+ranged and other attacks may have a windup.  Kazuya Mishima.
+
+
+Windmill Kick, (Tooth Fairy)	u/b+3, (2)		E:2
+
+Does a back flip.  If you follow up with right punch he does a right uppercut 
+after the flip.  Juggles (either hit).  This move is an odd one.  If the first
+hit connects at the outside of its range then he is too far away to combo with 
+anything, including the built-in follow up move!  If the second connects it 
+also juggles but the recovery is so poor that you can't follow up (that I know
+of).  I can't say much good about this move since the timing and range is so 
+delicate and the recovery so abominable.  Jun Kazama.
+
+
+Hell's Flame			1+2			E:2
+
+Flies straight(?) up into the air, then breathes fire down in a forward arc 
+(no sideways movement once he leaves the ground).  Unblockable.  Well we've 
+finally reached Ogre's most well-known, overrated(by newbies and scrubs), and 
+overused (by newbies and scrubs) attack.  It certainly is flashy, probably the
+most wild one in the game, except maybe for Yoshi's right side throw Spiritual
+Division.  Honestly I rarely use this move myself and would probably recommend
+to someone that is trying to learn Ogre that they never use it since it is 
+only really effective on people who don't know better, which is to say the 
+aforementioned newbies and scrubs.  Once you know him well there are actually 
+a few times to use it, though those are few and far between.  As a general 
+rule I might possibly use it if a distant opponent goes into a relatively long
+attack string or move with heinous recovery.  If you don't know already the 
+problem with this move is that it telegraphs rather badly and two sidesteps 
+evades it completely and gives them the opportunity to do basically any move 
+they want to you while you return to the ground.  Oh, and if this is the sort 
+of thing that concerns you, you should also keep in mind that if you do win 
+with this move you will be called cheap and cheesy and all kinds of other 
+bullshit.  Another annoying point is that the command for this move is so 
+simple that it could come out by accident, though not as often as its brother 
+attack.  If he didn't have this attack I wouldn't feel bad at all, not one 
+bit.
+
+
+Blazing Inferno			d+1+2			E:3
+
+Stands with legs and arms spread out, then breathes fire in an arc level with 
+his head (it does not go up or down.  Unblockable.  This is the ground version 
+of his fire attack and has many of the same properties of the other, though 
+the method to escape is simply crouch (canny opponents will move forward at 
+the same time, the better to smite you as they stand).  It also telegraphs 
+quite a bit, though the thing I like least about this move is the fact that 
+the motion is so simple and similar to other, more useful attacks, 
+particularly the Buffalo's Horn(see below).  If I was going to use a fire 
+attack I would probably do this one since there is less chance for punishment 
+and it does more damage (a little-known fact).  Also, if it hits as a counter 
+then it causes a stun, which can be used for combos.  More on that later.
+
+
+Buffalo's Horn			d/f+1+2			E:4
+
+Leans forward slightly with his head to the ground, then springs forward while
+arching his head up.  Juggles.  This attack is another of my favorites since 
+it is moderately fast, isn't immediately obvious (unless your opponent is very
+good or has played against Ogre a lot), does fair damage (usually more than 
+the listed 25 since it often counterhits), and most importantly it juggles.  
+The juggle is pretty high, but more on that in the appropriate section.  If 
+you are really close it will hit a grounded opponent which is always a nasty 
+surprise.  The only downside to this move is that if you screw it up you'll 
+probably do the Blazing Inferno instead, which usually sucks.  Also, recovery 
+isn't very pretty either.  Still, used properly this attack can win you a lot 
+of matches.  Practice it!
+
+
+Low Tail Spinner			d+3+4			E:4
+
+Spins around 360 degrees and swings his tail along the ground in the process.
+Knocks down.  This is a pretty good move that suffers due to slow speed and 
+recovery but has good range and damage for a low attack and most importantly 
+hits grounded opponents.  Not bad if you are at the edge of close range, but 
+its best use is definitely okizeme, more detail on which will be in the 
+appropriate section.  Vastly more useful than its brother attack.
+
+
+Mid Tail Spinner			d/f+3+4			E:2
+
+Spins around 360 degrees and swings tail around at mid level.  Knocks down.  
+This move has all the weaknesses of the previous move with none of the 
+advantages except the knockdown which is hardly reason to use it when there 
+are a lot of better moves to use at its effective range.  The fact that you 
+can do a second spin by tapping 3+4 again after the first swing doesn't seem 
+to add much to it, though that may be helpful in some juggles.
+
+
+Evil Wheel			u+3+4			E:3
+
+Does a short forward flip and lands on his feet.  If blocked causes a little 
+bit of crouch stun.  This is a strange little move which has some interesting 
+properties.  It is yet another in the long series of 25 damage mid attacks 
+Ogre possesses, most of which are somewhere near this one in speed, which is 
+to say, a little on the slow side.  Still the block stun makes the recovery 
+easier to deal with, though if it whiffs completely you will be in a world of 
+hurt.  The animation is a bit confusing and you have a good chance of hitting 
+a crouched opponent with this move.  Also, you can hold down to stay crouched 
+after the flip which opens up a lot of possibilities.  I suggest you 
+experiment to find different uses for it.
+
+
+Owl's Hunt			(WG)3+4		E:2
+
+From the face up grounded position, quickly flies up off the ground and a 
+little back, then swoops forward and lands.  Unblockable.  This move is a lot 
+of fun, but once people know how to defend against it, it is almost worthless.
+The defense to it is simply crouching (or being pretty far away, but it has 
+awesome range so even if I was far away I'd still probably crouch).  If you 
+miss with this attack you are probably going down hard since the recovery is 
+totally shitty.  The only time I would seriously recommend this is if the 
+opponent goes into a long string or slow move that you think they won't 
+recover from in time to duck(similar in concept to the fire attacks).  Also, 
+if your head is to the opponent, you will probably fly the wrong way, and of 
+course if you are face down it doesn't work.  Finally you must be careful not 
+to move the joystick in any way as you activate it.  Any joystick input will 
+cause something other than Owl's Hunt to happen.
+
+
+Serpent's Venom			f, F+2			E:5
+
+Extends snake arm out fairly quickly.  If it hits something, then it expands 
+and holds there for a moment.  If it doesn't connect, then it retracts rather 
+quickly.  The first extension is a mid attack , and the second (if it happens)
+is unblockable.  This attack belongs to the elite of Ogre's attacks as being a
+near-perfect combination of range, speed, hit level, and in this case 
+unblockability.  If it were just a little slower then it wouldn't be much 
+better than Deadly Slash, but as it is it is light years ahead of most of his 
+other attacks.  If you want to win, you should use this attack often since it 
+is just damned effective.  I don't believe in cheese or cheap moves and/or 
+characters, but if I did I would have to say this is cheesy.  Actually, the 
+best definition of cheap I ever heard was something like 'anything which is 
+simple yet effective and is difficult to defend against' would in fact be a 
+perfect description of this move.  That's just how it is, though most every 
+character has moves or whatever that somebody considers 'cheap' so I don't 
+feel too bad about using it a lot in tight matches.  The fact of the matter is
+that in Tekken 3 everything has a way to be escaped, countered, reversed, 
+interrupted, evaded or whatever so if someone can't handle my moves then they 
+aren't that good.  Sorry, I'll get off my soapbox.  It's just that recently 
+someone said this move was one of the cheapest in the game and so it was here 
+that I felt obligated to give my opinion on the whole 'cheap' issue.  'Nuff 
+said.'
+
+
+Juggle Escape			Any button while being juggled	E:3
+
+Rights himself in mid air so that he lands on his feet.  This move is totally 
+unique in Tekken.  All other characters are completely helpless once juggled, 
+but Ogre2 can flap his wings and regain his balance.  This is pretty 
+self-explanatory, but keep in mind that it doesn't actually escape juggles (as
+far as I know), it just means that when he finally lands it will be on his 
+feet.  One problem is that often his back is to the opponent after landing in 
+this way, but this is usually better than being grounded.
+
+
+Demon's Feast			(FC), f			E:?
+
+This is the only one of Ogre2's moves I have not successfully performed.  It 
+is his reversal.  I have been told that when it works he charges at them with 
+his horns, although I have not personally witnessed it.  If anyone discovers 
+the proper timing for this move then please let me know, it is my one real 
+failing on this movelist.  According to the person who described it to me, 
+Ogre must be in a neutral crouch (neither forward nor backwards moving), and 
+when the attack comes from the opponent, tap forward.  Again, any extra 
+information about this move would be greatly appreciated.
+
+
+Body Slam			1+3			E:2
+
+Grabs opponent, raises them above his head, then slams them down in front of 
+him.  Basic throw which does less damage than the Bear Hug (see below), and is
+easily escaped.  The only thing it has to recommend it is that it is easily 
+performed, but if you must do a basic throw I advise Bear Hug instead.  Jack.
+
+
+Bear Hug			2+4			E:3
+
+Grabs opponent, clutches them between his arms, then squeezes twice.  The 
+other basic throw, which is of course easily escaped.  Kuma.
+
+
+Spin Behind Elbow Smash		d/f, D/F+2+4		E:5
+
+Grabs opponent, then gets behind them and pushes them away.  They are left 
+staggering with their back to Ogre, though his back is to them also.  At first
+glance this throw doesn't appear to be anything special since it does less 
+damage than the Bear Hug and is somewhat complicated to perform.  However, 
+this move has a few properties which make it well worth worth the effort.  On 
+the simple side, if you screw up the motion you'll end up performing the Bear 
+Hug instead, which isn't such a bad thing.  If you connect with it, it is 
+inescapable!  There aren't many throws (aside from back throws) which are 
+inescapable and so any time you think you're in range for this, go for it.  
+Once you connect, the turn-away stun seems too short to capitalize on at 
+first, but this is not the case.  There are a few sure things which can come 
+out of it, including a Blazing Inferno!  You must be very quick to attack 
+after this, but if you can it is definitely worth it.  Wang Jinrei.
+
+
+Juggles/Combos
+
+I will be the first to admit that juggle combos are not my strongest suit.  In
+fact, it is probably my most deficient area as a Tekken player and I am well 
+aware that a strong juggling game is very important in high-level play.  
+Nonetheless, I will put everything I know about Ogre's juggling combos and 
+capabilities in this section, and hopefully you'll be able to use it and 
+probably build on it.  As far as juggling capability goes, my not quite expert
+opinion is that Ogre is a pretty good juggler.  He has some good starters and 
+continuing moves, and can do upwards of 50% damage with some pretty simple 
+ones.  There is a lot I could put about juggle theory, however most of that I 
+learned from reading slikatel's various strategy guides so for full details 
+about Tekken 3's juggle system I suggest you check out the Tekken Web Project.
+Anyway, the first part of this section lists the starters, the second lists 
+some possible add-ons, and after that I put some of my own confirmed juggles. 
+Another kind of combo past standard juggle combos are stun combos.  Ogre has a
+lot of potential here, since he has three different moves which can cause a 
+stun!  Stun combos are discussed last.  Enjoy and remember that what I've got 
+here is just a starting point.  I'm sure that there are many bigger and better
+combos to be found, so keep experimenting!  As I update this FAQ this area 
+will get as much work as possible.
+
+Juggle Starters			Command		    Notes
+
+Blazing Kick			d, D/B+4        Counterhit only
+
+Crouching Jab			D, d/f+2        Low juggle
+
+Demented Snake			D, 3, 3, N+3	Third hit juggles
+
+Windmill Kick			u/b+3		Poor recovery
+
+Buffalo's Horn			d/f+1+2		Juggles high
+
+Hop Kick			u/f+4		Quick, good recovery
+
+Uppercut			d/f+2		Counterhit only
+
+
+Add-ons				Command		    Notes
+
+Flash Punch Combo		1, 1, 2		Simple finisher
+
+Demon Slayer			1, 2, 2		Simple finisher
+
+Hop Kick			u/f+4		Extends juggles well
+
+Mid Tail Spinner		d/f+3+4		Finisher
+
+Evil Wheel			u+3+4			
+
+Power Punch			f+2		Finisher, good range
+
+High Kick			[3_4]		Strong, simple finisher
+
+Shin to Head Kick		d+4, N+4		
+
+Hunting Hawk			u/f+3, 4, 3	Only after Buffalo's Horn
+
+Low Tail Spinner		d+3+4		Finisher, hits low
+
+
+Combos
+
+d/f+1+2, u/f+3, 4, 3
+d/f+1+2, u/f+4, 1, 1, 2
+d/f+1+2, u/f+4, f+2
+u/f+4, d+4, N+4
+u/f+4, d+3+4 
+D, d/b+2, d+4, N+4
+
+
+Stun Combos
+
+Ogre2 has more stun moves (I think) than any other character in the game with 
+at least three.  First off, the Heavy Body Blow ((WS)2), Kazuya's old standby,
+causes a double-over stun if it counterhits.  The Slap (D, f+2) also causes 
+stun, I believe during counterhit also, but I am not entirely positive so try 
+and confirm for your self.  Also, the Spin Behind Elbow Smash throw causes a 
+sort of backwards stagger stun.  All of these attacks are extremely potent in 
+the first place so you should be using them regularly which means there should
+be plenty of opportunities for stuns.  Lastly, the Blazing Inferno (d+1+2) 
+also causes a stun on counterhit.  I don't really recommend this move in 
+general but if you get a good opening for it and want to test your luck, go 
+ahead.  If it does connect as a counter then you can do some 100% damage 
+combos following (thanks Aoi!).  The trick to stun combos is knowing which 
+moves are fast enough to tack on during the stun.  Keep in mind the cardinal 
+rule of stun combos: you must be extremely fast!  Any hesitation or error on 
+your part following the stun will result in a completely wasted opportunity 
+for big damage.  One minor problem that can occur with Ogre's stun combos is 
+that since they have such great range, you often need another good range move 
+to follow up with.  Most characters' stun moves leave them close enough for 
+any hit in their arsenal, especially juggles, but this is not always the case 
+with Ogre.  As far as I know, the only juggle starter fast enough to use with 
+Heavy Body Blow and Slap is Hop Kick (u/f+4), and oftentimes you are out of 
+range, so you must be willing to settle for some non-juggling but still 
+damaging alternatives.  The Spin Behind Elbow Smash can be followed up in some
+different ways, but the most effective is to go straight into the Blazing 
+Inferno!  This combo is possible but your timing must be precise since you 
+can't activate the Inferno until Ogre has turned to face his opponent after 
+the throw.  Obviously just these two moves by themselves do a great deal of 
+damage, though you should have enough time after the Inferno knocks down to 
+get some okizeme in(more on that later).  As for the Blazing Inferno itself as
+a stun, it is the most dangerous of all since there is enough time to perform 
+the Buffalo's Horn (d/f+1+2), which can start devastating juggle combos.  If 
+you actually get such a sequence started that should be the end of the round.
+This is an area I haven't spent all that much time with though it should be 
+obvious that there are a lot of possibilities for Ogre2 stun combos.  Of 
+course, remember that once you connect with a juggle starter then it becomes 
+just like any other juggle combo.  Stuns are just a way to ensure the starter 
+connects.  When I update this FAQ in the future I will try to beef up this 
+section as much as possible, so stay tuned.
+
+
+
+
+Basic Strategy
+
+	This section is a basic primer on Ogre's general strengths, weaknesses
+and basic tactics.  The most important basic thing to remember when playing 
+Ogre is that he has the best range in the game, although every character 
+probably has one or two moves which can match Ogre's range but these are 
+often (though not always) difficult or risky to perform.  More on that in the 
+individual character strategies.  For simplicity's sake I've divided this 
+section into two parts: Defense and Offense.  This is just a starting point 
+with a lot of stuff in the advanced strategy section.
+
+
+Defense
+
+	Knowing when to defend is at least as important as knowing when to 
+attack.  Due to the speed (or lack thereof) of many of Ogre's moves you must 
+know how to wait for the proper opening and keep a cool head.  On the other 
+hand, many of Ogre's attacks, due to their excellent range, can serve as 
+defense also, as keep out tactics, so knowing which to use is important.  
+Before I get too far into this I should define the ranges I will be talking 
+about.  I define very close range as actually touching the other character, 
+really in your face.  Close range is within one or two steps, close enough for
+anyone's standing high kick to connect.  I often refer to 'the edge of close 
+range' which is just at the edge of that high kick.  Mid range is between just
+outside close range to about twice that, which is what I consider Ogre's best 
+range since he has a lot of relatively quick, high damage attacks that reach 
+easily in this range whereas many characters do not.  Mid range is also able 
+to be closed by a forward dash or created by a backwards dash.  Naturally, 
+following mid range is far range.  Even most of Ogre's attacks won't connect 
+at this range, though very very few of any other character's attacks have a 
+chance of hitting either.  Far range is everything from the outside of mid 
+range until you reach very far range, which is outside of the range of his 
+fire attacks, or far enough away to get the unblockable shoulder charge going.
+Now back to the discussion of defensive attacks.  At close range, the Flash 
+Punch Combo (1, 1, 2), actually the first two hits, are a good way to take 
+pressure off.  Also, the Shin Kick(d+4) is another good keep out move since it
+has a good chance of hitting.  At mid range, Power Punch (f+2) is going to
+become your best friend, since it comes out pretty fast and is easy to execute
+from most any position and pushes your opponent back if they block. Also, 
+different attacks have different priorities, which is to say some attacks have
+priority over others and will be the one to connect if they both are performed
+at the same time.  For example, Buffalo's Horn (d/f+1+2) has a fairly high 
+priority and so it is more likely to connect when an opponent attacks 
+simultaneously, whereas the Serpent's Venom (f, F+2) is easily interrupted (if
+the opponent is close enough to do so).  So getting a feel for which attacks 
+are good for interrupting your opponents' moves is important.  Interrupting is
+a major part of good defensive gameplay, if not the most important part.  As 
+far as passive defense goes, which is to say blocking, it is just something 
+you have to practice, especially particular attack strings such as Paul's 
+Falling Leaf Combo, many of Nina's combos, etc.  I can't really tell you what 
+to do except practice a lot and you should improve.  However, don't be so 
+concerned with blocking that you are an easy throw.  In general, it is my 
+opinion that close range is not Ogre's best range at all and so I spend most 
+of the time I am in close range trying to get to mid range.  This is more my 
+personal style, I don't always like to be up close and personal since that 
+gives the opponent the best chance to perform most of their moves.  This is 
+part of an overall play style, which is detailed below in the advanced 
+strategy section.  The main problem with close range isn't so much that he is 
+slower than other characters (he isn't, on the whole), but that he is such a 
+big target.  At any rate, mastering defensive play is essential to success 
+against good players.  
+
+
+Offense
+
+
+The funny thing is that Ogre's offensive game and defensive game aren't all 
+that different.  It is just a matter of momentum.  That is, if you are moving 
+forward, pressuring the opponent, then you are on offense.  If you are moving 
+backward, pushing them away, then you are on defense.  However, it is often 
+the same moves you will be using to accomplish these tasks, though obviously 
+there are a lot more moves which can be used for offense.  Offense in general 
+is a more complex subject so there will be a much more in-depth discussion of 
+it in Advanced Strategy, but for now, here are the basics as I see them.  
+Offense is definitely where Ogre (like most Tekken 3 characters) is at his 
+best, in his case mostly due to an abundance of long range attacks and 
+unblockable attacks.  Knowing the distances Ogre's attacks are effective at is
+the first step to building a competent offense.  Too many people just throw 
+attacks out without knowing for sure if they are in range or not.  Using a 
+move which cannot make contact with your opponent in some fashion is asking 
+for a world of hurt so try not to just throw out attacks unless the opponent 
+is either currently in range or will be by the time the move is in the hit 
+animation.   Mixing up your attacks is a good idea (more on that later), but 
+without precision it is not such a good idea.  It is my recommendation that 
+while first learning Ogre you should stick to some basic, solid attacks that 
+work well in many situations and can give you a feel for how he fights.  Your 
+basic offensive arsenal should consist of:
+
+Move(command)				Use at:
+
+Power Punch(f+2)			Mid
+
+Flash Punch Combo(1, 1, 2)		Close/Very Close
+
+Slap(D, f+2)				Mid
+
+Heavy Body Blow((WS)2)			Mid
+
+Buffalo's Horn(d/f+1+2)			Mid
+
+Killing Blow(B+2+3)			Far
+
+Serpent's Venom(f, F+2)			Mid
+
+Shin to Head Kick(d+4, N+4)		Close
+
+	It is entirely possible to be a fairly vicious player using only these
+moves.  For basic offense, constantly pressuring opponents with quick mid 
+range attacks (mainly Serpent's Venom and Power Punch)is a good general 
+tactic, then crouch down, waiting for your opponent to make a move, at which 
+point you let loose either a Slap or Heavy Body Blow most likely connecting 
+for serious damage.  At this point you can start the sequence all over again.  
+Many players don't know how to escape this sort of pattern and so it can be 
+easy to dominate them with it.  Once you have mastered basic defense and 
+offense, it is time to move on to some more advanced tactics...
+
+
+Advanced Strategy
+
+
+	In this section I will detail the finer points of strategy using Ogre,
+including: zoning (my general strategy), okizeme, unblockables, 
+unpredictability, Ogre's special characteristics, general tips and tricks, 
+single character strategies and a summation. 
+
+
+ I think an evaluation of Ogre's strengths and weaknesses on a tactical level 
+is a good place to start.  Ogre is very large, but he is not particularly 
+slow.  A few misguided souls have that impression and if I ever ran into them 
+they would suffer immensely.  The problem is that his size makes him easier to
+hit and in fact certain combos or ground attacks that do not hit most 
+characters will work on him.  This may sound silly but due to that fact I try 
+and avoid knockdown whenever possible.  Ogre deals quite a bit of damage, for 
+the most part.  The thing is, people talk about certain characters being more 
+damaging than others, and while this is true to some extent (some are stronger 
+in general), every character has at least a few moves which are capable of 
+dealing out massive damage to an opponent.  Basically characters fall into 
+categories as to whether they have more quick, poking attacks or slower, more 
+damaging ones.  It is also the difference between characters who perform 
+extended sequences and strings than those who try and get in big single 
+strikes.  Ogre is definitely better built to deal out large single strikes.  
+This is due both to the fact that his attacks are so strong and also because 
+he doesn't really have much in the way of canned combos or strings to speak 
+of.  This isn't to say you cannot make up your own 'combos', but he isn't 
+nearly as effective at such things as many other characters.  His moves have 
+fairly good priority, it is recovery that is often a failing point.  Making 
+sure you do not completely miss attacks is very important due to the slow 
+recovery of many of his moves and his large size.  On the other hand, trading 
+blows with an opponent is usually perfectly acceptable as long as you are not 
+losing.  
+
+Zoning
+
+	Zoning is what I call my general strategy using Ogre.  It is based on 
+controlling the distance between you and your opponent, dictating which 
+attacks will be effective and which will not, 'keeping them in a zone.'  As I 
+have stated previously, I consider mid range to be Ogre's best, though there 
+is a proper time for all ranges.  When you have control of a match in this 
+fashion your offense and defense tend to look very similar.  When you want to 
+pressure them, you shove ranged moves like Power Punch in their faces, so even 
+if they block they are pushed back and positioning is the same.  The 
+psychological aspect of this strategy can be potent.  If you're doing it right 
+they should be feeling powerless to attack you, and hopefully powerless to 
+defend themselves as well.  Oftentimes if you have them in a defensive frame 
+of mind you can get away with a lot of things you otherwise wouldn't, like 
+certain unblockables or throws.  When in doubt, just try and keep some 
+distance between you and your opponent.  As I already said, knowing the speeds
+and ranges of each attack is vitally important.  Without that, you can't 
+construct a proper zone and you end up brawling like any other fighter.  It's 
+not to say you can't win with all-out vicious attack, but that isn't making 
+the most of Ogre's advantages and a lot of other characters outclass him in 
+close-up fighting.  A lot of times you can get a good lead in a round and then
+keep your opponent at bay long enough to win by time out.  I don't win the 
+majority of matches that way, but enough to mention it.  I am a compulsive 
+clock watcher, I always know how much time is left in a round and I suggest 
+you get in the habit, it's a good thing to do no matter who or how you play.  
+Some people consider running out the clock cheap, but it is a way to win and 
+therefore you should use it if necessary.  Most of the moves I listed in the 
+Basic Offense section above are the ones you should be using for your zoning 
+tactics.  Part of the real flair of this strategy is pulling out moves they 
+don't expect once you have them where you want them.  Just practice, and 
+remember to keep a cool head.  An important note at this point is that if you 
+do lose control of a match, don't panic.  Just try and get a defensive stance 
+and look for an opening to put some distance between you and your opponent so 
+you can get control.  Now, if you get behind in life, your standard zoning may
+not be enough to make up lost ground since a canny opponent will just let you 
+pressure them, defend properly, and either wait for an opening or just let 
+time expire.  When you are behind is when your unblockables really stand out 
+since most of them do good damage and are difficult to stop.  Another part of 
+my personal play style is that I tend to watch the other character really 
+closely.  Most people try and keep an eye on the whole screen, but the truth 
+is if you are in proper control of your own character then you shouldn't need 
+to be looking at him.  If you can better anticipate or react to the opponents'
+actions, even just a little faster, then that can be a huge advantage.  
+Remember, control and distance are everything.  If you keep them too far away 
+to attack successfully, you're probably going to win.
+
+
+Okizeme
+
+	So, you've knocked your opponent down.  What do you do next?  Okizeme 
+is a Japanese term which basically means 'kicking them while they're down.'  
+In my opinion Ogre has a good range of different attacks to use on a grounded 
+opponent.  Before I go into the specifics, I want to note that okizeme is a 
+general skill to be learned.  Many people just rush up to a fallen opponent 
+and try something. This is foolish and likely to get you a rising kick from a 
+good player.  You have to know which attacks give you enough time to move in, 
+which can be quick risen from, and so on.  Okizeme is often like a juggle or 
+combo in that if you delay for even a moment you will miss your window of 
+opportunity and in this case open yourself up for retaliation.  Another vital 
+point is predicting your opponent.  Some attacks only hit opponents attempting
+to get up while others hit those still on the ground.  Also, if they quick 
+rise it is a totally different picture.  So, guessing what your opponent will 
+do once knocked down.  Many new players tend to rise as soon as they are 
+knocked down, pushing all the buttons in an attempt to get up faster.  These 
+are the easiest to manipulate since they don't know how to prevent getting 
+further hit.  Good players, on the other hand, tend to switch between quick 
+rising, playing possum, rolling to the side, using the rising lightning kick, 
+etc. and you just have to get a feel for an individual player's tendencies.  
+Anyway, as stated in the move descriptions your main tools for okizeme are 
+Shin to Head Kick (d+4, N+4), Low Tail Spinner (d+3+4), and also standard d+3 
+low kick.  Shin to Head Kick is the best to use on opponents attempting to get
+up (not quick rise), since if the first kick connects then it juggles into the
+second and they're back where they started.  A lot of beginners let you do 
+this combo over and over (I ignore their cries of 'cheap!').  Usually, though,
+they wise up at some point and lay still.  This is the best time to use the 
+Low Tail Spinner, since it has excellent range and hits along the ground. It 
+also does excellent damage for a low attack.  If you're feeling adventurous, 
+you can use Crouching Jab (D, d/f+2) on rising opponents.  The timing is 
+trickier, but you might be able to get a short juggle out of it and it also 
+does good damage.  Use the standard low kick if you're not sure what to do 
+since it is quick and hits anywhere.  Some other alternatives for rising 
+opponents are: Power Punch (f+2), either Snake combo (D, 3, 3, [N+3_3]), 
+Buffalo's Horn (d/f+1+2), Jump to Double Knuckle ([u_u/f], N+1+2) or Slap 
+(D, f+2).  Other alternatives for those laying still include Buffalo's Horn
+(you must be close), Slap, Demon Scissors (4~3), Hammer heel(f, f, N+4), or if
+they give you a lot of time, Hell's Flame (1+2) or Burning Double Knuckle
+([u_u/f]+1+2~D).  Okizeme is more about instinct and timing than hard and fast
+rules so you'll have to develop a feel for it in battle.  A simple knockdown 
+followed up with the proper okizeme can cause major damage and often win the 
+round.
+
+
+Unblockables
+
+	Simple fact: Ogre has some of the best unblockables in the game, 
+probably tied with Yoshimitsu in terms of effectiveness and variety.  He has 
+them in all ranges and speeds and using them properly is one of the keys to 
+getting the most out of him.  Players tend to have certain kinds of defensive 
+habits and expectations which are often rendered ineffective by Ogre's moves. 
+The most typical examples of this are Deadly Slash(b+2) and Serpent's Venom
+(f, F+2), two attacks which almost always cause people to instinctively block 
+due to their quick animations.  I don't want to write a 'How to beat Ogre' FAQ
+but the bottom line is that the key to defeating him is interrupting his 
+attacks, since often blocking will be useless.  There are a lot of far range 
+moves which cause people to naturally block also, such as Burning Double 
+Knuckle and Killing Blow.  People often underestimate their range and so stay 
+back in a defensive position when they see you start the attack.  Both of them
+are of course interruptible but one moment's hesitation will mean big damage. 
+Careful mixing up of unblockables and normal attacks can go a long way towards
+winning.  However, if an opponent starts to catch on, and interrupts you, 
+switch strategies and go for higher priority attacks such as Flash Punch Combo
+or Double Elbow (d/f+1, 2).  A lot of times people get in a defensive stance, 
+blocking everything and waiting for an opening and that is the best time to 
+pull out something they can't block.
+
+
+Unpredictability
+
+	Ogre has a lot of moves.  A whole lot.  Part of strong Ogre gameplay 
+involves using a wide variety of attacks, which of course is tactically 
+advantageous but also makes him more interesting and fun to play.  The 
+tactical advantage comes from the fact that if your opponent never knows what 
+moves you will use then it is difficult for them to launch an offense or 
+maintain a defense.  However great care must be taken, since if you aren't 
+confident and flowing in your moves then you will suffer, which is to say you 
+shouldn't be trying to remember moves in the middle of a round.  If you aren't
+instinctive and smooth, you won't be able to maintain yourself.  I suggest 
+trying out new moves on the CPU as much as possible so you can whip them out 
+like a pro when you face a person.  One of the reasons that unpredictability 
+is so necessary is that like all other characters Ogre has certain 'most 
+effective' moves (already listed) that are the best combination of 
+range/speed/priority/etc. and which you will be using often.  The catch is 
+that even these attacks have weak points that your opponents can figure out 
+and exploit.  Using a wide array of his attacks, even those which may be 
+weaker or less effective overall, means your opponent cannot be secure in 
+their choices of offense or defense.  Plus, it is a big psychological 
+advantage if your opponent never feels like they know what you will do.  When 
+you perform some of his more bizarre or damaging moves it tends to have a 
+distracting effect on people, even if you were not successful.  Plus, some of 
+Ogre's least effective moves are very interesting, amusing, or frightening to 
+watch, and I don't know about you, but I love pleasing the audience!
+
+
+Ogre's Special Characteristics
+
+	Ogre has several special properties and characteristics that it is 
+important to be aware of.  As already mentioned his size can be a liability, 
+but it has its good points too.  Since his body is so dark and shifty, it is 
+very difficult to read his moves.
+
+  If his unblockables didn't cause him to glow this would be a major advantage
+but it is still somewhat helpful.  The main thing this visual oddity causes is
+a difficulty in reversing him.  It is possible, mind you, but the way his body
+moves they can never be sure what he is doing.  However, even though it is 
+difficult to reverse I still recommend Reversal Buffering certain attacks (see
+below).  Possibly the worst thing about his immense frame is that 
+side-stepping, a powerful tool for most characters, becomes nigh-ineffective 
+for our bad boy.  He is so wide and possessed of so many appendages that 
+sidestepping is only useful to avoid certain attacks (such as those with long 
+windups).  In the heat of battle don't forget his Juggle Escape (tap any while
+being juggled).  It may get you out of a few tight spots.  Ogre has no Rising 
+Lightning Kick(in it's place, the Owl's Hunt).  As you have undoubtedly 
+noticed by now, Ogre has no real strings to speak of.  This is probably my 
+least favorite thing about him.  The fact of the matter is that strings are 
+often not that effective in high level play, but they do add flavor to a 
+character and his lack thereof disappoints me.
+
+
+Specific Character Strategies
+
+Ling Xiaoyu
+
+	She is a very dangerous character due to her speed, poking attacks and
+dodging maneuvers.  Good Xiaoyu players tend to screw up your zoning with
+flips and evasions, so it will be a tough match.  However, if your opponent 
+doesn't use the proper tactics this should be an easy match.  Be especially 
+careful of her juggling back kick!  Use either Power Punch or Low Tail Spinner
+to hit her in the Phoenix stance.  Killing Blow is also good since it tracks 
+during the windup which they often don't expect.  She has more range than you 
+think, so be careful.
+
+
+Yoshimitsu
+
+	`Weak Yoshis are easy to beat, giving you plenty of chances to smack 
+them with big damage moves.  Good Yoshis, on the other hand, tend to use 
+guerilla warfare, stick and move, chipping away at your life and looking for a
+good juggle opportunity.  He has some protection from your zoning in the form 
+of his backflip and Moonsault Slayer moves, watch out for the Moonsault 
+Slayer, it is very dangerous since Ogre is so large.  Make sure and interrupt 
+it.  Good Yoshis tend to knee and side kick a lot and those two moves probably 
+outprioritize nearly every move Ogre has so be careful even in mid range.  Of 
+course, don't let him heal, and watch out for his unblockables!
+
+
+Nina Williams
+
+Much like Xiaoyu, Nina's inside game will kill you if you aren't careful.  She
+also has long, fast kicks you will have to watch out for.  You will therefore 
+need to keep her at a greater distance than many other opponents.  She has a 
+lot of powerful, annoying strings that vary attack heights plus she is an 
+excellent juggler.  More than usual precision is needed to win because she has
+so many ways to punish any mistake you might make.  Her speed also makes it 
+easier for her to interrupt your attacks than most.  Persistence and proper 
+defensive play are needed to win.  Watch out for her reversals.
+
+
+Forest Law
+
+Law is not so threatening a character to Ogre, simply because he has so many 
+moves and strings which leave him open to counterattacks.  Of course, he is
+pretty fast in close but many of his moves push you away so just don't get 
+caught up in it and you should be fine.  Smart Laws tend to do shorter, poking
+combos, but even so I don't foresee you having a difficult time.  
+
+
+Hwoarang
+
+Well, even though Hwoarang is arguably one of the weakest of the ten basic 
+characters, he can take Ogre apart.  Hwoarang loves to kick, and he can kick 
+you out of half of Ogre's moves with his kick strings pretty easily.  Don't 
+let him.  Much like Ogre a good Hwoarang player tries to control the distances
+between him and his opponent.  Since he has so many good range attacks, you 
+need to keep him further away than usual so you can use windup moves like 
+Buffalo's Horn and Killing Blow to hit him out of his strings.  Careful play 
+should lead you to victory.
+
+
+Eddy Gordo
+
+Eddy is a somewhat powerful character with a few really dangerous moves such 
+as his infamous b+4, 4 combo and his low sweep combos.  On the whole he 
+shouldn't be that difficult however.  The biggest problem is that if he can 
+get on the offensive it can be hard to get any breathing room, plus most of 
+your high attacks will never hit, though Power Punch still works like a charm.
+Much like Hwoarang and Law he uses a lot of time-consuming strings/sequences 
+so capitalize on that with big damage moves.  Eddy is the easiest character to
+hit with Hell's Flame!
+
+
+Paul Phoenix
+
+Ogre versus The Man.  Paul is one of the few characters Ogre doesn't have a 
+big range advantage on, due mostly to the ubiquitous Death Fist, though his 
+double kick combos don't help either.  The Death Fist outprioritizes pretty 
+much every move you have and of course does obscene damage.  The main problems
+are that Paul vastly overpowers Ogre inside, and further out any missed or 
+predicted attack means a Death Fist and probably the end of the round.  It 
+will take your most careful and skillful play to defeat a good Paul.  Don't 
+forget he has reversals too.
+
+
+King
+
+	King is one tough mutha.  Good damage, range and speed equals a tough 
+match against a good King.  On the plus side you have the usual range 
+advantage(though watch out for the exploder) as long as you can maintain 
+control of your distance.  Throws generally don't concern me since they are 
+easily crouched under(respond with a Heavy Body Blow if you do).  His 
+Disgraceful Kick and Ali Kicks are the main problems.  If you block Ali Kicks,
+go for a Heavy Body Blow.  Not much to say about the Disgraceful Kick other 
+than avoid it.  He has a kick reversal but you shouldn't be doing too many 
+standard kicks anyway.
+
+
+Lei Wulong
+
+Lei is a difficult character to classify since he is played so many different 
+ways.  In general you shouldn't have too much trouble as long as you don't get
+lulled by his lay down tactics.  Watch out for falling Leis!  If he does lay 
+down, waiting for you to move, then use Buffalo's Horn, or if you're feeling 
+lucky Hell's Flame.  Low Tail Spinner is also not bad on low Leis.
+
+
+Jin Kazama
+
+	Despite what some people believe Jin is one of the stronger characters
+in the game.  He is extremely well-rounded, with an emphasis on juggles and 
+strings in his arsenal.  His only move which really challenges your range 
+superiority is the Stomach Rush.  If he gets inside, watch out for juggle 
+starters like Wind Godfist, Tooth Fairy (better than Ogre's!), etc.  Learning 
+to block or interrupt his strings is probably a necessity.  As long as you 
+keep him at the proper distance you should be fine.  Watch out for reversals.
+
+
+Kuma/Panda
+
+One of the characters nearly as large as Ogre, Kuma is slower but more 
+damaging than Ogre on the whole.  Kuma doesn't have too much to watch out for 
+except maybe the Bear Uppercut and Power Scissors.
+
+
+Julia Chang
+
+A medium to low strength character with lots of small annoying combos, she 
+doesn't have too much to threaten you with.  Relatively easy prey for standard 
+zoning techniques, just watch out for sweeps.
+
+
+Gun Jack
+
+	Ogre's other size/power rival and tougher overall than Kuma.  A few 
+really damaging hits to watch out for but he is pretty slow so it should be no
+problem.
+
+
+Bryan Fury
+
+	Bryan is a quick, high damage character with lots of combos and decent 
+range.  If you let him get inside he can murder you so watch out.  Quick 
+enough to interrupt Ogre fairly often if the Bryan player is skilled and 
+patient.  Bryan is best on offense, not defense, so take advantage of that 
+fact.
+
+
+Heihachi Mishima
+
+	Obviously since he has a Death Fist nearly identical to Paul's he has 
+the same range and punishment factor with the added danger of huge juggling 
+capacity and Hellsweeps.  Heihachi is best played offensively so you will 
+probably need to be patient and wait for an opening, but it will come up 
+eventually.
+
+
+Ogre1
+
+	Ogre2 has almost every advantage over his small form, most of that 
+advantage being in the range department, although he also has some extra 
+moves.  The only move little Ogre possesses that Ogre2 does not is Ancient 
+Power, a reversal of sorts, but it's not much to worry about.  Ogre2's only 
+weakness in this fight is that he is a large target but in general it should 
+be easy going.
+
+
+Odds and Ends
+
+	Just a few extra tactical hints which weren't in other categories.  
+First off is Reversal Buffering.  Like I said, he is fairly difficult to 
+reverse in the first place, but really good players might start to get you 
+from time to time.  That's why you use Reversal Buffers.  There's a whole 
+section on this at the Tekken Web Project's Advanced Gameplay Primer by 
+slikatel (which I suggest you read), but the gist of it is this: if you expect
+a reversal, immediately press f+1+3 if you are using a left side attack (as in
+you used a left punch or kick), or f+2+4 if you used a right side attack.  If 
+you are quick enough it won't matter if they didn't attempt to reverse, there 
+will be no side effect. Also, many of Ogre's moves are 'Dash Bufferable', 
+another concept I read about in slikatel's guide, just remember any attack 
+with a f or b motion at the end(especially f, f or b, b) can be tacked onto 
+the end of a normal dash which gives it extra range and unpredictability.  The
+large number of moves he has with those motions makes it a worthy thing to 
+learn.  Getting up after a knockdown can be a challenge with Ogre because he 
+is so easy to hit so you must learn how to properly get up.  A lot of times if 
+the opponent is very close when you are knocked down there will be one or two 
+hits you cannot escape.  The fortunate thing is that these hits are typically 
+pretty weak.  Rolling back is often not such a good idea because again his 
+size makes it too easy for them to follow and punish you.  I usually prefer 
+rolling to the side, or if they seem especially zealous in their attack I 
+might use the Owl's Hunt (3+4 when grounded) to escape at the least and 
+hopefully score a big hit.  A lot of it depends on your opponent's style so 
+try and adapt.
+
+
+Summary
+
+	Well, if you've read everything so far you probably have a good idea 
+what I' m going to say, but here goes anyway.  Obviously I consider range 
+control an essential element of winning with Ogre.  I also think that a calm, 
+cool, and collected head is necessary, though this is more of a general rule 
+that certainly isn't Ogre-specific.  Practice, practice, practice!  Everything
+I say in this guide is meaningless unless you test it out and make it your 
+own.  It is apparent that I have my own Ogre strategy, but it isn't the 
+end-all of Ogre strategies.  I still have lots to learn and I plan to improve 
+and update this FAQ when possible.  Know your opponent, know yourself, and you
+are taking the first steps to victory...
+
+
+Epilogue
+
+
+	Well, that's it.  You've finished the meaningful part of the guide.  
+This is some extra bullshit in case you care.  If you want to E-mail me about 
+this FAQ with ideas/compliments/complaints/flames try UnclFstr@swbell.net or 
+buddha21@aol.com  Thanks go out to slikatel for the mind-boggling Tekken Web 
+Project (did I mention it's cool?), Aoi for a few juggles and combos, Namco 
+for making the game, and all my pals for being around to get pummeled (you 
+know who you are).  I can't believe this FAQ is finally done!  
+
+Copyright Ben Ivester 1997                            
+
+                            

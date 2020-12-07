@@ -1,0 +1,3829 @@
+Ver. 1.5
+Completed Aug. 28, 2000
+
+Advanced guide to Ling Xiaoyu, everyone's favorite chinese schoolgirl
+
+ -----------------------------------------------------------
+| L      IIIII  N   N   GGG       Xiaoyu Xiaoyu Xiaoyu      |
+| L        I    NN  N  G           Xiaoyu Xiaoyu Xiaoyu     |
+| L        I    N N N  G  GGG       Xiaoyu Xiaoyu Xiaoyu    |
+| L        I    N  NN  G   G         Xiaoyu Xiaoyu Xiaoyu   |
+| LLLLL  IIIII  N   N   GGG           Xiaoyu Xiaoyu Xiaoyu  |
+ -----------------------------------------------------------
+
+Written, edited, toiled over, spent too much time on by:
+- Nall-ohki [nall@iloveyou.net] (so you know who to yell at 
+				 when things go wrong)
+
+	If you are reading this, I expect you already have a good 
+understanding of Tekken Tag, and at least a playable understanding 
+of Ling Xiaoyu.
+	All feedback is GREATLY appreciated, as I am a sucker for 
+compliments as a reason to continue work.
+
+Best viewed in monowidth font:
+
+	1234567890
+	ABCDEFGHIJ
+
+If this appears messed up, so will the rest of this guide.
+
+*****
+INDEX
+*****
+
+1.    Ling Xiaoyu Profile
+
+2.    Moves
+	A. Throws
+	B. Regular Stance techniques
+	C. Rain Dance techniques
+	D. Phoenix Stance techniques
+	E. Hypnotist Stance techniques
+	F. Taunts
+	G. 10 Strings
+
+3.    Form
+
+	A. Defense
+	   a. Regular Stance defense
+	   b. Ducking defense
+	   c. Rain Dance defense
+	   d. Phoenix Stance defense
+	   e. Hypnotist Stance defense
+
+	B. Offense
+           a. Regular Stance tactics
+	   b. Ducking tactics
+           c. Rain Dance tactics
+           d. Phoenix Stance tactics
+	   e. Hypnotist Stance tactics
+ 	   f. Charging tactics
+	
+	C. Okizeme
+	   a. General
+	   b. Throws
+
+	D. Ground Recovery
+	
+	E. Tagging and Ling
+	   a. Tagging In
+	   b. Tagging Out
+	
+	F. Juggles
+	    a. Starters
+	    b. Juggles
+
+	G. Strategy
+	   a. Evasion - Pre-emptive
+	   b. Evasion - Reactive
+	   c. Poking - Instigation
+	   d. Poking - Stringing
+	   g. Custom Strings
+	   h. Ling's Tricks
+	   i. Specific Character Strategy
+
+4.    Thanks go to...
+
+*******
+PROFILE
+*******
+
+Ling Xiaoyu ("Schoolgirl in High Spirits")
+	- I have researched her name, and have the official characters for 
+her name from a cute little teacup I won in a tournament.  It reads as follows:
+
+Xiao - Dawn
+yu   - Rain
+Ling - Sunrise (Ling *IS* her surname)
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Country of Origin: 	China
+Fighting Style: 	Hakke Ken, Hike Ken and various Chinese martial arts
+Age: 			16
+Height: 		157 cm ( 5'1½"  )
+Weight: 		42 kg  ( 93 lbs )
+Blood Type: 		A
+Occupation: 		Student, Panda caretaker
+Hobby: 			Traveling, visiting amusement parks all over the world.
+Likes: 			Chinese steamed buns and shrimp dumplings.  Peking Duck.
+Dislikes: 		Math teachers
+	
+Strengths:
+	- She's fast, very fast.
+	- She's got many mixups
+	- Most of her moves have good recovery, often fooling opponents
+	- She's a small character, thus more difficult to juggle.
+	- She's evasive as peace in the middle east
+	- Has some very good medium level attacks
+	- Decent Juggle ability, including some very fast starters
+	- Some of her attacks do very good damage for thier speed
+	- Often lands counterhits
+	- Incredible sidesteps
+	- 4 Stances
+	- She's left-handed
+
+Weaknesses:
+	- She hits like a little girl
+	- She takes damage like a little girl
+	- With her back turned, she's vunerable if you're not careful (Whiffs are 
+	  deadly)
+	- Some of her attack strings have weaknesses, especially when she turns her 
+	  back.  
+	- She has very few low attacks with any priority
+	- Short Attack Range
+
+	I want to start by saying that Ling is the reason I started 
+playing Tekken.  I had on and off played Tekken 2, but it was no more 
+than a passing phase.  I simply saw Tekken 3 come in at the local arcade, 
+and decided to give it a shot.  It just so happened that Ling caught my 
+eye (I think it was the name, actually, "Xiaoyu" - I couldn't pronounce 
+it at the time, and wanted to hear the announcer say it ^^).  
+	After checking out the listed moves, I was wowed by her style, 
+and fell in love after that.  I also loved her speed compared to other 
+characters.  Thus began my Tekken addiction.  
+	Over the years of playing Tekken I have used other characters, 
+but noone has surpassed my love affair with the small chinese 
+schoolgirl (draw whatever meaning from this sentance you wish).  I have 
+had only one teacher, Lin, a korean girl at my arcade who taught me some 
+strategy early on.  Other than that, Ling players have been extremely 
+rare (I've seen maybe 10 good other Ling players), and this has been an 
+advantage, as my style has mostly developed on it's own, making it less 
+like the normal Ling player than most.  
+	All in all, I play more of a no-nonsense Ling than most people 
+I've seen.  I tend to take simple evasion techniques as opposed to large 
+ones, making it easier to capitalize on mistakes my opponent makes, of 
+which I encourage.  
+
+
+
+
+
+*****
+MOVES
+*****
+	This movelist is a modified, and REmodified version of Catlord's 
+list, which can be found at www.tekken.net.  As of now, there are minor 
+mistakes in this list, and it is not all-encompasing.
+
+THROWS
+
+Front - 
+
+[Jade]
+1+3	Escape: 1			Slap, Forearm Chop
+	Ling takes the opponent by the arm and slaps them back acrost 
+the face, and then from the back, into the ground.
+
+[Ruby]
+2+4	Escape: 2			360 Degree Flip
+	Ling takes the opponents arms and spins them vertically and 
+the opponent follows.  
+
+[Dislocator]
+QCB+2	Escape: 2			Over-Shoulder Throw
+	Ling  takes the opponent and throws them by the shoulders.  
+
+[So Shoe Me]
+f+2~1	Escape: 1+2			Human Hurdle
+	Ling hurdles opponent, stepping on them twice.  Leaves you 
+and opponent with backs turned.  
+
+[Dump the Bucket]
+1+3_2+4	Escape: 1	(Right Throw)	Takedown Punishment
+	Ling takes the opponent by both ends and flips them 
+vertically, leaving them face down face up in front of you.  
+
+[Arm Flip]
+1+3_2+4 Escape: 2 	(Left Throw)   Cartwheel Throw
+	Ling does a cartwheel over the opponents shoulders, and then 
+throws them some distance.  
+
+[Crank Up]
+1+3_2+4 Escape: None	(Back Throw)    Spinning Leg Trip
+	Ling grabs the opponents right leg and spins it vertically, 
+causing the opponent to follow.  
+
+
+Special (Front Stance):
+
+============
+[Move Name]
+Command		Level					Description
+Notes
+============
+
+[Bayonet]
+1,2		H,H					Quick 2 Jabs 			
+	Second hit guaranteed on first hit.
+
+[Bayonet McTwist]
+1,d+2		H,M					Jab, Uppercut
+	Small delay on second hit.
+
+[April Showers]
+2,1		H,M					Two Quick Punches
+	Ends in Rain Dance
+
+[Belly Chop]
+d/f+1		M					Spinning Punch
+	Ends in Rain Dance
+
+[Double Palm Strike]
+1+2		M					Lunging, double handed strike
+	Causes Violent Knockdown
+
+[Back Kick]
+B+4, {B} 	H					Double, back turned kick
+	Ends in Rain Dance unless B is held
+
+[Back Kick (Sidestep Version)]
+SS, {B} 	H					Double, back turned kick
+	Ends in Rain Dance unless B is held
+
+[Single Fan]
+u+1		H					Upward Slap			
+	Ends in Rain Dance
+
+[Sunrise Fan]
+d/f+2,1  	M					Upward multi strike
+	All hit mid.  Juggles, head facing Ling.
+
+[Sunset Fan]
+D+1,{D}		M,M,M					Downward, two-armed flap
+	Special mid, hits 3 times.  Tap D to end in Phoenix Stance, ends 
+in crouch otherwise.  
+
+[Storming Flower]
+d/b+1		M					Power Palm Strike 		
+	Opponent rolls on counterhit.  Automatic False slaute on counterhit, N.
+
+[Cyanide]
+u/f_u_u/b+4, 	H					Jumping Overhead Kick
+	Ling does a sweeping jump kick.  Bounce Juggles on Counter Hit.
+	
+[Cloud Kick]		
+f+3		H					Left Roundhouse			
+	Knocks opponent off axis on knockdown.
+
+[Knee Cracker]
+d/b+3 		L					Knee Shove
+	Guard Breaker, Short Stun.
+
+[Nutcracker]
+d/b+4		L					Toe Kick			
+	Lays opponent flat, face towards Ling on counter.
+
+[Left Spinner]
+3+4		N/A					Spin Dodge Into Screen
+	Spins 90 Degrees around stationary opponent.
+
+[Right Spinner]
+d+3+4		N/A					Spin dodge Out of Screen
+	Spins 90 Degrees around stationary opponent.
+
+[Leap Right]					
+f+3+4		N/A					Leaps to Ling's Right
+	Turns 180 Degrees around stationary opponent.  Jumps over low attacks.
+
+[Cartwheel Left]
+f+1+2		N/A					Cartwheels to Ling's Left
+	Turns 180 Degrees around stationary opponent.
+
+[Front Layout]
+f,f+3+4		M					High Overhead Flip 		
+	Short stun on hit and counterhit.
+
+[Fortune Cookie]
+U+1+2,2,1	M~M,M,M					Canned Combo.
+	First two hits are together, 3rd hit knocks over on counter, causing 4th to miss.  
+
+[Fortune Cookie Fakeout]
+U+1+2, 3+4 	M~M					Canned Combo
+	Does first two hits of flower power, then Ling spins and cancels the rest.  
+
+[Phoenix Wings]
+f,f+1+2,1+2 	M					Upward, Downward Flap	
+	Short Stun on counterhit.  Second hit bounce juggles (only if first 
+hit does not connect).
+
+[Raccoon Swing]
+f,f+3		M					Wide leg non-sweep.		
+	Ends in Rain Dance.
+
+[Step Kick]
+f,f+4		M					Forward Lunging Kick
+	Ling takes a shuffling step forward and kicks out with a fully
+extended leg.
+
+[Sunflower]
+WS+2		M					Rising Uppercut			
+	Juggles on counterhit.  Ends in Rain Dance.  (Tap F to end in Forward Stance)
+
+[Skyscraper Kick]
+WS+4		M					Vertical Split kick
+	Juggles end-over-end on hit, no unavoidable followups possible.
+
+[Fire Dancer]
+(FC),3		L					Low, weak sweep
+	Links to Dark and Stormy (2,1,4).  Ends Crouching.
+
+[Flower Garden]
+(FC),d/f,4,{4}	L					Sweep Kicks
+	Ling does a tiny sweep kick.  Ends in Phoenix Stance unless the 
+second kick is executed, and then ends crouching.
+
+[Lotus Twist]
+(FC),d/f+2,1	???		            		Spin Punch Combo
+	A small spinning 2 hit.  
+
+[Great Wall-Left]
+b+1		M					Left Knifehand Reversal
+	Ling does a knifehand block.  If B is held, she will change to 
+raindance on hit.  
+
+[Great Wall-Right]
+b+2		M					Right Knifehand Reversal
+	Ling does a knifehand block.  If B is held, she will change to 
+raindance on hit.
+
+[Mid Thrust Parry]
+1+4		N/A					High/Med Attack Breaker
+	Quick dodge, Ling pushes the attack aside.  Works on High and 
+Mid level moves.
+
+[Low Thrust Parry]
+d+1+4		N/A					Low Attack Breaker
+	Quick dodge, Ling pushes the attack aside.  Works on Low level moves.
+
+**********
+RAIN DANCE
+**********
+
+[Rain Dance]
+b+3+4		N/A					Turns around.
+	Sidesteps 90 Degrees around stationary opponent and turns Ling around.
+
+[Low Back Turn]
+(FC),DB+3+4	N/A					Turns around
+	Turns Ling around while crouching.  
+
+[Stormie]			
+2		H					Slap
+	Remains in Rain Dance.
+
+[Dark and Stormie]		
+2,1		H,H					Dual Slap
+	Ends in Forward Stance.  If first hit is on counter, second is guaranteed.
+
+[Dark and Stormie -> Mistrust]	
+2,1,4		H,H,M					Dual Slap -> rising kick
+	Ends in Forward Stance.  If first hit is on counter, rest is guaranteed.  If 
+second hit connects, mistrust on ~4 is guaranteed.  Mistrust can be delayed slightly.  
+
+[Back Circle Breaker]
+d+3 		L					Stab kick at the shin
+	Lays opponent flat, face towards Ling on counter.  Remains in Rain Dance on 
+Normal Hit, Ends in Normal Stance on counter.
+
+[Mistrust]
+4		M					Reverse Upwards Kick
+	Juggles.  
+
+[Peg Leg]
+f,f+3		M					Skipkick
+	Jumps over low attacks.  Remains in Rain Dance.
+
+[Hop 'n Throw] (Throw)
+f,f+(1+3_2+4) 	Escape: 1_2				Reverse Dash Grab 
+	Ling waves arms wildly and grabs.  Jumps over low attacks.  
+
+[Left Spinner]
+3+4		N/A					Spin Dodge Into Screen
+	Spins 90 Degrees around stationary opponent.  Ends in Normal Stance
+
+[Right Spinner]
+d+3+4		N/A					Spin dodge Out of Screen
+	Spins 90 Degrees around stationary opponent.  Ends in Normal Stance
+
+[California Roll]			
+f+3+4, 3+4 	M					Roll Towards
+	Ling rolls backwards and stands up in Rain Dance
+
+[California Roll, Cyclone]			
+f+3+4, 3+4 	M					Roll Towards, Donkey Kick
+	Ling rolls backwards and kicks upwards at 45 Degrees with both legs.
+Juggles.
+
+[Back Layout]                              
+f,f+3+4	  	M					High Overhead Flip
+	Ling does a spinning backflip.  Minor stun on hit, turns into throw 
+on deep hit.  
+
+[Turn Kick]
+3		H					Spin kick
+	Ends in Normal Stance.
+
+**************
+PHOENIX STANCE
+**************
+
+[Phoenix Stance]
+d+1+2		N/A					Low to ground Crouching Stance
+	Ling puts herself low to the ground, making her hard to hit.  Ducks all 
+high, and most mid attacks.  
+
+[Butterfly]
+d		N/A					Duck
+	Ling puts herself even lower to the ground, ducking even more attacks.  
+
+[Left Handful]
+1		M					Left Stomach Strike
+	Simple slap to the stomach.  Ends in crouch.
+
+[Right Handful]
+1		M					Right Stomach Strike
+	Simple slap to the stomach.  Ends in crouch.
+
+[Wave Crest - Quick]
+PP~1+2		M					High Forearm Bash
+	Ling takes both arms, and using her whole body, rushes up and punches 
+the opponent.  Excecuted immediately after entering the phoenix position.   
+Juggles.  Ends in normal stance.
+
+[Wave Crest - Normal]
+1+2		M					High Forearm Bash
+	Ling takes both arms, and using her whole body, rushes up and punches 
+the opponent.  Juggles.  Ends in normal stance.
+
+[Wave Crest - Power]
+d,1+2		M					High Forearm Bash
+	Ling takes both arms, and using her whole body, rushes up and punches 
+the opponent.  Ling's highest juggle.  Ends in normal stance.
+
+[Cradle Throw]
+(1+3_2+4), {D}	Escape: 1_2				Crouching Dodge Roll, Throw
+	Ling does a side-axis roll, and then does a lunging throw.  Pressing 
+D will cancel the throw and end crouching.  Recovers normal stance on miss.  
+
+[Knee Stabber]
+3		L					Low Kick
+	Ling extends her entire leg out and hits the opponent in the knee.  
+Ends in Phoenix Position.  
+
+[Back Kick]
+4,{B}		M					Roundhouse Kick
+	Ling stands up and does a roundhouse kick to the stomach.  Holding B 
+will end in Rain Dance, otherwise Normal Stance.
+
+[Flower Garden]
+f+4,{4}		L					Sweep Kicks
+	Ling does a tiny sweep kick.  Ends in Phoenix Stance unless the 
+second kick is executed, and then ends crouching.
+
+[Back Turn]
+f+1+2		N/A					Rise, Turn Around
+	Ends in Rain Dance.
+
+[Roll Ball]
+f+3+4		N/A					Forward Roll
+	Ends crouching, Normal Stance.  
+
+[Firecracker]
+4~3		L					Strong Sweep, Liedown
+	Scissor-sweep with both legs, knocks opponent down.  Ling lies 
+down in prone position (i.e. for bad miss reprisal by opponnent).
+
+[Flower Power]
+u+4, {U_4} 	M					Twirling Kick
+	Ling does a 45 degree angle kite-style kick.  Ends in Phoenix 
+Position.  U leaves her in Rain Dance.  4 is an additional Flower Power, 
+leaving her crouching.  
+
+[Single/Double Barrel Shotgun]
+u+3,{3} 	H, ?					Single/Double Jump Kick
+	Ling jumps, kicking out once {or twice}.  Ends in Normal Stance.
+
+[Single/Double Scissor Kick]
+u+3,{4} 	???					Single/Double Jump Kick
+	Ling jumps, kicking out once {or twice}.  Ends in Normal Stance.
+
+[Jumping Pirouette]
+u/f_u_u/b,N,3 	H					Leaping Spin Kick 
+	Ling Jumps, does a spin kick.  Turns opponent around on connect.  
+Ends in Normal Stance.
+
+[Sky Kick]
+u/f_u_u/b,N+3 	H					Leaping Spin Kick 
+	Ling Jumps, does a jump kick.  Ends in Normal Stance.
+
+[Cyanide]
+u/f_u_u/b+4, 	H					Jumping Overhead Kick
+	Ling does a sweeping jump kick.  Bounce Juggles on Counter Hit.
+
+****************
+HYPNOTIST STANCE
+****************
+
+[Hypnotist]
+b+1+2		N/A					Circling Defensive Stance
+	Ling continuously sidesteps slowly.
+
+[Spin Sticker]
+2		M					Circular single strike
+	Ling spins and comes out with a right hand strike.
+
+[Thunder Strike]
+1+2		M,M,M					Two handed power strike
+	Ling powers up in the Rain Dance/Crouch position, and then turns 
+a double arm flapping strike on opponent.  Damage for move varies on 
+distance walked in Hypnotist.  Hits 1-3 times.
+
+**********
+TENSTRINGS
+**********
+
+[Tenstring 1]
+M--H--H-L-L--M-M---LM--M
+u+41::2:4:4::2:1+2:14::2
+	Not a bad 10 string, but easily blocked.  Stopping at 4th or 5th 
+hit leaves Ling in Phoenix Position.  
+
+[Tenstring 2]
+M--H--H-M---M-H-L-L--M-M
+u+41::2:1+2:1:3:4:4::4:1
+	This one's even better, but has some delays that leave her 
+vunerable.  Leaving at 6th hit leaves Ling in Phoenix Position.
+
+TAUNTS
+
+[False Salute]
+1+3+4							Horizon Taunt
+	Ling shuffles her feet and pretends to be looking at something 
+far away (complete with hand as a visor over the eyes).  Wiggles her 
+body and makes a small giggle noise.
+
+[Greetings]
+2+3+4		M					Wave Taunt
+	Ling sticks her face out, smiles, and waves her hand at you 
+vertically.  This taunt actually hits for 0 damage.
+
+
+**********************************************************************
+**********************************************************************
+
+DEFENSE
+
+	Ling is fast.  Very fast.  Her left jab is tied for the fastest 
+execution in Tekken at 8 frames, and her right kick is as fast as most 
+people's jabs at 10.  Her movement is quick as lightning, and is probably 
+the fastest, or among the top 3 (Julia, Michelle and Kuni are up there 
+as well).  
+	Because of this, Ling's defensive strategy SHOULD NOT be based 
+on blocking.  Note: this does NOT mean "do not block with Ling", but 
+rather, there are better options.  
+	As for me, there are several that I tend to use:
+
+************************
+DEFENSE IN NORMAL STANCE
+************************
+
+a) 1, 2: Bayonet (10/10)
+	This move is GREAT vs. frontal attacks.  Not only are these 
+jabs fast as hell, there recovery is really good, and on hit you gain 
+a 9, read it, 9 frame advantage.  In theory, if you Bayonet twice in 
+a row with no delay, if the first pair hits, you should get a second.  
+	This move stops any frontal momentem, and can turn the tide of 
+the battle in a lot of situations.  They tend to interupt a LOT of 
+attacks.
+	These should be used at close range only, as whiffing entirely 
+does give the opponent an (albeit small) advantage.
+
+Followups:
+	- See Strategy : Pitbull
+
+b) SS: Sidestep (9/10)
+	Ling's sidestep is VERY fast, and VERY large.  In close range, 
+her wrap around can be enough for a back throw, and always for a side 
+throw.  
+	This should especially be used on opponents making 
+forward-momentum attacks from close-medium range.
+
+Followups:
+	- See Strategy : Evasion - Preemptive/Reactive
+
+c) d+1,2: Sunrise Fan (8/10)
+	This is an EXCELLENT move when it's pulled off.  
+Unfortunately, it's fast, but not blindingly so (14 frame execution), and 
+has poor recovery (18 frames) when blocked.  On the up side, the move hits 
+mid, hits many times (which often confuses the opponent enough to keep 
+the opponent from reprising immediately on a partial hit), is high 
+priority, and juggles for decent damage followup.  
+	This should be used at close to medium range, and only when 
+the opponents attack is somewhat slow, or you can anticipate his attack
+well.
+
+Followups:
+	- See Juggling : Sunrise Fan
+
+d) 4: Standing right kick (7/10)
+	This move is fast, equal to most people's front jabs.  What's 
+better is that on counter hit (which is quite common), it floats the 
+opponent.  As a juggle, if you are REALLY quick (you almost have to 
+anticipate it, but it is possible to do on reaction) you can hit them 
+with a Storming Palm before they hit the ground.  
+	The down side is that this move doesn't have as much range 
+as her Bayonet (which actually sometimes is an advantage, but I 
+digress).  
+	This move should be used almost exclusively at close range, 
+and can be thrown out almost at random.  Works very well on charging 
+opponents and okay after a canceled charge.  
+
+Followups:
+	- Storming Palm (d/b+1) Juggle, dash
+
+e) b+1+2: Rain Dance (9/10)
+	This move has less speed, and sidesteps slightly less than her 
+normal sidestep, but on the bright side, Ling ends up in Rain Dance.  
+Often, after this move, you can pull off a Mistrust before they 
+recover.  
+	This move can be used ALMOST the same as her sidestep, but 
+should not be used when people tend to use, very fast poking, quick 
+recovery moves, or 360 degree axis moves, as doing so tends to 
+compromise Ling's life.  
+
+Followups:
+	- See Tactics : Evasion
+
+f) B+4, SS+4: Back Kick (4/10)
+	This move is only good on slow moves, and is not 
+neccessarily the best to use.  One advantage is that Ling slightly 
+backsteps during execution.
+	This move should NEVER be just thrown out unless you expect 
+to hit on counter, as the recovery is horrid.  Use at medium range.
+
+Followups:
+	- See Offense/Defense : Rain Dance
+
+g) d/b+2: Storming Palm (7/10)
+	This move is fairly fast, but not extremely, which makes 
+it lose a few points.  The reason it is so highly rated, though, 
+is that it can be absolutely DEVISATING to your opponent on counter.  
+Not quite Paul's Phoenix Smasher, but hurts enough coming from Ling.  
+	Use at Medium Range.
+
+Followups:
+	- See Offense : Charging Tactics
+
+h) 2, 1: April Showers (6/10)
+	The first hit is 10 frames, and the second turns Ling around, 
+leaving her ready for Rain Dance.  Unfortunately, after this move, 
+Ling doesn't always have such a great frame advantage, which can 
+get her slaughtered if you're not careful against good players.  Can 
+also hold d/b to cancel the turn to rain dance if you wish.
+	Use at close to medum range.
+
+Followups:
+	- See Offense : Rain Dance
+
+g) 1+2: Double Palm Strike (3/10)
+	This is a new move to Tag, and frankly I toss it out more 
+by accident than by choice.  In my opinion, it is a very "Un-Ling" 
+move, taking 20 frames to connect.  It does, however, have the 
+longest range of any of her moves (except her unblockable).
+	Do NOT use this at close range EVER, unless you want to 
+attend her funeral.  Best used at Medum to Long range on obvious 
+attacks, though other, better options are available (Storming 
+Palm).
+
+Followups:
+ 	- See Okizeme : General
+
+h) d/f+1: Belly Chop (7/10)
+	This move has slower execution than April Showers, but 
+has better recovery, thus giving Ling more of an advantage once 
+her back is turned.  Also, the first hit goes out further.  Great 
+in custom strings, and allows you to play a change up game by 
+going into/not going into rain dance.
+	Use at close to medium range.
+
+Followups:
+	- Consult Offense : Rain Dance
+
+i) Throw: Throw (6/10)
+	Ling's throwing game is very important, and being as 
+quick as she is, you can connect them very often.  Throw them 
+into her strings often.  
+	Should only be used in close range.  
+
+Followups:
+	- Consult Okizeme : Throws
+
+j) d+1: Sunset Fan (7/10)
+	This move is not great on speed (17 frames), but has 
+great priority.  It hits 3 times, mid, and stops most attacks 
+cold once it's out.  Followups leave something to be desired 
+however, because good players know she recovers crouching or 
+in the phoenix position.  
+	Use in medium range.
+
+Followups:
+	- Cyanide (u/f+4)
+	- Bayonet (1,2)
+	- Double Palm Strike (1+2)
+	- Skyscraper Kick (WS+4)
+	- Sunflower (WS+2)
+	- On {D}, consult Offense : Phoenix Position
+
+k) d+1+2: Phoenix Position (10/10)
+	This move is Ling's best evasion tactic.  She ducks 
+over all high, and most medium attacks, causing most moves 
+to miss her.  After that, the opponents are at your mercy.  
+	Be wary of players who will goad you to enter the 
+phoenix position in order to hit you out of it.  Ling cannot 
+block in the Phoenix position.
+
+Followups:
+	- Wave Crest: Quick (~1+2) -> Consult Juggles : 
+		Wave Crest
+	- Firecracker (4~3)
+	- Consult Offense : Phoenix Position
+
+l) 1+4_d+1+4_d/f: Mid/ Low Thrust Blocks (6/10)
+	The mid thrust block is good for stopping momentum, 
+but unfortunately, Ling doesn't have any spectacular followups 
+albeit going on the offensive.  The only thing guaranteed, I 
+think, is the 1-2 punches.
+	The low thrust block is a great move, however.  
+Following it, just about any of Ling's basic moves are 
+guaranteed.  
+
+Followups:
+	- Mid Thrust:
+		- Bayonet (1,2)
+		- Consult Offense : Pitbull or Evasion
+	- Low Thrust:
+		- Storming Palm (d/b+1)
+		- Sunrise Fan (d/f+2,1)
+		- Throw
+
+m) 1+4_d+1+4: Left/Right Spinners (2/10)
+	These suck for defense, use the other sidesteps 
+instead.  
+
+Followups:
+	- See Offense : Sidestep
+
+o) b+1_b+2: Great Wall Left and Right (5/10)
+	This move is really not that great.  The range really 
+sucks, and whiffing is not a good idea.  If you hold B and 
+manage to connect, you will change to rain dance, but will 
+be at a slight frame disadvantage.  
+
+Followups:
+	- See Defense : Rain Dance
+
+********************
+DEFENSE WHEN DUCKING
+********************
+
+	As a rule, Ling is NOT best served by ducking.  She 
+has a better repetoire in the phoenix position, as well as less 
+of a perchance to be hit (Namely by some Mid Level moves).  All 
+ducking moves should be done at close range ONLY.  
+
+
+p) WS+2: Sunflower (6/10)
+	Apperantly, in the period where Tekken Tag takes place, 
+it is obvious that one of the following has occured:
+Ling is:
+	a) Having her period
+	b) Recovering from surgery
+	c) A recent victim of Roger's voracious sexual appitite
+	d) Been eating too many Steamed Buns
+
+	As a result, this move has been butchered in Tag.  It 
+now juggles only on Counterhit, making it a dangerous 
+commodity (to HER!).  Ling ends in the rain dance, and may eat 
+dirt if the move is blocked (reccomend an IMMEDIATE d+1).  
+	Use only in close range, and ONLY if you think a 
+counterhit is possible.
+
+Note: due to an interesting timing glitch, I have been back 
+      thrown out of this move.
+
+Followups:
+	- On counterhit, consult Juggles : Sunflower
+	- On hit, consult Offense : Rain Dance
+	- On block, consult Ground Recovery
+
+q) WS+4: Skyscraper Kick (8/10)
+	Very fast move to come out, and knocks down.  
+Unfortunately, damage and followups leave much to be desired.  
+Is GREAT for getting the opponent off your back, however.  
+
+Followups:
+	- See Okizeme : General
+
+r) d/f+2, 1: Lotus Twist (3/10)
+	I rarely use this move.  Frankly, it's not much damage, 
+has low priority, and has a high mess-up factor.  I do use it 
+occasionally because of the fact that if you hold d/f after the 
+first hit and don't execute the second, Ling ends in Rain Dance, 
+which can cause opponents to panic.  
+
+Followups:
+	- See Offense : Rain Dance
+	
+s) N, Throw: Stand and Throw (8/10)
+	Ling's speed once again gives her the advantage.  People 
+don't expect how fast this can come out.  If you get the timing for 
+this down, it's almost instantaneous.
+
+Followups:
+	- See Okizeme: Throws
+
+*********************
+DEFENSE IN RAIN DANCE
+*********************
+
+	Ling is not really equipped to defend herself in the Rain 
+Dance position.  Blocking is impossible, and almost all of her moves 
+are slower.  This taken, it's important to avoid this situation if 
+possible, but if it's not avoidable...
+
+t) Throw: Throw (3/10)
+	Ling's throw while turned around is slower, and if she 
+whiffs, she's going to be in a world of pain.  This move is NOT 
+suited for defense.  
+
+Followups:
+	- See Okizeme: Throws
+
+u) 4: Mistrust (7/10)
+	It comes out pretty fast, but many people know the timing 
+of this, and it is only an okay move to use on defense (unless you're 
+baiting the opponent).  The range is pretty good, though.  
+
+Followups:
+	- See Juggles: Mistrust
+
+v) 3: Turn Kick (8/10)
+	Comes out a bit faster than the Mistrust, which catches 
+people by suprise.  Hits high, which is a bad thing, but usually 
+people leave theirselves open when attacking Ling's backside.  
+
+Followups:
+	- None
+
+w) 2, 1, 4: Dark & Stormie -> Mistrust: (9/10)
+	Close to her fastest move with back turned (12 frames for 
+the first hit).  Even better is on counterhit, the rest is guaranteed 
+plus a juggle 
+
+Followups:
+	- See Juggles: Mistrust
+
+x) d/f+2: Crouch Punch (7/10)
+	I don't use it much, but it's the fastest move she can pull off 
+in rain dance.  Is a good followup to a bad frame advantage back turn 
+attempt, as it will usually snuff out most anything else.  
+
+Followups:
+	- See Offense: Crouching
+
+y) SS: Sidestep (9/10)
+	You have to anticipate a bit with this one (i.e. Start the 
+sidestep early) because it's a bit slower then when she's face forward, 
+but seems to sidestep farther, missing more moves.  
+
+Followups:
+	- Mistrust (4)
+	- Throw
+	- Dark and Stormie Changeups
+
+z) 3+4_u+3+4: Spinners (7(9)/10)
+	I have totally changed my opinion of this move recently, but 
+only partially.  The 3+4 spinner is okay, it is a far sidestep, and 
+she ends up close to the opponent in normal stance.
+	The u+3+4 spinner, however, is REALLY, REALLY nice for agressive 
+players against Ling's back.  The movement itself is like Yoshi's B+3+4, 
+moves Ling to the side and away from the opponent, and gives her some 
+room to work with, while simultaneously making many people whiff her.
+Use it wisely.
+
+Followups:
+	- Mistrust (4)
+	- Hop n' Throw
+	- Cyclone (f,f+3+4,3+4)
+
+***************************
+DEFENSE IN PHOENIX POSITION
+***************************
+
+	In General, Ling can be hurt in the Phoenix Position if used 
+carelessly.  However, it's also a great position in which to trick 
+the opponent to attack you.  The latter is risky business, but can 
+be very effective just the same.  
+
+aa) 1_2: Left/Right Handful (7/10)
+	They're quick, and interupt attacks.  Not great priority, 
+but okay.  
+
+Followups:
+	- Sunflower (WS+2)
+	- Skyscraper Kick (WS+4)
+
+bb) ~1+2_1+2_d+1+2: Wave Crests (7/10)
+	They're slower, but pack much more punch and juggle to 
+boot.  
+
+Followups:
+	- See Juggles: Wave Crest
+
+cc) 3: Knee Stabber (1/10)
+	The only reason I write this one is to warn you NOT to 
+use it.  You will be hurt from reprisal 90% of the time.  
+
+Followups:
+	- You hitting the ground
+	- Firecracker (4~3) (If opponent is too slow)
+
+dd) 4~3: Firecracker (8/10)
+	Hits low, is quick, knocks opponent down.  Stops them 
+dead, people don't usually expect it, either.  
+
+Followups:
+	- Low sweep (3 from the ground)
+
+ee) 1+3_2+4, {D}: Cradle Throw (5/10)
+	Good for an escape if you start early enough, but the 
+throw is off axis a lot of the time, which makes it better to 
+just cancel the throw.  All in all, not that great.
+
+Followups:
+	- See Okizeme: Throws
+
+ff) u/f+3 {,4}: Hop Kick (9/10)
+	This is a move I discovered the beauty of only recently.  
+Really, it's strenth comes in that it is it's fast-as-hell 
+execution after going into the Phoenix Position, alowing you to 
+often catch people during recovery that you can't for any other 
+move.  
+	In addition, this move has VERY high priority against 
+most attacks.  On top of that, it Juggles, and you can use it 
+with her other jumping mix-ups.  Learn to use this.
+
+Followups:
+	- See Juggles: Wave Crest
+
+
+***************************
+DEFENSE IN HYPNOTIST STANCE
+***************************
+
+	Ling can do almost anything she can do in the normal 
+stance from the Hypnotist Stance (including block).  The only 
+exceptions are moves who's inputs overlap with her 2 moves 
+from this stance.  (1,1+2)
+	- See Defense: Normal Stance
+
+*************************************************************
+*************************************************************
+
+OFFENSE
+
+	Ling is without a doubt, an offensive character.  
+However, there is one thing to remember: careless offensive 
+tactics are not what Master Wang perscribed.  Instead, she 
+is best used with a variety of pokes, confusion tactics, 
+throws and juggles.  I believe that Ling has one of the best 
+overall useful arsenals, with a ton of moves from every 
+position, if you mix them effectively, your opponent will have 
+no idea what to do.  When that happens, you've already won.  
+	Along with not being predictable, there is another 
+skill that will win you more matches than ANYTHING else: being 
+able to predict and/or bait your opponent.  Ling has so many 
+small poking moves, and has many moves from which recovery is 
+very, very fast.  Used effectively, you can:
+	- Snuff opponents attacks out
+	- Major counter opponents attacks
+	- Force them to choose between attack levels
+	- Totally whiff her, leading to an easy juggle
+
+
+
+************************
+OFFENSE IN NORMAL STANCE
+************************
+
+a) 1, 2: Bayonet (10/10)
+	Great in offense as well as defense.  Recovery is fast, 
+and allows you to go directly into other moves.  A great move 
+to throw out after any whiff, it tends to snuff out other 
+attacks.  
+
+Followups:
+	- See Offense: Custom Stringing
+
+b) SS: Sidestep (10/10)
+	Thrown out at random, or even as a threataning tactic, 
+Ling's sidestep is the best in the game.  Use it often
+
+Followups:
+	- See Offense: Custom Stringing
+
+c) d+1,2: Sunrise Fan (7/10)
+	Great move when you expect the next moves may occur 
+simultaneously, as it tends to out-prioritize enemy attacks.  
+Bad side is that if it's blocked, it has poor recovery.  
+Creates a great changeup game with a throw, as the start of 
+the animation is unthreatening.  Great on ducking opponents.  
+
+Followups:
+	- See Juggles: Sunrise Fan
+
+d) 4: Standing right kick (9/10)
+	Excellent in custom strings, and followup to blocked 
+or whiffed moves.  Juggles on counterhit, with a Storming Palm 
+followup (you must be VERY FAST).
+
+Followups:
+	- Storming Palm (d/b+1), Running Slide/Cross Chop 
+		(WR 3_1+2)
+
+e) b+1+2: Rain Dance (9/10)
+	Great to throw out after moves, and just randomly.  
+The sidestep from it will dodge most attacks, and leave you 
+back-turned for a mistrust when they whiff.
+
+Followups:
+	- Mistrust (4)
+	- Throw
+
+f) B+4, SS+4: Back Kick (2/10)
+	This move SUCKS on offense.  If the second part does 
+NOT connect, Ling will see a world of pain.  It gets 2 points 
+because it does decent damage if both hits connect.  
+
+Followups:
+	- Block and hope
+
+g) d/b+2: Storming Palm (10/10)
+	This move is in some respects better than Paul's 
+Phoenix Smasher:
+	- Easier execution
+	- Easy to buffer
+	- People don't expect it from Ling
+	- It takes less space to execute
+
+	The speed is about the same, as well.  It is 
+important to note, however, that while it has good range, it 
+is NOT anywhere NEAR Paul's (Ling has little tiny arms!).
+	Also, this move is better if you throw it in a 
+custom string, or after an opponent's whiffed attack, as 
+it does have a slight windup time, and it tends to veil the 
+attack.  
+	Note: I just came home from my weekly Saturday night 
+bouts at Taito: Akita, and I counterhit an entering Heihachi 
+for around 45% damage, no joke.  This move ROCKS.
+
+Followups:
+	- See Offense: Charging	
+
+h) 2, 1: April Showers (7/10)
+	Good move to mix up the mix, and another good custom 
+stringer.  It's also good to hold d/f after 1, to keep Ling 
+in her normal stance most of the time (it creates a good 
+mixup game for when you DON'T).
+
+Followups:
+	- See Offense: Custom Stringing
+	- See Offense: Rain Dance
+
+g) 1+2: Double Palm Strike (4/10)
+	This move is only good occasionally.  Usually, I 
+do it when the opponent is pushed out of Ling's normal range 
+and starts a slower move, although often the Storming Palm 
+is better.  I also occasionally use when people duck directly 
+in front of me.  
+
+Followups:
+	- See Okizeme : General
+
+h) d/f+1: Belly Chop (7/10)
+	Another good custom stringer.  You can play the same 
+hold d/f mixup with opponents to trick them.
+
+Followups:
+	- See Offense: Custom Stringing
+	- See Offense: Rain Dance
+
+i) Throw: Throw (9/10)
+	Throws are one of Ling's strongest assets when used 
+correctly.  I have found that while people know that I will 
+throw them, can do nothing about it.  
+	I tend to use her regular throws (1+3_2+4), and mix 
+up which one I do (for people who escape throws).  They 
+do good damage, and have good Okizeme (not guarenteed, but 
+good, just the same).  
+	Also, if a throw IS escaped, my most common response 
+is to sidestep immediately, and throw again, changing the 
+throw.  This gets people 85% of the time.  
+
+Followups:
+	- See Offense: Okizeme
+
+j) d+1: Sunset Fan (5/10)
+	This move is okay on offense, but I would not 
+reccomend it very often.  It leaves Ling vunerable (either 
+ducking or in the Phoenix Position) to good players.  Also, 
+because of the range, it is primarily a defensive move.
+
+Followups:
+	- Cyanide (u/f+4)
+	- Bayonet (1,2)
+	- Double Palm Strike (1+2)
+	- Skyscraper Kick (WS+4)
+	- Sunflower (WS+2)
+	- On {D}, consult Offense: Phoenix Position
+
+k) d+1+2: Phoenix Position (10/10)
+	This is excellent if you use it effectively.  It 
+is great for frontal back-and-forth combat, as you can 
+immediately follow it up with her Wave Crest-Quick for a 
+juggle.  
+	If the opponent does not immediately respond, 
+you still have a lot of options, though I would not 
+reccomend staying still for any time at all.  
+
+Followups:
+	- See Offense: Phoenix Position
+
+l) 1+4_d+1+4: Left/Right Spinners (2/10)
+	I do not use these moves at all.  It's too obvious 
+and an inferior sidestep for advanced games.  It might work 
+against scrubs, however...
+
+Followups:
+	- Strategy: Evasion - Premptive/Reactive
+
+m) WS+2: Sunflower (4/10)
+	With this move butchered as it is, offensively, it's 
+not great.  It has a somewhat slow execution, and if it's 
+blocked, Ling could be in trouble.
+
+n) WS+4: Skyscraper Kick (7/10)
+	Very fast execution, knockdown.  'Nuff said.
+
+o) u/f_u_u/b+4: Cyanide (6/10)
+	Occasional use move.  Best used when a low move is 
+expected, but has funky execution.  On the bright side, you 
+can go into her 10 strings from this move.  
+
+p) u+1+2,2,1: Fortune Cookie (5/10)
+	Alright move, decent priority, last move can be 
+delayed, otherwise not very wise, doesn't string very well.  
+Can also be sidestepped easily.  
+
+q) f,f+1+2,1+2: Phoenix Wings (9/10)
+	Another move who's usefulness has shown itself to me.
+There is a guard stun after the second hit, which makes it 
+incredibly good against people blocking.  This makes a really 
+really good changeup game.  In addition, it does good damage, 
+and tracks better than most people realize.  Also, the second 
+hit I believe is guaranteed if the first connects.
+	You can also use this without the second hit, after 
+which you should do an immediate standing right kick, for 
+a float into a Storming Palm.
+
+Followups:
+	- See Juggles: Floats
+	- Bayonet (1,2)
+	- Belly Chop (d/f+1)
+	- Phoenix Position (d+1+2)
+	- Phoenix Wings (f,f+1+2,1+2)
+	- Standing Right Kick (4)
+
+r) f,f+3: Racoon Swing (7/10)
+	A good general move to follow up any knockdown with.  
+Also a good long range custom string starter.  Leaves you in 
+Rain Dance, but the range from opponent will vary.  Use this 
+to your advantage - Opponent will not understand usually.
+Note: Do NOT overuse this move
+
+Followups:
+	- See Offense: Rain Dance
+	- Spinner (u+3+4)
+
+s) f,f+4: Step Kick (7/10)
+	This is an occasional move to throw out, don't use 
+it often, as it takes a bit to come out, during which Ling 
+can get major countered.  However, the timing is kinda funky 
+on it, so it may be miss interpreted by the opponent.  
+
+Followups:
+	- None
+
+t) d/b+4: Nutcracker (5/10)
+	Another occasional move, not great speed, poor range, 
+but is her only normal stance low move.  Knocks opponent down 
+face down, head towards Ling on counterhit.  
+	Use when opponent is Turtling.
+
+Followups:
+	- See Offense: Custom Stringing
+	- See Okizeme: Nutcracker
+
+u) f, f+3+4: Front Layout (7/10)
+	A move to use from further range.  Most people do not 
+know how to deal with this move, and will fall prey to it, 
+but if opponent catches on, cease all but the upmost prudent 
+use - Ling can be in a lot of trouble otherwise.  On hit, the 
+only guarenteed followup is usually a poke.  
+	Also a good measure charging opponents.  
+
+Followups:
+	On Hit/Block:
+		- Bayonet (1,2)
+		- Front Kick (4)
+
+
+	On Over Opponent:
+		- See Offense: Behind Opponent
+
+*********************
+OFFENSE WHILE DUCKING
+*********************
+
+	I'm just going to make a few comments in this section, 
+as I feel it should be used only sparingly, as Ling is very 
+vunerable when she does not move.  
+	These moves should be used only in two main situations, 
+that is 1) to regain the advantage through a low poke or WS move, 
+or 2) inside of a custom string
+	Waiting, immobile, ducking is like begging Mistress Nina 
+to kick her in the teeth.  
+
+v) FC+1 : Crouch Punch (8/10)
+	Everyone has it, use it in custom strings, or when you 
+feel you give the opponent too much of an advantage and they are 
+attacking in close.
+
+Followups:
+	- See Strategy : Custom Strings
+
+w) WS+2 : Sunflower (5/10)
+	This move is butchered.  If you use it and they block, 
+be sure your next move is a crouch punch, otherwise you're going 
+to eat dirt.  Juggles ONLY on counterhit now, making it a shell 
+of the move it once was.  
+
+Followups:
+	On Hit:
+		- Crouch Punch (d+1)
+	On Counter:
+		- See Juggles : Sunflower
+
+x) WS+4 : Skyscraper Kick (8/10) 
+	VERY fast execution, decent recovery.  Knocks opponent 
+over, with a Raccon Swing (f,f+3) okizeme possible.  Damage is 
+small.  Good if you need a breather.  Tends to catch people.  
+
+Followups:
+	- Raccoon Swing (f,f+3)
+
+y) d/df+4, {4} : Flower Garden (6/10)
+	Same as from the Phoneix Position.  In fact, if you do 
+only one, it leaves you in the Phoenix Position.  
+
+Followups:
+	- See Offense : Phoenix Position
+
+z) d/df+2,1 : Lotus Twist (6/10)
+	Okay move, doing only the first will leave you ducking 
+in Rain Dance.  Okay for a suprise turn to Rain Dance, but not 
+all that useful.  Careful, recovery is not great, especially if 
+you miss.  
+
+Followups:
+	- None
+	- See Offense : Rain Dance
+
+aa) N, 1+3_2+4 : Stand n' Throw (8/10)
+	Let go of the lever for a moment, and notice how fast 
+Ling stands up.  Learn to buffer the throw, and it comes out 
+like lightning.  
+
+Followups:
+	- See Okizeme : Throws
+
+
+*********************
+OFFENSE IN RAIN DANCE
+*********************
+
+	When Ling is in the Rain Dance, she has her best arsenal 
+available, unfortunately, she is also somewhat vunerable.  Thus, 
+the best way to play her with back turned is offensively, not 
+giving the opponent a chance.
+
+bb) Throw: Throw (8/10)
+	Ling's throw while turned around is a very, very good 
+move, and should be used whenever possible.  People will often 
+have to choose between this and the mistrust (standing/ducking)  
+If you can influence them correctly, you have it.
+	There is 1 MAJOR danger with this, however.  If you 
+whiff with her throw, Ling remains in Rain Dance and has MAJOR 
+recovery time, which proves very, very deadly to the little girl.  
+
+Followups:
+	- See Okizeme: Throws
+
+cc) 4: Mistrust (10/10)
+	Mistrust -> Storming Palm is almost Ling's trademark move.  
+This move is great, comes out with good speed, hits mid, juggles 
+high, recovers with no penalty, and is impossible to see coming 
+from the animation.  
+	There is one downside, people expect this move, and thus 
+will often wait for it.  However, used correctly, this can be 
+easily turned to your advantage.  
+
+Followups:
+	- See Juggles: Mistrust
+
+dd) 3: Turn Kick (8/10)
+	This move is good in emergencies, or when you sense you're 
+beginning to lose the advantage.  Coming out a few frames faster 
+than the Mistrust, and having longer range, are it's only 
+advantage over the move.  It hits High, so be careful on ducking 
+opponents (you should Mistrust them anyways).
+
+Followups:
+	- None
+
+ee) 2, 1, 4: Dark & Stormie -> Mistrust: (9/10)
+	This canned string is nice, really nice.  The only 
+disadvantage is that the first two hits hit high.  Luckily, if 
+either of them hit on counter, and you use full speed on the rest, 
+the rest is guaranteed.  
+	The REAL strength of this move, though is that it can be 
+delayed between both 2 and 3rd hits, and the last move canceled in 
+favor of a throw, or even further, having the opponent eat a counter 
+hit standing 4 -> Storming Palm.
+
+Followups:
+	- See Juggles: Mistrust
+
+ff) 2: Stormie (6/10)
+	This move is her jab when turned around.  Hits high, and is 
+basically a setup move, forcing the opponent to react.  Reccomended 
+for prudent use, and not to be overused, as opponent may duck and 
+hurt you.  
+
+Followups:
+	- See Offense: Rain Dance
+
+gg) SS: Sidestep (9/10)
+	Ling's backward sidestep is a great offensive move.  It 
+often causes opponents to react, or miss, leaving Ling ready with a 
+mistrust or throw, though the former is usually preferable, and 
+safer.  
+
+Followups:
+	- Mistrust (4)
+	- Throw
+	- Dark & Stormie -> Mistrust (2,1,4)
+
+hh) b+3+4: Roll Ball (8/10)
+	A great move when you end up Rain Dance at medium distance 
+to opponent, and creates a great confusion game.  The move puts you 
+in the opponent's face with Ling in Rain Dance (always a good thing).  
+After this, you can do any rain dance tactics, especially a throw or 
+mistrust (forcing a duck/not duck game).
+
+Followups:
+	- Mistrust (4)
+	- Throw
+	- Delay, Rain Dance Tactic
+
+ii) f+3+4,3+4: Cyclone (9/10)
+	A move to be used during times of retribution from opponent.  
+Ling goes down into the roll ball, and then kicks up with both feet, 
+creating a far juggle, and doing good damage.  The move is fairly 
+quick, but the real advantage lies in that she goes under a lot of 
+attacks during the animation.  Also, this creates more confusion, if 
+used in conjunction with the roll ball.  
+	If this move is blocked, you have more advantage that the 
+opponent often thinks.  The best followup is another Cyclone, as 
+opponent will often try to hit her after a block (I fall for this 
+tactic more often than I'd like to admit, despite the fact that I 
+know it and use it myself).  
+
+Followups:
+	- See Juggles: Cyclone
+
+jj) f,f+3+4: Back Layout (9/10)
+	A great move for medium range.  It's got among the best 
+priority in the game, stuns on hit and counterhit for a guarunteed 
+juggle, and she is safe for almost the entire move.  It's simply 
+overpowering.  
+	This move good/bad against large characters, the nice thing 
+is that if she does it close enough to opponent, it will hit the 
+opponent with an unblockable on the way up, and then another time 
+on the way down, and you can get a 1 hit juggle with an immediate 
+Mistrust most of the time (this does excellent damage, by the way).  
+The bad thing is that if it hits large opponents with the down hit 
+only, it often hits too early to get the automatic Mistrust juggle.  
+
+Followups:
+	- Mistrust (4)
+	- Throw
+
+kk) d/f+2: Crouch Punch (6/10)
+	This move is ultra fast, and is used primarily if you want 
+to custom string Ling between Rain Dance and normal stance or as 
+a defense, because of it's speed.  Not really that special, just 
+a crouch punch.  
+
+Followups:
+	- See Offense: Custom Stringing
+
+ll) d+3: Back Circle Breaker (6/10)
+	Good move for turtling opponents who like to back out of 
+throw range of Ling.  Hits low and gives you the advantage.  
+Also, if you hold D, Ling will return to Normal Stance.
+
+Followups:
+	- See Offense: Rain Dance
+
+mm) f,f+3: Peg Leg (6/10)
+	This move is good if you can get it off.  It has a bit of 
+lag at the beginning, and for some reason, against me tends to be 
+countered a lot by King (go figure).  The real advantage of this 
+is the advantage game it plays.  Ling has no lag on block, and 
+so has an illusionary disadvantage, which temps opponents to attack 
+almost 95% of the time.  Remember: getting opponents to attack is 
+Ling's perogative.
+
+Followups:
+	- Cyclone (b+3+4,3+4)
+	- Sidestep
+
+nn) f,f+(1+3_2+4): Hop 'n Throw (7/10)
+	Another good move to use at close or medium range, and 
+when opponent is not actively attacking Ling.  The move itself is 
+one of Ling's most deceptive, as she hops, waves her arms wildly, 
+making it look like an attack, and then lands to throw the opponent.  
+Most people can't deal with this move, even if they know it and have 
+fought against it.  
+	Also, this move can be used to counter low attacks against 
+Ling as she hops over them.  This move earns you great style points 
+with observers.
+	Be very careful, though.  This move has horrid recovery on 
+whiff.  
+
+Followups:
+	- See Okizeme: Throws
+
+***************************
+OFFENSE IN PHOENIX POSITION
+***************************
+
+oo) 4~3 : Firecracker (8/10)
+	A good move, fairly fast, and plays a great changeup game 
+with the Wave Crests.  Best pulled immediately after going into 
+Phoenix Position.  Doesn't do the best damage, but does knock the 
+opponent down.  
+	Careful, though.  On block, Ling is grounded, but in slide 
+position, meaning she can be picked up by some moves.  
+
+Followups:
+	- None
+
+pp) 1+2_d+1+2_d,1+2 : Wave Crests (9/10)
+	Great juggle starters, with variable speed depending on 
+the input.  Not incredibly punishable on block either.  It's best 
+to input a chicken, however, as some players wait for this move.  
+
+Followups:
+	- See Juggles: Wave Crest
+
+qq) 1_2 : Handful Left_Right (6/10)
+	A quick poke, leaves Ling in a sort of half ducking, half 
+standing position.  However, this means that a WS move is possible 
+fairly quickly afterwards.  Reccomend WS+2 if you are sure of a 
+counter, WS+4 otherwise.
+
+Followups:
+	- See Offense: Normal Stance
+
+rr) u+4,{4} : Flower Power (6/10)
+	This move is okay to keep you on the offense, but is risky, 
+especially if you do the second one because the opponent definately 
+has the advantage.  Usually, after I do two of them, I will immediately 
+throw out an attack parry (this actually works almost 70% of the time).  
+	Otherwise, it is wise to just block, as you are likely going to 
+eat any move the opponent gives you.  Another option is to go 
+immediately into the Phoenix Position, but it is more risky, as for 
+some reason, TTT doesn't like to take buffered directional commands and 
+buttons together for some reason.  Also, it is slower, and Ling may 
+take a counter to the face.  
+	If you do NOT use the second flower power, you have really two 
+options: recover ducking and go from there, or hold U when you input 
+the first move, and end in Rain Dance.  The second is only good because 
+of it's suprise factor, as Ling has a disadvantage when doing this.  
+
+Followups:
+	- See Above
+
+ss) f+4,{4} : Flower Garden (5/10)
+	Use this only in very close, as the range is very small.  If 
+you do two, you end up ducking with an illusionary disadvantage.  This 
+is caused by the speed that her WS+4 comes out (use WS+2 if you're 
+gutsy, and be sure to chicken either one!).  
+	If you don't do the second, you're left in the Phoenix 
+Position, Go from there.  
+
+Followups:
+	- See Above
+
+tt) f+3+4 : Roll Ball (6/10)
+	A move that would be best used at far range, but unfortunatly 
+doing so give the opponent time to hit you, and so it should not be 
+used as such.  Better used at medium to close range, as a confusion 
+tactic, as it leaves you in ducking stance, which is not optimum for 
+a Ling assault.  
+
+Followups:
+	- WS+4
+	- WS+2
+	- Phoenix Position
+	- Side Step
+
+uu) f+(1+3_2+4), {d} : Cradle Throw (7/10)
+	This move is good for an escape... sometimes.  It's actually 
+slower than it looks in getting off of the oppponent's axis, so be 
+wary in using it to avoid hits.  Out of this move, you can either 
+throw or tap down to cancel the throw and recover crouching 
+(reccomended).  Most people will duck the throw, leaving you open, 
+so be careful in using it.  In addition, in TTT, the throw seems to 
+track worse than it did in 3,  
+
+Followups:
+	- See Throws: Okizeme
+	- See Offense: Ducking
+
+***************************
+OFFENSE IN HYPNOTIST STANCE
+***************************
+
+	When Ling is in the Hypnotist Stance, she can do almost 
+anything she can in the normal position.  With this in mind, use 
+it as a scare tactic, making them think you are vunerable, or 
+are going to come out with 1 of the two moves from this stance, 
+of which I rarely use.  Throws are highly encouraged.  
+	During this stance, Ling will take 4 steps, ending ON 
+the forth (not after).  After each step, the damage (and lag in 
+beginning for the Spin Sticker) will increase.  Note: you can 
+restart the Hypnotist stance by pressing B+1+2.
+	This move is utilized better in sidestepping tactics 
+with Ling.  
+
+vv) 2 : Spin Sticker (7/10)
+	This move sidesteps and ducks Ling before coming out, 
+and sends Opponent flying on connect.  Follow with a charge.  
+Not highly reccomended because people expect it too much.  
+
+Followups:
+	- Charge!
+
+ww) 1+2 : Thunder Strike (3/10)
+	Ling's unblockable is decent in damage, she ducks in 
+execution, it tracks like a SOB and has deceptively long range
+but yet does NOT connect with any regularity.  Don't ask me 
+why, perhaps I don't utilize it correctly.  
+	Not reccomended, people can step away in time or 
+duck punch her out of it, giving them the advantage.  
+
+Followups:
+	- None
+
+
+**************************
+OFFENSIVE CHARGING TACTICS
+**************************
+
+	The charge is a great offensive tactic for Ling, but 
+at the same time, high risk.  It is important not to be too 
+forward in TTT about charging in general, because there are 
+many more options for avoidance/payback than there were in 3.  
+	The most common mistake is to get too close to the 
+opponent before executing your move, this can be extremely 
+fatal, so watch your step!
+
+xx) 4 : Slide (9/10)
+	I use this by far the most often.  Even advanced 
+players fall for it time after time, expecting a frontal 
+attack or throw.  Gives you a chance for a followup sweep 
+as well, or, if the opponent immediately tags out, you can 
+sweep juggle the newcommer.  
+
+Followups:
+	- Play by Ear
+
+yy) 3 : Jump Kick (8/10)
+	I use this only when people have been blocking the 
+slide as a followup.  It's got very little range, and for 
+some reason people duck when they see the animation, 
+expecting to duck it.  Unfortunately, it doesn't work that 
+way.  A little bit more risky than the slide.
+
+Followups:
+	- None
+
+zz) 1+2 : Flying Cross Chop (7/10)
+	Even more risky, as it takes more time to come out, 
+sometimes allowing the opponent to hit you first.  I use it 
+for far opponents, especially large ones, because it sometimes 
+hits them even if they're grounded.  
+
+aaa) N : Shoulder Charge (6/10)
+	Unblockable, but takes a LOT of time to get going, you 
+also may get hit first, which makes it difficult to pull off.  
+
+Followups:
+	- None
+
+bbb) N : Ultimate Tackle (4/10)
+	I don't use this very often, as it's too risky in TTT.  
+Ling really doesn't do much damage with her little slaps, 
+anyways, so it's not worth it in my opinion.  Plus, it can be 
+countered.
+
+Followups:
+	- Slaps (1_2 x 5)
+
+ccc) N : Body Stomp (6/10)
+	Good move usually.  This only occurs when the opponent 
+is lying down.  Fairly safe, unless you give the opponent too 
+much time to recover, in which case you can be low swept.  
+
+Followups: 
+	- None
+
+ddd) Stop Short, Sidestep (8/10)
+	Defensive manuver, puts Ling into position to make an 
+attack.  Use any of Lings evasive sidesteps from her basic, to 
+the cartwheel, to the back turn.  Change it up!
+
+
+eee) d/b+1 : Storming Palm (7/10)
+	A good one because the timing is a little odd the 
+opponent may try to hit you as you run in, but this move will 
+usually out prioritize his move if done correctly.  
+	Best part about it: on counter, you get to charge 
+again!
+
+Followups:
+	- Charge!
+
+fff) f,f+1+2,f+1+2 : Phoenix Wings (6/10)
+	Quite risky, but has lots of possibilities for 
+devistating damage to the opponent.  If this move out 
+prioritizes, he takes a good 30+ Points.  On counter hit it's 
+more.  If the SECOND hit is on counter, you get a float from 
+which you can do a small juggle or a Storming Palm (d/f+1)
+
+Followups:
+	- F+4
+	- Charge!
+	- d/f+1
+	- Throw
+
+ggg) Stop Short, Front Layout (6/10)
+	A little risky.  If the opponent does a long move, 
+you will be back to back with them, but if they recover too 
+fast, they'll kick you out of the air before you land behind 
+them.  Best followup is a Cyclone.  
+
+Followups:
+	- Cyclone (f+3+4,3+4)
+	- See Tactics : Behind Opponent
+
+hhh) Throw : (4/10)
+	This is one time in which it is NOT reccomended to 
+throw.  The charge gives people too much time to see you 
+coming, and will more than likely hit you before you get a 
+chance.  
+
+Followups:
+	- See Okizeme : Throws
+
+
+
+*******
+OKIZEME
+*******
+	Okizeme is, put simply, "Hitting the opponent while he's down."
+Some call it cheap (scrubs, no good players), but it's a great way to 
+add damage to Ling's game, especially because many of her moves offer 
+such great opportunities to do so, and are damaging.  So, without 
+further ado...
+
+*****************
+OKIZEME - GENERAL
+*****************
+	Ling's okizeme is best used exclusively at close range, like 
+most peoples.  It is often uncertain (as well as unwise), to hit far 
+ranged opponents lying on the ground by charging in and doing a move, 
+because 9 times out of 10, they will out prioritize you.  The only 
+somewhat "safe move" in this situation being the Racoon Swing (f,f+3).
+
+I use the following codes for the Okizeme section:
+[D] - Good damage
+[d] - Poor damage
+[F] - Good Followups
+[f] - Poor (or no) Followups
+[P] - Good Position is gained by the move
+[p] - Poor Position after execution
+[S] - Usually a safe move
+[s] - Fairly unsafe move
+[H] - Usually Hits
+[h] - Hitting is Risky
+
+* If not noted otherwise, moves are somewhere in the neurtral range.  
+
+a) d/f+2,1 : Sunrise Fan (9/10) [DF...]
+	This move is AWSOME against grounded opponents.  It comes out 
+with good speed, hits several times, and does good damage.  However, 
+it does not work well UNLESS the opponent is sideways from Ling.  
+Doing so otherwise will hit the opponent 1-2 times, and give them a 
+major advantage.  Good followup is Racoon Swing (f,f+3) to Back Circle 
+Breaker ((RD) d+3)
+	There is one danger in this move, in that the opponent may 
+quick rise to block it.  This situation is covered in Strategy : Ling's 
+Tricks.  
+
+Best used when:
+	- Opponent is on his side, and refuses to move OR has just 
+been knocked down.
+
+Followups:
+	- Tag -> Slide [.fpS.]
+
+	Opponent Rolls (likely):
+		- Racoon Swing (f,f+3) 	  [dFPSH]
+		- Phoenix Wings (f,f+1+2) [D..sh]
+
+	Opponent Stays:
+		- Fire Dancer ((FC),3) 	  [D.p.h]
+		- Racoon Swing (f,f+3)    [dFPSH]
+
+b) d/b+4 :  (5/10) [.F.S.]
+	Okay move, fairly safe if done right away, and you want to 
+stay in front stance.  Has poor range, though, allowing it to miss 
+if you're too far.  Not bad if the opponent is rolling towards you 
+either, because it leads to more followup opportunities.
+
+Best used when:
+	- Opponent rolls towards you, and you aren't ducking.
+	- Opponent lies still, with feet or head towards Ling
+
+Followups:
+	Opponent Stays:
+		- Racoon Swing (f,f+3) 	  [dFPSH]
+
+	Opponent Rolls:
+		- Racoon Swing (f,f+3) 	  [dFPSH]
+		- Phoenix Wings (f,f+1+2) [D..sh]
+		- Step Kick (f,f+4) 	  [D.P.h]
+		- Fire Dancer ((FC),3)    [D.p.h]
+
+c) d/b+3 : Knee Cracker (5/10) [d.PSH]
+	This move is not bad as a confusion tactic, as it will often 
+cause the opponent to flinch, allowing you to do a number of things.  
+Note: this move does NO damage, it's only nudges the opponent.
+
+Best Used When: 
+	- Opponent is sideways
+	- Opponent just starting a move (possible float)
+
+Followups:
+	Opponent Stays:
+		- Racoon Swing (f,f+3) 	  [dFPSH]
+		- Nut Cracker (d/b+4) 	  [.F.S.]
+		- Sunrise Fan (d/f+2,1)   [DF...]
+
+	Opponent Rolls:
+		- Racoon Swing (f,f+3) 	  [dFPSH]
+		- Phoenix Wings (f,f+1+2) [D..sh]
+		- Step Kick (f,f+4) 	  [D.P.h]
+		- Fire Dancer ((FC),3) 	  [D.p.h]
+
+d) FC+3,{2...} : Fire Dancer (7/10) [Dfp.h]
+	This move has the potential for the most damage of any of 
+Ling's Okizeme, as it goes directly to her standard Juggle.  
+Unfortunately, it's hard to hit with on a wary opponent.  Keep in 
+mind that some of her longer combos will miss the last move from 
+this juggle, as it is slightly lower than her standard starters.  
+
+Best Used when:
+	- You block a slide attack, or Opponent is Short.
+	- Opponent does a move that grounds him in front of your 
+	  face.
+	- You can anticipate a roll forwards or backwards
+
+Followups:
+	Opponent Juggles:
+		- See Juggles : Fire Dancer
+	Otherwise:
+		- No followups possible
+
+e) f,f+3+4 : Back Layout (6/10) [..P..]
+	This move has a specialized use for long range Okizeme.  
+Use it sparingly, though, as it can be seen coming.  The advantage 
+is that the opponent on the ground will often take incorrect steps 
+to avoid being hit by this move, either leaving him standing or 
+on the ground after being hit.
+
+Best Used when:
+	- Opponent is at medium distance, recently grounded.
+
+Followups:
+	Opponent is Hit on Ground:
+		Opponent Rolls:
+			- Racoon Swing (f,f+3) 	  [dFPSH]
+			- Phoenix Wings (f,f+1+2) [D..sh]
+			- Fire Dancer ((FC),3) 	  [D.p.h]
+
+		Opponent Stays:			
+			- Racoon Swing (f,f+3) 	  [dFPSH]
+
+f) f,f+3 : Racoon Swing (10/10) [dFPSH]
+	Okay, this move gets a 10/10 because of the following 
+reasons: 1) It's almost a guarunteed hit 2) It ends back turned 
+3) there are good, and (almost) guarunteed followups 4) It's a 
+pretty safe move.
+	If you notice, this move is part of most of my Okizeme 
+tactics, putting me in position to begin with the next attack.  
+However, if opponent is rising when this move connects, be SURE 
+you IMMEDIATELY sidestep.  If you don't, at worse, you'll 
+probably take a single hit to the back.  
+
+Best Used when:
+	- Just about any time at all (while opponent is on the 
+	  ground)
+
+Followups:
+	- Back Circle Breaker ((RD) d+3) 	  [d.PSH]
+	- Peg Leg ((RD) f,f+3) 			  [D.Psh]
+
+f) (RD) d+3 : Back Circle Breaker (8/10) [d.PSH]
+	This move is almost guaranteed after the Racoon Swing 
+(f,f+3) if executed immediately, and is if the opponent happened 
+to be rolling when they were hit.  The damage is negligable, but 
+this move is an inportant part in a great little attack pattern 
+Ling has.  
+
+Best Used When:
+	- Following Racoon Swing (f,f+3) [dFPSH]
+
+Followups:
+	- See Strategy : Ling's Tricks
+
+g) (RD) f,f+3 : Peg Leg (7/10) [D.Psh]
+	This move, to be honest, almost NEVER hits if the opponent 
+does anything but just sit there.  So why do I give it a 7 rating, 
+you ask?  See Strategy : Ling's Tricks for the answer.
+
+Best Used When:
+	- See Strategy : Ling's Tricks
+
+Followups:
+	- See Strategy : Ling's Tricks
+
+
+****************
+OKIZEME - THROWS
+****************
+
+	The main reasons Ling's throwing game is so deadly is that 
+there are very good Okizeme followups.  Learn to use these, and you 
+can REALLY punish the opponent.  Indeed: this a major part of Ling's 
+fgame, in my opinion.  
+
+---
+Front Throws - Jade (1+3) and Ruby (2+4)
+---
+
+	After both of Ling's front throws, there is a very good 
+followup: Sunrise Fan (d/f+2,1).  Follow up with anything you 
+wish.  
+	There is 1 pitfall, however.  This move CAN be blocked, 
+but it is very difficult to do.  For people who DO know how to 
+block it, however, there is a trick...
+
+- See Strategy : Ling's Tricks
+
+----
+Side Throws - Dump the Bucket (Right), Arm Flip (Left)
+----
+	Ling's Right throw (Dump the Bucket) doesn't really give 
+you much of an option for good Okizeme.  The best you can hope 
+for is if you do an immediate Phoenix Wings (f,f+1+2,1+2), you 
+can sometimes catch them if they're doing rising kick or sweep.  
+It's risky business, though.  
+
+	Ling's Left throw (Arm Flip) on the other hand, is an 
+incredibly good thing.  See Ling's Tricks for details.  
+
+- See Strategy : Ling's Tricks
+
+---
+Back Throw - Crank Up
+---
+	Aside from doing really nice damage for a character who 
+can get back throws as often as Ling does, it also has a very good 
+possibility for an immediate Juggle afterwards.  
+	The trick is this (will be recapped in Strategy : Ling's 
+Tricks) :
+	Immediately after Ling's Crank Up back throw, duck, and 
+wait for any sign of a flinch from the opponent.  Most people think 
+that because of the range, they are safe from her by rolling back... 
+but Ling has incredibly long legs for such a tiny Chinese girl, 
+and her little juggling sweep can still catch them most of the time.  
+	When they move, hit 3, 2 and Juggle!
+
+
+***************
+GROUND RECOVERY
+***************
+	Ling actually has fewer options than most people from the 
+ground.  She can't perform the normal b,b+3+4, or f,f+1+2 moves like 
+most people can.  This means you have to be somewhat more prudent.  
+	HOWEVER, Ling does have 1 thing in particular that in all 
+likelyhood, more than makes up for it: She can juggle opponents while 
+she herself is on the ground!
+	The move in question is simply her Rising Low Sweep (3) and 
+followed immediately by the Fire Dancer (d+3) into a rain dance combo.
+
+Note: this juggle is a bit lower than most of her others, and thus, 
+if you try to put a Phoenix Wings (f,f+1+2,1+2) on the end, you will
+more than likely miss (but not always!).  
+
+	As a result, I tend to use rising kick moves a lot more than 
+I would with other characters when using Ling.  This can occcasionaly 
+get me into trouble with people who anticipate it, but wins me a lot 
+of damage, so I live with it.  
+	The best time to use the sweep is on people who use careless 
+Okizeme tactics against you.  The move is fast, very fast, so you 
+can get it in a lot, but beware of low blockers.  Reccomend to mix 
+it with her Rising High Kick (4) if you're unsure.
+	Other than that, use quick recoveries, rolls, etc. as you 
+would with other characters.
+
+*****************
+TAGGING WITH LING
+*****************
+
+	In TTT, Tagging in and out safely is no less an important 
+skill than knowing your character.  Doing so unsafely will result 
+in many spent Quarters (or 100 Yen pieces, depending where you are).  
+	Ling has a few advantages when tagging that other players 
+don't, so it's important to learn them and use them to your 
+advantage.
+
+********************
+TAGGING IN WITH LING
+********************
+
+	Ling's entering moves are standard, that is, she has the 
+Slide (f,f,N+4), the Head Dive (f,f,N+1+2), the Jump Kick (f,f,N+3), 
+and the Run Cancel->Backflip (u/b,b).  
+	I will not explain the use of these moves individually, as 
+they are well known and you should be able to determine when they 
+should be used.  I will instead suggest moves from Ling's arsenal 
+to use when entering.  
+
+a) d+1+2 : Phoenix Position (9/10)
+	This is a GREAT move, as long as you don't overuse it.  
+It's suprises people who want to hit you as you come in, as it makes 
+thier attacks whiff.  Follow up with a quick Wave Crest (~1+2).  If 
+you misjudge, and the enemy doesn't attack immediately, follow up 
+with a Firecracker (4~3) or another Rain Dance Tactic.  
+	Use on aggressive opponents attempting to hit you 
+immediately on entry.
+
+Followups:
+	- Wave Crests (1+2)
+	- Firecracker (4~3)
+
+b) d/b+1 : Storming Palm (7/10)
+	This one is great when done well, but is only good in 
+situations where the opponent is either recovering close to the 
+side of the screen, or is attempting to attack you, but is attacking 
+you towards the end of your run.  This will out prioritise them, and 
+likely counterhit.  But be wary.
+
+Followups:
+	- Running Charge
+
+c) SS_b+3+4_f+1+2_f+3+4 : Sidestep, Rain Dance, Cartwheel, Leap Right
+   (7/10)
+	These are good if the opponent is not on top of you when you 
+come in, or is attacking you with really bad latancy when you come in.  
+	Be careful if the opponent has already begun a move, though.  
+With the cartwheel and Leap right, you will probably not completely 
+avoid an attack, but the damage will be much less.  With the Sidestep 
+and Rain Dance, you might get nailed if you're too close.
+
+Followups:
+	- See Tactics : Evasion Reactive
+
+d) Throw : (7/10)
+	This move is good on an "indecisive" opponent.  If they're not 
+attacking, they'll probably expect an immediate attack, so run up and 
+grab them immediately.  
+
+Followups:
+	- See Okizme : Throws
+
+*********************
+TAGGING OUT WITH LING
+*********************
+
+	There's really no extra trick to tagging out with Ling in 
+comparison with any other character.  I will now go over methods of 
+tagging out.  
+
+e) 2+5 : Tag Throw (8/10)
+	Tag throws are a great option for her, because of her speed 
+and ability to make people eat them.  Although, sometimes the prospect 
+of getting close to an opponent while low on life is sometimes 
+daunting.
+
+f) (RD) 4~5 : Mistrust [Tag] (5/10)
+	This is not bad if you happen to be in the position where you 
+can use this move to tag out, great: more power to you.  Unfortunately, 
+it requires her to go to the trouble of getting into the Rain Dance, 
+which is dangerous if she is low on life.  It's more of a risky manuver 
+than I like to take considering how low her stamina is.  Good juggle 
+starter, however.  
+
+g) (PP) d+1+2~5 : Wave Crest - Power [Tag] (5/10)
+	The wave crests are tagable, but this option is brought down for 
+a couple of reasons:
+1 - Ling CAN NOT tag out while in the Phoenix Position - a fact 
+that has flustered me once or twice in a game - making this position 
+somewhat dangerous while low on life.
+2 - If the opponent blocks, or you miss, you lose the round.
+	On the up side: you get a good juggle if you connect.  
+
+h) (PP) 4~3,5 : Firecracker, Tag (8/10)
+	This move makes you go into the Phoenix Position, but the 
+move itself has a much lower chance of being blocked, allowing you to 
+tag out safely, and tag in RELATIVELY safely as well.  The opponent 
+will be grounded, or rising when your partner comes in.  
+
+i) d+2,1~5 : Sunrise Fan (5/10)
+	This move is a DANGEROUS one to use.  The move itself, if 
+connected, insures a safe exit and entry for your team from the front 
+position.  Unfortunately, the penalty for failure, is death, as the 
+recovery time for this move is enough for any medium speed juggle 
+starter.  You also might be able to juggle SOMETHING off of this.  
+
+j) WS+2 : Sunflower (3/10)
+	This has about a 25% chance of you surviving.  Unless you 
+feel lucky - little girl - don't use it to tag out.  You get almost 
+no chance of a juggle, anyways.  
+
+k) 1,2_d/f+1,WC+1_4 : Poking tactics (8/10)
+	This is my usual way of tagging out if an opportunity is 
+not immediately obvious.  Basically, I do a small poking move, and 
+tag out after a connect.  This often causes a retaliation move that 
+will most time miss your partner coming in (but not always!), thus 
+give you a juggle starting opportunity.  
+
+******************
+JUGGLING WITH LING
+******************
+
+	Ling is a very good juggler - better than most people think.  
+Her juggle do decent (not Mishima level, but very good) damage, and 
+can be extremely long.  Unfortunately, her Juggle starters are not 
+as good as say, EWGF, but they do the job.
+	A lot of your game should be centered around an occasional 
+Juggle.  
+
+
+********
+STARTERS
+********
+
+a) (RD) 4 : Mistrust (10/10)
+	This is Ling's signature starter.  It juggles high, and 
+allows almost all of her juggles.  Comes out fast, Highly 
+reccomended.
+
+b) ~1+2_1+2_d+1+2 : Wave Crests (7/10)
+	This is a good juggle starter.  It's impossible to hit an 
+unaware person with, but works great on countering other attacks.  
+The d+1+2 version is a Class 1 starter, and is her highest.  
+
+c) WS+2 : Sunflower (5/10)
+	As a juggle starter, no.  This move is unreliable unless 
+you're ducking under a string and know you can get a counterhit.  
+I would give up the Sunrise Fan (d/f+2,1) to have this move back 
+in full.  
+
+d) d/f+2,1 : Sunrise Fan (8/10)
+	A new move to TTT, this is the best improvement they've 
+given her (though not enough for what they took away).  It 
+juggles head towards Ling, which SEVERELY limits her options, 
+but it does it's job nonetheless.  
+
+*******
+JUGGLES
+*******
+	Okay, this is by no means the end all of juggles for Ling, 
+and I intend to update this section once tekken.net gets around to 
+listing them.
+	For those who doubt Ling's juggle ability, I ask them to 
+compare them to, say, Jin's Laser scraper combos.  Ling's will 
+usually do more.  In fact, Ling's better Juggles will do from 1/3 
+to 1/2 (on Kali) of the opponent's life bar.  This is by no means 
+weak in any fashion.  
+	Note, [***] Indicates a good damage combo.
+
+	Also note that all of these juggles have not been tested, 
+ESPECIALLY in the Sunrise Fan category.  I have a number of sources 
+for these juggles, as well as personal experience.
+	They are as follows:
+
+From tekken.net forums:
+	* TekkenSmoker
+	* Marsical Gump
+	* LingPanda
+	* StatiK
+	* SmuvMoney
+
+
+Mistrust Juggles
+-=-=-=-=-=-=-=-=-
+	Ling's best Juggle starter for many reasons.  From this 
+move she can do close to her most damaging juggles.  
+
+Mistrust ( (RD) 4 ) ->
+
+	* d+4_d/f+1_WS+2
+		* 2,{2},{2},{2} [***]
+		* 2,{2},...
+			* ~1
+				* f,f+1+2,1+2 	[***]
+				* d/f+3		
+				* d/f+1 	
+				* d+4		
+				* d/b+4 	
+				* d/b+3		
+				* (FC) 3	
+	
+			* 3 
+			* 4 
+			* d+3
+
+		* 3 
+		* 4 
+
+	* d/b+1 
+	* f+4   
+	* 1
+		* f,f+1+2,1+2 	[***]
+		* d/b+1 [Big Only] [***]
+		* d/f+3		
+		* d/f+1 	
+		* d+4		
+		* d/b+4 	
+		* d/b+3		
+		* (FC) 3	
+		* d+2,d/f+4
+		* d/f+2,1 [~5]
+		* d/f+1
+		* f+3
+		* D+2,WS+4
+		* D+2,D+3
+		* 1,1,f,f+3 
+	* 1,2   
+		* f+4 	
+		* d/b+1	
+
+The juggle I almost always use is:
+	Mistrust -> d/f+1, 2, 2~1, f,f+1+2.
+However, I will occasionally go for just
+	Mistrust -> d/b+1
+if I know the person will die, or if I'm running out of 
+time with my Kali.
+
+Wave Crest Juggles
+-=-=-=-=-=-=-=-=-=-
+	With the wave crest Quick and Normal, you can do 
+most of the Mistrust followups minus the f+4 and d/b+1.  
+Keep in mind that fewer of the (RD) 2,{2}... are 
+reccomended to get the end of the juggle off.
+	The wave crest Power is Ling's highest launcher,
+and allows for a few extra juggles.  Any of her Mistrust 
+Juggles are good, but there a few additional Juggles that 
+should be added.
+
+Wave Crest - Quick ( (PP) ~1+2 ) ->
+Wave Crest - Normal ( (PP) 1+2 ) ->
+	All Mistrust followups except d/b+1 and f+4.
+
+Wave Crest - Power ( (PP) d+1+2 ) ->
+
+	* d+1+2
+		* ~1+2
+		* u+4
+			* ws+2
+				* 2,{2},{2} 
+				* 2,1
+					* f,f+1+2,1+2 	[***]
+					* d/f+3		
+					* d/f+1 	
+					* d+4		
+					* d/b+4 	
+					* d/b+3		
+					* (FC) 3	
+	* u/f,N+4 (7/10)
+		* f,f+1+2 [***]
+		* d+4	  
+
+	Both of the above juggles ending with f,f+1+2 are 
+fairly difficult, but worth the effort if you can get them.
+
+Sunflower Juggles
+-=-=-=-=-=-=-=-=-
+	Though toned down, this move is still a nice 
+juggle starter on counter.  It basically puts you into the 
+same position as if you used the WS+2 link off a Mistrust, 
+plus a bit more.  
+
+Sunflower (WS+2) ->
+	See Mistrust Juggles off of the WS+2 link for juggles.
+
+
+Sunrise Fan Juggles
+-=-=-=-=-=-=-=-=-=-
+	This move juggle opponents with head facing Ling, and 
+not very high, thus limiting her options.
+
+Sunrise Fan (d/f+2,1) ->
+
+	* d/f+2,1 [~5] [***]
+	* 1
+		* f,f+1+2,1+2 	[***]
+		* d/b+1 [Big Only] [***]
+		* d/f+3		
+		* d/f+1 	
+		* d+4		
+		* d/b+4 	
+		* d/b+3		
+		* (FC) 3	
+		* d+2,d/f+4
+		* d/f+2,1 [~5]
+		* d/f+1
+		* f+3
+		* D+2,WS+4
+		* D+2,D+3
+		* 1,1,f,f+3 
+		* d/b+3,d/b+3,d/b+3,f,f+3 [Really Taunting]
+
+			* 2, d+4, 2+3+4 [Taunt!]
+			* 2,{2}
+				* 3
+				* 4
+			* 2~1
+				* d/f+3
+				* d/f+1
+				* d/b+3
+		
+			* d+2,d/f+1,2,4 [Big Only]
+
+
+	* 1,2	
+		* 1,2, f,f+3
+		* 1,2,d/f+4
+
+
+	* d/f+1,2~1
+		* f,f+1+2,1+2
+
+	* d/f+1
+		* 3 	(8/10)
+		* 4 	(7/10)
+		* d+3 	(6/10)				
+			
+I usually just go for the d/f+2,1, as it's the easiest, and 
+almost never misses (but beware if you do it too late, it 
+can be techrolled!).
+
+
+Cyclone Juggles
+-=-=-=-=-=-=-=-
+	With the Cyclone, you have a few additional options
+over the Mistrust, but you also have some disadvantages.
+
+Cyclone ((RD) f+3+4, 3+4) ->
+
+	* f,f, 2,{2}...
+		* See Mistrust section for juggles
+
+	* f+3+4, 3+4
+
+	* u/f,N+3
+	* u/f,N+4
+	* 3
+	* 4
+
+******
+FLOATS
+******
+	Ling has a few moves that float, and while I will 
+not get technical here, I will list a few followups for them.
+
+Standing Right Kick on counterhit:
+	Storming Palm (d/b+1) is about all you're gonna get off.
+
+Phoenix Wings (f,f+1+2,1+2) second hit on counterhit
+	* Storming Palm (d/b+1)
+	* Phoenix Wings (f,f+1+2,1+2)
+
+Nutcracker (d/b+4) on counterhit, Knee Cracker (d/b+3) OR
+Back Circle Breaker ( (RD) d+3 ) on counterhit, Reverse Knee 
+Cracker ( (RD) d+4 ):
+
+	* 1, f,f+1+2,1+2 [HARD AS HELL]
+	* f,f+1+2,1+2 [HARD AS HELL, but easier]
+
+Someone gave me this last float, but I totally forget who it 
+was.  It was on tekken.net's forum, and I apologize to that 
+person.  If you would like me to put your name her, please 
+notify me!
+
+********
+STRATEGY
+********
+	In this section, I will go into the basic, 
+and intricate strategy of playing Ling.  These 4 strategies 
+are the main ways in which I have found effective to use 
+Ling.  
+	Certain stratagies are better against certain kinds 
+of opponent, as well as specific characters.  This will be 
+discussed in detail at a later date.  
+	In General, Ling is at her peak against offensive 
+characters - ESPECIALLY pitbulls.  Turtles are generally 
+her weakness, with every other type of style somewhere in 
+between.  Another type of person to fear is the person who 
+knows Ling well - they are the people who can punish you 
+after certain moves where Ling is vunerable (they exist in 
+more places than people think).  More on this later.  
+
+*******************
+EVASION - PREMPTIVE
+*******************
+Name : 			Schoolgirl's Temprement (jyoshikousei 
+			no seikaku)
+Best Used Against : 	Low-HighAverage Level Pitbulls, 
+			Turtlers.
+Effectiveness :		7/10
+Fun Factor :		10/10
+Strengths :		Allow you to avoid attacks all
+			together if used right.  Is fun as 
+			hell and taunting to your opponent.
+			Evasion often coinsides with an enemy's 
+			reprisal, leaving Ling in prime position.  
+Weaknesses :		If you make a mistake, you can 
+			be punished for it.  High level 
+			players will not fall for it as 
+			often.  
+Primary Purpose: 	Confuse the enemy, provoking them 
+			into making mistakes by attacking 
+			Ling while she is sidestepping, thus 
+			giving you opportunity for side/back 
+			throws or juggle starters.
+
+	Basically, this is Ling as she was ment to be played.  
+Unfortunately, due to many of the changes made to Ling since 
+Tekken 3, this option has been taken away from her at higher 
+level play (mainly due to the fact that the Mistrust now does 
+a head-over-heels knockdown instead of juggle when done behind 
+the opponent).  
+	In this strategy, you will use a lot of Sidesteps, 
+Rain Dance back turns, Spinners, Cartwheels and Leaps.  To mix 
+it up, you should also use the Phoenix and Hypnotist Positions.  
+	The main trick is to keep moving, and to watch your 
+opponents actions carefully.  When in doubt, sidestep, when not 
+in doubt, sidestep: it's the name of the game.  There are a few 
+reactions that the typical opponent will have to this:
+
+1) Opponent continually turtles while backing up
+	This is the most annoying type of reaction, and one that 
+you really have very little control over.  If the opponent 
+continuously does this, you should 
+a) Front or sidestep Throw them
+b) Use her Knee cracker (d/b+3), Nutcracker (d/b+4), or 
+   Firecracker ((PP) 4~3) to break thier block, and encourage 
+   some reprisal.
+c) Use her Roll Ball ((PP) f+3+4) and California Roll 
+   ((RD) f+3+4) and changeup with Throw/Mistrust (Risky)
+d) Use her Back Layout ((RD) f,f+3+4) from in close.  If the 
+person continues to back up, he'll be in trouble, even if he 
+doesn't, if you make it up in the air, Ling should be safe.  
+
+2) They try to pitbull you
+	Switch to reactive evation (you'll beat them soon).
+
+3) Opponent Turtles, without backing up
+	This is easy to counter, as if they don't back up, 
+thier axis fails to change despite thier ducking.  You can 
+mistrust them or throw them from the side.
+
+4) Opponent will Turtle with intent to bait you into coming 
+   near.  
+	This is the most common reaction, and the best trick 
+is to beat them at thier own game.  
+	You can do this by making false approaches, and using 
+confusion tactics like the Left and Right Spinners (d+3+4, 3+4).  
+These are only needed for excessively conservative opponents, 
+who have proven themselves to be good at avoiding Ling tactics, 
+and should be very carefully given out.  
+	Usually, people who try this will fail against a clever 
+Ling player, unless they have extensive experience against her.  
+	I usually mix this tactic with Poking : Instigation.  
+
+Primary Moves:
+
+Avoidance:
+	- Sidestep (SS)
+	- Cartwheel Left (f+1+2)
+	- Leap Right (f+3+4)
+	- Rain Dance (b+3+4)
+	- Phoenix Stance (d+1+2)
+	- Roll Ball ((PP) f+3+4)
+	- California Roll ((RD) f+3+4)
+	- Cradle Throw {Cancel} (1+3_2+4,{d})
+
+Attack:
+	- Throw
+	- Mistrust (4)
+	- Sunrise Fan (d/f+2,1)
+	- False Salute (1+3+4) \ Whoever said 'attacks'
+	- Greetings (2+3+4)    / had to do damage? ^^
+
+******************
+EVASION - REACTIVE
+******************
+Name : 			Maiden's Prerogative (otome no tokken)
+Best Used Against : 	Low-High Level Pitbulls
+Effectiveness :		9/10
+Fun Factor :		7/10
+Strengths :		Makes your opponent miss you 
+			completely, setting you up for 
+			painful retribution opportunities.  
+Weaknesses :		Moves that track, 360 Degree axis 
+			moves, slow reaction on the part of the 
+			Ling player can all MAJORLY punish her 
+			while using this.  
+Primary Purpose: 	Lings most damaging method of play 
+			if done correctly, allows you to 
+			really do damage.
+
+	The main difference between this and premptive 
+evasion is the fact that you don't use as much of the 
+outgoing Ling moves to begin with, but do more of a give 
+and take game, with occasional Sidestep, Cartwheel (f+1+2), 
+Rain Dance (b+3+4), or Phoenix Position (d+1+2).
+	This is the primary method I use, as people don't 
+know as much about Ling's frontal arsenal as her back-
+turned.  As a result, people seem to underestimate her, 
+and it adds more variety to her game.  In fact, unlike 
+most people who play Ling, I tend to use her front game 
+more than her back, and use the Rain Dance mostly for 
+specific purposes such as changeups, stringing and 
+juggling.  
+
+Primary Moves:
+
+Avoidance:
+	- Sidestep (SS)
+	- Cartwheel Left (f+1+2)
+	- Rain Dance (b+3+4)
+	- Phoenix Stance (d+1+2)
+	- Roll Ball ((PP) f+3+4)
+	- California Roll ((RD) f+3+4)
+
+Attack:
+	- Throw
+	- Mistrust ((RD) 4)
+	- Sunrise Fan (d/f+2,1)
+	- Wave Crest - Quick (~1+2)
+	- Firecracker ((PP) 4~3)
+
+********************
+POKING - INSTIGATION
+********************
+Name : 			Teasing the Teacher (Sensei wo ijimeru)
+Best Used Against : 	Fast characters, or those with 
+			Linear or High moves
+Effectiveness :		7/10
+Fun Factor :		9/10
+Strengths :		Can set you up for some good damage
+			counters and juggles.
+Weaknesses :		You may eat a move with higher 
+			priority.
+Primary Purpose: 	Another method of setting opponent 
+			up in order to retaliate.  
+	
+	This strategy is about as defensive as Ling gets.  
+The idea is to use nothing but small, fast pokes and 
+occasional evasion tactics to safely do damage to the enemy.  
+It's basically a back and forth tactic, changing from offense 
+to defense and back again - something Ling is very good at, 
+though not the MOST effective way to play her.  Note, although 
+you should use pokes often, it does not keep you from going 
+for an occasional powerful move or juggle starter.  More often 
+than not, you will be forced into this strategy by better 
+players, so it's important to learn.
+	I use this rarely by choice, as there are usually better 
+ways to beat the enemy.  It can be, however, EXTREMELY annoying 
+to the opponent when you poke thier life away from every move 
+they do.  
+	The primary requisites are extremely fast pokes, and 
+small damage strings, with an occasional throw if the opponent 
+opens themselves up too much.  If he flinches, throw out a 
+poke.  If he stands there, go over and poke them or throw them, 
+or juggle them with a Sunrise Fan (d/f+2,1) when they duck.  
+	The whole idea of play is basically a back and forth 
+strategy, with capitalization on slow moves that can be stopped 
+with small pokes.  
+	The Bayonet (1,2) is your primary weapon, it's tied for 
+the fastest move in the game, and is almost always a great 
+followup to moves that recover at fast to medium speed (anything 
+more, and you should juggle or throw them).  It's also good if 
+you can see a move coming before it comes out (i.e. double 
+forward tap moves).  Better yet is the Standing Right Kick (4), 
+as it's almost as fast as the Bayonet (albeit 2 frames), and 
+on counterhit, floats with a Storming Palm (d/b+1) followup 
+for very good damage.  
+
+Primary Moves:
+
+Attack:
+	- Bayonet (1,2)
+	- Belly Chop (d/f+1,{d/f})
+	- April Showers (2,1,{d/f})
+	- Bayonet McTwist (1,d+2)
+	- Standing Right Kick (4)
+	- Storming Palm (d/b+1)
+	- Sunrise Fan (d/f+2,1)
+	- Racoon Swing (f,f+3)
+	- Phoenix Wings (f,f+1+2,1+2)
+	- Flower Garden ((PP) f+4,{4})
+	- Flower Power ((PP) u+4,{4})
+	- Wave Crests ((PP) ~1+2_1+2_d+1+2)
+	- Firecracker ((PP) 4~3)
+	- Skyscraper Kick (WS+4)
+	- Sunflower (WS+2)
+	- Step Kick (f,f+4)
+
+******************
+POKING - STRINGING
+******************
+Name : 			Wrath of the Schoolgirl (jyoshikousei 
+			no hageshii ikari)
+Best Used Against : 	Slow Characters, especially those with 
+			no good pokes.  Turtles.  
+Effectiveness :		7/10
+Fun Factor :		7/10
+Strengths :		Does not give opponents a chance to 
+			react, or will score counterhits for 
+			good damage when they try to retaliate.
+Weaknesses :		You may eat a move with higher priority.
+			Chickens are often difficult to buffer.
+			Damage is not that great compared to 
+			other methods usually.  
+Primary Purpose: 	Keep the pressure on the opponent so that 
+			he can't react, useful especially as the 
+			opponent is tagging out, to be prepared 
+			for the entrance of the partner.  
+
+	Ling's custom strings are EXCELLENT.  She's probably among 
+the best in the game in this area.  Her moves are fast, most have 
+quick recovery, and add up to damage when you use them to work in 
+a throw or juggle starter.  
+	I do have use some standard strings in my repitoire, mostly 
+because they have worked so well for me consistantly.  On my better 
+days, I tend to do something I call "Random Stringing."
+	Basically, this can be done with the faster characters that 
+one knows very, VERY well.  The trick is to start a string, and not 
+really think about what you're next move will be (because doing so 
+will cause you to go to your standard stringing techniques).  This 
+makes for extremely hard-to-predict strings.  If you're on, it works 
+like a charm.  If you're not, you'll get nailed.  I usually have 
+my best streaks when my strings are sufficiently random.  
+	Other things to work into this is an occasional sidestep, 
+possibly changing to the Poking - Instigation occasionally, as these 
+two styles work together very well with Ling, because the opponent 
+won't know if he's being baited or not.
+	Often the best poke is the poke that the opponent thinks is 
+coming, but doesn't - it usually confuses the opponent, at which 
+point, panic moves come out; Moves often inappropriate against 
+Ling.  
+
+Attack:
+	- Bayonet (1,2)
+	- Belly Chop (d/f+1,{d/f})
+	- April Showers (2,1,{d/f})
+	- Bayonet McTwist (1,d+2)
+	- Standing Right Kick (4)
+	- Storming Palm (d/b+1)
+	- Sunrise Fan (d/f+2,1)
+	- Racoon Swing (f,f+3)
+	- Phoenix Wings (f,f+1+2,1+2)
+	- Flower Garden ((PP) f+4,{4})
+	- Flower Power ((PP) u+4,{4})
+	- Wave Crests ((PP) ~1+2_1+2_d+1+2)
+	- Firecracker ((PP) 4~3)
+	- Skyscraper Kick (WS+4)
+	- Sunflower (WS+2)
+	- California Roll ((RD) f+3+4)
+
+**************
+CUSTOM STRINGS
+**************
+	Here I will list all of the common strings I 
+pull off with Ling, and attempt to show some of the 
+possible options she has from any position.  Remember: 
+this list is not exhaustive, as I believe that would 
+be close to impossible, so don't use these strings 
+exclusively, try random stringing to see what you come 
+up with!
+Note: I am Forgoing the move names at this stage as a 
+      space-saving device.
+
+I use the following codes for the String section:
+[D] - Good damage (or potential off a juggle or Okizeme)
+[d] - Poor damage
+[F] - Good Followups
+[f] - Poor (or no) Followups
+[P] - Good Position is gained by the move
+[p] - Poor Position after execution
+[S] - Usually a safe move
+[s] - Fairly unsafe move
+[H] - Usually Hits (whether opponent blocks or not)
+[h] - Hitting is Risky
+
+In refrence to the FC, RD, and PP Strings sections:
+	The strings labeled '1' are for moves where 
+when entering that position, you have little time to 
+make your next move.  Those labeled '2' are if you 
+have more time to work in those positions.  This is 
+subjective, but all moves in '1' sections may be 
+used even if section '2' is pointed to.
+	Sidestep (SS) does not use this method as if 
+you fail to gain the advantage in a sidestep, you are 
+still in front position.
+
+Setup for this section is as follows:
+
+?) Link Input [Properties for using this as a Link]
+	- Move Input	[Properties] Hit Level (Rating) [Links to ?]
+
+* Ratings for moves are indivdualized for the move they follow.  
+  That is, certain moves flow together, the rating reflects that.  
+* Certain links have properties that cannot be listed, and as 
+  such are not exactly the sum of thier parts.  Try them out to 
+  get a feel of what works.
+* The move listed is the MOST COMMON used linker, other moves 
+  may result in similar setups.
+* Keep in mind that these strings are VERY (x3) dependant on whether 
+  or not your opponent gets hit, gets hit on counter, or blocks her 
+  moves.  In other words, if opponent blocks, they may be pushed 
+  back (or the opposite may be true).  You should always be watching 
+  EXACTLY what happens when Ling throws her moves.  The difference 
+  advantage and spacing means the world.  
+
+a) 1,2 [FPSH]
+	- d/f+1{d/f}	[dFPSH] (10/10)[c]
+	- 1,d+2		[...SH] (9/10) [b]
+	- 1,2		[...S.]	(8/10) [b]
+	- Throw		[DFPs.] (8/10) [KD]
+	- b+3+4		[.FPS.] (8/10) [RD-2]/[SS-RD]
+	- SS		[..PS.] (7/10) [SS]
+	- d/b+1		[DFP..] (7/10) [KD]
+	- 4		[.F...] (7/10) [b]/[Float on CH]
+	- d/f+1		[dFPsH] (7/10) [RD-1]
+	- d/f+2,1	[DFPs.] (7/10) [Juggle]
+	- f+4		[DFP..] (6/10) [KD]
+	- d/f+4		[dfp.H] (6/10) 
+	- 2,1{d/f}	[....H] (6/10) [b]
+	- 2,1		[.FPsH] (6/10) [RD-1]
+	- d+1+2		[.FP..] (6/10) [PP-1]/[PP-2]
+	- d+1{d}	[.fps.] (5/10) [PP-1]/[PP-2]
+	- d+1		[.Fps.] (5/10) [h]
+
+b) (1,d+2) d/f+4 [SH]
+	- d/b+1		[DFP..] (8/10) [KD]
+	- f,f+1+2	[DFPs.] (8/10) [d]
+	- SS		[.FPS.] (7/10) [SS]
+	- 4		[.F..h] (7/10) [b]/[Float on CH]
+	- f+4		[DFPsH] (7/10) [KD]
+	- b+3+4		[.FPS.] (6/10) [RD-2]/[SS-RD]
+	- d+1+2		[.FPS.]	(6/10) [PP-2]
+	- d/f+4		[dfp.H] (6/10) 
+	- 2,1		[.FPsH] (6/10) [RD-1]
+	- d/f+1		[dFPsH] (6/10) [RD-1]/[RD-2]
+	- d/f+1{d/f}    [d..SH] (6/10) [c]
+	- 1,2 		[.FPsh] (4/10) 
+	- d/f+2,1	[DFPsh] (4/10) [Juggle]
+
+c) d/f+1{d/f} [...SH]
+	- Throw		[DFPsH] (10/10)[KD]
+	- 4		[.F...] (10/10)[b]/[Float on CH]
+	- 1,2		[.FPS.]	(8/10) [a]
+	- SS		[..PS.] (8/10) [SS]
+	- d+1+2		[.FP..] (8/10) [PP-1]/[PP-2]
+	- d/f+2,1	[DFPsh] (8/10) [Juggle]
+	- f+4		[D.P..] (7/10) [KD]
+	- d/f+1{d/f}	[dFPsH] (7/10) [c]
+	- 1,d+2		[...SH] (7/10) [b]
+	- b+3+4		[.FPS.] (7/10) [RD-2]
+	- d/b+1		[DFP..] (7/10) [KD]
+	- d/f+1		[dFPsH] (7/10) [RD-1]
+	- d/b+4		[.F..H] (6/10) [b]/[KD on CH]
+	- d/f+4		[dfp.H] (6/10) 
+	- 2,1{d/f}	[....H] (6/10) [b]
+	- 2,1		[.FPsH] (6/10) [RD-1]
+	- d+1{d}	[.fpsH] (6/10) [PP-1]/[PP-2]
+	- d+1		[.FpsH] (6/10) [h]
+
+d) f,f+1+2 [DFPs.]
+	- Throw		[DFPs.] (10/10)[KD]
+	- ~1+2		[DfPSH] (9/10) [Opp ends FC]
+	- 4		[.F...] (9/10) [b]/[Float on CH]
+	- 1,2		[.FPS.]	(9/10) [a]
+	- f,f+1+2	[DFP.H] (9/10) [d]
+	- f,f+1+2,1+2   [D.P.H] (9/10) [b (Opp FC)]
+	- 1,d+2		[...SH] (8/10) [b]
+	- b+3+4		[.FPS.] (8/10) [RD-2]/[SS-RD]
+	- d/b+1		[DFP..] (8/10) [KD]
+	- f+4		[DFP.H] (7/10) [KD]
+	- SS		[..PS.] (7/10) [SS]
+	- d+1+2		[.FPS.] (7/10) [PP-2]
+	- d/f+1{d/f}	[dFPsH] (7/10) [c]
+	- 2,1{d/f}	[....H] (7/10) [b]
+	- d/f+1		[dFPsH] (7/10) [RD-1]
+	- d/b+4		[.F..H] (7/10) [b]/[KD on CH]
+	- d/f+2,1	[DFPsh] (6/10) [Juggle]
+	- d/f+4		[dfp.H] (6/10) 
+	- 2,1		[.FPsH] (6/10) [RD-1]
+	- d+1{d}	[.fpsH] (6/10) [PP-1]/[PP-2]
+	- d+1		[.FpsH] (6/10) [h]
+
+FC1) Full Crouch Strings - 1 (Time-critical)
+	- WS+4		[..PSH] (10/10)[KD]
+	- 3,2		[.FP.H] (10/10)[RD-2]
+	- FC+1		[...SH] (9/10) [FC-2]
+	- WS+2		[DFPsh] (7/10) [RD-1]/[Juggles on CH]
+	- d/b+3+4	[.FPs.] (5/10) [RD-1 (FC)]/[RD-2 (FC)]
+
+FC2) Full Crouch Strings - 2 (Normal or advantage)
+	- WS+4		[..PSH] (10/10)[KD]
+	- FC+1		[...SH] (7/10) [FC-2]
+	- d/b+3+4	[.FPs.] (6/10) [RD-2 (FC)]
+	- d/f+4		[.FPsh] (6/10) [PP-1]
+	- d/f+4,{4}	[.fp..] (6/10) [FC-1]
+	- WS+2		[DFPsh] (6/10) [RD-1]/[Juggles on CH]
+	- d/f+2		[.Fps.] (5/10) [RD-1 (FC)]
+	- d/f+2,1	[.fps.] (3/10) [FC-1]
+
+RD1) Rain Dance Strings - 1 (Time-Critical)
+	- 2,1,4		[DFP..] (9/10) [Juggles]
+	- d+1		[df.SH] (9/10) [FC-1]
+	- 3		[.fPSH] (9/10) [KD]
+	- 1		[dfP.H] (8/10) [b]
+	- d+1+2		[.FP..] (8/10) [PP-1]
+	- SS		[.FP..] (8/10) [SS-RD]
+	- f+3+4,3+4	[DFP.H] (7/10) [Juggles]
+	- 4		[DFPsH] (6/10) [Juggles]
+
+RD2) Rain Dance Strings - 2 (Normal or advantage)
+	- Throw		[DFPsh] (9/10) [KD]
+	- 4		[DFP.H] (9/10) [Juggles]
+	- f+3+4,3+4	[DFP.H] (8/10) [Juggles]
+	- SS		[.FP..] (8/10) [SS-RD]
+	- f,f+3+4	[DFP..] (8/10) [RD-1]
+	- d+1+2		[.FP..] (7/10) [PP-1]/[PP-2]
+	- 2		[.fPs.] (7/10) [RD-1]
+	- d+3		[.FPs.] (7/10) [KD on CH]
+	- 2,1,4		[DFP..] (7/10) [Juggles]
+	- f,f+3+4	[.FPs.] (7/10) [RD-1]/[RD-2]
+	- d+1		[df.SH] (7/10) [FC-1]
+	- 3		[.fPSH] (7/10) [KD]
+	- d+4		[dFP..] (7/10) [b (Opp Guard Stun)]
+	- f,f+(1+3_2+4)	[DFPsH] (6/10) [KD]
+
+PP1) Phoenix Position Strings - 1 (Time Critical)
+	- 4~3		[DFPSH] (10/10)[KD]
+	- ~1+2		[DFPsH] (9/10) [Juggles]
+	- 4		[Df..H] (8/10) 
+	- 1		[dfpS.] (8/10) [WC-1]
+	- f+4		[dFps.] (6/10) [PP-1]
+	- f+4,4		[.fpsH] (6/10) [FC-1]
+
+PP2) Phoenix Position Strings - 2 (Normal or Advantage)
+	- 4~3		[DFPSH] (9/10)[KD]
+	- ~1+2		[DFPsH] (8/10) [Juggles]
+	- 4		[Df..H] (8/10) 
+	- u+4		[....H] (7/10) [FC-1]
+	- u+4{u}	[...sH] (6/10) [RD-1]
+	- u+4,4		[.fpsH] (6/10) [FC-1]
+	- f+(1+3_2+4){d}[.fp..] (6/10) [FC-1]
+	- f+3+4		[.FPs.] (6/10) [FC-1]/[a]
+	- f+1+2		[.FPs.] (6/10) [RD-1 (FC)]
+	- f+4		[dFps.] (5/10) [PP-1]
+	- f+4,4		[.fpsH] (5/10) [FC-1]
+	- f+(1+3_2+4)	[DFPs.] (5/10) [KD]
+
+SS)  Side Step Tactics 
+	- d+2,1		[DFP.H] (10/10) [Juggles]
+	- Throw		[DFP.h] (9/10) [KD]
+	- SS-4		[.FPs.] (7/10) [RD-1]
+	- SS-4{b}	[.fp..] (6/10) 
+
+SS-RD) Sidestep Rain Dance Tactics
+	- 4		[DFP.H] (10/10) [Juggles]
+	- Throw		[DFP.H] (9/10)  [KD]
+	- 2,1,4		[DFP.H] (8/10)  [Juggles]
+
+	Well, if you get anything from any of the above, 
+let it be this: LING IS VERSITILE.  She has a ton of moves 
+from many different positions, and levels (although she's 
+a bit short on the low side) making her an excellent 
+stringer.  In the words of Master Wang: "Use the strings, 
+Ling!"
+	My FAVORITE strings will be listed in the Ling's 
+Tricks section.
+
+
+*************
+LING'S TRICKS
+*************
+
+BEGIN SELF-GLORIFICATION SEQUENCE...
+
+	Okay, this is the section you've all been waiting 
+for: the section where I reveal all of my tricks of the 
+trade, and how I use Ling to her fullest advantage and 
+beat the crap out of every person I meet.
+
+GLORIFICATION SEQUENCE COMPLETED, FAQ MAY CONTINUE
+
+	Please excuse me there, but I have been doing my 
+best to resist the temptation this long, I guess I finally 
+had to rant.  
+	This is basically all the little things I've found 
+over the years I've been playing Ling, and the basic little 
+insights into Tekken I've gotten from learning it PRIMARILY 
+from the spunky little girl.  (If you didn't know, I tend 
+to sidestep a lot, even with other characters).
+	So, without further ado...
+
+Strings:
+
+***
+Bayonet (1,2), Storming Palm (d/b+1)
+	It's simple.  I can hear you asking "What's so 
+special about that?"  Well, it's the fact that the Storming 
+Palm (d/b+1) connects so often if you use this with other 
+strings.  People think Ling is weak after her jabs, in 
+fact, the opposite is true: she has a 5/6 frame advantage.  
+This being the fact, if anyone starts a move that takes 
+longer than 12 frames, they're gonna get busted in the 
+teeth.  Use this ONLY if opponent gets hit by both hits of 
+the Bayonet, otherwise her advantage is not great enough to 
+give you a reasonably safe execution.
+
+***
+Bayonet (1,2), Belly Chop (d/f+1{d/f})
+	This is Ling's best string starter.  Not do her 
+Bayonet (1,2) almost guarantee the Belly Chop (d/f+1{d/f}) 
+(actually, if the opponent doesn't block, it *IS* 
+guaranteed).  
+
+If you HOLD d/f, from here, you can:
+	- Throw
+	- d/f+2,1
+
+	Throwing from here is ingenious because of how 
+close the belly chop brings you to the opponent, and the 
+fact you're still facing forward gives them just enough 
+time to duck, which most people will NOT do the first 
+couple of times you do this, and will continue to fall 
+for it forever after, because any attack they use will 
+fall prey to the speed of her throw, and the alternative 
+is to duck and take a Sunrise Fan (d/f+2,1) juggle.
+	It is HIGHLY reccomended that 75% of the time, 
+you HOLD d/f after the Belly Chop (d/f+1{d/f}).  This is 
+because if you do not hit the opponent, Ling is at a 
+disadvantage when she gets into Rain Dance, and faster 
+players will punish her severly.  However, use the 
+Rain Dance turn occasionally as a changeup.
+
+***
+Stormy (2), Back Circle Breaker (d+3), Sidestep (SS),
+Mistrust (4)
+	This is an extremely good confusion tactic 
+while Ling is turned around.  If you hit them with the
+Stormie (2), then you will more than likely hit them 
+with the next hit, causing a slight duck animation, 
+and allowing the character to do WS moves.  This is 
+why you sidestep, because most players will either 
+do a WS move, or continue ducking.  
+	Immediately after the SS, I check the 
+opponent's state:
+	1) He did a WS move -> Mistrust
+	2) He remained ducking -> Mustrust
+	3) He stood up and backed away -> Delay, 
+						Mistrust
+	A lot of times, Sidestepping with Ling while 
+in Rain Dance unnerves people (and with good cause!).  
+People will often attack her immediately following a 
+sidestep, allowing an easy Mistrust.  
+
+***
+Raccon Swing (f,f+3), and setting up.
+	The Racoon Swing seems to be the best Okizeme to 
+use in a lot of situations.  This is ESPECIALLY true when 
+the other person is low on life, because it leaves Ling in 
+Rain Dance waiting for the opponent to enter: the optimum 
+position.  
+	From there, you can Mistrust (4) or Cyclone 
+(f,f+3+4,3+4) them into your chosen Juggle, but be SURE to 
+buffer a chicken reversal.  
+	I tend to get a rhythm going with Ling, mainly 
+Juggling them with a Mistrust, and then another, and 
+another, until they tag, and do it again.  It's so 
+sickeningly effective sometimes you don't need your partner.  
+
+***
+Dark and Stormy Mixups (2,1,?)
+	Okay, this is commonly known, but if you don't get 
+a counterhit on the 2,1 your 4 is gonna miss, because the 
+opponent is blocking, right?  Well, there's two ways to 
+deal with this:
+	- Dealy the 4
+	- Throw 
+	- Delay even farther, and take a standing 4
+
+	It really depends on how well you can read your 
+opponent.  Many people will duck after they see you dealy 
+on the 1, hoping to avoid a throw.  This is when you use 
+the delayed 4.  
+	For people who continue to backup block, the throw 
+is in order.  I tend to use this option less in higher level 
+play because the throw can whiff give the opponent a juggle 
+or worse.  
+	The last option is if you didn't feel like throwing 
+and the opponent didn't react.  More than likely, they will 
+rush in for a move after.  You can usually score a Counter 
+with this move, giving you a Storming Palm (d/b+1) off the 
+float.  
+
+***
+Bayonet (1,2) and Standing Right Kick (4)
+	These two moves are staples of my Ling game.  The 
+1,2 is the safer of the two, giving you great start and 
+recovery (fastest in the game on the former, at WORST a 
+few frames if you whiff, which is hard).  It stops strings, 
+snuffs reprisals, gives you the advantage, and starts you 
+into her custom strings.  Who could ask for more?
+	The 4 is better and worse: 
+1) The Float on counterhit + Storming Palm (d/b+1) does 
+	INCREDIBLE damage for a move this fast.  Not only 
+	that but you have a charging came to play 
+	afterwards.  
+2) It's slower on start and recovery (but not by much)
+
+	All in all, it's one of my favorite moves for 
+her, and I have been known to go counterhit hunting with it.  
+
+***
+California Roll ((RD) f+3+4)
+	This move is an intimidating one, because it puts 
+Ling with her back basically touching the enemy's skin.  
+It's frightening to opponents, and it plays an INCREDIBLY 
+good mixup game between Mistrust (4), Throw, and 
+Cyclone (f+3+4,3+4).  Use it whenever you get a chance.  
+
+***
+Hop n' Throw ((RD) f,f+(1+3_2+4))
+	This move is a great move to throw in 
+occasionally.  It's confusing as hell, even to someone 
+who's seen it and used it a million times.  The thought 
+that goes through thier head is printed on thier faces 
+shall be described through Homer Simpson style phrasing:
+
+Normal Person - "Say, she's waving her arms, that must 
+		 mean she's... DOH!"
+Experienced Person - "Ah!  The hop and throw!  Still some
+		      time to get out of the way, now less, 
+		      now none!  DOH!"
+
+	I am pleased to admit that my "deer in the 
+headlights" reaction to this move is down to around 50%.  
+
+***
+Peg Leg ((RD) f,f+3)), Cyclone (f+3+4, 3+4)
+	This move is decieving whether you hit the opponent 
+with it or not, because people seem to think from the 
+animation that she has some kind of recovery time, when in 
+fact she has almost none.  
+	Even people who play me constantly still fall for 
+this 99.95% of the time.  I just don't get it.
+	Closely related to this is during Okizeme right after 
+a Raccon Swing (f,f+3) that does not knock the opponent away:
+	If you follow this up with a Peg Leg ((RD) f,f+3), 
+many times the person will roll to the side and get up, almost 
+exactly the same time as Ling appears to whiff on her move.  
+Here's the trick: these people are slightly off axis, and really 
+the only move that they could throw that would injure Ling in 
+this tiny period of time is a throw, which is fortunately 
+avoided as she launches them with the Cyclone.  This is also
+near foolproof.  That is, if they rise as I said, they WILL eat
+the Cyclone.
+
+***
+Knee Cracker (d/b+3) Okizeme Trick
+	There are actually two tricks here.  
+The first one is simply, if the opponent is just beginning his 
+roll away, you can Knee Cracker (d/b+3) him, and he will end up 
+in a more hitable lying position closer to you.  I only use this 
+usually on people I expect to rise kick me, as it snuffs it out 
+and allows me to continue my Okizeme.
+
+	The second trick is actually a glitch that I used to do 
+in my Tekken 3 days, but I do not know the status of in TTT.  
+Basically, in certain positions, you could do the Knee 
+Cracker (d/b+3) against a sideways-laying opponent, and end up on 
+the other side!  What was even better was that the opponent would 
+invariable rise kick, to the side Ling just left, thus giving you 
+a Mustrust ((RD) 4) to thier back.  Unfortunately, this wouldn't 
+work nearly as well in TTT because of how the Mistrust ((RD) 4) 
+reacts to back turned opponent.  Perhaps you could try a back 
+throw?
+
+***
+Left Handful ((PP) 1) to Skyscraper Kick (WS+4)
+	This one gets a lot of people, just because of the speed 
+that the Skyscraper Kick (WS+4) comes out.  I use it as a 
+defensive manuver a lot, as it is pretty safe.
+
+***
+Flower Garden ((PP) f+4,4), Skyscraper Kick (WS+4)
+	Another trick because of the speed of the Skyscraper 
+Kick (WS+4).  
+
+***
+Jumping Pirouette ((PP) u,n+3)
+	I use this move about once every two games to throw in 
+some variety.  It's a non-standard juggle starter if followed 
+by a Firecracker (FC+4) into Dark and Stormies (2,1).
+
+
+***
+Side Throw - Arm Flip (Left)
+
+Immediately after Ling's Arm Flip Right throw, begin a dash.  
+
+	If:
+
+1) Opponent rolls away
+	Have Ling Slide, she will take the legs out and do 
+good damage.  You now have have the opponent in the "slide 
+guess" situation, as I call it.  See Ling's Tricks for more 
+info.  
+
+2) Opponent does NOT move
+	This is troublesome, because Ling does not have enough 
+running distance to do a stomp from this throw.  As a result, 
+you should run up and immediately pull off the Sunrise Fan 
+(d/f+2,1), bringing them into the normal Okizeme sequence.  
+
+3) Opponent flinches even slightly just as Ling arrives
+	This is what you're waiting for.  If your timing is 
+down, this works 85% of the time, and can do REALLY NICE damage.  
+You run up to the opponent, stop just barely short, and do a 
+standing 4.  From here, the opponent will either be juggled on 
+a counter hit, from where you can Storming Palm (d/f+1), or 
+they will be standing with back turned, and you can do an almost 
+guaranteed Storming Palm (d/f+1) to thier back, possibly on 
+counter.  If you are really gutsy, you can go for a Phoenix 
+Wings (f,f+1+2,1+2) after the kick, but it's very uncertain.  
+Better than that, if you connect with the Phoenix Wings (f,f+1+2, 
+1+2) fast enough, the opponent will still be back turned.  
+
+Remember, Counter + clean hit with the Storming Palm = Devistation
+***
+Front Throws - Jade (1+3) and Ruby (2+4)
+
+	After either one of Ling's front throws, you can immediately 
+followup with a a Sunrise Fan (d/f+2,1). as Okizeme.  However, it is 
+possible to rise fast enough to avoid this, blocking it and leaving 
+Ling vunerable on the recovery.  This point of my game was weak for 
+a while until I discovered a few ways to kill this problem.  Against 
+the 5%-10% of people who actually are able to avoid this, you can:
+
+1) Sidestep immediately after the throw using either normal, or 
+Rain Dance (b+3+4).  This puts you into attack position immediately, 
+with opponent slightly off axis.
+
+2) (prefered method) Fake the Sunrise Fan.  I do this by doing sort 
+of a crouch dash (I know, Ling doesn't have one, but it looks 
+something like it).  The effect is, you are in front of your 
+opponent for an IMMEDIATE throw.  This is really fun because it 
+plays an huge mind game for the opponent.  What does he do?  
+Usually, they believe you'll go for the Sunrise Fan again, and 
+stand, giving you a throw again.  I have done this up to six times 
+in a row (against a skilled player, at that, not a scrub).  Finally, 
+I went to the last option.
+
+3) After you've conditioned the quick-risers to anticipate the throw, 
+and try to duck to catch you on your whiff, you delay the Sunrise Fan.  
+	
+	This is by far my favorite mind game.  Unfortunately, I am 
+unable to do it against most opponents, who just take her Sunrise 
+Fan okizeme, which is actually safer, but less damaging, or fun.  
+
+***
+Okizeme with Racoon Swing (f,f+3) and Back Circle Breaker ((RD) d+3)
+	The trick with this is that you can do a lot of damage with 
+this simple combo.  The racoon swing also tends to catch people trying 
+to roll out, which can win you a lot of games.  The trick is to have 
+it so that Ling either finishes her Racoon Swing chasing the opponent 
+on the way out, or a non-turning Back Circle Breaker.  This sets the 
+opponent up for a Mistrust or Cyclone as they come in (buffer a 
+chicken!).  If you work it right, you can force the opponent out and 
+get the partner coming in.  I get this so often it's scary, as the 
+entering opponent will take anywhere from 1/3 to 1/2 (on Kali or low 
+endurance opponent) of thier life.  Even after the Juggle, you still 
+get the approach.  
+
+***
+{Firedancer ((FC) 3)}, 2,1 Mixups
+	This is a good part of Ling's game, but it can be somewhat 
+dangerous for her.  The best thing you can do is to catch opponent on 
+counter with one of the first two hits.  Afterwards, a Mistrust is 
+guaranteed.  
+	However, in the case that the opponent blocks it, you can be 
+in trouble.  What your success depends on now is how well you read 
+your opponent.  
+
+Options:
+1) Forget the 4, and go to a throw
+	This is EXTREMELY risky against advanced players, as most of 
+them will just escape the throw, or even worse, duck under it.  On 
+the bright side, you can use (2) to counter people ducking.  
+
+2) Delay 4 - This can be done, often to good effect, and is often 
+	forgotten about by even the best of players.  
+
+3) Delay 4, enough for a basic standing 4 to come out.
+	This will OFTEN catch opponents on counterhit, giving you a 
+float juggle.  Unfortunately, the delay is sometimes too long.  
+
+4) Follow up with a 1,2, (FC) 2
+	This will usually catch the opponent on counter, but have a 
+much better chance of connecting, and give you the advantage.  No 
+real damage like a Mistrust, but lets you keep the initive.  
+
+5) Block
+	This is one of the safer, but conceeds the advantage, which 
+is not optimal.
+
+6) Duck
+	Make opponent whiff a high, quick reprisal.  Somewhat risky, 
+but effective sometimes.  
+
+
+***
+Flower Power ((PP) u+4, {4})
+	
+	Okay, everyone expects the second hit.  There are really 
+some good followups if you do NOT do it, though.  
+
+1) ~u, Rain Dance
+	You have time by virtue of unexpectedness.  Reccomend 
+immediate action after this.  An instantaneous Mistrust often 
+connects for some reason.
+
+2) WS+4, WS+2
+	Ling counts as standing up immediately following the move, 
+so you can execute these.
+
+3) Throw
+	If the move hits, the opponents will often be close enough 
+for an immediate throw
+
+4) Phoenix Position (d+1+2), SS, Rain Dance (b+3+4)
+	People seem inclined to immediately reprise this move, so 
+these moves are great for a juggle or other damaging action.  
+
+5) Quick Poke (1,2; 4; (FC) 1; etc.)
+	This will maintain the initiative, possibly counterhit.  	
+
+***
+A word on Ling's Low 1
+	I tend to not use Ling's d+1 while standing forward, as it 
+is OFTEN taken as D+1, her Sunset Fan, which is a much slower move, 
+and often gets me hurt.  I use her d+2 in this case.  It's 2 frames 
+slower than the d+1, but is safer.  This does not mean I do not use 
+her d+1, I do, but only from Rain Dance, full crouch, or Phoenix 
+Position, as these all have excellent followups.
+
+- Reccomended: WS+4, WS+2, (FC) 3,2
+
+
+***
+A word on back kick opponents (On the ground, b,b+3+4)
+	Ling has excellent Okizeme, and this is one of the banes 
+of it, as she often has to come in from long range to do it.  Many 
+players learn that the b,b+3+4 while grounded is a great way to 
+stop Ling from her followups.  Well, they're partially right.
+	The thing about this trick is that you have to be watching 
+for it, and anticipate it, otherwise you won't get it.  AS SOON 
+as you see them flinch in thier b,b motion, do a d/f+1.  Don't worry 
+about a back roll or tag out attempt, because at worst they'll be 
+away from you with back turned, which isn't neccicarily a bad thing, 
+and if they tag out, you're in Rain Dance position when the partner 
+enters, not too shabby.  The thing is, though, is that the d/f+1 will 
+float the opponent perfectly, setting the opponent up for a (RD) 2, 
+(RD) 2~1, f,f+1+2,1+2 (or any other small combo you want).
+	One thing to watch for is if they actually did b,f+1+2, which 
+this move will NOT catch.  Bascically, if you do the d/f+1 and do NOT 
+catch the opponent, immediately sidestep.  This will avoid the head 
+dive, and give you an opportunity to chase the opponent's back, which 
+I've always enjoyed.
+	Use this trick if you can, it's a real crowd pleaser.  It 
+also adds more fear to the opponent in thier getup game, which is 
+always a good thing to introduce.  
+***
+Ling's Phoenix Position - Firecracker and Wave Crest - Quick.
+	Use this often, especially during poking games, as you can 
+catch the opponent for an easy juggle, or just use her Firecracker (4~3).
+The firecracker is an excellent move.  It's low, quick, it's one of the 
+safest moves in the game, and people almost never block it, even at a 
+high level of play - it's just too dangerous for people to duck against 
+her in that position.  
+	There is also one special property to the Phoenix position not 
+found in Tekken 3 - that, when back turned, in the Phoenix Position, 
+she is able to do the Mistrust without standing up.  This is very 
+useful when people are doing a head dive against her, as the position 
+avoids this and lets you hit them as they're flying past.  While this 
+won't juggle, it does set you up for Okizeme.  
+
+More to come!
+
+
+
+*************
+VS. Opponents
+*************
+
+Alex - Alex is not too much of a problem, just watch out for the SS+4 low sweep thing, and 
+	you should be alright for the most part.  Also, his Animal Uppercut move can REALLY, 
+	REALLY, REALLY hurt Ling, especially with her low stamina.
+
+Do:	- Block the SS+4.
+	- Use her Sunrise Fan against frontal attacks.
+	- Poke him off balance,
+
+Do Not:	- Sidestep his crouch dash or sidestep moves,
+
+
+====
+Anna - Anna can be a pain in the ass (no refrence to any move intended, really!).  Her elbow 
+	launcher can catch you often, and if her quick pokes can connect
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative
+
+Do:	- Launch Anna whenever possible, keep her on the ground
+	- Sidestep
+	- Parry her strings.
+	- Low parry after a blocked counterhit-elbow
+
+Do Not: - Poke her to death
+	- Let her run poking strings on you.  Interupt her any way you can.
+
+=======
+A. King - I've never had that much difficulty with A. King with Ling.  His moves are mostly 
+		too slow I think, and easily sidestepped.  There is a problem if he gets 
+		you on the defense, as he does have an annoying high-low mix-up game.
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative, Teasing the Teacher, 
+	  Wrath of the Schoolgirl
+
+Do:	- Use any tactics you like against him.
+	- Learn his high-low mix-ups
+
+Do Not: - Let him throw you
+	- Go into the Phoenix Position obviously
+	- Fall repeatedly for that double-footed, low lunge of death
+
+====
+Baek - Baek can be a problem, honestly.  His strings are confusing, he gets all sorts of 
+	little cheap shots, and very little recovery time on a lot of his strings.
+
+Strategy: Maiden's Perogative, Teasing the Teacher
+
+Do:	- Throw him
+	- Learn his strings, and how to avoid/block/parry them
+	- Use the Phoenix Position to your advantage during his strings
+	- Sidestep opposite him
+
+Do Not: - Use too frontal attack methods on him.  
+	- Get counterhit by his strings
+
+
+=====
+Bruce - Bruce is just a power house.  Combined with Ling's low stamina, it takes you from 
+	140 to nill in 6 seconds.  This in mind, be careful!
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative
+
+Do:	- Use the Phoenix Position, his low attcks are slow
+	- Throw him
+	- Sidestep
+	- Be careful
+
+Do Not:	- Poke him to death, his d/f+2 elbow launcher will get you (however, if he doesn't 
+	  use this move, feel free!)
+	- Reprise too quickly after a sidestep if he's in a string, as it WILL track.
+
+=====
+Bryan - Although Similar, Bryan is much more dangerous to an unaware Ling than Bruce.  He 
+	does nasty damage, and is quick.
+
+Strategy: Maiden's Perogative, Wrath of the Schoolgirl
+
+Do:	- Use her Sunrise Fan as a shield
+	- Use the Phoenix Position
+
+Do Not: - Let him keep the initive for any length of time
+	- Fall for his low d/b+3 / u+4 changeups
+	- Let him catch you rising of the ground
+	- Be to obvious with punch strings, his parry is nasty.
+
+=====
+Devil - Devil is probably your least dangerous Mishima.  Watch for the twin pistons.
+	Do a Phoenix Position or Belly Chop to avoid the Laser.
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative, Teasing the Teacher, 
+	  Wrath of the Schoolgirl
+
+Do:	- Use the Phoenix Position
+	- String him
+
+Do Not: - Fall for the laser
+	- Get hit by the twin pistons
+	- Get hit by his SS launcher, you'll probably lose 1/2 your life
+
+====
+Eddy - Eddy is very rarely a problem for me anymore.  Best thing to do is to pitbull him or 
+	interupt his strings.  But beware the Eddy master!
+
+Strategy: Teasing the Teacher, Wrath of the Schoolgirl
+
+Do:	- Interupt his strings early.  Sunrise/Sunset fan, Phoenix Wings, Front/Back Layout, 
+		Cyclone, Racoon Swing are good for this purpose.
+	- Keep him on the defensive
+
+Do Not: - Let him use his strings
+
+======
+Ganryu - Ganryu is a pain to Ling.  Because of his large size, he is very difficult to 
+	 get around sidestepping unless he does a forward momentum move.  He also has great 
+	 frame advantage on many of his moves.
+
+Strategy: Teasing the Teacher
+
+Do:	- Use pokes to keep him back
+	- Use defensive gameplay
+	- Use the Storming Palm
+
+Do Not:	- Let him get the offensive
+	- Sidestep carelessly
+
+=======
+G. Jack - G. Jack is a ball to play with Ling.  Very rarely is there any problem at all.  He's 
+	  just too slow to touch her if you keep moving correctly.
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative, Wrath of the Schoolgirl
+
+Do:	- Sidestep a lot
+	- Use Phoenix Wings
+	- Use the Storming Palm
+	- Have fun
+
+Do Not: - Let him hit you, ever.
+	- Let him throw you, ever.
+
+========
+Heihachi - "Heihachi kills, rapes and pillages poor little Ling, and it's not even fair.", as 
+	   someone on Tekken.net's message board put it, and frankly, it's true.  Heihachi 
+	   has everything he needs to dominate the little girl.  He could be one of the most 
+	   difficult opponents.
+		Heihachi opponents tend to really like ducking, and then coming up with his 
+	   big fist in the face.  Anticipate this.
+
+Strategy: Teasing the Teacher
+
+Do:	- BE CAREFUL
+	- Watch the Hellsweeps
+	- Watch the EWGF
+	- Poke him to keep him at bay
+	- Sidestep his moves
+	- Duck when he crouch dashes
+
+Do Not:	- Sidestep his crouch dash
+	- Go into the Phoenix Position in front of him
+	- Sidestep his crouch dash
+	- Whiff any moves
+	- Sidestep his crouch dash
+	- Get hit on counterhit by his WS+2 or standing 4
+	- Sidestep his crouch dash
+
+=======
+Hworang - 
+	Lotsa' damage, nasty strings, not really a problem.  I really enjoy playing 
+	against Hworang now, as his methods are easily countered by Ling on most days.
+
+Strategy: Maiden's Perogative, Teasing the Teacher, Wrath of the Schoolgirl
+
+Do:	- Keep him on the defensive
+	- Use the Sunrise Fan (d/f+2,1) to stop slower strings
+	- Use her parry (1+4) to stop quicker strings
+	- Use the Phoenix Position to get under strings
+	- Use the sidestep (not back turn) to get around strings (and block if needed)
+
+Do Not: - Duck randomly
+	- Sidestep premptively
+	- Get Juggled
+
+======
+Jack 2 - 
+	- See Gun Jack
+
+===
+Jin - Jin is frakly, a pain.  His b+4 "Kick of death" is usually his Coup de Grace 
+      against her.  Nasty okizeme, nasty sidestep game, just plain nasty.  
+
+Strategy: Maiden's Perogative, Teasing the Teacher.
+
+Do:	- BE CAREFUL
+	- Watch the "Kick of Death"
+	- Watch the EWGF
+	- Watch the Sidestep Launcher
+
+Do Not:	- Sidestep his crouch dash
+	- Go into the Phoenix Position in front of him
+	- Whiff any moves
+	- Get hit by the "Kick of Death," "Rising uppercut of death," "Sidestep 
+	  uppercut of death," "Electric Wind God Fist of death," or 
+	  "Twin Pistons"  (of death).
+
+=====
+Julia - Kill her, a lot.  Julia tends to run people to the ends of the earth with 
+        her pokes, and things a lot stronger.  The important thing is to not let her 
+	run you to death.  
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative, Teasing the Teacher
+
+Do: 	- Use pokes (ONLY) quickly after hers (Bayonette or Standing Kick are great)
+	- Use the Phoenix Position
+	- Keep her guessing
+	- Sidestep, a lot
+	- Throw
+
+Do Not:	- Use slow moves against her
+	- Duck
+	- Get hit by her hop kick (it hurts)
+	- Watch for Mad Axes bufferers (Like me!)
+
+===
+Jun - A good Jun can be a pain for Ling.  She has moves that have very high priority, 
+      like the cartwheel kick and palm thrust, and other quick moves such as her standing 
+      uppercut that can launch you easily.  She does good damage, and should not be taken 
+      lightly.  
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative
+
+Do:	- Low dodge the sweeps
+	- Duck the White Heron
+	- Buffer Chickens
+	- Sidestep
+
+Do Not: 
+	- Give reprisal opportunity while in Rain Dance
+	- Let her run you with strings
+	- Use the Phoenix Position too often
+
+======
+Kazuya - Ow! Ow! OOOOWWW!  Is about what you'll say if you give him a chance.  He's fast, 
+	 does nasty damage, and generally murders a careless opponent.  He also tends to 
+	 turtle, which is probably the hardest thing against Ling.
+
+Strategy: Teasing the Teacher (with caution!)
+
+Do:	- Use the Phoenix Wings whenever possible on a guarding Kazuya, it gives you the 
+	  appearance of attacking later than you do, often getting a counter.
+	- Use the Phoenix Position
+	- Throw
+
+Do Not: - Get hit by counter on anything
+	- Let him hit you
+
+====
+King - 	King does nasty damage, really nasty.  On the bright side, though, he is pretty 
+	slow.  Usually if you can keep him on the defensive, he's not a problem.  Be sure 
+	to regain the offensive as quickly as possible.
+
+Strategy: Teasing the Teacher
+
+Do:	- Use the Storming Palm
+	- Use the Sunrise Fan
+
+Do Not:	- Let him run you with Okizeme
+	- Let him throw you
+
+=========
+Kunimitsu - I have seen the pain that Kunimitsu can dish out, and it ain't pretty.  Her 
+	    style is actually very, very similar to Ling (so you'd think I'd be able to 
+	    play her better).  The best thing you have to do is play a good back and 
+	    forth game, and watch for her certain key moves.  Be VERY careful about 
+	    being overly offensive.
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative, Teasing the Teacher
+
+Do:	- Watch for the d+3+4 overhead flip kick
+	- Watch for the FC d,df+4 sweep kick
+	- Watch for the SS 3+4 sweep kick
+	- Watch for the b+2 unblockable
+	- Watch for the Back Turned flip
+
+Do Not: - Get hit by the above mentioned moves
+
+===
+Law - Law can be really, really annoying sometimes.  His combos are long and damaging, 
+      and he has the annoying d+2,4 starter.
+
+Strategy: Maiden's Perogative, Teasing the Teacher
+
+Do:	- Watch the d+2,4 starter
+	- Use the Sunrise Fan after a missed flipkick
+
+Do Not:	- Get juggled by successive flipkicks
+
+===
+Lee - I watch Lee players VERY carefully.  It seems like his arsenal is made 
+      specifically to thwart Ling.  
+
+Strategy: Maiden's Perogative, Teasing the Teacher
+
+Do:	- Parry, and low parry everything you can in a string.
+	- Block when you should
+
+Do Not: - Get hit by the first hit of his Infitity Kicks (Low Parry the 3rd kick!)
+
+===
+Lei - Annoying!  Not fun to play against.  Annoying ground stuff.  Low move that 
+     is WAY too strong.  Good Okizeme.
+
+Strategy: Maiden's Perogative, Teasing the Teacher
+
+Do:	- Use caution in Okizeme against him
+	- Learn to predict his ground changeups (especially the two-footed kick)
+
+Do Not: - Eat the back turned sweep-o-cheeze
+
+====
+Ling - Ling vs. Ling fights are always fun, and I personally have a lot of fun with 
+       them (feels like I'm protecting her honor).  The best way to beat Ling is to 
+       KNOW Ling.  You will often get into back-turned fights, and these are the 
+       key to winning against her.
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative, Teasing the Teacher
+
+Do:	- Be confusing as hell
+	- Sidestep (this is a MUST)
+	- Get into the Rain Dance
+	- Use overpowering moves against the opponent (Sunrise Fan, Phoenix Wings)
+
+Do Not: - Go into the Phoenix Position when the opponent is in Rain Dance.
+
+========
+Michelle - Michelle, while not as dangerous as Julia, has a few things to watch out 
+	   for.
+
+Do: 	- Use pokes (ONLY) quickly after hers (Bayonette or Standing Kick are great)
+	- Use the Phoenix Position
+	- Keep her guessing
+	- Sidestep, a lot
+	- Throw
+
+Do Not:	- Use slow moves against her
+	- Duck
+	- Do anything but block after her sidestep moves
+	- Get hit by her upward-double-kick-into-tag-juggle
+
+=======
+Mokujin - Duh!  Figure out who he's mimicing, and go from there.
+
+====
+Nina - Nina is just as much of a pain as Anna, in my opinion, but not quite as dangerous 
+       anymore.  
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative
+
+Do:	- Launch Nina whenever possible, keep her on the ground
+	- Sidestep
+	- Parry her strings.
+	- Chicken
+
+Do Not: - Poke her to death
+	- Let her run poking strings on you.  Interupt her any way you can.
+	- Let her throw you
+
+====
+Ogre - Nasty if he gets going, but not too much of a problem.  Hop kick, 
+	Infinity kicks, lots of damage, doesn't track well.  Has few low moves 
+	worth anything.
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative, Teasing the Teacher, 
+	  Wrath of the Schoolgirl
+
+Do:	- Keep him busy
+	- Use confusion
+	- Use the Phoenix Position
+
+Do Not: - Let him hit you
+	- Use the Mistrust too often, doesn't juggle well
+
+====
+Paul - Pro: Phoenix Smasher, Falling Leaf.  Con: Low recovery, Slow.
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative
+
+Do:	- Capitalize on his recovery time
+	- Use the Storming Palm
+	- Use the Phoenix Wings
+
+Do Not:	- Get hit by the Phoenix Smasher or Falling Leaf
+
+=======
+P. Jack - Different, but uses a strategy similar enough to the other Jacks not to matter.
+		See: Gun Jack
+
+=======
+T. Ogre - OWWWWwwwwwwww...!  Talk about major damage.  I'd rather be hit by the Phoenix 
+	  Smasher than take one of T. Ogre's combos (and subsequent 50-80 damage Okizeme).
+	  He is quite possibly the most under-rated character in the game, and one of the 
+	  most dangerous by far.
+
+Strategy: Teasing the Teacher, Wrath of the Schoolgirl
+
+Do:	- Be REALLY, REALLY careful about being Juggled
+	- Capitalize on his lack of speed, and block if you let up on the attack
+	- Watch the low moves
+	- Be VERY, VERY, VERY careful about getting up off the ground
+	- Use the Storming Palm
+	- Use the Phoenix Wings (As Okizeme as well)
+	- Use the Sunrise Fan (As Okizeme as well)
+
+Do Not: - Get knocked down anymore than you have to
+	- Tag in predictably
+	- Get up predictably
+
+=======
+Unknown - Same as Mokujin, but this guy (girl?) is not really a problem in the arcade.
+
+====
+Wang - Ling's Master; nasty old fart, but slowed down by years and years and years...
+
+Strategy: Schoolgirl's Temprament, Maiden's Perogative
+
+Do: 	- Take advantage of his lack of speed
+	- Use the Storming Palm
+	- Sidestep
+	- Chicken your moves
+
+Do Not: - Duck, most of Wang's nasty moves are Mid
+	- Attack when you both have large attack time (Wang's moves can hurt a LOT)
+
+==========
+Yoshimitsu - Yoshi is the master of the 'what move is he gonna do next?' style of 
+	     gameplay.  He has nasty combinations resulting from odd minor stuns, 
+	     floats, and unblockables.  He is agile and has a large repitoire of 
+	     moves.
+
+Strategy: Maiden's Perogative
+
+Do:	- Anticipate; there are combinations that Yoshi does a lot, see if you can 
+	              guess them.
+	- Watch the quick low sweep
+	- Use the Bayonette and throws as a reprisal
+
+Do Not: - Fall into timing traps.  Often you'll see an opportunity to attack that's 
+	  	really a trick.
+	- Fall repeatedly for low moves
+	- Be overly offensive
+
+************
+THANKS GO TO
+************
+
+God, so many people here.
+
+Ling's Practice Dummies:
+
+Lin -  Who taught me rudimentary Ling style, and allowed me to get out of 
+	my scrub phase.  (Yes, I was a Ling scrub!)
+
+Alan Larson - Friend, Compatriot, Tekken Freak the same as I.  
+		Thanks for taking all the beatings you did over the years
+		from my annoying little schoolgirl.
+
+Jake Raines - Also Friend, chum, Tekken Freak as well.
+		Thanks for beating my ass occasionally in a 12-15 win 
+		streak just to show me my place.  Had you not, my Ling
+		wouldn't have improved beyond the intermediate stage.
+
+Takuma - Sorry I can't remember your last name, dude, but you've never told 
+	 me!  Ah, wasting our time away daily at Playland Go! in Akita against 
+	 your True Ogre/Kuma team that made my Ling advance to the final level.
+	 It took me nearly 2 weeks to be able to play against you and win at all!
+	 Second Note: Since you've changed to Mishima ultra-offense style, I've 
+	 learned a bunch about why people use them, and why I should be using 
+	 Julia instead of Jun as Ling's partner.
+
+Enoki - Your Mokujin/Lei team taught me more about tag sliding, head diving 
+	than anything.  May we continue playing at Taito until I leave for home.  
+
+Eiko - You are a turtle, and you have the hardest style to play against that I've 
+       ever seen.  Your style forced me to use different moves, and discover 
+       strengths and weaknesses in Ling's.  Thanks for keeping my ego in check.
+
+Everyone at Say Taito, Akita; Playland Do!, Akita; and Pop's Arcade, Minneapols - 
+	Who provided the the rounding for my style, and improving my Tekken 
+	abilities in general.  While I spent my year in Japan and everything else 
+	in my life turned upside-down, Tekken remained constant, because I always 
+	had good friends to play with.  I'll remember our friendship and miss you 
+	all.
+
+People on the Web:
+
+(jkkim@nwu.edu) - Creater of the original FAQ from which I formulated this one.  
+		  Although the move list is completely rewritten, some of the 
+		  original wording remains here and there.  
+	
+Tekken Zaibatsu (http://www.tekken.net) - 
+	Without who's help, I would have been lost for knowlage about Tekken's 
+	intricate system.  Thanks to them, I finally understand why little Ling 
+	can do so much damage with her little hand on clean hit/counter.  
+
+
+***
+For people who want to know why I think Ling is Left Handed, and why it's an 
+advantage:
+	- Her Storming Palm, 'nuff said.
+		It's done with d/b+1, which is her left hand.  NO ONE would do 
+	a move that strong with thier off hand, and if they could, I'd be a 
+	little bit worried about Ling's right.  
+
+	As far as being an advnatage goes, I honestly don't know.  I'm sure it 
+plays a role somewhere.  Perhaps she gets strength during the fight from the 
+anger caused by lack of a pair of workable scisors when she last trimmed Panda 
+(or perhaps from the sparing practice that occured afterwards, when Panda didn't 
+like her new 'do.).
+	Other Evidance:
+		Wang's left hand reversal cannot be chickened.  Perhaps he got 
+sick of being beaten by a little girl with such a strong left hand and then 
+became proficient at countering it?
+
+
+Note: in Tekken Bowl on the PS2 version of Tekken Tag, Ling bowls RIGHT-handed...
+	this may debunk my theory, but I'm not sure.  If she really is right-
+	handed, she's awful ambidextrious for my tastes.  
+
+
